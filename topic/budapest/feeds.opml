@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>budapest feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Altmode" title="Altmode" xmlUrl="https://altmode.org/feed/" htmlUrl="https://altmode.org"/>
+    <outline type="rss" text="Enfilade – new in the catalogue" title="Enfilade – new in the catalogue" xmlUrl="https://enfilade.guide/en/feed.atom" htmlUrl="https://enfilade.guide/en"/>
+    <outline type="rss" text="Attila Suszter" title="Attila Suszter" xmlUrl="https://suszter.com/atom" htmlUrl="https://suszter.com/"/>
+  </body>
+</opml>

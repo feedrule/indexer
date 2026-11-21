@@ -1,0 +1,19 @@
+{
+  "url": "https://hack8s.com/feed",
+  "title": "H[ack]-∞S",
+  "subtitle": "hack8s.com",
+  "bytes": 407224,
+  "last": "2026-08-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "zig",
+    "golang",
+    "software-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

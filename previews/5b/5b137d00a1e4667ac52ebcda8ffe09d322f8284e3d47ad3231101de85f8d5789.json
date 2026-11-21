@@ -1,0 +1,19 @@
+{
+  "url": "https://headshed.dev/rss.xml",
+  "title": "headshed.dev",
+  "subtitle": "Welcome to my website!",
+  "bytes": 10221,
+  "last": "2026-11-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-infrastructure",
+    "kubernetes",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

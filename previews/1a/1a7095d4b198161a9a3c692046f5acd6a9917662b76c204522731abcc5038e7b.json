@@ -1,0 +1,21 @@
+{
+  "url": "https://philz.blog/rss/",
+  "title": "Phil's Blog",
+  "subtitle": "Hi, I'm Phil Zakharchenko. This is my personal blog with thoughts and ideas around application development on Apple platforms, macOS user interface, Swift, AppKit, SwiftUI, and technology in general.",
+  "bytes": 228052,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swiftui",
+    "swift",
+    "appkit",
+    "xcode",
+    "ui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

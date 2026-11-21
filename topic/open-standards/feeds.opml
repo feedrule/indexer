@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>open-standards feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Jamesernet" title="Jamesernet" xmlUrl="https://jamesernet.com/feed.xml" htmlUrl="https://jamesernet.com/"/>
+    <outline type="rss" text="Meshed Insights Ltd" title="Meshed Insights Ltd" xmlUrl="https://meshedinsights.com/feed/" htmlUrl="https://meshedinsights.com"/>
+    <outline type="rss" text="Open+ML: Updates from the field" title="Open+ML: Updates from the field" xmlUrl="https://openml.fyi/rss/" htmlUrl="https://openml.fyi/"/>
+  </body>
+</opml>

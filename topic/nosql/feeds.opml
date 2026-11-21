@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nosql feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Max De Marzi" title="Max De Marzi" xmlUrl="https://maxdemarzi.com/feed/" htmlUrl="https://maxdemarzi.com"/>
+    <outline type="rss" text="nuqs" title="nuqs" xmlUrl="https://nuqs.dev/blog/rss.xml" htmlUrl="https://nuqs.dev/blog"/>
+    <outline type="rss" text="Ohler Online" title="Ohler Online" xmlUrl="https://ohler.com/rss.xml" htmlUrl="http://www.ohler.com/"/>
+    <outline type="rss" text="TIL" title="TIL" xmlUrl="https://ryanguill.com/feed.xml" htmlUrl="https://ryanguill.com/"/>
+  </body>
+</opml>

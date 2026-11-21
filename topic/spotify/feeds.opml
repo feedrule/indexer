@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>spotify feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Backend Cafe" title="Backend Cafe" xmlUrl="https://backend.cafe/rss.xml" htmlUrl="https://backend.cafe"/>
+    <outline type="rss" text="bogdan raczynski" title="bogdan raczynski" xmlUrl="https://bogdanraczynski.com/rss/" htmlUrl="https://bogdanraczynski.com"/>
+    <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="https://engineering.atspotify.com/feed/" htmlUrl="https://engineering.atspotify.com/"/>
+    <outline type="rss" text="Passive Promotion" title="Passive Promotion" xmlUrl="https://passivepromotion.com/feed/" htmlUrl="https://passivepromotion.com"/>
+    <outline type="rss" text="Thoughts and things" title="Thoughts and things" xmlUrl="https://thoughts-and-things.ghost.io/rss/" htmlUrl="https://thoughts-and-things.ghost.io/"/>
+  </body>
+</opml>

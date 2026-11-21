@@ -1,0 +1,19 @@
+{
+  "url": "https://pankajtw.github.io/feed",
+  "title": "The DataNinja",
+  "subtitle": "Deep dives into database technologies like MySQL, GTID replication, high availability, and disaster recovery. Also covering OLAP solutions like Snowflake, distributed systems, Kafka-based event-driven",
+  "bytes": 68126,
+  "last": "2026-02-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mysql",
+    "database",
+    "replication"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

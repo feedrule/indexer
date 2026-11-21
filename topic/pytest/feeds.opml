@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pytest feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Python posts by Audrey M. Roy Greenfeld" title="Python posts by Audrey M. Roy Greenfeld" xmlUrl="https://audrey.feldroy.com/feeds/python.atom.xml" htmlUrl="https://audrey.feldroy.com"/>
+    <outline type="rss" text="Borutzki" title="Borutzki" xmlUrl="https://borutzki.github.io/feed" htmlUrl="https://borutzki.github.io/"/>
+    <outline type="rss" text="CF Bolz-Tereick's Web Page" title="CF Bolz-Tereick's Web Page" xmlUrl="https://cfbolz.de/rss.xml" htmlUrl="https://cfbolz.de/"/>
+    <outline type="rss" text="PythonTest" title="PythonTest" xmlUrl="https://pythontest.com/index.xml" htmlUrl="https://pythontest.com/"/>
+    <outline type="rss" text="Rida Ayed" title="Rida Ayed" xmlUrl="https://ridaayed.com/index.xml" htmlUrl="https://ridaayed.com/"/>
+  </body>
+</opml>

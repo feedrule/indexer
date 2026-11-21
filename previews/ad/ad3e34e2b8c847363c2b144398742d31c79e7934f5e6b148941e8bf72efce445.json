@@ -1,0 +1,20 @@
+{
+  "url": "https://somuch.guru/feed/",
+  "title": "So much guru!",
+  "subtitle": "FPGAs, electronics, programming & retrocomputing",
+  "bytes": 16016,
+  "last": "2026-09-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fpga",
+    "hardware",
+    "programming",
+    "soc"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://tales.fromprod.com/feed.xml",
+  "title": "Tales from Prod",
+  "subtitle": "Welcome to Richard Finlay Tweed's thoughts on Cloud Native Software, Kubernetes, Production and whatever else he's been tinkering with.",
+  "bytes": 102525,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud-native"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

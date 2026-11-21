@@ -1,0 +1,18 @@
+{
+  "url": "https://spreen.co/rss.xml",
+  "title": "Nick's Blog",
+  "subtitle": "Nick Spreen",
+  "bytes": 5229,
+  "last": "2026-05-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws",
+    "dynamodb"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

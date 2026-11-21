@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>signage feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Manual of Traffic Signs – News" title="Manual of Traffic Signs – News" xmlUrl="http://www.trafficsign.us/news/feed/" htmlUrl="http://www.trafficsign.us/news"/>
+    <outline type="rss" text="American Dirt." title="American Dirt." xmlUrl="https://dirtamericana.com/feed" htmlUrl="https://dirtamericana.com/"/>
+    <outline type="rss" text="tracks and traces" title="tracks and traces" xmlUrl="https://exclav.es/index.xml" htmlUrl="https://exclav.es/"/>
+    <outline type="rss" text="India Street Lettering" title="India Street Lettering" xmlUrl="https://indiastreetlettering.com/feed/" htmlUrl="https://indiastreetlettering.com/"/>
+    <outline type="rss" text="San Francisco Ghost Sign Mapping Project" title="San Francisco Ghost Sign Mapping Project" xmlUrl="https://sfghostsigns.com/blog?format=rss" htmlUrl="https://sfghostsigns.com/blog/"/>
+    <outline type="rss" text="The Beauty of Transport" title="The Beauty of Transport" xmlUrl="https://thebeautyoftransport.com/feed/" htmlUrl="https://thebeautyoftransport.com"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://secret.club/feed.xml",
+  "title": "secret club",
+  "subtitle": "Blog about reverse-engineering, hacking and breaking your software in every way imaginable.",
+  "bytes": 3995410,
+  "last": "2026-05-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "reverse-engineering",
+    "obfuscation",
+    "fuzzing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

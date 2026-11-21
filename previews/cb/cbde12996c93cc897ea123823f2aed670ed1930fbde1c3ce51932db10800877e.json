@@ -1,0 +1,17 @@
+{
+  "url": "https://knownote.pages.dev/rss.xml",
+  "title": "KnowNote — how it is built",
+  "subtitle": "Notes on the mechanism behind KnowNote: where citation offsets come from, why the embedder runs in-process, and what a desktop app costs to ship.",
+  "bytes": 2295,
+  "last": "2026-09-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "citations"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://blog-konecny.xyz/rss.xml",
+  "title": "Konecny Blog",
+  "subtitle": "John Konecny's blog!",
+  "bytes": 7190,
+  "last": "2026-10-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "software-architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

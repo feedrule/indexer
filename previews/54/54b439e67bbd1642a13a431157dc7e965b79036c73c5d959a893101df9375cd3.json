@@ -1,0 +1,18 @@
+{
+  "url": "https://developer.chrome.com/static/blog/feed.xml",
+  "title": "developer.chrome.com: Blog",
+  "subtitle": "All of developer.chrome.com articles.",
+  "bytes": 5602,
+  "last": "2026-10-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "chrome",
+    "chrome-extension"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

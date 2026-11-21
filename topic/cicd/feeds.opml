@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cicd feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="annaken" title="annaken" xmlUrl="https://annaken.github.io/feed.xml" htmlUrl="http://annaken.github.io/"/>
+    <outline type="rss" text="From The Keyboard" title="From The Keyboard" xmlUrl="https://fromthekeyboard.com/feed" htmlUrl="https://fromthekeyboard.com/"/>
+    <outline type="rss" text="greptips" title="greptips" xmlUrl="https://greptips.hashnode.dev/rss.xml" htmlUrl="https://greptips.hashnode.dev"/>
+    <outline type="rss" text="LetsBuild.cloud" title="LetsBuild.cloud" xmlUrl="https://letsbuild.cloud/feed.xml" htmlUrl="https://letsbuild.cloud/"/>
+    <outline type="rss" text="Piotr's TechBlog" title="Piotr's TechBlog" xmlUrl="https://piotrminkowski.com/feed/atom/" htmlUrl="https://piotrminkowski.com/"/>
+    <outline type="rss" text="Coffee on the Keyboard" title="Coffee on the Keyboard" xmlUrl="https://www.coffeeonthekeyboard.com/rss/" htmlUrl="https://www.coffeeonthekeyboard.com/"/>
+    <outline type="rss" text="Jan-Philip Loos | maxdaten.io" title="Jan-Philip Loos | maxdaten.io" xmlUrl="https://www.maxdaten.io/rss.xml" htmlUrl="https://www.maxdaten.io"/>
+    <outline type="rss" text="The Seeley Coder" title="The Seeley Coder" xmlUrl="https://www.seeleycoder.com/feed/atom/" htmlUrl="https://www.seeleycoder.com/"/>
+    <outline type="rss" text="Kirill Zonov" title="Kirill Zonov" xmlUrl="https://zonov.me/feed.xml" htmlUrl="https://zonov.me/"/>
+  </body>
+</opml>

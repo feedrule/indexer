@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>elm feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Elma" title="Elma" xmlUrl="https://blog.elmo.sg/feed.xml" htmlUrl="https://blog.elmo.sg/"/>
+    <outline type="rss" text="cekrem.github.io" title="cekrem.github.io" xmlUrl="https://cekrem.github.io/index.xml" htmlUrl="https://cekrem.github.io/"/>
+    <outline type="rss" text="jfmengels' blog" title="jfmengels' blog" xmlUrl="https://jfmengels.net/rss.xml" htmlUrl="https://jfmengels.net/"/>
+    <outline type="rss" text="korban.net" title="korban.net" xmlUrl="https://korban.net/atom.xml" htmlUrl="https://korban.net"/>
+    <outline type="rss" text="Wolfgang's Musings" title="Wolfgang's Musings" xmlUrl="https://wolfgangschuster.wordpress.com/feed/" htmlUrl="https://wolfgangschuster.wordpress.com"/>
+    <outline type="rss" text="yoggimix" title="yoggimix" xmlUrl="https://yoggimix.bearblog.dev/feed/" htmlUrl="https://yoggimix.bearblog.dev/"/>
+  </body>
+</opml>

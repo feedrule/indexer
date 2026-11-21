@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>arduino feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="iCircuit" title="iCircuit" xmlUrl="https://icircuit.net/feed" htmlUrl="https://icircuit.net/"/>
+    <outline type="rss" text="Cedar Lake Instruments" title="Cedar Lake Instruments" xmlUrl="https://www.cedarlakeinstruments.com/feed" htmlUrl="https://www.cedarlakeinstruments.com"/>
+    <outline type="rss" text="Dr. Monk's DIY Electronics Blog" title="Dr. Monk's DIY Electronics Blog" xmlUrl="https://www.doctormonk.com/feeds/posts/default" htmlUrl="https://www.doctormonk.com/"/>
+    <outline type="rss" text="Learn on the fly" title="Learn on the fly" xmlUrl="https://www.riyas.org/feeds/posts/default" htmlUrl="http://www.riyas.org/"/>
+  </body>
+</opml>

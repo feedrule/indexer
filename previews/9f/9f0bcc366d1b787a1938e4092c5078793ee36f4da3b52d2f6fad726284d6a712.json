@@ -1,0 +1,19 @@
+{
+  "url": "https://moral.net.au/feeds/all.atom.xml",
+  "title": "Moral Recordings",
+  "subtitle": null,
+  "bytes": 705789,
+  "last": "2026-05-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debugging",
+    "reverse-engineering",
+    "devlog"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

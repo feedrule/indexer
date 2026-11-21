@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>kitty feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="I Can Has Cheezburger?" title="I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" htmlUrl="https://icanhas.cheezburger.com/"/>
+    <outline type="rss" text="ege.celikci.me" title="ege.celikci.me" xmlUrl="https://ege.celikci.me/feed.atom" htmlUrl="https://ege.celikci.me/"/>
+    <outline type="rss" text="The Hatching Cat of Gotham" title="The Hatching Cat of Gotham" xmlUrl="https://hatchingcatnyc.com/feed/" htmlUrl="https://hatchingcatnyc.com/"/>
+    <outline type="rss" text="5 Minutes with Joe" title="5 Minutes with Joe" xmlUrl="https://joewilcox.com/feed/" htmlUrl="https://joewilcox.com"/>
+    <outline type="rss" text="Tee Pee's Corner" title="Tee Pee's Corner" xmlUrl="https://teepeescorner.bearblog.dev/feed/" htmlUrl="https://teepeescorner.bearblog.dev/"/>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+{
+  "url": "https://palant.info/rss.xml",
+  "title": "Almost Secure",
+  "subtitle": "Wladimir Palant's blog",
+  "bytes": 578459,
+  "last": "2026-02-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "application-security"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

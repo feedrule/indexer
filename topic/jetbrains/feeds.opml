@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>jetbrains feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="foo::bar" title="foo::bar" xmlUrl="https://blog.sugoi.be/index.xml" htmlUrl="https://blog.sugoi.be/"/>
+    <outline type="rss" text="JetsonHacks" title="JetsonHacks" xmlUrl="https://jetsonhacks.com/feed/" htmlUrl="https://jetsonhacks.com/"/>
+  </body>
+</opml>

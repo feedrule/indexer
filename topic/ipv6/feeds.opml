@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ipv6 feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Flying Penguin Technologies" title="Flying Penguin Technologies" xmlUrl="https://blog.flyingpenguintech.org/feeds/all.atom.xml" htmlUrl="https://blog.flyingpenguintech.org/"/>
+    <outline type="rss" text="Posts on Alex Haydock" title="Posts on Alex Haydock" xmlUrl="https://blog.infected.systems/posts/index.xml" htmlUrl="https://blog.infected.systems/posts/"/>
+    <outline type="rss" text="Miyuru Tech Blog RSS Feed" title="Miyuru Tech Blog RSS Feed" xmlUrl="https://blog.miyuru.lk/rss.xml" htmlUrl="http://github.com/dylang/node-rss"/>
+    <outline type="rss" text="Wido den Hollander" title="Wido den Hollander" xmlUrl="https://blog.widodh.nl/feed/" htmlUrl="https://wido.blog"/>
+    <outline type="rss" text="The IPv6 agnostic blog" title="The IPv6 agnostic blog" xmlUrl="https://ipv6.hanazo.no/index.xml" htmlUrl="https://ipv6.hanazo.no/"/>
+    <outline type="rss" text="Techlog" title="Techlog" xmlUrl="https://techlog.jenslink.net/index.xml" htmlUrl="https://techlog.jenslink.net/"/>
+    <outline type="rss" text="This Bridge is the Root" title="This Bridge is the Root" xmlUrl="https://thisbridgeistheroot.com/blog?format=rss" htmlUrl="https://thisbridgeistheroot.com/"/>
+    <outline type="rss" text="Why No IPv6 Blog" title="Why No IPv6 Blog" xmlUrl="https://whynoipv6.com/blog/rss.xml" htmlUrl="https://whynoipv6.com/blog"/>
+    <outline type="rss" text="Anim Mouse" title="Anim Mouse" xmlUrl="https://www.animmouse.com/index.xml" htmlUrl="https://www.animmouse.com/"/>
+    <outline type="rss" text="Daryll Swer" title="Daryll Swer" xmlUrl="https://www.daryllswer.com/feed/" htmlUrl="https://www.daryllswer.com/"/>
+  </body>
+</opml>

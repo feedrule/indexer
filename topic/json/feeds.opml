@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>json feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="json-everything" title="json-everything" xmlUrl="https://blog.json-everything.net/feed.xml" htmlUrl="https://blog.json-everything.net/"/>
+    <outline type="rss" text="Brazil's Blog" title="Brazil's Blog" xmlUrl="https://blog.kellybrazil.com/feed/" htmlUrl="https://blog.kellybrazil.com/"/>
+    <outline type="rss" text="Return Zero" title="Return Zero" xmlUrl="https://returnzero.win/feed/" htmlUrl="https://returnzero.win"/>
+    <outline type="rss" text="SODEVE" title="SODEVE" xmlUrl="https://sodeve.net/feed/" htmlUrl="https://sodeve.net"/>
+  </body>
+</opml>

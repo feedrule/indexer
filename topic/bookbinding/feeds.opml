@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bookbinding feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bookbinding" title="Bookbinding" xmlUrl="https://bookbinding.bearblog.dev/feed/" htmlUrl="https://books.josephabell.co.uk/"/>
+    <outline type="rss" text="Byopia Press" title="Byopia Press" xmlUrl="https://byopiapress.wordpress.com/feed/" htmlUrl="https://byopiapress.wordpress.com"/>
+    <outline type="rss" text="Varun Barad - Curious Developer" title="Varun Barad - Curious Developer" xmlUrl="https://varunbarad.com/feed.xml" htmlUrl="https://varunbarad.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+{
+  "url": "https://nixfox.ca/rss.xml",
+  "title": "The NixFox Den",
+  "subtitle": "All nixfox blogs in one place",
+  "bytes": 66727,
+  "last": "2026-03-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>personal-essay feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="brennan.day" title="brennan.day" xmlUrl="https://brennan.day/feed.xml" htmlUrl="https://brennan.day"/>
+    <outline type="rss" text="Jeffrey Pillow" title="Jeffrey Pillow" xmlUrl="https://jeffreypillow.com/feed/atom/" htmlUrl="https://jeffreypillow.com"/>
+    <outline type="rss" text="Sean P Carlin" title="Sean P Carlin" xmlUrl="https://www.seanpcarlin.com/feed/" htmlUrl="https://www.seanpcarlin.com/"/>
+  </body>
+</opml>

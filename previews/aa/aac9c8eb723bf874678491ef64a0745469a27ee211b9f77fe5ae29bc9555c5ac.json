@@ -1,0 +1,20 @@
+{
+  "url": "https://nateware.com/feed",
+  "title": "Nate Wiger",
+  "subtitle": "How many beers until the bugs are fixed?",
+  "bytes": 66657,
+  "last": "2026-04-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "analytics",
+    "ruby",
+    "redis",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://rosesecurity.dev/feed.xml",
+  "title": "rosesecurity@dev",
+  "subtitle": "I help teams build resilient systems in the cloud. Day-to-day I'm in the Terraform and Go trenches, maintaining Infrastructure-as-Code, authoring cybersecurity tools, and contributing to MITRE, OWASP,",
+  "bytes": 233380,
+  "last": "2026-10-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "terraform",
+    "devops",
+    "infrastructure",
+    "security",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

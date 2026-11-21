@@ -1,0 +1,17 @@
+{
+  "url": "https://www.nodejs-security.com/rss.xml",
+  "title": "NodeJS Security & NodeJS Secure Coding's Blog",
+  "subtitle": "Hands-on Node.js security books: learn to find, exploit, and fix command injection, path traversal, and code injection in real-world vulnerable npm packages.",
+  "bytes": 55097,
+  "last": "2026-05-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vulnerability"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://mozex.dev/blog/feed",
+  "title": "Mozex Labs Blog",
+  "subtitle": "Articles about Laravel, PHP, and web development by Mozex.",
+  "bytes": 34166,
+  "last": "2026-10-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel",
+    "php"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

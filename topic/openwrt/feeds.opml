@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>openwrt feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Albert" title="Albert" xmlUrl="http://albert-david.blogspot.com/atom.xml" htmlUrl="http://albert-david.blogspot.com/"/>
+    <outline type="rss" text="aparcar" title="aparcar" xmlUrl="https://aparcar.org/index.xml" htmlUrl="https://aparcar.org/"/>
+    <outline type="rss" text="ukl's blog" title="ukl's blog" xmlUrl="https://blog.kleine-koenig.org/ukl/feeds/all.atom.xml" htmlUrl="https://blog.kleine-koenig.org/ukl/"/>
+    <outline type="rss" text="catskull.net" title="catskull.net" xmlUrl="https://catskull.net/feed.xml" htmlUrl="https://catskull.net/"/>
+    <outline type="rss" text="Dariusz Więckiewicz 🇬🇧" title="Dariusz Więckiewicz 🇬🇧" xmlUrl="https://dariusz.wieckiewicz.org/en/index.xml" htmlUrl="https://dariusz.wieckiewicz.org/en/"/>
+    <outline type="rss" text="LTe - Today I Learned" title="LTe - Today I Learned" xmlUrl="https://til.pbuttergirl.com/index.xml" htmlUrl="https://til.pbuttergirl.com/"/>
+    <outline type="rss" text="Run to the Hills" title="Run to the Hills" xmlUrl="https://wwahammy.com/rss/" htmlUrl="https://wwahammy.com/"/>
+    <outline type="rss" text='printf(" SaltwaterC ");' title='printf(" SaltwaterC ");' xmlUrl="https://www.saltwaterc.eu/feed" htmlUrl="https://www.saltwaterc.eu"/>
+  </body>
+</opml>

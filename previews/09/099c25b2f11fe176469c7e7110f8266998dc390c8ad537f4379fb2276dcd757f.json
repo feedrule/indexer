@@ -1,0 +1,19 @@
+{
+  "url": "https://pierrezemb.fr/atom.xml",
+  "title": "Pierre Zemb's Blog",
+  "subtitle": "Distributed systems, FoundationDB, Rust, and simulation testing, written from production experience.",
+  "bytes": 573080,
+  "last": "2026-10-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "testing",
+    "software-engineering",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

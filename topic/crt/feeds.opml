@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>crt feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Thinking inside the box" title="Thinking inside the box" xmlUrl="https://dirk.eddelbuettel.com/blog/index.rss" htmlUrl="http://dirk.eddelbuettel.com/blog"/>
+    <outline type="rss" text="R Works" title="R Works" xmlUrl="https://rworks.dev/index.xml" htmlUrl="https://rworks.dev/"/>
+    <outline type="rss" text="RealCrozetVA" title="RealCrozetVA" xmlUrl="https://www.realcrozetva.com/feed/atom/" htmlUrl="https://www.realcrozetva.com/"/>
+  </body>
+</opml>

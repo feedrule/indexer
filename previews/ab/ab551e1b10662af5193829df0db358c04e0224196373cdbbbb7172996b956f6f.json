@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.iodev.org/rss.xml",
+  "title": "/dev/io",
+  "subtitle": "Yak shaving, documented.",
+  "bytes": 1118695,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "iot",
+    "monitoring",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://gabdevele.dev/rss.xml",
+  "title": "gabdevele",
+  "subtitle": "Cybersecurity writeups, CTF notes, and vulnerability research by gabdevele.",
+  "bytes": 2828,
+  "last": "2026-09-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vulnerability",
+    "vulnerability-research",
+    "security",
+    "cve"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

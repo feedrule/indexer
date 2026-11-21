@@ -1,0 +1,18 @@
+{
+  "url": "https://joshcole.dev/feed.xml",
+  "title": "joshcole.dev",
+  "subtitle": "A collection of nerdy blog posts and developer updates from Josh Cole on topics ranging from floppy drives to rust kernels!",
+  "bytes": 11660,
+  "last": "2025-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust",
+    "embedded-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

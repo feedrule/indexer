@@ -1,0 +1,17 @@
+{
+  "url": "https://theyhack.me/feed",
+  "title": "theyhack.me",
+  "subtitle": "infosec, hacking, writeups, etc...",
+  "bytes": 155332,
+  "last": "2026-02-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cve"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

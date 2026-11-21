@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.fredalix.com/rss.xml",
+  "title": "Frederic Alix's Blog",
+  "subtitle": "A desire to share",
+  "bytes": 5278,
+  "last": "2026-10-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud",
+    "cloud-run",
+    "google-cloud"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

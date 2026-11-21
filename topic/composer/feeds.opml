@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>composer feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="blogcirclet" title="blogcirclet" xmlUrl="https://blog.soundcirclet.net/atom/" htmlUrl="https://blog.soundcirclet.net/"/>
+    <outline type="rss" text="Florian Egermann" title="Florian Egermann" xmlUrl="https://fleg.de/feed" htmlUrl="https://fleg.de"/>
+    <outline type="rss" text="Solveig Sørbø" title="Solveig Sørbø" xmlUrl="https://solveigsorbo.com/feed/" htmlUrl="https://solveigsorbo.com"/>
+    <outline type="rss" text="The Piano Files" title="The Piano Files" xmlUrl="https://www.thepianofiles.com/feed/" htmlUrl="https://www.thepianofiles.com"/>
+  </body>
+</opml>

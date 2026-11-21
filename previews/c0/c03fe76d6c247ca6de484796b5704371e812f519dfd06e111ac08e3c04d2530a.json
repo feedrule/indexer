@@ -1,0 +1,17 @@
+{
+  "url": "http://techsnuffle.com/feed.xml",
+  "title": "TechSnuffle",
+  "subtitle": "A blog with lisp and livecoding ..Also other stuff",
+  "bytes": 42700,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devlog"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

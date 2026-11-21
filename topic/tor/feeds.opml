@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tor feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Tor Project blog" title="Tor Project blog" xmlUrl="https://blog.torproject.org/rss.xml" htmlUrl="https://blog.torproject.org/"/>
+    <outline type="rss" text="Home on Br🤖ken B🤖tnet" title="Home on Br🤖ken B🤖tnet" xmlUrl="https://brokenbotnet.com/index.xml" htmlUrl="https://brokenbotnet.com/"/>
+    <outline type="rss" text="Dan Ballard" title="Dan Ballard" xmlUrl="https://danballard.com/feed.xml" htmlUrl="https://danballard.com/"/>
+    <outline type="rss" text="Jordan Wright" title="Jordan Wright" xmlUrl="https://jordan-wright.com/blog/index.xml" htmlUrl="https://jordan-wright.com/blog/"/>
+    <outline type="rss" text="Metalhearf's Blog" title="Metalhearf's Blog" xmlUrl="https://metalhearf.fr/index.xml" htmlUrl="https://metalhearf.fr/"/>
+    <outline type="rss" text="Philipp Winter" title="Philipp Winter" xmlUrl="https://nymity.ch/index.xml" htmlUrl="https://nymity.ch/"/>
+    <outline type="rss" text="YGOOW - Blog" title="YGOOW - Blog" xmlUrl="https://ygoow.com/blog/rss/" htmlUrl="https://ygoow.com/blog/"/>
+  </body>
+</opml>

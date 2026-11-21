@@ -1,0 +1,19 @@
+{
+  "url": "https://testy.cool/api/rss.xml",
+  "title": "testy.cool",
+  "subtitle": "Notes on LLMs, agents, automation and development.",
+  "bytes": 10247,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents",
+    "ai-agents",
+    "tools"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

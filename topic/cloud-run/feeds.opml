@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cloud-run feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Frederic Alix's Blog" title="Frederic Alix's Blog" xmlUrl="https://blog.fredalix.com/rss.xml" htmlUrl="https://blog.fredalix.com/"/>
+    <outline type="rss" text="Steren's labs" title="Steren's labs" xmlUrl="https://labs.steren.fr/atom.xml" htmlUrl="https://labs.steren.fr/"/>
+    <outline type="rss" text="Sandeep Gopal" title="Sandeep Gopal" xmlUrl="https://spgl.in/blog/feed.atom" htmlUrl="https://spgl.in Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Volumes/sandeep_ssd/software/systemsblog/vendor/illuminate/support/helpers.php on line 262"/>
+    <outline type="rss" text="Wietse Venema" title="Wietse Venema" xmlUrl="https://wietsevenema.eu/rss.xml" htmlUrl="https://wietsevenema.eu"/>
+    <outline type="rss" text="CloudACM" title="CloudACM" xmlUrl="https://www.cloudacm.com/?feed=rss2" htmlUrl="https://www.cloudacm.com"/>
+    <outline type="rss" text="Ken Cochrane" title="Ken Cochrane" xmlUrl="https://www.kencochrane.com/index.xml" htmlUrl="https://www.kencochrane.com/"/>
+    <outline type="rss" text="Peter Wiggers" title="Peter Wiggers" xmlUrl="https://www.p10s.cloud/rss.xml" htmlUrl="https://p10s.cloud/"/>
+  </body>
+</opml>

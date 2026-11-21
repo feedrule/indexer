@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tcp feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Goodness Duru" title="Goodness Duru" xmlUrl="http://goodyduru.com/index.xml" htmlUrl="http://goodyduru.com/"/>
+    <outline type="rss" text="/dk/tohojo/blog" title="/dk/tohojo/blog" xmlUrl="https://blog.tohojo.dk/index.xml" htmlUrl="https://blog.tohojo.dk/"/>
+    <outline type="rss" text="Denys Haryachyy" title="Denys Haryachyy" xmlUrl="https://haryachyy.wordpress.com/feed/" htmlUrl="https://haryachyy.wordpress.com"/>
+    <outline type="rss" text="Tigran Kostandyan" title="Tigran Kostandyan" xmlUrl="https://kostandyan.xyz/index.xml" htmlUrl="https://kostandyan.xyz/"/>
+    <outline type="rss" text="Max Inden" title="Max Inden" xmlUrl="https://max-inden.de/index.xml" htmlUrl="https://max-inden.de/"/>
+  </body>
+</opml>

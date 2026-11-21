@@ -1,0 +1,19 @@
+{
+  "url": "https://kevinsimper.dk/api/rss.xml",
+  "title": "Kevin Simper's Blog",
+  "subtitle": "Blog posts about programming, AI, cloud computing, and technology",
+  "bytes": 67973,
+  "last": "2026-01-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "programming",
+    "gemini"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

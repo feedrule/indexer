@@ -1,0 +1,17 @@
+{
+  "url": "https://blog.phronemophobic.com/rss.xml",
+  "title": "Phronemophobic's Blog",
+  "subtitle": "A programming blog mostly about doing fun things with Clojure.",
+  "bytes": 3379,
+  "last": "2025-12-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojurescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

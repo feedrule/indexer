@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>introspection feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Matt Edgar writes here" title="Matt Edgar writes here" xmlUrl="https://blog.mattedgar.com/feed/" htmlUrl="https://blog.mattedgar.com"/>
+    <outline type="rss" text="Extraneous Thoughts" title="Extraneous Thoughts" xmlUrl="https://ext.fyi/feed/" htmlUrl="https://ext.fyi/"/>
+    <outline type="rss" text="Andy Dehnart" title="Andy Dehnart" xmlUrl="https://www.andydehnart.com/feed/" htmlUrl="https://www.andydehnart.com"/>
+    <outline type="rss" text="Nir and Far" title="Nir and Far" xmlUrl="https://www.nirandfar.com/feed/atom/" htmlUrl="https://www.nirandfar.com/"/>
+  </body>
+</opml>

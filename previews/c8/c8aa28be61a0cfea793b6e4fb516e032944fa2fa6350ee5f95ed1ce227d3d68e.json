@@ -1,0 +1,18 @@
+{
+  "url": "http://sergey-melnychuk.github.io/feed.xml",
+  "title": "$ cat /dev/blog",
+  "subtitle": "Personal blog about software engineer and development mostly in Rust & Java.",
+  "bytes": 570502,
+  "last": "2026-09-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ethereum",
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

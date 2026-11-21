@@ -1,0 +1,19 @@
+{
+  "url": "https://codingkata.tardate.com/catalog/atom.xml",
+  "title": "LittleCodingKata",
+  "subtitle": "my collection of programming exercises, research and code toys broadly spanning things that relate to programming and software development (languages, frameworks and tools)",
+  "bytes": 279675,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "python",
+    "ruby",
+    "books"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

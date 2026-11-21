@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pandas feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="datapythonista blog" title="datapythonista blog" xmlUrl="https://datapythonista.me/blog/feeds/all.atom.xml" htmlUrl="https://datapythonista.me/blog/"/>
+    <outline type="rss" text="DataScientYst - Data Science Simplified" title="DataScientYst - Data Science Simplified" xmlUrl="https://datascientyst.com/rss/" htmlUrl="https://datascientyst.com/"/>
+    <outline type="rss" text="Segun Adebayo" title="Segun Adebayo" xmlUrl="https://www.adebayosegun.com/feed.xml" htmlUrl="https://adebayosegun.com"/>
+  </body>
+</opml>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ai-music feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Magenta" title="Magenta" xmlUrl="http://magenta.tensorflow.org/feed.xml" htmlUrl="https://magenta.withgoogle.com/"/>
+    <outline type="rss" text="The Blogging Musician" title="The Blogging Musician" xmlUrl="https://adamharkus.com/feed/atom/" htmlUrl="https://adamharkus.com/"/>
+    <outline type="rss" text="https://dogspluspl.us/atom.xml" title="https://dogspluspl.us/atom.xml" xmlUrl="https://dogspluspl.us/atom.xml" htmlUrl="https://dogspluspl.us"/>
+    <outline type="rss" text="Ray Harmony" title="Ray Harmony" xmlUrl="https://hackmusictheory.com/blogs/theory.atom" htmlUrl="https://hackmusictheory.com"/>
+    <outline type="rss" text="Max Graf" title="Max Graf" xmlUrl="https://maxgraf.space/feed" htmlUrl="https://maxgraf.space/"/>
+    <outline type="rss" text="mrclay.org" title="mrclay.org" xmlUrl="https://mrclay.org/feed/" htmlUrl="https://mrclay.org"/>
+    <outline type="rss" text="Music Tech Solutions" title="Music Tech Solutions" xmlUrl="https://musictech.solutions/feed/" htmlUrl="https://musictech.solutions"/>
+    <outline type="rss" text="namirsab" title="namirsab" xmlUrl="https://namirsab.dev/rss.xml" htmlUrl="https://namirsab.dev/"/>
+    <outline type="rss" text="Strategies Against Algorithms" title="Strategies Against Algorithms" xmlUrl="https://strategies.schallundstille.de/en/feed/" htmlUrl="https://strategies.schallundstille.de"/>
+    <outline type="rss" text="Vitali" title="Vitali" xmlUrl="https://v1tali.com/feed.xml" htmlUrl="https://v1tali.com/"/>
+    <outline type="rss" text="Home on Will Drevo" title="Home on Will Drevo" xmlUrl="https://willdrevo.com/index.xml" htmlUrl="https://willdrevo.com/"/>
+  </body>
+</opml>

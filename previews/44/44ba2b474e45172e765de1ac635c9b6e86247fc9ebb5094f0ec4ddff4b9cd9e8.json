@@ -1,0 +1,18 @@
+{
+  "url": "https://lioncoding.com/rss.xml",
+  "title": "Lioncoding Blog",
+  "subtitle": "Tech blog featuring articles about Software Development, Artificial Intelligence, Open Source, and Cloud by Laurent Egbakou, Microsoft MVP",
+  "bytes": 8868,
+  "last": "2026-02-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "c#"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  }
+}

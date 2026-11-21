@@ -1,0 +1,21 @@
+{
+  "url": "http://www.garethrepton.com/feed.xml",
+  "title": "Gareth Reptons development blog",
+  "subtitle": "C#, F#, OO, Functional, TDD, Sql and a bunch of other stuff. My views are my own.",
+  "bytes": 137168,
+  "last": "2026-08-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "c#",
+    "f#",
+    "dotnet",
+    "functional-programming",
+    "software-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

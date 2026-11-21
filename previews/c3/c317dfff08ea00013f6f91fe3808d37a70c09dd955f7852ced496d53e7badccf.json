@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.lohr.dev/rss.xml",
+  "title": "Michi's Blog",
+  "subtitle": "Passionate about software development and architecture, web and cloud technologies, as well as game development.",
+  "bytes": 234574,
+  "last": "2026-10-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacking",
+    "software-engineering",
+    "ctf"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  }
+}

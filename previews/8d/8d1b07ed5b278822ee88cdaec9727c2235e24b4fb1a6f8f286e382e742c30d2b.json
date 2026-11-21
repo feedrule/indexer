@@ -1,0 +1,17 @@
+{
+  "url": "https://strafo.net/rss.xml",
+  "title": "Strafo",
+  "subtitle": "Personal blog of a cat disguised as a human",
+  "bytes": 691268,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

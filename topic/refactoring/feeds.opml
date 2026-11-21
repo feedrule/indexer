@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>refactoring feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Code Whisperer" title="The Code Whisperer" xmlUrl="https://blog.thecodewhisperer.com/feed.xml" htmlUrl="https://blog.thecodewhisperer.com/"/>
+    <outline type="rss" text="If The Shoe Fritz" title="If The Shoe Fritz" xmlUrl="https://iftheshoefritz.com/feed.xml" htmlUrl="http://iftheshoefritz.com/"/>
+    <outline type="rss" text="Legalize Adulthood!" title="Legalize Adulthood!" xmlUrl="https://legalizeadulthood.wordpress.com/feed/" htmlUrl="https://legalizeadulthood.wordpress.com"/>
+    <outline type="rss" text="The Code Gardener" title="The Code Gardener" xmlUrl="https://the.codegardener.com/rss/" htmlUrl="https://the.codegardener.com/"/>
+    <outline type="rss" text="Understand Legacy Code" title="Understand Legacy Code" xmlUrl="https://understandlegacycode.com/rss.xml" htmlUrl="https://understandlegacycode.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+{
+  "url": "https://bholmes.dev/rss.xml",
+  "title": "The BHolmesDev Blog",
+  "subtitle": "A smattering of posts about web development by Ben Holmes",
+  "bytes": 820244,
+  "last": "2026-07-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-components",
+    "web-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

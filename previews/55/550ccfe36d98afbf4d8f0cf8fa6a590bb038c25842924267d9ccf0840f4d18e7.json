@@ -1,0 +1,18 @@
+{
+  "url": "https://bugs.xdavidhu.me/feed.xml",
+  "title": "bugs.xdavidhu.me",
+  "subtitle": "David Schütz's bug bounty writeups",
+  "bytes": 171241,
+  "last": "2026-03-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bug-bounty",
+    "bugfix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

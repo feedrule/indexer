@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>activitypub feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Author Buzz Developer Blog" title="Author Buzz Developer Blog" xmlUrl="https://dev.authorbuzz.co.uk/feed/" htmlUrl="https://dev.authorbuzz.co.uk/"/>
+    <outline type="rss" text="realize.be" title="realize.be" xmlUrl="https://realize.be/rss.xml" htmlUrl="https://realize.be/"/>
+    <outline type="rss" text="Will Lachance's Log" title="Will Lachance's Log" xmlUrl="https://wrla.ch/feeds/all.atom.xml" htmlUrl="https://wrla.ch/index.html"/>
+    <outline type="rss" text="Costa Fotiadis" title="Costa Fotiadis" xmlUrl="https://www.costafotiadis.com/rss.xml" htmlUrl="https://www.costafotiadis.com/"/>
+    <outline type="rss" text="Federated Mind" title="Federated Mind" xmlUrl="https://www.federatedmind.com/rss/" htmlUrl="https://www.federatedmind.com/"/>
+    <outline type="rss" text="Steve Bate" title="Steve Bate" xmlUrl="https://www.stevebate.net/feed/" htmlUrl="https://www.stevebate.net/"/>
+  </body>
+</opml>

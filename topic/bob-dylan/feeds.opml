@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bob-dylan feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="the bobserve series" title="the bobserve series" xmlUrl="https://blog.bobserve.com/rss/" htmlUrl="https://blog.bobserve.com/"/>
+    <outline type="rss" text="Dean Goodman" title="Dean Goodman" xmlUrl="https://deangoodman.com/feed/" htmlUrl="https://deangoodman.com"/>
+    <outline type="rss" text="Doom &amp; Gloom From The Tomb" title="Doom &amp; Gloom From The Tomb" xmlUrl="https://doomandgloomfromthetomb.tumblr.com/rss" htmlUrl="https://doomandgloomfromthetomb.tumblr.com/"/>
+  </body>
+</opml>

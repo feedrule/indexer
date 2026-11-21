@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>hosting feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="AskApache" title="AskApache" xmlUrl="https://feeds.feedburner.com/htaccess-guide"/>
+    <outline type="rss" text="unfoxo" title="unfoxo" xmlUrl="https://unfoxo.it/atom.xml" htmlUrl="https://unfoxo.it/"/>
+    <outline type="rss" text="Gary Bell | Building software. Leading teams." title="Gary Bell | Building software. Leading teams." xmlUrl="https://www.garybell.co.uk/rss.xml" htmlUrl="https://www.garybell.co.uk/"/>
+  </body>
+</opml>

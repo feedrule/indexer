@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>archival feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="anjackson.net" title="anjackson.net" xmlUrl="https://anjackson.net/feed.xml" htmlUrl="https://anjackson.net/"/>
+    <outline type="rss" text="archival futures" title="archival futures" xmlUrl="https://archivalfutures.blog/atom/" htmlUrl="https://archivalfutures.blog/"/>
+    <outline type="rss" text="Murray's Blog" title="Murray's Blog" xmlUrl="https://blog.ligos.net/atom.xml" htmlUrl="http://blog.ligos.net/"/>
+    <outline type="rss" text="Blog - eddycolloton" title="Blog - eddycolloton" xmlUrl="https://eddycolloton.com/blog?format=rss" htmlUrl="http://eddycolloton.com/blog/"/>
+    <outline type="rss" text="got papers?" title="got papers?" xmlUrl="https://gotpapers.scene.org/?feed=rss2" htmlUrl="https://gotpapers.scene.org"/>
+    <outline type="rss" text="Home - Henrique Dias" title="Home - Henrique Dias" xmlUrl="https://hacdias.com/feed.xml" htmlUrl="https://hacdias.com/"/>
+    <outline type="rss" text="Writings - Henrique Dias" title="Writings - Henrique Dias" xmlUrl="https://hacdias.com/writings/feed.xml" htmlUrl="https://hacdias.com/writings/"/>
+    <outline type="rss" text="Koralatov" title="Koralatov" xmlUrl="https://koralatov.com/rss" htmlUrl="https://koralatov.com/"/>
+  </body>
+</opml>

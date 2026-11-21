@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>homebrew feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ihaveahax's thing" title="ihaveahax's thing" xmlUrl="https://blog.ihaveahax.net/feed/" htmlUrl="https://blog.ihaveahax.net"/>
+    <outline type="rss" text="jorj.tech" title="jorj.tech" xmlUrl="https://blog.jorj.tech/index.xml" htmlUrl="https://jorj.tech/"/>
+    <outline type="rss" text="Codex Marginalia" title="Codex Marginalia" xmlUrl="https://dylsthrills.bearblog.dev/feed/" htmlUrl="https://dylsthrills.bearblog.dev/"/>
+    <outline type="rss" text="Wololo.net" title="Wololo.net" xmlUrl="https://wololo.net/feed/" htmlUrl="https://wololo.net/"/>
+  </body>
+</opml>

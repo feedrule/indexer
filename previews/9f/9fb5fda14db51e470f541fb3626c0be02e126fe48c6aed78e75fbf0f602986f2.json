@@ -1,0 +1,19 @@
+{
+  "url": "https://www.cloudnativedeepdive.com/rss/",
+  "title": "Cloud Native Deep Dive",
+  "subtitle": "Your go-to resource for DevOps and Cloud best practices",
+  "bytes": 220205,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "ai-agents",
+    "mcp-server"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

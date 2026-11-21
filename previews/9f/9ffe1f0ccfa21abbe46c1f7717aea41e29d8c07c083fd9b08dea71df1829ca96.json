@@ -1,0 +1,21 @@
+{
+  "url": "https://dille.name/feed.xml",
+  "title": "Nicholas Dille",
+  "subtitle": "Automation, DevOps and Containerization",
+  "bytes": 85095,
+  "last": "2026-05-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "kubernetes",
+    "gitlab",
+    "workshop",
+    "containers"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

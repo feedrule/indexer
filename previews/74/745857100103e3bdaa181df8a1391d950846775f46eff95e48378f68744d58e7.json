@@ -1,0 +1,21 @@
+{
+  "url": "https://allaboutcoding.ghinda.com/rss.xml",
+  "title": "All about coding",
+  "subtitle": "Ruby and Rails technical content written by Lucian Ghinda",
+  "bytes": 17479,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents",
+    "ruby",
+    "ruby-on-rails",
+    "tooling",
+    "claude-code"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  }
+}

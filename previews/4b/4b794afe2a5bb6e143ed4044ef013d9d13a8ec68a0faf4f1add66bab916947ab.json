@@ -1,0 +1,17 @@
+{
+  "url": "https://kostja.me/feed/rss",
+  "title": "Blog",
+  "subtitle": "Latest posts",
+  "bytes": 1024,
+  "last": "2026-08-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

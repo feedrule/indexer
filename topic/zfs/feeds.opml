@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>zfs feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="extrowerk" title="extrowerk" xmlUrl="http://extrowerk.com/feed.xml" htmlUrl="http://extrowerk.com/"/>
+    <outline type="rss" text="Al4" title="Al4" xmlUrl="https://blog.al4.co.nz/feed/" htmlUrl="https://blog.al4.co.nz"/>
+    <outline type="rss" text="zot" title="zot" xmlUrl="https://crittery.bearblog.dev/feed/?type=rss" htmlUrl="https://crittery.bearblog.dev/"/>
+    <outline type="rss" text="despair labs" title="despair labs" xmlUrl="https://despairlabs.com/blog/index.xml" htmlUrl="https://despairlabs.com/blog/"/>
+    <outline type="rss" text="oshogbo web" title="oshogbo web" xmlUrl="https://feeds.feedburner.com/oshogbo" htmlUrl="https://oshogbo.com"/>
+    <outline type="rss" text="FTFL.CA/blog" title="FTFL.CA/blog" xmlUrl="https://ftfl.ca/blog/index.rss" htmlUrl="http://ftfl.ca/blog/"/>
+    <outline type="rss" text="Josh Pencheon - Software Engineer" title="Josh Pencheon - Software Engineer" xmlUrl="https://josh.pencheon.dev/feed.xml" htmlUrl="http://josh.pencheon.dev/"/>
+    <outline type="rss" text="Mitchell Hashimoto" title="Mitchell Hashimoto" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com"/>
+    <outline type="rss" text="Nigel Tao's blog" title="Nigel Tao's blog" xmlUrl="https://nigeltao.github.io/feed.xml" htmlUrl="https://nigeltao.github.io/"/>
+    <outline type="rss" text="oxcrag.net" title="oxcrag.net" xmlUrl="https://oxcrag.net/feed.xml" htmlUrl="https://oxcrag.net/"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://akdev.blog/rss.xml",
+  "title": "AK Dev Blog",
+  "subtitle": "Human meets architecture and code",
+  "bytes": 168590,
+  "last": "2026-06-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-architecture",
+    "architecture",
+    "software-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://lellep.xyz/blog/feeds/all.atom.xml",
+  "title": "Blog",
+  "subtitle": "by Martin Lellep",
+  "bytes": 420070,
+  "last": "2026-07-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "prototyping",
+    "machine-learning",
+    "data"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://feeds.bbci.co.uk/news/rss.xml",
+  "title": "BBC News",
+  "subtitle": "BBC News - News Front Page",
+  "bytes": 26819,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bbc",
+    "uk-politics"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

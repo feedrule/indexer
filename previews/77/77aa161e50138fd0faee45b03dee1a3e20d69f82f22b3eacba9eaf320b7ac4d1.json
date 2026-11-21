@@ -1,0 +1,18 @@
+{
+  "url": "https://percentes.ai/feed.xml",
+  "title": "Percentes",
+  "subtitle": "Reliability measurement for LLM inference under load and failure. Every scheduled request is accounted for, and the measuring client must pass its own gates before any number counts.",
+  "bytes": 349522,
+  "last": "2026-10-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "reliability",
+    "llm-evaluation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

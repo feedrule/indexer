@@ -1,0 +1,21 @@
+{
+  "url": "https://rafaelfiume.blog/feed/",
+  "title": "Notes on Software Design",
+  "subtitle": "Reflections from the field",
+  "bytes": 12195,
+  "last": "2026-07-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-design",
+    "system-design",
+    "distributed-systems",
+    "api-design",
+    "functional-programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

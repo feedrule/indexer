@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cafe feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Cuppa.blog" title="Cuppa.blog" xmlUrl="https://cuppa.blog/feed.xml" htmlUrl="https://cuppa.blog/"/>
+    <outline type="rss" text="Georgia’s Café Reviews" title="Georgia’s Café Reviews" xmlUrl="https://gerg.cafe/feed" htmlUrl="https://gerg.cafe"/>
+    <outline type="rss" text="Jane Sketching" title="Jane Sketching" xmlUrl="https://janesketching.com/feed/" htmlUrl="https://janesketching.com"/>
+    <outline type="rss" text="Newcastle Eats" title="Newcastle Eats" xmlUrl="https://newcastleeats.co.uk/feed/" htmlUrl="https://newcastleeats.co.uk"/>
+    <outline type="rss" text="Dans Blog" title="Dans Blog" xmlUrl="https://www.dantleech.com/index.xml" htmlUrl="https://www.dantleech.com/"/>
+  </body>
+</opml>

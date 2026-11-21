@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>chrome-extension feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Keystrokes: a tech blog for builders" title="Keystrokes: a tech blog for builders" xmlUrl="https://bumbletap.com/rss.xml" htmlUrl="https://bumbletap.com/blog"/>
+    <outline type="rss" text="Debbech Blog" title="Debbech Blog" xmlUrl="https://debbech.com/blog/index.xml" htmlUrl="http://debbech.com/blog/"/>
+    <outline type="rss" text="developer.chrome.com: Blog" title="developer.chrome.com: Blog" xmlUrl="https://developer.chrome.com/static/blog/feed.xml" htmlUrl="https://developer.chrome.com/blog/"/>
+    <outline type="rss" text="Simeon Vincent" title="Simeon Vincent" xmlUrl="https://dotproto.com/feed.xml" htmlUrl="https://dotproto.com/"/>
+    <outline type="rss" text="Blog on Irbis" title="Blog on Irbis" xmlUrl="https://irbis.sh/blog/index.xml" htmlUrl="https://irbis.sh/blog/"/>
+  </body>
+</opml>

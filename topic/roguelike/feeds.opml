@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>roguelike feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Temple of The Roguelike" title="Temple of The Roguelike" xmlUrl="https://blog.roguetemple.com/feed/" htmlUrl="https://blog.roguetemple.com"/>
+    <outline type="rss" text="On Games And Design" title="On Games And Design" xmlUrl="https://urflow.bearblog.dev/feed/" htmlUrl="https://urflow.bearblog.dev/"/>
+    <outline type="rss" text="gridbugs" title="gridbugs" xmlUrl="https://www.gridbugs.org/rss.xml" htmlUrl="https://www.gridbugs.org"/>
+  </body>
+</opml>

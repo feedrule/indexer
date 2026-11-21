@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>public-health feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="EpidemioLogical" title="EpidemioLogical" xmlUrl="https://epidemiologist.blog/feed/" htmlUrl="https://epidemiologist.blog"/>
+    <outline type="rss" text="Modern Health Talk" title="Modern Health Talk" xmlUrl="https://mhealthtalk.com/feed/" htmlUrl="https://mhealthtalk.com/"/>
+    <outline type="rss" text="David Gumpert" title="David Gumpert" xmlUrl="https://www.davidgumpert.com/feed" htmlUrl="https://www.davidgumpert.com/"/>
+    <outline type="rss" text="Poisoning Our Children" title="Poisoning Our Children" xmlUrl="https://www.poisoningchildren.com/blog?format=rss" htmlUrl="https://www.poisoningchildren.com/"/>
+  </body>
+</opml>

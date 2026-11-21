@@ -1,0 +1,17 @@
+{
+  "url": "https://busandtrainuser.com/feed/",
+  "title": "BusAndTrainUser",
+  "subtitle": "Journeys around Britain by bus and train",
+  "bytes": 1126103,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bus"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

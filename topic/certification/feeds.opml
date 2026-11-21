@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>certification feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="1337" title="1337" xmlUrl="https://1337.bearblog.dev/feed/" htmlUrl="https://1337.bearblog.dev/"/>
+    <outline type="rss" text="ceos" title="ceos" xmlUrl="https://blog.ceos.io/feed/atom/" htmlUrl="https://blog.ceos.io"/>
+    <outline type="rss" text="Daniels Networking Blog" title="Daniels Networking Blog" xmlUrl="https://lostintransit.se/feed/?doing_wp_cron=1786339919.5977270603179931640625" htmlUrl="https://lostintransit.se"/>
+  </body>
+</opml>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mysql feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Small Datum" title="Small Datum" xmlUrl="http://smalldatum.blogspot.com/atom.xml" htmlUrl="http://smalldatum.blogspot.com/"/>
+    <outline type="rss" text="Another Boring Tech Blog" title="Another Boring Tech Blog" xmlUrl="https://anotherboringtechblog.com/feed/atom/" htmlUrl="https://anotherboringtechblog.com/"/>
+    <outline type="rss" text="Another MySQL DBA" title="Another MySQL DBA" xmlUrl="https://anothermysqldba.blogspot.com/feeds/posts/default" htmlUrl="https://anothermysqldba.blogspot.com/"/>
+    <outline type="rss" text="askdba" title="askdba" xmlUrl="https://askdba.net/feed/atom/" htmlUrl="https://askdba.net"/>
+    <outline type="rss" text="Daniël's Database Blog" title="Daniël's Database Blog" xmlUrl="https://databaseblog.myname.nl/feeds/posts/default" htmlUrl="https://databaseblog.myname.nl/"/>
+    <outline type="rss" text="Open Source Databases" title="Open Source Databases" xmlUrl="https://elephantdolphin.blogspot.com/feeds/posts/default" htmlUrl="https://elephantdolphin.blogspot.com/"/>
+    <outline type="rss" text="Information is Contagious" title="Information is Contagious" xmlUrl="https://gtowey.blogspot.com/feeds/posts/default" htmlUrl="https://gtowey.blogspot.com/"/>
+    <outline type="rss" text="Ivan's Blog" title="Ivan's Blog" xmlUrl="https://izoratti.blogspot.com/feeds/posts/default" htmlUrl="https://izoratti.blogspot.com/"/>
+    <outline type="rss" text="J-F Gagné's MySQL Blog" title="J-F Gagné's MySQL Blog" xmlUrl="https://jfg-mysql.blogspot.com/feeds/posts/default" htmlUrl="https://jfg-mysql.blogspot.com/"/>
+    <outline type="rss" text="Change Is Inevitable" title="Change Is Inevitable" xmlUrl="https://kedar.nitty-witty.com/blog/feed" htmlUrl="https://kedar.nitty-witty.com/blog"/>
+    <outline type="rss" text="The DataNinja" title="The DataNinja" xmlUrl="https://pankajtw.github.io/feed" htmlUrl="https://pankajtw.github.io/"/>
+    <outline type="rss" text="Rendiment" title="Rendiment" xmlUrl="https://rendiment.io/feed.xml" htmlUrl="https://rendiment.io/"/>
+    <outline type="rss" text="Ronald Bradford - Data Architect, MySQL Expert, Author &amp; Speaker on Enterprise Data Architect | Principal Data Strategist | MySQL Subject Matter Expert | Author | Speaker" title="Ronald Bradford - Data Architect, MySQL Expert, Author &amp; Speaker on Enterprise Data Architect | Principal Data Strategist | MySQL Subject Matter Expert | Author | Speaker" xmlUrl="https://ronaldbradford.com/index.xml" htmlUrl="https://ronaldbradford.com/"/>
+    <outline type="rss" text="TusaCentral - Welcome to the Frontpage" title="TusaCentral - Welcome to the Frontpage" xmlUrl="https://tusacentral.net/joomla/index.php?format=feed&amp;type=atom" htmlUrl="https://tusacentral.net"/>
+  </body>
+</opml>

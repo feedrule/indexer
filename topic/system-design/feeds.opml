@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>system-design feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Technician" title="The Technician" xmlUrl="https://blog.duy.dev/rss/" htmlUrl="https://blog.duy.dev/"/>
+    <outline type="rss" text="Notes on Software Design" title="Notes on Software Design" xmlUrl="https://rafaelfiume.blog/feed/" htmlUrl="https://rafaelfiume.blog"/>
+    <outline type="rss" text="Thinking Out Loud" title="Thinking Out Loud" xmlUrl="https://shivamkapoor.com/rss/" htmlUrl="https://shivamkapoor.com/"/>
+  </body>
+</opml>

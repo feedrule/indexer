@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>action-adventure feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
+    <outline type="rss" text="Action Figure Barbecue" title="Action Figure Barbecue" xmlUrl="http://www.actionfigurebarbecue.com/atom.xml" htmlUrl="http://www.actionfigurebarbecue.com/"/>
+    <outline type="rss" text="Buried Treasure" title="Buried Treasure" xmlUrl="https://buried-treasure.org/feed/" htmlUrl="https://buried-treasure.org"/>
+  </body>
+</opml>

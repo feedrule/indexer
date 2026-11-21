@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>quiz feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Home" title="Home" xmlUrl="https://aibaranov.github.io/feed.xml" htmlUrl="https://aibaranov.github.io/"/>
+    <outline type="rss" text="Jamshrivelson" title="Jamshrivelson" xmlUrl="https://joshmaxsilverman.github.io/feed.xml" htmlUrl="http://joshmaxsilverman.github.io"/>
+    <outline type="rss" text="On A Miss" title="On A Miss" xmlUrl="https://onamiss.bearblog.dev/feed/" htmlUrl="https://onamiss.bearblog.dev/"/>
+  </body>
+</opml>

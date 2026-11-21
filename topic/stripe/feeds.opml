@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>stripe feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="André Casal Essays" title="André Casal Essays" xmlUrl="https://andrecasal.com/rss.xml" htmlUrl="https://andrecasal.com/essays"/>
+    <outline type="rss" text="Stripe Blog" title="Stripe Blog" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl="https://stripe.com/blog"/>
+    <outline type="rss" text="Stripe Across" title="Stripe Across" xmlUrl="https://stripeacross.com/rss.xml" htmlUrl="https://stripeacross.com/"/>
+  </body>
+</opml>

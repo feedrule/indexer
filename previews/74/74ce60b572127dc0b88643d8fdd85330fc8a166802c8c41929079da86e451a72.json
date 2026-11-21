@@ -1,0 +1,17 @@
+{
+  "url": "https://blog.joinmastodon.org/index.xml",
+  "title": "Mastodon Blog",
+  "subtitle": "Recent content on Mastodon Blog",
+  "bytes": 1340149,
+  "last": "2026-10-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mastodon"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

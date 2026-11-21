@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>vlog feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="GabesVirtualWorld" title="GabesVirtualWorld" xmlUrl="https://gabesvirtualworld.com/feed.xml" htmlUrl="https://www.gabesvirtualworld.com/"/>
+    <outline type="rss" text="Noahie's Link Log" title="Noahie's Link Log" xmlUrl="https://noahie.xyz/link-log/rss.xml" htmlUrl="https://noahie.xyz/link-log"/>
+    <outline type="rss" text="Protesilaos: News and Announcements" title="Protesilaos: News and Announcements" xmlUrl="https://protesilaos.com/news.xml" htmlUrl="https://protesilaos.com/news"/>
+  </body>
+</opml>

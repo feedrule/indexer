@@ -1,0 +1,17 @@
+{
+  "url": "https://boring-observability.dev/blog/feed.xml",
+  "title": "The Skyline blog",
+  "subtitle": "Field notes on running Laravel in production: queues, Horizon and Redis, the HTTP calls your app makes to other services, and the edges that only show up under real traffic.",
+  "bytes": 18795,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

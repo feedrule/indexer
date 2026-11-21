@@ -1,0 +1,20 @@
+{
+  "url": "https://tgrecojs.com/rss.xml",
+  "title": "Thomas Greco",
+  "subtitle": "TypeScript, functional programming, and the things I build on weekends.",
+  "bytes": 3757,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "typescript",
+    "functional-programming",
+    "generics",
+    "state-machines"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.joncairns.com/atom.xml",
+  "title": "Jon Cairns / Blog",
+  "subtitle": "My journey through software development and management.",
+  "bytes": 70928,
+  "last": "2026-05-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "tooling",
+    "git",
+    "vim",
+    "ruby"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

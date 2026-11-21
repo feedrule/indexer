@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>icons feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bjango Articles" title="Bjango Articles" xmlUrl="https://bjango.com/rss/articles.xml" htmlUrl="https://bjango.com/articles/"/>
+    <outline type="rss" text="Home on Ian Monroe's blog" title="Home on Ian Monroe's blog" xmlUrl="https://eean.dev/index.xml" htmlUrl="https://eean.dev/"/>
+    <outline type="rss" text="Dragon's notes | Force sand to think" title="Dragon's notes | Force sand to think" xmlUrl="https://eugene-andrienko.com/rss.xml" htmlUrl="https://eugene-andrienko.com"/>
+    <outline type="rss" text="Nuno-Icons" title="Nuno-Icons" xmlUrl="https://nuno-icons.com/feed/" htmlUrl="https://nuno-icons.com"/>
+    <outline type="rss" text="Planet Peanut Studio" title="Planet Peanut Studio" xmlUrl="https://planetpeanut.studio/feed/main.xml" htmlUrl="https://planetpeanut.studio/"/>
+    <outline type="rss" text="Alice Packard's Journal Entries" title="Alice Packard's Journal Entries" xmlUrl="https://www.alicepackarddesign.com/blog/rss.xml" htmlUrl="https://www.alicepackarddesign.com"/>
+  </body>
+</opml>

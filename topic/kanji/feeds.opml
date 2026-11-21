@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>kanji feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="sirtetris.com/blog" title="sirtetris.com/blog" xmlUrl="https://sirtetris.com/feed" htmlUrl="https://sirtetris.com/"/>
+    <outline type="rss" text="sirtetris.com/blog" title="sirtetris.com/blog" xmlUrl="https://sirtetris.com/feed.xml" htmlUrl="https://sirtetris.com/"/>
+    <outline type="rss" text="Loekalization Blog" title="Loekalization Blog" xmlUrl="https://www.loekalization.com/blog/feed/" htmlUrl="https://www.loekalization.com/blog"/>
+  </body>
+</opml>

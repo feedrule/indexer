@@ -1,0 +1,20 @@
+{
+  "url": "https://thunk.blog/feed.xml",
+  "title": "Thunks & Thoughts",
+  "subtitle": "Thunks & Thoughts on engineering, life, and all that good stuff",
+  "bytes": 484606,
+  "last": "2026-10-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "haskell",
+    "software-engineering",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

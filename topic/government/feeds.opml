@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>government feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Civic Innovations" title="Civic Innovations" xmlUrl="https://civic.io/feed/atom/" htmlUrl="https://civic.io"/>
+    <outline type="rss" text="Coyote Blog" title="Coyote Blog" xmlUrl="https://coyoteblog.com/feed" htmlUrl="https://coyoteblog.com"/>
+    <outline type="rss" text="Kelly Taylor's Blog" title="Kelly Taylor's Blog" xmlUrl="https://ktinboulder.com/feed/" htmlUrl="https://ktinboulder.com"/>
+    <outline type="rss" text="Waldo Jaquith" title="Waldo Jaquith" xmlUrl="https://waldo.jaquith.org/feed/" htmlUrl="https://waldo.jaquith.org"/>
+  </body>
+</opml>

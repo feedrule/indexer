@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>digital-forensics feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Anti-Forensics.com" title="Anti-Forensics.com" xmlUrl="https://anti-forensics.com/blog/feed/" htmlUrl="https://anti-forensics.com/blog/"/>
+    <outline type="rss" text="Francois Beyers — OSINT Investigator" title="Francois Beyers — OSINT Investigator" xmlUrl="https://beyers.tech/feed.xml" htmlUrl="https://beyers.tech/"/>
+    <outline type="rss" text="Security for Real People" title="Security for Real People" xmlUrl="https://feeds.feedburner.com/DavidLongenecker" htmlUrl="http://www.securityforrealpeople.com/"/>
+    <outline type="rss" text="Sebastian Tirelli · Writing" title="Sebastian Tirelli · Writing" xmlUrl="https://sebastiantirelli.com/rss.xml" htmlUrl="https://sebastiantirelli.com/"/>
+  </body>
+</opml>

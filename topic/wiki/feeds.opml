@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wiki feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bawolff's rants" title="Bawolff's rants" xmlUrl="https://blog.bawolff.net/feeds/posts/default" htmlUrl="https://blog.bawolff.net/"/>
+    <outline type="rss" text="River Writes - A MediaWiki Blog" title="River Writes - A MediaWiki Blog" xmlUrl="https://river.me/index.xml" htmlUrl="https://blog.river.me/"/>
+    <outline type="rss" text="skalski.dev" title="skalski.dev" xmlUrl="https://skalski.dev/atom.xml" htmlUrl="https://skalski.dev"/>
+    <outline type="rss" text="W3Expert.com" title="W3Expert.com" xmlUrl="https://www.w3expert.com/feeds/posts/default" htmlUrl="https://www.w3expert.com/"/>
+  </body>
+</opml>

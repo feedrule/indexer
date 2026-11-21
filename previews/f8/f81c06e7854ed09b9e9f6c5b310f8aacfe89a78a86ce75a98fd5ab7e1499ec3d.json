@@ -1,0 +1,18 @@
+{
+  "url": "https://beeb.li/rss.xml",
+  "title": "bits and beebs",
+  "subtitle": "Yet another personal blog about programming and technology, by Valentin Bersier",
+  "bytes": 5154,
+  "last": "2026-05-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix",
+    "web-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

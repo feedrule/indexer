@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gratitude feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Joe Reddington" title="Joe Reddington" xmlUrl="https://joereddington.com//feed.xml" htmlUrl="https://joereddington.com//"/>
+    <outline type="rss" text="MattAndJojang's Blog" title="MattAndJojang's Blog" xmlUrl="https://mattandjojang.wordpress.com/feed/" htmlUrl="https://mattandjojang.wordpress.com"/>
+    <outline type="rss" text="R.L. Dane" title="R.L. Dane" xmlUrl="https://rldane.space/feeds/all.atom.xml" htmlUrl="https://rldane.space/"/>
+    <outline type="rss" text="to ground" title="to ground" xmlUrl="https://toground.link/atom/" htmlUrl="https://toground.link/"/>
+  </body>
+</opml>

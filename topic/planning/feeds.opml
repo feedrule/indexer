@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>planning feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BitWorking" title="BitWorking" xmlUrl="https://bitworking.org/news/feed/" htmlUrl="https://bitworking.org/"/>
+    <outline type="rss" text="Joe Hart" title="Joe Hart" xmlUrl="https://joehart.work/feed/" htmlUrl="https://joehart.work/"/>
+    <outline type="rss" text="DisruptiveProactivity.com" title="DisruptiveProactivity.com" xmlUrl="https://www.disruptiveproactivity.com/feed/atom/" htmlUrl="https://www.disruptiveproactivity.com"/>
+  </body>
+</opml>

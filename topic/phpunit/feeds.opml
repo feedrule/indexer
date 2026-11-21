@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>phpunit feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Loïc Faugeron" title="Loïc Faugeron" xmlUrl="https://gnugat.github.io/feed/atom.xml" htmlUrl="https://gnugat.github.io/"/>
+    <outline type="rss" text="Josh Bowen's Weblog" title="Josh Bowen's Weblog" xmlUrl="https://joshbowen.net/atom.xml" htmlUrl="https://joshbowen.net"/>
+    <outline type="rss" text="Kevin Ullyott" title="Kevin Ullyott" xmlUrl="https://kevinullyott.com/blog/feed.atom" htmlUrl="https://kevinullyott.com/blog"/>
+    <outline type="rss" text="Software Development, Testing &amp; Open Source" title="Software Development, Testing &amp; Open Source" xmlUrl="https://phpunit.expert/articles/feed.rss" htmlUrl="https://phpunit.expert/articles/"/>
+    <outline type="rss" text="Sand Fox" title="Sand Fox" xmlUrl="https://sandfox.me/feed.xml" htmlUrl="https://sandfox.me/"/>
+    <outline type="rss" text="Shocm's Blog" title="Shocm's Blog" xmlUrl="https://shocm.me/rss.xml" htmlUrl="https://shocm.me/"/>
+    <outline type="rss" text="Read about upgrades, static analysis, GPT, Symfony and Laravel" title="Read about upgrades, static analysis, GPT, Symfony and Laravel" xmlUrl="https://tomasvotruba.com/rss" htmlUrl="https://tomasvotruba.com"/>
+    <outline type="rss" text="Alasdair Keyes' Blog" title="Alasdair Keyes' Blog" xmlUrl="https://www.akeyes.co.uk/rss" htmlUrl="https://www.akeyes.co.uk/blog"/>
+  </body>
+</opml>

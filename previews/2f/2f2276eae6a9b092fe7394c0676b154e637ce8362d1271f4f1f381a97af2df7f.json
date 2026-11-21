@@ -1,0 +1,20 @@
+{
+  "url": "https://www.wedesoft.de/atom.xml",
+  "title": "Jan Wedekind",
+  "subtitle": "Software engineering, game development, simulation.",
+  "bytes": 827432,
+  "last": "2026-05-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojurescript",
+    "simulation",
+    "software",
+    "graphics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

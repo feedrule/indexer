@@ -1,0 +1,18 @@
+{
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+  "title": "NYT > Sports > Soccer",
+  "subtitle": null,
+  "bytes": 38713,
+  "last": "2026-10-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fifa",
+    "soccer"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

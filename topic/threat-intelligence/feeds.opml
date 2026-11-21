@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>threat-intelligence feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="andpalmier's blog" title="andpalmier's blog" xmlUrl="https://andpalmier.com/index.xml" htmlUrl="https://andpalmier.com/"/>
+    <outline type="rss" text="Andrea Fortuna" title="Andrea Fortuna" xmlUrl="https://andreafortuna.org/feed.xml" htmlUrl="https://andreafortuna.org/"/>
+    <outline type="rss" text="Microsoft Browser Vulnerability Research" title="Microsoft Browser Vulnerability Research" xmlUrl="https://microsoftedge.github.io/edgevr/feed.xml" htmlUrl="https://microsoftedge.github.io/edgevr/"/>
+    <outline type="rss" text="Matteo Strada" title="Matteo Strada" xmlUrl="https://mstrada.me/rss.xml" htmlUrl="https://mstrada.me"/>
+    <outline type="rss" text="Stranded on Pylos" title="Stranded on Pylos" xmlUrl="https://pylos.co/feed/" htmlUrl="https://pylos.co"/>
+    <outline type="rss" text="Embee Research" title="Embee Research" xmlUrl="https://www.embeeresearch.io/rss/" htmlUrl="https://www.embeeresearch.io/"/>
+    <outline type="rss" text="Michael Bargury" title="Michael Bargury" xmlUrl="https://www.mbgsec.com/feed.xml" htmlUrl="https://www.mbgsec.com/"/>
+  </body>
+</opml>

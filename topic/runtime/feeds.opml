@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>runtime feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Stof Blog" title="Stof Blog" xmlUrl="https://stof.dev/blog/atom.xml" htmlUrl="https://stof.dev/blog"/>
+    <outline type="rss" text="Steve Gordon – Code with Steve" title="Steve Gordon – Code with Steve" xmlUrl="https://www.stevejgordon.co.uk/feed" htmlUrl="https://www.stevejgordon.co.uk/"/>
+  </body>
+</opml>

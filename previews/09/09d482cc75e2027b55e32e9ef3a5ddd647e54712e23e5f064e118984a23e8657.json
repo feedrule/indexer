@@ -1,0 +1,19 @@
+{
+  "url": "https://charpeni.com/blog/rss.xml",
+  "title": "Nicolas Charpentier's Blog",
+  "subtitle": "Personal blog of Nicolas Charpentier, a Software Engineer specializing in React Native, React, GraphQL, and Continuous Integration.",
+  "bytes": 33490,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "package-management",
+    "typescript",
+    "dependency-management"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>letters feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="I Think, Therefore I blog" title="I Think, Therefore I blog" xmlUrl="http://feeds.feedburner.com/thewriter" htmlUrl="http://www.shakirlakhani.com/"/>
+    <outline type="rss" text="From the Pen Cup" title="From the Pen Cup" xmlUrl="https://fromthepencup.wordpress.com/feed/" htmlUrl="https://fromthepencup.wordpress.com"/>
+    <outline type="rss" text="The Idle Gazette" title="The Idle Gazette" xmlUrl="https://idle.news/feed.xml" htmlUrl="https://idle.news/"/>
+    <outline type="rss" text="Letters for my children" title="Letters for my children" xmlUrl="https://lettersformychildren.bearblog.dev/feed/" htmlUrl="https://lettersformychildren.bearblog.dev/"/>
+    <outline type="rss" text="Letters To Little" title="Letters To Little" xmlUrl="https://letterstolittle.wordpress.com/feed/" htmlUrl="https://letterstolittle.wordpress.com"/>
+  </body>
+</opml>

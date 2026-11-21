@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>adtech feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="adsm.dev" title="adsm.dev" xmlUrl="https://adsm.dev/feed.xml" htmlUrl="https://adsm.dev"/>
+    <outline type="rss" text="joeware – never stop exploring… :)" title="joeware – never stop exploring… :)" xmlUrl="https://blog.joeware.net/feed/atom/" htmlUrl="https://blog.joeware.net"/>
+    <outline type="rss" text="dan fox" title="dan fox" xmlUrl="https://danmaxfox.com/feed/" htmlUrl="https://danmaxfox.com/"/>
+    <outline type="rss" text="/kp" title="/kp" xmlUrl="https://keithpetri.com/feed/" htmlUrl="https://keithpetri.com"/>
+    <outline type="rss" text="The Trust Web Times" title="The Trust Web Times" xmlUrl="https://trustwebtimes.com/feed/" htmlUrl="https://trustwebtimes.com/"/>
+  </body>
+</opml>

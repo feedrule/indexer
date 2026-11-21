@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nomad feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Home on Frank Mitchell's Blog" title="Home on Frank Mitchell's Blog" xmlUrl="https://frank-mitchell.com/index.xml" htmlUrl="https://frank-mitchell.com/"/>
+    <outline type="rss" text="Sungat Arynov - Blog" title="Sungat Arynov - Blog" xmlUrl="https://ginkida.dev/en/feed" htmlUrl="https://ginkida.dev/en/"/>
+    <outline type="rss" text="Legal Nomads" title="Legal Nomads" xmlUrl="https://www.legalnomads.com/feed/" htmlUrl="https://www.legalnomads.com/"/>
+  </body>
+</opml>

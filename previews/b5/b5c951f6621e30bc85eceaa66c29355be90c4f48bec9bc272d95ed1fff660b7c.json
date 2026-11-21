@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.dochia.dev/rss.xml",
+  "title": "Dochia CLI Blog",
+  "subtitle": "Practical insights on API testing, negative testing, reliability, and resilient backend systems from Dochia.",
+  "bytes": 8850,
+  "last": "2026-09-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "api",
+    "testing",
+    "backend"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>hashing feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Whatever crossed my mind" title="Whatever crossed my mind" xmlUrl="https://genbox.github.io/feed.xml" htmlUrl="https://genbox.github.io/"/>
+    <outline type="rss" text="Joshleeb's Blog" title="Joshleeb's Blog" xmlUrl="https://joshleeb.com/index.xml" htmlUrl="https://joshleeb.com"/>
+    <outline type="rss" text="Martin Leitner-Ankerl" title="Martin Leitner-Ankerl" xmlUrl="https://martin.ankerl.com/feed.xml" htmlUrl="https://martin.ankerl.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>archive feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Murray's Blog" title="Murray's Blog" xmlUrl="https://blog.ligos.net/atom.xml" htmlUrl="http://blog.ligos.net/"/>
+    <outline type="rss" text="./blog.sh" title="./blog.sh" xmlUrl="https://blogsh.app/rss.xml" htmlUrl="https://blogsh.app/"/>
+    <outline type="rss" text="Data Horde" title="Data Horde" xmlUrl="https://datahorde.org/feed" htmlUrl="https://datahorde.org"/>
+    <outline type="rss" text="eFireTemple" title="eFireTemple" xmlUrl="https://efiretemple.com/feed/" htmlUrl="https://efiretemple.com"/>
+    <outline type="rss" text="Kurt McKee" title="Kurt McKee" xmlUrl="https://kurtmckee.org/feed/" htmlUrl="https://kurtmckee.org/"/>
+    <outline type="rss" text="Tech insights" title="Tech insights" xmlUrl="https://lifeofpenguin.blogspot.com/feeds/posts/default" htmlUrl="https://lifeofpenguin.blogspot.com/"/>
+    <outline type="rss" text="The MS-Blog" title="The MS-Blog" xmlUrl="https://multiple-sclerosis-research.org/feed/" htmlUrl="https://multiple-sclerosis-research.org"/>
+    <outline type="rss" text="NeoNauticon" title="NeoNauticon" xmlUrl="https://neonaut.neocities.org/feed.atom" htmlUrl="https://neonaut.neocities.org/"/>
+    <outline type="rss" text="Scottish GENES" title="Scottish GENES" xmlUrl="https://scottishgenes.blogspot.com/atom.xml" htmlUrl="https://scottishgenes.blogspot.com/"/>
+    <outline type="rss" text="Ted Merz" title="Ted Merz" xmlUrl="https://ted-merz.com/feed/" htmlUrl="https://ted-merz.com"/>
+  </body>
+</opml>

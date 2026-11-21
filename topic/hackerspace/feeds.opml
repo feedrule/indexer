@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>hackerspace feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="0ut3r Space" title="0ut3r Space" xmlUrl="https://0ut3r.space/atom.xml" htmlUrl="http://0ut3r.space/"/>
+    <outline type="rss" text="Momo's E-Space" title="Momo's E-Space" xmlUrl="https://aroaceattorney.bearblog.dev/feed/" htmlUrl="https://aroaceattorney.bearblog.dev/"/>
+    <outline type="rss" text="blog.rnstlr.ch" title="blog.rnstlr.ch" xmlUrl="https://blog.rnstlr.ch/feeds/all.atom.xml" htmlUrl="https://blog.rnstlr.ch/"/>
+    <outline type="rss" text="Ethan Hawksley's Blog" title="Ethan Hawksley's Blog" xmlUrl="https://hawksley.dev/rss.xml" htmlUrl="https://hawksley.dev/"/>
+    <outline type="rss" text="Leaves Given to the Wind" title="Leaves Given to the Wind" xmlUrl="https://irenes.space/leaves.atom" htmlUrl="https://irenes.space/leaves/"/>
+    <outline type="rss" text="The Reluctant Programmer" title="The Reluctant Programmer" xmlUrl="https://keithmfoster.com/feed/" htmlUrl="https://keithmfoster.com/"/>
+    <outline type="rss" text="zee's space" title="zee's space" xmlUrl="https://zeebots.space/feed.xml" htmlUrl="https://zeebots.space/"/>
+  </body>
+</opml>

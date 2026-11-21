@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>skiing feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="HokkaidoWilds.org" title="HokkaidoWilds.org" xmlUrl="https://hokkaidowilds.org/feed" htmlUrl="https://hokkaidowilds.org"/>
+    <outline type="rss" text="Schreck's cross-country ski news" title="Schreck's cross-country ski news" xmlUrl="https://schreckski.com/feed.atom" htmlUrl="https://schreckski.com/"/>
+    <outline type="rss" text="Tools for the revolution" title="Tools for the revolution" xmlUrl="https://toolsfortherevolution.com/feed/" htmlUrl="https://toolsfortherevolution.com"/>
+    <outline type="rss" text="SlopeFillers" title="SlopeFillers" xmlUrl="https://www.slopefillers.com/feed/atom/" htmlUrl="https://www.slopefillers.com"/>
+  </body>
+</opml>

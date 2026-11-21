@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gopher feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Andros Fenollosa Blog" title="Andros Fenollosa Blog" xmlUrl="https://en.andros.dev/blog/feed/en/" htmlUrl="http://en.andros.dev/blog/feed/en/"/>
+    <outline type="rss" text="/home/lucio.albenga.es" title="/home/lucio.albenga.es" xmlUrl="https://lucio.albenga.es/web-en/feeds/all.rss.xml" htmlUrl="https://lucio.albenga.es/web-en/"/>
+    <outline type="rss" text="Jaminologist" title="Jaminologist" xmlUrl="https://www.jaminologist.com/rss/" htmlUrl="https://www.jaminologist.com/"/>
+    <outline type="rss" text="someodd" title="someodd" xmlUrl="https://www.someodd.zip/feed.xml" htmlUrl="https://www.someodd.zip/"/>
+  </body>
+</opml>

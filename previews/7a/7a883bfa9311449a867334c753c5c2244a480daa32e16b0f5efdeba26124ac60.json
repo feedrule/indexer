@@ -1,0 +1,18 @@
+{
+  "url": "https://boxscores.bearblog.dev/feed/",
+  "title": "box scores",
+  "subtitle": "boxscoreslogo",
+  "bytes": 3165,
+  "last": "2026-09-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "milan",
+    "italy"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

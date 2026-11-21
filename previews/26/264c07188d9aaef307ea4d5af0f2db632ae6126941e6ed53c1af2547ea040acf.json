@@ -1,0 +1,20 @@
+{
+  "url": "https://jason.wadsworth.dev/feed.xml",
+  "title": "Jason Wadsworth",
+  "subtitle": "AWS enthusiast. DevOps believer. Lover of serverless patterns.",
+  "bytes": 123186,
+  "last": "2026-07-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws-lambda",
+    "dynamodb",
+    "aws",
+    "saas"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

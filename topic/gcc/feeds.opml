@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gcc feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Antoyo's Blog" title="Antoyo's Blog" xmlUrl="https://blog.antoyo.xyz/atom.xml"/>
+    <outline type="rss" text="Robert Hargreaves" title="Robert Hargreaves" xmlUrl="https://blog.roberthargreaves.com/feed.xml" htmlUrl="https://blog.roberthargreaves.com/"/>
+    <outline type="rss" text="CodingMarginalia" title="CodingMarginalia" xmlUrl="https://codingmarginalia.blogspot.com/atom.xml" htmlUrl="https://codingmarginalia.blogspot.com/"/>
+    <outline type="rss" text="Krister Walfridsson’s blog" title="Krister Walfridsson’s blog" xmlUrl="https://kristerw.github.io/feed.xml" htmlUrl="https://kristerw.github.io/"/>
+    <outline type="rss" text="patch – patch" title="patch – patch" xmlUrl="https://patch.no/index.xml" htmlUrl="https://patch.no/"/>
+    <outline type="rss" text="sebsite" title="sebsite" xmlUrl="https://sebsite.pw/feed.xml" htmlUrl="https://sebsite.pw/"/>
+    <outline type="rss" text="Martin Uecker's Blog" title="Martin Uecker's Blog" xmlUrl="https://uecker.codeberg.page/feed.rss" htmlUrl="https://uecker.codeberg.page/blog.html"/>
+  </body>
+</opml>

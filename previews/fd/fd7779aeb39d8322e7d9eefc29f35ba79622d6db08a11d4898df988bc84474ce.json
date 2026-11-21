@@ -1,0 +1,18 @@
+{
+  "url": "https://hexaray.com/api/rss.xml",
+  "title": "HexaRay",
+  "subtitle": "A technology blog",
+  "bytes": 6172,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "software"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

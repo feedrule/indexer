@@ -1,0 +1,17 @@
+{
+  "url": "http://feeds.bbci.co.uk/sport/cricket/rss.xml",
+  "title": "BBC Sport",
+  "subtitle": "BBC Sport - Cricket",
+  "bytes": 22420,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cricket"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

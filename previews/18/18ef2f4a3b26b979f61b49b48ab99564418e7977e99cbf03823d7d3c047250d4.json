@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.podsnap.com/feed/all.atom.xml",
+  "title": "podsnap",
+  "subtitle": null,
+  "bytes": 2701358,
+  "last": "2026-01-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure",
+    "scala",
+    "functional-programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

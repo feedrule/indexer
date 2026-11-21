@@ -1,0 +1,18 @@
+{
+  "url": "https://munio.dev/rss.xml",
+  "title": "munio — security research",
+  "subtitle": "Security research, vulnerability analysis, and guides from munio.",
+  "bytes": 1806,
+  "last": "2026-07-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security-analysis",
+    "security-research"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

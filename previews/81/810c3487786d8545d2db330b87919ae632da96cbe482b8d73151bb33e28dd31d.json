@@ -1,0 +1,20 @@
+{
+  "url": "https://dorcohen.dev/rss.xml",
+  "title": "Dor Cohen",
+  "subtitle": "Software engineer and researcher, working on ML safety, security, and production systems.",
+  "bytes": 2088,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "ai-engineering",
+    "ai-security",
+    "ai-safety"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

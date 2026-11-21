@@ -1,0 +1,19 @@
+{
+  "url": "https://sander.saares.eu/feed/",
+  "title": "Sander Saares",
+  "subtitle": null,
+  "bytes": 1004900,
+  "last": "2026-01-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "memory-safety",
+    "multithreading",
+    "performance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

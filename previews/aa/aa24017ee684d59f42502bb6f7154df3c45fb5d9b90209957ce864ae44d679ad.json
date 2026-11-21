@@ -1,0 +1,21 @@
+{
+  "url": "https://deadparrotbbs.com/feed/",
+  "title": "Dead Parrot BBS",
+  "subtitle": "Technology, the independent web, and assorted dead protocols.",
+  "bytes": 152059,
+  "last": "2026-11-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix",
+    "web-history",
+    "software-design",
+    "ui",
+    "sysadmin"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

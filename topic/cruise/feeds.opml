@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cruise feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Science Roadshow" title="Science Roadshow" xmlUrl="https://scienceroadshow.wordpress.com/feed/" htmlUrl="https://scienceroadshow.wordpress.com"/>
+    <outline type="rss" text="sharpletters" title="sharpletters" xmlUrl="https://sharpletters.net/index.xml" htmlUrl="https://sharpletters.net/"/>
+    <outline type="rss" text="Sinclair Trails" title="Sinclair Trails" xmlUrl="https://sinclairtrails.com/feed/" htmlUrl="https://sinclairtrails.com/"/>
+  </body>
+</opml>

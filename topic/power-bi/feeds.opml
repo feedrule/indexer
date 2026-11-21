@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>power-bi feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Biff" title="Biff" xmlUrl="https://biffweb.com/feed.xml" htmlUrl="https://biffweb.com"/>
+    <outline type="rss" text="Chris Webb's BI Blog" title="Chris Webb's BI Blog" xmlUrl="https://blog.crossjoin.co.uk/feed/" htmlUrl="https://blog.crossjoin.co.uk"/>
+    <outline type="rss" text="Dyota's blog" title="Dyota's blog" xmlUrl="https://dyota257.bearblog.dev/feed/" htmlUrl="https://dyota257.bearblog.dev/"/>
+  </body>
+</opml>

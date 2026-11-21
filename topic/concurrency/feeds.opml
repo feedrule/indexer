@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>concurrency feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Big ball of mud" title="Big ball of mud" xmlUrl="http://blog.rcard.in/feed.xml" htmlUrl="http://rcardin.github.io/"/>
+    <outline type="rss" text="Causality" title="Causality" xmlUrl="https://causality.blog/rss.xml" htmlUrl="https://causality.blog/"/>
+    <outline type="rss" text="CompuTruthing" title="CompuTruthing" xmlUrl="https://lucteo.ro/feed.xml" htmlUrl="http://lucteo.ro/"/>
+    <outline type="rss" text="Max Seelemann" title="Max Seelemann" xmlUrl="https://macguru.dev/rss/" htmlUrl="https://macguru.dev/"/>
+    <outline type="rss" text="Nockawa’s Blog" title="Nockawa’s Blog" xmlUrl="https://nockawa.github.io/feed" htmlUrl="https://nockawa.github.io/"/>
+    <outline type="rss" text="Zaid Humayun’s Blog" title="Zaid Humayun’s Blog" xmlUrl="https://redixhumayun.github.io/feed" htmlUrl="https://redixhumayun.github.io/"/>
+    <outline type="rss" text="Thinking Out Loud" title="Thinking Out Loud" xmlUrl="https://shivamkapoor.com/rss/" htmlUrl="https://shivamkapoor.com/"/>
+    <outline type="rss" text="Train IT" title="Train IT" xmlUrl="https://train-it.eu/rss.xml" htmlUrl="https://train-it.eu/"/>
+    <outline type="rss" text="Vaibhav Somani" title="Vaibhav Somani" xmlUrl="https://vabs.github.io/index.xml" htmlUrl="https://vabs.github.io/"/>
+    <outline type="rss" text="Waqas Younas' blog" title="Waqas Younas' blog" xmlUrl="https://wyounas.github.io/feed.xml" htmlUrl="https://wyounas.github.io/wyounas.github.io"/>
+  </body>
+</opml>

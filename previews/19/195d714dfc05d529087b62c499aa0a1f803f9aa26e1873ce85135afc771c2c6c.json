@@ -1,0 +1,18 @@
+{
+  "url": "http://tass.com/rss/v2.xml",
+  "title": "TASS",
+  "subtitle": "TASS News Agency",
+  "bytes": 52599,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "putin",
+    "foreign-policy"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

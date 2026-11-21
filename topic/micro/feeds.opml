@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>micro feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Aaron Vegh's Blog" title="Aaron Vegh's Blog" xmlUrl="https://aaron.vegh.ca/rss.xml" htmlUrl="https://aaron.vegh.ca"/>
+    <outline type="rss" text="frazzlings" title="frazzlings" xmlUrl="https://after.bearblog.dev/feed/" htmlUrl="https://after.bearblog.dev/"/>
+    <outline type="rss" text="Four Sides" title="Four Sides" xmlUrl="https://foursides.ca/rss/" htmlUrl="https://foursides.ca/"/>
+    <outline type="rss" text="Gregory Pittman" title="Gregory Pittman" xmlUrl="https://golfdeltapapa.blog/posts_feed" htmlUrl="https://gregorypittman.net"/>
+    <outline type="rss" text="Gregory Pittman" title="Gregory Pittman" xmlUrl="https://gregorypittman.net/posts_feed" htmlUrl="https://gregorypittman.net"/>
+    <outline type="rss" text="My Feed Title" title="My Feed Title" xmlUrl="https://jason.briggs.nz/journal.atom"/>
+    <outline type="rss" text="My Feed Title" title="My Feed Title" xmlUrl="https://jasonrbriggs.com/journal.atom"/>
+    <outline type="rss" text="Nothing Original Here" title="Nothing Original Here" xmlUrl="https://type40.au/posts_feed" htmlUrl="https://type40.au"/>
+    <outline type="rss" text="Graeme Fawcett" title="Graeme Fawcett" xmlUrl="https://www.graemefawcett.ca/feed.xml" htmlUrl="https://graemefawcett.ca"/>
+  </body>
+</opml>

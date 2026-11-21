@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>apple-silicon feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Chillaid Blog" title="Chillaid Blog" xmlUrl="https://blog.chillaid.art/atom" htmlUrl="https://blog.chillaid.art"/>
+    <outline type="rss" text="Chris Karani" title="Chris Karani" xmlUrl="https://chriskarani.xyz/rss.xml" htmlUrl="https://chriskarani.xyz/"/>
+    <outline type="rss" text="gruchalski.com" title="gruchalski.com" xmlUrl="https://gruchalski.com/atom.xml" htmlUrl="https://gruchalski.com/"/>
+    <outline type="rss" text="Posts on Kyriakos Gavras" title="Posts on Kyriakos Gavras" xmlUrl="https://syllogi-graphikon.vercel.app/posts/index.xml" htmlUrl="https://syllogi-graphikon.vercel.app/posts/"/>
+    <outline type="rss" text="Ziraph blog" title="Ziraph blog" xmlUrl="https://ziraph.com/blog/feed.xml" htmlUrl="https://ziraph.com/blog/"/>
+  </body>
+</opml>

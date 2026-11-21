@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>erlang feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="eriskii.net" title="eriskii.net" xmlUrl="https://eriskii.net/rss.xml" htmlUrl="https://eriskii.net"/>
+    <outline type="rss" text="Erlang in Space!" title="Erlang in Space!" xmlUrl="https://erlanginspace.org/rss/" htmlUrl="https://erlanginspace.org/"/>
+    <outline type="rss" text="if err != nil" title="if err != nil" xmlUrl="https://gills.pages.dev/index.xml" htmlUrl="https://if-not-nil.github.io/"/>
+    <outline type="rss" text="if err != nil" title="if err != nil" xmlUrl="https://if-not-nil.github.io/index.xml" htmlUrl="https://if-not-nil.github.io/"/>
+    <outline type="rss" text="❖ |&gt; 🌢" title="❖ |&gt; 🌢" xmlUrl="https://rocket-science.ru/atom.xml" htmlUrl="https://rocket-science.ru"/>
+    <outline type="rss" text="Stratus3D" title="Stratus3D" xmlUrl="https://stratus3d.com/atom.xml" htmlUrl="https://stratus3d.com/"/>
+    <outline type="rss" text="Technical Musings" title="Technical Musings" xmlUrl="https://technicalmusings.blogspot.com/feeds/posts/default" htmlUrl="https://technicalmusings.blogspot.com/"/>
+    <outline type="rss" text="Dairon Medina Caro" title="Dairon Medina Caro" xmlUrl="https://www.dairon.org/feed" htmlUrl="https://dairon.org"/>
+  </body>
+</opml>

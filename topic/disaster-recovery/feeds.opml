@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>disaster-recovery feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Geiser's Cloud" title="Geiser's Cloud" xmlUrl="https://geiser.cloud/rss/" htmlUrl="https://geiser.cloud/"/>
+    <outline type="rss" text="Life of Audrey dot com" title="Life of Audrey dot com" xmlUrl="https://lifeofaudrey.com/atom.xml" htmlUrl="https://lifeofaudrey.com"/>
+    <outline type="rss" text="Resilience Assembled" title="Resilience Assembled" xmlUrl="https://resilienceassembled.blot.im/feed.rss" htmlUrl="https://resilienceassembled.blot.im"/>
+    <outline type="rss" text="Resiliency Maps" title="Resiliency Maps" xmlUrl="https://resiliencymaps.org/feed" htmlUrl="https://resiliencymaps.org"/>
+    <outline type="rss" text="Richard Yen" title="Richard Yen" xmlUrl="https://richyen.com/feed" htmlUrl="http://richyen.com/"/>
+  </body>
+</opml>

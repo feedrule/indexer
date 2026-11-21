@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>latex feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Eitan Lees" title="Eitan Lees" xmlUrl="https://eitanlees.github.io/feed.xml" htmlUrl="https://eitanlees.github.io/"/>
+    <outline type="rss" text="Paul Wintz" title="Paul Wintz" xmlUrl="https://paulwintz.com/feed.xml" htmlUrl="https://paulwintz.com/"/>
+    <outline type="rss" text="tyrandus' blog" title="tyrandus' blog" xmlUrl="https://tyrandus.dev/feed/" htmlUrl="https://tyrandus.dev"/>
+    <outline type="rss" text="Some TeX Developments" title="Some TeX Developments" xmlUrl="https://www.texdev.net/feed.xml" htmlUrl="https://www.texdev.net/"/>
+  </body>
+</opml>

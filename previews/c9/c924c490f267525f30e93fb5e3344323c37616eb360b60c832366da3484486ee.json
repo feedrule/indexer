@@ -1,0 +1,18 @@
+{
+  "url": "https://foxgirl.engineering/feed.xml",
+  "title": "ruby's blog",
+  "subtitle": "fox on the internet",
+  "bytes": 171525,
+  "last": "2026-08-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

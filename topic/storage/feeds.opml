@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>storage feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Louwrentius" title="Louwrentius" xmlUrl="https://louwrentius.com/feed/all.atom.xml" htmlUrl="https://louwrentius.com/"/>
+    <outline type="rss" text="A blog about archives, storage and everything" title="A blog about archives, storage and everything" xmlUrl="https://macvfx.blog/feed/" htmlUrl="https://macvfx.blog"/>
+    <outline type="rss" text="Semicolony: Annotated CS papers" title="Semicolony: Annotated CS papers" xmlUrl="https://semicolony.dev/papers/rss.xml" htmlUrl="https://semicolony.dev/papers/"/>
+  </body>
+</opml>

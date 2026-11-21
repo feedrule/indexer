@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.mozilla.org/addons/feed/",
+  "title": "Mozilla Add-ons Community Blog",
+  "subtitle": null,
+  "bytes": 48577,
+  "last": "2026-10-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "firefox",
+    "browser-extension"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

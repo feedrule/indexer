@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>irc feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ilmari Lauhakangas" title="Ilmari Lauhakangas" xmlUrl="https://ilmarilauhakangas.fi/feed.xml" htmlUrl="https://www.ilmarilauhakangas.fi/"/>
+    <outline type="rss" text="transmissions" title="transmissions" xmlUrl="https://transmissions.bearblog.dev/atom.xml" htmlUrl="https://transmissions.bearblog.dev/"/>
+    <outline type="rss" text="VULNSCAN" title="VULNSCAN" xmlUrl="https://www.vulnscan.org/rss/" htmlUrl="https://www.vulnscan.org/"/>
+  </body>
+</opml>

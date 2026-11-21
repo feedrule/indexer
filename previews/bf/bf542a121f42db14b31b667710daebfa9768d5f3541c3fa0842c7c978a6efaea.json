@@ -1,0 +1,17 @@
+{
+  "url": "https://blog.june07.com/rss/",
+  "title": "I=['daddy']; I.concat(['gineer', 'trepreneur'].map(x => 'en'+x))",
+  "subtitle": "console.log(null || undefined || 0 || '?')",
+  "bytes": 99483,
+  "last": "2026-06-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "faq"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

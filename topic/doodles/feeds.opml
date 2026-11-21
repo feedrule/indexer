@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>doodles feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Book of Jen" title="Book of Jen" xmlUrl="https://bookofjen.net/feed/" htmlUrl="https://bookofjen.net"/>
+    <outline type="rss" text="Monocultured" title="Monocultured" xmlUrl="https://monocultured.com/blog/feed/" htmlUrl="https://monocultured.com/blog"/>
+    <outline type="rss" text="xaya's poesis" title="xaya's poesis" xmlUrl="https://xaya-e.bearblog.dev/atom/" htmlUrl="https://xaya-e.bearblog.dev/"/>
+  </body>
+</opml>

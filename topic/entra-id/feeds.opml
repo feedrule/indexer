@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>entra-id feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="enlyth" title="enlyth" xmlUrl="https://blog.enlyth.com/rss.xml" htmlUrl="https://blog.enlyth.com/"/>
+    <outline type="rss" text="CYBERDOM" title="CYBERDOM" xmlUrl="https://cyberdom.blog/feed/" htmlUrl="https://cyberdom.blog/"/>
+    <outline type="rss" text="EMS Route" title="EMS Route" xmlUrl="https://emsroute.com/feed/" htmlUrl="https://emsroute.com"/>
+    <outline type="rss" text="JanBakker.tech" title="JanBakker.tech" xmlUrl="https://janbakker.tech/feed/" htmlUrl="https://janbakker.tech/"/>
+  </body>
+</opml>

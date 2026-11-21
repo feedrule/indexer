@@ -1,0 +1,21 @@
+{
+  "url": "https://www.eke.li/feed.xml",
+  "title": "Thoughts and stuff",
+  "subtitle": "A collection of thoughts and stuff, primarily about programming and technology.",
+  "bytes": 188703,
+  "last": "2026-07-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "devcontainer",
+    "visual-studio-code",
+    "dotnet",
+    "development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

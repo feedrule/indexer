@@ -1,0 +1,18 @@
+{
+  "url": "https://komelin.com/rss.xml",
+  "title": "Konstantin Komelin's Blog",
+  "subtitle": "Sharing insights about front-end and full-stack development with TypeScript, Node.js, React, and friends.",
+  "bytes": 7384,
+  "last": "2026-09-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nodejs",
+    "frontend"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

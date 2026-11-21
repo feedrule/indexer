@@ -1,0 +1,18 @@
+{
+  "url": "https://arch.dog/bark/rss",
+  "title": "Arch Retriever's Blog",
+  "subtitle": "Arch Retriever Barks.",
+  "bytes": 11674,
+  "last": "2026-08-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "arch-linux",
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

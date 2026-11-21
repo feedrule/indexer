@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>browser-extension feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="aabidk.dev – Blog" title="aabidk.dev – Blog" xmlUrl="https://aabidk.dev/blog/index.xml" htmlUrl="https://aabidk.dev/blog/"/>
+    <outline type="rss" text="Mozilla Add-ons Community Blog" title="Mozilla Add-ons Community Blog" xmlUrl="https://blog.mozilla.org/addons/feed/" htmlUrl="https://blog.mozilla.org/addons/"/>
+    <outline type="rss" text="Kenneth Auchenberg's Blog" title="Kenneth Auchenberg's Blog" xmlUrl="https://kenneth.io/api/feed.xml" htmlUrl="https://kenneth.io/"/>
+    <outline type="rss" text="Michal Špaček: All articles" title="Michal Špaček: All articles" xmlUrl="https://www.michalspacek.com/exports/articles"/>
+    <outline type="rss" text="Stefan vd – Stefan Van Damme" title="Stefan vd – Stefan Van Damme" xmlUrl="https://www.stefanvd.net/blog/feed/" htmlUrl="https://www.stefanvd.net/blog"/>
+  </body>
+</opml>

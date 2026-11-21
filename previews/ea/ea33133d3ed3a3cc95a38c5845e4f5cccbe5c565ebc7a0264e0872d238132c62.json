@@ -1,0 +1,21 @@
+{
+  "url": "https://en.andros.dev/blog/feed/en/",
+  "title": "Andros Fenollosa Blog",
+  "subtitle": "Andros's personal blog where he talks about web development, programming, best practices, and software architecture.",
+  "bytes": 117634,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web",
+    "small-web",
+    "emacs",
+    "indieweb",
+    "gopher"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

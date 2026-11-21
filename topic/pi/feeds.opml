@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pi feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Anna's Blog" title="Anna's Blog" xmlUrl="https://anna-maths.xyz/feed.xml"/>
+    <outline type="rss" text="caleb.software" title="caleb.software" xmlUrl="https://caleb.software/feed.xml" htmlUrl="http://caleb.software/"/>
+    <outline type="rss" text="The Golden Ratio: Phi, 1.618" title="The Golden Ratio: Phi, 1.618" xmlUrl="https://www.goldennumber.net/feed/atom/" htmlUrl="https://www.goldennumber.net/"/>
+  </body>
+</opml>

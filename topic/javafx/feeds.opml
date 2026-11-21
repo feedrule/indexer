@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>javafx feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="eschmann.dev" title="eschmann.dev" xmlUrl="https://eschmann.dev/index.xml" htmlUrl="https://eschmann.dev/"/>
+    <outline type="rss" text="The Brain Dump" title="The Brain Dump" xmlUrl="https://floooh.github.io/feed.xml" htmlUrl="https://floooh.github.io/"/>
+    <outline type="rss" text="webtechie.be" title="webtechie.be" xmlUrl="https://webtechie.be/index.xml" htmlUrl="https://webtechie.be/"/>
+    <outline type="rss" text="quppa.net" title="quppa.net" xmlUrl="https://www.quppa.net/blog/feed/" htmlUrl="https://blog.quppa.net"/>
+  </body>
+</opml>

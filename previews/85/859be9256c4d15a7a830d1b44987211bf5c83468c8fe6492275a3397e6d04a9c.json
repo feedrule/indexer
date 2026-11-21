@@ -1,0 +1,19 @@
+{
+  "url": "https://www.geekandi.com/rss.xml",
+  "title": "Geek and I",
+  "subtitle": "an embellishment",
+  "bytes": 109558,
+  "last": "2026-07-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "terraform",
+    "vmware"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

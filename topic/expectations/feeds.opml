@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>expectations feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BEEW" title="BEEW" xmlUrl="https://beew.me/atom.xml" htmlUrl="https://beew.me/"/>
+    <outline type="rss" text="BEEW" title="BEEW" xmlUrl="https://beew.me/atom/" htmlUrl="https://beew.me/"/>
+    <outline type="rss" text="BEEW" title="BEEW" xmlUrl="https://beew.me/feed.xml" htmlUrl="https://beew.me/"/>
+    <outline type="rss" text="ESCAPING EXPECTATIONS" title="ESCAPING EXPECTATIONS" xmlUrl="https://escaping-expectations.com/feed/" htmlUrl="https://escaping-expectations.com/"/>
+  </body>
+</opml>

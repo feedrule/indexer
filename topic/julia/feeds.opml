@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>julia feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="JuliaActuary" title="JuliaActuary" xmlUrl="https://juliaactuary.org/blog.xml" htmlUrl="https://JuliaActuary.org/blog.html"/>
+    <outline type="rss" text="Valentin Churavy's personal webpage" title="Valentin Churavy's personal webpage" xmlUrl="https://vchuravy.dev/feed.xml" htmlUrl="https://vchuravy.dev/"/>
+    <outline type="rss" text="viralinstruction" title="viralinstruction" xmlUrl="https://viralinstruction.com/feed.xml" htmlUrl="https://viralinstruction.com/"/>
+  </body>
+</opml>

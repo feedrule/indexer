@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>telephone feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="dan fox" title="dan fox" xmlUrl="https://danmaxfox.com/feed/" htmlUrl="https://danmaxfox.com/"/>
+    <outline type="rss" text="philtel" title="philtel" xmlUrl="https://philtel.org/feed.xml" htmlUrl="https://philtel.org/"/>
+    <outline type="rss" text="Telephone World" title="Telephone World" xmlUrl="https://telephoneworld.org/feed/" htmlUrl="https://telephoneworld.org"/>
+  </body>
+</opml>

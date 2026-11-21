@@ -1,0 +1,17 @@
+{
+  "url": "https://kokada.dev/rss/",
+  "title": "kokada",
+  "subtitle": "# dd if=/dev/urandom of=/dev/brain0 dd: error writing '/dev/brain0': No space left on device",
+  "bytes": 267417,
+  "last": "2026-05-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

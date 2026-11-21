@@ -1,0 +1,17 @@
+{
+  "url": "https://nikogura.com/rss.xml",
+  "title": "Nik Ogura",
+  "subtitle": "Platform engineering, security, infrastructure, and the occasional philosophical tangent. Writing about Kubernetes, observability, GitOps, and building things that work.",
+  "bytes": 30723,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "infrastructure-as-code"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

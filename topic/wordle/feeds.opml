@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wordle feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="cross goss!" title="cross goss!" xmlUrl="https://crossgoss.neocities.org/feed.xml" htmlUrl="https://crossgoss.neocities.org/"/>
+    <outline type="rss" text="mrcoles.com feed" title="mrcoles.com feed" xmlUrl="https://mrcoles.com/feeds/latest/" htmlUrl="http://mrcoles.com/"/>
+    <outline type="rss" text="Wordtrak Devblog" title="Wordtrak Devblog" xmlUrl="https://wordtrak.com/blog/feed.xml" htmlUrl="https://wordtrak.com/blog"/>
+    <outline type="rss" text="Ankur Sheel" title="Ankur Sheel" xmlUrl="https://www.ankursheel.com/rss.xml" htmlUrl="https://www.ankursheel.com/"/>
+  </body>
+</opml>

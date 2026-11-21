@@ -1,0 +1,19 @@
+{
+  "url": "https://johns.codes/feed.xml",
+  "title": "John's Codes",
+  "subtitle": "My ramblings on programming",
+  "bytes": 9335,
+  "last": "2026-10-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "rust",
+    "typescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

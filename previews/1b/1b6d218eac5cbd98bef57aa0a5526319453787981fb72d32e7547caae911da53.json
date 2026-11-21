@@ -1,0 +1,17 @@
+{
+  "url": "https://wolvic.com/blog/feed.xml",
+  "title": "Wolvic Blog",
+  "subtitle": "All the entries in the Wolvic blog, which should mostly be release notes.",
+  "bytes": 192580,
+  "last": "2026-10-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-webui"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

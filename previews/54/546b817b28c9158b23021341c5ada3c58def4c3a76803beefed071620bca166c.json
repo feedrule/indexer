@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.deesee.xyz/feed.xml",
+  "title": "$BLOG_TITLE",
+  "subtitle": "A code-focused blog about security",
+  "bytes": 133732,
+  "last": "2026-05-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security-analysis",
+    "application-security",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

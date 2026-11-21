@@ -1,0 +1,18 @@
+{
+  "url": "https://deadbeef.me/feed.xml",
+  "title": "0xDEADBEEF",
+  "subtitle": "Hi, I'm Mike. Here, I mainly write about Swift, Go, and random computer musings.",
+  "bytes": 151002,
+  "last": "2025-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swift",
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

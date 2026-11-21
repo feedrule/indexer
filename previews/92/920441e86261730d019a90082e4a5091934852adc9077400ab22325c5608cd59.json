@@ -1,0 +1,18 @@
+{
+  "url": "https://dfir.ru/feed/",
+  "title": "My DFIR Blog",
+  "subtitle": "Digital Forensics & Incident Response & Reverse Engineering & Vulnerability Research",
+  "bytes": 233900,
+  "last": "2026-09-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vulnerability",
+    "ntfs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

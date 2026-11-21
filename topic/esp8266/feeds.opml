@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>esp8266 feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Engine Monitor" title="Engine Monitor" xmlUrl="https://enginemonitor.blogspot.com/feeds/posts/default" htmlUrl="https://enginemonitor.blogspot.com/"/>
+    <outline type="rss" text="esp8266hints" title="esp8266hints" xmlUrl="https://esp8266hints.wordpress.com/feed/" htmlUrl="https://esp8266hints.wordpress.com"/>
+    <outline type="rss" text="ZazoLabs" title="ZazoLabs" xmlUrl="https://zazolabs.com/index.xml" htmlUrl="https://zazolabs.com/"/>
+  </body>
+</opml>

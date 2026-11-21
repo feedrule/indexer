@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.webdevsimplified.com/rss.xml",
+  "title": "Web Dev Simplified Blog",
+  "subtitle": "In depth articles with interactive examples about every web dev topic.",
+  "bytes": 63085,
+  "last": "2026-06-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-components",
+    "web-design"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

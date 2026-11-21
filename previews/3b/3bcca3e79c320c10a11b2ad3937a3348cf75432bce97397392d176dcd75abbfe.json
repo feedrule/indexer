@@ -1,0 +1,18 @@
+{
+  "url": "https://june.cat/index.xml",
+  "title": "june.cat",
+  "subtitle": "A blog about various tech topics but mainly rust",
+  "bytes": 748191,
+  "last": "2026-01-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

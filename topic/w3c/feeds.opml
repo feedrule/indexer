@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>w3c feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Dan's Blog" title="Dan's Blog" xmlUrl="http://www.torgo.com/blog/feed" htmlUrl="https://www.torgo.com/blog"/>
+    <outline type="rss" text="W3C - News" title="W3C - News" xmlUrl="http://www.w3.org/blog/news/feed" htmlUrl="https://www.w3.org/news/"/>
+    <outline type="rss" text="Dan's Blog" title="Dan's Blog" xmlUrl="https://www.torgo.com/blog/feed" htmlUrl="https://www.torgo.com/blog"/>
+    <outline type="rss" text="W3C - Blog" title="W3C - Blog" xmlUrl="https://www.w3.org/blog/feed/" htmlUrl="https://www.w3.org/blog/"/>
+  </body>
+</opml>

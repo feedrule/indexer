@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>legacy-systems feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Between Systems" title="Between Systems" xmlUrl="https://blog.hermesc.gr/rss/" htmlUrl="https://blog.hermesc.gr/"/>
+    <outline type="rss" text="Legacy Update News" title="Legacy Update News" xmlUrl="https://legacyupdate.net/feed" htmlUrl="https://legacyupdate.net/news"/>
+    <outline type="rss" text="Sander van der Burg's blog" title="Sander van der Burg's blog" xmlUrl="https://sandervanderburg.blogspot.com/feeds/posts/default" htmlUrl="https://sandervanderburg.blogspot.com/"/>
+  </body>
+</opml>

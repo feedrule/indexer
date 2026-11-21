@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>spec-driven-development feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Blog" title="Blog" xmlUrl="https://acai.sh/blog/rss.xml" htmlUrl="https://acai.sh"/>
+    <outline type="rss" text="ai.unicrons.cloud" title="ai.unicrons.cloud" xmlUrl="https://ai.unicrons.cloud/en/feed.xml" htmlUrl="https://ai.unicrons.cloud/en/"/>
+    <outline type="rss" text="FizzBee" title="FizzBee" xmlUrl="https://blog.fizzbee.ai/rss/" htmlUrl="https://blog.fizzbee.ai/"/>
+    <outline type="rss" text="Gojko's blog" title="Gojko's blog" xmlUrl="https://gojko.net/feed.xml" htmlUrl="https://gojko.net/"/>
+    <outline type="rss" text="Martinelli" title="Martinelli" xmlUrl="https://martinelli.ch/feed/" htmlUrl="https://martinelli.ch/"/>
+    <outline type="rss" text="Moss GU" title="Moss GU" xmlUrl="https://mossgreen.github.io/feed" htmlUrl="https://mossgreen.github.io/"/>
+    <outline type="rss" text="Ossature Blog" title="Ossature Blog" xmlUrl="https://ossature.dev/blog/atom.xml" htmlUrl="https://ossature.dev/blog"/>
+    <outline type="rss" text="Practical Analyst" title="Practical Analyst" xmlUrl="https://practicalanalyst.com/feed/" htmlUrl="https://practicalanalyst.com"/>
+    <outline type="rss" text="Posts" title="Posts" xmlUrl="https://www.jacoelho.com/index.xml" htmlUrl="https://www.jacoelho.com/"/>
+    <outline type="rss" text="Posts on Tom Phillips" title="Posts on Tom Phillips" xmlUrl="https://www.tomwphillips.co.uk/blog/index.xml" htmlUrl="https://www.tomwphillips.co.uk/blog/"/>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+{
+  "url": "https://music.vfiles.no/feed.xml",
+  "title": "Music Reviews",
+  "subtitle": "Curated album reviews, artist profiles, and editorial content.",
+  "bytes": 4854,
+  "last": "2026-07-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "music-review"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

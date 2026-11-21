@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sdn feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="SDN Clinic" title="SDN Clinic" xmlUrl="https://blog.sdn.clinic/feed/" htmlUrl="https://blog.sdn.clinic"/>
+    <outline type="rss" text="My little software warehouse" title="My little software warehouse" xmlUrl="https://fedepaol.github.io/index.xml" htmlUrl="https://fedepaol.github.io/"/>
+    <outline type="rss" text="Level Zero Networking" title="Level Zero Networking" xmlUrl="https://lev-0.com/feed/" htmlUrl="https://lev-0.com/"/>
+    <outline type="rss" text="Daniels Networking Blog" title="Daniels Networking Blog" xmlUrl="https://lostintransit.se/feed/" htmlUrl="https://lostintransit.se"/>
+    <outline type="rss" text="Sagar Nangare" title="Sagar Nangare" xmlUrl="https://sagarnangare.com/feed/" htmlUrl="https://sagarnangare.com/"/>
+  </body>
+</opml>

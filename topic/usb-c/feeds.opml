@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>usb-c feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Posts on Michał Kopeć's blog" title="Posts on Michał Kopeć's blog" xmlUrl="http://blog.nozomi.space/posts/index.xml" htmlUrl="http://blog.nozomi.space/posts/"/>
+    <outline type="rss" text="Natalie the Nerd's blog" title="Natalie the Nerd's blog" xmlUrl="https://blog.nataliethenerd.com/rss/" htmlUrl="https://blog.nataliethenerd.com/"/>
+    <outline type="rss" text="Dan S. Charlton" title="Dan S. Charlton" xmlUrl="https://dancharblog.wordpress.com/feed/" htmlUrl="https://dancharblog.wordpress.com"/>
+    <outline type="rss" text="Quentin Santos" title="Quentin Santos" xmlUrl="https://qsantos.fr/feed/" htmlUrl="https://qsantos.fr/"/>
+  </body>
+</opml>

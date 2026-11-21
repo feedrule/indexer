@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cloudformation feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Cloudy Advice" title="Cloudy Advice" xmlUrl="https://cloudyadvice.com/feed/" htmlUrl="https://cloudyadvice.com"/>
+    <outline type="rss" text="kichik's blog" title="kichik's blog" xmlUrl="https://kichik.com/feed/" htmlUrl="https://kichik.com"/>
+    <outline type="rss" text="LetsBuild.cloud" title="LetsBuild.cloud" xmlUrl="https://letsbuild.cloud/feed.xml" htmlUrl="https://letsbuild.cloud/"/>
+    <outline type="rss" text="Software is too expensive to build cheaply…." title="Software is too expensive to build cheaply…." xmlUrl="https://twasink.net/feed/" htmlUrl="https://twasink.net"/>
+  </body>
+</opml>

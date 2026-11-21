@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.victorsilva.com.uy/feed.xml",
+  "title": "$blogTopics | % {echo $_}",
+  "subtitle": "Technical blog about development, ai, security, and cloud engineering by Victor Silva.",
+  "bytes": 665205,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud-security",
+    "terraform",
+    "aws",
+    "oci",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

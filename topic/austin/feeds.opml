@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>austin feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Austin's Nerdy Things" title="Austin's Nerdy Things" xmlUrl="https://austinsnerdythings.com/feed/atom/" htmlUrl="https://austinsnerdythings.com/"/>
+    <outline type="rss" text="Austin's Blog" title="Austin's Blog" xmlUrl="https://blog.hutch.is/rss/" htmlUrl="https://blog.hutch.is/"/>
+    <outline type="rss" text="Fearless Captivations" title="Fearless Captivations" xmlUrl="https://fearlesscaptivations.com/feed/" htmlUrl="https://fearlesscaptivations.com/"/>
+    <outline type="rss" text="The Austin Independent" title="The Austin Independent" xmlUrl="https://theaustinindependent.org/feed/" htmlUrl="https://theaustinindependent.org"/>
+  </body>
+</opml>

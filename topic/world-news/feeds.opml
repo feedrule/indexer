@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>world-news feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world"/>
+    <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" htmlUrl="https://www.ndtv.com/"/>
+    <outline type="rss" text="World" title="World" xmlUrl="http://feeds.washingtonpost.com/rss/world" htmlUrl="https://www.washingtonpost.com"/>
+    <outline type="rss" text="Innocent Bystanders" title="Innocent Bystanders" xmlUrl="https://michaelscomments.wordpress.com/feed/atom/" htmlUrl="https://michaelscomments.wordpress.com"/>
+    <outline type="rss" text="France 24 - International breaking news, top stories and headlines" title="France 24 - International breaking news, top stories and headlines" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
+    <outline type="rss" text="World News" title="World News" xmlUrl="https://www.huffpost.com/section/world-news/feed" htmlUrl="https://www.huffpost.com/news/world-news"/>
+    <outline type="rss" text="The Search for MH370" title="The Search for MH370" xmlUrl="https://www.mh370search.com/feed/" htmlUrl="https://www.mh370search.com"/>
+    <outline type="rss" text="India | The Guardian" title="India | The Guardian" xmlUrl="https://www.theguardian.com/world/india/rss" htmlUrl="https://www.theguardian.com/world/india"/>
+    <outline type="rss" text="Italy | The Guardian" title="Italy | The Guardian" xmlUrl="https://www.theguardian.com/world/italy/rss" htmlUrl="https://www.theguardian.com/world/italy"/>
+    <outline type="rss" text="Mexico | The Guardian" title="Mexico | The Guardian" xmlUrl="https://www.theguardian.com/world/mexico/rss" htmlUrl="https://www.theguardian.com/world/mexico"/>
+    <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>
+  </body>
+</opml>

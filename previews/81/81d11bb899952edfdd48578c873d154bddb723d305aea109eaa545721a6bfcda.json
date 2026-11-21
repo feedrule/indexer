@@ -1,0 +1,19 @@
+{
+  "url": "https://socialspec.org/feeds/news.xml",
+  "title": "SocialSpec.org News",
+  "subtitle": "APIs for social engagement on the world wide web. Built on open standards.",
+  "bytes": 98100,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "social-media",
+    "microblog",
+    "apps"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

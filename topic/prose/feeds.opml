@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>prose feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="I write, therefore I am" title="I write, therefore I am" xmlUrl="https://hadipirzada.bearblog.dev/rss.xml" htmlUrl="https://hadipirzada.bearblog.dev/"/>
+    <outline type="rss" text="vics ── .✦" title="vics ── .✦" xmlUrl="https://vics.bearblog.dev/feed/?type=rss" htmlUrl="https://vics.me/"/>
+    <outline type="rss" text="vics ── .✦" title="vics ── .✦" xmlUrl="https://vics.me/atom/" htmlUrl="https://vics.me/"/>
+  </body>
+</opml>

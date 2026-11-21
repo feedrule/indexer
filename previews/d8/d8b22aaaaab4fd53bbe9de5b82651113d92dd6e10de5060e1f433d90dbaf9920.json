@@ -1,0 +1,19 @@
+{
+  "url": "https://lasthumanity.com/rss.xml",
+  "title": "Last Humanity",
+  "subtitle": "AI security research by Robert Prast — vulnerability research, AI agents, supply chain security, and the systems we are letting think for us.",
+  "bytes": 6230,
+  "last": "2026-08-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-security",
+    "ai-agents",
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://nikolas.blog/feed/",
+  "title": "Nikolas' Blog",
+  "subtitle": "Ein Blog über Technik, Informatik und andere spannende Themen",
+  "bytes": 171438,
+  "last": "2026-01-27",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "openai",
+    "llm"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

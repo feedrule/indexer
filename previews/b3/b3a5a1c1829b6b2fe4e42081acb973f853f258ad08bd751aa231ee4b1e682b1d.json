@@ -1,0 +1,15 @@
+{
+  "url": "https://store.steampowered.com/feeds/news.xml",
+  "title": "Steam RSS News Feed",
+  "subtitle": "All Steam news, all the time!",
+  "bytes": 70750,
+  "last": "2026-11-04",
+  "languages": [],
+  "topics": [
+    "steam"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

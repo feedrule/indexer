@@ -1,0 +1,17 @@
+{
+  "url": "https://destel.dev/rss.xml",
+  "title": "destel.dev",
+  "subtitle": "Notes on Go, concurrency, backend systems, production war stories, side projects, and whatever else catches my interest.",
+  "bytes": 9166,
+  "last": "2026-06-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.sugoi.be/index.xml",
+  "title": "foo::bar",
+  "subtitle": "Recent content on foo::bar",
+  "bytes": 52662,
+  "last": "2026-10-18",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "topics": [
+    "intellij",
+    "jetbrains"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

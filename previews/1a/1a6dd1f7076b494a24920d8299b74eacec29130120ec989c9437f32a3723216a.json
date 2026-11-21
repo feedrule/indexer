@@ -1,0 +1,21 @@
+{
+  "url": "https://chriswarrick.com/rss.xml",
+  "title": "Chris Warrick",
+  "subtitle": "A rarely updated blog, mostly about programming.",
+  "bytes": 527447,
+  "last": "2026-05-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "web-development",
+    "linux",
+    "python",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

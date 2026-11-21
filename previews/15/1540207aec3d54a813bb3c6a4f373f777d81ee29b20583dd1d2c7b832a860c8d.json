@@ -1,0 +1,21 @@
+{
+  "url": "https://chartingtransport.com/feed/",
+  "title": "Charting Transport",
+  "subtitle": "Looking at Australasian transport and cities through graphs and maps",
+  "bytes": 565325,
+  "last": "2026-02-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "public-transport",
+    "transportation",
+    "melbourne",
+    "brisbane",
+    "sydney"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

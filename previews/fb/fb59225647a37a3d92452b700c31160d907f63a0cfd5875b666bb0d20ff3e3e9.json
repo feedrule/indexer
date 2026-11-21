@@ -1,0 +1,19 @@
+{
+  "url": "https://datagraver.com/feed/atom/",
+  "title": "Datagraver",
+  "subtitle": "Digging data",
+  "bytes": 47784,
+  "last": "2026-11-19",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "topics": [
+    "graph-database",
+    "climate-change"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

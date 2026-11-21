@@ -1,0 +1,17 @@
+{
+  "url": "https://eventual-consistency.vercel.app/rss.xml",
+  "title": "Garbage Collected Thoughts",
+  "subtitle": "Everything under the sun that I find interesting (its a lot of things)",
+  "bytes": 1471,
+  "last": "2026-07-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "garbage-collection"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

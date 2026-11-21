@@ -1,0 +1,20 @@
+{
+  "url": "https://cloudyadvice.com/feed/",
+  "title": "Cloudy Advice",
+  "subtitle": "knowledge shared from working in the cloud",
+  "bytes": 173347,
+  "last": "2026-04-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud",
+    "cloudformation",
+    "aws",
+    "devops"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

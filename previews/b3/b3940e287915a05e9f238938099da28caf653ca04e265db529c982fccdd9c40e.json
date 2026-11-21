@@ -1,0 +1,17 @@
+{
+  "url": "https://daniel-lange.com/feeds/index.rss2",
+  "title": "Daniel Lange's blog",
+  "subtitle": "agrep -pB IT /dev/life",
+  "bytes": 78660,
+  "last": "2026-09-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debian"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://code.zikani.me/rss.xml",
+  "title": "Zikani's Blog",
+  "subtitle": "Zikani's Blog",
+  "bytes": 235849,
+  "last": "2026-05-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "golang",
+    "postgresql"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  }
+}

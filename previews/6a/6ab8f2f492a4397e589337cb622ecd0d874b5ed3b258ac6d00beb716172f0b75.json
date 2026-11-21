@@ -1,0 +1,19 @@
+{
+  "url": "https://haskellforall.com/rss.xml",
+  "title": "Haskell for all",
+  "subtitle": "A blog about Haskell and functional programming.",
+  "bytes": 88533,
+  "last": "2026-09-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "type-systems",
+    "haskell",
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

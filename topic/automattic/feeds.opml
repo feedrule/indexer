@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>automattic feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ad-absurdum.me" title="ad-absurdum.me" xmlUrl="https://ad-absurdum.me/rss.xml" htmlUrl="https://ad-absurdum.me"/>
+    <outline type="rss" text="Barry on WordPress" title="Barry on WordPress" xmlUrl="https://barry.blog/feed/" htmlUrl="https://barry.blog"/>
+    <outline type="rss" text="David Calhoun" title="David Calhoun" xmlUrl="https://davidcalhoun.me/feed/" htmlUrl="https://davidcalhoun.me"/>
+    <outline type="rss" text="brokentablets" title="brokentablets" xmlUrl="https://jehuamanna.dev/rss.xml" htmlUrl="https://jehuamanna.dev/"/>
+    <outline type="rss" text="Jerry Jones" title="Jerry Jones" xmlUrl="https://jerryjones.dev/feed/" htmlUrl="https://jerryjones.dev"/>
+    <outline type="rss" text="RISC-V sandbox Blog" title="RISC-V sandbox Blog" xmlUrl="https://libriscv.no/blog/atom.xml" htmlUrl="https://libriscv.no/blog"/>
+    <outline type="rss" text="Matt Mullenweg" title="Matt Mullenweg" xmlUrl="https://ma.tt/feed/" htmlUrl="https://ma.tt"/>
+    <outline type="rss" text="tttardigrade" title="tttardigrade" xmlUrl="https://tttardigrado.bearblog.dev/feed/" htmlUrl="https://tttardigrado.bearblog.dev/"/>
+  </body>
+</opml>

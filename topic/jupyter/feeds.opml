@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>jupyter feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="btema.net" title="btema.net" xmlUrl="https://btema.net/index.xml" htmlUrl="https://btema.net/"/>
+    <outline type="rss" text="Yuvi" title="Yuvi" xmlUrl="https://words.yuvi.in/index.xml" htmlUrl="https://words.yuvi.in/"/>
+    <outline type="rss" text="Julien Enselme personal blog" title="Julien Enselme personal blog" xmlUrl="https://www.jujens.eu/feeds/all.atom.xml" htmlUrl="https://www.jujens.eu/"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>hugo feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Mr. Philip's Library" title="Mr. Philip's Library" xmlUrl="https://mrphilipslibrary.wordpress.com/feed/" htmlUrl="https://mrphilipslibrary.wordpress.com"/>
+    <outline type="rss" text="Home on Ricard Torres" title="Home on Ricard Torres" xmlUrl="https://ricard.dev/feed/" htmlUrl="https://ricard.dev/"/>
+    <outline type="rss" text="Zack of All Trades" title="Zack of All Trades" xmlUrl="https://zackofalltrades.com/index.xml" htmlUrl="http://zackofalltrades.com/"/>
+  </body>
+</opml>

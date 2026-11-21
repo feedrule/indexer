@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>postgis feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BostonGIS" title="BostonGIS" xmlUrl="http://www.bostongis.com/blog/index.php?/feeds/index.rss2" htmlUrl="https://www.bostongis.com/blog/"/>
+    <outline type="rss" text="Auchindown Geo - PostGIS Posts" title="Auchindown Geo - PostGIS Posts" xmlUrl="https://auchindown.com/postgis-rss.xml" htmlUrl="https://auchindown.com/blog"/>
+    <outline type="rss" text="BostonGIS" title="BostonGIS" xmlUrl="https://bostongis.com/blog/index.php?/feeds/index.rss2" htmlUrl="https://www.bostongis.com/blog/"/>
+  </body>
+</opml>

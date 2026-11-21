@@ -1,0 +1,18 @@
+{
+  "url": "https://willem.aandewiel.nl/index.php/feed/",
+  "title": "Willem's Website",
+  "subtitle": "Hosted on AWS lightsail",
+  "bytes": 15864,
+  "last": "2026-11-12",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "topics": [
+    "esp32"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

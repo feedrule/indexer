@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>amd feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="doug.sh" title="doug.sh" xmlUrl="https://doug.sh/index.xml" htmlUrl="https://doug.sh/"/>
+    <outline type="rss" text="Sleeping Robots" title="Sleeping Robots" xmlUrl="https://sleepingrobots.com/rss.xml" htmlUrl="https://sleepingrobots.com/"/>
+    <outline type="rss" text="Posts on Kyriakos Gavras" title="Posts on Kyriakos Gavras" xmlUrl="https://syllogi-graphikon.vercel.app/posts/index.xml" htmlUrl="https://syllogi-graphikon.vercel.app/posts/"/>
+    <outline type="rss" text="Michael's Tinkerings" title="Michael's Tinkerings" xmlUrl="https://www.michaelstinkerings.org/rss/" htmlUrl="https://www.michaelstinkerings.org/"/>
+  </body>
+</opml>

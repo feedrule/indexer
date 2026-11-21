@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sap feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Marian Zeis Blog" title="Marian Zeis Blog" xmlUrl="https://blog.zeis.de/index.xml" htmlUrl="https://blog.zeis.de/"/>
+    <outline type="rss" text="ok-dev" title="ok-dev" xmlUrl="https://ok-dev.eu/atom/" htmlUrl="https://ok-dev.eu/"/>
+    <outline type="rss" text="Home" title="Home" xmlUrl="https://tskc.bearblog.dev/feed/" htmlUrl="https://tskc.bearblog.dev/"/>
+    <outline type="rss" text="wridgeu" title="wridgeu" xmlUrl="https://wridgeu.com/feed/?type=rss" htmlUrl="https://wridgeu.com/"/>
+  </body>
+</opml>

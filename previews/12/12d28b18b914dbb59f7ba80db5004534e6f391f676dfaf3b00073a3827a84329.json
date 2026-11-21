@@ -1,0 +1,17 @@
+{
+  "url": "https://postwave.blog/rss",
+  "title": "Postwave Blog",
+  "subtitle": "A blog created using Postwave and Sinatra.",
+  "bytes": 15814,
+  "last": "2026-01-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postfix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

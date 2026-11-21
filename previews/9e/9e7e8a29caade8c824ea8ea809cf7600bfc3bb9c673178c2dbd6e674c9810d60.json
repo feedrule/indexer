@@ -1,0 +1,21 @@
+{
+  "url": "https://leventkaya.com/rss.xml",
+  "title": "Levent Kaya",
+  "subtitle": "C and C++ deep dives into OS internals, graphics, debugger internals, and retrocomputing.",
+  "bytes": 135873,
+  "last": "2026-08-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "c++",
+    "debugging",
+    "emulation",
+    "java"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

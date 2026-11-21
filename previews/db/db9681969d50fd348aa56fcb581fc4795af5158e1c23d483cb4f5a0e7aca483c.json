@@ -1,0 +1,18 @@
+{
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+  "title": "NYT > Science",
+  "subtitle": null,
+  "bytes": 80569,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "science-policy",
+    "nasa"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.kellybrazil.com/feed/",
+  "title": "Brazil's Blog",
+  "subtitle": "Musings on music and tech",
+  "bytes": 16858,
+  "last": "2026-10-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "jq",
+    "shell-scripting",
+    "json"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

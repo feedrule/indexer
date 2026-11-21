@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>webaudio feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="mo.town blog" title="mo.town blog" xmlUrl="https://0xfe.blogspot.com/feeds/posts/default" htmlUrl="https://0xfe.blogspot.com/"/>
+    <outline type="rss" text="mo's blog" title="mo's blog" xmlUrl="https://mo.town/blog/rss.xml" htmlUrl="https://mo.town/blog/"/>
+    <outline type="rss" text="mo's blog" title="mo's blog" xmlUrl="https://muthanna.com/blog/rss.xml" htmlUrl="https://mo.town/blog/"/>
+    <outline type="rss" text="Rockbox Desktop" title="Rockbox Desktop" xmlUrl="https://rockbox-desktop.leaflet.pub/atom" htmlUrl="https://rockbox-desktop.leaflet.pub"/>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+{
+  "url": "https://michaellivs.com/rss.xml",
+  "title": "/dev/michael",
+  "subtitle": "Thoughts on building with AI agents, Claude Code, infrastructure, and the craft of software engineering. By Michael Livshits.",
+  "bytes": 423690,
+  "last": "2026-05-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents",
+    "ai-agents",
+    "claude-code",
+    "architecture",
+    "context-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

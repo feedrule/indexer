@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wikimedia feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="addshore" title="addshore" xmlUrl="https://addshore.com/feed/" htmlUrl="https://addshore.com"/>
+    <outline type="rss" text="Jan Ainali" title="Jan Ainali" xmlUrl="https://ainali.com/feed/" htmlUrl="https://ainali.com"/>
+    <outline type="rss" text="Blog on Taavi Väänänen" title="Blog on Taavi Väänänen" xmlUrl="https://taavi.wtf/posts/index.xml" htmlUrl="https://taavi.wtf/posts/"/>
+  </body>
+</opml>

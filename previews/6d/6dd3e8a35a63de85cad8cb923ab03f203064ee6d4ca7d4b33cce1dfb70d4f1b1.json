@@ -1,0 +1,17 @@
+{
+  "url": "https://jasonrbriggs.com/journal.atom",
+  "title": "My Feed Title",
+  "subtitle": "My Feed Description",
+  "bytes": 9527,
+  "last": "2026-10-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "micro"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

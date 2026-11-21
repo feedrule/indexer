@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pcb feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Willy Tarreau's stuff" title="Willy Tarreau's stuff" xmlUrl="http://wtarreau.blogspot.com/feeds/posts/default" htmlUrl="http://wtarreau.blogspot.com/"/>
+    <outline type="rss" text="Follow me down the optimization rabbit hole" title="Follow me down the optimization rabbit hole" xmlUrl="https://bitbanksoftware.blogspot.com/feeds/posts/default" htmlUrl="https://bitbanksoftware.blogspot.com/"/>
+    <outline type="rss" text="Bert Simonovich's Design Notes" title="Bert Simonovich's Design Notes" xmlUrl="https://blog.lamsimenterprises.com/feed/" htmlUrl="https://blog.lamsimenterprises.com"/>
+    <outline type="rss" text="ByTechLab" title="ByTechLab" xmlUrl="https://bytechlab.com/feed/" htmlUrl="https://bytechlab.com/"/>
+    <outline type="rss" text="Nick’s Misc Blog" title="Nick’s Misc Blog" xmlUrl="https://nickcheng0921.github.io/feed" htmlUrl="https://nickcheng0921.github.io/"/>
+    <outline type="rss" text="RevK®'s ramblings" title="RevK®'s ramblings" xmlUrl="https://www.revk.uk/feeds/posts/default" htmlUrl="https://www.revk.uk/"/>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+{
+  "url": "https://haitmg.pl/rss.xml",
+  "title": "HAIT | Cloud & DevOps Blog",
+  "subtitle": "Technical articles on AWS, Terraform, CI/CD, Kubernetes, and cloud architecture.",
+  "bytes": 14742,
+  "last": "2026-07-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws",
+    "aws-lambda",
+    "cloud-security",
+    "terraform",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

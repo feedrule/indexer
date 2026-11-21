@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.jromanmartin.io/feed.xml",
+  "title": "Roman’s Blog",
+  "subtitle": "My personal blog about any kind of technical topics (integration, messaging, developing, ...).",
+  "bytes": 104939,
+  "last": "2026-06-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "github",
+    "openshift",
+    "git",
+    "tutorial",
+    "development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

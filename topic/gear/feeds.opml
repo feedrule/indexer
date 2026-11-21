@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gear feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Brooks Review" title="The Brooks Review" xmlUrl="https://brooksreview.net/feed/" htmlUrl="https://brooksreview.net"/>
+    <outline type="rss" text="pig-monkey.com" title="pig-monkey.com" xmlUrl="https://pig-monkey.com/feed.atom" htmlUrl="https://pig-monkey.com/"/>
+    <outline type="rss" text="The Frugal Noodle" title="The Frugal Noodle" xmlUrl="https://www.thefrugalnoodle.com/feed/" htmlUrl="https://www.thefrugalnoodle.com/"/>
+  </body>
+</opml>

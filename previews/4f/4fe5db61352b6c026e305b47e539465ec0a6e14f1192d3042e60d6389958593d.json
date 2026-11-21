@@ -1,0 +1,17 @@
+{
+  "url": "https://kolistat.com/feed.xml",
+  "title": "KoliStat blog",
+  "subtitle": "Notes from the founder on building modern tooling for clinical and tabular data — SAS, DuckDB, WebAssembly, and the craft of byte-parity engineering.",
+  "bytes": 231657,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "duckdb"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

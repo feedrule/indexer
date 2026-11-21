@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>temporal feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Architecting Bytes" title="Architecting Bytes" xmlUrl="https://architectingbytes.com/index.xml" htmlUrl="https://www.architectingbytes.com/"/>
+    <outline type="rss" text="The Computus Engine" title="The Computus Engine" xmlUrl="https://computus.org/rss/" htmlUrl="https://computus.org/"/>
+    <outline type="rss" text="Keith Tenzer’s Blog" title="Keith Tenzer’s Blog" xmlUrl="https://keithtenzer.com/feed.xml" htmlUrl="https://keithtenzer.com/"/>
+  </body>
+</opml>

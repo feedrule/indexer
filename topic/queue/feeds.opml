@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>queue feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Shalvah's Blog" title="Shalvah's Blog" xmlUrl="https://blog.shalvah.me/feed.xml" htmlUrl="https://blog.shalvah.me"/>
+    <outline type="rss" text="Endless Queue" title="Endless Queue" xmlUrl="https://endlessqueue.com/rss.xml" htmlUrl="https://endlessqueue.com/"/>
+    <outline type="rss" text="Blog on Nahla" title="Blog on Nahla" xmlUrl="https://nahla.dev/blog/index.xml" htmlUrl="https://nahla.dev/blog/"/>
+    <outline type="rss" text="Home on Nahla" title="Home on Nahla" xmlUrl="https://nahla.dev/index.xml" htmlUrl="https://nahla.dev/"/>
+    <outline type="rss" text="Syntactic Brown Sugar Blog" title="Syntactic Brown Sugar Blog" xmlUrl="https://www.syntacticbrownsugar.tech/index.xml" htmlUrl="https://syntacticbrownsugar.tech/"/>
+  </body>
+</opml>

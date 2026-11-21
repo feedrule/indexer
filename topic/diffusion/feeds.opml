@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>diffusion feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Strayforge on StrayForge" title="Strayforge on StrayForge" xmlUrl="https://blog.strayforge.com/index.xml" htmlUrl="https://blog.strayforge.com/"/>
+    <outline type="rss" text="Sander Dieleman" title="Sander Dieleman" xmlUrl="https://sander.ai/feed.xml" htmlUrl="https://sander.ai/"/>
+    <outline type="rss" text="Deep Exploration" title="Deep Exploration" xmlUrl="https://www.deepexploration.org/feed.xml" htmlUrl="https://tailwind-nextjs-starter-blog.vercel.app/blog"/>
+  </body>
+</opml>

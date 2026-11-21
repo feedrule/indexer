@@ -1,0 +1,17 @@
+{
+  "url": "https://brodan.biz/blog/rss/",
+  "title": "from brodan import Blog",
+  "subtitle": "A blog about programming, technology, tattoos, music, etc.",
+  "bytes": 260826,
+  "last": "2026-01-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nginx"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

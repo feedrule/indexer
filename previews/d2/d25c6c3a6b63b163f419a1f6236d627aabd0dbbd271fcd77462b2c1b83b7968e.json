@@ -1,0 +1,17 @@
+{
+  "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+  "title": "NASA",
+  "subtitle": "Official National Aeronautics and Space Administration Website",
+  "bytes": 243072,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nasa"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

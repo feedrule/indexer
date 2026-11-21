@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>customer-service feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="shri.cx" title="shri.cx" xmlUrl="https://shri.cx/index.xml" htmlUrl="https://shri.cx/"/>
+    <outline type="rss" text="Sixteen Ventures" title="Sixteen Ventures" xmlUrl="https://sixteenventures.com/feed.xml" htmlUrl="https://sixteenventures.com"/>
+    <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed" htmlUrl="https://www.intercom.com/blog"/>
+  </body>
+</opml>

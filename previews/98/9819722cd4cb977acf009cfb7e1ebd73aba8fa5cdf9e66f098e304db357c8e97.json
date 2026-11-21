@@ -1,0 +1,17 @@
+{
+  "url": "https://www.bretfisher.com/blog.rss",
+  "title": "Bret's Cloud Native DevOps Blog",
+  "subtitle": "Foundational topics on DevOps engineering, containers (Docker), cloud native computing and architecture, workload orchestration (Kubernetes and Swarm), automation (GitHub Actions), and Agentic DevOps.",
+  "bytes": 201947,
+  "last": "2025-12-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

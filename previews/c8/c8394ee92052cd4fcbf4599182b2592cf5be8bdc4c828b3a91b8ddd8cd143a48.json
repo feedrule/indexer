@@ -1,0 +1,17 @@
+{
+  "url": "https://zena-lang.dev/blog/feed.xml",
+  "title": "Zena Blog",
+  "subtitle": "Zena is a statically typed language that compiles to small, fast WebAssembly GC binaries, with a familiar syntax and a sound type system.",
+  "bytes": 92394,
+  "last": "2026-10-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "zen"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

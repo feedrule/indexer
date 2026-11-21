@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>macintosh feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="persistent.info" title="persistent.info" xmlUrl="https://blog.persistent.info/feeds/posts/default" htmlUrl="https://blog.persistent.info/"/>
+    <outline type="rss" text="The metalbabble.com 68k blog" title="The metalbabble.com 68k blog" xmlUrl="https://metalbabble.wordpress.com/feed/" htmlUrl="https://metalbabble.wordpress.com"/>
+    <outline type="rss" text="Midnight Cheese Blog" title="Midnight Cheese Blog" xmlUrl="https://midnightcheese.com/atom.xml" htmlUrl="https://midnightcheese.com/"/>
+    <outline type="rss" text="Mr. Macintosh" title="Mr. Macintosh" xmlUrl="https://mrmacintosh.com/feed/atom/" htmlUrl="https://mrmacintosh.com/"/>
+    <outline type="rss" text="Thomas" title="Thomas" xmlUrl="https://thomasw.dev/feed.xml" htmlUrl="https://thomasw.dev/"/>
+    <outline type="rss" text="Downtown Doug Brown" title="Downtown Doug Brown" xmlUrl="https://www.downtowndougbrown.com/feed/" htmlUrl="https://www.downtowndougbrown.com"/>
+  </body>
+</opml>

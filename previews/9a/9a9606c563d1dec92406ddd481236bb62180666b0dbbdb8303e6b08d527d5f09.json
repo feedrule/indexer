@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ulisesgascon.com/rss.xml",
+  "title": "El blog de Ulises Gascón",
+  "subtitle": "Tecnología y otros placeres",
+  "bytes": 97651,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "express",
+    "nodejs",
+    "cve",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

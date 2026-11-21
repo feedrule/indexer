@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>types feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Jake Zimmerman" title="Jake Zimmerman" xmlUrl="https://blog.jez.io/atom.xml" htmlUrl="https://blog.jez.io/"/>
+    <outline type="rss" text="Harry Garrood’s blog" title="Harry Garrood’s blog" xmlUrl="https://harry.garrood.me/atom.xml" htmlUrl="https://harry.garrood.me/"/>
+    <outline type="rss" text="Intricate Software" title="Intricate Software" xmlUrl="https://intricate.software/index.xml" htmlUrl="https://intricate.software/"/>
+  </body>
+</opml>

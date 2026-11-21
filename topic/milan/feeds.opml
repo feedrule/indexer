@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>milan feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="box scores" title="box scores" xmlUrl="https://boxscores.bearblog.dev/feed/" htmlUrl="https://boxscores.bearblog.dev/"/>
+    <outline type="rss" text="Leonardo Trapani" title="Leonardo Trapani" xmlUrl="https://leotrapani.com/rss" htmlUrl="https://leotrapani.com"/>
+    <outline type="rss" text="SoccerNews" title="SoccerNews" xmlUrl="https://www.soccernews.com/feed" htmlUrl="https://www.soccernews.com/"/>
+  </body>
+</opml>

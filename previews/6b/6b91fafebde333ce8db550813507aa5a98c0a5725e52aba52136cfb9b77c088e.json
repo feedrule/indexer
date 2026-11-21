@@ -1,0 +1,21 @@
+{
+  "url": "https://talesfrom.dev/feed.xml",
+  "title": "Tales from Dev",
+  "subtitle": "Tales about mistakes, learning, software, programming, philosophy, life",
+  "bytes": 3115376,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "abstraction",
+    "software-design",
+    "domain-driven-design",
+    "software-architecture",
+    "communication"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

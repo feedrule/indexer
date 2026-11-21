@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>transit feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Human Transit" title="Human Transit" xmlUrl="https://humantransit.org/feed/atom" htmlUrl="https://humantransit.org/"/>
+    <outline type="rss" text="Steve Munro" title="Steve Munro" xmlUrl="https://stevemunro.ca/feed/" htmlUrl="https://stevemunro.ca"/>
+  </body>
+</opml>

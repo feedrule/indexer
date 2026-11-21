@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loicb.dev/blog/rss/all-feed.xml",
+  "title": "Loic Blanchard - Blog Feed",
+  "subtitle": "All blog articles",
+  "bytes": 434242,
+  "last": "2026-09-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure",
+    "clojurescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

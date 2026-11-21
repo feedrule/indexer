@@ -1,0 +1,17 @@
+{
+  "url": "https://edjgeek.com/rss.xml",
+  "title": "edjgeek",
+  "subtitle": "Developer, Speaker, Tinkerer — serverless, AI agents, and whatever else is on my mind.",
+  "bytes": 5740,
+  "last": "2026-10-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws-lambda"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

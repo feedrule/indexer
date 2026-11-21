@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>build feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Onyx Mueller" title="Onyx Mueller" xmlUrl="https://onyxmueller.net/feed.xml" htmlUrl="https://onyxmueller.net/"/>
+    <outline type="rss" text="Phroneses.com" title="Phroneses.com" xmlUrl="https://phroneses.com/feeds/all.atom.xml" htmlUrl="https://phroneses.com/"/>
+    <outline type="rss" text="Project Colonial Viper Blog" title="Project Colonial Viper Blog" xmlUrl="https://projectviper.wordpress.com/feed/" htmlUrl="https://projectviper.wordpress.com"/>
+    <outline type="rss" text="Greg Raiz" title="Greg Raiz" xmlUrl="https://www.gregraiz.com/feed.xml" htmlUrl="https://www.gregraiz.com/"/>
+    <outline type="rss" text="Jason Pearson" title="Jason Pearson" xmlUrl="https://www.jasonpearson.dev/rss/" htmlUrl="https://www.jasonpearson.dev/"/>
+  </body>
+</opml>

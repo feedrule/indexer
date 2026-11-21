@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>note-taking feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Home on Ethan Myers" title="Home on Ethan Myers" xmlUrl="https://ethan.id/index.xml" htmlUrl="https://ethan.id/"/>
+    <outline type="rss" text="Margin — Writing" title="Margin — Writing" xmlUrl="https://gomargin.app/blog/feed.xml" htmlUrl="https://gomargin.app/blog/"/>
+    <outline type="rss" text="Parker Adey" title="Parker Adey" xmlUrl="https://pgadey.ca/index.xml" htmlUrl="https://pgadey.ca/"/>
+    <outline type="rss" text="Set blog" title="Set blog" xmlUrl="https://writewithset.com/blog/rss.xml" htmlUrl="https://writewithset.com/blog"/>
+  </body>
+</opml>

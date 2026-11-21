@@ -1,0 +1,20 @@
+{
+  "url": "https://giovannifilardo.com/feed.xml",
+  "title": "Giovanni's notebook",
+  "subtitle": "Notes on software architecture, engineering, and the craft of building well.",
+  "bytes": 4313,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "architecture",
+    "design",
+    "api-design",
+    "software"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

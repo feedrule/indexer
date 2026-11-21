@@ -1,0 +1,17 @@
+{
+  "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+  "title": "BBC Sport",
+  "subtitle": "BBC Sport - Football",
+  "bytes": 63712,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "liverpool"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

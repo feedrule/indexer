@@ -1,0 +1,21 @@
+{
+  "url": "https://neis-one.org/feed/",
+  "title": "Neis One!",
+  "subtitle": "by Pascal Neis",
+  "bytes": 69924,
+  "last": "2026-06-28",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "topics": [
+    "openstreetmap",
+    "ai",
+    "ollama",
+    "benchmark"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

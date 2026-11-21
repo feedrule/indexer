@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>data-structures feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="home on CuriousCoding" title="home on CuriousCoding" xmlUrl="https://curiouscoding.nl/index.xml" htmlUrl="https://curiouscoding.nl/"/>
+    <outline type="rss" text="Blog - Monday Morning Haskell" title="Blog - Monday Morning Haskell" xmlUrl="https://mmhaskell.com/blog?format=rss" htmlUrl="https://mmhaskell.com/blog/"/>
+    <outline type="rss" text="Randy Gaul’s Game Programming Blog" title="Randy Gaul’s Game Programming Blog" xmlUrl="https://randygaul.github.io/feed" htmlUrl="https://randygaul.github.io/"/>
+    <outline type="rss" text="NP-Incompleteness |" title="NP-Incompleteness |" xmlUrl="https://www.kuniga.me/feed.xml" htmlUrl="https://www.kuniga.me/"/>
+  </body>
+</opml>

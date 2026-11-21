@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tmux feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Michael Welford" title="Michael Welford" xmlUrl="https://its.mw/atom.xml" htmlUrl="https://its.mw/"/>
+    <outline type="rss" text="ManiacalRobot / VAR" title="ManiacalRobot / VAR" xmlUrl="https://maniacalrobot.co.uk/var/feed.rss" htmlUrl="https://maniacalrobot.co.uk/var"/>
+    <outline type="rss" text="Raine Virta" title="Raine Virta" xmlUrl="https://raine.dev/atom.xml" htmlUrl="https://raine.dev"/>
+    <outline type="rss" text="Listening, Thinking, Building" title="Listening, Thinking, Building" xmlUrl="https://romain.dorgueil.net/rss.xml" htmlUrl="https://romain.dorgueil.net/"/>
+    <outline type="rss" text="vim, git, aws and other three-letter words" title="vim, git, aws and other three-letter words" xmlUrl="https://serebrov.github.io/index.xml" htmlUrl="https://serebrov.github.io/"/>
+    <outline type="rss" text="seanh.cc" title="seanh.cc" xmlUrl="https://www.seanh.cc/feed.xml" htmlUrl="https://www.seanh.cc/"/>
+  </body>
+</opml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>prototyping feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Benny's Mind Hack" title="Benny's Mind Hack" xmlUrl="https://bennycheung.github.io/feed.xml" htmlUrl="https://bennycheung.github.io/"/>
+    <outline type="rss" text="Viktor’s DIY Blog" title="Viktor’s DIY Blog" xmlUrl="https://diy.viktak.com/feed" htmlUrl="https://diy.viktak.com"/>
+    <outline type="rss" text="Fresh van Root" title="Fresh van Root" xmlUrl="https://freshvanroot.com/feed/" htmlUrl="https://freshvanroot.com/"/>
+    <outline type="rss" text="Blog" title="Blog" xmlUrl="https://lellep.xyz/blog/feeds/all.atom.xml" htmlUrl="https://lellep.xyz/blog/"/>
+    <outline type="rss" text="Pau Giner" title="Pau Giner" xmlUrl="https://pauginer.com/rss" htmlUrl="https://pauginer.com/"/>
+    <outline type="rss" text="Yibo Fu" title="Yibo Fu" xmlUrl="https://yibo-fu.com/rss" htmlUrl="https://yibo-fu.com"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://webofmike.com/index.xml",
+  "title": "Web of Mike",
+  "subtitle": "Articles by Mike Moore on the agentic mesh, agent runtimes, AI gateways, Kubernetes, platform engineering, observability, and cloud-native software development.",
+  "bytes": 3034496,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "security",
+    "mcp"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://tuios.dev/blog/atom.xml",
+  "title": "tuios engineering blog",
+  "subtitle": "Long engineering posts about building tuios: bugs, measurements, and the diagnoses that turned out to be wrong.",
+  "bytes": 802846,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

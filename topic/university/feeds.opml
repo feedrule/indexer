@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>university feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="UOL - Seu universo online" title="UOL - Seu universo online" xmlUrl="http://rss.home.uol.com.br/index.xml" htmlUrl="https://www.uol.com.br"/>
+    <outline type="rss" text="UToledo News" title="UToledo News" xmlUrl="https://news.utoledo.edu/index.php/feed" htmlUrl="https://news.utoledo.edu"/>
+    <outline type="rss" text="Thomas Guignard photography" title="Thomas Guignard photography" xmlUrl="https://thomasguignard.photo/feed/" htmlUrl="https://thomasguignard.photo"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pixel-art feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="30fps.net" title="30fps.net" xmlUrl="https://30fps.net/atom.xml" htmlUrl="https://30fps.net"/>
+    <outline type="rss" text="Home on /dev/urandom's dev site" title="Home on /dev/urandom's dev site" xmlUrl="https://devurandom.xyz/index.xml" htmlUrl="https://devurandom.xyz/"/>
+    <outline type="rss" text="Oscar Sanchez Essays" title="Oscar Sanchez Essays" xmlUrl="https://oscarsanchez.com/rss.xml" htmlUrl="https://oscarsanchez.com/"/>
+    <outline type="rss" text="Paul Kinchla" title="Paul Kinchla" xmlUrl="https://paulkinchla.com/feed/" htmlUrl="https://paulkinchla.com/"/>
+    <outline type="rss" text="Winter Rant" title="Winter Rant" xmlUrl="https://rant.vpalepu.com/feed/" htmlUrl="https://rant.vpalepu.com"/>
+    <outline type="rss" text="2D digital art and painting" title="2D digital art and painting" xmlUrl="https://sketchbooky.wordpress.com/feed/" htmlUrl="https://sketchbooky.wordpress.com"/>
+    <outline type="rss" text="Pushing Pixels" title="Pushing Pixels" xmlUrl="https://www.pushing-pixels.org/feed" htmlUrl="https://www.pushing-pixels.org"/>
+    <outline type="rss" text="Retronator" title="Retronator" xmlUrl="https://www.retronator.com/rss" htmlUrl="https://www.retronator.com/"/>
+    <outline type="rss" text="Blog - SLYNYRD" title="Blog - SLYNYRD" xmlUrl="https://www.slynyrd.com/blog?format=rss" htmlUrl="https://www.slynyrd.com/blog/"/>
+    <outline type="rss" text="Tokimon — devlog" title="Tokimon — devlog" xmlUrl="https://www.tokimon.io/blog/rss.xml" htmlUrl="https://tokimon.app/"/>
+  </body>
+</opml>

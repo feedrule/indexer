@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>hackthebox feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="0xdf hacks stuff" title="0xdf hacks stuff" xmlUrl="https://0xdf.gitlab.io/feed.xml" htmlUrl="https://0xdf.gitlab.io/"/>
+    <outline type="rss" text="Homepage on Aditya Telange" title="Homepage on Aditya Telange" xmlUrl="https://adityatelange.in/index.xml" htmlUrl="https://adityatelange.in/"/>
+    <outline type="rss" text="HackerAsk" title="HackerAsk" xmlUrl="https://hackerask.com/feed.xml" htmlUrl="https://hackerask.com/"/>
+    <outline type="rss" text="joshkerr.com" title="joshkerr.com" xmlUrl="https://joshkerr.com/rss/" htmlUrl="https://joshkerr.com/"/>
+    <outline type="rss" text="RootInProgress" title="RootInProgress" xmlUrl="https://rootinprogress.dev/feed/" htmlUrl="https://rootinprogress.dev/"/>
+    <outline type="rss" text="spoons.fyi" title="spoons.fyi" xmlUrl="https://spoons.fyi/feeds/all.rss.xml" htmlUrl="https://spoons.fyi/"/>
+  </body>
+</opml>

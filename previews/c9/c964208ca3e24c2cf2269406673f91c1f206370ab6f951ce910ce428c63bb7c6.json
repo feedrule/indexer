@@ -1,0 +1,19 @@
+{
+  "url": "https://engseclabs.com/feed.xml",
+  "title": "EngSecLabs",
+  "subtitle": "Alex Smolen's notes on security engineering, leadership, and practice — plus the open-source security tools he builds.",
+  "bytes": 80724,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "ai-agents",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

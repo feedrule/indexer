@@ -1,0 +1,17 @@
+{
+  "url": "https://k33g.org/rss.xml",
+  "title": "k33g_org's Blog",
+  "subtitle": "Notes from the edges of tech: small local LLMs that actually fit on your laptop, containers that keep things clean, and programming languages nobody asked for (but everyone should try).",
+  "bytes": 251225,
+  "last": "2026-10-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

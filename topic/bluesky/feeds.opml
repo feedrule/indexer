@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bluesky feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ceets.vip" title="ceets.vip" xmlUrl="https://ceets.vip/feed.xml" htmlUrl="https://ceets.vip/"/>
+    <outline type="rss" text="ChipChirp 𓇼" title="ChipChirp 𓇼" xmlUrl="https://chipchirp.digital/feed.xml" htmlUrl="https://chipchirp.digital/"/>
+    <outline type="rss" text="Jerz.US" title="Jerz.US" xmlUrl="https://jerz.us/atom" htmlUrl="https://jerz.us/"/>
+    <outline type="rss" text="Stefan Bohacek's Personal Website and Blog" title="Stefan Bohacek's Personal Website and Blog" xmlUrl="https://stefanbohacek.com/feed/" htmlUrl="https://stefanbohacek.com"/>
+    <outline type="rss" text="Toni.org" title="Toni.org" xmlUrl="https://toni.org/feed/" htmlUrl="https://toni.org"/>
+    <outline type="rss" text="Paul's Dev Notes" title="Paul's Dev Notes" xmlUrl="https://www.pfrazee.com/feed.xml" htmlUrl="https://pfrazee.com/blog"/>
+  </body>
+</opml>

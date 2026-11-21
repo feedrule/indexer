@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>release feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="CGP — Context-Generic Programming Blog" title="CGP — Context-Generic Programming Blog" xmlUrl="https://contextgeneric.dev/blog/atom.xml" htmlUrl="https://contextgeneric.dev/blog/"/>
+    <outline type="rss" text="OpenScreen development journal" title="OpenScreen development journal" xmlUrl="https://getopenscreen.com/blog/atom.xml" htmlUrl="https://getopenscreen.com/blog/"/>
+    <outline type="rss" text="Giancarlos' Tech Blog" title="Giancarlos' Tech Blog" xmlUrl="https://giancarlostoro.com/feed.xml" htmlUrl="https://giancarlostoro.com"/>
+    <outline type="rss" text="Latest News on LIEF" title="Latest News on LIEF" xmlUrl="https://lief.re/blog/index.xml" htmlUrl="https://lief.re/blog/"/>
+    <outline type="rss" text="SomeWM Blog" title="SomeWM Blog" xmlUrl="https://somewm.org/blog/atom.xml" htmlUrl="https://somewm.org/blog"/>
+    <outline type="rss" text="The Usual Tongues" title="The Usual Tongues" xmlUrl="https://theusualtongues.com/feed/" htmlUrl="https://theusualtongues.com/"/>
+    <outline type="rss" text="Wololo.net" title="Wololo.net" xmlUrl="https://wololo.net/feed/" htmlUrl="https://wololo.net/"/>
+    <outline type="rss" text="WordPress News" title="WordPress News" xmlUrl="https://wordpress.org/news/feed/" htmlUrl="https://wordpress.org/news"/>
+  </body>
+</opml>

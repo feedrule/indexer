@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>astro feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="amateur astro" title="amateur astro" xmlUrl="https://amateurastro.bearblog.dev/feed/" htmlUrl="https://amateurastro.bearblog.dev/"/>
+    <outline type="rss" text="Astrovelo" title="Astrovelo" xmlUrl="https://astrovelo.com/posts_feed" htmlUrl="https://astrovelo.com"/>
+    <outline type="rss" text="Otterlord's Blog" title="Otterlord's Blog" xmlUrl="https://blog.otterlord.dev/rss.xml" htmlUrl="https://blog.otterlord.dev/"/>
+    <outline type="rss" text="The Astrolabe Project" title="The Astrolabe Project" xmlUrl="https://www.astrolabeproject.com/feed/atom/" htmlUrl="https://www.astrolabeproject.com/"/>
+    <outline type="rss" text="rainsberger.ca | Blog" title="rainsberger.ca | Blog" xmlUrl="https://www.rainsberger.ca/blog/rss.xml" htmlUrl="https://www.rainsberger.ca/"/>
+  </body>
+</opml>

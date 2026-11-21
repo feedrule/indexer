@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>azure-functions feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Joonas W's blog" title="Joonas W's blog" xmlUrl="https://joonasw.net/rss" htmlUrl="https://joonasw.net"/>
+    <outline type="rss" text="Matt's work blog" title="Matt's work blog" xmlUrl="https://mattfrear.com/feed/" htmlUrl="https://mattfrear.com"/>
+    <outline type="rss" text="TechiesWeb.NET" title="TechiesWeb.NET" xmlUrl="https://techiesweb.net/feed.xml" htmlUrl="https://techiesweb.net/"/>
+  </body>
+</opml>

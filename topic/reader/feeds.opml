@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>reader feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Distant Reader Blog" title="Distant Reader Blog" xmlUrl="https://distantreader.org/blog/readings.rss" htmlUrl="https://distantreader.org/blog/"/>
+    <outline type="rss" text="Infactuous" title="Infactuous" xmlUrl="https://infactuous.bearblog.dev/feed/" htmlUrl="https://infactuous.bearblog.dev/"/>
+    <outline type="rss" text="jocmp" title="jocmp" xmlUrl="https://jocmp.com/feed.xml" htmlUrl="https://jocmp.com/"/>
+    <outline type="rss" text="Lost Reader" title="Lost Reader" xmlUrl="https://lostreader.bearblog.dev/feed.xml" htmlUrl="https://lostreader.bearblog.dev/"/>
+    <outline type="rss" text="rcw readers" title="rcw readers" xmlUrl="https://readmyshit.xyz/feed/" htmlUrl="https://readmyshit.xyz/"/>
+  </body>
+</opml>

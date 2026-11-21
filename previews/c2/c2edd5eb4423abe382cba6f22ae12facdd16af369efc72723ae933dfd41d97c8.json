@@ -1,0 +1,20 @@
+{
+  "url": "https://www.space.com/feeds/all",
+  "title": "Latest from Space.com",
+  "subtitle": "All the latest content from the Space.com team",
+  "bytes": 1160031,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nasa",
+    "space-exploration",
+    "astronomy",
+    "mission"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

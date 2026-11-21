@@ -1,0 +1,18 @@
+{
+  "url": "https://train-it.eu/rss.xml",
+  "title": "Train IT",
+  "subtitle": "Modern C++ deep dives from the Train IT blog, plus talks, awards, and news from the ISO C++ committee.",
+  "bytes": 928103,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "c++",
+    "concurrency"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

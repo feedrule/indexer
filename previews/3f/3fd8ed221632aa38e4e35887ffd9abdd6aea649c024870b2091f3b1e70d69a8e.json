@@ -1,0 +1,17 @@
+{
+  "url": "https://agent-wow.sh/feed/",
+  "title": "agent-wow",
+  "subtitle": "agent-wow is an open-source project exploring the capabilities of LLM-powered agents to play World of Warcraft autonomously.",
+  "bytes": 76659,
+  "last": "2026-10-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "world-of-warcraft"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

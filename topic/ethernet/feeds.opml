@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ethernet feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="esp8266hints" title="esp8266hints" xmlUrl="https://esp8266hints.wordpress.com/feed/" htmlUrl="https://esp8266hints.wordpress.com"/>
+    <outline type="rss" text="Ethereal Wake" title="Ethereal Wake" xmlUrl="https://etherealwake.com/index.xml" htmlUrl="https://etherealwake.com/"/>
+    <outline type="rss" text="Dr. Christian Kohlschütter" title="Dr. Christian Kohlschütter" xmlUrl="https://kohlschuetter.github.io/blog/feed.xml" htmlUrl="https://kohlschuetter.github.io/blog/"/>
+  </body>
+</opml>

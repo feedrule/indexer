@@ -1,0 +1,17 @@
+{
+  "url": "https://gribnau.dev/atom.xml",
+  "title": "Don't panic, impl Things",
+  "subtitle": "match x { \"Martijn Gribnau\" => blog!(), _ => open!(\"github.com/foresterre\") }",
+  "bytes": 304767,
+  "last": "2026-08-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

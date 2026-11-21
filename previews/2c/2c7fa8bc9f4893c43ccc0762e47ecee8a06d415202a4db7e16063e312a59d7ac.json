@@ -1,0 +1,18 @@
+{
+  "url": "https://arcaneknowledge.org/arcanerss.xml",
+  "title": "Arcane Knowledge",
+  "subtitle": "Essays and source texts on obscure topics in history, philosophy, theology and science.",
+  "bytes": 23409,
+  "last": "2025-12-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "philosophy",
+    "natural-history"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

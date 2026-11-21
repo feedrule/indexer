@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wargames feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Friend or Foe" title="Friend or Foe" xmlUrl="https://blog.friendorfoe.com/feeds/posts/default" htmlUrl="https://blog.friendorfoe.com/"/>
+    <outline type="rss" text="Osongas" title="Osongas" xmlUrl="https://osongas.bearblog.dev/feed/" htmlUrl="https://osongas.bearblog.dev/"/>
+    <outline type="rss" text="The Boardgames Chronicle" title="The Boardgames Chronicle" xmlUrl="https://theboardgameschronicle.com/feed/" htmlUrl="https://theboardgameschronicle.com"/>
+    <outline type="rss" text="Wargaming Miscellany" title="Wargaming Miscellany" xmlUrl="https://wargamingmiscellany.blogspot.com/feeds/posts/default" htmlUrl="https://wargamingmiscellany.blogspot.com/"/>
+    <outline type="rss" text="General Staff" title="General Staff" xmlUrl="https://www.general-staff.com/feed/atom/" htmlUrl="https://www.general-staff.com"/>
+    <outline type="rss" text="Yarkshire Gamer" title="Yarkshire Gamer" xmlUrl="https://yarkshiregamer.blogspot.com/feeds/posts/default" htmlUrl="https://yarkshiregamer.blogspot.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>betting feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="penaltyblog" title="penaltyblog" xmlUrl="https://pena.lt/y/feeds/all.atom.xml" htmlUrl="https://pena.lt/y/"/>
+    <outline type="rss" text="Home on Vinicius Esposito" title="Home on Vinicius Esposito" xmlUrl="https://viniciusesposito.com/index.xml" htmlUrl="https://viniciusesposito.com/"/>
+    <outline type="rss" text="politicalbetting.com" title="politicalbetting.com" xmlUrl="https://www.politicalbetting.com/index.php/feed/" htmlUrl="https://www.politicalbetting.com"/>
+  </body>
+</opml>

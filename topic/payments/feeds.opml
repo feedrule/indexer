@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>payments feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bits on Blocks" title="Bits on Blocks" xmlUrl="https://bitsonblocks.net/feed/" htmlUrl="https://bitsonblocks.net/"/>
+    <outline type="rss" text="The Business of Payments" title="The Business of Payments" xmlUrl="https://businessofpayments.com/feed/" htmlUrl="https://businessofpayments.com"/>
+    <outline type="rss" text="Matt Brown — writing index" title="Matt Brown — writing index" xmlUrl="https://mtb.xyz/rss.xml" htmlUrl="https://mtb.xyz/"/>
+    <outline type="rss" text="Shane Logsdon" title="Shane Logsdon" xmlUrl="https://shane.logsdon.io/feed.xml" htmlUrl="https://shane.logsdon.io/"/>
+  </body>
+</opml>

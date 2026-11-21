@@ -1,0 +1,18 @@
+{
+  "url": "https://cstrivia.com/rss.xml",
+  "title": "CS Trivia",
+  "subtitle": "New computer science crosswords, design notes, and exhibits",
+  "bytes": 10548,
+  "last": "2026-07-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "computer-architecture",
+    "puzzles"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

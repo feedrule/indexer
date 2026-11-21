@@ -1,0 +1,19 @@
+{
+  "url": "https://avneeshk.me/feed.xml",
+  "title": "Avneesh Kasture",
+  "subtitle": "Building secure MCP servers for clients — hardening the agentic layer against prompt injection, tool misuse, and privilege abuse. Field notes on MCP security, agentic safety, and shipping AI platforms",
+  "bytes": 140590,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mcp-server",
+    "mcp",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://denbeke.be/blog/feed/",
+  "title": "DenBeke",
+  "subtitle": "Mathias Beke",
+  "bytes": 17571,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "event-sourcing",
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

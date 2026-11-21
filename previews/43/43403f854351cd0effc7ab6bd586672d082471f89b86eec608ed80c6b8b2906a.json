@@ -1,0 +1,20 @@
+{
+  "url": "https://rezzed.ai/blog/feed.xml",
+  "title": "rezzed.ai Blog",
+  "subtitle": "Engineering patterns, build logs, and field notes from running a production AI agent network.",
+  "bytes": 10434,
+  "last": "2026-03-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "multi-agent",
+    "architecture",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

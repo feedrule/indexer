@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>file-server feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="David Hamann" title="David Hamann" xmlUrl="https://davidhamann.de/feed.xml" htmlUrl="https://davidhamann.de/"/>
+    <outline type="rss" text="Posts on FileMaker in-depth security analysis" title="Posts on FileMaker in-depth security analysis" xmlUrl="https://fm-security.com/posts/index.xml" htmlUrl="https://fm-security.com/posts/"/>
+    <outline type="rss" text="serverless.industries | Frontpage" title="serverless.industries | Frontpage" xmlUrl="https://serverless.industries/feed/frontpage.xml" htmlUrl="https://serverless.industries/"/>
+    <outline type="rss" text="Claris Certified FileMaker Pro &amp; Full-Stack Web Developer | Michael Kupietz Consulting" title="Claris Certified FileMaker Pro &amp; Full-Stack Web Developer | Michael Kupietz Consulting" xmlUrl="https://www.kupietz.com/feed/" htmlUrl="https://www.kupietz.com/"/>
+  </body>
+</opml>

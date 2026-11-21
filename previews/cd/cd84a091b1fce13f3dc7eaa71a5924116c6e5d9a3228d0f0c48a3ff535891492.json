@@ -1,0 +1,21 @@
+{
+  "url": "https://awklab.com/rss.xml",
+  "title": "AwkLab",
+  "subtitle": "Mastering AWK – scripting, data processing, Unix philosophy",
+  "bytes": 142354,
+  "last": "2026-04-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "awk",
+    "unix",
+    "data-science",
+    "data-engineering",
+    "benchmark"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

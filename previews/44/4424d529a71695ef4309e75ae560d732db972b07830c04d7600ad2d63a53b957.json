@@ -1,0 +1,17 @@
+{
+  "url": "https://blog.nisshi.io/feed.xml",
+  "title": "blog.nisshi.io - Engineering",
+  "subtitle": "Nisshi - an Apache Kafka compatible broker with PostgreSQL and S3 storage engines",
+  "bytes": 6865,
+  "last": "2026-01-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kafka"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

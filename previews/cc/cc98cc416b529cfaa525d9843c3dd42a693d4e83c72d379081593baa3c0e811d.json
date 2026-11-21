@@ -1,0 +1,21 @@
+{
+  "url": "https://fabioluciano.com/rss-en.xml",
+  "title": "Fabio Luciano",
+  "subtitle": "Platform Engineering, Developer Experience & Cloud Native",
+  "bytes": 10595,
+  "last": "2026-02-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "developer-experience",
+    "platform-engineering",
+    "productivity",
+    "kubernetes",
+    "metrics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://momandpop.network/feed/atom/",
+  "title": "Mom & Pop Network",
+  "subtitle": "Your one-customer ISP which disallows signups.",
+  "bytes": 54058,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "isp",
+    "networking",
+    "mikrotik",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

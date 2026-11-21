@@ -1,0 +1,20 @@
+{
+  "url": "https://antoniosarro.dev/rss.xml",
+  "title": "Antonio Sarro | Software Developer & Blogger",
+  "subtitle": "Passionate Geek Guy, Software Developer and Writer. Articles about software development, open source, and technology.",
+  "bytes": 5471,
+  "last": "2026-10-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab",
+    "docker",
+    "devops",
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

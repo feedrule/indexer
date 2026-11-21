@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nextcloud feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Chris' Web Log" title="Chris' Web Log" xmlUrl="https://blog.coutinho.io/rss.xml" htmlUrl="https://blog.coutinho.io"/>
+    <outline type="rss" text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" htmlUrl="https://developers.soundcloud.com/blog"/>
+    <outline type="rss" text="Magnus Anderssen" title="Magnus Anderssen" xmlUrl="https://magnus.anderssen.ch/feed.xml" htmlUrl="https://magnus.anderssen.ch"/>
+    <outline type="rss" text="Miek Gieben" title="Miek Gieben" xmlUrl="https://miek.nl/index.xml" htmlUrl="https://miek.nl/"/>
+    <outline type="rss" text="Sarat Chandra" title="Sarat Chandra" xmlUrl="https://sarat.dev/index.xml" htmlUrl="https://sarat.dev"/>
+    <outline type="rss" text="Articles on Björn Schießle - I came for the code but stayed for the freedom" title="Articles on Björn Schießle - I came for the code but stayed for the freedom" xmlUrl="https://schiessle.eu/en/articles/index.xml" htmlUrl="https://schiessle.eu/en/articles/"/>
+    <outline type="rss" text="soledad penadés" title="soledad penadés" xmlUrl="https://soledadpenades.com/feed" htmlUrl="https://soledadpenades.com/"/>
+    <outline type="rss" text="Suranyami" title="Suranyami" xmlUrl="https://suranyami.com/feed/" htmlUrl="https://suranyami.com/"/>
+  </body>
+</opml>

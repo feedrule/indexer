@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>webrtc feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BlogGeek.me" title="BlogGeek.me" xmlUrl="http://bloggeek.me/feed/" htmlUrl="https://bloggeek.me/"/>
+    <outline type="rss" text="webrtcHacks" title="webrtcHacks" xmlUrl="http://www.webrtchacks.com/?feed=atom" htmlUrl="https://webrtchacks.com/"/>
+    <outline type="rss" text="Advancing WebRTC" title="Advancing WebRTC" xmlUrl="https://blog.mozilla.org/webrtc/feed/" htmlUrl="https://blog.mozilla.org/webrtc/"/>
+    <outline type="rss" text="ginger's thoughts" title="ginger's thoughts" xmlUrl="https://gingertech.net/rss.xml" htmlUrl="https://gingertech.net/"/>
+    <outline type="rss" text="Meefik’s Blog" title="Meefik’s Blog" xmlUrl="https://meefik.dev/feed.xml" htmlUrl="https://meefik.dev/"/>
+    <outline type="rss" text="Jesús Leganés-Combarro ‘piranna’" title="Jesús Leganés-Combarro ‘piranna’" xmlUrl="https://piranna.github.io/feed.xml" htmlUrl="https://piranna.github.io/"/>
+    <outline type="rss" text="Browser Phone" title="Browser Phone" xmlUrl="https://www.browser-phone.org/feed/" htmlUrl="https://www.browser-phone.org/"/>
+    <outline type="rss" text="Rodin Luo" title="Rodin Luo" xmlUrl="https://www.lodan.me/index.xml" htmlUrl="https://www.lodan.me/"/>
+  </body>
+</opml>

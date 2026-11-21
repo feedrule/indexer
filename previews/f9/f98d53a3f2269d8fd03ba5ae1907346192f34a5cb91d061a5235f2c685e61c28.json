@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.winny.tech/rss.xml",
+  "title": "Winny's Blog",
+  "subtitle": "Recent content on Winny's Blog",
+  "bytes": 57983,
+  "last": "2026-10-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix",
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

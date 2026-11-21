@@ -1,0 +1,17 @@
+{
+  "url": "https://asp.net-hacker.rocks/rss.xml",
+  "title": "ASP.NET Hacker",
+  "subtitle": "This feed containes technical articles about web development with ASP.NET and some more things about .NET and related technologies",
+  "bytes": 187634,
+  "last": "2026-07-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aspnet"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  }
+}

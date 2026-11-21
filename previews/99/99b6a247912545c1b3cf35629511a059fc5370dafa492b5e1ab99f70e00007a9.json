@@ -1,0 +1,17 @@
+{
+  "url": "https://baldur.dk/feeds/all.atom.xml",
+  "title": "Baldur Security",
+  "subtitle": null,
+  "bytes": 451049,
+  "last": "2026-07-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cve"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

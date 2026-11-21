@@ -1,0 +1,17 @@
+{
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+  "title": "NYT > Sports > Tennis",
+  "subtitle": null,
+  "bytes": 38342,
+  "last": "2026-08-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tennis"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

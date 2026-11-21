@@ -1,0 +1,20 @@
+{
+  "url": "https://fyr.io/feed",
+  "title": "fyr.io - Everything (title & summary)",
+  "subtitle": "Things about stuff. Infosec, tech, life and whatever else comes to keyboard",
+  "bytes": 59412,
+  "last": "2026-08-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "blaugust",
+    "indieweb",
+    "technology",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

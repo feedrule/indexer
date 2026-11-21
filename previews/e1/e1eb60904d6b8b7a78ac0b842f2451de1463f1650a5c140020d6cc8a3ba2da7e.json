@@ -1,0 +1,20 @@
+{
+  "url": "https://thegreencodes.com/rss.xml",
+  "title": "TheGreenCodes",
+  "subtitle": "Engineering decisions explained - why they’re made and what they cost. Distributed systems, infrastructure, and real-world constraints beyond the docs.",
+  "bytes": 187122,
+  "last": "2026-05-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "infrastructure-as-code",
+    "devops",
+    "project-management",
+    "entrepreneurship"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

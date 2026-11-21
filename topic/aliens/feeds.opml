@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>aliens feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Alien Explorations" title="Alien Explorations" xmlUrl="http://alienexplorations.blogspot.com/atom.xml" htmlUrl="http://alienexplorations.blogspot.com/"/>
+    <outline type="rss" text="Alien Field Notes" title="Alien Field Notes" xmlUrl="https://alienfieldnotes.bearblog.dev/feed/" htmlUrl="https://alienfieldnotes.bearblog.dev/"/>
+    <outline type="rss" text="chunk of coal" title="chunk of coal" xmlUrl="https://chunkofcoal.bearblog.dev/feed/" htmlUrl="https://chunkofcoal.bearblog.dev/"/>
+    <outline type="rss" text="Worlds Under Construction" title="Worlds Under Construction" xmlUrl="https://rznicolet.com/feed/atom/" htmlUrl="https://rznicolet.com"/>
+    <outline type="rss" text="SF Short Stories" title="SF Short Stories" xmlUrl="https://sfshortstories.com/?feed=rss2" htmlUrl="https://sfshortstories.com"/>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+{
+  "url": "https://terminalbytes.com/index.xml",
+  "title": "TerminalBytes",
+  "subtitle": "Tech blog covering mini PCs, homelab, self-hosting, gaming servers, and DevOps experiments.",
+  "bytes": 22388,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mini-pc",
+    "mac-mini"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

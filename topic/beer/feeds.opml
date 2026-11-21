@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>beer feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="shotgundentist" title="shotgundentist" xmlUrl="http://shotgundentist.com/blog/feed/" htmlUrl="http://shotgundentist.com/blog"/>
+    <outline type="rss" text="Ben Viveur" title="Ben Viveur" xmlUrl="https://benviveur.blogspot.com/feeds/posts/default" htmlUrl="https://benviveur.blogspot.com/"/>
+    <outline type="rss" text="braciatrix" title="braciatrix" xmlUrl="https://braciatrix.com/feed/" htmlUrl="https://braciatrix.com"/>
+    <outline type="rss" text="A Runner's Ramblings" title="A Runner's Ramblings" xmlUrl="https://drownedchipmunk.com/feed/" htmlUrl="https://drownedchipmunk.com"/>
+    <outline type="rss" text="Wait until next year" title="Wait until next year" xmlUrl="https://waituntilnextyear.com/feed/" htmlUrl="https://waituntilnextyear.com"/>
+  </body>
+</opml>

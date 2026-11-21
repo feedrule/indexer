@@ -1,0 +1,20 @@
+{
+  "url": "https://www.kitchenfrau.com/feed/",
+  "title": "Kitchen Frau",
+  "subtitle": "Plain Delicious",
+  "bytes": 15945,
+  "last": "2026-09-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "recipes",
+    "snacks",
+    "dessert",
+    "fruit"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

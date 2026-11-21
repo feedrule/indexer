@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>field-notes feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Big Machine" title="Big Machine" xmlUrl="https://bigmachine.io/feed.xml" htmlUrl="https://bigmachine.io/"/>
+    <outline type="rss" text="Field Notes" title="Field Notes" xmlUrl="https://blog.humidresearch.link/rss.xml" htmlUrl="https://blog.humidresearch.link/"/>
+    <outline type="rss" text="Disquiet" title="Disquiet" xmlUrl="https://disquiet.com/feed/" htmlUrl="https://disquiet.com"/>
+    <outline type="rss" text="Jeremy Bassetti" title="Jeremy Bassetti" xmlUrl="https://jeremybassetti.com/index.xml" htmlUrl="https://jeremybassetti.com/"/>
+    <outline type="rss" text="Kolja Wawrowsky" title="Kolja Wawrowsky" xmlUrl="https://kolja.wawrowsky.com/index.xml" htmlUrl="https://kolja.wawrowsky.com/"/>
+    <outline type="rss" text="the unpacking series" title="the unpacking series" xmlUrl="https://theunpackingseries.bearblog.dev/feed/" htmlUrl="https://theunpackingseries.bearblog.dev/"/>
+    <outline type="rss" text="atennop" title="atennop" xmlUrl="https://www.atennop.tech/index.xml" htmlUrl="https://atennop.tech"/>
+    <outline type="rss" text="uyar.design" title="uyar.design" xmlUrl="https://www.uyar.design/feed.xml" htmlUrl="https://uyar.design/"/>
+    <outline type="rss" text="xorvoid" title="xorvoid" xmlUrl="https://xorvoid.com/rss.xml" htmlUrl="https://www.xorvoid.com"/>
+  </body>
+</opml>

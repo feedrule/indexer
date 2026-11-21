@@ -1,0 +1,19 @@
+{
+  "url": "http://adventure.com/feed/",
+  "title": "Adventure.com",
+  "subtitle": null,
+  "bytes": 24305,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel",
+    "culture",
+    "climate-change"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

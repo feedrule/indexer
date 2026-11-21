@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>guix feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="AlternativeBit" title="AlternativeBit" xmlUrl="https://alternativebit.fr/tags/nix/index.xml" htmlUrl="https://alternativebit.fr/tags/nix/"/>
+    <outline type="rss" text="(blog . (coldboot . org))" title="(blog . (coldboot . org))" xmlUrl="https://blog.coldboot.org/feed" htmlUrl="https://blog.coldboot.org"/>
+    <outline type="rss" text="systemreboot -- blog" title="systemreboot -- blog" xmlUrl="https://systemreboot.net/feeds/blog.atom"/>
+    <outline type="rss" text="Ultra Rare Space" title="Ultra Rare Space" xmlUrl="https://ultrarare.space/en/index.xml" htmlUrl="https://ultrarare.space/en/"/>
+    <outline type="rss" text="cbaines.net - Christopher Baines" title="cbaines.net - Christopher Baines" xmlUrl="https://www.cbaines.net/index.atom" htmlUrl="https://www.cbaines.net/"/>
+    <outline type="rss" text="Ryan Prior" title="Ryan Prior" xmlUrl="https://www.ryanprior.com/index.xml" htmlUrl="https://www.ryanprior.com/"/>
+  </body>
+</opml>

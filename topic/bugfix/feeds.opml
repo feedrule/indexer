@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bugfix feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="bugs.xdavidhu.me" title="bugs.xdavidhu.me" xmlUrl="https://bugs.xdavidhu.me/feed.xml" htmlUrl="https://bugs.xdavidhu.me/"/>
+    <outline type="rss" text="bugfeed" title="bugfeed" xmlUrl="https://bugwatcher.net/feed.xml" htmlUrl="https://bugwatcher.net/blog"/>
+    <outline type="rss" text="Zhongquan Li’s blogs" title="Zhongquan Li’s blogs" xmlUrl="https://imlzq.com/feed.xml" htmlUrl="https://imlzq.com/"/>
+    <outline type="rss" text="Xe Iaso's blog" title="Xe Iaso's blog" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net/"/>
+  </body>
+</opml>

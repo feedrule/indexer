@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gitlab feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="GitLab" title="GitLab" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl="https://about.gitlab.com/blog"/>
+    <outline type="rss" text="Simon Josefsson's blog" title="Simon Josefsson's blog" xmlUrl="https://blog.josefsson.org/feed/" htmlUrl="https://blog.josefsson.org"/>
+    <outline type="rss" text="Philipp Hahn" title="Philipp Hahn" xmlUrl="https://blog.pmhahn.de/feed.xml" htmlUrl="https://blog.pmhahn.de/"/>
+    <outline type="rss" text="🦄🌈 Brie Carranza’s Blog" title="🦄🌈 Brie Carranza’s Blog" xmlUrl="https://brie.dev/rss.xml" htmlUrl="https://brie.dev/"/>
+    <outline type="rss" text="Nicholas Dille" title="Nicholas Dille" xmlUrl="https://dille.name/feed.xml" htmlUrl="https://dille.name/"/>
+    <outline type="rss" text="dnsmichi.com" title="dnsmichi.com" xmlUrl="https://dnsmichi.com/rss/" htmlUrl="https://dnsmichi.com/"/>
+    <outline type="rss" text="Jonhnny Weslley's feed" title="Jonhnny Weslley's feed" xmlUrl="https://jonhnnyweslley.net/index.xml" htmlUrl="https://jonhnnyweslley.net/"/>
+    <outline type="rss" text="Nathan Friend" title="Nathan Friend" xmlUrl="https://nathanfriend.com/feed.xml" htmlUrl="https://nathanfriend.com/"/>
+    <outline type="rss" text="Tobias L. Maier" title="Tobias L. Maier" xmlUrl="https://tobiasmaier.info/feed.xml" htmlUrl="https://tobiasmaier.info/"/>
+    <outline type="rss" text="Stefan’s Blog" title="Stefan’s Blog" xmlUrl="https://www.stefanwienert.de/feed.xml" htmlUrl="https://www.stefanwienert.de/"/>
+    <outline type="rss" text="Adventures in Automation" title="Adventures in Automation" xmlUrl="https://www.tjmaher.com/feeds/posts/default" htmlUrl="https://www.tjmaher.com/"/>
+    <outline type="rss" text="zufallsheld" title="zufallsheld" xmlUrl="https://www.zufallsheld.de/feeds/all.atom.xml" htmlUrl="https://www.zufallsheld.de/"/>
+  </body>
+</opml>

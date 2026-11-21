@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wealth feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Clojure Civitas" title="Clojure Civitas" xmlUrl="https://clojurecivitas.org/posts.xml" htmlUrl="https://clojurecivitas.org/posts.html"/>
+    <outline type="rss" text="JLCollinsnh" title="JLCollinsnh" xmlUrl="https://jlcollinsnh.com/feed/" htmlUrl="https://jlcollinsnh.com/"/>
+    <outline type="rss" text="Of Dollars And Data" title="Of Dollars And Data" xmlUrl="https://ofdollarsanddata.com/feed/" htmlUrl="https://ofdollarsanddata.com"/>
+    <outline type="rss" text="Today Purpose" title="Today Purpose" xmlUrl="https://todaypurpose.com/index.xml" htmlUrl="https://todaypurpose.com/"/>
+    <outline type="rss" text="Financial Samurai" title="Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" htmlUrl="https://www.financialsamurai.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+{
+  "url": "https://www.colehoffer.ai/feed.xml",
+  "title": "Cole Hoffer - Notes on applied AI",
+  "subtitle": "Cole Hoffer’s personal blog about search, language models, and how to tell whether they work.",
+  "bytes": 4743,
+  "last": "2026-09-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-search",
+    "rag"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

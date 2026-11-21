@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>minimalism feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="min.life" title="min.life" xmlUrl="https://blog.min.life/atom/" htmlUrl="https://blog.min.life/"/>
+    <outline type="rss" text="Design at Minimal" title="Design at Minimal" xmlUrl="https://blog.minimal.app/rss/" htmlUrl="https://blog.minimal.app/"/>
+    <outline type="rss" text="Becoming Minimalist" title="Becoming Minimalist" xmlUrl="https://feeds.feedburner.com/becomingminimalistcom" htmlUrl="https://www.becomingminimalist.com/"/>
+    <outline type="rss" text="Julien May" title="Julien May" xmlUrl="https://julien.ch/atom.xml" htmlUrl="https://julien.ch/"/>
+    <outline type="rss" text="Rich in What Matters" title="Rich in What Matters" xmlUrl="https://richinwhatmatters.com/feed/" htmlUrl="https://richinwhatmatters.com/"/>
+  </body>
+</opml>

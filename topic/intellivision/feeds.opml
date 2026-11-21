@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>intellivision feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Lyndon's Latest News" title="Lyndon's Latest News" xmlUrl="http://lyndonhill.com/lh.rss" htmlUrl="https://www.lyndonhill.com/"/>
+    <outline type="rss" text="Maíra Canal" title="Maíra Canal" xmlUrl="https://mairacanal.github.io/atom.xml" htmlUrl="https://mairacanal.github.io"/>
+    <outline type="rss" text="Epsiloneridani" title="Epsiloneridani" xmlUrl="https://www.epsiloneridani.io/feed.rss" htmlUrl="https://www.epsiloneridani.io"/>
+  </body>
+</opml>

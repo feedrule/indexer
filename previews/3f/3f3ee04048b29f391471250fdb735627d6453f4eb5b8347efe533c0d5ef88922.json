@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.joshgav.com//feed.xml",
+  "title": "Partly Cloudy",
+  "subtitle": "A blog about cloud infrastructure and cloud-native application patterns and practices.",
+  "bytes": 126583,
+  "last": "2026-07-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud-native",
+    "cloud",
+    "kubernetes",
+    "infrastructure",
+    "openshift"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

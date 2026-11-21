@@ -1,0 +1,17 @@
+{
+  "url": "https://viiwork.pulu.app/blog/atom.xml",
+  "title": "viiwork: LLM inference across your own GPU machines - Blog",
+  "subtitle": "viiwork runs LLM inference across a fleet of your own machines. One node per machine serves its models behind an OpenAI-compatible API, and the nodes form a mesh that sends each request to a free slot",
+  "bytes": 33928,
+  "last": "2026-10-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "computer-architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

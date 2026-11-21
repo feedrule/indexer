@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>memory-safety feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Richard Barrell's blog" title="Richard Barrell's blog" xmlUrl="https://carefully.understood.systems/posts.rss.xml" htmlUrl="https://carefully.understood.systems"/>
+    <outline type="rss" text="langui.sh" title="langui.sh" xmlUrl="https://langui.sh/feed.xml" htmlUrl="https://langui.sh/"/>
+    <outline type="rss" text="Pwnosaur" title="Pwnosaur" xmlUrl="https://pwnosaur.com/feed.xml" htmlUrl="https://pwnosaur.com/"/>
+    <outline type="rss" text="Sander Saares" title="Sander Saares" xmlUrl="https://sander.saares.eu/feed/" htmlUrl="https://sander.saares.eu"/>
+    <outline type="rss" text="Vale Articles" title="Vale Articles" xmlUrl="https://vale.dev/rss.xml" htmlUrl="https://vale.dev/"/>
+    <outline type="rss" text="Languages and Architecture" title="Languages and Architecture" xmlUrl="https://verdagon.dev/rss.xml" htmlUrl="https://verdagon.dev/"/>
+  </body>
+</opml>

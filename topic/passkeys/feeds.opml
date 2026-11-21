@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>passkeys feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Matt's Headroom" title="Matt's Headroom" xmlUrl="https://blog.millerti.me/index.xml" htmlUrl="https://blog.millerti.me/"/>
+    <outline type="rss" text="Sam Liddicott" title="Sam Liddicott" xmlUrl="https://blog.sam.liddicott.com/feeds/posts/default" htmlUrl="https://blog.sam.liddicott.com/"/>
+    <outline type="rss" text="Pomcor" title="Pomcor" xmlUrl="https://pomcor.com/feed/" htmlUrl="https://pomcor.com"/>
+  </body>
+</opml>

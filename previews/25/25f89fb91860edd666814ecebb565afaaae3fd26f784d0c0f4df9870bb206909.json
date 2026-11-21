@@ -1,0 +1,19 @@
+{
+  "url": "https://lostbeers.com/feed/",
+  "title": "Lost Beers",
+  "subtitle": "Historic beers by Roel Mulder",
+  "bytes": 150493,
+  "last": "2026-07-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "brewery",
+    "craft-beer",
+    "belgium"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

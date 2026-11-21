@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bookmarklet feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="adam le doux" title="adam le doux" xmlUrl="https://adamledoux.net/blog/feed.xml" htmlUrl="https://blog.adamledoux.net/"/>
+    <outline type="rss" text="adam le doux" title="adam le doux" xmlUrl="https://blog.adamledoux.net/feed.xml" htmlUrl="https://blog.adamledoux.net/"/>
+    <outline type="rss" text="nleanba’s website" title="nleanba’s website" xmlUrl="https://nleanba.ch/feed.xml" htmlUrl="https://nleanba.ch/"/>
+    <outline type="rss" text="nyani58" title="nyani58" xmlUrl="https://nyani58.nekoweb.org/rss.xml" htmlUrl="https://nyani58.nekoweb.org/"/>
+    <outline type="rss" text="Blog | Wiktor Zykubek" title="Blog | Wiktor Zykubek" xmlUrl="https://wzykubek.xyz/en/blog/index.xml" htmlUrl="https://wzykubek.xyz/en/blog/"/>
+  </body>
+</opml>

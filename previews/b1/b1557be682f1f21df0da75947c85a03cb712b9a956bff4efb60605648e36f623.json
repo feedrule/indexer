@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.reversesociety.co/rss.xml",
+  "title": "Reverse Society",
+  "subtitle": "At Reverse Society, we are deeply focused on offensive security research and advanced reverse engineering, specifically across Apple platforms (iOS and macOS).",
+  "bytes": 25330,
+  "last": "2026-05-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "malware-analysis",
+    "reverse-engineering",
+    "mac",
+    "c++",
+    "ios"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

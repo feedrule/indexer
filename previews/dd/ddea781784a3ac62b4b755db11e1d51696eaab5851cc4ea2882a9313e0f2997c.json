@@ -1,0 +1,17 @@
+{
+  "url": "https://www.zerofs.net/atom.xml",
+  "title": "ZeroFS",
+  "subtitle": "A log-structured filesystem for S3-compatible object storage.",
+  "bytes": 45792,
+  "last": "2026-07-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "filesystem"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

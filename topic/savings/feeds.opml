@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>savings feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="MoneyNing" title="MoneyNing" xmlUrl="http://feeds.feedburner.com/MoneyNing" htmlUrl="https://moneyning.com"/>
+    <outline type="rss" text="Money Crashers" title="Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" htmlUrl="https://www.moneycrashers.com"/>
+    <outline type="rss" text="SavingAdvice.com News and Community" title="SavingAdvice.com News and Community" xmlUrl="https://www.savingadvice.com/feed/" htmlUrl="https://www.savingadvice.com/"/>
+  </body>
+</opml>

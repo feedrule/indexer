@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>trails feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Travel the Mitten" title="Travel the Mitten" xmlUrl="http://travelthemitten.com/feed/" htmlUrl="http://travelthemitten.com"/>
+    <outline type="rss" text="Longstride: Trail Journals" title="Longstride: Trail Journals" xmlUrl="https://longstride.net/feed.xml" htmlUrl="https://longstride.net/"/>
+    <outline type="rss" text="Savanna Guides" title="Savanna Guides" xmlUrl="https://savannaguides.com/rss/" htmlUrl="https://savannaguides.com/"/>
+  </body>
+</opml>

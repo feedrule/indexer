@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>protocols feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Goodness Duru" title="Goodness Duru" xmlUrl="http://goodyduru.com/index.xml" htmlUrl="http://goodyduru.com/"/>
+    <outline type="rss" text="dexcompiler" title="dexcompiler" xmlUrl="https://dexcompiler.com/feed.xml" htmlUrl="https://dexcompiler.com/blog"/>
+    <outline type="rss" text="EC Protocol" title="EC Protocol" xmlUrl="https://ecprotocol.io/feed.xml" htmlUrl="https://ecprotocol.io/"/>
+    <outline type="rss" text="Max Inden" title="Max Inden" xmlUrl="https://max-inden.de/index.xml" htmlUrl="https://max-inden.de/"/>
+    <outline type="rss" text="Protocols Made Fun" title="Protocols Made Fun" xmlUrl="https://protocols-made-fun.com/feed.xml" htmlUrl="https://protocols-made-fun.com/?utm_source=protocols_made_fun&amp;utm_medium=feed&amp;utm_campaign=pmf_feed"/>
+    <outline type="rss" text="William Schultz" title="William Schultz" xmlUrl="https://will62794.github.io/feed.xml" htmlUrl="https://will62794.github.io/"/>
+  </body>
+</opml>

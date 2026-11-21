@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>megadungeon feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Mega Man Home Page" title="The Mega Man Home Page" xmlUrl="http://mmhp.net/feed.xml" htmlUrl="http://www.mmhp.net/"/>
+    <outline type="rss" text="Mazirian's Garden" title="Mazirian's Garden" xmlUrl="https://maziriansgarden.blogspot.com/feeds/posts/default" htmlUrl="https://maziriansgarden.blogspot.com/"/>
+    <outline type="rss" text="Queue to the Dungeon" title="Queue to the Dungeon" xmlUrl="https://queuedog.bearblog.dev/atom.xml" htmlUrl="https://queuedog.bearblog.dev/"/>
+  </body>
+</opml>

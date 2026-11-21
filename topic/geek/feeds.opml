@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>geek feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Dan The Geek" title="Dan The Geek" xmlUrl="https://danthegeek.com/feed/" htmlUrl="https://danthegeek.com"/>
+    <outline type="rss" text="Old Fart's Almanac" title="Old Fart's Almanac" xmlUrl="https://fatsquirrel.org/oldfartsalmanac/feed/" htmlUrl="https://fatsquirrel.org/oldfartsalmanac"/>
+    <outline type="rss" text="GeekTechStuff" title="GeekTechStuff" xmlUrl="https://geektechstuff.com/feed/" htmlUrl="https://geektechstuff.com"/>
+    <outline type="rss" text="Planet Geek!" title="Planet Geek!" xmlUrl="https://planet-geek.com/feed/" htmlUrl="https://planet-geek.com/"/>
+    <outline type="rss" text="Geek in Heels" title="Geek in Heels" xmlUrl="https://www.geekinheels.com/feed/atom/" htmlUrl="https://www.geekinheels.com"/>
+    <outline type="rss" text="GeekWisdom" title="GeekWisdom" xmlUrl="https://www.geekwisdom.org/feed/" htmlUrl="https://www.geekwisdom.org"/>
+    <outline type="rss" text="tartley.com" title="tartley.com" xmlUrl="https://www.tartley.com/rss.xml" htmlUrl="https://www.tartley.com/"/>
+    <outline type="rss" text="xpd" title="xpd" xmlUrl="https://xpd.co.nz/index.php/feed/" htmlUrl="https://xpd.co.nz"/>
+  </body>
+</opml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>synology feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Alex's Homelab Blog" title="Alex's Homelab Blog" xmlUrl="https://alexunderwood.net/rss/" htmlUrl="https://alexunderwood.net/"/>
+    <outline type="rss" text="Synapse devlog" title="Synapse devlog" xmlUrl="https://dhovart.tngl.sh/synapse-blog/rss.xml" htmlUrl="https://dhovart.tngl.sh/synapse-blog"/>
+    <outline type="rss" text="kunat.dev" title="kunat.dev" xmlUrl="https://kunat.dev/index.xml" htmlUrl="https://kunat.dev/"/>
+    <outline type="rss" text="Marius Hosting" title="Marius Hosting" xmlUrl="https://mariushosting.com/feed/" htmlUrl="https://mariushosting.com"/>
+    <outline type="rss" text="Digital home of George Ruinelli" title="Digital home of George Ruinelli" xmlUrl="https://www.ruinelli.ch/feed" htmlUrl="https://www.ruinelli.ch"/>
+    <outline type="rss" text="TITAM - Technical issues that affected me" title="TITAM - Technical issues that affected me" xmlUrl="https://www.titam.ca/feeds/posts/default" htmlUrl="https://www.titam.ca/"/>
+  </body>
+</opml>

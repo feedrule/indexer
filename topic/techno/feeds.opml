@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>techno feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Musings from the Chiefio" title="Musings from the Chiefio" xmlUrl="https://chiefio.wordpress.com/feed/" htmlUrl="https://chiefio.wordpress.com"/>
+    <outline type="rss" text="Lerks Blog" title="Lerks Blog" xmlUrl="https://lerks.blog/feed.xml" htmlUrl="https://lerks.blog/"/>
+    <outline type="rss" text="The Tech Absurdist" title="The Tech Absurdist" xmlUrl="https://tech-absurdist.neocities.org/rss.xml" htmlUrl="https://tech-absurdist.neocities.org/"/>
+    <outline type="rss" text="Technologizer by Harry McCracken" title="Technologizer by Harry McCracken" xmlUrl="https://technologizer.com/home/feed/atom/" htmlUrl="https://technologizer.com/home"/>
+    <outline type="rss" text="FOND/SOUND" title="FOND/SOUND" xmlUrl="https://www.fondsound.com/feed/" htmlUrl="https://www.fondsound.com"/>
+  </body>
+</opml>

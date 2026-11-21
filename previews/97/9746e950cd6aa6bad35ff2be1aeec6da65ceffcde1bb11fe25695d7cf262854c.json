@@ -1,0 +1,18 @@
+{
+  "url": "https://skulk.org/blog/rss.xml",
+  "title": "Sid's blog",
+  "subtitle": "A blog about software (and possibly other things)",
+  "bytes": 2111,
+  "last": "2026-05-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

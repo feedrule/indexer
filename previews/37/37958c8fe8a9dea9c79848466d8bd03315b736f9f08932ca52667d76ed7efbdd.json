@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.olimorris.com/feed.xml",
+  "title": "Oli Morris’s Blog",
+  "subtitle": "Practical guides on agentic coding and automation: AI coding agents, n8n workflows, Neovim and CodeCompanion.nvim. Written by hand by Oli Morris.",
+  "bytes": 170421,
+  "last": "2026-09-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "agentic-workflows",
+    "ai-agents",
+    "ai-coding-agents",
+    "automation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

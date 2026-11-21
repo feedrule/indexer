@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.romain.garden/rss.xml",
+  "title": "Romain's Blog",
+  "subtitle": "This blog aims to propose you highly actionable articles about product design, product building and product management over the years.",
+  "bytes": 23456,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "product-design",
+    "product-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

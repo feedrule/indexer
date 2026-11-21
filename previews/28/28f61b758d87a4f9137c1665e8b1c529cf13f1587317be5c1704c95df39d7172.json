@@ -1,0 +1,19 @@
+{
+  "url": "https://pwnosaur.com/feed.xml",
+  "title": "Pwnosaur",
+  "subtitle": "A simple dinosaur who loves pwn and reverse engineering <3",
+  "bytes": 124917,
+  "last": "2025-12-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "memory-management",
+    "memory",
+    "memory-safety"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

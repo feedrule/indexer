@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>backup feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="b3n.org" title="b3n.org" xmlUrl="https://b3n.org/feed/" htmlUrl="https://b3n.org"/>
+    <outline type="rss" text="Murray's Blog" title="Murray's Blog" xmlUrl="https://blog.ligos.net/atom.xml" htmlUrl="http://blog.ligos.net/"/>
+    <outline type="rss" text="A blog about archives, storage and everything" title="A blog about archives, storage and everything" xmlUrl="https://macvfx.blog/feed/" htmlUrl="https://macvfx.blog"/>
+  </body>
+</opml>

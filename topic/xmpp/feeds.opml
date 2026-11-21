@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>xmpp feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Journal of a Bot" title="Journal of a Bot" xmlUrl="https://blog.agayon.be/feeds/all.atom.xml" htmlUrl="https://blog.agayon.be/"/>
+    <outline type="rss" text="mathieui’s blog" title="mathieui’s blog" xmlUrl="https://blog.mathieui.net/feeds/all.atom.xml" htmlUrl="https://blog.mathieui.net/"/>
+    <outline type="rss" text="XMPP Interop Testing" title="XMPP Interop Testing" xmlUrl="https://xmpp-interop-testing.github.io/feed" htmlUrl="https://xmpp-interop-testing.github.io/"/>
+  </body>
+</opml>

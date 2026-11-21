@@ -1,0 +1,18 @@
+{
+  "url": "https://phoenixtrap.com/feed/",
+  "title": "The Phoenix Trap",
+  "subtitle": "Code, music, philosophy, etc.",
+  "bytes": 146573,
+  "last": "2026-01-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker",
+    "platform-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

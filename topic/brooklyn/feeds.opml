@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>brooklyn feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Forgotten New York" title="Forgotten New York" xmlUrl="https://forgotten-ny.com/feed/atom/" htmlUrl="https://forgotten-ny.com/"/>
+    <outline type="rss" text="I'm Just Walkin'" title="I'm Just Walkin'" xmlUrl="https://imjustwalkin.com/feed/" htmlUrl="https://imjustwalkin.com/"/>
+    <outline type="rss" text="Zach Barocas / Brooklyn Diasporism" title="Zach Barocas / Brooklyn Diasporism" xmlUrl="https://zachbarocas.com/feed.rss" htmlUrl="https://zachbarocas.com"/>
+  </body>
+</opml>

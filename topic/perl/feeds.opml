@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>perl feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Damien Krotkine" title="Damien Krotkine" xmlUrl="http://damien.krotkine.com/feed.xml" htmlUrl="http://damien.krotkine.com/"/>
+    <outline type="rss" text="brian d foy" title="brian d foy" xmlUrl="https://briandfoy.github.io/feed.xml" htmlUrl="https://briandfoy.github.io/"/>
+    <outline type="rss" text="Killing-It-with-PERL" title="Killing-It-with-PERL" xmlUrl="https://chrisarg.github.io/Killing-It-with-PERL/feed.xml" htmlUrl="https://chrisarg.github.io/Killing-It-with-PERL/"/>
+    <outline type="rss" text="Code Explainer" title="Code Explainer" xmlUrl="https://codeexplainer.wordpress.com/feed/" htmlUrl="https://codeexplainer.wordpress.com"/>
+    <outline type="rss" text="domm.plix.at" title="domm.plix.at" xmlUrl="https://domm.plix.at/index.xml"/>
+    <outline type="rss" text="John Bokma's Hacking and Hiking" title="John Bokma's Hacking and Hiking" xmlUrl="https://johnbokma.com/index.rss" htmlUrl="http://johnbokma.com/"/>
+    <outline type="rss" text="LNATION" title="LNATION" xmlUrl="https://lnation.org/feed.xml" htmlUrl="https://lnation.org/"/>
+    <outline type="rss" text="Perl Hacks" title="Perl Hacks" xmlUrl="https://perlhacks.com/feed/" htmlUrl="https://perlhacks.com"/>
+    <outline type="rss" text="JJA" title="JJA" xmlUrl="https://pinguinorodriguez.cl/atom.xml" htmlUrl="https://www.pinguinorodriguez.cl/"/>
+    <outline type="rss" text="Tib" title="Tib" xmlUrl="https://thibaultduponchelle.github.io/feed.xml" htmlUrl="https://thibaultduponchelle.github.io/"/>
+  </body>
+</opml>

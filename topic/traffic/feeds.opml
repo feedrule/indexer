@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>traffic feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Beyond the Automobile" title="Beyond the Automobile" xmlUrl="https://beyondtheautomobile.com/feed/" htmlUrl="https://beyondtheautomobile.com"/>
+    <outline type="rss" text="The Traffic Blog" title="The Traffic Blog" xmlUrl="https://phabricator.wikimedia.org/phame/blog/feed/11/" htmlUrl="https://phabricator.wikimedia.org/phame/blog/view/11/"/>
+    <outline type="rss" text="David Levinson" title="David Levinson" xmlUrl="https://transportist.org/feed/" htmlUrl="https://transportist.org"/>
+  </body>
+</opml>

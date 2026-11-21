@@ -1,0 +1,20 @@
+{
+  "url": "https://igor.works/feed",
+  "title": "Ruby & Beyond",
+  "subtitle": "Igor Aleksandrov – Ruby engineer, Open Source contributor, JetRockets CTO and co-founder, Docker Captain and a proud father.",
+  "bytes": 140240,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ruby-on-rails",
+    "ruby",
+    "docker",
+    "devops"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

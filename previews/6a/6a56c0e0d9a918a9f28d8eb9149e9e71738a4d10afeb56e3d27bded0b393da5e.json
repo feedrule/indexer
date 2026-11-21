@@ -1,0 +1,19 @@
+{
+  "url": "https://rtfm.co.ua/en/feed/",
+  "title": "RTFM: Linux, DevOps, and system administration",
+  "subtitle": "DevOps-engineering, and system administration. Cases from practice.",
+  "bytes": 470909,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "litellm",
+    "monitoring",
+    "llm"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://alexop.dev/rss.xml",
+  "title": "alexop.dev",
+  "subtitle": "A Personal Blog from a simple web developer",
+  "bytes": 2983170,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "vue",
+    "ai",
+    "testing",
+    "architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

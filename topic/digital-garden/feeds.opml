@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>digital-garden feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ark" title="Ark" xmlUrl="https://arks.ink/feed/?type=rss" htmlUrl="https://arks.ink/"/>
+    <outline type="rss" text="Dowdy.dev" title="Dowdy.dev" xmlUrl="https://dowdy.dev/feed.xml" htmlUrl="https://dowdy.dev/"/>
+    <outline type="rss" text="A. M. Campbell's Digital Garden" title="A. M. Campbell's Digital Garden" xmlUrl="https://garden.amcampbell.xyz/index.xml" htmlUrl="https://garden.amcampbell.xyz"/>
+    <outline type="rss" text="Mycolaos" title="Mycolaos" xmlUrl="https://mycolaos.com/rss" htmlUrl="https://mycolaos.com/"/>
+    <outline type="rss" text="Peppe’s Garden" title="Peppe’s Garden" xmlUrl="https://peppesilletti.io/rss.xml" htmlUrl="https://peppesilletti.io"/>
+    <outline type="rss" text="SynapseCracklePop" title="SynapseCracklePop" xmlUrl="https://scp.bearblog.dev/feed/" htmlUrl="https://scp.bearblog.dev/"/>
+    <outline type="rss" text="Digital Garden of Travis Briggs" title="Digital Garden of Travis Briggs" xmlUrl="https://travisbriggs.com/feed.xml" htmlUrl="https://garden.travisbriggs.com/"/>
+    <outline type="rss" text="Dill's Garden" title="Dill's Garden" xmlUrl="https://www.dill64.com/rss.xml" htmlUrl="https://www.dill64.com/"/>
+    <outline type="rss" text="Kittelsaa's Digital Garden" title="Kittelsaa's Digital Garden" xmlUrl="https://www.kttlsaa.com/rss.xml" htmlUrl="https://kttlsaa.com/"/>
+    <outline type="rss" text="Tris' Digital Garden" title="Tris' Digital Garden" xmlUrl="https://www.tris.codes/feed.xml" htmlUrl="https://tris.codes"/>
+  </body>
+</opml>

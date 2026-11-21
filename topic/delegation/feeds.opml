@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>delegation feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="deask" title="deask" xmlUrl="https://deask.com/rss.xml" htmlUrl="https://deask.com"/>
+    <outline type="rss" text="Muster Town blog" title="Muster Town blog" xmlUrl="https://muster.town/blog/feed.xml" htmlUrl="https://muster.town/blog"/>
+  </body>
+</opml>

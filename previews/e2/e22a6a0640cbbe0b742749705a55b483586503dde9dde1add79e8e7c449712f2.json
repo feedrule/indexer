@@ -1,0 +1,19 @@
+{
+  "url": "https://johnjames.blog/rss.xml",
+  "title": "John James",
+  "subtitle": "Notes on web, JS/TS, CI/CD, and experiments.",
+  "bytes": 2702,
+  "last": "2026-06-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dependency-management",
+    "package-management",
+    "webcomics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

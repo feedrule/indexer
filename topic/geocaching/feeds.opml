@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>geocaching feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Dan Q" title="Dan Q" xmlUrl="https://danq.me/feed/atom/" htmlUrl="https://danq.me"/>
+    <outline type="rss" text="Geocaching While Black" title="Geocaching While Black" xmlUrl="https://geocachingwhileblack.com/feed/" htmlUrl="https://geocachingwhileblack.com"/>
+    <outline type="rss" text="LightningWright's Blog" title="LightningWright's Blog" xmlUrl="https://lightningwright.net/atom.xml" htmlUrl="https://lightningwright.net"/>
+  </body>
+</opml>

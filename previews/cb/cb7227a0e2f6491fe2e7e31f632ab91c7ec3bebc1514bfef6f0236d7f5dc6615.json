@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.raw.pm/rss.xml",
+  "title": "Rawsec",
+  "subtitle": "Security is everywhere",
+  "bytes": 785731,
+  "last": "2026-07-15",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "topics": [
+    "writeup",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

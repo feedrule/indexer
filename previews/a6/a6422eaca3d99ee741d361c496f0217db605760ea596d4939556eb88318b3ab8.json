@@ -1,0 +1,21 @@
+{
+  "url": "https://subrabytes.dev/feed.xml",
+  "title": "The Pipeline",
+  "subtitle": "Curated Distilled articles at the intersection of Data and the Web",
+  "bytes": 67470,
+  "last": "2026-10-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "ai-ethics",
+    "ai-safety",
+    "ai-agents",
+    "context-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

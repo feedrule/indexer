@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>free-software feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="blog.fidelramos.net" title="blog.fidelramos.net" xmlUrl="https://blog.fidelramos.net/feeds/en.atom.xml" htmlUrl="https://blog.fidelramos.net/"/>
+    <outline type="rss" text="lamby" title="lamby" xmlUrl="https://chris-lamb.co.uk/blog/feed" htmlUrl="https://chris-lamb.co.uk/"/>
+    <outline type="rss" text="Quick Fixes" title="Quick Fixes" xmlUrl="https://quickfix.es/feed/" htmlUrl="https://quickfix.es"/>
+    <outline type="rss" text="Articles on Björn Schießle - I came for the code but stayed for the freedom" title="Articles on Björn Schießle - I came for the code but stayed for the freedom" xmlUrl="https://schiessle.eu/en/articles/index.xml" htmlUrl="https://schiessle.eu/en/articles/"/>
+  </body>
+</opml>

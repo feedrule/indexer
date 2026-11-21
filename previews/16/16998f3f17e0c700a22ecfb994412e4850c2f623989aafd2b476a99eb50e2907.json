@@ -1,0 +1,19 @@
+{
+  "url": "https://onatm.dev/feed.xml",
+  "title": "Onat Mercan’s Blog",
+  "subtitle": "The blog of Onat Yigit Mercan. Rust enthusiast, cloud infrastructure builder, and occasional explorer of computer science - from assembly to distributed systems.",
+  "bytes": 174151,
+  "last": "2026-07-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "infrastructure",
+    "terraform"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  }
+}

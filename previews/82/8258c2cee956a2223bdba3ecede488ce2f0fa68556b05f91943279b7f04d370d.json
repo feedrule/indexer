@@ -1,0 +1,17 @@
+{
+  "url": "https://byteofdev.com/rss.xml",
+  "title": "ByteofDev",
+  "subtitle": "Bite Sized articles for developers",
+  "bytes": 12400,
+  "last": "2026-08-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-performance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

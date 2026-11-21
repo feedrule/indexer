@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nas feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Al4" title="Al4" xmlUrl="https://blog.al4.co.nz/feed/" htmlUrl="https://blog.al4.co.nz"/>
+    <outline type="rss" text="blog.dave.tf" title="blog.dave.tf" xmlUrl="https://blog.dave.tf/index.xml" htmlUrl="https://blog.dave.tf/"/>
+    <outline type="rss" text="https://blog.muffn.io/index.xml" title="https://blog.muffn.io/index.xml" xmlUrl="https://blog.muffn.io/index.xml" htmlUrl="https://blog.muffn.io/"/>
+    <outline type="rss" text="David’s Blog" title="David’s Blog" xmlUrl="https://dfederm.com/feed.xml" htmlUrl="https://dfederm.com/"/>
+    <outline type="rss" text="Lukasz Janyst's web site" title="Lukasz Janyst's web site" xmlUrl="https://jany.st/rss.xml" htmlUrl="https://jany.st"/>
+    <outline type="rss" text="Bitdoze" title="Bitdoze" xmlUrl="https://www.bitdoze.com/rss.xml" htmlUrl="https://www.bitdoze.com/"/>
+  </body>
+</opml>

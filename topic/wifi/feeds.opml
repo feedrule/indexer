@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wifi feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="PotatoFi Blog" title="PotatoFi Blog" xmlUrl="http://www.potatofi.com/feed.xml" htmlUrl="https://potatofi.github.io/"/>
+    <outline type="rss" text="Damián Le Nouaille" title="Damián Le Nouaille" xmlUrl="https://damln.com/feed.xml" htmlUrl="https://damln.com/"/>
+    <outline type="rss" text="Frame by Frame" title="Frame by Frame" xmlUrl="https://framebyframewifi.net/feed/" htmlUrl="https://framebyframewifi.net"/>
+    <outline type="rss" text="High Tech Forum" title="High Tech Forum" xmlUrl="https://hightechforum.org/feed/" htmlUrl="https://hightechforum.org/"/>
+    <outline type="rss" text="mrn-cciew" title="mrn-cciew" xmlUrl="https://mrncciew.com/feed/" htmlUrl="https://mrncciew.com"/>
+    <outline type="rss" text="Pup On Tech" title="Pup On Tech" xmlUrl="https://pupontech.com/rss/" htmlUrl="https://pupontech.com/"/>
+    <outline type="rss" text="Wi-Fi Coops" title="Wi-Fi Coops" xmlUrl="https://wificoops.com/feed/" htmlUrl="https://wificoops.com"/>
+    <outline type="rss" text="wirednot" title="wirednot" xmlUrl="https://wirednot.wordpress.com/feed/" htmlUrl="https://wirednot.wordpress.com"/>
+  </body>
+</opml>

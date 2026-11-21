@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.cauchy.org/rss.xml",
+  "title": "Cauchy",
+  "subtitle": "This is a blog about adopting the composable data systems approach to building threat detection and response platforms. The name of the blog draws from the work presented by Dominque Brezinski and Mic",
+  "bytes": 336219,
+  "last": "2026-06-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "datadog",
+    "threat-modeling"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

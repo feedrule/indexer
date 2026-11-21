@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nerd feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Please Don't Cite Me" title="Please Don't Cite Me" xmlUrl="https://pleasedontcite.me/rss.xml" htmlUrl="https://pleasedontcite.me/"/>
+    <outline type="rss" text="Paging Dr. NerdLove" title="Paging Dr. NerdLove" xmlUrl="https://www.doctornerdlove.com/feed/" htmlUrl="https://www.doctornerdlove.com/"/>
+    <outline type="rss" text="nerd's eye view" title="nerd's eye view" xmlUrl="https://www.nerdseyeview.com/blog/feed/" htmlUrl="https://www.nerdseyeview.com/blog/"/>
+  </body>
+</opml>

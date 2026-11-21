@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.cani.ne.jp/feed.xml",
+  "title": "🐶 Dog with a Dev Blog",
+  "subtitle": "On the internet, nobody knows you're a dog and a cat in a latent space.",
+  "bytes": 352933,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "tooling",
+    "build-systems",
+    "software-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

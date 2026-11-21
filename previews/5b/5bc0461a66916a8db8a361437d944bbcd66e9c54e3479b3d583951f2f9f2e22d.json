@@ -1,0 +1,17 @@
+{
+  "url": "https://blog.benediktsvogler.com/posts.atom",
+  "title": "My Feed Title",
+  "subtitle": "My Feed Description",
+  "bytes": 41865,
+  "last": "2026-05-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-infrastructure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://sourceless.org/feed.xml",
+  "title": "Sourceless",
+  "subtitle": "My personal site and the code that generates it",
+  "bytes": 75567,
+  "last": "2026-10-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "code",
+    "agentic-engineering",
+    "devops",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

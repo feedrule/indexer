@@ -1,0 +1,19 @@
+{
+  "url": "https://www.kalinowski.io/rss.xml",
+  "title": "Mostly Operational",
+  "subtitle": "How kalinowski.io is built and run on a small private AKS cluster for under €100 a month: real code, real numbers and what broke. By Paweł Kalinowski, cloud and DevOps engineer in Warsaw.",
+  "bytes": 18486,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "azure",
+    "terraform"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

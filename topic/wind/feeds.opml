@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wind feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Extreme Storms" title="Extreme Storms" xmlUrl="https://extremestorms.com.au/feed/" htmlUrl="https://extremestorms.com.au/"/>
+    <outline type="rss" text="Windy's Notebook" title="Windy's Notebook" xmlUrl="https://kelinci.bearblog.dev/feed/" htmlUrl="https://kelinci.bearblog.dev/"/>
+    <outline type="rss" text="status" title="status" xmlUrl="https://status.z428.eu/rss.xml" htmlUrl="https://status.z428.eu"/>
+  </body>
+</opml>

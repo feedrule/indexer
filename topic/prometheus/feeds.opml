@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>prometheus feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Anarcher's Trashcan" title="Anarcher's Trashcan" xmlUrl="https://blog.anarcher.dev/index.xml" htmlUrl="https://blog.anarcher.dev/"/>
+    <outline type="rss" text="hoelz.ro" title="hoelz.ro" xmlUrl="https://hoelz.ro/feed.rss" htmlUrl="https://hoelz.ro/"/>
+    <outline type="rss" text="The Prometheus Theory" title="The Prometheus Theory" xmlUrl="https://johnscornerstand.bearblog.dev/feed/" htmlUrl="https://johnscornerstand.bearblog.dev/"/>
+    <outline type="rss" text="blank" title="blank" xmlUrl="https://mkaz.me/feed.xml" htmlUrl="https://mkaz.me/"/>
+  </body>
+</opml>

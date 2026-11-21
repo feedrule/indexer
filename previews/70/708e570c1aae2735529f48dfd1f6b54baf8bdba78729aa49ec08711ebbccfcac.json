@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.bustikiller.com/feed.xml",
+  "title": "Bustikiller’s Blog",
+  "subtitle": "I like writing about the topics I'm learning: ruby, databases, open-source, etc. Hope you find it interesting!",
+  "bytes": 68187,
+  "last": "2026-09-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "self-hosting",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

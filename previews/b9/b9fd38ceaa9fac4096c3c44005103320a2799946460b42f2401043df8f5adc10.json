@@ -1,0 +1,17 @@
+{
+  "url": "https://m-compressors.github.io/feed.xml",
+  "title": "M-Compressors",
+  "subtitle": "Engineering blog of M-Compressors: Brotli and Zstandard rewritten in safe Rust, byte-identical to the C reference encoders, plus NGINX modules that compress on thread pools. Benchmarks, design notes a",
+  "bytes": 226980,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nginx"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

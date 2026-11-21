@@ -1,0 +1,20 @@
+{
+  "url": "https://homepluspower.info/feed/",
+  "title": "Home+Power",
+  "subtitle": "Musings about Christian faith, software development, and computer technology",
+  "bytes": 99996,
+  "last": "2026-09-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "ai",
+    "ai-agents",
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

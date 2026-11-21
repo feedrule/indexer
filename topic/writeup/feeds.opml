@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>writeup feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Rawsec" title="Rawsec" xmlUrl="https://blog.raw.pm/rss.xml" htmlUrl="https://blog.raw.pm/"/>
+    <outline type="rss" text="Emilien Breton" title="Emilien Breton" xmlUrl="https://emilien.ca/rss.xml" htmlUrl="https://emilien.ca/"/>
+  </body>
+</opml>

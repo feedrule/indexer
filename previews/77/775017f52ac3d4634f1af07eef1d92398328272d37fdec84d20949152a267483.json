@@ -1,0 +1,21 @@
+{
+  "url": "https://www.foo.be/feed.xml",
+  "title": "Alexandre Dulaunoy - adulau - Home Page",
+  "subtitle": "Personal webpage of Alexandre Dulaunoy - from information security to open source and art",
+  "bytes": 213411,
+  "last": "2026-08-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "security-research",
+    "vulnerability-research",
+    "security",
+    "collaboration"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

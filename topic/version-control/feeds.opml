@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>version-control feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Notes From Heck" title="Notes From Heck" xmlUrl="https://adityamukho.com/rss.xml" htmlUrl="https://adityamukho.com"/>
+    <outline type="rss" text="Er RK" title="Er RK" xmlUrl="https://devrk.hashnode.dev/rss.xml" htmlUrl="https://devrk.hashnode.dev"/>
+    <outline type="rss" text="Emacs Dwelling" title="Emacs Dwelling" xmlUrl="https://emacs.dyerdwelling.family/index.xml" htmlUrl="https://emacs.dyerdwelling.family/"/>
+    <outline type="rss" text="replicated.live" title="replicated.live" xmlUrl="https://replicated.live/feed.rss" htmlUrl="https://replicated.live/"/>
+    <outline type="rss" text="Small Sharp Software Tools" title="Small Sharp Software Tools" xmlUrl="https://smallsharpsoftwaretools.com/index.xml" htmlUrl="https://smallsharpsoftwaretools.com/"/>
+  </body>
+</opml>

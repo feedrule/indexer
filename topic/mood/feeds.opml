@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mood feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Dartegnian's Mood Calendar" title="Dartegnian's Mood Calendar" xmlUrl="https://dartegnian.com/rss" htmlUrl="https://dartegnian.com/calendar"/>
+    <outline type="rss" text="in the mood" title="in the mood" xmlUrl="https://inthemood.bearblog.dev/feed/" htmlUrl="https://inthemood.bearblog.dev/"/>
+    <outline type="rss" text="mysteries unknown" title="mysteries unknown" xmlUrl="https://upsidedownhourglass.bearblog.dev/feed/" htmlUrl="https://upsidedownhourglass.bearblog.dev/"/>
+  </body>
+</opml>

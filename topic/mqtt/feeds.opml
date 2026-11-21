@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mqtt feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Albert" title="Albert" xmlUrl="http://albert-david.blogspot.com/atom.xml" htmlUrl="http://albert-david.blogspot.com/"/>
+    <outline type="rss" text="http://www.steves-internet-guide.com/feed/" title="http://www.steves-internet-guide.com/feed/" xmlUrl="http://www.steves-internet-guide.com/feed/" htmlUrl="http://www.steves-internet-guide.com"/>
+    <outline type="rss" text="Engine Monitor" title="Engine Monitor" xmlUrl="https://enginemonitor.blogspot.com/feeds/posts/default" htmlUrl="https://enginemonitor.blogspot.com/"/>
+    <outline type="rss" text="Blog" title="Blog" xmlUrl="https://nortyspock.github.io/blog/rss" htmlUrl="http://localhost:4000/"/>
+  </body>
+</opml>

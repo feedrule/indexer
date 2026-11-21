@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>styleguide feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="In My Own Style" title="In My Own Style" xmlUrl="https://inmyownstyle.com/feed" htmlUrl="https://inmyownstyle.com/"/>
+    <outline type="rss" text="Jon Shamir" title="Jon Shamir" xmlUrl="https://jonshamir.com/rss.xml" htmlUrl="https://jonshamir.com"/>
+    <outline type="rss" text="ollicle.com" title="ollicle.com" xmlUrl="https://ollicle.com/feed.xml" htmlUrl="https://ollicle.com/"/>
+    <outline type="rss" text="Veerle's All Feeds Bundled" title="Veerle's All Feeds Bundled" xmlUrl="https://veerle.duoh.com/full-feed.rss" htmlUrl="https://veerle.duoh.com"/>
+  </body>
+</opml>

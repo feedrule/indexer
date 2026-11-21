@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>igalia feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Asụsụ Ọma" title="Asụsụ Ọma" xmlUrl="https://asusuoma.com/rss.xml" htmlUrl="https://asusuoma.com/blog"/>
+    <outline type="rss" text="Ziran Sun’s blog" title="Ziran Sun’s blog" xmlUrl="https://blogs.igalia.com/zsun/feed/" htmlUrl="https://blogs.igalia.com/zsun"/>
+    <outline type="rss" text="Geek Blight" title="Geek Blight" xmlUrl="https://rg3.name/index.rss" htmlUrl="https://rg3.name"/>
+    <outline type="rss" text="Eyosias" title="Eyosias" xmlUrl="https://www.eyosias.dev/rss.xml" htmlUrl="https://www.eyosias.dev"/>
+    <outline type="rss" text="Igalia" title="Igalia" xmlUrl="https://www.igalia.com/feed.xml" htmlUrl="https://www.igalia.com/"/>
+  </body>
+</opml>

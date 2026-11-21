@@ -1,0 +1,20 @@
+{
+  "url": "https://ejaaskel.dev/feed/",
+  "title": "ejaaskel",
+  "subtitle": "Embedded Software Handyman",
+  "bytes": 305365,
+  "last": "2026-09-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "embedded-systems",
+    "yocto",
+    "filesystem",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

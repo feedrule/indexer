@@ -1,0 +1,21 @@
+{
+  "url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
+  "title": "Aaron Gustafson: Latest Posts",
+  "subtitle": "The latest 20 posts.",
+  "bytes": 428574,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "accessibility",
+    "web-components",
+    "html",
+    "forms",
+    "ux"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

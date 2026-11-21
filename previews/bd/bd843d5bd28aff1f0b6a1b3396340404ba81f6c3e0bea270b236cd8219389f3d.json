@@ -1,0 +1,17 @@
+{
+  "url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml",
+  "title": "Swarajya",
+  "subtitle": null,
+  "bytes": 13266,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "delhi"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  }
+}

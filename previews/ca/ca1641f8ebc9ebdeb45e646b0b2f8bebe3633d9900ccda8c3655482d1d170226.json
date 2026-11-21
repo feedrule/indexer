@@ -1,0 +1,19 @@
+{
+  "url": "https://gojko.net/feed.xml",
+  "title": "Gojko's blog",
+  "subtitle": "Gojko Adzic's blog. Specification by Example, Impact Mapping, and more...",
+  "bytes": 11645,
+  "last": "2026-06-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "spec-driven-development",
+    "documentation",
+    "agile"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

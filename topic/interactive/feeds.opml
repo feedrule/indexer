@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>interactive feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Little Things" title="Little Things" xmlUrl="https://abhisaha.com/rss.xml" htmlUrl="https://abhisaha.com/"/>
+    <outline type="rss" text="Greg Tatum" title="Greg Tatum" xmlUrl="https://gregtatum.com/atom.xml" htmlUrl="https://gregtatum.com/"/>
+    <outline type="rss" text="Kavin Jey" title="Kavin Jey" xmlUrl="https://kavinjey.cc/rss.xml" htmlUrl="https://kavinjey.cc"/>
+    <outline type="rss" text="LING'XIAO" title="LING'XIAO" xmlUrl="https://khn190.github.io/feed.xml" htmlUrl="https://khn190.github.io/"/>
+    <outline type="rss" text='{ lucidbeaming: "dev" }' title='{ lucidbeaming: "dev" }' xmlUrl="https://lucidbeaming.com/blog/feed/" htmlUrl="https://lucidbeaming.com/blog"/>
+    <outline type="rss" text="raven kwok" title="raven kwok" xmlUrl="https://ravenkwok.com/feed/" htmlUrl="https://ravenkwok.com"/>
+    <outline type="rss" text="WLJS Notebook Blog" title="WLJS Notebook Blog" xmlUrl="https://wljs.io/feed.xml" htmlUrl="https://wljs.io/blog"/>
+  </body>
+</opml>

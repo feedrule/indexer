@@ -1,0 +1,18 @@
+{
+  "url": "https://johnoreilly.dev/feed.xml",
+  "title": "John O’Reilly",
+  "subtitle": "John O'Reilly's Blog",
+  "bytes": 333999,
+  "last": "2026-11-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "android"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

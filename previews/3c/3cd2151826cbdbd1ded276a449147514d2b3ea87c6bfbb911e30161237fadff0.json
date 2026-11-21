@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.danwald.me/rss.xml",
+  "title": "Danny's blog",
+  "subtitle": "python, webservices, distributes systems, life hacks, learnings",
+  "bytes": 53727,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "personal-development",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

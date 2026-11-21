@@ -1,0 +1,19 @@
+{
+  "url": "https://lukelau.me/feed.xml",
+  "title": "Luke’s blog",
+  "subtitle": "Blogging about compilers at Igalia.",
+  "bytes": 192797,
+  "last": "2026-10-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "llvm",
+    "risc-v"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

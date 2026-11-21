@@ -1,0 +1,18 @@
+{
+  "url": "https://nockawa.github.io/feed",
+  "title": "Nockawa’s Blog",
+  "subtitle": "Hello there, I'm Loïc Baumann<br/> Welcome to my site<br/> I talk about programming",
+  "bytes": 292871,
+  "last": "2026-09-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "concurrency",
+    "database"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://karlherrick.com/feed.xml",
+  "title": "Karl Herrick",
+  "subtitle": "A technologist and web developer",
+  "bytes": 256253,
+  "last": "2026-07-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-development",
+    "linux",
+    "microsoft",
+    "javascript",
+    "google"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

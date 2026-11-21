@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dandoescode.com/feed.xml",
+  "title": "Dan Does Code",
+  "subtitle": "A blog about .NET and Software Architecture",
+  "bytes": 38404,
+  "last": "2026-10-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-architecture",
+    "architecture",
+    "devops",
+    "dotnet"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

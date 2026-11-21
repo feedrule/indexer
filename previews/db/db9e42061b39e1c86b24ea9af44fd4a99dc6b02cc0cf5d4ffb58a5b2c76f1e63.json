@@ -1,0 +1,18 @@
+{
+  "url": "https://dorokhovich.com/rss.xml",
+  "title": "Dorokhovich — Blog",
+  "subtitle": "Articles on Ruby, Go, DevOps, Security, and more.",
+  "bytes": 36636,
+  "last": "2026-09-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "devops"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

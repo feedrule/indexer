@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>trauma feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="About That Jack" title="About That Jack" xmlUrl="https://aboutthatjack.com/feed/atom/" htmlUrl="https://aboutthatjack.com"/>
+    <outline type="rss" text="Diane Sherlock" title="Diane Sherlock" xmlUrl="https://dianesherlock.com/feed/" htmlUrl="https://dianesherlock.com"/>
+    <outline type="rss" text="Free Dissociation" title="Free Dissociation" xmlUrl="https://free-dissociation.com/feed/atom/" htmlUrl="https://free-dissociation.com"/>
+    <outline type="rss" text="The Writing Project" title="The Writing Project" xmlUrl="https://pipa.bearblog.dev/feed/" htmlUrl="https://pipa.bearblog.dev/"/>
+    <outline type="rss" text="The Trauma Pro" title="The Trauma Pro" xmlUrl="https://thetraumapro.com/feed/" htmlUrl="https://thetraumapro.com"/>
+  </body>
+</opml>

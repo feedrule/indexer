@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>aurora feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="marc-bowes.com" title="marc-bowes.com" xmlUrl="https://marc-bowes.com/rss.xml" htmlUrl="https://marc-bowes.com"/>
+    <outline type="rss" text="Sam Foreman" title="Sam Foreman" xmlUrl="https://samforeman.me/index.xml" htmlUrl="https://samforeman.me/"/>
+    <outline type="rss" text="The Adventures of Auroraman" title="The Adventures of Auroraman" xmlUrl="https://www.auroraman.ca/atom/" htmlUrl="https://www.auroraman.ca/"/>
+    <outline type="rss" text="https://ztresearch.blog/feed/" title="https://ztresearch.blog/feed/" xmlUrl="https://ztresearch.blog/feed/" htmlUrl="https://ztresearch.blog"/>
+  </body>
+</opml>

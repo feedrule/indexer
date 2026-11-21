@@ -1,0 +1,19 @@
+{
+  "url": "https://mcgarrah.org/feed.xml",
+  "title": "McGarrah Technical Blog",
+  "subtitle": "Engineering deep dives on infrastructure, distributed systems, and AI/ML — from homelab experiments to enterprise architecture.",
+  "bytes": 303227,
+  "last": "2026-09-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab",
+    "jellyfin",
+    "media-server"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

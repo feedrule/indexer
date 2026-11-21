@@ -1,0 +1,18 @@
+{
+  "url": "https://yone.house/rss.xml",
+  "title": "yone.days",
+  "subtitle": "Real simple syndication of my days.",
+  "bytes": 77288,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "timezone",
+    "weather"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>interpreter feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Roger's Blog" title="Roger's Blog" xmlUrl="https://blog.differentpla.net/feed.xml" htmlUrl="https://blog.differentpla.net/"/>
+    <outline type="rss" text="Tiny Interpreters" title="Tiny Interpreters" xmlUrl="https://blog.tinyinterpreters.dev/rss.xml/" htmlUrl="https://blog.tinyinterpreters.dev/"/>
+    <outline type="rss" text="decomposition ∘ al" title="decomposition ∘ al" xmlUrl="https://decomposition.al/atom.xml" htmlUrl="https://decomposition.al/"/>
+    <outline type="rss" text="From Scratch Code RSS Feed" title="From Scratch Code RSS Feed" xmlUrl="https://fromscratchcode.com/blog/feed.xml" htmlUrl="http://github.com/dylang/node-rss"/>
+    <outline type="rss" text="Around IT in 256 seconds" title="Around IT in 256 seconds" xmlUrl="https://nurkiewicz.com/feeds/posts/default" htmlUrl="https://nurkiewicz.com/"/>
+    <outline type="rss" text="Return Zero" title="Return Zero" xmlUrl="https://returnzero.win/feed/" htmlUrl="https://returnzero.win"/>
+    <outline type="rss" text="The Professional Interpreter" title="The Professional Interpreter" xmlUrl="https://rpstranslations.wordpress.com/feed/" htmlUrl="https://rpstranslations.wordpress.com"/>
+    <outline type="rss" text="Siobhan Fitzpatrick" title="Siobhan Fitzpatrick" xmlUrl="https://www.shivfitzpatrick.com/index.xml" htmlUrl="https://shivfitzpatrick.com/"/>
+  </body>
+</opml>

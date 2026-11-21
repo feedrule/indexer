@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>dns feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Potaroo blog" title="Potaroo blog" xmlUrl="http://www.potaroo.net/rss.xml" htmlUrl="http://www.potaroo.net/"/>
+    <outline type="rss" text="acidvegas x blog" title="acidvegas x blog" xmlUrl="https://acid.vegas/blog/feed.xml" htmlUrl="https://acid.vegas/blog/"/>
+    <outline type="rss" text="anycast.org lab notes" title="anycast.org lab notes" xmlUrl="https://anycast.dev/notes/feed.xml" htmlUrl="https://anycast.org/notes/"/>
+    <outline type="rss" text="dúndns" title="dúndns" xmlUrl="https://blog.dundns.eu/index.xml" htmlUrl="https://blog.dundns.eu/"/>
+    <outline type="rss" text="Louis' thoughts" title="Louis' thoughts" xmlUrl="https://blog.louis-vallat.dev/atom.xml" htmlUrl="https://blog.louis-vallat.dev"/>
+    <outline type="rss" text="Technitium Blog" title="Technitium Blog" xmlUrl="https://blog.technitium.com/feeds/posts/default" htmlUrl="https://blog.technitium.com/"/>
+    <outline type="rss" text="Potaroo blog" title="Potaroo blog" xmlUrl="https://www.potaroo.net/rss.xml" htmlUrl="http://www.potaroo.net/"/>
+  </body>
+</opml>

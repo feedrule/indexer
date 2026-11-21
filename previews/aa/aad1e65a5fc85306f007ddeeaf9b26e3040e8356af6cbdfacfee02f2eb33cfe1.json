@@ -1,0 +1,19 @@
+{
+  "url": "https://bookjelly.com/feed/",
+  "title": "BookJelly",
+  "subtitle": "Books. Motivation. Wisdom",
+  "bytes": 147878,
+  "last": "2026-09-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "books",
+    "book-review",
+    "history"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

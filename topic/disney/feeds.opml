@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>disney feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Beeks.cool - Ramblings RSS Feed" title="Beeks.cool - Ramblings RSS Feed" xmlUrl="https://beeks.cool/feed.txt" htmlUrl="https://beeks.cool/ramblings"/>
+    <outline type="rss" text="Disney Weirdness" title="Disney Weirdness" xmlUrl="https://disneyweirdness.blogspot.com/atom.xml" htmlUrl="https://disneyweirdness.blogspot.com/"/>
+    <outline type="rss" text="Diverse Tech Geek" title="Diverse Tech Geek" xmlUrl="https://www.diversetechgeek.com/feed/" htmlUrl="https://www.diversetechgeek.com"/>
+    <outline type="rss" text="Magical Trash" title="Magical Trash" xmlUrl="https://www.magicaltrash.com/rss" htmlUrl="https://www.magicaltrash.com/"/>
+    <outline type="rss" text="Parkeology" title="Parkeology" xmlUrl="https://www.parkeology.com/feed" htmlUrl="https://www.parkeology.com/"/>
+  </body>
+</opml>

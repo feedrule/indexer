@@ -1,0 +1,18 @@
+{
+  "url": "https://aumont.fr/feed/feed.xml",
+  "title": "Aumont.fr",
+  "subtitle": "Technical blog about BSD, FreeBSD, self-hosting and system administration",
+  "bytes": 238008,
+  "last": "2026-11-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "freebsd",
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

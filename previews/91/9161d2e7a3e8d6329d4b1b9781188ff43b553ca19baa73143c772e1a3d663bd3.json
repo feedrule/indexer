@@ -1,0 +1,15 @@
+{
+  "url": "https://fred.dev/feed",
+  "title": "Hello, I'm Fred!",
+  "subtitle": null,
+  "bytes": 1905183,
+  "last": "2026-01-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

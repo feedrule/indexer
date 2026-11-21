@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bookshelves feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Literary Workshop Blog" title="The Literary Workshop Blog" xmlUrl="https://literaryworkshop.wordpress.com/feed/" htmlUrl="https://literaryworkshop.wordpress.com"/>
+    <outline type="rss" text="Sycamore Book Cupboard" title="Sycamore Book Cupboard" xmlUrl="https://sycamorebookcupboard.bearblog.dev/feed/" htmlUrl="https://sycamorebookcupboard.bearblog.dev/"/>
+    <outline type="rss" text="Projects on A.H. Okuda Woodworking" title="Projects on A.H. Okuda Woodworking" xmlUrl="https://www.ahokudawoodworking.com/projects/index.xml" htmlUrl="https://www.ahokudawoodworking.com/projects/"/>
+  </body>
+</opml>

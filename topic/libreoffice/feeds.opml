@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>libreoffice feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Neil’s blog" title="Neil’s blog" xmlUrl="https://busydoingnothing.co.uk/blog/rss.xml" htmlUrl="https://busydoingnothing.co.uk/blog"/>
+    <outline type="rss" text="https://keithcu.com/wordpress/?feed=rss2" title="https://keithcu.com/wordpress/?feed=rss2" xmlUrl="https://keithcu.com/wordpress/?feed=rss2" htmlUrl="https://keithcu.com/wordpress"/>
+    <outline type="rss" text="LibreOffice Information" title="LibreOffice Information" xmlUrl="https://libreoffice-dev.blogspot.com/feeds/posts/default" htmlUrl="https://libreoffice-dev.blogspot.com/"/>
+    <outline type="rss" text="Mike Kaganski's blog" title="Mike Kaganski's blog" xmlUrl="https://mikekaganski.wordpress.com/feed/" htmlUrl="https://mikekaganski.wordpress.com"/>
+    <outline type="rss" text="Random technical stuff" title="Random technical stuff" xmlUrl="https://randomtechnicalstuff.blogspot.com/feeds/posts/default" htmlUrl="https://randomtechnicalstuff.blogspot.com/"/>
+    <outline type="rss" text="BlogSophy" title="BlogSophy" xmlUrl="https://sophy.ca/blog/feed/" htmlUrl="https://sophy.ca/blog"/>
+    <outline type="rss" text="What is Miklos hacking" title="What is Miklos hacking" xmlUrl="https://vmiklos.hu/blog/feeds/all.rss.xml" htmlUrl="https://vmiklos.hu/blog/"/>
+    <outline type="rss" text="The What of How" title="The What of How" xmlUrl="https://whatofhow.wordpress.com/feed/" htmlUrl="https://whatofhow.wordpress.com"/>
+  </body>
+</opml>

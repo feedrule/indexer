@@ -1,0 +1,18 @@
+{
+  "url": "https://blog.maximeheckel.com/rss.xml",
+  "title": "Maxime Heckel's Blog",
+  "subtitle": "Hi I'm Maxime, and this is my blog. Here, I share through my writing my experience as a frontend engineer and everything I'm learning about on React, Typescript, SwiftUI, Serverless, and testing.",
+  "bytes": 41370,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "webgl",
+    "shaders"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  }
+}

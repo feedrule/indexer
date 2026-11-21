@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>proxy feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="proxied.tech" title="proxied.tech" xmlUrl="https://blog.proxied.tech/feed.xml" htmlUrl="https://blog.proxied.tech"/>
+    <outline type="rss" text="corte.si" title="corte.si" xmlUrl="https://corte.si/atom.xml" htmlUrl="https://corte.si/"/>
+    <outline type="rss" text="fTelnet" title="fTelnet" xmlUrl="https://www.ftelnet.ca/feed.xml" htmlUrl="https://www.ftelnet.ca/"/>
+  </body>
+</opml>

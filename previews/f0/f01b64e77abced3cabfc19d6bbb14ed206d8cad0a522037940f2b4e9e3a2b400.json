@@ -1,0 +1,21 @@
+{
+  "url": "https://zonov.me/feed.xml",
+  "title": "Kirill Zonov",
+  "subtitle": "Software engineering, Entrepreneurship, Music",
+  "bytes": 189966,
+  "last": "2026-05-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "development",
+    "devops",
+    "cicd",
+    "ai-agents",
+    "terraform"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

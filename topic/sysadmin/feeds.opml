@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sysadmin feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Blog." title="Blog." xmlUrl="https://anarc.at/blog/index.rss" htmlUrl="https://anarc.at/blog/"/>
+    <outline type="rss" text="David Goodwin" title="David Goodwin" xmlUrl="https://codepoets.co.uk/feed/" htmlUrl="https://codepoets.co.uk"/>
+    <outline type="rss" text="Dead Parrot BBS" title="Dead Parrot BBS" xmlUrl="https://deadparrotbbs.com/feed/" htmlUrl="https://deadparrotbbs.com"/>
+    <outline type="rss" text="Technical Scratchpad" title="Technical Scratchpad" xmlUrl="https://luppeng.wordpress.com/feed/" htmlUrl="https://luppeng.wordpress.com"/>
+    <outline type="rss" text="Ferdinand Mütsch" title="Ferdinand Mütsch" xmlUrl="https://muetsch.io/rss2.xml" htmlUrl="https://muetsch.io/"/>
+    <outline type="rss" text="sysadminafterdark" title="sysadminafterdark" xmlUrl="https://sysadminafterdark.com/feed/" htmlUrl="https://sysadminafterdark.com/"/>
+    <outline type="rss" text="Tom's IT Cafe" title="Tom's IT Cafe" xmlUrl="https://tomsitcafe.com/feed/" htmlUrl="https://tomsitcafe.com"/>
+    <outline type="rss" text="Explorations by fabian" title="Explorations by fabian" xmlUrl="https://www.fabian.fyi/feeds/posts/default" htmlUrl="https://www.fabian.fyi/"/>
+    <outline type="rss" text="Hidden Obelisk" title="Hidden Obelisk" xmlUrl="https://www.hiddenobelisk.com/feed/" htmlUrl="https://www.hiddenobelisk.com"/>
+  </body>
+</opml>

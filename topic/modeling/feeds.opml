@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>modeling feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Airplanes in 3D" title="Airplanes in 3D" xmlUrl="https://airplanes3d.wordpress.com/feed/" htmlUrl="https://airplanes3d.wordpress.com"/>
+    <outline type="rss" text="Ian’s Blog" title="Ian’s Blog" xmlUrl="https://ianbarber.blog/feed/atom/" htmlUrl="https://ianbarber.blog"/>
+    <outline type="rss" text="John Senneker's blog" title="John Senneker's blog" xmlUrl="https://john.senneker.ca/index.xml" htmlUrl="https://john.senneker.ca/"/>
+    <outline type="rss" text="Statistics By Jim" title="Statistics By Jim" xmlUrl="https://statisticsbyjim.com/feed/" htmlUrl="https://statisticsbyjim.com/"/>
+    <outline type="rss" text="WLJS Notebook Blog" title="WLJS Notebook Blog" xmlUrl="https://wljs.io/feed.xml" htmlUrl="https://wljs.io/blog"/>
+    <outline type="rss" text="Anchor Modeling" title="Anchor Modeling" xmlUrl="https://www.anchormodeling.com/feed/" htmlUrl="https://www.anchormodeling.com"/>
+  </body>
+</opml>

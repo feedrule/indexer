@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pop-culture feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Consequence" title="Consequence" xmlUrl="http://consequenceofsound.net/feed" htmlUrl="https://consequence.net"/>
+    <outline type="rss" text="Cultrface" title="Cultrface" xmlUrl="https://cultrface.co.uk/feed/" htmlUrl="https://cultrface.co.uk"/>
+    <outline type="rss" text="Culture: An Owner's Manual" title="Culture: An Owner's Manual" xmlUrl="https://culture.ghost.io/rss/" htmlUrl="https://culture.ghost.io/"/>
+    <outline type="rss" text="A little wild garden" title="A little wild garden" xmlUrl="https://hortulus.bearblog.dev/feed/" htmlUrl="https://hortulus.bearblog.dev/"/>
+    <outline type="rss" text="Pop Culture Scholar" title="Pop Culture Scholar" xmlUrl="https://popculturescholar.com/feed/" htmlUrl="https://popculturescholar.com"/>
+    <outline type="rss" text="Sandbox World" title="Sandbox World" xmlUrl="https://sandboxworld.com/feed/atom/" htmlUrl="https://sandboxworld.com"/>
+    <outline type="rss" text="Maureen Mullarkey: Studio Matters" title="Maureen Mullarkey: Studio Matters" xmlUrl="https://studiomatters.com/feed" htmlUrl="https://studiomatters.com"/>
+  </body>
+</opml>

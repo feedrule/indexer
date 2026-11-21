@@ -1,0 +1,21 @@
+{
+  "url": "https://wordsinspace.net/rss.xml",
+  "title": "Words In Space",
+  "subtitle": "Words in Space is the website of Shannon Mattern.",
+  "bytes": 135613,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "publications",
+    "books",
+    "academia",
+    "infrastructure",
+    "teaching"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

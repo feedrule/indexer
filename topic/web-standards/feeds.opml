@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>web-standards feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="W3C - News" title="W3C - News" xmlUrl="http://www.w3.org/blog/news/feed" htmlUrl="https://www.w3.org/news/"/>
+    <outline type="rss" text="Clagnut" title="Clagnut" xmlUrl="https://clagnut.com/feeds/fullposts.xml" htmlUrl="https://clagnut.com/"/>
+    <outline type="rss" text="Recent Commits to web-share-target:main" title="Recent Commits to web-share-target:main" xmlUrl="https://github.com/w3c/web-share-target/commits/main.atom" htmlUrl="https://github.com/WICG/web-share-target/commits/main"/>
+    <outline type="rss" text="Low Entropy" title="Low Entropy" xmlUrl="https://lowentropy.net/feed/feed.xml" htmlUrl="https://lowentropy.net/"/>
+    <outline type="rss" text="Stories by EisenbergEffect on Medium" title="Stories by EisenbergEffect on Medium" xmlUrl="https://medium.com/feed/@eisenbergeffect" htmlUrl="https://medium.com/@eisenbergeffect?source=rss-257e6cfa66b3------2"/>
+    <outline type="rss" text="Mark Nottingham" title="Mark Nottingham" xmlUrl="https://mnot.net/blog/index.atom" htmlUrl="https://mnot.net/blog/"/>
+    <outline type="rss" text="Reader's Web" title="Reader's Web" xmlUrl="https://readersweb.org/feed/" htmlUrl="https://readersweb.org"/>
+    <outline type="rss" text="Schalk Neethling - Open Web, Open Source, and Web Accessibility" title="Schalk Neethling - Open Web, Open Source, and Web Accessibility" xmlUrl="https://schalkneethling.com/rss.xml" htmlUrl="https://schalkneethling.com/"/>
+    <outline type="rss" text="Garfieldtech" title="Garfieldtech" xmlUrl="https://www.garfieldtech.com/blog/feed"/>
+  </body>
+</opml>

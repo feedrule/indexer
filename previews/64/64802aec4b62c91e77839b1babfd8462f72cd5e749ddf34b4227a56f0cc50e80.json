@@ -1,0 +1,21 @@
+{
+  "url": "https://mehmetince.net/feed/atom/",
+  "title": "Mehmet Ince @mdisec – Vulnerability Researcher | Building security products | Security Advisor | Amateur Muay Thai fighter",
+  "subtitle": "a hacker at heart, a builder by practice, and a mentor by purpose. As co-founder of PRODAFT, I’ve spent the last two decades in vulnerability research and security product engineering.",
+  "bytes": 1008953,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vulnerability",
+    "vulnerability-research",
+    "exploit",
+    "postgresql",
+    "cve"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

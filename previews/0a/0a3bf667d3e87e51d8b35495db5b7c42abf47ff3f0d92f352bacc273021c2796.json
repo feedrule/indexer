@@ -1,0 +1,18 @@
+{
+  "url": "https://ds-security.com/rss.xml",
+  "title": "ds-security.com",
+  "subtitle": "Security research by Dennis Schäfer. Vulnerability research, penetration testing and reverse engineering.",
+  "bytes": 5426,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security-analysis",
+    "vulnerability"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

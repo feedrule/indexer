@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>filesystem feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ejaaskel" title="ejaaskel" xmlUrl="https://ejaaskel.dev/feed/" htmlUrl="https://ejaaskel.dev"/>
+    <outline type="rss" text="Joe T. Sylve, Ph.D." title="Joe T. Sylve, Ph.D." xmlUrl="https://jtsylve.blog/feed" htmlUrl="https://jtsylve.blog/"/>
+    <outline type="rss" text="Gifted Space" title="Gifted Space" xmlUrl="https://netzro.github.io/feeds/all.atom.xml" htmlUrl="https://netzro.github.io/"/>
+    <outline type="rss" text="Righteous IT" title="Righteous IT" xmlUrl="https://righteousit.com/feed/" htmlUrl="https://righteousit.com"/>
+    <outline type="rss" text="ZeroFS" title="ZeroFS" xmlUrl="https://www.zerofs.net/atom.xml" htmlUrl="https://www.zerofs.net"/>
+  </body>
+</opml>

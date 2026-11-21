@@ -1,0 +1,18 @@
+{
+  "url": "https://nyaa.place/blog.xml",
+  "title": "Alice's Blog",
+  "subtitle": "Recent articles on Alice's blog",
+  "bytes": 495198,
+  "last": "2026-09-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gnome",
+    "widgetkit"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

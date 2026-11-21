@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>parsing feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Coding Gorilla" title="The Coding Gorilla" xmlUrl="http://codinggorilla.domemtech.com/feed.xml" htmlUrl="http://0.0.0.0/"/>
+    <outline type="rss" text="Arne's Blog" title="Arne's Blog" xmlUrl="https://blog.arnedebo.com/index.xml" htmlUrl="https://blog.arnedebo.com/"/>
+    <outline type="rss" text="BranchTaken" title="BranchTaken" xmlUrl="https://branchtaken.com/blog/atom.xml" htmlUrl="https://branchtaken.com/"/>
+    <outline type="rss" text="Extracting Cycles" title="Extracting Cycles" xmlUrl="https://extractingcycles.com/blog/index.xml" htmlUrl="https://extractingcycles.com"/>
+    <outline type="rss" text="https://jhwlr.io/atom.xml" title="https://jhwlr.io/atom.xml" xmlUrl="https://jhwlr.io/atom.xml" htmlUrl="https://jhwlr.io"/>
+    <outline type="rss" text="Vinipsmaker" title="Vinipsmaker" xmlUrl="https://vinipsmaker.github.io/blog/rss" htmlUrl="https://vinipsmaker.github.io/"/>
+    <outline type="rss" text="Abandonculture" title="Abandonculture" xmlUrl="https://wareya.wordpress.com/feed/" htmlUrl="https://wareya.wordpress.com"/>
+  </body>
+</opml>

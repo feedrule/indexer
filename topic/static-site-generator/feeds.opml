@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>static-site-generator feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="40Ants" title="40Ants" xmlUrl="https://40ants.com/posts/atom.xml"/>
+    <outline type="rss" text="Hobix — Static publishing" title="Hobix — Static publishing" xmlUrl="https://hobix.com/learn/feed.xml" htmlUrl="https://hobix.com/"/>
+    <outline type="rss" text="jgirvin.com" title="jgirvin.com" xmlUrl="https://jgirvin.com/feed.xml" htmlUrl="https://jgirvin.com"/>
+    <outline type="rss" text="Mastro" title="Mastro" xmlUrl="https://mastrojs.github.io/feed.xml" htmlUrl="https://mastrojs.github.io/blog/"/>
+  </body>
+</opml>

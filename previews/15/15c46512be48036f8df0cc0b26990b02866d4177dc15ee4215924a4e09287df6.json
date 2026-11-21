@@ -1,0 +1,17 @@
+{
+  "url": "https://david.reviews/feeds/books.xml",
+  "title": "david.reviews: Books!",
+  "subtitle": "A feed of the 50 most recent book reviews I've posted.",
+  "bytes": 61051,
+  "last": "2026-10-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "book-review"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.davidje13.com/posts.rss",
+  "title": "David’s Blog",
+  "subtitle": "Articles about various tech-related themes",
+  "bytes": 674865,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web",
+    "unix",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

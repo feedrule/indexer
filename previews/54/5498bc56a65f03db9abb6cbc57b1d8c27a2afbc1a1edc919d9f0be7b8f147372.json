@@ -1,0 +1,19 @@
+{
+  "url": "https://ubuverse.com/feed.xml",
+  "title": "Ubuverse",
+  "subtitle": "Articles and tutorials on programming, web development, and Linux.",
+  "bytes": 19592,
+  "last": "2026-01-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nodejs",
+    "web-development",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

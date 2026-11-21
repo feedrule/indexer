@@ -1,0 +1,17 @@
+{
+  "url": "http://blog.ppy.sh/feed.xml",
+  "title": "ppy blog",
+  "subtitle": "osu! and other things",
+  "bytes": 284966,
+  "last": "2026-04-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openstreetmap"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

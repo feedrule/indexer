@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>samsung feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Latest from Android Central" title="Latest from Android Central" xmlUrl="http://feeds.androidcentral.com/androidcentral" htmlUrl="https://www.androidcentral.com/feeds.xml"/>
+    <outline type="rss" text="TalkAndroid" title="TalkAndroid" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" htmlUrl="https://www.talkandroid.com"/>
+    <outline type="rss" text="JoshAtticus Blog" title="JoshAtticus Blog" xmlUrl="https://blog.joshattic.us/feed.rss" htmlUrl="https://blog.joshattic.us"/>
+    <outline type="rss" text="Patch Notes" title="Patch Notes" xmlUrl="https://patchnotes.town/atom/" htmlUrl="https://patchnotes.town/"/>
+    <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" htmlUrl="https://www.androidauthority.com/"/>
+    <outline type="rss" text="Anurag Kushwaha's Blog" title="Anurag Kushwaha's Blog" xmlUrl="https://www.anuragk.com/blog/feed" htmlUrl="https://www.anuragk.com/blog"/>
+    <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
+    <outline type="rss" text="How-To Geek" title="How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl="https://www.howtogeek.com"/>
+    <outline type="rss" text="Zit Seng's Blog" title="Zit Seng's Blog" xmlUrl="https://zitseng.com/feed" htmlUrl="https://zitseng.com"/>
+  </body>
+</opml>

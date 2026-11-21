@@ -1,0 +1,19 @@
+{
+  "url": "https://www.entertainmentavenue.com/feed",
+  "title": "Entertainment Ave!",
+  "subtitle": "Read our stuff.",
+  "bytes": 107049,
+  "last": "2026-10-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "movies",
+    "movie-review",
+    "concerts"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

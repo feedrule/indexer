@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>repository feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Riftmap Blog" title="Riftmap Blog" xmlUrl="https://riftmap.dev/rss.xml" htmlUrl="https://riftmap.dev/"/>
+    <outline type="rss" text="blog" title="blog" xmlUrl="https://udhos.github.io/blog/feed.xml" htmlUrl="https://udhos.github.io/blog/"/>
+  </body>
+</opml>

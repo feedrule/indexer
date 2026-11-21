@@ -1,0 +1,17 @@
+{
+  "url": "https://prozak.org/blog.atom",
+  "title": "Prozak's Blog",
+  "subtitle": "Prozak's Blog is a haven for homelab and self-hosting enthusiasts, you’ll find guides and reflections that explore not just the how, but also the why behind self-hosting and homelab practices.",
+  "bytes": 47013,
+  "last": "2026-10-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

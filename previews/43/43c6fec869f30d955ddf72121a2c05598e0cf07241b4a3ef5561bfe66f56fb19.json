@@ -1,0 +1,18 @@
+{
+  "url": "https://uchenml.tech/rss.xml",
+  "title": "UchenML’s Blog",
+  "subtitle": "Train and ship compact ML models inside C++ apps. UchenML supports WebAssembly demos, local inference, embedded targets, and edge deployment without a separate Python pipeline or model server.",
+  "bytes": 3677,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "c++",
+    "compilers"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

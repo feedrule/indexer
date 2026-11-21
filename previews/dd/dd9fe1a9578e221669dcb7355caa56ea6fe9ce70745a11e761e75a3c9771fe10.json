@@ -1,0 +1,20 @@
+{
+  "url": "https://spencer.imbleau.com/blog/feed.xml",
+  "title": "Spencer Imbleau’s blog",
+  "subtitle": "Writing by Spencer Imbleau about Rust, computer graphics, open-source software, game development, AI, and engineering.",
+  "bytes": 63250,
+  "last": "2026-09-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "game-engine",
+    "graphics",
+    "ai",
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

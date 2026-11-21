@@ -1,0 +1,17 @@
+{
+  "url": "https://turtleware.eu/rss.xml",
+  "title": "Posts | TurtleWare",
+  "subtitle": "A RSS feed with the latest TurtleWare posts.",
+  "bytes": 112202,
+  "last": "2026-10-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "middleware"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

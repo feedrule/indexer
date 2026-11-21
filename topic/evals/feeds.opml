@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>evals feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Hamel's Blog" title="Hamel's Blog" xmlUrl="https://hamel.dev/index.xml" htmlUrl="https://hamel.dev/"/>
+    <outline type="rss" text="Jules Belveze" title="Jules Belveze" xmlUrl="https://julesbelveze.github.io/feed.xml" htmlUrl="https://julesbelveze.github.io/"/>
+    <outline type="rss" text="the wizard · dave8172" title="the wizard · dave8172" xmlUrl="https://quirkyagents.com/wizard/blog/rss.xml" htmlUrl="https://quirkyagents.com/wizard/blog/"/>
+    <outline type="rss" text="Shrikar Archak" title="Shrikar Archak" xmlUrl="https://shrikar.com/rss.xml" htmlUrl="https://shrikar.com/"/>
+    <outline type="rss" text="Dhaval Singh's Blog" title="Dhaval Singh's Blog" xmlUrl="https://www.dsdev.in/rss.xml" htmlUrl="https://www.dsdev.in"/>
+  </body>
+</opml>

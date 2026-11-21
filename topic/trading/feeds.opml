@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>trading feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Kraken Blog" title="Kraken Blog" xmlUrl="https://blog.kraken.com/feed/" htmlUrl="https://blog.kraken.com/"/>
+    <outline type="rss" text="NoDrama" title="NoDrama" xmlUrl="https://blog.nodrama.io/feed.xml" htmlUrl="https://blog.nodrama.io/"/>
+    <outline type="rss" text="The Financial Hacker" title="The Financial Hacker" xmlUrl="https://financial-hacker.com/feed/" htmlUrl="https://financial-hacker.com"/>
+    <outline type="rss" text="Tim Bai" title="Tim Bai" xmlUrl="https://tim.bai.uno/feed/atom/" htmlUrl="https://tim.bai.uno"/>
+    <outline type="rss" text="TraderFeed" title="TraderFeed" xmlUrl="https://traderfeed.blogspot.com/feeds/posts/default" htmlUrl="https://traderfeed.blogspot.com/"/>
+    <outline type="rss" text="The Blog of Adam H Grimes" title="The Blog of Adam H Grimes" xmlUrl="https://www.adamhgrimes.com/rss/" htmlUrl="https://www.adamhgrimes.com/"/>
+    <outline type="rss" text="Day Job Trader" title="Day Job Trader" xmlUrl="https://www.dayjobtrader.com/feed/" htmlUrl="https://www.dayjobtrader.com"/>
+    <outline type="rss" text="Python And Trading" title="Python And Trading" xmlUrl="https://www.pythonandtrading.com/feed/" htmlUrl="https://www.pythonandtrading.com"/>
+  </body>
+</opml>

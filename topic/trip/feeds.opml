@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>trip feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Blog Posts on Ben Goldsworthy" title="Blog Posts on Ben Goldsworthy" xmlUrl="https://bengoldsworthy.net/blog/posts/index.xml" htmlUrl="https://bengoldsworthy.net/blog/posts/"/>
+    <outline type="rss" text="Ryan Glanzer Blog" title="Ryan Glanzer Blog" xmlUrl="https://glanzer.blog/feed/atom/" htmlUrl="https://glanzer.blog"/>
+    <outline type="rss" text="The Unconventional Route" title="The Unconventional Route" xmlUrl="https://www.theunconventionalroute.com/feed/" htmlUrl="https://www.theunconventionalroute.com/"/>
+  </body>
+</opml>

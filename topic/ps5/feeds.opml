@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ps5 feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl="https://blog.playstation.com"/>
+    <outline type="rss" text="I love video games" title="I love video games" xmlUrl="https://ilovevideogames.bearblog.dev/feed/" htmlUrl="https://ilovevideogames.bearblog.dev/"/>
+    <outline type="rss" text="Tom Wor" title="Tom Wor" xmlUrl="https://tomwor.com/feed/" htmlUrl="https://tomwor.com"/>
+  </body>
+</opml>

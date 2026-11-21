@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>drone feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Eddie.com" title="Eddie.com" xmlUrl="https://eddie.com/feed/" htmlUrl="https://eddie.com"/>
+    <outline type="rss" text="Pierre Kancir personal blog" title="Pierre Kancir personal blog" xmlUrl="https://khancyr.github.io/feed_rss_created.xml" htmlUrl="https://khancyr.github.io/"/>
+    <outline type="rss" text="Little Flying Robots" title="Little Flying Robots" xmlUrl="https://little-flying-robots.ghost.io/rss/" htmlUrl="https://littleflyingrobots.org/"/>
+    <outline type="rss" text="Oscar Liang" title="Oscar Liang" xmlUrl="https://oscarliang.com/feed/atom/" htmlUrl="https://oscarliang.com/"/>
+    <outline type="rss" text="Itamar Weiss" title="Itamar Weiss" xmlUrl="https://www.itamarweiss.com/feed.xml" htmlUrl="https://www.itamarweiss.com/"/>
+  </body>
+</opml>

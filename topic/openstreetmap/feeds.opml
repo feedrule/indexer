@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>openstreetmap feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ppy blog" title="ppy blog" xmlUrl="http://blog.ppy.sh/feed.xml" htmlUrl="https://peppy.github.io/"/>
+    <outline type="rss" text="OSM Baustelle" title="OSM Baustelle" xmlUrl="https://blog.get-map.org/index.php/feed/" htmlUrl="https://blog.get-map.org"/>
+    <outline type="rss" text="Jochen Topf" title="Jochen Topf" xmlUrl="https://blog.jochentopf.com/feed.xml" htmlUrl="https://blog.jochentopf.com/"/>
+    <outline type="rss" text="Toby Champion's Blog" title="Toby Champion's Blog" xmlUrl="https://blog.tobychampion.com/index.xml" htmlUrl="https://blog.tobychampion.com/"/>
+    <outline type="rss" text="CXO2 DevLog" title="CXO2 DevLog" xmlUrl="https://dev.cxo2.me/feed.xml" htmlUrl="https://dev.cxo2.me/"/>
+    <outline type="rss" text="Maciej Wróblewski – blog" title="Maciej Wróblewski – blog" xmlUrl="https://maciej.bearblog.dev/feed/" htmlUrl="https://maciej.bearblog.dev/"/>
+    <outline type="rss" text="MicroMDM" title="MicroMDM" xmlUrl="https://micromdm.io/index.xml" htmlUrl="https://micromdm.io/"/>
+    <outline type="rss" text="Neis One!" title="Neis One!" xmlUrl="https://neis-one.org/feed/" htmlUrl="https://neis-one.org"/>
+    <outline type="rss" text="Pietervdvn's blog" title="Pietervdvn's blog" xmlUrl="https://pietervdvn.me/feed/" htmlUrl="https://pietervdvn.me"/>
+    <outline type="rss" text="Andy Mabbett, aka pigsonthewing." title="Andy Mabbett, aka pigsonthewing." xmlUrl="https://pigsonthewing.org.uk/feed/" htmlUrl="https://pigsonthewing.org.uk/"/>
+    <outline type="rss" text="Srivats P" title="Srivats P" xmlUrl="https://srivatsp.com/feed-rss.xml" htmlUrl="https://srivatsp.com"/>
+    <outline type="rss" text="thinkwhere" title="thinkwhere" xmlUrl="https://thinkwhere.wordpress.com/feed/" htmlUrl="https://thinkwhere.wordpress.com"/>
+    <outline type="rss" text="El Rincón del Tío Nuke" title="El Rincón del Tío Nuke" xmlUrl="https://www.nukeador.com/feed/" htmlUrl="https://www.nukeador.com"/>
+  </body>
+</opml>

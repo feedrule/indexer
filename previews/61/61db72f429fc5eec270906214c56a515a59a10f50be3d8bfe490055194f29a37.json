@@ -1,0 +1,21 @@
+{
+  "url": "https://grigio.org/rss/",
+  "title": "Tech blog",
+  "subtitle": "Thoughts about tech and code. Linux, Javascript,..",
+  "bytes": 204193,
+  "last": "2026-11-19",
+  "languages": [
+    "en",
+    "it"
+  ],
+  "topics": [
+    "linux",
+    "vulkan",
+    "arch-linux",
+    "intel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

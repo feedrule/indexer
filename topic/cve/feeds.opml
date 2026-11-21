@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cve feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Baldur Security" title="Baldur Security" xmlUrl="https://baldur.dk/feeds/all.atom.xml" htmlUrl="https://baldur.dk/"/>
+    <outline type="rss" text="Sorcery Blog" title="Sorcery Blog" xmlUrl="https://blog.sorcery.ie/index.xml" htmlUrl="https://blog.sorcery.ie/"/>
+    <outline type="rss" text="El blog de Ulises Gascón" title="El blog de Ulises Gascón" xmlUrl="https://blog.ulisesgascon.com/rss.xml" htmlUrl="https://blog.ulisesgascon.com"/>
+    <outline type="rss" text="gabdevele" title="gabdevele" xmlUrl="https://gabdevele.dev/rss.xml" htmlUrl="https://gabdevele.dev/"/>
+    <outline type="rss" text="Abu Hurayra" title="Abu Hurayra" xmlUrl="https://hurayraiit.com/rss.xml" htmlUrl="https://hurayraiit.com/"/>
+    <outline type="rss" text="JerryGamblin.com" title="JerryGamblin.com" xmlUrl="https://jerrygamblin.com/feed/" htmlUrl="https://jerrygamblin.com"/>
+    <outline type="rss" text="Mav Levin Security Research" title="Mav Levin Security Research" xmlUrl="https://mavlevin.com/feed.xml" htmlUrl="https://mavlevin.com/"/>
+    <outline type="rss" text="Mehmet Ince @mdisec – Vulnerability Researcher | Building security products | Security Advisor | Amateur Muay Thai fighter" title="Mehmet Ince @mdisec – Vulnerability Researcher | Building security products | Security Advisor | Amateur Muay Thai fighter" xmlUrl="https://mehmetince.net/feed/atom/" htmlUrl="https://mehmetince.net/"/>
+    <outline type="rss" text="nefariousplan.com" title="nefariousplan.com" xmlUrl="https://nefariousplan.com/rss.xml" htmlUrl="https://nefariousplan.com"/>
+    <outline type="rss" text="CyberSec Notes" title="CyberSec Notes" xmlUrl="https://r3verii.github.io/feed" htmlUrl="https://r3verii.github.io/"/>
+    <outline type="rss" text="theyhack.me" title="theyhack.me" xmlUrl="https://theyhack.me/feed" htmlUrl="https://theyhack.me/"/>
+    <outline type="rss" text="Whereisk0Shl" title="Whereisk0Shl" xmlUrl="https://whereisk0shl.top/feed.xml" htmlUrl="https://whereisk0shl.top/"/>
+    <outline type="rss" text="Xe Iaso's blog" title="Xe Iaso's blog" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net/"/>
+  </body>
+</opml>

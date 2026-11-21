@@ -1,0 +1,18 @@
+{
+  "url": "https://weatherwest.com/feed",
+  "title": "Weather West",
+  "subtitle": "California weather and climate perspectives",
+  "bytes": 6671,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "climate-change",
+    "weather"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

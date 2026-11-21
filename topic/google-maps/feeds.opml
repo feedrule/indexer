@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>google-maps feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ARKives" title="ARKives" xmlUrl="https://arkives.in/index.xml" htmlUrl="https://arkives.in/"/>
+    <outline type="rss" text="Metro Map Maker" title="Metro Map Maker" xmlUrl="https://blog.metromapmaker.com/rss/" htmlUrl="https://blog.metromapmaker.com/"/>
+    <outline type="rss" text="Mapping London" title="Mapping London" xmlUrl="https://mappinglondon.co.uk/feed/" htmlUrl="https://mappinglondon.co.uk"/>
+    <outline type="rss" text="Quattro Shapes" title="Quattro Shapes" xmlUrl="https://quattroshapes.com/feed/" htmlUrl="https://quattroshapes.com"/>
+    <outline type="rss" text="Transit Maps" title="Transit Maps" xmlUrl="https://transitmap.net/feed/" htmlUrl="https://transitmap.net"/>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mikrotik feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="KISS" title="KISS" xmlUrl="https://egeek.me/atom.xml" htmlUrl="https://egeek.me/"/>
+    <outline type="rss" text="Mom &amp; Pop Network" title="Mom &amp; Pop Network" xmlUrl="https://momandpop.network/feed/" htmlUrl="https://momandpop.network"/>
+    <outline type="rss" text="Mom &amp; Pop Network" title="Mom &amp; Pop Network" xmlUrl="https://momandpop.network/feed/atom/" htmlUrl="https://momandpop.network"/>
+    <outline type="rss" text="Toger Blog" title="Toger Blog" xmlUrl="https://www.toger.us/feed.xml" htmlUrl="https://www.toger.us/"/>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+{
+  "url": "https://developer-friendly.blog/feed_rss_updated.xml",
+  "title": "Developer Friendly Blog",
+  "subtitle": "Kubernetes, GitOps, CI/CD, Infrastructure as Code (IaC), and Site Reliability Engineering topics from seven years of production deployments.",
+  "bytes": 54134,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

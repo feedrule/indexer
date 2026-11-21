@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tokens feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Research blog of Pieter Delobelle" title="Research blog of Pieter Delobelle" xmlUrl="https://pieter.ai/rss.xml" htmlUrl="https://pieter.ai//test.atom"/>
+    <outline type="rss" text="Home on Sauvik Biswas" title="Home on Sauvik Biswas" xmlUrl="https://sauvikbiswas.com/index.xml" htmlUrl="https://sauvikbiswas.com/"/>
+    <outline type="rss" text="Tokenomics Explained" title="Tokenomics Explained" xmlUrl="https://tokenomicsexplained.com/feed/" htmlUrl="https://tokenomicsexplained.com"/>
+    <outline type="rss" text="My Big Data World" title="My Big Data World" xmlUrl="https://weidongzhou.wordpress.com/feed/" htmlUrl="https://weidongzhou.wordpress.com"/>
+    <outline type="rss" text="jdilla.xyz" title="jdilla.xyz" xmlUrl="https://www.jdilla.xyz/rss.xml" htmlUrl="https://www.jdilla.xyz/"/>
+    <outline type="rss" text="Martech Magic" title="Martech Magic" xmlUrl="https://www.martech-magic.com/index.php/feed/" htmlUrl="https://www.martech-magic.com"/>
+  </body>
+</opml>

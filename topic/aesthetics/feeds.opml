@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>aesthetics feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="EdRLS" title="EdRLS" xmlUrl="https://edrls.wordpress.com/feed/" htmlUrl="https://edrls.wordpress.com"/>
+    <outline type="rss" text="Lee Byron / til" title="Lee Byron / til" xmlUrl="https://leebyron.com/til/feed.xml" htmlUrl="https://leebyron.com/til/"/>
+    <outline type="rss" text="Lebenskünstler" title="Lebenskünstler" xmlUrl="https://randallszott.org/feed/" htmlUrl="https://randallszott.org"/>
+  </body>
+</opml>

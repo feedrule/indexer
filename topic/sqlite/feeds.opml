@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sqlite feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Alex Garcia's Blog" title="Alex Garcia's Blog" xmlUrl="https://alexgarcia.xyz/blog/everything.xml" htmlUrl="https://alexgarcia.xyz/blog"/>
+    <outline type="rss" text="Martin Lysk Blog RSS Feed" title="Martin Lysk Blog RSS Feed" xmlUrl="https://blog.lysk.tech/rss" htmlUrl="https://blog.lysk.tech/"/>
+    <outline type="rss" text="Martin Lysk Blog RSS Feed" title="Martin Lysk Blog RSS Feed" xmlUrl="https://blog.lysk.tech/rss.xml" htmlUrl="https://blog.lysk.tech/"/>
+    <outline type="rss" text="charlesleifer.com" title="charlesleifer.com" xmlUrl="https://charlesleifer.com/blog/rss/" htmlUrl="http://charlesleifer.com/"/>
+    <outline type="rss" text="Doug's Place" title="Doug's Place" xmlUrl="https://douglascuthbertson.com/index.xml" htmlUrl="https://douglascuthbertson.com/index.html"/>
+    <outline type="rss" text="Menial" title="Menial" xmlUrl="https://menial.co.uk/feed/index.xml" htmlUrl="https://menial.co.uk/feed/index.xml"/>
+    <outline type="rss" text="Oldmoe's blog" title="Oldmoe's blog" xmlUrl="https://oldmoe.blog/feed/" htmlUrl="https://oldmoe.blog"/>
+    <outline type="rss" text="Philip O'Toole" title="Philip O'Toole" xmlUrl="https://philipotoole.com/feed/" htmlUrl="https://philipotoole.com"/>
+    <outline type="rss" text="su3.io" title="su3.io" xmlUrl="https://su3.io/api/feed" htmlUrl="https://su3.io"/>
+  </body>
+</opml>

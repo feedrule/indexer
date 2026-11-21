@@ -1,0 +1,19 @@
+{
+  "url": "https://www.malwaretech.com/feed",
+  "title": "MalwareTech",
+  "subtitle": "A mix of in-depth nuanced takes on current events and highly technical original research by Marcus Hutchins. I cover a wide array of topics such as vulnerability research, threat intelligence, nationa",
+  "bytes": 10134,
+  "last": "2026-09-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "malware",
+    "vulnerability-research"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

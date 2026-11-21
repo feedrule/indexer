@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>logitech feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Andy Goetz" title="Andy Goetz" xmlUrl="https://andygoetz.org/feed.xml" htmlUrl="http://andygoetz.org/"/>
+    <outline type="rss" text="Jacek Fedoryński's blog" title="Jacek Fedoryński's blog" xmlUrl="https://blog.jfedor.org/feeds/posts/default" htmlUrl="https://blog.jfedor.org/"/>
+    <outline type="rss" text="Who-T" title="Who-T" xmlUrl="https://feeds.feedburner.com/Who-t" htmlUrl="http://who-t.blogspot.com/"/>
+  </body>
+</opml>

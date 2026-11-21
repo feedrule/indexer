@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>virtual-worlds feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Jarl - Blog" title="Jarl - Blog" xmlUrl="https://jarl-game.com/blog/rss.xml" htmlUrl="https://jarl-game.com/"/>
+    <outline type="rss" text="The Creation Engine No. 2" title="The Creation Engine No. 2" xmlUrl="https://jimpurbrick.com/feeds/rss/blog/index.html" htmlUrl="https://jimpurbrick.com/"/>
+    <outline type="rss" text="jkm.dev" title="jkm.dev" xmlUrl="https://jkm.dev/index.xml" htmlUrl="https://jkm.dev/"/>
+  </body>
+</opml>

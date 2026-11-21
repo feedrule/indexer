@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>deployment feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Deployer Blog" title="Deployer Blog" xmlUrl="https://deployer.org/blog/atom.xml" htmlUrl="https://deployer.org/blog"/>
+    <outline type="rss" text="Unexpected cool pointer" title="Unexpected cool pointer" xmlUrl="https://followthetrace.com/rss.xml" htmlUrl="https://followthetrace.com/"/>
+    <outline type="rss" text="From The Keyboard" title="From The Keyboard" xmlUrl="https://fromthekeyboard.com/feed" htmlUrl="https://fromthekeyboard.com/"/>
+    <outline type="rss" text="Stefan’s Blog" title="Stefan’s Blog" xmlUrl="https://www.stefanwienert.de/feed.xml" htmlUrl="https://www.stefanwienert.de/"/>
+  </body>
+</opml>

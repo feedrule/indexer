@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>virtualenv feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="dotenv" title="dotenv" xmlUrl="https://dotenv.bearblog.dev/feed/" htmlUrl="https://dotenv.bearblog.dev/"/>
+    <outline type="rss" text="vgrass.de" title="vgrass.de" xmlUrl="https://vgrass.de/feed/atom/" htmlUrl="https://vgrass.de"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://carlmastrangelo.com/blog/feed.rss",
+  "title": "Carl's Blog",
+  "subtitle": "A programming and hobby blog.",
+  "bytes": 20792,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "java",
+    "advent-of-code",
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

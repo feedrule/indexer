@@ -1,0 +1,17 @@
+{
+  "url": "https://maxwelldulin.com/api/rss/blog",
+  "title": "Maxwell Dulin's Blog",
+  "subtitle": "Security research and technical blog posts",
+  "bytes": 82536,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security-research"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

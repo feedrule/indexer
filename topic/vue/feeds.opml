@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>vue feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="alexop.dev" title="alexop.dev" xmlUrl="https://alexop.dev/rss.xml" htmlUrl="https://alexop.dev/"/>
+    <outline type="rss" text="Abdelrahman's Blog" title="Abdelrahman's Blog" xmlUrl="https://awad.dev/feed.xml" htmlUrl="https://awad.dev/"/>
+    <outline type="rss" text="thedonutblog" title="thedonutblog" xmlUrl="https://blog.khaleelgibran.com/feed.xml" htmlUrl="https://blog.khaleelgibran.com/"/>
+    <outline type="rss" text="Fotis Adamakis - Frontend Architecture &amp; DX" title="Fotis Adamakis - Frontend Architecture &amp; DX" xmlUrl="https://fadamakis.com/rss.xml" htmlUrl="https://fadamakis.com"/>
+    <outline type="rss" text="ersions" title="ersions" xmlUrl="https://madelinecaples.hashnode.dev/rss.xml" htmlUrl="https://madelinecaples.hashnode.dev"/>
+    <outline type="rss" text="Matthias Hager" title="Matthias Hager" xmlUrl="https://matthiashager.com/index.xml" htmlUrl="https://matthiashager.com/"/>
+    <outline type="rss" text="Blog | Michał Kuncio - Modern webdev - the cool parts" title="Blog | Michał Kuncio - Modern webdev - the cool parts" xmlUrl="https://michalkuncio.com/rss.xml" htmlUrl="https://michalkuncio.com/"/>
+    <outline type="rss" text="Renat Galyamov" title="Renat Galyamov" xmlUrl="https://renatello.com/feed/" htmlUrl="https://renatello.com/"/>
+    <outline type="rss" text="Boris Buliga" title="Boris Buliga" xmlUrl="https://www.d12frosted.io/atom.xml" htmlUrl="https://www.d12frosted.io"/>
+    <outline type="rss" text="Raí Siqueira - Blog" title="Raí Siqueira - Blog" xmlUrl="https://www.raisiqueira.io/rss.xml" htmlUrl="https://raisiqueira.io/"/>
+    <outline type="rss" text="Simon Depelchin - Blog" title="Simon Depelchin - Blog" xmlUrl="https://www.simondepelchin.be/rss.xml" htmlUrl="https://www.simondepelchin.be/articles"/>
+  </body>
+</opml>

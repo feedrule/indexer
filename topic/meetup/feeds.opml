@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>meetup feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Markos Fragkakis" title="Markos Fragkakis" xmlUrl="http://fragkakis.org/feed.xml" htmlUrl="https://fragkakis.org/"/>
+    <outline type="rss" text="Saugat Khadka" title="Saugat Khadka" xmlUrl="https://blog.saugatkhadka.com/atom/" htmlUrl="https://blog.saugatkhadka.com/"/>
+    <outline type="rss" text="Vorbrodt's C++ Blog" title="Vorbrodt's C++ Blog" xmlUrl="https://vorbrodt.blog/feed/atom/" htmlUrl="https://vorbrodt.blog"/>
+  </body>
+</opml>

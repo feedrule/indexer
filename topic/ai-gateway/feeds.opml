@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ai-gateway feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ai.moda's blog" title="ai.moda's blog" xmlUrl="https://ghost.ai.moda/rss/" htmlUrl="https://ghost.ai.moda/"/>
+    <outline type="rss" text="Josh VanDeraa" title="Josh VanDeraa" xmlUrl="https://josh-v.com/index.xml" htmlUrl="https://josh-v.com/"/>
+    <outline type="rss" text="Vercel News" title="Vercel News" xmlUrl="https://vercel.com/atom" htmlUrl="https://vercel.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+{
+  "url": "https://blog.klaehn.org/atom.xml",
+  "title": "Rüdiger's Blog",
+  "subtitle": "A minimal blog about Rust, systems programming, and other things.",
+  "bytes": 208402,
+  "last": "2026-06-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ipfs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  }
+}

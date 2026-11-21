@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>hibernate feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Thorben Janssen" title="Thorben Janssen" xmlUrl="https://thorben-janssen.com/feed/" htmlUrl="https://thorben-janssen.com"/>
+    <outline type="rss" text="Vlad Mihalcea" title="Vlad Mihalcea" xmlUrl="https://vladmihalcea.com/feed/" htmlUrl="https://vladmihalcea.com/"/>
+    <outline type="rss" text="blog/tags/planet" title="blog/tags/planet" xmlUrl="https://www.cs.unb.ca/~bremner/blog/tags/planet/index.atom" htmlUrl="https://www.cs.unb.ca/~bremner//blog/tags/planet/"/>
+  </body>
+</opml>

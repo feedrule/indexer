@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>magazines feeds</title>
+    <dateCreated>Sat, 21 Nov 2026 11:54:45 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="got papers?" title="got papers?" xmlUrl="https://gotpapers.scene.org/?feed=rss2" htmlUrl="https://gotpapers.scene.org"/>
+    <outline type="rss" text="Magforum blog" title="Magforum blog" xmlUrl="https://magforum.wordpress.com/feed/" htmlUrl="https://magforum.wordpress.com"/>
+    <outline type="rss" text="Mr. Magazine" title="Mr. Magazine" xmlUrl="https://mrmagazine.me/feed/" htmlUrl="https://mrmagazine.me"/>
+    <outline type="rss" text="My Life 100 Years Ago" title="My Life 100 Years Ago" xmlUrl="https://mylife100yearsago.com/feed/" htmlUrl="https://mylife100yearsago.com"/>
+    <outline type="rss" text="LOW←TECH MAGAZINE English" title="LOW←TECH MAGAZINE English" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" htmlUrl="https://solar.lowtechmagazine.com/posts/"/>
+  </body>
+</opml>
