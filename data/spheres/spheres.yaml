@@ -1,0 +1,25 @@
+
+
+spheres:
+  - sentences:
+      - The company today announced the launch of its new product line.
+      - We are proud to announce a strategic partnership with a leading industry provider.
+      - The firm has appointed a new Chief Executive Officer, effective immediately.
+      - The new model will be available nationwide from next month, with pricing starting at $29,999.
+      - The organisation announced record revenue growth for the third quarter.
+      - The award recognises the company's commitment to innovation and customer service.
+      - The expansion will create more than 200 new jobs in the region.
+      - For more information, please contact our media relations team.
+    threshold: 0.42
+
+  - sentences:
+      - Start with our booking page.
+    threshold: 0.43
+
+  - sentences:
+      - "Call us now for a free, no-obligation quote."
+    threshold: 0.42
+
+  - sentences:
+      - "Don't miss out, sign up now before it's too late!"
+    threshold: 0.44
