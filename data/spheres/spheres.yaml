@@ -1,16 +1,37 @@
 
 
+
 spheres:
-  - sentences:
-      - The company today announced the launch of its new product line.
-      - We are proud to announce a strategic partnership with a leading industry provider.
-      - The firm has appointed a new Chief Executive Officer, effective immediately.
-      - The new model will be available nationwide from next month, with pricing starting at $29,999.
-      - The organisation announced record revenue growth for the third quarter.
-      - The award recognises the company's commitment to innovation and customer service.
-      - The expansion will create more than 200 new jobs in the region.
-      - For more information, please contact our media relations team.
-    threshold: 0.42
+  # Shop promotion. Tested on PR #25's feeds: at 0.50 every hit was right (all Nancy Zieman's shop
+  # posts), nothing from the other feeds. Written after reading those posts: test on other feeds.
+  - name: shop_sale
+    sentences:
+      - Shop our holiday sale now at our online store!
+      - Don't miss our clearance sale, everything must go!
+      - Save 20% on all items this weekend only.
+    threshold: 0.50
+
+  - name: buy_limited
+    sentences:
+      - Order yours today, this limited edition bundle won't last!
+      - Purchase the exclusive gift box while supplies last.
+      - Get yours now, available for a limited time only.
+    threshold: 0.50
+
+  # Untested: no such sentences in PR #25's feeds (best scores 0.49 and 0.50, all wrong).
+  - name: contact_us
+    sentences:
+      - Contact us today for a free consultation.
+      - Get in touch with our team to learn how we can help your business.
+      - Request a quote online or give us a call.
+    threshold: 0.50
+
+  - name: press_contact
+    sentences:
+      - For media inquiries, please contact our press office.
+      - "About the company: founded in 1998, it is a global leader in its field."
+      - For more information, please visit our website or contact our media relations team.
+    threshold: 0.50
 
   - sentences:
       - Start with our booking page.
