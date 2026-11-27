@@ -26,10 +26,20 @@ as ISO 639 codes, sorted; empty if none), `topics` (topic names, most relevant f
 empty if none stands out; only those in `topic/topics.txt` have a folder), `source` (the list the
 feed was found in, as the site's sources table shows it: `name`, e.g. `kagisearch/smallweb`,
 and `license`, e.g. `MIT`, `CC0-1.0`, `Common Crawl terms`; `name` may be `null`, then
-`license` is an SPDX id), `posts` (up to 3 of the feed's most recent posts, newest first, each
-`link`, `title` and `description` (the start of the post); empty when the last successful check
-is more than a few days old). `title`, `subtitle`, `bytes`, `last` and `source` may be `null`,
-and so may a post's `link` (only `http(s)` links are given), `title` and `description`.
+`license` is an SPDX id), `posts_url` (the feed's posts file on the `posts` branch, see below;
+`null` if it has none). `title`, `subtitle`, `bytes`, `last`, `source` and `posts_url` may be
+`null`.
+
+## Posts
+
+The feeds' recent posts are on the `posts` branch (served at
+`https://raw.githubusercontent.com/feedrule/indexer/posts/`), one JSON file per feed at
+`<h:2>/<h>.json` (the same `<h>` as its preview). A file is written when the feed's posts change
+and kept after that, so it holds the latest posts seen, even when the feed was last checked long
+ago. Fields: `url` (the feed URL), `checked_at` (when the check that fetched these posts ran,
+ISO 8601 with a UTC offset; may be `null`), `posts` (up to 3 of the feed's most recent posts,
+newest first, each `link`, `title` and `description` (the start of the post); any of the three
+may be `null`, and only `http(s)` links are given).
 
 Titles, subtitles and posts come from the feeds: treat them as untrusted plain text, never as
 HTML.

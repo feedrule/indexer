@@ -89,17 +89,19 @@ services:
       - ./data:/work/data:ro
     command: ["run", "data/urls.txt"]
 
-  # Writes the published lists to ./output (cleared first) and exits:
-  #   mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm export
-  # Runs as your user so the files are yours; create ./output first, or Docker creates it as root.
+  # Writes the published lists to ./output (cleared first) and the posts files into ./posts (a
+  # checkout of the posts branch, or an empty directory), and exits:
+  #   mkdir -p output posts && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm export
+  # Runs as your user so the files are yours; create both first, or Docker creates them as root.
   export:
     <<: *indexer
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}"
     volumes:
       - ./output:/work/output
+      - ./posts:/work/posts
       - ./SPEC.md:/work/SPEC.md:ro
       - ./data/topics/synonyms.tsv:/work/data/topics/synonyms.tsv:ro
-    command: ["export", "--output-dir", "output"]
+    command: ["export", "--output-dir", "output", "--posts-dir", "posts"]
 
   # Rebuilds the embedding sets in data/embeddings/ (the set "topics" from data/topics/topics.txt)
   # with the image's MiniLM. No database, no network:
@@ -120,7 +122,7 @@ services:
     command: ["embeddings"]
 
   # Clusters the sentences of recent posts into data/clusters/ (clusters.yml pushes them to the
-  # binaries branch): the previews of a checkout of the output branch in ./published, and the
+  # binaries branch): the posts files of a checkout of the posts branch in ./published, and the
   # rejected survivors in data/survivors. No database, no network; the text is untrusted.
   #   HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm clusters
   clusters:
@@ -135,9 +137,9 @@ services:
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}" # owns what it writes
     volumes:
       - ./data:/work/data:ro # survivors and sources.toml
-      - ./published/previews:/work/previews:ro # the output branch's previews
+      - ./published:/work/posts:ro # a checkout of the posts branch
       - ./data/clusters:/work/data/clusters # what it writes
-    command: ["clusters", "--previews", "previews"]
+    command: ["clusters", "--posts", "posts"]
 
   # Deletes every indexer table and all data (needs --yes); the next liquibase run recreates
   # them empty:  docker compose run --rm drop-tables drop-tables --yes

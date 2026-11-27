@@ -1,8 +1,8 @@
 """Unsupervised clusters of the sentences of recent posts (titles and descriptions), from two
 sources:
 
-- the published previews (the output branch's previews/<h:2>/<h>.json), those with posts: the
-  listed feeds;
+- the posts files (the posts branch's <h:2>/<h>.json, written by `indexer export`), those with
+  posts: the feeds listed now or before;
 - the rejected feeds of the reviewed survivors proposals (data/survivors/**/*.yaml,
   `accept: false`), except those rejected as unsafe or with an excluded keyword
   (`[commoncrawl] exclude_keywords`) in their text, so none of that reaches the examples.
@@ -67,9 +67,9 @@ class Sentences:
 
     feeds: dict[str, set[str]] = field(default_factory=dict)  # sentence -> feed URLs
     rejected: set[str] = field(default_factory=set)  # feed URLs from rejected proposals
-    listed: set[str] = field(default_factory=set)  # feed URLs from the previews
-    previews: int = 0  # preview files read
-    previews_with_posts: int = 0
+    listed: set[str] = field(default_factory=set)  # feed URLs from the posts files
+    files: int = 0  # posts files read
+    files_with_posts: int = 0
 
     def add(self, feed: str, texts: Iterable[str | None]) -> None:
         for text in texts:
@@ -83,18 +83,19 @@ def split(text: str | None) -> list[str]:
     return [s for s in _SENTENCE_END.split(text) if len(s.split()) >= MIN_WORDS]
 
 
-def read_previews(directory: Path, into: Sentences) -> None:
-    """The post titles and descriptions of every preview with posts."""
-    for path in sorted(directory.glob("*/*.json")):
-        into.previews += 1
+def read_posts(directory: Path, into: Sentences) -> None:
+    """The post titles and descriptions of every posts file (`export.render_posts`) with posts,
+    in directory/<2 hex>/ (a checkout of the posts branch)."""
+    for path in sorted(directory.glob("[0-9a-f][0-9a-f]/*.json")):
+        into.files += 1
         try:
             doc = json.loads(path.read_text(encoding="utf-8"))
             url, posts = doc["url"], doc.get("posts") or []
         except (ValueError, KeyError, TypeError) as exc:
-            raise ClustersError(f"{path}: not a preview: {exc}") from exc
+            raise ClustersError(f"{path}: not a posts file: {exc}") from exc
         if not posts:
             continue
-        into.previews_with_posts += 1
+        into.files_with_posts += 1
         into.listed.add(url)
         for post in posts:
             into.add(url, (post.get("title"), post.get("description")))
@@ -184,7 +185,7 @@ def build(
     tokenizer: Path,
     directory: Path = CLUSTERS_DIR,
     k: int = K,
-    output_commit: str | None = None,
+    posts_commit: str | None = None,
 ) -> int:
     """Embed, cluster and write posts.npy, posts.json and posts.md to `directory`. Returns the
     number of sentences clustered."""
@@ -224,10 +225,10 @@ def build(
         "tokenizer_sha256": sha256(tokenizer),
         "seed": SEED,
         "built_at": datetime.now(UTC).isoformat(timespec="seconds"),
-        "output_commit": output_commit,
+        "posts_commit": posts_commit,
         "sentences": len(texts),
-        "previews": sentences.previews,
-        "previews_with_posts": sentences.previews_with_posts,
+        "files": sentences.files,
+        "files_with_posts": sentences.files_with_posts,
         "listed_feeds": len(sentences.listed),
         "rejected_feeds": len(sentences.rejected),
         "clusters": [{key: c[key] for key in c if key != "examples"} for c in clusters],
@@ -241,8 +242,8 @@ def render(meta: dict[str, object], clusters: list[dict[str, object]]) -> str:
     lines = [
         f"# {meta['rows']} clusters of {meta['sentences']} sentences",
         "",
-        f"From the recent posts of {meta['listed_feeds']} listed feeds (previews with posts:"
-        f" {meta['previews_with_posts']} of {meta['previews']}) and {meta['rejected_feeds']}"
+        f"From the recent posts of {meta['listed_feeds']} listed feeds (posts files with posts:"
+        f" {meta['files_with_posts']} of {meta['files']}) and {meta['rejected_feeds']}"
         f" rejected survivors. Built {meta['built_at']}. Largest first; examples are the"
         " sentences closest to the centre. Untrusted text.",
         "",

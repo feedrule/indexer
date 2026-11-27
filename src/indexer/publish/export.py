@@ -4,6 +4,11 @@ output/all/{links.txt,feeds.opml} (with a topic or not), one small JSON preview 
 output/previews/ (for a search page, see `preview_path` and `render_preview`), a copy of the
 repository's SPEC.md), and the website in output/docs/ (see `indexer.publish.site`).
 
+The feeds' recent posts are not in the output: they go to a checkout of the `posts` branch
+(`write_posts`, one file per feed at `posts_path`), which keeps them after the database clears
+them, and each preview links to its feed's file (`posts_url`). publish.yml pushes that branch
+normally (never forced) before it force-pushes the output.
+
 A feed is listed when it had a successful check in the last `success_days` days and its newest
 item (as of its latest successful check) is less than `item_years` years old. Its topics are
 chosen from its posts when it is checked (see `indexer.text.topics`), and mapped again through
@@ -41,6 +46,7 @@ OPML_MAX = 500  # feeds.opml
 # Where the output branch is served: docs/ by GitHub Pages, the data files from raw.
 SITE_URL = "https://feedrule.github.io/indexer/"
 DATA_URL = "https://raw.githubusercontent.com/feedrule/indexer/output/"
+POSTS_URL = "https://raw.githubusercontent.com/feedrule/indexer/posts/"  # the posts branch
 
 
 @dataclass(frozen=True, slots=True)
@@ -58,6 +64,7 @@ class ListedFeed:
     # The latest successful check's most recent posts, [{link, title, description}], newest
     # first; None once cleanup has cleared them (after a few days).
     recent_posts: list[dict[str, str | None]] | None = None
+    checked_at: datetime | None = None  # when the latest successful check ran
 
     def languages(self) -> list[str]:
         """The languages detected on the feed's items ("en"), sorted."""
@@ -149,21 +156,44 @@ def render_opml(
     return "\n".join(lines) + "\n"
 
 
-def preview_path(url: str) -> str:
-    """previews/<2 hex>/<sha256 of the URL, hex>.json: fixed length whatever the URL (hex of the
-    URL itself can exceed the 255-byte file name limit), split in 256 folders. A browser computes
-    it with crypto.subtle.digest("SHA-256", new TextEncoder().encode(url))."""
+def posts_path(url: str) -> str:
+    """<2 hex>/<sha256 of the URL, hex>.json: fixed length whatever the URL (hex of the URL
+    itself can exceed the 255-byte file name limit), split in 256 folders. A browser computes it
+    with crypto.subtle.digest("SHA-256", new TextEncoder().encode(url)). The feed's file on the
+    posts branch."""
     digest = hashlib.sha256(url.encode("utf-8")).hexdigest()
-    return f"previews/{digest[:2]}/{digest}.json"
+    return f"{digest[:2]}/{digest}.json"
 
 
-def render_preview(feed: ListedFeed) -> str:
+def preview_path(url: str) -> str:
+    """previews/<2 hex>/<sha256 of the URL, hex>.json (as `posts_path`, in previews/)."""
+    return f"previews/{posts_path(url)}"
+
+
+def render_posts(feed: ListedFeed) -> str:
+    """One feed's file on the posts branch:
+
+        {"url": "https://...", "checked_at": "2026-11-27T05:12:09+00:00",
+         "posts": [{"link": "https://...", "title": "...", "description": "..."}]}
+
+    checked_at is when the check that fetched these posts ran (null if unknown). posts are its
+    most recent posts, newest first (at most 3): link is http(s) or null, title and description
+    (the start of the post) may be null. All text is untrusted plain text."""
+    doc = {
+        "url": feed.url,
+        "checked_at": feed.checked_at.isoformat(timespec="seconds") if feed.checked_at else None,
+        "posts": _posts(feed),
+    }
+    return json.dumps(doc, ensure_ascii=False, indent=2) + "\n"
+
+
+def render_preview(feed: ListedFeed, posts_url: str | None = None) -> str:
     """One feed's preview, for a search page showing the feeds of a topic's links.txt:
 
         {"url": "https://...", "title": "...", "subtitle": "...", "bytes": 48213,
          "last": "2026-11-14", "languages": ["de", "en"], "topics": ["rust", "webassembly"],
          "source": {"name": "kagisearch/smallweb", "license": "MIT"},
-         "posts": [{"link": "https://...", "title": "...", "description": "..."}]}
+         "posts_url": "https://raw.githubusercontent.com/.../posts/ab/ab12....json"}
 
     url is the feed URL the file is named after, so a preview stands alone. title, subtitle,
     bytes (body size at the latest successful check) and last are null when unknown; languages
@@ -171,10 +201,9 @@ def render_preview(feed: ListedFeed) -> str:
     (names from data/topics/topics.txt, most similar first, empty if none; only those in
     topic/topics.txt have a folder); source is the list the feed came from, as the site's sources
     table shows it (`site.source_of`: name and license); for a source missing from that table,
-    name is null and license its SPDX id; null for a feed not in inputs. posts are the feed's
-    most recent posts at its latest successful check, newest first (at most 3; empty when that
-    check is more than a few days old, see `indexer cleanup`): link is http(s) or null, title and
-    description (the start of the post) may be null. All text is untrusted plain text."""
+    name is null and license its SPDX id; null for a feed not in inputs. posts_url is the feed's
+    file on the posts branch (`render_posts`), null if it has none. All text is untrusted plain
+    text."""
     doc = {
         "url": feed.url,
         "title": " ".join(feed.title.split()) or None if feed.title else None,
@@ -184,7 +213,7 @@ def render_preview(feed: ListedFeed) -> str:
         "languages": feed.languages(),
         "topics": feed.topic_names(),
         "source": _source(feed),
-        "posts": [_post(p) for p in feed.recent_posts or ()],
+        "posts_url": posts_url,
     }
     return json.dumps(doc, ensure_ascii=False, indent=2) + "\n"
 
@@ -192,6 +221,10 @@ def render_preview(feed: ListedFeed) -> str:
 def _newest_first(feed: ListedFeed) -> tuple[float, str]:
     ts = feed.last_item_date.timestamp() if feed.last_item_date else float("-inf")
     return (-ts, feed.url)
+
+
+def _posts(feed: ListedFeed) -> list[dict[str, str | None]]:
+    return [_post(p) for p in feed.recent_posts or ()]
 
 
 def _post(post: Mapping[str, str | None]) -> dict[str, str | None]:
@@ -242,6 +275,33 @@ def clean_output_dir(path: Path) -> None:
     (path / MARKER).write_text("Generated by `indexer export`; this directory is replaced.\n")
 
 
+def write_posts(directory: Path, feeds: Iterable[ListedFeed]) -> int:
+    """Write the posts file (`render_posts`) of each feed with recent posts into `directory` (a
+    checkout of the posts branch), unless its file already holds the same posts: a recheck that
+    finds the same posts changes nothing, and the file keeps the date of the check that fetched
+    them. Never deletes a file: a feed whose posts were cleared keeps its last ones. Returns the
+    number of files written."""
+    written = 0
+    for feed in feeds:
+        posts = _posts(feed)
+        path = directory / posts_path(feed.url)
+        if not posts or _stored_posts(path) == posts:
+            continue
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(render_posts(feed), encoding="utf-8")
+        written += 1
+    return written
+
+
+def _stored_posts(path: Path) -> object:
+    """The posts in a posts file, or None if there is none (or it can't be read)."""
+    try:
+        doc = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return None
+    return doc.get("posts") if isinstance(doc, dict) else None
+
+
 def write_output(
     path: Path,
     feeds: Sequence[ListedFeed],
@@ -253,13 +313,20 @@ def write_output(
     spec: Path | None = None,
     site_url: str = SITE_URL,
     data_url: str = DATA_URL,
+    posts_dir: Path | None = None,
+    posts_url: str = POSTS_URL,
 ) -> list[Topic]:
     """Write everything to `path` (cleared first), with a copy of `spec` (SPEC.md) if given:
-    the data files at the top, the website in docs/. `site_url` and `data_url` end with '/'."""
+    the data files at the top, the website in docs/. With `posts_dir` (a checkout of the posts
+    branch, served at `posts_url`), the feeds' posts files are written there first
+    (`write_posts`) and each preview links to its feed's file; without it, no preview has a
+    posts_url. `site_url`, `data_url` and `posts_url` end with '/'."""
     if spec is not None and not spec.is_file():
         raise ExportError(f"{spec} not found: the output's SPEC.md is copied from it")
-    if not (site_url.endswith("/") and data_url.endswith("/")):
-        raise ExportError("--site-url and --data-url must end with '/'")
+    if posts_dir is not None and not posts_dir.is_dir():
+        raise ExportError(f"{posts_dir} is not a directory (a checkout of the posts branch)")
+    if not all(url.endswith("/") for url in (site_url, data_url, posts_url)):
+        raise ExportError("--site-url, --data-url and --posts-url must end with '/'")
     topics = top_topics(feeds, top)
     clean_output_dir(path)
     root = path.resolve()
@@ -297,10 +364,14 @@ def write_output(
     (path / "all" / "feeds.opml").write_text(
         render_opml(everything, generated, None, "All active feeds"), encoding="utf-8"
     )
+    if posts_dir is not None:
+        write_posts(posts_dir, everything.feeds)
     for feed in everything.feeds:
         preview = path / preview_path(feed.url)
         preview.parent.mkdir(parents=True, exist_ok=True)
-        preview.write_text(render_preview(feed), encoding="utf-8")
+        stored = posts_dir is not None and (posts_dir / posts_path(feed.url)).is_file()
+        link = posts_url + posts_path(feed.url) if stored else None
+        preview.write_text(render_preview(feed, link), encoding="utf-8")
     if spec is not None:
         shutil.copyfile(spec, path / "SPEC.md")
     listed = len({f.url for t in topics for f in t.feeds})

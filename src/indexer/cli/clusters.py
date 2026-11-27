@@ -1,4 +1,4 @@
-"""indexer clusters: cluster the sentences of recent posts (the previews' and the rejected
+"""indexer clusters: cluster the sentences of recent posts (the posts branch's and the rejected
 survivors') into data/clusters/posts.{npy,json,md} with MiniLM and k-means."""
 
 import argparse
@@ -10,13 +10,11 @@ from indexer.text import clusters
 from indexer.text.embeddings import load_embedder, model_paths
 
 NAME = "clusters"
-HELP = "cluster the sentences of recent posts (previews and rejected survivors) with k-means"
+HELP = "cluster the sentences of recent posts (posts branch and rejected survivors) with k-means"
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
-    parser.add_argument(
-        "--previews", type=Path, required=True, help="the output branch's previews/ directory"
-    )
+    parser.add_argument("--posts", type=Path, required=True, help="a checkout of the posts branch")
     parser.add_argument(
         "--survivors",
         type=Path,
@@ -39,7 +37,7 @@ def add_arguments(parser: argparse.ArgumentParser) -> None:
         help=f"where the files are written (default {clusters.CLUSTERS_DIR})",
     )
     parser.add_argument(
-        "--output-commit", help="the output branch commit the previews come from (recorded)"
+        "--posts-commit", help="the posts branch commit the posts come from (recorded)"
     )
 
 
@@ -50,11 +48,11 @@ async def run(args: argparse.Namespace) -> int:
     try:
         keywords = load_config(args.sources).commoncrawl_exclude_keywords
         sentences = clusters.Sentences()
-        clusters.read_previews(args.previews, sentences)
+        clusters.read_posts(args.posts, sentences)
         clusters.read_rejects(args.survivors, keywords, sentences)
         print(
             f"{len(sentences.feeds)} sentences from {len(sentences.listed)} listed feeds"
-            f" ({sentences.previews_with_posts} of {sentences.previews} previews have posts)"
+            f" ({sentences.files_with_posts} of {sentences.files} posts files have posts)"
             f" and {len(sentences.rejected)} rejected survivors",
             flush=True,
         )
@@ -66,7 +64,7 @@ async def run(args: argparse.Namespace) -> int:
             tokenizer,
             args.directory,
             args.k,
-            args.output_commit,
+            args.posts_commit,
         )
     except (OSError, SourceError, clusters.ClustersError) as exc:
         print(f"error: {exc}", file=sys.stderr)

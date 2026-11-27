@@ -5,6 +5,12 @@
 # fresh commit to the `output` branch. The branch has no history: each publish replaces it.
 # workflow_run triggers only use this file as it is on the default branch.
 #
+# The feeds' recent posts go to the `posts` branch instead (one file per feed, written when its
+# posts change; the previews link to it), pushed first and normally: files are never deleted
+# or rewritten from scratch, so that branch is never force-pushed. Publishes queue (one
+# concurrency group) so two pushes never race. The container gets the branch's files without
+# its .git directory (moved aside), so nothing it writes runs on the runner.
+#
 # It reads the database and writes text; it never fetches feeds. Uses the same SUPABASE_DB_* secrets as input.yml.
 name: publish
 
@@ -21,7 +27,11 @@ on:
     types: [completed]
 
 permissions:
-  contents: write # to push the output branch
+  contents: write # to push the output and posts branches
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
 
 jobs:
   publish:
@@ -49,10 +59,34 @@ jobs:
       - name: Migrate schema
         run: docker compose run --rm --no-deps -T liquibase
 
+      - name: Check out the posts branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: posts
+          path: posts
+          persist-credentials: false
+
       - name: Export
         run: |
           mkdir -p output
+          mv posts/.git posts.git
           HOST_UID="$(id -u)" HOST_GID="$(id -g)" docker compose run --rm --no-deps -T export
+
+      - name: Push to the posts branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          rm -rf posts/.git
+          git() { command git --git-dir=posts.git --work-tree=posts "$@"; }
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No posts changed"
+          else
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                commit -q -m "Recent posts, $(date -u +%F)"
+            git push -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:posts
+          fi
 
       - name: Force-push to the output branch
         env:

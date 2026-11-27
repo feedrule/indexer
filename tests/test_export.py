@@ -15,9 +15,11 @@ from indexer.publish.export import (
     LINKS_MAX,
     MARKER,
     OPML_MAX,
+    POSTS_URL,
     ExportError,
     ListedFeed,
     clean_output_dir,
+    posts_path,
     preview_path,
     render_links,
     render_opml,
@@ -431,10 +433,7 @@ def test_previews(tmp_path: Path) -> None:
             "name": "simevidas/web-dev-feeds",
             "license": "MIT",
         },
-        "posts": [  # plain text, whitespace collapsed; only http(s) links
-            {"link": "https://f1.example/a", "title": "New <b>post</b>", "description": None},
-            {"link": None, "title": None, "description": "text"},
-        ],
+        "posts_url": None,  # no posts directory given
     }
     other = json.loads((out / preview_path(long_url)).read_text(encoding="utf-8"))
     assert other == {
@@ -446,9 +445,102 @@ def test_previews(tmp_path: Path) -> None:
         "languages": [],
         "topics": [],
         "source": None,  # not in inputs
-        "posts": [],  # none stored, or cleared by cleanup
+        "posts_url": None,
     }
     assert len(list((out / "previews").rglob("*.json"))) == 2
+
+
+def write_with_posts(out: Path, posts: Path, feeds: list[ListedFeed]) -> None:
+    write_output(
+        out,
+        feeds,
+        top=None,
+        generated=NOW,
+        success_days=180,
+        item_years=5,
+        posts_dir=posts,
+        posts_url="https://p.example/posts/",
+    )
+
+
+def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> None:
+    out, posts = tmp_path / "out", tmp_path / "posts"
+    posts.mkdir()
+    checked = datetime(2026, 11, 20, 5, 12, 9, tzinfo=UTC)
+    with_posts = replace(
+        feed(1),
+        checked_at=checked,
+        recent_posts=[
+            {"link": "javascript:alert(1)", "title": " New\n <b>post</b>", "description": None}
+        ],
+    )
+    write_with_posts(out, posts, [with_posts, feed(2)])
+    digest = hashlib.sha256(b"https://f1.example/feed").hexdigest()
+    assert posts_path("https://f1.example/feed") == f"{digest[:2]}/{digest}.json"
+    stored = json.loads((posts / posts_path(with_posts.url)).read_text(encoding="utf-8"))
+    assert stored == {
+        "url": "https://f1.example/feed",
+        "checked_at": "2026-11-20T05:12:09+00:00",
+        "posts": [{"link": None, "title": "New <b>post</b>", "description": None}],
+    }
+    preview = json.loads((out / preview_path(with_posts.url)).read_text(encoding="utf-8"))
+    assert preview["posts_url"] == f"https://p.example/posts/{posts_path(with_posts.url)}"
+    assert "posts" not in preview
+    other = json.loads((out / preview_path(feed(2).url)).read_text(encoding="utf-8"))
+    assert other["posts_url"] is None  # no posts, no file
+    assert [p.name for p in posts.rglob("*.json")] == [f"{digest}.json"]
+
+    # Later: the database cleared the posts; the file stays and the preview still links it.
+    write_with_posts(out, posts, [feed(1)])
+    assert json.loads((posts / posts_path(with_posts.url)).read_text()) == stored
+    preview = json.loads((out / preview_path(with_posts.url)).read_text(encoding="utf-8"))
+    assert preview["posts_url"] == f"https://p.example/posts/{posts_path(with_posts.url)}"
+
+
+def test_posts_files_are_rewritten_only_when_the_posts_change(tmp_path: Path) -> None:
+    out, posts = tmp_path / "out", tmp_path / "posts"
+    posts.mkdir()
+    first = replace(
+        feed(1),
+        checked_at=datetime(2026, 11, 20, tzinfo=UTC),
+        recent_posts=[{"link": "https://f1.example/a", "title": "A", "description": "x"}],
+    )
+    write_with_posts(out, posts, [first])
+    path = posts / posts_path(first.url)
+    before = path.read_text(encoding="utf-8")
+    recheck = replace(first, checked_at=datetime(2026, 11, 23, tzinfo=UTC))  # same posts
+    write_with_posts(out, posts, [recheck])
+    assert path.read_text(encoding="utf-8") == before  # keeps the date of the first check
+    newer = replace(
+        recheck,
+        recent_posts=[{"link": "https://f1.example/b", "title": "B", "description": None}],
+    )
+    write_with_posts(out, posts, [newer])
+    doc = json.loads(path.read_text(encoding="utf-8"))
+    assert doc["checked_at"] == "2026-11-23T00:00:00+00:00"
+    assert doc["posts"] == [{"link": "https://f1.example/b", "title": "B", "description": None}]
+
+
+def test_posts_dir_must_exist(tmp_path: Path) -> None:
+    with pytest.raises(ExportError, match="posts branch"):
+        write_with_posts(tmp_path / "out", tmp_path / "missing", [feed(1)])
+    assert not (tmp_path / "out").exists()
+
+
+def test_posts_url_must_end_with_a_slash(tmp_path: Path) -> None:
+    assert POSTS_URL.endswith("/posts/")
+    (tmp_path / "posts").mkdir()
+    with pytest.raises(ExportError, match="end with"):
+        write_output(
+            tmp_path / "o",
+            [],
+            top=1,
+            generated=NOW,
+            success_days=1,
+            item_years=1,
+            posts_dir=tmp_path / "posts",
+            posts_url="https://p.example/posts",
+        )
 
 
 def test_preview_is_indented() -> None:
@@ -508,8 +600,20 @@ def test_repository_spec_matches_the_output() -> None:
     assert f"{LINKS_MAX:,}" in spec and f"the {OPML_MAX} most" in spec
     assert f"first {PAGE_ROWS} of those feeds" in spec and "SHA-256" in spec
     assert "`cplusplus`" in spec and "`csharp`" in spec  # the slug rule
-    for field in ("url", "title", "subtitle", "bytes", "last", "languages", "topics"):
+    for field in (
+        "url",
+        "title",
+        "subtitle",
+        "bytes",
+        "last",
+        "languages",
+        "topics",
+        "posts_url",
+        "checked_at",
+        "posts",
+    ):
         assert f"`{field}`" in spec
+    assert "`<h:2>/<h>.json`" in spec  # the posts branch's files
 
 
 def test_index_shows_the_largest_topics_and_searches_all(tmp_path: Path) -> None:

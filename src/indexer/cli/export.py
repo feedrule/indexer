@@ -1,4 +1,5 @@
-"""indexer export: write the published lists (output/topic/...) and the website (output/docs/)."""
+"""indexer export: write the published lists (output/topic/...), the website (output/docs/) and
+the feeds' posts files (into a checkout of the posts branch)."""
 
 import argparse
 import sys
@@ -6,7 +7,14 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from indexer.cli.common import add_database_url, database
-from indexer.publish.export import DATA_URL, SITE_URL, ExportError, with_synonyms, write_output
+from indexer.publish.export import (
+    DATA_URL,
+    POSTS_URL,
+    SITE_URL,
+    ExportError,
+    with_synonyms,
+    write_output,
+)
 from indexer.text.topics import TOPICS_DIR, read_synonyms
 
 NAME = "export"
@@ -43,6 +51,17 @@ def add_arguments(parser: argparse.ArgumentParser) -> None:
         "--data-url",
         default=DATA_URL,
         help=f"where the output's data files are served, ending with / (default {DATA_URL})",
+    )
+    parser.add_argument(
+        "--posts-dir",
+        type=Path,
+        help="a checkout of the posts branch: each feed's posts file is written there when its"
+        " posts changed, and the previews link to it (default: none, no preview has a posts_url)",
+    )
+    parser.add_argument(
+        "--posts-url",
+        default=POSTS_URL,
+        help=f"where the posts branch is served, ending with / (default {POSTS_URL})",
     )
     parser.add_argument(
         "--top-topics", type=int, help="publish only this many topics, the largest (default: all)"
@@ -89,6 +108,8 @@ async def run(args: argparse.Namespace) -> int:
             spec=args.spec,
             site_url=args.site_url,
             data_url=args.data_url,
+            posts_dir=args.posts_dir,
+            posts_url=args.posts_url,
         )
     except ExportError as exc:
         print(f"error: {exc}", file=sys.stderr)

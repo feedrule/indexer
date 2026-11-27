@@ -288,6 +288,7 @@ async def test_listed_feeds_rules() -> None:
         assert ok.recent_posts == [
             {"link": base + "ok/1", "title": "One", "description": "First post"}
         ]
+        assert ok.checked_at == now  # the check that fetched them
         await conn.execute("DELETE FROM inputs WHERE url LIKE %s", (base + "%",))
         await conn.execute("DELETE FROM health_checks WHERE run_id = %s", (run_id,))
         await conn.execute("DELETE FROM runs WHERE id = %s", (run_id,))

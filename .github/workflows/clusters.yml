@@ -1,7 +1,7 @@
 # Clusters the sentences of recent posts into 500 clusters and pushes them to the `binaries`
 # branch (data/clusters/posts.{npy,json,md}), weekly or by hand. The sentences are the post titles
-# and descriptions of the published previews (the output branch; only previews with posts count,
-# and they fill in as feeds are checked) and of the rejected survivors in data/survivors.
+# and descriptions of the posts branch's files (written by publish.yml) and of the rejected
+# survivors in data/survivors.
 #
 # The container reads checked-out files only: no database, no network, no token. The push to
 # binaries happens on the runner: it keeps the branch's other files, replaces data/clusters/, and
@@ -29,12 +29,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Check out the published previews
+      - name: Check out the posts branch
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ref: output
+          ref: posts
           path: published
-          sparse-checkout: previews
           persist-credentials: false
 
       - name: Build image
@@ -44,7 +43,7 @@ jobs:
         run: |
           mkdir -p data/clusters
           HOST_UID="$(id -u)" HOST_GID="$(id -g)" docker compose run --rm --no-deps -T clusters \
-            clusters --previews previews --output-commit "$(git -C published rev-parse HEAD)"
+            clusters --posts posts --posts-commit "$(git -C published rev-parse HEAD)"
 
       - name: Push to the binaries branch
         env:

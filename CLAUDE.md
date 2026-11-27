@@ -16,7 +16,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
 | publish | `indexer export` | `export` | `publish.yml` (after each successful check run; on push to develop changing src/indexer/publish/; Mondays as fallback; manual too. Re-enabled 2026-11-19 at the user's request) |
 | retention | `indexer cleanup` | `cleanup` | `cleanup.yml` (Sundays) |
 | embedding sets (`data/embeddings/`) | `indexer embeddings [NAME ...]` | `embeddings` | `embeddings.yml` (on push to develop changing a set's source, e.g. `data/topics/topics.txt`, or `Dockerfile`; manual) |
-| sentence clusters (`data/clusters/posts.{npy,json,md}` on the `binaries` branch) | `indexer clusters --previews DIR` | `clusters` | `clusters.yml` (Mondays; manual) |
+| sentence clusters (`data/clusters/posts.{npy,json,md}` on the `binaries` branch) | `indexer clusters --posts DIR` | `clusters` | `clusters.yml` (Mondays; manual) |
 | delete listed URLs | `indexer undo data/undo.txt` | `undo` | `undo.yml` (on push to develop changing `data/undo.txt`; manual) |
 | start over (all data) | `indexer drop-tables --yes` | `drop-tables` | `drop-tables.yml` (manual, typed confirmation) |
 
@@ -81,7 +81,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   per topic links.txt ≤ 50,000, feeds.opml ≤ 500, topic page ≤ 200 (most recently active; each file starts with the next one's feeds; 200 agreed 2026-11-17 for page size); index sorted by count.
   `all/{links.txt,feeds.opml}`: every listed feed, with a topic or not, uncapped.
   links.txt files are newest post first (a search page shows them in file order).
-  `previews/<2 hex>/<sha256 hex of the URL>.json` per listed feed (for a search page, e.g. feedrule.com): `{url, title, subtitle, bytes, last, languages, topics, source, posts}` (posts: the latest successful check's `recent_posts`, links http(s) only, empty once cleared),
+  `previews/<2 hex>/<sha256 hex of the URL>.json` per listed feed (for a search page, e.g. feedrule.com): `{url, title, subtitle, bytes, last, languages, topics, source, posts_url}` (posts_url: the feed's file on the `posts` branch, `--posts-url` + `export.posts_path`, null if none),
   bytes = body size at the latest successful check, languages = the detected labels (list), topics = the feed's topics (list, most similar first),
   source = `{name, license}`: the `site.SOURCES` entry inputs.source belongs to (`site.source_of`), else
   `{null, source_license}`; null if not in inputs (no URL, by the user's choice). Hash, not hex of the URL (file name limit).
@@ -107,8 +107,16 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   `topic/topics.txt`: the published topic names, one per line, most feeds first (ties by name). Topic directories and
   URLs use `export.topic_slug` (+ → plus, # → sharp: `c++` → `cplusplus`); pages show the name.
   publish.yml force-pushes output/ as one orphan commit to the `output` branch (no history, by design).
+- **Posts branch** (asked 2026-11-27: keep each feed's recent posts in git as long as the feed exists, beyond the
+  database's 3 days): orphan branch `posts`, one file per feed at `<2 hex>/<sha256 of the URL>.json` (the preview's path
+  without `previews/`), `{url, checked_at, posts}` (checked_at: the check that fetched these posts; posts as in
+  `recent_posts`, links http(s) only). `indexer export --posts-dir DIR` writes a feed's file only when its posts differ from
+  the file's (a recheck with the same posts changes nothing) and never deletes one. publish.yml checks the branch out, moves
+  its `.git` aside before the container runs (the container never sees .git or a token), commits what changed and pushes
+  normally (**never force-pushed**: files are not re-uploaded), before force-pushing output; publish has its own concurrency
+  group (queued, not cancelled). Posts are overwritten, not merged across checks (for now). clusters reads this branch.
 - **Sentence clusters** (agreed 2026-11-22): 500 k-means clusters of MiniLM vectors of the sentences (≥ 3 words) of recent post
-  titles and descriptions: the output branch's previews with posts plus the rejected survivors in data/survivors (not `reason: unsafe`,
+  titles and descriptions: the posts branch's files (the output previews until 2026-11-27) plus the rejected survivors in data/survivors (not `reason: unsafe`,
   not with an excluded keyword). Written to `data/clusters/` (git-ignored on develop) and pushed by clusters.yml to the `binaries`
   branch: generated binaries off develop, paths mirroring the repo's, no history (each workflow replaces only its own folder, keeps
   the rest, force-pushes one commit); the push runs on the runner, the container has no token. Planned: the user marks unwanted
@@ -141,7 +149,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   (`.env.example`; no password in the repo; `uv run` uses `PGPASSWORD`), and are overridden by env
   (`LIQUIBASE_COMMAND_URL/USERNAME/PASSWORD`, `DATABASE_URL`, `PGPASSWORD`). Workflows run
   `docker compose build` then `docker compose run --rm --no-deps -T liquibase|<service>`, with
-  `contents: read` (publish: write; survivors: write + `pull-requests: write`; cleanup: `issues: write`), `persist-credentials: false` and one shared concurrency group (except publish: read-only on the database, no concurrency limit).
+  `contents: read` (publish: write; survivors: write + `pull-requests: write`; cleanup: `issues: write`), `persist-credentials: false` and one shared concurrency group (except publish: read-only on the database, its own group `publish` for the posts branch's pushes).
   Supabase secrets `SUPABASE_DB_*`; use the IPv4 session pooler (runners have no IPv6).
 - All DB writes share one connection across concurrent checks; `Database` serializes them with a lock
   (concurrent transactions on one connection fail with OutOfOrderTransactionNesting).

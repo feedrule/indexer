@@ -15,7 +15,7 @@ file doesn't repeat them.
 | delete old checks | `indexer cleanup` | `cleanup` | `cleanup.yml` |
 | delete the URLs in `data/undo.txt` | `indexer undo data/undo.txt` | `undo` | `undo.yml` |
 | rebuild the topic matrix | `indexer embeddings` | `embeddings` | `embeddings.yml` |
-| cluster the sentences of recent posts | `indexer clusters --previews DIR` | `clusters` | `clusters.yml` |
+| cluster the sentences of recent posts | `indexer clusters --posts DIR` | `clusters` | `clusters.yml` |
 | **delete every table and all data** | `indexer drop-tables --yes` | `drop-tables` | `drop-tables.yml` (manual) |
 
 All state is in Postgres: locally the compose `postgres` service, in deployment Supabase. The
@@ -269,7 +269,12 @@ back yet.
 every listed feed) and `output/previews/` (one JSON file per listed feed, for a client-side search
 page: fetch a topic's `links.txt`, then the previews of the results shown; see
 `export.preview_path` and `export.render_preview`). `links.txt` files are most recently active
-first. It also writes the website, `output/docs/` (`src/indexer/publish/site.py`): `index.html` (the 50 largest
+first. The feeds' recent posts are not in the output: with `--posts-dir` (a checkout of the
+`posts` branch) export writes one file per feed there (`export.posts_path`,
+`export.render_posts`: the feed URL, when the check that fetched the posts ran, and the posts),
+only when the posts differ from the file's, and never deletes one, so a feed keeps its latest
+posts after cleanup clears them from the database. Each preview's `posts_url` links to that file
+(`--posts-url`, default `https://raw.githubusercontent.com/feedrule/indexer/posts/`), or is null. It also writes the website, `output/docs/` (`src/indexer/publish/site.py`): `index.html` (the 50 largest
 topics, a search box over all of them, and the sources),
 `topic/<slug>/index.html` for every topic (the 200 most recently active feeds, each with a
 feedrule.com link prefilled with the feed and its other topics), `style.css` and `feedrule.svg` (package data:
@@ -293,13 +298,17 @@ every run, but only if it is empty or holds the `.indexer-output` marker, so a w
 wipe anything else.
 
 ```sh
-mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm export
+mkdir -p output posts && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm export
 ```
 
 `publish.yml` force-pushes `output/` as a single fresh commit to the `output` branch, which never
 accumulates history. It runs right after each successful check run (`workflow_run`, which uses the
 file as it is on the default branch), on a push to develop that changes `src/indexer/publish/`, on
 Mondays as a fallback, and when started by hand (Actions → publish → Run workflow). It only reads the database.
+Before that it checks out the `posts` branch, moves its `.git` aside so the container only gets
+the files, and after the export commits what changed and pushes it normally (never forced), before
+the output, so a preview never links a missing file. Runs queue in one concurrency group, so two
+pushes never race.
 
 ## Cleanup
 
@@ -319,8 +328,8 @@ Postgres rather than returned at once, so the size may only drop after autovacuu
 ## Sentence clusters
 
 `indexer clusters` groups the sentences of recent posts into 500 clusters, unsupervised: the post
-titles and descriptions of the published previews (only those with posts, which fill in as feeds
-are checked) and of the rejected survivors in `data/survivors/` (not those rejected as `unsafe`
+titles and descriptions of the posts branch's files (written by `indexer export`) and of the
+rejected survivors in `data/survivors/` (not those rejected as `unsafe`
 or with an excluded keyword, so none of that reaches the examples). Each distinct sentence of at
 least 3 words is embedded once with MiniLM; seeded spherical k-means makes the same sentences give
 the same clusters. It writes `data/clusters/`:
@@ -328,11 +337,11 @@ the same clusters. It writes `data/clusters/`:
 | file | contents |
 | --- | --- |
 | `posts.npy` | the 500 centres, one unit-length row each, float16 (like an embedding set) |
-| `posts.json` | how they were built (model hashes, counts, the output commit) and per cluster its sentences, feeds, rejected feeds and top words |
+| `posts.json` | how they were built (model hashes, counts, the posts commit) and per cluster its sentences, feeds, rejected feeds and top words |
 | `posts.md` | per cluster: counts, top words and the sentences closest to its centre (untrusted text, in code spans) |
 
 These files are not committed to develop (`.gitignore`): `clusters.yml` (Mondays, or by hand)
-checks out the output branch's previews into `published/`, runs the `clusters` service (no
+checks out the posts branch into `published/`, runs the `clusters` service (no
 network, no database, no token) and pushes the files to the `binaries` branch. That branch mirrors
 the repository's paths and has no history: each run keeps its other files, replaces
 `data/clusters/`, and force-pushes one new commit. To use them in a checkout of develop:

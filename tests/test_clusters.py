@@ -24,10 +24,10 @@ def fake_embed(texts: Sequence[str]) -> np.ndarray:
     return np.array(rows, dtype=np.float32)
 
 
-def preview(directory: Path, name: str, url: str, posts: list[dict[str, object]]) -> None:
+def posts_file(directory: Path, name: str, url: str, posts: list[dict[str, object]]) -> None:
     path = directory / name[:2] / f"{name}.json"
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps({"url": url, "title": "T", "posts": posts}), encoding="utf-8")
+    path.write_text(json.dumps({"url": url, "checked_at": None, "posts": posts}), encoding="utf-8")
 
 
 def test_split_keeps_sentences_of_three_words_or_more() -> None:
@@ -38,8 +38,8 @@ def test_split_keeps_sentences_of_three_words_or_more() -> None:
     assert split(None) == [] and split("") == []
 
 
-def test_read_previews_takes_post_titles_and_descriptions(tmp_path: Path) -> None:
-    preview(
+def test_read_posts_takes_post_titles_and_descriptions(tmp_path: Path) -> None:
+    posts_file(
         tmp_path,
         "aa01",
         "https://a.example/feed",
@@ -51,8 +51,8 @@ def test_read_previews_takes_post_titles_and_descriptions(tmp_path: Path) -> Non
             },
         ],
     )
-    preview(tmp_path, "bb02", "https://b.example/feed", [])  # not checked since posts came in
-    preview(
+    posts_file(tmp_path, "bb02", "https://b.example/feed", [])  # no posts
+    posts_file(
         tmp_path,
         "cc03",
         "https://c.example/feed",
@@ -61,8 +61,8 @@ def test_read_previews_takes_post_titles_and_descriptions(tmp_path: Path) -> Non
         ],
     )
     found = Sentences()
-    clusters.read_previews(tmp_path, found)
-    assert (found.previews, found.previews_with_posts) == (3, 2)
+    clusters.read_posts(tmp_path, found)
+    assert (found.files, found.files_with_posts) == (3, 2)
     assert found.listed == {"https://a.example/feed", "https://c.example/feed"}
     assert found.feeds == {
         "All about cats today": {"https://a.example/feed"},
@@ -71,11 +71,11 @@ def test_read_previews_takes_post_titles_and_descriptions(tmp_path: Path) -> Non
     }
 
 
-def test_read_previews_refuses_a_file_that_is_not_a_preview(tmp_path: Path) -> None:
+def test_read_posts_refuses_a_file_that_is_not_a_posts_file(tmp_path: Path) -> None:
     (tmp_path / "aa").mkdir()
     (tmp_path / "aa" / "aa01.json").write_text("[]", encoding="utf-8")
     with pytest.raises(ClustersError):
-        clusters.read_previews(tmp_path, Sentences())
+        clusters.read_posts(tmp_path, Sentences())
 
 
 def test_read_rejects_takes_rejected_posts_but_not_unsafe_or_keyword_feeds(tmp_path: Path) -> None:
@@ -144,14 +144,14 @@ def test_build_writes_centres_metadata_and_a_readable_report(tmp_path: Path) -> 
     tokenizer.write_bytes(b"tokenizer")
     out = tmp_path / "clusters"
 
-    count = build(found, fake_embed, model, tokenizer, out, k=3, output_commit="abc123")
+    count = build(found, fake_embed, model, tokenizer, out, k=3, posts_commit="abc123")
 
     assert count == 37
     centres = np.load(out / "posts.npy")
     assert centres.shape == (3, 8) and centres.dtype == np.float16
     assert np.allclose(np.linalg.norm(centres.astype(np.float32), axis=1), 1, atol=1e-2)
     meta = json.loads((out / "posts.json").read_text(encoding="utf-8"))
-    assert (meta["rows"], meta["dim"], meta["sentences"], meta["output_commit"]) == (
+    assert (meta["rows"], meta["dim"], meta["sentences"], meta["posts_commit"]) == (
         3,
         8,
         37,
@@ -187,13 +187,13 @@ def test_kmeans_centres_are_unit_rows() -> None:
 
 
 def test_clusters_command_defaults() -> None:
-    args = parser().parse_args(["clusters", "--previews", "published/previews"])
+    args = parser().parse_args(["clusters", "--posts", "published"])
     assert (args.k, str(args.directory), str(args.survivors)) == (
         500,
         "data/clusters",
         "data/survivors",
     )
-    assert args.output_commit is None
+    assert args.posts_commit is None
 
 
 def test_untrusted_text_becomes_one_code_span() -> None:
