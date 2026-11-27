@@ -14,7 +14,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
 | old CC feeds still active, proposed by PR | `indexer survivors` | `survivors` | `survivors.yml` (Wednesdays) |
 | health checks | `indexer run --from-inputs` (or `run FILE`) | `check` | `check.yml` (every 3 h, 500 URLs, 3 h timeout) |
 | publish | `indexer export` | `export` | `publish.yml` (after each successful check run; on push to develop changing src/indexer/publish/; Mondays as fallback; manual too. Re-enabled 2026-11-19 at the user's request) |
-| retention | `indexer cleanup` | `cleanup` | `cleanup.yml` (Sundays) |
+| retention | `indexer cleanup` | `cleanup` | `cleanup.yml` (daily since 2026-11-27, was Sundays) |
 | embedding sets (`data/embeddings/`) | `indexer embeddings [NAME ...]` | `embeddings` | `embeddings.yml` (on push to develop changing a set's source, e.g. `data/topics/topics.txt`, or `Dockerfile`; manual) |
 | sentence clusters (`data/clusters/posts.{npy,json,md}` on the `binaries` branch) | `indexer clusters --posts DIR` | `clusters` | `clusters.yml` (Mondays; manual) |
 | delete listed URLs | `indexer undo data/undo.txt` | `undo` | `undo.yml` (on push to develop changing `data/undo.txt`; manual) |

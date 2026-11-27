@@ -1,4 +1,4 @@
-# Weekly, on Supabase: keeps each feed's latest successful check and 8 months of failed checks,
+# Daily, on Supabase: keeps each feed's latest successful check and 8 months of failed checks,
 # clears recent posts older than 3 days, then reports the database's size. Over LIMIT_MB, it opens
 # an issue with the report (unless one with the same title is open). The token stays on the
 # runner: the cleanup container only writes the report file. Uses the same SUPABASE_DB_* secrets
@@ -7,7 +7,7 @@ name: cleanup
 
 on:
   schedule:
-    - cron: "47 3 * * 0" # Sundays
+    - cron: "47 3 * * *" # daily
   workflow_dispatch:
 
 permissions:
