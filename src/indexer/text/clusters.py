@@ -3,7 +3,7 @@ sources:
 
 - the posts files (the posts branch's data/posts/<h:2>/<h>.json, written by `indexer export`),
   those with posts: the feeds listed now or before;
-- the rejected feeds of the reviewed survivors proposals (data/survivors/**/*.yaml,
+- the rejected feeds of the reviewed proposals (data/survivors/**/*.yaml,
   `accept: false`), except those rejected as unsafe or with an excluded keyword
   (`[commoncrawl] exclude_keywords`) in their text, so none of that reaches the examples.
 
@@ -244,7 +244,7 @@ def render(meta: dict[str, object], clusters: list[dict[str, object]]) -> str:
         "",
         f"From the recent posts of {meta['listed_feeds']} listed feeds (posts files with posts:"
         f" {meta['files_with_posts']} of {meta['files']}) and {meta['rejected_feeds']}"
-        f" rejected survivors. Built {meta['built_at']}. Largest first; examples are the"
+        f" rejected proposals. Built {meta['built_at']}. Largest first; examples are the"
         " sentences closest to the centre. Untrusted text.",
         "",
     ]

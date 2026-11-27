@@ -282,8 +282,8 @@ def test_submissions_file_is_valid() -> None:
     assert source is config.sources[-1]  # listed last: other lists keep credit on ties
 
 
-def test_survivors_files_are_valid() -> None:
-    """data/survivors/*/*.yaml (proposals from `indexer survivors`, merged after review): every
+def test_proposals_files_are_valid() -> None:
+    """data/survivors/*/*.yaml (proposals from `indexer proposals`, merged after review): every
     feed says accept: true or false, every accepted one is a valid https URL, none twice across
     the files, and the source reads them all from the checkout."""
     paths = sorted((REPO_CONFIG.parent / "survivors").glob("*/*.yaml"))

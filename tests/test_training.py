@@ -9,10 +9,10 @@ from pathlib import Path
 import pytest
 
 from indexer.check.feed import RecentPost
-from indexer.survivors import training
-from indexer.survivors.proposals import render_entries
-from indexer.survivors.run import Survivor
-from indexer.survivors.training import (
+from indexer.proposals import training
+from indexer.proposals.files import render_entries
+from indexer.proposals.run import Proposal
+from indexer.proposals.training import (
     TrainingError,
     cached_model,
     model_path,
@@ -24,7 +24,7 @@ from indexer.survivors.training import (
 )
 
 WAT = "https://data.commoncrawl.org/crawl-data/CC-MAIN-2021-49/segments/1/wat/x.warc.wat.gz"
-GOOD = Survivor(
+GOOD = Proposal(
     "https://good.example/feed/",
     WAT,
     "Miss Frugal Mommy",
@@ -46,8 +46,8 @@ def decide(text: str, url: str, accept: bool = False, reason: str | None = None)
     return text.replace(f"url: {url}\naccept: false\n", f"url: {url}\n{review}")
 
 
-def reviewed(*survivors: Survivor, accept: str = GOOD.url) -> str:
-    text = render_entries(survivors, "CC-MAIN-2021-49", date(2026, 11, 21))
+def reviewed(*proposals: Proposal, accept: str = GOOD.url) -> str:
+    text = render_entries(proposals, "CC-MAIN-2021-49", date(2026, 11, 21))
     return decide(text, accept, accept=True)
 
 

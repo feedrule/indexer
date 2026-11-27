@@ -6,7 +6,7 @@ from typing import Any
 from urllib.parse import urljoin, urlsplit
 
 from indexer.net.urls import drop_excluded, strip_session, valid_urls
-from indexer.survivors.wat import html_pages
+from indexer.proposals.wat import html_pages
 
 FEED_TYPES = frozenset({"application/rss+xml", "application/atom+xml", "application/rdf+xml"})
 

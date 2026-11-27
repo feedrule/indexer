@@ -68,7 +68,7 @@ class SourcesConfig:
     base_dir: Path = Path()  # the config file's directory; `files` are relative to it
     # Registrable domains whose feeds are never loaded (e.g. youtube.com, reddit.com).
     exclude_domains: frozenset[str] = frozenset()
-    # [commoncrawl] exclude_keywords: whole words (lower case) that keep survivors from proposing
+    # [commoncrawl] exclude_keywords: whole words (lower case) that keep proposals from proposing
     # a feed with them in its title. Common Crawl only; the lists are not filtered.
     commoncrawl_exclude_keywords: frozenset[str] = frozenset()
 
@@ -174,7 +174,7 @@ def extract_urls(body: bytes, fmt: Format) -> list[str]:
 
 
 def proposal_documents(body: bytes) -> list[dict[str, Any]]:
-    """The feeds of a proposal file (data/survivors/, written by survivors/proposals.py): one
+    """The feeds of a proposal file (data/survivors/, written by proposals/files.py): one
     YAML document per feed, each a mapping with at least a `url`. Read with safe_load_all, which
     builds only plain values (no tags, no objects). SourceError if it isn't such a file."""
     try:

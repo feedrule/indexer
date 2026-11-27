@@ -70,8 +70,8 @@ class CheckRow:
     rights: str | None = None
     license: str | None = None
     recent_posts: tuple[RecentPost, ...] = ()  # stored for a few days (cleanup)
-    item_texts: tuple[str, ...] = ()  # the newest posts' title and start: survivors, not stored
-    item_tags: tuple[tuple[str, ...], ...] = ()  # each of item_texts' categories: survivors only
+    item_texts: tuple[str, ...] = ()  # the newest posts' title and start: proposals, not stored
+    item_tags: tuple[tuple[str, ...], ...] = ()  # each of item_texts' categories: proposals only
     detail: str | None = None  # logged, not stored
 
 

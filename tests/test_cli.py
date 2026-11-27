@@ -83,8 +83,8 @@ def test_cleanup_refuses_to_cut_into_the_export_window(capsys: pytest.CaptureFix
     assert "at least 7" in capsys.readouterr().err
 
 
-def test_survivors_defaults() -> None:
-    args = parser().parse_args(["survivors"])
+def test_proposals_defaults() -> None:
+    args = parser().parse_args(["proposals"])
     assert (args.years_ago, args.slice_mb, args.active_days, args.max_feeds) == (5, 25, 243, 20)
     assert str(args.config) == "data/sources.toml"
     assert str(args.dir) == "data/survivors" and args.report is None

@@ -1,4 +1,4 @@
-"""`indexer survivors`: feeds advertised in a ~5-year-old Common Crawl crawl that are still
+"""`indexer proposals`: feeds advertised in a ~5-year-old Common Crawl crawl that are still
 active today, proposed for review.
 
     1. pick the crawl closest to `years_ago` and one random WAT file of it      wat.py
@@ -23,17 +23,17 @@ from urllib.parse import urlsplit
 
 from indexer.check.feed import RecentPost
 from indexer.check.runner import CheckRow
-from indexer.survivors.feed_links import WatScan, scan_wat
-from indexer.survivors.filters import (
+from indexer.proposals.feed_links import WatScan, scan_wat
+from indexer.proposals.filters import (
     Reason,
     Rules,
     rejection,
     served_url,
 )
-from indexer.survivors.wat import DATA_URL, Fetch, complete_prefix, pick_wat_file
+from indexer.proposals.wat import DATA_URL, Fetch, complete_prefix, pick_wat_file
 
-# Progress of a run: `indexer survivors` shows it (INFO) on stderr.
-log = logging.getLogger("indexer.survivors")
+# Progress of a run: `indexer proposals` shows it (INFO) on stderr.
+log = logging.getLogger("indexer.proposals")
 
 _CHECK_BATCH = 200  # feeds checked at a time, so a run can stop once it has enough
 _MAX_CATEGORIES = 8  # categories shown per proposed feed
@@ -45,7 +45,7 @@ type _Known = Callable[[Sequence[str]], Awaitable[set[str]]]
 
 
 @dataclass(frozen=True, slots=True)
-class Survivor:
+class Proposal:
     """A feed proposed for review: the URL to add, and what a reviewer needs to judge it."""
 
     url: str  # as served today (https, after redirects)
@@ -61,7 +61,7 @@ class Survivor:
 
 
 @dataclass(slots=True)
-class SurvivorsResult:
+class ProposalsResult:
     crawl: str
     scan: WatScan  # the WAT slice that was read
     candidates: int = 0  # distinct feed URLs
@@ -69,7 +69,7 @@ class SurvivorsResult:
     over_site_limit: int = 0  # new, but beyond a site's _MAX_PER_SITE shortest: not checked
     checked: int = 0  # fewer than candidates when the run stopped early
     rejected: Counter[Reason] = field(default_factory=Counter)  # checked, failed a rule
-    rows: list[Survivor] = field(default_factory=list)  # passed every rule: the proposals
+    rows: list[Proposal] = field(default_factory=list)  # passed every rule: the proposals
 
     # The funnel, for the summary: each count is the previous one minus a rejection reason.
     @property
@@ -85,7 +85,7 @@ class SurvivorsResult:
         return self.active - self.rejected["not_english"]
 
 
-async def survivors(
+async def propose(
     fetch: Fetch,
     fetch_slice: Fetch,
     check: _Check,
@@ -98,10 +98,10 @@ async def survivors(
     keywords: frozenset[str] = frozenset(),
     rng: random.Random | None = None,
     now: datetime | None = None,
-) -> SurvivorsResult:
+) -> ProposalsResult:
     """Runs steps 1-5 above. `fetch_slice` is the range request for the WAT file; `known` (if
     given) drops URLs we already have; `exclude` holds excluded domains, `keywords` excluded
-    title words. At most `max_feeds` survivors are returned (all of them if None)."""
+    title words. At most `max_feeds` proposals are returned (all of them if None)."""
     rng = rng or random.Random()
     now = now or datetime.now(UTC)
     known = known or _nothing_known
@@ -122,7 +122,7 @@ async def survivors(
         scan.pages,
         scan.pages_with_feed,
     )
-    result = SurvivorsResult(crawl, scan)
+    result = ProposalsResult(crawl, scan)
 
     # 3. The URLs worth checking.
     to_check = await _candidates(scan.page_feeds, result, known, rng)
@@ -136,16 +136,16 @@ async def survivors(
     )
 
     # 4-5. Check a batch at a time until enough pass.
-    by_site: dict[str, Survivor] = {}
+    by_site: dict[str, Proposal] = {}
     for start in range(0, len(to_check), _CHECK_BATCH):
         batch = to_check[start : start + _CHECK_BATCH]
         result.checked += len(batch)
         new = [s for row in await check(batch) if (s := _judge(row, rules, wat_url, result))]
-        for survivor in await _unknown(new, known, result):
-            site = _site(survivor.url)
+        for proposal in await _unknown(new, known, result):
+            site = _site(proposal.url)
             best = by_site.get(site)
-            if best is None or (len(survivor.url), survivor.url) < (len(best.url), best.url):
-                by_site[site] = survivor
+            if best is None or (len(proposal.url), proposal.url) < (len(best.url), best.url):
+                by_site[site] = proposal
         log.info("checked %d of %d: %d sites pass", result.checked, len(to_check), len(by_site))
         if max_feeds is not None and len(by_site) >= max_feeds:
             break
@@ -154,7 +154,7 @@ async def survivors(
 
 
 async def _candidates(
-    page_feeds: Iterable[list[str]], result: SurvivorsResult, known: _Known, rng: random.Random
+    page_feeds: Iterable[list[str]], result: ProposalsResult, known: _Known, rng: random.Random
 ) -> list[str]:
     """Every page's feed links, each once, minus the URLs we already know, at most
     _MAX_PER_SITE per site, in random order (so stopping early keeps a random subset)."""
@@ -181,14 +181,14 @@ def _shortest_per_site(urls: Iterable[str], limit: int) -> list[str]:
     ]
 
 
-def _judge(row: CheckRow, rules: Rules, wat_url: str, result: SurvivorsResult) -> Survivor | None:
-    """The survivor for a checked feed that passes every rule; else None, its reason counted."""
+def _judge(row: CheckRow, rules: Rules, wat_url: str, result: ProposalsResult) -> Proposal | None:
+    """The proposal for a checked feed that passes every rule; else None, its reason counted."""
     if reason := rejection(row, rules):
         result.rejected[reason] += 1
         return None
     url = served_url(row, rules.exclude)
     assert url is not None and row.last_item_date is not None  # rejection() made sure
-    return Survivor(
+    return Proposal(
         url,
         wat_url,
         row.title,
@@ -211,14 +211,14 @@ def _top_categories(item_tags: Sequence[Sequence[str]]) -> tuple[tuple[str, int]
 
 
 async def _unknown(
-    survivors: list[Survivor], known: _Known, result: SurvivorsResult
-) -> list[Survivor]:
-    """Drops survivors whose served URL we already have (a redirect can lead to one)."""
-    if not survivors:
+    proposals: list[Proposal], known: _Known, result: ProposalsResult
+) -> list[Proposal]:
+    """Drops proposals whose served URL we already have (a redirect can lead to one)."""
+    if not proposals:
         return []
-    already = await known([s.url for s in survivors])
+    already = await known([s.url for s in proposals])
     result.known += len(already)
-    return [s for s in survivors if s.url not in already]
+    return [s for s in proposals if s.url not in already]
 
 
 def _site(url: str) -> str:

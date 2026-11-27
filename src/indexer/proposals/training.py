@@ -1,12 +1,12 @@
-"""A filter for survivors' proposals, learned from past reviews: the reviewed proposal files
+"""A filter for proposals, learned from past reviews: the reviewed proposal files
 listed in data/training.toml are read as labelled examples, a small model is trained on them
-(up to a minute) and kept in data/models/ (not committed; `cached_model`), and survivors drops
-the new proposals it scores lowest (about the bottom CUT of them).
+(up to a minute) and kept in data/models/ (not committed; `cached_model`), and `indexer
+proposals` drops the new proposals it scores lowest (about the bottom CUT of them).
 
-A proposal file (survivors/proposals.py) holds one YAML document per feed: what the reviewer
+A proposal file (proposals/files.py) holds one YAML document per feed: what the reviewer
 saw, and `accept: true` if they accepted it; a rejected feed may say why: `reason: <reason>`
 (one of REJECT_REASONS; a note for people, checked but not used by the model). Each feed
-becomes a `Proposal`: the URL, the label, the reason and the text the reviewer read (title,
+becomes a `Reviewed`: the URL, the label, the reason and the text the reviewer read (title,
 about, categories, the recent posts' titles and descriptions; not the bookkeeping: language,
 dates, the WAT file, post links, a score), all in memory.
 
@@ -21,7 +21,7 @@ is deterministic, so every run on the same files gets the same model.
 
 The stored model's file name is a hash of the config, every listed file and this module: a file
 that is there is up to date by construction, and any change to a review or to the code makes a
-new name, so survivors trains again (once) instead of using an old model.
+new name, so `indexer proposals` trains again (once) instead of using an old model.
 """
 
 import hashlib
@@ -75,7 +75,7 @@ class TrainingError(Exception):
 
 
 @dataclass(frozen=True, slots=True)
-class Proposal:
+class Reviewed:
     url: str
     accepted: bool
     text: str  # what the reviewer saw, as one line of plain text
@@ -91,7 +91,7 @@ def training_files(config: Path = TRAINING_CONFIG) -> list[Path]:
     return [config.parent / f for f in files]
 
 
-def parse_proposals(text: str) -> list[Proposal]:
+def parse_proposals(text: str) -> list[Reviewed]:
     """Every feed in a proposal file's text, in order: its URL, whether it was accepted, the
     text the reviewer saw and the reason it was rejected, if given. TrainingError on a malformed
     file, an `accept` that isn't true or false, an unknown reason or a reason on an accepted
@@ -110,7 +110,7 @@ def parse_proposals(text: str) -> list[Proposal]:
                 raise TrainingError(f"{url}: accepted, but has a rejection reason")
             if reason not in REJECT_REASONS:
                 raise TrainingError(f"{url}: unknown rejection reason {reason!r}")
-        proposals.append(Proposal(url, accepted, reviewed_text(feed), reason))
+        proposals.append(Reviewed(url, accepted, reviewed_text(feed), reason))
     return proposals
 
 
@@ -126,7 +126,7 @@ def reviewed_text(feed: dict[str, Any]) -> str:
     return " ".join(" ".join(parts).split())
 
 
-def read_examples(config: Path = TRAINING_CONFIG) -> list[Proposal]:
+def read_examples(config: Path = TRAINING_CONFIG) -> list[Reviewed]:
     """Every proposal in the training files, in the files' order."""
     return [p for path in training_files(config) for p in parse_proposals(path.read_text("utf-8"))]
 
@@ -240,7 +240,7 @@ def cached_model(config: Path = TRAINING_CONFIG, directory: Path = MODEL_DIR) ->
     return model
 
 
-def _label(p: Proposal) -> int:
+def _label(p: Reviewed) -> int:
     return 0 if p.accepted else 1
 
 

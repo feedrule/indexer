@@ -4,13 +4,13 @@ import argparse
 import sys
 from pathlib import Path
 
-from indexer.survivors.training import TRAINING_CONFIG, TrainingError, train_model
+from indexer.proposals.training import TRAINING_CONFIG, TrainingError, train_model
 
 NAME = "train"
 HELP = (
     "train the proposal filter on the reviewed proposal files --training lists and print its"
-    " size and cut-off (survivors trains it the same way and keeps it in data/models/; this"
-    " writes nothing)"
+    " size and cut-off (`indexer proposals` trains it the same way and keeps it in data/models/;"
+    " this writes nothing)"
 )
 
 

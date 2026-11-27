@@ -1,7 +1,7 @@
 # Loads every feed URL from the sources in data/sources.toml into the `inputs` table (Supabase
 # Postgres), daily: sources are not pinned, so new feeds added upstream arrive on their own.
 # Also on a push to develop or main that changes the lists in this repo (a merged submission or
-# survivors pull request), so they load right away.
+# proposals pull request), so they load right away.
 # Safe to re-run: new URLs are added, nothing is deleted, and a URL's source changes only to a
 # more permissive license. A source that fails (file moved or gone, malformed) is skipped and
 # the run is marked failed, after the other sources have loaded.

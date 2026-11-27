@@ -5,7 +5,7 @@
 # on their own. A source that fails is skipped and reported; the rest still load. The inputs
 # table only grows, so a broken or truncated upstream file removes nothing.
 #
-# The survivors source below is filled by `indexer survivors` through reviewed pull requests.
+# The survivors source below is filled by `indexer proposals` through reviewed pull requests.
 #
 # To add a source, add a [[source]] block with an openly licensed list. Lists without a
 # license are not used (e.g. kilimchoi/engineering-blogs, peterc/engblogs).
@@ -19,7 +19,7 @@ ranking = [
     ["Apache-2.0"],
     ["CC-BY-4.0"],
     ["CC-BY-SA-4.0"],
-    # Feeds found in Common Crawl by `indexer survivors` (its terms of use, not an open
+    # Feeds found in Common Crawl by `indexer proposals` (its terms of use, not an open
     # license). Last, so a curated list that has the same feed takes the credit.
     ["LicenseRef-CommonCrawl-ToU"],
 ]
@@ -30,7 +30,7 @@ ranking = [
 domains = ["youtube.com", "reddit.com"]
 
 [commoncrawl]
-# Common Crawl only (indexer survivors), not the lists below: a feed whose title contains one of
+# Common Crawl only (indexer proposals), not the lists below: a feed whose title contains one of
 # these as a whole word, or whose subtitle and newest posts contain 3 or more, (case ignored; "porn" matches "Porn Passwords" and
 # "porn-videos", not "pornography": list each form) is never proposed. Adult and sexual-violence
 # content found in old crawls, gambling spam (added 2026-11-17 after casino feeds in a sample),
@@ -182,7 +182,7 @@ name = "survivors"
 license = "LicenseRef-CommonCrawl-ToU"
 format = "proposals" # YAML, one document per feed; only feeds with accept: true are loaded
 homepage = "https://github.com/feedrule/indexer/tree/develop/data/survivors"
-notes = "Feeds from a ~5-year-old Common Crawl crawl that are still active, proposed weekly by the survivors workflow as a pull request and reviewed before merging."
+notes = "Feeds from a ~5-year-old Common Crawl crawl that are still active, proposed weekly by the proposals workflow as a pull request and reviewed before merging."
 files = ["survivors/*/*.yaml"] # relative to this file: survivors/<yyyymm>/<dd-HHMMSS>.yaml, one per run
 
 [[source]]

@@ -11,7 +11,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
 | stage | command | compose service | workflow |
 | --- | --- | --- | --- |
 | inputs from lists | `indexer load-inputs data/sources.toml` | `input` | `input.yml` (daily; on push to develop/main changing `data/sources.toml` or `data/*.txt`, except `undo.txt`) |
-| old CC feeds still active, proposed by PR | `indexer survivors` | `survivors` | `survivors.yml` (Wednesdays) |
+| old CC feeds still active, proposed by PR | `indexer proposals` | `proposals` | `proposals.yml` (Wednesdays) |
 | health checks | `indexer run --from-inputs` (or `run FILE`) | `check` | `check.yml` (every 3 h, 500 URLs, 3 h timeout) |
 | publish | `indexer export` | `export` | `publish.yml` (after each successful check run; on push to develop changing src/indexer/publish/; Mondays as fallback; manual too. Re-enabled 2026-11-19 at the user's request) |
 | retention | `indexer cleanup` | `cleanup` | `cleanup.yml` (daily since 2026-11-27, was Sundays) |
@@ -33,13 +33,16 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   and not found. A URL still in a source comes back on the next load). A URL moves only to a strictly more permissive source. That is what makes unpinned sources safe.
 - **No quality filtering of inputs.** Inputs are candidates; publishing is a separate responsibility.
   **Agree any selection or quality heuristic with the user before implementing it.** (`discover`, which
-  inserted the newest crawl's feeds unfiltered, was removed on 2026-11-16: survivors replaces it.)
-- `survivors` **proposes, never inserts**: writes a new file `data/survivors/<yyyymm>/<dd-HHMMSS>.yaml` (UTC) per run (asked 2026-11-21,
+  inserted the newest crawl's feeds unfiltered, was removed on 2026-11-16: `indexer proposals` replaces it.)
+- **One name** (asked 2026-11-27): the pipeline once called survivors is `proposals` everywhere (command, workflow,
+  package, service, PR branches); "survivors" only describes the rule (old feeds still active). The `data/survivors/` files
+  and the source named `survivors` keep their names until they move to the `proposals` branch.
+- `indexer proposals` **proposes, never inserts**: writes a new file `data/survivors/<yyyymm>/<dd-HHMMSS>.yaml` (UTC) per run (asked 2026-11-21,
   replacing the single `data/survivors.txt`: no huge file, no conflicts between open PRs; the `files` source is the glob
   `survivors/*/*.yaml`, format `proposals`, CC ToU license; `files` entries may be glob patterns, sorted, none matching is fine) and
-  every survivors.yml run opens its own PR from a new branch `survivors-<UTC timestamp>` (the file's name) based on develop (never a reused
+  every proposals.yml run opens its own PR from a new branch `proposals-<UTC timestamp>` (the file's name) based on develop (never a reused
   branch, so old proposals can't be merged by mistake). Skips URLs already in develop's files (accepted or not) or in inputs.
-  Untrusted titles/categories/links: one line in the file (`proposals._one_line`); none of it goes in the PR.
+  Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the PR.
   The file is YAML (asked 2026-11-22, replacing comment blocks in .txt files, converted once): a comment header, then one
   document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, language, last_post,
   about, posts_read and categories (the authors' top 8 with counts, `run._top_categories` from `FeedInfo.item_tags`, never
@@ -66,9 +69,9 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   **served over https today** (inserted as the URL after redirects; links are tried as https, and one that
   redirects back to plain http is skipped). Rejected as too complex: detecting one feed in several formats by its items (only the URL rules above).
   Still open: a takeover guard, storing these checks (not stored now).
-- `[exclude] domains` (youtube.com, reddit.com) is matched by registrable domain and applied at load and in survivors.
-- `[commoncrawl] exclude_keywords` (adult / sexual-violence words; gambling words added 2026-11-17 after casino spam in a sample), **Common Crawl only**: survivors skips a feed with one (accents ignored; warez and sponsored-post words added 2026-11-21) as a whole word in its title,
-  or 3 or more in its subtitle, newest posts and their categories together (asked 2026-11-21; `filters._has_keyword`, after the English filter). Agreed with the user on 2026-11-16 after porn in a survivors PR;
+- `[exclude] domains` (youtube.com, reddit.com) is matched by registrable domain and applied at load and in proposals.
+- `[commoncrawl] exclude_keywords` (adult / sexual-violence words; gambling words added 2026-11-17 after casino spam in a sample), **Common Crawl only**: proposals skips a feed with one (accents ignored; warez and sponsored-post words added 2026-11-21) as a whole word in its title,
+  or 3 or more in its subtitle, newest posts and their categories together (asked 2026-11-21; `filters._has_keyword`, after the English filter). Agreed with the user on 2026-11-16 after porn in a proposals PR;
   never applied to the curated lists, submissions, load or export.
 - `data/submissions.txt`: user-submitted feeds via PR, last source in sources.toml, read via `files`; tested.
 - Common Crawl rows: source = WAT file URL, license `LicenseRef-CommonCrawl-ToU` (ranked last). No download
@@ -116,7 +119,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   normally (**never force-pushed**: files are not re-uploaded), before force-pushing output; publish has its own concurrency
   group (queued, not cancelled). Posts are overwritten, not merged across checks (for now). clusters reads this branch.
 - **Sentence clusters** (agreed 2026-11-22): 500 k-means clusters of MiniLM vectors of the sentences (≥ 3 words) of recent post
-  titles and descriptions: the posts branch's files (the output previews until 2026-11-27) plus the rejected survivors in data/survivors (not `reason: unsafe`,
+  titles and descriptions: the posts branch's files (the output previews until 2026-11-27) plus the rejected proposals in data/survivors (not `reason: unsafe`,
   not with an excluded keyword). Written to `data/clusters/` (git-ignored on develop) and pushed by clusters.yml to the `binaries`
   branch: generated binaries off develop, paths mirroring the repo's, no history (each workflow replaces only its own folder, keeps
   the rest, force-pushes one commit); the push runs on the runner, the container has no token. Planned: the user marks unwanted
@@ -133,7 +136,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   `publish/` (`export.py`, the data files; `site.py`, the HTML site, with its Jinja templates, style.css and feedrule.svg),
   `text/` (models on plain text: no RSS, no database; `topics.py`, `TopicModel.topics(posts, title, subtitle)`; `language.py`,
   `LanguageModel.post_languages(texts)` / `.languages(texts)`; `embeddings.py`, MiniLM and the embedding sets; `clusters.py`, the sentence clusters),
-  `cli/` (one module per command: `NAME`, `HELP`, `add_arguments(parser)`, `run(args)`, listed in `cli/__init__.py`'s `COMMANDS`; `common.py` for what several share; commands stay thin: parse, call a module, print), `net/` (guarded fetcher, URL validation, resolver, IP policy), `db/` (everything about the database: `database.py`, all SQL through psycopg; `sql/`, its statements, one per file, except the INSERTs built from the models; `liquibase/`, the changelog and Liquibase's Dockerfile, not Python; `models.py`, the tables as dataclasses: database.py builds column lists from them; a DB test checks them against the schema, so update them with every changeset), `check/` (runner, feed parser), `survivors/` (Common Crawl: `wat.py` only reads WAT files and imports nothing from indexer; proposals; `training.py`: the proposal filter).
+  `cli/` (one module per command: `NAME`, `HELP`, `add_arguments(parser)`, `run(args)`, listed in `cli/__init__.py`'s `COMMANDS`; `common.py` for what several share; commands stay thin: parse, call a module, print), `net/` (guarded fetcher, URL validation, resolver, IP policy), `db/` (everything about the database: `database.py`, all SQL through psycopg; `sql/`, its statements, one per file, except the INSERTs built from the models; `liquibase/`, the changelog and Liquibase's Dockerfile, not Python; `models.py`, the tables as dataclasses: database.py builds column lists from them; a DB test checks them against the schema, so update them with every changeset), `check/` (runner, feed parser), `proposals/` (Common Crawl: `wat.py` only reads WAT files and imports nothing from indexer; proposals; `training.py`: the proposal filter).
 - Python 3.13 with **uv** (commit `uv.lock`), ruff (lint + format), type hints everywhere, `mypy --strict src`.
 - Tests use pytest with a local server, fake DNS and synthetic files. **Tests never touch the network.**
   Database tests run only when `INDEXER_TEST_DATABASE_URL` is set.
@@ -149,7 +152,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   (`.env.example`; no password in the repo; `uv run` uses `PGPASSWORD`), and are overridden by env
   (`LIQUIBASE_COMMAND_URL/USERNAME/PASSWORD`, `DATABASE_URL`, `PGPASSWORD`). Workflows run
   `docker compose build` then `docker compose run --rm --no-deps -T liquibase|<service>`, with
-  `contents: read` (publish: write; survivors: write + `pull-requests: write`; cleanup: `issues: write`), `persist-credentials: false` and one shared concurrency group (except publish: read-only on the database, its own group `publish` for the posts branch's pushes).
+  `contents: read` (publish: write; proposals: write + `pull-requests: write`; cleanup: `issues: write`), `persist-credentials: false` and one shared concurrency group (except publish: read-only on the database, its own group `publish` for the posts branch's pushes).
   Supabase secrets `SUPABASE_DB_*`; use the IPv4 session pooler (runners have no IPv6).
 - All DB writes share one connection across concurrent checks; `Database` serializes them with a lock
   (concurrent transactions on one connection fail with OutOfOrderTransactionNesting).
@@ -211,17 +214,17 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   set, `embeddings.write_set` builds one; MiniLM loading is in `text/embeddings.py`. `indexer embeddings [NAME ...]` rebuilds sets
   listed in `cli.EMBEDDING_SETS` (only `topics` so far, via `topics.build_index`); never edit a set by hand; embeddings.yml
   does it and commits `data/embeddings/` to develop (its own concurrency group: no database; network off in the container).
-  No English item, no topics. Survivors does not compute topics.
+  No English item, no topics. `indexer proposals` does not compute topics.
 - Proposal filter (agreed 2026-11-21 after testing MiniLM centroids/vectors, char n-grams, a pretrained quality model;
-  this is the agreed quality heuristic for survivors): survivors fits TF-IDF (words + word pairs) and a numpy
+  this is the agreed quality heuristic for proposals): `indexer proposals` fits TF-IDF (words + word pairs) and a numpy
   logistic regression over accepted / rejected on the reviewed proposal files in `data/training.toml`
   (today PR #18's and #19's, the only ones made with the current rules and format); label = `accept: true` or false (binary
   agreed 2026-11-22: same AUC as one class per reason, no reason labelling needed; a `reason: <reason>` field is an
-  optional, unused note), text = what the reviewer saw (title, about, categories, posts' titles and descriptions). Trained by survivors (up to a minute,
-  deterministic) and kept in git-ignored `data/models/proposals-<hash of training.toml, the listed files and survivors/training.py>.npz`:
+  optional, unused note), text = what the reviewer saw (title, about, categories, posts' titles and descriptions). Trained by `indexer proposals` (up to a minute,
+  deterministic) and kept in git-ignored `data/models/proposals-<hash of training.toml, the listed files and proposals/training.py>.npz`:
   reused while present, retrained when the hash changes; never committed (agreed 2026-11-22: no model binaries in git
   history). `indexer train` prints its size and cut-off.
-  Survivors drops proposals scoring below the cut-off (the 30th percentile of the examples' cross-validated scores,
+  `indexer proposals` drops proposals scoring below the cut-off (the 30th percentile of the examples' cross-validated scores,
   `training.CUT`), only counting them in the summary, and writes the rest best first with `# score:`. Never run MiniLM,
   Docker builds or test suites on the user's Pi without asking (undervoltage shut it down).
 - `error` identifiers live in `src/indexer/errors.py` (e.g. `dns_nxdomain`, `rate_limited`, `not_a_feed`).

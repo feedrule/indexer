@@ -114,7 +114,7 @@ and two that run when a file in the repository changes:
 | `input` | daily, and on every merge that changes the lists in `data/` | reads the sources in `data/sources.toml` and adds new feed URLs to the database |
 | `check` | every 3 hours | fetches 500 feeds not checked in the last 14 days and records whether they work, their last post, title, languages and topics |
 | `publish` | after each successful check run, when the site's templates or styles change; Mondays as a fallback | writes the topic folders and the site and force-pushes them to the `output` branch |
-| `survivors` | Wednesdays | samples an old Common Crawl crawl, checks the feeds it finds, and proposes the active ones in a pull request |
+| `proposals` | Wednesdays | samples an old Common Crawl crawl, checks the feeds it finds, and proposes the active ones in a pull request |
 | `cleanup` | daily | keeps each feed's latest successful check and 8 months of failures; clears stored recent posts after 3 days; opens an issue if the database is over 300 MB |
 | `undo` | when `data/undo.txt` changes | deletes the feed URLs listed there from the database and reports which were deleted and which were not found |
 | `embeddings` | when the topic list changes | recomputes the MiniLM embedding sets in `data/embeddings/` (today the topic names') and commits them |

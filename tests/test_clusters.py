@@ -188,7 +188,7 @@ def test_kmeans_centres_are_unit_rows() -> None:
 
 def test_clusters_command_defaults() -> None:
     args = parser().parse_args(["clusters", "--posts", "published"])
-    assert (args.k, str(args.directory), str(args.survivors)) == (
+    assert (args.k, str(args.directory), str(args.proposals)) == (
         500,
         "data/clusters",
         "data/survivors",

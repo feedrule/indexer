@@ -1,5 +1,5 @@
 """indexer clusters: cluster the sentences of recent posts (the posts branch's and the rejected
-survivors') into data/clusters/posts.{npy,json,md} with MiniLM and k-means."""
+proposals') into data/clusters/posts.{npy,json,md} with MiniLM and k-means."""
 
 import argparse
 import sys
@@ -10,7 +10,7 @@ from indexer.text import clusters
 from indexer.text.embeddings import load_embedder, model_paths
 
 NAME = "clusters"
-HELP = "cluster the sentences of recent posts (posts branch and rejected survivors) with k-means"
+HELP = "cluster the sentences of recent posts (posts branch and rejected proposals) with k-means"
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
@@ -18,7 +18,7 @@ def add_arguments(parser: argparse.ArgumentParser) -> None:
         "--posts", type=Path, required=True, help="the posts branch's data/posts/ directory"
     )
     parser.add_argument(
-        "--survivors",
+        "--proposals",
         type=Path,
         default=Path("data/survivors"),
         help="the reviewed proposal files (default data/survivors)",
@@ -51,11 +51,11 @@ async def run(args: argparse.Namespace) -> int:
         keywords = load_config(args.sources).commoncrawl_exclude_keywords
         sentences = clusters.Sentences()
         clusters.read_posts(args.posts, sentences)
-        clusters.read_rejects(args.survivors, keywords, sentences)
+        clusters.read_rejects(args.proposals, keywords, sentences)
         print(
             f"{len(sentences.feeds)} sentences from {len(sentences.listed)} listed feeds"
             f" ({sentences.files_with_posts} of {sentences.files} posts files have posts)"
-            f" and {len(sentences.rejected)} rejected survivors",
+            f" and {len(sentences.rejected)} rejected proposals",
             flush=True,
         )
         model, tokenizer = model_paths(None, None)

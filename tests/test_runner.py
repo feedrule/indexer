@@ -128,7 +128,7 @@ async def test_topics_come_from_the_english_items_only() -> None:
 
     (plain,) = await run_checks(urls, OneFeedFetcher())
     assert plain.language is None and plain.topics is None  # no language model: neither runs
-    assert plain.item_texts[0].startswith("Rust tips.")  # kept on the row for survivors
+    assert plain.item_texts[0].startswith("Rust tips.")  # kept on the row for proposals
 
 
 async def test_no_first_label_fallback_unless_detected_english() -> None:

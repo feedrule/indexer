@@ -1,6 +1,6 @@
-"""Feeds found by `indexer survivors`, proposed for review in data/survivors/<timestamp>.yaml.
+"""Feeds found by `indexer proposals`, proposed for review in data/survivors/<timestamp>.yaml.
 
-Survivors does not insert into the database. Each run writes its finds to a new file in
+`indexer proposals` does not insert into the database. Each run writes its finds to a new file in
 data/survivors/<year><month>/ (the `proposals` source `survivors/*/*.yaml` in sources.toml), so
 no file grows huge and two open pull requests never conflict; the workflow proposes the file as a
 pull request. The file is YAML: a comment header, then one document per feed, separated by
@@ -30,7 +30,7 @@ pull request. The file is YAML: a comment header, then one document per feed, se
 A post's description is a list of lines of at most 60 characters, for reading on a phone.
 
 A reviewer sets `accept: true` on each feed they want (optionally `reason: <reason>` on a
-rejected one, see survivors/training.py REJECT_REASONS) and merges; the daily input job then
+rejected one, see training.py REJECT_REASONS) and merges; the daily input job then
 loads the accepted URLs. Proposals left at `accept: false` still count as known, so a feed left
 out is not proposed again. Reviewed files are also the proposal model's training data.
 
@@ -53,10 +53,10 @@ from xml.sax.saxutils import escape, quoteattr
 
 import yaml
 
+from indexer.proposals.filters import Reason
+from indexer.proposals.run import Proposal, ProposalsResult
+from indexer.proposals.training import REJECT_REASONS
 from indexer.sources import proposal_documents
-from indexer.survivors.filters import Reason
-from indexer.survivors.run import Survivor, SurvivorsResult
-from indexer.survivors.training import REJECT_REASONS
 
 _MAX_TITLE = 200
 _MAX_SUBTITLE = 400
@@ -98,17 +98,17 @@ def file_name(when: datetime) -> str:
     return when.astimezone(UTC).strftime("%Y%m/%d-%H%M%S") + ".yaml"
 
 
-def render_entries(survivors: Iterable[Survivor], crawl: str, today: date) -> str:
+def render_entries(proposals: Iterable[Proposal], crawl: str, today: date) -> str:
     """A run's file in data/survivors/: the header, then one YAML document per feed."""
     header = (
         f"# Proposed {today.isoformat()} from {crawl}.\n"
         "# Set accept: true on each feed to keep. A rejected feed may say why, with\n"
         f"# reason: one of {', '.join(REJECT_REASONS)}.\n"
     )
-    return header + "".join("---\n" + _dump(_entry(s)) for s in survivors)
+    return header + "".join("---\n" + _dump(_entry(s)) for s in proposals)
 
 
-def _entry(s: Survivor) -> dict[str, Any]:
+def _entry(s: Proposal) -> dict[str, Any]:
     """One feed's document, keys in reading order; untrusted text flattened to one line."""
     entry: dict[str, Any] = {"url": s.url, "accept": False}
     if s.score is not None:
@@ -164,7 +164,7 @@ def _dump(entry: dict[str, Any]) -> str:
     )
 
 
-def log_line(s: Survivor) -> str:
+def log_line(s: Proposal) -> str:
     """One line for the run's log: the URL, the newest item's date and the title."""
     title = _one_line(s.title, _MAX_TITLE) or "(no title)"
     return f"  + {s.url}  {s.last_item_date.date().isoformat()}  {title}"
@@ -190,7 +190,7 @@ def render_report(
     return "\n".join(lines) + "\n"
 
 
-def render_opml(survivors: Iterable[Survivor], crawl: str, generated: datetime) -> str:
+def render_opml(proposals: Iterable[Proposal], crawl: str, generated: datetime) -> str:
     """The proposed feeds as OPML (the .opml file next to the run's .yaml), in proposal order,
     for importing into a feed reader during review. Titles are flattened to one printable line
     (no control characters, which XML forbids) and every value is escaped."""
@@ -203,7 +203,7 @@ def render_opml(survivors: Iterable[Survivor], crawl: str, generated: datetime) 
         "  </head>",
         "  <body>",
     ]
-    for s in survivors:
+    for s in proposals:
         title = quoteattr(_one_line(s.title, _MAX_TITLE) or s.url)
         lines.append(
             f'    <outline type="rss" text={title} title={title} xmlUrl={quoteattr(s.url)}/>'
@@ -212,7 +212,7 @@ def render_opml(survivors: Iterable[Survivor], crawl: str, generated: datetime) 
     return "\n".join(lines) + "\n"
 
 
-def funnel(result: SurvivorsResult, slice_mb: int, active_days: int) -> list[str]:
+def funnel(result: ProposalsResult, slice_mb: int, active_days: int) -> list[str]:
     """The run's steps, from the WAT slice to the feeds that passed the rules, one line each,
     for the log and the pull request."""
     passed = len(result.rows)
@@ -230,17 +230,17 @@ def funnel(result: SurvivorsResult, slice_mb: int, active_days: int) -> list[str
     ]
 
 
-def rejections(result: SurvivorsResult) -> list[tuple[int, str]]:
+def rejections(result: ProposalsResult) -> list[tuple[int, str]]:
     """How many feeds each rule rejected, with its name, in rule order; rules that rejected none
     are left out."""
     return [(n, label) for key, label in REJECTIONS if (n := result.rejected[key])]
 
 
-def write_files(path: Path, survivors: Sequence[Survivor], crawl: str, started: datetime) -> None:
+def write_files(path: Path, proposals: Sequence[Proposal], crawl: str, started: datetime) -> None:
     """The proposal file at `path` (for review) and the same feeds as OPML beside it."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(render_entries(survivors, crawl, started.date()), "utf-8")
-    path.with_suffix(".opml").write_text(render_opml(survivors, crawl, datetime.now(UTC)), "utf-8")
+    path.write_text(render_entries(proposals, crawl, started.date()), "utf-8")
+    path.with_suffix(".opml").write_text(render_opml(proposals, crawl, datetime.now(UTC)), "utf-8")
 
 
 def _one_line(text: str | None, limit: int) -> str:

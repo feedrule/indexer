@@ -1,6 +1,6 @@
 name: indexer
 
-# Shared by the indexer services (input, survivors, check, export, cleanup, undo, drop-tables): one image, the
+# Shared by the indexer services (input, proposals, check, export, cleanup, undo, drop-tables): one image, the
 # database settings, and the hardening for a process that handles untrusted content.
 x-indexer: &indexer
   build:
@@ -68,9 +68,9 @@ services:
     command: ["load-inputs", "data/sources.toml"]
 
   # Proposes feeds from a ~5-year-old Common Crawl crawl that are still active today: writes
-  # them to a new data/survivors/<yyyymm>/<dd-HHMMSS>.yaml (for a pull request) and output/survivors.md. Locally:
-  #   mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm survivors
-  survivors:
+  # them to a new data/survivors/<yyyymm>/<dd-HHMMSS>.yaml (for a pull request) and output/proposals.md. Locally:
+  #   mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm proposals
+  proposals:
     <<: *indexer
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}" # owns what it writes
     volumes:
@@ -78,7 +78,7 @@ services:
       - ./data/survivors:/work/data/survivors # the proposals it writes
       - ./data/models:/work/data/models # the proposal filter it trains once per review (git-ignored)
       - ./output:/work/output # the pull request report
-    command: ["survivors", "--report", "output/survivors.md"]
+    command: ["proposals", "--report", "output/proposals.md"]
 
   # Checks a URL file in ./data, or the most outdated inputs, and exits.
   #   docker compose run --rm check                                   # data/urls.txt
@@ -136,7 +136,7 @@ services:
     network_mode: none
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}" # owns what it writes
     volumes:
-      - ./data:/work/data:ro # survivors and sources.toml
+      - ./data:/work/data:ro # the proposal files and sources.toml
       - ./published/data/posts:/work/posts:ro # the posts branch's data/posts/
       - ./data/clusters:/work/data/clusters # what it writes
     command: ["clusters", "--posts", "posts"]

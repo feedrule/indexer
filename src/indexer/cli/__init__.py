@@ -2,7 +2,7 @@
 
 Commands, in pipeline order:
   load-inputs  load the feed URLs from the lists in data/sources.toml into the inputs table
-  survivors    propose feeds from a ~5-year-old Common Crawl crawl still active today
+  proposals    propose feeds from a ~5-year-old Common Crawl crawl still active today
   run          check a URL file, or the most outdated inputs, and record one row per URL
   export       write the published lists (output/topic/<topic>/...) and website (output/docs/)
   cleanup      delete health checks older than a few months
@@ -10,7 +10,7 @@ Commands, in pipeline order:
   topics       the topics of some text (no feed, no database): to try the topic model
   languages    the languages of some text (no feed, no database): to try the language model
   train        train the proposal filter on the reviewed proposal files in data/training.toml
-  clusters     cluster the sentences of recent posts (previews, rejected survivors) with k-means
+  clusters     cluster the sentences of recent posts (posts branch, rejected proposals) with k-means
 """
 
 import argparse
@@ -27,8 +27,8 @@ from indexer.cli import (
     export,
     languages,
     load_inputs,
+    proposals,
     run,
-    survivors,
     topics,
     train,
     undo,
@@ -49,7 +49,7 @@ class Command(Protocol):
 # In the order `indexer --help` lists them.
 COMMANDS: tuple[Command, ...] = (
     load_inputs,
-    survivors,
+    proposals,
     run,
     export,
     cleanup,

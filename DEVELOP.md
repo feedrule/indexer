@@ -9,7 +9,7 @@ file doesn't repeat them.
 | stage | command | compose service | workflow |
 | --- | --- | --- | --- |
 | load feed URLs from the sources | `indexer load-inputs data/sources.toml` | `input` | `input.yml` |
-| propose old Common Crawl feeds still active | `indexer survivors` | `survivors` | `survivors.yml` |
+| propose old Common Crawl feeds still active | `indexer proposals` | `proposals` | `proposals.yml` |
 | check the most outdated inputs | `indexer run --from-inputs` | `check` | `check.yml` |
 | write the published lists | `indexer export` | `export` | `publish.yml` |
 | delete old checks | `indexer cleanup` | `cleanup` | `cleanup.yml` |
@@ -79,7 +79,7 @@ nothing.
 [[source]]
 name = "kagi-smallweb"
 license = "MIT"
-format = "lines"                    # or "opml", or "proposals" (survivors' YAML files)
+format = "lines"                    # or "opml", or "proposals" (the proposal YAML files)
 homepage = "https://github.com/kagisearch/smallweb"
 urls = ["https://raw.githubusercontent.com/kagisearch/smallweb/main/smallweb.txt"]
 ```
@@ -109,13 +109,13 @@ The sources and their licenses are listed on the [site's home page](https://feed
 `uv run pytest` checks that every line of it (and every accepted URL in `data/survivors/`) is a
 valid, unique URL.
 
-### Survivors from an old crawl
+### Proposals: feeds that survived from an old crawl
 
-`indexer survivors` looks for feeds that have lasted, and **proposes** them for review rather
+`indexer proposals` looks for feeds that have lasted, and **proposes** them for review rather
 than adding them. It picks the crawl that ended closest to `--years-ago` (5) years ago and
 downloads the first `--slice-mb` (25) MB of one random WAT file with a range request,
 dropping the record cut off at the end. [Common Crawl](https://commoncrawl.org)'s WAT files record
-the `<link>` elements of every crawled page; survivors reads the feeds each page advertises with
+the `<link>` elements of every crawled page; `indexer proposals` reads the feeds each page advertises with
 `<link rel="alternate">`, validates them like any input and applies `[exclude] domains`. It never
 takes a WordPress category, tag or author feed (`/category/news/feed/`, a subset of the main feed)
 or a comment feed (WordPress `/comments/feed/` and `?feed=comments-rss2`, Blogger
@@ -142,7 +142,7 @@ word in the path: Blogger `/feeds/posts/default`, WordPress without pretty links
 Joomla `?format=feed&type=rss`, SPIP `spip.php?page=backend` and `backend.php`. Google Web
 Stories feeds (`/web-stories/`) are dropped, and so is the page's own feed (the page URL followed
 by `/feed`, a post's comments) when the page offers another. Session parameters (`sid`,
-`PHPSESSID`, `jsessionid`, ...) are removed. Survivors checks **every** remaining link, each URL once and at most 10 per site (the shortest
+`PHPSESSID`, `jsessionid`, ...) are removed. It checks **every** remaining link, each URL once and at most 10 per site (the shortest
 URLs first), today with the guarded fetcher (no retries), and of the feeds
 that pass on one site it keeps the one with the shortest URL (ties by name), so one site is proposed
 once. A site is the host without `www.` (not the registrable domain, which would merge the users of
@@ -176,7 +176,7 @@ shared hosts like `fc2.com` or `free.fr`). A feed is proposed only if:
   "Find out": content farms), no two of their descriptions start with their own title
   (generated text), and no post says "article appeared in" (a repost from another outlet).
   These simple rules also drop some good feeds, which is fine:
-  there is far more in Common Crawl than survivors reads;
+  there is far more in Common Crawl than one run reads;
 - it is **served over https today**: the URL after redirects is `https://` (links are tried as
   `https://`; one that redirects back to plain http is skipped);
 - it is not already in a file in `data/survivors/` (accepted or not) or the inputs table.
@@ -196,7 +196,7 @@ start of the description as lines of at most 60 characters, for phones). Untrust
 flattened to one line and written by `yaml.safe_dump`, which quotes anything YAML would read as
 something else; files are read with `yaml.safe_load_all`.
 Each workflow run commits
-that file to a **new branch** with the same timestamp (for example `survivors-20261119-041105`),
+that file to a **new branch** with the same timestamp (for example `proposals-20261119-041105`),
 and opens **its own pull request** into `develop`, whose description links to the file in
 GitHub's editor and gives the run's summary; the feeds themselves are only in the file, so no
 untrusted text reaches the pull request. The run also writes the proposed feeds as OPML
@@ -207,10 +207,10 @@ loads the accepted feeds on the push to `develop` (source `survivors`, license
 `LicenseRef-CommonCrawl-ToU`, ranked last). Every run starts from `develop`, so a pull request never carries an older run's proposals.
 Each pull request adds its own file, so open pull requests never conflict and can be merged in any
 order. URLs in another open pull request are not skipped, so the same feed can be proposed twice. A feed left at `accept: false`
-counts as known (`proposals.known_urls` reads every file in the folder), so it is not proposed
+counts as known (`files.known_urls` reads every file in the folder), so it is not proposed
 again; one deleted from its file is forgotten.
 
-Started by hand (Actions → survivors → Run workflow), the workflow takes `slice-mb`, `years-ago`
+Started by hand (Actions → proposals → Run workflow), the workflow takes `slice-mb`, `years-ago`
 `active-days` and `max-feeds` as inputs; the weekly run uses the defaults (25, 5, 243, 20).
 
 The workflow needs the repository setting **Settings → Actions → General → "Allow GitHub Actions
@@ -219,8 +219,8 @@ flattened to one line, and in the pull request they are shown as code, so they c
 mention people or link issues.
 
 ```sh
-mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm survivors \
-  survivors --slice-mb 5 --report output/survivors.md
+mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm proposals \
+  proposals --slice-mb 5 --report output/proposals.md
 ```
 
 In the pilot, a 20 MB slice of the 2021-49 crawl held about 3,200 pages and 2,300 feed URLs from
@@ -329,7 +329,7 @@ Postgres rather than returned at once, so the size may only drop after autovacuu
 
 `indexer clusters` groups the sentences of recent posts into 500 clusters, unsupervised: the post
 titles and descriptions of the posts branch's files (written by `indexer export`) and of the
-rejected survivors in `data/survivors/` (not those rejected as `unsafe`
+rejected proposals in `data/survivors/` (not those rejected as `unsafe`
 or with an excluded keyword, so none of that reaches the examples). Each distinct sentence of at
 least 3 words is embedded once with MiniLM; seeded spherical k-means makes the same sentences give
 the same clusters. It writes `data/clusters/`:
@@ -387,7 +387,7 @@ The database settings in `compose.yaml` default to the local database and are ov
 the environment (`LIQUIBASE_COMMAND_URL`, `LIQUIBASE_COMMAND_USERNAME`,
 `LIQUIBASE_COMMAND_PASSWORD`, `DATABASE_URL`, `PGPASSWORD`). The workflows share one concurrency
 group, so they never overlap; they use a read-only repository token (except `publish.yml`, which pushes `output`, and
-`survivors.yml`, which pushes `survivors` and opens its pull request) and
+`proposals.yml`, which pushes `proposals-<timestamp>` and opens its pull request) and
 pin the checkout action by commit SHA. They need these repository secrets:
 
 | secret | value |
@@ -527,10 +527,10 @@ Every feed in them is a labelled example: `accept: true` or `accept: false`. A
 `training.REJECT_REASONS`: commercial, seo, press, republished, machine, forum, notices, unsafe,
 other) is an optional note for people: it is checked but the model doesn't use it. Its text is what the reviewer saw (title,
 about, categories, recent posts' titles and descriptions; not the language, dates, the WAT file,
-links or a score), read from those fields. Survivors trains the classic cheap text classifier on
+links or a score), read from those fields. `indexer proposals` trains the classic cheap text classifier on
 them (up to a minute) and keeps it in `data/models/proposals-<hash>.npz` (git-ignored; never
 committed, so the repo doesn't grow with each retrain). The hash covers `training.toml`, every
-listed file and `survivors/training.py`: a stored file is up to date by construction, so later runs load it
+listed file and `proposals/training.py`: a stored file is up to date by construction, so later runs load it
 instead of training, and a changed review or code gets a new name and is trained once (older
 files are removed; a directory it can't write to only costs the training time). TF-IDF over words and pairs
 of neighbouring words, then a logistic regression over accepted and rejected, in numpy. Training
@@ -540,7 +540,7 @@ and prints its size and cut-off. Each new proposal's text (taken from its own re
 below the cut-off are dropped (only counted, in the summary), the rest are written best first with
 `# score: 0.874` under the title (`--training`; with a warning and no filtering if it can't be
 trained, e.g. the config is missing or lists no accepted or no rejected feed). List only files made with the
-current survivors rules and proposal format, so all examples look alike. Measured on 2026-11-21 (trained on PRs #18 and #19, 500 feeds; tested on
+current proposal rules and format, so all examples look alike. Measured on 2026-11-21 (trained on PRs #18 and #19, 500 feeds; tested on
 300 fresh proposals made with today's rules, labelled the same way): AUC 0.82 (MiniLM centroids
 0.76, MiniLM vectors, character n-grams and a pretrained text-quality model did no better);
 dropping the lowest 30% removed about half the rejects and 10% of the accepted feeds. On
@@ -615,7 +615,7 @@ Source layout (`src/indexer/`):
 | `sources.py` | data/sources.toml and loading the lists into inputs |
 | `net/` | fetching untrusted URLs: `fetch.py` (the guarded fetcher), `validate.py` (URL rules, URL files), `resolver.py`, `ippolicy.py`, `urls.py`, `domains.py` |
 | `check/` | `runner.py` (one check per URL), `feed.py` (parsing RSS/Atom) |
-| `survivors/` | `run.py` (the pipeline, steps 1–5), `wat.py` (reading Common Crawl: the `<link>`s of each HTML page in a WAT slice; imports nothing from indexer), `feed_links.py` (the URL rules before checking: `scan_wat`, `filter_page_links`), `filters.py` (the rules after checking), `proposals.py` (the data/survivors/ files, their OPML, the run summary and the PR report), `scoring.py` (dropping proposals the trained model scores low), `training.py` (training that model on reviewed proposals) |
+| `proposals/` | `run.py` (the pipeline, steps 1–5), `wat.py` (reading Common Crawl: the `<link>`s of each HTML page in a WAT slice; imports nothing from indexer), `feed_links.py` (the URL rules before checking: `scan_wat`, `filter_page_links`), `filters.py` (the rules after checking), `files.py` (the data/survivors/ files, their OPML, the run summary and the PR report), `scoring.py` (dropping proposals the trained model scores low), `training.py` (training that model on reviewed proposals) |
 | `text/` | models on plain text: `topics.py`, `language.py` (fastText), `embeddings.py` (MiniLM and the embedding sets in data/embeddings/) |
 
 ```sh

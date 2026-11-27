@@ -687,9 +687,9 @@ def test_preview_source_names_the_list() -> None:
         return doc["source"]
 
     repo = "https://github.com/feedrule/indexer"
-    survivors = {"name": "data/survivors/", "license": "Common Crawl terms"}
-    assert source(f"{repo}/tree/develop/data/survivors", "LicenseRef-CommonCrawl-ToU") == survivors
-    assert source(f"{repo}/blob/develop/data/survivors.txt", "x") == survivors  # its old file
+    proposals = {"name": "data/survivors/", "license": "Common Crawl terms"}
+    assert source(f"{repo}/tree/develop/data/survivors", "LicenseRef-CommonCrawl-ToU") == proposals
+    assert source(f"{repo}/blob/develop/data/survivors.txt", "x") == proposals  # its old file
     assert source("https://raw.githubusercontent.com/kagisearch/smallweb/main/smallweb.txt") == {
         "name": "kagisearch/smallweb",
         "license": "MIT",

@@ -1,4 +1,4 @@
-"""indexer survivors: propose feeds from a ~5-year-old Common Crawl crawl still active today."""
+"""indexer proposals: propose feeds from a ~5-year-old Common Crawl crawl still active today."""
 
 import argparse
 import logging
@@ -16,13 +16,13 @@ from indexer.cli.common import (
     sources_config,
 )
 from indexer.net.fetch import FetchConfig, open_fetcher
-from indexer.survivors import proposals
-from indexer.survivors import run as survivors_run
-from indexer.survivors.scoring import keep_likely
-from indexer.survivors.training import TRAINING_CONFIG, TrainingError, cached_model
-from indexer.survivors.wat import CommonCrawlError
+from indexer.proposals import files
+from indexer.proposals import run as proposals_run
+from indexer.proposals.scoring import keep_likely
+from indexer.proposals.training import TRAINING_CONFIG, TrainingError, cached_model
+from indexer.proposals.wat import CommonCrawlError
 
-NAME = "survivors"
+NAME = "proposals"
 HELP = (
     "propose feeds from a ~5-year-old crawl still active today (English, https)"
     " by appending them to --file for review"
@@ -95,7 +95,7 @@ async def run(args: argparse.Namespace) -> int:
     started = datetime.now(UTC)
     slice_bytes = args.slice_mb * 1024 * 1024
     download = FetchConfig(deadline=900, max_body_bytes=slice_bytes + 1024 * 1024)
-    in_file = proposals.known_urls(args.dir)
+    in_file = files.known_urls(args.dir)
     try:
         async with (
             database(args) as db,
@@ -112,8 +112,8 @@ async def run(args: argparse.Namespace) -> int:
             async def known(urls: Sequence[str]) -> set[str]:
                 return {u for u in urls if u in in_file} | await db.known_inputs(list(urls))
 
-            survivors_run.log.setLevel(logging.INFO)  # show the run's progress
-            result = await survivors_run.survivors(
+            proposals_run.log.setLevel(logging.INFO)  # show the run's progress
+            result = await proposals_run.propose(
                 fetch_once,
                 fetch_slice,
                 check,
@@ -129,8 +129,8 @@ async def run(args: argparse.Namespace) -> int:
         return 1
 
     new = result.rows
-    steps = proposals.funnel(result, args.slice_mb, args.active_days)
-    rejected = proposals.rejections(result)
+    steps = files.funnel(result, args.slice_mb, args.active_days)
+    rejected = files.rejections(result)
     if new and args.training.exists():
         try:
             model = cached_model(args.training)
@@ -140,7 +140,7 @@ async def run(args: argparse.Namespace) -> int:
         else:
             new, dropped = keep_likely(new, model, result.crawl, started.date())
         steps.append(f"{dropped} dropped by the model trained on past reviews")
-    acceptance = proposals.acceptance(len(new), result.checked)
+    acceptance = files.acceptance(len(new), result.checked)
     # Checked in random order, so this is also the expected share of all the advertised feed URLs.
     steps.append(
         f"{len(new)} proposed: {acceptance} of the checked,"
@@ -148,14 +148,14 @@ async def run(args: argparse.Namespace) -> int:
     )
 
     rules = ", ".join(f"{n} {label}" for n, label in rejected) or "none rejected"
-    path = args.dir / proposals.file_name(started)
+    path = args.dir / files.file_name(started)
     print(f"{result.crawl}: {'; '.join(steps)} (rules: {rules}): {len(new)} proposed in {path}")
-    for survivor in new:
-        print(proposals.log_line(survivor))
+    for proposal in new:
+        print(files.log_line(proposal))
     print(f"Acceptance: {acceptance} of the checked feed URLs proposed")
     if new:
-        proposals.write_files(path, new, result.crawl, started)
+        files.write_files(path, new, result.crawl, started)
         if args.report:
-            report = proposals.render_report(len(new), result.crawl, steps, rejected)
+            report = files.render_report(len(new), result.crawl, steps, rejected)
             args.report.write_text(report, encoding="utf-8")
     return 0

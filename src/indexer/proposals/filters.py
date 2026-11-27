@@ -1,5 +1,5 @@
-"""Which checked Common Crawl feeds survivors proposes (the URL rules before checking are in
-feed_links.py).
+"""Which checked Common Crawl feeds `indexer proposals` proposes (the URL rules before checking
+are in feed_links.py).
 
 `rejection(row, rules)` gives the first rule a feed fails, or None if it passes:
     failed       the check failed (fetch or parse)
@@ -40,7 +40,7 @@ from typing import Literal
 from indexer.check.feed import RecentPost
 from indexer.check.runner import CheckRow
 from indexer.net.urls import drop_excluded, strip_session, valid_urls
-from indexer.survivors.feed_links import is_unwanted
+from indexer.proposals.feed_links import is_unwanted
 
 _MIN_TEXT_KEYWORDS = 3  # excluded words in a feed's subtitle and posts that exclude it
 
@@ -68,7 +68,7 @@ type Reason = Literal[
 _WIKI_EDIT = re.compile(r"do=diff|[?&]rev=|oldid=|doku\.php|index\.php\?title=", re.IGNORECASE)
 # Words that mark the site of a company or an organisation rather than a writer (agreed
 # 2026-11-21: on the listed feeds about 1 in 140 harmless feeds has one; in two 200-feed
-# survivors batches they caught 25 company, law-firm, radio and parish sites).
+# proposals batches they caught 25 company, law-firm, radio and parish sites).
 _BUSINESS_WORDS = [
     "service", "services", "attorney", "attorneys", "agency", "book now", "supplies",
     "equipment", "shop", "company", "store", "consultants",

@@ -5,7 +5,7 @@
 # Manual only, and only when the confirmation is typed exactly. The next workflow that runs
 # (any of them migrates first) recreates the schema empty; the input job then reloads the URLs
 # from data/sources.toml. Lost for good: the check history, and inputs that came only from
-# Common Crawl rows inserted before survivors used pull requests.
+# Common Crawl rows inserted before proposals used pull requests.
 name: drop-tables
 
 on:
