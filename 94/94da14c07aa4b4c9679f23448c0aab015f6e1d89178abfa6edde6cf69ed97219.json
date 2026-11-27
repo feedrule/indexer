@@ -1,0 +1,20 @@
+{
+  "url": "https://zaliva.org/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://zaliva.org/blog/2026/06/semantics-extraction.html",
+      "title": "Extracting a Formal Semantics with AI Agents",
+      "description": "When we talk about formal verification of programs, one of the first questions is: does the programming language we are verifying have a formal semantics? If the language behaviour is specified only by an implementation or by prose written for humans, then formal reasoning about programs in that language is impossible without first formalising the language itself. Many programming languages eithe…"
+    },
+    {
+      "link": "https://zaliva.org/blog/2026/04/why-forcing-users-to-change-passwords-is-bad-for-security.html",
+      "title": "Why Forcing Users to Change Passwords Is Bad for Security",
+      "description": "Periodic password expiry (e.g. “change your password every 60–90 days”) is no longer considered good practice. Modern guidance is clear: Do not require password changes unless there is evidence of compromise. Authoritative Guidance 🇺🇸 United States: National Institute of Standards and Technology (NIST) “Verifiers and CSPs SHALL NOT require subscribers to change passwords periodically. However, ve…"
+    },
+    {
+      "link": "https://zaliva.org/blog/2025/12/killing-voicemail-with-twilio-simple.html",
+      "title": "Killing Voicemail with Twilio: A Simple Setup for People Who Hate Voicemail",
+      "description": "I hate voicemail. My inbox was mostly full of robocalls, accidental pocket dials, and 'call me back' messages that would have been far clearer in writing. Eventually, I decided that voicemail had to go. The solution turned out to be wonderfully simple: instead of letting my carrier send unanswered calls to a traditional voicemail box, I now forward them to a Twilio number that plays a short, poli…"
+    }
+  ]
+}

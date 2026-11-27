@@ -1,0 +1,20 @@
+{
+  "url": "https://christianoliff.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://christianoliff.com/blog/image-info-vs-code-extension/",
+      "title": "Image Info VS Code Extension",
+      "description": "VS Code’s built-in image preview is handy, but it only tells you the dimensions and file size in the status bar. When I’m working with images I often want to know more: is this JPEG progressive? Does it have a color profile? How big is this SVG once it’s gzipped? I used to switch to another app to find out, so I made an extension that shows it all right inside VS Code: Image Info. Open an image an"
+    },
+    {
+      "link": "https://christianoliff.com/blog/image-optimizer-plus-windows-app/",
+      "title": "Image Optimizer Plus for Windows",
+      "description": "On my Mac I’ve been using ImageOptim for years. Drop some images onto it, wait a second, and they’re smaller. No settings to fiddle with and no worrying about whether the images still look the same. On Windows I never found anything quite as simple, so I made one: Image Optimizer Plus. Drop AVIF, GIF, JPEG, JPEG XL, PNG, SVG and WebP files (or whole folders) onto the window and each file is optimi"
+    },
+    {
+      "link": "https://christianoliff.com/blog/bootstrap-6-css-breakpoint-indicator/",
+      "title": "Bootstrap 6 CSS Breakpoint Indicator",
+      "description": "Following on from my post last year about Bootstrap 5 CSS Breakpoint Indicator, here’s a snippet for Bootstrap 6 (Alpha). It appears at all times in the bottom left corner of the viewport and as it’s small, partially transparent so it doesn’t distract from the main content. css body ::after { aspect-ratio : 1 / 1 !important ; backdrop-filter : blur ( 99 px ) !important ; background-color : rgb ( 0"
+    }
+  ]
+}

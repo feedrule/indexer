@@ -1,0 +1,20 @@
+{
+  "url": "https://stroppy.io/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://stroppy.io/blog/stroppy-v6-2-release",
+      "title": "Stroppy 6.2: keeping the run, not just the number",
+      "description": "Stroppy 6.2 is out. This release is mostly about the work around a benchmark:"
+    },
+    {
+      "link": "https://stroppy.io/blog/stroppy-v6-release",
+      "title": "Stroppy v6.0.0: One Go Binary, Typed Workloads, and Native Metrics",
+      "description": "We released Stroppy v6.0.0. This is the largest change we have made to the"
+    },
+    {
+      "link": "https://stroppy.io/blog/why-stroppy-moved-off-k6",
+      "title": "Why We Moved Stroppy from k6 to a Native Go Engine",
+      "description": "Stroppy v5 was a k6 extension. Stroppy v6 is not."
+    }
+  ]
+}

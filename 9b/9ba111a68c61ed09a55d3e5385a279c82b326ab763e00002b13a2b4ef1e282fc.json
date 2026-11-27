@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.nolank.ca/feed/?type=rss",
+  "posts": [
+    {
+      "link": "https://blog.nolank.ca/running-an-experiment-with-claude-code-overnight/",
+      "title": "Running an experiment with Claude Code overnight",
+      "description": "The experiment The results The bug What I learned I've been letting Claude Code run experiments for me while I sleep. Last night, it came back with results that were too good to be true. Here's a short account. The future of science, and now the present, is one where everyone is a supervisor, even undergrads and grads. Automated AI research assistants can run experiments throughout the day while y"
+    },
+    {
+      "link": "https://blog.nolank.ca/aion-search/",
+      "title": "Semantic search anything with AI-in-the-loop",
+      "description": "AION-Search Best practices Example captions from our pipeline A barred spiral galaxy with a prominent central bulge, well-defined symmetric spiral arms showing active star formation, and subtle dust lanes along the bar and inner arms. Diffuse low surface brightness galaxy or dwarf elliptical galaxy with a smooth, extended morphology and no prominent features. A barred spiral galaxy exhibiting asym"
+    },
+    {
+      "link": "https://blog.nolank.ca/astronomy-data-problem/",
+      "title": "A solution to astronomy's data problem",
+      "description": "At some point in the future, AI will be as capable as humans for computer tasks. Over time, costs trend downwards. Therefore, we will have widely deployable and plentiful experts that can accomplish any computer task. What would you do with a thousand experts at your command? Two clear ideas: AI research assistants AI integrated in data pipelines to automate complex analysis at scale, i.e. \"AI-in-"
+    }
+  ]
+}

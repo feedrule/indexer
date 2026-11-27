@@ -1,0 +1,20 @@
+{
+  "url": "https://patys.dev/rss/",
+  "posts": [
+    {
+      "link": "https://patys.dev/obsidian-and-llms/",
+      "title": "Obsidian and LLMs",
+      "description": "I use Obsidian a lot. It's my main tool for personal notes. It keeps my thoughts and memories organized. It's basically my second brain. I also use LLMs a lot, so I wanted one for my notes, but I don't want to expose them"
+    },
+    {
+      "link": "https://patys.dev/space-economy-notes-from-lecture-about-origins-and-structure/",
+      "title": "Space economy - notes from lecture about origins and structure",
+      "description": "Space activity started as a government effort. It was driven by competition, mainly between the USSR and the USA. Key early milestones: 1957 – first satellite, first signal from space 1957 – Laika, first animal in orbit 1961 – Gagarin, first human in space 1961 – Shepard, first American in"
+    },
+    {
+      "link": "https://patys.dev/antigravity/",
+      "title": "Antigravity",
+      "description": "Google released Antigravity, an editor designed for AI-driven development. At first glance, it looks almost identical to VS Code. The layout, file tree, tabs, and terminal all feel familiar. By default, Antigravity runs in a planning mode powered by Gemini 3 Pro (High). Claude and GPT-OSS are also available, but"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://leastbad.com/feed",
+  "posts": [
+    {
+      "link": "http://leastbad.com/beast-mode",
+      "title": "Beast Mode StimulusReflex with AllFutures",
+      "description": "Building a reactive, server-rendered faceted search UI in Rails with StimulusReflex # I’m going to show you how to use StimulusReflex and AllFutures to build faceted UIs in Rails with startling ease . We’re going to step through the creation of an interface for filtering, sorting and paginating tabular data. I call it… 👉 Beast Mode StimulusReflex 👈. Beast Mode is literally a Single Page Applicatio"
+    },
+    {
+      "link": "http://leastbad.com/developer-happiness",
+      "title": "Developer Happiness",
+      "description": "It’s red letter day: after three months of development and nine pre-release candidates, StimulusReflex v3.4 has finally dropped . The introduction of Morphs in September elevated StimulusReflex from a cool proof-of-concept to a promising tool for building reactive UIs. Open source projects need to think creatively to stand out. Hiring an actor to record a fake testimonial by a beloved fictional do"
+    },
+    {
+      "link": "http://leastbad.com/introducing-stimulus-shortcut",
+      "title": "Introducing stimulus-shortcut",
+      "description": "Hot on the heels of stimulus-hotkeys , I am thrilled to release stimulus-shortcut , “a Stimulus controller for mapping keystrokes to element events”. Based on the preview version of Stimulus 2.0, stimulus-hotkeys wraps the amazing HotKeys.js library and takes advantage of the new Stimulus Values API to bind the keystrokes people type to the default events of elements on your page. Let’s look at a"
+    }
+  ]
+}

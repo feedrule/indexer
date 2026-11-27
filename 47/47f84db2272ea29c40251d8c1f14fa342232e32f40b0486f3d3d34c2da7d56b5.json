@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.elis.cc/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.elis.cc/articles/the-ai-boom-vs-the-dot-com-boom/",
+      "title": "The AI boom vs dot-com boom",
+      "description": "The AI boom vs dot-com boom"
+    },
+    {
+      "link": "https://blog.elis.cc/articles/can-we-get-rid-of-database-migration-files/",
+      "title": "Can we get rid of database migration files?",
+      "description": "Some description here"
+    },
+    {
+      "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+      "title": "A safe MySQL upgrade that wasn't so safe",
+      "description": "Some description here"
+    }
+  ]
+}

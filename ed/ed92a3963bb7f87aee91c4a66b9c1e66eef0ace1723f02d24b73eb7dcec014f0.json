@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.johl.io/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.johl.io/calling-wikifunctions-for-der-die-das/",
+      "title": "Calling Wikifunctions for der, die, das",
+      "description": "One of the least favorite parts for learners of German are the grammatical genders . At times it can feel like a tiny bureaucratic prank designed to test a learner’s patience. Articles seem to obey secret laws: der Tisch, die Tür, das Mädchen. While there are patterns, there are also enough exceptions to make confidence wobble. For learners, the frustration is not just remembering vocabulary, but"
+    },
+    {
+      "link": "https://blog.johl.io/the-owl-and-the-bat/",
+      "title": "The Owl and the Bat",
+      "description": "Knowledge Production on Wikimedia Projects with Artificial Intelligence (whatever that means) There’s no doubt that what we refer to as “Artificial Intelligence” is changing knowledge production. English Wikipedia has recently adopted a policy which prohibits the use of Large Language Models to generate or rewrite article content. A little before that, German Wikipedia started a Request for Commen"
+    },
+    {
+      "link": "https://blog.johl.io/gemini-with-hugo/",
+      "title": "Gemini with Hugo",
+      "description": "Hugo is becoming my favorite static site generator . It’s what this blog is running on. It really only took a few minutes to make it generate pages in the Gemini hypertext format (“gemtext”). Now you can read my blog in a wonderfully obscure way on the other, lesser known Internet: gemini://tilde.pink/~johl/ Eventually, I rolled my own solution for Hugo (it’s really easy enough), but I learned a l"
+    }
+  ]
+}

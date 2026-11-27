@@ -1,0 +1,20 @@
+{
+  "url": "https://ishamf.dev/rss/",
+  "posts": [
+    {
+      "link": "https://ishamf.dev/p/agent-harness-replay/",
+      "title": "How Agent Harnesses Work, With a Replay of a Real Session",
+      "description": "How do Claude Code, Codex, and other tools interact with the model? We can replay a session and break it down request by request."
+    },
+    {
+      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "title": "LLM Attention Visualization",
+      "description": "A visualization of the attention mechanism in LLMs."
+    },
+    {
+      "link": "https://ishamf.dev/p/daylight-and-timezone-globe/",
+      "title": "Daylight and Timezone Globe",
+      "description": "An interactive map to convert between time zones, with a daylight visualization, rendered on a globe."
+    }
+  ]
+}

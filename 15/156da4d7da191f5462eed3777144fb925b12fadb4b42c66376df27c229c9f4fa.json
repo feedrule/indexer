@@ -1,0 +1,20 @@
+{
+  "url": "https://sherifbutt.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://sherifbutt.dev/blog/show-me-a-mockup.html",
+      "title": "The prompt I never wrote",
+      "description": "None of the things I say when I want an image contain the word image. Getting an agent to notice that worked — and made everything downstream more expensive, harder to reproduce, and impossible to give up."
+    },
+    {
+      "link": "https://sherifbutt.dev/blog/voice-of-customer.html",
+      "title": "I built a tool to find customer pain. Its best output was telling me I was wrong.",
+      "description": "Reddit blocks AI crawlers, so I built an MCP plugin to get in. Then it spent three days proving me wrong — about my market, about my wedge, and finally about whether it should be a product at all."
+    },
+    {
+      "link": "https://sherifbutt.dev/blog/captcha-yolo.html",
+      "title": "Using YOLO for CAPTCHA recognition — 17 phases from demo-ware to production",
+      "description": "Quad-signal fusion, 7-layer motor control modelled on neuroscience papers, cost/accuracy tables. The naive approach works in the demo and breaks in the wild — this is the rebuild."
+    }
+  ]
+}

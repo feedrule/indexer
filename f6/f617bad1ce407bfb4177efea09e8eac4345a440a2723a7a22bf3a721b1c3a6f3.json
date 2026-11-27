@@ -1,0 +1,20 @@
+{
+  "url": "https://diego.codes/index.xml",
+  "posts": [
+    {
+      "link": "https://diego.codes/post/atproto-field-guide-2026/",
+      "title": "My 2026 Field Guide to the ATmosphere",
+      "description": "Getting into ATProto: My 2026 Field Guide to the ATmosphere Introduction I have been quite bad at social media for as long as I remember. Not that I don’t have a lot of followers — I really don’t — but I am not consistent: I start using a service (sometimes I even hassle my friends to join it), use it for a while, and then let it wither unused, unopened. It was not always like this: I had (like al"
+    },
+    {
+      "link": "https://diego.codes/post/back-to-writing-2026/",
+      "title": "Back to Writing... Again",
+      "description": "Back to Writing… Again At the time of writing, the last time I wrote in this blog was on June 4th, 2024 ; more than two years ago. It’s not only far too long to have a proper excuse; it’s straight up shameful that the last post talks about a tool (WezTerm) I don’t even use anymore. I would love to start writing that series again, because my tool setup has changed a great deal (as has my job) since"
+    },
+    {
+      "link": "https://diego.codes/post/honing-the-tools/02-wezterm/",
+      "title": "Honing the Tools (II) - WezTerm",
+      "description": "Honing the Tools (II) - WezTerm To take off on this journey to find a new set of very, very sharp tools, let’s start with the basics: If the aim is having a set of atomic, CLI applications to solve my problems, I’d better find a very good terminal emulator to hold everything together . WezTerm is built on Rust, and is the reason why I am changing my mind regarding my daily tools. After testing ple"
+    }
+  ]
+}

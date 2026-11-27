@@ -1,0 +1,20 @@
+{
+  "url": "https://fhur.me/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Maybe the database got it right",
+      "description": "A reflection on our industry's obsession with abstracting away the database."
+    },
+    {
+      "link": null,
+      "title": "Change is the root of all (evil) bugs",
+      "description": "Exploring the relationship between change and bugs."
+    },
+    {
+      "link": null,
+      "title": "Why you shouldn't default to positional parameters",
+      "description": "Named parameters are generally better than positional parameters, and you should use them by default"
+    }
+  ]
+}

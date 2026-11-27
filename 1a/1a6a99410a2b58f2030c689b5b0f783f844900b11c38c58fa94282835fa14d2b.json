@@ -1,0 +1,20 @@
+{
+  "url": "https://remimercier.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://remimercier.com/rspec-101-basic-set-up/",
+      "title": "An introduction to RSpec: how to install RSpec, naming convention and basic files structure",
+      "description": "When you start programming, it's not easy to know what to test, how to test, and why should you test? So let's start with an introduction to RSpec: how to install RSpec, RSpec naming convention and and RSpec files structure."
+    },
+    {
+      "link": "https://remimercier.com/dependency-injection-in-ruby/",
+      "title": "Exploring dependency injection in Ruby",
+      "description": "Classes depend on each other all the time. But the way you tie those classes together will determine how hard it is to change your code. Dependency injection can help you reduce that coupling and reduce your cost of change."
+    },
+    {
+      "link": "https://remimercier.com/ruby-stained-glass-notes-14/",
+      "title": "3D modelling is HARD, and news about the pre-sale (Ruby Stained Glass Notes #14)",
+      "description": "Today, I talk about the estimated date for the pre-sale and how learning Fusion 360 is hard."
+    }
+  ]
+}

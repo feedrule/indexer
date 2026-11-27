@@ -1,0 +1,20 @@
+{
+  "url": "https://x86.lol/feed.xml",
+  "posts": [
+    {
+      "link": "https://x86.lol/generic/2025/12/19/polyglot.html",
+      "title": "Polyglot NixOS: The Same Disk Image for All Architectures",
+      "description": "Recently a colleague mentioned building NixOS images that run unchanged on multiple architectures. Given the past adventures on this blog with systemd-repart and cross-compiling NixOS , I decide to give this a go. tl;dr You can find a quick’n’dirty implementation here . Check the repo for details on how to build and run it. So do we want to do: We want to build one disk image that boots on x86_64,"
+    },
+    {
+      "link": "https://x86.lol/generic/2025/08/10/change-monitoring.html",
+      "title": "Quick and Dirty Website Change Monitoring",
+      "description": "Let’s say, you need to monitor a website for changes and you really don’t have a lot of time to set things up. Also solving the problem with money using services, such as changedetection.io or visualping.io , have failed you, because their accesses are probably filtered out. I’ve come up with the following scrappy solution. First, I want to get push notifications to my phone. So I installed simple"
+    },
+    {
+      "link": "https://x86.lol/generic/2025/01/30/microkernels.html",
+      "title": "FOSDEM Edition: Thoughts on the Microkernels",
+      "description": "It’s FOSDEM time! I have fond memories of the Microkernel and Component-based OS devroom in particular. It’s a fun meetup of extremely skilled low-level software engineers. This year I cannot attend, so it’s a good time to ramble reflect on it. Some Background The community around this devroom has one epicenter in Dresden, where many of us met at the Operating Systems Group at the university. Dres"
+    }
+  ]
+}

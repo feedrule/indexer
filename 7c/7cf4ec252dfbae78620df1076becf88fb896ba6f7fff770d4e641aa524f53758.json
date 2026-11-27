@@ -1,0 +1,20 @@
+{
+  "url": "https://dev.to/feed/oxharris",
+  "posts": [
+    {
+      "link": "https://dev.to/oxharris/design-review-live-sql-queries-on-postgresql-jo0",
+      "title": "Design review: Live SQL queries on PostgreSQL",
+      "description": "I’ve been experimenting with something I’ve wanted for a long time: \"live mode\" in SQL. Today, this is now possible on PostgreSQL: const result = await db . query ( `SELECT * FROM users` , { live : true } ); With { live: true } , you get back a live result set that reflects the state of the DB in real time. If rows are inserted, updated, or deleted in the underlying table(s), result.rows reflects"
+    },
+    {
+      "link": "https://dev.to/oxharris/a-fresh-take-on-reactivity-274d",
+      "title": "A Fresh Take On Reactivity",
+      "description": "It's been months of work mocking up a new runtime capability in JavaScript! The new capability lets us have reactivity as an entirely language-driven feature in JavaScript such that using the exact same imperative syntax, we can write programs that automatically reflect changes to state in fine-grained details. The idea?: Say you have the following piece of logic... let count = 10 ; let doubleCoun"
+    },
+    {
+      "link": "https://dev.to/oxharris/revisiting-the-html-problem-space-and-introducing-oohtml-3oh5",
+      "title": "Revisiting the HTML Problem Space and Introducing OOHTML",
+      "description": "It's 2024! Is it perhaps time to give attention to HTML? It's a time when many people are interested in going back to the basics! Even whole teams are looking to make the big return from rethinking best practices ! (How we, in fact, got fed such a line remains a mystery!) But perhaps, no one is talking about the alternative and how still \"philosophical\" it is to build anything of substance in just"
+    }
+  ]
+}

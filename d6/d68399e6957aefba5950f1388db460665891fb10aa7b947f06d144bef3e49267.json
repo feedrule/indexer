@@ -1,0 +1,20 @@
+{
+  "url": "https://kazlauskas.me/feed.atom",
+  "posts": [
+    {
+      "link": "https://kazlauskas.me/entries/debugging-macros-by-example",
+      "title": "Quick and precise debugging of Rust macro_rules!",
+      "description": "I have been work ing on a set of token munch ing macro_rules! for a pro ject at work re cently. Par for the course for this sort of pro ject I ran into all sorts of gnarly macro match ing fail ures and in scrut able rustc dia gnostics that tend to ac com mod ate them. Some where along the way I was able to come up with a way to use a com bin a tion of compile_error! , stringify! to achieve what I"
+    },
+    {
+      "link": "https://kazlauskas.me/entries/10w-n100-server",
+      "title": "Rack-mount N100-based firewall at 10W idle from CWWK",
+      "description": "For a couple years now the main com pute in my homelab rack has been served by an EPYC 7642- based serv er. It has been re spons ible every single task I have for short- and long-run ning com pute at home: home auto ma tion util it ies, me dia center, net work-at tached stor age with a re l at ively fault-tol er ant disk setup, a build server… and most not ably for the topic at hand the net work i"
+    },
+    {
+      "link": "https://kazlauskas.me/entries/tailscale-doesnt-quite-suck",
+      "title": "Tailscale doesn’t quite suck",
+      "description": "Some time last year I found my self need ing to spend all of the fake Amazon money that I keep re ceiv ing with every busi ness trip. With dog go’s fur shed ding sea son right around the corner, a va cuum ro bot def in itely seemed like an ap pro pri ate way to con sume at the time. But wait… there’s a snag! Well built va cu ums at a reas on able price point all hap pen to be China Ex port vari et"
+    }
+  ]
+}

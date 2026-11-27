@@ -1,0 +1,20 @@
+{
+  "url": "https://mikhailian.mova.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://mikhailian.mova.org/posts/328-why-or-why.html",
+      "title": "5 Whys",
+      "description": "I was working on a performance problem, recently. Somewhere during the migration from EclipseLink to Hibernate, a legacy application had severe performance problems on a particular type of queries"
+    },
+    {
+      "link": "https://mikhailian.mova.org/posts/327-2fa-is-dead.html",
+      "title": "2FA is dead, it just doesn't know it yet",
+      "description": "It is, and by 2FA I mean two-factor authentication and, by extension, Multi-Factor Authentication."
+    },
+    {
+      "link": "https://mikhailian.mova.org/posts/326-actionable-security-is-missing-on-the-eu-horizon.html",
+      "title": "Actionable Security is Missing on the EU Horizon",
+      "description": "I've been trying to find a password policy for EU that has the same level of practical detail as NIST SP 800-63B . The closest I found is this 1-page document from ENISA . So much for the EU leading the Digital Agenda."
+    }
+  ]
+}

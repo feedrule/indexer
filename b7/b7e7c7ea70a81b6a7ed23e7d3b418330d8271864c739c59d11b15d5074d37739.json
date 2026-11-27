@@ -1,0 +1,20 @@
+{
+  "url": "https://chrisdone.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://chrisdone.com/posts/llm-complete",
+      "title": "LLM-Complete: The next 700 programming languages",
+      "description": "LLM-Complete: The next 700 programming languages LLM-Complete: The next 700 programming languages Note: An LLM was not used in writing this article. I was reading microgpt 1 and found myself brushing up on linear algebra and tensors, and then separately was reading articles du jour about how prompting will replace coding and so on, 2 and thought: why might that be? That is, if we are to take all t"
+    },
+    {
+      "link": "https://chrisdone.com/posts/lisp-compilers",
+      "title": "Lisp compilers that compile directly to assembly",
+      "description": "Lisp compilers that compile directly to assembly Lisp compilers that compile directly to assembly Note: An LLM was not used in writing this article. I’d like to point out one cool thing that some Lisp compilers, like SBCL, do. SBCL compiles functions and expressions directly to assembly. There aren’t other AST interpreter or byte-code interpreter modes, as seen in many other languages. Let’s turn"
+    },
+    {
+      "link": "https://chrisdone.com/posts/talks",
+      "title": "Talks",
+      "description": "Talks Talks Note: An LLM was not used in writing this article. Here’s a list of talks that I like, that I keep coming back to over the years, especially ones that have strongly influenced my thinking or changed my mind on something. Computing “We Really Don’t Know How to Compute!” by Gerald Sussman, 2011 “Performance Matters” by Emery Berger, 2019 “Simple Made Easy” by Rich Hickey, 2011 “Spec-ulat"
+    }
+  ]
+}

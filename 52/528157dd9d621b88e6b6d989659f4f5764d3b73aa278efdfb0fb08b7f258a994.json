@@ -1,0 +1,20 @@
+{
+  "url": "https://lumi.codeberg.page/feed.atom",
+  "posts": [
+    {
+      "link": "https://lumi.codeberg.page/blog/software-community.html",
+      "title": "The importance of communities around software",
+      "description": "As usual, the people are the important thing. Who could've guessed? :3"
+    },
+    {
+      "link": "https://lumi.codeberg.page/blog/remote-attestation.html",
+      "title": "Remote attestation should not be tolerated",
+      "description": "Why remote attestation is harmful and should be objected to"
+    },
+    {
+      "link": "https://lumi.codeberg.page/blog/moss-overview.html",
+      "title": "AerynOS Adventures: Moss",
+      "description": "A little adventure into the inner workings of Moss, the package manager of AerynOS"
+    }
+  ]
+}

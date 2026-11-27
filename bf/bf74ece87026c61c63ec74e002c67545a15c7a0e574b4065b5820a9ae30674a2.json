@@ -1,0 +1,20 @@
+{
+  "url": "https://sidewalk.crustytoothpaste.net/feed.atom",
+  "posts": [
+    {
+      "link": "https://sidewalk.crustytoothpaste.net/tech/2026/01/14/development-tools",
+      "title": "Guidelines for Development Tools",
+      "description": "When it comes to my development environment, I tend to have a couple simple philosophies that guide what tools I use."
+    },
+    {
+      "link": "https://sidewalk.crustytoothpaste.net/tech/git/2022/09/02/version-control-for-english",
+      "title": "Version Control for English (and other Natural Languages)",
+      "description": "As some folks might know, my degree is not in Computer Science, but in English Creative Writing. When I was doing workshops in university, my professors and classmates all used Word and many of them used the built-in version control feature to version their documents. This was, and still is, a need that has been poorly anticipated, but with a little context, it makes sense."
+    },
+    {
+      "link": "https://sidewalk.crustytoothpaste.net/tech/security/2021/04/11/password-generation",
+      "title": "Tips and Tricks for Password Generation",
+      "description": "If you are anything like me, you probably have a lot of different places you need to log in with a username and password. Hopefully you are using a password manager to keep track of all of them so you don’t have to. My preferred option is 1Password; while it’s not free, I have great confidence in their security and for the value I get it’s some of the best money I pay."
+    }
+  ]
+}

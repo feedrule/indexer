@@ -1,0 +1,20 @@
+{
+  "url": "https://unexist.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://unexist.blog/tech/2026/08/03/writing-parsers.html",
+      "title": "Writing parsers",
+      "description": "This blog post outlines three different approaches of writing a parser, starting from a naive way up to something that isn't shy to use mathematics terminology."
+    },
+    {
+      "link": "https://unexist.blog/documentation/myself/2026/04/29/documenting-shellscripts.html",
+      "title": "Documenting shellscripts",
+      "description": "This blog post outlines how shellscripts contain way too much business logic and why it is a shame to keep them undocumented."
+    },
+    {
+      "link": "https://unexist.blog/tech/2026/01/25/embedding-other-languages.html",
+      "title": "Fun with embeddability",
+      "description": "Personal journey through 20+ years of FOSS-projects under the umbrella of how to embed scripting languages for fun."
+    }
+  ]
+}

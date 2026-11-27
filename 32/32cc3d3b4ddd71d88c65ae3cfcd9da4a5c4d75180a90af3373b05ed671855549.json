@@ -1,0 +1,20 @@
+{
+  "url": "https://www.echooff.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.echooff.dev/blog/passive-event-listeners-are-a-promise-to-the-browser",
+      "title": "Passive event listeners are a promise to the browser",
+      "description": "Passive event listeners let browsers scroll without waiting for JavaScript. The benefit comes from understanding what the listener gives up."
+    },
+    {
+      "link": "https://www.echooff.dev/blog/feature-flags-separate-deployment-from-release",
+      "title": "Feature flags separate deployment from release",
+      "description": "Use feature flags to deploy incrementally, test with internal users and release gradually while keeping a way to disable new behavior."
+    },
+    {
+      "link": "https://www.echooff.dev/blog/named-arguments-in-javascript",
+      "title": "Named arguments in JavaScript",
+      "description": "Use object parameters to make function calls easier to read, distinguish values of the same type and expose boolean flags that deserve a better design."
+    }
+  ]
+}

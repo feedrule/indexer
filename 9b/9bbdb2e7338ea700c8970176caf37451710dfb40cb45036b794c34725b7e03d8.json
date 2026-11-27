@@ -1,0 +1,20 @@
+{
+  "url": "https://techleadersdeskreference.com/rss/",
+  "posts": [
+    {
+      "link": "https://techleadersdeskreference.com/start-with-the-premise/",
+      "title": "Start With the Premise",
+      "description": "Bolting agents onto existing engineering workflows looks like adoption, but it insulates teams from real change. The leverage comes from separating human judgment from execution, giving agents oracles to verify their work, and building tools that direct attention where it's needed."
+    },
+    {
+      "link": "https://techleadersdeskreference.com/your-engineers-are-compute-constrained-why-arent-you-doing-anything-about-it/",
+      "title": "Your Engineers Are Compute -Constrained. Why Aren’t You Doing Anything About It?",
+      "description": "Agentic development has changed how much compute one engineer can use. Our $5,000 laptops are hitting their limits. Engineering leaders need to rethink developer infrastructure and CI together, turning extra execution capacity into shorter PR cycles and faster delivery of useful, validated software."
+    },
+    {
+      "link": "https://techleadersdeskreference.com/the-wrong-denominator/",
+      "title": "The Wrong Denominator",
+      "description": "Two years ago I could have told you exactly what my engineers were working on. Jira knew, because one person worked on one thing. That assumption broke, and the number I got for free went away without anything appearing to break."
+    }
+  ]
+}

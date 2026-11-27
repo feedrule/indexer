@@ -1,0 +1,20 @@
+{
+  "url": "https://grep.be/blog/index.atom",
+  "posts": [
+    {
+      "link": "https://grep.be/blog//en/computer/debian/Programming_and_GR_2026_002/",
+      "title": "Programming and GR 2026 002",
+      "description": "Programming language generations When I was young, I learned about a model of classifying programming language: the system of programming language generations. In this model, first generation programming languages are, basically, where you program the computer in the language that is defined by its architecture. On a Von Neumann machine , with its load-and-store architecture, you do that by inputt"
+    },
+    {
+      "link": "https://grep.be/blog//en/computer/Agentic_coding_and_Free_Software/",
+      "title": "Agentic coding and Free Software",
+      "description": "Through work, I have paid license to windsurf (recently renamed to \"devin\"), an application for LLM-based (aka, \"Agentic\") development. I hadn't been using it that much, but in an effort to more clearly understand how this whole AI development thing works, I decided to give it a closer look recently. My conclusions: In its current form, this whole LLM wave is problematic for multiple reasons. But"
+    },
+    {
+      "link": "https://grep.be/blog//en/computer/cluebat/On_Free_Software_Hardware_Firmware/",
+      "title": "On Free Software, Free Hardware, and the firmware in between",
+      "description": "When the Free Software movement started in the 1980s, most of the world had just made a transition from free university-written software to non-free, proprietary, company-written software. Because of that, the initial ethical standpoint of the Free Software foundation was that it's fine to run a non-free operating system, as long as all the software you run on that operating system is free. Initia"
+    }
+  ]
+}

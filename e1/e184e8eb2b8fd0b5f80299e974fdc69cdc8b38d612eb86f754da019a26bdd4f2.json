@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.caulagi.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.caulagi.com/posts/what-is-wrong-observability",
+      "title": "What is wrong, observability?",
+      "description": "Observability dashboards were designed for the person who builds them, not the person who reads them during an incident. I argue that we need a complementary observability tool."
+    },
+    {
+      "link": "https://blog.caulagi.com/posts/github-actions-vs-gitlab-pipeline",
+      "title": "GitHub Actions vs GitLab Pipeline",
+      "description": "Not all CI/CD yaml for pipelines are equal. The vocabulary a platform exposes (events, permissions, jobs/steps, images, stages) reveals what the designers prioritised, made cheap, or made difficult."
+    },
+    {
+      "link": "https://blog.caulagi.com/posts/secret-sauce",
+      "title": "The secret sauce",
+      "description": "I argue that the most important component for observability in a microservices/distributed architecture is error reporting."
+    }
+  ]
+}

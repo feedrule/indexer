@@ -1,0 +1,20 @@
+{
+  "url": "https://silly.business/index.xml",
+  "posts": [
+    {
+      "link": "https://silly.business/blog/extracting-a-beat-detection-algorithm-from-dj-software-with-qwen3.635b-on-a-mid-tier-gaming-pc/",
+      "title": "Extracting a Beat Detection Algorithm from DJ Software With Qwen3.6:35b on a Mid Tier Gaming PC",
+      "description": "Background Alibaba released the 3.6 35B version of the Qwen family of models about a week and a half ago, and I pulled it down with Ollama 1 to try out. I have been doing this for awhile, though I have not had much use for local models in the last few years aside from chat-bot toys. But I remain interested in them, because even as language models get better, hosted LLMs will always come with incre"
+    },
+    {
+      "link": "https://silly.business/blog/there-was-a-woodpecker-in-my-yard.-also-i-met-a-duck./",
+      "title": "There Was a Woodpecker in My Yard. Also, I Met a Duck.",
+      "description": "I accepted a new job offer, and my last day at Cloudflare was two weeks ago. I decided to take a short break before starting my new role, so I haven't started quite yet. I'm finding the timing to be a bit of a shock. Layoffs hurt. I hope for the best for all of my old colleagues – those still at Cloudflare, and those no longer. Anyway, the spring weather has just been incredible during my little h"
+    },
+    {
+      "link": "https://silly.business/blog/using-a-language-model-to-write-my-blog-would-be-disrespectful-to-my-audience-and-worse-than-pointless/",
+      "title": "Using a Language Model to Write My Blog Would Be Disrespectful to My Audience and Worse Than Pointless",
+      "description": "I want to quickly address, with laser focus, a most pertinent part of the LLM discussion: I have no interest, and I shall never have any interest, in using text generation for the writing on this blog. I declare this with utmost certainty. Thus: I swear to never use an LLM to generate or assist with any writing on this website, intended for consumption by people, except as immediately disclaimed."
+    }
+  ]
+}

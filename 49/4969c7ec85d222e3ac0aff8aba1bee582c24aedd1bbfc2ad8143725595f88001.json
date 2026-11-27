@@ -1,0 +1,20 @@
+{
+  "url": "https://anuragbhatia.com/index.xml",
+  "posts": [
+    {
+      "link": "https://anuragbhatia.com/post/2026/10/hacker-news-first-page/",
+      "title": "A few hours on the Hacker News front page",
+      "description": "Background Earlier this month, one of the blog posts on this blog came to the first page of Hacker News. It was early hours of 17 Oct when that happened. I was in Vietnam and actually a day before that had a long day at VNIX-NOG 2026 . During the event, Cidy Yang from Akamai gave a talk on Akamai and IPv6 ( slides here ). During the talk, she mentioned RFC 8950 - routing IPv4 over IPv6 sessions. I"
+    },
+    {
+      "link": "https://anuragbhatia.com/post/2026/09/ip-telephony-in-india/",
+      "title": "IP Telephony in India: From regulation to reality",
+      "description": "I spent some time looking at IP telephony in India, while also doing my own setup for a few use cases and some fun stuff. As I went through this, I decided to document what is possible and what is not when it comes to IP telephony in India. History IP telephony in India is getting exciting after a long time. For those who may not know, India has been extremely restrictive when it comes to voice. P"
+    },
+    {
+      "link": "https://anuragbhatia.com/post/2026/09/airtel-to-start-rov/",
+      "title": "Airtel (AS9498) to take the lead on the RPKI RoV front",
+      "description": "Just back from Mumbai after APNIC 62 and Equinix’s India Peering Forum. On excellent news: Airtel has started sending emails to its customers about RPKI RoV (Route Origin Validation). As per the mail, Airtel will start RPKI RoV soon and has mentioned 22 Sep 2026 as the timeline when they will start rolling out RoV. This is excellent news on the routing security front, and kudos to Airtel (AS9498)"
+    }
+  ]
+}

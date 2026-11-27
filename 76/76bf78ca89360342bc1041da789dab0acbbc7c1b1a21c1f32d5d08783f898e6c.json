@@ -1,0 +1,20 @@
+{
+  "url": "https://jack-vanlightly.com/?format=rss",
+  "posts": [
+    {
+      "link": "https://jack-vanlightly.com/blog/2026/8/28/the-atomiclog-logdrive-strong-vs-weak-sealing",
+      "title": "The AtomicLog + LogDrive: Strong vs weak sealing",
+      "description": "This post continues to elaborate on Virtual Consensus and the new Loglet abstractions of the AtomicLog and LogDrive. My last post focused on composability, this post looks at log sealing. A common aspect of segmented logs is that when extending the log with a new segment, the current active segment needs to be sealed to prevent further appends. This post discusses segment sealing in the AtomicLog"
+    },
+    {
+      "link": "https://jack-vanlightly.com/blog/2026/8/25/the-logdrive-flexible-composition-through-abstraction-in-shared-logs",
+      "title": "The LogDrive: Flexible Composition Through Abstraction in Shared Logs",
+      "description": "In July, several Confluent colleagues and I published The LogDrive: Composable Durability for Cloud-Based Shared Logs. The paper evolves the concepts of Virtual Consensus in Delos by decomposing the Loglet abstraction into two additional abstractions that aid Loglet composition. This post describes these new abstractions in the context of Virtual Consensus, focusing on how they support RAID-like c"
+    },
+    {
+      "link": "https://jack-vanlightly.com/blog/2026/7/7/apache-kafka-performance-1-lingerms",
+      "title": "Apache Kafka performance #1 - linger.ms",
+      "description": "This is the first in an ongoing ad-hoc series of posts on Apache Kafka performance. I have no general direction, I’ll just share interesting insights based on the performance testing I do on Apache Kafka. Recently I was curious to see if there was any general performance improvement since Kafka 3.X. So I ran a suite of benchmarks with Dimster against 3.7.2 and 4.3.0. I saw two common patterns: Pat"
+    }
+  ]
+}

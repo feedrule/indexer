@@ -1,0 +1,20 @@
+{
+  "url": "https://eugenescheepers.com/rss/",
+  "posts": [
+    {
+      "link": "https://eugenescheepers.com/how-to-lose-friends-and-be-happier/",
+      "title": "How to lose friends and be happier",
+      "description": "Separating the wheat from the chaff, has always been one of the most beautiful metaphors for me. It's the act of removing the wheat seeds from the rest of the plant, keeping only what's valuable."
+    },
+    {
+      "link": "https://eugenescheepers.com/migrating-truenas-scale-from-2-disk-mirror-to-3-disk-raidz1/",
+      "title": "Migrating TrueNAS SCALE from 2-Disk Mirror to 3-Disk RAIDZ1",
+      "description": "A complete guide to migrating TrueNAS SCALE from a 2-disk mirror to 3-disk RAIDZ1, including all the post-migration fixes for ix-apps, SMB shares, and application datasets."
+    },
+    {
+      "link": "https://eugenescheepers.com/how-to-turn-your-green-pool-blue/",
+      "title": "How to turn your green pool blue - a rite of passage to manhood",
+      "description": "Step-by-step guide from a man who keeps forgetting how to do this every time."
+    }
+  ]
+}

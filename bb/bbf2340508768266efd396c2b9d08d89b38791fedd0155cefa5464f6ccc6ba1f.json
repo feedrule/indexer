@@ -1,0 +1,20 @@
+{
+  "url": "https://arcturus-labs.com/feed_rss_updated.xml",
+  "posts": [
+    {
+      "link": "http://arcturus-labs.com/blog/2026/03/10/make-ai-your-search-team/",
+      "title": "Make AI Your Search Team",
+      "description": "Upgrading from basic keyword search to something smarter used to mean hiring an ML team. Modern AI changes that – wrap your existing search in an agent and get better results without expensive infrastructure. Here's what we learned experimenting with agent-wrapped product search."
+    },
+    {
+      "link": "http://arcturus-labs.com/blog/2024/11/21/roaming-rag--rag-without-the-vector-database/",
+      "title": "Roaming RAG – RAG without the Vector Database",
+      "description": "Roaming RAG offers a fresh take on Retrieval-Augmented Generation, letting LLMs navigate well-structured documents like a human—exploring outlines and diving into sections to find answers. Forget complex retrieval setups and vector databases; this streamlined approach delivers rich context and reliable answers with less hassle. It’s perfect for structured content like technical manuals, product gu"
+    },
+    {
+      "link": "http://arcturus-labs.com/blog/2024/10/09/bridging-the-gap-between-keyword-and-semantic-search-with-splade/",
+      "title": "Bridging the Gap Between Keyword and Semantic Search with SPLADE",
+      "description": "Learn how to combine the best of keyword and semantic search using SPLADE - a powerful technique that delivers more accurate, transparent, and efficient search results. This practical guide shows you how to implement SPLADE in Elasticsearch to dramatically improve your search capabilities."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://swaits.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://swaits.com/announcing-wanderbooks/",
+      "title": "I hate QuickBooks Online, so I cloned it",
+      "description": "TL;DR: I built wanderbooks . It's a free, open source, formally verified double-entry accounting engine. The only way to change your books is by talking to an AI (Claude Code or Codex) over MCP. The way you look at your books is a simple, fast, read-only viewer. No subscription. No account. Your books are a folder you own. The code is on GitHub at swaits/wanderbooks , and I'm looking for dogfooder"
+    },
+    {
+      "link": "https://swaits.com/they-chose-to-be-evil/",
+      "title": "They chose to be evil",
+      "description": "Today is October 7. Three years ago, Hamas terrorists murdered people at the Nova music festival and in their homes, and dragged others into Gaza as hostages. Today is a day to remember the victims and the families whose lives were shattered. This morning's entry in The Daily Stoic is \"A Selfish Reason to Be Good.\" It quotes Marcus Aurelius: The person who does wrong, does wrong to themselves. The"
+    },
+    {
+      "link": "https://swaits.com/does-repeater-time-matter-in-meshcore/",
+      "title": "Does repeater time matter in MeshCore?",
+      "description": "TL;DR: No, not for actual mesh packet repeating. A repeater with the wrong time will flood and forward packets identically to one with the correct time. The only effects are cosmetic/informational. Edit: This post was challenged with seven counterarguments. I verified each one against the source. Five were wrong, one was already covered, and one raised a valid operational point that I've added. Th"
+    }
+  ]
+}

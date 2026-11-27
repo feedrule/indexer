@@ -1,0 +1,20 @@
+{
+  "url": "https://alexlitzenberger.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://alexlitzenberger.com/blog/bid_ask_spreads_error_bars_and_trusting_your_own_research",
+      "title": "Bid-Ask Spreads Error Bars and Trusting Your Own Research",
+      "description": "A market-maker’s bid-ask spread can be understood as (not only) the cost of immediacy but as an operationalization of epistemic distance between far is the present’s partial knowledge and the future’s..."
+    },
+    {
+      "link": "https://alexlitzenberger.com/blog/the_emulation_frontier",
+      "title": "The Emulation Frontier",
+      "description": "New architectures abound in LLMs, interestingly these days they almost invariably follow a particular form; being a restricted subset of existing architectures facilitating comparable performance to l..."
+    },
+    {
+      "link": "https://alexlitzenberger.com/blog/emulating_alibi_with_rope",
+      "title": "Emulating ALiBi with RoPE",
+      "description": "LLMs typically use some sort of positional encoding for helping the model understand where different tokens (or more precisely, KV cache entries) are. Two of the most common strategies for doing this ..."
+    }
+  ]
+}

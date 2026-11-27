@@ -1,0 +1,20 @@
+{
+  "url": "https://www.jpsim.com/atom",
+  "posts": [
+    {
+      "link": "https://jpsim.com/mobile-development-in-the-age-of-ai/",
+      "title": "Mobile Development in the Age of AI",
+      "description": "After working in mobile engineering for about a decade and a half, across multiple eras of iOS and Android tooling, languages, and architectural approaches, I’ve never been more excited about the landscape than I am right now. When I started making apps in 2011, it was thrilling to go from an idea to something you could physically touch and hold in your hand within hours. Today, that same feeling"
+    },
+    {
+      "link": "https://jpsim.com/building-an-nfc-music-box/",
+      "title": "Building an NFC Music Box",
+      "description": "My son and I built an NFC-based music player so he can play the music he wants, develop his own musical taste but most of all so that he and I could have something fun to build together. Kind of like a modern day record player, but infinitely more extensible, and with each album costing 1/100th the price of a vinyl record. Here it is in action ( music starts 9 seconds into the video, set your volu"
+    },
+    {
+      "link": "https://jpsim.com/evaluating-swiftsyntax-for-use-in-swiftlint/",
+      "title": "Evaluating SwiftSyntax for use in SwiftLint",
+      "description": "tl;dr; Implementing SwiftLint using SwiftSyntax instead of SourceKitten would make it run over 20x slower 😭 Update: Since writing this post, I learnt that SwiftSyntax’s upcoming byte tree deserialization mode will speed this up considerably. I hope to post a follow-up article on this shortly. I have for some time been looking forward to reimplementing some of SwiftLint ’s simpler syntax-only rules"
+    }
+  ]
+}

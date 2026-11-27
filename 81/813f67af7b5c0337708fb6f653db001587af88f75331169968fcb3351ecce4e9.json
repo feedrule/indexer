@@ -1,0 +1,20 @@
+{
+  "url": "https://outofdesk.netlify.app/api/rss",
+  "posts": [
+    {
+      "link": "https://outofdesk.netlify.app/execution-is-cheap/",
+      "title": "Execution Is Cheap for You and Everybody Else",
+      "description": "AI makes products faster and cheaper to build, but execution alone is no advantage when everybody else can move faster too."
+    },
+    {
+      "link": "https://outofdesk.netlify.app/how-the-garden-is-made/",
+      "title": "How the Sausage Garden Is Made",
+      "description": "An interactive, beginner-friendly guide to the HTML, CSS, and JavaScript behind the landing-page timeline and Writing the Thing manifesto."
+    },
+    {
+      "link": "https://outofdesk.netlify.app/what-work-for/",
+      "title": "What Is The Work For?",
+      "description": "This may be a question that each of us in knowledge or creative work is asking ourselves in the wake of AI. And if not, maybe we should. The point of hard problems When OpenAI announced that one of…"
+    }
+  ]
+}

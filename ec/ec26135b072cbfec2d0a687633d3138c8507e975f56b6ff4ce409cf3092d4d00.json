@@ -1,0 +1,20 @@
+{
+  "url": "https://lumley.io/blogs/index.xml",
+  "posts": [
+    {
+      "link": "https://lumley.io/blogs/swift-enums/",
+      "title": "Enums. Swift's Secret Superpower.",
+      "description": "Enums Are Swift’s Secret Superpower If you’ve come from a language like Java, C#, or even Objective-C, you might think you know what an enum is. A list of named constants. An integer with a pretty label. Something you use for a switch statement and then forget about. That’s not what Swift enums are. Swift enums are one of the most expressive, flexible, and genuinely powerful tools in the entire la"
+    },
+    {
+      "link": "https://lumley.io/blogs/smart-garage/",
+      "title": "How I Turned My Broken Garage Remote Into a HomeKit Garage Door for Under $22",
+      "description": "A few weeks ago, my garage remote died. Completely. No LED, no click, no signs of life even after replacing the battery. Normally, this would be annoying enough, but my house relies heavily on HomeKit. Lights, blinds, cameras, fans - everything responds to Siri… except the garage. And now, even the dumb remote wasn’t working. But instead of buying a $90 replacement remote or a $250 HomeKit-enabled"
+    },
+    {
+      "link": "https://lumley.io/blogs/async-combine/",
+      "title": "AsyncCombine: Because Async Code Shouldn’t Be Ugly",
+      "description": "When Swift first introduced Combine, I loved it. The syntax was expressive, pipelines were easy to follow, and @Published made state changes feel almost magical. But as Apple pushed us toward Swift Concurrency, I decided to bite the bullet and migrate one of my apps away from Combine. The migration worked; async/await is powerful, predictable, and in many ways simpler. But I quickly noticed someth"
+    }
+  ]
+}

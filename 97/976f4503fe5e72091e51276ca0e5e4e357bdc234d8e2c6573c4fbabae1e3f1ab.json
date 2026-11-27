@@ -1,0 +1,20 @@
+{
+  "url": "https://victor.darvariu.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://victor.darvariu.me/jekyll/update/2026/03/24/gnn-rl.html",
+      "title": "Using Graph Neural Networks in Reinforcement Learning: A Practical Guide",
+      "description": "Graph Neural Networks (GNNs) have achieved excellent results for modelling relational data in many supervised learning domains. However, much fewer works have explored their potential in Reinforcement Learning (RL) despite the ubiquity of practical problems defined over graphs. In this blog post, we discuss how GNNs can be effectively integrated in Deep RL frameworks, covering crucial design decis"
+    },
+    {
+      "link": "https://victor.darvariu.me/jekyll/update/2018/06/19/ppx-tutorial.html",
+      "title": "A Tutorial to OCaml -ppx Language Extensions",
+      "description": "How do you extend a programming language? The hacky, old-school way is to write your own preprocessor that takes programs written in your extended syntax and transforms them to the vanilla programming language (this is how early C++ compilers worked). The slightly less hacky option is to rely on tooling provided by the programming language ecosystem; OCaml is one of the few that provides such func"
+    },
+    {
+      "link": "https://victor.darvariu.me/jekyll/update/2018/01/30/myuob-app.html",
+      "title": "The MyUoB Android App",
+      "description": "I spent about one working day a week for 8 weeks building an Android application for students at the University of Birmingham. The primary purpose of the application is to let students register their attendance to lectures automatically, and track the lectures that they have attended throughout the academic year. It also provides some additional functionality to enhance the student experience on c"
+    }
+  ]
+}

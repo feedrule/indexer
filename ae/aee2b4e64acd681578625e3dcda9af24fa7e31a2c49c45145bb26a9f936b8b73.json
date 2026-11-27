@@ -1,0 +1,20 @@
+{
+  "url": "https://hkubota.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://hkubota.wordpress.com/2026/09/27/tea-which-ones-i-like/",
+      "title": "Tea – Which ones I like",
+      "description": "I like coffee. But at about 5 cups of coffee, sometimes I like to drink something else, especially when it’s close to bed time. Hot cocoa is great in winter, but I also like various teas. This list is teas I bought and my personal opinion: S Tier The mint tea is just nice minty. … Continue reading Tea – Which ones I like"
+    },
+    {
+      "link": "https://hkubota.wordpress.com/2026/09/27/new-linux-installs/",
+      "title": "New Linux Installs",
+      "description": "I tested to upgrade from Crostini to Baguette on my main ChromeOS machine. Nice, but /dev/dri is lost and that means no GPU acceleration available. Unfortunately Zed really wants that. So I went back to Crostini. Unfortunately each switch means I have to wipe the old system and re-install the Linux subsystem in ChromeOS. And … Continue reading New Linux Installs"
+    },
+    {
+      "link": "https://hkubota.wordpress.com/2026/08/26/rust-and-sdl2-on-a-anbernic-rg40xx-v/",
+      "title": "Rust and SDL2 on a Anbernic RG40XX V",
+      "description": "Cross-compiling a small SDL2 program using Rust. Runs on an Anbernic RG40XX V which runs Knulli."
+    }
+  ]
+}

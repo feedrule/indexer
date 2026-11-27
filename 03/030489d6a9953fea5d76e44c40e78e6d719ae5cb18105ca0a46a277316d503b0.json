@@ -1,0 +1,20 @@
+{
+  "url": "https://mclare.blog/feed.atom",
+  "posts": [
+    {
+      "link": "https://mclare.blog/posts/six-months-of-c",
+      "title": "Six Months of C",
+      "description": "Six Months of C"
+    },
+    {
+      "link": "https://mclare.blog/posts/writing-a-pandas-sidecar-for-tauri",
+      "title": "Writing a pandas Sidecar for Tauri",
+      "description": "Writing a pandas Sidecar for Tauri"
+    },
+    {
+      "link": "https://mclare.blog/posts/syncing-static-sites-with-pulumi",
+      "title": "Syncing Static Sites with Pulumi",
+      "description": "Syncing Static Sites with Pulumi"
+    }
+  ]
+}

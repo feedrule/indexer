@@ -1,0 +1,20 @@
+{
+  "url": "https://mystie.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://mystie.dev/2026/08/11/website-updates-august-2026/",
+      "title": "Website updates: August 2026",
+      "description": "Things that got added/changed/removed on this website in August of 2026"
+    },
+    {
+      "link": "https://mystie.dev/2026/07/12/rewriting-the-now-playing-widget/",
+      "title": "Switching from Last.fm: rewriting my “Now playing” widget to use ListenBrainz",
+      "description": "In this post, I'm gonna detail the steps I took to rewrite this widget."
+    },
+    {
+      "link": "https://mystie.dev/2026/07/11/making-toasts-with-popover-api/",
+      "title": "Making toasts with the Popover API",
+      "description": "So the new Popover API is now available in most1 browsers. It lets you easily create non-modal popovers. But what if we pushed it further than that? What if we could create toasts with zero libraries, using just the Popover API? That’s what this guide is about. most browsers released after January 2025: Popover API - MDN Web Docs ↩"
+    }
+  ]
+}

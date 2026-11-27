@@ -1,0 +1,20 @@
+{
+  "url": "https://thomas-wiegold.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://thomas-wiegold.com/blog/claude-message-threads/",
+      "title": "Claude message threads: faster TTFT, same token bill",
+      "description": "Claude message threads cut TTFT on long agent loops, but not your token bill. How create/continue/replay works, the 5-minute TTL, and when to skip it."
+    },
+    {
+      "link": "https://thomas-wiegold.com/blog/agentic-commerce-ucp/",
+      "title": "Universal Commerce Protocol: What Agentic Commerce Actually Shipped",
+      "description": "ChatGPT's Instant Checkout faded in five months. Google's Universal Commerce Protocol didn't. I checked 14 stores for a UCP profile. Here's what I found."
+    },
+    {
+      "link": "https://thomas-wiegold.com/blog/ai-agent-cost-per-month/",
+      "title": "AI Agent Cost Per Month (2026): 5 Models, Real Numbers",
+      "description": "A 6,000-run support agent costs $9.52 to $150.62 a month in API fees. I priced 5 LLMs across 67 routes and separated the three levers that matter."
+    }
+  ]
+}

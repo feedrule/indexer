@@ -1,0 +1,20 @@
+{
+  "url": "https://flifenstein.com/feed/",
+  "posts": [
+    {
+      "link": "https://flifenstein.com/door-is-closed-move-on/",
+      "title": "Door is closed. Move on.",
+      "description": "And it is fine that they will forever remain closed. There are several moments in your life where you will face rejection. Some will sting, some you will get over fairly quickly and some will be helpful in redirecting you. That is what I heard commonly veiled as meaning for the rejection. But what if you are a child, innocent and naive enough to believe that the person closest to you can’t reject"
+    },
+    {
+      "link": "https://flifenstein.com/observations-on-the-mechanics-of-peeking-awareness-prohibition-instruction-and-recall/",
+      "title": "Why agents peek: Awareness, Prohibition Instruction, and Recall",
+      "description": "TL;DR When it comes to benchmarking coding agents, the score is interpreted as how well an agent solves the tasks, but agents can look up the answer in the task environment itself, so part of the score is, in reality, measuring how well an agent can peek at the answers. In an observational study, detailed below, of 5 models on a SWE-bench Pro subset (64 tasks), 4 of the 5 models look up the upstre"
+    },
+    {
+      "link": "https://flifenstein.com/api-cost-vs-self-hosting/",
+      "title": "Expensive gaping canyon fact on API costs vs self hosting",
+      "description": "Let me spoil you with this short cost finding, served on the side of the benchmarking experiment aistack ran."
+    }
+  ]
+}

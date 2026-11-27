@@ -1,0 +1,20 @@
+{
+  "url": "https://slopfluencer.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://slopfluencer.com/posts/2026_11_25-harness-features/",
+      "title": "The harness features I can't live without",
+      "description": "I've been experimenting with agent harnesses for the last year. Here are the features I couldn't live without in my own harness: Meta-harness MCP and skill aggregation Productivity tools: artifacts, a rich text editor (pages), a design canvas Conversation continuation suggestions and emoji responses Bot / chief-of-staff thread organization Mobile app This started as an X thread . 1. Meta-harness A"
+    },
+    {
+      "link": "https://slopfluencer.com/posts/2026_11_25-neon-vs-opus-vs-sol/",
+      "title": "Gemini Neon vs Claude Opus 5.5 vs GPT 6.2 Sol: card art and frontend",
+      "description": "I'm considering dropping Claude and moving to Gemini Neon as my main model. First I need to make sure Neon performs well on visual tasks, so I compared Neon, Claude Opus 5.5 and GPT 6.2 Sol on two things I actually do: generating new bufo.cards card concepts, and frontend design for the site. This started as two X threads: card concepts and frontend . Round 1: Card concepts Theme 1: Midnight Diner"
+    },
+    {
+      "link": "https://slopfluencer.com/experiments/home-gpu-vs-10-dollar-plan/",
+      "title": "A home GPU against a $10 plan",
+      "description": "Patrick tried moving his agents' bulk work from a $10-a-month model plan to the RTX 3090 Ti under his desk. The card was fast. It was also hot, scored worse on summaries, and cost more per token in electricity alone."
+    }
+  ]
+}

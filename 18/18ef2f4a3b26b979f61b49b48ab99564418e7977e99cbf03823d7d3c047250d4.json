@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.podsnap.com/feed/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.podsnap.com/agentic.html",
+      "title": "Performance Enhancement",
+      "description": "I would like to talk to you about black-market, performance-enhancing automotive accessories. I don't know much about them, to be honest, besides a few acronyms that I can't define, but a few hours on the reddits has convinced me that this is more than enough to qualify as an expert. It certainly qualifies me for blog-writing, which Aristotle famously called the \"lowest form of art\" 1 ; ironically"
+    },
+    {
+      "link": "https://blog.podsnap.com/apply.html",
+      "title": "Apply Within - Bringing applicative desugaring to scala for-notation",
+      "description": "Stupidly Obscure Programming in a Troubled Time Since obsessively underlining passages in a tattered copy of Goodbye to Berlin hasn't proven to be the uplifting diversion I was hoping for, I resolved to bash my head against some really complicated scala code that I'm not qualified to write and that nobody is asking for either. So that this exercise in self-abuse could pass for a reasonable use of"
+    },
+    {
+      "link": "https://blog.podsnap.com/rollo.html",
+      "title": "Do you believe in magic?",
+      "description": "Donald Knuth famously opined: “The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming.” I broadly agree. It's incredibly difficult to guess which parts of our code will turn out to be performance bottlenecks, and, conversely, which"
+    }
+  ]
+}

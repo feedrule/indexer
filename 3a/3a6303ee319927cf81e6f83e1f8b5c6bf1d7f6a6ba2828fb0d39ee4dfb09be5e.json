@@ -1,0 +1,20 @@
+{
+  "url": "https://theincredibleholk.org/atom.xml",
+  "posts": [
+    {
+      "link": "https://theincredibleholk.org/blog/2026/08/15/my-prompt-from-1997/",
+      "title": "My Prompt from 1997",
+      "description": "I'm feeling pretty vindicated on behalf of my fourteen-year-old self. Back in 1997, I was nerdy kid who loved computer games, programming, etc. To me the pinnacle of programming was to be a game programmer. I read books like The Black Art of 3D Game Programming and hung out on newsgroups like rec.games.programmer . 1 One day I came across a post entitled \" The BEST Programming Language .\" It posed"
+    },
+    {
+      "link": "https://theincredibleholk.org/blog/2024/08/26/anonymous-impls/",
+      "title": "Anonymous Impls",
+      "description": "I often find myself writing a function that internally defines a struct just so I can implement a trait on it and return that type as an impl Trait . To see what I mean, let's look at a concrete example. We'll write a function that takes an iterator that yields, for example, 1, 2, 3, 4 and returns a new iterator that yields (1, 2), (3, 4). /// Assumes the input iterator yields an even number of el"
+    },
+    {
+      "link": "https://theincredibleholk.org/blog/2024/07/15/two-ways-not-to-move/",
+      "title": "Two Ways Not to Move",
+      "description": "Lately I've been talking to a few people about whether it might be possible to replace the Pin wrapper in Rust with a new Move trait. Pin is one of those things that, while amazing that Rust can express the concept and semantics using just a library type, is not a lot of fun to use. This creates friction in building out Rust's async features because currently doing so increases the opportunities f"
+    }
+  ]
+}

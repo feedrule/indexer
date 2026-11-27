@@ -1,0 +1,20 @@
+{
+  "url": "https://dgsq.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://dgsq.net/2026/07/29/relearning-german/",
+      "title": "Relearning (?) German",
+      "description": "Seit früher in diesem Jahr habe ich wieder versucht, Deutsch zu lernen. Ich wohne im Mittleren Westen, darin wurde Spanisch wahrscheinlich besser für das tägliche Leben sein. Aber ich habe ein paar Jahre an der Schule Deutsch gelernt. Und ich finde, dass ich ein bisschen Deutsch noch verstehen kann. Nicht viel, natürlich (Hochschule war vor fast einem Jahrzehnt und ich habe seitdem quasi nichts au"
+    },
+    {
+      "link": "https://dgsq.net/2026/06/30/gen-ai-arch/",
+      "title": "Gen AI and Architecture",
+      "description": "Almost a decade ago, I was an intern at certain large tech company, working on a team that no longer exists. I was living on the third floor of a house that lodged around 15 other people who temporarily found themselves in Seattle for one reason or another. The standard introduction included our tech stack, and so it went when one other transient arrived one day: \"I work on robotics firmware\", \"I"
+    },
+    {
+      "link": "https://dgsq.net/2026/05/06/why-not-sparse/",
+      "title": "Why not sparse?",
+      "description": "I was talking with a colleague the other day about the current industry trend to focus so much on further quantizing today's LLM models. I'm sure the reasons for pursuing quantization are apparent to most people who work in this industry: going from BF16 to FP8 or NVFP4 nets what amounts to a nearly 2x or 4x reduction in memory requirements and often a similar speedup. But I can't shake the feelin"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://algoroxyolo.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what/",
+      "title": "Knowing How Is Not Knowing What",
+      "description": "What RL environments need to supply: organizational context, domain rules and connected information."
+    },
+    {
+      "link": "https://algoroxyolo.github.io/blog/2026/chameleon-limit/",
+      "title": "The Chameleon’s Limit: Why LLM Persona Populations Collapse",
+      "description": "A summary of our preprint. We measure persona collapse across 10 LLMs and 1,144 personas, and show that better per-persona fidelity often makes population diversity worse."
+    },
+    {
+      "link": "https://algoroxyolo.github.io/blog/2026/ai-welfare-is-bullshit/",
+      "title": "AI Welfare Is Bullshit: Why Co-Engineered Metrics Cannot Govern Machine Suffering",
+      "description": "A summary of our position paper. We argue AI welfare assessment fails for two structural reasons: indicators are co-engineered with the systems they evaluate, and there is no external validation channel that can falsify them."
+    }
+  ]
+}

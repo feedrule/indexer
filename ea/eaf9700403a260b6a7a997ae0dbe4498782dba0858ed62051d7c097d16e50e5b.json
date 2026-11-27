@@ -1,0 +1,20 @@
+{
+  "url": "https://lithostech.com/feed.xml",
+  "posts": [
+    {
+      "link": "http://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
+      "title": "Decrypting Flume Water Monitor Traffic",
+      "description": "In my previous post, I tore apart a Flume water monitor and traced its communication path from the sensor, through the bridge, and up to Flume’s cloud MQTT server. I identified the encryption library (LibHydrogen), extracted a firmware ELF, and even managed to coerce the bridge into sending plaintext by corrupting the public key in flash. But that approach was destructive; the bridge couldn’t comp"
+    },
+    {
+      "link": "http://lithostech.com/2024/12/diving-into-flume-water-monitor/",
+      "title": "Diving Into the Flume Water Monitor",
+      "description": "About a year ago, I bought a smart home water monitor in order to keep an eye my water use at home. The city where I live provides a big rebate on one particular device from San Luis Obispo company Flume. I was immediately curious about how this device could work and was excited to open the box when it arrived and inspect the contents. There are two hardware components in this system. One componen"
+    },
+    {
+      "link": "http://lithostech.com/2024/02/improved-garage-door-automation/",
+      "title": "Improved Garage Door Automation",
+      "description": "In 2023, I managed to integrate my garage doors with HomeAssistant using a Shelly Uni device. Controlled remote operation is pretty great, but I wanted to document this project because this solution covers remote door control, door state and even door light control is possible, using a single $12 device with no batteries required. The setup is easy to achieve, and leaves all the garage door opener"
+    }
+  ]
+}

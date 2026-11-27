@@ -1,0 +1,20 @@
+{
+  "url": "https://redstack.dev/feed/",
+  "posts": [
+    {
+      "link": "https://redstack.dev/2026/11/05/what-the-go-and-java-benchmark-really-says-about-choosing-a-runtime/",
+      "title": "What the Go and Java Benchmark Really Says About Choosing a Runtime",
+      "description": "Key Takeaways You have the benchmark results now. Article 9 reported results for a compact Go net/http service and a Helidon SE Java service running on two measured Oracle JDK runtime shapes. So the question becomes the one teams actually … Continue reading →"
+    },
+    {
+      "link": "https://redstack.dev/2026/11/03/go-and-java-service-tier-benchmark-results-for-oracle-ai-database-backed-applications/",
+      "title": "Go and Java Service-Tier Benchmark Results for Oracle AI Database-Backed Applications",
+      "description": "Key Takeaways A service tier in front of Oracle AI Database can sit directly in the hot path. It might validate requests before calling vector search, enrich context before a model call, serve retrieval results to an AI application, or … Continue reading →"
+    },
+    {
+      "link": "https://redstack.dev/2026/10/30/how-we-analyze-benchmark-data-before-claiming-anything/",
+      "title": "How We Analyze Benchmark Data Before Claiming Anything",
+      "description": "Key Takeaways If you have ever read a benchmark post and thought, the chart is clean, but I still do not trust it, this is probably the missing layer. Most benchmark arguments sound like methodology arguments, but a lot of … Continue reading →"
+    }
+  ]
+}

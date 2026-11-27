@@ -1,0 +1,20 @@
+{
+  "url": "https://infrahouse.com/index.xml",
+  "posts": [
+    {
+      "link": "https://infrahouse.com/blog/2026-07-19-gcp-without-static-keys/",
+      "title": "GCP Without Static Keys: How to Authenticate EC2 and GitHub Actions",
+      "description": "We run OpenVPN so employees can reach internal resources. Authentication goes through Google Workspace. An employee with a Google account opens the VPN portal, downloads a config with a client certificate, and connects."
+    },
+    {
+      "link": "https://infrahouse.com/blog/2026-07-18-a-container-that-couldnt-see-its-gpu/",
+      "title": "A Container That Couldn't See Its GPU: Autoscaling GPU Workloads on ECS",
+      "description": "We shipped GPU autoscaling for our ECS module. Version 8.3.0 added a target-tracking policy that scales the service on GPU utilization, and a CloudWatch dashboard to watch it work. I opened the dashboard on a live fleet, and every GPU panel said the same thing: No data available. The scaling policy that reads the same metric sat in INSUFFICIENT_DATA . The alarm had never seen a single datapoint."
+    },
+    {
+      "link": "https://infrahouse.com/blog/2026-07-14-model-download-disk-bound/",
+      "title": "Your model download is disk-bound, not network-bound",
+      "description": "The last post ended with a number and a promise. We had measured three ways to hand a 16 GiB model to a fleet; pointing every node at S3 won, flat at ~207 s whether the fleet was 4 nodes or 32. Then we took the artificial cap off to see how fast a node really pulls, and it stopped at 1.05 Gbit/s — which is 131 MB/s, which is the default throughput of a gp3 root volume. We had spent the whole exerc"
+    }
+  ]
+}

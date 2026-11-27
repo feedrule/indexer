@@ -1,0 +1,20 @@
+{
+  "url": "https://sploit.tech/feed.xml",
+  "posts": [
+    {
+      "link": "http://sploit.tech/2026/05/19/Sparx-Enterprise-Architect-PCS.html",
+      "title": "Multiple vulnerabilities in Sparx Pro Cloud Server and Enterprise Architect",
+      "description": "General information"
+    },
+    {
+      "link": "http://sploit.tech/2024/12/24/CTFd.html",
+      "title": "Multiple vulnerabilities in CTFd",
+      "description": "Multiple vulnerabilities in CTFd version <= 3.7.4"
+    },
+    {
+      "link": "http://sploit.tech/2020/12/29/Gotenberg.html",
+      "title": "Gotenberg - unauthenticated code exec",
+      "description": "Multiple vulnerabilities in Gotenberg (a Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF used as a microservice) version <=6.2.0 allow a remote unauthenticated attacker to execute any command within Docker container."
+    }
+  ]
+}

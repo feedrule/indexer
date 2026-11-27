@@ -1,0 +1,20 @@
+{
+  "url": "https://artem.krylysov.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/",
+      "title": "How MVCC and Transactions Work in RocksDB",
+      "description": "RocksDB is built on an LSM-tree, which never modifies data in-place - every write creates a new version of the key. That's half of what you need to implement Multi-Version Concurrency Control ( MVCC ). Real-world databases serve many clients reading and writing the same data at the same time. The simplest way to make concurrent access safe is locking (think of a hash map protected with a mutex). T"
+    },
+    {
+      "link": "https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/",
+      "title": "Timeseries Indexing at Scale",
+      "description": "Note This blog post was co-authored with May Lee and is cross-posted on the Datadog blog . Datadog collects billions of events from millions of hosts every minute and that number keeps growing and fast. Our data volumes grew 30x between 2017 and 2022. On top of that, the kind of queries we receive from our users has changed significantly. Why? Because our customers have grown in sophistication: th"
+    },
+    {
+      "link": "https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/",
+      "title": "How RocksDB works",
+      "description": "Introduction # Over the past years, the adoption of RocksDB increased dramatically. It became a standard for embeddable key-value stores. Today RocksDB runs in production at Meta, Microsoft , Netflix , Uber . At Meta RocksDB serves as a storage engine for the MySQL deployment powering the distributed graph database. Big tech companies are not the only RocksDB users. Several startups were built aro"
+    }
+  ]
+}

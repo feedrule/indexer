@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.laragent.ai/rss/",
+  "posts": [
+    {
+      "link": "https://blog.laragent.ai/new-in-laragent-automatic-provider-failover-and-smarter-tool-development/",
+      "title": "New in LarAgent: Automatic Provider Failover and Smarter Tool Development",
+      "description": "LarAgent v1.0 marked the package as production-ready. Now, v1.1 and v1.2 push things further — with automatic provider failover, smarter tool development using DataModels, and flexible identity management for multi-tenant apps. Let's dive into what's new. 🔄 Multi-Provider Fallback What"
+    },
+    {
+      "link": "https://blog.laragent.ai/laragent-v1-0-production-ready-ai-agents-for-laravel/",
+      "title": "LarAgent v1.0 - Production-Ready AI Agents for Laravel",
+      "description": "This major release takes LarAgent to the next level - focused on structured responses, reliable context management, richer tooling, and production-grade agent behavior. Designed for both development teams and business applications where predictability, observability, and scalability matter 🛠️ Structured Outputs with DataModel LarAgent introduces DataModel-based structured responses, moving"
+    },
+    {
+      "link": "https://blog.laragent.ai/how-to-build-a-self-refining-content-agent-with-laragent/",
+      "title": "How to Build a Self-Refining Content Agent with LarAgent",
+      "description": "We've all been there: you ask an AI to write a LinkedIn post, and it gives you something... okay. Not great, just okay. It's a bit generic, maybe too enthusiastic, or it misses the nuance of your brand voice. So you rewrite the prompt. \"Make"
+    }
+  ]
+}

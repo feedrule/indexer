@@ -1,0 +1,20 @@
+{
+  "url": "https://kvark.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "http://kvark.github.io/application/2026/09/18/starcom.html",
+      "title": "Starcom: remote terminal session commander",
+      "description": "Following up on the desktop app adventure started by FileMan , I want to tell you about StarCom . I had a problem: having multiple machines at home connected to the network and doing useful work. How do I keep track of what every one of them is doing and how do I make it persistent? I had to learn tmux , and for a while it seemed to be the solution. Just having sessions working on those machines,"
+    },
+    {
+      "link": "http://kvark.github.io/ai/robotics/2026/07/12/feeding-the-data-monster.html",
+      "title": "Feeding the data monster",
+      "description": "Prompted by presentations from Humanity & AGI Summit 2026: Robotics for Future Civilization , I sketched out a few strategies to train the robots. I don’t do this at work and by no means express the opinions of my employer here. The distinct strategies on my list are presented in the order from more realistic to more distant fantasy. The lack of data is often named as one of the showstoppers for r"
+    },
+    {
+      "link": "http://kvark.github.io/ar/2026/07/12/ar-explosion.html",
+      "title": "AR explosion",
+      "description": "AR technology is going through a lot of turbulence. Meta is not releasing a successor to Quest 3 (and no longer selling it to businesses), despite it being a popular device and making VR/AR entertainment affordable for many people. It laid off 10% of Reality Labs recently. I think it’s the calm before the storm. My bet is that the world of personal assistant electronics will change once this devic"
+    }
+  ]
+}

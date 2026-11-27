@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.gpkb.org/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.gpkb.org/posts/thoughts-on-thinking/",
+      "title": "Thoughts on Thinking",
+      "description": "I’ve been meaning to write down my thoughts about AI, specifically as it relates to programming, for a while now, but it has never seemed like the right time. Things have been changing rapidly since I first installed an “AI agent” on my PC 14 months ago. Every time I felt I’d gathered my thoughts, something changed: a new model, a new breakthrough, new techniques. It still doesn’t feel like the ri"
+    },
+    {
+      "link": "https://blog.gpkb.org/posts/reset-ideal-halo-thermostat/",
+      "title": "Resetting an Ideal Halo Zigbee Thermostat",
+      "description": "I recently bought a house with an Ideal boiler and a wireless thermostat called a “Halo”. The boiler has a “Halo Smart Interface” fitted into it, which should tell the boiler when to fire. The Halo itself contains the thermostat and communicates with the Smart Interface using Zigbee. During some decorating work the thermostat became disconnected from the boiler. This really confused the boiler, ca"
+    },
+    {
+      "link": "https://blog.gpkb.org/posts/homelab-2025/",
+      "title": "My Homelab",
+      "description": "It’s been about eight years since I started running network services in my home. It all started with Pi-hole , which I ran not on a Raspberry Pi, but an Atom-powered Dell Mini “thin client” I acquired from eBay. Today I run a lot more and it’s become what is now known as a Homelab. I’m quite fond of it all, so thought I might as well write about it. NAS I built my NAS around five years ago. At the"
+    }
+  ]
+}

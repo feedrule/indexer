@@ -1,0 +1,20 @@
+{
+  "url": "https://alex000kim.com/index.xml",
+  "posts": [
+    {
+      "link": "https://alex000kim.com/posts/2026-04-26-harness-engineering/",
+      "title": "You've Been Doing Harness Engineering All Along",
+      "description": "If you used LLMs for coding before the coding agents (~prior to Claude Code release in Feb last year), and if you got annoyed with typing the same context into LLM chat boxes, you’d start saving it into per-project markdown files. Many of those who used LLMs heavily ended up doing this eventually. Then we got Claude Code and other agents, and by mid-summer, this technique got formalized as the AGE"
+    },
+    {
+      "link": "https://alex000kim.com/posts/2026-04-23-reddit-cooking-tips/",
+      "title": "I sent an AI agent to explore Reddit for cooking tips",
+      "description": "I find Reddit is one of the best sources for practical cooking tips. I’m subscribed to a few cooking subreddits, and every once in a while I come across something curious enough to try. Most of the time the advice works wonders. I decided to give an AI agent a task: explore Reddit’s cooking and baking communities for useful, unconventional tips that are highly upvoted and community-verified. It we"
+    },
+    {
+      "link": "https://alex000kim.com/posts/2026-04-20-lessons-from-going-solo/",
+      "title": "Lessons from going solo",
+      "description": "A large percentage of people I hang out with work in tech. Most of them have only ever known salaried 9-to-5 jobs. Every few months, someone asks me how I ended up doing independent consulting. These conversations have become more frequent in the last year or so. AI-driven (or at least AI-justified) layoffs have tech workers worried about job security for the first time in a while. None of the adv"
+    }
+  ]
+}

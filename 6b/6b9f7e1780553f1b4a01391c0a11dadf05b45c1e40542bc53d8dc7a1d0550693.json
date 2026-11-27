@@ -1,0 +1,20 @@
+{
+  "url": "https://corion.net/blog/index.rss",
+  "posts": [
+    {
+      "link": "https://corion.net/blog/2026/11/23/ancient-perl-agent/",
+      "title": "Old Agent (Perl)",
+      "description": "Link: https://github.com/kristopolous/old-agent This is an LLM agent, written in pure Perl 5.006 with zero (non-core) dependencies. I guess the stated aim is good. You run this agent on a target machine that you want something done on. And since it uses Perl 5.006, and Perl has been fairly stable in the last 25 years, in the sense that code written for Perl 5.006 still compiles and runs today, you"
+    },
+    {
+      "link": "https://corion.net/blog/2026/11/22/htmx-patterns-dynamic-dropdown-menu-with-bootstrap-5/",
+      "title": "HTMX Patterns: Dynamic dropdown menu with Bootstrap 5",
+      "description": "After doing some more development with HTMX 4.0 , I find myself creating a list of patterns that I reuse, as somehow constructing them from first principles is more fiddly than I initially think, every time. I'm using HTMX 4.0 for the interactivity with Bootstrap 5.3 for the CSS styling. For the showcase, I'm using Perl and Mojolicious, but the approach obviously works elsewhere too. Dynamic dropd"
+    },
+    {
+      "link": "https://corion.net/blog/2026/11/20/image-of-the-week/",
+      "title": "Image of the Week",
+      "description": "Some more pictures I took on a trip to Myanmar in 2012. This time it is more about art imitating life. This was long before Ubisoft created all-sameish games in different settings. Tags: Photography"
+    }
+  ]
+}

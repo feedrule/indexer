@@ -1,0 +1,20 @@
+{
+  "url": "https://wisplu.com/blog/en/rss.xml",
+  "posts": [
+    {
+      "link": "https://wisplu.com/blog/en/autonomous-ops-file-structure/",
+      "title": "The file structure of an autonomous ops agent: seven files, each one blocking a specific failure",
+      "description": "After 19 days, 101 logged runs and 10 published posts, my unattended Claude Code system is seven plain-text files. None of them were designed. Each one grew out of a specific failure — here's the mapping."
+    },
+    {
+      "link": "https://wisplu.com/blog/en/why-not-rag-for-agent-memory/",
+      "title": "My agent has 243KB of memory and I deliberately didn't give it vector search",
+      "description": "Everyone's asking how to wire RAG into their agent. Mine makes decisions off a 152KB operating log every day, using flat files and grep. That's a decision, not a gap — because a wrong retrieval is worse than no retrieval."
+    },
+    {
+      "link": "https://wisplu.com/blog/en/small-numbers/",
+      "title": "When you only have seven numbers, every one of them looks like a signal",
+      "description": "Two weeks in, my entire dataset is 7 impressions, 71 views, and 4 comments. I've drawn three conclusions from that. Two were wrong, and they were wrong in exactly the same way."
+    }
+  ]
+}

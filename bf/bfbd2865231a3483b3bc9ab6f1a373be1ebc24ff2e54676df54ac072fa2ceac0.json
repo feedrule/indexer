@@ -1,0 +1,20 @@
+{
+  "url": "https://www.cbaines.net/index.atom",
+  "posts": [
+    {
+      "link": "https://www.cbaines.net/posts/announcing_guile_automate/",
+      "title": "Guile Automate - Build and run pipelines",
+      "description": "Background For a while now I've wanted a tool to help in a number of areas: Running tests and building docs when I push to Git repositories Reconfiguring Guix machines when I update the configuration in Git Orchestrating testing for Guix patches/branches/Pull Requests, fixing some of the issues with the QA Frontpage Many years ago I used Jenkins , I even remember trying to write some Groovy code f"
+    },
+    {
+      "link": "https://www.cbaines.net/posts/freenode_live_2018/",
+      "title": "Freenode #live 2018",
+      "description": "Freenode #live happened again, and like last year , it was in Bristol over the weekend. Unlike last year, I'm not doing a talk, but this year I did head out to Bristol on the Thursday to allow some time before the conference begun on Saturday to do some exploring. On the Thursday Walking up to the Clifton Suspension Bridge was great. I crossed to the west of the river, walked up to the bridge and"
+    },
+    {
+      "link": "https://www.cbaines.net/posts/guile_knots_resource_pools/",
+      "title": "Programming for the web with Guile Knots resource pools",
+      "description": "On the internet, anyone can make a request to your web service. Especially in this time of abusive web crawling linked to AI/LLM companies, it's essential to program in a defensive style and stay in control, even when faced with a volume of requests that can't be handled. If you don't prepare, requests might start backing up, the impact might spread to services your service uses, the process itsel"
+    }
+  ]
+}

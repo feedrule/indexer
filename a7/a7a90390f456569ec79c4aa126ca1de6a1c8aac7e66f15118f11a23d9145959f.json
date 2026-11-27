@@ -1,0 +1,20 @@
+{
+  "url": "https://www.frimin.fr/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://frimin.fr/posts/freebsd-on-ovh/",
+      "title": "FreeBSD on an OVH dedicated server",
+      "description": "I run FreeBSD on an OVH dedicated server. It took me a long time to get a setup that works well there, one small setting at a time. This post collects all of them. The install OVH no longer offers FreeBSD in its installation catalog, so you are on your own from the install. I attached the FreeBSD ISO as a virtual device in the KVM of the control panel, booted it, and ran the installer by hand. Roo"
+    },
+    {
+      "link": "https://frimin.fr/posts/torrents-through-mullvad/",
+      "title": "Torrents through Mullvad on FreeBSD",
+      "description": "I run Transmission on FreeBSD. For privacy reasons, I do not want it to announce one of my public IP addresses to every peer of every torrent. The usual answer is to put the whole machine behind a VPN. I cannot do that: the other services of the server must answer on its public addresses. So only the peer-to-peer traffic of Transmission goes through Mullvad , over WireGuard, and everything else ke"
+    },
+    {
+      "link": "https://frimin.fr/posts/mail-is-not-that-hard/",
+      "title": "Mail is not that hard",
+      "description": "I have hosted my own mail for frimin.fr since 2019, today on a single FreeBSD machine. Friends told me self-hosted mail is too hard. Setting it up takes some work, but running it takes almost none. I started after reading this post by Gilles Chehade, which convinced me to stop giving my mail to a big provider. My first setup followed his next post with OpenSMTPD, Dovecot and Rspamd. Thanks to him!"
+    }
+  ]
+}

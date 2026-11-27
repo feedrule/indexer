@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.broulik.de/feed/",
+  "posts": [
+    {
+      "link": "https://blog.broulik.de/2026/11/its-spectacular/",
+      "title": "It’s Spectacular",
+      "description": "Spectacle is KDE’s versatile screenshot tool. It lets you take screenshots and screencasts, including system and microphone audio. You can add annotations (arrows, circles, text, etc) to screenshots, find QR codes in them, extract text, and then copy it to clipboard, share it to social media or elsewhere. Having lots of features comes with a … Continue reading It’s Spectacular"
+    },
+    {
+      "link": "https://blog.broulik.de/2026/10/red-diff-is-good-diff/",
+      "title": "Red Diff is Good Diff",
+      "description": "A patch-set that removes more code than it adds is always much appreciated. Code that doesn’t exist cannot have bugs after all! KWin, our fantastic Wayland compositor and window manager, like many others, has an Alt+Tab switcher (“tabbox”) for quickly cycling between windows. Of course having been created by KDE, there’s plenty of options for … Continue reading Red Diff is Good Diff"
+    },
+    {
+      "link": "https://blog.broulik.de/2026/08/reworking-ksshaskpass/",
+      "title": "Reworking KSSHAskPass",
+      "description": "KDE has a little utility called ksshaskpass that is invoked by SSH to prompt the user for credentials. It can then store them in KDE Wallet so you don’t have to type them again next time. The other day I had to set up an elaborate SSH configuration with jump hosts and what not and … Continue reading Reworking KSSHAskPass"
+    }
+  ]
+}

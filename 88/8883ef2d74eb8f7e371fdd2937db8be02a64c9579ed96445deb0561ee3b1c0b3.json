@@ -1,0 +1,20 @@
+{
+  "url": "https://tuxnet.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://tuxnet.dev/posts/tls-for-internal-services-vol2/",
+      "title": "TLS certificates for internal services done SIMPLER",
+      "description": "Follow-up for \"done right\" that could be titled \"done GOOD ENOUGH\""
+    },
+    {
+      "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "title": "TLS certificates for internal services done right",
+      "description": "No self-signing headaches, no TLS erros."
+    },
+    {
+      "link": "https://tuxnet.dev/posts/stretch-cluster-k3s/",
+      "title": "Stretch Kubernetes cluster with K3S and Netbird",
+      "description": "How to achieve multi node k8s cluster with it's own VPC build on top of raspberry pis?"
+    }
+  ]
+}

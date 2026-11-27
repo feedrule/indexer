@@ -1,0 +1,20 @@
+{
+  "url": "https://thanpol.as/atom.xml",
+  "posts": [
+    {
+      "link": "https://thanpol.as/engineering/context-driven-engineering",
+      "title": "Context-Driven Engineering: A Paradigm Shift for Teams Building with LLMs",
+      "description": "What happens when you give a powerful code generator unbounded access to a codebase with no explicit context. And how to fix it."
+    },
+    {
+      "link": "https://thanpol.as/rants/principles-of-code-quality",
+      "title": "Principles Of Code Quality",
+      "description": "Tooling evolves, styling changes, languages come and go — but one thing remains constant: the pursuit of quality code and engineering excellence."
+    },
+    {
+      "link": "https://thanpol.as/nodejs/why-logs-are-important-introducing-logality",
+      "title": "Why Logs are Important, Introducing Logality",
+      "description": "Introducing Logality, a Node.js logger with powerful features and capabilities."
+    }
+  ]
+}

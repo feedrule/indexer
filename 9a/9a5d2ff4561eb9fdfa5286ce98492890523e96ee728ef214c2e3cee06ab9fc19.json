@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.yadutaf.fr/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+      "title": "Introduction to UEFI HTTP(S) boot with Qemu/OVMF",
+      "description": "The historic go-to solution for network booting is PXE. PXE is based on DHCP and TFTP. It is tricky to correctly configure, even trickier to make it highly available and good luck with the security with this clear-text unsigned protocol. The modern web has long standardized on HTTPS with TLS certificates for server authentication, integrity and confidentiality. Moreover, highly available setups ar"
+    },
+    {
+      "link": "https://blog.yadutaf.fr/2025/09/16/creating-a-yogurt-phone-with-netkit-ebpf/",
+      "title": "Creating a Linux “Yogurt-phone” — with netkit and a grain of eBPF",
+      "description": "This post is the second in a 2 part series: Part 1: Introduction to Linux Netkit interfaces . Part 2: Creating a Linux “Yogurt-phone” — with netkit and a grain of eBPF (This post) A “Yogurt-phone” is a simple children science experiment where young experimenters connect two phones through a thread or wire. They can then talk together using the Yogurt pots as ends of a phone line. This is nice intr"
+    },
+    {
+      "link": "https://blog.yadutaf.fr/2025/07/01/introduction-to-linux-netkit-interfaces-with-a-grain-of-ebpf/",
+      "title": "Introduction to Linux Netkit interfaces — with a grain of eBPF",
+      "description": "This post is the first in a 2 part series: Part 1: Introduction to Linux Netkit interfaces — with a grain of eBPF (This post) Part 2: Creating a Linux “Yogurt-phone” — with netkit and a grain of eBPF If you are reading this, chances are you are already familiar with Linux’s veth interfaces. If not, you can think of it as a virtual Ethernet cable for Linux which is capable of crossing a network nam"
+    }
+  ]
+}

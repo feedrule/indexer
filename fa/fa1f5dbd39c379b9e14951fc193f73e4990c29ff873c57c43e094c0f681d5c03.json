@@ -1,0 +1,20 @@
+{
+  "url": "https://thetheoreticaldiver.org/wordpress/index.php/feed/",
+  "posts": [
+    {
+      "link": "https://thetheoreticaldiver.org/wordpress/index.php/2026/11/06/what-does-it-take-to-predict-a-bubble-grade/",
+      "title": "What does it take to predict a bubble grade?",
+      "description": "I came across a paper “Predicting Post-Dive Inert Gas Bubble Grades in Non-Decompression Scuba Diving with Air: Simplified Model for Enhanced Diver Safety” by Andreas Fichtner etal. They take another approach to the problem that in typical diving situations, DCS rates are so low that you would need a huge number of controlled dives to … Continue reading \"What does it take to predict a bubble grade"
+    },
+    {
+      "link": "https://thetheoreticaldiver.org/wordpress/index.php/2026/10/25/php-troubles/",
+      "title": "PHP Troubles",
+      "description": "The recently published PHP vulnerabilities also affected this host (as, unfortunately, wordpress is written in PHP). I did not update the debian system on TheTheoreticalDiver for far too long. The price was that it did not have the required updates for PHP available anymore and thus I had to update the Debian first. Which resulted … Continue reading \"PHP Troubles\""
+    },
+    {
+      "link": "https://thetheoreticaldiver.org/wordpress/index.php/2026/05/09/statistics-is-hard-to-get-right/",
+      "title": "Statistics is hard to get right",
+      "description": "What factors influence the probability of a dive leading to DCS? Many of us would love to know the answer to that question. Wouldn’t it be great if we had a huge database of dives with depth profiles and lots of additional data of many different divers, together with information if those dives led to … Continue reading \"Statistics is hard to get right\""
+    }
+  ]
+}

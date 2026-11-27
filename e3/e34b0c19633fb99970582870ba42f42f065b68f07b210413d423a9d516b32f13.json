@@ -1,0 +1,20 @@
+{
+  "url": "https://my127001.pl/en/feed",
+  "posts": [
+    {
+      "link": "https://my127001.pl/en/which-2fa-can-be-bypassed-sms-authenticator-apps-push-and-passkeys-multi-factor-authentication-in-numbers-2026",
+      "title": "Which 2FA Can Be Bypassed? SMS, Authenticator Apps, Push and Passkeys – Multi-Factor Authentication in Numbers (2026)",
+      "description": "Today’s post is a cautionary tale for everyone who breathed a sigh of relief after turning on 2FA. Microsoft estimates that a second factor reduces the risk of account takeover by more than 99%. At the same time, Proofpoint shows that in 59% of companies where accounts were taken over, the victims had MFA enabled. How is that possible? I gathered the numbers: SIM swaps, $120 phishing kits, record"
+    },
+    {
+      "link": "https://my127001.pl/en/windows-vs-linux-vs-macos-security-in-numbers",
+      "title": "Windows vs Linux vs macOS – which operating system is the most secure? The 2026 numbers",
+      "description": "Today’s post is an attempt to settle the oldest argument in IT: Windows, Linux or Mac? Instead of opinions, I gathered the numbers from 2025 and 2026: how many vulnerabilities each system gets, how many of them are actually exploited in attacks, how much malware is written for each platform, how fast vendors patch, and how many people (and how much money) stand behind it all. The result is surpris"
+    },
+    {
+      "link": "https://my127001.pl/en/android-vs-iphone-which-is-more-secure-cves-zero-days-exploit-prices-and-patch-speed-in-numbers-2026",
+      "title": "Android vs iPhone: Which Is More Secure? CVEs, Zero-Days, Exploit Prices and Patch Speed in Numbers (2026)",
+      "description": "Today’s post answers the question I hear more than any other: “Michał, iPhone or Android?”. Instead of opinions, I gathered numbers: 501 vs 317 CVEs, 15 zero-days used in attacks on phones in 2025, 70 vs 72 days to patch according to Project Zero, $7M for an iPhone exploit and $5M for Android, 16% vs 8% of devices hit by a phishing attempt. There’s also the fresh Pwn2Own, where the Pixel 10 fell t"
+    }
+  ]
+}

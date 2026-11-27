@@ -1,0 +1,20 @@
+{
+  "url": "https://engineering.fb.com/category/web/feed/",
+  "posts": [
+    {
+      "link": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "title": "How Meta Built Forum With AI-Native Engineering",
+      "description": "Meta’s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We’re sharing insights into what it took to build Forum with agentic AI: how we [...] Read More... The post How Meta Built Forum With AI-Native Engineering appeared first"
+    },
+    {
+      "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+      "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+      "description": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We’re sharing how we shipped MoQ on Instagram Live ingest, and what the future looks like from here. [...] Read More... The post Shipping Media Over QUIC at Meta Scale"
+    },
+    {
+      "link": "https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/",
+      "title": "CSS at Scale With StyleX",
+      "description": "Build a large enough website with a large enough codebase, and you’ll eventually find that CSS presents challenges at scale. It’s no different at Meta, which is why we open-sourced StyleX, a solution for CSS at scale. StyleX combines the ergonomics of CSS-in-JS with the performance of static CSS. It allows atomic styling of components [...] Read More... The post CSS at Scale With StyleX appeared f"
+    }
+  ]
+}

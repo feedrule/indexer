@@ -1,0 +1,20 @@
+{
+  "url": "https://vulns.xyz/feed.xml",
+  "posts": [
+    {
+      "link": "https://vulns.xyz/2025/12/2025-wrapped/",
+      "title": "2025 wrapped",
+      "description": "Same as last year , this is a summary of what I’ve been up to throughout the year. See also the recap/retrospection published by my friends ( antiz , jvoisin , orhun ). Uploaded 467 packages to Arch Linux Most of them being reproducible , meaning I provably didn’t abuse my position of compiling the binaries 35 of them are signal-desktop 29 of them are metasploit Made 53 uploads to Debian All of th"
+    },
+    {
+      "link": "https://vulns.xyz/2025/09/rebuilderd-v0.25.0/",
+      "title": "Release: rebuilderd v0.25.0",
+      "description": "rebuilderd v0.25.0 was recently released, this version has improved in-toto support for cryptographic attestations that this blog post briefly outlines. 😺 As a quick recap, rebuilderd is an automatic build scheduler that emerged in 2019/2020 from the Reproducible Builds project doing the following: Track binary packages available in a Linux distribution Attempt to compile the official binary packa"
+    },
+    {
+      "link": "https://vulns.xyz/2024/12/2024-wrapped/",
+      "title": "2024 wrapped",
+      "description": "Dear blog. This post is inspired by an old friend of mine who has been writing these for the past few years. I meant to do this for a while now, but ended up not preparing anything, so this post is me writing it from memory. There’s likely stuff I forgot, me being gentle with myself I’ll probably just permit myself to complete this list the next couple of days. I hate bragging, I try to not depend"
+    }
+  ]
+}

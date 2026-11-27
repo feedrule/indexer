@@ -1,0 +1,20 @@
+{
+  "url": "https://jaredforsyth.com/posts/rss.xml",
+  "posts": [
+    {
+      "link": "https://jaredforsyth.com/posts/lens-on-linearity-field-notes/",
+      "title": "Laminar Field Nodes: Implementing Linear Flow Typing",
+      "description": "For an overview of the paper this is based on, check out this post . Here are my notes about trying to implement a linear/flow language in typescript, compiling to javascript. It uses runtime checks to enforce lienarity; so far there is no type checker. 5 minute read"
+    },
+    {
+      "link": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
+      "title": "Papers We Love: Flow Typing, A New Lens on Linearity",
+      "description": "In my various efforts to develop new programming languages, I’ve occasionally looked sidelong at linear types, as something that looks like it could be really useful if it wasn’t so incredibly cumbersome. And now some folks have come up with a way to make them much easier to use [^1]! Or at least that’s the hope. This past week I’ve been trying to implement their execution model into a new program"
+    },
+    {
+      "link": "https://jaredforsyth.com/posts/dosido-release/",
+      "title": "Automate typescript refactors with dosido",
+      "description": "I don’t know about you, but my personal projects often metastasize. I start going in one direction, and after a while I’ve learned a lot about what I really want so I start a fresh implementation in a new subfolder, and along the way I’m building tools and libraries as I discover I need them. After a while it’s a tangled mess, where the production app uses maybe 30% of the code, and there are at l"
+    }
+  ]
+}

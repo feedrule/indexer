@@ -1,0 +1,20 @@
+{
+  "url": "https://jch254.com/rss",
+  "posts": [
+    {
+      "link": "https://jch254.com/blog/studio-spotify-labs-would-not-name-its-model/",
+      "title": "Studio by Spotify Labs Would Not Name Its Model but Its Log File Did",
+      "description": "Studio's agent is told never to name its model, even if you try to confirm it. That rule held the whole time. The model identity leaked anyway, out of a log file the rule has no authority over. The gap between those two facts is the story."
+    },
+    {
+      "link": "https://jch254.com/blog/claude-session-survived-reinstall/",
+      "title": "The Claude Tag Session That Survived a Reinstall",
+      "description": "One channel's Claude in Slack session pinned a six-day-old connector config and silently ignored every change after it. Removing and reinstalling the app didn't touch it. The rollout turned into a security rebuild."
+    },
+    {
+      "link": "https://jch254.com/blog/the-way-of-code-principles-against-how-i-build/",
+      "title": "The Way of Code Against Production",
+      "description": "Rick Rubin rewrote the Tao Te Ching as vibe-coding aphorisms. Some of it maps cleanly to how I build. Some of it falls apart the moment a pager goes off."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://onlyamodel.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://onlyamodel.com/blog/2026/ratchet-problem-asymmetric-risk/",
+      "title": "The ratchet problem: on asymmetric risk",
+      "description": "On asymmetric risk, ratchet effects, and what to do when it's easier to take a step than to recover from it."
+    },
+    {
+      "link": "https://onlyamodel.com/blog/2020/repetitive-strain-injury-rsi/",
+      "title": "My experience preventing and managing RSI (n=1)",
+      "description": "Yet another story of typing-related repetitive strain injury (RSI) and what did/didn’t work for me in my journey out of it. I am not a doctor. This is not medical advice. YMMV. RSI is one of those things that turned out to be more serious than I thought at first and warrants significant intervention if it shows up. At the lower end of the spectrum, you deal with frequent pain while working. At the"
+    },
+    {
+      "link": "https://onlyamodel.com/blog/2020/case-sensitive-multiselect-in-VSCode/",
+      "title": "Case-sensitive multiselect in VS Code",
+      "description": "When I use multiselect (aka multiple cursor selection) in VS Code via Cmd+D (which is constantly), I usually prefer case-sensitive behavior when refactoring and finding things I can edit in-place at once. When I search via Cmd+F, I often prefer case-insensitive behavior as I’m looking for logic related to a word (could be a foo_bar or FooBar and I want Cmd+F, foo to find both)."
+    }
+  ]
+}

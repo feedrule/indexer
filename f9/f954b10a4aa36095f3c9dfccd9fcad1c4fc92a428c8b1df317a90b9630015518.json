@@ -1,0 +1,20 @@
+{
+  "url": "https://alperenkeles.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "title": "Formal Verification is Not Verifiable",
+      "description": "AI is making formal verification go mainstream... ...I wrote in December 2025 , well, after the last 12 months I believe it is hard to argue otherwise. AI has made formal verification go mainstream. Not only did the number of formal verification startups skyrocket, Claude also wrote a billion lines of Rocq for a single verification project, everyone from the creator of Claude Code to the Vercel CE"
+    },
+    {
+      "link": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+      "title": "Bug Finding Considered Harmful?",
+      "description": "…is a question I’ve been asking for a week now, while developing a new property-based testing (PBT) tool in the meantime if you’re one to appreciate irony. As you know, a title with a question usually means the answer is no ; but I wouldn’t expect I would ever be in a position to ask the question in the 6 years of working on this, so I thought it’s worth a discussion. Let me step back a bit though"
+    },
+    {
+      "link": "https://alperenkeles.com/posts/gwu-psc-cs-101/",
+      "title": "CS 101 for Political Scientists",
+      "description": "These are the lecture notes for the introduction to computer science for political scientists designed for the George Washington University Political Science Department Caucus Workshop on October 6th, 2026. The notes are also available as a web page , a PDF and a Google Doc . The slides from the lecture are here . The lecture is phased into 3 parts: What does your computer do when it takes a .qmd"
+    }
+  ]
+}

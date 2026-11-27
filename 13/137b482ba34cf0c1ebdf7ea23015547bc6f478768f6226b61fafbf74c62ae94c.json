@@ -1,0 +1,20 @@
+{
+  "url": "https://mbuffett.com/index.xml",
+  "posts": [
+    {
+      "link": "https://mbuffett.com/posts/most-human-chess-bot/",
+      "title": "Spending 10 months building the most human-like chess bot",
+      "description": "Chessbook-1, Maia-3 and Allie 2.0 at a glance Capability scorecard: a 0-100 grade per measurement, and whether the model has the capability at all. Predicting human moves Matching strength Time scramble play Predicting think time Predicting who wins Chessbook-1 199M parameters 96 / 100 81 / 100 84 / 100 98 / 100 97 / 100 Maia-3 79M parameters 85 / 100 56 / 100 57 / 100 No 80 / 100 Allie 2.0 5.6B p"
+    },
+    {
+      "link": "https://mbuffett.com/posts/chess-move-prediction/",
+      "title": "Improving in chess is hard. I built the world's most human-like chess AI to help me.",
+      "description": "Getting better at chess is really hard . My theory is that it’s at least partially because of the feedback lag. Imagine learning to play the violin, but you have to play each song with earplugs in, then listen to the recording after. This is roughly what chess learning feels like, outside of focused drills. You play a game, ignorant of which moves are good and bad, then you get feedback from the c"
+    },
+    {
+      "link": "https://mbuffett.com/posts/chessbook-year-review-2024/",
+      "title": "An honest review of my last year building Chessbook",
+      "description": "Last year, I quit my job to work full-time on a chess app I created. It’s my first time working full-time on a project of my own, and it’s been both terrifying and gratifying. To close out my first year, I’m sharing an honest account of the mistakes I’ve made as a founder as well as the the things I felt I did well. Marketing 2 /5 Ugh. I’ve tried paid ads virtually everywhere (Meta, X/Twitter, Red"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.lloydatkinson.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.lloydatkinson.net/posts/2026/building-a-toolbox-for-my-website/",
+      "title": "Building a Toolbox for My Website",
+      "description": "I built a small collection of tools to automate repetitive tasks and make working on my website easier. - Tagged: Astro, Automation, Static Sites, Workflows, Tools"
+    },
+    {
+      "link": "https://www.lloydatkinson.net/posts/2026/reducing-dotnet-aws-lambda-cold-starts-by-increasing-memory/",
+      "title": "Reducing .NET AWS Lambda Cold Starts by Adding Memory",
+      "description": "A pleasantly simple fix that reduced cold-start time from ~7 seconds to ~2.5 seconds. - Tagged: .NET, AWS"
+    },
+    {
+      "link": "https://www.lloydatkinson.net/posts/2025/year-in-review/",
+      "title": "2025: Year in Review",
+      "description": "Reflecting on my year - Tagged: Year in review, Gardening, Programming, Portugal, Poland, Slovakia"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ivantokar.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ivantokar.com/posts/one-crop-two-formats-in-hokusai-2-0/",
+      "title": "One Crop, Two Formats in Hokusai 2.0",
+      "description": "How Hokusai 2.0 represents a crop as a Swift value, when libvips opens the photo, and what happens when two encoders use the same recipe."
+    },
+    {
+      "link": "https://ivantokar.com/posts/swift-collections-heap-two-ends-one-priority-queue/",
+      "title": "Swift Collections: Two Ends of One Priority Queue",
+      "description": "How Swift Collections uses a min-max heap to expose both priority extremes without sorting every element."
+    },
+    {
+      "link": "https://ivantokar.com/posts/associated-values-put-data-where-it-belongs/",
+      "title": "Associated Values: Put Data Where It Belongs",
+      "description": "Model Swift enum cases with their own data, extract associated values with patterns, and understand what this design does and does not guarantee."
+    }
+  ]
+}

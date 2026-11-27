@@ -1,0 +1,20 @@
+{
+  "url": "https://saurabharora.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://saurabharora.dev/posts/modifier-default-min-size/",
+      "title": "When \"sp\" is not enough for font scaling",
+      "description": "Most Android devs are aware of using sp for text sizes and line heights. There are lint checks which will catch that for you. But sometimes, just using sp doesn’t make your app scale the text in a legible way. For most developers, our workflow involves passing the Figma link to the agent, which looks at the specifications and copies it over. Just like the Android best practices for font scalin..."
+    },
+    {
+      "link": "https://saurabharora.dev/posts/per-item-viewmodels-in-compose/",
+      "title": "Beyond the Screen: Component-Level ViewModels in Compose",
+      "description": "Until Lifecycle 2.11, ViewModelStore scoping was tied to navigation destinations, activities, or fragments. There was no clean way to scope a ViewModel to an arbitrary part of your UI. The Lifecycle 2.11 alphas close that gap with two new APIs that let you scope ViewModels to UI sections smaller than a screen: rememberViewModelStoreOwner() scopes a ViewModel to the call site of a composable..."
+    },
+    {
+      "link": "https://saurabharora.dev/posts/navigating-pitfalls-when-to-use-derivedStateOf-with-keys/",
+      "title": "Navigating Pitfalls - When to Use derivedStateOf with remember(key) in Jetpack Compose",
+      "description": "Jetpack Compose has transformed Android UI development by providing a straightforward approach to building user interfaces. One of its core principles is minimising unnecessary updates, and one of the tools it offers is derivedStateOf. In this blog post, we will explore the effective utilisation of derivedStateOf through an example of hashtag validation, as well as highlighting some potential p..."
+    }
+  ]
+}

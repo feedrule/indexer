@@ -1,0 +1,20 @@
+{
+  "url": "https://ferd.ca/feed.rss",
+  "posts": [
+    {
+      "link": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+      "title": "Control and complexity: tension in systems design",
+      "description": "The adoption of LLMs in software development has led countless organizations to rapidly change their practices and structures. Old methods are questioned, replaced, and repurposed as the economics around creating new code get shaken up. Because humans and LLMs aren’t interchangeable, the dynamics in play are also very different. Systems are systems, and so regardless of what is changing, there are"
+    },
+    {
+      "link": "https://ferd.ca/the-picture-they-paint-of-you.html",
+      "title": "The Picture They Paint of You",
+      "description": "I keep noticing that the way AI SREs and coding agents are sold is fairly different: coding assistants are framed as augmenting engineers and are given names, and AI SREs are named “AI SRE” and generally marketed as a good way to make sure nobody is distracted by unproductive work. I don’t think giving names and anthropomorphizing components or agents is a good thing to do, but the picture that is"
+    },
+    {
+      "link": "https://ferd.ca/software-acceleration-and-desynchronization.html",
+      "title": "Software Acceleration and Desynchronization",
+      "description": "A bit more than a month ago, I posted the following on social media: Seeing more reports and industry players blaming code reviews for slowing down the quick development done with AI. It's unclear whether anyone's asking if this is just moving the cognitive bottleneck of \"understanding what's happening\" around. \"Add AI to the reviews\" seems to be the end goal here. And I received multiple response"
+    }
+  ]
+}

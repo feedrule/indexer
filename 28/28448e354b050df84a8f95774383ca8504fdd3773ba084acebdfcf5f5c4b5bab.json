@@ -1,0 +1,20 @@
+{
+  "url": "https://pyk.sh/rss.xml",
+  "posts": [
+    {
+      "link": "https://probablyrevert.com/posts/2026-09-13-forgejo-on-railway-with-2fa/",
+      "title": "Forgejo on Railway with 2FA",
+      "description": "Enabling 2FA broke my Git pushes over HTTPS. Here's the full debugging story, from broken credential tokens to Railway's TCP proxy, ending with a one-line fix in my SSH config."
+    },
+    {
+      "link": "https://probablyrevert.com/posts/2026-09-03-friendship-ended-with-panic-0x1/",
+      "title": "Friendship ended with `Panic(0x1)`, now `BrokenInvariantError` is my best friend",
+      "description": "ripfuzz now reports broken invariants with a dedicated custom error instead of `assert` panics. The revert data carries the id and description, no cheatcode call, no magic address, and a caught revert finally counts as handled."
+    },
+    {
+      "link": "https://probablyrevert.com/posts/2026-09-02-value-deltas-for-the-max-search/",
+      "title": "Value deltas for the max search",
+      "description": "`ripfuzz max` used to rank sequences by their final value. Exploit ladders dump first, so I now measure value() after every call and keep the dip."
+    }
+  ]
+}

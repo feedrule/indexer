@@ -1,0 +1,20 @@
+{
+  "url": "https://twowavesandadot.blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://twowavesandadot.blog/introducing-rssdirectory-org.html",
+      "title": "Introducing rssdirectory.org",
+      "description": "Rssdirectory.org publishes Downread's library of feeds and offers it as a category-based directory. The site works with any feed reader and supports one-click following in several popular readers. You can even customize the Follow button with your own URLs to add unsupported readers. Besides the directory itself, it has a section for publishers where feeds can be claimed and edited. Catalog entrie"
+    },
+    {
+      "link": "https://twowavesandadot.blog/feed-html-an-html-subset-for-rss-readers.html",
+      "title": "Feed HTML - an HTML subset for RSS readers",
+      "description": "I have set up a second RFC: Feed HTML defines an HTML set for RSS readers and similar applications. This addresses a long-standing issue with RSS: it allows HTML, but no one defines which HTML features you can use. Many simple RSS readers support some semantic features like <strong>, <h1>, or <table>, plus <img> and social media embeddings, and little else. Some add support for a limited set of CS"
+    },
+    {
+      "link": "https://twowavesandadot.blog/podcast-radar.html",
+      "title": "Podcast Radar",
+      "description": "Just a few days ago I stumbled upon the <podcast:location> element in the Podcasting 2.0 spec, and wondered whether anybody uses this. Today, I found radar.rss.io on Hacker News, which is the first time I've seen the location element actually being used. The Podcast Radar allows you to find podcasts near you, or any location you select on a globe. I was surprised how many were produced near where"
+    }
+  ]
+}

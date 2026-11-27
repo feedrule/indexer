@@ -1,0 +1,20 @@
+{
+  "url": "https://hunio.org/index.xml",
+  "posts": [
+    {
+      "link": "https://hunio.org/security/tof-account-takeover/",
+      "title": "Reusing exploits to hijack Tower of Fantasy accounts",
+      "description": "TL;DR Link to heading After discovering two zero-day vulnerabilities in Neverness to Everness (NTE) , I wanted to see if those vulnerabilities were isolated to that game or could be found elsewhere. Since Tower of Fantasy is another relatively well-known game developed by Hotta Studio, I dug into this game and found the exact same issues: unencrypted authentication and no replay protection. By com"
+    },
+    {
+      "link": "https://hunio.org/security/nte-account-takeover/",
+      "title": "Remotely hijacking Neverness to Everness accounts",
+      "description": "TL;DR Link to heading While analyzing Neverness to Everness’ authentication process, I discovered that authentication data was transmitted in plaintext and could be intercepted and modified by an attacker on the same network as the victim. Additionally, this authentication data lacked replay protection, meaning it could be reused indefinitely. By combining these vulnerabilities, an attacker could"
+    },
+    {
+      "link": "https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/",
+      "title": "Abusing Constrained Delegation without Protocol Transition against SPN-less accounts",
+      "description": "TL;DR Link to heading This blogpost introduces a new path for abusing Kerberos delegation! By combining Elad Shamir’s Reflective RBCD technique, James Forshaw’s U2U sacrificial user technique, and extending Impacket to support S4U2Proxy with U2U, we can now obtain the forwardable ticket required for Constrained Delegation without Protocol Transition when the account trusted for delegation has no S"
+    }
+  ]
+}

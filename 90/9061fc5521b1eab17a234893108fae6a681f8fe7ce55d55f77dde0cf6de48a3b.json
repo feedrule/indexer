@@ -1,0 +1,20 @@
+{
+  "url": "https://www.leidinger.net/feed/",
+  "posts": [
+    {
+      "link": "https://www.leidinger.net/blog/2026/07/19/using-ai-to-understand-kernel-crashes/",
+      "title": "Using AI to understand kernel crashes",
+      "description": "While doing some performance tracing of an application with the FreeBSD hwpmc subsystem as a normal user in a jail, I tripped over a kernel crash (this only happens if INVARIANTS is compiled into the kernel, so not with a RELEASE kernel). I reported that about a week ago on the FreeBSD-current mailing list. I … Continue reading \"Using AI to understand kernel crashes\" The post Using AI to understan"
+    },
+    {
+      "link": "https://www.leidinger.net/blog/2025/05/24/freebsd-security-hardening-with-compiler-options/",
+      "title": "FreeBSD security hardening with compiler options",
+      "description": "Recently I added some changes to FreeBSD (src and ports) which allow enabling some compiler features when building FreeBSD or 3rd party programs. While they are documented in mitigations(7) and src.conf(5), the already existing ones (not implemented by me) do not seem to be known well, and information for the new ones should be shared … Continue reading \"FreeBSD security hardening with compiler op"
+    },
+    {
+      "link": "https://www.leidinger.net/blog/2024/06/11/freebsd-service-jails-another-layer-in-the-security-onion/",
+      "title": "FreeBSD Service Jails – another layer in the security onion",
+      "description": "In May I committed a new feature to FreeBSD-current (it will be in the FreeBSD 15 release, I have no plans to merge this to 14). This feature is called “Service Jails”. When you enable it, it takes a service (something which is started by an rc-script at boot or by hand via service(8)) and … Continue reading \"FreeBSD Service Jails – another layer in the security onion\" The post FreeBSD Service Jai"
+    }
+  ]
+}

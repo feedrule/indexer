@@ -1,0 +1,20 @@
+{
+  "url": "https://e10v.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://e10v.me/matching-markets-congestion/",
+      "title": "Open source contribution and job search as matching markets under AI-induced congestion",
+      "description": "In one of my previous posts , I discussed congestion in the job market caused by the surge of AI tools that scrape job descriptions and auto-apply to jobs. I suggested pay-to-apply as a possible solution, where payment is made with platform-issued virtual points available in limited supply rather than real money. I focused more on explaining why dynamic pricing can solve the problem better than AI"
+    },
+    {
+      "link": "https://e10v.me/tea-tasting-analysis-of-experiments/",
+      "title": "tea-tasting: a Python package for the statistical analysis of A/B tests",
+      "description": "Note: the post has been updated on March 7, 2026. It's often referred to by AI chatbots and agents without recognizing that some information could be outdated. So I decided to update it. I developed tea-tasting , a Python package for the statistical analysis of A/B tests featuring: Welch's t-test, Student's t-test, z-test, Bootstrap, variance reduction with CUPED, delta method for ratio metrics, p"
+    },
+    {
+      "link": "https://e10v.me/python-packages-for-ab-test-analysis/",
+      "title": "Comparing Python packages for A/B test analysis: tea-tasting, Pingouin, statsmodels, and SciPy",
+      "description": "Disclosure: I am also the author of tea-tasting. This article compares four Python packages that are relevant to A/B test analysis: tea-tasting, Pingouin, statsmodels, and SciPy. It does not try to pick a universal winner. Instead, it clarifies what each package does well for common experimentation tasks and how much manual work is needed to produce production-style A/B test outputs. It assumes fa"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://pythonspeed.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
+      "title": "Faster floating point math with Rust’s new API",
+      "description": "Floating point math is often slower than integer math because the compiler is being conservative about how it optimizes your code. While some programming languages already had solutions of a sort, until now Rust did not have a good stable way to deal with this limitation. But now, starting in version 1.98, Rust will allow telling the compiler it can optimize your code further—but with extra contro"
+    },
+    {
+      "link": "https://pythonspeed.com/articles/branchless-binary-search/",
+      "title": "8× faster binary search: from compiled code to mechanical sympathy",
+      "description": "How do you speed up computational Python code? A common, and useful, starting point is: Pick a good algorithm. Use a compiled language to write a Python extension. Maybe add parallelism so you can use multiple CPU cores. But what if you need more speed? Consider the following real problem, one of the steps in scikit-learn’s gradient histogram boosting algorithm: You have a large array of floating"
+    },
+    {
+      "link": "https://pythonspeed.com/articles/reservoir-sampling-profilers/",
+      "title": "Timesliced reservoir sampling: a new(?) algorithm for profilers",
+      "description": "Imagine you are processing a stream of events, of unknown length. It could end in 3 seconds, it could run for 3 months; you simply don’t know. As a result, storing the whole stream in memory or even on disk is not acceptable, but you still need to extract relevant information. Depending on what information you need, choosing a random sample of the stream will give you almost as good information as"
+    }
+  ]
+}

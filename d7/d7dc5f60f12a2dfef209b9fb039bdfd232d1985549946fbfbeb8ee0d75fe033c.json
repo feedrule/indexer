@@ -1,0 +1,20 @@
+{
+  "url": "https://dhruv2038.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
+      "title": "GitHub Has an Availability Problem. Is It Time to Look Elsewhere?",
+      "description": "GitHub has been having enough outages lately that people are starting to ask whether it makes sense to look elsewhere. Ever since Github got acquired by Microsoft it started getting bloated and enshittified - it lost its direction and doesn't seem to care about its customers. And Github is probably not the only one - there are many other examples. We got to have a kill switch for this - when do we"
+    },
+    {
+      "link": "https://dhruv2038.bearblog.dev/understanding-grpc/",
+      "title": "Understanding gRPC",
+      "description": "gRPC is a high-performance, open-source Remote Procedure Call (RPC) framework that enables services to communicate efficiently across networks as if they were local function calls. It has become a popular choice for building scalable APIs, particularly within microservices and real-time systems. The efficiency of gRPC is driven by two primary building blocks: HTTP/2: Used as the transport protocol"
+    },
+    {
+      "link": "https://dhruv2038.bearblog.dev/whats-broken-in-api-tooling/",
+      "title": "What’s Broken in API Tooling",
+      "description": "API tooling looks mature, but the daily workflow still feels messy. Not because sending a request is hard. curl solved that decades ago. The broken part is everything around the request: auth, environments, shared headers, chained calls, debugging, docs, tests, mocks, history, and collaboration. Most API clients still treat requests like isolated forms. Method - URL - Headers. - Body - Auth - Send"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mksg.lu/feed.xml",
+  "posts": [
+    {
+      "link": "https://mksg.lu/blog/think-in-code",
+      "title": "Cloudflare Built Code Mode. We Built Think in Code. Same War, Different Front.",
+      "description": "Two independent teams, solving different problems, arrived at the same answer: stop treating the LLM as a data processor. Treat it as a programmer."
+    },
+    {
+      "link": "https://mksg.lu/blog/claude-code-limit-burn",
+      "title": "Why Your Claude Code Limit Runs Out in 20 Minutes (And the Fix Nobody Talks About)",
+      "description": "Your tool output isn't stored once — it's re-sent as input tokens on every API call. Here's the specific mechanism behind the fastest context burns, traced from source code."
+    },
+    {
+      "link": "https://mksg.lu/blog/context-mode-v1-release",
+      "title": "Context Mode v1.0.0 — Five Platforms, Session Continuity, and a Thank You to Hacker News",
+      "description": "From a single-client MCP server to a multi-platform context engine. 2.6K stars, 134 forks, 107 comments. Here's what v1.0.0 ships."
+    }
+  ]
+}

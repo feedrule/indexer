@@ -1,0 +1,20 @@
+{
+  "url": "https://dr-knz.net/feeds/all.rss.xml",
+  "posts": [
+    {
+      "link": "https://dr-knz.net/agent-management.html",
+      "title": "Agent management tooling",
+      "description": "Where I recall the evolution of my tooling over the last few years. The following text reveals the parts of the journey that stuck; there were numerous not-so-successful experiments on the way there, many tools I tried and ultimately did not adopt or stopped using very quickly, and which I …"
+    },
+    {
+      "link": "https://dr-knz.net/llms-in-practice.html",
+      "title": "LLMs in Software Engineering",
+      "description": "A guide for newcomers to software engineering, and for anyone curious about how LLMs are changing it. Built from interviews with senior professionals from the tech industry. Opening If you are reading this, you probably have mixed feelings about large language models (LLMs). You may have used one and been …"
+    },
+    {
+      "link": "https://dr-knz.net/community-maps.html",
+      "title": "Community Maps - Where Your People Are",
+      "description": "This post explains how I developed Community Maps , a small web app that helps members of a community share their approximate location with each other. Note AI assistance (Opus 4.6) was used for minor edits in this text. Why this project I am currently trying to organize an event …"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://me.0xffff.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://me.0xffff.me/what-is-db9-ai.html",
+      "title": "What is db9.ai?",
+      "description": "A high-level introduction to db9.ai: serverless Postgres, files, branching, and agent-native workflows in one backend."
+    },
+    {
+      "link": "https://me.0xffff.me/ecm-search-performance.html",
+      "title": "Tuning full-text search for an ECM album archive",
+      "description": "How I improved search latency for a small full-text album archive backed by Cloudflare Workers, R2, and db9."
+    },
+    {
+      "link": "https://me.0xffff.me/fs9-with-agents.html",
+      "title": "The Simplest Agent-to-Agent Communication: Just Use a Filesystem",
+      "description": "Durable agent-to-agent messaging using a filesystem: inspectable, remote, replayable, and SQL-queryable with db9 fs9."
+    }
+  ]
+}

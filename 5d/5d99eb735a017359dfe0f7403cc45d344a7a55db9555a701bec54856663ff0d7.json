@@ -1,0 +1,20 @@
+{
+  "url": "https://mschaef.com/feed/atom",
+  "posts": [
+    {
+      "link": "https://mschaef.com/ai",
+      "title": "AI",
+      "description": "As a lifelong fan of marginal programming languages, I've spent my fair share of time wondering why they don't get more use. I would really have liked to use more Clojure over the last fifteen years. But the reality is that there are good structural reasons we make the choices we do. One thought experiment I've used to explore why involves the notion of a hypothetical 'zero cost' programming langu"
+    },
+    {
+      "link": "https://mschaef.com/c64",
+      "title": "The Commodore 64 and Apple ][",
+      "description": "A little over a year ago, I wrote about some formative experiences I had with computers early in my life. That article focused on the Timex Sinclair 1000 , but sitting off in the wings are two other computers - the Commodore 64 and the Apple II . A few weeks ago, there was some dialog between John Gruber , Drew Saur , and Jason Snell that's brought those two machines back to mind. It's all very wo"
+    },
+    {
+      "link": "https://mschaef.com/workload",
+      "title": "Workload",
+      "description": "Lately, I've been reading \"Beyond Mach 3\" ), Col. Buddy Brown's memoir of his years piloting the U-2 and SR-71 spy planes. If you like that sort of thing, it's an interesting read on its own, but it also has parallels to the software industry, particularly in the way it describes pilot workload. The concept of pilot workload provides a nice way to think explicitly about the burdens our systems pla"
+    }
+  ]
+}

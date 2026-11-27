@@ -1,0 +1,20 @@
+{
+  "url": "https://nikdoof.com/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://nikdoof.com/posts/2026/appstore-missing-get-button/",
+      "title": "macOS App Store, Apple Pay and the missing buttons",
+      "description": "For the past few weeks i’ve been frustrated by a minor issue I couldn’t track down. If I attempted to purchase an app on the Apple App Store, or buy anything via Apple Pay in Safari, I ended up with a box to pay that had no buttons to actually continue. At first I thought it was another glorious Apple failure in macOS, but instead its me who is causing the issue."
+    },
+    {
+      "link": "https://nikdoof.com/posts/2026/how-to-break-nixos-with-microvm-nix/",
+      "title": "How to Break NixOS With microvm.nix and nix.gc",
+      "description": "I’ve started using NixOS heavily in my homelab in the last few months, inspired by some limited experience a year ago and my love of Terraform I decided to take the plunge with one system in the lab, eventually it finished with the decommissioning of my VMware ESXi host and my Kubernetes cluster. So now I run a NixOS hypervisor hosting several virtual machines via microvm.nix . The microvms are tr"
+    },
+    {
+      "link": "https://nikdoof.com/posts/2026/using-aerospace/",
+      "title": "Using Aerospace",
+      "description": "Tiling window managers have interested me for some time, but being a avid macOS user i’ve not had much oppertunity to use them, my last attempt was using GlazeVM on a Windows system at my previous job. For some reason I spent most of my time fighting with it rather than using it, and I eventually gave up. My new job provided me with a MacBook Pro, which i’m far more comfortable with, and it allowe"
+    }
+  ]
+}

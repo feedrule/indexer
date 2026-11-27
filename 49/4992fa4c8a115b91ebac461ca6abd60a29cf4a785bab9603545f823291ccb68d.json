@@ -1,0 +1,20 @@
+{
+  "url": "https://timleland.com/feed/index.xml",
+  "posts": [
+    {
+      "link": "https://timleland.com/introducing-texteach/",
+      "title": "Introducing TextEach: Text a Group Without the Group Chat",
+      "description": "I built an iPhone app that sends one message to a group as separate texts. Everyone gets their own text with their name in it, and replies come back to you."
+    },
+    {
+      "link": "https://timleland.com/link-shield-php-checker/",
+      "title": "Check Your Website’s PHP Version",
+      "description": "Link Shield now has a free PHP2Shell checker. Check the PHP version your website exposes and find out what to ask your host next."
+    },
+    {
+      "link": "https://timleland.com/weather-api-accuracy-study/",
+      "title": "Which Weather API Is Most Accurate?",
+      "description": "I compared six weather APIs for a month to see which forecasts came closest. Here’s what I’d choose for temperature, wind, and everyday weather checks."
+    }
+  ]
+}

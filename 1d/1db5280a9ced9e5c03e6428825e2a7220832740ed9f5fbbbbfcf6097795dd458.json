@@ -1,0 +1,20 @@
+{
+  "url": "https://rachsmith.com/rss/",
+  "posts": [
+    {
+      "link": "https://rachsmith.com/2026-11-20-04-56",
+      "title": null,
+      "description": "I like the new Docker whale. He’s chunky. Reply by email"
+    },
+    {
+      "link": "https://rachsmith.com/my-job-has-changed",
+      "title": "The nature of my job has completely changed",
+      "description": "When I first tried out getting an agent to write code for me, the output was straight bad. Then, the models got better, but I didn't like how they heavy-handed they were, and did things I did not ask for. I learnt the trick to avoiding this is to be incredibly specific about your requirements, and get the agent to confirm with you before acting on any \"assumptions\" it has made. Now, with the new a"
+    },
+    {
+      "link": "https://rachsmith.com/how-long-until-agent-output-turns-to-shit",
+      "title": "How long have we got before the agent output is enshittified?",
+      "description": "Jim Nielsen blogged in response to a post from Pete Millspaugh about the state of AI-generated websites in 2026. Frankly, this all feels like a space absolutely ripe for those kinds of business referral transactions you find in other industries. I've been thinking about this lately. Right now, the output from Fable, Astra et al. is ostensibly an amalgamation of all source code it's slurped up - pr"
+    }
+  ]
+}

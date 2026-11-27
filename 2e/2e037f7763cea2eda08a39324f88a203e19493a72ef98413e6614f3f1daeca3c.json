@@ -1,0 +1,20 @@
+{
+  "url": "https://deadeclipse666.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://deadeclipse666.blogspot.com/2026/06/moving-to-new-blog-avoiding-google.html",
+      "title": "Moving to new blog, avoiding google censorship,",
+      "description": "-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Moving from blogger since google started flagging personal research blogs as \"malware\" and \"malicious\" content. New blog - https://blog.projectnightcrawler.dev/ -----BEGIN PGP SIGNATURE----- iHUEARYKAB0WIQRJTvAf/AWVhAKEeb7FFoRCS0/SbAUCajBySwAKCRDFFoRCS0/S bO4tAQC/BKmcrPjqr6jt/g6u+/ucdCYShPSWh4WKW+2lG61ynQEAx7mFR4Yt8jKR QuysfMJrF4lmFi4w+cHFpuxE7Tv18A0"
+    },
+    {
+      "link": "https://deadeclipse666.blogspot.com/2026/06/rogueplanet-quick-history.html",
+      "title": "RoguePlanet, a quick history",
+      "description": "-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 In initial development, it was confirmed that this vulnerability was a remote code execution. It required an attacker to coerce a victim to open a .vhd(x) in a remote SMB server, succesful exploitation resulted in defender overwriting its own files and obviously the end outcome was an RCE. In other scenario, where a victim has symlink evaluation R2L"
+    },
+    {
+      "link": "https://deadeclipse666.blogspot.com/2026/06/greatxml-bitlocker-that-seems-to-only.html",
+      "title": "GreatXML a bitlocker bypass that seems to only work if you ever had Defender Offline Scan",
+      "description": "-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 This was an accidental discovery, it took a total of 4 hours to find this. If you ever attempted to use Windows Defender Offline Scan, you're automatically vulnerable to a bitlocker bypass. I'm unsure if you can still trigger the bug without ever using the offline scan feature, because you can definitely Details can be found here, https://git.project"
+    }
+  ]
+}

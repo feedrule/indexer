@@ -1,0 +1,20 @@
+{
+  "url": "https://jackcuthbert.dev/feed/",
+  "posts": [
+    {
+      "link": "https://jackcuthbert.dev/blog/kaomoji-moe-now-runs-on-cloudflare-workers/",
+      "title": "Kaomoji.moe now runs on Cloudflare Workers",
+      "description": "I haven't worked on https://kaomoji.moe in 5 years... that's a long time. It used to cost me $0.02/mo to run on Google Cloud Run, mostly because there's been basically zero growth in the last couple years. I think that's mainly due to the cold-boot problem Cloud Run has. It just doesn't respond fast enough with low traffic so when people use it for the first time they get errors. Today I've migrat"
+    },
+    {
+      "link": "https://jackcuthbert.dev/blog/wkly7/",
+      "title": "wkly7",
+      "description": "Building I've spent a lot of time lately building tooling for my agents to work together. It's been largely successful so far, and quite fun. I should put together a post at some point explaining some bits and bobs I've built. Watching Picked up Apothecary Diaries again after an anime hiatus. I missed anime, this is great. Up next: finishing Dandadan , then maybe My Hero Academias latest 2 seasons"
+    },
+    {
+      "link": "https://jackcuthbert.dev/blog/the-language-we-use-to-talk-about-things-shapes-how-we-feel-about-them/",
+      "title": "The language we use to talk about things shapes how we feel about them",
+      "description": "This is a bit of a follow up post on my previous one about \"vibe coding\" and what I'm doing with it. It's been a bit of a whirlwind since then as I've gone deeper down the rabbit hole of what's actually possible with LLMs and agentic engineering and my opinions are changing, again. Not feeling the vibe In between discussions with my colleagues about how they're managing with the advent of LLMs/AI"
+    }
+  ]
+}

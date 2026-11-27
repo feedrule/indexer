@@ -1,0 +1,20 @@
+{
+  "url": "https://eugene-andrienko.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://eugene-andrienko.com/2026-10-23-rectangle-firefox.html",
+      "title": "How to restore rectangular UI elements in Firefox",
+      "description": "A calendar icon 23 Oct 2026 A tag icon it Table of Contents Preparations Purging roundness from the browser Fix toolbar buttons shape Fix menus shape Eliminate round corners for a lot of things Rectangle Quit dialog Rectangle UI controls Rectangle new tab Other customizations Borders around URL input bar and buttons Remove unnecessary gap on the bottom of tabs Changing the accent color Notes After"
+    },
+    {
+      "link": "https://eugene-andrienko.com/2026-09-07-bsd-pkgsrc-ports.html",
+      "title": "Moving from binary packages to pkgsrc",
+      "description": "A calendar icon 07 Sep 2026 A tag icon bsd Table of Contents The General Idea… NetBSD and pkgsrc Rebuild all packages Common operations with pkgsrc Notes When I was using Linux, I (most of the time, except my MOPSLinux/Slackware/Gentoo usage) installed software via package managers — there were some already precompiled binaries and libraries, built by someone maintainer(s), with some \"default\" bui"
+    },
+    {
+      "link": "https://eugene-andrienko.com/2026-08-20-emacs-mastodon.html",
+      "title": "My Emacs configuration (Mastodon)",
+      "description": "A calendar icon 20 Aug 2026 A tag icon emacs it Table of Contents Preamble Mastodon.el overview Mastodon.el common configuration Hacking the Mastodon.el TL icons Use Nerd Icons for toots stats Use Nerd Icons to show successful completion of actions Increasing the default HTTP timeout This blog post is a part of the series of posts about my Emacs configuration. Previous posts: My Emacs configuratio"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://zaage.it/index.xml",
+  "posts": [
+    {
+      "link": "https://zaage.it/projects/harman-kardon-allure-open-source/",
+      "title": "Harman Kardon Allure: Open Source Software and Boards",
+      "description": "This is part 3 of three posts about the Harman Kardon Allure: the open-source release. Part 1 is the teardown, part 2 covers allure-os. Introduction # Two Allures in my house run allure-os on a carrier board I first drew by hand. Everything needed to build a third is now public, in three repositories: Repository Contents License allure-os the system image, the speaker service, the setup page, the"
+    },
+    {
+      "link": "https://zaage.it/projects/harman-kardon-allure-software/",
+      "title": "allure-os: Open Firmware for the Harman Kardon Allure",
+      "description": "This is part 2 of three posts about the Harman Kardon Allure: the software. Part 1 is the teardown, part 3 the open-source release of software and boards. Introduction # Part 1 ended with a plan: a Raspberry Pi Zero 2 W takes the place of the LinkPlay A88 module, and the speaker’s own chips keep their firmware. The Pi then has to do everything the A88 did, and do it the same way. The DAC alone doe"
+    },
+    {
+      "link": "https://zaage.it/projects/harman-kardon-allure-hardware/",
+      "title": "Harman Kardon Allure Teardown",
+      "description": "This is part 1 of three posts about the Harman Kardon Allure: the hardware. Part 2 covers allure-os, the firmware I wrote for it, and part 3 the open-source release of software and boards. Introduction # The Harman Kardon Allure has aged well; its software has not. Everything that makes the speaker “smart” sits on one plug-in module running a LinkPlay firmware from 2019, while the amplifiers, the"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://nem035.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://nem035.com/thoughts/i-want-ai-to-keep-up-with-me/",
+      "title": "I Want AI to Keep Up With Me",
+      "description": "I want AI to help me develop ideas, understand the tradeoffs, and try the result quickly enough to keep thinking and directing the work."
+    },
+    {
+      "link": "https://nem035.com/thoughts/agents-need-access-to-the-whole-stack/",
+      "title": "Agents Need Access to the Whole Stack",
+      "description": "Coding agents become much more productive when they can inspect, operate, and verify the product across development, production, and analytics."
+    },
+    {
+      "link": "https://nem035.com/thoughts/how-prompt-caching-works/",
+      "title": "How Prompt Caching Works, Step by Step",
+      "description": "A visual walkthrough of prompt caching, from why it is a prefix match to where breakpoints go, what it costs, what silently breaks it, and how to check that it is working."
+    }
+  ]
+}

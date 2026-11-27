@@ -1,0 +1,20 @@
+{
+  "url": "https://journal.ehrlich.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://journal.ehrlich.dev/notes/2026-03-14-tooling/",
+      "title": "Claude Code planned and executed this entire redesign in one shot. The plan was …",
+      "description": "Claude Code planned and executed this entire redesign in one shot. The plan was thorough enough that implementation was basically mechanical. Planning > coding."
+    },
+    {
+      "link": "https://journal.ehrlich.dev/notes/2026-03-14-stream-launch/",
+      "title": "Rebuilt the journal as a stream. Notes and articles in one feed now. Temperature …",
+      "description": "Rebuilt the journal as a stream. Notes and articles in one feed now. Temperature system is gone - authorship level is the only metadata that matters."
+    },
+    {
+      "link": "https://journal.ehrlich.dev/notes/2026-03-13-experiential-measure/",
+      "title": "The experiential measure paper is getting close. The core argument - that …",
+      "description": "The experiential measure paper is getting close. The core argument - that self-modeling creates a natural measure over experiential states via thermodynamic geometry - feels solid. The hard part is scoping the claims honestly."
+    }
+  ]
+}

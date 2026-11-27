@@ -1,0 +1,20 @@
+{
+  "url": "https://niksmac.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://niksmac.me/blog/skills-im-willing-to-let-ai-have",
+      "title": "The Skills I'm Willing to Let AI Have",
+      "description": "I have dyslexic tendencies, and LLMs read through my scrambled typing so well that I've stopped fixing it. That's freeing, and it's exactly what worries me."
+    },
+    {
+      "link": "https://niksmac.me/blog/ourbits-circular-economy-infrastructure",
+      "title": "The planet doesn't need more pledges. It needs proof.",
+      "description": "Recycling rates are flat, sustainability reports are greenwash, and the circular economy keeps failing for one reason: the data doesn't exist. Here is the framework I'm building to fix it."
+    },
+    {
+      "link": "https://niksmac.me/blog/private-llm-apps",
+      "title": "Why Private LLM Apps Matter: The Case Behind Merrin",
+      "description": "Cloud AI assistants keep a server-side copy of everything you tell them. Here is what the policies actually say, and why open-weight models running on your own device change the equation."
+    }
+  ]
+}

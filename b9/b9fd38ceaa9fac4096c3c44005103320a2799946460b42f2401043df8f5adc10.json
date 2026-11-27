@@ -1,0 +1,20 @@
+{
+  "url": "https://m-compressors.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://m-compressors.github.io/2026/formal-verification-mbrotli-mzstd/",
+      "title": "Towards formal verification: mbrotli and mzstd",
+      "description": "Why we started proving mbrotli and mzstd correct against RFC 7932 and RFC 8878 in Lean 4, how Charon and Aeneas tie the proofs to the Rust code, what is already proved, and what is left before the decoders are verified as a whole."
+    },
+    {
+      "link": "https://m-compressors.github.io/2026/brotli-cve-2026-111497-mbrotli/",
+      "title": "CVE-2026-111497 in the Brotli decoder, and why mbrotli is not affected",
+      "description": "CVE-2026-111497 is an out-of-bounds write in Google Brotli's C decoder, versions 1.0.3 to 1.2.0. What the fix in Brotli 1.2.1 changes, who has to upgrade, and why the safe-Rust decoder of mbrotli and the ngx_mbrotli module are not affected."
+    },
+    {
+      "link": "https://m-compressors.github.io/2026/ngx-mzstd-thread-pool-benchmarks/",
+      "title": "zstd on NGINX thread pools: ngx_mzstd vs zstd-nginx-module",
+      "description": "On-the-fly zstd blocks the NGINX event loop. ngx_mzstd on a thread pool against tokers/zstd-nginx-module: p99 latency, requests per second, CPU time and memory."
+    }
+  ]
+}

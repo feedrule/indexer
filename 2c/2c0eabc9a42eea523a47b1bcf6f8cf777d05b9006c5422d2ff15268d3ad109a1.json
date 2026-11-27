@@ -1,0 +1,20 @@
+{
+  "url": "https://www.colehoffer.ai/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.colehoffer.ai/articles/let-the-judge-choose-not-score",
+      "title": "Let the Judge Choose, Not Score",
+      "description": "I find it easier to pick the better of two answers than to explain what makes one a 6 or a 7. Here’s how I turn those choices into ratings."
+    },
+    {
+      "link": "https://www.colehoffer.ai/articles/evaluating-chat-agents",
+      "title": "Evaluating LLM Chat Agents with Real World Signals",
+      "description": "Three signals I look for in a chat thread are which sources the model cited, what the user asked next, and whether the model followed specific instructions."
+    },
+    {
+      "link": "https://www.colehoffer.ai/articles/building-rerankers-from-rag-citations",
+      "title": "Mining Reranker Training Data from RAG Citations",
+      "description": "The documents a model cites can double as training examples. The tricky part is deciding how much to trust each citation."
+    }
+  ]
+}

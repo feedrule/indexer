@@ -1,0 +1,20 @@
+{
+  "url": "https://kvinogradov.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://kvinogradov.com/osendowment/",
+      "title": "It's time for the Open Source Endowment",
+      "description": "Thesis and launch of the Open Source Endowment — the world's first endowment fund dedicated to sustainably funding critical open source software maintenance."
+    },
+    {
+      "link": "https://kvinogradov.com/mastra/",
+      "title": "Investment: open source AI agent framework Mastra",
+      "description": "Investment thesis on open source TypeScript agent framework Mastra AI"
+    },
+    {
+      "link": "https://kvinogradov.com/algo-sponsors/",
+      "title": "How I algorithmically donated $5K+ to Open Source via GitHub Sponsors and PyPI data",
+      "description": "Notable case of algorithmic approach to open source and non-profit giving"
+    }
+  ]
+}

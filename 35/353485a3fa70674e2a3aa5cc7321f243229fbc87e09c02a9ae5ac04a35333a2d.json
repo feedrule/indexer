@@ -1,0 +1,20 @@
+{
+  "url": "https://netzro.github.io/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://netzro.github.io/posts/2026/Oct/12/understanding-linux-file-system-part-2-inodes-links-permissions/",
+      "title": "Understanding the Linux File System — Part 2: Inodes, Links, and Permissions",
+      "description": "Inodes, hard vs soft links, and the rwx permission model — the parts of the Linux filesystem that Part 1 only walked past."
+    },
+    {
+      "link": "https://netzro.github.io/posts/2026/Oct/11/exit-codes/",
+      "title": "Exit Codes: The Numbers Your Terminal Won't Show You",
+      "description": "A practical guide to exit codes — what 0, 1, 2, 126, 127 and 128+N actually mean, why 75 and 78 matter, and how to use them in your own scripts."
+    },
+    {
+      "link": "https://netzro.github.io/posts/2026/Sep/23/understanding-linux-file-system-part-1-structure-walkthrough/",
+      "title": "Understanding the Linux File System — Part 1: Structure Walkthrough",
+      "description": "A hands-on walkthrough of the Linux filesystem hierarchy — what lives where, why it matters, and how to explore it yourself."
+    }
+  ]
+}

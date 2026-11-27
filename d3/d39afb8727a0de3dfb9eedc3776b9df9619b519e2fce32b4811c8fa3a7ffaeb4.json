@@ -1,0 +1,20 @@
+{
+  "url": "https://shtein.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://shtein.me/posts/handling-timezones-in-flutter-and-sqlite/",
+      "title": "Handling timezones in Flutter and SQLite",
+      "description": "The problem One of the goals of Doshboard is to allow travelers, such as digital nomads, to make finance tracking more precise and convenient. One aspect of it is proper timezone handling. It is a frequent situation for a nomad to have a bank account in their home country, and as usual with banking apps - they assume that you only view transactions from that country. 'Abroad' is a word bankers see"
+    },
+    {
+      "link": "https://shtein.me/posts/x402-poc/",
+      "title": "x402, a static blog monetization excercise",
+      "description": "x402 Cloudflare has published an announcement couple of days ago about Monetization Gateway launch. This is revolutionary for many reasons. It removes the high entry barrier for monetization, it lets you have a very precise control over what you charge for and how low the payment can be. This literally can change how we use internet making advertisement economy internet runs on obsolete. It sounds"
+    },
+    {
+      "link": "https://shtein.me/posts/rest-vs-grpc-for-public-api/",
+      "title": "REST vs gRPC for a public API in 2026",
+      "description": "The problem I am adding a server to my Flutter app Doshboard (intentionally overengineered for learning - don't do this in your pet projects). Internally the microservices already talk gRPC , but the public API conventionally uses REST, so I put a REST - gRPC transcoder in front of them. Do I need that transcoder though? My users wouldn't mind lower data usage and better streaming, and I wouldn't"
+    }
+  ]
+}

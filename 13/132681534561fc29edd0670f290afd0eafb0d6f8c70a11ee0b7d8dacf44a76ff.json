@@ -1,0 +1,20 @@
+{
+  "url": "https://alfiecg.uk/feed.xml",
+  "posts": [
+    {
+      "link": "https://alfiecg.uk/2026/10/17/Trigon",
+      "title": "Trigon: full-chaining arm64e with 100% reliability (part 3)",
+      "description": "Completing the trilogy of Trigon blog posts by adopting a unique arm64e exploit strategy."
+    },
+    {
+      "link": "https://alfiecg.uk/2025/07/16/Trigon",
+      "title": "Trigon: exploiting coprocessors for fun and for profit (part 2)",
+      "description": "Extending Trigon support to A9(X) and A11, with one requiring an ambitious and intriguing strategy."
+    },
+    {
+      "link": "https://alfiecg.uk/2025/03/01/Trigon",
+      "title": "Trigon: developing a deterministic kernel exploit for iOS (part 1)",
+      "description": "Developing a kernel exploit from CVE-2023-32434 with a 100% success rate."
+    }
+  ]
+}

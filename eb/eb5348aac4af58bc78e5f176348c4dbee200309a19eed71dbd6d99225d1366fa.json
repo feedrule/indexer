@@ -1,0 +1,20 @@
+{
+  "url": "https://freerangebits.com/index.xml",
+  "posts": [
+    {
+      "link": "https://freerangebits.com/posts/2026/11/why-do-we-write-software/",
+      "title": "Why Do We Write Software?",
+      "description": "On my way to work this morning I listened to an interview with Wendy Liu on the Dreaming Against the Machine podcast. Wendy’s path from a wide-eyed programmer to a successful software engineer with technology disillusionment resonated with me. Our paths had so much in common. But there’s a big difference between Wendy and myself. She had the wisdom (and courage) to express what she felt by writing"
+    },
+    {
+      "link": "https://freerangebits.com/posts/2026/09/decentralized-flake-inputs/",
+      "title": "Nix, Flakes, and Decentralized Inputs",
+      "description": "I have been thinking for a few weeks about how sad it is that we’ve taken a distributed version control system like Git and forced it to be centralized in Nix. This is especially true with regards to Flake inputs. If a forge like GitHub goes down then nix build will break, even though the same repository may be available elsewhere. While you can use the --override-input option to work around this,"
+    },
+    {
+      "link": "https://freerangebits.com/posts/2025/02/emacs-light-dark/",
+      "title": "Automatic Theme Switching in Emacs",
+      "description": "I’m a dark theme nerd. Partially because of the hacker aesthetic, but mostly because I prefer to work in dark environments and light themes turn computer screens into floodlights. However, in well lit rooms (or when working outdoors) dark themes become completely unreadable. Such is the case in my office during the morning hours. Naturally, I figured out how to change the system theme from the com"
+    }
+  ]
+}

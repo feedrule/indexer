@@ -1,0 +1,20 @@
+{
+  "url": "https://a-coda.tumblr.com/rss",
+  "posts": [
+    {
+      "link": "https://a-coda.tumblr.com/post/832730912364101632",
+      "title": "The Laws of Software Engineering",
+      "description": "I have been reading “The Laws of Software Engineering” by Milan Milanović. As usual, this was on the back of listening to him being interviewed on Software Engineering Radio . The book collects together all the rules of thumb you know and love from across the history of computing and beyond. You can already find all these on Wikipedia, but the author has harvested them, added prescriptive advice,"
+    },
+    {
+      "link": "https://a-coda.tumblr.com/post/821322462759452672",
+      "title": "Old School",
+      "description": "“I have never let my schooling interfere with my education.” - Mark Twain I was lucky at school because we had microcomputers quite early on. There were some enlightened staff who introduced them and started courses around them. The school benefited from being on a scenic coast. It meant that, despite being a rural comprehensive, it could attract good teachers. My first exposure to programming was"
+    },
+    {
+      "link": "https://a-coda.tumblr.com/post/816237095408500736",
+      "title": "The AI assistant as toolsmith",
+      "description": "Back in the 90s, the company I was working for was developing a database-backed product. We were going to connect to a real SQL database for production (probably Oracle but I don’t remember for sure). However, for testing we wanted something more lightweight. Today we’d call that an embedded database. For example, in Java these days you might use H2 . Or you might use the real target database runn"
+    }
+  ]
+}

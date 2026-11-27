@@ -1,0 +1,20 @@
+{
+  "url": "https://daniel.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://daniel.bearblog.dev/aws-iam-deep-dive-into-the-basics/",
+      "title": "AWS IAM: Deep Dive into the Basics",
+      "description": "It is not my intention to describe all the basic vocabulary and functionality of AWS IAM in this text. Rather, I combine the basic concepts and organize them in a structured way. Policies Main Elements Every policy includes the following parts: Principal Resource (or NotResource) Action (or NotAction) In essence, a policy allows or forbids a certain principal to perform a listed action on a given"
+    },
+    {
+      "link": "https://daniel.bearblog.dev/cap-theorem-summary/",
+      "title": "Summary of CAP Theorem",
+      "description": "What is CAP Theorem? Here is the great intro . Please, refer to that post for basic terminology. Originally, Eric Brewer said that you cannot have all of the three properties (Consistency, Availability and Partition Tolerance) in a distributed system. Then, it was proved formally . Let's look at the conclusion of this paper: \" In this note, we have shown that it is impossible to reliably provide a"
+    },
+    {
+      "link": "https://daniel.bearblog.dev/c-does-not-check-anything-for-you/",
+      "title": "C does not check anything for you",
+      "description": "Starting to get what they mean saying \"C is dangerous\", \"foot shooting\", etc"
+    }
+  ]
+}

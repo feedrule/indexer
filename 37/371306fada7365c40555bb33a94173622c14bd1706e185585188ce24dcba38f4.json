@@ -1,0 +1,20 @@
+{
+  "url": "https://www.chesterwisniewski.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "title": "AI and the Destruction of the Creative Commons",
+      "description": "The balance of software copyright protection and openness has always been fraught with minutiae and detail that bores all but the most nerdy of pedants. Yet, through much effort and 40 years of debate we had reached an equilibrium. Now AI has thrown that out the window. When I was young I remember typing in BASIC programs from magazines into my Commodore 64 and later teaching myself REXX to write"
+    },
+    {
+      "link": "https://www.chesterwisniewski.com/post/2025-01-26-migrating-docker-mastodon-to-glitch-soc/",
+      "title": "Migrating docker Mastodon to glitch-soc fork",
+      "description": "This post is as much a note to myself as it is to share with others doing self-hosted Fediverse applications. I decided to migrate to the glitch-soc soft fork of Mastodon to increase the toot character maximum length and benefit from threading and other glitch enhancements. I needed to update my docker-compose and also figure out how to change the character limit if I was successful. First, it is"
+    },
+    {
+      "link": "https://www.chesterwisniewski.com/post/2022-11-08-currated-mastodon-list/",
+      "title": "Curated lists of interesting #InfoSec and tech press contacts on Mastodon",
+      "description": "Updated 2025-Jan-26 This list is out of date and no longer maintained. There is a far better resource for this now and has more subject matter areas than just #Infosec. These are sort of the equivilent of “starter packs” on BlueSky, but for Mastodon. Visit Mastodon Migration for more information. Hi everyone, as promised here is my preliminary, curated lists of interesting Information Security and"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://webcodr.io/index.xml",
+  "posts": [
+    {
+      "link": "https://webcodr.io/2026/07/jwtd-your-fully-local-cli-jwt-decoder/",
+      "title": "jwtd - your fully local CLI JWT decoder",
+      "description": "A few months ago I looked for a local JWT decoder and didn’t like what I found, so I decided to write a small CLI-based decoder that works fully offline. No token will ever leave the machine it’s running on. Nothing big, just a tiny program written in Go to decode a JWT with go-jose and print the JSON contents to the console. I wanted a short name. JWT decode or jwtd. No fancy name, just a useful"
+    },
+    {
+      "link": "https://webcodr.io/2026/07/find-things-even-faster-with-srchr/",
+      "title": "Find things even faster with srchr",
+      "description": "Inspired by my last post about rgp and fdp I got the idea to combine both into a more powerful and easier tool called srchr. It’s a TUI written in Rust and uses similar or the same libraries as rg, fd, fzf and bat, but in one package. There are no external dependencies and it comes for macOS, Linux and Windows in aarch64 and x86-64. Currently srchr is not available via package managers, but there’"
+    },
+    {
+      "link": "https://webcodr.io/2026/07/using-fd-rg-fzf-and-bat-to-find-things-fast/",
+      "title": "Using fd, rg, fzf and bat to find things fast",
+      "description": "Modern terminal programs like fd or rg make it really easy to find stuff, but there’s still room for improvement. In this post I will show you how to use fish to write two small functions with fd, rg, fzf and bat to search for file names and file content with an interactive list and even a preview in the terminal. I don’t know that stuff? First things first. If you already know fd or the other too"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.dochia.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.dochia.dev/blog/retries/",
+      "title": "How Retries Turn a Short Outage into a Long One",
+      "description": "A retry loop looks harmless in a single client. Put the same loop in every client, gateway, service and driver, let one outage trigger all of them at once, and it turns into a load multiplier. This article goes through why that happens and what to do about it: amplification across layers, which failures to retry, timeouts and deadlines, backoff and jitter, retry budgets, library defaults with Resi"
+    },
+    {
+      "link": "https://blog.dochia.dev/blog/api_enums/",
+      "title": "I Like Enums, but I’ve Stopped Calling Them Closed",
+      "description": "Enums feel wonderfully closed inside a codebase, where the compiler knows every possible value. Across an API boundary, that guarantee disappears: a new value can break generated clients, vanish in application logic, or complicate database migrations. This article looks at how OpenAPI, Java, PostgreSQL, and protobuf handle that gap—and how to test for the enum value that does not exist yet."
+    },
+    {
+      "link": "https://blog.dochia.dev/blog/idempotency/",
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "description": "Idempotency is not just an HTTP header or a key lookup. This article covers the failure cases that bite real APIs: different requests with the same key, concurrent retries, partial success, downstream uncertainty, response replay, expiry, and duplicate message handling."
+    }
+  ]
+}

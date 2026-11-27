@@ -1,0 +1,20 @@
+{
+  "url": "https://nurkiewicz.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://nurkiewicz.com/2026/09/interoperability-with-java-write-yourself-a-compiler.html",
+      "title": "Interoperability with Java: Write yourself a compiler, Part VI",
+      "description": "A small addendum to our previous article where we wrote functional compiler targetting JVM bytecode, let’s discuss interoperability with the JVM. The biggest win from using a well-established virtual machine is gaining access to the entire ecosystem."
+    },
+    {
+      "link": "https://nurkiewicz.com/2026/09/interview-with-big-data-engineer.html",
+      "title": "Interview with Big Data engineer in 2026",
+      "description": "I love this parody “Interview with Big Data engineer in 2026” so much that I started noting down every hilarious quote I heard. And, apparently, it’s almost a complete transcript. Hope you’ll enjoy it as well :-)."
+    },
+    {
+      "link": "https://nurkiewicz.com/2026/09/generating-java-bytecode-write-yourself-a-compiler.html",
+      "title": "Generating Java bytecode: Write yourself a compiler, Part V",
+      "description": "Last time we created a virtual machine for our toy language. I think you can agree that designing a language which barely recognizes expressions like 2 + 3 and building a brand-new virtual machine for it seems a bit tedious. So what about keeping our microscopic language for now, but running it on a real, production-ready, battle-proven virtual machine? Like the Java Virtual Machine? Our task for"
+    }
+  ]
+}

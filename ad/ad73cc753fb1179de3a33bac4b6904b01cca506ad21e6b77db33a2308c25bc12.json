@@ -1,0 +1,20 @@
+{
+  "url": "https://dheerajakula.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://dheerajakula.dev/blog/why-software-is-converging-on-rust",
+      "title": "Why software is converging on Rust in the age of AI",
+      "description": "For a decade, 'rewrite it in Rust' was a joke, because rewrites took years. In 2026, Ladybird, Bun, Meta's React Compiler and GitHub's Copilot runtime were all ported to Rust with AI agents in weeks, and a solo developer cloned Photoshop. Cheap rewrites explain the timing. The choice of Rust comes down to who reads the code: when agents write faster than anyone can review, the language whose compi"
+    },
+    {
+      "link": "https://dheerajakula.dev/blog/rust-primer-for-humans",
+      "title": "A Rust primer for humans: what matters when your agent writes the code",
+      "description": "Coding agents are writing more and more Rust, and a lot of people who know Python or TypeScript are about to start reviewing it. Rust from hello world to ownership and borrowing, explained with pictures, then Option and Result, traits and threads, and finally what to look for when an agent hands you a Rust diff."
+    },
+    {
+      "link": "https://dheerajakula.dev/blog/what-is-usd-universal-scene-description",
+      "title": "What is USD, and why studios moved their pipelines to it",
+      "description": "USD is the scene format Pixar built for its films and open sourced in 2016. What is inside a USD file, why its layers made studios like DreamWorks and Animal Logic rebuild their pipelines on it, and how to write and open one yourself in a few minutes."
+    }
+  ]
+}

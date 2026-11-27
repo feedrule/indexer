@@ -1,0 +1,20 @@
+{
+  "url": "https://boschko.ca/rss/",
+  "posts": [
+    {
+      "link": "https://boschko.ca/g1-ble-rce/",
+      "title": "UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range",
+      "description": "Root on a $20,000 humanoid robot from Bluetooth range. One chain crossing Bluetooth, Unitree’s cloud, mobile, and the firmware running the G1 itself. Here’s the complete technical breakdown of the $6,700 bounty and two CVEs it produced: CVE-2026-76639 / CVE-2026-76640."
+    },
+    {
+      "link": "https://boschko.ca/unitree-go2-rce/",
+      "title": "From DDS Packets to Robot Shells: Two RCEs in Unitree Go2 Robot Dog",
+      "description": "CVE-2026-27509 Unauthenticated DDS-Based Remote Code Execution & CVE-2026-27510 Mobile Database Tampering Leading to Remote Code Execution"
+    },
+    {
+      "link": "https://boschko.ca/why-models-break/",
+      "title": "When Models See Ghosts - Investigating Why Adversarial Examples Break Our Models",
+      "description": "Explore the trade-offs between accuracy, simplicity, and the chaos of high-dimensional data."
+    }
+  ]
+}

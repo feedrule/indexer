@@ -1,0 +1,20 @@
+{
+  "url": "https://til.verschooten.name/feed",
+  "posts": [
+    {
+      "link": "https://til.verschooten.name/til/2026-09-19/blue_green",
+      "title": "Blue/Green deployments with Caddy",
+      "description": "As readers of this site know I spend a reasonable time on improving my deployments of my Phoenix-based apps. A couple of weeks ago I switched to my first blue/green deployment and have been improving it steadily. What is a blue/green deployment? In a normal deployment we copy our new code to the server, stop the running instance, unpack the new code and restart the server. This has the negative ef"
+    },
+    {
+      "link": "https://til.verschooten.name/til/2026-03-04/eliminating_epmd",
+      "title": "Eliminating EPMD from my Elixir cluster",
+      "description": "Eliminating EPMD from my Elixir cluster I run three Elixir apps on my mail server — CountryCheck, MailMan and Webmail — clustered together via distributed Erlang so they can share PubSub messages. This has been working fine, except for one annoying problem: restarts. The problem When a service restarts, EPMD (the Erlang Port Mapper Daemon) sometimes still holds the old node name registration. The"
+    },
+    {
+      "link": "https://til.verschooten.name/til/2025-04-26/pihole",
+      "title": "Multi-instance Pi-hole setup",
+      "description": "I heard a lot about Pi-hole over the last couple of years but never had the time nor felt the inclination to do something with it. That is... until yesterday. I watched the explanations by TechnoTim and Wundertech a couple of times and went to work. I am not going to bore you with repeating what is already explained in the videos, but I do want to explain the changes I made. My setup I am running"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://paddo.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://paddo.dev/blog/gemini-4-neon/",
+      "title": "The Middle Child Wins: Gemini 4 Neon vs Opus 5.5 on Real Code",
+      "description": "Gemini 4 Neon matched Opus 5.5 on two tiers of real fixes from a production monorepo, at 70 to 95% of the cost and close to Opus speed. It tied Carbon's best score in a quarter of the time. Orchestrator mode added time and quota, not quality."
+    },
+    {
+      "link": "https://paddo.dev/blog/mai-code-2/",
+      "title": "The Promo Footnote: MAI Code 2 vs Opus 5.5 on Real Code",
+      "description": "Microsoft says MAI Code 2 gives 96% of Claude Opus 5.5 at 5% of the cost. A footnote says the cost is a 50% launch promo. On my production monorepo bench it passed 8 of 20 runs clean and broke existing tests in 5. Cheap, but not 96%."
+    },
+    {
+      "link": "https://paddo.dev/blog/astra-shipped-anyway/",
+      "title": "Astra Shipped Anyway: GPT-6.2 Astra's System Card and Theo's Open Letter",
+      "description": "A day after I wrote that OpenAI could not ship the next Astra, it shipped GPT-6.2 Astra. It fixed the scope problem that killed 6.1. The safety-research sandbagging number is missing from the system card, Astra now hides known blockers twice as often, and Theo's open letter shows what that looks like in real work."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://github.com/whatwg/fullscreen/commits/main.atom",
+  "posts": [
+    {
+      "link": "https://github.com/whatwg/fullscreen/commit/8ddc5e5a196b463e38294d092381327d7ab48b33",
+      "title": "Editorial: clone the list of pending fullscreen events before emptying",
+      "description": "Editorial: clone the list of pending fullscreen events before emptying Read literally, no events could be fired before, as pendingEvents was a reference to the list which was then emptied."
+    },
+    {
+      "link": "https://github.com/whatwg/fullscreen/commit/a3e9529f1cdff6a7f11b36b569dd38fbba40cb47",
+      "title": "Meta: update repository files",
+      "description": "Meta: update repository files See https://github.com/whatwg/spec-factory for details. Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+    },
+    {
+      "link": "https://github.com/whatwg/fullscreen/commit/7c38d773117aa1e6bfa13754afe77483f40c908f",
+      "title": "Review Draft Publication: July 2026",
+      "description": "Review Draft Publication: July 2026"
+    }
+  ]
+}

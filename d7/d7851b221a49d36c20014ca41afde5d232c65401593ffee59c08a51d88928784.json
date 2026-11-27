@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jcz.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
+      "title": "Gemini 3 Pro vs 2.5 Pro in Pokemon Crystal",
+      "description": "From 2.5 Pro's lighthouse loop to 3 Pro's \"Zombie Phoenix\" strategy against Red: a full breakdown of why Gemini 3 Pro is a superior long-horizon agent."
+    },
+    {
+      "link": "https://blog.jcz.dev/gemini-plays-pokemon-first-impressions-of-gemini-3-pro-riftrunner",
+      "title": "Gemini Plays Pokemon: First Impressions of Gemini 3 Pro \"Riftrunner\"",
+      "description": "With the release of Gemini 3 Pro Preview (codenamed \"Riftrunner\"), I wanted to share some initial observations from my testing over the past few days. I…"
+    },
+    {
+      "link": "https://blog.jcz.dev/the-making-of-gemini-plays-pokemon",
+      "title": "The Making of Gemini Plays Pokémon",
+      "description": "This making-of details how I built Gemini Plays Pokémon—enabling Gemini 2.5 Pro to handle a long-horizon game—and the failures and lessons behind it."
+    }
+  ]
+}

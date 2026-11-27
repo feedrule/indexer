@@ -1,0 +1,20 @@
+{
+  "url": "https://justpostgres.tech/rss.xml",
+  "posts": [
+    {
+      "link": "https://justpostgres.tech/blog/postgres-for-analytics",
+      "title": "Postgres for Analytics: These Are the Ways",
+      "description": "There are three ways you can use Postgres for analytics. Let's discuss them all!"
+    },
+    {
+      "link": "https://justpostgres.tech/blog/three-books-to-master-postgres",
+      "title": "Three Books to Truly Master Postgres in 2026",
+      "description": "Postgres books that let you discover or rediscover the database, from essential capabilities to internals."
+    },
+    {
+      "link": "https://justpostgres.tech/recipes/starting-postgres-in-docker",
+      "title": "Starting Postgres in Docker",
+      "description": "How to start Postgres in Docker in under a minute"
+    }
+  ]
+}

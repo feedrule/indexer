@@ -1,0 +1,20 @@
+{
+  "url": "https://www.researchut.com/categories/debian-blog/index.xml",
+  "posts": [
+    {
+      "link": "https://researchut.com/blog/taming_the_ai_agents_part_2_a2a/",
+      "title": "Taming the AI Agents (Part 2): Cross-Vendor Agent-to-Agent (A2A) Swarms over the Software Forge",
+      "description": "Preface: The Unanswered Frontier In Part 1: Taming the AI Agents , I shared the architectural blueprint of CAMP (Cross-Agent Memory Protocol) —how we used Linux Bubblewrap ( bwrap ), camp-acpd , OPA policy enforcement, and a central pgvector MemPalace to bring deterministic discipline, sandboxing, and long-term memory to a heterogeneous fleet of AI coding assistants (Claude Code, Google Antigravit"
+    },
+    {
+      "link": "https://researchut.com/blog/taming_the_ai_agents/",
+      "title": "Taming the AI Agents",
+      "description": "Preface: A Noob’s Journey into Agentic AI Although the AI surge felt like it was simmering for years, I jumped on the bandwagon relatively late—around November 2025. My very first interaction with AI was Perplexity through its web interface. As a complete novice, my expectations were honest and naive. It took multiple conversational iterations and several frustrated hours to finally grasp what an"
+    },
+    {
+      "link": "https://researchut.com/blog/debian_cosmic_fast_track/",
+      "title": "Debian COSMIC: A Fast-Track System Extension & Monorepo Packaging Journey",
+      "description": "System76’s COSMIC Desktop Environment —written from the ground up in Rust—is one of the most exciting developments in the Linux desktop ecosystem. Built for modern Wayland composition, modularity, and high-performance UX, it has captured the attention of desktop enthusiasts across distributions. However, for users running Debian Testing or Debian Unstable , getting COSMIC onto their machines tradi"
+    }
+  ]
+}

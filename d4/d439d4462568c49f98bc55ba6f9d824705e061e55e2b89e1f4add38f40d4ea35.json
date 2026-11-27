@@ -1,0 +1,20 @@
+{
+  "url": "https://www.railly.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.railly.dev/blog/devday-exchange-lima/",
+      "title": "What I Learned Hosting DevDay Exchange in Lima",
+      "description": "A DevDay recap at San Marcos, a deck built with Codex, a live demo, and the build session we never got to."
+    },
+    {
+      "link": "https://www.railly.dev/blog/hot-reload-01/",
+      "title": "Hot Reload 01: Coffee, Side Projects, and Three New Crafters",
+      "description": "A small coffee meetup in Miraflores, the people we met there, and what changes for edition 02 on December 12."
+    },
+    {
+      "link": "https://www.railly.dev/blog/agentic-second-brain-four-months-later/",
+      "title": "My Agentic Second Brain, Four Months Later",
+      "description": "What changed after four months: thinner context, versioned skills, bounded autonomy, and evidence that can be checked."
+    }
+  ]
+}

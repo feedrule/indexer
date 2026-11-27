@@ -1,0 +1,20 @@
+{
+  "url": "https://cieslak.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://cieslak.dev/blog/en/2026-06-24-lofi/",
+      "title": "Building a LoFi radio",
+      "description": "After listening to LoFi for quite some time, I decided to build my own radio station."
+    },
+    {
+      "link": "https://cieslak.dev/blog/pt-br/2026-06-24-lofi/",
+      "title": "Construindo uma rádio LoFi",
+      "description": "Depois de ouvir muito LoFi por aí, decidi criar minha própria estação de rádio."
+    },
+    {
+      "link": "https://cieslak.dev/blog/en/2025-07-17-cs2-ai-benchmark/",
+      "title": "CS2 Match Prediction with AI Multi-Model comparison",
+      "description": "This is a benchmark of different LLM models that predict matches of Counter-Strike 2 in the 2025 Austin Major Championship."
+    }
+  ]
+}

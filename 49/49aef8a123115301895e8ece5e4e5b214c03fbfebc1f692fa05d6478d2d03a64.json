@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.faav.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "title": "How I Could've Accessed 17 Trillion Microsoft Records",
+      "description": "How one unchecked login token put 17 trillion rows in a Microsoft internal analytics service within reach."
+    },
+    {
+      "link": "https://blog.faav.net/microsoft-events-leak-part-ii",
+      "title": "Microsoft Events Leak, Part II: Leaking Event Registration Database Again",
+      "description": "How I was able to bypass Microsoft's fix and leak the Microsoft Event Registration again."
+    },
+    {
+      "link": "https://blog.faav.net/microsoft-events-leak-part-i",
+      "title": "Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases",
+      "description": "How I was able to leak the Microsoft Event Registration and Waitlist Databases to leak tons of PII."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://dirtyhandscoding.github.io/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://dirtyhandscoding.github.io/posts/natvis-like-experience-with-gdb-pretty-printers-introduction.html",
+      "title": "Natvis-like experience with GDB pretty printers. Introduction",
+      "description": "Over the years of working on TheDarkMod game, we have amassed 1K lines of natvis code, 95 type definitions in total. Natvis has become an inherent part of good debugging experience, but it is available only on Windows. This story is about my attempt to extend this experience to the Linux side. This multipart article explains how to reimplement most of the inherent natvis features on top of GDB pre"
+    },
+    {
+      "link": "https://dirtyhandscoding.github.io/posts/fast-debug-in-visual-c.html",
+      "title": "Fast Debug in Visual C++",
+      "description": "It is well-known that Debug build in Visual C++ is very slow compared to Release build, with the typical ratio about 10-20 times. Various reasons behind it are often stated, and some people even believe that it is inevitable because it is caused by lack of compiler optimizations. If some issue happens only on a large dataset or in a real-time application, and it cannot be extracted into a smaller"
+    },
+    {
+      "link": "https://dirtyhandscoding.github.io/posts/on-cpp-code-bloat.html",
+      "title": "On C++ code bloat",
+      "description": "The C++ language is known for its slow build times. This problem is not present in the world of pure C, which might give a hint that the problem is caused by some C++ feature. In fact, it is caused by bad habit or writing code in headers, severely worsened by C++ templates and inspired by STL itself."
+    }
+  ]
+}

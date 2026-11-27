@@ -1,0 +1,20 @@
+{
+  "url": "https://www.denis.lemire.name/feed/",
+  "posts": [
+    {
+      "link": "https://www.denis.lemire.name/2026/04/12/walking-it-off/",
+      "title": "Walking it off…",
+      "description": "Been walking very near daily, relentlessly since August of 2023… The results have been motivating, starting weight was 314.6 lbs in July 2023… 249.6 lbs at time of this writing… 65 lbs burned and counting!"
+    },
+    {
+      "link": "https://www.denis.lemire.name/2026/04/09/a-redesign/",
+      "title": "A redesign…",
+      "description": "Started fresh with a from scratch theme… Then iterated and iterated on it and suddenly… This almost looks passable as a site built this millennium… Far from perfect but a good start."
+    },
+    {
+      "link": "https://www.denis.lemire.name/2026/04/06/im-in-a-kubernetes-pod/",
+      "title": "I’m in a Kubernetes pod!",
+      "description": "Migrated this largely neglected time-capsule from the BastilleBSD jail to my local Kubernetes cluster. The operation was largely AI driven, courtesy of Cursor. It’s noticeably more performant now that’s it’s not running on a single aging Atom box!"
+    }
+  ]
+}

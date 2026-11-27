@@ -1,0 +1,20 @@
+{
+  "url": "https://jda.bearblog.dev/atom/",
+  "posts": [
+    {
+      "link": "https://jda.bearblog.dev/removing-ai-slop-from-an-output/",
+      "title": "Removing AI slop from an output",
+      "description": "I've recently been using some version of this whenever I'm prompting. Please make sure that your responses adhere to ASD-STE100 format. ASD-STE100 Simple Technical English (STE) is a standard for technical documentation that was created to make manuals that were clear, concise, and easy to understand. When given to an LLM, it drastically reduces the amount of slop it produces in its answer. LLM's"
+    },
+    {
+      "link": "https://jda.bearblog.dev/its-starting-to-click/",
+      "title": "It's starting to click",
+      "description": "I don't know what's been going on with me this past year, but I feel so lethargic when it comes to grasping ideas. I think part of it was going full software factory at my last place. Pumping out as many features as possible was our priority. Because of this, I never took great consideration as to the long term effects of what my code was doing. If tomorrow wasn't promised, who cares what you did"
+    },
+    {
+      "link": "https://jda.bearblog.dev/your-ideas-suck/",
+      "title": "Your ideas suck",
+      "description": "I keep getting YouTube ads for Base44. Their tagline is, \"Turn your ideas into apps.\" That's a pretty compelling pitch. There's only one problem: your ideas suck. Good ideas are rare . More often than not, the ideas we come up with are either neutral or, worse, actively detrimental to the organization. Even in the age of AI, where we're all supposedly equals in terms of output, only a handful of p"
+    }
+  ]
+}

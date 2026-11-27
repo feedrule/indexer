@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jourdant.me/rss/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.jourdant.me/post/quickstart-running-azure-devops-v5-build-agents-on-macos-and-apple-silicon",
+      "title": "Quickstart: Running Azure DevOps v5 Build Agents on macOS and Apple Silicon",
+      "description": "Microsoft has moved the Azure DevOps pipelines agent from version 4.x to version 5.x . I've updated the script from my original quickstart to match, and it's still running happily on my Mac Mini. Not much has changed. The v5 agent still ships as a native ARM64 build for Apple Silicon and the setup process is the same. There are two things to know before you start. What's changed in v5? The agent n"
+    },
+    {
+      "link": "https://blog.jourdant.me/post/download-files-with-powershell",
+      "title": "Downloading files with PowerShell in 2026",
+      "description": "This is the 2026 rewrite of 3 ways to download files with PowerShell , my most popular post by a long way. It’s been read and referenced hundreds of thousands of times since 2015, and most of its advice no longer holds. Back in 2015 I timed three ways to download a file in PowerShell 4 on Windows 8.1. The built-in cmdlet was slow, WebClient was the pick and BITS was a close second. Eleven years on"
+    },
+    {
+      "link": "https://blog.jourdant.me/post/quickstart-running-azure-devops-build-agents-on-macos-and-apple-silicon",
+      "title": "Quickstart: Running Azure DevOps Build Agents on macOS and Apple Silicon",
+      "description": "UPDATE (November 2026): Azure DevOps has moved to the v5 build agent , which runs on .NET 10 and requires macOS 14 Sonoma or later. I've written an updated version of this guide: Quickstart: Running Azure DevOps v5 Build Agents on macOS and Apple Silicon . The steps below cover the 4.x agent, which you'll still need on macOS Ventura or with Azure DevOps Server. I've been daily driving Macs as my p"
+    }
+  ]
+}

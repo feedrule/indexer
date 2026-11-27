@@ -1,0 +1,20 @@
+{
+  "url": "https://vasvir.wordpress.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://vasvir.wordpress.com/2025/08/26/make-sql-an-old-new-way-for-data-science-workloads/",
+      "title": "Make + SQL: An old new way for Data Science workloads",
+      "description": "Make + SQL: An old new way for Data Science workloads"
+    },
+    {
+      "link": "https://vasvir.wordpress.com/2021/02/15/apc-back-ups-rs-1000-not-charging-rs-800-overload-a-two-birds-with-one-stone-story/",
+      "title": "APC Back-UPS RS 1000 not charging & RS 800 overload: A two birds with one stone story.",
+      "description": "My APC Back-UPS RS 800 was sitting, in non working condition (batteries and inverter were hanging out) under my desk for several months to my wife’s dismay. After a power failure a APC Back-UPS RS 1000 from work died too. I promised to take look hoping for the easy fix. Having two UPS under my … Continue reading \"APC Back-UPS RS 1000 not charging & RS 800 overload: A two birds with one stone story"
+    },
+    {
+      "link": "https://vasvir.wordpress.com/2021/03/25/gnu-make-function-arguments-with-comma/",
+      "title": "GNU Make function arguments with comma?",
+      "description": "Contrary to the Betteridge’s law of headlines that states “Any headline that ends in a question mark can be answered by the word no” we can answer this with a definitely yes: we can have comma in Make argument’s functions albeit with some ceremony… But fist some background. Make is a build tool that its … Continue reading \"GNU Make function arguments with comma?\""
+    }
+  ]
+}

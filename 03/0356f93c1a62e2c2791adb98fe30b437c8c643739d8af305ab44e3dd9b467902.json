@@ -1,0 +1,20 @@
+{
+  "url": "https://thelackthereof.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://thelackthereof.org/tlt-2026.05.16-summer-job-samba-interview",
+      "title": "Summer Job Samba Interview",
+      "description": "First you get the job Fixing Samba. Then you get the book so you can learn how to Fix Samba. Then you figure out what the actual job entails (... which is not Samba)."
+    },
+    {
+      "link": "https://thelackthereof.org/tlt-2026.03.08-agent-researcher-helping-with-remarkable-ghostwriter",
+      "title": "Agent-Researcher Helping With reMarkable Ghostwriter",
+      "description": "With Ghostwriter I inject pen input on the device to show the output of LLM (Claude, ChatGPT, Gemini, etc) on-device. But the result is a bit messy. So here I give Claude Code some direction and access to the device to iterate experimentally!"
+    },
+    {
+      "link": "https://thelackthereof.org/tlt-2026.02.22-modern-coding-discomfort-or-four-colors-suffice",
+      "title": "Modern Coding Discomfort, or, Four Colors Suffice",
+      "description": "Some thoughts on modern generative code discomfort and the Four Color Problem"
+    }
+  ]
+}

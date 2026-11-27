@@ -1,0 +1,20 @@
+{
+  "url": "https://quirkyagents.com/wizard/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://quirkyagents.com/wizard/blog/ai-agent-tool-approval-gates-tested/",
+      "title": "Approval gates for AI agent tool calls, tested in 1,940 runs",
+      "description": "Three rules for when an AI agent must ask before it acts, tested on an email agent with planted attacks: what each one stopped, and how often it asked."
+    },
+    {
+      "link": "https://quirkyagents.com/wizard/blog/how-to-test-ai-agent-prompt-injection/",
+      "title": "How to test an AI agent for prompt injection",
+      "description": "A small test world, attacks with harmless twins, three delivery paths and scoring from what the agent did: the method behind this series."
+    },
+    {
+      "link": "https://quirkyagents.com/wizard/blog/prompt-injection-email-agent-three-harnesses/",
+      "title": "Prompt injection on an email agent: 960 runs",
+      "description": "An email agent with a password file and planted emails: what leaked, and why \"data, not instructions\" tags stopped Claude doing its job."
+    }
+  ]
+}

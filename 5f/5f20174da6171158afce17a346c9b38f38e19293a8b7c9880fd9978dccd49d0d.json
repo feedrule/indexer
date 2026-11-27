@@ -1,0 +1,20 @@
+{
+  "url": "https://viceconsole.fyi/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://viceconsole.fyi/blog/2026/11/01/securely-accessing-your-self-hosted-services/",
+      "title": "Securely Accessing Your Self-Hosted Services",
+      "description": "Securely Accessing and Sharing Your Self-Hosted Services Introduction In my first post on what I self-host , I mentioned I had a method for sharing Immich albums with friends and family. A few readers e-mailed me to ask for details. In this post, I share what I told them, as well as a different solution using mTLS client certificates that offers substantial benefits for self-hosters. The Motivatio"
+    },
+    {
+      "link": "https://viceconsole.fyi/blog/2026/10/14/what-else-i-self-host/",
+      "title": "What Else I Self Host",
+      "description": "What Else I Self Host In my previous post about self-hosting , I discussed 28 services I run on my home server. These are various media, security, home, management, and infrastructure services. But my home server isn’t the only machine hosting services on my network… Wireguard and OpenVPN I run Wireguard and OpenVPN on my router. These are the only two services I’m willing to expose to the public"
+    },
+    {
+      "link": "https://viceconsole.fyi/blog/about/",
+      "title": "About",
+      "description": "After my PhD, I left academia halfway through my postdoc to join the tech industry. I spent several years at a rapidly growing consultancy, then joined a client where I stayed another couple years. I then turned down a FAANG offer to work as a diplomat for a few more years. I left government in 2025 and have been living in France since. I used to blog publicly, mostly about academic topics, but st"
+    }
+  ]
+}

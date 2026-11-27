@@ -1,0 +1,20 @@
+{
+  "url": "https://mattstockton.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://mattstockton.com/2026/07/30/five-lessons-from-putting-ai-into-research-teams.html",
+      "title": "Five Lessons from Putting AI Into Research Teams",
+      "description": "Which tasks to automate, where analysts push back, and how to tell if a workflow is quietly getting worse - five lessons from a talk I gave last month on getting AI into research workflows."
+    },
+    {
+      "link": "https://mattstockton.com/2026/07/12/how-i-use-modal.html",
+      "title": "How I Use Modal",
+      "description": "A tour of two practical Modal deployment patterns: cron jobs, secrets, volumes, static IPs, web apps, background AI jobs, and sandboxes, all in plain Python."
+    },
+    {
+      "link": "https://mattstockton.com/2026/07/07/building-the-multiplayer-institutional-brain.html",
+      "title": "Building the Multiplayer Institutional Brain",
+      "description": "I joined Khe and Brett on the Invest with AI podcast to talk about how investment firms move from individual AI experimentation to a shared, firm-wide capability. These are the seven strategies from our conversation."
+    }
+  ]
+}

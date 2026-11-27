@@ -1,0 +1,20 @@
+{
+  "url": "https://pustelto.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://pustelto.com/blog/how-i-plan-year/",
+      "title": "How I plan my year (after ruthlessly simplifying the process for 5 years)",
+      "description": "Every January, I have a tradition. I rent a small cottage in the middle of the Czech Republic ( hotel Kouty , absolutely amazing place), disconnect from everything, and spend a weekend reflecting on the past year and thinking about the year ahead. This year was my fifth time doing it. And I’ve finally found a system that works. In the past, I always thought I had to get the most out of the weekend"
+    },
+    {
+      "link": "https://pustelto.com/blog/reverse-engineer-linear-1-header/",
+      "title": "Reverse engineering Linear - part 1: Header",
+      "description": "With the advancement of AI, I’ve decided to try something different from building. Something that was previously very hard. I threw an AI at production, minified JavaScript code, and reverse engineered it back to readable JSX files and analyzed how it’s built. The goal : Learn from top-tier software engineers and share valuable lessons with others. Target : Linear - software I deeply admire for it"
+    },
+    {
+      "link": "https://pustelto.com/blog/building-clipio-reflection/",
+      "title": "Reflecting on my indiehacking journey building Clipio",
+      "description": "After over a year of development, I finally launched Clipio — a browser extension that lets you save web content effortlessly into Notion. This article is a reflection about my journey with highs and lows and lessons I have learned the hard way. First some numbers: Over 1 year of development, 18 upvotes on ProductHunt and #33 product of the day, made exactly 1 sale. Not an impressive numbers. But"
+    }
+  ]
+}

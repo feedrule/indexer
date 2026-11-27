@@ -1,0 +1,20 @@
+{
+  "url": "https://jonlu.ca/feed.xml",
+  "posts": [
+    {
+      "link": "https://jonlu.ca/posts/http-headers-top-1000",
+      "title": "Snowmen, Recruiters, and Terry Pratchett: The Web's HTTP Header Junk Drawer",
+      "description": "I crawled the top 1,000 sites and read their response headers. Browser fossils, CDN breadcrumbs, leaked codenames, a snowman, and a tribute to Terry Pratchett."
+    },
+    {
+      "link": "https://jonlu.ca/posts/smoothing-the-jagged-frontier",
+      "title": "Smoothing the jagged frontier",
+      "description": "AI models may bring back the ability to combine deep expertise from every field toward a single goal."
+    },
+    {
+      "link": "https://jonlu.ca/posts/vibecoding-native-apps",
+      "title": "Vibecoding native apps has gotten really good",
+      "description": "I built a fine dining tracker app using React Native, and the experience was surprisingly smooth, both from how good React Native has gotten, and how much better the models are."
+    }
+  ]
+}

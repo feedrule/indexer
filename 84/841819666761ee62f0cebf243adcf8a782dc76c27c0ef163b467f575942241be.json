@@ -1,0 +1,20 @@
+{
+  "url": "https://www.thenewscienceofmaps.com/blog?format=rss",
+  "posts": [
+    {
+      "link": "https://www.thenewscienceofmaps.com/blog/earth-song",
+      "title": "What Does the Earth Sound Like? I Played the Planet’s Elevation as Music",
+      "description": "A globe spins past a fixed line, and every strip of terrain crossing it is played as sound: land becomes notes, height sets the pitch, and the ocean stays silent. The Andes arrive as a high chord, the Himalaya is the loudest passage on the planet, and when the Pacific slides under the line, the Earth goes quiet for seven seconds. All of it computed from NOAA elevation data in pure Python - no inst"
+    },
+    {
+      "link": "https://www.thenewscienceofmaps.com/blog/transit-pulse",
+      "title": "Interactive Transit pulse Maps",
+      "description": "My transit reels became an interactive map. Pick a city on the world map, drag the clock through a full weekday and watch every scheduled bus, tram, metro and train move, from the first morning trams to the last night buses. 12 cities so far, including Paris, New York, Budapest and Vienna, built from open GTFS timetable data. Tell me which city should come next."
+    },
+    {
+      "link": "https://www.thenewscienceofmaps.com/blog/3d-city-dioramas-in-python",
+      "title": "3D City Dioramas in Python",
+      "description": "A voxel diorama of a real place is three layers stacked on each other. OpenStreetMap says where the buildings are, the Copernicus DEM says what the ground underneath them does, and Sentinel-2 says what the whole thing looks like. None of it costs anything and none of it needs an API key. Here is what each layer contributes, where each one stops, and what you can do with the model once it is built."
+    }
+  ]
+}

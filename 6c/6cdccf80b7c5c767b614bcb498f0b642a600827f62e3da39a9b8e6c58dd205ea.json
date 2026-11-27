@@ -1,0 +1,20 @@
+{
+  "url": "https://www.manparvesh.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://manparvesh.com/blog/slow-days/",
+      "title": "You Need Slow Days in your Life",
+      "description": "Year-end reflections on living life more meaningfully"
+    },
+    {
+      "link": "https://manparvesh.com/blog/hugo-to-astro/",
+      "title": "Migrating from Hugo to Astro",
+      "description": "Migrating from two separate Hugo sites to a single unified Astro website (this website)"
+    },
+    {
+      "link": "https://manparvesh.com/blog/symfony-blog-platform/",
+      "title": "Building a PHP Blog Platform with Symfony",
+      "description": "Exploring the Symfony web framework for blog platform development, weighing the benefits of dynamic content management against static site generation."
+    }
+  ]
+}

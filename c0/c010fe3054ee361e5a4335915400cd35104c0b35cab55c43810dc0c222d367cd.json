@@ -1,0 +1,20 @@
+{
+  "url": "https://imti.co/index.xml",
+  "posts": [
+    {
+      "link": "https://imti.co/fewbottles/",
+      "title": "Don't Pay to Host Your Hobby",
+      "description": "fewbottles.com is a working cocktail app that costs me a domain name and nothing else. GitHub Pages is the origin. Cloudflare is the front door. The only state that matters lives in the phone that opened the page. I do not rent a server, I do not run a database, and I do not have an account system, because the menu is four JSON files and the shelf is a bitmask. If you are paying a host for a site"
+    },
+    {
+      "link": "https://imti.co/plexara/",
+      "title": "Plexara: A Managed MCP Layer for Data Platforms",
+      "description": "I have been assembling data platforms for clients for over twenty years. For most of 2025 I was also writing the glue that let a language model sit on top of them. Plexara is what Deasil Works runs in place of that glue: one MCP URL, in front of the warehouse, the catalog, the object store, and the vendor APIs the platform already talks to, signed in through the customer’s own identity provider, w"
+    },
+    {
+      "link": "https://imti.co/resume/",
+      "title": "Resume",
+      "description": "A Chief Engineer with over twenty-five years of experience in software architecture, development, and digital transformation. Deep expertise in Go, Python, and Java , leading projects across entertainment, retail, manufacturing, government, energy, and education. Notable work in IoT , machine learning , and bare-metal Kubernetes platform architecture , with significant open-source contributions. C"
+    }
+  ]
+}

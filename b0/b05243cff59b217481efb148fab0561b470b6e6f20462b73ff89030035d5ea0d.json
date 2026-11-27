@@ -1,0 +1,20 @@
+{
+  "url": "https://syslinuxos.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://syslinuxos.com/dhcp-gui-complete-step-by-step-dhcp-server-guide/",
+      "title": "DHCP-GUI: a complete step-by-step guide to configuring a DHCP server",
+      "description": "Step-by-step DHCP-GUI guide: install Kea, configure subnet and reservations, preview, start service and monitor leases. L'articolo DHCP-GUI: a complete step-by-step guide to configuring a DHCP server proviene da SysLinuxOS ."
+    },
+    {
+      "link": "https://syslinuxos.com/ethtool-gui-ethernet-settings-diagnostics-guide/",
+      "title": "ethtool-GUI: guide to Ethernet settings and diagnostics",
+      "description": "ethtool-GUI shows Ethernet link, driver and counters, with settings, hardware tests, snapshots and timed recovery. L'articolo ethtool-GUI: guide to Ethernet settings and diagnostics proviene da SysLinuxOS ."
+    },
+    {
+      "link": "https://syslinuxos.com/tftpd-gui-tftp-dhcp-syslog-guide/",
+      "title": "Tftpd-GUI Linux alternative to tftpd64",
+      "description": "Tftpd-GUI combines a TFTP server and client, temporary DHCP and Syslog collection in one window with explicit network controls. L'articolo Tftpd-GUI Linux alternative to tftpd64 proviene da SysLinuxOS ."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://vouillon.github.io/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://vouillon.github.io/blog/posts/theo/",
+      "title": "Teaching Booleans About Versions: A Theory-Augmented BDD Library in OCaml",
+      "description": "What if checking whether two formulas with a million nodes are logically equivalent took exactly one machine instruction? Binary Decision Diagrams (BDDs) make this possible. They give you a canonical representation of boolean functions (two logically equivalent formulas always produce the exact same structure), which turns equivalence checking into a pointer comparison. Theo is an OCaml library th"
+    },
+    {
+      "link": "https://vouillon.github.io/blog/about/",
+      "title": "About",
+      "description": "I am a software engineer at Tarides , mostly working on Js_of_ocaml and Wasm_of_ocaml — compilers from OCaml bytecode to JavaScript and WebAssembly. During my PhD, I designed and implemented the object-oriented layer of the OCaml language. I then worked as a research scientist at CNRS , where I authored Lwt (cooperative threading), ocaml-re (regular expressions), and co-maintained the Unison file"
+    }
+  ]
+}

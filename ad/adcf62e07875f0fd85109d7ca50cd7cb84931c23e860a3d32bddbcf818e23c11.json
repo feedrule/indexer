@@ -1,0 +1,20 @@
+{
+  "url": "https://dev.authorbuzz.co.uk/feed/",
+  "posts": [
+    {
+      "link": "https://dev.authorbuzz.co.uk/2026/09/28/im-checking-up-on-a-small-bug/",
+      "title": "I’m checking up on a small bug",
+      "description": "There appears to be an issue with ActivityPub on some blogs, including Author Buzz HQ. It should not break the site (as far as I can tell), but it might make following the blog on the fediverse tricky. Whatever the problem is, I’m on it. Update 1: Dev blog itself … The post I’m checking up on a small bug appeared first on Author Buzz Developer Blog ."
+    },
+    {
+      "link": "https://dev.authorbuzz.co.uk/2026/03/29/website-improvements/",
+      "title": "Website improvements",
+      "description": "A big old feature update today. The activity feed for the site now runs from the same dynamic system as the rest of the site. Which means: Other changes: I’ve reduced the active groups list to three groups. This is so the activity feed appears higher up the page. I’m … The post Website improvements appeared first on Author Buzz Developer Blog ."
+    },
+    {
+      "link": "https://dev.authorbuzz.co.uk/2026/03/15/changes-and-updates/",
+      "title": "Changes and updates",
+      "description": "Some of you have noticed some changes being made in Author Buzz UK. Under the hood, this is not a big change, but I hope it will go some way to making the site nicer to use. Groups Up until now, there have been blogs, groups, profiles, forums… Now there … The post Changes and updates appeared first on Author Buzz Developer Blog ."
+    }
+  ]
+}

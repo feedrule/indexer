@@ -1,0 +1,20 @@
+{
+  "url": "https://www.foo.be/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.foo.be/2026/11/Offensive-Agency-in-MISP",
+      "title": "Monitoring agentic framework exposure with Offensive Agency and MISP",
+      "description": "In my previous post , I wrote about the infrastructure that makes agentic attacks possible. One practical question for defenders is which interfaces these frameworks expose to the Internet and whether any of our own assets appear in those observations. Thanks to Fafner (_KeyZee_) for making the Offensive Agency tracker and its data available, and to ONYPHE for the underlying Internet scan data. Th"
+    },
+    {
+      "link": "https://www.foo.be/2026/11/From_SATAN_to_Agentic_Attacks",
+      "title": "From SATAN to Agentic Attacks: We Keep Fearing the Tools, Not the Infrastructure",
+      "description": "Here we go again. The cybersecurity community has discovered another terrifying category of tools: agentic attack frameworks. ARTEX, Cairn, PentAGI, HexStrike, and others are making headlines because they allow AI agents to automate reconnaissance, exploitation, and lateral movement. Reports of their use in real intrusions are multiplying, and defensive initiatives such as [Agentic Attack Detectio"
+    },
+    {
+      "link": "https://www.foo.be/2026/08/Open-Source-Metrics",
+      "title": "How mature is this repository? My long quest for open-source software metrics",
+      "description": "How mature is this repository? My long quest for open-source software metrics For years, I have been looking for a reasonable answer to a deceptively simple question: When I discover an open-source software project for the first time, how can I estimate whether it is mature, healthy and usable? Usually the first encounter is a repository on GitHub, GitLab, Codeberg or another forge. And usually we"
+    }
+  ]
+}

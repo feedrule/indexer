@@ -1,0 +1,20 @@
+{
+  "url": "https://aseemshrey.in/rss.xml",
+  "posts": [
+    {
+      "link": "https://aseemshrey.in/blog/running-qwen3-8-27b-uncensored/",
+      "title": "I Rented a 96 GB GPU and Took Uncensored Qwen3.8 From 44 to 125 tok/s",
+      "description": "How I took an uncensored Qwen3.8 27B model from 42 to 125 tokens per second, used it for a real security investigation, and learned that I did not actually need 96 GB of VRAM."
+    },
+    {
+      "link": "https://aseemshrey.in/blog/unmasking-ox-alpha/",
+      "title": "I Let an Uncensored AI Hunt Ox Alpha. It Found GLM-5.",
+      "description": "An autonomous Qwen3.8 red-team agent, 600+ calls, 13.5M prompt tokens, and two emoji: how OpenCode's secret model led me straight to Z.ai's GLM-5 generation."
+    },
+    {
+      "link": "https://aseemshrey.in/blog/security-engineer-kaun/",
+      "title": "Security Engineer Kaun?",
+      "description": "Security engineering is not just hacking, scanners, or tools. It is people, context, systems, automation, and reducing risk without slowing everyone down."
+    }
+  ]
+}

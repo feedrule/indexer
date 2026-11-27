@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dergraf.org/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.dergraf.org/notes/canister-an-invitation-to-break-it/",
+      "title": "Canister: An Invitation to Break It and Tell Me Where It Doesn't Fit",
+      "description": "A few months ago I posted a small note on LinkedIn about a holiday project: Canister , an unprivileged Linux sandbox for running code you don’t fully trust – AI-generated scripts, npm install , build steps from a repo you just cloned. A lot has changed since then, and I mostly stayed quiet about it. A couple of the notes here even slipped out as drafts before I meant to publish them – if you read"
+    },
+    {
+      "link": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+      "title": "A Network Allow-List Won't Stop Exfiltration",
+      "description": "Say you run a piece of untrusted code – an AI-generated script, a dependency’s postinstall hook, a build step from a repo you just cloned – inside a sandbox. You lock it down: no filesystem access outside the working directory, no network except the one domain it legitimately needs, no dangerous syscalls. That stops a lot of bad behavior. It also has a blind spot, and it’s a big one. I ran into th"
+    },
+    {
+      "link": "https://www.dergraf.org/notes/testing-canister-on-real-vms/",
+      "title": "Testing a Sandbox on Real VMs in CI",
+      "description": "A sandbox that doesn’t get tested against the thing it’s defending against isn’t a sandbox. It’s a wish. Canister relies on Linux kernel features – user namespaces, seccomp BPF, mount isolation – and on Mandatory Access Control systems like SELinux and AppArmor. These are not things you can meaningfully test in a container. Containers share the host kernel. They don’t run their own SELinux policy"
+    }
+  ]
+}

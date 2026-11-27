@@ -1,0 +1,20 @@
+{
+  "url": "https://rakuforprediction.wordpress.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://rakuforprediction.wordpress.com/2026/11/24/three-big-advancements-in-raku-numerics/",
+      "title": "Three Big Advancements in Raku Numerics",
+      "description": "This blog post describes three major advancements in Raku's numerical algorithms packages: 1) Extensible numerical integration, 2) Optimization support, and 3) Quantile regression and regression workflows. “Big advancements” is used here in a Raku-ecosystem functionality sense. But more generally speaking, the advancement is the increasing availability of extensible APIs, higher-level workflows, a"
+    },
+    {
+      "link": "https://rakuforprediction.wordpress.com/2026/11/21/using-apples-foundation-models-in-raku-sessions/",
+      "title": "Using Apple’s Foundation Models in Raku Sessions",
+      "description": "This blog post demonstrates how to use Apple’s Foundation Models (FM) in Raku sessions. It is designed for developers who want to integrate FM capabilities—such as text generation, image description, and structured data extraction—into Raku workflows, Jupyter notebooks, or computational Markdown documents."
+    },
+    {
+      "link": "https://rakuforprediction.wordpress.com/2026/09/23/get-bulku-localization-of-raku-to-bulgarian/",
+      "title": "Get bulku (локализация на Раку на български език)",
+      "description": "Тhe Raku package \"L10N::BG\" localizes Raku to understand Bulgarian. (Локализация на програминия език Раку на бългаски език.)"
+    }
+  ]
+}

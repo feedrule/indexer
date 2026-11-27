@@ -1,0 +1,20 @@
+{
+  "url": "https://www.moystard.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.moystard.com/blog/ai-native-juniors/",
+      "title": "How juniors learn the trade when an agent writes the code",
+      "description": "In my last post I described how we structure delivery so that human judgement is spent where it matters, and I left one problem open: that model assumes seasoned judgement at the gates, and I could not say how a junior grows it inside a system that shields them from the grind that used to build it. I still would not call it solved. AI-native is a young way of working, and, as far as I know, nobody"
+    },
+    {
+      "link": "https://www.moystard.com/blog/ai-native-delivery/",
+      "title": "Spending judgement where it matters: how we structure AI-native delivery",
+      "description": "A few weeks ago I wrote about cognitive debt : the slow loss of judgement that comes from letting a model think in your place. The natural question that follows: how do you use these tools seriously, at full speed, without paying that price? Here is my answer, after a year of building a production fintech this way. It isn't using the tools less. It isn't trying harder to stay alert, because attent"
+    },
+    {
+      "link": "https://www.moystard.com/blog/ai-cognitive-debt/",
+      "title": "We are trading productivity for cognitive debt",
+      "description": "We are trading productivity for cognitive debt, and most of us have not noticed the bill."
+    }
+  ]
+}

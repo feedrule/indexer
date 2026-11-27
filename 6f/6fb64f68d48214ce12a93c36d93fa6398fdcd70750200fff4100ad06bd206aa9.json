@@ -1,0 +1,20 @@
+{
+  "url": "https://nkpremices.com/rss/",
+  "posts": [
+    {
+      "link": "https://premlogic.dev/could-ai-become-too-successful-for-its-own-good/",
+      "title": "Could AI Become Too Successful for Its Own Good?",
+      "description": "What happens when AI makes businesses more productive but leaves fewer people able to afford what they produce? As automation reshapes work and wealth, could AI's greatest success eventually undermine the very economy that sustains it?"
+    },
+    {
+      "link": "https://premlogic.dev/lets-create-an-lru-cache-with-rust/",
+      "title": "Let's create an LRU cache with Rust",
+      "description": "A practical Rust implementation of an LRU cache using a HashMap and an index-based doubly linked list, with the ownership tradeoffs made explicit."
+    },
+    {
+      "link": "https://premlogic.dev/automating-public-asset-delivery-with-s3-cloudfront-api-gateway-and-terraform/",
+      "title": "Automating Public Asset Delivery with S3, CloudFront, API Gateway, and Terraform",
+      "description": "A walkthrough of serving public assets from S3 without making the bucket itself the public interface, using CloudFront, API Gateway, IAM, and Terraform."
+    }
+  ]
+}

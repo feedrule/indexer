@@ -1,0 +1,20 @@
+{
+  "url": "https://fiedzia.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://fiedzia.blogspot.com/2026/06/the-case-for-memory-safe-desktop-linux.html",
+      "title": "The case for memory safe desktop Linux distribution",
+      "description": "I am writing this after setting up new laptop, so I have some thought about how I'd like my system to work and decided to write them down. I am not sure if I will follow up in this as making new distro is insane amount of work, but I am starting to think this would be a good idea. Note: if you think that C/C++ is fine language with no issues, skip this article, it is not for you. Unix systems (whi"
+    },
+    {
+      "link": "https://fiedzia.blogspot.com/2017/02/what-makes-programming-languages-easy.html",
+      "title": "What makes programming languages easy and why you want one that isn't",
+      "description": "I'm writing this as a summary of my thoughts about people who praise and value simplicity in programming languages, often when they learn the basics of programming and write their hello worlds, linked lists and Book classes. While being simple may seem as a good thing initially, not everyone realises the costs and trade-offs involved in making things easy, so I'd like to point them out. I wrote th"
+    },
+    {
+      "link": "https://fiedzia.blogspot.com/2017/01/the-quest-for-usable-rust-libraries.html",
+      "title": "The quest for usable rust libraries",
+      "description": "I've seen few discussions recently related to rust ecosystem maturity and I'd like to express my opinion - particularly because other programming languages are often mentioned, and I am old enough to remember how and why they were created the way they are, and what costs and benefits it brings. One thing I want reader to get out of this article is that just gathering collection of recommended crat"
+    }
+  ]
+}

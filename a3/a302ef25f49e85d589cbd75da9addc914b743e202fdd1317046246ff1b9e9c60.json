@@ -1,0 +1,20 @@
+{
+  "url": "https://vstinner.github.io/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://vstinner.github.io/optimize-pybyteswriter-pyunicodewriter-implementation.html",
+      "title": "Optimize PyBytesWriter and PyUnicodeWriter implementation",
+      "description": "This article describes my recent work on PyBytesWriter and PyUnicodeWriter C API, bugfixes, optimizations, documentation changes, with some references to older work. PyBytesWriter is now 1.28x faster than Python 3.15 on a micro-benchmark creating the string b'abc' . PyUnicodeWriter can now avoid memory copies in some cases (read-only buffer …"
+    },
+    {
+      "link": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
+      "title": "PEP 814: Add frozendict built-in type",
+      "description": "In November 2025 at Pycon France (at Lyon), I watched the talk \"Build a frozendict type (immutable dictionary)\" by Antoine Rozo ( video in French). It was a funny talk building a frozendict type in pure Python exploring different implementations such as a frozen dataclass with slots, frozenset , and super . See …"
+    },
+    {
+      "link": "https://vstinner.github.io/free-threading-pymutex.html",
+      "title": "Free Threading internals: PyMutex",
+      "description": "I'm writing an article series on Free Threading internals to learn more about Free Threading, explain how it works, and explain how it solved the \"remove the GIL\" issue where previous attempts failed. Reference counting Deferred reference counting PyMutex (this article) PEP 703 replaces the unique Global Interpreter Lock (GIL …"
+    }
+  ]
+}

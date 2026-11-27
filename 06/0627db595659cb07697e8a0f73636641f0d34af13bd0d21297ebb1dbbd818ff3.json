@@ -1,0 +1,20 @@
+{
+  "url": "https://andre.arko.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+      "title": "Beyond jj : config & tools ecosystem",
+      "description": "This post was originally given as a talk at JJ Con 2026 . The slides are also available. Hello! Welcome to “beyond jj”, where we’re going to take a look at the jj ecosystem: commands, configurations, and tools made to work with jj. It’s partly a follow-up to my talk at JJCon last year , where I surveyed jj configurations across the community, but we’ll get there in a minute. My practical qualifica"
+    },
+    {
+      "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+      "title": "Ruby Central's Destructive Legacy",
+      "description": "At conferences and meetups, and in conversations online, many Ruby developers have asked me about Ruby Central and my disagreement with them. This post is my attempt to answer the questions I’ve been getting over and over, covering: 1) what is Ruby Central doing now? 2) has the dispute over Bundler and RubyGems been resolved? 3) what has Ruby Central said about the dispute? and 4) what can Ruby de"
+    },
+    {
+      "link": "https://andre.arko.net/2026/07/13/jj-sales-pitch/",
+      "title": "jj sales pitch",
+      "description": "A new jj tutorial, summarizing a many of the reasons jj is so useful, and powerful, in just a few paragraphs. jj improves upon Git by achieving two opposing goals at the same time: it has a simpler mental model and command set, but simultaneously provides more powerful functionality. jj simplifies Git not by hiding complexity, but by using a better conceptual model. – Evan’s Jujutsu Tutorial"
+    }
+  ]
+}

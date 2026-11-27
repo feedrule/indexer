@@ -1,0 +1,20 @@
+{
+  "url": "https://saschb2b.com/en/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://saschb2b.com/blog/old-games-new-rules",
+      "title": "I just wanted to play. Now I’m changing the games.",
+      "description": "Three game projects with Claude Opus 5.5 changed how I see existing software. The current wave of game mashups, native ports, and application clones explains why."
+    },
+    {
+      "link": "https://saschb2b.com/blog/what-makes-a-model-good",
+      "title": "“This AI model is good.” By whose standards?",
+      "description": "Why the same AI model can be useful to one person and unacceptable to another. Research, user reports, and a practical way to test your own quality threshold."
+    },
+    {
+      "link": "https://saschb2b.com/blog/knowledge-reasoning-style",
+      "title": "Knowledge, reasoning, and style: Can AI keep them separate?",
+      "description": "Why an AI assistant can know the facts and still miss local rules. Research on separating knowledge, reasoning, and style, explained through concrete examples and a testable design for more adaptable assistants."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://borischerny.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "title": "I am often wrong",
+      "description": "[I shared this note with my team earlier this week, and am posting it here as well. I hope it is interesting or helpful for others working on building product in the age of AI.]"
+    },
+    {
+      "link": "https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html",
+      "title": "NPM and NodeJS should do more to make ES Modules easy to use",
+      "description": "Coming back to JavaScript and TypeScript after a few years neck deep in Python and Hack, I kept hitting a number of new, cryptic errors when running NodeJS code in my dev environment:"
+    },
+    {
+      "link": "https://borischerny.com/tech/2023/12/10/Working-Remotely.html",
+      "title": "Learning to work (very) remotely",
+      "description": "For the last year and a half, I have been working at Instagram in Japan. It’s a bit of an unusual setup: I live and work remotely from Nara, Japan, in a timezone that few other Meta engineers work in (most of Instagram and Meta are spread across the US and Europe)."
+    }
+  ]
+}

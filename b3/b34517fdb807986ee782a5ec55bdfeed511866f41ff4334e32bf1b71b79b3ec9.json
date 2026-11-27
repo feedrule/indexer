@@ -1,0 +1,20 @@
+{
+  "url": "https://literatejava.com/feed/",
+  "posts": [
+    {
+      "link": "https://literatejava.com/uncategorized/six-lines-to-say-hue-the-cost-of-enterprise-java-style/",
+      "title": "Six Lines to Say “Hue”: The Cost of Enterprise Java Style",
+      "description": "Java beans have a readability problem. Not the pattern itself — fields plus getters and setters is fine, and a great deal of the ecosystem still relies on it — but the house style the average enterprise codebase wraps around it. Six lines of boilerplate Javadoc and braces for a one-word concept, repeated for every […]"
+    },
+    {
+      "link": "https://literatejava.com/java-language/using-jsonpath-safely-with-jacksons-jsonnode-tree-model/",
+      "title": "Using JsonPath safely with Jackson’s JsonNode tree model",
+      "description": "When working with JSON in Java, Jackson’s JsonNode tree model is a popular choice — especially in framework code that processes or transforms data. But what if you want to query that tree using flexible JsonPath expressions? Jayway JsonPath is a powerful tool, but using it with pre-parsed Jackson trees isn’t as obvious as you’d […]"
+    },
+    {
+      "link": "https://literatejava.com/engineering/long-names-are-long/",
+      "title": "Long Names are Long",
+      "description": "I found a hugely insightful article on naming. It encourages concise naming, and lays out really clear principles on how to name variables well. “A name has two goals: After a name has accomplished those goals, any additional characters are dead weight.” https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://softwareengineeringdaily.com/category/podcast/feed",
+  "posts": [
+    {
+      "link": "https://softwareengineeringdaily.com/podcasts/steve-yegge-on-building-software-factories/",
+      "title": "Steve Yegge on Building Software Factories",
+      "description": "Building software with AI agents has moved beyond using a single assistant. A growing number of engineers are now running what they call software factories, teams of named, persistent agents that talk to each other, hold roles, and produce code around the clock. That shift surfaces a strange new set of problems, ones that are less about writing code and more about running an organization. The diff"
+    },
+    {
+      "link": "https://softwareengineeringdaily.com/podcasts/the-rise-of-the-software-factories/",
+      "title": "The Rise of the Software Factories",
+      "description": "AI coding agents have made individual developers dramatically more productive, yet most organizations aren’t seeing anything close to that gain at the company level. A key reason is that shipping a feature to production involves far more than writing code. Triage, review, context, guardrails, and human approvals all surround the work, and agents add new risk by acting in ways teams can’t always se"
+    },
+    {
+      "link": "https://softwareengineeringdaily.com/podcasts/the-technical-interview-is-broken/",
+      "title": "The Technical Interview Is Broken",
+      "description": "The technical interview has long been used as a proxy for actual job performance. Brain teasers, data structure puzzles, or reversing a linked list became the price of admission to employment as a developer in many organizations, even though few engineers do that work day to day. It would seem AI has now broken that model entirely, since an LLM can one-shot any classic algorithm question. This is"
+    }
+  ]
+}

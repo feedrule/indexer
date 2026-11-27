@@ -1,0 +1,20 @@
+{
+  "url": "https://pablo.fail/rss",
+  "posts": [
+    {
+      "link": "https://pablo.fail/note-iii-ansi-sitemap",
+      "title": "Note III: A sitemap you can walk through",
+      "description": "Back when I started this blog, I was wandering around Octothorpes 1 and ended up on the pages of a few artists who make ANSI art. Not long after, someone on a forum was talking about sitemaps, and that gave me the idea: draw the map of this site in ANSI. So I made one . Then I forgot to link it anywhere or tell anyone, and it has been sitting there quietly ever since. The sitemap is a house, and e"
+    },
+    {
+      "link": "https://pablo.fail/neat-finds-07-firehose-toys-fediverse-games-and-small-machines",
+      "title": "Neat Finds #07: Firehose Toys, Fediverse Games and Small Machines",
+      "description": "Issue seven leans on the social web, but not in the usual way. The first half is people playing with the Bluesky firehose and the fediverse as if they were toys: rain, screensavers, arcade games, chess by toot and a book club living in the margins of an e-reader. The second half is smaller machines and smaller programs, from a website you open with ssh to a C compiler with a DOS-era IDE and a chea"
+    },
+    {
+      "link": "https://pablo.fail/finger-and-talk-at-hi-pablomurad-com",
+      "title": "How finger and talk work at hi@pablomurad.com",
+      "description": "A quick note first: pico, which shows up a lot below, is a POSSE project of mine (publish on my own site, syndicate elsewhere), made for my own personal use. Two commands from a Unix shell reach me on this server: $ finger hi@pablomurad.com Login: hi Name: Pablo Murad Directory: /home/hi Shell: /bin/bash On since Sat Nov 21 22:15 (-03) on pico 10 minutes idle Project: Independent web projects, dec"
+    }
+  ]
+}

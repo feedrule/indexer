@@ -1,0 +1,20 @@
+{
+  "url": "https://www.swiftdifferently.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.swiftdifferently.com/blog/swift/concurrency/with-task-cancellation-shield",
+      "title": "withTaskCancellationShield: Swift 6.4 new feature",
+      "description": "I loved Swift 6.4's new withTaskCancellationShield, until I saw it only works on the 27 OSes. So I dug into why, and built a way to use it on earlier versions."
+    },
+    {
+      "link": "https://www.swiftdifferently.com/blog/swift/drawin-notification",
+      "title": "Communication between main app and extension using Darwin Notification",
+      "description": "How do you tell a DNS proxy extension that its 250k-domain blocklist changed? Not with `NotificationCenter` — that stops at the process boundary. Darwin notifications, `notifyd`, C callbacks, and why \"system-wide\" cuts both ways."
+    },
+    {
+      "link": "https://www.swiftdifferently.com/blog/swift/concurrency/how-actors-work",
+      "title": "Actors in Swift: The Problem They Solve and How it Works",
+      "description": "I finally read SE-0306 and actors stopped being a mystery. Here's everything that clicked, in plain language."
+    }
+  ]
+}

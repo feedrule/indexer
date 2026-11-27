@@ -1,0 +1,20 @@
+{
+  "url": "https://reedtaylorbarnes.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://reedtaylorbarnes.com/blog/refactoring-for-and-with-speed/",
+      "title": "Refactoring for, and with, velocity",
+      "description": "Going slow to go fast really does work!"
+    },
+    {
+      "link": "https://reedtaylorbarnes.com/blog/writing-and-thinking/",
+      "title": "Writing is only getting more important",
+      "description": "The right words have never been more valuable than they are right now."
+    },
+    {
+      "link": "https://reedtaylorbarnes.com/blog/streaming-and-ai-sdk/",
+      "title": "Streaming LLM responses is not a mystic art",
+      "description": "Content-Type: application/x-ndjson is kind of a dream."
+    }
+  ]
+}

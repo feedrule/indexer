@@ -1,0 +1,20 @@
+{
+  "url": "https://mgdm.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://mgdm.net/weblog/dotplan-dotspace/",
+      "title": "I wrote an absurd social network",
+      "description": "I have created a new social network, dotplan.space , which requires you to use ancient technology to post to it – the finger protocol . Realistically, it’s arguably better described as an aggregator, because it just drives by each of the configured finger servers and posts updates whenever they change, but that doesn’t sound quite so interesting to me. The finger service, in its original form, ess"
+    },
+    {
+      "link": "https://mgdm.net/weblog/nixos-with-private-flakes/",
+      "title": "Using private flakes in NixOS",
+      "description": "I’ve been using Nix and NixOS for a while now, but I’d got into a way of working where it was doing what I needed to do, so I haven’t felt the need to modernise it with the new features that have come along since I started using it. On the other hand, I did want to use some code that I’m not ready to open source yet and I wanted to find a neat way to do that. It’s likely that none of this post wil"
+    },
+    {
+      "link": "https://mgdm.net/weblog/adventures-in-digital-radio/",
+      "title": "Adventures in digital radio",
+      "description": "A few years ago I got my foundation amateur radio licence. It was something I’d been considering doing for quite a long time but there were few opportunities to do so where I was at the time. I used it a bit as MM6YHF, mainly on 2m and 70cm analogue FM repeaters. It’s been a while since I did very much radio, as where I stay now is a bit further away from the repeaters so it became harder to do. A"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://syaffers.xyz/index.xml",
+  "posts": [
+    {
+      "link": "https://syaffers.xyz/posts/time-capsule-chip-2026/",
+      "title": "Time capsule: Next Thing Co.'s C.H.I.P.",
+      "description": "This is the C.H.I.P. I took this photo on July 25, 2016, when it first arrived at my college dorm room. It will turn 10 years old next month under my possession. Trip down memory lane The C.H.I.P. was (is?) a $9 computer built by Next Thing Co. (NTC from now on), a company that is now defunct. I recall the hype for the C.H.I.P. around the Twitter-verse (being on the radar for hobbyist hardware) at"
+    },
+    {
+      "link": "https://syaffers.xyz/posts/llms-on-mobile-cpu/",
+      "title": "LLMs on mobile CPU: Raspberry Pi 5 vs. Surface Go",
+      "description": "What would run Qwen3-0.6B faster on CPU: a Surface Go from 2018 or a Raspberry Pi 5 from 2023 ? What if you knew the respective CPUs: an Intel Pentium 4415Y versus an ARM Cortex A76 ; did your guess change? The 4415Y processor is clocked at 1.6 GHz and the A76 is around 3.0 GHz . How much faster would it run? 2x? 5x? Answer: it’s the Raspberry Pi 5 and by a difference of at least 10x."
+    },
+    {
+      "link": "https://syaffers.xyz/posts/give-claude-unfettered-sudo/",
+      "title": "Give Claude unfettered sudo",
+      "description": "New tricks for an old dog I recently revived my Raspberry Pi 2 Model B (rev 1.1) . It’s a decade-old piece of hardware to be sure, but I have a breakout garden HAT (not sponsored, nor affiliated) with ambient sensors that I hadn’t use in a few years. So I thought: let’s get Claude’s juices flowing. Let it draw inspiration from the Pimoroni Python libraries and build a fast HTTP weather station in"
+    }
+  ]
+}

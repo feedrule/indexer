@@ -1,0 +1,20 @@
+{
+  "url": "https://zachrburke.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://zachrburke.com/blog/all-streams-to-baby-streams",
+      "title": "From the All-Stream to Baby-Streams",
+      "description": "Back in 2021, event sourcing was a concept I had read about but never put into practice. I was looking for an opportunity to try it out and at kaizen.io I got my chance in the construction domain for an erosion control company. My first event sourced system tried to test the boundaries of storage and time by storing all events in a single stream. Don't ever do this. At the time I thought the numbe"
+    },
+    {
+      "link": "https://zachrburke.com/blog/moving-to-nvim",
+      "title": "Moving to Neovim and Neogit",
+      "description": "What Vim is not I think it's important to point out that nothing I'm going to write about here is going to sell nvim as this tool that made me magically more efficient. It could have made me a faster developer, but it also could have made me slower. Nothing here 10x'd my speed as a developer and I get just as giddy when I see VS Code open in the wild as I do nvim. You can use whatever editor or me"
+    },
+    {
+      "link": "https://zachrburke.com/blog/revival",
+      "title": "Revival",
+      "description": "So, here I am in 2026, writing my first \"blog\" post in about 9 years. It's fascinating how so much has happened in 9 years, but one thing that I still see is software engineers keeping personal sites with a blog. Blogging appears to still be in fashion. Side note, and maybe a large part of what brought me here, is the domain name zachrburke.com. Sometime back in 2018 or 2019, a combination of an e"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://nial.se/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://nial.se/blog/57-billion-tokens-and-nothin-on/",
+      "title": "57 billion tokens and nothin' on - a jq rewrite",
+      "description": "Arthur C. Clarke wrote that \"Any sufficiently advanced technology is indistinguishable from magic.\" If software development is magic, it's working on a very long time scale, and the trick is taking forever."
+    },
+    {
+      "link": "https://nial.se/blog/is-artificial-intelligence-ruining-attention/",
+      "title": "Is artificial intelligence ruining attention?",
+      "description": "When you clicked to read this post, was that a rational decision? Or was it intuition?"
+    },
+    {
+      "link": "https://nial.se/blog/the-ai-shall-remain-nameless/",
+      "title": "The AI shall remain nameless",
+      "description": "Anthropomorphising, giving machines human traits and emotions, has become commonplace in our shiny new AI agent world."
+    }
+  ]
+}

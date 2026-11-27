@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.lysk.tech/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.lysk.tech/markleft-ai-markdown-review",
+      "title": "Markleft: How I review claude plans in Markdown",
+      "description": "AI output seldom meets the intent on the first prompt, so iteration is necessary. Today, iteration usually means providing feedback in a follow-up prompt, which leads to a rewrite of the whole document. The prompt that explains the intent behind the revision remains buried in the chat."
+    },
+    {
+      "link": "https://blog.lysk.tech/sqlite-on-git-part-2",
+      "title": "SQLite on Git, Part II: Unlocking Zlib's less known Feature",
+      "description": "In the previous post, we followed the white rabbit down into Git's .git folder. We understood: Git uses zlib's deflate algorithm to compress objects."
+    },
+    {
+      "link": "https://blog.lysk.tech/excalidraw-frame-export",
+      "title": "How I manage Images for my Blog",
+      "description": "TL;DR I use an Excalidraw, wrap the elements of interest with a frame, name it with export_ prefix, my forked excalidraw extension automatically generates SVGs for light and dark mode."
+    }
+  ]
+}

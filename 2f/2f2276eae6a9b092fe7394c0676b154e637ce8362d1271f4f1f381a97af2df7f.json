@@ -1,0 +1,20 @@
+{
+  "url": "https://www.wedesoft.de/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.wedesoft.de/ai/2026/05/26/mlp/",
+      "title": "Machine learning using Clojure, libpython-clj2, and Pytorch",
+      "description": "(Cross posting article published at Clojure Civitas)"
+    },
+    {
+      "link": "https://www.wedesoft.de/simulation/2026/05/10/x-plane-citation-x-checklist/",
+      "title": "X-Plane 12 Citation-X Checklist",
+      "description": "If you are trying out the Citation-X with X-Plane 12, I can really recommend the XChecklist plugin and the checklist file for the Citation-X . To help you with finding all the different controls, I created this interactive page. PRELIMINARY Aircraft Doors: OPEN Parking Brake: SET Landing Gear Handle: DOWN Speedbrake Handle: CHECK ZERO Throttles: CUT OFF Battery Switches 1 & 2 : ON Eicas Switch : O"
+    },
+    {
+      "link": "https://www.wedesoft.de/ai/2026/04/22/proximal-policy-optimization/",
+      "title": "Proximal Policy Optimization with Clojure and PyTorch",
+      "description": "(Cross posting article published at Clojure Civitas)"
+    }
+  ]
+}

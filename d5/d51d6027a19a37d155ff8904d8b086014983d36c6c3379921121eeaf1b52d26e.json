@@ -1,0 +1,20 @@
+{
+  "url": "https://www.brachkow.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.brachkow.com/notes/how-i-work-with-ai/",
+      "title": "How I work with AI",
+      "description": "Up-to-date description of how I use AI in my software engineering work"
+    },
+    {
+      "link": "https://www.brachkow.com/notes/you-should-put-less-effort-into-your-product-hunt-launch/",
+      "title": "You should put less effort into your Product Hunt launch",
+      "description": "How my well-prepared launch went laughably badly"
+    },
+    {
+      "link": "https://www.brachkow.com/notes/wrong-linux-framework-hype/",
+      "title": "Framework and Omarachy are good, but might be bad idea for you",
+      "description": "I like the premise of \"The Year of Linux on the Desktop\", but DHH somehow skews it into a fight not against dominating Windows, but against another Unix operating system"
+    }
+  ]
+}

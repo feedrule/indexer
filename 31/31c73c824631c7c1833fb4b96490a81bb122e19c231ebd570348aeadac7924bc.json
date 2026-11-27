@@ -1,0 +1,20 @@
+{
+  "url": "https://julianyap.com/index.xml",
+  "posts": [
+    {
+      "link": "https://julianyap.com/posts/2026-06-30/",
+      "title": "Pando Keyboard: A Progress Report",
+      "description": "This is a progress report on my new Pando keyboard - a split keyboard that keeps the same key layout as the Pando58 , but with a completely redesigned PCB and electronics. Pando prototype keyboard on the left and the previous Pando58 on the right. Part of the development of this project was sponsored by PCBWay , who provided a batch of prototype PCBs and a stencil. Their support helped make this b"
+    },
+    {
+      "link": "https://julianyap.com/posts/2026-03-26/",
+      "title": "Introducing Pando58 - RP2040 Zero-based Split keyboard",
+      "description": "Introduction Pando58 is a modern RP2040 Zero-based 58-key column staggered split keyboard. The PCB supports hotswap sockets OR soldered switches. The interconnect uses RJ45 ports as opposed to TRRS, which improves reliability and allows for hotplugging. Pando58 is designed to be simple to build and robust in daily use . It features: Layout: Split, column staggered, ergonomic, 58 keys total Split c"
+    },
+    {
+      "link": "https://julianyap.com/snippets/2026-02-25-1772062509/",
+      "title": "Klipper - Upgrade firmware on Octopus Pro MCU and LDO Nitehawk-36 toolboard",
+      "description": "The Klipper firmware does not need to be upgraded often on the Octopus Pro MCU and LDO Nitehawk-36 toolboard. The only time it was upgraded was when there were deprecation warnings since Klipper is kept up to date. Here are some notes on upgrading the firmware since I did not use the correct settings when building and flashing the firmware which meant I had to perform additional lower level loadin"
+    }
+  ]
+}

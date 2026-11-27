@@ -1,0 +1,20 @@
+{
+  "url": "https://grison.me/index.xml",
+  "posts": [
+    {
+      "link": "https://grison.me/2026/09/15/did-you-mean-noulith/",
+      "title": "Did you mean Noulith ?",
+      "description": "I was talking about advent of code with a colleague, we had a small internal leaderboard at work last year. And so I told him “you should look at betaveros , he’s one of the best at advent of code, he even designed his own language named Noulith to solve it, it is super impressive” . Betaveros has a full post about it on his blog, that I did read twice in the past, I also did read some bits of the"
+    },
+    {
+      "link": "https://grison.me/2026/09/11/swift-vibing-my-weight-chart/",
+      "title": "Swift vibing my weight chart",
+      "description": "I do have a Withings’ Body+ scale that I use to track my weight, and I have written in the past a simple Python webapp, that talks OAuth2 + API calls with Withings servers to grab my data and display it using matplotlib . It uses pandas to gather some insights, calculate moving average, global trends and yearly trends, draw these + a colored scaled BMI. Data is stored locally in a csv file, new da"
+    },
+    {
+      "link": "https://grison.me/2026/09/08/why-go-for-coding-agents/",
+      "title": "Why Go is a good language for coding agents",
+      "description": "I watched a very interesting interview Developers are no longer paid to write code (french audio) (original title “On ne paie plus les développeurs pour écrire du code” ) with Quentin Adam from Clever Cloud about how they are using AI coding agents internally. I mostly agree with him, and I posted on X after watching the video while on the train. But a tweet is not very large to explain fully an i"
+    }
+  ]
+}

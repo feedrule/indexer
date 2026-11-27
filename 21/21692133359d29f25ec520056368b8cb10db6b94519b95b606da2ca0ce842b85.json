@@ -1,0 +1,20 @@
+{
+  "url": "https://dfir.ch/index.xml",
+  "posts": [
+    {
+      "link": "http://localhost:1313/posts/ssh-keyscan/",
+      "title": "ssh-keyscan.exe for Delivering PowerShell Code",
+      "description": "Introduction Recently, I came across a Unit 42 threat note about a ClickFix campaign abusing the Finger protocol. . The attackers used the legitimate Windows finger.exe utility to retrieve commands from a remote server over TCP/79, which were subsequently executed through cmd.exe . That got me thinking about other Windows utilities that can retrieve data from remote systems without relying on the"
+    },
+    {
+      "link": "http://localhost:1313/posts/field_note_mha/",
+      "title": "Modern Authentication, Legacy Problems",
+      "description": "Introduction During a recent incident response investigation, we encountered an interesting authentication issue in an on-premises Microsoft Exchange environment. The organization had implemented Hybrid Modern Authentication (HMA), allowing Microsoft Outlook to authenticate against Microsoft Entra ID using OAuth tokens. Multi-factor authentication was enforced through the organization’s Microsoft"
+    },
+    {
+      "link": "http://localhost:1313/posts/field_note_attacker_workflow/",
+      "title": "Field Notes: Reconstructing an Attacker’s Workflow",
+      "description": "Introduction During a recent incident, we recovered several PowerShell scripts the attacker had left behind on disk. Instead of reconstructing every action from individual event log entries, file-system artefacts, and EDR telemetry, we could read some parts of the attacker’s workflow directly from their own code. The scripts covered several stages of post-compromise activity: command execution, cr"
+    }
+  ]
+}

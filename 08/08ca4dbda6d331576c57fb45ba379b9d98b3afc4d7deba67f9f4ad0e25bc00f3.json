@@ -1,0 +1,20 @@
+{
+  "url": "https://neuromancer.sk/feed.xml",
+  "posts": [
+    {
+      "link": "https://neuromancer.sk/article/41",
+      "title": "Hardware security course",
+      "description": "I recently taught a brand new Hardware security course to roughly 70 master’s students at Paderborn University . Since I pretty much had a free hand in shaping the course and making it what I wanted I made it the hardware security course I missed during my bachelor’s and master’s. It contains everything from secure hardware to fault injection. I am now releasing all the materials under CC BY-SA on"
+    },
+    {
+      "link": "https://neuromancer.sk/article/40",
+      "title": "The goals of artifact evaluation",
+      "description": "I have participated in artifact evaluation committees since 2021. I have done 5 years of CHES , one year of EUROCRYPT , and 2 NDSS years. Over these years, I have seen good artifacts, even great ones, and a fair share of “just OK” ones. There have been no truly terrible ones, though some required a bit of polish. The approach to artifact evaluation at the different venues also differs, and reviewi"
+    },
+    {
+      "link": "https://neuromancer.sk/article/39",
+      "title": "Real World Crypto 2026",
+      "description": "Last week, I had the pleasure of presenting at Real World Crypto 2026 in Taipei, Taiwan. It was a great RWC in a great place. In this postm I summarize my talk, experience, and takeaways. Plus, at the end, you will find photos of Taipei from my hike to 9-5 peak. The talk # I presented our work on security by obscurity in secure hardware (see the slides or the video ). Compared to cryptographic the"
+    }
+  ]
+}

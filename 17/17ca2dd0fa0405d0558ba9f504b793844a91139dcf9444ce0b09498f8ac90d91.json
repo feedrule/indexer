@@ -1,0 +1,20 @@
+{
+  "url": "https://www.fpgatutorial.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://www.fpgatutorial.com/fpga-build-process/",
+      "title": "Introduction to the FPGA Build Process",
+      "description": "Learn about the FPGA build process, including a description of the synthesis, timing analysis and place and route processes"
+    },
+    {
+      "link": "https://www.fpgatutorial.com/systemverilog-loops/",
+      "title": "An Introduction to Loops in SystemVerilog",
+      "description": "Learn how to use all of the different types of loop in SystemVerilog - the for loop, foreach loop, while loop, repeat loop and forever loop"
+    },
+    {
+      "link": "https://www.fpgatutorial.com/systemverilog-generate/",
+      "title": "Using Generate and Parameters to Write Reusable SystemVerilog Designs",
+      "description": "Learn how to write SystemVerilog which can be reused across multiple designs by using parameters and generate statements."
+    }
+  ]
+}

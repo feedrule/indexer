@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jasony.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.jasony.me/posts/2026-08-28-lazy-promotion-cache-eviction.html",
+      "title": "Your LRU cache is working too hard",
+      "description": "Across 6,357 production traces, most LRU promotions did little useful work. Delaying the decision made caches faster without making them less effective."
+    },
+    {
+      "link": "https://blog.jasony.me/posts/2026-08-16-paper-reproducibility-agent.html",
+      "title": "A paper reproducibility agent: PDF in, report out",
+      "description": "We turned the MLSys'26 AE agent's core into a standalone paper reproducibility agent. Give it a paper PDF; it finds the repo, installs and runs it, and adjudicates the paper's claims."
+    },
+    {
+      "link": "https://blog.jasony.me/posts/2026-08-12-prefix-cache-retention-open-weight.html",
+      "title": "Same open weights, prompt-cache lifetimes from seconds to a day",
+      "description": "Across 23 providers serving two open-weight models, prompt-cache retention ranged from under 30 seconds to more than a day. Even for the same model, the serving stack determined the cache."
+    }
+  ]
+}

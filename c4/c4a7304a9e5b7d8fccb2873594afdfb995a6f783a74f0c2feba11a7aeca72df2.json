@@ -1,0 +1,20 @@
+{
+  "url": "https://chrpaul.de/index.xml",
+  "posts": [
+    {
+      "link": "https://chrpaul.de/posts/2026-06-27-single-point-of-failure-apps/",
+      "title": "Single point of failure apps",
+      "description": "Two years ago, I bought a secondary phone. It’s a cheap Android phone that always travels with me outside of town. I got it for the case that my main phone doesn’t work, e.g. breaking from a falling, getting lost, failing to boot after an update or running out of battery. The secondary phone has a set of essential apps installed. Simply put, its task is to get me to my next destination and have so"
+    },
+    {
+      "link": "https://chrpaul.de/posts/2025-02-20-neoboard-computer/",
+      "title": "Making NeoBoard a bit like tldraw computer",
+      "description": "Disclaimer: This article uses the software NeoBoard from my current employer. All opinions are my own. My employer is not responsible for any of my doings described in this article. Don’t miss the innovation tldraw computer brings to online whiteboards! Just before 2024 ended, the developers of the open source whiteboard SDK tldraw published an innovative idea of how to build interactive whiteboar"
+    },
+    {
+      "link": "https://chrpaul.de/posts/2025-01-13-turbo-sliders-unlimited-level-format/",
+      "title": "Level format of Turbo Sliders Unlimited",
+      "description": "As a hobbyist, I’m trying to reverse engineer the level format of the racing game Turbo Sliders Unlimited . The current version of the game is v1.01.3. This article is a very incomplete description of what can be done, but maybe it helps someone to read, modify or create levels. On Linux, your levels can be found at ~/.config/unity3d/Turbo Sliders/Unlimited/76000000000000000/Levels/ where the numb"
+    }
+  ]
+}

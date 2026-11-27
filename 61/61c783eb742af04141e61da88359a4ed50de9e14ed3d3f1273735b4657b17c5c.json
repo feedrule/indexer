@@ -1,0 +1,20 @@
+{
+  "url": "https://www.creativetension.co/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.creativetension.co/posts/intent-palettes/",
+      "title": "Intent Palettes",
+      "description": "From “I know it when I see it” to programming with learned semantic primitives: an origin story, related research, and an exploratory specification."
+    },
+    {
+      "link": "https://www.creativetension.co/posts/common-lisp-reference-card/",
+      "title": "Common Lisp Development Tooling — Reference Card",
+      "description": "Visual map of the CL development stack with tool legend and source links."
+    },
+    {
+      "link": "https://www.creativetension.co/posts/common-lisp-development-tooling/",
+      "title": "Common Lisp Development Tooling",
+      "description": "A beginner's exploration of the many layers of Common Lisp development environments."
+    }
+  ]
+}

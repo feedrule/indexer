@@ -1,0 +1,20 @@
+{
+  "url": "https://winware31.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html",
+      "title": "Inside the Windows I/O Manager : Deep dive into how read I/O requests are initialized.",
+      "description": "How does initializing an I/O request look like internally ? Introduction: If you are someone who periodically debug and reverse many different Windows programs, you may have noticed a common point shared among them despite they aren't related in any sense. This point is that the vast majority of them use at some stage a famous well documented Win32 API named ReadFile( ) exported by the module KERN"
+    },
+    {
+      "link": "https://winware31.blogspot.com/2026/08/duplicating-handles-step-by-step-guide.html",
+      "title": "Handle Duplication Internals : a deep reversing of the entire call flow",
+      "description": "What happens behind the scenes when you call DuplicateHandle( ) ? Caution: This article is based on my own reverse engineering and knowledge about the internals of the object manager. Since it's done solely based on static analysis, you may find some gaps. If you find it hard to understand something, please don't hesitate to leave me a comment. Introduction: As you might know, user-mode programs c"
+    },
+    {
+      "link": "https://winware31.blogspot.com/2026/05/deep-dive-into-object-creation-flow-in_01568126117.html",
+      "title": "Deep dive into the Object creation flow in Windows - PART 4",
+      "description": "Handle Table internals. Caution: Before I start, it's necessary to say that this work is based solely on static analysis using IDA freeware 9.2 and my own knowledge. So, if you found any errors or gaps, please leave me a comment. I need also to clarify that Pre and Post Operation Callbacks are not covered in this article because this concept is well described in the official MSDN documentation. Al"
+    }
+  ]
+}

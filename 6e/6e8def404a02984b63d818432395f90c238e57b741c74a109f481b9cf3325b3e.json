@@ -1,0 +1,20 @@
+{
+  "url": "https://freedman.dev/atom/",
+  "posts": [
+    {
+      "link": "https://freedman.dev/what-kind-of-music-do-you-listen-to/",
+      "title": "What kind of music do you listen to?",
+      "description": "I've always hated being asked that question. When I was younger, especially in middle school, it was out of fear. What if my taste was too weird? What if it was the wrong way to enjoy that particular genre? What if it revealed something about me that I didn't want to share? Insecurity is a thing I struggle with, but it was much more debilitating in my childhood. So, I dealt with it in the only way"
+    },
+    {
+      "link": "https://freedman.dev/ai-and-multitasking/",
+      "title": "AI and Multitasking",
+      "description": "I read Simon Willison's blog post, \"sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\" this morning and this line stuck out to me WAY more than its technical content: I went out to enjoy the Half Moon Bay 4th of July parade, occasionally checking in and prompting the next step for Fable from my phone. Going to a 4th of July parade, presumably with friends/family/other loved o"
+    },
+    {
+      "link": "https://freedman.dev/building-rich-text-editors-the-right-way-abridged/",
+      "title": "Building Rich Text Editors the Right Way (abridged)",
+      "description": "At work, I've added a few rich text editors to our product using Lexical . Same underlying component, but different constraints in each place. I thought that, since the library handles all the gnarly stuff, this should be easy. Nope! I want to write a longer post with examples, but my take on how to do this right is: Make the import/export format use HTML Take the HTML and map it to a pandoc AST,"
+    }
+  ]
+}

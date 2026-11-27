@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.farzon.org/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.farzon.org/2026/05/compiling-past-and-linking-dots.html",
+      "title": "Compiling the Past and Linking the Dots",
+      "description": "\"You can't connect the dots looking forward; you can only connect them looking backward.\" When Steve Jobs said that, he was talking about calligraphy classes and typography. For me, it was buffer overflows, rendering equations, and the Chromium project. If you had looked at my career path a decade ago, you wouldn't have seen a straight line. You would have seen a sharp, arguably foolish, jagged ed"
+    },
+    {
+      "link": "https://blog.farzon.org/2026/05/the-geometry-of-dragon-ball-deep-dive.html",
+      "title": "The Geometry of Dragon Ball: A Deep Dive into SDFs and Raymarching",
+      "description": "Today we are deconstructing the 4-Star Dragon Ball shader (available on Shadertoy here ). This shader is a good example of using 2D math to drive 3D optical effects. To understand it, we must reference the fundamental building blocks provided by Inigo Quilez . This shader is more than just a piece of fan art. I built this 4-Star Dragon Ball shader as a bridge between simple 2D shapes and complex 3"
+    },
+    {
+      "link": "https://blog.farzon.org/2026/04/testing-hlsl-with-llvm-offload-test.html",
+      "title": "Testing HLSL with the LLVM Offload Test Suite in WSL 2",
+      "description": "If you are a developer working with HLSL or GPU compilers you likely prefer working in Linux. You might have felt sidelined because Linux lacks a dedicated DirectX device. However, if you are on Windows, you have a powerful tool at your disposal: Windows Subsystem for Linux (WSL) 2 . Since 2020, WSL 2 has supported DirectX, exposing the DxCore ( libdxcore.so ) and D3D12 ( libd3d12.so ) APIs. This"
+    }
+  ]
+}

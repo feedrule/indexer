@@ -1,0 +1,20 @@
+{
+  "url": "https://zhukovskyi.space/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://zhukovskyi.space/blog/fileforge/",
+      "title": "FileForge: I stopped uploading my files to random converter sites",
+      "description": "HEIC to JPG, a photo under 1 MB, one PDF from three, a JWT decoded: 78 file tools that run in the browser and never upload a file. Free and open source."
+    },
+    {
+      "link": "https://zhukovskyi.space/blog/why-wire-size-calculators-disagree/",
+      "title": "8 AWG or 6 AWG for 50 amps? Why two wire size calculators give different answers",
+      "description": "8 AWG or 6 AWG for 50 amps? The same circuit comes out as 8, 6 or 4 AWG depending on the calculator. Seven hidden defaults explain it, with one worked circuit."
+    },
+    {
+      "link": "https://zhukovskyi.space/blog/box-fill-calculation-examples/",
+      "title": "Box fill calculation: how to count conductors, devices and grounds (NEC 314.16)",
+      "description": "How to calculate box fill by NEC 314.16: count conductors, clamps, devices and grounds in cubic inches. Three worked examples, one with 12 and 14 AWG together."
+    }
+  ]
+}

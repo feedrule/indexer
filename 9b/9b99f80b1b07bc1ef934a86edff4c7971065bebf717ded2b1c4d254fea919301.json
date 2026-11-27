@@ -1,0 +1,20 @@
+{
+  "url": "https://ache.one/en/rss.xml",
+  "posts": [
+    {
+      "link": "https://ache.one/notes/vanity-ipv6",
+      "title": "The Shortest IPv6 Addresses",
+      "description": "I was looking for the shortest possible IPv6 equivalent of 1.1.1.1 (and its secondary 1.0.0.1, sometimes abbreviate 1.1)."
+    },
+    {
+      "link": "https://ache.one/notes/the-us-lock-of-the-web",
+      "title": "The US lock of the Web",
+      "description": "Let's talk about Let's Encrypt."
+    },
+    {
+      "link": "https://ache.one/notes/html_zip_bomb",
+      "title": "A valid HTML zip bomb",
+      "description": "Many sites have been affected by the aggressiveness of web crawlers designed to improve LLMs. I’ve been relatively spared, but since the phenomenon started, I've been looking for a solution to implement. Today, I present a zip bomb gzip and brotli that is valid HTML."
+    }
+  ]
+}

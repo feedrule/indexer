@@ -1,0 +1,20 @@
+{
+  "url": "https://ejona.ersoft.org/full.atom",
+  "posts": [
+    {
+      "link": null,
+      "title": "Building Byte-identical MS-DOS 4.00",
+      "description": "MS-DOS 4.00 was open sourced by Microsoft a few years ago. But the sources are corrupted and the git repo is not configured correctly. I saw people having instructions like manually converting line endings, even though git can do that more easily and also won’t show the file changed. And nobody seemed interested in a byte-identical build to the production release. For starters, let’s configure git"
+    },
+    {
+      "link": null,
+      "title": "Nexus 7 (2013) postmarketOS Install",
+      "description": "The Nexus 7 (2012) was the first tablet I liked a tablet. The small size meant it was similar to a small book and easy to carry (and can fits in men’s jeans front and back pockets). The follow-up Nexus 7 (2013; a.k.a. 2nd gen) was the same but much better hardware (better screen, flash, RAM). To this day I still use the device for e-book reading, but the OS is woefully out-of-date. I’ve been wanti"
+    },
+    {
+      "link": null,
+      "title": "Using GPT on eMMC with ODROID-C2",
+      "description": "I wanted to use UEFI with ODROID-C2 and while that is possible with U-Boot on MBR, bootctl install doesn’t work and I lose out on systemd-gpt-auto-generator figuring out the partitions for the specific install. Unfortunately, the bootloader on ODROID-C2 is written to sector 1 which conflicts with the GPT header . Some other boards include SPI flash or the SoC supports eMMC boot0. But testing showe"
+    }
+  ]
+}

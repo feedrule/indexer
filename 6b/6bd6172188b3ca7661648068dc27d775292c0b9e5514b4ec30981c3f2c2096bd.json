@@ -1,0 +1,20 @@
+{
+  "url": "https://wrongtool.kostadis.com/feed/",
+  "posts": [
+    {
+      "link": "https://wrongtool.kostadis.com/1-of-100/",
+      "title": "1 of 100",
+      "description": null
+    },
+    {
+      "link": "https://wrongtool.kostadis.com/grounding-documents-for-long-running-tabletop-campaigns-a-practitioners-survey-of-twelve-approaches-from-llm-extraction-to-authored-structure/",
+      "title": "Grounding Documents for Long-Running Tabletop Campaigns: A Practitioner’s Survey of Twelve Approaches, from LLM Extraction to Authored Structure",
+      "description": "A game master who uses language models to prepare sessions of a long-running tabletoprole-playing campaign needs grounding documents: a current world state, campaign state, partyrecord, planning notes and per-character dossiers, distilled from dozens of recorded sessions andfed to the models as context. Producing these documents is easy to start and hard to get right,because the […]"
+    },
+    {
+      "link": "https://wrongtool.kostadis.com/decision-models-at-the-game-tablewhere-non-generative-classifiers-help-and-failin-llm-tooling-for-tabletop-role-playing-campaigns/",
+      "title": "Decision Models at the Game Table:Where Non-Generative Classifiers Help and Fail in LLM Tooling for Tabletop Role-Playing Campaigns",
+      "description": "Decision models are a recent class of non-generative language models: a backbone reads a stateonce and a small head returns a probability for every option of every typed question (multiplechoice, yes/no, ordinal score), with no text generated. We test six of them: TypeSafe’s hostedJev, which introduced the SystemOne interface, and two open families released in […]"
+    }
+  ]
+}

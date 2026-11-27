@@ -1,0 +1,20 @@
+{
+  "url": "https://mrandri19.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
+      "title": "A recipe for drone racing with reinforcement learning",
+      "description": "This post is the third and final post in our series on quadcopter simulation. The first post and second post derived and simulated the quadcopter’s equations of motion, first in 2D and then in 3D. In this post we train a reinforcement learning policy to fly the quadcopter, first to hover at a fixed point, then to fly through a sequence of gates. The previous posts were tutorial-like, we started fr"
+    },
+    {
+      "link": "https://mrandri19.github.io/2026/04/11/3d-quadcopter-simulation.html",
+      "title": "Simulating a 3D quadcopter from scratch",
+      "description": "This post is the second post in our series on quadcopter simulation. If you want the simpler planar version first, the previous post derives and simulates the same ideas in 2D, but this post is fully standalone. Today, we simulate a three-dimensional quadcopter. We will derive the equations of motion, transform them into state-space form, and finally simulate the system in Python. Along the way, w"
+    },
+    {
+      "link": "https://mrandri19.github.io/2026/04/03/2d-quadcopter-simulation.html",
+      "title": "Simulating a 2D quadcopter from scratch",
+      "description": "In this post, we build a simple simulation of a 2D (planar) quadcopter, a type of drone with four propellers. We will derive the equations of motion, rewrite them in state-space form, and simulate the resulting system in Python. Why simulate a quadcopter at all? If you want to design a controller, or train a reinforcement learning agent, you first need a model you can run in software. This post bu"
+    }
+  ]
+}

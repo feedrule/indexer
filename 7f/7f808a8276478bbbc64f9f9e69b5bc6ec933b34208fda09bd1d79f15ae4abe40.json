@@ -1,0 +1,20 @@
+{
+  "url": "https://externaltable.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://externaltable.blogspot.com/2026/05/unlocking-apache-spark-performance.html",
+      "title": "Unlocking Apache Spark Performance: Three Open-Source Tools We Use at CERN",
+      "description": "Apache Spark is incredibly powerful, but anyone who has worked with it long enough knows the feeling: Why is this job suddenly slower today? Why are executors running out of memory? Why is one stage taking 90% of the runtime? What exactly is Spark doing behind the scenes? The Spark UI already provides a lot of useful information, but collecting, visualizing, and analyzing performance metrics at sc"
+    },
+    {
+      "link": "https://externaltable.blogspot.com/2025/12/are-you-happy-with-your-cpus-performance.html",
+      "title": "Are you Happy with your CPU Performance?",
+      "description": "🚀 Quickly measure and load-test your CPUs with a simple Rust tool: test_cpu_parallel How fast is your CPU really, right now? It sounds like a simple question, but in modern environments it rarely has a simple answer, and getting it wrong can cost you performance, money, and confidence in your systems. Virtual machines, containers, cloud instances, power-management policies, and opaque hardware spe"
+    },
+    {
+      "link": "https://externaltable.blogspot.com/2025/10/why-im-loving-spark-4s-python-data.html",
+      "title": "Why I’m Loving Spark 4’s Python Data Source (with Direct Arrow Batches)",
+      "description": "TL;DR: Apache Spark 4 lets you build first-class data sources in pure Python. If your reader yields Arrow RecordBatch objects, Spark ingests them with reduced Python↔JVM serialization overhead. I used this to ship a ROOT data format reader for PySpark . A PySpark reader for the ROOT format ROOT is the de-facto data format across High-Energy Physics; CERN experiments alone store over an exabytes of"
+    }
+  ]
+}

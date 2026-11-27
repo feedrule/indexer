@@ -1,0 +1,10 @@
+{
+  "url": "https://paulyp.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://paulpickering.co.uk/new-post/",
+      "title": "Mounting OneDrive automatically on Linux",
+      "description": "I recently moved to a Linux desktop and wanted to have some OneDrive storage automatically mounted - I thought it worth documenting my approach (which can be adapted for any cloud provider). Note: I would actually recommend basically any other cloud service over a Microsoft product, but it does the job, and I get it for free from my employer. I accomplished this with: rclone : Free software for ac"
+    }
+  ]
+}

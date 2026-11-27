@@ -1,0 +1,20 @@
+{
+  "url": "https://mojolabs.nz/feed/",
+  "posts": [
+    {
+      "link": "https://mojolabs.nz/how-to-make-an-indie-game-in-new-zealand/",
+      "title": "How to Make an Indie Game in New Zealand",
+      "description": "In recent years, New Zealand has emerged as a vibrant hub for indie game development, attracting both local talent and international attention. The country's unique mix of creativity, innovation, and a supportive community has fostered an environment where independent game developers can thrive. New Zealand's indie game scene is characterized by... The post How to Make an Indie Game in New Zealand"
+    },
+    {
+      "link": "https://mojolabs.nz/entity-component-system-for-humans-when-you-actually-need-it/",
+      "title": "Entity–Component–System for Humans: When You Actually Need It",
+      "description": "At some point in every game dev’s journey, you bump into Entity–Component–System (ECS). People say things like “it’s more scalable”, “it’s how AAA does it”, or “you’ll never ship a big game without it.” Then you look at examples and see walls of data structs, bitmasks and cache diagrams, and quietly go back to your PlayerCont... The post Entity–Component–System for Humans: When You Actually Need I"
+    },
+    {
+      "link": "https://mojolabs.nz/solo-vs-small-team-what-changes-in-your-pipeline/",
+      "title": "Solo vs Small Team: What Changes in Your Pipeline?",
+      "description": "“Pipeline” sounds like something only big studios worry about, but if you’re making games as a solo developer or in a 2–3 person team, you already have one. It might be a loose collection of habits (“I throw art in this folder and hope for the best”), or a more deliberate flow (“design → blockout → implement → test → polish”), but it exists. The... The post Solo vs Small Team: What Changes in Your"
+    }
+  ]
+}

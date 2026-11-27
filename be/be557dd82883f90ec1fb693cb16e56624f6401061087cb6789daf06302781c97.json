@@ -1,0 +1,20 @@
+{
+  "url": "https://inti-tidball.writeas.com/feed/",
+  "posts": [
+    {
+      "link": "https://inti-tidball.writeas.com/sistema-iot-para-monitoreo-ambiental-en-nerdearla-arquitectura-hardware-y?pk_campaign=rss-feed",
+      "title": "IoT System for Environmental Monitoring at Nerdearla: architecture, hardware, and lessons learned",
+      "description": "From the home lab to Nerdearla: how I built an IoT air-quality system that worked at an event with thousands of people — and a network of people that held me up (english version) I'm very happy to finally share part of the work I've been doing over the last month for Nerdearla, together with the Nerdearla team — Eduardo Casarero, Emilio Nagy (Nachi), and Lole."
+    },
+    {
+      "link": "https://inti-tidball.writeas.com/por-que-uso-y-recomiendo-dominios-xyz-numericos-para-self-hosting?pk_campaign=rss-feed",
+      "title": "Why I use (and recommend) numeric .xyz domains for self-hosting",
+      "description": "The problem Self-hosting something like Grafana, your app, or an API needs three things: a stable name that resolves to your IP, a valid TLS certificate (Let's Encrypt doesn't issue for IPs), and not depending on a free DDNS subdomain that can change or disappear. A domain of your own solves all three. The catch is the cost and the availability of the name. That's where the numeric class of .xyz c"
+    },
+    {
+      "link": "https://inti-tidball.writeas.com/build-your-own-ai-bunker-privacy-first-agents-on-outdated-hardware?pk_campaign=rss-feed",
+      "title": "Build Your Own AI Bunker: Privacy-First Agents on Outdated Hardware",
+      "description": "In an era where AI productivity often comes at the cost of data privacy, building a local “Bunker” is the sweet and often sought after solution. I was inspired by Liz Howard and their focus on open-source model accessibility, and Simon Willison’s experiments running Claude Code in “dangerous” containerized environments. So I set out to make my own local stack."
+    }
+  ]
+}

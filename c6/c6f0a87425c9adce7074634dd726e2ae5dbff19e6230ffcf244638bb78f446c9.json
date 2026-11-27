@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.yellowday.day/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.yellowday.day/posts/scar_of_quantization/",
+      "title": "Scar of Quantization",
+      "description": "I want to share a common failure pattern of quantization aware training: quantization can leave scars in tensor. I found this while investigating an INT8 pretraining run where training loss kept falling but validation loss did not converge. Outliers were causing smaller activations sharing their scale to round to zero, leaving visible scars. The interesting part was watching them change during tra"
+    },
+    {
+      "link": "https://blog.yellowday.day/posts/context_engineering_from_the_inside_out/",
+      "title": "Context Engineering from the Inside Out",
+      "description": "AI agents live and die by their context windows. The system prompt, tool schemas, conversation history, retrieved documents — everything the model sees during a single request shapes what it does next. Context engineering is the art of deciding what goes in, where it goes, and when it gets removed. Good context engineering makes agents more reliable, faster, and cheaper. This post explores the des"
+    },
+    {
+      "link": "https://blog.yellowday.day/posts/gpt_oss_from_scratch/",
+      "title": "GPT-OSS Inference from Scratch",
+      "description": "In this post, we implement GPT-OSS-20B inference from scratch in PyTorch. Building GPT-OSS shares a lot of common ground with building the Qwen3 family — if you haven’t read my Qwen3 Inference from Scratch and Qwen3 MoE from Scratch posts, I recommend starting there. GPT-OSS is also a sparse MoE transformer with RMSNorm + GQA + RoPE + SwiGLU experts — the shared components work the same way. This"
+    }
+  ]
+}

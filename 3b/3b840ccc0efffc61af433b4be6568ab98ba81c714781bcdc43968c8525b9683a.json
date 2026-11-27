@@ -1,0 +1,15 @@
+{
+  "url": "https://www.kasptrax.com/thoughts/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.kasptrax.com/thoughts/machine-learning-engineer-in-my-pocket",
+      "title": "I have a machine learning engineer in my pocket",
+      "description": "I built an iPhone keyboard trained on eight years of my own writing without writing a line of its code. Coding agents still work on it regularly."
+    },
+    {
+      "link": "https://www.kasptrax.com/thoughts/own-your-ai-memories",
+      "title": "Stop Letting AI Companies Monetize Your Memories",
+      "description": "Every model I use reads from and writes to one knowledge graph on my own server, so my context follows me across Claude, GPT, Gemini and the rest."
+    }
+  ]
+}

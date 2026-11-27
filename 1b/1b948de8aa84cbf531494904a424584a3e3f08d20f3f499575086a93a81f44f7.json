@@ -1,0 +1,20 @@
+{
+  "url": "https://pablo.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://pablo.bearblog.dev/blog-carnivals-around-the-indie-web/",
+      "title": "Blog Carnivals around the Indie Web",
+      "description": "Over on powRSS I’m putting together a list of blog carnivals happening around the web. Send me an email if you are hosting or participating in another community's carnival! IndieWeb Topic: Masks, Identities & Cosplay hosted by Joe Crawford EmacsWiki Topic: Programming hosted by AndyDrop Bear Blog Topic: An album that got you through a hard time hosted by Evie"
+    },
+    {
+      "link": "https://pablo.bearblog.dev/powrss-mastodon-account/",
+      "title": "powRSS Mastodon Account",
+      "description": "I've written a little script for the powRSS Mastodon account to find posts from the Random section on the main site . The idea is to bring visibility to older blogs which may not have published recently. This in turn means you can now follow powRSS in your RSS reader for the occasional low frequency dip into indieweb discovery. Simply add .rss to the end of any Mastodon handle to get its RSS feed."
+    },
+    {
+      "link": "https://pablo.bearblog.dev/christmas-tree-exec/",
+      "title": "Christmas Tree EXEC",
+      "description": "* * *** ***** ******* ********* ************* A ******* *********** VERY *************** ******************* HAPPY *********** *************** CHRISTMAS ******************* *********************** AND MY *************** ******************* BEST WISHES *********************** *************************** FOR THE NEXT ****** ****** YEAR ****** Source: Christmas Tree EXEC"
+    }
+  ]
+}

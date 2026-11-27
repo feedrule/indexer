@@ -1,0 +1,20 @@
+{
+  "url": "https://jonshamir.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://jonshamir.com/writing/font-edit",
+      "title": "Modifying an existing variable font",
+      "description": "Editing fonts with the help of an LLM"
+    },
+    {
+      "link": "https://jonshamir.com/writing/color-mode",
+      "title": "Animated dark mode transition with modern CSS",
+      "description": "How I implemented an animated dark mode using CSS @property and a fancy toggle."
+    },
+    {
+      "link": "https://jonshamir.com/writing/thoughts-button",
+      "title": "Thoughts on a button",
+      "description": "Thoughts on a Button."
+    }
+  ]
+}

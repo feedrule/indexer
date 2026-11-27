@@ -1,0 +1,20 @@
+{
+  "url": "https://the.agilesql.club/index.xml",
+  "posts": [
+    {
+      "link": "https://the.agilesql.club/2026/01/runing-tsqlt-tests-with-claude/",
+      "title": "Runing tSQLt Tests with Claude",
+      "description": "Running tSQLt unit tests is great from Visual Studio but my development workflow isn’t just write tests, run tests, fix tests, run tests anymore, it is 2026 and I am a big fan of using claude code to help me write more efficiently than I used to be with just a keyboard and mouse. I was using claude and asked it to write tests, there were some errors and so I had to paste the error over to claude,"
+    },
+    {
+      "link": "https://the.agilesql.club/2025/12/tsqlt-test-adapter-for-visual-studio-2022-/",
+      "title": "tSQLt Test Adapter for Visual Studio 2022+",
+      "description": "I have had a number of requests for me to update the tSqlt Test Adapter over the years so it would work with more recent versions of Visual Studio. I finally got around to doing this and I am pleased to say that the new version works with VS 2022, 2025 and should continue to work in future releases. Between Visual Studio 2017 and 2019 the changes required were minimal but between 2017 and 2022 the"
+    },
+    {
+      "link": "https://the.agilesql.club/2025/11/github-copilot-in-ssms-can-include-data-in-its-memory-simple-prompt-injections-ahead/",
+      "title": "Github Copilot in SSMS can include data in its memory, simple prompt injections ahead",
+      "description": "SQL Server Management Studio (SSMS) has recently added support for Github Copilot. This is a great feature that can help with writing SQL queries and scripts sql development. However, there is a potential security risk that means that I will only be using it for local development with a database that has no externally provided data. When evaluating GitHub copilot I think there are three core risks"
+    }
+  ]
+}

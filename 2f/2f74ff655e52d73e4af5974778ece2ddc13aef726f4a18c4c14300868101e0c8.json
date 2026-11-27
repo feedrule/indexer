@@ -1,0 +1,20 @@
+{
+  "url": "https://randycoulman.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://randycoulman.com/blog/2026/10/12/automatiq-transmission/",
+      "title": "Automatiq Transmission",
+      "description": "This week, I start my new job at Automatiq ! As I wrote in early May , I was laid off from Mechanical Orchard earlier this year. After a several month job search, I’m happy to say I’ve found a new role. Automatiq is a ticket resale automation platform that powers every type of ticket seller. I’ll be working on a polyglot team with a focus on Elixir. I’m looking forward to working with everyone the"
+    },
+    {
+      "link": "https://randycoulman.com/blog/2026/05/04/looking-for-a-new-role/",
+      "title": "Looking For a New Role",
+      "description": "If you need someone who can lead software teams in shipping high-quality, sustainable software, mentor newer developers, work effectively with stakeholders, and generally be a force-multiplier, let’s talk. As of last week, my time at Mechanical Orchard has come to an end and it’s time to look for what’s next. I really enjoyed my time there and learned a ton from the great people I got to work with"
+    },
+    {
+      "link": "https://randycoulman.com/blog/2024/10/16/mix-test-interactive/",
+      "title": "Mix test.interactive",
+      "description": "mix test.interactive is an interactive test runner for Elixir’s ExUnit . It automatically runs your tests using mix test whenever you save a change to your code or tests and allows you to interactively modify the arguments passed to mix test . While I released the initial version of this project almost four years ago, I’ve never written about it or publicized it, other than a podcast appearance ."
+    }
+  ]
+}

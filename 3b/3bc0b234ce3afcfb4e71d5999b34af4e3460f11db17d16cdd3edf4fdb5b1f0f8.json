@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.fluxcoil.net/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.fluxcoil.net/2026/11/fedora-asahi-remix-45-with-LUKS-encryption/",
+      "title": "Fedora Asahi Remix 45 With LUKS Encryption",
+      "description": "Asahi Remix based on Fedora 45 was released, some things changed since my Fedora 44 based article . If you used these instructions to get your disc encrypted, you can simply upgrade to Fedora 45. The Asahi installer will from now on deploy Fedora 45, that’s what this article is for. Note: My Asahi system with encrypted volumes is already on Asahi Remix 45, so while I’ve confirmed below steps as mu"
+    },
+    {
+      "link": "https://blog.fluxcoil.net/2026/08/installing-misskey-fediverse-instance/",
+      "title": "Installing Misskey Fediverse Instance",
+      "description": "The Fediverse is quite nice! For my main account, I’ve been relying on the fantasticly run chaos.social instance. I’ve played with running gotosocial and Mastodon instances in the past, but did not run them for long. Now had a look at Misskey, and it’s quite nice! Some thoughts, service operation wise: Misskey is heavier than gotosocial, it needs redis and Postgresql, nodejs. So heavy that I want"
+    },
+    {
+      "link": "https://blog.fluxcoil.net/2026/08/comparing-antennas-with-wspr/",
+      "title": "Comparing Antennas with WSPR",
+      "description": "I got free time to spend with HAM gear in the middle of Germany, on a house with 3 floors and a garden behind the house. After doing some connections with FT8, a digital mode, I started to wonder: which of the 2 antennas is best? Huge disclaimer: “best” is relative, I’m trying to optimize for “connections to far away stations”, and did just test for the 20m band (~15Mhz). What to test, and how? Th"
+    }
+  ]
+}

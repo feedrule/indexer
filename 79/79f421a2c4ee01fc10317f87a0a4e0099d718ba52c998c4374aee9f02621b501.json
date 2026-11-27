@@ -1,0 +1,15 @@
+{
+  "url": "https://jacen.li/feed.xml",
+  "posts": [
+    {
+      "link": "https://jacen.li/writings/core-to-core-is-not-core-to-core/",
+      "title": "Core to Core is not Core to Core",
+      "description": "Core to core latency depends on the physical address as well as the two cores: every transfer goes through the line's home on the mesh. How I found it, measured it, and used it."
+    },
+    {
+      "link": "https://jacen.li/writings/caches-and-interconnects/",
+      "title": "The Physicality of Cache",
+      "description": "An illustrated introduction to CPU caches, interconnects, and why data placement affects performance."
+    }
+  ]
+}

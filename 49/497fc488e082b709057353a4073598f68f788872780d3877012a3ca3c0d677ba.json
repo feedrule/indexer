@@ -1,0 +1,20 @@
+{
+  "url": "https://www.parsonsmatt.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.parsonsmatt.org/2026/03/10/teaching_claude_to_be_lazy.html",
+      "title": "Teaching Claude to Be Lazy",
+      "description": "I’ve been watching AI development for a long time. I found LessWrong around 2012-2013, and managed to get myself worked up about the oncoming singularity. I managed to chill out about it, but interest and excitement for AI remained. The initial Deep Dream image generation, Alpha Go, etc, were all so exciting. And then GPT-2 came out. Over the last five years, people have been making wild claims ab"
+    },
+    {
+      "link": "https://www.parsonsmatt.org/2025/12/17/the_subtle_footgun_of_tvar_(map____).html",
+      "title": "The Subtle Footgun of TVar (Map _ _)",
+      "description": "How coarse-grained STM containers can livelock under load Edit history: 12-19: @teofilC on the Haskell Discourse remarked a place where TVar (Map _ _) may be appropriate - I’ve modified the post to incorporate this. Software Transactional Memory (STM) is one of Haskell’s crown jewels. The promise is easy, lock-free concurrency with guaranteed transactional semantics and great performance. Used cor"
+    },
+    {
+      "link": "https://www.parsonsmatt.org/2025/01/21/making_my_life_harder_with_gadts.html",
+      "title": "Making My Life Harder with GADTs",
+      "description": "Lucas Escot wrote a good blog post titled “Making My Life Easier with GADTs” , which contains a demonstration of GADTs that made his life easier. He posted the article to reddit . I’m going to trust that - for his requirements and anticipated program evolution - the solution is a good one for him, and that it actually made his life easier. However, there’s one point in his post that I take issue w"
+    }
+  ]
+}

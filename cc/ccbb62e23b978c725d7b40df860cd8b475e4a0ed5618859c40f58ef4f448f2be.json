@@ -1,0 +1,20 @@
+{
+  "url": "https://iurii.net/en/feed.xml",
+  "posts": [
+    {
+      "link": "https://iurii.net/en/blog/posts/the-lab/a-beginners-guide-to-fpv-drones/",
+      "title": "A Beginners Guide to FPV Drones",
+      "description": "This beginner's guide is arguably one of the best because it comes from a beginner. I write as I go. I couldn't explain anything I'm a pro at better, because I've forgotten what's easy and what's hard while my FPV journey is still fresh. I also remember the impatient \"just let me fly already\" feeling, so I'll keep it short and sweet."
+    },
+    {
+      "link": "https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/",
+      "title": "I used Fable to rewrite 65kLoC to Rust. It cost $400.",
+      "description": "I rewrote rune, my 65kLoC Go terminal editor, to Rust with Fable 5 for about $400. The trick is to turn a code problem into a data problem."
+    },
+    {
+      "link": "https://iurii.net/en/blog/posts/the-lab/llm-explains-llm/",
+      "title": "LLM explains LLM",
+      "description": "One phrase — \"The Eiffel Tower is in\" — traced all the way through a language model: tokenizer, vectors, attention, the MLP, sampling, the loop. Then where the weights come from, why the thing can write Python, and how a loop of ordinary code turns it into an agent."
+    }
+  ]
+}

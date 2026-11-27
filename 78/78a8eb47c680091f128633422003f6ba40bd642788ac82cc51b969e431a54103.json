@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.tfd.co.uk/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.tfd.co.uk/core,/thought/2026/06/03/volvo-penta-overheat.html",
+      "title": "Why does everyone moan about Volvo Pentas overheating….",
+      "description": "There are a lot of posts about Volvo Penta raw water pumps failing, causing engines to overheat, in forums. Seems to me far more than any other engine. I have a Volvo Penta D2-40, now about 9 years old, in perfect condition. Serviced regularly an inspected frequently. By myself, its my boat and if its not done right I suffer the consequences. Service mechanics don’t as I found out on the first ser"
+    },
+    {
+      "link": "https://blog.tfd.co.uk/core,/thought/2024/03/23/spf.html",
+      "title": "SPF oops",
+      "description": "Looks a lot like Google has started to enforce (https://blog.google/products/gmail/gmail-security-authentication-spam-protection/) This is a graph of forwarded vs rejected email for a small domain I use CLoudFlare to forward to gmail accounts. Normally rejection rates are very low. Last week they started to rise."
+    },
+    {
+      "link": "https://blog.tfd.co.uk/core,/thought/2024/02/07/noise.html",
+      "title": "Noise",
+      "description": "To simulate a real behavior requires some level of randomness or noise in the signal. In my case I want to simulate the behaviour of a helm at sea. They try to steer in to a bearing but environmental factors ensure that they wont accurately. Waves, wind, distractions, lack of sleep all play a factor. To simulate this randomness is not enough. A random number between 0 and 1.0 is completely random"
+    }
+  ]
+}

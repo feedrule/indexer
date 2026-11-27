@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.cristianrz.eu.org/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.cristianrz.eu.org/posts/active-anticheat/",
+      "title": "Reverse Engineering the Anticheat on a Private MMO Server",
+      "description": "I play on a private Aion server. For those unfamiliar, Aion is an MMO from 2009 that NCSoft has largely abandoned in the West, but a community of private servers keeps it alive. The server I play on uses a third-party anticheat called Active Anticheat , a commercial product sold to private server operators by a developer in Warsaw. I got curious about what it actually does to my machine. A few eve"
+    },
+    {
+      "link": "https://blog.cristianrz.eu.org/posts/grapheneos/",
+      "title": "An Analysis of GrapheneOS's Server Infrastructure",
+      "description": "I was poking around the GrapheneOS infrastructure repo last week, just curious how they build things. First thing I noticed: every single server runs Arch Linux. DNS nodes, mail servers, the lot. You can verify it directly — every package list includes pacman-contrib and pacutils , which are Arch-specific and don’t exist on any other distro. The deploy-initial-vps script checks for the Arch ISO be"
+    },
+    {
+      "link": "https://blog.cristianrz.eu.org/posts/verified-boot/",
+      "title": "The Reboot Problem: Why Most Operating Systems Can't Defend Against a Compromised Root",
+      "description": "Assume malware has run on your machine and obtained root. After a reboot, is it still there? For most operating systems the answer is yes. The OS itself offers no structural resistance once root is obtained — it can write to system directories, replace binaries, install kernel modules, modify boot configuration. None of this requires exploiting a vulnerability. It’s just what root can do by design"
+    }
+  ]
+}

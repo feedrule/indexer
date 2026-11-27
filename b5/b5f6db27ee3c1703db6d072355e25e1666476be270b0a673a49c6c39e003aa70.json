@@ -1,0 +1,20 @@
+{
+  "url": "https://srikarkashyap.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://srikarkashyap.com/posts/2026/06/introducing-synthetictext/",
+      "title": "Introducing synthetictext",
+      "description": "synthetictext is an LLM-powered Python package for generating synthetic text data for text classification tasks."
+    },
+    {
+      "link": "https://srikarkashyap.com/blog/2024/how-we-won-PAN2024/",
+      "title": "How we won the PAN 2024 Text Classification Challenge",
+      "description": "How our IUCL team won PAN 2024 opposition stance detection with data augmentation and fine-tuned transformers."
+    },
+    {
+      "link": "https://srikarkashyap.com/posts/2024/06/web-scraping-selenium/",
+      "title": "Getting started with Selenium Webdriver and Requests in Python",
+      "description": "Scrape the USPTO patent database with Selenium WebDriver and download PDFs with Requests."
+    }
+  ]
+}

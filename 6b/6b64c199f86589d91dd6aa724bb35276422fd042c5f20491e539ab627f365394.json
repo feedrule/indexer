@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jessriedel.com/feed",
+  "posts": [
+    {
+      "link": "https://blog.jessriedel.com/2026/02/26/one-scaling-framework-for-three-lindblad-limits/",
+      "title": "One scaling framework for three Lindblad limits",
+      "description": "This note shows how three microscopic derivations of a Markovian Lindblad (GKSL) generator are really just variations on the same basic framework, differing in the relative strengths of the system, bath, and interaction Hamiltonians: Continue reading"
+    },
+    {
+      "link": "https://blog.jessriedel.com/2026/01/28/llm-optimized-research-articles/",
+      "title": "LLM-optimized research articles",
+      "description": "Summary: Assume there are several years when AI assistants (“LLMs”) have super-human ability to understand and apply known ideas, but sub-human ability to generate genuinely new ones. In this window, research communication should shift substantially. Rather than writing papers optimized for human readers, we should expect researchers will explain ideas conversationally to an LLM, which produces a"
+    },
+    {
+      "link": "https://blog.jessriedel.com/2025/05/01/hydrodynamical-variables-associated-with-approximately-conserved-quantities/",
+      "title": "Hydrodynamical variables associated with approximately conserved quantities",
+      "description": "Wavefunction branches are probably approximate eigenstates of hydrodynamic variables (and maybe more generally of slow local variables). Hydro variables are local averages of approximately locally conserved quantities, not restricted to fluids. They are most useful when the remaining degrees of freedom are all able to locally thermalize quickly conditional on the hydro variables, so that hydro var"
+    }
+  ]
+}

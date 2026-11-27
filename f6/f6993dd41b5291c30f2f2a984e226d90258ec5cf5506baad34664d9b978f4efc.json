@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.opticontrols.com/feed/",
+  "posts": [
+    {
+      "link": "https://blog.opticontrols.com/gain-anchored-tuning/",
+      "title": "Gain-Anchored Tuning for Integrating Processes",
+      "description": "Overview Gain-Anchored Tuning (GAT) is a PID tuning method for integrating processes, developed by Jacques Smuts of OptiControls. It is particularly suited for level control in large tanks, vessels, and reservoirs with slow process dynamics. Traditional tuning methods calculate controller gain based on process dynamics and often produce excessively high gain values for slow-responding processes, ["
+    },
+    {
+      "link": "https://blog.opticontrols.com/split-range-control-a-case-study/",
+      "title": "Split-Range Control – A Case Study",
+      "description": "Background A few weeks ago, a refinery got me out to tune the control loops on their thermal oxidizer. A thermal oxidizer (TOX) is a specialized combustion system that uses heat to destroy volatile organic compounds (VOCs) and hazardous air pollutants so that they aren’t released into the atmosphere. This particular TOX had two distinct […]"
+    },
+    {
+      "link": "https://blog.opticontrols.com/super-high-controller-gains/",
+      "title": "Super-High Controller Gains",
+      "description": "Controller gains of properly tuned loops are typically within the range of 0.1 to 10. During my process control training workshops, I advise participants to be careful when applying controller gains greater than 10 – even when a tuning rule recommends it. The reason why I recommend this is that changes in the error signal […]"
+    }
+  ]
+}

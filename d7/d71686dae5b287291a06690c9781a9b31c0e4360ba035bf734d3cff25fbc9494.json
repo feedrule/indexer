@@ -1,0 +1,20 @@
+{
+  "url": "https://www.chilli.sh/index.xml",
+  "posts": [
+    {
+      "link": "https://www.chilli.sh/posts/adguard-home-as-a-container-in-fedora-server/",
+      "title": "Adguard Home as a container in Fedora Server",
+      "description": "Setting up Adguard Home as a container in Fedora Server"
+    },
+    {
+      "link": "https://www.chilli.sh/posts/apps-i-use/",
+      "title": "Apps I use daily & some alternatives",
+      "description": "Apps I use on my Fedora laptop on a daily basis"
+    },
+    {
+      "link": "https://www.chilli.sh/posts/fedora-43-cosmic-spin-post-install-notes/",
+      "title": "Fedora 43 cosmic spin post-install notes",
+      "description": "Fedora 43 software and config that I did post install"
+    }
+  ]
+}

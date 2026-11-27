@@ -1,0 +1,20 @@
+{
+  "url": "https://www.yoav.ws/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.yoav.ws/posts/why_webmcp_matters/",
+      "title": "Why WebMCP matters",
+      "description": "For the last few months, I’ve been working (amongst other things) on getting Shopify’s storefront WebMCP tools ready for production and shipped . That’s now done, other folks have added Checkout support , and WebMCP seems to be getting traction: OpenAI added support in ChatGPT Desktop and ran the super-interesting WebMCP Challenge , Cloudflare supports it both in Kitesurf and for its customers , a"
+    },
+    {
+      "link": "https://blog.yoav.ws/posts/so_you_want_to_push_a_web_platform_feature/",
+      "title": "So, you want to push a web platform feature?",
+      "description": "“If you give the same advice more than twice, write a blog post!” - Abraham Lincoln Over the years, I’ve helped a few folks get into browser development, and tried to encourage many others. In that process, I found myself giving similar advice, again and again. This is my attempt to have somewhere I can send browser-curious folks to. So, in this post, I’ll try to outline why you may want to contri"
+    },
+    {
+      "link": "https://blog.yoav.ws/posts/improving_language_negotiation/",
+      "title": "Improving language negotiation",
+      "description": "Being a multilingual user on the web can sometimes be a frustrating experience. Depending on the device you’re using and the language it happens to be configured to, some websites will try to accommodate you, and give you a translated version of their content, even though you may prefer the non-translated original. That is why a recent Intent to experiment around language negotiation caught my eye"
+    }
+  ]
+}

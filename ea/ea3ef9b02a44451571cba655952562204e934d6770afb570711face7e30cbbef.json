@@ -1,0 +1,15 @@
+{
+  "url": "https://kwakubiney.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://kwakubiney.com/posts/Product-Has-Always-Been-The-Bottleneck-Its-Just-Clearer-Now/",
+      "title": "Product has always been the bottleneck, it’s just clearer now",
+      "description": "If you’ve been doing engineering in a big enough company for a while now, you are probably aware of the process most companies with a substantial number of people use. Engineers wait for the go ahead to build some product that management has identified to solve a market gap. Now, in most big enough teams, what happens is that management or product identify market gaps, and there’s a lot of idea..."
+    },
+    {
+      "link": "https://kwakubiney.com/posts/UDP-Tunneling-With-Safehaven/",
+      "title": "UDP Tunneling With SafeHaven",
+      "description": "For a few months, I have been exploring tools which heavily utilize the Linux networking stack to do some cool stuff. Came across Cilium and Tailscale too! Making a few contributions to the Cilium project piqued my interest in the kernel networking domain, and I decided to build a collection of projects which will enhance my knowledge of how certain networking tools are built. The first one I s..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gingerlime.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "title": "Stripe is friendly to “friendly fraud”",
+      "description": "Update: this post generated some interesting discussion on Hacker News. Friendly fraud is the laundered name for something that the payment system is not really able to prevent. Even though I’m pretty sure they can do way better. Particularly big and sophisticated payment providers like Stripe, with a mountain of signals. I had a customer… The post Stripe is friendly to “friendly fraud” appeared f"
+    },
+    {
+      "link": "https://www.gingerlime.com/2026/security-advisory-woocommerce-delivery-notes-rce-exploit-cve-2025-13773/",
+      "title": "Security Advisory: WooCommerce Delivery Notes RCE Exploit (CVE-2025-13773)",
+      "description": "Summary A critical Remote Code Execution vulnerability in WooCommerce Delivery Notes <= 5.8.0 allowed attackers to inject PHP code into plugin settings. The malicious code executed when any admin or the backend printed an invoice via DomPDF, installing backdoors and creating unauthorized admin accounts. This vulnerability was publicly disclosed in December 2025 and is actively… The post Security A"
+    },
+    {
+      "link": "https://www.gingerlime.com/2024/self-hosting-with-kamal-watch-your-ports-when-shipping/",
+      "title": "Self-hosting with Kamal: Watch your ports when shipping.",
+      "description": "I’ve been playing around with Kamal from Basecamp (previously called MRSK) for deploying simple apps on a single server. There’s a lot to like about Kamal’s ergonomics and principles. But there were a few things that I struggled with or that confused me. It mostly boils down to Kamal offering some kind of a layer… The post Self-hosting with Kamal: Watch your ports when shipping. appeared first on"
+    }
+  ]
+}

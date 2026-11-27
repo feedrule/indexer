@@ -1,0 +1,20 @@
+{
+  "url": "https://notthebe.ee/rss.xml",
+  "posts": [
+    {
+      "link": "https://notthebe.ee/blog/moving-away-from-github/",
+      "title": "Saying goodbye to GitHub",
+      "description": "TL;DR: As of December 2025, I've moved all my GitHub projects to a self-hosted Forgejo instance at https://git.notthebe.ee/ Why? There are many reasons for that, and unless you've been living under a rock (if that's the case, I envy you), you've also been following a slow but sure enshittification and ensloppification of the platform. This includes (but isn't limited to): Leaking code from private"
+    },
+    {
+      "link": "https://notthebe.ee/blog/nixos-ephemeral-zfs-root/",
+      "title": "Ephemeral root partition on NixOS using ZFS",
+      "description": "What is 'ephemeral root'? Ephemeral root (also \"opt-in state\", immutable root or Erase your darlings ) is a root parition setup in which the filesystem root is erased on every system boot. We can then manually \"opt in\" directories which we want to preserve accross reboots. Why would I want that? Even if you use IaC for your machines, over time, most systems accumulate garbage state – be that throu"
+    },
+    {
+      "link": "https://notthebe.ee/blog/updating-bios-and-bmc-firmware-gigabyte-mc12-le0/",
+      "title": "Updating the BIOS and the BMC firmware on Gigabyte MC12-LE0",
+      "description": "Gigabyte MC12-LE0 is an microATX AMD AM4 motherboard based on the B550 chipset. It has two PCIe 4.0 slots, 6 SATA slots, 6 (!) PWM fan connectors, and features an ASPEED KVM, which lets you control the motherboard remotely. It's also fairly inexpensive on the used market. The catch? Its BIOS update process. Prerequisites You can find the latest BMC firmware here , and the latest BIOS version here"
+    }
+  ]
+}

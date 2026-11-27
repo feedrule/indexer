@@ -1,0 +1,20 @@
+{
+  "url": "https://briangilbert.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://briangilbert.net/writings/local-telemetry-standard/",
+      "title": "A common language for game telemetry",
+      "description": "An open standard for games to expose telemetry to motion rigs, haptics and dashboards on the local network: where it came from, why it kept going quiet, and what exists now."
+    },
+    {
+      "link": "https://briangilbert.net/writings/revivenext/",
+      "title": "Oculus/Meta PCVR games, native to SteamVR's Library",
+      "description": "ReviveNext puts Oculus/Meta PCVR games inside SteamVR's own Library: eleven days and 37 commits, the haptics and performance fixes Revive needed, and two gnarly SteamVR bugs found along the way."
+    },
+    {
+      "link": "https://briangilbert.net/writings/qlcodepreview/",
+      "title": "From QLColorCode-Extra to QLCodePreview",
+      "description": "How a decade-old Quick Look plugin grew obsolete on modern macOS, and what I built to replace it."
+    }
+  ]
+}

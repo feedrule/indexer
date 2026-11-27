@@ -1,0 +1,20 @@
+{
+  "url": "https://maxhalford.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://maxhalford.github.io/blog/wikipedia-on-turbopuffer/",
+      "title": "Indexing Wikipedia on turbopuffer",
+      "description": "TLDR: I use Redpanda Connect to keep 7.26M English Wikipedia articles indexed in turbopuffer for keyword, semantic, and hybrid search. The pipeline targets a 30s p95 ingestion SLO and costs roughly $60/month, including embedding inference. Demo here . Today is “h4x day” at turbopuffer . It’s basically a 24-hour hackathon fueled by good food, electrolytes, and high beats per second music. Everyone"
+    },
+    {
+      "link": "https://maxhalford.github.io/blog/squill-hello-world/",
+      "title": "Squill: my canvas for writing SQL",
+      "description": "Where do you write SQL queries? It’s 2026, and I’m not convinced there’s one place people flock to for writing SQL. There are excellent tools like DataGrip , Count.co , and Hex , but you have to pay for them. You can use the code editors offered by BigQuery/DataBricks/Snowflake, but I find them subpar and not actively maintained. Also, they’re closed source so the community can’t improve them. Mot"
+    },
+    {
+      "link": "https://maxhalford.github.io/blog/french-polling-data/",
+      "title": "A brief guide to French polling data",
+      "description": "FiveThirtyEight is one of the reasons I went down the data science rabbit hole, during my university years. What it achieved during the 2012 US presidential election felt like nothing short of predicting the future. And yet, all the data it used was out there in the open, available to anyone. I found that very inspiring at the time. France is going through a difficult political period. The far rig"
+    }
+  ]
+}

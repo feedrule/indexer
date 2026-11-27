@@ -1,0 +1,20 @@
+{
+  "url": "https://barrowdown.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://barrowdown.bearblog.dev/redacted-sector-zine/",
+      "title": "Redacted Sector Survey Report, a new CT Zine",
+      "description": "Wake up! A new classic traveller zine just dropped! Redacted Sector Survey Report Contributors include... chaoclypse Gromb idraluna ktrey mtb oldhawkeyes wrenni"
+    },
+    {
+      "link": "https://barrowdown.bearblog.dev/b000538-5-bist/",
+      "title": "B000538-5 \"Bist\"",
+      "description": "ENG@MANTIS:~$ cmd-libA ACCESSING RECORDS... WHICH RECORD? ENG@MANTIS:~libA$ sys/subA ACCESSING RECORDS... WHICH SYSTEM RECORD? ENG@MANTIS:~..subA$ 0107 ACCESSING RECORDS... SYSTEM REPORT GENERATED ENG@MANTIS:~libA/sys/subA$ cd /rpt/sys/subA/0107 ENG@MANTIS:~..subA/0107$ cat SYS_REPORT Subsector Name: Heidius Cluster DoP: 292.1154 Name: \"Bist\" Loc: 0107 UPP: B000538-5 Remarks: Ni Va As The old worl"
+    },
+    {
+      "link": "https://barrowdown.bearblog.dev/1977-traveller-1-aar/",
+      "title": "1977 Traveller Session 1 AAR",
+      "description": "ENG@MANTIS:~$ cmd-scan SWEEP INITATIED... SCAN_REPORT GENERATED ENG@MANTIS:~$ ENG@MANTIS:~$ ENG@MANTIS:~$ cd /rpt/scan ENG@MANTIS:~/rpt/scan$ cat SCAN_REPORT +–1---2---3---4---5---6---7---8–+ 1 ............................. 1 2 #..................#......... 2 3 ............................. 3 4 ^..........A................. 4 5 ............................. 5 6 ................F............ 6 7 .."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://klatz.co/feed.xml",
+  "posts": [
+    {
+      "link": "https://klatz.co/blog/security-week-2026/",
+      "title": "Security Week 2026",
+      "description": "Busy week. Bryan came to me at like 11pm mentioning that Go had rotated a CA. eMudhra — a certificate authority whose private keys turned out to be the number 4. I’ve heard a few theories - they misinterpreted P-384 or P-256, they might’ve been trained on a different HSM. PHP2Shell — Data race to a UAF. Discussed years ago but thought non-exploitable. Discovered by Calif and then Amy. Brotli2Shell"
+    },
+    {
+      "link": "https://klatz.co/blog/lean-bug-notes/",
+      "title": "Lean Bug Notes",
+      "description": "https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/ https://github.com/leanprover/lean4/issues/10475 https://github.com/leanprover/lean4/issues/10511 https://leanprover.zulipchat.com/#narrow/channel/270676-lean4/topic/Counterexample.20to.20the.20Lean.20Conjecture.20.28Soundness.20Bug.29/with/613492055 Kernel soundness bug #14576 and the follow-up bug hunt,"
+    },
+    {
+      "link": "https://klatz.co/blog/lean-partiality-and-eml/",
+      "title": "Lean partiality and EML",
+      "description": "I got very curious about the EML paper . The idea there is eml(x,y) = exp(x) - ln(y), and trees of this and the constant 1 can implement ~36 of the elementary functions sin(x) etc. It’s a bit like boolean logic gates for elementary functions. I tried implementing it in Lean but ran into a limitation wherein Lean requires total functions, and some math functions are partial (e.g. ln(0) = 0 in Lean)"
+    }
+  ]
+}

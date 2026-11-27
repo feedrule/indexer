@@ -1,0 +1,20 @@
+{
+  "url": "https://0x9900.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://0x9900.com/qra-locator-tool-now-available/",
+      "title": "QRA Locator Tool Now Available",
+      "description": "Just a quick note for anyone who needs to convert between QRA (Maidenhead) locators and geographic coordinates. We've set up a simple, no-frills web tool at bsdworld.org/QRA-Locator . It's a lightweight page that does exactly what it says in the title: Earth Enter a QRA locator (like CM87VL ) See …"
+    },
+    {
+      "link": "https://0x9900.com/choke-baluns-for-f6kop/",
+      "title": "Choke Baluns for F6KOP",
+      "description": "The objective of a choke balun is to reduce RF current flowing on the outside of the coaxial cable, thereby improving the symmetry of the radiation pattern and suppressing radio-frequency interference (RFI)."
+    },
+    {
+      "link": "https://0x9900.com/manage-ubuntu-firewall-rules/",
+      "title": "Manage Ubuntu Firewall Rules",
+      "description": "UFW is a command-line frontend for managing Linux firewall rules. UFW uses the Linux kernel's Netfilter framework to enforce these rules, traditionally through the iptables interface and, on modern Ubuntu systems, often through iptables-nft , which translates rules to the nftables backend."
+    }
+  ]
+}

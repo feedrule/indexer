@@ -1,0 +1,20 @@
+{
+  "url": "https://pastila.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://pastila.org/essays/classic-gradient-interpolation/",
+      "title": "Classic: how hard can it be?",
+      "description": "The simplest of Photoshop's gradient interpolation methods: two colors, three channels, no conversions between color spaces. A look at the curve Photoshop draws between stops."
+    },
+    {
+      "link": "https://pastila.org/essays/basic-color-math-knowledge/",
+      "title": "Color Math: Inside Photoshop Gradients",
+      "description": "What you need to know before diving into the math behind gradients. Core concepts, pitfalls, and dragons."
+    },
+    {
+      "link": "https://pastila.org/essays/intro-secret-gradient-interpolation/",
+      "title": "Introduction. The Secret Gradient Interpolation Method",
+      "description": "First article in the Photoshop Algorithms Arcana series. Photoshop 2026 ships with an undocumented gradient interpolation method called Smooth — let's see how it differs from Perceptual, Classic, and Linear."
+    }
+  ]
+}

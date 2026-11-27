@@ -1,0 +1,20 @@
+{
+  "url": "https://andycallaghan.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://andycallaghan.com/apple-relay-emails-silently-failing/",
+      "title": "Apple relay emails silently failing?",
+      "description": "I've lost my mind this week to an intermittent email bug with iCloud relay emails. I couldn't easily find this solved online - so here goes. LT;DR If you use: Postmark or any email service provider Allow customer to customise email FROM addresses, e.g. info@londonstudio.com Have Apple ID login on your thing Want to send email to your customers (probably a given) You need to setup SPF & DKIM in the"
+    },
+    {
+      "link": "https://andycallaghan.com/securing-hatchbox-servers-with-cloudflare/",
+      "title": "Securing Hatchbox servers with Cloudflare",
+      "description": "I recently moved my Jammed Rails app to Hatchbox , and wanted to secure the server with Cloudflare. Hatchbox is excellent for Rails, and has native support for Wildcard SSL certs issued from the Cloudflare API, so it's an exceedingly happy union. What Hatchbox does not setup for you for Cloudflare however is the stronger security settings, so I thought I'd write up what I did to get it working. Cl"
+    },
+    {
+      "link": "https://andycallaghan.com/fixing-rails-active-storage-with-uuid-models/",
+      "title": "Fixing Rails Active Storage with UUID Models",
+      "description": "If you're using UUIDs as primary keys in your Rails application, you might have encountered issues with Active Storage attachments. This is because Active Storage's default migrations don't respect the application-wide primary key type configuration. Let's fix this! The Problem When you set up your Rails application to use UUIDs as primary keys (which is a best practice fullstop in my opinion), yo"
+    }
+  ]
+}

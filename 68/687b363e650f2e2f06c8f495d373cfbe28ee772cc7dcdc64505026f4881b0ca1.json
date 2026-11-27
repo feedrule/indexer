@@ -1,0 +1,20 @@
+{
+  "url": "https://daniel-yang.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://daniel-yang.com/writing/keeping-agent-exhaust-out-of-your-repo/",
+      "title": "You can't commit what Git can't see: keeping agent exhaust out of your repo",
+      "description": "Agent notes and scratch files want to live next to your repo, but .gitignore is a promise, not a guarantee. Keep them structurally outside the worktree."
+    },
+    {
+      "link": "https://daniel-yang.com/writing/beyond-login-encrypting-data-with-passkeys-and-webauthn-prf/",
+      "title": "Beyond login: encrypting data with passkeys and WebAuthn PRF",
+      "description": "The WebAuthn PRF extension turns a passkey into an encryption keystore. How pknotes derives keys from a Face ID tap, and what that can't protect."
+    },
+    {
+      "link": "https://daniel-yang.com/writing/cloudflare-deploy-button-disabled-auth/",
+      "title": "My \"Deploy to Cloudflare\" button disabled auth",
+      "description": "A Deploy to Cloudflare button turned my local-dev config into production secrets — and shipped copies of my app with admin auth off. A postmortem."
+    }
+  ]
+}

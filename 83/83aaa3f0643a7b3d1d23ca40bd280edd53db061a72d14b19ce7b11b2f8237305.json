@@ -1,0 +1,20 @@
+{
+  "url": "https://hetmehta.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://hetmehta.com/posts/llms-for-malware-analysis/",
+      "title": "Using LLMs for Malware Analysis: What Works, What Fails, and How to Do It Safely",
+      "description": "A long, evidence-based guide to using LLMs in malware analysis as of November 2026: what the studies and practitioner reports show, where models fail, how malware now talks back to AI analysts, how to handle samples and data safely, and a workflow with tested code."
+    },
+    {
+      "link": "https://hetmehta.com/posts/mcp-server-security-checklist/",
+      "title": "An MCP Server Security Checklist for Authors (With the Real Bugs Behind Each Item)",
+      "description": "A long, practical security checklist for people who build MCP servers. Most items are tied to the MCP specification or to a real CVE or incident, with tested code, a test plan, and a prompt you can paste into your own agent."
+    },
+    {
+      "link": "https://hetmehta.com/posts/first-security-hire-ai-startup/",
+      "title": "Your First Security Hire at an AI Startup: The First 90 Days, With Receipts",
+      "description": "A long, opinionated 90-day plan for the first security and compliance hire at an AI-native company. Built from real incidents, the 2026 breach data and the frameworks people actually use, with a worked threat model and a prompt you can paste into your own agent."
+    }
+  ]
+}

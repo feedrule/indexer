@@ -1,0 +1,20 @@
+{
+  "url": "https://cyberroute.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://cyberroute.github.io/post/2025-12-11-localstack-hack/",
+      "title": "From Reflected XSS to Container RCE in LocalStack via CloudFormation Deploy UI",
+      "description": "CVE Identifiers Update (October 22, 2026): both CVEs are now published on the NVD. CVE Description CVSS 3.1 CWE CVE-2025-65200 Remote Code Execution via XSS to CloudFormation Chain 9.6 Critical (AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H) CWE-79 CVE-2025-69723 Reflected Cross-Site Scripting (XSS) Vulnerability 6.1 Medium (AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N) CWE-79 What is LocalStack and how to quickly s"
+    },
+    {
+      "link": "https://cyberroute.github.io/post/2025-10-14-cors/",
+      "title": "Exploiting CORS vulnerability with basic origin reflection",
+      "description": "Exploiting CORS Misconfigurations Introduction During a recent security assessment, I discovered a CORS (Cross-Origin Resource Sharing) misconfiguration that allowed complete bypass of the Same-Origin Policy. This vulnerability enabled an attacker to steal sensitive user information including API keys, email addresses, and session tokens from authenticated users. In this guide, I’ll walk you throu"
+    },
+    {
+      "link": "https://cyberroute.github.io/post/2024-03-11-bruter/",
+      "title": "Presenting Bruter: a Web Server Testing Tool",
+      "description": "Introduction Bruter is a lightweight application built as an experimental project while learning the Go programming language. Though inspired by the popular Xray tool from GitHub, Bruter introduces its own set of features, tailored specifically for web server testing and configuration validation. Whether you’re a seasoned web administrator or a beginner in cybersecurity, Bruter offers a streamline"
+    }
+  ]
+}

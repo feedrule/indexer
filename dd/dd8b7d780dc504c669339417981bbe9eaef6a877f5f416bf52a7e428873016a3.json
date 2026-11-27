@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.psy-q.ch/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.psy-q.ch/posts/seven-months-pregnant-with-an-emacs-config/",
+      "title": "I Was Seven Months Pregnant With an Emacs Config",
+      "description": "A whole bunch of people that I consider very smart and accomplished kept recommending Emacs to me as a text editor. This goes back to at least 1996, so it has nothing to do with the current Emacs renaissance. But while I found the editor more charming than quirky, I bounced off of it every time I tried it. Fast forward to February, 2026 and I’m fed up and frustrated enough by text editors in gener"
+    },
+    {
+      "link": "https://blog.psy-q.ch/blog/2024/12/30/superior-self-hosted-music-streaming-without-spotify/",
+      "title": "Superior self-hosted music streaming without Spotify",
+      "description": "There are enough reasons to avoid using Spotify (and most other streaming services). For me the big reasons are: Bad players with very limited functionality, for example: Can’t shuffle-play your entire library Can’t add your own tags and other metadata Must use resource-hungry client applications, no third party clients can be used that might offer better features No way to easily pre-download as"
+    },
+    {
+      "link": "https://blog.psy-q.ch/posts/2024-10-25-fun-with-citrix-escape-sequences/",
+      "title": "Fun with Citrix Escape Sequences",
+      "description": "Recently I had to use Citrix on a Linux client to access some Windows remote desktops. I know people like to give Citrix shit all the time, I used to be one of them myself. But the Linux client actually has some really good features: Drive and device redirection actually works Wayland poses no problems for it Many, many things can be customized I want to focus on the last point. My problem is that"
+    }
+  ]
+}

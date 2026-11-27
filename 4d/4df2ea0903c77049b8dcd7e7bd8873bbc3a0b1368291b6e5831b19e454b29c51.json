@@ -1,0 +1,20 @@
+{
+  "url": "https://www.basbroek.nl/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.basbroek.nl/assistive-access-revisited",
+      "title": "Assistive Access — iOS Easy Mode, Revisited",
+      "description": "What is Assistive Access, you might ask? It’s an accessibility feature released in iOS 17, to “distill apps and experiences to their essential features in order to lighten cognitive load.” It offers bigger elements, scoped app functionality, and more consistent navigation. When I wrote about Assistive Access’ beta, things were still in flux and not necessarily fully fleshed out. There was, for exa"
+    },
+    {
+      "link": "https://www.basbroek.nl/multiple-custom-contents-swiftui",
+      "title": "Dynamically Setting Accessibility Custom Content Pairs in SwiftUI",
+      "description": "Accessibility Custom Content was introduced back in the 2020 releases “[to deliver] accessibility information from complex data sets to your users in measured portions.” Put another way, it allows you to present key-value information pairs to users they can scan at their leisure, without having to parse this information from a (long) accessibility label, accessed through the rotor."
+    },
+    {
+      "link": "https://www.basbroek.nl/recording-voiceover",
+      "title": "Recording VoiceOver on iOS & macOS",
+      "description": "We’re lucky that on iOS, recording the sound output of VoiceOver does not require extra steps. On macOS, we’re not so lucky, but we can use some tools to route audio and achieve the same result — no background noise in recordings!"
+    }
+  ]
+}

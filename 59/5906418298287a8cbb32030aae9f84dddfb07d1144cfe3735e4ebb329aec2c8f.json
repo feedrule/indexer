@@ -1,0 +1,20 @@
+{
+  "url": "https://muneebdev.com/feed/",
+  "posts": [
+    {
+      "link": "https://muneebdev.com/php2shell-security-alert-is-your-legacy-php-site-at-risk/",
+      "title": "PHP2Shell Security Alert: Is Your Legacy PHP Site at Risk?",
+      "description": "Your website may still be working perfectly. That does not mean the PHP version behind it is secure. On 21 October 2026, the PHP project..."
+    },
+    {
+      "link": "https://muneebdev.com/ai-crawler-access-2026/",
+      "title": "AI Crawler Access in 2026: GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot, Google-Extended & PerplexityBot",
+      "description": "There are two technical details worth making central to the article: OpenAI separates search from training. OAI-SearchBot is used for ChatGPT Search discovery, while GPTBot..."
+    },
+    {
+      "link": "https://muneebdev.com/php2shell-explained-two-critical-php-bugs-you-need-to-patch-right-now/",
+      "title": "PHP2Shell Explained: Two Critical PHP Bugs You Need to Patch Right Now",
+      "description": "If you run anything on PHP — a Laravel app, a WordPress site, a plain PHP API — stop reading after this paragraph and check..."
+    }
+  ]
+}

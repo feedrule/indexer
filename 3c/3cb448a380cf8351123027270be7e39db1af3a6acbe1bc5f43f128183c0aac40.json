@@ -1,0 +1,20 @@
+{
+  "url": "https://lethedata.com/feeds/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.lethedata.com/blog/xteink-x4-pro-crossink.html",
+      "title": "XTEINK X4 Pro with CrossInk",
+      "description": "My notes on my XTEINK X4 Pro device and why I chose CrossInk."
+    },
+    {
+      "link": "https://www.lethedata.com/blog/list-fdroid-repo-app-names.html",
+      "title": "Fetch F-Droid Repo App Name List",
+      "description": "Get list of available apps in F-Droid repo without a web interface."
+    },
+    {
+      "link": "https://www.lethedata.com/blog/keepassxc-gui-dbus-lock.html",
+      "title": "Lock KeePassXC GUI from CLI",
+      "description": "KeePassXC Lock GUI from CLI via D-Bus"
+    }
+  ]
+}

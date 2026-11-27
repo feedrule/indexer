@@ -1,0 +1,20 @@
+{
+  "url": "https://zouhir.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://zouhir.org/blog/virtual-keyboard-api/",
+      "title": "The Virtual Keyboard API Is Broken Where It Matters Most",
+      "description": "Six years after the spec shipped, Safari and Firefox haven't implemented it and Chrome's implementation has three compounding bugs. Here's what's wrong."
+    },
+    {
+      "link": "https://zouhir.org/blog/my-dev-env-setup-on-apple-silicon/",
+      "title": "My Dev Environment Setup on Apple Silicon",
+      "description": "A close inspection of the M1 SoC, Rosetta 2 performance and my setup for effective software development with Homebrew, Go, Node.js and Docker on M1 Mac Mini."
+    },
+    {
+      "link": "https://zouhir.org/blog/welcome-to-my-blog/",
+      "title": "Welcome to my website and blog!",
+      "description": "A creative outlet for me to publish my work around programming and Web browsers; and for you to connect with me and get to know me better."
+    }
+  ]
+}

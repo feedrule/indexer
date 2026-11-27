@@ -1,0 +1,20 @@
+{
+  "url": "https://malura.de/en/feed.xml",
+  "posts": [
+    {
+      "link": "https://malura.de/en/blog/from-mouse-to-hex",
+      "title": "From Mouse to Hex",
+      "description": "Which hex tile is under the mouse? Turn pixels into fractional cube coordinates, round them, and why rounding all three values on their own gives no hex on a quarter of the area. Plus lines across the grid, to try out."
+    },
+    {
+      "link": "https://malura.de/en/blog/hex-coordinates",
+      "title": "Hex Coordinates",
+      "description": "Offset, axial, cube and doubled side by side on a hex board. With neighbors, distance as the largest absolute cube difference, and the trap of just counting columns and rows on the offset grid."
+    },
+    {
+      "link": "https://malura.de/en/blog/blending-noise-layers",
+      "title": "Blending Noise Layers",
+      "description": "One fBm looks the same everywhere. Continent, mountains and detail as three layers, four blend modes (add, multiply, mask, lerp) and a number that shows why mountains should only stand where the land is high."
+    }
+  ]
+}

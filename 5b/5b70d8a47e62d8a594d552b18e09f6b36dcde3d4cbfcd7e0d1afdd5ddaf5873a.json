@@ -1,0 +1,20 @@
+{
+  "url": "https://dustinrue.com/feed/",
+  "posts": [
+    {
+      "link": "https://dustinrue.com/2026/09/building-a-homelab-skill-for-claude/",
+      "title": "Building a Homelab Skill for Claude",
+      "description": "In a previous post I described handing management of my homelab over to Claude Cowork, checking for software updates, validating config changes, and rolling back when something goes wrong. That’s the day-to-day loop. What I haven’t written about yet is the layer underneath it: a custom “skill” I built that gives Claude a written memory […]"
+    },
+    {
+      "link": "https://dustinrue.com/2026/08/how-i-use-claude/",
+      "title": "How I use Claude",
+      "description": "A few months ago I started a pro subscription to Claude in an effort to learn how to use generative AI. I wanted to understand what it could and couldn’t do well. In this post I will cover a few of the ways I have found to use Claude and generative AI in general. The […]"
+    },
+    {
+      "link": "https://dustinrue.com/2025/12/recovering-from-a-failed-proxmox-upgrade/",
+      "title": "Recovering from a failed Proxmox upgrade",
+      "description": "Today I’ll look at how I recovered from a failed Proxmox 8 to 9 upgrade on a small form factor Dell that I use. This system is one of two in the cluster, and it failed during the upgrade process. This failure was not caught by the pve8to9 utility, which gave me a clean report […]"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://peterme.net/rss/",
+  "posts": [
+    {
+      "link": "https://peterme.net/building-an-epaper-laptop-dithering.html",
+      "title": "Building an epaper laptop: Dithering",
+      "description": "Epaper screens come in many variants. The classic one that most people think about is only black and white. However most newer panels are at least capable of greyscale, and the best in class are colour. But the colour and greyscale isn’t “true” colour and greyscale, but rather they have…"
+    },
+    {
+      "link": "https://peterme.net/writing-tests-for-nim-libraries-with-nimble-and-unittest.html",
+      "title": "Writing tests for Nim libraries with Nimble and unittest",
+      "description": "Most developers will agree that having automatic tests is a good thing. With good tests we can make changes to our code and test whether these changes causes old bugs to resurface, new bugs to appear, or current workflows to be broken. In this tutorial we will have a look at…"
+    },
+    {
+      "link": "https://peterme.net/building-an-epaper-laptop-the-monitor.html",
+      "title": "Building an epaper laptop: The monitor",
+      "description": "The most distinct part of making an epaper laptop is obviously the screen. And picking a screen for this project was always going to be one of the most critical decisions. The biggest available panel I could find with a somewhat reasonable price was a 10.3” Waveshare…"
+    }
+  ]
+}

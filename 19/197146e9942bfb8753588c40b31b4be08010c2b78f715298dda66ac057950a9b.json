@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.lezli01.is-a.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.lezli01.is-a.dev/blog/keepup-agent-setup-audit-skill/",
+      "title": "Keepup: I handed my agent setup maintenance to the agent itself",
+      "description": "My coding agent setup is a pile of skills, MCP servers, plugins, hooks, and helper CLIs, each with its own update path and its own way of quietly going stale. I audited it by hand for far too long before it occurred to me that the agent could do the audit, so I wrote keepup, an open-source Agent Skill that inventories the setup, checks every item against its source, and applies only the fixes I ap"
+    },
+    {
+      "link": "https://blog.lezli01.is-a.dev/blog/gold-and-skulls-release/",
+      "title": "Gold & Skulls: I rebuilt a lost 2011 mobile game as a premium Android roguelike",
+      "description": "Gold & Skulls 1.1.0 is out on Google Play: a turn-based chain-matching puzzle roguelike with 10 classes, 40 skills, 32 special skulls, and no ads, no in-app purchases, no account, and no tracking."
+    },
+    {
+      "link": "https://blog.lezli01.is-a.dev/blog/vincent-0-12-release/",
+      "title": "vincent 0.12.0: issues, handoffs, and GitHub Copilot after the three-pillar refactor",
+      "description": "The first vincent release built on the intake, workshop and handoff split: issues vincent owns and syncs from GitHub, one line of work per issue, handoffs with human grants, GitHub Copilot CLI as a fourth agent, and an end-to-end workflow that uses all of it."
+    }
+  ]
+}

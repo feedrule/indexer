@@ -1,0 +1,20 @@
+{
+  "url": "https://aidilj.com/worklog/feed/",
+  "posts": [
+    {
+      "link": "https://aidilj.com/worklog/2026/03/e46-ev-conversion-design-parameters-and-engine-is-out/",
+      "title": "E46 EV conversion design parameters and engine is out",
+      "description": "As of right now I have decided to go for Hyper 9 HV motor with 48S 160Ah LFP. According to AI, this would give around 100km of range. Current battery placement plan is for 20 cell in the engine bay and 14+14 distributed between two sides where the gas tank used to be. This would […]"
+    },
+    {
+      "link": "https://aidilj.com/worklog/2026/01/e46-ev-conversion-started/",
+      "title": "E46 EV conversion started",
+      "description": "Our local transport department allow EV conversion to be registered properly for road use. So since I still have the E46 with broken engine, it is the perfect platform for this project. And as I know from years back when starting the project for the E30. The bell housing for the gearbox is the same. […]"
+    },
+    {
+      "link": "https://aidilj.com/worklog/2020/05/tantillus-build-part-3-dry-run/",
+      "title": "Tantillus build – Part 3, dry run",
+      "description": "Controller board used for the Tantillus is the Anet board taken from my Anet A8. It is paired with Raspberry Pi Zero W running Octoprint for wireless access. Right now, more parts are due to arrive like the printing platform and Bowden tube. Next I would need to decide whether to use an internal power […]"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ingebrigtsen.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://ingebrigtsen.blog/2026/03/10/Dynamic-Consistency-Boundaries-the-Chronicle-way/",
+      "title": "Dynamic Consistency Boundaries — the Chronicle way",
+      "description": "What is a Dynamic Consistency Boundary? A Dynamic Consistency Boundary (DCB) is a deceptively simple idea: consistency should be scoped to the facts a decision actually needs, not to a fixed object boundary drawn at design time. In practice that means: Load only the data relevant to the decision at hand. Derive the consistency boundary at runtime from that data. Enforce consistency fo..."
+    },
+    {
+      "link": "https://ingebrigtsen.blog/2026/02/19/Cratis-Major-Releases/",
+      "title": "Cratis Major Releases",
+      "description": "I’m excited to announce two major releases in the Cratis ecosystem: Chronicle v15.0.0 and Arc v19.0.0. While these releases went out the door a few weeks ago, we’ve been too busy shipping features and improvements to properly announce them - until now! These releases represent a significant milestone in our journey to provide a robust, developer-friendly event sourcing and CQRS platform for .NE..."
+    },
+    {
+      "link": "https://ingebrigtsen.blog/2025/06/08/Improving-DevEx/",
+      "title": "Improving DevEx",
+      "description": "Background We have the following core principles of how we approach developing any public facing APIs in Cratis: APIs should be lovable Provide sane defaults but make them flexible, extensible and overridable Consistency is king It should be easy to do things right, hard to do things wrong Never expose more than is needed With the Chronicle project we’ve had a couple of challenge..."
+    }
+  ]
+}

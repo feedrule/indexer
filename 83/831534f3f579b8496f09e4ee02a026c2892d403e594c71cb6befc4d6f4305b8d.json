@@ -1,0 +1,20 @@
+{
+  "url": "https://colinmcnamara.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://colinmcnamara.com/blog/riemann-proof-trust-the-statement",
+      "title": "Nobody Understands the Riemann Proof. That's the Point.",
+      "description": "A 17-million-line Lean proof of the Riemann Hypothesis was certified in a day by people who can't read it. How that works, what it does and doesn't prove, and why it matters for anyone drowning in AI-written code."
+    },
+    {
+      "link": "https://colinmcnamara.com/blog/artex-llm-gateway",
+      "title": "ARTEX: The attack that runs through your LLM gateway",
+      "description": "Attackers' AI agents sent Amazon's fake LLM APIs their plans. What the FBI's ARTEX warning means for the gateway between your agents and your models."
+    },
+    {
+      "link": "https://colinmcnamara.com/blog/black-october",
+      "title": "Black October: A Security Filter, Switched Off by a Name",
+      "description": "Finding the bug took a day. Writing the fix took an hour. The handoffs took two weeks. How a policy bypass in vLLM Semantic Router's Istio integration works, how to check for it, and what it would take to fix faster."
+    }
+  ]
+}

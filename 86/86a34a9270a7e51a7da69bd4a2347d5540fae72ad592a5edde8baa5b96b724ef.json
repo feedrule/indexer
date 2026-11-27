@@ -1,0 +1,20 @@
+{
+  "url": "https://4rkal.com/index.xml",
+  "posts": [
+    {
+      "link": "https://4rkal.com/posts/p2p-2k/",
+      "title": "Someone tried to steal €2k from me on a P2P crypto trade. It didn't work.",
+      "description": "Yesterday I got scammed on a P2P crypto trade. Or at least someone tried to. Here’s what happened and how I managed to get Revolut to side with me. What happened I took a sell order on RoboSats for 3,110,649 sats (~0.031 BTC) in exchange for €2,100 EUR via Revolut. The buyer had listed the order, I took it, the trade went through normally, I confirmed the Revolut payment and released the Bitcoin."
+    },
+    {
+      "link": "https://4rkal.com/posts/newsletter-spam/",
+      "title": "Prevent newsletter signup spam",
+      "description": "Got spammed with fake newsletter signups? Learn how to protect your forms using double opt-in, CAPTCHA, and Cloudflare."
+    },
+    {
+      "link": "https://4rkal.com/posts/launching-cyphergoat/",
+      "title": "Introducing CypherGoat - The first open source crypto exchange aggregator",
+      "description": "Swap your crypto at the best rate on the market. Fast, Private, Open source!"
+    }
+  ]
+}

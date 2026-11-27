@@ -1,0 +1,20 @@
+{
+  "url": "https://nickgeorge.net/index.xml",
+  "posts": [
+    {
+      "link": "https://nickgeorge.net/sec-parser/",
+      "title": "Simple and Efficient SEC Filing Parsing Using Go",
+      "description": "There are many SEC filings parsers, this one is mine . Public companies in the US are required to file standardized disclosures with the SEC. Tracking those filings and extracting structured data from them is extremely useful, but surprisingly difficult to do. I run an application focused on biotech company activity , and SEC filings are a core input that can tell you a lot about what companies ar"
+    },
+    {
+      "link": "https://nickgeorge.net/sqlite-debugging-corruption/",
+      "title": "Debugging 'Malformed Database Schema' in SQLite",
+      "description": "I run a biotech investment and competitive intelligence tracking application. The app is a go app run on a bare-bones VPS with a SQLite database as the data store, dead simple. I was recently working on a major rebuild of the database on a separate server ( build-server ). When I was satisfied, with the changes, I tried to deploy: # on the build-server sqlite3 rxdatalab.db \"PRAGMA quick_check;\" #"
+    },
+    {
+      "link": "https://nickgeorge.net/paddle-development/overlay-checkout/",
+      "title": "Paddle Overlay Checkout",
+      "description": "First, let’s make a frontend key and save it in our hugo.toml under a key like paddleSandboxClientSideJsToken (you’ll also have a paddleProdClientSideJsToken ). Then, on your layouts/products/single.html template make a javascript snippet like so: <script src=\"https://cdn.paddle.com/paddle/v2/paddle.js\"></script> <script type=\"text/javascript\"> {{- $paddleToken := \"\" -}} {{- $priceIds := slice -}}"
+    }
+  ]
+}

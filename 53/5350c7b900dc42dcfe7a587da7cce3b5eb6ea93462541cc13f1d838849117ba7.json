@@ -1,0 +1,20 @@
+{
+  "url": "https://charlesxu.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://charlesxu.io/tp-cp-sp-ep-dp-pp/",
+      "title": "Trace a Token Through TP + CP + SP + EP + DP + PP in MoE Inference",
+      "description": "How tensor, context, sequence, expert, data and pipeline parallelism compose in MoE prefill on 32 GPUs, and why experts force DP replicas into lockstep."
+    },
+    {
+      "link": "https://charlesxu.io/parallel-tokenizer/",
+      "title": "5.5x Faster HuggingFace Tokenizers for a Single Sequence",
+      "description": "Use all cores on one long input with output identical to serial: Llama 3 tokenizes 4MB in 163ms, not 805ms, cutting text only where it's proven safe."
+    },
+    {
+      "link": "https://charlesxu.io/speculative-decoding/",
+      "title": "Accelerate LLM Inference with Speculative Decoding",
+      "description": "Verify a draft model's tokens in one forward pass without changing the output distribution, or drop the draft model for Medusa heads and tree attention."
+    }
+  ]
+}

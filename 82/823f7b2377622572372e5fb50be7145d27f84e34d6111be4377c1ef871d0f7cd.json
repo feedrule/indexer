@@ -1,0 +1,20 @@
+{
+  "url": "https://letsencrypt.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://letsencrypt.org/2026/11/05/sta-pq-funding.html",
+      "title": "€1M from Sovereign Tech Agency to Fuel Post-Quantum Readiness at Let's Encrypt",
+      "description": "Sovereign Tech Agency is investing in the development of a Merkle Tree Certificate Authority at Let’s Encrypt through the end of 2027 with a contract totaling more than €1M . This is the largest single investment in post-quantum readiness at Let’s Encrypt to date. This investment will help pave the path for free post-quantum Merkle Tree Certificates for people globally. Every time you open your ba"
+    },
+    {
+      "link": "https://letsencrypt.org/2026/10/29/good-day-cryptography.html",
+      "title": "A Good Day for Cryptography",
+      "description": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered . The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a no"
+    },
+    {
+      "link": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+      "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+      "description": "On February 10, 2027, all Let’s Encrypt subscribers will move to certificates with 64 day lifetimes by default unless they select an even shorter lifetime (45 or 6 days, as previously announced ). This means that any certificate we issue or renew on and after that date will have a 64 day validity period, and we expect the last 90-day certificate to expire on May 11, 2027. We will not revoke valid"
+    }
+  ]
+}

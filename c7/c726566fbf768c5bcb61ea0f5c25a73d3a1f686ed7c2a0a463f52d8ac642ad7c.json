@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mariusvach.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.mariusvach.com/posts/thoughts-on-jev",
+      "title": "Thoughts on Jev",
+      "description": "Jev is the AI moment of 2026 for me. But the interesting part isn't its classifier interface — it's the training objective, and what it means for building with AI."
+    },
+    {
+      "link": "https://blog.mariusvach.com/posts/designing-not-building",
+      "title": "We Don't Build the Machines Anymore",
+      "description": "We design the machines. We don't build them anymore. I'm still not sure how I feel about that."
+    },
+    {
+      "link": "https://blog.mariusvach.com/posts/bitter-lesson",
+      "title": "The Not-so Bitter Lesson",
+      "description": "How tinygrad helped me finally understand what Sutton meant"
+    }
+  ]
+}

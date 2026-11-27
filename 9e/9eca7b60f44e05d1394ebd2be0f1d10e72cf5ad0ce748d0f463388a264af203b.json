@@ -1,0 +1,20 @@
+{
+  "url": "https://nateshoffner.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://nateshoffner.com/blog/2026/11/backblaze-b2-for-elasticsearch-snapshots/",
+      "title": "Backblaze B2 for Elasticsearch Snapshots",
+      "description": "Setting up Backblaze B2 as an Elasticsearch snapshot repository and how it holds up on recent versions."
+    },
+    {
+      "link": "https://nateshoffner.com/blog/2026/11/a-mostly-proper-keyword-search-for-discord/",
+      "title": "A Mostly Proper Keyword Search for Discord",
+      "description": "Poking at the internals of Discord search and building a bot that turns it into a mostly proper keyword search."
+    },
+    {
+      "link": "https://nateshoffner.com/blog/2025/01/elasticon-2024/",
+      "title": "Elasticon 2024",
+      "description": "A summary of my experience at Elasticon 2024 in New York City."
+    }
+  ]
+}

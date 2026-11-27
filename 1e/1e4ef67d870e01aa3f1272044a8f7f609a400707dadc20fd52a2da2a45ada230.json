@@ -1,0 +1,20 @@
+{
+  "url": "https://www.notesoncloudcomputing.com/feed",
+  "posts": [
+    {
+      "link": "https://www.notesoncloudcomputing.com/posts/2026-03-04-registry-bouncer-github-action/",
+      "title": "Use Registry Bouncer to Stop NPM Supply Chain Attacks",
+      "description": "Registry Bouncer is a zero-configuration GitHub Action that stands at the gate of your repository and blocks malicious NPM packages from ever entering your codebase."
+    },
+    {
+      "link": "https://www.notesoncloudcomputing.com/posts/2026-02-27-anatomy-of-a-web3-supply-chain-attack/",
+      "title": "Anatomy of a Web3 Supply Chain Attack",
+      "description": "How a Fake Polymarket Bot Drained My Wallet"
+    },
+    {
+      "link": "https://www.notesoncloudcomputing.com/posts/2025-03-07-how-to-install-ladybird-on-fedora/",
+      "title": "How to install Ladybird on Fedora",
+      "description": "A step-by-step guide on how to install and run Ladybird on Fedora."
+    }
+  ]
+}

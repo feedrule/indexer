@@ -1,0 +1,20 @@
+{
+  "url": "https://joeydantoni.com/feed/",
+  "posts": [
+    {
+      "link": "https://joeydantoni.com/2026/09/11/building-dynamic-entra-groups-when-you-dont-have-p1-entra/",
+      "title": "Building Dynamic Entra Groups when you don’t Have P1 Entra",
+      "description": "One of the things I love about my job is being able to build unique solutions for customers. Yes, I know how to build a landing zone architecture in Azure, or a hub and spoke network, but I tend to have the most fun, when I open my Teams chat with Denny and John, and […]"
+    },
+    {
+      "link": "https://joeydantoni.com/2026/08/21/entra-sso-aws-took-15-minutes-github-took-a-migration/",
+      "title": "Entra SSO: AWS Took 15 Minutes, GitHub Took a Migration",
+      "description": "In recent weeks I’ve been implementing single-sign on with Entra for a couple of difference clients. In one case this was for connecting to AWS, and in the other, GitHub. One of these solutions was quite easy—the other one was the company Microsoft owns and was a lot more painful. In this post, you are […]"
+    },
+    {
+      "link": "https://joeydantoni.com/2026/06/25/microsoft-fabric-why-are-you-so-down/",
+      "title": "Microsoft Fabric–Why Are You So Down?",
+      "description": "Microsoft Fabric is software-as-a-service platform for data processing, business intelligence reporting, and even online transaction processing apps. Fabric has been generally available since November, 2023. Building planet scale platforms is hard, and I have a great deal of sympathy for engineers and architects who are dealing with layoffs, constant pressure for new features, and the […]"
+    }
+  ]
+}

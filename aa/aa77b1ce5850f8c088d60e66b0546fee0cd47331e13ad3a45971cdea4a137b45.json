@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/mariusschulz",
+  "posts": [
+    {
+      "link": "https://mariusschulz.com/blog/keyboard-shortcuts-for-jumping-and-deleting-in-iterm2",
+      "title": "Keyboard Shortcuts for Jumping and Deleting in iTerm2",
+      "description": "How to configure familiar keyboard shortcuts for common navigation and edit actions in the iTerm2 command prompt, such as jumping to the start or end of a word or line."
+    },
+    {
+      "link": "https://mariusschulz.com/blog/assertion-functions-in-typescript",
+      "title": "Assertion Functions in TypeScript",
+      "description": "TypeScript 3.7 implemented support for assertion functions in the type system. An assertion function is a function that throws an error if something unexpected happens. Using assertion signatures, we can tell TypeScript that a function should be treated as an assertion function."
+    },
+    {
+      "link": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
+      "title": "Optional Chaining: The ?. Operator in TypeScript",
+      "description": "TypeScript 3.7 added support for the ?. operator, also known as the optional chaining operator. We can use this operator to descend into an object whose properties potentially hold the values null or undefined without writing any null checks for intermediate properties."
+    }
+  ]
+}

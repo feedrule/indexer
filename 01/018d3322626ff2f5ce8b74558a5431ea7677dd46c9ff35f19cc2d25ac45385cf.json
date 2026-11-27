@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ionicframework.com/feed/",
+  "posts": [
+    {
+      "link": "https://ionic.io/blog/community-spotlight-native-ui-for-ionic-and-capacitor-apps",
+      "title": "Community Spotlight: Native UI for Ionic and Capacitor Apps",
+      "description": "Masahiko Sakakibara is a member of the Ionic community, a recognized Ionic Developer Expert, and an organizer of the Ionic Japan User Group. Masahiko has also contributed substantially to the Ionic community through his work translating the documentation for Ionic Framework, Stencil, and Capacitor for the Japanese community. I’ve been working on a way to […] The post Community Spotlight: Native UI"
+    },
+    {
+      "link": "https://ionic.io/blog/the-capacitor-9-beta-is-here",
+      "title": "The Capacitor 9 Beta is here",
+      "description": "Capacitor 9 Beta was published today, and headline items from The Road to Capacitor 9 are now available for testing. Cordova compatibility is now optional and only added when using Cordova plugins, iOS is now a source-first Swift package, and core support for foldables and multi-window scenarios has been added (with APIs for things like […] The post The Capacitor 9 Beta is here appeared first on I"
+    },
+    {
+      "link": "https://ionic.io/blog/introducing-ionic-theme-ios27",
+      "title": "Community Spotlight: Ionic Theme iOS 27",
+      "description": "Masahiko Sakakibara is a member of the Ionic community, a recognized Ionic Developer Expert, and an organizer of the Ionic Japan User Group. Masahiko has also contributed substantially to the Ionic community through his work translating the documentation for Ionic Framework, Stencil, and Capacitor for the Japanese community. I’ve released v1.0.0 of @rdlabo/ionic-theme-ios27, a theme that […] The p"
+    }
+  ]
+}

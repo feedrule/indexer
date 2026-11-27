@@ -1,0 +1,20 @@
+{
+  "url": "https://fastpaced.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://fastpaced.com/articles/boring-lfs/",
+      "title": "LFS should be boring",
+      "description": "LFS should be boring Large-file versioning should be simple and fast: no extra service, no separate workflow, no pipeline system. Just files that stay aligned with the commits that reference them. Author David Muhr Published September 13, 2026 I want a fairly unremarkable thing from data versioning: check out an old Git commit and get the files that belong to it. Not the latest dataset. Not the mo"
+    },
+    {
+      "link": "https://fastpaced.com/articles/meaningful-work/",
+      "title": "Meaningful work",
+      "description": "Meaningful work Meaningful work can be understood as activity that adds value to society. Work adds value to society when its outcomes enhance what that specific society values. This article proposes a concise definition of meaningful work grounded in societal value creation. Author David Muhr Published October 23, 2025 After reading about Bullshit Jobs , a rant about meaningless jobs, I wanted to"
+    },
+    {
+      "link": "https://fastpaced.com/articles/local-development/",
+      "title": "Local development",
+      "description": "Local development Efficient software development benefits from local development, it enables faster iteration, better debugging and ensures consistency between local and production environments. Author David Muhr Published October 6, 2024 A good developer experience (DX) increases productivity, reduces cognitive load, and improves developer satisfaction, leading to higher code quality, faster onbo"
+    }
+  ]
+}

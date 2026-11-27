@@ -1,0 +1,20 @@
+{
+  "url": "https://mashio.net/rss/rss.xml",
+  "posts": [
+    {
+      "link": "https://mashio.net/blog/2026-10-02-recovering-legacy-s3ql-filesystems-from-aws-s3",
+      "title": "Recovering Legacy S3QL Filesystems from AWS S3",
+      "description": "Before I fully understood the operational lock-in and caveats that come with S3QL, I deployed several encrypted, deduplicated filesystems directly on Amazon S3."
+    },
+    {
+      "link": "https://mashio.net/blog/2025-11-23-american-multitudes",
+      "title": "American Multitudes",
+      "description": "A reflection on polarization sparked by identity and automated blocklists. A challenge to the comfort of digital isolation and advocates for the difficult, necessary work of engaging with neighbors to bridge cultural divides."
+    },
+    {
+      "link": "https://mashio.net/blog/2025-07-29-how-to-sell-open-source-software-to-the-government",
+      "title": "How to sell open source software to the government",
+      "description": "A three-step roadmap for open source entrepreneurs to win government cannabis traceability contracts. It offers philosophical and strategic ideas on championing open technology for the public good."
+    }
+  ]
+}

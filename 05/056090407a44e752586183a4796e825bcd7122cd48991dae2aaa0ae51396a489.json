@@ -1,0 +1,20 @@
+{
+  "url": "https://rgagnon.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.rgagnon.com/javadetails/java-process-mp3-tags.html",
+      "title": "Java : Process MP3 Tags",
+      "description": "Update and fix. Add detect big artwork."
+    },
+    {
+      "link": "https://www.rgagnon.com/gp/gp-batch-turn-off-monitor.html",
+      "title": "Batch : Turn off all the screens from a Windows batch file",
+      "description": "Turn off all the screens with this poowershell one-liner."
+    },
+    {
+      "link": "https://www.rgagnon.com/javadetails/java-create-xls-xlsx-with-apache-poi.html",
+      "title": "Java : Create XLS/XLSX file with Apache POI",
+      "description": "You can use Apache POI HSSF to create an XLS file or Apache POI XSSF for an XLSX file."
+    }
+  ]
+}

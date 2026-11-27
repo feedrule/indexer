@@ -1,0 +1,20 @@
+{
+  "url": "https://synapticism.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://synapticism.com/projects/emoji-picker/",
+      "title": "Emoji Picker",
+      "description": "A full-page emoji browser with synonym search, skin tones, and click to copy."
+    },
+    {
+      "link": "https://synapticism.com/projects/wp-skills/",
+      "title": "WordPress Skills",
+      "description": "A Claude Code skill for working on live WordPress sites, especially old, inherited, and possibly compromised ones."
+    },
+    {
+      "link": "https://synapticism.com/projects/agent-skills/",
+      "title": "Agent Skills",
+      "description": "A handful of Claude Code skills, mostly for checking an agent’s work before it lands."
+    }
+  ]
+}

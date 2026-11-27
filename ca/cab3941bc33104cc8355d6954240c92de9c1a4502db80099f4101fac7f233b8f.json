@@ -1,0 +1,20 @@
+{
+  "url": "https://zytkow.ski/feed/",
+  "posts": [
+    {
+      "link": "https://zytkow.ski/the-best-engineer-you-know-thinks-platform-first/",
+      "title": "The best engineer you know thinks \"platform-first\"",
+      "description": "Some thoughts on the characteristic of the best among us. TL;DR at the bottom. The Situation You've just joined the XYZ Finance team, your first task is to handle payments from the investment maintenance fees, customers always pay them using their credit cards. You sit down, design the solution, develop, deploy, et voila . The company can now charge customers their investment maintenance fee via c"
+    },
+    {
+      "link": "https://zytkow.ski/writing-parquet-files-with-rust-to-save-on-cloud-storage-costs/",
+      "title": "Writing Parquet files with Rust to save on cloud storage costs",
+      "description": "How to write parquet files with Rust and lower cloud storage costs"
+    },
+    {
+      "link": "https://zytkow.ski/advent-of-code-2023-day-15/",
+      "title": "Advent of Code 2023 - Day 15",
+      "description": "Solution for Advent of Code 2023 Day 15 using Rust"
+    }
+  ]
+}

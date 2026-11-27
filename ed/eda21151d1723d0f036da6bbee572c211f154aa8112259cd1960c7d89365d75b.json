@@ -1,0 +1,20 @@
+{
+  "url": "https://bitbashing.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://bitbashing.io/am-radio.html",
+      "title": "Simulating Airband AM Radios",
+      "description": "Warning: Contains many annoying sounds. In a slight departure from my usual code monkey content, let’s talk about airplanes! And radios! For the last several years, I’ve spent most Saturdays playing (and occasionally working on) BMS , a modern 1 combat flight sim where you and your friends blow stuff up in virtual F-16s. Any co-op game with over 30 people is a blast, but air combat is especially f"
+    },
+    {
+      "link": "https://bitbashing.io/async-arc.html",
+      "title": "Arc Troopers: Adventures in Async Rust",
+      "description": "The trouble with arguing about software design is that there’s precious little room between “too short for a useful example” and “too long; didn’t read”. Good examples are concise, but many important problems are too complex to reveal themselves in small snippets. Let’s talk about something complex—Async Rust. We’ll need a concurrent Rust program, so let’s invent a dumb archive format that compres"
+    },
+    {
+      "link": "https://bitbashing.io/haskell-concurrency.html",
+      "title": "Concurrency in Haskell: Fast, Simple, Correct",
+      "description": "After nearly a decade of building embedded systems in C, C++, and Rust, I’ve somehow ended up writing Haskell for a living. If you’d asked me about functional programming a few years ago, I would have told you it was self-indulgent academic baloney—and then I stumbled into people using it for real-time systems where microseconds can mean literal life or death. I’m too old to try to convince people"
+    }
+  ]
+}

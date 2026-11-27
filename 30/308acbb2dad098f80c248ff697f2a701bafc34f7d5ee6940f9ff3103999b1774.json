@@ -1,0 +1,20 @@
+{
+  "url": "https://maxwellsantoro.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://maxwellsantoro.com/writing/unfolding-manhattan/",
+      "title": "What if Manhattan unfolded?",
+      "description": "A question about the space stacked inside buildings became an interactive map."
+    },
+    {
+      "link": "https://maxwellsantoro.com/writing/lazy-collective-failed-experiments/",
+      "title": "Why I shut down Lazy Collective",
+      "description": "Two agents open the same repository a day apart. Could the second reuse the first’s work? I built DotRepo and PageDigest to find out."
+    },
+    {
+      "link": "https://maxwellsantoro.com/writing/optimizing-ries-rs/",
+      "title": "I optimized the wrong part of ries-rs first",
+      "description": "Profiling led me to a ranking bug, then to parallel matching."
+    }
+  ]
+}

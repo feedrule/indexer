@@ -1,0 +1,20 @@
+{
+  "url": "https://labofcoding.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://labofcoding.com/posts/parsing-smiles-lexical-analysis/",
+      "title": "Parsing SMILES: Lexical Analysis",
+      "description": "Writing a SMILES lexer by hand: turning characters into atom, bond, branch and ring tokens, and reporting lexical errors with positions"
+    },
+    {
+      "link": "https://labofcoding.com/posts/parsing-smiles-from-smiles-strings-to-molecular-graphs/",
+      "title": "Parsing SMILES: From SMILES Strings To Molecular Graphs",
+      "description": "How a SMILES string becomes a molecular graph: the OpenSMILES grammar, parsing stages, and how RDKit, Open Babel and CDK do it"
+    },
+    {
+      "link": "https://labofcoding.com/posts/coding-agents-are-no-silver-bullet/",
+      "title": "Coding agents are no silver bullet",
+      "description": "A modern look at Brooks' paper No Silver Bullet in light of agentic coding"
+    }
+  ]
+}

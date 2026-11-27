@@ -1,0 +1,20 @@
+{
+  "url": "https://agraphicsguynotes.com/index.xml",
+  "posts": [
+    {
+      "link": "https://agraphicsguynotes.com/posts/building_a_fiber_based_job_system_from_scratch/",
+      "title": "Building a Fiber-Based Job System from Scratch",
+      "description": "About five years ago, I wrote a blog post explaining how fibers work at a low level [1] and how they give programmers greater control over scheduling. Since then, I have used fibers as the foundation for cooperative multithreading in both SORT , my offline renderer, and its asset build pipeline. In this post, I want to share some of the design decisions behind this system and the flexibility it pr"
+    },
+    {
+      "link": "https://agraphicsguynotes.com/posts/procedural_uv_derivatives_evaluation_in_sort_renderer/",
+      "title": "Procedural UV Derivatives Evaluation in SORT Renderer",
+      "description": "In this post, I want to talk about a topic I have been meaning to write about for quite a few years: texture UV derivatives evaluation in my offline renderer, SORT (Simple Open Source Ray Tracer) , which I’ll use throughout this post. It normally is not a major challenge. However, my own custom shading language [1] specifically designed for my renderer adds quite a lot of complexity in it. It was"
+    },
+    {
+      "link": "https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_gi/",
+      "title": "Understanding The Math Behind ReSTIR GI",
+      "description": "Recently, I had the pleasure of contributing to Nvidia’s Zorah project, the flagship demo for the RTX 50 Series GPUs. My primary role was to provide technical support for light transport in Zorah, which included collaborating with my colleague Daqi Lin to implement a brand new ReSTIR-based global illumination solution, specifically, ReSTIR PT [1] , within the NvRTX branch of Unreal Engine. A GDC p"
+    }
+  ]
+}

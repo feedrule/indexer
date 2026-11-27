@@ -1,0 +1,20 @@
+{
+  "url": "https://ankurrathore.net.in/index.xml",
+  "posts": [
+    {
+      "link": "https://ankurrathore.net.in/posts/network-observability-part-2/",
+      "title": "Network Observability (Part 2): Tri-Signal Correlation via Dynamic Topology",
+      "description": null
+    },
+    {
+      "link": "https://ankurrathore.net.in/posts/network-observability-part-1-ingestion-pipeline/",
+      "title": "Architecting a Multi-NSP Telemetry Ingestion Pipeline at Enterprise Scale",
+      "description": "Deep dive into building a resilient, wire-speed ingestion engine for multi-vendor network telemetry using gNMI, IPFIX, Kafka, and stream normalization."
+    },
+    {
+      "link": "https://ankurrathore.net.in/posts/the-100-percent-cpu-lie/",
+      "title": "The 100% CPU Lie: Why Your Async Worker is Spinning in Silence",
+      "description": null
+    }
+  ]
+}

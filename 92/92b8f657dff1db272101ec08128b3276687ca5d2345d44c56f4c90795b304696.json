@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jromanmartin.io/feed.xml",
+  "posts": [
+    {
+      "link": "http://blog.jromanmartin.io/2026/11/20/rhtpa-openshift-demo.html",
+      "title": ":shield: Exploring Red Hat Trusted Profile Analyzer on OpenShift",
+      "description": "Overview of the repository to install Red Hat Trusted Profile Analyzer and Red Hat Dependency Analytics on OpenShift."
+    },
+    {
+      "link": "http://blog.jromanmartin.io/2026/06/19/rhdh-workshop-summary.html",
+      "title": ":rocket: From empty cluster to Internal Developer Portal",
+      "description": "Summary of a full-day Red Hat Developer Hub workshop covering GitLab integration, catalog, RBAC, templates, TechDocs, and advanced IDP capabilities on OpenShift."
+    },
+    {
+      "link": "http://blog.jromanmartin.io/2026/04/20/openshift-local.html",
+      "title": ":lock: Trust the OpenShift Local Root CA on your workstation",
+      "description": "How to export the OpenShift Local root CA and add it to your local trust store for development and testing."
+    }
+  ]
+}

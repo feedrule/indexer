@@ -1,0 +1,20 @@
+{
+  "url": "https://bytecode.news/feed.xml",
+  "posts": [
+    {
+      "link": "https://bytecode.news/posts/2026/11/geertjan-wielenga-an-introduction-to-the-java-visual-recognition-api",
+      "title": "Geertjan Wielenga: An Introduction to the Java Visual Recognition API",
+      "description": "Geertjan Wielenga has published article introducing JSR 381, the Java Visual Recognition API, and demonstrates a nearest-neighbor image classifier built on DuckDB."
+    },
+    {
+      "link": "https://bytecode.news/posts/2026/11/accreted-specifications",
+      "title": "Accreted Specifications",
+      "description": "Code accretes because reality keeps delivering requirements nobody wrote down. The damage from this comes when the code is the only record of why, and the way out is to recover that specification, sort the promises from the accidents, and give each requirement you keep a name and a record of its own."
+    },
+    {
+      "link": "https://bytecode.news/posts/2026/11/bob-mcwhirter-dont-ship-infinite-monkeys",
+      "title": "Bob McWhirter: Don’t Ship Infinite Monkeys",
+      "description": "Bob McWhirter argues that open-ended agent exploration belongs in development, while shipped AI features must be bounded and proven on utility, reliability, budget and failure behavior."
+    }
+  ]
+}

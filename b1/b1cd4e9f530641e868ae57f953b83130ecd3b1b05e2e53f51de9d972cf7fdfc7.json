@@ -1,0 +1,20 @@
+{
+  "url": "https://aaronfisher.net/feed/",
+  "posts": [
+    {
+      "link": "https://aaronfisher.net/2026/07/immich-3-unraid-fix-unable-to-load-web-ui-after-upgrading-to-v3/",
+      "title": "Immich 3 on Unraid: fix “No vector extension found” (web UI not loading)",
+      "description": "I updated Immich to v3 on Unraid and the web UI stopped loading entirely, no error on the page, just connection refused. Checking the main Immich container logs showed the following: Turns out Immich 3.0 dropped support for the old pgvecto.rs database extension in favour of its replacement, VectorChord, and my Postgres container was still […] The post Immich 3 on Unraid: fix “No vector extension f"
+    },
+    {
+      "link": "https://aaronfisher.net/2026/07/market-harborough-classic-car-show-2026/",
+      "title": "Market Harborough Classic Car Show 2026",
+      "description": "The post Market Harborough Classic Car Show 2026 appeared first on Aaron Fisher ."
+    },
+    {
+      "link": "https://aaronfisher.net/2026/06/handy-weather-app-for-runners/",
+      "title": "Handy weather app for runners",
+      "description": "Handy app/web app I stumbled across today that helps you figure out the best time of the day or week to go for a run weather wise. There’s a couple of options you can set, e.g. do you mind running in the rain etc. The post Handy weather app for runners appeared first on Aaron Fisher ."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://oligot.be/index.xml",
+  "posts": [
+    {
+      "link": "https://oligot.be/posts/ai-sandbox/",
+      "title": "Running AI agents in a sandbox",
+      "description": "TL;DR A small guide on how to run AI agents in a sandbox… natively! Context I first heard about running AI agents in a sandbox while reading the article Running Claude Code dangerously (safely) . I then wanted to see if there were alternatives to using Vagrant, and the most interesting ones ( Docker Sandbox and Matchlock ) are based on microVMs. The downside of these tools is that you have to some"
+    },
+    {
+      "link": "https://oligot.be/posts/goodbye-firefox/",
+      "title": "Goodbye Firefox",
+      "description": "TL;DR I’m not using Firefox anymore… instead I use… well, you’ll have to read the article to find out 😜 Context I’ve recently switched from Linux to MacOS and while the transition has been mostly smooth, it’s also a good time to reevaluate some previous choices. I’ve used Firefox from the start (I didn’t remember my previous browser, on Windows it was probably IE but on Linux ?) and until recently"
+    },
+    {
+      "link": "https://oligot.be/posts/macos-switch/",
+      "title": "Switching from Linux to MacOS",
+      "description": "TL;DR I’ve switched from ArchLinux to MacOS and it’s been smoother than I initially thought. Context I’ve been using Linux for more than 20 years and used a bunch of distributions in the past: Ubuntu, Fedora, Gentoo (yay, building those packages from sources with flags…), and last but not least ArchLinux (stock + derivates like Manjaro and EndeavourOS). I recently had the opportunity, both persona"
+    }
+  ]
+}

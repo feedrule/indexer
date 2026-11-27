@@ -1,0 +1,20 @@
+{
+  "url": "https://jack-kelly.com/feed.xml",
+  "posts": [
+    {
+      "link": "http://jack-kelly.com/blog/2026-01-19-plot-solar-pv",
+      "title": "Plotting our solar PV data",
+      "description": "We had 10 solar PV panels installed on our roof in south-east London back in 2022. I’ve finally gotten round to writing code to grab live data from our solar system over the local area network and plot the live data. This has been a good excuse to try out publishing a simple dashboard without an SQL database or a server. The visualisation is a Marimo app, exported as web assembly. The Python code"
+    },
+    {
+      "link": "http://jack-kelly.com/blog/2024-06-11-our-experience-of-whooping-cough",
+      "title": "Our experience of whooping cough (spoiler: It was horrible!)",
+      "description": "My family is finally getting over whooping cough. It has been a very bumpy ride. The aim of this blog post is to try to explain the ways in which our experience of whooping cough differed from the “textbook” description of whooping cough. And I’ll very cautiously offer some advice for folks who think they may have whooping cough. But I must emphasise that I’m not a medical doctor! Please take my a"
+    },
+    {
+      "link": "http://jack-kelly.com/blog/2024-04-17-using-computing-to-fix-climate-change-part2",
+      "title": "Using computing to fix climate change, part 2",
+      "description": "Four years ago, I wrote a blog post on Using computing to fix climate change. Since then, I’ve learnt a lot! So I thought I’d write a follow-on to that blog post. Compared to my old blog post, this new blog post is more philosophical, and less practical. So, if you want practical advice, then please check my previous blog post. Who is this blog post for? This blog post is primarily aimed at softwa"
+    }
+  ]
+}

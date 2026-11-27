@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.frank-mich.com/feed/",
+  "posts": [
+    {
+      "link": "https://blog.frank-mich.com/recipe-reducing-cold-start-with-precompiled-python-bytecode-in-serverless/",
+      "title": "Recipe: Reducing cold start with precompiled python bytecode in serverless",
+      "description": "Scroll to the bottom if you want the recipe and skip story telling. This is a story of software: You have a greenfield project. It’s beautiful and fast. Then you add features. For five years. Then you realize your cold start times went from ~1 second to ~5.5 seconds. To be fair, a ton of […]"
+    },
+    {
+      "link": "https://blog.frank-mich.com/leveraging-pydantic-to-avoid-logging-pii/",
+      "title": "Leveraging pydantic to avoid logging PII",
+      "description": "PII, short for Personally Identifiable Information, is often tricky to manage. Many countries have legislation around it. How much can you store, how can you store it, what is your procedure to wipe out all data about a given person? In some regards, the best way to deal with it is to view it as […]"
+    },
+    {
+      "link": "https://blog.frank-mich.com/postgres-array-indexing-equivalence-miss/",
+      "title": "Postgres – Array Index Equivalence Miss",
+      "description": "Let’s explain the situation with a concrete example. Given the following table structure: The two following queries yield the exact same result. To get there, they use different operators though, and, under the hood, it’s not clear how different it gets. The first one, using the ANY operator, will loop through the categories array, and […]"
+    }
+  ]
+}

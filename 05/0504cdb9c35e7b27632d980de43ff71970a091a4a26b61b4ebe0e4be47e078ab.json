@@ -1,0 +1,20 @@
+{
+  "url": "https://tobiha.de/feed.xml",
+  "posts": [
+    {
+      "link": "https://tobiha.de/2026/10/23/my-software-factory/",
+      "title": "My Software Factory",
+      "description": "For the longest time, I didn’t quite know what to call what I’m actually doing here. Naturally, I started working on Turbo and just called it something like “standardizing my dev life cycle”. But a couple of weeks ago, I stumbled upon the term “ (agentic) software factory ”, and yeah, that’s totally it. I’m building my very own software factory. Inside the Factory As I’ve established in my “ Vibe"
+    },
+    {
+      "link": "https://tobiha.de/2026/02/14/unlocking-siri-voices-on-macos/",
+      "title": "Unlocking Siri Voices on macOS",
+      "description": "I’ve been using the macOS say command to generate voiceovers for simple videos and audio clips for AI assistants like OpenClaw . It works, but Apple’s best voices, the Siri Natural voices, can’t be selected with it. Turns out there’s a workaround. The Problem The say command lets you pick a voice with -v : say -v \"Samantha\" \"Hello world\" But if you run say -v '?' to list all available voices, the"
+    },
+    {
+      "link": "https://tobiha.de/2026/01/06/the-rise-of-ai-assistants/",
+      "title": "The Rise of AI Assistants",
+      "description": "In December 2025, something clicked for me. Over the last month, I’ve spent a lot of my time developing AI assistants. Is “AI Assistant Engineering” even a thing? I’m pretty sure this will become a normal job title at some point. Example: Support Assistant I’d like to give you one example that I’ve been working on: an AI support assistant. What does handling support usually look like? I would say"
+    }
+  ]
+}

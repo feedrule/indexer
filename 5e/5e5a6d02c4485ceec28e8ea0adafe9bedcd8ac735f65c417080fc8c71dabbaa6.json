@@ -1,0 +1,20 @@
+{
+  "url": "https://purushotham.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://purushotham.me/posts/beyond-declarative-allowlists-escaping-workflow-and-git-boundaries-in-automated-pipelines/",
+      "title": "Beyond Declarative Allowlists: Escaping Workflow and Git Boundaries in Automated Pipelines",
+      "description": "I have spent more than twenty years building and operating production software systems. Currently, I work as a software and platform architect, designing and delivering distributed systems for a large technology company. Over my career, I have observed a…"
+    },
+    {
+      "link": "https://purushotham.me/posts/shift-left-meets-shift-node-moving-container-supply-chain-verification-to-runtime-via-nri/",
+      "title": "Shift-Left Meets Shift-Node: Moving Container Supply Chain Verification to Runtime via NRI",
+      "description": "We have spent the last half-decade obsessing over \"shifting left.\" We scan our Git repositories, run container image scanners in CI/CD pipelines, sign our artifacts with Cosign, and deploy admission controllers like Kyverno or OPA Gatekeeper to block…"
+    },
+    {
+      "link": "https://purushotham.me/posts/beyond-fixed-node-allocation-composable-infrastructure-and-dynamic-resource-allocation-for-ai-agent-fleets/",
+      "title": "Beyond Fixed Node Allocation: Composable Infrastructure and Dynamic Resource Allocation for AI Agent Fleets",
+      "description": "When scaling AI agent orchestration pipelines across production Kubernetes clusters, platform engineering teams almost always hit an operational wall. It rarely starts with container runtime panics or scheduler crashes. Instead, it manifests as severe…"
+    }
+  ]
+}

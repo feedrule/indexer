@@ -1,0 +1,20 @@
+{
+  "url": "https://michaeluloth.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://michaeluloth.com/alexis-king-constructive-data-modeling/",
+      "title": "What is a type system for?",
+      "description": "Alexis King on a simpler approach to static typing."
+    },
+    {
+      "link": "https://michaeluloth.com/git-ignore-tracked-files/",
+      "title": "Ignoring files you've already committed",
+      "description": "Cache invalidation is tricky to automate."
+    },
+    {
+      "link": "https://michaeluloth.com/javascript-objects-nested/",
+      "title": "Converting a list of JS objects into a parent-child tree",
+      "description": "A fun nesting puzzle."
+    }
+  ]
+}

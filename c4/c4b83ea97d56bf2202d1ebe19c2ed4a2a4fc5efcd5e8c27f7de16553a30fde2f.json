@@ -1,0 +1,20 @@
+{
+  "url": "https://principal-it.eu/atom.xml",
+  "posts": [
+    {
+      "link": "https://principal-it.eu/2026/11/plausibility-is-not-truth/",
+      "title": "Plausibility Is Not Truth",
+      "description": "A couple of years ago, I received a phone call while I was in a meeting. It was my mother. I left the meeting to take the call. After asking if I had a few moments to spare, she calmly told me that she thought she had found a hand grenade. Once I had recovered from my initial shock, she asked me what to do next. I suggested she call the police and ask them to send a patrol to investigate. I also t"
+    },
+    {
+      "link": "https://principal-it.eu/2026/10/how-long-to-learn-tdd/",
+      "title": "How Long Does It Take to Learn TDD? Longer Than You Think, And That's Fine",
+      "description": "I always struggle to come up with a good answer when I’m asked how long it takes to learn Test-Driven Development. Even providing a rough estimate is very difficult. Test-Driven Development is probably the most difficult Extreme Programming practice to learn (and teach). I always say that it will take at least six months. But for some people, it can take eight months, one year or even longer. And"
+    },
+    {
+      "link": "https://principal-it.eu/2026/06/the-saff-squeeze/",
+      "title": "The Saff Squeeze",
+      "description": "From time to time, we encounter bugs in the software systems that we work on. That’s part of the life as a software developer. Often, we don’t know the root cause of the defect. So, in order to uncover what is going on we typically start a debugging session. However, when we take a step back and think about defects from a higher level, we can conclude that every bug in the system actually correspo"
+    }
+  ]
+}

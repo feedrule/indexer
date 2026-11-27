@@ -1,0 +1,20 @@
+{
+  "url": "https://telefoncek.si/feed.xml",
+  "posts": [
+    {
+      "link": "https://telefoncek.si/2025/12/2025-12-11-rootkits-how-deep-the-rabbit-hole-is/",
+      "title": "Rootkits - how deep the rabbit hole is?",
+      "description": "Rootkits are malicious software designed to gain unauthorized access to a computer system and hide their presence. Therefore attackers can use rootkits to conceal their presence on a compromised system and make it possible to return undetected at some later date. A rootkit usually hides by intercepting and altering communications at the interfaces between various system components, so rootkits are"
+    },
+    {
+      "link": "https://telefoncek.si/2025/05/2025-05-26-varnost-soncnih-elektrarn-in-geopolitika/",
+      "title": "Varnost sončnih elektrarn in geopolitika",
+      "description": "V sredini maja 2025 so nekateri ameriški mediji objavili novico, da naj bi varnostni strokovnjaki v nekaterih kitajskih razsmernikih in baterijah, ki se uporabljajo v sončnih elektrarnah, našli sumljive naprave, ki bi lahko omogočale prikrito komunikacijo. Raziskovalci naj bi namreč našli nedokumentirane komunikacijske naprave, vključno z radijskimi sprejemniki in oddajniki, preko katerih bi bilo"
+    },
+    {
+      "link": "https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/",
+      "title": "How I discovered a hidden microphone on a Chinese NanoKVM",
+      "description": "NanoKVM is a hardware KVM switch developed by the Chinese company Sipeed. Released last year, it enables remote control of a computer or server using a virtual keyboard, mouse, and monitor. Thanks to its compact size and low price, it quickly gained attention online, especially when the company promised to release its code as open-source. However, as we’ll see, the device has some serious security"
+    }
+  ]
+}

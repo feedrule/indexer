@@ -1,0 +1,20 @@
+{
+  "url": "https://kamilborys.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://kamilborys.com/blog/tell-me-a-tiny-story/",
+      "title": "Tell me a Tiny Story: LLM Inference on a PowerMac G3",
+      "description": "AI-generated content is everywhere now. Your morning Instagram doom-scrolling routine, those 47 unread emails in your inbox that arrived overnight, the friendly assistant that tells you that you are absolutely right - I'm sure at least some of that was powered by large language models. These are usually run on powerful hardware, in large fancy data centers consuming ridiculous amounts of power. Bu"
+    },
+    {
+      "link": "https://kamilborys.com/blog/let-the-music-play/",
+      "title": "Let the music play",
+      "description": "char a;float b,c;main(d){for(;d>2e3*c?c=1,scanf(\" %c%f\",&a,&c),d=55-a%32*9/5, b=d>9,d=d%13-a/32*12:1;a=2)++d<24?b*=89/84.:putchar(a=b*d);} Good news for all International Obfuscated C Code Contest fans -- here's another winning piece from 2013 written by Yusuke Endoh, who is no stranger to the Contest. It is dubbed the Most Tweetable 1-Liner, because is small enough to fit in a tweet (137 characte"
+    },
+    {
+      "link": "https://kamilborys.com/blog/dots-and-dashes/",
+      "title": "Dots and Dashes",
+      "description": "#!perl -p y/.-/01/;s#\\d+/?#substr'01etianmsurwdkgohvf,l.pjbxcyzq',31&oct b1.$&,1#ge Perl is (in)famous for the ability to write programs that look like line noise, and today I will take apart this beautiful piece of code. Written by tybalt89, it can decode sequences of dots and dashes to Latin letters in just 73 characters of code…"
+    }
+  ]
+}

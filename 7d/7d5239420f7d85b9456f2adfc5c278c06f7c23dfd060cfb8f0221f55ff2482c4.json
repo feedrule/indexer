@@ -1,0 +1,20 @@
+{
+  "url": "https://r136a1.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+      "title": "SLEEPWALKER: A Passive Backdoor With Its Own Command Language",
+      "description": "Losing access to VirusTotal Intelligence at the start of the year was surprisingly productive. Unable to hunt for interesting new malware, I stopped adding to my “TODO” pile and finally worked through my backlog from last year. That led to a detailed examination of BeheMOF as well as the discovery of this malware. Upon closer inspection, a sample that did not seem too noteworthy at first turned ou"
+    },
+    {
+      "link": "https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/",
+      "title": "Where Have All the Complex Windows Malware and Their Analyses Gone?",
+      "description": "You might have also wondered why, especially over the last few years, it has become increasingly rare to read about truly interesting malware and its in-depth analysis. If you’ve been in cybersecurity for more than a decade, you remember the feeling of a true discovery. You’d wake up, grab a coffee, and check the latest from the Kaspersky GReAT team, or other sources like the FireEye (now Mandiant"
+    },
+    {
+      "link": "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/",
+      "title": "🇷🇺 COMmand & Evade: Turla’s Kazuar v3 Loader",
+      "description": "This blog post analyzes the latest version of Turla’s Kazuar v3 loader, which was previously examined at the beginning of 2024. The upgraded loader heavily utilizes the Component Object Model (COM) and employs patchless Event Tracing for Windows (ETW) and Antimalware Scan Interface (AMSI) bypass techniques, as well as a control flow redirection trick, alongside various other methods to evade secur"
+    }
+  ]
+}

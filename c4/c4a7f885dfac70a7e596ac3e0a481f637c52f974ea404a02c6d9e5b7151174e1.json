@@ -1,0 +1,20 @@
+{
+  "url": "https://gustedt.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://gustedt.wordpress.com/2026/11/06/named-constants-and-supporting-objects-in-c/",
+      "title": "Named constants and supporting objects in C",
+      "description": "In traditional C, the concept of what is a constant is already not very intuitive, but it is even less clear why some constants then also have an underlying immutable object. Let’s take a simple example In C11 this had a lot of problems. The first problem is that MyBound0 is not what C calls […]"
+    },
+    {
+      "link": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+      "title": "Defer available in gcc and clang",
+      "description": "About a year ago I posted about defer and that it would be available for everyone using gcc and/or clang soon. So it is probably time for an update. Two things have happened in the mean time: A technical specification (TS 25755) edited by JeanHeyd Meneide is now complete and moves through ISO’s complicated publication […]"
+    },
+    {
+      "link": "https://gustedt.wordpress.com/2025/10/07/alias-and-references-as-localized-macros/",
+      "title": "Alias and references as localized macros",
+      "description": "Since the last meeting of the C committee I am struggling with the idea of aliases as they are proposed in a long series of papers by JeanHeyd. Transparent Aliases I am struggling with this for several reasons, but most importantly is that I have the impression that it is a heavy gun pointed on […]"
+    }
+  ]
+}

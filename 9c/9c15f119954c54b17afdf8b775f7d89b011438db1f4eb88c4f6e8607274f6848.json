@@ -1,0 +1,20 @@
+{
+  "url": "https://ralph.blog.imixs.com/feed/",
+  "posts": [
+    {
+      "link": "https://ralph.blog.imixs.com/2026/09/17/my-theia-cheat-sheet/",
+      "title": "My Theia – Cheat Sheet",
+      "description": "Just a short collection of tricks working with Theia IDE. Auto Format Files Check that the ‘formatOnSave’ is set to ‘true’ Flighty explorer If you observe the problem that after starting Theia IDE your explorer is permanently refreshing if if you do not change any files and is always changing the scroll position automatically, than … Continue reading \"My Theia – Cheat Sheet\""
+    },
+    {
+      "link": "https://ralph.blog.imixs.com/2026/08/22/how-to-deploy-forgejo-in-kubernetes/",
+      "title": "How to Deploy Forgejo in Kubernetes",
+      "description": "In this short tutorial I will explain how to deploy Forgejo into a Kubernetes Cluster. Forgejo is a self-hosted lightweight source code management solution based on Git. Forgejo is a good alternative to Github if you want to host your own Git Repository server. Forgejo was founded in 2022 as a fork of the Gitea … Continue reading \"How to Deploy Forgejo in Kubernetes\""
+    },
+    {
+      "link": "https://ralph.blog.imixs.com/2026/06/10/why-not-fixing-the-internet-now/",
+      "title": "Why Not Fixing the Internet Now?",
+      "description": "The Internet is broken. Or to be more precisely: the World Wide Web is broken. It is not representing the idea we have had in the year 1990. And I think we should fix it now. And the solution cold be very simple. Why is it broken? Today the Internet is full of unnecessary, unhelpful … Continue reading \"Why Not Fixing the Internet Now?\""
+    }
+  ]
+}

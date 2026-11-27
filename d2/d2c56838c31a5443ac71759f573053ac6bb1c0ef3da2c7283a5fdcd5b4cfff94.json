@@ -1,0 +1,20 @@
+{
+  "url": "http://syndication.thedailywtf.com/TheDailyWtf",
+  "posts": [
+    {
+      "link": "https://thedailywtf.com/articles/referenceerror-hell-is-not-defined",
+      "title": "CodeSOD: ReferenceError: HELL is not defined",
+      "description": "David came across some Java code. This particular block needed to, based on an integer masquerading as an enumerated type, return an amount of time to sleep. It has strong opinions about what should happen when you send it an invalid value: private static int getTime ( int mode) { return switch (mode) { case 0 -> 30 * SECOND; case 1 -> 15 * SECOND; case 2 -> 10 * SECOND; case 3 -> 20 * SECOND; cas"
+    },
+    {
+      "link": "https://thedailywtf.com/articles/how-not-to-get-honey-trapped",
+      "title": "How Not to Get Honey-Trapped",
+      "description": "At this point, each and every one of us knows more about Jensen Huang's sex life than I think any of us wanted to know. The actual scandal is the way he violated export controls to the tune of $12b in chips, but the scandal everyone is talking about is that he was \"honey-trapped\". A Chinese spy seduced him, got secrets out of him, and also he violated export controls for her. What can I say? Peopl"
+    },
+    {
+      "link": "https://thedailywtf.com/articles/the-perils-of-web-development",
+      "title": "The Perils of Web Development",
+      "description": "Earlier this year, I wrote a couple of times about my utility closet of infinite WTFs . After a total remodel and HVAC upgrade, I learned the demons had not been exorcised . Indeed, they still haunt the place, and now they're really showing off their sense of humor. On a recent November morning with frost covering the ground and below-freezing temps, I awoke to find my house a chilly 14.4C / 58F."
+    }
+  ]
+}

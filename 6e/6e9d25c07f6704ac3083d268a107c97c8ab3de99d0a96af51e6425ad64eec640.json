@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thornewolf.com/rss/",
+  "posts": [
+    {
+      "link": "https://blog.thornewolf.com/i-built-an-llm-rl-training-pipeline/",
+      "title": "I built an LLM RL Training Pipeline",
+      "description": "I LoRA fine-tuned then RL'd Gemma 1B to play the game Takeover in a multi-stage training process. Takeover is a competitive card game with a punishing action economy where your goal is to rid your hand of all your cards as quickly as possible. Takeover is"
+    },
+    {
+      "link": "https://blog.thornewolf.com/i-have-been-unemployed-for-one-year/",
+      "title": "I Have Been Unemployed for One Year",
+      "description": "I left Google one year ago as part of a voluntary layoff package. I joined as an L3 Software Engineer and left as an L5 Senior Software Engineer. I worked hard and was very good at my job but I wanted to experience more of the world. In this past"
+    },
+    {
+      "link": "https://blog.thornewolf.com/concepts-that-make-administrative-work-simpler/",
+      "title": "Concepts That Make Administrative Work Simpler",
+      "description": "In your job, you are either delivering your core work product or you are doing administrative meta-work that makes the final delivery easier. If you are an event photographer, your core work is being there; taking the photos. Your meta-work includes scheduling with clients and tracking shoots you"
+    }
+  ]
+}

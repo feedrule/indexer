@@ -1,0 +1,20 @@
+{
+  "url": "https://millfolio.app/rss.xml",
+  "posts": [
+    {
+      "link": "https://millfolio.app/blog/millwright-ui-layers/",
+      "title": "Millwright: the three layers of a malleable UI",
+      "description": "Shaping your dashboard with a blind AI — typed widget results, a versioned board spec, and pages, each layer validated before it renders."
+    },
+    {
+      "link": "https://millfolio.app/blog/pure-mojo-inference-engine/",
+      "title": "The inference engine — Mojo 1.0 on Metal",
+      "description": "A from-scratch GPU inference engine written entirely in Mojo — what crossing Mojo 1.0 and its batching Metal driver bought in performance, why one language end to end, and honest numbers against MLX."
+    },
+    {
+      "link": "https://millfolio.app/blog/local-ai-infra-tags/",
+      "title": "Managing a small local AI budget",
+      "description": "How millfolio keeps thousands of records queryable with an on-device model — a three-flavor tag system, batched classification with priorities, and previews that show you what a tag would actually match."
+    }
+  ]
+}

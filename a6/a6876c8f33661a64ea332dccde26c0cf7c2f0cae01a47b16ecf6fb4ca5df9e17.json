@@ -1,0 +1,20 @@
+{
+  "url": "https://www.thrownewexception.com/rss/",
+  "posts": [
+    {
+      "link": "https://www.thrownewexception.com/does-ai-make-engineers-more-productive-its-complicated/",
+      "title": "Does AI make engineers more productive? It’s complicated.",
+      "description": "My honest take on using AI for coding. Exploring productivity gains, cognitive offloading risks, and responsible LLM use"
+    },
+    {
+      "link": "https://www.thrownewexception.com/availability-math-why-dhhs-microservices-calculation-is-incomplete/",
+      "title": "Availability math: Why DHH's microservices calculation is incomplete",
+      "description": "DHH claims 10 microservices with 99.9% uptime = 99.0% system availability. Why this oversimplifies distributed systems + correct calculation."
+    },
+    {
+      "link": "https://www.thrownewexception.com/they-hate-one-on-ones/",
+      "title": "They hate one-on-ones…",
+      "description": "Famous leaders like Aditya Agarwal and DHH have openly expressed their dislike for one-on-ones, calling them unnecessary. But is this always the case?"
+    }
+  ]
+}

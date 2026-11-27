@@ -1,0 +1,20 @@
+{
+  "url": "https://timcoatesinsights.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://timcoatesinsights.wordpress.com/2026/05/29/good-code-hidden-in-plain-sight/",
+      "title": "Good Code, Hidden in Plain Sight",
+      "description": "Discovering sqldbpool in Free Pascal There is a particular kind of frustration that experienced developers know well. It is not the frustration of a hard problem. It is not the frustration of a bug you cannot track down. It is the frustration of knowing something should exist, knowing roughly where it ought to be, and […]"
+    },
+    {
+      "link": "https://timcoatesinsights.wordpress.com/2026/05/24/automating-the-boring-parts-of-pascal/",
+      "title": "Automating the Boring Parts of Pascal",
+      "description": "One thing I’ve always had an intense dislike for in software development is doing the same job over and over. If you’ve ever built a CRUD‑style application, you know exactly what I mean. You start with a record declaration somewhere in your codebase. Then you write the SQL to store it. Then you write the […]"
+    },
+    {
+      "link": "https://timcoatesinsights.wordpress.com/2026/01/11/the-coffee-shop-is-open-supporting-the-art-of-pascal/",
+      "title": "The Coffee Shop is Open: Supporting the Art of Pascal",
+      "description": "Since I wrote my first line of Pascal in 1988, the world of software development has changed beyond recognition. I’ve spent the last three decades building everything from secure data systems to complex call-recording architectures. Along the way, I earned my Master’s in Computer Science and learned a vital truth: the best tools are the […]"
+    }
+  ]
+}

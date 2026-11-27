@@ -1,0 +1,20 @@
+{
+  "url": "https://silentrobots.com/index.xml",
+  "posts": [
+    {
+      "link": "https://silentrobots.com/vulnerability-counts-mean-less-now/",
+      "title": "vulnerability counts mean less now",
+      "description": "first, i think this is such a good post and i highly recommend reading it. Before 2026, I kept a record of many of my CVE numbers, and every vulnerability represented a train of thought to me. In 2026, I stopped keeping a complete record of them, even though there were more than in all the previous years combined. Zhiniang Peng, A Year of Hacking with LLMs . this quote is spot on about where vulne"
+    },
+    {
+      "link": "https://silentrobots.com/making-a-working-attack-expensive-to-maintain/",
+      "title": "making a working attack expensive to maintain",
+      "description": "I was reading Cloudflare’s recent Introducing Adaptive Intelligence . the idea is a bot detection engine that continuously retrains on live traffic. it also proposes short-lived, disposable detection rules that appear and disappear at randomized intervals, making it harder for bot operators to learn which changes bypass a defense . continuous retraining was live at announcement time; disposable ru"
+    },
+    {
+      "link": "https://silentrobots.com/n-day-reality/",
+      "title": "n-day reality",
+      "description": "The Zero-Day Rate is now just under 87%, with a median time to exploit at just one day . . . but projected to reach 1 minute sometime next year. Via a16z : Charts of the Week, cyber game done changed. Zero Day Clock charts toward the bottom. I have been commenting a lot on n-day reality lately. this is not to say that n-day dev is the same thing as operationalizing and pivoting with an exploit. th"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://deepslatemc.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://deepslatemc.com/intro/",
+      "title": "Introducing Deepslate",
+      "description": "Deepslate is a new Minecraft server proxy solution, written in Rust, with a focus on performance and a compile-time plugin system."
+    }
+  ]
+}

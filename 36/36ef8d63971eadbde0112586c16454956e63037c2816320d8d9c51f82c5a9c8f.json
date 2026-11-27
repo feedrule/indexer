@@ -1,0 +1,20 @@
+{
+  "url": "https://lcod.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://lcod.uk/posts/entraintrainingrecord/",
+      "title": "Building an agentic unified training record",
+      "description": "Fusing lifting data, Garmin data, Zwift results and my training plan into a system queryable by agents"
+    },
+    {
+      "link": "https://lcod.uk/til/cursor-extension-cache-supply-chain-attack/",
+      "title": "Cursor's extension cache attack",
+      "description": "A chain of leaked keys ended with a tampered Claude Code extension served from Cursor's own cache."
+    },
+    {
+      "link": "https://lcod.uk/til/cloudflare-goodies-ai-gateway-basin-pipeline-workflows/",
+      "title": "Cloudflare goodies: AI Gateway, Basin Pipelines, Workflows",
+      "description": null
+    }
+  ]
+}

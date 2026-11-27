@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.alb42.de/feed/",
+  "posts": [
+    {
+      "link": "https://blog.alb42.de/2026/02/20/amitube-server-update-2/",
+      "title": "AmiTube Server update",
+      "description": "A little bug in the AmiTube server prevented the yt-dlp to update so after a while the downloading from youtube didn’t work again… sigh… So I had to update the server again i hope this time the updating works."
+    },
+    {
+      "link": "https://blog.alb42.de/2026/01/30/muimapparium-update/",
+      "title": "MUIMapparium Update",
+      "description": "The Map server for the openstreetmap images used in MUIMapparium needs SSL now. I made a little update including the SSL support for AROS, Amiga 68k and MorphOS (yes no OS4 for now, I have no AmiSSL library unit for OS4, too much annoying work). I tried it a bit on Amiga68k and it seems […]"
+    },
+    {
+      "link": "https://blog.alb42.de/2026/01/21/amitube-server-update/",
+      "title": "AmiTube Server Update",
+      "description": "Google again changed the access to YouTube for downloading files. It resulted in empty downloads in AmiTube or a error 500 or 404. One needs a javascript engine now to download from youtube. But even with the javascript (deno) installed, I noticed that most of the formats don’t work anymore only the audio only and […]"
+    }
+  ]
+}

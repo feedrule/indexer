@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.smartere.dk/feed/",
+  "posts": [
+    {
+      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+      "title": "Floppy Disks: the best TV remote for kids",
+      "description": "Modern TVs are very poorly suited for kids. They require using complicated remotes or mobile phones, and navigating apps that continually try to lure you into watching something else than you intended to. The usual scenario ends up with the kid feeling disempowered and asking an adult to put something on. That something ends up […]"
+    },
+    {
+      "link": "https://blog.smartere.dk/2025/04/upgrading-the-olimex-a20-lime2-to-2gb-ram/",
+      "title": "Upgrading the Olimex A20 LIME2 to 2GB RAM, by learning to BGA solder and deep diving into the U-Boot bootloader process",
+      "description": "As I’ve written about previously I have had the Olimex A20-OLinuXino-LIME2 in service for quite some time. But one thing that I’ve been curious about is why it’s only available with 1GB of RAM, when the A20 chip itself can support up to 2GB? Could it be upgraded to 2GB RAM by a simple swap […]"
+    },
+    {
+      "link": "https://blog.smartere.dk/2025/01/making-a-too-cheap-led-lamp-safe-to-use/",
+      "title": "Making a too cheap LED lamp safe to use",
+      "description": "This is a non-rational quest to make a cheap chinese LED lamp safe to use."
+    }
+  ]
+}

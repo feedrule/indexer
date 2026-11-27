@@ -1,0 +1,20 @@
+{
+  "url": "https://aabidk.dev/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://aabidk.dev/blog/bypassing-iron-proxy-mcp-tool-allowlist-with-a-content-type-header/",
+      "title": "Bypassing iron-proxy's MCP Tool Allowlist With a Content-Type Header",
+      "description": "iron-proxy is an egress proxy to manage traffic for untrusted workloads. It works as a MITM proxy, has a DNS server and can apply an allowlist on MCP tool calls. While trying to sandbox an agent with docker, I added iron-proxy as a container to route all the traffic through it. The idea was to have agent and MCP each in their own containers and isolated networks, both communicating through the pro"
+    },
+    {
+      "link": "https://aabidk.dev/blog/dockerizing-a-laravel-and-inertia-app/",
+      "title": "Dockerizing a Laravel and Inertia App",
+      "description": "Introduction This post assumes you are familiar with Laravel, Inertia and have a basic understanding of Docker. To follow along, you can create a new blank Laravel project with React. There are some complexities around file permissions, health checks, and volumes that we will address in this post. Note Reddit discussion around this post is available here . There were some suggestions, I’ve updated"
+    },
+    {
+      "link": "https://aabidk.dev/blog/building-modern-cross-browser-web-extensions-core-functionality-storage-and-permissions/",
+      "title": "Building Modern Cross Browser Web Extensions: Core Functionality, Storage and Permissions (Part 5)",
+      "description": "In the previous post , we explored the background scripts and the messaging in extensions, as well as using @webext-core/messaging for a robust and type-safe messaging system. In this part, we will use the same concepts to build the core functionality of our extension. Basic Commands We want to add actions to the extension such as opening a new tab, a new window as well as state based actions such"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://barry.blog/feed/",
+  "posts": [
+    {
+      "link": "https://barry.blog/2026/02/13/javascript-performance-woes/",
+      "title": "Javascript Performance Woes",
+      "description": "My esteemed colleague Sergio has a great writeup about web application performance – specifically around Javascript and React. If you’re interested in working with Sergio on this type of stuff at scale (WordPress powers 43% of the web), Automattic is hiring – just mention you are interested in working on performance."
+    },
+    {
+      "link": "https://barry.blog/2023/10/25/pingo-monitoring-the-internet-one-ecmp-link-at-a-time/",
+      "title": "Pingo – Monitoring the Internet One ECMP Link at a Time",
+      "description": "Last week, a few of us from Automattic attended NANOG in San Diego and Tyler from our Netops team gave a great talk about Pingo, a tool we have written and released under the GPL. We use Pingo to detect (and sometimes predict) network congestion across the Internet. We then use this data to make […]"
+    },
+    {
+      "link": "https://barry.blog/2022/07/28/data-center-heatmap/",
+      "title": "Data Center Heatmap",
+      "description": "At Automattic, our systems team manages over 10,000 physical servers located across 30 data centers on 6 continents. As our compute density has increased from 24 CPU threads/RU in 2013 to 128 CPU threads/RU in 2022 the maximum thermal thresholds have decreased. Older, less powerful servers could operate with inlet air temperatures up to 42C […]"
+    }
+  ]
+}

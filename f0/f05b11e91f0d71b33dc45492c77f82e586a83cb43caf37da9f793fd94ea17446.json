@@ -1,0 +1,20 @@
+{
+  "url": "https://www.simondepelchin.be/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.simondepelchin.be/articles/laravel-without-frontend",
+      "title": "Laravel without frontend",
+      "description": "How to setup Laravel without frontend scaffolding and use it as a backend API."
+    },
+    {
+      "link": "https://www.simondepelchin.be/articles/use-git-commit-in-your-typescript-app",
+      "title": "Use git commit in your Typescript app",
+      "description": "How to use the git commit as your app version in your app."
+    },
+    {
+      "link": "https://www.simondepelchin.be/articles/install-ffmpeg-on-laravel-cloud",
+      "title": "Installing FFmpeg on Laravel Cloud",
+      "description": "A step-by-step guide to installing and setting up FFmpeg on serverless Laravel Cloud."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://andreioros.com/blog/feed/",
+  "posts": [
+    {
+      "link": "https://andreioros.com/blog/artificial-intelligence-regulation-product-strategy/",
+      "title": "Artificial Intelligence and Regulation from a Product Strategy perspective",
+      "description": "DeepMind’s 2017 paper on transformer models (neural network architecture for language understanding) took Artificial Intelligence capabilities to new levels and kickstarted one of the biggest technology races of our time, with players like Anthropic, Google, xAI and OpenAI racing towards the holy grail of AI: artificial general intelligence (AGI). Anthropic’s models and products are being … Contin"
+    },
+    {
+      "link": "https://andreioros.com/blog/agentic-and-vibe-coding/",
+      "title": "AI assisted Software Development – Agentic & Vibe Coding",
+      "description": "At the ABQ.Dialogues #2: Romania’s Tech Industry at the Crossroads event, together with leaders from Academia and Industry, I had the privilege to be part of a debate about the impact of AI on the IT&C sector. My perspective is an optimistic one: AI acts as a catalyst for substantial transformation, empowers companies and individuals … Continue reading AI assisted Software Development – Agentic &"
+    },
+    {
+      "link": "https://andreioros.com/blog/local-ai-llm-vscode/",
+      "title": "The future of AI is local onprem – how to use LLM models on your machine in VS Code",
+      "description": "If your machine or laptop has at least 16gb of ram and a decent gpu, it can run quite powerful open-source LLM AI models locally onprem, saving you $ while minimizing data leaks and privacy risks.The positive evolution of large language models (LLMs) from the big tech vendors such as Anthropic, Google, OpenAI has managed … Continue reading The future of AI is local onprem – how to use LLM models o"
+    }
+  ]
+}

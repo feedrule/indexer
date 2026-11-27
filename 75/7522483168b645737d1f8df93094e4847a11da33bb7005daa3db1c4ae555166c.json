@@ -1,0 +1,20 @@
+{
+  "url": "https://x64.sh/rss.xml",
+  "posts": [
+    {
+      "link": "https://x64.sh/posts/osx-internals-xpc/",
+      "title": "OSX IPC - XPC Part 1",
+      "description": "Vulnerability research exploring macOS IPC internals, with a focus on XPC and its security boundaries and attack surface."
+    },
+    {
+      "link": "https://x64.sh/posts/deploy-and-destroy-featuring-certificates/",
+      "title": "Deploy and Destroy Featuring Certificates",
+      "description": "Setting up devices for security research deployment often takes longer than the testing itself. Notes and tooling for standing up (and tearing down) an Android AVD each engagement — including installing the Burp CA on Android 14+."
+    },
+    {
+      "link": "https://x64.sh/posts/misconfigured-microsoft-content-provider/",
+      "title": "Misconfigured Microsoft Content Provider",
+      "description": "The misconfigured content provider bug in com.microsoft.launcher is disclosing issues with the proper functioning of this Android launcher application."
+    }
+  ]
+}

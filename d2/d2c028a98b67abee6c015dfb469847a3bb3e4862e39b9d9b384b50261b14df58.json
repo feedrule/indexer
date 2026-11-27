@@ -1,0 +1,20 @@
+{
+  "url": "https://www.pythonguis.com/feeds/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.pythonguis.com/faq/decimal-seperator-qtgui-qdoublevalidator/",
+      "title": "How to Change the Decimal Separator in QDoubleValidator — Use QLocale to control the decimal point format in PyQt6 QLineEdit validation",
+      "description": "I'm using QDoubleValidator with a QLineEdit in PyQt6, but the validator allows a comma as the decimal separator instead of a point (dot). How can I force the decimal separator to be a point?"
+    },
+    {
+      "link": "https://www.pythonguis.com/faq/dialogs-question-accept-cancel/",
+      "title": "Keeping Your Main Window Open After Closing a Dialog in PyQt6 — Why your app closes when you dismiss a dialog, and how to fix it",
+      "description": "I'm working with dialogs in PyQt6, and when I press either Accept or Cancel, the entire application closes. How can I prevent this?"
+    },
+    {
+      "link": "https://www.pythonguis.com/faq/change-color-in-qprogressbar-delegate/",
+      "title": "Change color in QProgressBar delegate — How to dynamically change QProgressBar colors in a QTableView delegate",
+      "description": "How can I change the color of a QProgressBar delegate in a QTableView when a process starts or stops? I'm using a delegate to show an indeterminate progress bar (with setRange(0, 0) ), and I want it to be green when running and red when stopped, but replacing the delegate doesn't seem to redraw the color."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://holowczak.com/feed/",
+  "posts": [
+    {
+      "link": "https://holowczak.com/creating-a-google-cloud-run-function/",
+      "title": "Creating a Google Cloud Run Function to Retrieve data from an API and store it in Google Cloud Storage",
+      "description": "Updated: 20261028 Introduction This tutorial introduces Google Cloud Run Functions. Google Cloud Run functions (formerly Google Cloud Functions) are a serverless, event-driven compute service that allows you to deploy small, single-purpose code snippets without managing underlying infrastructure. Cloud Functions automatically scale based on traffic and are triggered by HTTP requests or cloud event"
+    },
+    {
+      "link": "https://holowczak.com/getting-started-with-dbt-cloud-dbt-studio-and-google-bigquery/",
+      "title": "Getting Started with dbt Cloud, dbt Studio and Google BigQuery",
+      "description": "Updated: 20260121 The purpose of this tutorial is to introduce data engineers to the basic functionality of dbt Cloud services by connecting dbt Studio to Google BigQuery to hos the data warehouse and GitHub for source code management. Prerequisites Before starting this tutorial, the following accounts and systems should be set up. 1. A data […]"
+    },
+    {
+      "link": "https://holowczak.com/reverse-engineering-a-google-bigquery-schema-with-dbschema-10/",
+      "title": "Reverse Engineering a Google BigQuery schema with DbSchema 10.5",
+      "description": "Updated: 20260915 Introduction The purpose of this tutorial is to demonstrate how to reverse engineer a Google BigQuery dataset into a physical level diagram using the dbSchema version 10.5 software. Reverse Engineering is the process of reconstructing a physical and/or ER model from an existing schema. Reverse Engineering can be used to provide documentation on […]"
+    }
+  ]
+}

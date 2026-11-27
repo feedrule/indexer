@@ -1,0 +1,20 @@
+{
+  "url": "https://calebsima.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://calebsima.com/writing/least-privilege-was-built-for-humans",
+      "title": "Least Privilege Was Built for Humans",
+      "description": "Least privilege assumes you're a person: a stable role, predictable tasks, quarterly reviews. Agents break every assumption, and the missing authorization signal is intent. The practical place to start is using agents to map your humans' privileges first."
+    },
+    {
+      "link": "https://calebsima.com/writing/the-agent-is-commoditized",
+      "title": "The Agent is Commoditized. The Value is the Harness",
+      "description": "AI agents moved through three phases since early 2024. We're now in Phase 3, where the value isn't the agent — it's the harness around it. Whoever owns the harness owns the feedback loop."
+    },
+    {
+      "link": "https://calebsima.com/writing/the-brain-becomes-portable",
+      "title": "The Brain Becomes Portable",
+      "description": "AI makes intelligence portable. For the first time, the enterprise can supply its own brain. You don't need the vendor to be smart anymore — and that changes the entire industry."
+    }
+  ]
+}

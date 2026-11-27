@@ -1,0 +1,20 @@
+{
+  "url": "https://marco.ninja/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://marco.ninja/blog/posts/2026/03/07/excalidraw-figures-in-hugo/",
+      "title": "Excalidraw Figures in Hugo",
+      "description": "I love drawing things, especially in Excalidraw! I also need more dark mode support in my life. In this post I’ll go through how I made Excalidraw exports render nicely on my blog in a light or dark mode aware fashion."
+    },
+    {
+      "link": "https://marco.ninja/blog/posts/2026/01/11/introducing-snippethost/",
+      "title": "Introducing snippethost.gitlab.io",
+      "description": "It is no secret that I’m no big fan of GitHub and it’s dominance in the VCS-ecosystem. So in an effort of leveling the playing field I’m taking it onto myself to build more cool things for and with my VCS of choice, GitLab!"
+    },
+    {
+      "link": "https://marco.ninja/blog/posts/2026/01/04/measuring-container-builds/",
+      "title": "Devlog 2026-01-04",
+      "description": "Over the holidays I’ve been diving deep into build systems in general and container builds in particular."
+    }
+  ]
+}

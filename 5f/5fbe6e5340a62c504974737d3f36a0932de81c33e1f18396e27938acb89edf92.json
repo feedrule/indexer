@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ian-thomas.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.ian-thomas.net/uncertainty/",
+      "title": "Navigating Uncertainty",
+      "description": "What helps (and what doesn't) when the organisation around you is changing and you can't do much about it."
+    },
+    {
+      "link": "https://www.ian-thomas.net/ai-friendly-code/",
+      "title": "Your AI Agent Has a Code Quality Problem",
+      "description": "Research shows AI coding agents break 15-30% more often on messy code. The same complexity that slows human developers trips up LLMs, and the fixes are the ones we've been applying for years."
+    },
+    {
+      "link": "https://www.ian-thomas.net/what-it-s-actually-like-to-host-a-track-at-qcon/",
+      "title": "What it's actually like to host a track at QCon",
+      "description": "A look behind the scenes at how QCon tracks are curated, from designing the narrative and recruiting speakers to supporting them through to the day itself."
+    }
+  ]
+}

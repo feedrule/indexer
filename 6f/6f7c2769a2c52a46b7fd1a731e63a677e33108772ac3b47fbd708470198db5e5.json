@@ -1,0 +1,20 @@
+{
+  "url": "https://chris.eidhof.nl/index.xml",
+  "posts": [
+    {
+      "link": "http://chris.eidhof.nl/post/animations-in-the-field-guide",
+      "title": "Animations in the SwiftUI Field Guide",
+      "description": "Two years ago, I created the SwiftUI Field Guide together with Nicholas , who did the design. It’s one of the things I’m most proud of. It contains a small SwiftUI reimplementation in TypeScript, and everything works on the web and is interactive. I deliberately chose to keep the text very minimal and let the examples do the work. Building it taught me a lot, but after the release I eventually foc"
+    },
+    {
+      "link": "http://chris.eidhof.nl/post/four-ways-to-shake",
+      "title": "Four Ways to Shake",
+      "description": "In SwiftUI, you can often achieve the same thing in many different ways. For example, if you wanted a shake animation in SwiftUI, there are at least four obvious ways to do it. These are not equivalent, both in terms of what’s technically possible and also the smoothness of the animation. Here’s one example with four different implementations. Tap the box to shake it. Can you spot the differences?"
+    },
+    {
+      "link": "http://chris.eidhof.nl/post/learning-in-the-age-of-llms",
+      "title": "Learning in the age of LLMs",
+      "description": "I’ve been working on an experimental project with a friend, a static analyzer. This project has been in my head for years now, but it’s quite ambitious and in my estimate, it’d take at least a few months before you’d have something decent. My friend used AI to build it in a few days. He used a very sophisticated workflow (using beads_rust ) so that multiple agents could work on tickets at the same"
+    }
+  ]
+}

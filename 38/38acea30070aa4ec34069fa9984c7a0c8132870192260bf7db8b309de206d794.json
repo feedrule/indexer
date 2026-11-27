@@ -1,0 +1,20 @@
+{
+  "url": "https://mitjafelicijan.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://mitjafelicijan.com/tiny-server-dotfiles.html",
+      "title": "Minimal set of dotfiles for remote servers",
+      "description": "~/."
+    },
+    {
+      "link": "https://mitjafelicijan.com/show-uptime-per-boot-session-on-linux-systems.html",
+      "title": "Show uptime per boot session on Linux systems",
+      "description": "Parses last reboot output to show how long each boot session lasted, sortedlongest-first."
+    },
+    {
+      "link": "https://mitjafelicijan.com/nvidia-driver-works-but-the-monitor-stays-black-with-no-signal.html",
+      "title": "Nvidia driver works but the monitor stays black with No Signal error",
+      "description": "Void Linux upgrade caused monitor to show \"No Signal\"."
+    }
+  ]
+}

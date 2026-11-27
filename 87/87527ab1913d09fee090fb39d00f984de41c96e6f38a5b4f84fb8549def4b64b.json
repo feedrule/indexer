@@ -1,0 +1,20 @@
+{
+  "url": "https://threespeedlogic.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://threespeedlogic.com/python-awaitless.html",
+      "title": "Awaitless: asyncio and IPython, without the await",
+      "description": "Teaching asyncio and interactive IPython/Jupyter sessions to get along."
+    },
+    {
+      "link": "https://threespeedlogic.com/running-vivado-in-docker.html",
+      "title": "Running Vivado in Docker",
+      "description": "Vivado in a Docker container with a bind-mounted installation. Replaces the (obsolete) LXC recipe."
+    },
+    {
+      "link": "https://threespeedlogic.com/vivado-cosimulation-with-xsi.html",
+      "title": "C/RTL Cosimulation with Vivado and Python",
+      "description": "A method to cosimulate C and RTL code under Python control"
+    }
+  ]
+}

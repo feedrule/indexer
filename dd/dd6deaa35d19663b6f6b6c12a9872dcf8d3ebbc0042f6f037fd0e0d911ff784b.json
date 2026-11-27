@@ -1,0 +1,20 @@
+{
+  "url": "https://www.righto.com/atom.xml",
+  "posts": [
+    {
+      "link": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "description": "Going through a collection of old parts, CuriousMarc encountered some ICs that he couldn't identify. He opened up one of these ICs, and I studied it under the microscope. After some reverse engineering, I determined that it was a logic chip that implemented four NAND gates using old-fashioned diode-transistor logic (DTL). 1 The chip turned out to be the ST680A, a member of the Signetics 600 series"
+    },
+    {
+      "link": "http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+      "description": "In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster in the IBM PC and other systems. Although the 8087 supports advanced operations such as tangents, square roots, and logarithms, this article focuses on basic arithmetic operations: addition and subtraction. The 8087 provided a spectacular speed improvement over the 8086 processor, speeding up addition by a f"
+    },
+    {
+      "link": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+      "title": "Inside a 1980s filter chip that uses switched capacitors",
+      "description": "Sometimes it's easier to identify an IC with a microscope. While sorting a box of old ICs, CuriousMarc came across some Harris ICs labeled \"F1-10-5\", a mysterious part number that didn't show up in any databooks. Since unidentifiable ICs are useless, he gave me one to analyze. Conveniently, it was in a ceramic package, so I could open it up with a quick tap from a chisel. Under the microscope, the"
+    }
+  ]
+}

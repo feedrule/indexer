@@ -1,0 +1,20 @@
+{
+  "url": "https://benkaiser.dev/rss/",
+  "posts": [
+    {
+      "link": "https://benkaiser.dev/benjamin-30/",
+      "title": "Benjamin @ 30",
+      "description": "What's Been Happening? Penelope turned 5 and Ariel came along to her birthday party Then the next day I flew off to the US to spend the week seeing colleagues and old friends. Luckily my team had budget so I got to fly business class, it was just"
+    },
+    {
+      "link": "https://benkaiser.dev/mcp-first-application-development/",
+      "title": "MCP First Application Development",
+      "description": "MCP enables a new way of building applications: the MCP server is the primary interface, and everything else is an afterthought. I tried building an application with this approach and it has some interesting implications for how we think about application development."
+    },
+    {
+      "link": "https://benkaiser.dev/ai-first-software-development/",
+      "title": "AI First Application Development",
+      "description": "Beyond desktop-first and mobile-first, we'll begin to see an emerging form of applications built with serving LLM users first and foremost."
+    }
+  ]
+}

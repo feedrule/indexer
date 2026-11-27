@@ -1,0 +1,20 @@
+{
+  "url": "https://heinen.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://heinen.dev/posts/disable-firefox-146-tab-ux/",
+      "title": "Disabling new Firefox mobile tab UX",
+      "description": "Firefox's new tab UX is bad; here's how to disable it"
+    },
+    {
+      "link": "https://heinen.dev/posts/go-append-slice-reuse/",
+      "title": "Go's append should consume the input slice",
+      "description": "If a slice has capacity then appending to it will alias the input and output slices. This can cause subtle and difficult to diagnose bugs."
+    },
+    {
+      "link": "https://heinen.dev/posts/jane-street-october-2025/",
+      "title": "Jane Street Puzzle - October 2025",
+      "description": "Robot Baseball - Using backward induction to find Nash equilibria of a multi-stage game"
+    }
+  ]
+}

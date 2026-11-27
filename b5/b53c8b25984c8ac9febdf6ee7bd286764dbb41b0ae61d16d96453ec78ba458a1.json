@@ -1,0 +1,20 @@
+{
+  "url": "https://thomasswilliams.github.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://thomasswilliams.github.io/sqlserver/r/2026/08/18/r-markdown-and-dba-1.html",
+      "title": "R Markdown and the DBA: charting average full database backup durations",
+      "description": "DBAs spend time dealing with SQL Server performance, capacity, monitoring, troubleshooting, provisioning, etcetera; I’ve previously mentioned that R is a powerful, open-source language with a great ecosystem of libraries for analysis and visualisation, so it’s no surprise that I think mixing SQL Server and R Markdown for reporting goes together like a Vegemite and cheese sandwich…lunch perfection!"
+    },
+    {
+      "link": "https://thomasswilliams.github.io/development/r/2026/07/27/improve-inputs-2-r-markdown.html",
+      "title": "More improving inputs in Shiny & R Markdown",
+      "description": "In my last post on improving inputs in R Markdown/Shiny , I covered four improvements to quality of life in interactive reports and dashboards. In this blog post I have three more, all approaches I’ve used to add professionalism to self-service R Markdown files. In yet another plug for R Markdown: most of these techniques can be used in a single *.Rmd file, or can be included in many by putting th"
+    },
+    {
+      "link": "https://thomasswilliams.github.io/sqlserver/2026/07/06/tsql-tuesday-200-queries.html",
+      "title": "#tsql2sday July 2026: Query red flags",
+      "description": "Brent Ozar asks what makers us groan on reading in an SQL query, for this month’s T-SQL Tuesday. Nowadays I look after 3rd-party databases more than internally-developed ones, so I accept there’s a whole lot of ex-best practices, vendor preferences, and possibly shortcuts in queries I might come across - whether it’s a poorly-performing query, a blocker, or an error. (Although, when I developed so"
+    }
+  ]
+}

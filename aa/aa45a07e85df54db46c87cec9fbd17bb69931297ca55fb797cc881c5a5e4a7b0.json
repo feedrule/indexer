@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.lmorchard.com/index.rss",
+  "posts": [
+    {
+      "link": "https://blog.lmorchard.com/2026/11/19/w47/",
+      "title": "Radio snooping, cow people, and the anxious GPU (Week 47)",
+      "description": "TL;DR: Cloned a proprietary 2.4GHz motorized kitchen blind remote using an nRF24L01+ and brute-force Claude packet sniffing, tortured my basement gaming PC into an anxiety-ridden 4-token-per-second local LLM box, walked 45 minutes across Kalimdor just to level with the cow people in WoW Forever, started a 30mg Vyvanse trial, and bookmarked a mountain of existential essays about AI dismantling engi"
+    },
+    {
+      "link": "https://blog.lmorchard.com/2026/11/17/baking-easy-blog-oven-v2-0-with-decafclaw/",
+      "title": "Baking Easy-Blog Oven v2.0 with DecafClaw",
+      "description": "TL;DR : After six years of brooding and Dependabot alert fatigue, I finally rebuilt my blog's static site generator in Go. Easy-Blog Oven v2.0 renders twenty-four years of Markdown into HTML in under three seconds, ditches node_modules entirely, and was built in an afternoon of flow pair-programming with DecafClaw, my homemade agent. Photo by Yasin Onuş on Unsplash This is Part 2 of a two-part ret"
+    },
+    {
+      "link": "https://blog.lmorchard.com/2026/11/17/twenty-four-years-of-blog-engines/",
+      "title": "Twenty-Four Years of Blog Engines",
+      "description": "TL;DR : A self-indulgent visual tour of nearly twenty-five years of my blog across Movable Type, Blosxom, WordPress, Jekyll, and custom static generators. And how a simple bet on plain Markdown files in git outlived every platform. This is Part 1 of a two-part retrospective. In Part 2: Baking Easy-Blog Oven v2.0 with DecafClaw , I cover rebuilding the static site generator in Go. An Occupational H"
+    }
+  ]
+}

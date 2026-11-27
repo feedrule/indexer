@@ -1,0 +1,20 @@
+{
+  "url": "https://olivernguyen.io/index.xml",
+  "posts": [
+    {
+      "link": "https://olivernguyen.io/w/jj.zsh.prompt/",
+      "title": "TIL: Show jj change-id and status in your zsh prompt",
+      "description": "I drive several jj workspaces — see my earlier post on working with stacked PRs using jj — and wanted my zsh prompt to show the change-id plus working-copy status, in the main repo and in secondary workspaces, falling back to plain git everywhere else. Three non-obvious things bit me. 1. Use --ignore-working-copy , or the prompt snapshots the repo on every render. jj’s working copy is itself a com"
+    },
+    {
+      "link": "https://olivernguyen.io/w/darken.page/",
+      "title": "TIL: Dim too-bright pages with a Tampermonkey overlay",
+      "description": "I run macOS, every app, and every website in dark mode. But plenty of sites ignore prefers-color-scheme and stay blinding white — or ship a dark theme that still leaves one giant white panel. So I wrote a Tampermonkey userscript that drops a translucent dark layer over near-white pages, with macOS-style hotkeys to nudge the brightness. The whole thing is one trick: a fixed, full-viewport <div> flo"
+    },
+    {
+      "link": "https://olivernguyen.io/w/iterm2.colors/",
+      "title": "TIL: Where iTerm2 stores its ANSI colors",
+      "description": "I wanted to review my iTerm2 color scheme from the command line instead of squinting at swatches in the settings UI. The colors live in the prefs plist, under the New Bookmarks array — one dict per profile: ~/Library/Preferences/com.googlecode.iterm2.plist Each color is a dict of float components (0–1), not hex. The ANSI slots are Ansi 0 Color … Ansi 15 Color (0–7 normal, 8–15 bright), plus Backgr"
+    }
+  ]
+}

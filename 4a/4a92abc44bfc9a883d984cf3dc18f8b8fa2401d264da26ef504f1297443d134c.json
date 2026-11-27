@@ -1,0 +1,20 @@
+{
+  "url": "https://janilowski.pl/rss/en.xml",
+  "posts": [
+    {
+      "link": "https://janilowski.pl/en/blog/2026/amodei-memo/",
+      "title": "Dario Amodei's stance on open weights is self-serving and short-sighted",
+      "description": "Leaders are often conflicted people. Marcus Aurelius wrote about the common humanity of all rational beings in \"Meditations\" while commanding invasions. Abraham Lincoln thought of slavery as morally wrong, yet his \"pa..."
+    },
+    {
+      "link": "https://janilowski.pl/en/blog/2026/proprietary-ai-models-lts/",
+      "title": "Proprietary AI models' shelf life is too short",
+      "description": "Most proprietary AI models from frontier labs seem to have a shelf life of 12 months or less. That is an important issue for serious use, especially since AI models aren't traditional software in the sense that new ve..."
+    },
+    {
+      "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+      "title": "Price per 1M tokens is meaningless",
+      "description": "It stops being all about the vibes when the API bill hits you. Many companies are now discovering that AI can indeed be pricey. One habit that might be driving up your AI bill is comparing models by $X per 1M tokens ...."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.maltebuettner.eu/feed.xml",
+  "posts": [
+    {
+      "link": "https://maltebuettner.eu/posts/documentai-bbox-benchmark/",
+      "title": "# documentai bbox benchmark",
+      "description": "In my previous post , I talked a bit about the recent developments in the field of DocumentAI. Now comes the practical part. For the Attention v3 paper from the ExtractBench dataset, ExtractBench focused only on extraction, but I am also interested in the bounding box reference that the models return. Because ExtractBench had only a very limited selection of models without any open-weight ones amo"
+    },
+    {
+      "link": "https://maltebuettner.eu/posts/devcontainers/",
+      "title": "# boring (dev-)containers for ai",
+      "description": "We live in exciting times. During the last year, the way I write software has changed dramatically – every quarter year. Claude Code, OpenAI's Codex, OpenCode, GitHub CLI, pi... There is so much software (harnesses) right now that makes it so much easier and faster to write code. Most of this progress comes from the harness that enabled LLMs to use your computer in a much more integrated way. Unfo"
+    },
+    {
+      "link": "https://maltebuettner.eu/posts/documentai/",
+      "title": "# documentai is solved",
+      "description": "Even though we live \"in the times of AI\", quantum computers, driverless cars, and are about to visit the moon again – PDFs, scanned documents, and handwritten forms just refuse to die. They are an amusing relic from the not-so-distant past, a stronghold of the atavism of yesterday. I have re-visited the topic multiple times in my career, starting with Decision Trees, fine-tuning Encoder based mode"
+    }
+  ]
+}

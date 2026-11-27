@@ -1,0 +1,20 @@
+{
+  "url": "https://stack72.dev/rss/",
+  "posts": [
+    {
+      "link": "https://stack72.dev/governance-in-the-age-of-agents/",
+      "title": "Governance in the Age of Agents",
+      "description": "An agent can turn an unexamined assumption into code, tests, and docs that all agree with each other and ship it in one session. Governance is how you make the decisions, verification, and deviations visible before that assumption reaches production."
+    },
+    {
+      "link": "https://stack72.dev/how-much-of-your-software-factory-can-run-in-the-dark/",
+      "title": "How Much of Your Software Factory Can Run in the Dark?",
+      "description": "Our lights-on software factory builds systems we want to operate with the lights off. We work through the responsibility we’re giving those systems, build it into the operation and let them run. When something new comes back, we have more work to do in the software factory."
+    },
+    {
+      "link": "https://stack72.dev/gatekeeping-in-the-age-of-ai/",
+      "title": "Gatekeeping in the Age of AI",
+      "description": "Every shift in software has been told it’s already solved. With AI, that pushback has become gatekeeping, and it risks talking us out of the biggest chance in decades to change how we build."
+    }
+  ]
+}

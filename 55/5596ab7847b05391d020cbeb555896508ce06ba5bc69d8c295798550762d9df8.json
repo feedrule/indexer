@@ -1,0 +1,20 @@
+{
+  "url": "https://akoskm.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://akoskm.com/gh-token-invalid-ai-agent-macos-keychain/",
+      "title": "gh Says My Token Is Invalid Inside My AI Agent. One security Command Fixed It.",
+      "description": "gh returned 401 only when my local-model agent ran it. My login was fine. One security unlock-keychain command inside the agent fixed it, no password asked."
+    },
+    {
+      "link": "https://akoskm.com/how-to-test-react-apps-with-vitest-and-vite/",
+      "title": "How to test React apps with Vitest and Vite",
+      "description": "Set up Vitest and React Testing Library on Vite. Put the test block in vite.config.ts and load @testing-library/jest-dom/vitest. The button says Count is 0."
+    },
+    {
+      "link": "https://akoskm.com/how-to-type-react-props-with-typescript/",
+      "title": "How to type React Props with TypeScript",
+      "description": "Type React props in TypeScript with an interface or a props type: optional defaults, children, event handlers, HTML attributes, and unions. React 19 types."
+    }
+  ]
+}

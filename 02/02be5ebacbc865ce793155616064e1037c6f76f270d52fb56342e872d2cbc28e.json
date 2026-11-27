@@ -1,0 +1,20 @@
+{
+  "url": "https://oytun.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://oytun.org/p/port-25-ai-dependence-and-onixos-scope/",
+      "title": "Port 25, AI Dependence, and the Value of Keeping Systems in Scope",
+      "description": "I have been thinking about three problems that look unrelated at first. A home internet connection may prevent a server from sending mail directly. People may accept an AI answer without checking the documentation or the source. An operating system project may accumulate more editions than it can maintain well."
+    },
+    {
+      "link": "https://oytun.org/p/rebuilding-the-onixos-website-around-documentation-and-planet/",
+      "title": "Rebuilding the OnixOS Website Around Documentation and Planet",
+      "description": "The OnixOS website now has to explain more than how to download a Linux distribution. It needs to help people choose an edition, install and maintain a system, understand the build and package repositories, and find out what is changing in O Language. It also needs to make community work visible."
+    },
+    {
+      "link": "https://oytun.org/p/building-a-private-local-first-ecosystem/",
+      "title": "Building a More Private, Local-First Digital Ecosystem",
+      "description": "I started looking at how much of my life I had left scattered across the internet. The answer was more than I expected. I found profiles on sites I had forgotten about, along with records and personal details that I did not remember deliberately publishing."
+    }
+  ]
+}

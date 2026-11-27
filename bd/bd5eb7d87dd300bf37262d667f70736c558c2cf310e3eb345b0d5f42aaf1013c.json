@@ -1,0 +1,20 @@
+{
+  "url": "https://standaniels.nl/feed.xml",
+  "posts": [
+    {
+      "link": "https://standaniels.nl/articles/teaching-ai-agents-modern-web-development",
+      "title": "Teaching AI agents modern web development",
+      "description": "AI coding agents don’t always know the best way to use modern browser features. This collection of guidelines helps them catch up."
+    },
+    {
+      "link": "https://standaniels.nl/articles/when-is-a-workday-done",
+      "title": "When Is a Workday Done?",
+      "description": "AI agents have changed the rhythm of my workday. I can get more done than ever, but keeping up with everything can be exhausting. I'm learning to work more intentionally, stay focused on what matters and know when I've done enough."
+    },
+    {
+      "link": "https://standaniels.nl/articles/tuning-laravel-horizon",
+      "title": "Tuning Laravel Horizon",
+      "description": "High server load during Mailcoach campaigns led me to review our Laravel Horizon setup. Here’s what I checked, from shared Redis queues and retry windows to deployment, monitoring and worker counts."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://codeengineered.com/index.xml",
+  "posts": [
+    {
+      "link": "https://codeengineered.com/blog/2026/abcd/",
+      "title": "Always Be Connecting Dots",
+      "description": "ABCD = Always Be Connecting Dots. I’ve had this written on my white board for years. Rajeev Pandey taught me this over a decade ago. There are two different ways I’ve always looked at this. Connect Dots In What’s Around Me (Innovation and Opportunity) This is about noticing patterns and ecosystems in the world around us. Seeing how things affect each other and connecting them. Others may not see t"
+    },
+    {
+      "link": "https://codeengineered.com/blog/2026/software-madhouse-tech-stack/",
+      "title": "Behind The Podcast: Software Madhouse Tech Stack",
+      "description": "It’s been almost a decade since I launched a new podcast. In that time the technologies available have changed. So, when I started the Software Madhouse with Robert Sirchia there was an opportunity to re-think how we built the site, hosted the podcast, and even recorded the show. This post contains an overview of the technologies I setup this time. Recording The Show There are a few parts to recor"
+    },
+    {
+      "link": "https://codeengineered.com/blog/2026/opus-v-quen38/",
+      "title": "Claude Opus 5 vs Qwen3.8",
+      "description": "I ran an experiment. Have Qwen3.8 and Claude Opus 5 try to optimize a codebase for performance. I wanted to see which was better and how far the gap was between them. These models are very different from one another. Opus 5 is one of the top frontier models. Qwen3.8 is a model I could run locally, in my case on a Framework Desktop . For the harnesses, I used the claude CLI and opencode (for Qwen3."
+    }
+  ]
+}

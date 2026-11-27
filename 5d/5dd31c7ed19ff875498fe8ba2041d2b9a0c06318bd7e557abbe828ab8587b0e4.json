@@ -1,0 +1,20 @@
+{
+  "url": "https://chrisebert.net/rss/",
+  "posts": [
+    {
+      "link": "https://chrisebert.net/see-what-your-ai-coding-agent-is-doing-with-datadog-lapdog/",
+      "title": "See what your AI coding agent is doing with Datadog Lapdog",
+      "description": "Datadog Lapdog is a free tool that gives you real-time visibility into what your AI coding agents are doing. Here's how to install it, pair it with Claude Code, and drill into a real session to see prompts, tool calls, token costs, and which model handled each step."
+    },
+    {
+      "link": "https://chrisebert.net/code-with-claude-2026-recordings-now-available/",
+      "title": "Code with Claude 2026 recordings now available",
+      "description": "Anthropic posted the Code with Claude 2026 session recordings. Here's a curated rundown of the sessions, workshop repos, and conference articles worth your time."
+    },
+    {
+      "link": "https://chrisebert.net/notes-from-code-with-claude-2026/",
+      "title": "Notes from Code with Claude 2026",
+      "description": "I attended Anthropic's Code with Claude developer conference in San Francisco on May 6th. Here's what I learned about context management, the shifting bottlenecks in software engineering, and what it looks like to run an AI-native engineering org."
+    }
+  ]
+}

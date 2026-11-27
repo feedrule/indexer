@@ -1,0 +1,20 @@
+{
+  "url": "https://readevalprint.tumblr.com/rss",
+  "posts": [
+    {
+      "link": "https://readevalprint.tumblr.com/post/803035197118545920",
+      "title": "How to properly set up Japanese IME on Windows 11",
+      "description": "Recently I’ve been setting up a new laptop to work on Ichiran , and I had to figure out how to do some stuff I haven’t done in years, rediscovering some long forgotten lore. Here’s one such tip that (for some reason) is virtually unknown. There’s a huge flaw in the Microsoft IME that comes with Windows 11, and that is double-n typing bug. If you want to type a word that has the character ん in the"
+    },
+    {
+      "link": "https://readevalprint.tumblr.com/post/639359547843215360",
+      "title": "Ichiran@home 2021: the ultimate guide",
+      "description": "Recently I’ve been contacted by several people who wanted to use my Japanese text segmenter Ichiran in their own projects. This is not surprising since it’s vastly superior to Mecab and similar software, and is occassionally updated with new vocabulary unlike many other segmenters. Ichiran powers ichi.moe which is a very cool webapp that helped literally dozens of people learn Japanese. A big obst"
+    },
+    {
+      "link": "https://readevalprint.tumblr.com/post/617089509006491648",
+      "title": "Previewing images in and out of SLIME REPL",
+      "description": "As any Common Lisp coder knows, a REPL is an incredibly useful tool. It can be used not just for development, but for running all sorts of tasks. Personally, I don’t bother making my Lisp tools into executable scripts and just run them directly from SLIME. As such, any operation that requires leaving the REPL is quite inconvenient. For me, one such operation was viewing image files, for example in"
+    }
+  ]
+}

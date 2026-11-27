@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ricegeo.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://ricegeo.dev/quadcopter",
+      "title": "🛸 How I became a YouTube Certified™ quadcopter pilot",
+      "description": "An introduction to first-person-view (FPV) quadcopter flying, my learning approach, architecture"
+    },
+    {
+      "link": "https://ricegeo.dev/hab-detection-wyvern-hsi-dagster",
+      "title": "Improve a hyperspectral imagery processing pipeline with Dagster",
+      "description": "Part 2 of posts about using Wyvern's hyperspectral imagery Open Data Program for"
+    },
+    {
+      "link": "https://ricegeo.dev/hab-detection-wyvern-hsi",
+      "title": "Harmful Algal Bloom 🦠 detection with Wyvern hyperspectral imagery",
+      "description": "Let's embark on some exploratory data analysis using Wyvern's hyperspectral imagery Open Data Program. Harmful Algal"
+    }
+  ]
+}

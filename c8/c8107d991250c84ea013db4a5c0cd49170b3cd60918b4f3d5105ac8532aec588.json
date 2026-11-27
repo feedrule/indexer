@@ -1,0 +1,20 @@
+{
+  "url": "https://pqina.nl/feed.xml",
+  "posts": [
+    {
+      "link": "https://pqina.nl/blog/animating-the-dialog-element-using-view-transitions/",
+      "title": "Animating The Dialog Element Using View Transitions",
+      "description": "In this article we look at animating the <dialog> element using the View Transition API . We’ll follow progressive enhancement so it’s only used when supported and when the user allows animations to run. Let’s take a look at the non-view-transition demo below. This demo uses the Invoker Commands API and doesn’t require any JavaScript. Click the button to open the dialog. Hello World Hello World Cl"
+    },
+    {
+      "link": "https://pqina.nl/blog/update-container-border-radius-scrollbar-overflow/",
+      "title": "Updating CSS Border Radius When A Container Is Overflowing",
+      "description": "In this article we’ll create a container element that dynamically adjusts its border-radius when its contents overflows. This week I learned about corner-shape via nerdy.dev . This led me down the path of adding big squircle corners to code blocks in the FilePond documentation. Great! But unfortunately they looked terrible when the scrollbar was active. I wondered if I could detect (with CSS only)"
+    },
+    {
+      "link": "https://pqina.nl/blog/disable-right-click-with-javascript/",
+      "title": "How To Disable Right Click With JavaScript",
+      "description": "In certain situations it might be useful to disable the browser right click context menu functionality. In this article I’ll quickly show you how it’s done. As the context menu is an important user interaction pattern we of course shouldn’t disable it lightly, let’s take a look. In my case I wanted to disable the right click interaction because it creates very strange situations when users drag an"
+    }
+  ]
+}

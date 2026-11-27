@@ -1,0 +1,20 @@
+{
+  "url": "https://www.alexbilz.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.alexbilz.com/post/2025-12-08-bundespolizei-ctf/",
+      "title": "Bundespolizei CTF 2025 Walkthrough: Cracking the Code of Germany's Federal Police 🚔",
+      "description": "A technical walkthrough of the 2025 Bundespolizei Capture The Flag competition, covering challenges in forensics, reversing, cryptography, and network analysis."
+    },
+    {
+      "link": "https://www.alexbilz.com/post/2025-11-18-auditing-gcp-with-inspec/",
+      "title": "Compliance as Code: Auditing Large-Scale GCP Environments with InSpec/CINC",
+      "description": "Auditing Google Cloud Platform (GCP) environments at scale presents unique challenges for security teams. This comprehensive guide introduces InSpec as the definitive solution for automated, continuous compliance. Get instant access to the open-source InSpec profile I maintain, and implement a streamlined, infrastructure-as-code approach to GCP governance and security validation."
+    },
+    {
+      "link": "https://www.alexbilz.com/about/",
+      "title": "About",
+      "description": "about Alexander Bilz"
+    }
+  ]
+}

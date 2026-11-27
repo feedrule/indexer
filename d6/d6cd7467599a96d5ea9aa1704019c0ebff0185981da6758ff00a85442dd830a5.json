@@ -1,0 +1,20 @@
+{
+  "url": "https://iainschmitt.com/rss",
+  "posts": [
+    {
+      "link": "https://iainschmitt.com/post/ben-thompson-is-wrong-about-the-internet",
+      "title": "Ben Thompson is wrong about the internet",
+      "description": "Ben Thompson is wrong about the internet From this morning's Stratechery , emphasis mine: The saving factor previously is that attackers were limited by human time and ingenuity as well; AI, however, has limitless time and the ability to substitute iteration for cleverness — and it’s getting pretty clever as well! It’s not a surprise that this wave of vulnerabilities is coming to light, and it’s g"
+    },
+    {
+      "link": "https://iainschmitt.com/post/a-wasted-weekend-on-kafka",
+      "title": "A Wasted Weekend on Kafka",
+      "description": "A Wasted Weekend on Kafka Back when I was at SPS, I spun up a single-broker cluster on my DigitalOcean VPS to get a better handle on Apache Kafka. As I wrote in Kafka in One File , I originally wanted to run Kafka out of my homelab DMZ VLAN in a way that was still accessible from the wider internet with mTLS authentication. It is a bad idea to have internet-accessible Kafka for true production inf"
+    },
+    {
+      "link": "https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator",
+      "title": "Terry Rozier and the Teleprompt Operator",
+      "description": "Terry Rozier and the Teleprompt Operator On October 23rd, 2025, the US Attorney's Office for the Eastern District of New York indicted five people as part of a sports gambling conspiracy. From the indictment: As alleged, Rozier, then an active player for the Hornets, tipped off longtime friend Laster that Rozier planned to leave the game early due to a purported injury. Rozier provided this inform"
+    }
+  ]
+}

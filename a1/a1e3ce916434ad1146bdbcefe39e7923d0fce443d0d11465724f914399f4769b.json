@@ -1,0 +1,20 @@
+{
+  "url": "https://anotherboringtechblog.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://anotherboringtechblog.com/2026/09/mysql-keeps-restarting-on-its-own/",
+      "title": "Something restarts my MySQL every morning. It isn’t MySQL.",
+      "description": "MySQL keeps restarting on its own. The alert fires at 06:37, the database is back before anyone opens a laptop, the log holds a wall of Lost connection to MySQL server during query, and uptime says 41 days. The next morning it is 06:12, the morning after that nothing. On a default Ubuntu or Debian […] O post Something restarts my MySQL every morning. It isn’t MySQL. apareceu primeiro em Another Bo"
+    },
+    {
+      "link": "https://anotherboringtechblog.com/2026/04/big-o-for-mysql/",
+      "title": "Big O for MySQL: Why the Same Query Gets Slow at Scale",
+      "description": "Big O for MySQL, explained visually: how O(1), O(log n), O(n), O(n log n), O(n²), and O(2ⁿ) decide whether your query stays fast as your data grows. O post Big O for MySQL: Why the Same Query Gets Slow at Scale apareceu primeiro em Another Boring Tech Blog ."
+    },
+    {
+      "link": "https://anotherboringtechblog.com/2026/04/strapi-performance-readyset/",
+      "title": "Instant Strapi Performance Without Changing Your Code",
+      "description": "How to scale your Strapi data layer using a wire compatible caching proxy and what the results look like on 43,000 real restaurants. Strapi is an excellent tool for building content driven applications quickly. As a project grows and data becomes more interconnected, keeping the API layer snappy is a common goal for development teams. […] O post Instant Strapi Performance Without Changing Your Cod"
+    }
+  ]
+}

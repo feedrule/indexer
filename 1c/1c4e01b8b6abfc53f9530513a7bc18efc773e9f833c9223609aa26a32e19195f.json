@@ -1,0 +1,20 @@
+{
+  "url": "https://leehanchung.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/",
+      "title": "Jev and the return of AI/ML Engineering",
+      "description": "Jev looks interesting, but its differentiator, probability caliberation, is underwhelming. Most would be better off using fast and customizable open source LLM instead, e.g.,Qwen-3.5-2b, or Flash models from DeepSeek and Qwen for those with GPUs. Jev is marked as a 'System One' model. That's marketing. From thinking fast and slow, 'fast' models is system one, and 'slow' models is system 2. System"
+    },
+    {
+      "link": "https://leehanchung.github.io/blogs/2026/07/13/token-factory/",
+      "title": "Stop Being Permanent Underclass. Implement a Token Factory.",
+      "description": "Welcome to the Permanent Underclass. Here's Your Token Budget for the Month - Technology, software, and financial industries are all operating in headless-chicken mode. The pendulum swung from tokenmaxxing or PIP’ed in Q1 2026 to the opposite extreme of token budgets and throttling AI usage today. Everyone is getting whiplash from reactionary policies instead of pursuing a forward-looking AI trans"
+    },
+    {
+      "link": "https://leehanchung.github.io/blogs/2026/06/13/hidden-technical-debt-agent-evaluation-infra/",
+      "title": "Hidden Technical Debt of AI Systems: Agent Evaluation Infrastructure",
+      "description": "Experimentation-centric designs, not benchmark running scripts - Most conversations about evals collapse into which SaaS tool to buy, which metrics to track, which LLM-as-a-judge prompt to slap on, or which single headline benchmark score to worship. SWE-bench percentage. Humanity’s Last Exam. ARC-AGI. Pokémon Red. Or most often, a directive from the top saying LGTM. These scores are useful, but t"
+    }
+  ]
+}

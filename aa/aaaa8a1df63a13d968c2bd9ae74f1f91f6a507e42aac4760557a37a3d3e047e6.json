@@ -1,0 +1,20 @@
+{
+  "url": "https://www.umangsinha.in/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.umangsinha.in/blog/vibe-coding-and-the-death-of-craftsmanship",
+      "title": "vibe coding and the death of craftsmanship",
+      "description": "how AI coding tools are turning us from creators into proofreaders, and where to find the joy of craftsmanship when the struggle is gone."
+    },
+    {
+      "link": "https://www.umangsinha.in/blog/the-sm2-algorithm",
+      "title": "how spaced repetition actually works: the sm-2 algorithm",
+      "description": "Explore how memory decays, the science behind the forgetting curve, and how Piotr Woźniak's SM-2 algorithm schedules reviews at the optimal moment to help you learn more efficiently."
+    },
+    {
+      "link": "https://www.umangsinha.in/blog/race-free-redis-lua-scripting",
+      "title": "Race-Free Redis: How Lua Scripting Delivers Atomicity and Performance",
+      "description": "Redis is widely celebrated for its blazing-fast performance and simplicity. It's the go-to choice when you need low-latency access to data structures like strings, hashes, sets, and more. But as your system grows in complexity, certain operations require more than just speed. They demand atomicity."
+    }
+  ]
+}

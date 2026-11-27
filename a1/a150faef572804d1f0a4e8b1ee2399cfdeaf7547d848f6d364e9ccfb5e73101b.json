@@ -1,0 +1,20 @@
+{
+  "url": "https://andywidjaja.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://andywidjaja.com/blog/document-migration/",
+      "title": "Moving 800 million documents is an inference problem",
+      "description": "Batches in parallel, concurrency under a limit: the same two tricks move documents and serve models."
+    },
+    {
+      "link": "https://andywidjaja.com/blog/event-is-the-prompt/",
+      "title": "The event is the prompt",
+      "description": "I built an ambient agent for my own projects. Here's what it taught me."
+    },
+    {
+      "link": "https://andywidjaja.com/blog/autonomy-earned/",
+      "title": "Autonomy is earned, not configured",
+      "description": "Graduated autonomy for a build pipeline that builds itself."
+    }
+  ]
+}

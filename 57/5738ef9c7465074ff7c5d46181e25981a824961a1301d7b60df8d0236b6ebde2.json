@@ -1,0 +1,20 @@
+{
+  "url": "https://michielstock.github.io/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://michielstock.github.io/blog/posts/2026/2026-10-25-origins-of-efficiency/",
+      "title": "The Origins of Efficiency",
+      "description": "author: Brian Potter related books: How Innovation Works , How the World Really Works When we think of human ingenuity, we celebrate flashy inventions such as penicillin and the lightbulb. Yet most of our material wealth comes from centuries of quiet improvements in how things are made, and in this book Potter systematically explores these process innovations that make products better, cheaper and"
+    },
+    {
+      "link": "https://michielstock.github.io/blog/posts/2026/2026-06-08-gaussian-processes-conditioning/",
+      "title": "Condition Gaussian processes on nearly everything",
+      "description": "Introduction The Bayesian viewpoint is a highly instructive way to think about machine learning (and intelligence in general). A Gaussian process (GP) is perhaps one of the most elegant machine learning methods, providing a way to perform Bayesian inference over functions, and you can condition on how these functions should behave to obtain a posterior process. Powerful, it might be, but the mathe"
+    },
+    {
+      "link": "https://michielstock.github.io/blog/posts/2025/2025-12-23-AID/",
+      "title": "Algorithmic Information Dynamics",
+      "description": "author: Hector Zenil, Narsis Kiani & Jesper Tegner Book summary To explain the world, one needs a causal model. This means that when observing data, a DNA string, a time series, a text, a graph, etc, one has to find the process that can generate this data. Any data-generating model is, in practice, a computer program. For any piece of data, there are an infinite number of programs that can generat"
+    }
+  ]
+}

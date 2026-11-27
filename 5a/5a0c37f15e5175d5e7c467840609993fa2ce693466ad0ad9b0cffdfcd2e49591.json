@@ -1,0 +1,20 @@
+{
+  "url": "https://tvi.al/rss/",
+  "posts": [
+    {
+      "link": "https://tvi.al/de-dietrich-hood-flashing-buttons-470uf-capacitor/",
+      "title": "My Range Hood's Buttons Were Flashing. A €0.90 Capacitor Fixed It.",
+      "description": "All four speed buttons blinking fast and a hood that refuses to start looks like a dead appliance. On a De Dietrich DHD120XE1 it is usually one tired electrolytic capacitor on the power board. Here is the symptom, the check and the fix."
+    },
+    {
+      "link": "https://tvi.al/mikrotrick-routeros-ssh-exploit-caught-live/",
+      "title": "MikroTrick Hit My Router. The Alert Fired One Second Later.",
+      "description": "An unauthenticated RouterOS SSH exploit got admin rights on my MikroTik and planted a VPN backdoor in nine seconds. Off-box logging caught it in one. Real logs, what to check on your router, and why the patch matters more than your SSH keys."
+    },
+    {
+      "link": "https://tvi.al/bouygues-tv-without-the-bbox-gpon-stick/",
+      "title": "Bouygues Telecom TV Without the Bbox: IPTV Multicast Behind a GPON SFP Stick",
+      "description": "The exact config to get the Bbox TV decoder (Miami 4K) working with your own router and a GPON SFP stick: IGMPv2, 802.1p priority 5, an IGMP proxy and bridge snooping fixes."
+    }
+  ]
+}

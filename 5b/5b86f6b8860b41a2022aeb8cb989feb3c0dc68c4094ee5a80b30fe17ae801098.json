@@ -1,0 +1,20 @@
+{
+  "url": "https://maecapozzi.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://maecapozzi.com/blog/ai-removes-observability-friction",
+      "title": "AI agents removed the friction from writing telemetry",
+      "description": "I used to avoid adding telemetry because it felt like tedious busywork. Now with Claude handling the OpenTelemetry boilerplate, I'm instrumenting everything."
+    },
+    {
+      "link": "https://maecapozzi.com/blog/finding-ai-agent-leverage-points",
+      "title": "How to Make AI Agents Work: Less Magic, More Harness Engineering",
+      "description": "AI agents work better when given appropriate context and guardrails."
+    },
+    {
+      "link": "https://maecapozzi.com/blog/ai-powered-toil-reduction-platform-engineering",
+      "title": "How I Use Claude Code to Reduce Toil as a Platform Engineer",
+      "description": "I've been using Claude Code to offload tedious parts of platform engineering: dependency reviews, generating test PRs, dependency migrations, and project cleanup."
+    }
+  ]
+}

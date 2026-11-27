@@ -1,0 +1,20 @@
+{
+  "url": "https://danielsaidi.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://danielsaidi.com/blog/2026/11/04/creating-lightweight-web-based-videos-with-ai-and-remotion",
+      "title": "Creating Lightweight, Web-Based Videos with AI and Remotion",
+      "description": "Remotion lets you create videos with code and plain text instructions, which makes it a great fit for AI assisted creations. In this post, I’ll show you how to get started, how to generate both web videos and MP4s, and just how tiny and fast this workflow is."
+    },
+    {
+      "link": "https://danielsaidi.com/blog/2026/10/30/introducing-a-brand-new-onboardingkit",
+      "title": "Introducing a brand new OnboardingKit",
+      "description": "Say hello to the new OnboardingKit, a Swift & SwiftUI SDK that helps you create flexible onboarding experiences on all major Apple platforms, and that replaces the old, open-source project."
+    },
+    {
+      "link": "https://danielsaidi.com/blog/2026/10/29/closing-up-why-i-m-making-some-of-my-projects-closed-source",
+      "title": "Closing Up: Why I’m making some of my projects closed-source",
+      "description": "I have archived my open-source OnboardingKit repository and replaced it with a new, closed-source one with a commercial license. It’s the first of many projects to make this move. Let me explain why."
+    }
+  ]
+}

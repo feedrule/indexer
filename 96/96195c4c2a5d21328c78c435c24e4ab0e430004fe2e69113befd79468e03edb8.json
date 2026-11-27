@@ -1,0 +1,20 @@
+{
+  "url": "https://functional.computer/atom.xml",
+  "posts": [
+    {
+      "link": "https://functional.computer/blog/power-gravitates-left",
+      "title": "Power gravitates left",
+      "description": "Last week, I attended the first half of Ruth Malan ’s Technical Leadership Masterclass , in which we spent a lot of time discussing power . Ruth asked us to draw multiple diagrams of the current organizations in which we work. I drew 4, and one looked a lot like this: This is a diagram from High Output Management , by Andrew S. Grove, CEO emeritus of Intel. ( I re-read this book a few months ago ,"
+    },
+    {
+      "link": "https://functional.computer/blog/reading-about-management",
+      "title": "Reading about management",
+      "description": "Today, I started a new job at Tweag . It’s my first official management role in a little while (though I’ve been subbing in, off and on), so a few weeks ago, I thought I’d ask a group of friends, ex-colleagues from my first job at TIM Group, if they could recommend me any reading material. I’d like to start with the right mindset and a little bit of advice, and I find reading always helps. My frie"
+    },
+    {
+      "link": "https://functional.computer/blog/fairness-in-disjunctions",
+      "title": "Fairness in disjunctions",
+      "description": "When we last left our little logic DSL, it had grown a monad . I relent Solving the technical interview Solving the technical interview, explained Monadic logic Fairness in disjunctions With that working, let’s turn our attention to another piece of functionality expected from a logic language: fairness. That is, if we create a disjunction between two goals ( g ||| h ), we should sample from the s"
+    }
+  ]
+}

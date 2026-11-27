@@ -1,0 +1,20 @@
+{
+  "url": "https://www.pgmustard.com/blog?format=rss",
+  "posts": [
+    {
+      "link": "https://www.pgmustard.com/blog/read-efficiency-issues-in-postgres-queries",
+      "title": "Read efficiency issues in Postgres queries",
+      "description": "A lot of the time in database land, our queries are I/O constrained. As such, performance work often involves reducing the number of page reads. Indexes are a prime example, but they don’t solve every issue (a couple of which we’ll now explore)."
+    },
+    {
+      "link": "https://www.pgmustard.com/blog/what-do-index-searches-in-explain-mean",
+      "title": "What do the new Index Searches lines in EXPLAIN mean?",
+      "description": "In Postgres 18 you’ll now see “Index Searches” lines in EXPLAIN ANALYZE output. If like me you were wondering what those mean exactly, you’re in the right place."
+    },
+    {
+      "link": "https://www.pgmustard.com/blog/enable-parameters-work-differently-in-postgres-18",
+      "title": "\"enable\" parameters will work differently in Postgres 18",
+      "description": "Each year I go through the changes and additions to EXPLAIN in the upcoming PostgreSQL major version, to see what we need to add support for in pgMustard. There are quite a few EXPLAIN related improvements in PostgreSQL 18! The latest one on my list to look into was a change to how the planner responds to (and communicates the effect of) “enable” parameters. I thought it was pretty interesting, so"
+    }
+  ]
+}

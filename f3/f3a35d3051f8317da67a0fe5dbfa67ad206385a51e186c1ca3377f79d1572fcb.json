@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.simbastack.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.simbastack.com/locking-down-our-servers/",
+      "title": "5,009 failed SSH logins in a week: how we locked down our servers",
+      "description": "5,009 failed SSH logins in a week. How we moved SSH behind Tailscale, set up Hetzner's stateless firewall, fixed Docker bypassing ufw, and tested our backups."
+    },
+    {
+      "link": "https://blog.simbastack.com/mcp-output-schemas-edge-runtimes/",
+      "title": "MCP output schemas can break clients on edge runtimes",
+      "description": "Adding outputSchema to our MCP tools broke mcp.so's tool fetch. The v1 TypeScript SDK client compiles schemas with Ajv, which edge runtimes ban. The fix."
+    },
+    {
+      "link": "https://blog.simbastack.com/claude-edited-my-youtube-videos-davinci-resolve/",
+      "title": "Claude edited my last three YouTube videos in DaVinci Resolve",
+      "description": "Claude edited three of my YouTube videos in DaVinci Resolve 21.1. Raw footage to final cut, the A/B picks, what broke, and what still needs me."
+    }
+  ]
+}

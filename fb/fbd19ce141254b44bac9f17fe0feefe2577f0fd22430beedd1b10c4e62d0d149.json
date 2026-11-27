@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ligos.net/atom.xml",
+  "posts": [
+    {
+      "link": "http://blog.ligos.net/2026-09-27/Immich-As-Self-Hosted-Photo-Storage-2.html",
+      "title": "Immich as Self-Hosted Photo Storage - Part 2",
+      "description": "Evaluating Immich to store personal photos."
+    },
+    {
+      "link": "http://blog.ligos.net/2026-08-29/Immich-As-Self-Hosted-Photo-Storage-1.html",
+      "title": "Immich as Self-Hosted Photo Storage - Part 1",
+      "description": "My new Immich server to store personal photos."
+    },
+    {
+      "link": "http://blog.ligos.net/2026-08-01/Debian-13-Trixie.html",
+      "title": "Debian 13 Trixie",
+      "description": "A reference to install Debian for servers and desktops."
+    }
+  ]
+}

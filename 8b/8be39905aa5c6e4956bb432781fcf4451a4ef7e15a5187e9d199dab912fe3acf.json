@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.kjamistan.com/feeds/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.kjamistan.com/spying-on-your-agents-a-privacy-and-security-focused-guide.html",
+      "title": "Spying on your agents: A privacy- and security-focused guide",
+      "description": "In this mega-post, I'm going to introduce you to why I think you should spy on your agents. Not only do I think this makes clear why privacy and security are so essential in agent setups, but also I think you can learn a lot about how agents work. Also …"
+    },
+    {
+      "link": "https://blog.kjamistan.com/privacy-evaluations-for-ai-systems.html",
+      "title": "Privacy Evaluations for AI Systems",
+      "description": "In this mega-post, you'll dive into the world of AI evaluations and how they might be used to evaluate privacy. This is a developing area of research and practice, so there aren't established best practices industry-wide just yet. However, there are a growing set of practices to start, useful advice …"
+    },
+    {
+      "link": "https://blog.kjamistan.com/building-an-ai-privacy-router.html",
+      "title": "Building an AI Privacy Router",
+      "description": "A few months ago, NVIDIA CEO Jensen Huang announced their version of NanoClaw, which promised to offer better privacy, security and performance compared to the popular open-source tool OpenClaw. OpenClaw, an agent framework with easy tooling, was mired with numerous security and privacy problems involving loss of sensitive data like …"
+    }
+  ]
+}

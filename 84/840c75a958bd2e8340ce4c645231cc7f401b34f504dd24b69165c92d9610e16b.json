@@ -1,0 +1,20 @@
+{
+  "url": "https://scvalex.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://scvalex.net/posts/84/",
+      "title": "On zram swap and zswap",
+      "description": "I recently converted all my machines from zram swap to zswap . In this post I go over the differences between the two and why zswap is almost certainly better for any general use-case."
+    },
+    {
+      "link": "https://scvalex.net/posts/83/",
+      "title": "What the hell is a decibel?",
+      "description": "Decibels come up often in digital audio and I’ve always found them to be confusing. In this post, I try to explain what decibels are and more importantly, how they’re used in practice."
+    },
+    {
+      "link": "https://scvalex.net/posts/82/",
+      "title": "A load balancer on every host",
+      "description": "I’ve started running HAProxy on every machine in my fleet. This neatly solves the problem of connecting to services in my Kubernetes cluster, as well as making it possible to have nice URLs for local services running on weird ports."
+    }
+  ]
+}

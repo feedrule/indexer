@@ -1,0 +1,20 @@
+{
+  "url": "https://dan.langille.org/feed/",
+  "posts": [
+    {
+      "link": "https://dan.langille.org/2026/11/20/which-of-my-hosts-need-the-nginx-security-update-asking-samdrucker/",
+      "title": "Which of my hosts need the nginx security update? Asking SamDrucker",
+      "description": "Today brought a security update for nginx: nginx-1.30.7,3. That raises two questions every time: which of my hosts run nginx, and which of them need the update? I have a lot of hosts. Until today, answering meant logging into each one, or a loop of ssh host pkg info nginx. Now I have a better way. SamDrucker SamDrucker keeps a central list of every package on every host. Each night, each host send"
+    },
+    {
+      "link": "https://dan.langille.org/2026/11/09/su-m-keeps-roots-home-and-psql-notices/",
+      "title": "su -m keeps root’s HOME, and psql notices",
+      "description": "In February 2024 I wrote about could not open certificate file “/root/.postgresql/postgresql.crt”: Permission denied. I fixed it by adding sslcertmode=disable to the connection string, and ended with: does anyone know why this might have happened? That fix has been copied into several scripts since, for example the one in Why does this PostgreSQL \\copy fail when launched by the daemon? Tonight I h"
+    },
+    {
+      "link": "https://dan.langille.org/2026/11/04/ports-mgmt-git-proxy-caching-proxy-for-package-registries-including-freebsd-pkg/",
+      "title": "ports-mgmt/git-proxy – caching proxy for package registries, including FreeBSD pkg",
+      "description": "I’ve heard about and thought about proxies for pkg servers for some time. Perhaps years, but definitely months. I never took action until I saw this commit in today’s FreshPorts new ports email: ports-mgmt/git-proxy Caching proxy for package registries, including FreeBSD pkg Today. This morning, during coffee at my local shop, I implemented one in my basement. The following shows you how I did it."
+    }
+  ]
+}

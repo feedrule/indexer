@@ -1,0 +1,20 @@
+{
+  "url": "https://barneyparker.com/index.xml",
+  "posts": [
+    {
+      "link": "https://barneyparker.com/posts/organization-terraform-state-buckets/",
+      "title": "Organization Terraform State Buckets",
+      "description": "Organization Terraform State Buckets Terraform requires a backend to store state files. These are crucial to allow Terraform to know how to map real-world resources to code definition. Over the years i’ve seen it done an awful lot of ways, and most of them tend to be less than ideal at some time or another. In this post i’ll share my preferred way of doing this and the rationale behind it. The Pro"
+    },
+    {
+      "link": "https://barneyparker.com/posts/wifi-qr-codes/",
+      "title": "WiFi QR Codes",
+      "description": null
+    },
+    {
+      "link": "https://barneyparker.com/posts/backoff-simulator/",
+      "title": "Backoff Simulator",
+      "description": null
+    }
+  ]
+}

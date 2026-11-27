@@ -1,0 +1,20 @@
+{
+  "url": "https://www.skeptrune.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.skeptrune.com/posts/stt-llm-tts-voice-stack-is-dead/",
+      "title": "The STT-LLM-TTS voice stack is dead",
+      "description": "Why I gave Claude Code the ability to make real phone calls, and how it works under the hood: Telnyx, GPT-Live, a back office model, and a lot of fighting with phone menus."
+    },
+    {
+      "link": "https://www.skeptrune.com/posts/seedance-video-character-swap/",
+      "title": "How I made Palmer Luckey and Paul Graham perform Hotel Lobby",
+      "description": "The source clip, six reference photos, prompt and API settings I used to replace two people in a video with Seedance 2.5."
+    },
+    {
+      "link": "https://www.skeptrune.com/posts/inference-engineering-skills-map/",
+      "title": "The Inference Engineering Skills Map",
+      "description": "I made the switch from B2B SaaS web development to inference about a month ago and wanted to share my learnings for others that might be interested in doing a similar thing."
+    }
+  ]
+}

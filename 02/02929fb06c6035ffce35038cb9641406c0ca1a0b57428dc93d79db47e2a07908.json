@@ -1,0 +1,20 @@
+{
+  "url": "https://kxsh.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://kxsh.dev/posts/2026-11-12-cstrings/",
+      "title": "Strings in C",
+      "description": "Strings in C are peculiar. They are especially strange once you are familiar with strings in another higher-level programming language. I want to share an approach that makes my life easier whenever I write tiny C programs. Context How are strings represented in C? Technically, strings do not exist in C. They are implemented as a convention built on top of pointers. Specially, a pointer to a chara"
+    },
+    {
+      "link": "https://kxsh.dev/posts/2026-11-08-weekly/",
+      "title": "Review: 2026 Week #45 (Nov 2 - Nov 8)",
+      "description": "Happy Diwali to everybody celebrating. I tried HYROX training on Thursday morning. That was bloody intense hour of workout. My legs were sore until Friday evening. I started a new project this week - diving deeper into Operating Systems. Specifically, I am reading the OSTEP book to understand the components that build up a system. Mapping these concepts with UNIX (via Advanced UNIX Programming) to"
+    },
+    {
+      "link": "https://kxsh.dev/posts/2026-11-01-weekly/",
+      "title": "Review: 2026 Week #44 (Oct 26 - Nov 1)",
+      "description": "Autumn is here. My hands get quite cold even after a short bike ride to the gym. Time to bring out my Buffs and gloves to keep the cold away. I was able to work out every single day this week. So I am pretty happy about it. The body has adjusted well to the end of DST, and I woke up consistently around 6 AM. After work, I re-read The Old Man and The Sea by Hemingway for the third time."
+    }
+  ]
+}

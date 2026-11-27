@@ -1,0 +1,20 @@
+{
+  "url": "https://jerryjones.dev/feed/",
+  "posts": [
+    {
+      "link": "https://jerryjones.dev/2026/05/19/improving-procedural-ai-reliability/",
+      "title": "Improving Procedural AI Reliability",
+      "description": "One of the biggest problems I encountered while building my AI-powered meal planning and grocery shopping assistant was getting it to reliably follow all the procedures. I had all the skills broken down into bite-size pieces and structure laid out in a sensible way, but the agent would often improvise. When I pressed the agent […]"
+    },
+    {
+      "link": "https://jerryjones.dev/2026/05/14/the-future-of-ai-ux-is-not-just-chat-building-a-wordpress-based-personal-grocery-shopping-assistant/",
+      "title": "The Future of AI UX Is Not Just Chat: Building a WordPress-based personal grocery shopping assistant",
+      "description": "Over the past month, I’ve been building a WordPress site as a data-brain layer connected to Claude in a NanoClaw container. My goal is a plugin with a group of skills and endpoints that can: meal plan, build a grocery list shop the list from multiple stores add items to store cart(s) Since starting the […]"
+    },
+    {
+      "link": "https://jerryjones.dev/2021/05/27/lessons-from-hiring-software-engineers/",
+      "title": "Lessons from Hiring Software Engineers",
+      "description": "I’ve been a jack of all trades web developer for nearly 15 years and moved to working full-time in hiring in September 2020. At Automattic, we’re hiring as fast as we can. This has given me a chance to work with and evaluate hundreds of software engineers over the past eight months. The Day-to-Day: A […]"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://baeke.info/feed/",
+  "posts": [
+    {
+      "link": "https://baeke.info/2026/11/20/how-knowledge-graphs-work-in-foundry-iq/",
+      "title": "How knowledge graphs work in Foundry IQ",
+      "description": "Ask a RAG system \"How many projects has Amira worked on?\" and it will often get the count wrong. The answer is spread over dozens of documents, and vector search hands the model only the five or ten passages closest to the question. At Ignite 2026, Microsoft announced knowledge graphs for Foundry IQ (the new…"
+    },
+    {
+      "link": "https://baeke.info/2026/11/19/agents-that-sleep-on-your-own-kubernetes-cluster-with-agent-substrate/",
+      "title": "Agents that sleep on your own Kubernetes cluster with Agent Substrate",
+      "description": "Most agents spend their day waiting. They work for a few seconds, then sit idle until the next message, schedule or event comes in. For many agents that's fine, because one container serves many sessions and the state lives in a database. It gets expensive when an agent needs a machine of its own, for…"
+    },
+    {
+      "link": "https://baeke.info/2026/11/16/notes-of-the-week-the-harness-spreads-agents-after-go-live-and-kubernetes-for-agents/",
+      "title": "Notes of the week: the harness spreads, agents after go-live and Kubernetes for agents",
+      "description": "This week's Notes keep coming back to the agent harness. Microsoft explains why it matters for trust, Copilot Studio agents can now call harness agents over MCP and A2A, and even document extraction gets its own agentic loop. The second thread is what happens after an agent goes live: evaluations that feed an optimizer, and…"
+    }
+  ]
+}

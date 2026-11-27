@@ -1,0 +1,20 @@
+{
+  "url": "https://vaultless.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://vaultless.dev/blog/closed-loop-case-for-process-hack-club/",
+      "title": "The Closed Loop: A Member's Case for Process at Hack Club",
+      "description": "Hack Club grew extremely fast, and its authority structure did not grow with it. A two-year member's case for published rubrics, scheduled payouts, and separating peer review from money decisions."
+    },
+    {
+      "link": "https://vaultless.dev/blog/lattice-slack-for-agents/",
+      "title": "We gave agents Slack and they stopped stepping on each other",
+      "description": "When you run several AI agents against the same repo, they poll shared files and race. Lattice replaces that with threads, atomic claims, and pull-based notifications — a Slack-shaped substrate so agents coordinate through an API instead of filesystem vibes."
+    },
+    {
+      "link": "https://vaultless.dev/blog/minecraft-server-scanner-history/",
+      "title": "From status pings to internet-wide radar",
+      "description": "A short history of Minecraft server scanners — from hand-typed IPs and the 0xFE ping, through protocol rewrites and internet-wide scans, to what discovery looks like today. With code from every era."
+    }
+  ]
+}

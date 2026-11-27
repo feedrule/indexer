@@ -1,0 +1,20 @@
+{
+  "url": "https://www.juliendesrosiers.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.juliendesrosiers.com/2026/03/11/track-web-page-views-with-prometheus.php",
+      "title": "Track Web pageviews with Prometheus",
+      "description": "I wanted to try my new Prometheus setup with some useful data, and since I want to learn how to use Prometheus, I thought it would be fun and useful to do this. In case you're not familiar with it, Prometheus is a server app that gathers metrics in a database. Metrics that are then displayed in some specialized web app such as Grafana (the most popular for this usage). I won't go into details of h"
+    },
+    {
+      "link": "https://www.juliendesrosiers.com/2025/04/05/minimum-viable-oauth2-login-with-php.php",
+      "title": "Minimum viable OpenID Connect with PHP",
+      "description": "As we've seen in a previous post , you can install your own SSO, using Keycloak. In this post, we'll see how you can connect to that SSO using only one page of PHP. The dependencies Install these composer packages: composer install stevenmaguire/oauth2-keycloak composer install firebase/php-jwt The code Put this in your index.php at the root of your publicly-available web folder: <?php require 've"
+    },
+    {
+      "link": "https://www.juliendesrosiers.com/2025/03/22/host-keycloak-server.php",
+      "title": "Host your own Keycloak SSO",
+      "description": "First, you'll need Keycloak. Server specs requirements I'm installing this on Ubuntu 24.04. Look at this page for more details . TL;DR: Have at least 2 vCPU and 2 GB of RAM for a start. Installing Keycloak First need to install the dependencies Start here: https://www.keycloak.org/getting-started/getting-started-zip Basically you'll: # install software sudo apt install openjdk-21-jdk wget unzip -y"
+    }
+  ]
+}

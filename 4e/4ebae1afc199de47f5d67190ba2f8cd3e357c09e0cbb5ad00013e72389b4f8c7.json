@@ -1,0 +1,20 @@
+{
+  "url": "https://www.echonolan.net/atom.xml",
+  "posts": [
+    {
+      "link": "http://www.echonolan.net/posts/2026-02-19-token-explorer-and-smallerthancali.html",
+      "title": "Two Vibecoded SPAs: Exploring LLM Token Embeddings and Comparing Countries to California",
+      "description": "Posted on February 19, 2026 I made two little sites over the past while. Claude Code makes this easy and pretty fun. The first one is an explorer for the token embeddings of LLMs . You can use it to see what tokens are close to what in the embedding space: The qwen3-30b-a3b's output embedding for \" Elon\" is near various companies Elon Musk owns, his last name, other tech founders, and for whatever"
+    },
+    {
+      "link": "http://www.echonolan.net/posts/2024-03-09-is-it-possible-to-train-a-text-to-image-model-without-any-text.html",
+      "title": "Can you train a text-to-image model without any text?",
+      "description": "Posted on March 9, 2024 Despite Betteridge's law , I contend the answer is \"probably\". I'd prefer to be writing a post without a question mark at the end of the title, but I haven't actually gotten it to work yet. This post is something of a research log documenting my efforts, though written ex post. This code for the models and data processing is here . Why should it be possible? A text-to-image"
+    },
+    {
+      "link": "http://www.echonolan.net/posts/2024-02-21-25m-imgur-images-dataset.html",
+      "title": "Gathering A Dataset of 33 Million Unlabeled Images from Imgur",
+      "description": "Posted on February 21, 2024 As part of a machine learning project to build a text-to-image model , I gathered a large dataset from archives of Imgur. Well, 33 million images in around 11 terabytes sounds big to me, but there are people out there that probably ingest that much in a day. 🤷 ♂️ For my purposes, it's enough for proof of concept. Anyway, there's some interesting stuff about the dataset,"
+    }
+  ]
+}

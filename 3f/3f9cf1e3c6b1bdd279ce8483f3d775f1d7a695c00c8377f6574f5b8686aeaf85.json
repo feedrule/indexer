@@ -1,0 +1,20 @@
+{
+  "url": "https://evilmartians.com/chronicles.atom",
+  "posts": [
+    {
+      "link": "https://evilmartians.com/chronicles/we-stopped-a-railway-migration-3-weeks-out-how-to-know-to-stop-or-go",
+      "title": "We stopped a Railway migration 3 weeks out. How to know to stop or go?",
+      "description": "We took a production Rails app to three weeks before a Railway cutover, then called it off. Here's what Metal, backups, logs, and rollback look like in production, and the questions to answer before you migrate."
+    },
+    {
+      "link": "https://evilmartians.com/chronicles/building-uscreens-remote-multi-tenant-mcp-server-inside-a-rails-app",
+      "title": "Building Uscreen’s remote, multi-tenant MCP server inside a Rails app",
+      "description": "How Evil Martians moved Uscreen’s MCP server into its Rails app as a remote, multi-tenant service: Doorkeeper OAuth, tenant-scoped tools, and dry-run previews for destructive operations."
+    },
+    {
+      "link": "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
+      "title": "SF Ruby Conference: late bird tickets end Nov 8",
+      "description": "The SF Ruby Conference has run out of regular tickets, leaving late bird and corporate tickets. But it's never too late! Come meet Ruby friends, play The Pier, join small-group conversations, and explore the 2026 program in San Francisco."
+    }
+  ]
+}

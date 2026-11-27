@@ -1,0 +1,20 @@
+{
+  "url": "https://exploit.cat/index.xml",
+  "posts": [
+    {
+      "link": "https://exploit.cat/posts/hacking-free-claude/",
+      "title": "Hacking Anthropic For Free Unlimited Claude",
+      "description": "How a few bugs in Anthropic's API gave me access to unlimited inference across Anthropic's language models from a free-tier account"
+    },
+    {
+      "link": "https://exploit.cat/posts/overflow-spoofed-errors/",
+      "title": "Forging Stack Traces With An Unchecked Integer Overflow",
+      "description": "A CDP-gated V8 integer wrap that allows you to control reported stack frames (and detect devtools)"
+    },
+    {
+      "link": "https://exploit.cat/posts/javascript-mixed-boolean-algebra/",
+      "title": "Better Mixed Boolean Arithmetic in JavaScript",
+      "description": "Leveraging semantic gaps between JavaScript numbers and symbolic execution tools to harden mixed boolean arithmetic"
+    }
+  ]
+}

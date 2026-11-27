@@ -1,0 +1,20 @@
+{
+  "url": "https://paperstack.com/post/index.xml",
+  "posts": [
+    {
+      "link": "https://paperstack.com/meta-installer/",
+      "title": "Meta-Installer",
+      "description": "This post is mostly so that future me can find my Debian package without having to ferret around on various laptop and other disks :) I just set up (yet) another machine. My go-to OS these days is Debian 13, and there’s a certain subset of tools that I always seem to set up. Previously I’ve tended to pop them in manually, or use a little bash script, but I thought I’d have a go at making a meta-in"
+    },
+    {
+      "link": "https://paperstack.com/kafkaesque/",
+      "title": "Kafkaesque",
+      "description": "On building a mocking library for Apache Kafka. Big slow tests I’ve worked a lot with Apache Kafka in the last few years. If you wake up one morning and think “I know, I will use Kafka as the queue in my tiny homebrew project” then you are probably in for a world of pain. If, however, you are in world of vast data flows with strict auditing and compliance requirements, then, well, yup, still a wor"
+    },
+    {
+      "link": "https://paperstack.com/ender_updated/",
+      "title": "Ender Updated",
+      "description": "When I got a 3D printer I swore I would not be one of those people who spent all their time printing upgrades for their 3D printer. I’m not doing too badly, but printing with the Ender 3 is nonetheless a bit of a self-referential hobby. Mine has recently been failing to print cleanly and I’ve been putting off the investigation - this weekend was time to dig in and fix it."
+    }
+  ]
+}

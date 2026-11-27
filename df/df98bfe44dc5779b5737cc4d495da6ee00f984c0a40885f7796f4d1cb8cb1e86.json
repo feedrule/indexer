@@ -1,0 +1,20 @@
+{
+  "url": "https://juliasolorzano.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://juliasolorzano.com/blog/2026/09/02/fixing-my-spanish-text-to-speech/",
+      "title": "My Spanish Writings Had a South African Accent",
+      "description": "In March I added a text-to-speech player to this site so anyone could listen to my writings instead of reading them. Last week I pressed play on one of the Spanish versions and heard something that made me wince. This is about the bug, the fix, and the uncomfortable thing it taught me about testing a bilingual site. The player had been live for five months. I was happy with it. It worked, it was a"
+    },
+    {
+      "link": "https://juliasolorzano.com/blog/2026/04/30/care-is-not-a-feature-flag/",
+      "title": "Care Is Not a Feature Flag",
+      "description": "I read a piece this week that gave language to something I had been circling for a while. Nilay Patel’s The People Do Not Yearn for Automation makes the case that the tech industry has what he calls software brain — a way of seeing the world as a series of databases that can be controlled with structured code. He argues that AI has not earned the public’s trust because people are reacting to their"
+    },
+    {
+      "link": "https://juliasolorzano.com/blog/2026/04/17/portfolio-chatbot/",
+      "title": "The Portfolio as Conversation",
+      "description": "I recently wrote about rebuilding my personal website from scratch — new framework, new design, bilingual content, accessibility-first architecture. Since then I have kept building. This is about an experiment: a chatbot that lets visitors explore my work through conversation instead of navigation. Portfolio sites have always been information architecture problems. You organize your work into sect"
+    }
+  ]
+}

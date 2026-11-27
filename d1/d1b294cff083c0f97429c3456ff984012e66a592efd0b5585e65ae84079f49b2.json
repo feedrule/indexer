@@ -1,0 +1,20 @@
+{
+  "url": "https://josh.miami/feed.xml",
+  "posts": [
+    {
+      "link": "https://josh.miami/posts/busy-bar-claude-code-and-pull-requests",
+      "title": "Claude Code and my pull requests live on my BUSY Bar now",
+      "description": "A desk gadget with an LED strip, a knob and an open HTTP API. It shows what Claude Code is doing, and after a firmware update broke that, it got a pull request app too."
+    },
+    {
+      "link": "https://josh.miami/posts/i-talk-to-claude-code-with-one-hand",
+      "title": "I talk to Claude Code with one hand",
+      "description": "A Keychron Nape Pro under my keyboard now does three jobs. The middle button talks through Wispr Flow, and M1 and M2 send Enter and Esc, which covers most of a Claude Code session."
+    },
+    {
+      "link": "https://josh.miami/posts/sisyphus-greek-pottery-roguelite",
+      "title": "I built a Greek pottery roguelite with Claude Code in a weekend",
+      "description": "Project Sisyphus went from an empty folder to a playable roguelite on my iPhone. The best design decision was noticing that programmer art and ancient vase painting are the same thing."
+    }
+  ]
+}

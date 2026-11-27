@@ -1,0 +1,20 @@
+{
+  "url": "https://hulkvision.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://hulkvision.github.io/blog/android-notification-dos/android-notification-dos/",
+      "title": "Android Notification DoS: When a GIF Crashes Your Phone (CVE-2025-48631 Incomplete Fix)",
+      "description": "CVE-2025-48631 was marked as fixed in Android's December 2025 bulletin — but the fix was incomplete. Here's how I found the bypass."
+    },
+    {
+      "link": "https://hulkvision.github.io/blog/javascript-interface/exploiting-javascript-interface/",
+      "title": "Exploiting JavaScript Interface for Unauthorized Access in a 'global' cryptocurrency exchange android app",
+      "description": "How I exploited an exposed JavaScript interface in a major crypto exchange's Android app to perform authenticated actions like placing trades and deactivating accounts."
+    },
+    {
+      "link": "https://hulkvision.github.io/blog/post1/",
+      "title": "RCE in Adobe Acrobat Reader for android(CVE-2021-40724)",
+      "description": "Path traversal + dynamic code loading in Adobe Acrobat Reader for Android led to remote code execution (CVE-2021-40724)."
+    }
+  ]
+}

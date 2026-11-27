@@ -1,0 +1,20 @@
+{
+  "url": "https://coey.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://coey.dev/c4",
+      "title": "c4",
+      "description": "A benchmark for hand: LLM agents played Connect 4 against me in a real browser, at 20.7 s and $0.022 a move, and lost every game they finished. The 80-line solver that graded them plays in under a second for nothing. Play it, and watch two solvers play each other."
+    },
+    {
+      "link": "https://coey.dev/domain-first",
+      "title": "Domain first",
+      "description": "I wrote what accrete's tools are allowed to do as one Alchemy Domain model. Then I ran the same file in memory, on Cloudflare Durable Objects, and on Effect Cluster with Postgres, and called it from a Foldkit button. 20 agents, three hosts, one build every time."
+    },
+    {
+      "link": "https://coey.dev/write-the-system",
+      "title": "Let the model write the system",
+      "description": "Don't make the AI do 500 jobs. Make it write the code once. It was 24 times cheaper and got more right."
+    }
+  ]
+}

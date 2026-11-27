@@ -1,0 +1,20 @@
+{
+  "url": "https://mastransky.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://mastransky.wordpress.com/2026/03/20/firefox-gtk-emoji-picker/",
+      "title": "Firefox & Gtk Emoji picker",
+      "description": "After nearly three years of development (it takes time to make up one’s mind) Firefox for Linux users can now enjoy seamless emoji insertion using the native GTK emoji chooser. This long-requested feature, implemented inFirefox 150 (recent Beta), brings a more integrated experience for Linux users who want to add emojis to their web content. Continue reading \"Firefox & Gtk Emoji picker\""
+    },
+    {
+      "link": "https://mastransky.wordpress.com/2026/01/23/firefox-linux-in-2025/",
+      "title": "Firefox & Linux in 2025",
+      "description": "Last year brought a wealth of new features and fixes to Firefox on Linux. Besides numerous improvements and bug fixes, I want to highlight some major achievements: HDR video playback support, reworked rendering for fractionally scaled displays, and asynchronous rendering implementation. All this progress was enabled by advances in the Wayland compositor ecosystem, with new Continue reading \"Firefo"
+    },
+    {
+      "link": "https://mastransky.wordpress.com/2024/03/19/firefox-124-supports-gnome-titlebar-actions/",
+      "title": "Firefox 124 supports GNOME titlebar actions",
+      "description": "On GNOME Firefox runs with disabled system titlebar by default. It saves horizontal space on wide screens but also removes control over window, traditionally provided by Window manager and desktop environment. GNOME allows to set titlebar actions by gnome-tweaks tool, you can define window actions for double click by first mouse button, middle click and Continue reading \"Firefox 124 supports GNOME"
+    }
+  ]
+}

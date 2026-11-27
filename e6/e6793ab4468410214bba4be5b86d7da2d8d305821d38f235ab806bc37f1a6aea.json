@@ -1,0 +1,20 @@
+{
+  "url": "https://wordswords.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://wordswords.github.io/OnceYouGetToPrincipalEngineerThereIsNoGoingBack/",
+      "title": "Once you get to 'Principal Engineer' level.. there is no 'going back'.",
+      "description": "Greybeards need work too. It’s annoying that.. once you’ve reached ‘Principal Engineer’ level.. there is no going back. Hiring managers simply won’t hire you for senior or ‘mid’ level roles, thinking you are over-qualified! Even though you may well apply to those, and they may well be the best fit for you, because you realise that the tech world is so specialised, that you may be a ‘mid’ in some a"
+    },
+    {
+      "link": "https://wordswords.github.io/BackupSituationResolved/",
+      "title": "Alternative Backup Situation Implemented",
+      "description": "Backups should be future-proof. Very happy to report that my ‘backup box’ has successfully transferred the whole 2.4TB borg backup archive of the crucial files on my homelab server and entire home network, after it was deduped and encrypted, over rsync over the electric circuit in my rented house via powerline adaptors."
+    },
+    {
+      "link": "https://wordswords.github.io/UpdatesToBlogs/",
+      "title": "Nov 2026 Updates to Blogs",
+      "description": "I have spent some time working on changes to improve the blogging theme and associated infrastructure that I use to maintain my blogs. With Deepseek + the Pi coding harness, it is easy to get things working exactly how I want them to, with minimal effort. I have made a number of changes, including separating each blog into 1) the Hugo content 2) the standard PaperMod-dpc theme and 3) PaperMod-dpc-"
+    }
+  ]
+}

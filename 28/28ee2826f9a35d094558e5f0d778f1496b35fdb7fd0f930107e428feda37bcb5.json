@@ -1,0 +1,20 @@
+{
+  "url": "https://book.rymcg.tech/index.xml",
+  "posts": [
+    {
+      "link": "https://book.rymcg.tech/blog/linux/boomstick/",
+      "title": "BOOMSTICK (for Arch Linux)",
+      "description": "Reinstalling Linux on a headless PC or a Raspberry Pi with the official installer can be a tedious affair. I would much rather drive the installation of a new workstation or server from the comfort of my existing workstation, where my editor is already set up the way I like it, and where I can safely keep notes and configs about the process. But before the target machine will accept a remote login"
+    },
+    {
+      "link": "https://book.rymcg.tech/blog/linux/nixos-lxc-nas/",
+      "title": "NixOS VMs part 5: A NixOS NAS in a Proxmox LXC container",
+      "description": "This is part 5 of a series on nixos-vm-template: Running code agents in an immutable NixOS VM Bootstrapping a Docker server with immutable NixOS on Proxmox Mutable VMs are cool too Managing VMs with home-manager and sway-home A NixOS NAS in a Proxmox LXC container (this post) Every post in this series so far has been about virtual machines - libvirt on a laptop, KVM on Proxmox, immutable or mutabl"
+    },
+    {
+      "link": "https://book.rymcg.tech/blog/migration-announcement/",
+      "title": "Migrating blog.rymcg.tech into book.rymcg.tech",
+      "description": "I am moving the older blog.rymcg.tech posts into the book.rymcg.tech site. The old blog URLs will keep working, and their permalinks will be carried over to the new site structure. The goal is to keep the published paths stable while consolidating the content into one Hugo/Org project. The DNS transfer is now complete: book.rymcg.tech is live as the new home for all of this content. If you subscri"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://codebynight.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://codebynight.dev/posts/why-data-scientists-are-skeptical-of-prophet-forecasts/",
+      "title": "Why Data Scientists Keep Saying Not To Use Prophet",
+      "description": "I tested Prophet against seasonal naive and ETS on two monthly series to see why a clean forecast chart is not enough to trust the model."
+    },
+    {
+      "link": "https://codebynight.dev/posts/churn-prediction-reducing-ecommerce-churn/",
+      "title": "Churn Prediction Is Easy. Reducing E-Commerce Churn Is Hard.",
+      "description": "How to reduce e-commerce churn after building a churn prediction model. A quick and raw look at retention workflows, customer context, discounts, and what happens after the churn score."
+    },
+    {
+      "link": "https://codebynight.dev/posts/arima-is-boring-and-that-is-why-i-still-like-it/",
+      "title": "ARIMA Is Boring, and That Is Why I Still Like It",
+      "description": "ARIMA is old, limited, and a little annoying. I still like it because it makes the assumptions and uncertainty in a forecast harder to ignore."
+    }
+  ]
+}

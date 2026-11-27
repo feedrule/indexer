@@ -1,0 +1,20 @@
+{
+  "url": "https://www.polibyte.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.polibyte.com/2026/02/24/career-story/",
+      "title": "Career Story",
+      "description": "In June 2025 a coworker interviewed me for the “Career Story” section of SurveyMonkey’s internal engineering blog. I’m sharing the results below. How did you decide on a career in Engineering? Growing up, I was both a tech and politics geek. My original career goal was to work as a researcher at the intersection of the two. Throughout school, I worked a series of part-time webdev and sysadmin jobs"
+    },
+    {
+      "link": "https://www.polibyte.com/2020/08/14/pytennessee-presentation/",
+      "title": "PyTennessee 2020 Presentation",
+      "description": "I had the privilege of presenting on Migrating Applications Without Fear at PyTennessee 2020 . My pitch was: Has your application has been running happily, but now it has to move? From the datacenter to the cloud, or from one cloud provider to another? Fear not! This talk covers strategies for making applications infrastructure-agnostic and handling the organizational challenges of a migration. Yo"
+    },
+    {
+      "link": "https://www.polibyte.com/2019/02/11/reporting-is-hard/",
+      "title": "Reporting is Hard",
+      "description": "At DevOpsDays Atlanta 2018 , I presented a lightning talk on reporting for ops team. I forgot to put that online until now! Hi, I’m Brian. I work for Mozilla helping run the backend services that power parts of Firefox. I’m here to tell you why you should care about reports, why they’ve become so hard, and what you can do about it. Like most of you here, my team depends on a lot of products to get"
+    }
+  ]
+}

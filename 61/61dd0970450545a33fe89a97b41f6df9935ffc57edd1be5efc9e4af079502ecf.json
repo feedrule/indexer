@@ -1,0 +1,20 @@
+{
+  "url": "http://wtarreau.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "http://wtarreau.blogspot.com/2019/09/quick-and-clean-pcbs-for-week-end.html",
+      "title": "Quick and clean PCBs for week-end projects",
+      "description": "Abstract I started making my own PCBs at the age of 10, using a pencil on PCB. 10 years later I bought a kit with an UV table, the ferro-chloric acid tank with bubbles and heating, and presensitized copper, but found it very difficult to use for occasional week-end projects and continued to work with the pencil. With SMDs becoming more and more common, pencil is difficult to use for precision work"
+    },
+    {
+      "link": "http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html",
+      "title": "Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6",
+      "description": "Background For quite some time I had been submitting tasks to LLMs via llama-cli (natively) or llama-server (API), both from the excellent llama.cpp project . On CPU-only llama-cli starts fast and can restart from a checkpoint which has already parsed all instructions, making it reasonably fast for repetitive tasks such as classifying patches to be backported. However, with my AMD MI50 GPUs , the"
+    },
+    {
+      "link": "http://wtarreau.blogspot.com/2025/12/amd-radeon-instinct-mi50-32gb-best-ai.html",
+      "title": "AMD Radeon Instinct MI50-32GB: best AI card for beginners ?",
+      "description": "I recently stumbled upon this llama.cpp fork which supports AMD Radeon Instinct MI50-32GB cards (\"gfx906\"). That made me discover this card, and notice that some of them were amazingly cheap, around $250 used. The 16GB variant is even cheaper, around $100. I had long been watching AI-capable hardware for quite a long time, thinking about various devices (Mac Ultra, AMD's AI-Max-395+, DGX Spark etc"
+    }
+  ]
+}

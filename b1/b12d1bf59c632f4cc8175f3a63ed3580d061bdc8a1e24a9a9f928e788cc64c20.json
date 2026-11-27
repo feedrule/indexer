@@ -1,0 +1,20 @@
+{
+  "url": "https://n8z.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://n8z.dev/posts/beyond-inline-values/",
+      "title": "Beyond Inline Values: Evolving Strata's Storage Engine",
+      "description": "An architectural decision record: why Strata is moving from inline values to block-based storage."
+    },
+    {
+      "link": "https://n8z.dev/posts/keys-and-values-are-all-you-need/",
+      "title": "Keys and Values Are All You Need",
+      "description": "Bootstrapping a SQL catalog on a flat key-value store, end to end."
+    },
+    {
+      "link": "https://n8z.dev/posts/building-strata/",
+      "title": "Building strata",
+      "description": "Building my own perfectly imperfect LSM storage engine from scratch in Rust."
+    }
+  ]
+}

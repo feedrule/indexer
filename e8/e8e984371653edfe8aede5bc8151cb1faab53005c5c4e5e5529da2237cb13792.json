@@ -1,0 +1,20 @@
+{
+  "url": "https://kbr.sh/rss/",
+  "posts": [
+    {
+      "link": "https://kbr.sh/blogmark/2026/Nov/23/all-code-is-slop-except-mine-lauren-tan-spacexsi/#atom-everything",
+      "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+      "description": "Interesting tidbits from Lauren’s talk on how they build Grokbot: - 70% of tokens of Grok devs is going to verification - runtime verification is very important - models often justify what they did with comments and Lauren created /no-comments in her pstack (https://github.com/cursor/plugins) to battle against models doing that - “feature map” is fascinating usage to help direct the models - using"
+    },
+    {
+      "link": "https://kbr.sh/blogmark/2026/Nov/21/the-end-of-the-beginning/#atom-everything",
+      "title": "The end of the beginning",
+      "description": "Thinking about Anthropic, it’s strange to imagine a product as profound and pathbreaking as Claude to be “merely” its Apple II. Yet that’s surely correct. This sentiment feels right. We’re just at the beginning. It feels a little bit like slowly and then all at once, with the progress of AI. But there’s a lot more to explore. A lot."
+    },
+    {
+      "link": "https://kbr.sh/post/2026/Nov/7/its-the-little-things/#atom-everything",
+      "title": "It's the little things",
+      "description": "Maybe it's okay that we have agents now. The interesting hard part about programming, where you'd get in a flow state and stay there, keeping the problem in your head for hours, I think that time is gone. But I think what's more interesting is that now we can be more ambitious. And really drill down on things we want to. Even things we don't know, we can use the agent to help us learn about them a"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://andreimaxim.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://andreimaxim.com/posts/adding-simplecov-to-rails/",
+      "title": "Adding SimpleCov to Rails",
+      "description": "How to properly configure SimpleCov for Rails apps using parallel test runners to get accurate coverage reports."
+    },
+    {
+      "link": "https://andreimaxim.com/posts/alternatives-to-ruby-classes/",
+      "title": "Alternatives to Ruby classes",
+      "description": "A discussion about classitis in Ruby programs and why fewer classes can lead to clearer designs."
+    },
+    {
+      "link": "https://andreimaxim.com/posts/benchmarking-with-ruby-on-rails/",
+      "title": "Benchmarking with Ruby on Rails",
+      "description": "A quick walkthrough of using Rails benchmarks to compare Markdown parsers like Redcarpet, Commonmarker, and Kramdown."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://racket-raccoon.github.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://racket-raccoon.github.io/ebb-threading/",
+      "title": "Same Threading Syntax but Less Allocation",
+      "description": "This is a small braindump on why you might want to use ebb/threading as a drop-in replacement for threading-lib . Same familiar ~> shape, but with ebb/forms it can avoid some intermediate list allocation."
+    },
+    {
+      "link": "https://racket-raccoon.github.io/leetcode-top-k-frequent-elements/",
+      "title": "Leetcode #347: Top K Frequent Elements",
+      "description": "Just finished \"Top K Frequent Elements\" and wanted to write down my thought process while it is still fresh. I also use this blog as a quick reference, so I wanted to add some notes on data/heap to my little cheatsheet."
+    },
+    {
+      "link": "https://racket-raccoon.github.io/gamedev-math-trig/",
+      "title": "Math for Gamedev 101: Trigonometry",
+      "description": "This is part two of the \"Math for Gamedev 101\" series. You can read part one here: Math for Gamedev 101: Vectors . As before, these are my notes from Simon's course on Math for Game Developers . This part is dedicated to basic trigonometry. The first GIF is from the Wikipedia article on radians , and the second one was generated with ImageMagick from this Racket snippet ."
+    }
+  ]
+}

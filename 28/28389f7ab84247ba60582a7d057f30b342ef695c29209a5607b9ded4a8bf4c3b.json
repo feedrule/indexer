@@ -1,0 +1,20 @@
+{
+  "url": "https://www.rdatagen.net/index.xml",
+  "posts": [
+    {
+      "link": "https://www.rdatagen.net/post/2026-03-31-centering-binary-predictors-can-improve-bayesian-computation/",
+      "title": "Same model, better shape: why centering improves MCMC",
+      "description": "The Emergency departments leading the transformation of Alzheimer’s and dementia care (ED-LEAD) study, which I have written about in the past , is approaching the end of its third year. This multifactorial design evaluates three independent, yet potentially synergistic, interventions aimed at improving care for persons living with dementia (PLWD) and their caregivers. To estimate intervention effe"
+    },
+    {
+      "link": "https://www.rdatagen.net/post/2026-03-18-getting-to-the-bottom-of-tmle-targeting-in-action/",
+      "title": "Getting to the bottom of TMLE: targeting in action",
+      "description": "In the previous post , I worked my way through some key elements of TMLE theory as I try to understand how it all works. At its essence, TMLE is focused on getting the efficient influence function (EIF) to behave properly. When that happens, the estimator of the target parameter behaves as if it were based on a random sample from the true data-generating distribution. Estimating the outcome and tr"
+    },
+    {
+      "link": "https://www.rdatagen.net/post/2026-03-10-getting-to-the-bottom-of-tmle-2/",
+      "title": "Getting to the bottom of TMLE: forcing the target to behave",
+      "description": "In the last couple of posts ( starting here ), I’ve tried to unpack some of the ideas that sit underneath TMLE: viewing parameters as functionals of a distribution, thinking about sampling as a perturbation, and understanding how influence functions describe the leading behavior of estimation error. In the second post , I showed through simulation how errors in nuisance estimation can interact wit"
+    }
+  ]
+}

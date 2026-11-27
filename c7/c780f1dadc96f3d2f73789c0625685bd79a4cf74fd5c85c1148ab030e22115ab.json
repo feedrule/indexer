@@ -1,0 +1,20 @@
+{
+  "url": "https://redwallanalytics.com/index.xml",
+  "posts": [
+    {
+      "link": "https://redwallanalytics.com/posts/2026-04-19-a-data-driven-survey-of-mlb-franchise-management/",
+      "title": "A Data-Driven Survey of MLB Franchise Management",
+      "description": "Note This article brings the MLB franchise analysis onto the main Redwall Analytics site using the published narrative and chart assets from the standalone MLB franchise analysis microsite . The full reproducible pipeline still lives in the companion GitHub repository , where the charts are generated from {lahmanTools} , DuckDB, and supporting baseball data. Using {lahmanTools} and the MotherDuck"
+    },
+    {
+      "link": "https://redwallanalytics.com/posts/2023-04-22-thoughts-on-work-live-ride-using-greenwich-ct-parcel-data/",
+      "title": "Amateur Urbanist Critique of Work-Live-Ride using 360k Fairfield County Parcels",
+      "description": "MetroNorth New Haven Line Stations Introduction Connecticut has long had some of the highest income and home prices in the US. Although home prices have trailed national rate of appreciation in recent decades, from a high starting point, housing has gotten a lot more expensive in absolute terms and is still out of reach for too many. High housing costs have constrained population growth in many to"
+    },
+    {
+      "link": "https://redwallanalytics.com/posts/2023-02-22-nyed-data-explorer-shows-15-years-of-charter-school-success/",
+      "title": "NYED Data Explorer Shows 15 Years of Charter School Success",
+      "description": "NYED Data Explorer filtered for “All Students” ELA Aggregated Annual Test Scores Introduction Three years ago, in the course of building personal projects in R using public data from Connecticut, I wrote How Does Stamford Charter School for Excellence do it? . “Stamford Excellence” was achieving remarkable results in a district with proficiency below 50%. Then and now, the school receives little r"
+    }
+  ]
+}

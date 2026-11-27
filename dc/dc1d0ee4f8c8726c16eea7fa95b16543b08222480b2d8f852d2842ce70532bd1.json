@@ -1,0 +1,20 @@
+{
+  "url": "https://stevezeidner.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://stevezeidner.com/blog/mac-classic-restoration/",
+      "title": "Restoring a 1990 Macintosh Classic",
+      "description": "I grabbed a 1990 Macintosh Classic for $25 at an auction, but it only booted to a checkerboard screen and sat on a shelf for years. Here's how I finally got it up and running for real."
+    },
+    {
+      "link": "https://stevezeidner.com/blog/load-android-fragments-asynchronously/",
+      "title": "Load Android Fragments Asynchronously",
+      "description": "If you are like me, you may occasionally receive design requests to build a more complex screen in an Android app. So, you set about building the layout, making it look just like the design mocks, and everything works great, except for one small problem. Animating to that screen…"
+    },
+    {
+      "link": "https://stevezeidner.com/blog/cloud-backups-synology/",
+      "title": "Cloud Backups for a Synology",
+      "description": "I have a Synology DS415+ that performs wonderfully as a NAS. It's used mostly as a place for shared content, Time Machine backups and redundancy of video data. It's great to have 16TB of available network storage, but there are limited options for a cost-effective cloud backup of…"
+    }
+  ]
+}

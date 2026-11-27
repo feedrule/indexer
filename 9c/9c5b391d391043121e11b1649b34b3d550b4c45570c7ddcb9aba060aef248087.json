@@ -1,0 +1,20 @@
+{
+  "url": "https://onbreakpoint.com/index.xml",
+  "posts": [
+    {
+      "link": "https://onbreakpoint.com/macos-setup/",
+      "title": "How I set up macOS for Programming",
+      "description": "How I set up macOS for Programming Install Homebrew : /bin/bash -c \" $( curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh ) \" Install these utilities: brew install neovim \\ fish \\ fnm \\ fzf \\ fd \\ bat \\ tokei \\ rg \\ yazi \\ stow \\ exiftool \\ jq \\ gh \\ git-lfs \\ btop \\ ffmpeg-full \\ imagemagick \\ font-symbols-only-nerd-font \\ poppler \\ yt-dlp brew install --cask ghostty \\"
+    },
+    {
+      "link": "https://onbreakpoint.com/essays/code-vs-prose/",
+      "title": "Writing Code vs. Writing Prose",
+      "description": "Writing Code vs. Writing Prose Programming languages were developed because natural language isn’t adequate to communicate instructions to computers. Unlike natural language, programming languages have strong composability: you can take a line of code and start putting things into it or removing things from it to drastically change its meaning. Doing that with natural language is also possible, bu"
+    },
+    {
+      "link": "https://onbreakpoint.com/essays/ideas-for-tooling-in-education/",
+      "title": "Ideas for Tooling in Education",
+      "description": "Ideas for Tooling in Education I’ve found that some of the most useful writing on AI is that of the kind that goes “Here’s how I use AI/LLMs/ChatGPT as an X” where X is usually a programmer or a researcher of some kind. Simon Willison, for example, has a series called How I use LLMs and ChatGPT that gives you a decent picture of where AI is actually useful, instead of having to take someone’s word"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ecostack.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://ecostack.dev/posts/uptrace-clickhouse-diagnostic-logs-disk-usage/",
+      "title": "How ClickHouse Diagnostic Logs Filled My Uptrace Server",
+      "description": "My self-hosted Uptrace server had used 96 GiB of a 154 GiB root filesystem. Uptrace was configured to retain project data for 28 days, so I expected old telemetry to disappear. Instead, ClickHouse’s own diagnostic tables had grown to 79.1 GiB. The Uptrace application tables occupied just 1.19 GiB. After removing fully expired diagnostic partitions and limiting new diagnostic data, the filesystem u"
+    },
+    {
+      "link": "https://ecostack.dev/posts/witcher-3-switch-pc-save-converter/",
+      "title": "Reverse-engineering The Witcher 3 saves between Nintendo Switch and PC",
+      "description": "Moving a The Witcher 3: Wild Hunt save between Nintendo Switch and PC sounds as though it should be a simple file-copying exercise. Both versions describe the same game state, and CD PROJEKT RED even provides an official cross-progression system. But a raw manual save exported from a Switch does not have the same outer format - or even the same filename - as its PC counterpart. I compared genuine"
+    },
+    {
+      "link": "https://ecostack.dev/posts/postgres-idle-connections-after-deployments/",
+      "title": "PostgreSQL: Preventing Idle Connections From Accumulating After Deployments",
+      "description": "The problem # Last week, our PostgreSQL database started running out of connections. The connection limit was 100, but after a day or so the application could no longer open a new connection. When PostgreSQL returned a too many connections error, both production and the worker stopped working. The confusing part was that the application pool was configured with a much smaller number of connections"
+    }
+  ]
+}

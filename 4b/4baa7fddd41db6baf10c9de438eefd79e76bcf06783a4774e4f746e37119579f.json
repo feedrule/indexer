@@ -1,0 +1,20 @@
+{
+  "url": "https://samdking.co.uk/feed.xml",
+  "posts": [
+    {
+      "link": "https://samdking.co.uk/blog/2026-09-11-when-does-opinion-become-nitpick/",
+      "title": "When does an opinion become a nitpick?",
+      "description": "I was subtly linked to this blog post on Nitpicking in Code Reviews by a colleague recently. Which was all the confirmation I needed that I can be a little OCD sometimes when it comes to code reviews. This post highlights some excellent points, reinforced by incorporating the changes as a team and it working wonders for them. TLDR: Stop nitpicking in code reviews. It’s at best noise, and at worst,"
+    },
+    {
+      "link": "https://samdking.co.uk/blog/incremental-notion-caching-in-eleventy/",
+      "title": "How I solved my over-fetching Notion problem",
+      "description": "A few years ago I wrote about bringing my Notion database to life with Eleventy . This has formed the bedrock of the data on my site. However every single build re-queried my entire journal database. Here's how I switched to an incremental cache that, in theory, never has to fetch everything again. The problem with fetching everything My weekly feed is powered by a Notion database. Every day I log"
+    },
+    {
+      "link": "https://samdking.co.uk/blog/i-was-wrong-about-ai/",
+      "title": "I was wrong about AI",
+      "description": "A little over 2 months ago I made a rather doom-mongering post on my blog titled “ AI scares me ”. This wasn’t hyperbole; I genuinely felt overwhelmed and a little defensive about the speed and extent that AI has proliferated in almost every industry. I touched on the fact AI skips the important discovery cycle. I was of the opinion that you’re no longer required to learn how to do something, you"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://velade.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://velade.org/blog/bigger-than-it-looks/",
+      "title": "Vela is bigger than it looks",
+      "description": "What has changed since 0.1, what's coming in the next few weeks, the community on Matrix and Discord, and how to help Vela without being a developer."
+    },
+    {
+      "link": "https://velade.org/blog/daily-driver/",
+      "title": "I built a Linux desktop. Then I forgot I was using it",
+      "description": "Since early October Vela has been my only desktop: work, music and games, no compositor crashes, and a few bugs that remain. Here's how it went."
+    },
+    {
+      "link": "https://velade.org/blog/not-vibecoding/",
+      "title": "Vela isn’t vibecoding",
+      "description": "AI writes 100% of Vela’s code, but not its decisions: design documents, a chain of reviews and product choices, with the Bluetooth story as an example."
+    }
+  ]
+}

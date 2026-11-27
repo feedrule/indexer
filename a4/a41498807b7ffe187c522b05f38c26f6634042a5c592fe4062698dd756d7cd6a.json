@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thiagolira.com.br/feed.rss",
+  "posts": [
+    {
+      "link": "https://blog.thiagolira.com.br/fractetris",
+      "title": "Fractetris",
+      "description": "What if you played Game Boy Tetris, but every single pixel of the screen was also playing Tetris? Fractetris is a port of the original Game Boy Tetris (reimplemented in C from the community disassemblies — the real gravity tables, the real RNG with its weird reroll quirk, DAS timings and all) compiled to WebAssembly. You play it normally with the keyboard. But the screen you’re looking at is rende"
+    },
+    {
+      "link": "https://blog.thiagolira.com.br/i-got-so-mad-at-poke-rogue-like-that-i-trained-a-rl-agent-to-beat-it-for-me",
+      "title": "I got so mad at poke(rogue)like that I trained a RL agent to beat it for me",
+      "description": "I got so mad at poke(rogue)like that I trained a RL agent to beat it for me What I said on the title. After hundreds of attempts I gave up and to try to salvage my sanity and not seem like a failure at an easier version of a kids game, I got to work. By the way, you can play the game on https://pokelike.xyz/ , it’s pretty cool! And Frustrating!! Reinforcement Learning seemed like a natural choice:"
+    },
+    {
+      "link": "https://blog.thiagolira.com.br/gb-ts-a-game-boy-emulator-in-typescript",
+      "title": "gb-ts: A Game Boy Emulator in TypeScript",
+      "description": "I have always wanted to write an emulator from scratch. There is something deeply satisfying about implementing a CPU instruction by instruction until a real program starts running on your fake hardware. gb-ts is a Game Boy emulator written entirely in TypeScript that runs in the browser. It currently boots the Nintendo logo and can run some simple ROMs. The CPU , memory bus, PPU (pixel processing"
+    }
+  ]
+}

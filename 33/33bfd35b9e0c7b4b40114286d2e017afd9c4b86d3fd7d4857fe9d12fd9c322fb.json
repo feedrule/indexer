@@ -1,0 +1,20 @@
+{
+  "url": "https://egeek.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://egeek.me/2026/04/30/verifying-mikrotiks-ssh-host-key/",
+      "title": "Verifying mikrotik's ssh host key",
+      "description": "Mikrotik’s RouterOS only supported RSA SSH keys for a long time, however modern firmware versions do support ed25519 keys. I decided to upgrade the old rsa key to a newer ed25519 one. After that, connecting via ssh obviously displayed a warning to verify the server’s host key: $ ssh -T mkrouter The authenticity of host '[192.168.1.1]:2345 ([192.168.1.1]:2345)' can ' t be established. ED25519 key f"
+    },
+    {
+      "link": "https://egeek.me/2026/03/29/expanding-backblazes-transactions-with-tridactyl/",
+      "title": "Expanding backblaze's transactions with tridactyl",
+      "description": "It’s a good idea to save data and/or receipts for the services you’re using periodically, just in case. Most websites allow the user to export his/her data in a readable format, however Backblaze’s does not. I want to keep copies of the billing receipts locally. There is a webpage that shows the usage and pricing per month in a given year: https://secure.backblaze.com/billing_card.htm . But a lot"
+    },
+    {
+      "link": "https://egeek.me/2026/02/08/opening-ct-scan-from-ez3d-plus-in-romexis-viewer/",
+      "title": "Opening CT scan from Ez3D Plus in Romexis Viewer",
+      "description": "I’ve had 2 dental CT scans recently, from different scanner manufacturers and with the results opening in 2 different programs. One was Romexis Viewer and the other was Ez3D Plus. Planmeca Romexis Viewer (I have 5.2.1.R) is better because it has a native macos version, available on the flash drive with the scan results and windows version. Compared to that, Ez3D Plus 3D CDViewer (1.2.6.20) is only"
+    }
+  ]
+}

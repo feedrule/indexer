@@ -1,0 +1,20 @@
+{
+  "url": "https://www.tjwason.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://tjwason.com/blog/the-plan-is-not-the-prompt",
+      "title": "The Plan Is Not the Prompt",
+      "description": "Long-running agents crash because the plan lives inside the model's head, which forgets. Move it into deterministic code, the outside plan, and treat the agent like dice on a boring table: replayable, scalable, and crash-proof."
+    },
+    {
+      "link": "https://tjwason.com/blog/boring-enough-to-ignore",
+      "title": "Boring Enough to Ignore",
+      "description": "You don't flow with a compiler because you watch it well. You flow because you stopped watching it. The craft of running agents is making their work boring enough to ignore."
+    },
+    {
+      "link": "https://tjwason.com/blog/the-hand-trained-the-eye",
+      "title": "The Hand Trained the Eye",
+      "description": "We are automating the making and keeping the judging, on the assumption that judgment survives without the making. It doesn't, and the eye that only reviews starts grading the wrong thing."
+    }
+  ]
+}

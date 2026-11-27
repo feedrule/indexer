@@ -1,0 +1,20 @@
+{
+  "url": "https://mburaksayici.com/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Engineers Are 10x Faster with AI, Why Aren’t We Seeing 10x More SaaS?",
+      "description": "No AI used in this post. Other posts may contain up to 10% AI assistance."
+    },
+    {
+      "link": null,
+      "title": "How to design a RAG System : A Boilerplate",
+      "description": "🎥 Watch the demo on Vimeo GitHub Link A RAG system that is : Chunking with propositional model + late chunking, and simple recursive overlap retrieval Using Qdrant as a Vector DB, utilising its hybrid search (BM25 + Dense Search) Reranks via LLMs Using query enhancement agent via LLMs Using crewAI for conversation+retrieval agent Allows you to chat with data Dividing conversations into sessions, s"
+    },
+    {
+      "link": null,
+      "title": "Clever Chunking Methods Aren’t (Always) Worth the Effort",
+      "description": "I was reading about fancy chunking strategies on RAG systems. There are endless ways of chunking which most of them makes sense. Reading through it, I’ve even seen technical blog posts/papers that mentions 25 ways of chunking?!? Then I realised it’s not about the fanciness of the methods but how much performance you gain by an effort. Lots of readings/podcasts of Frank Liu (former CTO of Zillus, n"
+    }
+  ]
+}

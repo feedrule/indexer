@@ -1,0 +1,20 @@
+{
+  "url": "https://www.leggetter.co.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.leggetter.co.uk/blog/keep-coding-agent-context-small",
+      "title": "Keeping a Coding Agent's Context Small Between Pieces of Work",
+      "description": "Most days I have a lot of Claude Code sessions running at once, spread over several terminal windows and working in different repos. With that many on the go, it gets hard to see which ones are waiting on me, and what each one is actually doing. That's why I'm building pitwall , \"the pit wall for your Claude Code sessions\". (The name comes from Formula 1, where the team on the pit wall doesn't dri"
+    },
+    {
+      "link": "https://www.leggetter.co.uk/blog/agent-evals-developers-can-trust",
+      "title": "How to Publish Agent Evals Developers Can Trust",
+      "description": "If you ship a developer tool, whether that's an API, a framework, a database or a CLI, agents are already doing some of the work of integrating it, and they may end up doing most of it. That makes an agent a first-class customer of whatever you build, and how well it does depends on how much sense your product makes to a model. Developer platforms have started measuring how well agents cope with t"
+    },
+    {
+      "link": "https://www.leggetter.co.uk/blog/mcp-tool-rename-breaking-change",
+      "title": "Is Renaming an MCP Tool a Breaking Change?",
+      "description": "In July I was at the WeAreDevelopers World Congress in Berlin, where I watched Adam Bird , CEO and co-founder of Cronofy , give a talk called \"Building APIs for Agents vs Systems. Is MCP the answer?\" . Last week I was reshaping the MCP server in the Hookdeck CLI , and part of that work renames a batch of tools to give them a proper namespace prefix and changes some parameters. From an API perspect"
+    }
+  ]
+}

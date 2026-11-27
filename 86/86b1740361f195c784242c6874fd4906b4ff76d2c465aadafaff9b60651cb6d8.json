@@ -1,0 +1,20 @@
+{
+  "url": "https://haryachyy.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://haryachyy.wordpress.com/2026/11/06/sfdp-vpp-stateful-data-plane/",
+      "title": "SFDP: VPP’s Stateful Data Plane",
+      "description": "Every firewall, NAT or load balancer built on VPP needs the same plumbing: a connection table, timers, and handoff between workers. FD.io VPP now ships it as SFDP, the StateFul Data Plane, so you write only what makes your function … Continue reading →"
+    },
+    {
+      "link": "https://haryachyy.wordpress.com/2026/10/17/vpp-acl-plugin-at-scale-100k-entries-in-one-acl-vs-100k-acls/",
+      "title": "VPP ACL Plugin at Scale: 100K Entries in One ACL vs 100K ACLs",
+      "description": "The VPP ACL plugin matches packets with a hash-based TupleMerge lookup, so a lookup does not slow down much as an ACL grows. Changing the rules is a different story. I wanted to know how long VPP takes to absorb … Continue reading →"
+    },
+    {
+      "link": "https://haryachyy.wordpress.com/2026/10/12/how-numa-tripled-vpps-packet-rate-on-amd-epyc/",
+      "title": "How NUMA Tripled VPP’s Packet Rate on AMD EPYC",
+      "description": "I run an FD.io VPP data plane with an ACL filter plugin on a 64-core AMD EPYC 9534. Six 100G and 200G links load it with 64-byte packets. With 62 worker threads VPP dropped only 148 Mpps; with 32 workers … Continue reading →"
+    }
+  ]
+}

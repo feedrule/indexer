@@ -1,0 +1,20 @@
+{
+  "url": "https://julesbelveze.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://julesbelveze.github.io/the-model-had-the-answer/",
+      "title": "This model knows the answer. It just can’t stop thinking.",
+      "description": "A 0.8B reasoning model scores 8% on MATH-500, and a lot of the time the right answer is sitting in its own scratchpad. It just never stops thinking. Two weeks ago an AI agent got it to 48% by editing its weights. I spent a few days on why it loops, and got to about 50% by ending the thinking for it."
+    },
+    {
+      "link": "https://julesbelveze.github.io/one-linear-layer-broke-my-int8-encoder/",
+      "title": "One Linear layer broke my INT8 encoder",
+      "description": "I tried to make a small encoder cheaper to serve. One projection broke the INT8 conversion; batching made the recovery more complicated than its score suggested."
+    },
+    {
+      "link": "https://julesbelveze.github.io/zero-shot-plateau/",
+      "title": "The Zero-Shot Plateau",
+      "description": "My last post made a narrow claim: on a classification taxonomy of my own, a fine-tuned encoder beats the zero-shot “decision models” everyone shipped this autumn by about 30 macro-F1 points, at a fraction of the cost. Four fair objections came up, all some version of “you went easy on the zero-shot side”: Use a bigger or better zero-shot model. Fine-tune the decision model, then. Escalate the hard"
+    }
+  ]
+}

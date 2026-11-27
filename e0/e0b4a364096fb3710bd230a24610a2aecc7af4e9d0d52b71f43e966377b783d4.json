@@ -1,0 +1,20 @@
+{
+  "url": "https://renderling.xyz/atom.xml",
+  "posts": [
+    {
+      "link": "https://renderling.xyz/news/index.html#thu-01-oct-2026",
+      "title": "Renderling News - Thu 01 Oct, 2026",
+      "description": "wgsl-rs beta released on crates.io I finished all three milestones and then some to bring wgsl-rs to beta. It's not up on crates.io . Read the release retro article for details . More renderling manual articles I've added a number of articles to the manual : Shadow mapping Materials and textures Post-processing Debug modes Scene hierarchy Animation Performance"
+    },
+    {
+      "link": "https://renderling.xyz/articles/wgsl-rs-beta-release.html",
+      "title": "Beta wgsl-rs on crates.io",
+      "description": "wgsl-rs beta release retro wgsl-rs is released! Wow! So much work went into this beta release. It's been the most organized project I've ever attempted, and I think that shows in the beta project board . If you're interested in what wgsl-rs is, see the github repo https://github.com/schell/wgsl-rs , or the previous article Introducing wgsl-rs . Life events Looking back, wgsl-rs was definitely a bi"
+    },
+    {
+      "link": "https://renderling.xyz/news/index.html#fri-29-may-2026",
+      "title": "Renderling News - Fri 29 May, 2026",
+      "description": "First wgsl-rs milestone complete The first milestone for [ wgsl-rs ] is done! It was actually done a while ago, but I've been lagging writing this update. The library now covers the full WGSL vocabulary and has shipped several major other features: Generics! The initial generics implementation landed , allowing WGSL functions and types to be parameterized. This was a tricky feature, and I had a lo"
+    }
+  ]
+}

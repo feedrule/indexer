@@ -1,0 +1,20 @@
+{
+  "url": "https://www.chadduffey.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.chadduffey.com/windows/windbg/security/2026/11/23/debugger-quits-before-stage.html",
+      "title": "It quits under WinDbg. What did it check?",
+      "description": "Nothing new in this post, but I wanted to try this for myself and kept notes along the way. In this lab, the EXE runs from PowerShell, but quits in WinDbg before doing the interesting bit. The tl;dr: this app uses two common debugger checks, IsDebuggerPresent and CheckRemoteDebuggerPresent . Examples from real malware: Cisco Talos found IsDebuggerPresent and CheckRemoteDebuggerPresent in an Octobe"
+    },
+    {
+      "link": "https://www.chadduffey.com/windows/powershell/windbg/2026/11/11/script-hanging.html",
+      "title": "My script is hanging after the command finished",
+      "description": "For this one, assume your script runs a command and captures the output. Normally it takes a second. This time the last progress message stays on screen for ages. The CPU looks quiet, and nothing comes back. To take a look, we’ll attach to PowerShell and find the call that hasn’t returned. Get set up You’ll need Windows 11 x64 and WinDbg . Use Windows PowerShell 5.1 , powershell.exe , for the comm"
+    },
+    {
+      "link": "https://www.chadduffey.com/windows/windbg/2026/11/04/service-stuck-stopping.html",
+      "title": "The service is stuck stopping. What is it actually waiting for?",
+      "description": "You click Stop. The service says Stopping . You make a coffee, come back, and it’s still stopping. Task Manager says it isn’t doing much of anything. Excellent. We can probably find its PID and kill it, but before we do that… what is it actually waiting for? Windows has a bit more to tell us than the Services console lets on. We’ll deliberately break a small service so we can reproduce the failure"
+    }
+  ]
+}

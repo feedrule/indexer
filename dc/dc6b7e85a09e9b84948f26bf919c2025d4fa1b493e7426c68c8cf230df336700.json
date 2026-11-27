@@ -1,0 +1,20 @@
+{
+  "url": "https://nikro.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://nikro.me/articles/professional/local-ai-october-2026/",
+      "title": "Local AI - October 2026",
+      "description": "TL;DR: local inference (running AI models on your own hardware) is still worth it, and cheap to run. Small models are where this is going. But a model running on your own machine isn't automatically a model you can trust - so watch what your agents do (the actions they take), not only what they say . And Flint-40B is a fun, slightly weird model. Details below 👇 Why Run Models At Home? 🏠 Same reaso"
+    },
+    {
+      "link": "https://nikro.me/articles/professional/nichebench-harness/",
+      "title": "Nichebench: the harness",
+      "description": "So, Where Have I Been? 🧭 It's been about 10 months (!) since the last article. Most of that time went into my work at Dropsolid as an AI Product Architect . I've participated in the design, building, and maintaining the AI infrastructure : inference, models, guardrails, tracing, vector stores, and their integrations with Drupal. Quite a few moving parts - plus, some participation in the Drupal AI"
+    },
+    {
+      "link": "https://nikro.me/articles/professional/nichebench-new-models/",
+      "title": "Nichebench + New models",
+      "description": "See the original article on Nichebench and how we spent some credits and figured out how well do the models perform in the Drupal field. New models In the last 2-3 months more models appeared on the radar, and some were very very interesting: Kimi K2 Thinking (latest-latest) - 1T Params (32B active) Kimi K2 Instruct 0905 - 1T Params (32B active) Kimi Linear - 48B (3B active) GLM 4.6 - 355B (32B ac"
+    }
+  ]
+}

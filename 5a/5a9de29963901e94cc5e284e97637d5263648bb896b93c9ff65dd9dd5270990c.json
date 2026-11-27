@@ -1,0 +1,20 @@
+{
+  "url": "https://www.christopherburg.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.christopherburg.com/blog/my-e-reader-setup-mk-ii/",
+      "title": "My E-Reader Setup (Mk II)",
+      "description": "This is an update to my original post about my e-reader setup . Since I wrote that, I experienced major performance issues with AnnotationSync . The issues aren't consistent and impact functions beyond syncing data. When the AnnotationSync plugin is installed and enabled in KOReader on some of my devices (this issue doesn't manifest on my laptop or Boox Palma 2), things like bringing up the top or"
+    },
+    {
+      "link": "https://www.christopherburg.com/blog/my-e-reader-setup-mk-i/",
+      "title": "My E-Reader Setup (Mk I)",
+      "description": "I had to make changes to my e-reader setup and noted the changes in this post . Please see that post for my current setup, which performs much better. I was a huge fan of the Amazon Kindle when it came out. E-Paper was a game changed for reading documents on electronic devices. Amazon also did an excellent job with its Kindle bookstore. However, as with all things technology, enshittification even"
+    },
+    {
+      "link": "https://www.christopherburg.com/blog/why-i-don-t-vote/",
+      "title": "Why I Don't Vote",
+      "description": "Today is the midterm elections here in the United States. Between the incessant commercials on TV, ads on websites, and spam text messages from campaigns, it's impossible to miss it. If you believe the propaganda, this election, like every previous election, is the most important election of our lifetime. Based on the number of cars I saw parked by polling places on my way to work, voter turnout t"
+    }
+  ]
+}

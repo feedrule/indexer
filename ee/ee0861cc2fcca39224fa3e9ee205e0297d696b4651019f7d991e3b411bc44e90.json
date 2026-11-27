@@ -1,0 +1,20 @@
+{
+  "url": "https://andreasthinks.me/index.xml",
+  "posts": [
+    {
+      "link": "https://andreasthinks.me/posts/siu-research-releases/",
+      "title": "Thank God for the FOI Act: Strategic Insight Unit releases in the open",
+      "description": "My time in the Metropolitan Police Strategic Insight Unit (SIU) remains a career highlight. The team did (and continues to do) lots of excellent, operationally relevant and robust research, the likes of which we need plenty more of in the world. So it was an ongoing disappointment of mine that so little of the work managed to make it through the byzantine structures of Met Police hierarchy and int"
+    },
+    {
+      "link": "https://andreasthinks.me/posts/ai-tools-and-the-shape-of-commits/",
+      "title": "When fewer commits don’t mean less work",
+      "description": "I have been vibe coding a lot . Like, a lot a lot…. and it’s been leaving me feeling a bit conflicted. I’ve been committing hard, and feeling tremendously productive. But I also get this weird flash of existential dread when I catch myself furiously hitting AGAIN AGAIN AGAIN like I’m 3 Mai Tais deep at a Vegas slot machine, until I suddenly find myself staring at a codebase I’ve never seen, like s"
+    },
+    {
+      "link": "https://andreasthinks.me/posts/police-salary-explorer/",
+      "title": "UK Police Salary Explorer",
+      "description": "Code viewof selectedRanks = Inputs . checkbox ( [ \"PC National\" , \"PC Metropolitan\" , \"Sergeant\" , \"Inspector\" , \"Superintendent\" ] , { label : \"Ranks\" , value : [ \"PC National\" , \"Sergeant\" , \"Inspector\" ]} ) viewof payPoint = Inputs . radio ( [ \"Starting salary\" , \"Top of scale\" , \"Both\" ] , { label : \"Pay point\" , value : \"Starting salary\" } ) viewof realTerms = Inputs . toggle ({ label : \"Real"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thepixelary.com/rss",
+  "posts": [
+    {
+      "link": "https://blog.thepixelary.com/post/815540900759502848",
+      "title": "Why I Built My Own Camera App: Adaptive Levels",
+      "description": "Why I Built My Own Camera App : Adaptive Levels In the last post, we finally wrestled the GPU into submission and hit that buttery smooth 30 FPS at 4K. But after taking the camera out to a few different lighting scenarios, I found that sometimes it worked really well, but sometimes the image just lacked punch. I want Latent to be a point-and-shoot camera; I don’t expect the user to fiddle with exp"
+    },
+    {
+      "link": "https://blog.thepixelary.com/post/815518824971599872",
+      "title": "Why I Built My Own Camera App: 4K at 30FPS Video on Mobile",
+      "description": "Why I Built My Own Camera App: 4K at 30FPS Video on Mobile When you spend most of your life working in high-end VFX or wrangling desktop GPUs that pull 800 watts from a wall socket, you develop a certain… hubris. You start thinking, “How hard could it be to process a few megapixels on a modern smartphone?” Turns out, very hard. For comparison, a modern smartphone draws about 8 watts under load. 1%"
+    },
+    {
+      "link": "https://blog.thepixelary.com/post/815378832990289920",
+      "title": "Why I Built My Own Camera App: Color Correction",
+      "description": "Why I Built My Own Camera App : Color Correction Here’s a fun fact: light has color. Skylight is blue-ish. Incandescent light is orange-ish. Fluorescent light is… complicated. In raw sensor data, a “white” paper under sunlight might be R=1000, G=800, B=1200. Under incandescent light? R=1500, G=800, B=400. Same white paper. Completely different numbers. Our brain is extremely good at filtering out"
+    }
+  ]
+}

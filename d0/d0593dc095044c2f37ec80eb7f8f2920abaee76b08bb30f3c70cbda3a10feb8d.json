@@ -1,0 +1,20 @@
+{
+  "url": "https://viralinstruction.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://viralinstruction.com/posts/cancellation/index.html",
+      "title": "Cancellation in Julia 1.14",
+      "description": "How Julia's new cancellation system works."
+    },
+    {
+      "link": "https://viralinstruction.com/posts/aoc2025/index.html",
+      "title": "Review: Julia trimming for Advent of Code 2025",
+      "description": "Trying out trimming in Julia for AoC 2025"
+    },
+    {
+      "link": "https://viralinstruction.com/posts/borrowchecker/index.html",
+      "title": "The borrowchecker is what I like the least about Rust",
+      "description": "Rust's borrowchecker comes with real downsides"
+    }
+  ]
+}

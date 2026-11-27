@@ -1,0 +1,20 @@
+{
+  "url": "https://miku86.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://miku86.com/2026-10-07/",
+      "title": "More personal implemetations",
+      "description": "in my experience, cost of implementation went down a lot through AI coding - from hours to minutes. So I guess we will see way more personal, custom implementations. Quality will probably decrease: less thinking about architecture and maintainability, but speed and customization will increase. Choose what you need."
+    },
+    {
+      "link": "https://miku86.com/2026-09-17/",
+      "title": "1 week projects: ultracycling track viewer",
+      "description": "My first project is a track viewer for my (ultra-)cycling rides. You can see it live: https://tracks.miku86.com/ . Purpose (Why?) Over the past few years, I’ve gone on quite a few bike rides — according to my tracking app, I’ve logged 297 rides so far. This got me wondering where exactly I’ve ridden so far. So I developed a very simple app where I store my GPX tracks in a folder, and it then visua"
+    },
+    {
+      "link": "https://miku86.com/2026-09-06/",
+      "title": "1 week projects",
+      "description": "I've started to revive my \"1 week projects\"-project. Scratching my own itches, I'll build small applications to solve my own problems. Because code nowadays is nearly free, I will have enough free time to actually build the projects. The only constraint is that I will only invest roughly 1 week to build each application. I will use opencode and openspec so that slop will be small, or let's say not"
+    }
+  ]
+}

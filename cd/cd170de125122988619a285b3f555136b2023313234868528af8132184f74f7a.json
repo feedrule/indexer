@@ -1,0 +1,20 @@
+{
+  "url": "https://es3n1n.eu/rss.xml",
+  "posts": [
+    {
+      "link": "https://es3n1n.eu/posts/sekaictf-2026-infra-writeup/",
+      "title": "sekaictf 2026 infra writeup",
+      "description": "my beautiful kubernetes infrastructure"
+    },
+    {
+      "link": "https://es3n1n.eu/posts/how-i-ruined-my-vacation/",
+      "title": "how i ruined my vacation by reverse engineering wsc",
+      "description": "describing my wsc adventure"
+    },
+    {
+      "link": "https://es3n1n.eu/posts/obfuscator-pt-1/",
+      "title": "obfuscating native code for fun: part 1 - introduction",
+      "description": "introduction to bin2bin pe obfuscation"
+    }
+  ]
+}

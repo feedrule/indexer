@@ -1,0 +1,20 @@
+{
+  "url": "https://antcode.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://antcode.bearblog.dev/numssize-vs-int-n-numssize-in-a-for-loop-which-one-should-you-actually-use/",
+      "title": "nums.size() vs int n = nums.size() in a For Loop: Which One Should You Actually Use?",
+      "description": "You write this loop a hundred times a week and never think about it: for ( int i = 0 ; i < nums . size (); i ++ ) { } It compiles. It passes your tests. It ships. Then, months later — or thirty seconds into a coding interview — someone feeds it an empty vector, and everything goes sideways. Not a crash you can point to on line 12. Just... your loop runs forever, or reads garbage memory, or returns"
+    },
+    {
+      "link": "https://antcode.bearblog.dev/null-vs-empty-string-why-no-data-isnt-always-the-same-thing/",
+      "title": "NULL vs Empty String: Why \"No Data\" Isn't Always the Same Thing",
+      "description": "If you've worked with databases for more than a week, you've probably hit this moment: a text field has no data, and you have to decide: do I leave it NULL , or do I set it to an empty string '' ? It looks like a trivial choice. It isn't. Pick wrong (or pick inconsistently) and you'll spend years explaining weird bugs in your reports. Let's break down what each one actually means, why most well-de"
+    },
+    {
+      "link": "https://antcode.bearblog.dev/slowly-changing-dimensions-scd-what-they-are-and-how-to-actually-choose-the-right-one/",
+      "title": "Slowly Changing Dimensions (SCD): What They Are and How to Actually Choose the Right One",
+      "description": "When you're working with data, one thing is guaranteed: data changes . Customers move, prices get updated, employees switch roles. The real question isn’t if data changes, it’s how you handle those changes without breaking your analytics later . That’s where Slowly Changing Dimensions (SCD) come in. First, What Are SCDs? SCDs are just different ways of handling updates to dimension data. Whenever"
+    }
+  ]
+}

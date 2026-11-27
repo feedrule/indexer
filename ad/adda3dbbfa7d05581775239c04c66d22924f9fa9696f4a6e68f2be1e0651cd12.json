@@ -1,0 +1,20 @@
+{
+  "url": "https://dovydas.com/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://dovydas.com/blog/agent-in-your-filesystem",
+      "title": "Agent in Your Filesystem. No Installation Needed?",
+      "description": "I remember Anthropic releasing Opus 4.8 a couple of months ago and people on Twitter making fun of its inability to tell how many days of the week have the letter d in them. I actually had trouble believing that, thinking these issues would be fixed by now. But no, that was still the case on claude.ai chat: it confidently proclaimed the answer was two—Sunday and Monday! I get how LLMs view words a"
+    },
+    {
+      "link": "https://dovydas.com/blog/the-typographic-medium",
+      "title": "Review: The Typographic Medium",
+      "description": "Note: This blog post contains LaTeX typography that will not be rendered correctly by RSS readers. To read the blog post with its original formatting, please visit https://dovydas.com/blog/the-typographic-medium . The Typographic Medium by Kate Brideau MIT Press, 2021, 304pp Most people have agonized over a font choice at some point—for a PowerPoint presentation, a website’s hero section, or a PhD"
+    },
+    {
+      "link": "https://dovydas.com/blog/everything-and-more",
+      "title": "Review: Everything and More",
+      "description": "Everything and More: A Compact History of Infinity by David Foster Wallace Weidenfeld & Nicolson, 2003, 336pp I bought this book in a second-hand bookshop a few weeks ago. It looked intriguing enough for me to pick up and flip through the pages, probably because of the mental connection to Infinite Jest one naturally makes. And also because I’ve always found Wallace’s non-fiction more interesting"
+    }
+  ]
+}

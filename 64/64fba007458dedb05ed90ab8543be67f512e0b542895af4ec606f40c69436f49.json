@@ -1,0 +1,20 @@
+{
+  "url": "https://log.jnsmr.ch/feed.xml",
+  "posts": [
+    {
+      "link": "https://log.jnsmr.ch/post/2026-11-23-inspector/",
+      "title": "Inspecting Stuff",
+      "description": "Ever since expanding my homelab , software and hardware faults seemed to occur more often. It is really no wonder, as the expected value of faults is directly correlated to the number of machines on which faults can occur. As I am not constantly tending to the machines (I also do other stuff, I promise), knowing whether problems arise at a glance became more important to me. This motivated me to w"
+    },
+    {
+      "link": "https://log.jnsmr.ch/post/2026-03-27-wake-on-gpio/",
+      "title": "Wake-on-GPIO",
+      "description": "Alternative title: How to spend an afternoon at Bastli. Wake-on-LAN has a few issues that I personally don’t like. The primary thing that I don’t like is that it relies on the mainboard and network interface to be not-quite-shutdown. This leads to some unnecessary power draw while the PC/server is supposed to be shut down. In addition to that, the way WOL works bothers me. Basically, the OS needs"
+    },
+    {
+      "link": "https://log.jnsmr.ch/post/2025-12-07-advent-of-controlled-media-usage/",
+      "title": "Advent of Controlled Media Usage",
+      "description": "One blogpost ago, I wrote about Stuff I’ve spent entirely too much time on . That title was of course in jest, as I think I’ve spent a (somewhat) reasonable amount of time on VPN and DNS, given that it makes my setup quite a bit more secure and also makes certain things simpler. There are, however, things I have also spent a lot of time on, where I’d say “yes, that is actually a waste of time”."
+    }
+  ]
+}

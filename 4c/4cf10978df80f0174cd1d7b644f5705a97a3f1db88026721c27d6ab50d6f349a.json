@@ -1,0 +1,20 @@
+{
+  "url": "https://phpfashion.com/en/feed/rss",
+  "posts": [
+    {
+      "link": "http://blog.nette.org/en/php-tool-calling-structured-output",
+      "title": "A Model That Asks Does Not Invent",
+      "description": "Wiring a language model into an application takes a few lines of code these days. You send text, you get text back. As long as you want a translation or a summary, it works beautifully. The trouble starts the moment it has to answer something only your application knows. Say you are building customer support for an e-shop. You want the model to handle questions like “where is my parcel” or “when w"
+    },
+    {
+      "link": "https://phpfashion.com/en/ai-access-php-library-for-openai-claude-gemini",
+      "title": "AI-Access: One PHP API for Five Language Models",
+      "description": "OpenAI, Claude, Gemini, DeepSeek and Grok agree on almost nothing: a different endpoint, different authentication, a different shape of request and response. The AI Access library unifies them into a single PHP interface with no dependencies at all, in which moving from one provider to another is a one-line change. How It Started I have been an enthusiast of language models for a long time and I s"
+    },
+    {
+      "link": "https://phpfashion.com/en/a-replacement-for-php-ext-imap-that-has-no-dependencies",
+      "title": "A replacement for PHP ext-imap that has no dependencies",
+      "description": "As of version 8.4, the imap extension is no longer part of PHP. Anyone who read a mailbox with it needs a replacement. Except that the two most popular libraries are mere wrappers around that same extension, and the third one drags in twenty-four packages including a chunk of Laravel and Symfony. The dg/imap library speaks IMAP on its own: under nine hundred lines of solid object-oriented code and"
+    }
+  ]
+}

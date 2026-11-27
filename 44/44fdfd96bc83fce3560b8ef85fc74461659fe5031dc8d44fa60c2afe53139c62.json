@@ -1,0 +1,20 @@
+{
+  "url": "https://adityamukho.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://adityamukho.com/minigraf-a-spiritual-successor-to-recallgraph",
+      "title": "Minigraf: A Spiritual Successor to RecallGraph",
+      "description": "Minigraf is an embedded bi-temporal graph database in Rust — Datalog queries, single-file storage, and the valid-time dimension RecallGraph never shipped."
+    },
+    {
+      "link": "https://adityamukho.com/exploring-temporality-in-databases",
+      "title": "Exploring Temporality in Databases",
+      "description": "A deep-dive into the concepts behind time-traveling databases that are capable of version-controlling their data."
+    },
+    {
+      "link": "https://adityamukho.com/foxx-tracer-an-opentracing-implementation-for-foxx-microservices",
+      "title": "Introducing foxx-tracer",
+      "description": "foxx-tracer is an opentracing library and ecosystem built for the Foxx runtime."
+    }
+  ]
+}

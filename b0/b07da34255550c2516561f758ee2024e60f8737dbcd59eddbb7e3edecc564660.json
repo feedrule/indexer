@@ -1,0 +1,20 @@
+{
+  "url": "https://jdve.me/index.xml",
+  "posts": [
+    {
+      "link": "https://jdve.me/blog/2026/05/flutter-docker-image/",
+      "title": "Migrating away from ghcr.io/cirruslabs/flutter docker images",
+      "description": "How I built custom docker images for flutter by pre-installing the Android build tools based on what the app actually needs"
+    },
+    {
+      "link": "https://jdve.me/blog/2025/09/dependabot-gitlab/",
+      "title": "Using dependabot-gitlab in standalone mode with comment commands",
+      "description": "How I enabled recreating dependabot MRs without needing to host a new server"
+    },
+    {
+      "link": "https://jdve.me/blog/2025/02/life-in-weeks/",
+      "title": "My Life in Weeks",
+      "description": "Visualizing my entire life"
+    }
+  ]
+}

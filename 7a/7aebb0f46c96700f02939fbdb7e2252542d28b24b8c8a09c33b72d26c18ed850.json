@@ -1,0 +1,15 @@
+{
+  "url": "https://yuetau.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://yuetau.bearblog.dev/netexp-post-mortem-on-vxlan-overlay-and-post-quantum-encryption/",
+      "title": "NetExp: Post-mortem on VXLAN overlay and Post-Quantum Encryption",
+      "description": "Tldr; Tailscale will flap between Clearnet and other tunnels. It is generally not a good idea to overlay tunnels over Tailscale. So one day I was deploy LUX node using VXLAN overlay Tailscale on a minipc (refer to Homelab page) and the fan started going furrrrr then quiet on repeat. Something is wrong. I went on debug adventure, CPU spike every 1 minute. htop shows BIRD and Tailscale are the culpr"
+    },
+    {
+      "link": "https://yuetau.bearblog.dev/netexp-vxlan-on-tailscale-as-backbone-for-igp/",
+      "title": "NetExp: VXLAN on Tailscale as backbone for IGP",
+      "description": "The network had been alive for quite a few years. WARNING ⚠️ Information below is outdated. Do not attempt unless you know what you are doing. June 5, 2026 It had experienced from ZeroTier (being warned from IX for the crazy ARP packets) to manual Wireguard (painfully configuring each and every node's Pubkey and Privkey) to some hacky Python script to set up mesh for me. [https://github.com/YuetAu"
+    }
+  ]
+}

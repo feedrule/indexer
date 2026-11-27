@@ -1,0 +1,20 @@
+{
+  "url": "https://www.abahgat.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.abahgat.com/blog/spatial-joins-with-s2",
+      "title": "The nearest hospital to every place on Earth, in a single S2 range query",
+      "description": "For every locality on Earth, how far is the nearest hospital? Naively, that's 437 billion great-circle distances. S2 cell indexing reduces it to a single integer range-join: build the index once, and the answer for every place on Earth comes back in seconds. The same primitive also resolves which country, region, and locality each hospital belongs to, in a single pass over one index."
+    },
+    {
+      "link": "https://www.abahgat.com/blog/same-agent-different-score",
+      "title": "Same Agent, Different Score: The Problem With Testing Non-Deterministic AI",
+      "description": "Before building tools for my Zork-playing agents, I needed a benchmark I could trust. I ran five local models through fifty playthroughs and discovered that the same model can score 40 or 0 on the same game. Getting honest numbers required three harness versions, structured telemetry, and a loop detector that learned the difference between stuck and thorough."
+    },
+    {
+      "link": "https://www.abahgat.com/blog/stuck-in-the-maze",
+      "title": "Stuck in the Maze: Why AI Agents Can't Hold the Map",
+      "description": "I had local AI models play Zork, the 1981 text adventure, to study why agents struggle to navigate connected systems. One started responding in Thai. Most scored zero. All got hopelessly stuck in the maze. What broke says a lot about why agents get lost in microservices too."
+    }
+  ]
+}

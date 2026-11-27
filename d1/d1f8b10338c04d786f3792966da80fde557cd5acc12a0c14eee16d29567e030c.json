@@ -1,0 +1,20 @@
+{
+  "url": "https://ysun.co/atom.xml",
+  "posts": [
+    {
+      "link": "https://ysun.co/special",
+      "title": "`specialArgs` considered harmful",
+      "description": "Why `specialArgs` in `lib.evalModules` is considered an antipattern."
+    },
+    {
+      "link": "https://ysun.co/why",
+      "title": "The second largest Nix monorepo",
+      "description": "How to manage the second largest Nix monorepo? I'll cover how I setup a weird configuration structure that allowed me to override arbitrary nixpkgs.lib functions and any nix packages."
+    },
+    {
+      "link": "https://ysun.co/bokuyaba",
+      "title": "Otaku rant",
+      "description": "A review of manga and anime series \"The Dangers in My Heart\""
+    }
+  ]
+}

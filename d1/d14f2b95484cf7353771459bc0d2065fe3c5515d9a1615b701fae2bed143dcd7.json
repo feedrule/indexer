@@ -1,0 +1,20 @@
+{
+  "url": "https://elijahrogers.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://elijahrogers.dev/elijahrogers.github.io/2026/01/01/bundle-alphabetically.html",
+      "title": "bundle_alphabetically",
+      "description": "You know what’s nice? When things go where they’re supposed to. Mise en place. I know keeping everything neat and tidy is an uphill battle but a little hygiene goes a long way. This is especially true with the oft neglected Gemfile. Dependencies are important and they shouldn’t be shoved in a junk drawer. Besides keeping around commented out gems, there is one sin that seems to be ubiquitous: keep"
+    },
+    {
+      "link": "https://elijahrogers.dev/elijahrogers.github.io/2025/10/03/i-spent-200-hours-building-a-postgres-chat-client.html",
+      "title": "I spent 200 hours building a Postgres chat client",
+      "description": "“Can you tell me how many…” “Can you build me a report that shows…” “Can you run another report for August…” I know I’m not the only one who’s received these requests. Most of the time they’re not even sure what they want. Usually the answer to their question won’t actually change anything. Does it matter whether we have 1000 or 1001 customers? Does it change our priorities? Our strategy?"
+    },
+    {
+      "link": "https://elijahrogers.dev/elijahrogers.github.io/2025/10/01/postmark-gaslit-me.html",
+      "title": "Postmark Gaslit Me",
+      "description": "RTFM. I’m sure you’ve heard it before. Usually it serves me well. When something isn’t working it’s best to start from the assumption that you’ve overlooked something simple. >> TestMailer.hello.deliver_now => true This was my assumption when I ran into this issue with Postmark. A 200 response but no email sent. If Postmark said the message was sent then it must be somewhere, right? I tried differ"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.surly.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://surly.dev/articles/how-to-get-95-pct-claude-code-quality-at-half-the-cost-with-hermes-agent",
+      "title": "A faster, cheaper Claude Code alternative with automatic provider failover using Hermes Agent",
+      "description": "A data-driven comparison of agentic coding stacks: Hermes Agent with Qwen3.6 Plus vs Claude Code Max 20x — 95% of the quality, half the cost, with built-in provider failover."
+    },
+    {
+      "link": "https://surly.dev/articles/how-to-setup-python-on-mac",
+      "title": "How to Setup Python on Mac Without Homebrew",
+      "description": "How to setup Python on a Mac without using Homebrew"
+    },
+    {
+      "link": "https://surly.dev/articles/how-to-setup-node-on-mac",
+      "title": "How to Setup Node on Mac Without Homebrew",
+      "description": "How to setup Node on a Mac without using Homebrew"
+    }
+  ]
+}

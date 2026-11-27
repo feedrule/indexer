@@ -1,0 +1,20 @@
+{
+  "url": "https://getopenscreen.com/blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://getopenscreen.com/blog/off-menu-video-editing/",
+      "title": "Off-Menu video editing: the agent writes the functions the editor lacks",
+      "description": "OpenScreen 2.1 introduces Off-Menu. The built-in functions stay; next to them, a low-level layer where a coding agent writes the function the editor lacks, through MCP and inside guardrails. Visual effects come first. What it took, what it costs, and who got close before."
+    },
+    {
+      "link": "https://getopenscreen.com/blog/2026/09/27/making-of-v2-a-demo-is-never-ugly/",
+      "title": "Making of v2: a demo is never ugly",
+      "description": "How OpenScreen v2 came together. One rule, an audit against it, twenty-one pull requests merged into one branch, and a round of UI work that removed more than it added."
+    },
+    {
+      "link": "https://getopenscreen.com/blog/2026/09/09/an-export-benchmark-hard-to-fake/",
+      "title": "An export benchmark built to be hard to fake",
+      "description": "An open, reproducible screen recorder export benchmark. Same clip, same edit, each result divided by ffmpeg on the same machine and verified in pixels."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://kelan.io/feeds/all-posts.xml",
+  "posts": [
+    {
+      "link": "https://kelan.io/2026/not-today-rivers/",
+      "title": "Not Today, Rivers",
+      "description": null
+    },
+    {
+      "link": "https://kelan.io/2026/ticket-party/",
+      "title": "Ticket Party 🎉",
+      "description": "I've been using the [Codex app](https://openai.com/codex/) a lot since it came out (which was what, not even 2 weeks ago? Things are moving _fast_). It's a really nice app. I had been using Claude Code a bunch, and enjoying the results, but I never loved the terminal interface (TUI) app. I know it's [technically impressive how they do it](https://x.com/trq212/status/2014051501786931427), but I'm s"
+    },
+    {
+      "link": "https://kelan.io/2017/voids/",
+      "title": "Voids",
+      "description": "I recently ran into a problem where I was confused by the difference between `()` and `Void` in Swift. **TL;DR** `Void` is a type, but not a value, and `()` is both a type and a value. ## Sometimes they're the same My confusion arose from the fact that I think of them as interchangeable, when it comes to function signatures. For example, these two are the same: ```swift func asyncWork1(completion:"
+    }
+  ]
+}

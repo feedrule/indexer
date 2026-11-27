@@ -1,0 +1,20 @@
+{
+  "url": "https://erickschulz.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://erickschulz.dev/posts/plecs-spice/",
+      "title": "Unifying PLECS and SPICE",
+      "description": "PLECS Spice brings SPICE device-level simulation directly into PLECS, allowing hybrid simulations that mix system-level and device-level analysis in a single schematic."
+    },
+    {
+      "link": "https://erickschulz.dev/posts/my-keyboard-layout/",
+      "title": "Keyboard Layout",
+      "description": "Link to my keyboard layout."
+    },
+    {
+      "link": "https://erickschulz.dev/posts/saturable-inductors/",
+      "title": "The Fields Behind the Inductor Equation",
+      "description": "A derivation of V = L dI/dt from Maxwell's equations and a simple nonlinear saturation model."
+    }
+  ]
+}

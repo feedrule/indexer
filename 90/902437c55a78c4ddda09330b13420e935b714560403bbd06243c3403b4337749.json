@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.cyplo.dev/index.rss",
+  "posts": [
+    {
+      "link": "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html",
+      "title": "Stopping systemd services under memory pressure",
+      "description": "Do you have your \"favourite\" server that is responsible for just a tiny number too many things ? I know I have one, it's my CI runner, but also serves as a platform to experiment with local LLMs, but also is a Nix builder for all other machines I have. Lots of responsiblities ! Luckily, I don't need it to do all of those things at the same time, it just didn't know that previously. I would run a l"
+    },
+    {
+      "link": "https://blog.cyplo.dev/long-posts-in-mastodon-but-now-declarative.html",
+      "title": "Long posts in Mastodon, but now declarative !",
+      "description": "So much to say on the Fediverse and so little characters of text per post ! Well, at least on Mastodon. But fear not - someone smarter than me figured out what files to patch to increase the limit . As I am increasingly lazy, I dreaded the change as it would mean I would need to reapply the patch whenever I redeploy the server, which is more often than I want to admit. Nix to the rescue ! { pkgs,"
+    },
+    {
+      "link": "https://blog.cyplo.dev/creating-a-base-oci-image-for-nix-flake-builds-within-gitea-forgejo.html",
+      "title": "Creating a base OCI image for Nix flake builds within Gitea/Forgejo",
+      "description": "I've been moving more and more of my infrastructure to be self-hosted recently. Part of that involves setting up CI jobs for testing and publishing artifacts, mostly rust crates but also this very blog. I really wanted to re-use my existing Nix flakes for those projects, this way I know my local dev env would be the same env then used on CI . I am self-hosting a Gitea instance (will probably be mi"
+    }
+  ]
+}

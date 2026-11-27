@@ -1,0 +1,20 @@
+{
+  "url": "https://runthedata.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://runthedata.dev/p/genie-in-a-model-part-iii/",
+      "title": "The Genie Strikes Back",
+      "description": "Six months is an eternity in the age of LLMs. In hindsight, committing to a post about how I don’t use LLMs was a bit naïve given the steady pace of LLM improvements from frontier labs. Since part two of this series, we’ve seen the release of, among others, Claude Opus 4.5, 4.6, and 4.7; GPT 5.2, 5.3, 5.4, and 5.5; Gemini Pro 3 and 3.1; Qwen 3 Max and 3.5; Kimi K2.5 and K2.6; GLM 5 and 5.1; and De"
+    },
+    {
+      "link": "https://runthedata.dev/p/genie-in-a-model-part-ii/",
+      "title": "Genie in a Model: Wishing for More Wishes",
+      "description": "Most developers spend their first wishes on the obvious: fancy auto-complete, quick bug fixes, simple Q&A, and instant feedback . They fill immediate needs and provide quick bursts of productivity. But when the dust settles, these types of improvements don’t fundamentally change the developer. True transformation requires a more deliberate engagement with the tools. Forging a deeper partnership wi"
+    },
+    {
+      "link": "https://runthedata.dev/p/genie-in-a-model-part-i/",
+      "title": "Genie in a Model: My Prompt Is Your Command",
+      "description": "Previously , I’ve written that Schrödinger’s LLMs are both overly impressive and underwhelming. This three-part series cuts through the noise to separate what’s genuinely valuable from what’s mostly just hype. In the first post, I share four practical, low-risk ways I incorporate LLMs into my daily routine while pointing out their limitations. Accelerating With Code Completion One of the least con"
+    }
+  ]
+}

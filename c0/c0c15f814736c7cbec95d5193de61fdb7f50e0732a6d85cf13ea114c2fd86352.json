@@ -1,0 +1,20 @@
+{
+  "url": "https://www.strollswithmydog.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.strollswithmydog.com/image-sampling-resolution/",
+      "title": "The Effect of Sampling on Image Resolution",
+      "description": "We understand from the previous article that the process of digitizing an optical image with a photographic sensor can be thought of as two subsequent operations: filtering (convolution) of the optical image on the sensing plane by the pixel’s finite effective active area (aka pixel aperture); point sampling the convolved image at a given fixed … Continue reading The Effect of Sampling on Image Re"
+    },
+    {
+      "link": "https://www.strollswithmydog.com/sampling-in-imaging/",
+      "title": "Sampling in Imaging",
+      "description": "This article and the following one will discuss the effect on resolution of digitizing a continuous optical image. The sampling process carried out by the sensor results in digital values corresponding to an intensity at each pixel’s location. These so-called Data Numbers are stored ideally as-is in the raw file and are proportional to infinitesimal … Continue reading Sampling in Imaging →"
+    },
+    {
+      "link": "https://www.strollswithmydog.com/spline-esf-lsf-mtf/",
+      "title": "Minimalist ESF, LSF, MTF by Monotonic Regression",
+      "description": "Because the Slanted Edge Method of estimating the Spatial Frequency Response of a camera and lens is one of the more popular articles on this site, I have fielded variations on the following question many times over the past decade: How do you go from the intensity cloud produced by the projection of a slanted … Continue reading Minimalist ESF, LSF, MTF by Monotonic Regression →"
+    }
+  ]
+}

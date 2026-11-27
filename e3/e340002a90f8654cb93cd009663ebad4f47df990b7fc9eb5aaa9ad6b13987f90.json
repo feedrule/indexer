@@ -1,0 +1,20 @@
+{
+  "url": "https://romaingrx.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://romaingrx.com/blog/denoising-diffusion-from-scratch",
+      "title": "Denoising Diffusion from Scratch",
+      "description": "Building a class-conditional DDPM in JAX to generate font glyphs from pure noise"
+    },
+    {
+      "link": "https://romaingrx.com/blog/variational-autoencoders-from-scratch",
+      "title": "Variational Autoencoders from Scratch",
+      "description": "Deriving the ELBO, implementing a VAE in JAX, and applying it to protein sequences"
+    },
+    {
+      "link": "https://romaingrx.com/notes/corne-keyboard-5x3-3-setup",
+      "title": "Corne keyboard 5x3+3 setup",
+      "description": "Basic setup of a corne keyboard with a Miryoku-like layout"
+    }
+  ]
+}

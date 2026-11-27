@@ -1,0 +1,20 @@
+{
+  "url": "https://www.cole-k.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.cole-k.com/2026/07/21/reddit/",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "description": "Reddit-The-Company If you don’t know Reddit, it basically is the host of many popular forums. And like any company which encourages you to “come for the cats [and] stay for the empathy,” Reddit seems to be in the business of extracting as much value as it can from said forums without completely destroying them. After all, simply fostering community is not a noble enough goal for the New Tech, and"
+    },
+    {
+      "link": "https://www.cole-k.com/2023/07/24/e-graphs-primer/",
+      "title": "The e-graph data structure",
+      "description": "Note: Forcing dark mode via a plugin will make some pictures ugly (ironic because I do this). Sorry. E-graphs are a cool data structure, but I think that what makes them cool also has the side effect of making them a little inscrutable. This is an e-graph. Does it confuse you? It certainly took me a long time before I understood one. My goal with this post is to Motivate two distinguishing feature"
+    },
+    {
+      "link": "https://www.cole-k.com/2023/02/21/tiny-games-hs/",
+      "title": "Squeezing a sokoban game into 10 lines of code",
+      "description": "If you’re only interested in seeing or playing the game, you can find it on my GitHub. The occasion The Haskell Tiny Game Jam is a game jam which challenges participants to write a video game in Haskell using 10 lines of 80 characters. I happen to love Haskell and code golf (abusing a programming language to produce disgustingly short code for fun) so I decided to enter the Feb ‘23 jam."
+    }
+  ]
+}

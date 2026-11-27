@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.dtsykunov.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.dtsykunov.com/posts/unlisting-ai-posts/",
+      "title": "Unlisting posts written with GenAI",
+      "description": "There used to be a number of posts on this blog that I wrote using AI. They are no longer there. Lately, I’ve been feeling conflicted about using AI for writing “personal” blog posts, even technical ones. So, while I figure this out for myself, I’m unlisting all of them. I’m not deleting them completely, because there was useful debugging advice that I saw referenced on reddit and elsewhere. These"
+    },
+    {
+      "link": "https://blog.dtsykunov.com/posts/canoscan-4200f-windows-11/",
+      "title": "Getting a Canon CanoScan 4200F to work on Windows 11 with VueScan",
+      "description": "TL;DR Install the driver in compatibility mode with Windows 7. Skip CanoScan Toolbox — use VueScan instead. If scans come out scrambled, uninstall the driver with the delete utility (also in compatibility mode), reboot, reinstall, replug the USB, and scan again. Intro Is there a feeling better than finding an old scanner from the mid-2000s, tracking down a driver for it, and actually getting it to"
+    },
+    {
+      "link": "https://blog.dtsykunov.com/posts/gl-mt3000-exit-node-fix/",
+      "title": "Tailscale exit node on GL-MT3000 Beryl AX not routing LAN client traffic",
+      "description": "TL;DR Open LuCI ( 192.168.8.1/cgi-bin/luci ), go to Network → Firewall , find the tailscale0 zone, enable Masquerading , hit Save & Apply . That’s it. The Problem I bought a GL-MT3000 Beryl AX hoping it would work as a subnet router for my Tailscale exit node out of the box. The setup seemed straightforward — connect the router to Tailscale, select the exit node in the GL.iNet admin panel, done."
+    }
+  ]
+}

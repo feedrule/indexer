@@ -1,0 +1,20 @@
+{
+  "url": "https://skids.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.cloudflare.com/connect/sessions/4348076",
+      "title": "It’s time to build, not buy",
+      "description": "What happens to build vs. buy when the wheel gets cheap to reinvent? How Cloudflare navigates it, with our custom AI code reviewer as the case study."
+    },
+    {
+      "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "description": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why, then used prompt caching and model routing to cut it by 68%."
+    },
+    {
+      "link": "https://skids.dev/blog/openai-cache-tokenomics/",
+      "title": "Tokenomics: the 349 minute rule for GPT-5.6+",
+      "description": "GPT-5.6 onwards made cache writes cost 1.25x. When is the write worth paying for, and how long is the cache worth keeping warm?"
+    }
+  ]
+}

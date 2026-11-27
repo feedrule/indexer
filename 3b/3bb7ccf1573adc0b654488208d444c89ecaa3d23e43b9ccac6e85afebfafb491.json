@@ -1,0 +1,20 @@
+{
+  "url": "https://rwilinski.ai/rss.xml",
+  "posts": [
+    {
+      "link": "https://rwilinski.ai/posts/harness-teardown/",
+      "title": "Three harnesses, one window: context in Codex, Claude Code and pi",
+      "description": "A source-level teardown of how Codex, Claude Code and pi manage the context window: triggers, compaction, caching and tool output."
+    },
+    {
+      "link": "https://rwilinski.ai/posts/evals-pyramid/",
+      "title": "Agentic Evals Pyramid",
+      "description": "Building AI agent evals that work: the 3-layer pyramid approach"
+    },
+    {
+      "link": "https://rwilinski.ai/posts/evals/",
+      "title": "Test Your AI Agent Before It Tests Your Users' Patience",
+      "description": "What are evals? How to use LLM generated data to test your agent."
+    }
+  ]
+}

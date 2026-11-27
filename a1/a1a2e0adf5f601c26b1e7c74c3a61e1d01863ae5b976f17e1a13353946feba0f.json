@@ -1,0 +1,20 @@
+{
+  "url": "https://theexceptioncatcher.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://theexceptioncatcher.com/2026/06/movie-night-vibe-coding-experience/",
+      "title": "My AI Movie Night Disaster",
+      "description": "What I Learned the Hard Way - A New Blog Series This is the start of a new series where I’ll be documenting my (previous) adventures in ‘vibe coding.’ These experiments happened a while ago (over six months), but my goal is to share what worked, what didn’t, and how we can all use AI agents more..."
+    },
+    {
+      "link": "https://theexceptioncatcher.com/2026/06/ollama-opencode-local-llm-setup/",
+      "title": "Connecting Ollama to OpenCode: A Faster Workflow",
+      "description": "How to generate model configurations automatically for custom OpenAPI endpoints. - TL;DR Use my custom script to generate the model configurations for your local LLM. Found here. One challenge when self-hosting LLMs and working with OpenCode is that OpenCode must be manually configured to work with your models. Unlike its built-in providers, there is no way to set a custom URL..."
+    },
+    {
+      "link": "https://theexceptioncatcher.com/2026/05/technical-book-review-vibe-coding/",
+      "title": "Vibe Coding",
+      "description": "A Technical Book Review - TL;DR- Read “Vibe coding” – Ignore the title, read the book. There’s an old saying, if someone told you to jump off a bridge, would you? Given one’s need for self-preservation, the expected answer is: No. But given Gene Kim’s history of writing persuasive and engaging technical content, I think..."
+    }
+  ]
+}

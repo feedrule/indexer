@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mostlypython.com/rss/",
+  "posts": [
+    {
+      "link": "https://www.mostlypython.com/building-a-custom-harness/",
+      "title": "Building a custom harness",
+      "description": "MP 180: You can learn a lot from building your own harness, so let's get into it. I recently wrote about my interest in writing a custom harness to try some agent-centered workflows. In the six weeks since I wrote that post, I've been using"
+    },
+    {
+      "link": "https://www.mostlypython.com/sets-vs-tuples-a-better-comparison/",
+      "title": "Sets vs tuples: A better comparison",
+      "description": "MP 179: I missed something last time! In the last post , I compared two lookups. One used a tuple, and one used a set: # Check membership in a tuple: if operation not in ( \"read\" , \"modify\" , \"write\" ): raise ValueError ( f\"Illegal operation: { operation } \""
+    },
+    {
+      "link": "https://www.mostlypython.com/sets-vs-tuples-for-membership-tests/",
+      "title": "Sets vs tuples for membership tests",
+      "description": "MP 178: Which is better? One of the interesting things about working with agents is getting to see how the generated code differs from the code you might have written yourself. When I generate code with an agent, it tends to fall into one of three buckets: It's"
+    }
+  ]
+}

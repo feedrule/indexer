@@ -1,0 +1,20 @@
+{
+  "url": "https://www.probableodyssey.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://www.probableodyssey.blog/tech/the-agent-personas-in-my-coding-workflow/",
+      "title": "The agent personas in my coding workflow",
+      "description": "I use different agents for different jobs. The workflow starts with an idea or ticket, moves through a spec and implementation, then through two kinds of agent review. The developer makes the decisions at the gates. TLDR: Planner: What are we actually agreeing to build? Coder: Does the implementation meet that agreement? Reviewer: Is this the clearest, smallest sound change? Monkey: What happens w"
+    },
+    {
+      "link": "https://www.probableodyssey.blog/tech/my-rules-for-using-agents/",
+      "title": "My rules for using Agents",
+      "description": "I find agent to be a useful tool for coding, GitHub, and Slack. But like any tool, there’s some degree of skill necessary to wield them effectively and not hurt others. When unguided, habits emerge that make code harder to maintain, communication harder to read, and collaboration thinner — which contribute to the collapse of a software team if left unresolved My concern here is practical: are we u"
+    },
+    {
+      "link": "https://www.probableodyssey.blog/tech/julia-projects/",
+      "title": "Writing a Julia project",
+      "description": "The Julia language has always fascinated me, it seemed pretty perfect for someone like me. It’s a maths-heavy language with a relatively simple syntax and a wicked fast execution – seems like a great idea, but how does it work in practice? First steps with Julia as a Matlab programmer I first used Julia during my mathematical neuroscience PhD in 2019. I was building off someone elses code to solve"
+    }
+  ]
+}

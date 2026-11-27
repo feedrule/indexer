@@ -1,0 +1,20 @@
+{
+  "url": "https://www.lesecretairedefernand.co/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.lesecretairedefernand.co/en/tech/mapping-your-attention-to-free-it/",
+      "title": "Guides and Sensors: Mapping Your Attention to Free It",
+      "description": "Birgitta Böckeler's grid of guides and sensors, computational or inferential, used as a compass for deciding where a developer working with agents spends their attention, with examples from phax."
+    },
+    {
+      "link": "https://www.lesecretairedefernand.co/en/tech/attention-is-all-we-have/",
+      "title": "Attention Is All We Have",
+      "description": "An opinion piece: with agents, the bottleneck moved from writing to review, reviewing harder doesn't hold, and the harness we put around our agents should be judged on the control it gives back for less attention than review costs. Told from the extreme case, a developer who could not review at all."
+    },
+    {
+      "link": "https://www.lesecretairedefernand.co/en/tech/prove-and-admit-dont-just-lint/",
+      "title": "Prove and Admit, Don't Just Lint",
+      "description": "Why executable rules are the easy half, and why the checks around agent-written code must require presence, report their blind spots, and be written as a standard rather than collected as rules."
+    }
+  ]
+}

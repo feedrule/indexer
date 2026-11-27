@@ -1,0 +1,20 @@
+{
+  "url": "https://www.stderr.nl/index.rss",
+  "posts": [
+    {
+      "link": "https://www.stderr.nl/2026/04/23#IncomeTaxSpreadsheet",
+      "title": "Spreadsheet to calculate Dutch income tax and related stuff",
+      "description": "As you might know, I like to understand how things work. This applies very much to physical, technical things, but also to laws and regulations, and then in particular my income tax. After the year ends, the Belastingdienst software can calculate your taxes for you, but I would like to be able to understand and predict that calculation. Especially since I started as a self-employed contractor, it"
+    },
+    {
+      "link": "https://www.stderr.nl/2024/05/24#DuoFirstImpression",
+      "title": "First impression: Milk-v Duo Linux board",
+      "description": "For a project (building a low-power LoRaWAN gateway to be solar powered) I am looking at simple and low-power linux boards. One board that I came across is the Milk-V Duo, which looks very promising. I have been playing around with it for just a few hours, and I like the board (and its SoC) very much already - for its size, price and open approach to documentation. The board itself is a small (21x"
+    },
+    {
+      "link": "https://www.stderr.nl/2023/03/01#LvmResizeCachedLv",
+      "title": "How to resize a cached LVM volume (with less work)",
+      "description": "On my server, I use LVM for managing partitions. I have one big \"data\" partition that is stored on an HDD, but for a bit more speed, I have an LVM cache volume linked to it, so commonly used data is cached on an SSD for faster read access. Today, I wanted to resize the data volume: # lvresize -L 300G tika/data Unable to resize logical volumes of cache type. Bummer. Googling for the error message s"
+    }
+  ]
+}

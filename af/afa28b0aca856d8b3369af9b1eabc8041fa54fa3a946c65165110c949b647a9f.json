@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gapp.in/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.gapp.in/blog/a-chess-app-that-actually-works/",
+      "title": "A chess app that actually works",
+      "description": "I started playing Chess when I was 6 or 7 years old. But mostly it was with my brother or the chess game on my DOS machine. But I wasn’t very good at it. I never learned any theory and I didn’t like to calculate a lot. I played on intuition and pattern on the board and mostly relied on tactics and had very poor strategy."
+    },
+    {
+      "link": "https://www.gapp.in/blog/all-in-poker-app/",
+      "title": "All-In Poker App",
+      "description": "It is true that poker solvers are there and those are very good. But if you want to make an app within 20mb, then you can’t fit in a poker solver (probably will bloat the app to multiple GBs). Also there are a few papers that kind of have the weights for more than 3 players."
+    },
+    {
+      "link": "https://www.gapp.in/blog/just-a-challenge/",
+      "title": "Just A Challenge",
+      "description": "Working out to directionally be healthy can be ultra boring. You can subscribe to systems (TRX, P90) or design your own workouts (cardio on Monday, upper body on Tuesdays, etc.). But the fun or easy one is to pick a simple challenge."
+    }
+  ]
+}

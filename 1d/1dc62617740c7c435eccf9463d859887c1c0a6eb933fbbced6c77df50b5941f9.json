@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.joncairns.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.joncairns.com/2026/05/we-are-all-managers-now/",
+      "title": "We Are All Managers Now",
+      "description": "Recently, I’ve been reflecting on the past few years of my career, and how quickly things have changed. So quickly, in fact, that you could be forgiven for blinking and missing it. AI-driven development is here, and it’s here to stay forever."
+    },
+    {
+      "link": "https://blog.joncairns.com/2025/12/a-fresh-start/",
+      "title": "A Fresh Start",
+      "description": "It’s been 10 years since my last post. I can hardly believe it. In that time, my blog has laid in waiting, wondering when I would return (and install an SSL certificate). Well, that day has arrived, and I can officially declare this blog reopened."
+    },
+    {
+      "link": "https://blog.joncairns.com/2015/11/better-rails-debugging-with-pry/",
+      "title": "Better Rails debugging with pry",
+      "description": "Pry is an interactive console, like IRB, which can be used to pause execution and inspect the current scope in your Rails web requests or tests. I’m going to show you how simple it is to drop it into your Rails apps and get better visibility over bugs."
+    }
+  ]
+}

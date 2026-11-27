@@ -1,0 +1,20 @@
+{
+  "url": "https://tomaytotomato.com/rss/",
+  "posts": [
+    {
+      "link": "https://tomaytotomato.com/picard-on-my-claude-code/",
+      "title": "Picard on my Claude Code",
+      "description": "Sharing my Claude.md file with a Jean-Luc Picard flavour to it"
+    },
+    {
+      "link": "https://tomaytotomato.com/a-few-more-months-of-claude/",
+      "title": "A Few More Months Of Claude: Getting the Most out of it",
+      "description": "Findings from using Claude Code for around 6 months plus some humourous customisations."
+    },
+    {
+      "link": "https://tomaytotomato.com/spring-data-solr-lazarus/",
+      "title": "Bringing a dead Spring Boot project back to life with Claude",
+      "description": "Spring Data Solr stopped active development in 2020 and was archived in 2023. Three years later and some pairing with Claude, its now back from the attic."
+    }
+  ]
+}

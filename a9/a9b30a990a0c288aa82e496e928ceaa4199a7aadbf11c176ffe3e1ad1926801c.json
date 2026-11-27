@@ -1,0 +1,20 @@
+{
+  "url": "https://vks.ai/rss.xml",
+  "posts": [
+    {
+      "link": "https://vks.ai/2026-05-26-cv-builder/",
+      "title": "An interactive CV builder",
+      "description": "Tag, filter, flavor, export — at /cv"
+    },
+    {
+      "link": "https://vks.ai/2026-05-25-yagmail-2026-refresh/",
+      "title": "Sending Email from Python (2026, yagmail)",
+      "description": "async support, automatic reconnects, and a cleaner API"
+    },
+    {
+      "link": "https://vks.ai/2026-04-30-cliche-python-cli-for-humans-and-llms/",
+      "title": "cliche - Python CLIs for humans and LLMs",
+      "description": "annotate a function, install it, run it"
+    }
+  ]
+}

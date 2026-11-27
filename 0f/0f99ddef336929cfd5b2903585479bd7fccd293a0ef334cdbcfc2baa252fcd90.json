@@ -1,0 +1,20 @@
+{
+  "url": "https://amin.benarieb.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://amin.benarieb.com/newsletter/1/",
+      "title": "MobileSec #1: Four ways to lose your crypto without giving up your seed phrase",
+      "description": "An unpatched iOS sandbox escape, an App Store wallet tracker that stole $580K, an Android RAT that asks Grok to read your SMS, and replayed webcam recordings in fake work calls."
+    },
+    {
+      "link": "https://amin.benarieb.com/newsletter/0/",
+      "title": "MobileSec #0 — A PDF that crashes iOS, exploits in Instagram ads, patched banking apps",
+      "description": "A PDF that crashes iOS, iPhone exploits hidden in ads, an Android trojan that swaps your banking app, and how to prove a selfie came from a real camera."
+    },
+    {
+      "link": "https://amin.benarieb.com/posts/hashes-you-shouldnt-trust-blindly/",
+      "title": "Hashes: A Good Tool You Shouldn't Trust Blindly",
+      "description": "You meet hashes all day as an iOS dev — hash maps, git, checksums. MD5 and SHA-1 are broken for security, yet hashes are still useful if you know what they actually prove. A short, concrete note."
+    }
+  ]
+}

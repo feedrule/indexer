@@ -1,0 +1,20 @@
+{
+  "url": "https://www.randomhacks.net/feed.xml",
+  "posts": [
+    {
+      "link": "http://www.randomhacks.net/2026/05/17/redoubtful-agent-sandbox-progress/",
+      "title": "Redoubtful: Linux agent sandbox progress",
+      "description": "I’ve also been experimenting with agent sandboxes lately. redoubtful is a work-in-progress sandbox that supports: Linux-only sandboxes: I’m focusing on what Linux supports, specifically, rather than trying to support the lowest-common-denominator features that work cross platform. Modular configuration profiles: See below. Isolation using pasta and bwrap . A shadow filesystem that looks like your"
+    },
+    {
+      "link": "http://www.randomhacks.net/2026/05/16/lab-notebook-edit-completion-1/",
+      "title": "Lab notebook: Edit completion #1",
+      "description": "I continue to be interested in late-2024-era edit completion, the “Fill in the Middle” (FIM) models. You know, what Copilot used to do, back before it started generating “mini diffs.” Why? I like and use agentic workflows. But as many people are realizing, it’s super easy to lose track of what’s happening in your code, with terrible consequences . So I want to reinvest in human-in-the-loop tools,"
+    },
+    {
+      "link": "http://www.randomhacks.net/2026/05/13/i-should-blog-more/",
+      "title": "I should blog more",
+      "description": "This blog is ancient, in blog years. The first post was on June 30, 1998, and it featured a randomized emboss for MathMap . Back in those days, it was a mix of neat little snippets like that and interesting links. The site was a single, hand-edited HTML file in reverse chronological order. It ran on a Linux mini-tower built from parts from the MIT Swapfest , and it lived under my desk. Google hadn"
+    }
+  ]
+}

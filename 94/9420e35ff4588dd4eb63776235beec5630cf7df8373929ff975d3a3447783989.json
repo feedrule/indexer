@@ -1,0 +1,20 @@
+{
+  "url": "https://www.saicharan.in/index.xml",
+  "posts": [
+    {
+      "link": "https://www.saicharan.in/blog/2026/03/02/quote-gb-shaw-the-unresonable-man",
+      "title": "GB Shaw - The Unresonable Man",
+      "description": "The reasonable man adapts himself to the world. The unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man. – George Bernard Shaw — As heard on David Senra’s podcast ."
+    },
+    {
+      "link": "https://www.saicharan.in/blog/2026/03/01/gitea-with-a-dash-of-claude",
+      "title": "Gitea with a dash Of Claude",
+      "description": "A note to self on my Gitea setup. Basic Setup I chose to set up manually, using the release binary, following the basic setup instructions from here Gitea docs . On Ubuntu/Debian $ adduser \\ --system \\ --shell /bin/bash \\ --gecos 'Gitea Version Control' \\ --group \\ --disabled-password \\ --home /home/gitea \\ gitea $ mkdir -p /var/lib/gitea/{custom,data,log} $ chown -R gitea:gitea /var/lib/gitea/ $"
+    },
+    {
+      "link": "https://www.saicharan.in/blog/2025/12/04/quote-just-figure-out-whats-next",
+      "title": "Just Figure Out What's Next",
+      "description": "I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what’s next. — Steve Jobs"
+    }
+  ]
+}

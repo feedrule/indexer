@@ -1,0 +1,20 @@
+{
+  "url": "https://on.a.crt.tv/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://on.a.crt.tv/blog/posts/2025-xmas-card/",
+      "title": "Merry Christmas",
+      "description": null
+    },
+    {
+      "link": "https://on.a.crt.tv/blog/posts/still-here/",
+      "title": "Still Here!",
+      "description": "Still here! Sorry, this padawan needed to do some more learning... Hopefully, there will be more posts this year. I am also planning to clean up the theme a bit as well. May the fourth be with you!"
+    },
+    {
+      "link": "https://on.a.crt.tv/blog/posts/risc-v-new-kid-on-the-chip/",
+      "title": "RISC-V: The New Kid on the Chip",
+      "description": "RISC-V is a new instruction set architecture ( ISA ). To be extremely accurate, RISC-V is a family of ISAs, but it is common to refer to them as the RISC-V ISA. An ISA specifies the behaviors a given CPU manufacturer's processor implementation must exhibit in order to maintain binary compatibility with other implementations. To more easily reason and speak about ISAs, they are often given a classi"
+    }
+  ]
+}

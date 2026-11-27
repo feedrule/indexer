@@ -1,0 +1,20 @@
+{
+  "url": "https://zonov.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://zonov.me/applied-ai-conf-2026-wrapup/",
+      "title": "A day at Applied AI Conf: agents, auth layers, and one big idea I keep thinking about",
+      "description": "I don’t go to many conferences these days. Between the “AI is eating the world” keynotes and the vendor booths with free socks, the signal-to-noise ratio can get rough. But Applied AI Conf felt different on paper — smaller, more practitioner-focused, the kind of event where someone might actually show code. So I went. I work as an SRE at deepset.ai, where I’m currently in the middle of replacing D"
+    },
+    {
+      "link": "https://zonov.me/when-you-wait-too-long-for-an-upgrade-or-a-story-of-the-crosspain/",
+      "title": "When you wait too long for an upgrade, or a story of the Crosspain",
+      "description": "If you’re running Crossplane in production and your version is more than a couple of minor releases behind - this post is your gentle nudge to go upgrade it. Right now 🙈 Before it becomes what it became for me: a week-long odyssey through undocumented breaking changes, phantom resources, and two controllers stuck in an endless argument over an empty list. The starting point We were running Crosspl"
+    },
+    {
+      "link": "https://zonov.me/networking-behind-push-notifications/",
+      "title": "Networking behind iOS push notifications",
+      "description": "This morning I was poking at my phone and suddenly realized: How do the push notifications actually work??? Does the server know my phone’s public IP? Does the phone poll every second? Is every app keeping its own connection open? I had no answers. So I went down the rabbit hole — at least the networking side — and here’s the short version of what I learned. Polling? Websocket? Nope, it’s not iOS"
+    }
+  ]
+}

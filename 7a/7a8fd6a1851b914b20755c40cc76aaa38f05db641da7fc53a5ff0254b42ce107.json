@@ -1,0 +1,20 @@
+{
+  "url": "https://captainslog.me/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://captainslog.me/memos/2026-08-01-push-emtpy-git-commit/",
+      "title": "Push Emtpy Git Commit",
+      "description": "Push an empty Git commit in order to trigger a pipeline"
+    },
+    {
+      "link": "https://captainslog.me/memos/2026-03-26-clear-dns-cache-everywhere/",
+      "title": "How to clear DNS cache everywhere",
+      "description": "All the ways and places to clear DNS cache"
+    },
+    {
+      "link": "https://captainslog.me/memos/2026-03-19-etc-hosts-auto-apt-proxy/",
+      "title": "Update /etc/hosts to use auto-apt-proxy",
+      "description": "Quickly add apt-proxy to /etc/hosts"
+    }
+  ]
+}

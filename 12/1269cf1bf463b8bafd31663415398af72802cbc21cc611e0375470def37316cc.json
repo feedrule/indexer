@@ -1,0 +1,20 @@
+{
+  "url": "https://pradeeproark.com/index.xml",
+  "posts": [
+    {
+      "link": "https://pradeeproark.com/writing/impact-of-a-i/",
+      "title": "Impact of A.I",
+      "description": "“Gandalf the white” raised some interesting points regarding impact of AI. This is my response. Take it as an intellectual thought exercise. Possibility 1: Employment Goes Companies replace human labour with AI. But employees are also consumers: removing wages also threatens the markets that companies sell to. Counter: No, employment does not go away. It is more likely changes the nature of employ"
+    },
+    {
+      "link": "https://pradeeproark.com/writing/memory-and-intelligence-in-llm/",
+      "title": "Memory and Intelligence in LLM",
+      "description": "Intelligence as shown by LLMs is interesting. Here by memory I mean “context window size” though they are not equivalent. And by “Intelligence” I don’t mean human intelligence which jumps into metaphysical debates. Perhaps “cognitive ability” to solve a task at hand is reasonable narrow definition. At the advent of LLMs the available “context window”for an LLM was limited and took the longest to s"
+    },
+    {
+      "link": "https://pradeeproark.com/writing/htmx-hyperscript-todomvc/",
+      "title": "TodoMVC using HTMX, Hyperscript and Python Flask",
+      "description": "This post evaluates HTMX, a simple framework that uses attributes to enhance HTML with SPA behaviours. Instead of a full-blown javascript framework, it progressively enhances plain HTML to build capabilities. Better articles have been written on why . We will focus on IF it helps bring SPA-like behaviour intuitively without JavaScript fatigue. We are going to use TodoMVC as a reference implementat"
+    }
+  ]
+}

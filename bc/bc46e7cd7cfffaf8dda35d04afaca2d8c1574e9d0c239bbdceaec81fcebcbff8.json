@@ -1,0 +1,15 @@
+{
+  "url": "https://ngonella.com/feed",
+  "posts": [
+    {
+      "link": "https://ngonella.com/posts/utf-encoding/",
+      "title": "Decoding UTFs",
+      "description": "As a small project I built a simple JSON parser in C. I first added support for all data types, except for Unicode escape characters (JSON accepts values such as \\u03C0 if you don't feel like manually copy-pasting the character π with code point U+03C0 ). I didn't find it urgent to add support for them right away, but when I finally got around to it, I realized encoding Unicode characters wasn't a"
+    },
+    {
+      "link": "https://ngonella.com/posts/simple-blog/",
+      "title": "Setting Up a Simple Blog",
+      "description": "You can check the repository here . The idea to start writing a blog has been in my mind for some time now, until today that I decided to get on with it. And what better way to begin than writing about this same process? What Am I Looking For? From the start I knew I wanted something simple, easy to maintain and quick to iterate. One of the major reasons I'm doing this is to structure my thinking"
+    }
+  ]
+}

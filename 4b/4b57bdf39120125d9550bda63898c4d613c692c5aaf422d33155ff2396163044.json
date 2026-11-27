@@ -1,0 +1,20 @@
+{
+  "url": "https://peter-whittaker.com/atom.xml",
+  "posts": [
+    {
+      "link": "http://peter-whittaker.com/getting-ctags-working-with-vim-and-git",
+      "title": "About time: Setting up ctags for vim and git",
+      "description": "Professionally, I work pretty close to a bleeding edge (not the bleeding edge, but it’s still hairy here): Most of my job involves cross-domain work of one kind or another, and we prize reliability and performance in equal measure - one dropped packet in 10 billion is too many, and single-digit Gbps on 25Gbps interfaces is too slow, even with a complete protocol break and physically guaranteed one"
+    },
+    {
+      "link": "http://peter-whittaker.com/obligatory-grokking-git-post",
+      "title": "Obligatory \"What I wish I knew about git\" post",
+      "description": "tl;dr: If you think of git branch as a verb meaning diverge from this path, split my tree and think of the branch name as a label that tracks the most recent commit on this new path, a lot of stuff about git becomes clearer. You might already understand what detached HEAD means . Koan1: If I am on a branch but not at a branch, I am detached. Koan2: I can always get where I need to go, if I am comm"
+    },
+    {
+      "link": "http://peter-whittaker.com/time-travel-yay-wait-maybe-not",
+      "title": "Paradox-free Time Travel! Yay! Wait, not so fast....",
+      "description": "A recent paper on Closed Time-like Curves has editors the world over asserting that paradox-free time-travel is now possible! Readers have gotten pretty excited too…. Fantastic! If we travel back in time and cause an accident, we’ll still exist when we get back! Well, no. Or at least, not quite. These headlines are inaccurate: a more accurate headline might be “Paradox-Free Time Travel Possible, P"
+    }
+  ]
+}

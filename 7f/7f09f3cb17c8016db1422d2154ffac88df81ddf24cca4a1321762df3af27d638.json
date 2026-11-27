@@ -1,0 +1,20 @@
+{
+  "url": "https://mahis.life/feed",
+  "posts": [
+    {
+      "link": "https://mahis.life/2026/11/08/pick-anything/",
+      "title": "Pick Anything: Learning Human-like Grasps from Human Videos",
+      "description": "A single policy that performs human-like grasps on 66 different objects, from AirPods to dumbbells to pipe wrenches, trained from human video and RL with zero teleoperation data."
+    },
+    {
+      "link": "https://mahis.life/2026/09/21/agentstar/",
+      "title": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos",
+      "description": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos"
+    },
+    {
+      "link": "https://mahis.life/2026/06/17/do-as-i-do/",
+      "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+      "description": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://atempleton.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://atempleton.dev/posts/i-made-zig-compute-33-million-satellite-positions-in-3-seconds/",
+      "title": "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required.",
+      "description": "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required. Link to heading I’ve spent the past month optimizing SGP4 propagation and ended up with something interesting: astroz is now the fastest general purpose SGP4 implementation I’m aware of, hitting 11-13M propagations per second in native Zig and ~7M/s through Python with just pip install astroz . This post breaks down h"
+    },
+    {
+      "link": "https://atempleton.dev/posts/building-astrodynamics-lib-in-zig/",
+      "title": "Building My Own Astrodynamics Library In Zig",
+      "description": "Building My Own Astrodynamics Library In Zig Link to heading I have worked in the aerospace world for the past 8 years. In that time, I have picked up and worked on the some of the truly complex and precise pieces of software. However, something I really haven’t been able to spend a ton of time on is the world of astrodynamics. I wanted to learn more about what went into orbit propagation and the"
+    },
+    {
+      "link": "https://atempleton.dev/posts/part-iii-weather-cli-in-zig/",
+      "title": "Part 3: Making A Basic Weather CLI With Zig",
+      "description": "Introduction Link to heading Welcome to the final post in this series! Up until this point we have been doing mostly functional updates to our app. In this section, all of our functional updates are complete and the last thing we need to do is make our CLI look nice for the users. You can catch up by reading part 2 here Note: The final code for this series is complete and lives in the git repo her"
+    }
+  ]
+}

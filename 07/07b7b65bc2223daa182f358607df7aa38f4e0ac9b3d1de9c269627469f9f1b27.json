@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.davidv.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.davidv.dev/posts/mobile-translator-video/",
+      "title": "Live image/video translation",
+      "description": "Lens who?"
+    },
+    {
+      "link": "https://blog.davidv.dev/posts/mobile-translator-ppocr/",
+      "title": "Improving OCR quality on the translator",
+      "description": "signs and menus in shambles"
+    },
+    {
+      "link": "https://blog.davidv.dev/posts/postgres-extensions/",
+      "title": "Building extensions into libpostgres",
+      "description": "the dynamic linker is for the weak"
+    }
+  ]
+}

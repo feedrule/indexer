@@ -1,0 +1,20 @@
+{
+  "url": "https://dhruvahuja.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://dhruvahuja.me/posts/ai-impact-on-oss/",
+      "title": "I owe my career to open-source communities. I'm not sure newcomers can say the same.",
+      "description": "Open-source is cool Ever since I started learning programming, I knew I wanted to align myself with the open-source community, because of the following characteristics I found admirable: the way people built software in collaboration, with developers contributing from across the world, and the genuine care for good documentation, including internationalization (i18n) efforts. the impact open-sourc"
+    },
+    {
+      "link": "https://dhruvahuja.me/posts/emighty-have-fallen/",
+      "title": "How the (Em)ighty Have Fallen—",
+      "description": "Machine maketh the em The em dash—heavily stigmatized as a hallmark of LLMs like ChatGPT—has suddenly become the most heavily scrutinized punctuation mark on the internet. It is not, however, a recent invention, tracing its roots back to the printing press of the 15th century. As the printing press made the written word accessible to the masses, replacing painstakingly hand-copied manuscripts, a n"
+    },
+    {
+      "link": "https://dhruvahuja.me/posts/ai-translation-workflow/",
+      "title": "Creating an AI-Powered Document Translation Workflow",
+      "description": "Introduction After a 3-year break from learning Spanish, I decided to find a fun and efficient way to reconnect with the language -- creating an AI document translation app that generates bilingual documents, readable from my Obsidian-inspired Markdown Viewer web app. Both applications run on my VPS, the Markdown Viewer being publicly exposed via Caddy. The Translation Structure The following is t"
+    }
+  ]
+}

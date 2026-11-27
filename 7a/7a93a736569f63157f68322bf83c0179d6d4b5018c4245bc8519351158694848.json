@@ -1,0 +1,20 @@
+{
+  "url": "https://www.andreaverlicchi.eu/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.andreaverlicchi.eu/en/blog/migrating-from-netlify-to-cloudflare-with-antigravity-gemini-4-neon/",
+      "title": "I Had Antigravity and Gemini 4 Neon Drive the Browser to Migrate My Blog to Cloudflare",
+      "description": "Antigravity working directly inside the Cloudflare dashboard: the cursor moves, \"thinks,\" and clicks right before my eyes. Yesterday, November 20, 2026, I was sitting in the audience at performance.now() in Amsterdam . On stage was Max Inden , talking about how HTTP/3 and QUIC 0-RTT can shave multiple round-trips off network connections and speed up page loads. At one point during his talk, he cha"
+    },
+    {
+      "link": "https://www.andreaverlicchi.eu/en/blog/claude-vs-gemini-my-use-cases/",
+      "title": "Claude vs Gemini: My Use Cases",
+      "description": "There's a lot of hype and noise out there regarding Claude and Anthropic, especially after the announcement of Fable 5 and lately Opus 5. I definitely use Claude, I'm not saying I don't! But for many things, I still prefer Gemini 3.6 Flash . The reason is simple: although my company has fully adopted Claude and strongly encourages its use, being in close contact with Google and other Google develo"
+    },
+    {
+      "link": "https://www.andreaverlicchi.eu/en/blog/should-we-stop-using-the-word-responsive-for-design/",
+      "title": "Should we stop using the word \"Responsive\" for design?",
+      "description": "Back in 2010, Ethan Marcotte coined the term Responsive Web Design . Since then, we've used \"responsive\" to describe a website that adapts its layout to the viewport size. Fluid grids, flexible images, media queries. Should we use \"adaptive\" for layouts and \"responsive\" for performance? For a while, we tried to separate it from \"adaptive\" design. Back then, \"adaptive\" websites had a bit of a bad r"
+    }
+  ]
+}

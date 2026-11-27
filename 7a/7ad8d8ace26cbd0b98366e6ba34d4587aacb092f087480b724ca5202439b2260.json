@@ -1,0 +1,20 @@
+{
+  "url": "https://dmpdump.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://dmpdump.github.io/posts/websocketsbackdoor/",
+      "title": "New WebSockets Backdoor Likely Targeting Iraq",
+      "description": "On September 29 2026, @MalwareHunterTeam shared a suspicious low detection file named document.exe, uploaded to VirusTotal from Iraq on that same day. The sample has minimal detection in VirusTotal: Figure 1: Low Detection in VirusTotal. The first thing that stands out in the sample is an interesting PDB path: L:\\1-The-Last-Versions\\sendingto-costumers-version2\\TAHVILAT\\mehr\\DP-version 2.1.0..."
+    },
+    {
+      "link": "https://dmpdump.github.io/posts/Backdoor_Targeting_Afghanistan/",
+      "title": "Possible Pakistan-nexus Backdoor Targeting Afghanistan",
+      "description": "On August 29, 2026, a ZIP file containing an executable named Special Job Opportunities and Recruitment Information in Various Ministries of Afghanistan.exe and a DLL named dgxi.dll was uploaded to Virus Total from Afghanistan. The executable name and the upload origin suggest the likely targeting of an Afghanistan government agency. As expected, the executable is a legitimate executable (Appli..."
+    },
+    {
+      "link": "https://dmpdump.github.io/posts/stager_targeting_russia/",
+      "title": "Stager Targeting Russian Organization",
+      "description": "On July 28, 2026, MalwareHunterTeam shared an interesting sample apparently targeting a Russian speaking victim. The sample caught my attention because I don’t usually come across malware targeting Russia or organizations in Russia. LNK name:CGP_Заполненный_опросный_лист_по_внедрению_CommuniGate_Pro_Деловые_Линии_2026.pdf.lnk (CGP_Completed_CommuniGate_Pro_Implementation_Questionnaire_Delov..."
+    }
+  ]
+}

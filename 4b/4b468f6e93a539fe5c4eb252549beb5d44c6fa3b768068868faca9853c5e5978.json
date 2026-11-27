@@ -1,0 +1,20 @@
+{
+  "url": "https://josh.is-cool.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://josh.is-cool.dev/friendship-over-with-zola/",
+      "title": "Friendship over with Zola",
+      "description": "????? is my new best friend now. It's time to find a new static site generator. The only question is, which one? One of the main reason I've been absent here is due to breaking changes in the static site generator Zola , which runs this site. Because it's just a binary installed via the OS package manager, it updates automatically and lately they've been altering the way the config files are struc"
+    },
+    {
+      "link": "https://josh.is-cool.dev/svelte-state-sharing-just-use-classes-theyre-fine/",
+      "title": "Svelte state sharing? Just use classes. They're fine.",
+      "description": "Who here remembers Stores from Svelte 4? // counter.ts import { writable } from ' svelte/store ' ; export const count = writable ( 0 ) ; In Svelte 5, Stores are out and Runes are in. Universal reactivity baby! // counter.svelte.ts export const count = $state ( { value : 0 } ) ; The problem is there are too many different ways to share state across modules. Basically, after extensive experimentatio"
+    },
+    {
+      "link": "https://josh.is-cool.dev/offloading-svg-transitions-to-the-gpu-using-layers/",
+      "title": "Offloading SVG transitions to the GPU using layers",
+      "description": "Previously I wrote about leveraging steps() in CSS animations to enhance SVG transitions performance by essentially \"lowering the framerate\" of the transition. This worked well, but ultimately it wasn't enough, because CSS fill isn't GPU accellerated. In order to get silky smooth fading between two complex SVGs, I needed to make sure work was being offloaded to the GPU. In modern browsers (althoug"
+    }
+  ]
+}

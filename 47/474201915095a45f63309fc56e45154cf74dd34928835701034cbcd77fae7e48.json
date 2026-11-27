@@ -1,0 +1,20 @@
+{
+  "url": "https://jamhamster.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://jamhamster.wordpress.com/2026/11/15/the-cassette-o-matic-yet-another-tape-loader/",
+      "title": "The Cassette-O-Matic – Yet another tape loader.",
+      "description": "Hi, I’ve designed (not coded!) my first Android app. It’s a game loader for 3.5mm jack input and Bluetooth cassette adapters , I used Claude code but in as efficient a manner as possible. I didn’t just type “I can haz game loader app pls.”. I decided that, if I am going to use AI … Continue reading \"The Cassette-O-Matic – Yet another tape loader.\""
+    },
+    {
+      "link": "https://jamhamster.wordpress.com/2026/10/04/creating-tapes-for-the-c64-with-a-cr-669-portable-cassette-recorder/",
+      "title": "Creating tapes for the C64 with a CR-669 portable cassette recorder.",
+      "description": "I got a cheap portable cassette player with SD/USB and MP3 capability and thought I’d see if it could be used to convert .TAP images back to original cassette tapes so I could load them on a C64. I figured out a fairly reliable method so I’m documenting it here as there seems to be … Continue reading \"Creating tapes for the C64 with a CR-669 portable cassette recorder.\""
+    },
+    {
+      "link": "https://jamhamster.wordpress.com/2026/09/19/commodore-tap-file-quality/",
+      "title": "Commodore Tap File Quality. (Or why the flustering heck doesn’t this C64 game load!)",
+      "description": "Hi, I’ve been working on a games loader device since lockdown and I’m getting really close to getting this working properly. C64 loading has often been problematic. One .tap file wouldn’t work, I’d switch to an alternate tap of the same game and it would load fine. I decided to find out why. TL:DR version: … Continue reading \"Commodore Tap File Quality. (Or why the flustering heck doesn’t this C64"
+    }
+  ]
+}

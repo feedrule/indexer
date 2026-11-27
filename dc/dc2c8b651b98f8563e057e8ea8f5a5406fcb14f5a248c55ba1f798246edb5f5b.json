@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ketulpatel.dev/feed/",
+  "posts": [
+    {
+      "link": "https://blog.ketulpatel.dev/optimus-prime/",
+      "title": "optimus prime",
+      "description": "In previous post , i learnt what inference is. Before this, i thought when i ask ChatGPT to suggest me a movie, all it does is send the request to one of it's GPU, process it and send the response back. Boy was i wrong. There is some hardcore engineering involved here. But we'll persist. So today we go a little deeper. We'll start with a simple prompt: \"The cat sat\". Our model should be able to pr"
+    },
+    {
+      "link": "https://blog.ketulpatel.dev/raging-inference/",
+      "title": "raging inference",
+      "description": "What even is inference? Everybody's talking about it. I try to find out in this post. (Please don't come at me if some of this is outright wrong, i am learning _>) Inference engineering is all about making AI models work well in production. Fast, cheap, reliable and at scale. Suppose you did it. You have a 1 trillion parameters model. The holy grail of LLM. Nothing beats it and it's always right."
+    },
+    {
+      "link": "https://blog.ketulpatel.dev/what-the-hash/",
+      "title": "what the hash",
+      "description": "A genius once said, \"If you don't know how to solve a problem, throw HashMap at it.\" I might have made it up myself, but regardless, it's a strategy I often use while solving DSA problems. This made me curious: how does such a versatile data structure actually work? I knew that it involved hashing keys and storing them (duh!). But how exactly does it do it under the hood? Well, the only way to fin"
+    }
+  ]
+}

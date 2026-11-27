@@ -1,0 +1,15 @@
+{
+  "url": "https://josephscott.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://josephscott.org/blog/2026/09/type-casting-and-null-coalescing-precedence-in-php/",
+      "title": "Type Casting and Null Coalescing Precedence in PHP",
+      "description": "Take a quick glance at this PHP code: $stuff = (string) $things ?? 'nothing'; var_dump( $stuff ); If this is all the code you have, then $things does not exist,…"
+    },
+    {
+      "link": "https://josephscott.org/blog/2026/08/a-trip-to-infinity/",
+      "title": "A Trip to Infinity",
+      "description": "Netflix has an interesting show about the concept of infinity: A Trip to Infinity ( 2022 ). Worth it for the Infinite Hotel section alone."
+    }
+  ]
+}

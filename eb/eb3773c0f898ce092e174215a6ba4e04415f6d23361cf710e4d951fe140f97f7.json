@@ -1,0 +1,20 @@
+{
+  "url": "https://adrianrubio.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://adrirubio.github.io/blog/tf-luna-security-system/",
+      "title": "TF-Luna Security System",
+      "description": "H ello and welcome! The second project I worked on for Blueprint was a continuation of my Arduino Security System: the TF-Luna Security System. The natural evolution of the Arduino Security System was to design a custom PCB, create an enclosure, and make the project completely standalone and easy to use. After some initial brainstorming, I realized that this project would have to work differently"
+    },
+    {
+      "link": "https://adrirubio.github.io/blog/odins-eye/",
+      "title": "Odin's Eye",
+      "description": "H ello and welcome! Over the last few months, I have built four hardware projects for Blueprint which, once accepted, should earn me a 3D printer. The first of these projects was Odin’s Eye. I introduced Odin’s Eye in the previous journal, but here’s a quick recap: Odin’s Eye is a DIY speed camera that detects passing vehicles using a TF-Luna LiDAR sensor and measures their speed. When a vehicle p"
+    },
+    {
+      "link": "https://adrirubio.github.io/blog/hack-club-bluprint/",
+      "title": "Hack Club Blueprint (I Got Distracted Again)",
+      "description": "H ello and welcome! This week, an announcement on Hack Club caught my attention. What about the rover? Postponed. Again. On Friday, October 3rd, a new message appeared on the announcements channel on my Hack Club Slack, it read the following: Rummage Rummage 🌳 What’s that? A blueberry???🫐🫐🫐🫐🫐 Announcing……..Blueprint📘! Hack Club’s largest hardware event. Think of it as Highway (Hardware) x Summer o"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jspann.me/blog/index.xml",
+  "posts": [
+    {
+      "link": "http://jspann.github.io/blog/posts/finding_new_music/",
+      "title": "How I get and find music now",
+      "description": "Inspired by a few recent posts on HN I wanted to make this post and share some of the ways I’ve been going about finding new music. There’s both a lot of ways to get music and ways to find new music. This is a list of some things that did/didn’t work for me. While I have a wide range of interests, and after some lofty experimentation, I generally gravitate towards Cinematic Scores and Soundtracks,"
+    },
+    {
+      "link": "http://jspann.github.io/blog/posts/research_mcp/",
+      "title": "Creating another MCP server, but this one is for research",
+      "description": "In the weeks following my last blog post , I had a niggling feeling that I could apply an MCP server to my literature review. This post is my first run at exploring that. During my grad degree, it has been one of the hardest aspects I’ve had to learn: How do you take papers and distill them down to a supporting argument, a newfound gap, or evidence that something you want to build has a high chanc"
+    },
+    {
+      "link": "http://jspann.github.io/blog/posts/aboutme_mcp/",
+      "title": "Creating an MCP Server to answer questions about me",
+      "description": "I caught up with a friend on the phone on saturday who mentioned he was using an MCP Server to interact with Google Flights. Knowing how much it sucks to coordinate travel online, that immediately caught my attention. He told me about one for reddit and that used Gemini CLI ( Google, you need to advertise this more! ) to do it. Later, also on the phone, in the same day, my dad asked “What is an MC"
+    }
+  ]
+}

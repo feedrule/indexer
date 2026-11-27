@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/WhatsUpOnAprsFi",
+  "posts": [
+    {
+      "link": "http://blog.aprs.fi/2026/06/aprsfi-for-android-is-here.html",
+      "title": "aprs.fi for Android is here!",
+      "description": "For 10 years, every time a new version of the aprs.fi iPhone app came out, the first question was always the same: \"when can we have it on Android?\" For a long time I was pretty sure the answer would be \"never\" — but here we are! The aprs.fi app for Android is now available on the Google Play Store. Despite being brand new, the Android app is remarkably complete. I believe it has full feature pari"
+    },
+    {
+      "link": "http://blog.aprs.fi/2025/08/aprsfi-iphone-app-new-user-guide-and.html",
+      "title": "aprs.fi iPhone app: New user guide and other features",
+      "description": "A few updates have been released for the aprs.fi app recently, and I haven't been posting about them. It's about time! Version 2.7.1 in August 2025 added a brand new User Guide for the aprs.fi iPhone app , which is available online and within the app. It contains much more information than the old little Help view, and provides proper documentation for things like attaching a TNC/radio. A new, com"
+    },
+    {
+      "link": "http://blog.aprs.fi/2023/06/cg-antenna-gw-1000-aprs-igate-has.html",
+      "title": "CG Antenna GW-1000 APRS iGate has serious bugs",
+      "description": "The CG Antenna GW-1000 APRS iGate gateway appliance contains faulty firmware which causes severe problems to APRS messaging worldwide. The IS -> RF gateway feature must be disabled on all GW-1000 devices until the bug is fixed by CG Antenna, and firmware is updated on the devices. Please contact the vendor for further instructions. CG Antenna has asked me to publish this information so that owners"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://schepp.dev/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://schepp.dev/posts/turning-css-carousels-into-a-theme-switcher/",
+      "title": "Turning a CSS Carousel into a Theme Switcher",
+      "description": "Sometimes the web gives you an excuse to play. When Vasilis van Gemert and the team at CMD Amsterdam University of Applied Sciences announced their free community event The Web You Want , they not only asked for talks, workshops and contributions - they also invited people to submit CSS themes for the event website. Very much in the spirit of CSS Zen Garden : style the page however you want, but d"
+    },
+    {
+      "link": "https://schepp.dev/posts/rethinking-find-in-page-accessibility-making-hidden-text-work-for-everyone/",
+      "title": "Rethinking Find-in-Page Accessibility: Making Hidden Text Work for Everyone",
+      "description": "I regularly attend UX Graz ( Meetup / LinkedIn ), a meetup covering diverse UX-related topics, alternating between in-person and remote events. At one recent event, a blind speaker demonstrated how they navigate websites (on LinkedIn ). It wasn't my first time seeing someone blind use assistive technology for web navigation, but this experience stood out. Instead of relying on semantic elements li"
+    },
+    {
+      "link": "https://schepp.dev/posts/speculation-rules-for-better-sitespeed/",
+      "title": "Boost Website Speed with Prefetching and the Speculation Rules API",
+      "description": "Everybody loves fast websites, and everyone despises slow ones even more. Site speed significantly contributes to the overall user experience (UX), determining whether it feels positive or negative. To ensure the fastest possible page load times, it’s crucial to design with performance in mind. However, performance optimization is an art form in itself. While implementing straightforward technique"
+    }
+  ]
+}

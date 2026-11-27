@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mbwarez.dk/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.mbwarez.dk/posts/2026/11/hass-snapshotter/",
+      "title": "hass-snapshotter: Rendering Dashboards Faster Than an E-ink Screen Can Fall Asleep",
+      "description": "My battery e-ink panels only wake for a moment, and rendering their image took a minute. So I replaced the browser with a small HTML-to-PNG renderer for Home Assistant."
+    },
+    {
+      "link": "https://blog.mbwarez.dk/posts/2026/03/use-docker-with-ipvlan/",
+      "title": "Plex on Docker with IPvlan",
+      "description": "Giving Plex one real LAN IP so discovery stops sending clients to dead addresses"
+    },
+    {
+      "link": "https://blog.mbwarez.dk/posts/2026/01/logic-group-zdb5100-blueprint/",
+      "title": "Home Assistant blueprint for Logic Group ZDB5100 (and ZBA7140)",
+      "description": "A Z-Wave JS blueprint that exposes all 20 scene combinations across the four keys, with placeholders for your automations."
+    }
+  ]
+}

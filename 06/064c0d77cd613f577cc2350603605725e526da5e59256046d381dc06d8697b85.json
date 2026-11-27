@@ -1,0 +1,20 @@
+{
+  "url": "https://rednafi.com/index.xml",
+  "posts": [
+    {
+      "link": "https://rednafi.com/shards/2026/11/go-untyped-composite-literals/",
+      "title": "Accepted proposal: omit the type in composite literals",
+      "description": "Go 1.28 is set to let you drop the type from a composite literal when the compiler can infer it from the place where the value goes."
+    },
+    {
+      "link": "https://rednafi.com/shards/2026/11/go-maps-grow/",
+      "title": "Accepted proposal: grow an existing map with maps.Grow",
+      "description": "The maps package is getting a Grow function that presizes a map you already have, and maps.Copy will start doing it for you."
+    },
+    {
+      "link": "https://rednafi.com/go/patch-field-mask/",
+      "title": "Partial updates with field masks",
+      "description": "Keep the value and the update intent in separate fields of a PATCH request."
+    }
+  ]
+}

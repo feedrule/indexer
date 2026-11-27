@@ -1,0 +1,20 @@
+{
+  "url": "https://mnot.net/blog/index.atom",
+  "posts": [
+    {
+      "link": "https://mnot.net/blog/2026/linting_the_web",
+      "title": "Informing HTTP Extension Design with Data",
+      "description": "What 120 million HTTP responses from Common Crawl reveal about how protocol extensions actually get deployed — and what that should tell us when we design new ones."
+    },
+    {
+      "link": "https://mnot.net/blog/2026/well_known_uris",
+      "title": "So You Want To Define a Well-Known URI",
+      "description": "When to reach for a well-known URI — and the traps that catch most protocol designers."
+    },
+    {
+      "link": "https://mnot.net/blog/2026/feed-survey",
+      "title": "Web Feeds in 2026: A Survey",
+      "description": "I looked through Common Crawl and found over 500,000 parseable RSS/Atom feeds, confirming that Web feeds are still a major part of the Open Web. But most aren’t high quality, and autodiscovery often points users at stale or abandoned feeds."
+    }
+  ]
+}

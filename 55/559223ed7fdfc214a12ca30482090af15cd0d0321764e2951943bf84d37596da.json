@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ersteiger.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ersteiger.com/posts/chip-design-job-market/",
+      "title": "Analyzing 20,000 open roles in the chip design job market",
+      "description": "A sober look at ~20,000 open job postings at 51 chip, EDA and AI-chip companies — which design stages they hire for, how much AI shows up in EDA vendors' own job ads, and who is building AI-for-chip-design in-house."
+    },
+    {
+      "link": "https://ersteiger.com/posts/minitpu/",
+      "title": "miniTPU: building Google's TPU from scratch",
+      "description": "An educational build log on constructing the systolic array at the heart of Google's TPU from scratch — starting with a single NAND gate and working up to a running 2×2 array in a digital logic simulator."
+    },
+    {
+      "link": "https://ersteiger.com/posts/softmax-attention-local-constant-estimator/",
+      "title": "Softmax attention is a local constant estimator",
+      "description": "Deriving the view of softmax attention as Nadaraya-Watson kernel regression, why local constant estimators have boundary bias, and how Parallax adds a learned local-linear correction on top of softmax."
+    }
+  ]
+}

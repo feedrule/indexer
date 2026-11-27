@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.sly.so/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://sly.so/blog/actually-aim-where-the-line-will-be.html",
+      "title": "Actually, Aim Where the Line Will Be — Predictive Diff Estimation in a Streaming Edit Card",
+      "description": "⚠️ Banner : this is an engineering log. The geometry figures are measured against the shipped build of the r coding harness on one machine; the timing figures are a property of one provider's delivery pattern and are marked as such. Nothing here is a benchmark of anything but this card. TL;DR: A live diff card has to predict its own height before it has the diff. Its height is decided by the provi"
+    },
+    {
+      "link": "https://sly.so/blog/actually-simulation-bias-is-real.html",
+      "title": "Actually, Simulation Bias Is Real — Models Live in Training, Runtime Is Where They Break",
+      "description": "Models are trained in simulation. That sounds obvious until you watch a model fail in runtime. Note on framing : “simulation bias” as used here is a proposed unifying label for three related but distinct failure modes. It is not a settled term of art — the cited papers treat these issues separately, and the label is an editorial lens, not a claim of consensus. The three: Offline training signals."
+    },
+    {
+      "link": "https://sly.so/blog/actually-those-two-lines-should-never-panic.html",
+      "title": "Actually, Those Two Lines Should Never Panic!",
+      "description": "flowchart TD A[\"Start<br/>two nodes, one edge\"] -->|\"Yes\"| B[\"Continue<br/>one label\"] class A ink class B amber That is the whole input. Two nodes, one edge, one label, in the syntax Mermaid tutorials teach as the first example of an edge label. It is not an edge case. It is not malformed. It is not exotic. The renderer panics on it, in unwrap() on None , inside a layout routine it vendored from"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mort.coffee/home/feed.rss",
+  "posts": [
+    {
+      "link": "https://mort.coffee/home/sqlite-editions",
+      "title": "SQLite should have (Rust-style) editions",
+      "description": "Date: 2026-07-15 Git: https://gitlab.com/mort96/blog/blob/published/content/00000-home/00017-sqlite-editions.md SQLite is an amazing database engine. I use it as a database for plenty of embedded projects, and I don't think it's an exaggeration to call it the industry standard for local data storage. Some server software even uses it; for example, lobste.rs is now running on SQLite . Unlike tradit"
+    },
+    {
+      "link": "https://mort.coffee/home/wayland-input-latency",
+      "title": "Hard numbers in the Wayland vs X11 input latency discussion",
+      "description": "Date: 2025-01-26 Git: https://gitlab.com/mort96/blog/blob/published/content/00000-home/00016-wayland-input-latency.md Yesterday, I read this blog post: Wayland Cursor Lag: Just give me a break already... , where a Linux user discusses their frustration with input latency under Wayland. They detailed their own subjective experience of the problem, but failed to produce hard evidence. Even though I'"
+    },
+    {
+      "link": "https://mort.coffee/home/fast-interpreters",
+      "title": "Faster virtual machines: Speeding up programming language execution",
+      "description": "Date: 2023-01-15 Git: https://gitlab.com/mort96/blog/blob/published/content/00000-home/00015-fast-interpreters.md In this post, I hope to explore how interpreters are often implemented, what a \"virtual machine\" means in this context, and how to make them faster. Note: This post will contain a lot of C source code. Most of it is fairly simple C which should be easy to follow, but some familiarity w"
+    }
+  ]
+}

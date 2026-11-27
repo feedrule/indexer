@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.nawaz.info/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.nawaz.info/attempt-to-learn-elixir-functions-and-patterns",
+      "title": "Attempt to Learn Elixir: Functions and Patterns",
+      "description": "Elixir's = is a match operator, not assignment. Pattern matching + immutability are the axioms that make OTP, concurrency, and fault tolerance follow."
+    },
+    {
+      "link": "https://blog.nawaz.info/back-to-the-blog-returning-to-technical-writing-after-a-long-hiatus",
+      "title": "Back to the Blog: Returning to Technical Writing After a Long Hiatus",
+      "description": "So... I’m blogging again. It’s been a while. Maybe longer than I’d like to admit. If you’ve ever stepped away from technical blogging or any creative…"
+    },
+    {
+      "link": "https://blog.nawaz.info/ai-agents-unlocking-future-workflows",
+      "title": "AI Agents: Unlocking Future Workflows",
+      "description": "AI agents enhance workflows via self-reflection, tool use, planning, collaboration, boosting productivity, and moving closer to AGI"
+    }
+  ]
+}

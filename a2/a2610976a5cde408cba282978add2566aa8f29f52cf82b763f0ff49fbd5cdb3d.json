@@ -1,0 +1,20 @@
+{
+  "url": "https://n8henrie.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://n8henrie.com/2025/12/nix-debugging-macos-darwin-sandbox-issues/",
+      "title": "Nix: Debugging MacOS / Darwin Sandbox Issues",
+      "description": "Bottom Line: Filtering the macos logs for sandbox violations can help flesh out the root cause of sandbox-related crashes when building with nix. I recently started getting some unexpected build failures when trying to rebuild my nix-darwin system: $ nix build -v --print-build-logs github:nixos/nixpkgs/2bdc7039afa38f4330de69360a817e11f7e2f2c5#mpv-unwrapped ... mpv> buildPhase completed in 38 secon"
+    },
+    {
+      "link": "https://n8henrie.com/2025/12/how-to-set-a-conditional-breakpoint-when-debugging-rust-with-lldb/",
+      "title": "How to Set a Conditional Breakpoint When Debugging Rust with LLDB",
+      "description": "Bottom Line: A little Python can help LLDB break on String contents in Rust. A few months ago I was trying to debug some Rust code that was misbehaving. The bug was in a function that was run hundreds of thousands of times, but I had made a logic error somewhere that only seemed to manifest in a very small fraction of the cases. I had gathered a few examples that were reliably misbehaving, so I wa"
+    },
+    {
+      "link": "https://n8henrie.com/2025/10/nix-why-does-my-system-depend-on-pkg/",
+      "title": "Nix: Why Does My System Depend on $PKG?",
+      "description": "Bottom Line: nix why-depends --derivation /run/current-system and nix derivation show --recursive /run/current-system are handy. NixOS and nix-darwin users – especially those following unstable – will be familiar with the situation of nixos-rebuild or darwin-rebuild failure due to breakage in a dependency. (Said user will hopefully also be grateful that this failure prevents them from switching in"
+    }
+  ]
+}

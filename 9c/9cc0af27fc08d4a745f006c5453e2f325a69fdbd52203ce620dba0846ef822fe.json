@@ -1,0 +1,20 @@
+{
+  "url": "https://furycd001.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://furycd001.github.io/posts/understanding-shebangs/",
+      "title": "Understanding Shebangs",
+      "description": "At the very top of a shell script, there is often a seemingly insignificant line that determines how the entire script is executed: the shebang. It begins with #!, but the words and paths that follow can make a meaningful difference to portability, compatibility and reliability. Consider these three examples: #!/bin/bash #!/usr/bin/env bash #!/bin/env bash All three are intended to launch Bash, bu"
+    },
+    {
+      "link": "https://furycd001.github.io/posts/when-maintaining-opensource-software-becomes-too-much/",
+      "title": "When Maintaining Opensource Software Becomes Too Much",
+      "description": "The Gentoo Linux community is facing a small but revealing reminder of one of the biggest challenges in open-source software: keeping a project alive is not always as simple as making the source code available. On 24 October 2026, Gentoo is scheduled to remove Chromium from its official repository unless someone takes responsibility for maintaining it. The decision follows mounting difficulties ke"
+    },
+    {
+      "link": "https://furycd001.github.io/posts/a-bench-at-the-end-of-the-universe/",
+      "title": "A Bench at the End of the Universe",
+      "description": "Sometimes I wonder whether the universe really goes on forever, or whether, somewhere out there, beyond everything we have ever seen or could ever hope to understand, there might be an end. We tend to imagine the universe as something infinite, an endless expanse of stars, galaxies and darkness stretching out in every direction. But what if it isn’t? What if the universe is more like a road, a coa"
+    }
+  ]
+}

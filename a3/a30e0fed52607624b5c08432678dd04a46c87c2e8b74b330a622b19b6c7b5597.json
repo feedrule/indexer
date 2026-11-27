@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.widodh.nl/feed/",
+  "posts": [
+    {
+      "link": "https://wido.blog/2025/12/linux-bridging-with-virtual-machines-and-pure-l3-routing-and-bgp/",
+      "title": "Linux bridging with Virtual Machines and pure L3 routing and BGP",
+      "description": "For those who have followed my in the last few years know that I am a big fan of Layer 3 routing, BGP, VXLAN and EVPN. In networks I design I try to eliminate the use of Layer 2 as much as possible. Although I think VXLAN is great, it still creates a virtual Layer … Continue reading Linux bridging with Virtual Machines and pure L3 routing and BGP"
+    },
+    {
+      "link": "https://wido.blog/2025/03/routing-ipv6-through-wireguard-with-mikrotik-and-debian/",
+      "title": "Routing IPv6 through Wireguard with MikroTik and Debian",
+      "description": "Recently, I became a RIPE member, which resulted in an IPv6 /29 subnet being allocated to me. One of my main goals was to route a /48 from this /29 to my home, allowing me to use my own IPv6 addresses on my local network. However, my ISP (Ziggo Zakelijk) does not allow me to … Continue reading Routing IPv6 through Wireguard with MikroTik and Debian"
+    },
+    {
+      "link": "https://wido.blog/2025/03/i-became-a-ripe-lir/",
+      "title": "I became a RIPE LIR! :-)",
+      "description": "Early 2025 I’ve decided to become a RIPE member with my own holding (BV, Netherlands) so I could obtain my own ASN and IPv6 PA space. My goal was to obtain IPv6 space which I could use forever and knowing I would never have to renumber again. Initially I started with PI-space, but that’s limited … Continue reading I became a RIPE LIR! :-)"
+    }
+  ]
+}

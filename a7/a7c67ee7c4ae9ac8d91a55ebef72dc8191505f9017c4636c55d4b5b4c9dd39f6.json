@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.shellnetsecurity.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.shellnetsecurity.com/posts/2026/ai-alert-triage-copilot-fail-open/",
+      "title": "It Said Threat, It Stored False Alarm: Stress-Testing an AI Alert Triage Copilot",
+      "description": "An open-source SOC copilot asks Gemini whether each alert is real. An older model fell for text an attacker wrote into a log; the code around it failed worse."
+    },
+    {
+      "link": "https://blog.shellnetsecurity.com/posts/2026/oracle-patch-guard-signed-maintenance-window/",
+      "title": "Signing the Maintenance Window: Testing Oracle Patch Guard's Approval Chain",
+      "description": "Oracle Patch Guard turns a database patch approval into a signed, bound artifact. It blocked every tamper I tried, then a cloned host replayed one."
+    },
+    {
+      "link": "https://blog.shellnetsecurity.com/posts/2026/cloudbeat-posture-scan-cis-edition/",
+      "title": "Grading My Own Cloud: cloudbeat, Keyless CSPM, and the CIS Edition Behind the Score",
+      "description": "I pointed Elastic's cloudbeat at my own Kubernetes cluster and an AWS account. The posture scores were real. The CIS benchmark editions behind them were not current."
+    }
+  ]
+}

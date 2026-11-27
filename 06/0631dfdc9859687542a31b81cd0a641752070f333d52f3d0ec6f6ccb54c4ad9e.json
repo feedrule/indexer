@@ -1,0 +1,20 @@
+{
+  "url": "https://yasoob.me/index.xml",
+  "posts": [
+    {
+      "link": "https://yasoob.me/privacy/dark-mode/",
+      "title": "Dark Mode for Websites - Privacy Policy",
+      "description": "Effective Date: November 2, 2026 Dark Mode for Websites (“Dark Mode”, “the app”) is an app and Safari extension for iPhone and iPad that makes websites dark. Dark Mode works on your iPhone or iPad alone. It never collects or sends the pages you visit. The Short Version Dark Mode has no accounts, no analytics and no ads. The developer receives no data about you or the websites you visit. Everything"
+    },
+    {
+      "link": "https://yasoob.me/support/dark-mode/",
+      "title": "Dark Mode for Websites - Support Page",
+      "description": "Welcome to the support page for Dark Mode for Websites, the Safari extension that makes websites dark on iPhone and iPad. Below you’ll find how to set it up, how to use it, and what to try when something doesn’t look right. If you need more help, email bugs@yasoob.me. Table of Contents Getting Started On, Auto and Off Themes Changing One Website Syncing and Backups Troubleshooting Contact Support"
+    },
+    {
+      "link": "https://yasoob.me/posts/recording-raw-etw-events/",
+      "title": "Debugging ETW Event Drops in High-Throughput Applications",
+      "description": "We were losing millions of diagnostic events in production, but I couldn't touch the active monitoring agent. How do you fix a system you can't pause? In this post, I share a technique for running parallel ETW sessions to \"spy\" on your application's telemetry and diagnose high-frequency event drops without breaking the existing pipeline."
+    }
+  ]
+}

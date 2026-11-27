@@ -1,0 +1,20 @@
+{
+  "url": "https://willbarth.com/atom/",
+  "posts": [
+    {
+      "link": "https://willbarth.com/steganography/",
+      "title": "Steganography in large language models",
+      "description": "LLMs are, at their core, a probability distribution over text. Each generated token is selected from a long list, with an assigned probability according to the model and the preceding context. In effect, each token \"hides\" within it the probability that the LLM would select that token given the text preceding it. A few weeks ago I found myself wondering: is it possible to use this fact to encode i"
+    },
+    {
+      "link": "https://willbarth.com/the-torrid-zone/",
+      "title": "The torrid zone",
+      "description": "In the center of the magnificent Cathedral of Seville, there is a garden filled with rows of orange trees. If you were to stand among them, you might miss an unassuming iron door tucked into a corner of the courtyard. It leads to a remarkable library called the Biblioteca Colombina. Its archives contain many of Christopher Columbus' own letters and possessions. Among them is one of the main geogra"
+    },
+    {
+      "link": "https://willbarth.com/parva-carta/",
+      "title": "Parva carta",
+      "description": "This is a new blog, so we ought to make a charter. Candidly this post is a bit of an exercise in ex ante self-discipline. As a happy accident it might serve to let you, the reader, know what you're in for. I will contribute to this blog regularly. It won't be daily, since I have a full time job, and it realistically wont be weekly either. At least biweekly, let's say. If I don't keep to that you h"
+    }
+  ]
+}

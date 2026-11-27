@@ -1,0 +1,20 @@
+{
+  "url": "https://helpercode.com/feed/",
+  "posts": [
+    {
+      "link": "https://helpercode.com/2026/07/14/two-old-ideas-one-predictable-future-why-kiros-spec-driven-with-property-based-flow-is-my-favorite-feature/",
+      "title": "Two Old Ideas, One Predictable Future: Why Kiro’s Spec-Driven with Property-Based Flow Is My Favorite Feature",
+      "description": "Most “new” ideas in software are older than we think. The thing I love most about building with Kiro is that it doesn’t invent a gimmick — it takes two battle-tested ideas that have been quietly proving themselves for a quarter of a century and finally makes them work together, end to end. Let me … Continue reading Two Old Ideas, One Predictable Future: Why Kiro’s Spec-Driven with Property-Based F"
+    },
+    {
+      "link": "https://helpercode.com/2026/03/30/using-kiro-sub-agents-to-improve-test-coverage/",
+      "title": "Using Kiro Subagents to Improve Test Coverage",
+      "description": "Every developer knows the sinking feeling. A “simple” change breaks production. You realize there were no tests catching the edge case. Poor test coverage means longer debugging sessions, more production incidents, and that nagging anxiety every time you deploy. But here’s the catch-22: going back to add tests to existing code feels like an overwhelming … Continue reading Using Kiro Subagents to I"
+    },
+    {
+      "link": "https://helpercode.com/2026/03/16/kiro-for-test-driven-development-tdd/",
+      "title": "Kiro for Test-Driven Development (TDD)",
+      "description": "This post explores the compatibility of Test-Driven Development (TDD) with AI coding assistants, specifically using Kiro, an AI-powered IDE. The author conducts an experiment involving the Number Parser Kata to demonstrate how Kiro effectively follows TDD principles, emphasizing that TDD remains essential for ensuring that AI-generated code solves the intended problems accurately."
+    }
+  ]
+}

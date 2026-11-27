@@ -1,0 +1,20 @@
+{
+  "url": "https://anasismail.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://anasismail.com/the-oldest-literary-time-machine/",
+      "title": "The Oldest Literary Time Machine",
+      "description": "In June 2018, I wrote about H. G. Wells’s The Sleeper Awakes. Its protagonist, Graham, sleeps for centuries and wakes in a dystopia. In one passage, Wells’s characters mention Edward Bellamy and compare Graham’s predicament to the one in Bellamy’s Looking Backward. Bellamy’s protagonist, Julian West, also wakes after a long sleep, but in a utopia. The following month, I wrote about Bellamy’s novel"
+    },
+    {
+      "link": "https://anasismail.com/i-used-an-llm-as-a-web-server/",
+      "title": "I used an LLM as a Web Server",
+      "description": "I used an LLM as a web-server. My motivations for doing so are as unclear to myself as they are to you. This is just something I’d been wanting to experiment with for a while. It’s currently live at llmasaserver.pages.dev. The code is at github.com/anasik/llm-as-a-server. Prologue Ever since I generated my first Gemini API key, I’ve had this crazy idea of making an LLM respond to HTTP requests whi"
+    },
+    {
+      "link": "https://anasismail.com/so-you-still-want-to-write-an-ef-core-provider/",
+      "title": "So You (Still) Want to Write an EF Core Provider",
+      "description": "In 2016, Arthur Vickers wrote a post called “So you want to write an EF Core provider.” The post says right at the bottom that it’s “up-to-date as of November 11th, 2016.” It was written against EF Core 1.1, and almost none of the specific types it names still exist. Last year, when I wanted to write a provider for Azure Database Explorer AKA Kusto, I found myself reading that post and struggling"
+    }
+  ]
+}

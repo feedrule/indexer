@@ -1,0 +1,20 @@
+{
+  "url": "https://www.yellowduck.be/posts/feed",
+  "posts": [
+    {
+      "link": "https://www.yellowduck.be/posts/running-independent-work-concurrently-in-elixir-without-losing-your-error-handling",
+      "title": "🐥 Running Independent Work Concurrently in Elixir without Losing Your Error Handling",
+      "description": "Some workflows are slow, not because the work is hard, but because we do it one step at a time. A typical example is a pipeline that calls an LLM (or any slow external service) several times: clean up a body of text, generate a title, produce a social media blurb, and suggest tags. Each call takes seconds, none depends on another's output, and yet they run back to back. Elixir makes concurrency ch"
+    },
+    {
+      "link": "https://www.yellowduck.be/posts/product-integrations-build-or-buy",
+      "title": "🔗 Product Integrations: Build or Buy?",
+      "description": "What if the choice between building integrations and buying them isn’t really binary? Nango’s guide weighs the trade-offs: building offers control and can make sense when integrations are central to the product and the team has relevant expertise, but API-specific work, maintenance, and opportunity costs can consume engineering time. Buying can speed up launches and shift infrastructure work to a"
+    },
+    {
+      "link": "https://www.yellowduck.be/posts/i-dont-trust-on-delete-cascade",
+      "title": "🔗 I don't trust ON DELETE CASCADE",
+      "description": "What looks like a one-line cleanup can turn into a database-wide traffic jam. Tom Pang explains how large Postgres ON DELETE CASCADE operations can hold locks across many tables, generate huge amounts of WAL, and block writes when a migration needs an AccessExclusiveLock . Missing indexes on foreign keys can make even a single-row delete trigger full table scans. The article also details logical r"
+    }
+  ]
+}

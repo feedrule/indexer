@@ -1,0 +1,20 @@
+{
+  "url": "https://thenextbug.com/index.xml",
+  "posts": [
+    {
+      "link": "https://thenextbug.com/no/",
+      "title": "No as a Service",
+      "description": null
+    },
+    {
+      "link": "https://thenextbug.com/posts/donotbuild3/",
+      "title": "A Blog Stack No One Should Build pt. 3 of ?",
+      "description": "Recap In the last article, we left off with our DNS records setup in Digital Ocean and Name Cheap was configured to point to those zones. The manual portion of that setup is pretty easy to deal with and is quite well documented on the DO side of things. In Name Cheap’s UI it looks something like this. Next it’s time to spin up a Kubernetes cluster and actually put attach something to the domains."
+    },
+    {
+      "link": "https://thenextbug.com/posts/donotbuild2/",
+      "title": "A Blog Stack No One Should Build pt. 2 of ?",
+      "description": "Recap In the last article, we went through a subset of the technologies involved in this project: Let’s Encrypt Terraform Kubernetes Digital Ocean Github We also setup some very basic Terraform files to get connected to Digital Oceans API. If it wasn’t fully clear from that last post, this is not meant to be a tutorial on how to build out an extremely over/under engineered blog running in Kubernet"
+    }
+  ]
+}

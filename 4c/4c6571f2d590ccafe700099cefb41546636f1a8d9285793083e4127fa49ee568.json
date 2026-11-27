@@ -1,0 +1,15 @@
+{
+  "url": "https://domi.work/rss.xml",
+  "posts": [
+    {
+      "link": "https://domi.work/blog/posts/compose_polyglot/",
+      "title": "Executable compose files",
+      "description": "Can a container compose file simultaneously be a shell script? Yes!"
+    },
+    {
+      "link": "https://domi.work/blog/posts/initial_post/",
+      "title": "An exercise for the reader",
+      "description": "Try to solve this math exercise to uncover what this post is about!"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://shape-of-code.com/feed/",
+  "posts": [
+    {
+      "link": "https://shape-of-code.com/2026/11/15/the-future-is-a-personal-menagerie-of-bespoke-apps/",
+      "title": "The future is a personal menagerie of bespoke apps",
+      "description": "Developers write small programs to solve specific problems, with some of these programs deleted soon after use and a few having a long lifetime. It is now possible to cheaply create much larger programs to solve specific problems, thanks to coding agents. It’s now possible for non-programmers to create small application (I have chatted with […]"
+    },
+    {
+      "link": "https://shape-of-code.com/2026/11/08/non-trivial-data-analysis-using-coding-agents/",
+      "title": "Non-trivial data analysis using coding agents",
+      "description": "Users cause faults in that they select the code that is executed (via the application functionality used), and provide the input that triggers the coding mistakes. Some application functionality is rarely used, while other functionality is often used. Can we go as far as to say that 20% of functionality is used 80% of the […]"
+    },
+    {
+      "link": "https://shape-of-code.com/2026/11/01/vote-to-adopt-the-c26-draft-as-the-new-iso-standard-fails/",
+      "title": "Vote to adopt the C++26 draft as the new ISO standard fails",
+      "description": "The vote to replace the ISO 2023 C++ Standard with an updated version has failed. Of the 28 P-member countries of SC22, 12 voted Approval, 8 voted Disapproval, and 8 Abstention. At least 66.66% of Approval votes are required (received 60%) and less than or equal 25% of Disapproval votes (received 41%), with Abstention votes […]"
+    }
+  ]
+}

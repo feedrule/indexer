@@ -1,0 +1,20 @@
+{
+  "url": "https://e-whisper.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://e-whisper.com/posts/25700/",
+      "title": "Deploying DeepSeek Harness into K8s",
+      "description": "Moving DeepSeek Harness from the local ~/.dsh into k3s, with a vendored flat chart, four RWO PVCs, manual scripts instead of initContainers, and two hard constraints imposed by Tailscale L7 Ingress and Cilium SNAT."
+    },
+    {
+      "link": "https://e-whisper.com/posts/51252/",
+      "title": "IPv6 Address Present but No Connectivity: A Complete Diagnosis of an iStoreOS ip6class Mismatch",
+      "description": "Documenting a troubleshooting session where iStoreOS obtained an IPv6 address but could not reach the internet, traced to a mismatch among ip6class, delegate, and wan6.device, with the fix and verification steps."
+    },
+    {
+      "link": "https://e-whisper.com/posts/25986/",
+      "title": "Node IPv6 Prefix Drift: The Silent Cross-Node Pod Network Failure Behind a \"Just an Alert\"",
+      "description": "Behind a single kubelet secondaryNodeIP alert, cross-node IPv6 pod communication had already silently failed. This post documents the complete remediation, from evidence gathering and root cause analysis to the ULA migration and the path to making it take effect in Cilium."
+    }
+  ]
+}

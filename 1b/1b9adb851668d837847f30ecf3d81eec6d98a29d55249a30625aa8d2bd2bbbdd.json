@@ -1,0 +1,20 @@
+{
+  "url": "https://ashu1461.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ashu1461.com/posts/the-age-of-uberengineers/",
+      "title": "The rise of Überengineers",
+      "description": "Engineers who can do much more than just code will become common"
+    },
+    {
+      "link": "https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/",
+      "title": "You can't stop people from using AI",
+      "description": "I am seeing a lot of resentment from leaders / managers / team members that their coworkers are using AI, which I can understand, but I feel that putting blame on individuals is wrong. There are three issues primarily One, people have a hard time keeping up with AI's output. AI can generate output much faster than humans can consume it. PRs are produced at a rate which makes human review hard. A o"
+    },
+    {
+      "link": "https://ashu1461.com/posts/a-calorie-tracker-on-my-garmin-watch/",
+      "title": "Calorie tracker for my Garmin watch",
+      "description": "I already use my Garmin watch to track my steps and calories burned. I wanted to add a simple calorie tracker so I could see how many calories I had eaten and their nutritional breakdown. I also did not want to use any heavy frameworks or pay for third-party apps. FOOD 1829 Desired workflow # I send a photo of the food I am eating to ChatGPT, along with nutrition information if it is available. Ch"
+    }
+  ]
+}

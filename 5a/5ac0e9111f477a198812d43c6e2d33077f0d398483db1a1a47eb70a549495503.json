@@ -1,0 +1,20 @@
+{
+  "url": "https://patrickm.de/rss/",
+  "posts": [
+    {
+      "link": "https://patrickm.de/plugin-architecture-across-service-boundaries-an-api-contract-with-pydantic-fastapi-pt-1/",
+      "title": "Plugin Architecture Across Service Boundaries: An API Contract with Pydantic & FastAPI - Pt. 1",
+      "description": "This articles shows how to build a service-level plugin architecture with Pydantic and FastAPI. I will be using an API contract package that plugin providers implement and our platform validates the contract during registration. Our team operates an internal RAG platform: it crates embeddings from data, stores them in"
+    },
+    {
+      "link": "https://patrickm.de/static-protocols-in-python/",
+      "title": "Static Protocols in Python: Behaviour Over Inheritance",
+      "description": "The first time I read about protocols was in the book \"Fluent Python\" by Luciano Ramalho. This book goes deep. Deeper than I knew Python at that time. If you hadn't heard of Protocols before, I'll give you a short introduction. Protocols have something"
+    },
+    {
+      "link": "https://patrickm.de/building-internal-dev-tools/",
+      "title": "How to build internal developer tools with a small team",
+      "description": "There are thousands of resources on how to build good software products. When I was developing my first SaaS product, LemonSpeak, I often found myself in the same loop: Should I implement a new feature or improve an existing one? The question seems easy - but it isn't. I"
+    }
+  ]
+}

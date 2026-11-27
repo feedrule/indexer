@@ -1,0 +1,20 @@
+{
+  "url": "https://thekeesh.com/feed/",
+  "posts": [
+    {
+      "link": "https://thekeesh.com/2026/04/updating-neighborhood-thekeesh-com/",
+      "title": "Updating neighborhood.thekeesh.com",
+      "description": "So about ten years ago (2016) we created a spreadsheet comparing neighborhoods across cities, answering the question like “What’s the Mission of NYC?” Then in 2018 put together a simple django app to let people add their comparisons. Using Claude I was able to refresh update and migrate that, and very quickly add in more …"
+    },
+    {
+      "link": "https://thekeesh.com/2026/04/how-i-migrated-16-sites-between-linode-servers-in-1-day-with-claude-code/",
+      "title": "How I migrated 16 sites between Linode servers in 1 day with Claude Code",
+      "description": "I’ve had an old Linode server hosting my websites now since 2011, and was behind on upgrades and Ubuntu versions, making it harder and harder to upgrade over time. And I had 16+ sites hosted on it across static sites, wordpress sites, and simple django apps. I had wanted to migrate for a while but …"
+    },
+    {
+      "link": "https://thekeesh.com/2025/03/new-orleans-notes-march-2025/",
+      "title": "New Orleans Notes March 2025",
+      "description": "We recently took a trip to New Orleans, here’s a quick list of where we went. Mostly a lot of food, walking and music– very fun spot to visit. Here’s a list of some of the places we went by category. Brunch Ruby Slipper Bearcat CBD Elysian Bar Alma All really good! Alma probably our …"
+    }
+  ]
+}

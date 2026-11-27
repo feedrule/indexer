@@ -1,0 +1,20 @@
+{
+  "url": "https://corte.si/atom.xml",
+  "posts": [
+    {
+      "link": "https://corte.si/posts/spacecurve/announce/",
+      "title": "Spacecurve",
+      "description": "In 2024, I noticed that I'd let my blog languish. Since the issue was urgent, I made a firm new year's resolution to address the situation in 2025. Which is why, today, in January 2026, I'm writing this post. I've just released spacecurve , a new just-for-fun space-filling curve project. It's is the latest symptom of a long preoccupation with these beautiuful mathematical objects. Over the years,"
+    },
+    {
+      "link": "https://corte.si/posts/code/genzoo/",
+      "title": "Generative zoology with neural networks",
+      "description": "A couple of years ago a paper titled Progressive Growing of GANs for Improved Quality, Stability, and Variation cropped up on my reading list. It describes growing generative adversarial networks progressively, starting with low-resolution images, and then building up more detail as training goes on. It got quite a bit of press at the time because the authors used their idea to generate realistic,"
+    },
+    {
+      "link": "https://corte.si/posts/personal/tragedy/",
+      "title": "Some personal thoughts on our national tragedy",
+      "description": "Outside the Al Huda Mosque near my home (by Mark McGuire ) A year ago, my wife and I decided to become citizens of New Zealand. Both of our sons were born here and are full, native Kiwis. It felt odd for our family not to have this in common, and besides, our own connection with New Zealand had grown strong over the happy decade we'd lived here. It was time to take the plunge. Forms were filled in"
+    }
+  ]
+}

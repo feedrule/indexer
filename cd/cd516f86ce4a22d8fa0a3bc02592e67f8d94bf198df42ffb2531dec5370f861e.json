@@ -1,0 +1,20 @@
+{
+  "url": "https://ethanplant.ca/rss.xml",
+  "posts": [
+    {
+      "link": "https://ethanplant.ca/notes/linux-fork/",
+      "title": "I Forked Linux for the Green Square",
+      "description": "I do not need a fork of Linux. I'm not maintaining some exciting kernel tree. I have zero expectation that Linus Torvalds is going to discover my GitHub account and think, finally, the missing piece. I forked torvalds/linux because GitHub has rules. I recently sent a two-line patch to the Linux kernel. It already has a review. Assuming nothing strange happens, it will eventually make its way throu"
+    },
+    {
+      "link": "https://ethanplant.ca/writing/aur-security/",
+      "title": "The AUR Is Not an App Store",
+      "description": "The Arch User Repository has a malware problem. On July 30, Arch Linux disabled package adoption in the AUR. The reason was fairly direct, there had been an influx of malicious package adoptions followed by malicious commits. People were taking over orhpaned packages and using the existing identity to push malware. Two days later, on August 1, it went further . Hi everyone, We have now disabled pu"
+    },
+    {
+      "link": "https://ethanplant.ca/notes/agent-cli/",
+      "title": "The Human Is Not a Guest in Their Own Terminal",
+      "description": "Akeem Jenkins recently wrote an interesting piece arguing for agent-first command-line tools : CLIs designed around the assumption that their main caller is a language model rather than a person. There's a good argument inside of it. CLIs should expose structured output. Their errors should have stable categories. They should be callable without a human answering prompts halfway through. Secrets s"
+    }
+  ]
+}

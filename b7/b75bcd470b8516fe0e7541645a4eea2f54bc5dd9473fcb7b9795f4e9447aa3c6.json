@@ -1,0 +1,20 @@
+{
+  "url": "https://devdosvid.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://devdosvid.blog/2026/04/10/the-pipeline-was-green/",
+      "title": "The Pipeline Was Green: AI Agents and CI Trust",
+      "description": "AI agent in CI/CD: our pipeline said green, the agent trusted it, and it broke QA for three days. The problem wasn't the agent — it was our false signals."
+    },
+    {
+      "link": "https://devdosvid.blog/2026/04/07/layers-made-it-universal.-harnesses-made-it-run/",
+      "title": "Harness Engineering: Layers Made It Universal",
+      "description": "Harness engineering for infrastructure: a prompt pipeline mixing scripts, AI, and validation made a 21-service ECS-to-EKS migration trustworthy."
+    },
+    {
+      "link": "https://devdosvid.blog/2026/03/18/full-attendance-zero-presence/",
+      "title": "Full Attendance, Zero Presence in Meetings",
+      "description": "Active listening in engineering meetings — silent-nod failures, solving before hearing, and what real presence looks like in 1:1s and all-hands."
+    }
+  ]
+}

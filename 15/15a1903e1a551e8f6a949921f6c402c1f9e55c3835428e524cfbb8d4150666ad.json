@@ -1,0 +1,20 @@
+{
+  "url": "https://vnmakarov.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://vnmakarov.github.io/data%20structures/c/c++/open-source/2026/06/23/two-indexed-hash-tables.html",
+      "title": "Two Indexed Hash Tables",
+      "description": "Two Indexed Hash Tables"
+    },
+    {
+      "link": "https://vnmakarov.github.io/parsing/compilers/c/open-source/2026/04/22/gecko-glr.html",
+      "title": "Gecko: a fast GLR parser with automatic syntax error recovery",
+      "description": "Gecko: A Fast, Standalone GLR Parser Library in C"
+    },
+    {
+      "link": "https://vnmakarov.github.io/performance/optimization/2025/11/25/mum-based-hash-functions.html",
+      "title": "MUM-based hash functions",
+      "description": "I have had a long-standing interest in hash functions. This interest naturally grew out of my 40 years of work on compilers and various programming language processors. The reason is simple: the most efficient universal search–insert-delete data structure in compilers is the hash table. Although hash table can have a quadratic complexity in the worst case, in practice it outperforms any n*long(n)"
+    }
+  ]
+}

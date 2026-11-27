@@ -1,0 +1,20 @@
+{
+  "url": "https://www.awongcm.io/atom.xml",
+  "posts": [
+    {
+      "link": "http://awongcm.io/blog/2026/11/15/ditch-h2-real-postgresql-and-kafka-integration-tests-with-junit-and-testcontainers/",
+      "title": "Ditch H2: Real PostgreSQL and Kafka Integration Tests with JUnit and Testcontainers",
+      "description": "TL;DR : An in-memory H2 database and an embedded broker only prove that your code works against something like production. Testcontainers gives JUnit tests a real PostgreSQL and a real Kafka in Docker. With Spring Boot’s @ServiceConnection , it takes about ten lines of config. Generated AI image by Google Gemini Nano Banana Introduction We’ve all had this build: every test is green, the pipeline i"
+    },
+    {
+      "link": "http://awongcm.io/blog/2026/10/24/receipts-not-vibes-how-to-ask-an-agent-to-audit-and-finally-finish-your-github-backlog/",
+      "title": "Receipts, Not Vibes: How to Ask an Agent to Audit (and Finally Finish) Your GitHub Backlog",
+      "description": "Generated AI image by Gemini Nano Banana TL;DR — Experienced engineers don’t lack ideas. We have backlogs of half-finished repos that life got in the way of. AI agents now make it realistic to finish them, but only if you can tell what’s actually done. I asked an agent to audit all 70 of my own GitHub repos against hard evidence of agent work, not my memory and not README vibes. It came back with"
+    },
+    {
+      "link": "http://awongcm.io/blog/2026/09/29/jev-decoded-what-a-system-one-model-is-actually-good-for-in-agentic-coding-and-what-it-isn-t/",
+      "title": "Jev, Decoded: What a System One Model Is Actually Good For in Agentic Coding (and What It Isn't)",
+      "description": "TL;DR : Jev is a genuinely useful, very fast decision component you can wire into an agent loop for routing, triage and gating — but it isn’t a coding model, it isn’t a new form of AI, and it isn’t “193x” anything by default. Learn the narrow job it does well, and let the rest of the noise go. Generated AI image by Google Gemini Nano Banana Introduction If your LinkedIn or X feed looked anything l"
+    }
+  ]
+}

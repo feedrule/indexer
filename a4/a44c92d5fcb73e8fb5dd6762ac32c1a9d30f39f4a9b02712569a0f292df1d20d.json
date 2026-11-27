@@ -1,0 +1,20 @@
+{
+  "url": "https://freshworktree.com/rss/",
+  "posts": [
+    {
+      "link": "https://freshworktree.com/plan-mode-is-dead/",
+      "title": "Plan mode is dead?",
+      "description": "Technical evaluation of plan mode vs goal mode on a Claude Code and OpenCode harness setup."
+    },
+    {
+      "link": "https://freshworktree.com/run-qwen-flash-next-q4-on-a-mac-mini-430-tks-read-in-29-tks-decode/",
+      "title": "Run Qwen Flash Next Q4 on a Mac Mini (430 tks read in / 29 tks decode)",
+      "description": "This article is a technical write up of how to run Qwen Flash Next (QFN) Q4, a 125b parameter leading open weight model, on a Mac Mini M5 64GB."
+    },
+    {
+      "link": "https://freshworktree.com/an-interview-with-doc-midnight/",
+      "title": "An Interview with Doc Midnight",
+      "description": "An engaging interview with a leading AI engineer, I welcome Doc Midnight as the first interviewee of the blog!"
+    }
+  ]
+}

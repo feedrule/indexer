@@ -1,0 +1,20 @@
+{
+  "url": "https://vazgriz.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://vazgriz.com/892/creating-a-flight-simulator-in-unity3d-part-4-autopilot/",
+      "title": "Creating a Flight Simulator in Unity3D Part 4: Autopilot",
+      "description": "This is the fourth part of my flight sim series. You can read the first three parts here, one, two, and three. These cover basic flight simulation, HUD, and combat AI respectively. This article will discuss creating an autopilot system for the flight simulator. The AI created in part 3 only handles combat. For non ... Read more"
+    },
+    {
+      "link": "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/",
+      "title": "Translating a Fortran F-16 Simulator to Unity3D",
+      "description": "I recently purchased the textbook “Aircraft Control and Simulation” by Brian L. Stevens, Frank L. Lewis, and Eric N. Johnson. This book covers the control and simulation of aircraft. It’s really dense and frankly hard to understand. As far as aerodynamics texts go, it’s pretty typical. One interesting item in the appendices of the book ... Read more"
+    },
+    {
+      "link": "https://vazgriz.com/621/pid-controllers/",
+      "title": "PID Controllers in Unity3D",
+      "description": "This post will cover the use of PID controllers in video games. If you’ve ever used your car’s cruise control, flown a quadrocopter, or piloted a rocket, then there’s a good chance that you’ve used a PID controller. A PID controller is a type of control loop that’s used for automation. PID controllers are flexible ... Read more"
+    }
+  ]
+}

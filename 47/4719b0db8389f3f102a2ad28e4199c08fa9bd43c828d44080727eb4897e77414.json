@@ -1,0 +1,20 @@
+{
+  "url": "https://arielsalminen.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://arielsalminen.com/2026/progressive-web-components/",
+      "title": "Progressive Web Components",
+      "description": "I’ve worked with web components for nearly a decade and built various enterprise-scale design systems with them. While I love what they offer on paper, the same pain points keep coming back: Layout shifts, flash of unstyled content, poor server-side rendering support, too much reliance on client side JavaScript, doesn't play well with frame works like React Server Components, accessibility issues,"
+    },
+    {
+      "link": "https://arielsalminen.com/2026/hiring-a-design-engineer-for-kesko-design-system/",
+      "title": "Hiring a Design Engineer for Kesko Design System",
+      "description": "Hi 👋🏻, I’m Arielle , a Design Systems Architect working with Kesko . I’m currently helping to strengthen the existing design systems team in the organization, whose main responsibility is building and maintaining Kesko’s design and frontend infrastructure. Right now, we’re looking for an experienced Design Engineer to join this newly founded team. Someone who has a hybrid designer/developer experi"
+    },
+    {
+      "link": "https://arielsalminen.com/2025/on-freedom-curiosity-and-happiness/",
+      "title": "On Freedom, Curiosity & Happiness",
+      "description": "I have been recently contemplating the intricate relationship between my personal life and the work I do , particularly how these domains inevitably get intertwined and influence one another. It’s not always easy to keep these separate, especially when one’s vocation transcends mere occupation to become a genuine passion and source of fulfillment. A job, much like a relationship , often starts wit"
+    }
+  ]
+}

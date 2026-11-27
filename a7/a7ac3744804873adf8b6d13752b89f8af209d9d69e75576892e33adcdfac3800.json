@@ -1,0 +1,20 @@
+{
+  "url": "https://dewey.dunnington.ca/index.xml",
+  "posts": [
+    {
+      "link": "https://dewey.dunnington.ca/post/2026/wrangling-and-joining-130m-points...in-2026/",
+      "title": "Wrangling and joining 130M points...in 2026",
+      "description": "About a year and a half ago I wrote a post on “wrangling” and joining 130 million points using various open source tools . Shortly thereafter I joined Wherobots where I get to spend most of my time building SedonaDB , a tool purpose-built to make exactly that sort of wranging and joining effortless. Until today I had never checked back to the query that got me thinking about all of this to see if"
+    },
+    {
+      "link": "https://dewey.dunnington.ca/post/2025/day-24-the-mud-lakes-of-nova-scotia/",
+      "title": "Day 24: The Mud Lakes of Nova Scotia",
+      "description": "With apologies for skipping the last 18 days…it’s day 24 of the 30 day map challenege and I’m back! In my first post about SedonaDB I did a brief investigation into the least creatively named waterbodies in Nova Scotia based on the water segments data in Nova Scotia. Anecdotally I’m also aware that there are many “Long Lake\"s and “Little Rivers” out there that paddlers (and lake scientists) have t"
+    },
+    {
+      "link": "https://dewey.dunnington.ca/post/2025/day-6-dimensions/",
+      "title": "Day 6: Dimensions",
+      "description": "Day 6 of the 30 day map challenege is Dimensions, and when I read the prompt I immediately thought: I have to do something with M values. M values, you say? It’s true that these don’t come up as often as Z, but many spatial specifications out there allow combinations of XY, XYZ, XYM, or XYZM values. The M stands for “measure” because I think the original motivation was that sometimes the linear di"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.joshgav.com//feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.joshgav.com//posts/how-it-works-ocm-acm",
+      "title": "How it works - Open Cluster Management and ACM",
+      "description": "Describes how Open Cluster Management (OCM) works and how OpenShift’s MultiCluster Engine (MCE) and Advanced Cluster Management (ACM) build on it to distribute work as Kubernetes resources across a fleet of clusters."
+    },
+    {
+      "link": "https://blog.joshgav.com//posts/why-openshift-rosa-on-aws",
+      "title": "Why Red Hat OpenShift on AWS - ROSA",
+      "description": "For my daily research and development I primarily use the managed OpenShift service on AWS known as ROSA . It provides a ready-to-use Kubernetes cluster in under an hour pre-configured with network providers - CNI, storage providers - CSI, identity and access management (IAM), an administrator and a developer portal and much more. A bunch of recent and existing additions make ROSA more compelling"
+    },
+    {
+      "link": "https://blog.joshgav.com//posts/orchestrate-platforms-with-kubernetes",
+      "title": "Orchestrate platforms with Kubernetes",
+      "description": "Sometimes an obvious idea still deserves to be stated explicitly. One such idea is that the Kubernetes API and its ever-growing ecosystem of extensions and extensibility frameworks is an ideal open, portable orchestrator for today’s emerging internal enterprise developer platforms. In this post I’ll explain why that is and what it means to adopt Kubernetes as orchestrator. To set the stage, our in"
+    }
+  ]
+}

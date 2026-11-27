@@ -1,0 +1,20 @@
+{
+  "url": "https://c-for-dummies.com/blog/?feed=rss2",
+  "posts": [
+    {
+      "link": "https://c-for-dummies.com/blog/?p=7895",
+      "title": "Binary Fraction Comparison",
+      "description": "How do my results match up with the binary32 format? Continue reading →"
+    },
+    {
+      "link": "https://c-for-dummies.com/blog/?p=7877",
+      "title": "Fractions of the Binary Kind",
+      "description": "For the love of negative powers of two. Continue reading →"
+    },
+    {
+      "link": "https://c-for-dummies.com/blog/?p=7862",
+      "title": "Counting Without Looping – Solution",
+      "description": "The challenge for this month’s Exercise is to code a program that loops n times without using a looping keyword or statement. As you can probably guess, the solution involves recursion. For my approach, I created the recursive function count(). … Continue reading →"
+    }
+  ]
+}

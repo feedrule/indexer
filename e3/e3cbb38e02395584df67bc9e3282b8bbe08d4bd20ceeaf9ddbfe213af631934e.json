@@ -1,0 +1,20 @@
+{
+  "url": "https://sebi.io/index.xml",
+  "posts": [
+    {
+      "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "title": "Allow me to get to know you, mistakes and all",
+      "description": "I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea: When you run your message t"
+    },
+    {
+      "link": "https://sebi.io/posts/2026-01-25-working-out-on-the-kickr-core-without-a-subscription/",
+      "title": "Working out on the Kickr Core without a subscription",
+      "description": "I like cycling. I don’t like paying money regularly for an application that varies the resistance on my indoor bike. I use a Kickr Core , which luckily isn’t really “proprietary” in any sense of the word (despite, in my home setup, being plugged into a Zwift Ride Smart Frame , the smartness of which I do not rely on for everyday riding.) Thankfully, through the power of the internet, open source,"
+    },
+    {
+      "link": "https://sebi.io/posts/2024-12-21-faster-thumbnail-generation-with-ffmpeg-seeking/",
+      "title": "Generating thumbnails 3.8x faster by using ffmpeg seeking instead of fps filtering",
+      "description": "As part of tinkering with reelchest , one of the tasks I need to tackle is thumbnail generation. A few ways to do that are described in the official ffmpeg documentation . Since I want to create more than one thumbnail per media file (hopefully, so that I can do some kind of cool crossfade effect that makes the entire application feel a bit more lively), I opted for the fps video filter. Here’s th"
+    }
+  ]
+}

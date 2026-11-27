@@ -1,0 +1,20 @@
+{
+  "url": "https://guillaumebriday.fr/articles.xml",
+  "posts": [
+    {
+      "link": "https://guillaumebriday.fr/block-ads-without-pi-hole-with-a-hosts-file?utm_source=rss&utm_medium=feed/",
+      "title": "Block ads and trackers without Pi-hole, with a hosts file",
+      "description": "A few years ago I wrote about installing Pi hole on a headless Raspberry Pi Zero W, and I still think it's the nicest way to clean up a whole network at once, phones and TVs included. But it's also a machine to keep alive. It's a DNS server the…"
+    },
+    {
+      "link": "https://guillaumebriday.fr/add-read-only-permissions-to-your-rails-api-tokens?utm_source=rss&utm_medium=feed/",
+      "title": "Add read-only permissions to your Rails API tokens",
+      "description": "Slog app, my time tracking SaaS, exposes a public REST API following the JSONAPI specification. Authentication is straightforward: the user generates a personal API token from their profile, and sends it as a Bearer token. Simple, but until recently…"
+    },
+    {
+      "link": "https://guillaumebriday.fr/how-to-use-claude-code-from-your-iphone-with-tailscale-and-termius?utm_source=rss&utm_medium=feed/",
+      "title": "How to use Claude Code from your iPhone with Tailscale and Termius",
+      "description": "Claude Code runs in a terminal, on your machine, with your files and your git repositories. That's exactly what makes it good, and also what ties you to your laptop . But a lot of the time, you don't need to be at your desk. You want to kick off a…"
+    }
+  ]
+}

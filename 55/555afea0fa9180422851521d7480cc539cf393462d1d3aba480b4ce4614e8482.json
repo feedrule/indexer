@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.colindou.ch/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.colindou.ch/posts/my-thoughts-on-ai/",
+      "title": "My thoughts on AI",
+      "description": "If there’s one thing that has come to define the modern era, it’s AI. From the early days of ChatGPT, to image generation, to the massive sweeping statements about how AI is going to “change the world”, and “replace (software engineers|writers|doctors)”, it seems like the train of LLM applications just keeps on chugging with no end in sight. One can’t help but feel that no matter what, you need to"
+    },
+    {
+      "link": "https://blog.colindou.ch/posts/my-time-at-cloudflare/",
+      "title": "My time at Cloudflare: A Retrospective",
+      "description": "It’s been just over a year since I left my 7 and a bit year stint at Cloudflare, and I’ve had a lot of time to mull over the experience. I have … a lot of thoughts, and I figured the best way to get them out is to write them down. Just upfront: These are my own lived experiences, but I’m not going to touch on the controversial stuff - Daily Stormer, Kiwi Farms, etc. Everything here is my own opini"
+    },
+    {
+      "link": "https://blog.colindou.ch/posts/bing-leaking/",
+      "title": "Does Bing have a buffer overflow?",
+      "description": "A few days ago, I was doing some Typescript work and went to search for a specific NPM package that I needed the docs for. I generally use DuckDuckGo these days, so I popped in my search and got back some results. These results were a bit odd: Having made a living off of writing C for a few years, I don’t like it when we get random looking byte strings in outputs. We’ve all seen the likes of (Hear"
+    }
+  ]
+}

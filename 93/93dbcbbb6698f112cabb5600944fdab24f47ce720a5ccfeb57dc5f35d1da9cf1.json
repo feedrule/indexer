@@ -1,0 +1,20 @@
+{
+  "url": "https://www.badprog.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.badprog.com/rust-multithreading-abba-deadlock-with-arc-mutex-and-os-thread/",
+      "title": "Rust - Multithreading - ABBA deadlock with Arc, Mutex and OS Thread",
+      "description": "Your program compiles, runs, prints nothing, and simply sits there forever. Welcome to the deadlock club, the most silent bug family in concurrent programming. In this tutorial we build the most classic deadlock of all, the lock ordering deadlock, also known as the ABBA deadlock. Our playground: two embedded bus devices, SPI and I2C , each protected by its own Mutex . Two threads transfer data bet"
+    },
+    {
+      "link": "https://www.badprog.com/rust-cli-validate-program-arguments-and-handle-errors-with-an-enum-and-test-suite/",
+      "title": "Rust - CLI - Validate program arguments and handle errors with an enum and test suite",
+      "description": "A command line program always starts with the same question: what did the user actually pass in, and can I work with that? In this tutorial we’re going to see how to handle user arguments and how to test them through unit tests and integration tests. What we need GitHub for this tutorial: https://github.com/badprog/badprog-rust-cli-validate-program-arguments-and-handle-errors-with-an-enum-and-test"
+    },
+    {
+      "link": "https://www.badprog.com/gnu-linux-raspberry-pi-configure-buildroot-menuconfig-for-rpi-1b-rev2-and-linux-kernel-6-6/",
+      "title": "GNU/Linux - Raspberry Pi - Configure Buildroot menuconfig for RPI 1B Rev2 and Linux kernel 6.6",
+      "description": "So, you have a classic Raspberry Pi 1B (Rev 2) laying around, and baking a standard Raspberry Pi OS image feels too bloated? Welcome to the ultimate minimalist kitchen. Today, we are compiling a custom, lightweight embedded Linux system from scratch using Buildroot. We will configure the essentials: the Toolchain, Bootloader, Linux Kernel (6.6), a custom Device Tree, and the Root Filesystem (Rootf"
+    }
+  ]
+}

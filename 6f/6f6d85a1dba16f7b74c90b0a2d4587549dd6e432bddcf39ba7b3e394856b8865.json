@@ -1,0 +1,20 @@
+{
+  "url": "https://dkdc.net/atom.xml",
+  "posts": [
+    {
+      "link": "http://127.0.0.1:1111/blog/welcome5/",
+      "title": "welcome to dkdc.net",
+      "description": "Welcome to dkdc.net ! This is the Nth iteration of my website."
+    },
+    {
+      "link": "http://127.0.0.1:1111/blog/themed-screenshots-with-playwright-cli/",
+      "title": "themed screenshots with Playwright CLI",
+      "description": "no manual screenshots ever again."
+    },
+    {
+      "link": "http://127.0.0.1:1111/blog/accidental-poetry/",
+      "title": "accidental poetry",
+      "description": "an accidental poem I sent"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://armoredcode.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://armoredcode.com/blog/i-was-never-trying-to-build-just-another-sast/",
+      "title": "I Was Never Trying to Build Just Another SAST",
+      "description": "OWASP Orizon started in 2006 with ASTs, program models, call graphs and data flow. Dawnscanner took a more pragmatic path. Twenty years later, DRSource is bringing me back to the same question: how much of a program must an analysis engine understand to become genuinely useful to a security reviewer?"
+    },
+    {
+      "link": "https://armoredcode.com/blog/is-your-product-security-engineer-going-to-be-replaced/",
+      "title": "Is Your Product Security Engineer Going to Be Replaced?",
+      "description": "AI will automate a significant part of Product Security work, but it will not eliminate the need for security engineers. The real shift is from scanner-driven vulnerability management toward architecture, exploitability, mitigation design, secure tooling, and engineering guardrails."
+    },
+    {
+      "link": "https://armoredcode.com/blog/nginx-poolslip-nginx-rift-reverse-proxy-rce/",
+      "title": "NGINX PoolSlip & NGINX Rift: When the Internet’s Favorite Reverse Proxy Turns Against Itself",
+      "description": "NGINX Rift and PoolSlip expose dangerous memory corruption flaws inside one of the Internet’s most trusted reverse proxies, turning rewrite rules into a potential remote code execution surface. From long-lived heap bugs to new exploitation paths, the edge just became the attack surface."
+    }
+  ]
+}

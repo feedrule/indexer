@@ -1,0 +1,20 @@
+{
+  "url": "https://linus.schreibt.jetzt/feed.rss",
+  "posts": [
+    {
+      "link": "https://linus.schreibt.jetzt/posts/shell-secrets.html",
+      "title": "Handling secrets (somewhat) securely in shells",
+      "description": "Posted on January 9, 2026 by Linus Heckemann Sometimes, you need to deal with secrets in an interactive shell. Say, for example, you want to do things with the API of a GitLab instance for which you require authentication: $ curl -fsSLH 'Authorization: Bearer 1s7zo2a-mzsLP6yAo2SM' https://gitlab.example.com/api/v4/projects Oh no! Process information leakage By doing that, you’ve just made the toke"
+    },
+    {
+      "link": "https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html",
+      "title": "Odd intersections: Navidrome, Loki, jq and ListenBrainz",
+      "description": "Posted on September 20, 2024 by Linus Heckemann Today, I wanted to try out ListenBrainz in conjunction with my self-hosted Navidrome music server. I didn’t want to collect new data for several days before getting interesting suggestions from there, so I had to import some historical data. However, I haven’t been using any of the services that ListenBrainz can import from, so I needed another way t"
+    },
+    {
+      "link": "https://linus.schreibt.jetzt/posts/toggle-comments.html",
+      "title": "Switching between code variants using comments",
+      "description": "Posted on April 1, 2024 by Linus Heckemann Warning: this post is for entertainment purposes only and explains a hack that everybody may hate you for actually using, as well as post-hoc justification for the hack. Proceed with caution. Sometimes I have a piece of code where I want to toggle between two variants frequently. int a = do_one_thing (); // int a = do_another_thing(); Commenting one out a"
+    }
+  ]
+}

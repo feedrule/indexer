@@ -1,0 +1,20 @@
+{
+  "url": "https://daft.red/index.xml",
+  "posts": [
+    {
+      "link": "https://daft.red/2026/11/microsoft-outage-2026-11-12/",
+      "title": "Microsoft Outage 2026-11-12",
+      "description": "Firstly, sympathies to the sysadmins and DevOps teams managing the cloud and compute fleets during a five-alarm fire. Team members can experience white-hot stress in these situations, and it is a heroic effort to restore things to normalcy. I want to thank Microsoft for a transparent postmortem on the outage that doesn’t shy away from details. I haven’t worked with the Microsoft cloud stack in my"
+    },
+    {
+      "link": "https://daft.red/2026/10/git-hooks-and-agent-compromise/",
+      "title": "Git Hooks and Agent Compromise",
+      "description": "The security community recognized several years ago that Git hooks can represent an attack vector . Security-focused developers discourage downloading zip archives of Git repositories for this reason. A simple “git status” will kick off an executable script with the full power of a shell. In a world where unsupervised agents are humming away writing software, this is no longer something we can ign"
+    },
+    {
+      "link": "https://daft.red/2026/10/rip-tom-skerritt/",
+      "title": "RIP Tom Skerritt",
+      "description": "Tom played Viper in Top Gun (1986). Tom was the lead instructor and experienced aviator educating a young class of hotshots. I don’t remember the first time I saw this movie, but I was young, possibly only 5 years old. I watched it many times and unknowingly memorized it. Like many viewers of the time, it gave birth to my deep love of aviation which I hold to this day. Whenever anyone from my fami"
+    }
+  ]
+}

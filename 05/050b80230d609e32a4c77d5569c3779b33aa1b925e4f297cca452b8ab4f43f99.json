@@ -1,0 +1,20 @@
+{
+  "url": "https://plausible.io/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://plausible.io/blog/google-analytics-lacks-plausible-features",
+      "title": "Google Analytics lacks many features to be a true Plausible replacement",
+      "description": "Useful Plausible features that GA4 lacks or makes harder to use."
+    },
+    {
+      "link": "https://plausible.io/blog/server-side-tracking-guide",
+      "title": "What is server-side tracking and how to set it up?",
+      "description": "A practical guide to server-side event tracking: control the data you send and record successful signups with Plausible's Events API."
+    },
+    {
+      "link": "https://plausible.io/blog/google-analytics-pricing",
+      "title": "Google Analytics pricing: Free GA4 and paid GA360 explained",
+      "description": "How much does Google Analytics cost? Understand free GA4 limits, GA360 pricing and the costs of running your setup."
+    }
+  ]
+}

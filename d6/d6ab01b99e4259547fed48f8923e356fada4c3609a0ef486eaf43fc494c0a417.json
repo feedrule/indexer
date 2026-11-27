@@ -1,0 +1,20 @@
+{
+  "url": "https://luckgrib.com/atom_blog.xml",
+  "posts": [
+    {
+      "link": "http://luckgrib.com/blog/2026/08/25/rrfs.html",
+      "title": "RRFS now pre-production",
+      "description": "The RRFS model is approaching production status."
+    },
+    {
+      "link": "http://luckgrib.com/blog/2026/06/30/openwrf.html",
+      "title": "OpenWRF no longer available",
+      "description": "The OpenWRF files are no longer available."
+    },
+    {
+      "link": "http://luckgrib.com/blog/2026/02/09/model-updates.html",
+      "title": "Feb 2026 / five new GRIB models",
+      "description": "Five new GRIB models have just been added to the server cluster."
+    }
+  ]
+}

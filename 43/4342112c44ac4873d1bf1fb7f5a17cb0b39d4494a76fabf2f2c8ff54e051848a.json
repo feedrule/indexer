@@ -1,0 +1,20 @@
+{
+  "url": "https://artemis.sh/feed.xml",
+  "posts": [
+    {
+      "link": "https://artemis.sh/2026/10/23/netbsd-encrypted-zfs.html",
+      "title": "Setting up Encrypted ZFS on NetBSD",
+      "description": "I just set up an encrypted ZFS volume on my NetBSD install. This is my journal on how I did it. I’m using a zpool on top of NetBSD’s cgd Cryptographic Disk layer (similar to LUKS on linux), because NetBSD’s ZFS does not have ZFS’s native encryption available. Most of this post is about setting up cgd."
+    },
+    {
+      "link": "https://artemis.sh/2026/08/17/set-default-browser-linux.html",
+      "title": "A Non-Exhaustive Guide to Setting The Damn Default Browser",
+      "description": "why are there so many things to set"
+    },
+    {
+      "link": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
+      "title": "Fast Synthesis of Basic Oscillators",
+      "description": "I’ve been working on synthesizers for the GBA and rp2040 the past couple years, and I’ve made some fast oscillators."
+    }
+  ]
+}

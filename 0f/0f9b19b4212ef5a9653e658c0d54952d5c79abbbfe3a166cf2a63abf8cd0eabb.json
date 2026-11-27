@@ -1,0 +1,20 @@
+{
+  "url": "https://web-reachablegames-com-public.s3.amazonaws.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://reachablegames.com/article/29/",
+      "title": "The Same Run Twice",
+      "description": "Ablation experiments only work if a seeded agent run can repeat exactly. Getting there took a lot more than setting a seed."
+    },
+    {
+      "link": "https://reachablegames.com/article/28/",
+      "title": "Deciders on an M5 Ultra",
+      "description": "I put thirteen local decision models in front of two jobs, approving bash commands and moderating game chat, to find out which ones I can trust to say no."
+    },
+    {
+      "link": "https://reachablegames.com/article/27/",
+      "title": "The M5 Ultra Shootout",
+      "description": "I ran Qwen3.8-27B through every local inference engine I could build on an M5 Ultra, with and without draft models, to find out which ones are actually fast."
+    }
+  ]
+}

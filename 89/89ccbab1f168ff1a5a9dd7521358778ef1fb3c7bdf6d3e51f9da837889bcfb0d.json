@@ -1,0 +1,20 @@
+{
+  "url": "https://www.augustl.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.augustl.com/blog/2026/absurdity-of-desktop-linux/",
+      "title": "The Absurdity of Desktop Linux",
+      "description": "\"The year of Linux on the desktop\". Nobody runs \"Linux\". They run Ubuntu, RedHat, Omarchy. Nobody runs Mach. They run macOS! Nobody runs NT. They run Windows 11! When is the year of NT on the desktop? Is Android a Linux distribution? People call Android an OS. Why? Why is Android an OS and Ubuntu a Linux distribution? Think about it. Really think about it! Is Android an OS because it is a better p"
+    },
+    {
+      "link": "https://www.augustl.com/blog/2023/blogging_with_word/",
+      "title": "Blogging with Word in your Jamstack",
+      "description": "I wrote a book in Word. That’s 72 000 words in Word. But I’ve stopped blogging, partly because writing markdown in my code editor just doesn’t vibe with me anymore. These days, I ask myself the question: how can I just get a Word document online as fast as possible? I like Word! It has nice tooling for grammar and spell checking, and it’s a nice environment for editing prose. So, I wrote a parser"
+    },
+    {
+      "link": "https://www.augustl.com/blog/2023/pro_kotlin_web_apps_from_scratch/",
+      "title": "Pro Kotlin Web Apps from Scratch",
+      "description": "I wrote a book! Buy the book from the publisher Buy the book from Amazon Book source code All the code from the book is available on Apress' GitHub . You can also get the code from the book mirrored to my personal GitHub ."
+    }
+  ]
+}

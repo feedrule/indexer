@@ -1,0 +1,20 @@
+{
+  "url": "https://bruceediger.com/index.xml",
+  "posts": [
+    {
+      "link": "https://bruceediger.com/posts/dining-philosophers-coding-problem/",
+      "title": "Dining Philosophers as a coding problem",
+      "description": "I did two coding problems from the practice-go repo recently, static function call frequency and reversing substrings inside parentheses . These problems did not emphasize the particulars of Go much, although the static function frequency problem did use Go standard library packages that are otherwise not very approachable."
+    },
+    {
+      "link": "https://bruceediger.com/posts/shell-dining-philosophers/",
+      "title": "Bash Shell Dining Philosophers",
+      "description": "I did the famous Dining Philosophers problem in bash shell script. I did a resource hierarchy solution. It looks like someone named “leahgard” did the far more ambitious Dijkstra’s solution in bash ."
+    },
+    {
+      "link": "https://bruceediger.com/posts/fortune-cookies-13/",
+      "title": "Fortune Cookies, Nov 18 2026",
+      "description": "Three fortunes from the local strip mall Chinese/Thai fusion joint, November 18, 2026, two of them real fortunes!"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://helderberto.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://helderberto.com/posts/debugging-in-the-agentic-era",
+      "title": "Debugging in the Agentic Era",
+      "description": "Agents write the code but can't see it run. Chrome DevTools MCP and Playwright MCP let them test every scenario in a real browser: success, slow, error, performance, and accessibility. You keep the judgment."
+    },
+    {
+      "link": "https://helderberto.com/posts/my-ai-coding-workflow-v3",
+      "title": "My AI Coding Workflow, v3",
+      "description": "My workflow changes with every new tool and model, so I version it. In v3, each step that used to be a prompt is a skill, and each \"please remember to\" is a check that fails."
+    },
+    {
+      "link": "https://helderberto.com/posts/code-got-cheap-review-didnt",
+      "title": "Code Got Cheap. Review Didn't.",
+      "description": "AI-assisted development turned the human checkpoint into the most expensive part of shipping software. The teams that win are the ones who stop optimizing for code and start optimizing for attention."
+    }
+  ]
+}

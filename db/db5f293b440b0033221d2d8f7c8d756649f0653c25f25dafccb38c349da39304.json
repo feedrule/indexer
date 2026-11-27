@@ -1,0 +1,20 @@
+{
+  "url": "https://lochie.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://lochie.dev/posts/ill-build-it/",
+      "title": "Subscribe? No thanks, I'll just build it",
+      "description": "I wanted one feature from a slideshow tool and I didn't want to pay for it. So I read its features page as a spec and built the one part I was missing."
+    },
+    {
+      "link": "https://lochie.dev/posts/the-super-sprint/",
+      "title": "The Super Sprint",
+      "description": "Sprint Planning is dead. Story Points are a legacy tax. The era of the Super Sprint is here."
+    },
+    {
+      "link": "https://lochie.dev/posts/model-first-companies/",
+      "title": "Model-First Companies",
+      "description": "What happens when code is disposable. Predictions on security, SRE, the death of the developer workstation, and why most companies aren't ready."
+    }
+  ]
+}

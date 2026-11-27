@@ -1,0 +1,20 @@
+{
+  "url": "https://chrisworth.dev/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://chrisworth.dev/posts/wspec-is-now-a-claude-code-plugin/",
+      "title": "wSpec Is Now a Claude Code Plugin",
+      "description": "The first release of wSpec worked, but adopting it meant copying a pile of files into your project: the slash commands, the subagents, the hooks, and an MCP server that then had to be installed and built inside every repo. Updating meant doing it again. That’s fine for the person who wrote it and a poor deal for anyone else. This week I repackaged it as a Claude Code plugin, and the install is now"
+    },
+    {
+      "link": "https://chrisworth.dev/posts/power-apps-cascading-dropdowns-guide/",
+      "title": "Cascading Dropdowns in Canvas Apps: Building Dependent Pickers That Do Not Lie",
+      "description": "The classic cascading-dropdown bug looks like this: cboTeam keeps a value from the Department the user picked thirty seconds earlier. They change Department, the Team combo box never clears, and the record saves with a Team that does not belong to the new Department at all. Nobody notices until someone tries to report against it later. The bug was not in the filter formula. It was in everything ar"
+    },
+    {
+      "link": "https://chrisworth.dev/posts/power-apps-role-based-approval-gating-guide/",
+      "title": "Role-Based Approval Gating in Canvas Apps",
+      "description": "An approval app I worked on has a diagnostic panel that only an admin can see, and even an admin can’t just navigate to it. It unlocks by clicking an invisible fifty-pixel rectangle in the corner of the home screen nine times. varUserIsAdmin gates it, a click counter unlocks it, and neither one alone is enough. That’s a throwaway easter egg, but it’s also the whole idea behind every access rule in"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://thedadams.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://thedadams.com/blog/2026/03/16/Setting-Up-Codex-Envrionment-For-Gleam",
+      "title": "Running Gleam in a Codex Environment",
+      "description": "I’ve recently been exploring the Gleam programming language. Gleam is a statically typed language that compiles to Erlang, and it’s designed for building scalable and maintainable applications. As is the case with many programmers these days, I wanted to explore using Codex to build a proof-of-concept for an idea I had. It turned out that setting up a Codex Environment was much more involved than"
+    },
+    {
+      "link": "https://thedadams.com/blog/2020/06/24/Basketball-Season",
+      "title": "Basketball Season",
+      "description": "I have had the pleasure of coaching basketball at St. Mary’s High School in Phoenix, AZ for the past three years. Being a part of a successful program has been a tremendously rewarding experience. My first year, I was a volunteer coach and helped with the varsity team. In my second year, I was the head coach of the freshman team. Last year, my third, I was the head junior varsity coach. That progr"
+    },
+    {
+      "link": "https://thedadams.com/blog/2020/06/21/The-Worst-Week",
+      "title": "The Worst Week",
+      "description": "This year has not been good for a lot of people. We are going through a global coronavirus pandemic, the turbulent (but hopeful) breakdown of systemic racism, and record unemployment. However, before all of this hit the United States, I had a week that I would not wish on anyone. I feel very comfortable calling it the worst week of my life. I shared a tweet-storm of some of the details on Twitter,"
+    }
+  ]
+}

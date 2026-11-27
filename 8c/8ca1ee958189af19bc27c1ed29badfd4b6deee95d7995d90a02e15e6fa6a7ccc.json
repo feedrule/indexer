@@ -1,0 +1,20 @@
+{
+  "url": "https://edofic.com/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "How I use AI to help me prepare talks",
+      "description": "I’ve recently changed my workflow for preparing talks. I prepared 3 with this approach so far and I’m quite happy with the process so I decided to document it. Inspired by Gary I love Gary Bernhard’s How to prepare a talk . But it’s a lot! tl;dr: improvise a bunch of times and the structure will crystallize. As a bonus you’ve now practiced a lot and are well prepared now. I’ve tried this but it’s"
+    },
+    {
+      "link": null,
+      "title": "GraphQL ❤️ SQLite",
+      "description": "If you’ve done anything nontrivial with GraphQL you’re probably familiar with how “N+1 select problem” sneaks up on you. If not, this is how gqlgen docs explain it: Imagine your graph has query that lists todos… 1 query { todos { user { name } } } and the todo.user resolver reads the User from a database… 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 func ( r * todoResolver ) User ( ctx context . Cont"
+    },
+    {
+      "link": null,
+      "title": "(Re)Learning AWK with ChatGPT",
+      "description": "awk is the Swiss army knife of the command line. If you have a text-shaped problem then awk can probably be a solution. Here’s a fabulous talk by Brian Kernighan (the k in awk) on why this may be the case. But it’s also a tool that I use just rarely enough that I keep forgetting details. So everytime I reach for awk it’s a painful experience of not remembering and having to cobble together 3 diffe"
+    }
+  ]
+}

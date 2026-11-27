@@ -1,0 +1,20 @@
+{
+  "url": "https://arnauc.me/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://arnauc.me/blog/how-browsers-work/",
+      "title": "How web browsers work",
+      "description": "A few years ago, I started going down the rabbithole of browser engines . I wanted to write one, so I started looking for resources. None were as detailed as I had hoped. So, I decided to simply read the official specification (rather, the set of interleaved specifications). Understanably, the spec didn’t explain how a browser engine works, just what its result should be. So I started designing a"
+    },
+    {
+      "link": "https://arnauc.me/blog/cleaning-robot/",
+      "title": "Finding vulnerabilities in a cleaning robot",
+      "description": "I’ve had a round cleaning robot of a certain brand for quite some time now. The other day I noticed a suspicious micro USB port on the bottom. So I had to do some poking around. This is the story of how I got root shell access to my cleaning robot. After connecting it to my computer, the first thing I did was a lsusb . It basically shows all the connected USB devices. When I saw the list, I immedi"
+    },
+    {
+      "link": "https://arnauc.me/blog/assembly-game/",
+      "title": "Creating a game in assembly",
+      "description": "Coding in assembly imposes some challenges and difficulties that make it fun , the same way a puzzle is fun. I recently decided to create a game in assembly. Not for the final result, but for the fun of writing assembly. This is the first post about the project. I might not “finish” it, but again, it’s not the goal of the project anyway. I wanted it to be x86 (as that’s the architecture family I k"
+    }
+  ]
+}

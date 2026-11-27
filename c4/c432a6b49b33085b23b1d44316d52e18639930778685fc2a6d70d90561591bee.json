@@ -1,0 +1,20 @@
+{
+  "url": "http://www.tutysara.net/index.xml",
+  "posts": [
+    {
+      "link": "https://www.tutysara.net/posts/2026/02/14/clean-code-vs-a-philosophy-of-software-design/",
+      "title": "Clean Code vs A Philosophy of Software Design",
+      "description": "Reading through many lines of code in Golang and Java makes for an interesting observation from the codebase which I was taking a look. There were different styles of coding and it was obvious from reading code that is written by experienced gophers. People on team who do both Java and Golang use the same Java style in Golang as well. While most Java programmers come from Clean code school of thou"
+    },
+    {
+      "link": "https://www.tutysara.net/posts/2021/09/07/sqs-vs-sns-vs-kinesis/",
+      "title": "SQS vs SNS vs Kinesis",
+      "description": "Service Think of it as SQS A durable queue between producers and consumers SNS A fan-out notification system Kinesis A high-throughput event stream SQS: Is ideal when Producers and consumers run at different speeds You want retry, durability, and backpressure Each message should be processed at least once SNS SNS is about fan-out, not durability for processing. Push-based One message → many subscr"
+    },
+    {
+      "link": "https://www.tutysara.net/posts/2019/07/05/implement-mutex-using-channels/",
+      "title": "Implement mutex using channels",
+      "description": "Concurrency primitives can be implemented on top of channel abstraction of CSP style. Here is an example of implementing mutex using channels. Go code to implement mutex using channels. package main import \"fmt\" type Lock struct { locked chan bool } func NewLock () Lock { lock := Lock { locked : make ( chan bool , 1 )} lock . locked <- true return lock } func ( l * Lock ) Lock () { <- l . locked /"
+    }
+  ]
+}

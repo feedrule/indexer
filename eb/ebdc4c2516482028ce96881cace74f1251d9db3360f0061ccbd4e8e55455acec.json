@@ -1,0 +1,20 @@
+{
+  "url": "https://mort.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://mort.io/blog/ssh-runes/",
+      "title": "Lab `ssh` runes",
+      "description": "Having observed a colleague experiencing some similar pain accessing the Lab’s web storage I said I’d post my “simpler” way. So here it is. Though having now pulled it all into one place, I think I need to have a talk with myself about how I choose to define the word “simpler”… Nevertheless, the overall flow here is something like: obtain a Kerberos ticket, connecting to and disconnecting from the"
+    },
+    {
+      "link": "https://mort.io/blog/pulseaudio-redux/",
+      "title": "Revisiting restarting `pulseaudio`",
+      "description": "OK, so I have recently again started to have problems with PulseAudio vs PipeWire confusing SwayOSD , again. But this time the fix seems simpler! Which is nice. Essentially: disable pulseaudio , enable the rest, and that’s it. The runes this time appear to be: systemctl --user disable pulseaudio.service pulseaudio.socket pulseaudio-x11.service systemctl --user enable pipewire.service pipewire.sock"
+    },
+    {
+      "link": "https://mort.io/blog/unsabbatical/",
+      "title": "Sabbatical Diary: Every End Had a Start",
+      "description": "Having set off with a song in my heart I finish with a rather different song playing. No matter. Variety is the spice of life after all. It was, in the end, more productive than I initially thought while also leaving me feeling like I didn’t get more than about 10% of what I set out to do, done. Pretty average for me really. Notwithstanding that, it was certainly necessary: the few years leading u"
+    }
+  ]
+}

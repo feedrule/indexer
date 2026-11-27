@@ -1,0 +1,20 @@
+{
+  "url": "https://lorbic.com/index.xml",
+  "posts": [
+    {
+      "link": "https://lorbic.com/emudhra-ca-compromise-web-pki/",
+      "title": "The eMudhra CA Compromise and Exit from Public SSL/TLS",
+      "description": "In October 2026, private keys for eight intermediate Certificate Authorities belonging to eMudhra (operating its public CA services under emSign ) were found to have catastrophic entropy defects, enabling trivial private key recovery directly from public Certificate Transparency logs. The incident escalated from tactical intermediate blocks to global root cert distrust across Mozilla, the Google C"
+    },
+    {
+      "link": "https://lorbic.com/writing-has-been-my-best-teacher/",
+      "title": "Writing Has Been My Best Teacher",
+      "description": "When I write code, it is remarkably easy to fool myself into thinking I understand something when I really do not. I can tweak a function until the compiler stops complaining, paste a workaround, and watch the test suite turn green. As long as the service boots cleanly and passes CI, I can tell myself that I know what is happening under the hood. Writing completely strips that safety net away."
+    },
+    {
+      "link": "https://lorbic.com/apps/hash-generator/",
+      "title": "Hash & HMAC Generator",
+      "description": "Cryptographic Hashes in Public Key Infrastructure and WebPKI In a Certificate Authority (CA) environment, cryptographic hashes are the structural foundation of trust. Every X.509 certificate issued across the WebPKI binds a Subject distinguished name to a public key through a digital signature computed over a cryptographic digest ( SHA256withRSA , SHA256withECDSA , SHA384withECDSA ). Hashes in PKI"
+    }
+  ]
+}

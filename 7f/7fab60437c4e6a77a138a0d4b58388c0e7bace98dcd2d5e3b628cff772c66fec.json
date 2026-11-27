@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ruxu.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://ruxu.dev/articles/ai/build-an-ai-agent-agents-subagents/",
+      "title": "Build a Basic AI Agent From Scratch: Agents and Sub-agents",
+      "description": "Previous parts of Build a Basic AI Agent From Scratch : Basic Agent Tools Long Task Planning Human in the Loop & Security Security II Security III Memory Session Management Session Management II You can find and clone this code in this blog series' GitHub repo . In the previous part we gave our agent context compaction and finished the session lifecycle. It can now preserve long work sessions with"
+    },
+    {
+      "link": "https://ruxu.dev/articles/ai/build-an-ai-agent-sessions-2/",
+      "title": "Build a Basic AI Agent From Scratch: Session Management II",
+      "description": "Previous parts of Build a Basic AI Agent From Scratch : Basic Agent Tools Long Task Planning Human in the Loop & Security Security II Security III Memory Session Management You can find and clone this code in this blog series' GitHub repo . In the previous part we gave our agent sessions. It can save a conversation, list and search saved sessions, resume an unfinished one, and recover a tool call"
+    },
+    {
+      "link": "https://ruxu.dev/articles/ai/build-an-ai-agent-sessions/",
+      "title": "Build a Basic AI Agent From Scratch: Session Management",
+      "description": "Previous parts of Build a Basic AI Agent From Scratch : Basic Agent Tools Long Task Planning Human in the Loop & Security Security II Security III Memory You can find and clone this code in this blog series' GitHub repo . In the previous part we gave our agent long-term memory. It can save project conventions and user preferences, then read those notes the next time it starts. This means we no lon"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.rainsberger.ca/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.rainsberger.ca/blog/firebase-studio-astro/",
+      "title": "Developing Astro with Firebase Studio",
+      "description": "All my building with Astro is done in a cloud development environment thanks to Firebase Studio! No local development environment? No problem!"
+    },
+    {
+      "link": "https://www.rainsberger.ca/blog/reads-2025-05-03/",
+      "title": "Reads - May 3, 2025",
+      "description": "Code and Coffee virtual conference, looking at open-source maintenance through a relationship lens, dev advocacy, reading the footnotes, and more!"
+    },
+    {
+      "link": "https://www.rainsberger.ca/blog/idx-first-impressions/",
+      "title": "IDX: my first impressions",
+      "description": "\"I learned to code on a Chromebook in online editors. My very first Astro project was a forked CodeSandbox of an Astro v0.12 (!) starter template. I have spent the last two years building several websites and maintaining the Astro documentation on Gitpod. Two months ago, I switched to IDX as my exclusive coding environment (and you're not going to believe what happened next...)\""
+    }
+  ]
+}

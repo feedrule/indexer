@@ -1,0 +1,20 @@
+{
+  "url": "https://mzonline.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://mzonline.com/blog/2026-09/automating-cmg-certificate-installation-and-renewal-powershell",
+      "title": "Automating CMG Certificate Installation and Renewal with PowerShell",
+      "description": "Automating CMG Certificate Installation and Renewal with PowerShell zaskem Mon, 09/21/2026 - 08:00 I've written about certificate automation many times in the past, but not on handling certificates with PowerShell. At work I'm a part of the central endpoint engineering team and early this year we had a lengthy conversation about how to handle our Cloud Management Gateway (CMG) certificate renewal."
+    },
+    {
+      "link": "https://mzonline.com/blog/2026-06/get-randommustache-tale-unexpected-easter-egg",
+      "title": "Get-RandomMustache: The Tale of an Unexpected Easter Egg",
+      "description": "Get-RandomMustache: The Tale of an Unexpected Easter Egg zaskem Mon, 06/08/2026 - 08:00 Oof -- it's been three months since my last post. I guess that's a realistic indication of how busy things have been this spring. I have a few post ideas queued up so if all goes well I'll have some content scheduled through the summer. On that note, I had the opportunity to go to Powershell DevOps Summit in Ap"
+    },
+    {
+      "link": "https://mzonline.com/blog/2026-03/git-hooks-using-git-take-action",
+      "title": "Git Hooks: Using Git to Take Action",
+      "description": "Git Hooks: Using Git to Take Action zaskem Mon, 03/02/2026 - 08:00 I've recently spent a fair bit of time in Git and GitHub cleaning up and migrating repositories as part of a work-related project. During this cleanup, I discovered the first \"test repository\" I used while learning about and working through some details related to my five-year-old post about Git-ting the hang of hooks .Why I'd used"
+    }
+  ]
+}

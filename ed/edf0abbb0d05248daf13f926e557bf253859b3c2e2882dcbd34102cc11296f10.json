@@ -1,0 +1,20 @@
+{
+  "url": "https://destel.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://destel.dev/blog/max-bytes-middleware-in-go?ref=rss",
+      "title": "MaxBytes Middleware in Go: The Same Trap, Again",
+      "description": "A strict request body limit is a sensible default for an API, until a file upload endpoint needs more room. Adding a larger limit to that route looks like an easy fix, but uploads still hit the global limit. In this follow-up to the timeout middleware post, we’ll build MaxBytes middleware that supports per-route overrides."
+    },
+    {
+      "link": "https://destel.dev/blog/preserving-order-in-concurrent-go?ref=rss",
+      "title": "Preserving Order in Concurrent Go Apps",
+      "description": "Processing items concurrently in Go is easy enough: have a pool of goroutines read from one channel and write to another. Results arrive in completion order, which is fine until we need input order instead. Let’s build and benchmark three ways to make that happen with infinite stream support and no per-item allocations."
+    },
+    {
+      "link": "https://destel.dev/blog/how-low-can-you-go?ref=rss",
+      "title": "My Side Project: How Low Can You Go?",
+      "description": "After a decade of Go backends, I wanted to build something where design, animation, and user experience came first. The result is a daily number game with a vintage cartoon style: pick the lowest number, but if someone else picks it too, you’re out."
+    }
+  ]
+}

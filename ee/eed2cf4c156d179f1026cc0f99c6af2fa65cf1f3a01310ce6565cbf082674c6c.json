@@ -1,0 +1,20 @@
+{
+  "url": "https://m.ac/atom.xml",
+  "posts": [
+    {
+      "link": "https://m.ac/install-nginx-mariadb-php-debian-ubuntu/",
+      "title": "Install latest Nginx, MariaDB, and PHP on Debian and Ubuntu",
+      "description": "Install latest Nginx, MariaDB, and PHP packages for a LEMP stack on Debian and Ubuntu."
+    },
+    {
+      "link": "https://m.ac/latest-bun-cloudflare-pages/",
+      "title": "Using the Latest Bun on Cloudflare Pages",
+      "description": "Use the current Bun release on Cloudflare Pages by skipping automatic dependency installation, installing Bun through npm, and putting npm's global binary directory first in PATH."
+    },
+    {
+      "link": "https://m.ac/install-ghost-on-docker/",
+      "title": "Install Ghost on Docker",
+      "description": "Run Ghost with Docker Compose, MySQL, Watchtower, and either Nginx or Caddy as the public reverse proxy."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://nathanshobbies.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://nathanshobbies.com/posts/biketires/",
+      "title": "Finding the right size tire for your bike",
+      "description": "tire filtering sucks"
+    },
+    {
+      "link": "https://nathanshobbies.com/posts/klipper3bplus/",
+      "title": "Running Klipper on a Pi 3B+",
+      "description": "I had some issues turns out to be mostly memory related"
+    },
+    {
+      "link": "https://nathanshobbies.com/posts/coolsports/",
+      "title": "Why is skateboarding, surfing, climbing, snowboarding, etc just cool?",
+      "description": "I think I figured out what these sports have in common"
+    }
+  ]
+}

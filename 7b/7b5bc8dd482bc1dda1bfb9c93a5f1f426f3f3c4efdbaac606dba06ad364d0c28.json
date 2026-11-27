@@ -1,0 +1,20 @@
+{
+  "url": "https://lostintransit.se/feed/",
+  "posts": [
+    {
+      "link": "https://lostintransit.se/2026/06/18/initial-setup-of-catalyst-sdwan-controllers/",
+      "title": "Initial Setup of Catalyst SDWAN Controllers",
+      "description": "It’s been a while since I did an on-premises installation of the Catalyst SDWAN controllers and as I recently had […]"
+    },
+    {
+      "link": "https://lostintransit.se/2026/06/13/installing-step-ca-in-my-homelab/",
+      "title": "Installing Step CA in My Homelab",
+      "description": "Step CA is an open-source private CA made by Smallstep. I will use it to generate certificates for some componenents […]"
+    },
+    {
+      "link": "https://lostintransit.se/2026/06/11/installing-dnsmasq-in-my-homelab/",
+      "title": "Installing Dnsmasq in My Homelab",
+      "description": "Dnsmasq is an application which has features like DNS caching, DHCP server, and so on. It’s useful as a DNS […]"
+    }
+  ]
+}

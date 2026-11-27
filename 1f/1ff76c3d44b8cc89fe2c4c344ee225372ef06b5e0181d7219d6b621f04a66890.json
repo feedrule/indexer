@@ -1,0 +1,15 @@
+{
+  "url": "https://1matin.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://1matin.com/time-machine/",
+      "title": "I made a time machine",
+      "description": "I built a CHIP-8 Emulator that runs 50-year-old games"
+    },
+    {
+      "link": "https://1matin.com/zig-vs-rust/",
+      "title": "What if Zig and Rust could speak?",
+      "description": "They would probably have a... friendly conversation"
+    }
+  ]
+}

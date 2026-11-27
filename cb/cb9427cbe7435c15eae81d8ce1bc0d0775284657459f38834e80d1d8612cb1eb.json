@@ -1,0 +1,20 @@
+{
+  "url": "https://r3zz.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://r3zz.io/posts/boring-architecture-personal-ai-agent/",
+      "title": "The Boring Architecture Behind a Useful Personal AI Agent",
+      "description": "Why a useful personal AI assistant is a systems problem, not a model problem. The runtime, memory, skills, notes, tools and cron that make it actually work."
+    },
+    {
+      "link": "https://r3zz.io/posts/wannacry-analysis/",
+      "title": "Simple Enough Analysis of WannaCry Ransomware",
+      "description": "An analysis of the famous WannaCry ransomware"
+    },
+    {
+      "link": "https://r3zz.io/posts/c2-infra-cloud/",
+      "title": "C2 Infrastructure in the cloud (AWS, Cloudflare, Mythic)",
+      "description": "How to setup a C2 Infrastructure in the cloud using CloudFront, EC2, ELB, a Cloudflare worker and Mythic"
+    }
+  ]
+}

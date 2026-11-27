@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ludicon.com/castano/blog/feed/",
+  "posts": [
+    {
+      "link": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
+      "title": "Four years of Ludicon",
+      "description": "Last weekend marked the four-year anniversary of Ludicon. I started Ludicon because I believed that working independently would let me do my best work. Building software on my own, I can move fast, take risks, and focus on problems others don’t consider practical, or slow down and go deep into rabbit holes without having to..."
+    },
+    {
+      "link": "https://www.ludicon.com/castano/blog/2026/09/encoding-render-targets-for-free-with-tile-shaders/",
+      "title": "Encoding Render Targets for Free with Tile Shaders",
+      "description": "The Spark codecs are often bandwidth-bound. The codec usually reads an uncompressed RGBA8 texture and outputs a block-compressed texture that, depending on the format, is 2–8 times smaller. Reading the input is what dominates bandwidth. When bandwidth-bound, execution stalls waiting for input data, while the GPU tries to hide that latency by overlapping loads for..."
+    },
+    {
+      "link": "https://www.ludicon.com/castano/blog/2026/09/spark-1-4/",
+      "title": "Spark 1.4",
+      "description": "I’m excited to announce the release of Spark 1.4. Spark is a set of real-time GPU texture codecs that produce results competitive with offline encoders while running thousands of times faster, on every GPU from budget phones to high-end PCs and consoles. The highlight of this release is HDR. Spark 1.4 adds two new HDR..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://beej.us/blog/rss.xml",
+  "posts": [
+    {
+      "link": "http://beej.us/blog/data/mystery-comment/",
+      "title": "10 REM\"_(C2SLFF4",
+      "description": "Wherein we chase down a BASIC retrocomputing question that's bugged me for far too long."
+    },
+    {
+      "link": "http://beej.us/blog/data/ai-making/",
+      "title": "On Making",
+      "description": "Out of all the things to love and hate with AI, this is what I miss."
+    },
+    {
+      "link": "http://beej.us/blog/data/rust-rpn-calc/",
+      "title": "Rust RPN Calculator",
+      "description": "Another Rust rabbit hole digging into some RPN calculator code."
+    }
+  ]
+}

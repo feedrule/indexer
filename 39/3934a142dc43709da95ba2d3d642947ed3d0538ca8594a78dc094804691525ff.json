@@ -1,0 +1,20 @@
+{
+  "url": "https://worthe-it.co.za/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.worthe-it.co.za/blog/2026-09-05-saying-goodbye-to-my-git-servers-cgit-frontend.html",
+      "title": "Saying Goodbye to my Git Server's CGit Frontend",
+      "description": "I've decided to move my public repositories to other forges, and shut down the CGit based public interface to my Git server. This article goes into the reasons for this change."
+    },
+    {
+      "link": "https://www.worthe-it.co.za/blog/2026-07-17-separating-end-to-end-tests-in-rust-with-cargo-features.html",
+      "title": "Separating End to End Tests in Rust with Cargo Features",
+      "description": "I've recently added a new way to run heavy end to end tests to one of my Rust projects. These tests are launching heavy infrastructure like Docker and Selenium WebDriver, so I did not want them to run together with my unit tests. In this article, I explain how I added a test target that is skipped when I run cargo test , and is run on its own when I run cargo test-end-to-end ."
+    },
+    {
+      "link": "https://www.worthe-it.co.za/blog/2026-05-13-its-been-15-years-what-have-i-learned.html",
+      "title": "It's been 15 years, what have I learned?",
+      "description": "15 years ago, for a university assignment, I programmed a small game in C++. In this article, I'm looking back at that source code, and reflecting on what I had right at the time and what I've learned to do better."
+    }
+  ]
+}

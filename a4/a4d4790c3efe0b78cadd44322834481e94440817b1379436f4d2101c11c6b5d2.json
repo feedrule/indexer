@@ -1,0 +1,20 @@
+{
+  "url": "http://redplait.blogspot.com/atom.xml",
+  "posts": [
+    {
+      "link": "http://redplait.blogspot.com/2026/11/why-its-so-hard-to-make-sass-assembler.html",
+      "title": "why it's so hard to make SASS assembler?",
+      "description": "Short answer: bcs paranoid nvidia don't disclose its ABI (and punishes you silently when you get them wrong) Indeed, their ISA is known but I know only couple of nominally functional assemblers for modern SM (given that their nvasm_internal used for many RT kernels remains private and not available) CuAssembler last update was 3 years ago new SM90+ are not supported many of listed below problems j"
+    },
+    {
+      "link": "http://redplait.blogspot.com/2026/11/notes-on-ptx-verification.html",
+      "title": "notes on PTX verification",
+      "description": "I recently read article called \"Formalizing PTX in Lean to Prove GPU Kernel Correctness\". All you need for hype - gpu, ptx, lean for the Navier-Stokes equations As is customary in such cases, there is no code, however paper contains remarkable phrase: The interpreter implements 81 instruction forms Just some numbers: ptxas from sdk 13.1 has has 270 unique instructions in 1420 forms, from sdk 13.4"
+    },
+    {
+      "link": "http://redplait.blogspot.com/2026/11/ebnf-parser-of-ptx-from-sdk-134.html",
+      "title": "ebnf & parser of PTX from sdk 13.4",
+      "description": "Observing raw data from previous part we can conclude that many (17) new attributes were inserted in middle of indices table thereby shifting the indices. And even worse - they were inserted in many arbitrary places. So instead of patching long-suffering script iptx.pl I made its clone iptx3.pl (DRY, yeah) After some brute-forcing & RE I was able to identify 130 attributes masks - so still unknown"
+    }
+  ]
+}

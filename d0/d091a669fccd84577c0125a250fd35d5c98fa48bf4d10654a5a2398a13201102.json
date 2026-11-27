@@ -1,0 +1,20 @@
+{
+  "url": "https://aplus.rs/index.xml",
+  "posts": [
+    {
+      "link": "https://aplus.rs/2026/mac-mini-sluggish-ui-fix/",
+      "title": "Check fan speed if your Mac mini UI becomes super slow",
+      "description": "For several days, I was struggling with a strange issue on my Mac mini M2 Pro: soon after restart, like 5mins or so, entire system would becomes super slow. UI would visibly render bit by bit, switching between windows would be very slow etc. I could literally count how system Settings app is drawing its many rows. I was already struggling to clear out my SSD which was close to 95% full so first t"
+    },
+    {
+      "link": "https://aplus.rs/2026/fixing-spm-issue-with-missing-default-traits/",
+      "title": "Issue with SPM unable to resolve package update",
+      "description": "Xcode 26.4 brought nice new usage possibility in the Package manifest. I discovered it through lovely package resolving error when attempting “Update to Latest Package Versions”: unexpectedly did not find the new dependency in the package graph: sourceControl( identity: idensicmobilesdk-ios, location: SwiftPM.SPMPackageDependency.SourceControlLocation.remote( SwiftPM.SPMSourceControlURL(sourceCont"
+    },
+    {
+      "link": "https://aplus.rs/2026/concurrency-unowned-crash/",
+      "title": "Crash with callback methods in parent-child data sources",
+      "description": "Say I have ParentDataSource which holds a strong reference to ChildDataSource , which has a callback method that ParentDataSource implements: final class ChildDataSource : NSObject { var dataRefreshed : () -> Void = {} } final class ParentDataSource : NSObject { let childDataSource : ChildDataSource init (...) { ... childDataSource . dataRefreshed = { [ unowned self ] in self . doSomething () } }"
+    }
+  ]
+}

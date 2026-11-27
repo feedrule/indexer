@@ -1,0 +1,20 @@
+{
+  "url": "https://michaelenger.com/feed.rss",
+  "posts": [
+    {
+      "link": "https://michaelenger.com/blog/replacing-youtube",
+      "title": "Making My Own YouTube With ytdl-sub and Jellyfin",
+      "description": "The experience of watching YouTube videos is steadily getting worse as the app prioritises passive consumption, so let's make something better."
+    },
+    {
+      "link": "https://michaelenger.com/blog/swift-encodable-string",
+      "title": "Encoding an Object as a String in Swift",
+      "description": "Making a Codable object whose representation is a plain string."
+    },
+    {
+      "link": "https://michaelenger.com/blog/i-love-the-computer",
+      "title": "I Love the Computer",
+      "description": "An exploration of how I became a massive geek."
+    }
+  ]
+}

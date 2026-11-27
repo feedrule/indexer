@@ -1,0 +1,20 @@
+{
+  "url": "https://software7.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.software7.com/blog/missing_net_effect/",
+      "title": "The Missing Net Effect in Product Development",
+      "description": "Since May 2026, I have been blogging primarily about AI topics, focusing solely on technical aspects and experiments I’ve conducted, rather than socio-political dimensions. This will likely mark the end of this series for now, as I plan to return my focus to other technical areas. Massively Accelerated Software Development One of the most frequently repeated claims is that AI massively accelerates"
+    },
+    {
+      "link": "https://www.software7.com/blog/glm_5.1_in_real_coding_work/",
+      "title": "GLM-5.1 in Real Coding Work",
+      "description": "Last year in July, I tasked Moonshot AI’s Kimi K2 and Claude Sonnet 4 with a real-world coding challenge: generating Swift DSP filters and a Python tool that generates Swift unit tests for them. Both models failed, stalling on tolerances and unhandled phase jumps. I care less about benchmarks than whether it actually works in practice; this test has some complexity, requiring iterative refinement"
+    },
+    {
+      "link": "https://www.software7.com/blog/go_gpt_trap_of_sycophancy/",
+      "title": "Go, GPT, and the Trap of Sycophancy",
+      "description": "Go (Baduk/Weiqi) Go is a strategic game that originated in ancient China at least 2,500 years ago, and is still played today. Go rules are simple (see below), and the game is easy to pick up but incredibly difficult to master. Modern Go engines combine neural networks with Monte Carlo Tree Search (MCTS): the neural network provides policy priors, estimating which moves are most promising, and valu"
+    }
+  ]
+}

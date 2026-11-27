@@ -1,0 +1,20 @@
+{
+  "url": "https://www.yyzkevin.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.yyzkevin.com/september-2026-update-1/",
+      "title": "September 2026 Update 1",
+      "description": "A quick update / demo. I spent some time working on the emulation of an Asante FriendlyNet PC Card, this card was easiest to work with for me as it is well supported on the Mac and has PC drivers and uses the same DP8390 networking chip as the NE2000. A custom driver for Mac […]"
+    },
+    {
+      "link": "https://www.yyzkevin.com/august-update/",
+      "title": "August 2026 Update",
+      "description": "This is a demonstration of a Windows 95/98 driver for the card that brings the same simultaneous access to all the functions as with the DOS driver. The new PCB design is currently being produced and I am hoping to see it by the end of the week. I delayed submitting the order until this […]"
+    },
+    {
+      "link": "https://www.yyzkevin.com/july-2026-update-2/",
+      "title": "July 2026 Update 2",
+      "description": "This is an impromptu demonstration of some new functions that I have implemented, mainly around storage and integrated mouse and packet drivers."
+    }
+  ]
+}

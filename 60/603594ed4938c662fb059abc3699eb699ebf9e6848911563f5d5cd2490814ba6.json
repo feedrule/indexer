@@ -1,0 +1,15 @@
+{
+  "url": "https://savyasacheejha.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://savyasacheejha.com/posts/a-paste-y-journey/",
+      "title": "A paste-y journey - finding a pastebin candidate to use",
+      "description": "I maintain the privatebin package and module in nixpkgs . I added the package, the module, the tests, and have kept up with changes for quite a while now. I use another service on my own server, though. Photo by Patrick Perkins on Unsplash Why a pastebin? The reason behind a private pastebin is simple. I'd like to share stuff with my friends (for example a draft blog post), sometimes with stranger"
+    },
+    {
+      "link": "https://savyasacheejha.com/posts/why-odhcpd/",
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "description": "Running a custom x64 router has a lot of upsides. One, it runs mainline Linux, so it gets updates quickly. Two, router adblocking. 'Nuff said. And three, if something breaks, you get to dive in deep and figure out what's going wrong. This week, I had a really interesting time with my custom setup. I noticed that if I'd restart pppd (which connects to my ISP), Google would stop working. It would st"
+    }
+  ]
+}

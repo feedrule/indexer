@@ -1,0 +1,20 @@
+{
+  "url": "https://karolgalanciak.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://karolgalanciak.com/blog/2026/09/15/from-collecting-payments-to-distributing-revenue-the-fintech-system-behind-smily/",
+      "title": "From collecting payments to distributing revenue: the FinTech system behind Smily",
+      "description": "Collecting a payment sounds like a reasonably well-defined problem. A traveler pays for a booking, the payment succeeds, and the property manager receives the money. Except that the property manager might only be entitled to part of it. The rest belongs to the owner. A booking channel might have already deducted its commission and collected a tax. The booking might include Travelers’ Fees or Cance"
+    },
+    {
+      "link": "https://karolgalanciak.com/blog/2024/07/29/rds-database-migration-series-integrating-ruby-on-rails-applications-with-rds-proxy/",
+      "title": "RDS Database Migration Series - Integrating Ruby on Rails Applications with RDS Proxy",
+      "description": "In the previous blog post , we covered our story of migrating a giant database of almost 11 TB. Here comes the last part of the series—making Ruby on Rails applications work with RDS Proxy. I originally published this article on the Smily Engineering Blog . Why use RDS Proxy in the first place? Before migration, we were using PgBouncer . We hosted multiple databases (for multiple applications) per"
+    },
+    {
+      "link": "https://karolgalanciak.com/blog/2024/05/13/rds-database-migration-series-facing-the-giant-how-we-migrated-11-tb-database/",
+      "title": "RDS Database Migration Series - Facing the Giant: How We Migrated 11 TB Database",
+      "description": "In the previous blog post , we covered our story of migrating to AWS RDS using AWS Database Migration Service (DMS) , a complex initiative with multiple issues we had to address. Nevertheless, almost all the migrations we did could have been generalized to the same strategy - in the end, we found a way to use DMS that works fine, even for mid-size databases. One database, though, required some ext"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://fn.lc/index.xml",
+  "posts": [
+    {
+      "link": "https://fn.lc/post/swolectl/",
+      "title": "swolectl: I wrote an open source controller for my Tonal",
+      "description": "Originally posted to r/tonalgym on Reddit . Hey folks, I started a project to provide a completely custom controller for the Tonal 1. This replaces the Android tablet and directly talks to the motor controller using the internal USB serial connection. This is super barebones and not well tested, so you’re on your own if it bricks your system. I figured I should publish it and see if folks were int"
+    },
+    {
+      "link": "https://fn.lc/project/pytorch/",
+      "title": "PyTorch",
+      "description": null
+    },
+    {
+      "link": "https://fn.lc/project/rdma4py/",
+      "title": "rdma4py",
+      "description": null
+    }
+  ]
+}

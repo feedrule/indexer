@@ -1,0 +1,20 @@
+{
+  "url": "https://coryhouse.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://coryhouse.dev/2026/05/24/tweet-2058657204169818473/",
+      "title": "I thought AI would lead to worse code",
+      "description": "I thought AI would lead to worse code. I was wrong. My code is better than ever because I'm more willing to refactor when AI does it for me. I'm mo..."
+    },
+    {
+      "link": "https://coryhouse.dev/2026/05/23/tweet-2058310457702613226/",
+      "title": "My personal site has been on Wordpress for 14 years",
+      "description": "My personal site has been on Wordpress for 14 years. Just found out the DB is corrupted and I have no recent backup. Solution: I told Claude \"Use d..."
+    },
+    {
+      "link": "https://coryhouse.dev/2026/05/08/tweet-2052774233428705610/",
+      "title": "Hot take: 🌶️ An agent should be generating nearly all code today",
+      "description": "Hot take: 🌶️ An agent should be generating nearly all code today. If the agent fails, the focus should be on improving instructions, prompts, arch..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.klaehn.org/atom.xml",
+  "posts": [
+    {
+      "link": "https://rklaehn.github.io/blog/address-validation-tokens/",
+      "title": "Address validation tokens - what are they good for anyway?",
+      "description": null
+    },
+    {
+      "link": "https://rklaehn.github.io/blog/iroh-post-quantum-handshakes/",
+      "title": "Iroh post-quantum key exchange",
+      "description": null
+    },
+    {
+      "link": "https://rklaehn.github.io/blog/starship-lunox-architecture/",
+      "title": "Starship Lunar Architecture with Tether-Launched LunOX",
+      "description": "Propellantless lunar launcher applications In previous posts I have described a lunar sling catapult that can launch mass to EML1 without propellant expenditure and with very low cost. Other people are in favour of electromagnetic mass drivers. See this recent blog post from Casey Handmer . Whatever solution wins, in the medium term we can have a cheap propellantless way to launch mass from the lu"
+    }
+  ]
+}

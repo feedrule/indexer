@@ -1,0 +1,20 @@
+{
+  "url": "https://gokulakrishna.co/feed/",
+  "posts": [
+    {
+      "link": "https://gokulakrishna.co/2026/09/30/benchmarking-to-fine-tuning-decision-models/",
+      "title": "From benchmarking to fine-tuning: what I learned about small decision models",
+      "description": "I benchmarked Jev and its open-source alternative Laya on banking and cybersecurity tasks. Setup mattered, confidence mattered more, and fine-tuning closed most of the gap."
+    },
+    {
+      "link": "https://gokulakrishna.co/2026/08/03/i-built-a-digital-human-you-can-talk-to/",
+      "title": "I built a Digital Human you can talk to",
+      "description": "An engineering account of a voice-to-avatar pipeline built with Deepgram, Groq, Chroma, AWS Polly, GeneFace++, FastAPI, and WebRTC."
+    },
+    {
+      "link": "https://gokulakrishna.co/2026/07/31/migrated-350000-line-java-jsp-application-typescript-five-days/",
+      "title": "How I Migrated a 350,000-Line Java/JSP Application to TypeScript in Five Days",
+      "description": "A one-year modernization estimate became a five-day AI-assisted migration. The decisive advantage was not code generation; it was a parity harness that gave parallel agents an objective way to verify their work."
+    }
+  ]
+}

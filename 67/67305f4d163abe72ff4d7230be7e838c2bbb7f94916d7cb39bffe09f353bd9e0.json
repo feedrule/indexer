@@ -1,0 +1,20 @@
+{
+  "url": "https://bobmonsour.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.bobmonsour.com/blog/deconstructing-these-auto-generated-og-images/",
+      "title": "Deconstructing these auto-generated OG images",
+      "description": "Contents Introduction Specifying what I wanted The Satori plus sharp libraries What posts are eligible for a generated og image? The renderer Caching the generated PNGs The orchestrator Conclusion Introduction I've had a love-hate relationship with open graph images for a while now. There were times when I did not have any, or perhaps a fallback to my social media avatar, which looked outsized. Th"
+    },
+    {
+      "link": "https://www.bobmonsour.com/blog/three-years-in-on-the-11ty-bundle/",
+      "title": "Three years in on the 11ty Bundle",
+      "description": "Contents Introduction Highlights Analytics Deployment Tooling Finding my web dev tribe in retirement Eleventy becoming Build Awesome Conclusion Introduction I'm finding it increasingly hard to believe that I've just completed 3 full years of building, refining, and maintaining the 11ty Bundle website . But here we are... I wrote a recap of the 2nd year too. Highlights In no particular order: Cross"
+    },
+    {
+      "link": "https://www.bobmonsour.com/blog/changing-how-i-deploy-my-eleventy-sites/",
+      "title": "Changing how I deploy my Eleventy sites",
+      "description": "Contents Introduction Migrating to Cloudflare Workers What does deployment look like now? Conclusion Introduction I've got several sites hosted at Netlify and several at Cloudflare. The ones at Netlify do not require frequent updates and, for some of them, I can't even remember the last time I updated them...the blessing of static sites...that remain static. I had moved this site and the 11ty Bund"
+    }
+  ]
+}

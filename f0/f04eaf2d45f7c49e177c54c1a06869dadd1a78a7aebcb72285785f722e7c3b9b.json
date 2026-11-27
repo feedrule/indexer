@@ -1,0 +1,20 @@
+{
+  "url": "https://tomcooks.com/index.xml",
+  "posts": [
+    {
+      "link": "https://tomcooks.com/posts/self-studying-chinese/",
+      "title": "Speak a lil chinese for ´em, Derek",
+      "description": "I have always been interested in speaking foreign languages, and with time I got quite proficient in some of them, mostly of the southeuropeans (Italian, Portuguese, some Spanish, some French). During the 2020 mandated time indoors I got interested in learning Mandarin; it was not the first time I dabbed with non romantic languages (i also tried Arabic, with very little success) but this was the f"
+    },
+    {
+      "link": "https://tomcooks.com/posts/this-site-is-solar-powered/",
+      "title": "This site is now solar powered",
+      "description": "Before today my site was hosted in a big datacenter, along with millions of other servers; today, as i was giving wifi connection to a chinese trailcam I thought: could I self host my website on this tiny Raspberry Pi Zero? So people going to www dot tomcooks dot com would be routed straight to this minuscule board in the middle of nowhere? This board is undersized (to be verified) for the dockeri"
+    },
+    {
+      "link": "https://tomcooks.com/posts/automate-dl001-chinese-hunting-camera/",
+      "title": "Automate DL001 chinese hunting camera",
+      "description": "I recently installed a cheap infrared hunting camera, one of the many clones of the DL001 hunting cameras you can find on AliExpress. It can be powered via 4 or 8 AA batteries or a 6V-2A DC charger, it features an OFF/TEST/ON switch, a tiny screen and a series of beeping buttons that allow you to setup the camera. I quickly discovered that the DL001 does not connect to wifi nor bluetooth; the only"
+    }
+  ]
+}

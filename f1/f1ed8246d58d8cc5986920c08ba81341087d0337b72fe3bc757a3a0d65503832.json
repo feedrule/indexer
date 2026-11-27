@@ -1,0 +1,20 @@
+{
+  "url": "https://it-notes.dragas.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "description": "What follows is the text of the talk I gave at Linux Day 2026 in Modena, lightly adapted for the blog. The talk was in Italian, in front of a Linux audience - which explains a few of the jokes. Linux is one of the best-known players in the open source world, but it's not the only possible path. A journey through the BSDs, illumos and other alternative operating systems, to reflect on Open Source a"
+    },
+    {
+      "link": "https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/",
+      "title": "SmartOS: The illumos Way of Thinking About Servers",
+      "description": "As I often say, I like simplicity and predictability. My servers are generally built around that principle: the server itself (physical or virtual) is just a coordinator of containers. When it's based on FreeBSD, those containers take the form of jails and VMs. In case of disaster, restoring is simple, and I talked about it at EuroBSDCon 2026 in Brussels . But there's another operating system that"
+    },
+    {
+      "link": "https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/",
+      "title": "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+      "description": "I have written before about putting a cache in front of snac , and more recently about the HAProxy layer in front of FediMeteo . The general idea is always the same: the reverse proxy should absorb the repetitive, public work that has no business reaching the application server. This post is the same idea applied to a much louder neighbour: a Mastodon instance. The instance is mastodon.bsd.cafe ,"
+    }
+  ]
+}

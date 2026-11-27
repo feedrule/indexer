@@ -1,0 +1,20 @@
+{
+  "url": "https://parsa.wtf/feed.xml",
+  "posts": [
+    {
+      "link": "https://parsa.wtf/cast/",
+      "title": "bool as u32",
+      "description": "That time I found a rustc bug"
+    },
+    {
+      "link": "https://parsa.wtf/joe/",
+      "title": "Joe: A JavaScript Opt Engine",
+      "description": "What I've been working on"
+    },
+    {
+      "link": "https://parsa.wtf/cost/",
+      "title": "Dependency in the Age of AI",
+      "description": "Why AI-driven cost collapse in code production means it's time to own your code instead of renting it."
+    }
+  ]
+}

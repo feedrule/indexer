@@ -1,0 +1,20 @@
+{
+  "url": "https://www.thirtythreeforty.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://thirtythreeforty.net/posts/toniebox-fox-error/",
+      "title": "Fixing Toniebox's dreaded code word \"Fox\"",
+      "description": "My children recently received a Toniebox 2 for Christmas. It’s a cute little speaker cube that you operate by sticking plastic characters on top of; the characters have an RFID that tell the box what content to download and play. This unit worked great for about a month until one morning when it wouldn’t do anything, even after charging it, except repeat “Uh oh! Look up code word ‘fox.’ Contact To"
+    },
+    {
+      "link": "https://thirtythreeforty.net/posts/ti-calculator-innovation/",
+      "title": "The Insane Innovation of TI Calculator Hobbyists",
+      "description": "In the mid-to-late 2000s, you either knew, or were, that kid in grade school. You know. The one who could put games on your graphing calculator. You may be surprised to learn that some of these people didn’t exist totally in a vaccuum. There was in fact a thriving scene of hackers who had bent these calculators to their will, writing games, math software, and more generally hacking on the platform"
+    },
+    {
+      "link": "https://thirtythreeforty.net/posts/hacking-reolink-cameras/",
+      "title": "Hacking Reolink cameras for fun and profit",
+      "description": "Way back in late 2019 , I dissected a Reolink B800 IP camera to demonstrate the various parts of an embedded Linux system. It’s fairly nice hardware, actually—it has a 4K video sensor, a microphone, power over Ethernet, and is nominally waterproof. And yes, it runs Linux. It came in a “kit” of six cameras and an NVR (a dedicated recording box that also powers the cameras). Unfortunately, the NVR i"
+    }
+  ]
+}

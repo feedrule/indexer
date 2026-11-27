@@ -1,0 +1,20 @@
+{
+  "url": "https://pksunkara.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://pksunkara.com/tech-notes/jujutsu-managing-workspaces/",
+      "title": "Jujutsu: Managing workspaces",
+      "description": "One of my favorite features in Jujutsu is its native support for workspaces (similar to Git worktrees). They let you have multiple working copies of the same repo, which is super handy for running tests in the background while you keep coding, or for juggling multiple features without constantly switching contexts. While the built-in jj workspace commands are great, they can be a bit verbose. I us"
+    },
+    {
+      "link": "https://pksunkara.com/tech-notes/jujutsu-keeping-a-file-untracked/",
+      "title": "Jujutsu: Keeping a file untracked",
+      "description": "Coming from Git , I am used to a workflow where I can create a file in my repository (maybe a temporary script, or a local configuration file) and just never git add it. It sits there, listed as untracked in git status , invisible to my commits but available for my use. I never needed to add it to .gitignore since I simply never staged it. When I started using Jujutsu , I ran into a small friction"
+    },
+    {
+      "link": "https://pksunkara.com/thoughts/ai-recruiters-faster-cheaper-and-still-clueless/",
+      "title": "AI recruiters: faster, cheaper, and still clueless",
+      "description": "Remember the days when you'd open your inbox to find a thrilling opportunity for a Senior Java Developer role. You'd blink, look at your GitHub profile filled with Rust & JavaScript, and wonder if they even read your name, let alone your history. It was the classic \" wrong stack \" email. Or maybe you got the time-traveler special: a recruiter demanding 10 years of Kubernetes experience in 2018. We"
+    }
+  ]
+}

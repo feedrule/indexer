@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mgechev.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.mgechev.com/2026/03/14/skillgrade/",
+      "title": "skill grade",
+      "description": "⭐ Find Skillgrade on GitHub skill grade A few weeks ago I wrote about Skill Eval, a framework for testing AI agent skills. The idea resonated — skills are becoming a critical part of how teams work with agents, and without a way to measure whether they work, you’re guessing. The problem was that Skill Eval required too much setup. You had to clone a repo, understand a specific directory structure,"
+    },
+    {
+      "link": "https://blog.mgechev.com/2026/02/26/skill-eval/",
+      "title": "Unit Tests for AI Agent Skills",
+      "description": "⭐ Find Skill Eval on GitHub Unit Tests for AI Agent Skills I’ve been working with AI coding agents daily - Antigravity, Gemini CLI, Claude Code, and others. One pattern I keep seeing is teams building skills for these agents: procedural instructions that teach the model how to use internal tools, follow specific workflows, or comply with team conventions. The problem? There’s no way to know if the"
+    },
+    {
+      "link": "https://blog.mgechev.com/2025/11/07/you-should-care-about-ai/",
+      "title": "You Should Care About AI",
+      "description": "In conversations with developers lately I’ve been noticing a lot of discomfort when bringing AI. Talking to people and doing self-reflection I think there are a couple of reasons for this: Overinflation. AI is certainly over hyped by some. People have business interests in raising money or increasing the valuation of their companies and they tend to exaggerated the capabilities of agents and langu"
+    }
+  ]
+}

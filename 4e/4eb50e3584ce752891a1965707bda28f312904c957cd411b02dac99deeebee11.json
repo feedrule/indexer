@@ -1,0 +1,20 @@
+{
+  "url": "https://yetanothermathprogrammingconsultant.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://yetanothermathprogrammingconsultant.blogspot.com/2026/11/a-note-on-variable-splitting.html",
+      "title": "A note on variable splitting: complementarity",
+      "description": "This note is about a well-known fact in linear programming: variable splitting and minimizing absolute values lead to complementarity pairs \\[\\begin{align}& r_i^{\\bf +} \\cdot r_i^{\\bf -} = 0\\\\ & r_i^{\\bf +}, r_i^{\\bf -} \\ge 0\\end{align}\\] in the solution. I.e., only one of \\(r_i^{\\bf +}, r_i^{\\bf -}\\) can be nonzero. A simple example of this absolute-value modeling technique is implementing an LAD"
+    },
+    {
+      "link": "https://yetanothermathprogrammingconsultant.blogspot.com/2026/06/mixture-models-as-math-programming.html",
+      "title": "Mixture models as math programming problem",
+      "description": "We can formulate a linear least squares regression model as an optimization problem. This is not how these problems are solved in statistical packages. Often, they use a QR decomposition. A real optimization formulation can be useful when we need to add unusual constraints that the statistical package does not support directly, or when we need to optimize a special maximum-likelihood function. Her"
+    },
+    {
+      "link": "https://yetanothermathprogrammingconsultant.blogspot.com/2026/11/should-solvers-ever-return-nonoptimal.html",
+      "title": "Should solvers ever return nonoptimal or infeasible solutions?",
+      "description": "While running experiments on a simple LP model [1], I wanted to see what Simplex solvers returned when they hit an iteration limit early on. Depending on the iteration limit, the model status could be intermediate infeasible, intermediate nonoptimal, or optimal. I had a specific reason to look at infeasible or nonoptimal solutions: I wanted to verify that a certain complementarity pattern was pres"
+    }
+  ]
+}

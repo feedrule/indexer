@@ -1,0 +1,20 @@
+{
+  "url": "https://legacyupdate.net/feed",
+  "posts": [
+    {
+      "link": "https://legacyupdate.net/news/legacy-update-1-14-1",
+      "title": "Legacy Update 1.14.1",
+      "description": "Legacy Update 1.14.1 handles the recent disclosure of compromised eMudhra certificates , which were found to be protected by very weak private keys. Any server you connect to on the internet can be impersonated by these certificates, putting your data at risk. Installing Legacy Update 1.14.1 triggers an update to the trusted certificate store, ensuring your system receives Microsoft’s revocation o"
+    },
+    {
+      "link": "https://legacyupdate.net/news/windows-server-2012-and-2012-r2-end-of-support",
+      "title": "Windows Server 2012 and 2012 R2 reach end of extended support",
+      "description": "Today, Windows Server 2012 and 2012 R2 (based on Windows 8 and 8.1, respectively) reached the end of their extended paid support ( ESU ) programs. While Windows 8 is a release many users skipped due to its widely criticised redesign in favor of tablet-style apps, the underlying operating system provides major benefits as compared to Windows 7. New features such as ReFS , more responsive Remote Des"
+    },
+    {
+      "link": "https://legacyupdate.net/news/legacy-update-1-14",
+      "title": "Legacy Update 1.14",
+      "description": "Legacy Update 1.14 extends the Legacy Update proxy server to be used on Windows 7 and later. Certificates critical to Windows Update on these versions will expire in June 2027, with no official workaround being given. Refer to our news article for more information on the Windows releases this affects. See the full changelog at the release page for Legacy Update 1.14 ."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://degenerateconic.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://degenerateconic.com/brouwer-lyddane-elements.html",
+      "title": "Brouwer-Lyddane Elements",
+      "description": "The Brouwer-Lyddane elements are a set of \"mean elements\" used to describe the orbit of a spacecraft. Mean elements (as opposed to osculating elements) are used as a way to smooth out fluctuations of an orbit due to the zonal spherical harmonic terms. There are two flavors: short period (considering …"
+    },
+    {
+      "link": "https://degenerateconic.com/minimization-without-derivatives.html",
+      "title": "Minimization Without Derivatives",
+      "description": "The FMIN function at Netlib is based on Richard Brent's classic localmin algorithm from [1]. The method uses a combination of golden section search and successive parabolic interpolation to compute the minimum of a 1D function without the necessity of evaluating any derivatives. There are Fortran 66 and ALGOL 60 …"
+    },
+    {
+      "link": "https://degenerateconic.com/sign.html",
+      "title": "Sign, Sign, Everywhere a Sign",
+      "description": "Reference [1] describes a numerical method for computing the derivative of a 1D function, using Neville's algorithm to extrapolate from a sequence of simple polynomial approximations based on interpolating points within specific bounds of a given point. The original code in the published paper in 1980 was written in ALGOL …"
+    }
+  ]
+}

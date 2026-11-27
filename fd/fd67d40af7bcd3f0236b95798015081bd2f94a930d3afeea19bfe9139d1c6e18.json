@@ -1,0 +1,20 @@
+{
+  "url": "https://rishit-dagli.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://rishit-dagli.github.io/lm-limits/",
+      "title": "Are There Limits to Language Modeling?",
+      "description": "Can you learn over a brand-new language without an explicit notion of causality and, during the process of language modeling, pick up the notions of causality?"
+    },
+    {
+      "link": "https://rishit-dagli.github.io/induction/",
+      "title": "How to Generate Hypotheses from Data?",
+      "description": "I try to understand how finite evidence supports claims about unobserved cases through confirmation puzzles, probability spaces, Bayesian updating, chance, statistics, and learning in the limit. Not to be confused with mathematical induction."
+    },
+    {
+      "link": "https://rishit-dagli.github.io/general-kaiming/",
+      "title": "Deriving a Generalized Kaiming Initialization",
+      "description": "A new general form of Kaiming initialization here which does not assume: that the weights and inputs have zero mean and that the inputs have variance $1$."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ajfarkas.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://ajfarkas.dev/blog/hsc2-transparency/",
+      "title": "How does HSC2 render overlapping transparent geometry?",
+      "description": "A novel(?) algorithm for stylized order-independent transparency"
+    },
+    {
+      "link": "https://ajfarkas.dev/blog/excel-dates/",
+      "title": "Cursed Excel: “1/2”+1=45660",
+      "description": "Learnings from trying to make an Excel-compatible spreadsheet"
+    },
+    {
+      "link": "https://ajfarkas.dev/blog/visualize-4d/",
+      "title": "Is It Possible To Visualize 4D?",
+      "description": "Yes, and you can learn it by practicing, just like any other skill"
+    }
+  ]
+}

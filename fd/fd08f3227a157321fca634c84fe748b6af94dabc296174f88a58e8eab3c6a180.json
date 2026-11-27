@@ -1,0 +1,20 @@
+{
+  "url": "https://celebi.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://celebi.me/blog/2026/08/my-macbook-cant-divide-by-20/",
+      "title": "My MacBook can't divide by 20: an Apple Metal compiler bug",
+      "description": "A Metal compiler bug that made 0 / 20 equal 25, and what the GPU was actually doing."
+    },
+    {
+      "link": "https://celebi.me/blog/2014/10/how-i-hacked-paypal-to-create-money/",
+      "title": "How I hacked Paypal to create money",
+      "description": "I discovered this bug on Aug 31, 2014 when I was trying to set up PayPal on my website for accepting payments. I notified PayPal about this bug and and they have fixed it now."
+    },
+    {
+      "link": "https://celebi.me/blog/2014/04/stayin-alive/",
+      "title": "Stayin’ Alive",
+      "description": "Optimal play in a two-bullet Russian roulette variant, and a tool for exploring what changes with different cylinders and bullet arrangements."
+    }
+  ]
+}

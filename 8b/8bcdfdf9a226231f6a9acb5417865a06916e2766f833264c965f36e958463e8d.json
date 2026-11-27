@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hamza.se/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.hamza.se/blog/tasfer",
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "description": "Almost every text editor on the web is built on contentEditable, an old browser API full of quirks. I built Tasfer on a 2D canvas instead, from the ground up, with peer-to-peer collaboration and no accounts. It is now open source."
+    },
+    {
+      "link": "https://www.hamza.se/blog/mineskin-pro",
+      "title": "MineSkin Pro: the story of a free Minecraft skin editor",
+      "description": "A small Minecraft skin tester I built in 2020 to learn computer graphics slowly turned into MineSkin Pro. In the last three months it had 70,079 visitors and 187,413 page views, and it is still free with no ads."
+    },
+    {
+      "link": "https://www.hamza.se/blog/neural-networks",
+      "title": "Neural Networks: Simpler Than You Think",
+      "description": "A walkthrough of implementing a neural network from scratch in Python, exploring what makes these seemingly complex systems actually quite straightforward."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://amatria.in/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://amatria.in/blog/agenticstack",
+      "title": "Beyond the Model: Making Sense of the GenAI and Agentic AI Stack",
+      "description": "Back in October 2023, I wrote about the multi-layered cake of GenAI development. My point then was simple: building a serious GenAI application involved much more than prompt engineering. Models, data, tools, agent design, product experience, and evaluation all mattered. Focusing exclusively on the prompt meant missing most of the system."
+    },
+    {
+      "link": "https://amatria.in/blog/aislop",
+      "title": "On AI-assisted writing, AI slop, and the line between them",
+      "description": "(As most of my other recent posts, this one has been written with AI assistance. In this one in particular I used Gemini, ChatGPT and Hermes agent)"
+    },
+    {
+      "link": "https://amatria.in/blog/endofcode",
+      "title": "The End of Coding? From AI Co-Development to Leading AI Agents",
+      "description": "This is the third—and likely final—post in a series I’ve been writing over the past two and a half years on using AI for software development. The journey began with my early experiences of how LLMs would change development, and continued 18 months later when I revisited those ideas during an AI-assisted codebase refactor."
+    }
+  ]
+}

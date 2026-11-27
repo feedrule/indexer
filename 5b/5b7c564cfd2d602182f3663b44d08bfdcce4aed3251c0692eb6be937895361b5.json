@@ -1,0 +1,20 @@
+{
+  "url": "https://keestalkstech.com/feed/",
+  "posts": [
+    {
+      "link": "https://keestalkstech.com/installing-and-configuring-opencode/",
+      "title": "Installing and Configuring OpenCode",
+      "description": "Install and configure OpenCode on Windows or Linux with Bun, MCP servers, permissions, watcher exclusions, and reusable skills."
+    },
+    {
+      "link": "https://keestalkstech.com/notes-on-winget/",
+      "title": "Notes on winget",
+      "description": "With the Windows Package Manager (winget), it is easy to install software from the command line. This makes your installs scriptable and thus repeatable. This article is the WinGet counterpart to my previous Notes on Chocolatey: it shows how to reproduce a machine's installation instructions and update your packages regularly. Install WinGet WinGet is supported…"
+    },
+    {
+      "link": "https://keestalkstech.com/shuffling-fisher-yates-vs-feistel/",
+      "title": "Shuffling: Fisher-Yates vs Feistel",
+      "description": "Compare deterministic Fisher-Yates and Feistel-based shuffling techniques for selecting every item exactly once per cycle."
+    }
+  ]
+}

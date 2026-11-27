@@ -1,0 +1,20 @@
+{
+  "url": "https://www.lvguowei.me/index.xml",
+  "posts": [
+    {
+      "link": "https://www.lvguowei.me/post/kotlin-flow-exception/",
+      "title": "Flow exception handling (Part 1)",
+      "description": "You may have heard that “No try/catch inside Flow” or “Only use catch() operator”. But why? Let’s explore from the beginning. Here is a very simple setup: fun main() = runBlocking { val worker = Worker() val scope = CoroutineScope(EmptyCoroutineContext) val flow = flow { emit(1) emit(2) emit(3) } scope.launch { try { flow.collect { println(worker.doWork(it)) } } catch (e: Exception) { println(\"Err"
+    },
+    {
+      "link": "https://www.lvguowei.me/post/kotlin-coroutine-1/",
+      "title": "What is a Coroutine?",
+      "description": "The first question we should ask when learning Kotlin Coroutine is: what is a Coroutine after all? Let’s go back to the Thread world and ask the same question, what is a Thread? Here is code that will create a simple Thread and start it: val thread = thread { } So the answer seems obvious, a Thread is just the Thread object returned. Easy. Can we say the same in the Coroutine world?"
+    },
+    {
+      "link": "https://www.lvguowei.me/post/pointfree-ep2-side-effects/",
+      "title": "Pointfree Ep2 Side Effects",
+      "description": "The title of this episode is called “Side effects”, but in my opinion, it’s all about how to move side-effects out of the function and make the function composable. Side effects in the body of the function If there is some side-effects in the body of the function, we can move the side-effect into the return of the function, and let the caller deal with it. func computeWithEffect(_ x: Int) -> Int {"
+    }
+  ]
+}

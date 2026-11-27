@@ -1,0 +1,20 @@
+{
+  "url": "https://juju-chu.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://juju-chu.com/blog/jujutsu-questions-answered",
+      "title": "Does Jujutsu Work with GitHub? Why the Name? 7 Questions Answered",
+      "description": "Seven questions Git users have about Jujutsu (jj): GitHub compatibility, missing Git features, the learning curve, using it at work before v1.0, and the story behind its name."
+    },
+    {
+      "link": "https://juju-chu.com/blog/rethinking-branch-with-jj",
+      "title": "Jujutsu Has No “Create a Branch” Step, and That Finally Made Git Branches Click",
+      "description": "Jujutsu has no “create a branch” step. Detached HEAD, anonymous branches, and bookmarks helped me finally understand why Git branches are pointers, and why Jujutsu uses bookmarks instead."
+    },
+    {
+      "link": "https://juju-chu.com/blog/why-jj-when-ai-runs-git",
+      "title": "Why I Still Choose Jujutsu When AI Can Handle Git",
+      "description": "“Just let AI handle Git” was the most common pushback on my last post. Here’s why I still choose Jujutsu (jj) even when AI runs version control: no commit ritual, painless undo, and history that’s ready for stacked PRs."
+    }
+  ]
+}

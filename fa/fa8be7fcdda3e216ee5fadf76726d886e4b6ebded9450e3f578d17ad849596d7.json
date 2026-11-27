@@ -1,0 +1,20 @@
+{
+  "url": "https://newschematic.org/index.xml",
+  "posts": [
+    {
+      "link": "https://newschematic.org/blog/kirby-krackle/",
+      "title": "The Kirby Krackle",
+      "description": "In honor of Jack “The King” Kirby ’s birthday last month (he’d be 109 years old), here’s krackle.js , a one-line script tag to give every click on every page that signature Kirby Krackle. Fig. 1 The King in 1992. Photo by Suzy Skaar, via the Jack Kirby Museum , CC BY-SA 3.0 . Try it out by clicking anywhere in this page, and then read on for an overview of my process, the questions I abandoned, an"
+    },
+    {
+      "link": "https://newschematic.org/blog/starting-with-gpui/",
+      "title": "Starting with gpui",
+      "description": "A couple of papercuts when getting started with gpui , the UI framework powering Zed . These weren’t exactly specific to the framework, but more that gpui is a single crate that’s part of a monorepo representing an entire product, and its develpment is inexorably tied to Zed’s. * The grander takeaway, regardless of project or ecosystem, is that you’ll have a better time if you’re pulling different"
+    },
+    {
+      "link": "https://newschematic.org/blog/branding/",
+      "title": "Branding",
+      "description": "Not just for steers I’ve long admired designers. If I’d had a different nudge in high school (specifically, known it was even a field), I could see myself going into industrial design instead of architecture. One part of that admiration is the ability to distill a company, a team, a band, a product, an experience, whatever, down to an essence. How they can hoover up anything and everything about t"
+    }
+  ]
+}

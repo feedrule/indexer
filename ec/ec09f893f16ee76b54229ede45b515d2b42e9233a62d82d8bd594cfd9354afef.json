@@ -1,0 +1,20 @@
+{
+  "url": "https://www.jonathanbeard.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html",
+      "title": "The 80% Problem: The Last 20% Is Where the Engineer Used to Live",
+      "description": "AI gets you to a working draft fast. The trouble is what the missing fifth contains, the edge cases and operational reality that used to teach engineers their judgment, and who builds that muscle now."
+    },
+    {
+      "link": "https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html",
+      "title": "AI Is the Ultimate Leaky Abstraction",
+      "description": "A generated answer is an abstraction over reasoning you never see. It works until it leaks, and when it leaks it hands you a bill for exactly the understanding it let you skip."
+    },
+    {
+      "link": "https://www.jonathanbeard.io/blog/2026/06/19/more-cores-stopped-saving-us.html",
+      "title": "Why More Cores Stopped Saving Us",
+      "description": "Adding cores quietly stopped working, and Amdahl told us why forty years early: scaling stalls on the one dependency you can't parallelize away, not the resource you keep buying."
+    }
+  ]
+}

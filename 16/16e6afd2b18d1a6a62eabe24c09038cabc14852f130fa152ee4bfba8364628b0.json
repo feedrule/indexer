@@ -1,0 +1,20 @@
+{
+  "url": "https://hashman.ca/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://hashman.ca/managing-venvs/",
+      "title": "Managing virtualenvs with a little bash",
+      "description": "Here's some bash I've written to make managing Python virtualenvs a little easier."
+    },
+    {
+      "link": "https://hashman.ca/security-101/",
+      "title": "A beginner's guide to improving your digital security",
+      "description": "This 8 item to-do list will help you improve your security, understand why you should do each task, the limitations of these tools, and what not to do."
+    },
+    {
+      "link": "https://hashman.ca/me-cfs/",
+      "title": "I am very sick",
+      "description": "In October 2022, I was diagnosed with ME/CFS. In February of last year, it got a lot worse."
+    }
+  ]
+}

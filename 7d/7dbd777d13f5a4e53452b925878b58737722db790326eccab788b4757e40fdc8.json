@@ -1,0 +1,20 @@
+{
+  "url": "https://danielmangum.com/index.xml",
+  "posts": [
+    {
+      "link": "https://danielmangum.com/posts/tragedy-oxide-rot/",
+      "title": "The Tragedy of the Oxide Root of Trust",
+      "description": "I have spent a significant portion of my career focused on helping folks securely manufacture, deploy, and manage the lifecycle of connected devices. I don’t think it would be an overstatement to say that my professional mission in life is to dramatically improve the status quo of device security. I recently changed jobs in service of that mission. While there is a fair amount of essential complex"
+    },
+    {
+      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "description": "If you are a software engineer, or generally work in the tech industry, there is a good chance that you heard about the eMudhra Intermediate CA Compromise that was disclosed yesterday (October 20, 2026). If you don’t, you may have noticed an uptick in software updates for various products that you use. I won’t go through the entire background of the situation as there are plenty of other posts, in"
+    },
+    {
+      "link": "https://danielmangum.com/posts/whats-on-that-access-port/",
+      "title": "What's on that Access Port?",
+      "description": "In my last post, I wrote about debugging the Nordic Semiconductor nRF54LM20 when a peripheral, specifically the Key Management Unit (KMU), writes directly to memory while the CPU is halted. Or I should really say that I wrote about debugging the application core (Cortex-M33), as the nRF54LM20 also has a RISC-V coprocessor (VPR) referred to as the Fast Lightweight Peripheral Processor (FLPR). Aroun"
+    }
+  ]
+}

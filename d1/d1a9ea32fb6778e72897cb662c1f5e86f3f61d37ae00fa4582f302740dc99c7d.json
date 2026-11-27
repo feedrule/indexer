@@ -1,0 +1,20 @@
+{
+  "url": "https://arveknudsen.com/index.xml",
+  "posts": [
+    {
+      "link": "https://arveknudsen.com/posts/prometheus/promcon-2025/",
+      "title": "PromCon 2025",
+      "description": "Another year, another PromCon! During PromCon EU 2025 , which took place in Munich October 21-22, I shared a talk with my colleague Owen Williams. Together we talked about the improvements that have gone into Prometheus' OpenTelemetry (AKA OTel) functionalities since PromCon 2024. Significant improvements have been made, both on the functional and the performance side of things. Some of the points"
+    },
+    {
+      "link": "https://arveknudsen.com/posts/prometheus/info-function-blog-post/",
+      "title": "Prometheus Info Function Blog Post",
+      "description": "I’ve blogged for the first time for the Prometheus project! The blog post is about the PromQL function Björn Rabenstein and I authored together: info . While info is still considered experimental, we recommend it as the best method for including OpenTelemetry resource attributes in Prometheus queries."
+    },
+    {
+      "link": "https://arveknudsen.com/posts/prometheus/promcon-2024/",
+      "title": "PromCon 2024",
+      "description": "This year marks my debut as conference speaker! During PromCon EU 2024 , which took place in Berlin September 11-12, I got two occasions to co-speak! During the first day of the conference, my colleague Jesús Vázquez and I gave the talk Practical OpenTelemetry with Prometheus 3.0 , where we shared with the audience all the work we put in towards making Prometheus 3.0 a 1st class OpenTelemetry (AKA"
+    }
+  ]
+}

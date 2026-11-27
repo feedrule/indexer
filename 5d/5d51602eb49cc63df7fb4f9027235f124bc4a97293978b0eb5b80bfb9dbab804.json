@@ -1,0 +1,20 @@
+{
+  "url": "https://lomont.org/index.xml",
+  "posts": [
+    {
+      "link": "https://www.lomont.org/posts/2026/imageprocessingnotes/",
+      "title": "Image Processing Notes",
+      "description": "How pictures should be resized, rotated and dithered, and how to judge the result. Three articles: expert notes with the mathematics, measurements and references; a plain-language summary ; and a checklist of best practices and gotchas ."
+    },
+    {
+      "link": "https://www.lomont.org/posts/2026/colorandhdrnotes/",
+      "title": "Color and HDR Notes",
+      "description": "What the numbers in a picture mean, from the CIE observers to HDR formats, and how they go wrong. Four articles: expert notes with computed figures and references; a general-audience summary ; a guide to best practices, gotchas and recognizing errors ; and reference tables with formulas."
+    },
+    {
+      "link": "https://www.lomont.org/posts/2026/samplingtheorynotes/",
+      "title": "Sampling Theory Notes",
+      "description": "What the sampling theorem promises, where each of its assumptions fails, and what replaces it. Three articles: expert notes with error budgets and references; a general-audience summary ; and a checklist of best practices and gotchas ."
+    }
+  ]
+}

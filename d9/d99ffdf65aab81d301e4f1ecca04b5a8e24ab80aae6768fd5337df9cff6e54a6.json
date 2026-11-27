@@ -1,0 +1,20 @@
+{
+  "url": "https://mrlokans.work/index.xml",
+  "posts": [
+    {
+      "link": "https://mrlokans.work/posts/towards-a-more-secure-local-environment/",
+      "title": "How I got hacked and now treat local security with more care.",
+      "description": "My OpenAI key was stolen from the local machine and I had to harden my local environment."
+    },
+    {
+      "link": "https://mrlokans.work/posts/sony-xb10-teardown/",
+      "title": "SRS-XB10",
+      "description": "A small Sony speaker, opened by scrolling."
+    },
+    {
+      "link": "https://mrlokans.work/posts/building-self-hosted-chess-blunder-trainer/",
+      "title": "Building a Self-Hosted Chess Blunder Trainer",
+      "description": "When you cannot learn to play well - make a product to get better."
+    }
+  ]
+}

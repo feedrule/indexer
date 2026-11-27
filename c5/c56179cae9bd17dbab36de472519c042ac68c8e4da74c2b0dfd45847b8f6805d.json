@@ -1,0 +1,20 @@
+{
+  "url": "https://imil.net/blog/index.xml",
+  "posts": [
+    {
+      "link": "http://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "title": "RTX 5080 + RTX 3090 Setup: 80+ Tok/s on Qwen 3.6 27B Q8",
+      "description": "Update for Qwen 3.8 27B A year ago, I bought an RTX 5080 for both gaming and AI experiments. Little did I know back then that I would be giving into the joys of local LLM setups. Fast forward 2026, Qwen 3.5, Gemma, Qwen 3.6, I needed more than 16GB. So I got myself a refurbished RTX 3090 with 24GB. I could then run Qwen 3.6 Q4 quants, first at ~30 tok/s, then 50-60 with MTP. Not bad. But still fel"
+    },
+    {
+      "link": "http://imil.net/blog/posts/2025/ivpn-on-netbsd/",
+      "title": "IVPN on NetBSD",
+      "description": "Last week, the VPN provider I previously used went dark for days and went back with no explanation. They have an history of not communicating much and their support does suck but TBH I almost never used it, nevertheless I felt it was time for a change. I asked on BlueSky for feedback and one of the suggestions caught my eye: IVPN . They have very good reviews, support WireGuard and an OpenBSD deve"
+    },
+    {
+      "link": "http://imil.net/blog/posts/2025/toying-around-with-xv6-x86/",
+      "title": "Toying Around With Xv6 X86",
+      "description": "From the project’s Github repository : xv6 is a re-implementation of Dennis Ritchie’s and Ken Thompson’s Unix Version 6 (v6). xv6 loosely follows the structure and style of v6, but is implemented for a modern x86-based multiprocessor using ANSI C. Having a small footprint and code base, xv6 is an excellent tool to deepen in operating systems internals, like boot process, virtual memory setup, basi"
+    }
+  ]
+}

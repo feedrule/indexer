@@ -1,0 +1,20 @@
+{
+  "url": "https://theo.io/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Example Talk",
+      "description": "Click on the Slides button above to view the built-in slides feature. Slides can be added in a few ways: Create slides using Wowchemy’s Slides feature and link using slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on th"
+    },
+    {
+      "link": null,
+      "title": "A molnupiravir-associated mutational signature in global SARS-CoV-2 genomes",
+      "description": null
+    },
+    {
+      "link": null,
+      "title": "SVG export from DeckGL",
+      "description": "Taxonium , my tool for exploring large phylogenetic trees, uses a few tricks to be fast even when exploring trees of 15 million sequences. One is sparsification: there is no need to draw every single node when sometimes thousands are overlapping and occluding those below: where nodes overlap we only draw some of them. But even so, there are tens of thousands of nodes being shown, which means we ne"
+    }
+  ]
+}

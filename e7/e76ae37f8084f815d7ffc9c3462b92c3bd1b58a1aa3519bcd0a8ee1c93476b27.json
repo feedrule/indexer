@@ -1,0 +1,20 @@
+{
+  "url": "https://mikeaparicio.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://mikeaparicio.com/posts/2026-09-04-closing-loops/",
+      "title": "Closing Loops",
+      "description": "Three months ago, for reasons I won’t get into, I found myself suddenly taking care of my two sons by myself. More recently I became unemployed. You’ve heard of Dual Income, No Kids? I’m doing Dual Kids, No Income. As a result of these sudden changes I’ve had to establish some new habits and routines to keep everything afloat without being completely overwhelmed. Around the time all this started,"
+    },
+    {
+      "link": "https://mikeaparicio.com/posts/2026-04-22-2025/",
+      "title": "2025",
+      "description": "Hey! Remember 2025? It was doozy. So much, in fact, that I'm only now getting around to recapping it. It feels like still having your Christmas tree up at Easter. At this point, who cares? I'm a completionist at heart, so I couldn't just not do a recap. 50 I turned 50 in 2025 and the day came and went without much fanfare. I didn't feel like making a big deal out of it. People are often surprised"
+    },
+    {
+      "link": "https://mikeaparicio.com/posts/2025-01-23-styling-a-meter-element-with-css-and-svg/",
+      "title": "Styling a meter element with CSS and SVG",
+      "description": "May 12, 2026 Update: I refactored this to use mask-image instead of background-image so you can control the color of the mask with background-color instead of setting a fill on the SVG to match the surrounding background color. I recently had to add a new variation of a rating component for work and thought I'd share my technique here. (Note that this rating is just for displaying a rating, not fo"
+    }
+  ]
+}

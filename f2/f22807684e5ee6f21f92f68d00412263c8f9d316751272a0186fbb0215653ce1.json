@@ -1,0 +1,20 @@
+{
+  "url": "https://www.austintripp.ca/rss.xml",
+  "posts": [
+    {
+      "link": "https://austintripp.ca/blog/2026-11-25-coherent-bo/",
+      "title": "Coherent updates and non-myopic Bayesian optimization",
+      "description": "☀️ High confidence ✍️ Entirely human 🔧 Moderate effort 🧩 Medium originality 🌱 New Reading Reason et al. (2026) today made me realize something surprising (but obvious in hindsight): Bayesian optimization (BO) algorithms usually assume a predictive model which performs Bayesian updating, even though approximate inference methods don’t actually guarantee this. Let’s use a simple example with 2 varia"
+    },
+    {
+      "link": "https://austintripp.ca/blog/2026-10-04-high-dim-bo-wrong-problem/",
+      "title": "High-dimensional BO is the wrong problem to study",
+      "description": "⛅ Medium confidence 🤖 AI-assisted 🔧 Moderate effort 🧩 Medium originality 🌱 New This article is a written version of a talk I gave last week at an Oxford mini-conference on BO. A companion post summarizing my takeaways from the conference is here . A lot of papers have been written about “high dimensional Bayesian optimization” (BO) in machine learning: many saying it is hard, many proposing new al"
+    },
+    {
+      "link": "https://austintripp.ca/blog/2026-10-04-oxford-bo-miniconf/",
+      "title": "Notes from Oxford BO mini-conference",
+      "description": "🤖 AI-assisted ✏️ Quick post 🪞 Low originality 🌱 New Last week (2026-09-29) I had the pleasure of attending a mini-conference in Oxford on Bayesian optimization (BO), focusing mostly on high dimensional BO and the recent paper proposing linear kernels on transformed inputs (Doumont et al. 2026) . I gave a talk on how I thought high-dimensional BO is the wrong problem to study (post here ). Here are"
+    }
+  ]
+}

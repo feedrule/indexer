@@ -1,0 +1,20 @@
+{
+  "url": "https://oioannou.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://oioannou.com/blog/introducing-replacemrr/",
+      "title": "Introducing replacemrr: Who Replaced Whose MRR",
+      "description": "Everyone is talking about SaaS getting killed. Is this really happening? replacemrr.com is a tracker of the SaaS bills that are replaced: old bill, new running cost, net saved. Submit yours!"
+    },
+    {
+      "link": "https://oioannou.com/blog/ai-promised-less-work/",
+      "title": "AI Promised Less Work. I Have Never Worked More.",
+      "description": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low."
+    },
+    {
+      "link": "https://oioannou.com/blog/i-still-read-the-code/",
+      "title": "I Don't Write Code Anymore. I Still Read It.",
+      "description": "Agents write all my code now. I still keep asking them to simplify it, because unnecessary complexity creates more to reason about and more places for bugs."
+    }
+  ]
+}

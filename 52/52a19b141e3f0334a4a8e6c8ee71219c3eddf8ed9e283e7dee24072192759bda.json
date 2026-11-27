@@ -1,0 +1,20 @@
+{
+  "url": "https://www.e-tinkers.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.e-tinkers.com/2026/02/build-a-li-ion-li-po-battery-capacity-tester/",
+      "title": "Build a Li-Ion/Li-Po Battery Capacity Tester",
+      "description": "I recently build myself a Li-Ion/Li-Po battery capacity tester, this article discuss the theory behind a battery capacity tester and how I build it. On my previous blog I mentioned that I often salvage 18650 batteries or other Li-Po battery packs from old appliances. One thing about those salvaged battery is that sometime those batteries […]"
+    },
+    {
+      "link": "https://www.e-tinkers.com/2025/08/design-my-own-tp4056-li-ion-charger-and-iot-power-supply-subsystem/",
+      "title": "Design my own TP4056 Li-Ion Charger and IoT Power Supply Subsystem",
+      "description": "This article described how to add the protection circuit to 18650 battery the CORRECT WAY and how I build my own battery charger and an IoT power supply subsystem which consists of a battery charger, a 3.3v/5v boost/buck converter with very low quiescent current. 18650 Battery and Battery Protection One of the common things that […]"
+    },
+    {
+      "link": "https://www.e-tinkers.com/2024/10/fix-a-wireless-doorbell-with-esp-now/",
+      "title": "Fix a Wireless Doorbell with ESP-NOW",
+      "description": "One of my long-waiting outstanding projects is to fix this no-frill SoundTech doorbell. I finally done it, by replacing the RF transmitter/receiver used by the doorbell with ESP-NOW. The Problem with SoundTech doorbell The doorbell is a wireless one, operated on a unknown frequency band, presumably on 403MHz band or even 27MHz band. The indoor […]"
+    }
+  ]
+}

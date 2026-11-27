@@ -1,0 +1,20 @@
+{
+  "url": "https://sylhare.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://sylhare.github.io/2026/11/23/Google-datastore-guide.html",
+      "title": "Google Datastore and GQL practical guide",
+      "description": "Google Cloud Datastore is a schemaless NoSQL database for storing and querying entities. It is also now available as Datastore mode in Firestore, retaining the Datastore API while using Firestore’s storage layer."
+    },
+    {
+      "link": "https://sylhare.github.io/2026/07/28/Hexagonal-architecture.html",
+      "title": "Hexagonal architecture with Go",
+      "description": "Hexagonal architecture (or Ports & Adapters, as initially coined) is the focus of this article, The concept is pretty well known (ties in the clean architecture) and still used (see Netflix blog), it focuses on the concept of separation of concerns."
+    },
+    {
+      "link": "https://sylhare.github.io/2026/06/30/Marimo-reactive-notebook.html",
+      "title": "The Notebook ⎘ Marimo’s take",
+      "description": "A while back I wrote about Jupyter notebooks and all the little tricks that make them pleasant to work with. They’re great for poking at data and keeping code, notes and plots in one place. But if you’ve lived with notebooks for long enough, you know they also have a darker side: cells run in whatever order you click them, variables linger after you delete the cell that made them, and the .ipynb f"
+    }
+  ]
+}

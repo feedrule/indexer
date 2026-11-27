@@ -1,0 +1,20 @@
+{
+  "url": "https://duggan.ie/atom.xml",
+  "posts": [
+    {
+      "link": "https://duggan.ie/posts/subya",
+      "title": "Subya – captions for your clips",
+      "description": "My take on a relatively well covered application category: adding subtitles to video clips. This is something I've stitched together myself using iMovie, Handbrake, ffmpeg, etc., over the years, and while I've gotten it down to a pretty quick process, it finally occurred to me to have Claude help me put together a single app for it."
+    },
+    {
+      "link": "https://duggan.ie/posts/usagi-1-3-1",
+      "title": "Usagi 1.3.1",
+      "description": "Small maintenance update. Anthropic have dropped the 5 hour usage limit for Ultra accounts (formerly Max 20 ). I mistakenly thought this limit was dropped for all accounts and removed the 5 hour usage limit in 1.3.0. 1.3.1 reverses that, instead just making the 5 hour limit optional dependant on what the API returns. usagi A glanceable Claude.ai usage indicator for your menu bar. Download for macO"
+    },
+    {
+      "link": "https://duggan.ie/posts/favourite-ramen-shop-in-japan-yoshiyama-shotengai-sapporo",
+      "title": "Favourite ramen shop in Japan: Yoshiyama Shotengai, Sapporo",
+      "description": "Been just about a year since Ash and I were in Japan, and last night, the first cooler evening we've had this summer, I was thinking about a hot, steaming bowl of ramen. Somehow, the first random ramen shop we walked into on the first day we arrived in Sapporo was both of our favourites of the whole three month odyssey."
+    }
+  ]
+}

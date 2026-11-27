@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.qligier.ch/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.qligier.ch/posts/2026-howto-migrate-jellyfin-windows-docker/",
+      "title": "How to migrate Jellyfin from Windows to Docker",
+      "description": "For a long time, my Jellyfin server was running on Windows, on an Intel NUC . When I moved it to Docker on my new NAS , I wanted to keep my Jellyfin instance as it was, with a proper data migration between the two hosts. The Jellyfin documentation isn’t of much help here: it warns that the internal databases can’t easily be copied or adjusted, and points to a third-party script, Jellyfin-Migrator"
+    },
+    {
+      "link": "https://blog.qligier.ch/posts/2026-export-private-key-windows/",
+      "title": "Exporting a non-exportable private key from the Windows Certificate Store",
+      "description": "I recently switched laptops while traveling, and I had to migrate a client certificate, used for mTLS, that I had saved in the Windows Certificate Store. Of course, when I imported it initially, I didn’t select “Mark this key as exportable”, and Windows was (logically) refusing to let me export it now. While I could have waited to get back home, where I stored an offline copy of the private key, I"
+    },
+    {
+      "link": "https://blog.qligier.ch/posts/2026-nas-hdd-wakeup-jellyfin/",
+      "title": "Waking up a NAS HDD with Jellyfin",
+      "description": "I have at home a NAS that I use as backup for important documents and as primary storage for my medias. With the latter, I like to use Jellyfin, which provides a great interface! I recently changed my old Synology model for the recent UGREEN DXP4800 Plus, on which I can now install Docker and run Jellyfin. That’s a great improvement! Prior to that, Jellyfin was running on an Intel NUC , which requ"
+    }
+  ]
+}

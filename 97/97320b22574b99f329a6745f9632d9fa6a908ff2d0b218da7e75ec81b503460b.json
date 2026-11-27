@@ -1,0 +1,20 @@
+{
+  "url": "https://devtidbits.com/index.xml",
+  "posts": [
+    {
+      "link": "https://devtidbits.com/2026/02/10/hugo-dont-waste-your-time/",
+      "title": "Hugo, Don't Waste Your Time",
+      "description": "Hugo , the static site generator written in Go, is fast and has been around for years. However, the software has been in a constant prototype phase for over a decade. In 2026, the development is still operating on a methodology of “move fast and break things.” That’s fine for a six-month startup, but less-so for a platform that has been around since 2013. Its primary function is to transform 2004-"
+    },
+    {
+      "link": "https://devtidbits.com/2025/01/07/caddy-server-stops-working/",
+      "title": "Caddy Server stops working",
+      "description": "Over the holidays a web server ran out of hard drive space. So I rebooted the system to clear out the temporary directory tmp/ to restore some space. Unbeknownst to me, Caddy ran out of space in the middle of writing to its internal cache and would not start . Thanks to one of the internal Caddy JSON files being left incomplete, thus, malformed and corrupt! After a brief panic from multiple attemp"
+    },
+    {
+      "link": "https://devtidbits.com/2015/11/30/add-to-and-change-ubuntus-motd/",
+      "title": "Add to and change Ubuntu's MOTD",
+      "description": "Ubuntu’s Message Of The Day, or MOTD, is the name given to the welcome screen users see when they login to a Ubuntu server using a remote terminal. Welcome to Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-24-generic x86_64) * Documentation https://helpubuntu.com/ Welcome to Ubuntu 22.04.1 LTS (GNU/Linux 5.15.0-52-generic x86_64) * Documentation: https://help.ubuntu.com * Management: https://landscape.canon"
+    }
+  ]
+}

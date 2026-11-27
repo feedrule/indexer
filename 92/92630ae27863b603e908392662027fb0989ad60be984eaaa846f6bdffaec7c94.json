@@ -1,0 +1,20 @@
+{
+  "url": "https://agingcoder.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://agingcoder.com/posts/i-built-a-thing/",
+      "title": "I Built an “AI for Shell Commands” CLI (So I Could Stop Asking ChatGPT)",
+      "description": "I keep using chatbots for the same kind of question, over and over. Not “how do I build a distributed system” questions. The small ones. The terminal ones. The ones that should be muscle memory by now, except they aren’t. Questions like: how do I kill the task running on port 5173 from PowerShell remove a file from a git commit without deleting it find all files larger than 10MB compress all log f"
+    },
+    {
+      "link": "https://agingcoder.com/posts/agents-all-the-way-down/",
+      "title": "Agents all the way down",
+      "description": "What I Thought the End of Coding Would Look Like I started writing a story almost 28 years ago, back when I was still taking CompSci at college and spending a lot of time with the kind of ideas that feel inevitable when you’re young and the future looks like it’s accelerating: self-modifying systems, software that “evolves” instead of being written, the sense that if you just push compute far enou"
+    },
+    {
+      "link": "https://agingcoder.com/posts/i-built-an-interactive-cv/",
+      "title": "I Built an Interactive CV",
+      "description": "A quick weekend build In my previous post, AI-Assisted Coding on a Budget , about AI Assisted coding, I included a short section about how I created an Interactive CV . A few people asked how it worked and how I built it, so this blog post expands upon that section to provide some answers. I took a short break from the larger project I’m working on and spent a weekend knocking out an idea I’d been"
+    }
+  ]
+}

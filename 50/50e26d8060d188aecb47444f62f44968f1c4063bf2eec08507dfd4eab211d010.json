@@ -1,0 +1,20 @@
+{
+  "url": "https://prasadkhake.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://prasadkhake.com/blog/vesuvius-zarr-progress-prize/",
+      "title": "My data-loader fix just won a $1,000 Vesuvius Challenge Progress Prize",
+      "description": "The Vesuvius Challenge's July 2026 Progress Prizes named my Zarr 3 compatibility fix and chunk cache for the Python vesuvius library. Here's what was actually awarded, and why the boring data-plumbing work was worth writing up."
+    },
+    {
+      "link": "https://prasadkhake.com/blog/pherc1203-torn-pockets/",
+      "title": "My readability metric found pockets in a sealed scroll. They were shredded.",
+      "description": "I tried to turn the best-scoring pockets from my PHerc1203 readability atlas into a readable surface. They were torn. An opposite coherence-first search found a different failure mode: the seven successfully inspected candidates were densely packed. Together, the searches motivate a joint coherence-and-separability test."
+    },
+    {
+      "link": "https://prasadkhake.com/blog/pherc1203-readability-atlas/",
+      "title": "I mapped local readability cues inside a sealed Herculaneum scroll",
+      "description": "A CPU-only survey of PHerc1203 found that most sampled sites fail a local geometry gate, while a few rare pockets initially looked comparable to known-readable PHerc1667. Follow-up raw-CT inspection showed that the top pockets were torn fragments, clarifying what the metric can and cannot detect."
+    }
+  ]
+}

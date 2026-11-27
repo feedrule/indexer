@@ -1,0 +1,20 @@
+{
+  "url": "https://maxleiter.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://maxleiter.com/blog/embedding-emoji-search",
+      "title": "You don't need Jev for good emoji search",
+      "description": "An interactive emoji search demo runs here in the web version of this post. There's been a lot of Jev hype lately, and for good reason. It's largely novel (to most developers, at least), super cheap, and there's a lot of cool use cases for it. The issue I see is a lot of people are seeing Jev as a hammer, and lots of classification tasks as nails. You want to use Jev when you need some LLM reasoni"
+    },
+    {
+      "link": "https://maxleiter.com/blog/thank-u-next",
+      "title": "thank u, next",
+      "description": "If you're wondering about this post's title: https://en.wikipedia.org/wiki/Thank_U,_Next There's been a lot of talk about custom / personal software and LLMs lately. I've been a huge fan -- I'm writing this in a markdown editor I made for myself. And lately I've been toying with thoughts about the future of frameworks. A nice intersection of the two seemed like a personal framework. So as of Septe"
+    },
+    {
+      "link": "https://maxleiter.com/blog/xios",
+      "title": "Running Wayland, X11, GNOME, and KDE natively on an iPad",
+      "description": "I like running software on devices that aren't \"supposed\" to run it. I own the hardware. I should control the software. And for reasons , Apple makes phenomenal hardware and operating systems, but locks them down. I've been bitter for a long time. Six years ago, when I should’ve been studying for finals, I ported X11 to my jailbroken iPad because I wanted to try using it as a \"real\" personal compu"
+    }
+  ]
+}

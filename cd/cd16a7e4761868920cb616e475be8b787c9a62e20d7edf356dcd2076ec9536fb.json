@@ -1,0 +1,20 @@
+{
+  "url": "https://allanim.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://allanim.com/writing/advice-i-dont-give/",
+      "title": "The advice I don't give juniors",
+      "description": "Twenty-five years of technical advice has mostly expired. What's left worth passing on is the short list of things that never moved: the domain, working backward, reading, and trust."
+    },
+    {
+      "link": "https://allanim.com/writing/dont-outsource-the-thinking/",
+      "title": "Don't outsource the thinking",
+      "description": "Developers are starting to refuse to work without AI. The tools were never the problem — handing over the part that thinks is."
+    },
+    {
+      "link": "https://allanim.com/writing/modeling-the-domain-first/",
+      "title": "Modeling the domain first",
+      "description": "Why I reach for the domain model before the framework, the database, or the API."
+    }
+  ]
+}

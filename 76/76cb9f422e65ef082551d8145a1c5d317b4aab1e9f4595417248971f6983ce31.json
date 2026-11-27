@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mycfml.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.mycfml.com/articles/cf-humannameparser-parsing-peoples-names-in-cfml-without-a-jar/",
+      "title": "cf-HumanNameParser: Parsing People's Names in CFML Without a Jar",
+      "description": "A CFML port of java HumanNameParser. Splits a person's name into salutation, leading initial, first name, nicknames, middle names, last name, suffix, and postnominal. One component, no jar. Runs on Adobe ColdFusion 2016+, Lucee 5+, and BoxLang."
+    },
+    {
+      "link": "https://www.mycfml.com/articles/cf-yourls-a-coldfusion-component-for-the-yourls-url-shortener-api/",
+      "title": "cf-yourls: A ColdFusion component for the YOURLS URL shortener API",
+      "description": "cf-yourls: CFML wrapper for the YOURLS link shortener API. Shorten URLs, expand keywords, pull click stats, and manage Expiry plugin rules from Adobe ColdFusion 2016+ or Lucee 6. Signature or username/password auth, 61 TestBox specs, MIT."
+    },
+    {
+      "link": "https://www.mycfml.com/articles/cfslack-a-coldfusion-component-for-the-slack-web-api/",
+      "title": "cfSlack: A ColdFusion Component for the Slack Web API",
+      "description": "A new ColdFusion component for the Slack Web API - wrapping 50 methods across chat, conversations, users, views, and DND, tested on seven engines from Adobe ColdFusion 2016 through 2025 and Lucee 5 & 6."
+    }
+  ]
+}

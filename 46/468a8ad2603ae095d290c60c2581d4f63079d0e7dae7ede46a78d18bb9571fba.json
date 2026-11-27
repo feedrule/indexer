@@ -1,0 +1,20 @@
+{
+  "url": "https://hovinen.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://hovinen.tech/announcements/2026/06/24/introducing-test-that.html",
+      "title": "Introducing Test That!",
+      "description": "I’m excited to announce the release of Test That! , a powerful library for test assertions in Rust. It is a fork of GoogleTest Rust ."
+    },
+    {
+      "link": "https://hovinen.tech/software-development/2025/08/30/ai-assisted-coding.html",
+      "title": "On AI-assisted programming",
+      "description": "AI code generation is all the rage nowadays. It’s not hard to see why. Look at it from a business leader’s perspective. Imagine not having to pay expensive developers whom you have to train for years before they start really producing quality work. Who demand more and more money and perks on top of that. Who loudly and publicly protest your business decisions. Just have an AI write the code instea"
+    },
+    {
+      "link": "https://hovinen.tech/blog/2025/01/11/experimenting-with-high-performance-rust/",
+      "title": "Experimenting with high performance Rust",
+      "description": "A few weeks ago I attended a “hacking session” organized by the Rust Munich meetup. The participants competed on a single task: given one billion temperature measurements from about 10000 different weather stations, output aggregate statistics for each station. The goal was to write a program which reads the input from a file and produces the output as quickly as possible. This problem is fascinat"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://minoki.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
+      "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC, or how to return multiple values from a foreign function",
+      "description": "This article is an English version of my earlier post “ 【低レベルHaskell】Haskell (GHC) でもインラインアセンブリに肉薄したい！ ” (in Japanese). The translation was assisted by AI (if you don’t like reading AI-generated content, please read the Japanese version!). Modern CPUs have many instructions specialized for particular purposes. Examples include SIMD, instructions useful for hashing and cryptography, and a variety o"
+    },
+    {
+      "link": "https://minoki.github.io/posts/2025-08-31-whats-new-in-ghc-9-14.html",
+      "title": "An Unofficial Guide to What's New in GHC 9.14",
+      "description": "I’ve been writing posts in Japanese over the past few years introducing new features in GHC. I thought such posts might also be useful for readers in the English-speaking community, so with some help from tools like ChatGPT, I’ve translated the latest one into English. I hope this will be helpful when you try out the new GHC. The original Japanese article can be found at GHC 9.14の新機能 . GHC 9.14.1-"
+    },
+    {
+      "link": "https://minoki.github.io/posts/2025-01-13-ghc-simd.html",
+      "title": "Some thoughts on GHC's SIMD primitives",
+      "description": "The use of parallelization is essential to exploit the performance of modern computers. In particular, we want to take advantage of SIMD, multi-core, and GPUs. This article will focus on SIMD — single instruction, multiple data. GHC has provided primitives for SIMD for years, but they have not been effectively utilized. In this article, I’d like to discuss what can be done to promote the utilizati"
+    }
+  ]
+}

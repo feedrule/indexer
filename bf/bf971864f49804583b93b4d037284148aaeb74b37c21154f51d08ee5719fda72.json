@@ -1,0 +1,20 @@
+{
+  "url": "https://jorin.me/index.xml",
+  "posts": [
+    {
+      "link": "https://jorin.me/building-taleshape/",
+      "title": "Building Taleshape",
+      "description": "Building a business as independent developer around an open source data visualization tool"
+    },
+    {
+      "link": "https://jorin.me/clickhouse-for-embedded-analytics-first-impressions-and-unexpected-challenges/",
+      "title": "Clickhouse for Embedded Analytics: First Impressions and Unexpected Challenges",
+      "description": "I chose Clickhouse for an embedded analytics project. Here are my first impressions and some surprises I encountered along the way."
+    },
+    {
+      "link": "https://jorin.me/advance-of-ai/",
+      "title": "Advance of AI",
+      "description": "AI is here to stay. What does that mean for us humans?"
+    }
+  ]
+}

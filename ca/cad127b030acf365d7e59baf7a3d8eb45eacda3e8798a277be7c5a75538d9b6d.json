@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.fogus.me/feed",
+  "posts": [
+    {
+      "link": "https://blog.fogus.me/thoughts/old-ideas.html",
+      "title": "Old Ideas",
+      "description": "Whereby I discuss the value of old ideas..."
+    },
+    {
+      "link": "https://blog.fogus.me/llm/born-against.html",
+      "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+      "description": "Whereby I discuss why we're seeing an increasingly aggressive rejection of LLMS by niche hobby communities..."
+    },
+    {
+      "link": "https://blog.fogus.me/llm/van-emden.html",
+      "title": "Mind the van Emden Gap",
+      "description": "Whereby I read a paper about Intelligence Augmentation written in 1982 and talk about how it relates to today..."
+    }
+  ]
+}

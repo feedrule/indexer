@@ -1,0 +1,20 @@
+{
+  "url": "https://www.henrypan.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.henrypan.com/blog/2026-07-18-harness-training/",
+      "title": "Harness Training",
+      "description": "So I recently wanted to see whether an AI agent could self-improve a harness to solve terminal bench tasks. To align on the definitions, “harness” means the system (e.g. Claude Code, Codex, ChatGPT web interface etc…) wrapping around the model (e.g. GPT-5.5, Claude Opus 4.7 etc…) that interacts with a..."
+    },
+    {
+      "link": "https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/",
+      "title": "What 1,000+ Harness Experiments Taught Me About Self-Improving Agents",
+      "description": "Follow-up (July 2026): Harness Training: a deterministic framework and results. So I recently wanted to see whether an AI agent could self-improve a harness to solve terminal bench tasks. To align on the definitions, “harness” means the system (e.g. Claude Code, Codex, ChatGPT web interface etc…) wrapping around the model..."
+    },
+    {
+      "link": "https://www.henrypan.com/blog/2026-03-14-how-deep-learning-library-enables-learning/",
+      "title": "How a Deep Learning Library Enables Learning",
+      "description": "1. The Familiar Training Step 2. Why Call loss.backward() At All 3. Why An Update Actually Helps 4. Values Remember Where They Came From 5. What One Operation Does During Backward 6. How loss.backward() Walks the Whole Graph 7. So We Have All the Gradients in the Graph. What’s Next?..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://kachar.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://kachar.dev/blog/how-to-burn-tokens-without-burning-out",
+      "title": "How to Burn Tokens Without Burning Out",
+      "description": "Agents run at full speed, and so did I. This is how I slowed my sessions, my notifications and my nights down without giving up the results."
+    },
+    {
+      "link": "https://kachar.dev/blog/compound-engineering-is-our-factory-floor",
+      "title": "Compound engineering is our factory floor",
+      "description": "A ten-person team's agents run on one plugin: humans own the plan and the review, agents the rest. In one October week we merged 469 PRs."
+    },
+    {
+      "link": "https://kachar.dev/blog/orders-get-obedience-questions-get-opinions",
+      "title": "Orders get obedience. Questions get opinions.",
+      "description": "I don't tell the model what to do. I ask it, because an order caps the answer at what I already knew, and a question leaves room to be wrong."
+    }
+  ]
+}

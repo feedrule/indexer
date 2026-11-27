@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.xpnsec.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.xpnsec.com/articles/#jev-for-offsec",
+      "title": "Experimenting with Jev for Offensive Security",
+      "description": "This article looks at the Jev model and how it performs with offensive security tasks, including real-time OPSEC evaluation and hunting for sensitive files."
+    },
+    {
+      "link": "https://blog.xpnsec.com/accelerating-edr-evasion-with-llm/",
+      "title": "Accelerating EDR Evasion with LLM-Driven Analysis",
+      "description": "This post explores how effective LLM's are at reverse engineering EDR and AV engines. We look at Cortex, and just how GPT 5.5-Cyber was able to carve through each layer, providing YARA rules, Models, and behavioral detection rules to analyse."
+    },
+    {
+      "link": "https://blog.xpnsec.com/disposable-tooling/",
+      "title": "Disposable Tooling - Building LLM-Generated Mythic Agents from Prompt to Deployment",
+      "description": "In this post I walk through each major milestone that has been taken in my quest to explore building LLM-generated Mythic agents from prompt to deployment. Starting at the beginning, I’ll show what worked, what didn’t, and where this space is likely going next."
+    }
+  ]
+}

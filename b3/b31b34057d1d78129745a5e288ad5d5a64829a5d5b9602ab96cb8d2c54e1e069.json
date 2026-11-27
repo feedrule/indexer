@@ -1,0 +1,20 @@
+{
+  "url": "https://tinkering.xyz/rss.xml",
+  "posts": [
+    {
+      "link": "https://tinkering.xyz/bedctl/",
+      "title": "I wrote an API client for my water-cooled bed",
+      "description": "Now that I have your attention, let's break that down a little bit. I recently purchased a Sleep.me Chilipad 2.0 , which is a system that allows you to control the temperature of your bed using a thin, water-filled mattress topper that's connected to a device that contains a pump, reservoir, and thermostat. It was $1700 1 . Yes it's ridiculous. I know. I make software engineer money, I'm single, I"
+    },
+    {
+      "link": "https://tinkering.xyz/faster/",
+      "title": "I don't care that it's X times faster",
+      "description": "Yeah, this is a rant. I saw a post on r/rust and it triggered me. Rather than putting it in my diary or keeping it between me and my therapist I'm putting it on the internet because I suspect there are some kindred spirits out there. I'm sure this will go well for me. Also, yeah, I've written a post about making things faster, but that was about the incremental improvements I made to (1) something"
+    },
+    {
+      "link": "https://tinkering.xyz/flox-composition/",
+      "title": "Composition: the feature I've wanted in Flox since I joined the company",
+      "description": "Yes, this post is going to be about Flox , my employer, but this isn't an advertisement. This is me, both an engineer and a user, describing why I think a new feature I worked on is interesting, how it can change the way you develop your software, and what it was like to take point on the feature. We called this feature \"composition\", and it allows you to build developer environments in a modular"
+    }
+  ]
+}

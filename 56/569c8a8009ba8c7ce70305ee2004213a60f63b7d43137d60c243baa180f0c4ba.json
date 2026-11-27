@@ -1,0 +1,20 @@
+{
+  "url": "https://www.adrian.idv.hk/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.adrian.idv.hk/2026-09-24-samples/",
+      "title": "Optimal number of trials",
+      "description": "Let $p = (p_1, \\dots, p_V)^\\top$ with $p_i \\ge 0$ and $\\sum_i p_i=1$ be a categorical probability distribution over a vocabulary of size $V$. We draw $N$ i.i.d. samples from $p$ to form the empirical probability vector $\\hat p$, which should be close to $p$. If we draw again, the two empirical probability vectors should also be close. The closeness is defined using cosine similarity. What should b"
+    },
+    {
+      "link": "https://www.adrian.idv.hk/2026-03-25-gptoss/",
+      "title": "GPT-OSS Model",
+      "description": "GPT-OSS is an open source, open weight model by OpenAI with Apache 2.0 license. It is an autoregressive mixture-of-experts (MoE) model that specialized in reasoning (chain of thought), tool use, and support structured output. Similar to Llama architecture, it uses pre-norm with RMS norm and each expert is a SwiGLU-based MLP."
+    },
+    {
+      "link": "https://www.adrian.idv.hk/2026-03-20-rf603n/",
+      "title": "RF603N II for Nikon Z5ii",
+      "description": "I have a few Yongnuo RF603N II remote flash units. They are old but works. Their primary use is for remote flash over its hotshoe, but they also allows remote shutter release via the same 2.4GHz radio. It comes with a 10-pin Nikon cable that works for older high-end DSLRs (N1 connector, compatible with MC-30A or MC-36A shutter release). But Nikon Z5ii uses a headphone jack for shutter release. Her"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ishan.page/index.xml",
+  "posts": [
+    {
+      "link": "https://ishan.page/blog/cloudflare-r2-workers-presigned/",
+      "title": "How to Generate Presigned URLs for R2 When Using Cloudflare Workers (And Make Sure They Actually Work)",
+      "description": "So you want to let users upload files directly to Cloudflare R2 from their browser? Great idea! Presigned URLs are the way to do it. You follow the documentation, you generate a presigned URL, and… 403 Forbidden . Let me show you how to fix all of this. Step 1: Use the Right Library Don’t use the official AWS SDK. It doesn’t work in Cloudflare Workers because it needs Node.js APIs that Workers don"
+    },
+    {
+      "link": "https://ishan.page/blog/dbms-neon/",
+      "title": "What I Learned Using Neon Postgres for a Week of Live Traffic",
+      "description": "I recently built a SQL practice platform for my DBMS course at IITM BS Degree . About 50-100 students were hitting it simultaneously during peak exam prep. I chose Neon as the backend database, mostly because I was curious about their serverless Postgres offering. Here’s what I learned after a week of actual traffic. Let me be clear about what this actually tested: student queries don’t hit Neon a"
+    },
+    {
+      "link": "https://ishan.page/blog/fastapi-query-arrays/",
+      "title": "How to Handle \"Bracket\" Array Query Parameters (key[]=val) in FastAPI",
+      "description": "FastAPI expects array parameters in the standard key=v1&key=v2 format. However, many frontend client generators like my favourite, Orval , default to key[]=v1&key[]=v2 . If you cannot change the client configuration, FastAPI will fail to validate these lists. The fix is to add a middleware that strips the brackets from keys before the request reaches the routing layer. The Code This middleware int"
+    }
+  ]
+}

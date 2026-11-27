@@ -1,0 +1,20 @@
+{
+  "url": "https://andrewgilliland.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://andrewgilliland.dev/articles/intro-to-amazon-ecs/",
+      "title": "Intro to Amazon ECS",
+      "description": "ECS runs containerized applications without making you build a container orchestration platform yourself. Here is where it fits, why to use it, and how to deploy a service with Fargate and CDK."
+    },
+    {
+      "link": "https://andrewgilliland.dev/articles/practical-react-query-patterns/",
+      "title": "Practical React Query Patterns for Real Applications",
+      "description": "How to use prefetching, dependent queries, parallel requests, and targeted invalidation to solve common data-fetching problems."
+    },
+    {
+      "link": "https://andrewgilliland.dev/articles/using-react-query-for-server-state/",
+      "title": "Using React Query for Server State",
+      "description": "How to fetch, cache, update, and invalidate API data with TanStack Query without rebuilding server-state management in every React component."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://arsh.zip/rss.xml",
+  "posts": [
+    {
+      "link": "https://arsh.zip/posts/north-east-arrow/",
+      "title": "The curious case of the north-east arrow",
+      "description": "Why are AI-built websites suddenly full of ↗?"
+    },
+    {
+      "link": "https://arsh.zip/posts/jev-games/",
+      "title": "Testing Jev's Limits: Encoding, Beliefs, and Bits",
+      "description": "I gave Jev a Base64 string, then made it play a few small games."
+    },
+    {
+      "link": "https://arsh.zip/posts/timewarp/",
+      "title": "This Pomodoro timer speeds up time",
+      "description": "How a MrBeast ad progress bar became a timer for my daily treadmill walk"
+    }
+  ]
+}

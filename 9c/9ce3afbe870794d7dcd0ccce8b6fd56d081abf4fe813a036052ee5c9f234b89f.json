@@ -1,0 +1,20 @@
+{
+  "url": "https://ellie.wtf/index.xml",
+  "posts": [
+    {
+      "link": "https://ellie.wtf/posts/the-lost-coast/",
+      "title": "The Lost Coast",
+      "description": "Been a minute since I wrote one of these! Since the last one, I've moved to California. But I can write more about that later :) This weekend I went on an incredible motorcycle adventure with Braelyn . We left San Francisco on Friday, after work, and rode up the 101 to Willits - a small town with the slogan \"Gateway to the Redwoods\". It sits in the centre of Mendocino county, right at the beginnin"
+    },
+    {
+      "link": "https://ellie.wtf/notes/save-macos-disk-mole/",
+      "title": "Saving macOS disk space with mole",
+      "description": "Since running agents in a bunch of workspaces, I've been running out of storage on my mac FAR more often. Granted, this is largely due to cargo being such a hog, and I need to run cargo clean more than I do. But it's also due to years of accumulated cruft, all over my machine mole is a pretty neat CLI that can find and clear leftover data 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac"
+    },
+    {
+      "link": "https://ellie.wtf/notes/jj-bookmark-advance/",
+      "title": "Advancing bookmarks with jj",
+      "description": "A bunch of people read my post about using jj yesterday! In that note I pointed out that I found jj not automatically moving bookmarks when a new commit is created to be really frustrating. Well... turns out there is a really simple command that will do that! It's not automatic, but it's better than manually moving the bookmark jj bookmark advance # or for short jj b a So you can make a new commit"
+    }
+  ]
+}

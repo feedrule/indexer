@@ -1,0 +1,20 @@
+{
+  "url": "https://pmbanugo.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://pmbanugo.me/blog/learn-odin-series-05-odin-in-practice/",
+      "title": "Odin in Practice: Distinct Types, Testing, and Where to Go Next",
+      "description": "Learn about Odin's distinct type, the core:testing package, and the built-in test runner which also detects memory leak"
+    },
+    {
+      "link": "https://pmbanugo.me/blog/learn-odin-series-04-clean-apis/",
+      "title": "No Classes, No Interfaces: Writing Clean APIs in Odin",
+      "description": "Learn about procedure groups, composition via using, and explicit runtime dispatch in Odin."
+    },
+    {
+      "link": "https://pmbanugo.me/blog/crash-course-on-programming-concurrent-systems/",
+      "title": "A Crash Course on Concurrency: Build a Tiny Scheduler from Scratch",
+      "description": "Build a tiny concurrency runtime from scratch and discover how schedulers, task switching, yielding, coroutine state, and event loops work under the hood"
+    }
+  ]
+}

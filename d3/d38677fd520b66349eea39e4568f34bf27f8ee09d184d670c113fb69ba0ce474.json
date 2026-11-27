@@ -1,0 +1,20 @@
+{
+  "url": "https://0x434b.dev/rss/",
+  "posts": [
+    {
+      "link": "https://0x434b.dev/i-pointed-an-agent-at-a-bootloader-it-found-bugs-but-not-useful-ones/",
+      "title": "I pointed an agent at a bootloader. It found bugs but not useful ones",
+      "description": "Now that we're past the sensational headline, let's be real. This is the first post in a series about using AI/LLMs to do security work. I know, I know. Everybody and their grandma is using AI for this nowadays. Every time I'm opening"
+    },
+    {
+      "link": "https://0x434b.dev/breaking-secure-boot-without-breaking-the-crypto/",
+      "title": "Breaking secure boot without breaking the crypto",
+      "description": "This will be mostly rambling disguised as a technical walkthrough. I will touch on certain topics such as hardware roots of trust, signed image formats, Qualcomm boot stages, Android Verified Boot, UEFI, measured boot, and remote evidence (remote attestation). My idea is that I will briefly introduce the concepts and"
+    },
+    {
+      "link": "https://0x434b.dev/from-a-stale-readme-to-a-security-research-intelligence-platform/",
+      "title": "From a stale README to a security research intelligence platform",
+      "description": "A stale security-papers README grew into AI Scholar: a production system that ingests papers, deduplicates identities, extracts structured security-research records, maps the corpus as an atlas, and surfaces tensions between papers before I read them end to end."
+    }
+  ]
+}

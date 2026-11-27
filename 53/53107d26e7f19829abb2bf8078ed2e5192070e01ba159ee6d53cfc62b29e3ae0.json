@@ -1,0 +1,20 @@
+{
+  "url": "https://zserge.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://zserge.com/posts/bunnymator/",
+      "title": "Bunnymator, or impractical computer vision",
+      "description": "This is a story of an old toy webpage that used to entertain kids with hand-drawn animated doodles. Disclaimer: I’m not a computer vision expert, so many of the mistakes might be obvious to the reader, but nevertheless are part of my story. I vaguely remember that in the early days of smartphones there was an app that allowed you to print a grid of squares. Then you scribbled some hand-drawn anima"
+    },
+    {
+      "link": "https://zserge.com/posts/worst-htmx-ever/",
+      "title": "Let's make the worst htmx ever!",
+      "description": "This is a continuation of a series of posts about building tiny “clones” of popular web frameworks. Web is changing rapidly, and so the tools we use to build web apps (yet, I’m sincerely happy that my React/Vue posts are now seven years old, and those frameworks are still popular and relevant). Today the hot topic is htmx, basically a frontend library for backend developers who couldn’t care less"
+    },
+    {
+      "link": "https://zserge.com/posts/tensor/",
+      "title": "Tensor is the might",
+      "description": "Every good abstraction solves a problem, and this post will cover everything I know so far about a brilliant math abstraction - tensors. Neural networks, from a simple 2-layer MLP to GPT-5, all boil down to the same thing: floating-point numbers flowing through a graph of operations. This post builds a complete, accelerated tensor library from scratch in C. It is heavily inspired by Bellard’s libn"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "http://apaz.dev/blog/index.rss",
+  "posts": [
+    {
+      "link": "https://apaz.dev/blog/LD_PRELOAD.html",
+      "title": "Safe Speedy Agent GPUs With LD_PRELOAD",
+      "description": "How to keep autoresearch agents from stepping on each other's toes."
+    },
+    {
+      "link": "https://apaz.dev/blog/Scaling_To_Unfathomable_Depth.html",
+      "title": "Scaling Agents to Unfathomable Depth and Context With Zeroth-Order Optimization",
+      "description": "An interesting research direction I'm thinking about. Posts like this are often ignored because they are not directly applicable to anyone's work. But this might be a new scaling paradigm. So I've sort of dropped everything to work on it, study it, understand it. This is a writeup of some things I've learned."
+    },
+    {
+      "link": "https://apaz.dev/blog/Research_Roadmap.html",
+      "title": "My Current Research Direction",
+      "description": "Here's an attempt to explain my current research direction. A manifesto, some thoughts and experiment ideas, and a roadmap of sorts."
+    }
+  ]
+}

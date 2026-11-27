@@ -1,0 +1,20 @@
+{
+  "url": "https://www.reenigne.org/blog/feed/",
+  "posts": [
+    {
+      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "title": "80386 microcode disassembled",
+      "description": "After I posted 8086 microcode disassembled, Ken Shirriff sent me a high-resolution image of the microcode ROM from the 80386. I didn’t expect I would ever do anything with it for a couple of reasons: one is that it’s absolutely huge (94720 bits) compared to the 8086 one (10752 bits) so (even with bitract or […]"
+    },
+    {
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/",
+      "title": "8086 microcode disassembled",
+      "description": "Recently I realised that, as part of his 8086 reverse-engineering series, Ken Shirriff had posted online a high resolution photograph of the 8086 die with the metal layer removed. This was something I have been looking for for some time, in order to extract and disassemble the 8086 microcode. I had previously found very high […]"
+    },
+    {
+      "link": "https://www.reenigne.org/blog/letter-to-the-headmistress-of-the-school-my-children-attend/",
+      "title": "Letter to the headmistress of the school my children attend",
+      "description": "Dear Miss N…., Thank you for your letter of the 28th of November regarding the Department for Education census. We are writing to let you know that we are declining to provide the countries of birth and nationalities of our children, and we have told our children to decline to provide this information to members […]"
+    }
+  ]
+}

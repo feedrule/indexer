@@ -1,0 +1,20 @@
+{
+  "url": "https://tbt.qkation.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://tbt.qkation.com/posts/genealogy-graph-positioning/",
+      "title": "Drawing Genealogy Graphs. Part 3: Genealogy Graph Positioning",
+      "description": "Intro This is the third post in a series about building and rendering genealogy graphs. You can see all posts in the series here: /tags#drawing-genealogy-graphs-series . In the first post , I described the Reingold-Tilford algorithm for positioning tree nodes (calculating (x; y) for each tree node). In the second post , I described genealogy graph interactivity and how it works in the Grafily plug"
+    },
+    {
+      "link": "https://tbt.qkation.com/posts/genealogy-graph-interactivity/",
+      "title": "Drawing Genealogy Graphs. Part 2: Genealogy Graph Interactivity",
+      "description": "Intro This is the second post in a series about building and rendering genealogy graphs. You can see all posts in the series here: /tags#drawing-genealogy-graphs-series . In the first post , I described the Reingold-Tilford algorithm for positioning tree nodes (calculating (x; y) for each tree node). In the same post, I said that trees as a data structure for representing relatives is inconvenient"
+    },
+    {
+      "link": "https://tbt.qkation.com/posts/cursed-story-1-crlf/",
+      "title": "Cursed story #1: CRLF",
+      "description": "Cursed story - a tiny story from my experience I wish had never happened and increases my cursed knowledge . CRLF and failed migration We all know about the different line endings ( Difference between CR LF, LF and CR line break types ). Usually, I have no problems with them. I just commit files as they are and do not care. Surprisingly, I still managed to face a problem with it. Despite all the r"
+    }
+  ]
+}

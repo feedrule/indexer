@@ -1,0 +1,20 @@
+{
+  "url": "https://cito.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://cito.github.io/posts/2026-04-06-pinboard-archive/",
+      "title": "Pinboard Archive – A Local Bookmark Browser",
+      "description": "Introducing Pinboard Archive, a zero-dependency single-file HTML app for browsing and filtering exported Pinboard bookmarks locally."
+    },
+    {
+      "link": "https://cito.github.io/posts/2026-04-05-easter-relaunch/",
+      "title": "Spring Cleaning and a Fresh Start",
+      "description": "Relaunching the blog after a long hiatus and reflecting on why it went silent for so long."
+    },
+    {
+      "link": "https://cito.github.io/posts/2018-08-17-shakespeare-with-graphql/",
+      "title": "Using GraphQL or REST, That Is the Question",
+      "description": "We create a GraphQL API for Shakespeare's work using GraphQL-core-next, asyncio, asyncpg and PostgreSQL."
+    }
+  ]
+}

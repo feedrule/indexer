@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/pgrs",
+  "posts": [
+    {
+      "link": "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/",
+      "title": "Visualizing a Ledger with pgledger-ui",
+      "description": "I’ve been working on a ledger implementation in pure PostgreSQL called pgledger. As I’ve written about previously, I think more applications should use double-entry ledgers."
+    },
+    {
+      "link": "https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/",
+      "title": "Coding Agents, Starter Kits and pgledger",
+      "description": "I’ve been working on a ledger implementation in pure PostgreSQL called pgledger. For the backstory, please read my previous blog post: Ledger Implementation in PostgreSQL."
+    },
+    {
+      "link": "https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/",
+      "title": "PostgreSQL Scripting Tips",
+      "description": "I have been working on a double-entry ledger implementation in PostgreSQL called pgledger, and I wanted to write some example scripts. pgledger is written in SQL and meant to be used from any language or platform where you can call SQL functions, so I wanted the examples to be pure SQL."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mina86.com/atom",
+  "posts": [
+    {
+      "link": "https://mina86.com/2026/witcher-completionist/",
+      "title": "The Witcher Completionist’s Guide",
+      "description": "© Natalia BE The Witcher universe extends far beyond Andrzej Sapkowski’s original stories. What began as a competition entry in Fantastyka magazine has grown into a franchise spanning books, games, TV series, comics and more. For newcomers, figuring out where to start — and what to explore next — can be daunting. The best place to start is where it all began: the books . From there, this guide sug"
+    },
+    {
+      "link": "https://mina86.com/2026/specpool-icdcs/",
+      "title": "SpecPool at ICDCS 2026",
+      "description": "I’m pleased to share the ‘ SpecPool : Storage-Layer Speculation for Parallel Smart Contract Execution ’ paper which I’ve co-written. It introduces a mechanism for parallel speculative smart contract execution at the mempool stage. With improvements of consensus protocols and increased computation demands on blockchains, the transaction execution time becomes blockchain’s bottleneck. SpecPool predi"
+    },
+    {
+      "link": "https://mina86.com/2026/bezier-circles-part-3/",
+      "title": "Drawing circles with cubic Bézier curves",
+      "description": "This entry includes maths formulæ which may be rendered incorrectly by your feed reader. You may prefer reading it on the web . This article continues the series about approximating circles using Bézier curves. Preceding parts analysed linear and quadratic curves. This entry examines cubic Bézier curves. It presents a construction of a spline which approximates a circle and derives practical formu"
+    }
+  ]
+}

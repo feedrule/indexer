@@ -1,0 +1,20 @@
+{
+  "url": "https://develclan.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://develclan.com/when-rails-conventions-are-not-enough/",
+      "title": "When Rails Conventions Are Not Enough",
+      "description": "Why business logic in a growing Rails application bounces between fat controllers and fat models, and how service objects and layered architecture give it a home."
+    },
+    {
+      "link": "https://develclan.com/callbacks-concerns-current-rails/",
+      "title": "Callbacks, Concerns, and Current: Avoiding Hidden Dependencies in Rails",
+      "description": "Callbacks, concerns, and Current keep code close to the model, but can hide effects and dependencies. When to use them and how to make those dependencies explicit."
+    },
+    {
+      "link": "https://develclan.com/from-conditionals-to-polymorphism/",
+      "title": "From Conditionals to Polymorphism",
+      "description": "A conditional that keeps growing is a design problem, not a style problem. How to turn each branch into an object, one green step at a time."
+    }
+  ]
+}

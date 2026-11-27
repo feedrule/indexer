@@ -1,0 +1,20 @@
+{
+  "url": "https://digtvbg.com/feed/",
+  "posts": [
+    {
+      "link": "https://digtvbg.com/blog/llama-server-vulkan-rdna4-vllm-rocm-benchmark/",
+      "title": "Local LLM Inference on AMD RX 9070 XT — Vulkan vs ROCm Benchmarks on RDNA4",
+      "description": "I got an RX 9070 XT with 16GB VRAM and the obvious first thing to do was run local LLM inference on it. RDNA4 is brand new silicon — released early 2026 — and the software ecosystem hasn’t fully caught up yet. Here’s what I found. The Setup Model: Qwen3.5-9B-UD-Q6_K_XL — a 9 billion parameter […]"
+    },
+    {
+      "link": "https://digtvbg.com/blog/chifi-audio-eims-dacs-amps-2023/",
+      "title": "ChiFi Audio IEMs DACs AMPs 2023",
+      "description": "Some ChiFi some HiFi and all sounds much better now A (very) small and non-exhaustive list of ChiFi stores in 2023 Thanks to the well implemented dac chips on the PCBs and advancements in power supply circuits now we can enjoy quite a remarkable audio experience hooking a usb dac to any pc pairing it […]"
+    },
+    {
+      "link": "https://digtvbg.com/blog/chia-coin-pool-farming-pooling/",
+      "title": "Chia Coin Pool Farming Pooling",
+      "description": "It’s 6th of July 2021, chia pool farming is a fact. The whole process seems a bit messy to me but it’s manageable nonetheless. Straight to the point – what do we need to start pooling in Linux: – chia wallet , I prefer git version git clone https://github.com/Chia-Network/chia-blockchain.git The “main” branch is good enough. […]"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://pehar.dev/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Packing the infinite truck",
+      "description": "Imagine that everything needed for a move must travel in one truck. Capacity and correction # It is an ordinary truck, and it can return if something is forgotten. Because the truck can return, packing does not need to be perfect. That is useful. A forgotten box can still arrive. A mistake can be corrected. But the ability to return does not make the second trip free. The second trip is not a disa"
+    },
+    {
+      "link": null,
+      "title": "The 100% acceptance rate",
+      "description": "In conversations with engineering teams, I keep seeing the same pattern with developers entering the market: the AI spend grows month over month, from $30 to $100, then $500, and the code keeps flowing. The number that stays with me isn’t the bill, though. It’s the acceptance rate, sitting at nearly 100% . Everything the model suggests gets shipped . Acceptance rate doesn’t measure thinking. It on"
+    },
+    {
+      "link": null,
+      "title": "From ZSH to Fish",
+      "description": "ZSH was my default shell for many years. I have modified and moved .zshrc across many different distributions of Linux. Recently I started working on a MacBook Pro, which has ZSH as the default shell. Using it for few months now, I noticed a few things about my ZSH configuration: The startup of the new shell had minor delays before it could be used. These delays weren’t huge, but I started noticin"
+    }
+  ]
+}

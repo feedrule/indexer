@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jaisal.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.jaisal.dev/articles/unoriginal-idea",
+      "title": "An Unoriginal Idea",
+      "description": "Non-technical post about a self-referential unoriginal idea I had. May investigate it further if I get the time."
+    },
+    {
+      "link": "https://blog.jaisal.dev/articles/hacking-gemini",
+      "title": "Gemini & MCP walk into a bar",
+      "description": "A gemini-cli and an MCP-server walk into a bar... the MCP server injects gemini in one of the most insane top 10 anime betrayals of all time."
+    },
+    {
+      "link": "https://blog.jaisal.dev/articles/hacking",
+      "title": "A Love Letter to Hacking",
+      "description": "What do I mean when I say \"Hack\"?"
+    }
+  ]
+}

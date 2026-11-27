@@ -1,0 +1,20 @@
+{
+  "url": "https://portlandaiworks.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://portlandaiworks.com/articles/blindsight",
+      "title": "Blindsight: a Linux desktop that agents read instead of looking at",
+      "description": "A Linux desktop that AI agents read through the accessibility tree instead of screenshots. On 110 held-out tasks: at least as reliable, at about a third of the tokens."
+    },
+    {
+      "link": "https://portlandaiworks.com/articles/ai-assistants-book-a-furnace-tune-up",
+      "title": "What AI assistants actually do when you ask them to book a furnace tune-up",
+      "description": "I asked ChatGPT, Claude and Gemini to book a tune-up with a fictional Portland HVAC company and logged every request. Claude and Gemini placed a hold, ChatGPT handed me the link, a crawler booked out the week, and no assistant read llms.txt."
+    },
+    {
+      "link": "https://portlandaiworks.com/articles/inside-hostel",
+      "title": "A local model keeps the books",
+      "description": "hostel is a Mac app where a model running on your own machine keeps your books through MCP servers. The pieces, one turn's rules, and the measured numbers."
+    }
+  ]
+}

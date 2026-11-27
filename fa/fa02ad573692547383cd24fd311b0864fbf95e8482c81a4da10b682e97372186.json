@@ -1,0 +1,20 @@
+{
+  "url": "https://dani2442.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://dani2442.github.io/posts/feynman-kac/",
+      "title": "Feynman–Kac formula",
+      "description": "The Feynman–Kac formula connects probability theorey to partial differential equations."
+    },
+    {
+      "link": "https://dani2442.github.io/events/2026_09_01_benasque/",
+      "title": "Talks at Benasque (Spain)",
+      "description": "Conference: 'XI Partial Differential Equations, Optimization, Numerics, and Machine Learning'"
+    },
+    {
+      "link": "https://dani2442.github.io/posts/neural-pde/",
+      "title": "Neural ODEs and Neural PDEs",
+      "description": "A unified, rigorous formulation of Neural ODEs and Neural PDEs."
+    }
+  ]
+}

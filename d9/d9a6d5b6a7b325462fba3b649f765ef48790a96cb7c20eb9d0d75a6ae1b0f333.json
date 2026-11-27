@@ -1,0 +1,20 @@
+{
+  "url": "https://heyvaldemar.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://heyvaldemar.com/kyverno-fail-open-velero-restore-completed/",
+      "title": "Completed Is Not Restored: Kyverno Fail-Open, a Velero Restore and an HTTP 200 That Meant 500",
+      "description": "Scale Kyverno to zero and its webhooks vanish. A Velero restore said Completed over an empty disk. A 200 carried a 500. Three statuses that reported success."
+    },
+    {
+      "link": "https://heyvaldemar.com/docker-hub-immutable-tags-unsigned-release/",
+      "title": "Docker Hub Immutable Tags: The Image That Shipped Before It Was Signed",
+      "description": "Docker Hub immutable tags refused a per-commit tag after the version tags were already out. The image shipped, the run died, and nothing ever signed it."
+    },
+    {
+      "link": "https://heyvaldemar.com/terraform-mcp-server-ga-agentic-iac-governance/",
+      "title": "Terraform MCP server GA: the Apply Gate your auditor will ask about",
+      "description": "HashiCorp's Terraform MCP server is GA and IBM Bob can write production IaC. ENABLE_TF_OPERATIONS separates a safe assistant from autonomous apply."
+    }
+  ]
+}

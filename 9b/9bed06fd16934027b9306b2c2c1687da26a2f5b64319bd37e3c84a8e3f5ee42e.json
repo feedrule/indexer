@@ -1,0 +1,20 @@
+{
+  "url": "https://slott56.github.io/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://slott56.github.io/2026-10-18_clean_architecture_api.html",
+      "title": "Clean Architecture API Lesson Learned",
+      "description": "BLUF Clean Architecture means implementation choices can be revoked. Ignore the \"Dependency Inversion\" part of the SOLID design principles at your peril. Think through at least one alternative design and make sure the API covers more than one data structure. (Full disclosure. I failed to do this recently. Don't follow …"
+    },
+    {
+      "link": "https://slott56.github.io/2026-10-17_oo_design_binary_enum.html",
+      "title": "Object-Oriented Design: Binary or Enum?",
+      "description": "BLUF Some aspects of a problem are superficially binary, perhaps modeled as a boolean value. Don't be misled. Some aspects of a problem are clearly not binary, and a boolean is wrong. Other aspects may or may not be binary, and a boolean might not be ideal. Clearly Not Binary …"
+    },
+    {
+      "link": "https://slott56.github.io/2026-10-10_hard_problem_test_as_debug.html",
+      "title": "Hard Problem? Use Test Cases as Debug Aids",
+      "description": "BLUF Can't get the software to work? The test cases are places to gather debugging details. Some simple tricks: Observability: add debugging outputs to the code Enable debugging output in failing test cases Make Failure an Option The Detailed Example I've been struggling to create an accurate emulation of the …"
+    }
+  ]
+}

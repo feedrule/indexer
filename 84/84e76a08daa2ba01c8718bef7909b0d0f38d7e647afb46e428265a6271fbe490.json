@@ -1,0 +1,20 @@
+{
+  "url": "https://zakius.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://zakius.bearblog.dev/you-can-just-do-things/",
+      "title": "You can just do things!",
+      "description": "When you use software, you’ll inevitably hit some friction: small bugs, missing features, or rough edges. But you don’t have to just complain about it while it’s staring you in the face. Find the project’s issue tracker and submit a ticket. Chances are it’ll be addressed in a future release. And if it’s open source, you can go one step further and implement the change yourself. Of course, there ar"
+    },
+    {
+      "link": "https://zakius.bearblog.dev/trust-me-you-want-to-make-little-personal-apps-but-maybe-dont-make-these-mistakes-while-doing-so/",
+      "title": "Trust me: you want to make little personal apps! But maybe don't make these mistakes while doing so.",
+      "description": "I just stumbled upon the article titled Trust me: You don’t want to make little personal apps… especially not like that! by Ross Wintle and I'd like to share a different perspective: for technical minds and learners, for engineering souls. I've been dabbling in code for around 20 years now and doing it professionally for over a decade, whatever I do, I always try to understand the wider perspectiv"
+    },
+    {
+      "link": "https://zakius.bearblog.dev/things-are-weird-in-the-vsc-world/",
+      "title": "Things are weird in the VSC world",
+      "description": "At work I am handling a fairly massive TypeScript monorepo, and I have been using Cursor as my main IDE for a few months. The live type inference in the editor has been painfully slow since I started on this project, but I thought there was not much I could do about it. Eventually, as the project grew, Cursor started showing a \"TypeScript server is approaching the memory limit\" notice, suggesting"
+    }
+  ]
+}

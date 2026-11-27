@@ -1,0 +1,20 @@
+{
+  "url": "https://www.chele.bi/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.chele.bi/blog/dependency-independent",
+      "title": "Dependency independent",
+      "description": "Adding a tool now takes one command. Keeping it costs you a little every day. Use what you already have, and do not switch apps for one missing feature."
+    },
+    {
+      "link": "https://www.chele.bi/blog/ingestion-debt",
+      "title": "Ingestion debt",
+      "description": "AI made generating text free. Understanding got more expensive. What 44 papers say about the gap, and the loop that closes it."
+    },
+    {
+      "link": "https://www.chele.bi/blog/the-second-brain-needs-a-schema",
+      "title": "The second brain needs a schema",
+      "description": "Google's Open Knowledge Format names a lesson I learned when multiple agents began writing to the same repo. Portable files are not enough. A second brain compounds only when every writer shares a schema."
+    }
+  ]
+}

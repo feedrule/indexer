@@ -1,0 +1,20 @@
+{
+  "url": "https://www.lion-byte.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.lion-byte.com/blog/subpath-imports/",
+      "title": "Subpath Imports",
+      "description": "Subpath imports are a Node-native feature compatible with no-build projects and today's build tools."
+    },
+    {
+      "link": "https://www.lion-byte.com/blog/fetch-and-query-params/",
+      "title": "Fetch and Query Parameters",
+      "description": "Replacing older HTTP request libraries with the browser's Fetch API."
+    },
+    {
+      "link": "https://www.lion-byte.com/blog/year-in-review-2019/",
+      "title": "Year in Review - 2019",
+      "description": "Retrospective of my 2019"
+    }
+  ]
+}

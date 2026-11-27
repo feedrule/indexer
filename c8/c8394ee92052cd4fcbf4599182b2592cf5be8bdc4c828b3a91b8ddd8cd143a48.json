@@ -1,0 +1,20 @@
+{
+  "url": "https://zena-lang.dev/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://zena-lang.dev/blog/2026/11/cli-and-package-manager/",
+      "title": "Zena CLI Preview Releases and a Distributed Package Manager",
+      "description": "Announcing the first prebuilt Zena CLI releases, a distributed package manager built on AT Protocol, and our initial set of packages."
+    },
+    {
+      "link": "https://zena-lang.dev/blog/2026/10/project-update-2/",
+      "title": "Zena Project Update #2: Self-Hosted CLI, Language Server, WASI 0.3, and Ranges",
+      "description": "Our second project update covers moving the zena command line into Zena itself, adding the stdio language server (zena lsp), adopting WASI 0.3, range iteration and slicing, and compiler bug fixes."
+    },
+    {
+      "link": "https://zena-lang.dev/blog/2026/09/languages-for-the-ai-era/",
+      "title": "Designing a Programming Language for the AI Era",
+      "description": "What makes a programming language effective when AI agents write, test, and review code, and why being optimized for WebAssembly is being optimized for AI."
+    }
+  ]
+}

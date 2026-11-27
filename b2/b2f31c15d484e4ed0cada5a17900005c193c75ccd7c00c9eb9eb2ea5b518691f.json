@@ -1,0 +1,20 @@
+{
+  "url": "https://www.cedricbonhomme.org/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://www.cedricbonhomme.org/2026/11/21/say-which-ai-wrote-it/",
+      "title": "Say which AI wrote it",
+      "description": "AI tools now write a growing part of the code that reaches Open Source projects, including mine. I don’t think the interesting question is whether a project should accept it: that is each project’s choice. Where it is accepted, I would like it to be done openly. So I wrote down the practice I follow, and built a small site around it: https://www.saywhichai.org The practice It fits in three sentenc"
+    },
+    {
+      "link": "https://www.cedricbonhomme.org/2026/11/08/keeping-the-word-i/",
+      "title": "Keeping the Word \"I\": Moving Back to SourceHut",
+      "description": "Some of my projects are more than fifteen years old. I have been writing software for most of my life and I still enjoy it as much as the first day. It is one of the few things I know how to build. I play the piano, but apart from that I am not good with my hands. I don’t make furniture, I don’t fix engines. What I make is software. I love writing Python, and I love writing OCaml even more. A few"
+    },
+    {
+      "link": "https://www.cedricbonhomme.org/2026/11/01/keeping-xslt-alive/",
+      "title": "Keeping My XSLT-Styled Feed Alive After Chrome Drops It",
+      "description": "Last year I gave my RSS feed a fresh coat of XSLT , so that a curious visitor opening https://www.cedricbonhomme.org/blog/index.xml in a browser would see a friendly little landing page instead of angle-bracket soup. This evening I opened that feed in Chromium, and was greeted by a big red banner: This site uses XSLT; that functionality is being removed from this browser very soon. When that happe"
+    }
+  ]
+}

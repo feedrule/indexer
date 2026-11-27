@@ -1,0 +1,20 @@
+{
+  "url": "https://xyquadrat.ch/atom.xml",
+  "posts": [
+    {
+      "link": "https://xyquadrat.ch/blog/my-personal-sun/",
+      "title": "Simulating my personal sun with Home Assistant",
+      "description": "I’ve bought myself a smart ceiling lamp a while ago (the Aqara T1M , to be precise) and set it up with Home Assistant. However, in the beginning I’ve basically just used it as a normal lamp except that I sometimes changed the color temperature and brightness in the evening. This clearly was not using the setup to its full potential. Thus, I’ll quickly show you how I transformed this into a much sm"
+    },
+    {
+      "link": "https://xyquadrat.ch/blog/fractions-generator/",
+      "title": "Visualizing fractions with vanilla JavaScript",
+      "description": "Two years ago a friend of mine that worked as a math teacher reached out and asked how she could create visualizations of fractions similar to this example which is often found in school books: For the average person, this would not be easily doable. Clearly, using a vector drawing program such as Inkscape or Adobe Illustrator would work, but would take significant manual labor for making variatio"
+    },
+    {
+      "link": "https://xyquadrat.ch/blog/simple-ci-with-woodpecker/",
+      "title": "Simple selfhosted CI/CD with Woodpecker",
+      "description": "I’ve bought a new homeserver last week and have been busy transferring my data and services from my old trusty Raspberry Pi to my new Dell Optiplex 3070. Previously I had a rather brittle, though very simple Continous Deployment (CD) setup: webhook would listen to incoming webhooks, which were configured to be automatically sent from GitHub when I pushed to a repo. Then, it would simply run a shel"
+    }
+  ]
+}

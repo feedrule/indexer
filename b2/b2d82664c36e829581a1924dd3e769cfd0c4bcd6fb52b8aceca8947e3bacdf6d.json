@@ -1,0 +1,20 @@
+{
+  "url": "https://perishablepress.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "title": "Chrome AI Features Wasting Much Bandwidth",
+      "description": "🔎 Finally solved the mystery. At some point this year (around a few months ago), my bandwidth/data usage went thru the roof. Figured out it was Chrome’s recent AI features. Then got immediate bandwidth-relief after disabling all the “AI innovations” and “On-device” stuff. Here is a screenshot of the settings: Find the Chrome AI settings under “AI innovations” I simply disabled everything on that s"
+    },
+    {
+      "link": "https://perishablepress.com/9g-firewall/",
+      "title": "9G Firewall",
+      "description": "Hello! Just a quick post to let you know that the 9th version of my nG Firewall is in development. The 9G Firewall is not yet public, so if you encounter anyone claiming otherwise, they are incorrect. Unfortunately it is necessary to post this information because someone actually hijacked the name “9G Firewall” for their own project. So when people are looking for the next generation “9G” firewall"
+    },
+    {
+      "link": "https://perishablepress.com/check-404-urls-database/",
+      "title": "Check 404 URLs in Database",
+      "description": "There are many ways to do this. I wanted the quickest and easiest. I run Yourls on several sites to create shortlinks for my books. Each instance of Yourls contains many URLs. I like to keep my books current. URLs tend to change and break over time. It is a chore to check 800+ links in each of my books, page after page. So I wanted a quick way to check for 404 and other broken links. In this post,"
+    }
+  ]
+}

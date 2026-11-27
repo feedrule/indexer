@@ -1,0 +1,20 @@
+{
+  "url": "https://fadaiganjaliyev.com/feed/",
+  "posts": [
+    {
+      "link": "https://fadaiganjaliyev.com/on-visibility-map-and-failing-transactions/",
+      "title": "On visibility map and failing transactions",
+      "description": "This post is not about troubleshooting but rather about an interesting observation. I will start with a quick intro. Visibility map is a fork of the relation which maintains two bits: one for visible, the other for frozen tuples. These bits set per page. If all tuples in a page are visible to all active […]"
+    },
+    {
+      "link": "https://fadaiganjaliyev.com/beyond-basic-os-tools/",
+      "title": "Beyond Basic OS Tools",
+      "description": "One common performance issue in Linux systems is a program consuming unexpectedly high CPU. At first glance, high CPU usage alone doesn’t necessarily indicate a problem, but if the reason for the high usage is unclear, it warrants further investigation. One possible explanation (for the sake of this post) is that the program is spawning […]"
+    },
+    {
+      "link": "https://fadaiganjaliyev.com/application-agnostic-diagnosis/",
+      "title": "Application-oblivious diagnosis",
+      "description": "When diagnosing a performance problem, interpreting the flow inside of the application is as important as other aspects of the whole process, such as tools and methodology. One of the key points is to figure out what the application threads are supposed to do and how these threads communicate. Once this is established, the rest […]"
+    }
+  ]
+}

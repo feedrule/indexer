@@ -1,0 +1,20 @@
+{
+  "url": "https://rafaelcamargo.com/blog/l/en-US/feed.atom",
+  "posts": [
+    {
+      "link": "https://rafaelcamargo.com/blog/alternative-solution-for-small-react-apps-that-need-i18n",
+      "title": "Alternative solution for small React apps that need i18n",
+      "description": "In most projects I've worked on, the default pick for internationalization has always been react-i18next. It works, and it covers a lot of ground. But when I kicked off a tiny personal project called Veedgee, I started wondering: do I really need all of that? It was a simple app. Not much copy, only two languages, and still I'd have to..."
+    },
+    {
+      "link": "https://rafaelcamargo.com/blog/viewing-documents-at-actual-size-in-affinity-3",
+      "title": "Viewing documents at actual size in Affinity 3",
+      "description": "The recent release of Affinity 3 shook up the graphic-design world. Just like me, I imagine a lot of people stopped paying for Adobe Illustrator and can now enjoy a high-quality tool for free. But after so many years using Illustrator, switching from one software to another brings its own challenges and demands some real adaptability f..."
+    },
+    {
+      "link": "https://rafaelcamargo.com/blog/making-code-cleaner-by-replacing-multiple-conditionals-with-a-strategy-dictionary",
+      "title": "Making code cleaner by replacing multiple conditionals with a strategy dictionary",
+      "description": "When you're on a road with no forks, there's zero chance of taking the wrong path. As the road gains forks, your chances of reaching your destination without getting lost decrease. The same thing happens when we program. The more conditionals we add, the greater the chance of the code taking the wrong path and producing unintended effe..."
+    }
+  ]
+}

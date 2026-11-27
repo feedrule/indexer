@@ -1,0 +1,20 @@
+{
+  "url": "https://406.ch/writing/atom.xml",
+  "posts": [
+    {
+      "link": "https://406.ch/writing/weeknotes-2026-week-47/",
+      "title": "Weeknotes (2026 week 47)",
+      "description": "Weeknotes (2026 week 47) I haven’t done any blogging in the last 4 weeks. Instead, I’ve been writing a lot of code and have let the agent write even more code. I have finally managed to implement some tools I would have liked to implement a long time ago. Working with LLM agents The relationship with LLM agents doesn’t get any easier, I have to admit. That said, the quality argument against LLMs s"
+    },
+    {
+      "link": "https://406.ch/writing/how-i-decide-which-python-and-django-versions-i-want-to-support/",
+      "title": "How I decide which Python and Django versions I want to support",
+      "description": "How I decide which Python and Django versions I want to support A recent post on Mastodon got me thinking about what my philosophy for dropping support for old versions of Python and Django is. Here’s the post: 🚨 Important Announcement 🚨 Going forward all my packages will only “officially” support maintained #Python versions. Meaning since October only 3.14 and now 3.15. This has no effect on Djan"
+    },
+    {
+      "link": "https://406.ch/writing/i-don-t-care-about-traffic-numbers-on-my-website/",
+      "title": "I don't care about traffic numbers on my website",
+      "description": "I don’t care about traffic numbers on my website In the early days of this website I had a Google Analytics script embedded and I also sometimes analyzed the server logs to look at visitor counts and where they came from. While that was interesting, I have completely stopped. There’s no analytics script anymore and I don’t have access to server logs at all. I do care about human readers and I also"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://luke.lol/blog/feed",
+  "posts": [
+    {
+      "link": "https://luke.lol/blog/tech/gpt-5-6-sol-terra-luna-model-selection-guide",
+      "title": "Choosing GPT‑5.6 Sol, Terra, or Luna: A Practical Guide",
+      "description": "A practical guide to choosing GPT‑5.6 Luna, Terra, or Sol by cost, reasoning effort, latency, and workload risk after the July 30, 2026 pricing changes."
+    },
+    {
+      "link": "https://luke.lol/blog/seo/bulk-downloading-backlink-data-from-google-search-console",
+      "title": "Bulk Downloading Backlink Data from Google Search Console",
+      "description": "I wanted a quick way to get all backlink data from Google Search Console for a domain so I built this Python script. Setup isn’t too complicated. You’ll need to run this on your local machine or somewhere you’re logged into Search Console. First, add your GSC cookie to the gsc_cookie.txt file Open GSC->External Links->More, ... Read more"
+    },
+    {
+      "link": "https://luke.lol/blog/tech/monitoring-grid-frequency-data-via-tesla-wall-charger-endpoint",
+      "title": "Monitoring Grid Frequency Data via Tesla Wall Charger Endpoint",
+      "description": "Monitoring and collecting data from Tesla’s Wall Charger is a great way to track and analyze the stability and reliability of your local power grid. If you have a Tesla Wall Connector (Gen 3), you can track this data for free! The data can be valuable for individuals looking to install electric vehicle (EV) charging ... Read more"
+    }
+  ]
+}

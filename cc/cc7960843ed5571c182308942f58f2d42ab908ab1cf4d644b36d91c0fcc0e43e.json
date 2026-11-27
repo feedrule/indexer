@@ -1,0 +1,20 @@
+{
+  "url": "https://techinpencil.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://techinpencil.com/favorite-food/",
+      "title": "I asked Claude its favorite food 100 times",
+      "description": "300 answers from three Claude models to the same question, drawn as pixels. Opus 5.5 picked ramen 100 times out of 100."
+    },
+    {
+      "link": "https://techinpencil.com/rate-limiter/",
+      "title": "100 requests per minute, and 200 got through",
+      "description": "Where the simplest rate limiter leaks, and what real APIs use instead, with seven animations you can pause and play with."
+    },
+    {
+      "link": "https://techinpencil.com/budget-3-tier/",
+      "title": "A 3-tier SaaS on AWS for $57 a month",
+      "description": "A budget 3-tier setup on AWS for a small SaaS, drawn as a blueprint with its monthly bill: $57.12 a month, against $155.66 done by the book."
+    }
+  ]
+}

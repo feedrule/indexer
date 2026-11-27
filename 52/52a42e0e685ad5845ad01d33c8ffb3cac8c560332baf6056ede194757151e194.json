@@ -1,0 +1,20 @@
+{
+  "url": "https://uncenter.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://uncenter.dev/posts/learn-eleventy-update/",
+      "title": "My new Learn Eleventy course",
+      "description": "If you're familiar with the Eleventy community, you've likely come across Andy Bell 's excellent free course, Learn Eleventy from Scratch . Learn Eleventy from Scratch has been an invaluable resource to the community since it was published. Unforunately, time inevitably moves on. Originally written in 2021 — before the release of Eleventy v1.0.0! — parts of the course have gradually become outdate"
+    },
+    {
+      "link": "https://uncenter.dev/posts/learning-fortran/",
+      "title": "Learning the oldest programming language",
+      "description": "While I probably should be learning a language like C, Go, or whatever new trendy language the ThePrimeagen mentions on Twitter (OCaml?), I'm going to attempt to learn Fortran [1] . A quick history Fortran, which stands for FORmula TRANslator [2] , was created at IBM by John Backus in 1957 for scientific applications and has apparently been popular for high-performance computing and benchmarking s"
+    },
+    {
+      "link": "https://uncenter.dev/posts/npm-install-everything/",
+      "title": "The package that broke npm (accidentally)",
+      "description": "An update! You might want to read the rest of the article first... GitHub has now, a day after writing this, fully \"disabled\" (whatever that means) our everything-registry organization on NPM and GitHub; you can see the email they sent to me below. While I may not agree entirely with the reasoning they provided, I am very thankful that our personal accounts are still intact! Email from GitHub Trus"
+    }
+  ]
+}

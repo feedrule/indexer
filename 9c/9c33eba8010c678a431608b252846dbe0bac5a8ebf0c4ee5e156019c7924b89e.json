@@ -1,0 +1,20 @@
+{
+  "url": "https://doingstuff.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://doingstuff.dev/posts/blender-year-two/",
+      "title": "Blender - Year Two",
+      "description": null
+    },
+    {
+      "link": "https://doingstuff.dev/posts/steamdeck-linux-streaming/",
+      "title": "Streaming games to the Steam Deck",
+      "description": "My notes for setting up Steam Deck remote game streaming using Sunshine and Moonlight and a custom EDID ."
+    },
+    {
+      "link": "https://doingstuff.dev/posts/blender-milling-machine-breakdown/",
+      "title": "Blender - Milling Machine Breakdown",
+      "description": "A breakdown for the stylized milling machine render."
+    }
+  ]
+}

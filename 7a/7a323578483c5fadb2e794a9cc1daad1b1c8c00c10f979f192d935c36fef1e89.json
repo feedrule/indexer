@@ -1,0 +1,20 @@
+{
+  "url": "https://tmarice.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://tmarice.dev/talks/nix-loves-python/",
+      "title": "Nix ❤️ Python: Maybe You Don't Need Devcontainers After All",
+      "description": "This talk was held at Python meetup Zagreb on February 10, 2026."
+    },
+    {
+      "link": "https://tmarice.dev/blog/the-illusion-of-simplicity/",
+      "title": "The Illusion of Simplicity",
+      "description": "I really like Django. I would pick Django over any other option for setting up a website regardless of expected complexity. In my opinion, if you fully embrace Django, it will allow you to focus on the product and not fight an uphill battle against the…"
+    },
+    {
+      "link": "https://tmarice.dev/blog/vim-mandates-gt-ai-mandates/",
+      "title": "Vim Mandates >> AI Mandates",
+      "description": "I am a heavy user of GenAI assistive tools and they truly do help me achieve results faster. But another thing that helps you achieve results faster is not having to fight an uphill battle against whichever text editor you're using. If you have to lift…"
+    }
+  ]
+}

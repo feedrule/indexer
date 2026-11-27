@@ -1,0 +1,20 @@
+{
+  "url": "https://jo-m.ch/index.xml",
+  "posts": [
+    {
+      "link": "https://jo-m.ch/posts/2026/03/use-your-own-domain-for-your-code-forge-hosted-go-modules/",
+      "title": "Use your own domain for your code forge hosted Go modules",
+      "description": "If you have a domain name, you possess (ok, rent) your very own little corner of the internet. Congrats! When you now publish a Go module as github.com/jo-m/mymodule, you hand over part of that control. The module path is a permanent identifier, baked into every go.mod file that imports it. That would now be tied to GitHub, a company that is actually Microsoft, which can change its terms, ban you,"
+    },
+    {
+      "link": "https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/",
+      "title": "Self-hosting on localhost",
+      "description": "As a software engineer with a bit of job-induced paranoia, I love the idea of escaping the claws of big tech via self-hosting. In recent years, a plethora of amazing free and open source projects have emerged, providing alternatives to everything from Dropbox and iTunes to Android Home. However, I don’t want to manage yet another server in the cloud, I already do that for work. Managed container s"
+    },
+    {
+      "link": "https://jo-m.ch/posts/2020/01/a-closer-look-at-the-got-it-bluetooth-tags/",
+      "title": "A closer look at the Got-It Bluetooth tags",
+      "description": "When I first heard of the Got-it Bluetooth tags, I just had to order a preview set. Those are active Bluetooth Low Energy beacons, embedded into a thin and flexible sticker, including battery. The proposed use case is asset tracking in commercial settings. They are 28mm x 76mm x 0.75mm Battery life is supposed to be one year Waterproof, flexible A preview set containing 10 stickers costs 99$, they"
+    }
+  ]
+}

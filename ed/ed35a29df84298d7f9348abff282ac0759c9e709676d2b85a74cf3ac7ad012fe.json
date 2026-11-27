@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.danielclayton.co.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.danielclayton.co.uk/posts/using-rds-iam-with-connection-pools/",
+      "title": "Using RDS IAM with connection pools (psycopg)",
+      "description": "A recent update to psycopg makes rotating credentials easy to use"
+    },
+    {
+      "link": "https://blog.danielclayton.co.uk/posts/ecs-express-mode-is-naff/",
+      "title": "AWS ECS Express Mode is a bit naff",
+      "description": "Why I had to ditch AWS's flagship way to 'easily' deploy containers"
+    },
+    {
+      "link": "https://blog.danielclayton.co.uk/posts/gitlab-ci-docker-build-caching/",
+      "title": "Docker build caching in CI (for multi-stage builds)",
+      "description": "How and why to set up registry build caching in CI, with a GitLab example"
+    }
+  ]
+}

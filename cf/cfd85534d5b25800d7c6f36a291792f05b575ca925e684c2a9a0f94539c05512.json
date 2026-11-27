@@ -1,0 +1,20 @@
+{
+  "url": "https://amitp.blogspot.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://amitp.blogspot.com/2025/03/emacs-tree-sitter-custom-highlighting-3.html",
+      "title": "Emacs Tree-sitter custom highlighting, part 3",
+      "description": "In the part 2 I described how, for a particular project with certain naming conventions, I wanted to use emacs tree-sitter font-locking to highlight variables that might be used in the wrong context: I found a way to make it work for simple expressions but it was relying on regular expression matching rather than tree-sitter parse trees. I set a goal of handling these types of expressions: elevati"
+    },
+    {
+      "link": "https://amitp.blogspot.com/2025/03/emacs-tree-sitter-custom-highlighting-2.html",
+      "title": "Emacs Tree-sitter custom highlighting, part 2",
+      "description": "In the part 1 I described my initial attempt at customizing font-lock using Emacs 29 tree-sitter. Regular font locking uses regular expression matching. Tree sitter allows combining regular expression matching with parse tree matching, like \"variable declaration\" or \"function call\". The ideas I came up with were mostly things that I could have implemented with regular expressions alone, but I want"
+    },
+    {
+      "link": "https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html",
+      "title": "Emacs Tree-sitter custom highlighting, part 1",
+      "description": "A few years ago I blogged about custom tree-sitter-based syntax highlighting in emacs . I started out with highlighting certain keywords in red. I wanted to show the keywords that interrupt control flow: Screenshot showing syntax highlighting of keywords in black or red I highlight regular keywords ( while , if ) in bold. I highlight control flow interrupting keywords ( return , continue ) in red."
+    }
+  ]
+}

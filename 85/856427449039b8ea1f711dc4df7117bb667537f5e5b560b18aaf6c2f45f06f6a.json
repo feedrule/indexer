@@ -1,0 +1,20 @@
+{
+  "url": "https://dylanbutler.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://dylanbutler.dev/photography/china-2026/",
+      "title": "China 2026",
+      "description": "Returning to the digital world for a month trip to China. Across Beijing, Chongqing, Chengdu, Lijiang, Shangri-La, Dali, Kunming, and Shenzhen. Shot on Sony a7C II on 1.2/50 and 1.8/20."
+    },
+    {
+      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "title": "Protect Your Shed",
+      "description": "Constructing a skyscraper is a massive undertaking. You need architectural blueprints, council permits, and safety audits before the first piece of steel is even ordered. It requires hundreds of people coordinating over months or years. You can’t just throw up some drywall and hope the building holds weight. Then there is the backyard shed. No blueprints, no permits, no audits. You just grab some"
+    },
+    {
+      "link": "https://dylanbutler.dev/blog/sapphire/",
+      "title": "Building a GBA Emulator in Go",
+      "description": "Before you read on, stop and play for a second. What you’re seeing here is the emulator written in Go running inside of WASM inside your browser, everything here is local! 🔊 ⛶ Controls: Z=A, X=B, A=L, S=R, Enter=Start, Backspace=Select, M=Mute"
+    }
+  ]
+}

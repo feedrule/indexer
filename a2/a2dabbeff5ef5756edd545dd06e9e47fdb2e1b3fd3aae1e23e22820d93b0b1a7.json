@@ -1,0 +1,20 @@
+{
+  "url": "https://inze.ph/feed.xml",
+  "posts": [
+    {
+      "link": "https://inze.ph/writing/moving-day",
+      "title": "Moving Day",
+      "description": "Y’know that venerable and also sort of banal tradition of blog housekeeping posts? This started as one of those. “Hey so I moved off GitHub Pages here’s a few technical details.” I keep trying to write more straightforward technical posts and they keep morphing into thinky personal essays. At some point I’ll shut up and just, like, map my homelab or whatever. But in the meantime…"
+    },
+    {
+      "link": "https://inze.ph/writing/build-use-loops",
+      "title": "Build the Software, Use the Software",
+      "description": "This is a draft — feedback welcome! Last updated 2026-03-29. Edit history on GitHub."
+    },
+    {
+      "link": "https://inze.ph/writing/attention-capital",
+      "title": "Who Owns the Attention Capital",
+      "description": "In the last post we built a frame: software is accumulated attention. LLMs have given us incredible new tools for manipulating text and code, but they cannot substitute the attention required to construct and maintain a working system. You can chase the attention around, but you can’t skip it."
+    }
+  ]
+}

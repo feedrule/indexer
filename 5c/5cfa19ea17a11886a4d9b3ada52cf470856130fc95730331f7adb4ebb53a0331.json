@@ -1,0 +1,20 @@
+{
+  "url": "https://hwtn.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://hwtn.io/essays/t0036-we-forensics-where-breaks-hawthorne",
+      "title": "How we do forensics, and where it breaks: the Hawthorne method, open for argument",
+      "description": "Three AI reviewers together caught 8 of 10 errors planted in one essay, no more than the strongest reviewer alone. Hawthorne reports that all three caught the two missed errors in a follow-up that supplied two relevant records."
+    },
+    {
+      "link": "https://hwtn.io/essays/t0401-binance-part-two",
+      "title": "The Binance heist, Part Two: the route to the signing service, and where the assets went",
+      "description": "Within nine minutes of the first withdrawal, the first address to receive stolen funds sent 700,000,000 USDT tokens to two other addresses. Binance describes a fake job interview and misuse of an internal AI tool but not how the attacker reached its signing service."
+    },
+    {
+      "link": "https://hwtn.io/essays/t0401-binance-part-one",
+      "title": "The Binance heist, Part One: fifty valid signatures, one that landed, and an authority that stood for 3 hours 49 minutes",
+      "description": "An attacker moved assets seven times after a signed instruction let a Binance wallet run the attacker’s code. Automated deposits kept refilling the wallet, including a transfer of 200,000,000 USDT that the attacker took 72 seconds after it arrived."
+    }
+  ]
+}

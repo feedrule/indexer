@@ -1,0 +1,20 @@
+{
+  "url": "https://haris-aziz.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://haris-aziz.blogspot.com/2026/11/best-of-both-worlds-fairness-in.html",
+      "title": "Best-of-Both-Worlds Fairness in Committee Voting with Ordinal Preferences",
+      "description": "Working Paper: Title Best-of-Both-Worlds Fairness in Committee Voting with Ordinal Preferences Abstract: Choosing a committee by lottery can improve representation in expectation, but the committee ultimately selected must also be representative. We ask how far these two demands can be combined when voters rank candidates, possibly with ties. We show that every weak-ranking profile admits a lotter"
+    },
+    {
+      "link": "https://haris-aziz.blogspot.com/2026/11/a-single-exponential-protocol-for-envy.html",
+      "title": "A Single-Exponential Protocol for Envy-Free Chore Division",
+      "description": "Working Paper:"
+    },
+    {
+      "link": "https://haris-aziz.blogspot.com/2026/11/a-deterministic-polynomial-query.html",
+      "title": "A Deterministic Polynomial-Query Protocol for Envy-Free Cake Cutting",
+      "description": "How do you divide a cake among n people so that nobody prefers someone else’s piece? For two people the answer is ancient: one cuts, the other chooses. For more people the road has been long. Brams and Taylor (1995) gave the first protocol for any number of people, but the number of steps it needs has no upper bound. Aziz and Mackenzie (2016) gave the first bounded protocol, with a bound that is a"
+    }
+  ]
+}

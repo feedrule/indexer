@@ -1,0 +1,20 @@
+{
+  "url": "https://sanjayregmi.com/index.xml",
+  "posts": [
+    {
+      "link": "https://sanjayregmi.com/posts/j-krishnamurti-on-ai/",
+      "title": "J. Krishnamurti on AI",
+      "description": "I bumped into a speech today that J. Krishnamurti gave over fifty years ago about computers being better than humans (and thus the advent of AI). Here’s the YouTube link if you want to listen or share it with your folks."
+    },
+    {
+      "link": "https://sanjayregmi.com/posts/connect-quickly-to-a-samba-share-from-your-freshly-installed-windows-pc/",
+      "title": "Connect quickly to a samba share from your freshly installed Windows PC",
+      "description": "You might need to access your networked Samba Share on a freshly installed Windows machine. If the Samba share doesn’t have WS-Discovery enabled, you might not see it even when you turn on Network Sharing. And might not be able to even map a shared drive. However, you can using the terminal instead. Here’s the two commands:"
+    },
+    {
+      "link": "https://sanjayregmi.com/posts/create-local-admin-account-before-you-clone-a-windows-machine/",
+      "title": "Create a Local Admin Account Before You Clone a Windows Machine",
+      "description": "Update: Do not use this method. We're not 100pc sure why but when we updated the machine using the admin acccount, the original user account was disconnected from their Microsoft account and that the user was converted to a local user account and we couldn't login until we reset the local user's password via the admin account."
+    }
+  ]
+}

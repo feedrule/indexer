@@ -1,0 +1,20 @@
+{
+  "url": "https://quentinkaiser.be/feed.xml",
+  "posts": [
+    {
+      "link": "https://quentinkaiser.be/security/2026/10/23/broadcom-patch/",
+      "title": "Reconstructing Broadcom's 2018 WPS Patch",
+      "description": "Photo by Intricate Explorer on unsplash This post is a follow-up to my initial “One parser, two bugs, many routers” post Since I gave my talk at Hexacon I have been approached by security researchers, network engineers at Internet Service Providers, and embedded software developers working for Original Equipment Manufacturers. There is a bit of confusion about what I meant by this: An incomplete p"
+    },
+    {
+      "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "title": "One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across eCos and Linux",
+      "description": "Photo by Hasan Almasi on unsplash This post is the long-form version of the talk I gave at Hexacon in Paris on October 16th, 2026 . A general public documentation page has been published at https://qkaiser.github.io/broadcom-wps/ under the name ‘WPSplinter’. I hate designer name vulns as much as you do, but I needed a site for the general public. Answering emails one by one won’t cut it. We’re now"
+    },
+    {
+      "link": "https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/",
+      "title": "AI Assisted Vulnerability Research on Embedded Targets",
+      "description": "Photo by Vinoth Ragunathan on unsplash Recently, bl4sty created vibe coded sl0p.foo , a streaming platform where you can live stream your agents working in tmux sessions for fun. I liked the idea, and it finally got me to experiment with AI-assisted vulnerability research and exploit development. Most of the publications I’ve seen so far have focused on browsers and operating systems. These are cl"
+    }
+  ]
+}

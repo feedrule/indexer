@@ -1,0 +1,20 @@
+{
+  "url": "https://sylverstudios.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://sylverstudios.dev/blog/2026/05/12/event-sourcing-elixir-conf.html",
+      "title": "What Event Sourcing Changed in My Head",
+      "description": "My ElixirConf talk is on YouTube. The bigger shift for me since then is how we frame problems. Not whether we pick CRUD or events.#elixir #phoenix #liveview #event-sourcing #elixirconf #architecture #commanded"
+    },
+    {
+      "link": "https://sylverstudios.dev/blog/2026/04/06/one-agent-one-machine.html",
+      "title": "One Agent, One Machine",
+      "description": "We built remote coding agents where a Slack message turns into a PR. Now, 40% of our PRs start there.#elixir #ai #agents #flame #claude-code #infrastructure"
+    },
+    {
+      "link": "https://sylverstudios.dev/blog/2026/03/09/looking-back-moving-forward.html",
+      "title": "Looking Back, Moving Forward: 2025 Recap",
+      "description": "Gave a conference talk. Overdid it. Took a break. Now, here’s what it looks like when coding agents stop being just your tool and become everyone’s.#reflection #ai #career #personal #elixir #agents #claude-code"
+    }
+  ]
+}

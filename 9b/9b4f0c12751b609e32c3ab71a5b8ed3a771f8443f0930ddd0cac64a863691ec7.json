@@ -1,0 +1,20 @@
+{
+  "url": "https://shimin.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://shimin.io/journal/fine-tuning-local-models-for-the-gpu-poor/",
+      "title": "Fine-Tuning Local Models for the GPU Poor — Teaching Qwen3.8-27B Narrow Tasks via QLoRA",
+      "description": "Fully fine-tuning the 27B model I run on a single RTX 4090 would take fourteen of them. How QLoRA, gradient checkpointing, and loss chunking squeeze the job onto one card — and what six hours of low-poly Blender dioramas taught my local Qwen."
+    },
+    {
+      "link": "https://shimin.io/journal/why-i-tell-my-agent-im-an-expert-at-everything/",
+      "title": "You are an AI Assistant, but what am I? — Why I tell my Agent I'm an expert at everything",
+      "description": "Do 2026 models still give worse answers to users they judge less educated? 1000 multiple-choice questions and 30 advice scenarios across Sonnet 5, GPT 5.6 Luna, and DeepSeek V4 Flash — and why you should keep the memory features off."
+    },
+    {
+      "link": "https://shimin.io/journal/inhabited-design/",
+      "title": "Inhabited Design, a Skill for the AI Slop Site Problem",
+      "description": "Purple gradients are the new em dash. Building inhabited-design — a Claude Code skill that samples a different designer to inhabit on every run — and the detours through attractors, personas, self-refinement, and verbalized sampling it took to escape the slop."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://charon.konekopi.com/index.xml",
+  "posts": [
+    {
+      "link": "https://charon.konekopi.com/posts/boolean_logic_naming/",
+      "title": "Boolean logic operators are not intuitive. Let's do better",
+      "description": "Quick! What’s the truth table of XNOR? If you don’t catch that, don’t worry. Hopefully by the end of the post you’ll have an intuitive understanding on the operation of all the other logic gates as well. Logical operations such as AND, OR, XOR have weird and non-intuitive names. “Do you want apple or banana?” means you can either take either just the apple or just the banana (but not both). Yet on"
+    },
+    {
+      "link": "https://charon.konekopi.com/posts/archlinux_on_arm/",
+      "title": "Running official Arch Linux on Arm (not to be confused ArchLinuxARM)",
+      "description": "There is an ongoing community project brewing right now to finally use official Arch Linux directly on ARM. The project allows the upstream Arch Linux PKGBUILDs to be compiled and ran on ARM devices. This contrasts to fork projects which maintain their own modifications. For years, ArchLinuxARM (alarm) has been the go-to distribution for running the project on ARM devices. While it has served the"
+    },
+    {
+      "link": "https://charon.konekopi.com/posts/hello/",
+      "title": "Hello",
+      "description": "I’m Charon, also known as PlasmaGrass in some circles. I work on various projects from retro hardware emulation, reverse engineering. I’ll try to write down the projects I’ve been working on here, so I can practice writing down things. I’m not sure how often I’ll write but this blog has an RSS if you want to keep in touch."
+    }
+  ]
+}

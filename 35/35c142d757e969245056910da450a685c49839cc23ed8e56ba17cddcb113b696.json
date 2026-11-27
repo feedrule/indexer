@@ -1,0 +1,20 @@
+{
+  "url": "https://techaccelerationandresilience.com/blog-posts?format=rss",
+  "posts": [
+    {
+      "link": "https://techaccelerationandresilience.com/blog-posts/why-enterprises-overfund-failure-and-underfund-prevention",
+      "title": "Why Enterprises Overfund Failure and Underfund Prevention",
+      "description": "Most reliability debates start with technology and end with frustration. Do we need more redundancy? More automation? More “nines”?"
+    },
+    {
+      "link": "https://techaccelerationandresilience.com/blog-posts/how-to-find-the-bottom-of-the-reliability-u-curve-without-chasing-five-nines",
+      "title": "How to Find the Bottom of the Reliability U-Curve (Without Chasing Five Nines)",
+      "description": "Most teams debate “more nines.” The better question is: where’s the bottom of your reliability U-curve, and are you left or right of it? In 15 minutes you can place a service using 3 inputs: capability signals (failure vs prevention)."
+    },
+    {
+      "link": "https://techaccelerationandresilience.com/blog-posts/the-reliability-cost-inversion-law-why-reliability-gets-cheaper-at-scale",
+      "title": "The Reliability-Cost Inversion Law: Why Reliability Gets Cheaper at Scale",
+      "description": "/////////////////////////////////////// Featured in SRE Weekly 507 https://sreweekly.com/sre-weekly-issue-507 /////////////////////////////////////// Want to try it out? Take the 5-minute Reliability U-Curve Assessment → reliabilityeconomics.com/benchmark /////////////////////////////////////// I realized something uncomfortable about how most companies fund tech operations: they treat the spend a"
+    }
+  ]
+}

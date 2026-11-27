@@ -1,0 +1,20 @@
+{
+  "url": "https://issung.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://issung.github.io/posts/ps2iodb2026/",
+      "title": "PS2IODB 2026 Release",
+      "description": "My project, the PlayStation 2 Icons Open Database (PS2IODB) is a website that freely hosts archived PlayStation 2 save icons, viewable for free and interactively right in your browser. As well as the website, the project provides a desktop app for contributors to contribute icons with. The project has never been perfect. It started as a way for me to learn making SPAs/React. The desktop app is..."
+    },
+    {
+      "link": "https://issung.github.io/posts/lanphotosarchive/",
+      "title": "Tasmania LAN Party Photos Archive",
+      "description": "In July 2023 I was reminiscing about a thing of the past, large-scale public LAN parties. I remember them being a semiregular occurrence around Tasmania, only attending a couple in my young age before they disappeared. I wondered if I could find some photos of these events to help the memories come back clearer. After some googling of vague memories I was able to find the name of an old group t..."
+    },
+    {
+      "link": "https://issung.github.io/posts/harfilescraping/",
+      "title": "Makeshift Scraping with HAR Files",
+      "description": "When building the Tasmania LAN party photo archive last year all of the files were in a small private Facebook group. There wasn’t many albums, but each album had hundreds of photos. I searched the internet for scraping solutions but due to large companies like Facebook changing their interface so often nothing open source was up to date, and other options want your credit card info.. I knew I..."
+    }
+  ]
+}

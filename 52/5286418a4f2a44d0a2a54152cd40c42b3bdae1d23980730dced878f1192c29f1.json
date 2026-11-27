@@ -1,0 +1,20 @@
+{
+  "url": "https://dtxdf.github.io/index.rss",
+  "posts": [
+    {
+      "link": "https://dtxdf.github.io/appvm.html",
+      "title": "Implementing AppVMs in FreeBSD with Overlord, AppJail and Xpra",
+      "description": "Security is no longer just an add-on, as it once was, and modern operating systems tend to be increasingly complex. We must not only be concerned about the security of our operating systems but also the security of the applications we use, such as a web browser, which is itself a complex system. But web browsers aren't the only applications primarily used to connect to Internet: an instant messagi"
+    },
+    {
+      "link": "https://dtxdf.github.io/jellyseerr.html",
+      "title": "How to install Jellyfin and Jellyseerr using Overlord",
+      "description": "After a hard day, you get home, turn on the TV, open Netflix, and watch a movie. However, you're an avarage IT nerd who needs to work a lot harder with your computer (right?), so you come to the conclusion that there's this amazing project called Jellyfin that lets you watch movies and TV shows (and even stream music!), but you realize you're not the only user consuming instance: your little broth"
+    },
+    {
+      "link": "https://dtxdf.github.io/overlord.html",
+      "title": "Overlord: Deploy jails as fast as you code",
+      "description": "When AppJail , a BSD-3 licensed open source framework entirely written in sh(1) and C to create isolated, portable and easy to deploy environments using FreeBSD jails that behave like an application, was created, my intention was to test ports so as not to mess up my main environment. Today AppJail is more than just a script for testing ports, it is highly flexible and has some very useful automat"
+    }
+  ]
+}

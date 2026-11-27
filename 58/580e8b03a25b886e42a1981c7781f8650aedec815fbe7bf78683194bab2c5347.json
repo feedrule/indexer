@@ -1,0 +1,20 @@
+{
+  "url": "https://rusty.ozlabs.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://rusty.ozlabs.org/2026/04/13/CLN-Dev-Deprecations.html",
+      "title": "CLN Developer Series #7: Post-Release Deprecations",
+      "description": "After each release, we remove the features and options which were EOL in the previous one (we give one release during which features can be re-enabled by the i-promise-to-fix-broken-api-user option)."
+    },
+    {
+      "link": "https://rusty.ozlabs.org/2025/12/12/CLN-Neatening-A-Bugfix-PR.html",
+      "title": "CLN Developer Series #6: Neatening a Bugfix PR",
+      "description": "This is an “eat your veggies!” talk, which is an indepth review of an excellent PR by @dovgopoly. When someone first submits a PR, I like to explain every detail of how I would have done it, so they have some guidance about what the process looks like."
+    },
+    {
+      "link": "https://rusty.ozlabs.org/2025/12/09/CLN-Dev-Gossipd.html",
+      "title": "CLN Developer Series #5: Gossipd: The Gossip Daemon",
+      "description": "After the previous aside on a gossip bug, I realized I should do a tour of each daemon. I started with gossipd because it’s my favorite, having changed so much from what it originally did into something which now mainly exports the “gossip_store” file for other subdaemons and plugins to use."
+    }
+  ]
+}

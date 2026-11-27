@@ -1,0 +1,20 @@
+{
+  "url": "https://keithschacht.com/atom/everything/",
+  "posts": [
+    {
+      "link": "https://keithschacht.com/2026/Mar/11/with_options-is-some-nice-syntax-sugar-in-rails/#atom-everything",
+      "title": "with_options is some nice syntax sugar in Rails",
+      "description": "with_options is some nice syntax sugar in Rails When a series of validations (in an ActiveRecord model) all share the same conditional or when a series of before_actions (in a controller) do, with_options is a nice grouping. Tags: Rails"
+    },
+    {
+      "link": "https://keithschacht.com/2026/Feb/20/minimal-ui-library/#atom-everything",
+      "title": "Oat is a Minimal UI library",
+      "description": "Oat is a Minimal UI library If I were to lean into a new UI library, this would likely be it. It’s the most minimal yet complete library that I’ve seen. It’s basically shadcn meets semantic HTML. Tags: UI"
+    },
+    {
+      "link": "https://keithschacht.com/2026/Feb/12/remember-clippy-screen-aware-voice-ai-in-the-browser/#atom-everything",
+      "title": "Remember Clippy: Screen-aware voice AI in the browser",
+      "description": "A friend and I built a browser prototype that answers questions about whatever’s on your screen using getDisplayMedia, client-side wake-word detection, and server-side multimodal inference. Try it here: clippy.keithschacht.com Best in Chrome. Desktop only. No sign up. Hard parts: Getting the model to point to specific UI elements Keeping it coherent across multi-step workflows (“Help me create a s"
+    }
+  ]
+}

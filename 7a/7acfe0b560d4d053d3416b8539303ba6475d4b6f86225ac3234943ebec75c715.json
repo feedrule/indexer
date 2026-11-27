@@ -1,0 +1,20 @@
+{
+  "url": "https://indii.org/feed/blog.xml",
+  "posts": [
+    {
+      "link": "https://indii.org/blog/serve-a-website-locally-and-rebuild-on-changes/",
+      "title": "Serve a website locally and rebuild on changes",
+      "description": "Bash scripting a quality-of-life feature for web development"
+    },
+    {
+      "link": "https://indii.org/blog/cplusplus-static-for-loop/",
+      "title": "A static for loop in C++",
+      "description": "You have if constexpr, but you want for constexpr"
+    },
+    {
+      "link": "https://indii.org/blog/cplusplus-code-coverage-with-gcov-gcovr-doxide/",
+      "title": "Improving C++ Code Coverage with Gcov, Gcovr and Doxide",
+      "description": "Doxide can now produce line data on function templates, even when not instantiated, to mix with execution data for more accurate test coverage reports. This is especially useful when testing header-only libraries."
+    }
+  ]
+}

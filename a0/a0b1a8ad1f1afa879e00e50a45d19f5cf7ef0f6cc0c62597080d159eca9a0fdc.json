@@ -1,0 +1,20 @@
+{
+  "url": "https://nshelton.github.io/home/index.xml",
+  "posts": [
+    {
+      "link": "https://nshelton.github.io/home/minotaur/",
+      "title": "Minotaur Plotter",
+      "description": "A C++17 desktop application processing plots and driving my Axidraw A3"
+    },
+    {
+      "link": "https://nshelton.github.io/home/snap/",
+      "title": "Snap Inc / Spectacles",
+      "description": "Gaussian Splatting rendering optimization for mobile AR hardware."
+    },
+    {
+      "link": "https://nshelton.github.io/home/illuminant/",
+      "title": "Illuminant Surgical",
+      "description": "Real-time surgical projection mapping and 3D fiducial tracking for image-guided surgery."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://campbell.scot/index.xml",
+  "posts": [
+    {
+      "link": "https://campbell.scot/updated-october-2026-mde-feature-comparison-by-os/",
+      "title": "[Updated October 2026] MDE Feature Comparison by OS",
+      "description": "I’ve updated my MDE Feature Comparison by OS again. The headline change since August is that Microsoft Defender for Endpoint is now available for Linux desktops in public preview. There are a few other additions worth calling out, particularly around Linux protection modes and WSL containers. Linux desktop support uses the same supported distributions, deployment methods, and security capabilities"
+    },
+    {
+      "link": "https://campbell.scot/updated-august-2026-mde-feature-comparison-by-os/",
+      "title": "[Updated August 2026] MDE Feature Comparison by OS",
+      "description": "Three months after the last big refresh, I’ve worked through Microsoft’s Defender documentation again and updated my cross-platform comparison of Microsoft Defender for Endpoint features by operating system. The big changes relate to AI agent security, ASR minimum version changes, and the Defender deployment tool (DDT). You can find the updated comparison here: MDE Feature Comparison by OS Quick p"
+    },
+    {
+      "link": "https://campbell.scot/updated-may-2026-mde-feature-comparison-by-os/",
+      "title": "[Updated May 2026] MDE Feature Comparison by OS",
+      "description": "Paul, Ian, and I just finished publishing the second edition of MDE In Depth , so to coincide, I’ve refreshed the comparison of MDE features and capabilities by OS type. Long overdue. At the same time, I’ve migrated my blog from Bluehost + WordPress to a Hugo static site hosted on Azure Static Web Apps. GitHub Copilot made this so straight forward. One of the nice side effects of moving to this pl"
+    }
+  ]
+}

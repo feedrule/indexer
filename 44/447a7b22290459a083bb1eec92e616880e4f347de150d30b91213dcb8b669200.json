@@ -1,0 +1,20 @@
+{
+  "url": "https://claudeholic.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://claudeholic.me/bulletins/2026-context-window-census.html",
+      "title": "The window grew. So did the preamble.",
+      "description": "The 2026 Context Window Census and practical guidance for selecting relevant, private, verifiable context."
+    },
+    {
+      "link": "https://claudeholic.me/bulletins/model-release-coping-protocol.html",
+      "title": "A new model shipped. Your old work remains valid.",
+      "description": "A five-step protocol for evaluating a model release against your own tasks, boundaries, and rollback plan."
+    },
+    {
+      "link": "https://claudeholic.me/bulletins/mcp-accumulation-advisory.html",
+      "title": "Your tools can access more than your memory can.",
+      "description": "An inventory and least-privilege advisory for AI tools, credentials, and MCP server access."
+    }
+  ]
+}

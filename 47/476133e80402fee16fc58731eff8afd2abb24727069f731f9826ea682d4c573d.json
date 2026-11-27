@@ -1,0 +1,20 @@
+{
+  "url": "https://joshghent.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://joshghent.com/php2shell-overreaction/",
+      "title": "Last week was terrible. It didn't have to be",
+      "description": "Last week saw the arrival of two CVEs for PHP, CVE-2026-109618 and CVE-2026-109619 , each rated a staggering CVSS 9.2. For comparison, Heartbleed was rated 5.0 under CVSS version 2 and 7.5 under version 3.1 . Soon after the news landed, the cyber security team and others at work were setting up war room channels to patch immediately. It was a huge amount of work. We had to check each system to fin"
+    },
+    {
+      "link": "https://joshghent.com/enterprise-sales-teams/",
+      "title": "Enterprise sales teams, please, I beg you, stop",
+      "description": "At $dayJob we reached the seat limit on a SaaS product. I reached out to their sales team for a quote on a few more seats. We already pay for this software. I'm not a new customer. What I expected was an email saying: \"Great, glad you want to use this more. It will cost £X.\" I needed that price because I can't green light the spend on my own. I take the number away, get the approval and come back."
+    },
+    {
+      "link": "https://joshghent.com/groundwork/",
+      "title": "/groundwork: a skill that makes any repo runnable from a fresh clone",
+      "description": "A recurring problem in many organisations I've worked in is that a project is set up by a few developers, and from then on they are \"the project's devs\". Later, one leaves, another goes on holiday and the last is off ill for the day. This is the bus factor in action. Then a ticket comes in. Another developer on the team clones the repo and discovers: They don't have the .env file. They don't have"
+    }
+  ]
+}

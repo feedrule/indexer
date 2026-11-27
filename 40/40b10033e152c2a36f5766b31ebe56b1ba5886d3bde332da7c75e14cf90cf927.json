@@ -1,0 +1,20 @@
+{
+  "url": "https://aalhour.com/feed",
+  "posts": [
+    {
+      "link": "https://aalhour.com/posts/beachdb-crash-testing-part1/",
+      "title": "Crash-only confidence, part 1: from random kills to exact boundaries",
+      "description": "A crash test that cannot explain itself is mostly theater."
+    },
+    {
+      "link": "https://aalhour.com/posts/beachdb-sstables-v1/",
+      "title": "Making the on-disk state real: Sorted-String Tables (SSTables)",
+      "description": "Files are easy; files you can trust, inspect, and recover from are the real step."
+    },
+    {
+      "link": "https://aalhour.com/posts/beachdb-memtable-v1/",
+      "title": "The Memtable: where writes go to wait",
+      "description": "Before the disk gets involved, memory has to learn the rules."
+    }
+  ]
+}

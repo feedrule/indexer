@@ -1,0 +1,15 @@
+{
+  "url": "https://kitchensink.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://kitchensink.bearblog.dev/pbds-ordered-set/",
+      "title": "Exploring the C++ PBDS ordered_set in some detail",
+      "description": "Exploring the C++ PB_DS ordered_set AI disclaimer This blog is 100% written by me, not AI. Approx. reading time: 7 minutes I'm in my final year of college and the job search season is here. Which means, it's time to brush up on my competitive programming skills. Fun. Now, in doing this, there's a handy data structure which I learnt about, the ordered_set (as GFG puts it 1 ), which is a data struct"
+    },
+    {
+      "link": "https://kitchensink.bearblog.dev/llm-inference-from-scratch-part-1/",
+      "title": "LLM inference from scratch - Part 1",
+      "description": "Reading time: ~10 min AI disclaimer The source code is completely coded by hand, and the blog is 100% me, not AI. I used AI for generating a Makefile for building and a couple of bash scripts for testing, which I verified manually. Github repo link The code is present in this repository with instructions to run the source code and tests. Table of Contents Applying the chat template Tokenization No"
+    }
+  ]
+}

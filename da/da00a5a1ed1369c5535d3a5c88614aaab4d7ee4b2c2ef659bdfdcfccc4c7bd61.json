@@ -1,0 +1,20 @@
+{
+  "url": "https://www.applesqueezer.com/blog-feed.xml",
+  "posts": [
+    {
+      "link": "https://www.applesqueezer.com/post/new-graphics-modes",
+      "title": "New Graphics modes",
+      "description": "Quite a lot of interest was recently shown when I asked if anyone would be interested in additional graphics modes for the AppleSqueezer GS Turbo. So, I added some new modes, which I think offer a lot of possibilities. The Apple IIGS of course already has a bunch of modes, which all output to the analog RGB output on the back of the machine, suitable for a CRT colour monitor. The new modes cannot"
+    },
+    {
+      "link": "https://www.applesqueezer.com/post/applesqueezer-gs-turbo",
+      "title": "AppleSqueezer GS Turbo",
+      "description": "Today, I'm really happy to announce a brand new AppleSqueezer accelerator: the AppleSqueezer GS Turbo. And as you may well guess from its name, the main difference is in the speed, although it's not limited to that. It comes with quite a few other improvements as well! While the existing AppleSqueezer GS v2 is already significantly faster than an Apple IIGS, at around 15 MHz, compared to the stock"
+    },
+    {
+      "link": "https://www.applesqueezer.com/post/core-15-with-hdmi-and-other-improvements",
+      "title": "Core 15 with HDMI and other improvements",
+      "description": "It's been a while since core 14 was released, which was the core that introduced booting from the AppleSqueezer's built-in SD card with the help of Antoine Vignau's driver: https://www.brutaldeluxe.fr/products/apple2gs/applesqueezer/ 5.25\" drive issue For quite some time already, 5.25\" disk access wasn't reliable. For most people, who use modern disk solutions such as CFFA3000 or Floppy Emu (or be"
+    }
+  ]
+}

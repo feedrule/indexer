@@ -1,0 +1,20 @@
+{
+  "url": "https://giannirosato.com/atom",
+  "posts": [
+    {
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title": "The case against JPEG XL",
+      "description": "Investigating JPEG XL's place as a Web image codec. Why? JPEG XL is a technically impressive image codec; it is a definitive upgrade over JPEG, more versatile than WebP, and well-equipped to serve use cases beyond the Web. However, it was famously rejected from Chrome in 2023. Because this happened to a royalty-free, flexible, compression-efficient codec from the JPEG Committee that was receiving"
+    },
+    {
+      "link": "https://giannirosato.com/blog/post/oavif/",
+      "title": "Introducing oavif",
+      "description": "oavif is a new approach to target quality encoding in image compression, designed around smarter convergence strategies and quicker scoring to be as fast as possible. Why? Target quality encoding is one of the highest impact use cases for image compression. A target quality encoder framework aims to produce an image encoded at a particular quality set by the user according to some metric or visual"
+    },
+    {
+      "link": "https://giannirosato.com/blog/post/the-multimedia-renaissance/",
+      "title": "The Multimedia Renaissance",
+      "description": "The best open source video and image compression algorithms have improved significantly over the past year, and developer tools have miraculously kept up with this rapid pace. There has never been a better time for video. Purpose When you work on anything, I think it is worth thinking about why you are working on it aside from whether or not it provides some instant gratification. Thinking about w"
+    }
+  ]
+}

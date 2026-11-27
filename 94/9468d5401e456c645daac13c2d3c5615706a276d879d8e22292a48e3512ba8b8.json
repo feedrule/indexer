@@ -1,0 +1,20 @@
+{
+  "url": "https://doodles.mountainmath.ca/index.xml",
+  "posts": [
+    {
+      "link": "https://doodles.mountainmath.ca/posts/2026-11-19-censusmapper-cancensus-and-tongfen-update/",
+      "title": "CensusMapper, cancensus, and TongFen update",
+      "description": "Usually we don’t do posts on updates, but this is a rather large one, both for CensusMapper as well as for cancensus and TongFen . Let’s start with changes common to both CensusMapper and cancensus : Bilingual Both CensusMapper and cancensus are now bilingual. This is long overdue, but better late than never. Bilingual variable names and concepts come straight from StatCan, but other web-elements"
+    },
+    {
+      "link": "https://doodles.mountainmath.ca/posts/2026-10-28-dot-density-drawn-from-distributions/",
+      "title": "Dot-density drawn from distributions",
+      "description": "We have been longtime fans of dot-density maps, ( von Bergmann and Lauster 2021a) especially multi-category ones. ( von Bergmann 2017a) For this post we are thinking of (multi-category) dot-density maps based on census data, for example visualizing population density by drawing dots where (we think) people live, or colouring dots by people’s characteristics, like income or visible minority status."
+    },
+    {
+      "link": "https://doodles.mountainmath.ca/posts/2026-10-26-introducing-safeconduct-and-r2parquet/",
+      "title": "Introducing safeconduct and r2parquet",
+      "description": "The data world is getting more complicated. Recently I have encountered several instances where data used to be openly available and has become partially locked off. Not locked off in the sense that the data can’t be accessed at all, but that typical data analysis workflows can’t reach it any more. Recent examples I ran into are: StatCan is blocking programmatic access to much of it’s census data"
+    }
+  ]
+}

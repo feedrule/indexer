@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.awoo.systems/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.awoo.systems/posts/2026-06-28-defcon-quals-and-symbolic-execution-with-rosette",
+      "title": "defcon quals and symbolic execution with rosette",
+      "description": "i’m getting a bit allergic to the way Chat Box Generated Prose always overuses headings so i might just not put any headings at all in this post. we’ll see. make a terrible comic day might have been last week, but make a terrible blog post day is every day~ nearly an entire month ago i once again got to play defcon qualifiers with team Shellphish, and we once again pulled it together to make the c"
+    },
+    {
+      "link": "https://blog.awoo.systems/posts/2026-04-10-neovim-dynamic-theming-and-udev-key-mapping",
+      "title": "Dynamic theme selection for neovim, and also unrelatedly, keyboard mapping in udev",
+      "description": "these days i spend a lot of time opening up github projects and seeing the dreaded A user you’ve blocked has previously contributed to this repository sigh. another one bites the dust 1 there’s currently no easy way to tell whether it’s just some drive-by PR where some skill-atrophied genius prompter couldn’t figure out how to write 3 lines of correcting typos by hand (i’ll call this “type 1”) or"
+    },
+    {
+      "link": "https://blog.awoo.systems/posts/2026-03-01-zfs-native-encryption-and-send-recv",
+      "title": "ZFS native encryption and send/recv",
+      "description": "in case you missed it, last week saw one of the funniest things ever to happen to linux kernel development, in which Kent Overstreet, developer of now-disowned Linux filesystem bcachefs, had his LLM girlfriend stolen by a trans lesbian on IRC no, really, i’m not kidding apparently, Kent was running a Claude-based LLM bot which was hooked up to the bcachefs codebase, IRC, and even had a website. it"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://hjr265.me/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://hjr265.me/blog/where-is-this-screenshot-from/",
+      "title": "Where Is This Screenshot From? Asking Three AIs",
+      "description": "I ran a quick experiment with a few AI services. I took a screenshot of Toph ’s submissions page and pasted it into three of them: Claude, Google Search (not Gemini), and ChatGPT. Each in a fresh chat, each with the same question: “Can you tell me where this screenshot is from?” I built Toph, so I knew the answer. What I wanted to know was whether the page was recognizable to anyone, or anything,"
+    },
+    {
+      "link": "https://hjr265.me/blog/can-ai-take-a-software-engineers-job/",
+      "title": "Can AI Take a Software Engineer's Job?",
+      "description": "I had an interesting exchange with a coding agent this evening. Are coding agents useful? Absolutely. But can it take a software engineer’s job? You tell me. Me: In .gitlab-ci.yml , can we set the workflow name only if the PLAYBOOK variable is set? AI: 1 2 3 4 5 workflow : name : \"Playbook ${PLAYBOOK}\" rules : - if : $PLAYBOOK != \"\" - when : always The workflow.name only takes effect when matched"
+    },
+    {
+      "link": "https://hjr265.me/blog/building-gittop-with-agentic-coding/",
+      "title": "My First Fully Agentic Coding Project: GitTop",
+      "description": "I have been running Toph for over ten years. Somewhere along the way, I started wondering: what hours of the day do I actually work on it? Commit timestamps felt like the right place to look. A quick one-off script could answer the question, and there are Git stats tools that spit out HTML reports. But I thought: this could be a good excuse to build a TUI application. Something like htop, but for"
+    }
+  ]
+}

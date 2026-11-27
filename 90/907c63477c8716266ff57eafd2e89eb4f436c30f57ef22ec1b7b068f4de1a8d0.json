@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jse.li/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.jse.li/posts/markdown/",
+      "title": "Resurrecting an old hack to build UI in GitHub READMEs",
+      "description": "I use a web design trick from the ’90s to render interactable buttons in GitHub’s highly constrained Markdown environment."
+    },
+    {
+      "link": "https://blog.jse.li/posts/smith9street/",
+      "title": "Estimating the heights of New Yorkers from their scuff marks",
+      "description": "A commuter waiting for the train leans with one foot against the wall, and their shoe leaves a mark."
+    },
+    {
+      "link": "https://blog.jse.li/posts/approval/",
+      "title": "Approve merge requests with your eyes closed",
+      "description": "With the rise of vibe coding, you can (and should) open a merge request without reading it. What’s missing is being able to approve it without reading it either — or even opening your eyes."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mevlyshkin.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://mevlyshkin.com/projects/great-old-ones-survivors/",
+      "title": "Great Old Ones Survivors",
+      "description": "A Cthulhu-mythos survival roguelike coming to iPhone: six-minute, one-thumb runs with nothing to buy. Made in Rust with Bevy."
+    },
+    {
+      "link": "https://mevlyshkin.com/projects/mazak/",
+      "title": "Mazak",
+      "description": "A layered image editor for macOS, Windows, Linux and the browser, with blend modes, 32 effects and GPU plugins. Made in Rust and egui."
+    },
+    {
+      "link": "https://mevlyshkin.com/projects/clapnet/",
+      "title": "ClapNET",
+      "description": "Turn plain C# functions into a command-line app. Built on System.CommandLine and made for single-file dotnet run scripts."
+    }
+  ]
+}

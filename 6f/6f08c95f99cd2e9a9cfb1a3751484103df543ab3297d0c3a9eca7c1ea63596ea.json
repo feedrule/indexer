@@ -1,0 +1,20 @@
+{
+  "url": "https://saewitz.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://relisten.net/blog/welcome-to-the-relisten-blog",
+      "title": "Welcome to the Relisten Blog",
+      "description": "Introducing the Relisten blog, with a short history of Relisten's roots and a look to its future (on Relisten.net)"
+    },
+    {
+      "link": "https://saewitz.com/tests-are-the-new-moat",
+      "title": "Tests Are The New Moat",
+      "description": "As AI becomes better at cloning people's open source work, what ends up becoming most valuable are software contracts, tests, and API surface area. This clashes the incentives of clearly defining your commercialized open source software with protecting it."
+    },
+    {
+      "link": "https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn",
+      "title": "Turning Your Robot Vacuum Into a Mesh VPN",
+      "description": "I bought a robot vacuum and went down a path of understanding how wi-fi enabled devices can cross a line of security and privacy. In doing so, I figured out how we can keep our devices secure and isolated to our own private networks while still being able to operate them from anywhere in the world."
+    }
+  ]
+}

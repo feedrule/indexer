@@ -1,0 +1,20 @@
+{
+  "url": "https://stefvanwijchen.com/rss",
+  "posts": [
+    {
+      "link": "https://stefvanwijchen.com/the-future-belongs-to-swe/",
+      "title": "The future belongs to SWE",
+      "description": "Software engineers aren't being replaced by AI. They're becoming the DIY class of the AI era: the people who can self-host, build, and control their own AI stack while everyone else rents access from big tech."
+    },
+    {
+      "link": "https://stefvanwijchen.com/vibe-coding-and-the-human-developer/",
+      "title": "Vibe coding and the human developer",
+      "description": "Vibe coding turns AI assistants into creative partners, but only when craft leads. On improvisation, guardrails, and building flow with AI."
+    },
+    {
+      "link": "https://stefvanwijchen.com/claude-code-weekend-effect-ui/",
+      "title": "I ran Claude Code for a weekend to create a reactive UI library with Effect",
+      "description": "How a weekend experiment with Claude Code and my TypeScript vibe coding meta produced a sophisticated reactive UI library that piggybacks on Effect's powerful runtime system."
+    }
+  ]
+}

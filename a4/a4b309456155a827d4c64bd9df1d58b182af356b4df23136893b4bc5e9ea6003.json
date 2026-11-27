@@ -1,0 +1,20 @@
+{
+  "url": "https://basit.pro/feed.xml",
+  "posts": [
+    {
+      "link": "https://basit.pro/sirius-leverage-cudf-jit/",
+      "title": "NVIDIA CUDA-X Powers the New Sirius GPU Engine for DuckDB, Setting ClickBench Records",
+      "description": "My work on cuDF’s JIT compilation was leveraged in the Sirius GPU engine for DuckDB, which achieved record-setting performance on the ClickBench benchmark. This article highlights how the JIT compilation techniques I developed enabled Sirius to deliver unprecedented query performance by generating optimized GPU code on-the-fly."
+    },
+    {
+      "link": "https://basit.pro/efficient-transforms-cudf-jit/",
+      "title": "Efficient Transforms in cuDF Using JIT Compilation",
+      "description": "I authored this article for NVIDIA’s Developer Blog, exploring how Just-In-Time (JIT) compilation enables efficient data transformations in cuDF. The work demonstrates how JIT compilation can significantly improve performance for GPU-accelerated dataframe operations by generating optimized code at runtime, eliminating the overhead of traditional interpreter-based approaches."
+    },
+    {
+      "link": "https://basit.pro/better-identifying-conda-packages/",
+      "title": "Better identifying conda packages with ClearlyDefined",
+      "description": "I contributed to improving package identification in the conda ecosystem through ClearlyDefined, an Open Source Initiative project. This work focused on enhancing the accuracy and completeness of metadata for conda packages, making it easier to track licensing, provenance, and dependencies across the conda package management ecosystem."
+    }
+  ]
+}

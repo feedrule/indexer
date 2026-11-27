@@ -1,0 +1,20 @@
+{
+  "url": "https://adamwiggins.com/feed.rss",
+  "posts": [
+    {
+      "link": "https://adamwiggins.com/posts/politics-and-emotion-at-local-first-conf/",
+      "title": "Politics and emotion at Local-First Conf",
+      "description": "My reflections on Local-First Conf 2026. I was surprised by the angles of geopolitics, and charged emotion in response to our changing industry."
+    },
+    {
+      "link": "https://adamwiggins.com/posts/a-bluesky-feed-for-one/",
+      "title": "A Bluesky feed for one",
+      "description": "I built a custom feed for Bluesky that trains a model on my past interactions. Here's what I learned about RecSys and social media feeds generally."
+    },
+    {
+      "link": "https://adamwiggins.com/posts/firehose-authentic-use/",
+      "title": "Firehose authentic use",
+      "description": "A prototype of email triage via a custom-trained model. This is a report of the first two weeks of real-world use."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mariogemoll.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://mariogemoll.com/pick-and-place",
+      "title": "Pick and Place with the SO-101 Robot Arm",
+      "description": "An end-to-end robotics project covering inverse kinematics, motion planning, computer vision, sim-to-real transfer, ACT and diffusion/flow policies."
+    },
+    {
+      "link": "https://mariogemoll.com/llm-posttraining",
+      "title": "LLM Posttraining",
+      "description": "A guide to LLM posttraining basics: LoRA, SFT, RLHF, RLVR."
+    },
+    {
+      "link": "https://mariogemoll.com/reinforcement-learning",
+      "title": "Reinforcement Learning",
+      "description": "Foundations of reinforcement learning, from Markov decision processes and value functions to dynamic programming, Monte Carlo methods, temporal-difference learning, and policy gradients."
+    }
+  ]
+}

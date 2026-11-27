@@ -1,0 +1,20 @@
+{
+  "url": "https://markwadh.am/blog/rss",
+  "posts": [
+    {
+      "link": "https://m4.rkw.io/blog/l0destar.html",
+      "title": "l0destar",
+      "description": "I have begun a project to create the world's best open-source vehicle tracker. Read about it here: https://l0destar.com"
+    },
+    {
+      "link": "https://m4.rkw.io/blog/glinet-glrm1-comet-kvm-over-ip.html",
+      "title": "GL.iNet GL-RM1 Comet KVM over IP",
+      "description": "I bought one of these recently at the suggestion of Casey Liss of atp.fm . Firstly I will say it's a great device, very useful and has native Tailscale support. I got the non-PoE version which is slightly different to the one that was recommended on ATP but it's nonetheless very good."
+    },
+    {
+      "link": "https://m4.rkw.io/blog/refreshing-a-workaround-to-fix-kernel-panics-on-macos-with-refresh-rates-higher-than-120hz.html",
+      "title": "Refreshing: a workaround to fix kernel panics on macOS with refresh rates higher than 120Hz",
+      "description": "Refreshing A macOS menu bar app that prevents kernel panics (DCPEXT PANIC) on Apple Silicon Macs with external monitors running above 120Hz. The Problem"
+    }
+  ]
+}

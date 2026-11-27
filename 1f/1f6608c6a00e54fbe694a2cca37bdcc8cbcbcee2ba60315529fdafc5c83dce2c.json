@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.rasc.ch/feed.rss",
+  "posts": [
+    {
+      "link": "https://blog.rasc.ch/2026/09/java-small-changes-27.html",
+      "title": "Small changes in Java 27",
+      "description": "A summary of interesting small changes in Java 27."
+    },
+    {
+      "link": "https://blog.rasc.ch/2026/08/tabpfn.html",
+      "title": "TabPFN: A Foundation Model for Tabular Data in Python",
+      "description": "An introduction to Prior Labs' TabPFN, a foundation model for tabular data in Python."
+    },
+    {
+      "link": "https://blog.rasc.ch/2026/08/angular-signal-forms.html",
+      "title": "Deep dive into Angular Signal Forms",
+      "description": "This post explores the Signal Forms API, which became stable in Angular 22"
+    }
+  ]
+}

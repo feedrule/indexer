@@ -1,0 +1,20 @@
+{
+  "url": "https://kampffrosch94.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://kampffrosch94.github.io/posts/hotreloading_rust/",
+      "title": "I hotreload Rust and so can you",
+      "description": "Hotreloading allows one to change the behavior of a program while it is running. Unlike a plugin system it is strictly a dev tool. Usually rust game devs limit their hotreloading to data files. This is pretty useful already! It lets one reload graphic assets, shaders, configuration files and even scripts without restarting or recompiling."
+    },
+    {
+      "link": "https://kampffrosch94.github.io/posts/nix_win_cross/",
+      "title": "Crosscompiling rust from nixos to windows",
+      "description": "This is a quick (and rough) guide about how to get a rust game to compile for windows on nixos using mingw. Nix is cool but figuring out where to even begin to look for stuff is a pain. I’ll try to mention how I figured things out. This post is not targeted at total beginners with nix or rust though. Initial Setup I always use nix flakes for their ability to update hashes conveniently."
+    },
+    {
+      "link": "https://kampffrosch94.github.io/posts/review_2024/",
+      "title": "Japanese in 2024",
+      "description": "This year I decided to take the JLPT N1 in December. To prepare I planned to read one hundred books, but that did not happen of course 😄 Books and Audiobooks I finished a total of 33 books in 2024. 32 of those before the JLPT (1st of December). 5 were audio books. So I did only manage to do about a third of what I intended. I blame real life. I had a very stressful time in the second half of the y"
+    }
+  ]
+}

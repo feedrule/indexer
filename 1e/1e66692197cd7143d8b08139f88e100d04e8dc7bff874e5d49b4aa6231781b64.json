@@ -1,0 +1,20 @@
+{
+  "url": "https://gigadom.in/feed/",
+  "posts": [
+    {
+      "link": "https://gigadom.in/2026/11/02/the-making-of-crossman/",
+      "title": "The Making of Crossman",
+      "description": "Here is a simple app I made which is a cross between the ubiquitous Crossword and ther popular Hangman on Unix machines, the Crossman You can either guess a letter and the letter will be entered in all places where the letter occurs in the Crossman. You are allowed a finite number of letter guesses. … Continue reading The Making of Crossman →"
+    },
+    {
+      "link": "https://gigadom.in/2026/10/23/from-news-bursts-to-story-graphs-with-local-llms/",
+      "title": "From news bursts to story graphs, with local LLMs",
+      "description": "This post traces how tweets or news stories spread through the media and whether we can visualise the spread of news or items visually. Typically, items start with small bursts and then become full-blown stories as more people connect and discuss it online. The plan was simple to state: posts → people, places, organisations and … Continue reading From news bursts to story graphs, with local LLMs →"
+    },
+    {
+      "link": "https://gigadom.in/2026/10/06/wiring-a-consensus-based-agentic-stock-picker-with-anthropic-and-open-models/",
+      "title": "Wiring a Consensus-Based Agentic Stock Picker with Anthropic and Open Models",
+      "description": "In my previous post Building an Agentic Stock Picker with Anthropic, I implemented an agentic stock picker built with Claude Opus 5. The application analyses NSE stocks under strict governance. The rule everything follows from is simple: the market-data connection and a running AI model are never live at the same time. Data is downloaded … Continue reading Wiring a Consensus-Based Agentic Stock Pi"
+    }
+  ]
+}

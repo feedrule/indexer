@@ -1,0 +1,20 @@
+{
+  "url": "https://arnebaeyens.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://arnebaeyens.com/blog/2026/reverse-engineering-with-llms/",
+      "title": "Reverse engineering the Nikon Z 6II with LLMs",
+      "description": "A story of ingenuity, perseverance, and what using Claude gets you"
+    },
+    {
+      "link": "https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/",
+      "title": "DOOM on the Nikon Z 6II camera",
+      "description": "What da camera doin?"
+    },
+    {
+      "link": "https://arnebaeyens.com/blog/2026/zfs-raid-nas/",
+      "title": "Setting up a ZFS RAID NAS for my pictures",
+      "description": "Goodbye NTFS, hello ZFS!"
+    }
+  ]
+}

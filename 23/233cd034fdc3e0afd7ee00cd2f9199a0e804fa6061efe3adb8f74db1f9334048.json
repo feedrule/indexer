@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.skz.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.skz.dev/intuitivepapers-ai-interactive-paper-explainers",
+      "title": "Interactive AI Paper Explainers with intuitivepapers.ai",
+      "description": "Can we use AI to explain machine learning papers properly, with the prerequisites, math, and interactive figures? When I read a machine learning paper, I often spend a lot of time looking up the ideas it builds on. A paper describes a new contribution, but understanding that contribution may require working through several other papers first. I sometimes ask an LLM to explain a paper to me. This i"
+    },
+    {
+      "link": "https://blog.skz.dev/ccmux-tmux-manager-for-ai-coding-agents",
+      "title": "ccmux: Managing AI Coding Agents Across Devices",
+      "description": "A tmux session manager I built with friends to keep track of coding agents across my machines, and use them from my phone. I often have three or four coding agents running across different machines. Keeping them running is easy enough with tmux, but keeping track of them is another problem. Which machine did I start that task on? Is the agent still working, or has it been waiting for me to answer"
+    },
+    {
+      "link": "https://blog.skz.dev/3d-reconstruction-from-public-photos",
+      "title": "3D Reconstruction From Public Photos with Machine Learning",
+      "description": "Can we reconstruct the world from public photos? Mapping the World The internet provides an abundance of public photos from various sources: Reddit, Youtube, Google Maps photo uploads, and so forth. Public photos available on Google Maps I wondered: is it possible to create a 3D map of the world from all this data? Cameras remove all the 3D information when the photo is taken - but using state of"
+    }
+  ]
+}

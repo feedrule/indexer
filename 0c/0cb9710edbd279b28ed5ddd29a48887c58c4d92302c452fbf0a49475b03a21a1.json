@@ -1,0 +1,20 @@
+{
+  "url": "https://rumple.github.io/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://rumple.github.io/blog/2026/11/06/coding-agents-and-software-for-one.html",
+      "title": "Coding Agents and Software for One",
+      "description": "This year, a family member of mine was treated for breast cancer. After surgery and chemotherapy, the last step was radiation therapy. Before it started, the oncologist explained how the sessions would work, and mentioned that she would need to use a technique called DIBH. It was one sentence in a long conversation, but it stayed with her."
+    },
+    {
+      "link": "https://rumple.github.io/blog/2026/11/04/the-narrow-case-for-jev.html",
+      "title": "The Narrow Case for Jev",
+      "description": "In my last post, I wrote that we cannot rely on an LLM to give a confidence score. When you ask an LLM “How confident are you?”, it writes an answer in the same way that it writes any other text, and that answer was never checked against how often the model is correct. Though that post was about confidence scores, the same arguments apply when an LLM gives probabilities. For a few weeks, I have be"
+    },
+    {
+      "link": "https://rumple.github.io/blog/2026/10/22/the-game-chatgpt-plays.html",
+      "title": "The Game ChatGPT Plays",
+      "description": "If you don’t work with computers, AI tools like ChatGPT can seem like magic. In a way, they are: what they can do is remarkable. But the ideas underneath them are simpler than they look, and you don’t need a technical background to follow them. This post explains one of those ideas, using a guessing game."
+    }
+  ]
+}

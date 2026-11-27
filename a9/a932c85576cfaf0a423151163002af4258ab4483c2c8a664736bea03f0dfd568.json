@@ -1,0 +1,20 @@
+{
+  "url": "https://binhong.me/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://binhong.me/blog/2026-04-24-quick-fix-for-dangerous-session-pattern/",
+      "title": "Quick Fix for a Dangerous Session Pattern",
+      "description": "With the recent announcement of Meta Account , I wanted to share a small incident on how I helped mitigate one of the more glaring privacy issues that came up during development. As you might know, this is a brand new account type (different from the existing one), so internally there’s a simple function (something like session.isNewAccountType() ) attached to your session for easy reference when"
+    },
+    {
+      "link": "https://binhong.me/blog/2026-04-02-shifting-from-code-writing-to-reviewing/",
+      "title": "Shifting from Code Writing to Reviewing",
+      "description": "When I built GlobeTrotte last year, vibe-coding had just begun gaining traction but I was the “weird guy” who coded everything by hand. I spent a little over 4 weeks building the backend service (Go), iOS app (SwiftUI), Android app (Jetpack Compose), and web (TanStack) all by myself. I like to think that’s pretty fast for an app of that level of complexity. The tradeoff here however, was that I ha"
+    },
+    {
+      "link": "https://binhong.me/blog/2026-03-20-mentorship/",
+      "title": "Mentorship",
+      "description": "I’ve done quite a bit of mentorship from short term (one session) to long term (multi-year), from high school kids to university grads or even senior engineers, so I like to think I know a thing or two about mentorship. This piece is specifically geared more towards how one should approach a longer term mentorship as a mentor. This is part of a series (The Opinionated Engineer) where I share my st"
+    }
+  ]
+}

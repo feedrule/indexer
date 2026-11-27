@@ -1,0 +1,20 @@
+{
+  "url": "https://ddanilov.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://ddanilov.me/zeroize",
+      "title": "I Zeroized My Secret. Or Did I?",
+      "description": "If you work with secret keys — signing keys, API tokens, anything that must not leak — you’ve probably written this happy little line and felt good about it: 1 secret.zeroize(); Wiped! Auditor happy, you happy. And honestly, that line is doing real work. But there’s a surprising amount of..."
+    },
+    {
+      "link": "https://ddanilov.me/how-llms-affect-software-architecture",
+      "title": "Fast Code, Expensive Confidence: Building Software With LLMs",
+      "description": "For years, we repeated the same two words: “Architecture matters.” In the AI era, that sentence becomes less a belief and more a constraint. Not because LLMs are magical, but because they change the economics of building software in a way that exposes every weakness we used to tolerate. This..."
+    },
+    {
+      "link": "https://ddanilov.me/publish_book",
+      "title": "Back to writing: two years, one book, and a lot in between",
+      "description": "It has been more than two years since my last post, and a year since my book was published. I never wrote here about the process, but with some distance and time to reflect, I feel it’s the right moment to share the story. The book is called Refactoring with..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://voidst.one/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://voidst.one/blog/defending-your-ide/",
+      "title": "Defending Your IDE — Protecting Against Malicious or Compromised Visual Studio Extensions",
+      "description": "The New Front Line in Cyberattacks Over the last year, developers have emerged as a key target of modern cyberattacks, many of which have been high-profile and highly impactful. Most recently, in May 2026, GitHub confirmed that attackers gained access to approximately 3,800 internal repositories after a malicious VS Code extension, Nx Console v18.95.0 , compromised an employee device. The incident"
+    },
+    {
+      "link": "https://voidst.one/blog/securing-self-hosted-applications-with-ztna/",
+      "title": "Securing Self-Hosted Applications with Zero Trust Network Access (ZTNA)",
+      "description": "Disclaimer: This post is not sponsored. All opinions are my own. In this post, I will walk through how non-enterprise users can secure self-hosted applications with Zero Trust Network Access (ZTNA) using Tailscale —an identity-based connectivity platform with a generous free tier. Self-hosting spans a wide range of applications , but this guide focuses on a practical example: integrating Tailscale"
+    },
+    {
+      "link": "https://voidst.one/blog/vibe-coding-in-2026/",
+      "title": "Vibe Coding in 2026 — Lessons from a Simple Experiment",
+      "description": "Lessons and reflections from a simple vibe coding experiment in 2026—documenting what worked, what didn’t, and why, for my future self and anyone curious to follow along. The project, sg-bus-api , consist of a geospatial REST API endpoint that efficiently finds the nearest bus stops in Singapore for any given coordinate. It leverages S2 Geometry for fast, hierarchical spatial indexing and RocksDB"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://rusz.space/index.xml",
+  "posts": [
+    {
+      "link": "https://rusz.space/posts/modelk/",
+      "title": "Making a Bluetooth IBM Model M",
+      "description": "Reviving a Piece of History, or How I Ended Up with a Keyboard about 14 Years Older than Me."
+    },
+    {
+      "link": "https://rusz.space/posts/os/",
+      "title": "The Desktop Metaphor is Dead",
+      "description": "The desktop metaphor, that is now 52 years old, was a good solution, but it is now limiting computers. The design of our current Operating Systems limits the kind of interaction we can provide the user."
+    },
+    {
+      "link": "https://rusz.space/posts/small-rust/",
+      "title": "Smallest Rust Hello World and other size coding shenanigans",
+      "description": "Size-coding in Rust, and making a 149 Byte Hello World! and a 540 Byte Brainfuck interpreter."
+    }
+  ]
+}

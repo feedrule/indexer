@@ -1,0 +1,20 @@
+{
+  "url": "https://easydiffusion.github.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://easydiffusion.github.io/blog/1725463249/",
+      "title": "Post from Sep 04, 2024",
+      "description": "tl;dr : Explored a possible optimization for Flux with diffusers when using enable_sequential_cpu_offload() . It did not work."
+    },
+    {
+      "link": "https://easydiffusion.github.io/blog/1729102225/",
+      "title": "Post from Oct 16, 2024",
+      "description": "tl;dr - Today, I worked on using stable-diffusion.cpp in a simple C++ program. As a linked library, as well as compiling sd.cpp from scratch (with and without CUDA). The intent was to get a tiny and fast-starting executable UI for Stable Diffusion working. Also, ChatGPT is very helpful!"
+    },
+    {
+      "link": "https://easydiffusion.github.io/blog/1732043895/",
+      "title": "Post from Nov 19, 2024",
+      "description": "Spent a few days getting a C++ based version of Easy Diffusion working, using stable-diffusion.cpp. I'm working with a fork of stable-diffusion.cpp here , to add a few changes like per-step callbacks, live image previews etc."
+    }
+  ]
+}

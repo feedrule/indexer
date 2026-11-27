@@ -1,0 +1,20 @@
+{
+  "url": "https://mikeyharper.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://mikeyharper.uk/blog/heat-pump-live/",
+      "title": "Putting my heat pump's data on the internet",
+      "description": "I spend my days looking at other people's heat pump data. Now mine is public too: MID meters, an OpenEnergyMonitor emonHP, and a live page on this blog."
+    },
+    {
+      "link": "https://mikeyharper.uk/blog/migrating-from-blogdown-to-astro/",
+      "title": "Migrating from Blogdown to Astro (with a little help from AI)",
+      "description": "After 6 years on Hugo and Blogdown, I finally rebuilt my blog from scratch with Astro, React, and Tailwind CSS. Here's why I made the switch, the options I considered, and how Claude helped me migrate 22 posts in an afternoon."
+    },
+    {
+      "link": "https://mikeyharper.uk/blog/lessons-from-smart-home/",
+      "title": "4 Lessons from the smart home",
+      "description": "2 years and 100 devices later. What are my top recommendations in setting up your own smart home?"
+    }
+  ]
+}

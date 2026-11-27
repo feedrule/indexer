@@ -1,0 +1,20 @@
+{
+  "url": "https://old.agniv.me/feed",
+  "posts": [
+    {
+      "link": "https://old.agniv.me/blog/online-algorithms/",
+      "title": "Online Algorithms: A Primer",
+      "description": "This was my final project for CS254. You can find the full PDF version here . Abstract The $k$-server problem asks how $k$ mobile servers in a metric space should be dispatched to serve an online sequence of requests so as to minimize total distance traveled. Introduced by Manasse, McGeoch, and Sleator [MMS88], it has driven the development of competitive analysis for over three decades. This expo"
+    },
+    {
+      "link": "https://old.agniv.me/blog/haskell-os/",
+      "title": "Writing an OS in Haskell",
+      "description": "The code is here . This was a solo class project. I wanted to see what happens when you take a language designed for functional programming and force it to talk to hardware registers. What Is This HaskellOS is a bare-metal operating system for the Raspberry Pi Zero. It boots on real hardware, gives you a shell with 18 commands, reads files off an SD card, blinks LEDs, talks over wireless radio, ru"
+    },
+    {
+      "link": "https://old.agniv.me/blog/the-worst-seven-months/",
+      "title": "the worst seven months of my life",
+      "description": "The short and sweet of this is that I tried to apply a cool method (the entropy method) to a problem (chvatals conjecture) that it could never work on. Specifically, Chvatal’s conjecture is a local statement (there exists a maximal star), but my early formulations of the entropy method gave global gaurentees over all maximal intersecting families. However, I realized much of my approach needed to"
+    }
+  ]
+}

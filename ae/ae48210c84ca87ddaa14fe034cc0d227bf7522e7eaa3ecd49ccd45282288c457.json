@@ -1,0 +1,20 @@
+{
+  "url": "https://brycewatson.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://brycewatson.com/research/rauch-software-factory/",
+      "title": "Guillermo Rauch's software factory and the agent internet",
+      "description": "My notes on Guillermo Rauch's BigDeal interview: build for agents as the buyer, turn feedback into a software factory, and keep the traces of your best work."
+    },
+    {
+      "link": "https://brycewatson.com/research/riemann-proof/",
+      "title": "The Claude Riemann hypothesis proof: what's checked so far",
+      "description": "My notes on Two Minute Papers' video about the Riemann hypothesis proof Levent Alpöge made with Claude: what Lean verified and why nobody can read it yet."
+    },
+    {
+      "link": "https://brycewatson.com/research/marketing-like-an-engineer/",
+      "title": "Corey Haines's skillify, toolify, loopify for marketing",
+      "description": "My notes on Corey Haines's MicroConf talk: write marketing down as an agent skill, connect it to your tools, then run it on a schedule against one metric."
+    }
+  ]
+}

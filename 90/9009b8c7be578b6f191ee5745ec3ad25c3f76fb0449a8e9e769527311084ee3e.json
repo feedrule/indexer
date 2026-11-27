@@ -1,0 +1,20 @@
+{
+  "url": "https://feed.thebiglog.com/",
+  "posts": [
+    {
+      "link": "https://thebiglog.com/posts/send-agent-harness-screenshots-via-ssh",
+      "title": "Pasting screenshots into Claude Code over SSH",
+      "description": "I should soon be done with kicking Claude out of my personal MacBook to a local box. One of the first things I missed is the ability to paste screenshots with ⌃ V : the remote terminal doesn’t know about my clipboard. I wanted my solution to look like this: The Mac can initiate a connection to the VM where Claude is running, but not vice-versa. I decide whether a screenshot is transferred. I conti"
+    },
+    {
+      "link": "https://thebiglog.com/notes/claude-opus-5-5-launch",
+      "title": "A note on Claude Opus 5.5",
+      "description": "So Claude Opus 5.5 is out today. It’s cheaper and supposedly better than Fable. I only care about one thing though: does it still cram five different concepts into one sentence, invent jargon, and blabber endlessly? Anthropic dedicate a section to this:"
+    },
+    {
+      "link": "https://github.com/schpet/linear-cli",
+      "title": "Replacing Linear MCP with linear-cli ↗",
+      "description": "Linear is one of my favorite software finds of the last few years. I’m not as big of a fan when it comes to their token-hungry MCP server though. I recently switched to this (unofficial) CLI and my rough estimate is that it saves me between 5k to 25k tokens a session. I asked Claude to sample the differences and it came back with medians based on 71 tickets. Note the unit here is characters: Opera"
+    }
+  ]
+}

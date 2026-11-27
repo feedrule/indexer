@@ -1,0 +1,20 @@
+{
+  "url": "https://hyperbo.la/w/feed",
+  "posts": [
+    {
+      "link": "https://hyperbo.la/w/aligned-to-whom/",
+      "title": "Aligned to whom?",
+      "description": "You are relying very heavily on the priors of the model to do a good job for you. What happens when you cannot judge whether those priors are good?"
+    },
+    {
+      "link": "https://hyperbo.la/w/agent-platform/",
+      "title": "Agent Platforms for Inventing Agents",
+      "description": "An agent is a parameterized program over a set of capabilities. We recognize the capabilities, but we do not know their best concrete implementations. An agent platform has to let builders discover what works without waiting for someone else’s config knobs and roadmap."
+    },
+    {
+      "link": "https://hyperbo.la/w/tell-the-model-how-to-work/",
+      "title": "Tell the Model How to Work, Not What to Do",
+      "description": "Skills get privileged instruction-following fidelity through post-training and can straightjacket reasoning agents. I tell the model how to work, not what to do."
+    }
+  ]
+}

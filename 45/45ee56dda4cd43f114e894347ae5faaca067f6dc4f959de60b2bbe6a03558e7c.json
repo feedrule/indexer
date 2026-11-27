@@ -1,0 +1,20 @@
+{
+  "url": "https://anarc.at/blog/index.rss",
+  "posts": [
+    {
+      "link": "https://anarc.at/blog/2026-10-08-dst-warning/",
+      "title": "PSA: Europe changes time forward soon, North America next, for the last time?",
+      "description": "This is a copy of an email I sent at work . I'm not sure I should be making noise about this here, feedback welcome. This is your bi-yearly reminder that time is changing soon! October 25th in Europe, November 1st in North America. Less people in Canada are changing this year, with BC, Alberta, Manitoba and Northwest Territories getting rid of DST. What's happening? Some places in the world implem"
+    },
+    {
+      "link": "https://anarc.at/blog/2026-08-25-llm-nuance/",
+      "title": "A more nuanced view of LLMs",
+      "description": "Also in this series: The Four Horsemen of the LLM Apocalypse The people vs the AI overlords After ranting and railing about LLMs or \"AI\" as the optimists (or accelerationists ?) call it, I figured it might be important to be a little more honest about my use of LLMs and how I think about it more practically in the world. The Debian vote context This is not a coming out. I am not using LLMs on a da"
+    },
+    {
+      "link": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/",
+      "title": "The people vs the AI overlords",
+      "description": "Also in this series: The Four Horsemen of the LLM Apocalypse A more nuanced view of LLMs In a post to oss-security , my (Debian) co-developer Russ Allbery stated that \"open source software [OSS] is coming face to face with a motivation crisis that has been building for a long time\". His point is essentially that large language models (LLMs 1 ) are making the existing OSS community crisis worse. Fo"
+    }
+  ]
+}

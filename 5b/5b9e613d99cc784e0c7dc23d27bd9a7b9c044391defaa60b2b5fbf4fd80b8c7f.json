@@ -1,0 +1,20 @@
+{
+  "url": "https://cubefreecoder.com/categories/code/index.xml",
+  "posts": [
+    {
+      "link": "https://cubefreecoder.com/posts/butterkit/",
+      "title": "Creating Marketing Resources with ButterKit",
+      "description": "ButterKit is a fantastic resource. Creating screenshots, uploading App Store connect metadata, localization, it does it all. Buy it once forever, or just subscribe for when you need it. Made by a passionate developer who is actively listening to feedback and improving the product. It’s one of those tools you dream of as a developer. Recently I’ve been extending those capabilities into creating mar"
+    },
+    {
+      "link": "https://cubefreecoder.com/posts/vim-multiple-edits/",
+      "title": "Editing multiple occurrances in Xcode (with Vim)",
+      "description": "Here is a real gem of a tip burried deep within the Swift 6 migration video to edit multiple occurances of a word/keyword in one fell swoop. Select the text If you are sitting at the first character in the word, use ve to select to the end of the word. If you are in the middle of the word, viw will select the entire thing. Press Cmd+Opt+e to select the next occurance."
+    },
+    {
+      "link": "https://cubefreecoder.com/posts/swiftdata-predicate-matching-date/",
+      "title": "Querying SwiftData with a date-based Predicate",
+      "description": "I was working on a project where I needed to query items from swift data that occurred on a specific date. When dealing with dates, my first instinct is usually to reach for the Calendar object to do all the heavy lifting for me. This lead me to have something like: private func fixturesHappeningToday () -> [ LocalFixture ] { let predicate = # Predicate < LocalFixture > { item in Calendar . curren"
+    }
+  ]
+}

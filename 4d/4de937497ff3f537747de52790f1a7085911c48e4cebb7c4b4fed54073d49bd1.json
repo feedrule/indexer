@@ -1,0 +1,20 @@
+{
+  "url": "https://monadicsheep.org/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+      "title": "An Introduction to Canvas in GNU Emacs",
+      "description": "by Divya 2026 August 23 emacs canvas Bad apple playing on the top right, a 2d rainbow growing box on the left. The bottom contains: dots 3d demo, pendulum, a bouncing ball. Table of Contents 1. Frequently Asked Questions 2. What Is a Canvas? 3. Creating and Using A Canvas 3.1. Canvas via Emacs Lisp Only 3.2. Canvas via Dynamic Modules 4. Demonstrations 4.1. A Bouncing Ball 4.2. Chaotic Double Pend"
+    },
+    {
+      "link": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
+      "title": "Canvas patch: we need testers!",
+      "description": "by Tushar 2026 June 29 emacs canvas The Canvas patch is almost done. Except that we need more testing, specifically for its MS Windows port. (Though testers on other operating systems like GNU/Linux and MacOS are also welcome.) Since we don't have any computers running MS Windows, we are not sure if the code is actually correct. Please follow the following instructions for testing it on MS Windows"
+    },
+    {
+      "link": "https://monadicsheep.org/blog/hello.html",
+      "title": "Hello there!",
+      "description": "by Tushar and Divya 2026 June 22 meta emacs-reader pale canvas Hello there! This is MonadicSheep’s first blog post. Even though this is our first public post, we have been working on several projects over the last few months. This will be a brief overview of the projects and their developments. 1. Emacs Reader: An all-in-one document reader for GNU Emacs. This project began in the summer of 2025,"
+    }
+  ]
+}

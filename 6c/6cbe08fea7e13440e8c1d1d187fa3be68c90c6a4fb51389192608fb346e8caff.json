@@ -1,0 +1,20 @@
+{
+  "url": "https://spinscale.de/index.xml",
+  "posts": [
+    {
+      "link": "https://spinscale.de/posts/2026-06-05-implementing-search-feedback-loops-part-1.html",
+      "title": "Implementing search feedback loops - part 1",
+      "description": "TLDR; This is a multi post series about implementing feedback loops in search applications that I had sitting in my drafts for quite some time. Instead of going high tech with the latest models, we try to make it as simple as possible and integrate this in our search queries. Think of an e-commerce context with the examples provided in this and the following posts. This is where I am coming from."
+    },
+    {
+      "link": "https://spinscale.de/presentations/2026/understanding-lucene.html",
+      "title": "Understanding Lucene",
+      "description": "Introduction into Apache Lucene, with a strong focus on performance and practical use-cases helping you to keep in mind what is important."
+    },
+    {
+      "link": "https://spinscale.de/posts/2025-10-07-solar-power-monitoring-with-elasticsearch-and-esql.html",
+      "title": "Solar power monitoring with Elasticsearch and ES|QL",
+      "description": "TLDR; This post explains how I used ES|QL with my three years of data of my photovoltaic installation and how easy it was to write the queries and create a dashboard. Two years ago I used Jupyter and DuckDB for the same task, but time to try something different. If you want to know more about the setup and polling the data, read that previous blog post. Importing CSV data into Elasticsearch I have"
+    }
+  ]
+}

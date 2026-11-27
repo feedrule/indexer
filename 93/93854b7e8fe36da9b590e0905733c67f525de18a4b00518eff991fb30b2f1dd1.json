@@ -1,0 +1,20 @@
+{
+  "url": "https://labs.davlgd.com/index.xml",
+  "posts": [
+    {
+      "link": "https://labs.davlgd.com/posts/2026-11-14-arc-pro-b60-sriov/",
+      "title": "Arc Pro B60: slicing a GPU with SR-IOV on a consumer board",
+      "description": "I was recently looking for a graphics card with a lot of memory at a “reasonable” price, two things that rarely come together these days. My goal was to see what the alternatives to NVIDIA have to offer in late 2026: software, supported models, performance. I found one at Intel: the Arc Pro B60 , a chip of the Battlemage generation with 24 GB of GDDR6, a peak of 197 INT8 TOPS and a 200 W power lim"
+    },
+    {
+      "link": "https://labs.davlgd.com/posts/2026-11-11-git-3-breaking-changes/",
+      "title": "What's coming in Git 3.0",
+      "description": "Git 2.56.1 came out yesterday with fixes for six CVEs, and you should update. But the real news is elsewhere, at the top of the draft notes for the next release . That release will not be 2.57 but 2.98, and it is described as the antepenultimate one before Git 3.0. So: 2.98, 2.99, 3.0. The plan from the contributor summit is 2.98 in December, then 2.99 and 3.0 together in spring 2027. The last tim"
+    },
+    {
+      "link": "https://labs.davlgd.com/posts/2026-11-04-install-command/",
+      "title": "install: the cp that sets mode and owner in one go",
+      "description": "Open any deployment script and you will find the same four lines: mkdir -p , cp , chmod , chown . Four commands, four chances to stop halfway and leave wrong permissions. Yet there is a command doing all of it at once. The BSD man page dates it to 4.2BSD, in 1983, it is what make install has been calling ever since, and its name is so plain that nobody thinks of typing it by hand: install ."
+    }
+  ]
+}

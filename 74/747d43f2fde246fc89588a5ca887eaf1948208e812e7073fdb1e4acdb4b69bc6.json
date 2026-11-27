@@ -1,0 +1,20 @@
+{
+  "url": "https://pranitha.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://pranitha.dev/posts/rwlock-vs-lockfree/",
+      "title": "The Performance Cost of RwLock in Our Read-Heavy Workload",
+      "description": "How per-item RwLock reads became expensive in our read-heavy workload, how using lock-free has improved performance, and where a simple RwLock remained a good fit."
+    },
+    {
+      "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
+      "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+      "description": "How spawning 1M Tokio tasks preserved throughput while letting polling order drift from event submission order, and why task creation needs an application-level bound."
+    },
+    {
+      "link": "https://pranitha.dev/posts/rust-and-memory-allocators/",
+      "title": "Your Rust Service Isn't Leaking, It Could Be the Allocator",
+      "description": "How we diagnosed unexplained memory staying pinned near the top of our container limit in a Rust event stream processor — not a leak or fragmentation, and why the allocator matters."
+    }
+  ]
+}

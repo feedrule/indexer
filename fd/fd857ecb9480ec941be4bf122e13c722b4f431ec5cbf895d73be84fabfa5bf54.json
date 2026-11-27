@@ -1,0 +1,20 @@
+{
+  "url": "https://paulefou.com/index.xml",
+  "posts": [
+    {
+      "link": "https://paulefou.com/blog/traits-design-trade-offs/",
+      "title": "Rust Traits Design Trade-offs",
+      "description": "I’ve spent roughly 4 hours in one sitting trying to figure out this quiz , making all those notes, and I figured that it might make sense to publish them, since I already have them. Question 1 Requirement: The API client is expected to provide a single WidgetImpl enum representing all possible widgets, and implement the Widget trait for WidgetImpl. Question 2 Requirement: The API client is expecte"
+    },
+    {
+      "link": "https://paulefou.com/blog/pass-standard-unix-password-manager/",
+      "title": "Pass: The Standard Unix Password Manager - (Convenient Open Source)",
+      "description": "This is mostly a note to myself for the future, but I hope this might be helpful for someone who wants to have an extremely convenient, configurable, yet free and open source password manager. Let’s first have a look at what we want our password manager to be able to do: Automatically fill in the passwords in Firefox and Chromium Automatically fill in the OTP in Firefox and Chromium Copy to clipbo"
+    },
+    {
+      "link": "https://paulefou.com/about/",
+      "title": "About",
+      "description": "Hi, I’m Pavel 👋 I’m a software engineer from Ukraine living in Thailand. I love building efficient systems, staying productive, and every now and then hitting heavy lifts at CrossFit. What I Do I write about my experiences with technology, productivity systems, and the occasional frustration with modern tech platforms. My goal is to share what I’ve learned so later when I run into the same issues"
+    }
+  ]
+}

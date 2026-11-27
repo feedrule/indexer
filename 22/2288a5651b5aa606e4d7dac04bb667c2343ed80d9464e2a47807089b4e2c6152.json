@@ -1,0 +1,15 @@
+{
+  "url": "https://kye.id.au/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.kye.id.au/blog/posts/custom-django-debug-toolbar-panel",
+      "title": "Building your own Django Debug Toolbar panel",
+      "description": "Make debugging your Django projects easier by building your own Django Debug Toolbar Panel."
+    },
+    {
+      "link": "https://www.kye.id.au/blog/posts/django-rest-framework-model-validation",
+      "title": "Model validation in Django REST Framework",
+      "description": "A look at how Django REST Framework interacts with Django's model validation"
+    }
+  ]
+}

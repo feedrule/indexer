@@ -1,0 +1,20 @@
+{
+  "url": "https://vpon.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://vpon.me/articles/a-ux-review-of-an-armenian-medical-aggregator",
+      "title": "A UI/UX Review of an Armenian Medical Aggregator",
+      "description": "A practical UX review of an Armenian medical aggregator, focused on search, information architecture, hidden inputs, and layout shifts."
+    },
+    {
+      "link": "https://vpon.me/articles/here-are-3-quick-ux-gems-for-you",
+      "title": "Here are 3 quick UX gems for you",
+      "description": "Three practical UI/UX wins: smart email typo handling, choosing switches vs segmented controls, and preventing flex-shrink layout bugs."
+    },
+    {
+      "link": "https://vpon.me/articles/the-false-bottom-effect",
+      "title": "The false bottom effect",
+      "description": "A subtle dropdown usability issue: when visible items perfectly fill container height, users may miss that the list is scrollable."
+    }
+  ]
+}

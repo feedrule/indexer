@@ -1,0 +1,20 @@
+{
+  "url": "https://tsmr.eu/rss.xml",
+  "posts": [
+    {
+      "link": "https://tsmr.eu/blog/2026-master-thesis/",
+      "title": "Know Your Contacts: Usable Authentication for Secure Messaging",
+      "description": "My master's thesis redesigns contact verification in end-to-end encrypted messengers like Signal. Users preferred it, but only automation got more contacts verified."
+    },
+    {
+      "link": "https://tsmr.eu/blog/2026-snapchat-import/",
+      "title": "Importing Snapchat Memories into an End-to-End Encrypted App",
+      "description": "Users switching from Snapchat to twonly want to take their Memories with them. I designed a protocol that lets a browser encrypt and upload thousands of memories into a user's end-to-end encrypted twonly Memories, without the browser ever receiving a key that could read, modify or delete anything else."
+    },
+    {
+      "link": "https://tsmr.eu/blog/2026-passwordless-recovery/",
+      "title": "Break my Passwordless Recovery Protocol and get a 50€ Bug-Bounty",
+      "description": "I designed a passwordless recovery protocol using trusted friends and a server-side second factor for my privacy-focused messaging app twonly. To ensure its security before release, I am launching a 50€ bug bounty challenge for anyone who can find a vulnerability in the protocol."
+    }
+  ]
+}

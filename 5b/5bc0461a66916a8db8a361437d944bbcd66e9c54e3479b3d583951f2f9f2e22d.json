@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.benediktsvogler.com/posts.atom",
+  "posts": [
+    {
+      "link": "https://blog.benediktsvogler.com/blog/review-getting-into-3d-printing-with-ai",
+      "title": "Review: Getting into 3D printing with AI",
+      "description": "I recently got a 3d printer. It is fascinating that you can just imagine things and turn them into real physical objects. I always imagined this and some recent cleanup in my big city, small flat, brought up the idea again for getting a new tool. The air they produce is rather toxic so I looked into model with some air filtration system. I got a 5M Pro model used for around 250€. In addition to th"
+    },
+    {
+      "link": "https://blog.benediktsvogler.com/blog/offloading-gpu-workloads-from-kubernetes-to-runpod-via-virtual-kubelet",
+      "title": "Offloading GPU Workloads from Kubernetes to RunPod via Virtual Kubelet",
+      "description": "TL;DR: I built a virtual kubelet that lets Kubernetes offload GPU jobs to RunPod.io ; Useful for burst scaling ML workloads without needing full-time cloud GPUs. This project came out of a need while working on an internal ML-based SaaS (which didn’t pan out). Initially, we used the RunPod API directly in the application, as RunPod had the most affordable GPU pricing at the time. But I also had a"
+    },
+    {
+      "link": "https://blog.benediktsvogler.com/blog/mcp-brilliant-idea-bad-execution",
+      "title": "MCP: Brilliant Idea, Bad Execution",
+      "description": "Everyone is currently racing to add AI to their applications. The Model Context Protocol (MCP) solves the problem of writing an integration for each service by using a protocol that can be plugged into any system. It is gaining serious traction but it still is wild west. The problem? The organization behind MCP (Anthropic) doesn't even implement their own specification properly. Also the specifica"
+    }
+  ]
+}

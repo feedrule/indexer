@@ -1,0 +1,20 @@
+{
+  "url": "https://jhurliman.org/rss",
+  "posts": [
+    {
+      "link": "https://jhurliman.org/post/829323425772388352",
+      "title": "Chord Cut is now free to try",
+      "description": "Chord Cut 1.2 is out today, and the game is now free on the App Store. The first three levels are free, and a one-time $2.99 purchase unlocks the other seven. If you already bought it, you keep everything, no action needed. A few things changed since launch based on player feedback. Hitting a rock no longer resets your score to zero, your score is now banked at the start of each level. Pineapples"
+    },
+    {
+      "link": "https://jhurliman.org/post/826902844416360448",
+      "title": "Chord Cut: an open-source game where every cut plays a piano chord",
+      "description": "ALT Chord Cut: an open-source game where every cut plays a piano chord Today I released Chord Cut , a casual generative soundtrack game where every cut composes the soundtrack, and it’s open source under the GPLv3. It’s a fruit-slicing game, but slow: each swipe plays a chord from the current level’s palette, and the tempo of the music follows how fast you slice. There’s no backing track, everythi"
+    },
+    {
+      "link": "https://jhurliman.org/post/804323197731373056",
+      "title": "Experiments with ableton-mcp (Dec 2025)",
+      "description": "I started tinkering with Ableton and MCPs over the holiday break and ended up creating 70+ automation tool calls and a mashup track. soundcloud.com/jhurliman/octo-glo Finding ableton-mcp While looking into automation options for Ableton, I stumbled on ahujasid/ableton-mcp . It’s an MCP server that bridges tool-calling LLMs to Ableton Live via a community-documented Python API. I downloaded Claude"
+    }
+  ]
+}

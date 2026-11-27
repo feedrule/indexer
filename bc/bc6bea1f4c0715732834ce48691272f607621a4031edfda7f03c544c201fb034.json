@@ -1,0 +1,20 @@
+{
+  "url": "https://janlavicka.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://janlavicka.com/blog/beat-npm-supply-chain-attacks-by-doing-nothing",
+      "title": "Beat NPM Supply Chain Attacks by Doing Nothing",
+      "description": "Delay installing fresh packages to dodge supply chain attacks."
+    },
+    {
+      "link": "https://janlavicka.com/blog/i-let-a-bot-update-my-dependencies-every-night",
+      "title": "I Let a Bot Update My Dependencies Every Night",
+      "description": "Swap Dependabot for Renovate with a scheduled workflow and a personal token."
+    },
+    {
+      "link": "https://janlavicka.com/blog/self-host-your-own-heroku-with-dokku",
+      "title": "Self-Host Your Own Heroku With Dokku",
+      "description": "UX of Heroku application deployment for a better price."
+    }
+  ]
+}

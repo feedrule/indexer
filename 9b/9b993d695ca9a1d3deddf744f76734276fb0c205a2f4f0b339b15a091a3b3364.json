@@ -1,0 +1,20 @@
+{
+  "url": "https://ryanharter.com/index.xml",
+  "posts": [
+    {
+      "link": "https://ryanharter.com/blog/2026/11/recognizing-policy/",
+      "title": "Recognizing Policy",
+      "description": "When writing apps, we often talk about “business logic” and treat it like special code. We work hard to isolate our business logic from other parts of the code, like the view layer or framework-specific code, and we say that if you have limited test resources, testing your business logic is the first priority. Business logic is the core behavior of your app, but there’s a certain class of business"
+    },
+    {
+      "link": "https://ryanharter.com/blog/2026/07/a-great-gradle-module-structure/",
+      "title": "A Great Gradle Module Structure",
+      "description": "Flattening my Dependency Graph Jesse Wilson Jesse explores a Gradle module structure that he likes. Read now ➡ I liked this not-so-recent post from Jesse Wilson, which outlines a Gradle module convention that prioritizes clear public/private boundaries to support encapsulation and build speed. The approach, adapted from one presented by Ralf Wondratschek , also happens to closely resemble one that"
+    },
+    {
+      "link": "https://ryanharter.com/blog/2026/06/graceful-exit/",
+      "title": "Graceful Exit",
+      "description": "Public Mirror Mark (from unsigned.io ) Mark explains why he is stepping back from public-facing interaction with his Reticulum projects, and invites anyone who wants to use or continue the project. Read now ➡ It’s always sad, but not uncommon, to see some open source maintainer burn out. We build these projects for any number of personal reasons, we share them with the world. If we’re lucky someon"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://polarhive.net/index.xml",
+  "posts": [
+    {
+      "link": "https://polarhive.net/blog/linkstash/",
+      "title": "Rolling your own links+ash",
+      "description": "This post talks about my linkstash workflow and the small tools I built around it So, I help run a student tech community called HSP . We talk about cool stuff and share interesting links and articles we find during the week. I thought of an idea or rather an experiment that helps us maintain a neat list of all the links that were shared this week. HSP is all about knowledge sharing and building t"
+    },
+    {
+      "link": "https://polarhive.net/blog/nix-on-mac/",
+      "title": "Nix on Mac",
+      "description": "I recently purchased a MacBook Air M2. Yes I know M2 in 2025. There’s a reason—Asahi. It was cheap 65k INR ~(750 USD) I know, I jumped the gun, I have not given into proprietary software. I still back my rant on Apple 4 years ago. I will not be using any native MacOS exclusive feature like Safari, Airdrop, Apple Music et al. Unfortunately this has become my main machine right now, cider: (my old l"
+    },
+    {
+      "link": "https://polarhive.net/blog/obsidian/",
+      "title": "Barebones Obsidian",
+      "description": "This post talks about my Obsidian workflow Obsidian is a proprietary markdown editor built on electron. It’s just another text editor — your notes are just .md files in a directory. Borrowing a lot from the unix philosophy , it does one thing and does it well. I use it to edit and work with [[wikilinks]] on my /wiki , journal notes, archive the web, organize my files across devices and it pairs ni"
+    }
+  ]
+}

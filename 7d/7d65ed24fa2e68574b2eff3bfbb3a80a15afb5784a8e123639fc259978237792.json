@@ -1,0 +1,20 @@
+{
+  "url": "https://larakelley.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://larakelley.com/posts/ig-plus",
+      "title": "IG Plus - 📸 A better web experience for Instagram",
+      "description": "A Chrome and Firefox extension for posting Instagram stories from your computer, and for scrolling a lot less."
+    },
+    {
+      "link": "https://larakelley.com/posts/git-stk",
+      "title": "git-stk - 🥞 A Git-native stacked branch workflow helper",
+      "description": "Making code changes easier to review, with first-class GitHub, GitLab, Gitea, and Forgejo integration."
+    },
+    {
+      "link": "https://larakelley.com/posts/navi",
+      "title": "navi - 🧚 ♀️ A friendly helper to guide you through the day-to-day noise of code review",
+      "description": "A locally-run code review notification system for GitHub, GitLab, Gitea, and Forgejo, delivering to Slack, Discord, or email."
+    }
+  ]
+}

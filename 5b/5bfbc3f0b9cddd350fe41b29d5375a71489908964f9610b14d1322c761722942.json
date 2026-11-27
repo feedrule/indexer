@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sumsar.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://sumsar.net/blog/drinkr-in-the-browser/",
+      "title": "Estimate your BAC, now 100% in the browser",
+      "description": "Thanks to the awesomeness of webR and Shinylive , the tool I made in back in 2014 to estimate your blood alcohol concentration (BAC) now runs 100% in the browser, no server needed! Try the browser version of drinkR here!"
+    },
+    {
+      "link": "https://sumsar.net/blog/one-shot-guess-the-emoji/",
+      "title": "One-shot prompting a game: Guess the emoji!",
+      "description": "It’s a special kind of happiness when one can one-shot an app/script. That is, write a single prompt that a capable LLM can use to deliver the whole thing in a single attempt. For me, the feelings follow this trajectory: smugness that my single prompt actually worked, then a light dusting of shame, because in ye olden days this code would have been artisanally handcrafted by me, and finally happin"
+    },
+    {
+      "link": "https://sumsar.net/blog/botty-a-friendly-chatgpt-ui/",
+      "title": "Bötty - A friendly ChatGPT UI hack",
+      "description": "I hacked together a simple and friendly retro-styled chatbot UI over the weekend. I wanted to give my kids some experience with LLM chatbots and also some practice typing on a keyboard. But I felt they needed something more engaging than the ChatGPT app. So, after an intense evening hacka promptathon, I ended up with Bötty: Bötty is a fun, friendly, and simple ChatGPT UI with the following feature"
+    }
+  ]
+}

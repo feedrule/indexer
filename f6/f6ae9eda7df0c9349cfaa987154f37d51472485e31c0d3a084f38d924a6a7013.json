@@ -1,0 +1,20 @@
+{
+  "url": "https://minha.sh/index.xml",
+  "posts": [
+    {
+      "link": "https://minha.sh/posts/why-is-the-price-of-a-model-token-fixed",
+      "title": "why is the price of a model token fixed?",
+      "description": "TL;DR: The cost of serving model tokens changes constantly, but the price you pay does not. I think you should have another option."
+    },
+    {
+      "link": "https://minha.sh/posts/documentation-as-packages",
+      "title": "docs as packages",
+      "description": "i’ve been using Claude Code heavily for the last few months — for chonkie, for side projects, for basically everything."
+    },
+    {
+      "link": "https://minha.sh/posts/the-bar-for-dev-tools",
+      "title": "dev tools have a new minimum",
+      "description": "I’ve been building Mandex, a CLI tool, and somewhere along the way I realized: shipping a dev tool in 2026 is a completely different game than it was even two years ago."
+    }
+  ]
+}

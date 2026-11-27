@@ -1,0 +1,20 @@
+{
+  "url": "https://nlebovits.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://nlebovits.github.io/posts/writing/announcing-tylertoo/",
+      "title": "Announcing tylertoo (GeoParquet --> PMTiles goes brrr)",
+      "description": "Just before the CNG Forum , I cut a v0.8 release of tylertoo : a GeoParquet to PMTiles generator in Rust. It’s fast (7-10x faster than tippecanoe ), supports cool stuff like remote reads, streaming, bounded memory, and sharded jobs on multiple machines, has pretty much all the other functionality of tippecanoe , and, oh yeah, it’s really fast . Check it out! Wait, why not just use tippecanoe ? Bec"
+    },
+    {
+      "link": "https://nlebovits.github.io/posts/talks/cng-london/",
+      "title": "Open Global Data for Argentina's Informal Settlements",
+      "description": null
+    },
+    {
+      "link": "https://nlebovits.github.io/posts/talks/mapscaping-cloud-native/",
+      "title": "Cloud Native for the Rest of Us",
+      "description": null
+    }
+  ]
+}

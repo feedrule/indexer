@@ -1,0 +1,20 @@
+{
+  "url": "https://sdowney.org/feed.atom",
+  "posts": [
+    {
+      "link": "https://sdowney.org/posts/initialization-profile-probes/",
+      "title": "Initialization Profile Probes",
+      "description": "These are the probes that go with the review of P4222R3's examples : small programs that ask what the two implementations of the initialization profile do with shapes the paper does not show. The compilers and flags are the ones described there, -std=c++23 -pedantic-errors , with the profile turned on by the attribute at the top of the file. Read more… (6 min remaining to read)"
+    },
+    {
+      "link": "https://sdowney.org/posts/the-initialization-profile/",
+      "title": "The Initialization Profile",
+      "description": "1. About this document Every code block in P4222R3 (Stroustrup, 2026-10-22, \"An initialization profile\") is reproduced below, compiled under the profile on the two implementations the paper cites as \"tested nightly\" [Impl1, Impl2], with what the paper says should happen beside what does. Where a block needed scaffolding to be a translation unit (a definition of X , a declaration of my_malloc , a f"
+    },
+    {
+      "link": "https://sdowney.org/posts/existing-practice/",
+      "title": "✌Existing Practice✌",
+      "description": "\"Standardize existing practice\" was barely true of the first C++ standard, and it is the wrong rule now. It was already being stretched in 1998. The ARM was existing practice. Templates as specified in the ARM were not what got standardized; the STL had two years of use at HP and a handful of early adopters before it was voted in; namespaces, exceptions as shipped, and iostreams with locales were"
+    }
+  ]
+}

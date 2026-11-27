@@ -1,0 +1,20 @@
+{
+  "url": "https://joshuao.com/index.xml",
+  "posts": [
+    {
+      "link": "https://joshuao.com/posts/page-faults-in-macos.html",
+      "title": "Counting Page Faults in MacOS",
+      "description": "This post is about counting page faults in MacOS, using the task interface."
+    },
+    {
+      "link": "https://joshuao.com/posts/msi-hashbtable.html",
+      "title": "MSI Hashtable In Zig",
+      "description": "This post is about converting a C hash lookup to Zig. It covers moving from implicit (and sometimes implementation defined) C to explicit Zig."
+    },
+    {
+      "link": "https://joshuao.com/posts/zig-assert-strategies.html",
+      "title": "Zig Assert Strategies",
+      "description": "This post is about how to express various kinds of assert in Zig. - std.debug.assert is a normal function, and it may evaluate its parameter even in ReleaseFast mode. - All safety-checked illegal behaviour can be dealt with using a custom panic handler. - Use if (@import(\"builtin\").mode == .Debug) when you’re feeling paranoid about slow asserts."
+    }
+  ]
+}

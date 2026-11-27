@@ -1,0 +1,20 @@
+{
+  "url": "https://vznjs.github.io/vx/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://vznjs.github.io/vx/blog/one-engine-for-dte/",
+      "title": "We swapped 20 guessed constants in DTE for one engine",
+      "description": "vx DTE's planner was a pile of greedy rules that fought each other. One engine with one objective replaced them. Full runs of vx's own CI went from about 40 s past their ideal to 9 to 19 s."
+    },
+    {
+      "link": "https://vznjs.github.io/vx/blog/a-cache-hit-undoes-your-commit/",
+      "title": "Turborepo, Nx and Vite Task undo your commit on a cache hit",
+      "description": "Commit a file that sits in a task’s output folder. On the next cache hit, Turborepo, Nx and Vite Task write the old copy back over it, and the run reports success."
+    },
+    {
+      "link": "https://vznjs.github.io/vx/blog/a-task-reads-what-it-depends-on/",
+      "title": "A sandboxed task reads what it depends on, and nothing beside it",
+      "description": "A sandboxed task can read the outputs of the tasks it depends on, in any project, and never their sources. With hermetic: true it reads nothing of the machine you did not name."
+    }
+  ]
+}

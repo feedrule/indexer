@@ -1,0 +1,20 @@
+{
+  "url": "https://dhester.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://news.kagi.com",
+      "title": "Kagi News",
+      "description": "Kagi News offers a different approach to keeping up with current events. It brings together stories from thousands of community-curated news sources around the world and uses AI to create a concise daily briefing. With an emphasis on diverse perspectives, privacy, and less time spent scrolling, it's a refreshing alternative to the constant stream of headlines we're used to. This might offer a nice"
+    },
+    {
+      "link": "https://socialspec.org",
+      "title": "SocialSpec",
+      "description": "SocialSpec is developing open standards that let independent websites connect and interact as part of a decentralized social network. Using simple HTTP requests and existing feeds, websites can offer social profiles, following, and contact information without HTML scraping or centralized platforms. Micro.blog now supports the Follow API, with optional plugin support for the About and Contact APIs."
+    },
+    {
+      "link": "https://dhester.me/a-footer-that-leaves-room-to-explore",
+      "title": "A Footer That Leaves Room to Explore",
+      "description": "One of the things I've been thinking about while redesigning my website is how to make it easier for visitors to find things without overwhelming them with choices. It's tempting to put everything within easy reach. More navigation links, more categories, more shortcuts. After all, if something is available on the site, shouldn't visitors be able to find it immediately? Not necessarily. There's so"
+    }
+  ]
+}

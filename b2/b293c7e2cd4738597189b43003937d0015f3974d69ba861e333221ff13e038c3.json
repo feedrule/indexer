@@ -1,0 +1,20 @@
+{
+  "url": "https://dancroak.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://dancroak.com/changelog#2026-11-20",
+      "title": "My app ran fastest on AWS NVMe Postgres",
+      "description": "My work app's web pages run many small queries. In the comparison in postgres / hosting , I tested my staging app hosted on Render AWS Virginia with different Postgres providers. Each query paid for the longer round trip to Ubicloud Leaseweb in Manassas, Virginia. Those pages took 37% longer than on Crunchy Bridge AWS Virginia. I am still considering Crunchy Bridge and Ubicloud AWS. Faster local d"
+    },
+    {
+      "link": "https://dancroak.com/changelog#2026-11-13",
+      "title": "Database prices leave out app operations",
+      "description": "A cheaper database doesn't settle where I host my work app. In postgres / hosting , I compare keeping the app services on Render with moving them to Ubicloud. Render already runs the services. On Ubicloud, I would need more tooling for deploys and recovery. Database savings alone don't pay for that work. Production stays where it is while I plan a staging comparison in Virginia. Each database woul"
+    },
+    {
+      "link": "https://dancroak.com/changelog#2026-11-06",
+      "title": "I assess security findings against a threat model",
+      "description": "A scanner reports paths from untrusted input to code and data I own. In ai / security , I assess each finding against the adversaries in my threat model. Code in a check can be hostile even when I wrote the change. An agent's token grants limited access, not permission to act as an operator. Each finding has an ID that connects it to a fix plan. I keep the reason for a fix in git before I close th"
+    }
+  ]
+}

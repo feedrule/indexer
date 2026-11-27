@@ -1,0 +1,20 @@
+{
+  "url": "https://ladyofcode.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ladyofcode.com/blog/escaping-new-year-resolutions-and-other-stories/",
+      "title": "Escaping New Year Resolutions and other stories",
+      "description": "Although I ditched the idea of New Year Resolutions in my early 20s and joked that my New Year’s Resolution was not to have New Year’s Resolutions, it was only recently a smidge of smugness set in. I still goal-set up the wazoo. In fact, I do celebratory recaps and yearly goal-setting with friends; I even designed a lil low-effort program for it. If I wasn’t intentional my life would be chaos with"
+    },
+    {
+      "link": "https://ladyofcode.com/blog/autonomy-and-agency-in-ai-we-should-secure-llms-with-the-same-fervor-spent-realizing-agi/",
+      "title": "Autonomy and agency in AI: We should secure LLMs with the same fervor spent realizing AGI",
+      "description": "Autonomy is the concept of self-governance—the freedom to decide without external control. Agency is the extent to which an entity can exert control and act. We have both as humans, and unfortunately LLMs would need both to have true artificial general intelligence (AGI). This means that the current wave of Agentic AI is likely to fizzle out instead of moving us towards the sci-fi future of our dr"
+    },
+    {
+      "link": "https://ladyofcode.com/blog/top-open-source-ai-red-teaming-and-fuzzing-tools-in-2025/",
+      "title": "Top open source AI red teaming and fuzzing tools in 2025",
+      "description": "The rush to integrate large language models (LLMs) into production applications has opened up a whole new world of security challenges. AI systems face unique vulnerabilities like prompt injections, data leakage, and model misconfigurations that traditional security tools just weren’t built to handle. Input manipulation techniques like prompt injections and base64-encoded attacks can dramatically"
+    }
+  ]
+}

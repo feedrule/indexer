@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ankursheel.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.ankursheel.com/blog/wordxplorer-update-17",
+      "title": "WordXplorer Update 17",
+      "description": "WordXplorer now has background music and a settings screen with master, music and SFX volume sliders. Plus a heads-up about an upcoming price increase."
+    },
+    {
+      "link": "https://www.ankursheel.com/blog/wordxplorer-update-16",
+      "title": "WordXplorer Update 16",
+      "description": "A brand-new main menu built with Unity's UI Toolkit"
+    },
+    {
+      "link": "https://www.ankursheel.com/blog/clean-way-mock-upstream-apis-inside-bff-service",
+      "title": "A Clean Way to Mock Upstream APIs Inside Your BFF Service",
+      "description": "When developing against a Backend-For-Frontend (BFF), stale or filtered upstream data can halt frontend progress. This post explores three approaches to mocking data that allows developers to swap real API clients for deterministic local JSON fixtures"
+    }
+  ]
+}

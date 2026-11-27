@@ -1,0 +1,20 @@
+{
+  "url": "https://anniecherkaev.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://anniecherkaev.com/images-to-fs",
+      "title": "how does my container get a root fs?",
+      "description": "this is part 2 of a two-part series on how container images and filesystems work: what is a container image? how does my container get a root filesystem? intro in part 1, we built a two-layer OCI image by hand, imported it into containerd, and ran it. we saw that a container image is an ordered list of filesystem layers plus metadata, and that the container runtime merges them into a single view u"
+    },
+    {
+      "link": "https://anniecherkaev.com/what-is-a-container-image",
+      "title": "what is a container image?",
+      "description": "this is part 1 of a two-part series on how container images and filesystems work: what is a container image? (this post) how does my container get a root filesystem? intro my first mental model of a container was: a container is like when your friend wants to send you some files to run, and you put them in a tiny computer so the files work everywhere. that’s… kind of right, and kind of not. so… if"
+    },
+    {
+      "link": "https://anniecherkaev.com/choosing-learning-over-autopilot",
+      "title": "choosing learning over autopilot",
+      "description": "I use ai coding tools a lot. I love them. I’m all-in on ai tools. They unlock doors that let me do things that I cannot do with my human hands alone. But they also scare me. As I see it, they offer me two paths: ✨ The glittering vision ✨ The glittering vision is they let me build systems in the way that the version of me who is a better engineer would build them. Experimentation, iteration and com"
+    }
+  ]
+}

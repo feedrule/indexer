@@ -1,0 +1,20 @@
+{
+  "url": "https://i56578-swl.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://i56578-swl.blogspot.com/2026/11/fsk-signals-with-2432-bit-frames-and.html",
+      "title": "FSK signals with 24/32-bit frames and a constant last bit: a possible Russian origin",
+      "description": "Cryptomaster kindly provided a recording of an FSK signal at 250/500 Bd with a mark/space shift of 1000 Hz. After reading the analysis of that signal published on the blog [1], he sent a second email: he had forgotten to send another recording, made on the same frequency a few hours earlier. This too turns out to be an FSK signal with a shift of 1000 Hz, at 150/300 Bd. Both signals are binary FSK"
+    },
+    {
+      "link": "https://i56578-swl.blogspot.com/2026/11/unid-250-500bd1000-fsk-relative-of-unid.html",
+      "title": "Unid 250-500Bd/1000 FSK, a relative of Unid 150-300Bd/500 FSK",
+      "description": "Dual-rate FSK transmission at 250 and 500 bps (for binary FSK, bps and baud coincide) with a mark/space shift of 1000 Hz, as shown in Figure 1. The data segment and the trailing portion, presumably sync since it carries no information, are modulated at 500 bps, while the initial portion, consisting of a repeated \"01\" sequence, is modulated at 250 bps. The recording was kindly sent me by my friend"
+    },
+    {
+      "link": "https://i56578-swl.blogspot.com/2026/10/40-fixed-bits-in-128-bit-iv-shared.html",
+      "title": "40 Fixed Bits in a 128-bit IV: A Shared COMSEC Preamble on Three HF Modems",
+      "description": "This post compares the COMSEC preamble of a STANAG-4285 link on 4147.4 kHz with other HF recordings that show the same structure. The first transmission, intercepted on 4147.4 kHz/USB, was kindly sent to me by my friend Kosmod . It consists of bursts modulated with STANAG-4285 in 600 bps mode with short interleaver. The duration and sequence of the bursts in Figure 1 point to an ARQ system (Automa"
+    }
+  ]
+}

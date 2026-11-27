@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mfavreaux.fr/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.mfavreaux.fr/dimmer-switch/",
+      "title": "How a dimmer switch works - diacs and triacs",
+      "description": "Reviving a foot dimmer switch and learning about the operation of diacs and triacs in the process."
+    },
+    {
+      "link": "https://blog.mfavreaux.fr/bt-earbuds-battery/",
+      "title": "Resurecting a pair of bluetooth earbuds",
+      "description": "Reviving small electronics by opening them up and forcing the battery back to charge."
+    },
+    {
+      "link": "https://blog.mfavreaux.fr/timer/",
+      "title": "Designing a simple object from scratch: two-minute timer",
+      "description": "The details of my latest short project, where I design and 3D-print the case and create a PCB on a protoboard for a two-minute timer."
+    }
+  ]
+}

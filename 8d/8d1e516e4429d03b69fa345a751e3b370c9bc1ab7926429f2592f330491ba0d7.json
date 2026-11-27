@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.boon.gl/feed.xml",
+  "posts": [
+    {
+      "link": "http://blog.boon.gl/2026/06/05/test-flake-chrome-clicks/",
+      "title": "Test Flake: Chrome Clicks",
+      "description": "This is the first in what I expect to be an ongoing series of posts on common sources of test flake. Today: Chrome! Specifically, sometimes clicking a link in end-to-end tests, even on a static page, doesn’t navigate to the next page. In the screenshot grabbed from the failing test it might even show the link as outlined as if it had been clicked. There was a period where roughly half of our build"
+    },
+    {
+      "link": "http://blog.boon.gl/2017/12/13/react-lifecycle-edge-cases/",
+      "title": "React Lifecycle Edge Cases",
+      "description": "I have a “scratch” wrapper I wrote for React as an alternative to setState for controlled components. The idea being that it’s nice to keep all data in Redux, but it’s kind of a pain in the butt to do so manually for every single form, since generally you will also want that data to be cleared from the store when the form is unmounted. My ConnectWithScratch higher order component adds lifecycle ho"
+    },
+    {
+      "link": "http://blog.boon.gl/2017/11/28/react-elm-wrapper/",
+      "title": "React Elm Wrapper",
+      "description": "I’ve recently been spending a lot of time scratching my head regarding application architecture with React and Redux. It often feels like this tug of war between class based and functional programming. I’m not super attached to one paradigm or another, but I am certainly FP-curious. However, whenever I push to work exclusively in a functional way in JavaScript, I keep running into situations where"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://compositecode.blog/feed/",
+  "posts": [
+    {
+      "link": "https://compositecode.blog/2026/11/05/when-github-is-the-slowest-part-of-delivery/",
+      "title": "GitHub PRs are slow. Keep shipping anyway.",
+      "description": "The issue is ready, the code is ready, and then the PR page spins. A check stays queued. A webhook arrives late. The review that should have taken ten minutes turns into an afternoon of refreshing GitHub and wondering which part of the pipeline is actually broken."
+    },
+    {
+      "link": "https://compositecode.blog/2026/11/04/ai-code-needs-a-faster-quality-loop/",
+      "title": "AI code quality: Ship fast without the fires",
+      "description": "The October 2025 DynamoDB disruption spread through AWS after a race condition in automated DNS management erased the service’s regional endpoint. Its published cause was an automation defect, not AI-written code. That distinction matters. If we blame every outage on an LLM, we miss the specific mechanisms that made the outage possible."
+    },
+    {
+      "link": "https://compositecode.blog/2026/11/03/keeping-long-running-agents-on-track/",
+      "title": "Long-running coding agents: When to stop and split",
+      "description": "I have written about Herdr as a place to see all the agents and about why I give spaces, tabs, and panes specific jobs. A multiplexer helps me find the agent that is blocked on a question. It does not tell me whether the agent should still be working on that question at all."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://sidney.sh/atom.xml",
+  "posts": [
+    {
+      "link": "https://sidney.sh/projects/diffie-hellman-experiments/",
+      "title": "Diffie-Hellman Key Exchange experiments",
+      "description": "Try the visualizer here"
+    },
+    {
+      "link": "https://sidney.sh/projects/wikitinder/",
+      "title": "Wikitinder",
+      "description": "Play wikitinder here About Wikitinder is a simple project I did to learn how to build and deploy a web app, built almost fully in rust with dioxus, and using a simple sqlite database. It's not complete, and a bit clunky, but it is kinda novel. Hopefully i can keep it up for a little while. If anyone can manage to break the leaderboard, lemme know. It's encouraged"
+    },
+    {
+      "link": "https://sidney.sh/baseball/cubs-99-games-2025/",
+      "title": "Cubs 99 Game Check-In 2025",
+      "description": "The Chicago Cubs have played 99 games in the 2025 season and are 59-40, tied for the second best team in baseball. While the team has been solid all year, the red hot Brewers just tied our record thanks to a 10 game win streak. Can the steady Cubs outlast the Brew Crew? Injuries You almost never get lucky with health, usually the best you can manage is not being too unlucky. This year we have not"
+    }
+  ]
+}

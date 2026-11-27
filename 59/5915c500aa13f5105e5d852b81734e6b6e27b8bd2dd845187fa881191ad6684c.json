@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.fixermark.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.fixermark.com/posts/2026/dps-bot/",
+      "title": "DPS Bot",
+      "description": "So I decided to build a bot in Mastodon that reports the damage you’re taking hourly. This was a fun exercise and mostly an excuse to play with Rust. I’ll talk about the process a bit: the core, setting up the scripts to execute it, and then a Docker wrapper."
+    },
+    {
+      "link": "https://blog.fixermark.com/posts/2026/documenting-your-orgs-files/",
+      "title": "Documenting Your Org's Files",
+      "description": "I’ve been thinking as of late about the things that desktop computer users get that we’ve decided isn’t worth giving software engineers in their own infrastructure. I don’t think I’ve ever met anyone who works at a big tech company who is happy with the status quo. The closest we get is less sad. And a lot of the pain points are fixable, but nobody fixes them because they aren’t key business needs"
+    },
+    {
+      "link": "https://blog.fixermark.com/posts/2025/screenshots-into-org-files-in-windows/",
+      "title": "Screenshots into emacs org files in Windows",
+      "description": "Related to my previous post , I needed to resolve the need to quickly take screenshots from Windows and put them in an org file in emacs. This proved a bit more difficult than I’d hoped; triggering a screenshot in Windows from emacs is non-obvious, and my attempts to use yank-media suggested that screenshots didn’t end up on the clipboard in a way emacs could see them. Other options I could find i"
+    }
+  ]
+}

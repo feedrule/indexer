@@ -1,0 +1,20 @@
+{
+  "url": "https://peterbhabra.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://peterbhabra.com/inside-gigatoken/",
+      "title": "Gigatoken: making tokenisation care about the hardware",
+      "description": "A first-principles tour of the SIMD scanners, cache-aware layouts, huge pages and worker scheduling behind Gigatoken."
+    },
+    {
+      "link": "https://peterbhabra.com/gigatoken-thousand-times-faster/",
+      "title": "Gigatoken: A Thousand Times Faster?",
+      "description": "Gigatoken claims a 1,000x tokenizer speedup. My production-shaped tests delivered 30x to 40x gains in the tokenizer core."
+    },
+    {
+      "link": "https://peterbhabra.com/the-swarm-that-designs-itself/",
+      "title": "The swarm that designs itself",
+      "description": "I rebuilt Moonshot's Kimi agent swarm and pointed it at a real codebase: ~53× fewer tokens and ~45× cheaper than one long-context agent."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://esham.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://esham.io/2025/05/shell-history",
+      "title": "Curate your shell history",
+      "description": "Simon Tatham wrote an article recently called “Policy of transience” , explaining (among other things) why you might want to disable your shell history file. Simon writes: My unusual habit is: turn off the history file completely, by putting the command ‘ unset HISTFILE ’ in my .bashrc . I still get history within a single instance of the shell, so I can edit my last command ten times until it wor"
+    },
+    {
+      "link": "https://esham.io/2023/10/direnv",
+      "title": "Making direnv easier on the eyes",
+      "description": "Direnv is a utility that makes it easy to set and unset environment variables as you move between directories on the command line. It works great, but its output can be a bit noisy. For some projects I use direnv with Lorri to set an entire Nix shell ’s worth of environment variables, and when I cd into one of these projects direnv produces a lot of output: $ cd ~/Projects/itunes-wrapped direnv: l"
+    },
+    {
+      "link": "https://esham.io/2025/08/deriveddata",
+      "title": "iOS development tip: use trash instead of rm to clear your DerivedData",
+      "description": "Every iOS and Mac developer is familiar with the situation: Xcode has gotten itself wedged somehow and the only solution 1 is to blow away the “DerivedData” folder in ~/Library/Developer/Xcode . Cache invalidation is hard but in this case cache destruction is easy, and I have a tip that makes it even easier. The obvious way to delete your DerivedData from the command line is $ rm -r ~/Library/Deve"
+    }
+  ]
+}

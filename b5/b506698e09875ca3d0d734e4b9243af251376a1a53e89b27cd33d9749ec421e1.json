@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hackingwithswift.com/articles/rss",
+  "posts": [
+    {
+      "link": "https://www.hackingwithswift.com/articles/285/introducing-kickstart-the-app-that-helps-indie-developers-ship",
+      "title": "Introducing Kickstart: the app that helps indie developers ship",
+      "description": "Get the all-in-one workspace for shipping successful apps."
+    },
+    {
+      "link": "https://www.hackingwithswift.com/articles/284/teach-your-ai-to-write-swift-the-hacking-with-swift-way",
+      "title": "Teach your AI to write Swift the Hacking with Swift way",
+      "description": "A hands-on AGENTS.md for Claude, Codex, and other AI tools that need firmer opinions about SwiftUI, Core Data, and particles."
+    },
+    {
+      "link": "https://www.hackingwithswift.com/articles/283/how-to-install-and-use-ai-agent-skills-in-xcode",
+      "title": "Agent skills in Xcode: How to install and use them today",
+      "description": "Get agent skills for Swift, SwiftUI, Swift Testing, and more"
+    }
+  ]
+}

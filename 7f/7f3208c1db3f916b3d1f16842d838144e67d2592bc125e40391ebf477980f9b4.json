@@ -1,0 +1,15 @@
+{
+  "url": "https://culi.bearblog.dev/atom/",
+  "posts": [
+    {
+      "link": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+      "title": "JSDoc is TypeScript",
+      "description": "In May of 2023 an internal refactoring PR from the Svelte repo made it to the front page of the Hacker News forums. The (superficially) controversial PR seemingly vindicated TypeScript skeptics/luddites (which at the time included figures like Dan Abramov of the React team). The premier darling of web frameworks ostensibly rejecting the benefits of static typing was a big deal. 1 So Rich Harris fe"
+    },
+    {
+      "link": "https://culi.bearblog.dev/ruby-dig-in-typescript/",
+      "title": "Implementing Ruby's `.dig` Hash method in TypeScript",
+      "description": "What's .dig ? Ruby hashes have a .dig method that allows us safely access a nested value in a Hash. h = { foo : { bar : { baz : 12 } } } puts h . dig (: foo , :bar , :baz ) # 12 puts h . dig (: foo , :qux , :baz ) # nil (no Error) Expand this to see how other languages do it. This plays a similar role to JavaScript's optional chaining . h ? . foo ? . bar ? . baz ; // 12 h ? . foo ? . qux ? . baz ;"
+    }
+  ]
+}

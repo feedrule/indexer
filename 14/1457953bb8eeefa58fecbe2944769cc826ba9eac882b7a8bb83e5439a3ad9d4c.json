@@ -1,0 +1,20 @@
+{
+  "url": "https://s-klein.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://s-klein.bearblog.dev/my-first-cve-and-thoughts-on-cybersecurity-work/",
+      "title": "My First CVE and Thoughts on Cybersecurity Work",
+      "description": "Finishing my first public CVE advisory, I’ll admit it’s a lot of work for little glamour. Administrators are told to upgrade to a patched version, and most won’t give the vulnerability’s complexity or severity a second thought. Some will miss npm’s deprecation warning and keep building on vulnerable code. And with a low CVSS score, few will care. How many weeks went into this finding? How many hou"
+    },
+    {
+      "link": "https://s-klein.bearblog.dev/google-ai-is-search/",
+      "title": "Google AI is Search",
+      "description": "I'm trying not to make a partisan statement when I write that Gemini (Google AI) is also the searching feature. In the news, featured stories about Google restricting search when AI is banned has circulated my feed. New York Times reports that Google now provides schools two options: AI overview or student guidance, a student curated form of Gemini. Advocates who want to use less or no AI have sai"
+    },
+    {
+      "link": "https://s-klein.bearblog.dev/notes-on-gbp-package-building/",
+      "title": "notes on gbp package building",
+      "description": "The goal is to bring upstream release 1.8.0v to Debian. Initially I pulled directly from the source, GitHub, and then placing the contents into a private Git repository that I have locally on a Gitea server. I was able to build the patches for opensnitch using this repository and build the package using dpkg-buildpackage -us -uc -b from nodes on my LAN. Problem: gbp Won't Build for Team Members Th"
+    }
+  ]
+}

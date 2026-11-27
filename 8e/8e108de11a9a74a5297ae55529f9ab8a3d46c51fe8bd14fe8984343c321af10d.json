@@ -1,0 +1,20 @@
+{
+  "url": "https://lucaspardue.com/index.xml",
+  "posts": [
+    {
+      "link": "https://lucaspardue.com/2026/08/08/http-integrity/",
+      "title": "HTTP Integrity Digests: Past, Present, and Future",
+      "description": "The core HTTP specifications don’t define their own means of providing integrity. Although “hop-by-hop” protocols underneath HTTP, such as TLS or QUIC, provide integrity for HTTP message transactions, it isn’t enough. HTTP powers massively distributed systems where intermediaries (aka proxies) are first-class citizens. Coupled with that are the powerful semantics of HTTP resources and representati"
+    },
+    {
+      "link": "https://lucaspardue.com/2024/11/30/custom-bluesky-handles-with-hono-and-cf-workers/",
+      "title": "Custom Bluesky Handles with Hono and Cloudflare Workers",
+      "description": "I recently changed my Bluesky handle from @simmervigor.bsky.social to @simmervig.org . I did this using the HTTP validation method, which relies on providing custom responses to /.well-known/atproto-did . The blog explains how I used Hono to set up a simple request router and run it in Cloudflare Workers. You too can use this method to easily and quickly set up a bunch of handles under a unified o"
+    },
+    {
+      "link": "https://lucaspardue.com/2024/10/10/depressed-migrating-from-wordpress-to-cloudflare-pages/",
+      "title": "De-Press-ed: Migrating from WordPress to Cloudflare Pages",
+      "description": "This website was previously powered by a self-hosted WordPress, running on a VPS. In front of that, sat Cloudflare and its APO product that helped to speed it up and reduce burden on the origin. The origin server was an old-school, janky, LAMP stack. In spite of the rest of the world seeming having ditched LAMP (or its ilk) and performing a chain of moves from the hottest static site framework yea"
+    }
+  ]
+}

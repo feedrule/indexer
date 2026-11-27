@@ -1,0 +1,20 @@
+{
+  "url": "https://yadukrishnan.live/rss.xml",
+  "posts": [
+    {
+      "link": "https://yadukrishnan.live/apache-datasketches-a-guide-to-sketch-types",
+      "title": "Apache DataSketches: A Guide to Sketch Types",
+      "description": "A quick overview of cardinality, percentiles, frequency, sampling, and membership sketches, with their use cases and trade-offs."
+    },
+    {
+      "link": "https://yadukrishnan.live/fast-approximate-analytics-in-scala-with-apache-datasketches",
+      "title": "Fast Approximate Analytics in Scala with Apache DataSketches",
+      "description": "Learn HLL, KLL and Frequent Items sketches in Scala with Apache DataSketches, and inspect stored sketches with SketchProbe."
+    },
+    {
+      "link": "https://yadukrishnan.live/safe-ai-agentic-development-sandboxing-coding-assistants",
+      "title": "Safe AI Agentic Development: Sandboxing Coding Assistants",
+      "description": "Secure local environments from AI coding agents by sandboxing. How to isolate Claude using nono, Nix, or Docker to block unsafe commands."
+    }
+  ]
+}

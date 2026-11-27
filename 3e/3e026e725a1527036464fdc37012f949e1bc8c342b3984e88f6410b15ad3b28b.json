@@ -1,0 +1,20 @@
+{
+  "url": "https://www.aroy.sh/index.xml",
+  "posts": [
+    {
+      "link": "https://www.aroy.sh/posts/bg3_first_honor_run_experience/",
+      "title": "Baldur's Gate 3: First Honour Mode Experience",
+      "description": "I just finished my very first Honour mode run in Baldur’s Gate 3. I have been playing this game for the last 2 months like a crazy person. I have enjoyed the game so much, I wanted to try the hardest mode (Honour) where you get one chance and if your party dies, then it’s game over. There’s no do-over, no reloading from a previous save point. It was a very stressful and anxiety-inducing few weeks,"
+    },
+    {
+      "link": "https://www.aroy.sh/posts/nanoevals/",
+      "title": "nanoevals: What goes into LLM evals",
+      "description": "In my previous article, I tried to compile the theories around LLM and agent evaluations. It gave me a good understanding of the process but there were still a few open questions and/or concerns around what it looks like in practice. So as a follow up, I wanted to build a minimal reference implementation of an end to end eval process to understand the core parts of evals a bit more in depth."
+    },
+    {
+      "link": "https://www.aroy.sh/posts/llm-agent-evals/",
+      "title": "A Synthesis of LLM Evaluation",
+      "description": "I have been reading a ton about LLM evaluation practices over the past few weeks from Anthropic’s engineering blog, Hamel Husain’s practitioner-focused guides, the Evals for AI Engineers book by Shreya Shankar and Hamel Husain, and several eval framework docs. I wanted to write what I learned and have a synthesis of my understanding of the topic. This is in no way comprehensive, rather it’s my per"
+    }
+  ]
+}

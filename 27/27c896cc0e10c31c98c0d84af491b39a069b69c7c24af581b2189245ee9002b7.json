@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.pecar.me/feed.xml",
+  "posts": [
+    {
+      "link": "http://blog.pecar.me/the-15-year-old-iptables-rule-that-broke-my-dns/",
+      "title": "The 15-Year-Old iptables Rule That Broke My DNS",
+      "description": "One of my servers has a weird problem after every reboot: it can ping IP addresses just fine, but it can’t resolve any DNS names. $ ping 8.8.8.8 # works $ ping google.com # ping: google.com: Temporary failure in name resolution I’ve been working around this for a while now: after every reboot I’d SSH in and overwrite /etc/resolv.conf to point straight at 8.8.8.8 instead of the local 127.0.0.53 stu"
+    },
+    {
+      "link": "http://blog.pecar.me/fedidevs-9h-outage-postmortem/",
+      "title": "Fedidevs 9h Outage Postmortem",
+      "description": "Today I had almost 9 hours of downtime on fedidevs.com and some of my other sites that I run on a Raspberry Pi at home. The alert came in just as I was heading to bed and I didn’t see it until I woke up this morning 🫣 Since Jake on Mastodon asked for a Cloudflare-style postmortem, here it is: Incident report: ~9h loss of upstream connectivity on the raspberrypi host Date: 2026-05-12 / 2026-05-13"
+    },
+    {
+      "link": "http://blog.pecar.me/letting-claude-upgrade-my-raspberry-pi/",
+      "title": "Letting Claude Upgrade My Raspberry Pi",
+      "description": "I have two Raspberry Pis at home. One hosts my various sites including fedidevs.com and the other supports it by storing backups of all the configs and data. This includes a streaming hot standby of the Postgres database that powers some of my sites. I am not (yet) brave enough to run Claude on my primary Pi, but I decided to let it loose on my secondary. Doing an in-place dist upgrade on a Raspbe"
+    }
+  ]
+}

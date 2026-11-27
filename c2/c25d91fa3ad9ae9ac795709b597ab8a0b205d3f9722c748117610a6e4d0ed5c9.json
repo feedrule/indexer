@@ -1,0 +1,20 @@
+{
+  "url": "https://embracethered.com/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+      "title": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+      "description": "A . is all you need! Today Microsoft shipped the patch for a vulnerability in Visual Studio Copilot that I reported in August. Microsoft classified it as Important severity Remote Code Execution vulnerability. At the root cause it allows Copilot in Visual Studio or SQL Server Management Studio to bypass a path validation check and write to its own settings and configuration files . This allows Cop"
+    },
+    {
+      "link": "https://embracethered.com/blog/posts/2026/from-select-to-sysadmin-sql-copilot-bluehat-asia/",
+      "title": "From SELECT to SYSADMIN with SQL Copilot (CVE-2026-65669)",
+      "description": "Two weeks back I presented at BlueHat Asia 2026 about my research on Microsoft’s Copilot in SSMS, the SQL Server Management Studio. This post is a write up about the talk, which covered CVE-2026-65669 , a SQL Server Elevation of Privilege Vulnerability rated critical by Microsoft. So, make sure your installations are up-to-date. The slides of the presentation can be found here . BlueHat Asia 2026"
+    },
+    {
+      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success rate using a small sample size. This is interesting because a third-party evaluation commissioned by Anthropic showed a 0.00% prompt injection attack success rate for Opus 5 in Auto Mode. Auto Mode Is Now the Default in Claude Code Auto Mode r"
+    }
+  ]
+}

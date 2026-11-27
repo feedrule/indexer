@@ -1,0 +1,20 @@
+{
+  "url": "https://xjmdrupal.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://xjmdrupal.org/blog/core-security-funding",
+      "title": "Do you like having secure Drupal sites? Help fund xjm.",
+      "description": "Do you like having secure Drupal sites? Help fund xjm. xjm Wed, 10/28/2026 - 23:00 The problem: Certain maintainer roles keep Drupal's lights on. Right now, there's a brownout. Interim Drupal Association CEO Tiffany Farriss recently wrote about bringing to light \"the work that just happens\" : the mostly invisible (but essential) services the Drupal Association provides to sustain the Drupal projec"
+    },
+    {
+      "link": "https://xjmdrupal.org/blog/anemone",
+      "title": "\"Anemone\": The brief tale of a Drupal core security advisory",
+      "description": "\"Anemone\": The brief tale of a Drupal core security advisory xjm Sat, 06/28/2025 - 15:03 A long while back, security researcher Sam Mortenson reported a cross-site scripting vulnerability in Drupal core's Link module. Essentially, the options property on link fields was not being properly sanitized. This meant cross-site scripting was possible under some circumstances -- and, as always for cross-s"
+    },
+    {
+      "link": "https://xjmdrupal.org/blog/new-sponsorships",
+      "title": "New core committer sponsors: HeroDevs, Salsa Digital, and... maybe you?",
+      "description": "New core committer sponsors: HeroDevs, Salsa Digital, and... maybe you? xjm Fri, 10/13/2023 - 16:43 Great news: After a three-month search, I'm now contracting with two sponsors who are funding a total of 60% of my time for Drupal core release management. Let me introduce you! HeroDevs HeroDevs ' business is helping organizations with major open-source software platforms that are nearing or past e"
+    }
+  ]
+}

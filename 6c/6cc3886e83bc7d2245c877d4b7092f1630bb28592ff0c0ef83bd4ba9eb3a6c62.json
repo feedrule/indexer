@@ -1,0 +1,20 @@
+{
+  "url": "https://batsov.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://batsov.com/articles/2026/11/05/neocaml-0-11-oxcaml-indentation-styles-and-odoc/",
+      "title": "Neocaml 0.11: OxCaml, Indentation Styles, and odoc",
+      "description": "I’m happy to announce that neocaml 0.11 is out! I never got around to writing about 0.10, which was mostly about neocaml-utop (a utop backend that talks to utop via its native editor protocol), but 0.11 is a different story. Its changelog is twice as long as that of any release before it, and by now I’ve stopped pretending that a grand 1.0 is just around the corner.1 There’s a lot in there, but th"
+    },
+    {
+      "link": "https://batsov.com/articles/2026/06/24/neocaml-0-9-repl-completion-and-robustness/",
+      "title": "Neocaml 0.9: A Better REPL, Dune/Opam Completion, and More Robustness",
+      "description": "It’s been a couple of months since the last neocaml release, and the reason is simple — for a while there I was genuinely out of ideas. Back when I shipped 0.6 I declared (again!) that I was done with new features, and this time I almost meant it. But ideas have a way of creeping back in, and 0.9 turned out to be a meaty release. Here are the highlights."
+    },
+    {
+      "link": "https://batsov.com/articles/2026/06/11/emacs-loves-asciidoc/",
+      "title": "Emacs loves AsciiDoc",
+      "description": "Regular readers know I have a soft spot for AsciiDoc – I’ve written about it more than once, and it’s the markup behind the documentation of most of my bigger OSS projects (CIDER, nREPL, Projectile, RuboCop). It hits a sweet spot Markdown never quite reaches: rich enough for proper technical writing (admonitions, includes, real tables, cross-references), without dragging in the full ceremony of so"
+    }
+  ]
+}

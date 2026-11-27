@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ines-panker.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.ines-panker.com/2026/11/18/fun-with-numbers-sleuth.html",
+      "title": "Fun with numbers: trying to summarize my time at Sleuth into charts",
+      "description": "What do you do when you change tams??? I had a bit of free time, so of course I asked Claude to turn the last 6¾ years into charts."
+    },
+    {
+      "link": "https://www.ines-panker.com/2026/11/03/algo-feedback-loops.html",
+      "title": "Case #4: Our algorithm suggests deploying only on Friday",
+      "description": "In the previous post we looked at how easily crucial data points slip out of our sample. But we only scratched the surface."
+    },
+    {
+      "link": "https://www.ines-panker.com/2026/11/01/algo-missing-data.html",
+      "title": "Case #3: Want faster requests? Just lower the timeout and watch the p99 drop",
+      "description": "Do you know how your users are using your product? “Yes… we have analytics on the page, so we know everything: clicks, pages, browsers, countries.”"
+    }
+  ]
+}

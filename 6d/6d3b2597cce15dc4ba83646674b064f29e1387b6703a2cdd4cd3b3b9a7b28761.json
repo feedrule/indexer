@@ -1,0 +1,20 @@
+{
+  "url": "https://www.teimouri.net/feed/",
+  "posts": [
+    {
+      "link": "https://www.teimouri.net/zsvirt-explained-architecture-comparison/",
+      "title": "ZSvirt Explained: Features, Architecture, and How It Compares to Other Virtualization Platforms",
+      "description": "ZSvirt landed on my radar the way a lot of virtualization projects do: vendors raising prices, license changes forcing rearchitecture, and teams looking for a way out without rewriting their whole stack. ZStack open-sourced ZSvirt on 12 August 2026 under the GNU General Public License v3.0, derived from its ZSphere commercial engine that had already run in more than a thousand production deploymen"
+    },
+    {
+      "link": "https://www.teimouri.net/rhel-disk-order-vsphere/",
+      "title": "RHEL Disk Order Problem on VMware vSphere",
+      "description": "I've been running RHEL on VMware vSphere since ESXi 5.5 in my lab—nested labs, customer environments, production clusters. And there's one gremlin that keeps biting engineers even in 2026: the RHEL disk order problem. You build a VM, attach a few VMDKs, configure your application, reboot, and suddenly /dev/sdb is /dev/sdc. Your database mounts the wrong disk. Oracle ASM can't find its disks. Apach"
+    },
+    {
+      "link": "https://www.teimouri.net/opennebula-7-2/",
+      "title": "Why OpenNebula 7.2 Matters for Modern Infrastructure",
+      "description": "OpenNebula 7.2 introduces a single-process control plane, declarative cluster provisioning via OneForm, and native NVIDIA Fabric Manager integration for GPU-dense AI workloads. It occupies a unique architectural middle ground: lighter than OpenStack, stronger multi-tenancy than Proxmox VE, and more modern API surfaces than Apache CloudStack The post Why OpenNebula 7.2 Matters for Modern Infrastruc"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://omarghader.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://omarghader.github.io/red-dashboard-otel-semantic-conventions/",
+      "title": "Building a Single-Pane RED Dashboard for Microservices with OpenTelemetry and Semantic Conventions",
+      "description": "Three months ago we had 34 microservices and 34 Grafana dashboards, each one hand-built by whoever owned that service at the time. Some had rate/error/duration panels. Some had CPU and memory but no latency. One had a pie chart of HTTP status codes that nobody had looked at in a year. When we had an incident that touched five services at 2am, the on-call engineer had to open five different dashboa"
+    },
+    {
+      "link": "https://omarghader.github.io/cardinality-audit-cut-storage-bill/",
+      "title": "How We Cut Our Prometheus / VictoriaMetrics Storage Bill by 60% (Cardinality Audit Walkthrough)",
+      "description": "The bill that made me open a support ticket with myself Last October our VictoriaMetrics cluster crossed 340 million active time series and our monthly infra cost for the storage tier hit $4,900. Nobody had approved that number. It just… grew, the way disk usage always grows, one Helm chart install at a time until finance asks why the “monitoring” line item is bigger than the “database” line item."
+    },
+    {
+      "link": "https://omarghader.github.io/alert-fatigue-sre/",
+      "title": "Fixing alert fatigue: what actually works",
+      "description": "Every noisy alert your team learns to dismiss makes the real one easier to miss too. Here’s how alert fatigue actually happens, and how to fix it."
+    }
+  ]
+}

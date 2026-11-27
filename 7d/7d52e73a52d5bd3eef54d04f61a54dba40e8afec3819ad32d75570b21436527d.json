@@ -1,0 +1,20 @@
+{
+  "url": "https://ryanccn.dev/feed/atom.xml",
+  "posts": [
+    {
+      "link": "https://ryanccn.dev/posts/managing-package-managers/",
+      "title": "Managing Package Managers, One Year Later",
+      "description": "Last April, I authored a blog post entitled A Corepack by Any Other Name , in which I described all the interesting ways in which Corepack , which at the time was Node.js’s official package manager version manager, internally resolves versions of package managers such as Yarn and pnpm, and how Moldau , my own implementation in Rust of a JavaScript package manager version manager, tries to maintain"
+    },
+    {
+      "link": "https://ryanccn.dev/posts/kimi-antonelli-titanium-dioxide/",
+      "title": "Kimi Antonelli and Titanium Dioxide: A Quantitative Analysis",
+      "description": "This paper is available for download as a PDF . It might look more convincing. Abstract Over the 2025 Formula One season, Andrea Kimi Antonelli, a driver for Mercedes-AMG Petronas Formula One Team, was observed to perform better in jurisdictions where titanium dioxide is a legal food additive. Using finishing position data for Grands Prix (including sprints) during the 2025 season, we found that K"
+    },
+    {
+      "link": "https://ryanccn.dev/posts/five-years-of-design/",
+      "title": "Five Years of Design",
+      "description": "In September, I had the privilege of being able to attend NixCon 2025 in Rapperswil-Jona, Switzerland. Aside from listening to a lot of fun and/or interesting talks about Nix ( “You can’t spell ‘devshell’ without ‘hell’” was one of my favorites) and meeting some of my friends in real life for the first time, I also had the wonderful opportunity to observe Swiss graphic, and especially typographic,"
+    }
+  ]
+}

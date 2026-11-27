@@ -1,0 +1,20 @@
+{
+  "url": "https://apfelhammer.de/index.xml",
+  "posts": [
+    {
+      "link": "https://apfelhammer.de/posts/a-distraction-free-book-editor-built-from-ttyd-micro-and-a-raspberry-pi/",
+      "title": "A distraction-free book editor built from ttyd, micro, and a Raspberry Pi",
+      "description": "I write long texts in Markdown. And I constantly look for a distraction free editor and wirting expirience . For a book project, “long” stopped meaning a few screens and started meaning a file I no longer wanted to scroll through from the top every time I opened it. I also wanted the writing environment to feel like a terminal: black background, white text, 80 columns by 25 rows, no sidebars, no n"
+    },
+    {
+      "link": "https://apfelhammer.de/posts/a-dec-vt520-as-a-linux-writing-terminal/",
+      "title": "A DEC VT520 as a Linux Writing Terminal (with german umlauts)",
+      "description": "Using a VT520 on a Utilite Pro over a Zimodem Wi-Fi modem — with working German umlauts, UTF-8 files, and nano . This guide describes a working setup and explains how to rebuild it. It covers the two problems that cost the most time: German umlauts are garbled or missing because the VT520 speaks ISO-8859-1 / DEC character sets, while modern Linux and Hugo expect UTF-8. Typed characters are invisib"
+    },
+    {
+      "link": "https://apfelhammer.de/posts/dec-vt-520-terminal/",
+      "title": "Dec VT 520 Terminal",
+      "description": "I am a big fan of Terminals since I ever discovered them. Because I am a few years too young to truly know or use them, I am so fascinated by them. Above all, I really like the idea of a silent computer with a full keyboard that connects to an actual computer. Logging into a “mainframe” evokes, for me, the kind of charm that, back in the day, only the young Karl Koch 1 truly experienced."
+    }
+  ]
+}

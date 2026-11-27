@@ -1,0 +1,20 @@
+{
+  "url": "https://jcf.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://jcf.dev/twelve-months-in-production",
+      "title": "Twelve Months of Language Models in Production",
+      "description": "Twelve months shipping a generative product: where the models helped, where they made things worse, and what the guardrails cost."
+    },
+    {
+      "link": "https://jcf.dev/shut-up-and-generate",
+      "title": "Shut Up and Generate",
+      "description": "Trust the artefact because it survives verification, not because you read it."
+    },
+    {
+      "link": "https://jcf.dev/every-rebuild-a-stranger",
+      "title": "Every rebuild, a stranger",
+      "description": "macOS decides whether two binaries are the same application by certificate. Nix decides by content hash. My firewall was caught in the middle, and the obvious fix signed the wrong thing."
+    }
+  ]
+}

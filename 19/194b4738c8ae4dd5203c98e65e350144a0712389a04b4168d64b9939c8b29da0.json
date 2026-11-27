@@ -1,0 +1,20 @@
+{
+  "url": "https://akintokinematics.com/feed/",
+  "posts": [
+    {
+      "link": "https://akintokinematics.com/how-do-neural-networks-understand-signed-distance-fields/?utm_source=rss&utm_medium=rss&utm_campaign=how-do-neural-networks-understand-signed-distance-fields",
+      "title": "How do Neural Networks Understand Signed Distance Fields?",
+      "description": "A few months ago, I saw this excellent video about mechanistic interpretability of large language models. The video goes over a language model trained on an exceedingly simple task and inspects its weights and activations in detail to understand exactly what is happening under the hood. This appealed to me for two reasons: 1. I […]"
+    },
+    {
+      "link": "https://akintokinematics.com/to-figure-out-how-3d-printing-slicers-work-i-wrote-one-from-scratch/?utm_source=rss&utm_medium=rss&utm_campaign=to-figure-out-how-3d-printing-slicers-work-i-wrote-one-from-scratch",
+      "title": "To Figure Out How 3D Printing Slicers Work, I Wrote One From Scratch",
+      "description": "Why do this? 3D printing slicers are an essential tool for taking a set of imaginary triangles and creating a real, solid hunk of plastic in a similar shape. And honestly, the way they work feels pretty intuitive. They look at your virtual geometry, take a bunch 2D slices like they’re looking at a CT […]"
+    },
+    {
+      "link": "https://akintokinematics.com/collision-detection-in-any-dimension/?utm_source=rss&utm_medium=rss&utm_campaign=collision-detection-in-any-dimension",
+      "title": "Collision Detection in any Dimension",
+      "description": "I’ve developed a method to compute the closest point to the origin on any simplex (triangle, tetrahedron, etc.) of any degree, in any dimension. This unified algorithm also allows just one function to be applied to any type of simplex, as opposed to separate algorithms for different types used by earlier methods. On it’s own […]"
+    }
+  ]
+}

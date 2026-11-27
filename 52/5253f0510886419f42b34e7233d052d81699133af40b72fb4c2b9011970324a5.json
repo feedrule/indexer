@@ -1,0 +1,15 @@
+{
+  "url": "https://www.alexvear.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.alexvear.com/blog/on-lisp",
+      "title": "On Lisp",
+      "description": "A while back I committed some time to studying Paul Graham's 1993 book On Lisp. On Lisp is frequently recommended within Lisp circles as the bible for learning macros, which has contributed to the design of several programming languages. Having read the book, I can say that this is indeed true; however, many reviews and references miss the central thesis of the book."
+    },
+    {
+      "link": "https://www.alexvear.com/projects/ascribe",
+      "title": "Ascribe",
+      "description": "Ascribe is a standard for software development tools (specifically editors) to retrieve and handle useful information about various files within a project through the .gitattributes file already found in many software projects."
+    }
+  ]
+}

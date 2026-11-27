@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mariannefeng.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://mariannefeng.com/portfolio/journey-to-the-west/",
+      "title": "Journey to the West",
+      "description": "non-stop Journey to the West with English and Chinese subs"
+    },
+    {
+      "link": "https://mariannefeng.com/portfolio/buforoulette/",
+      "title": "buforoulette",
+      "description": "solve TwoSum or bufo, made with Chris"
+    },
+    {
+      "link": "https://mariannefeng.com/portfolio/piratereads/",
+      "title": "public goodreads api",
+      "description": "Piratereads - a public goodreads api"
+    }
+  ]
+}

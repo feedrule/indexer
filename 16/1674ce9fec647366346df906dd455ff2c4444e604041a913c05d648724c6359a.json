@@ -1,0 +1,20 @@
+{
+  "url": "https://mmmeon.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://mmmeon.com/pit/",
+      "title": "pit",
+      "description": null
+    },
+    {
+      "link": "https://mmmeon.com/lab/",
+      "title": "lab",
+      "description": "lab web experiments. details lazy embed click to load are.na embed <a href=\"https://godspeedyoublackemperor.bandcamp.com/album/f-a\">F# A# ∞ by Godspeed You Black Emperor!</a> with image details table a b c blah blah 1 2 three blah blah 1 2 three 4 5 6 seven blah blah 1 2 5 6 seven details tabs \"hi\" \"bye\" \"hi\" \"hi!\" \"hi\" \"what's up?\" force semi link label \"hi\" \"bye\" between \"hi\" \"hi!\""
+    },
+    {
+      "link": "https://mmmeon.com/dotfiles/",
+      "title": ".files",
+      "description": "my configuration files. } ls $DOTFILES aerc do.sh git iwctl LICENSE neovim tmux wezterm bin fastfetch gitui mangohud newsboat wm browsh firefox gpg kitty nsxiv zathura curl gurk lf mpv README.md w3m zsh lnko, or stow there are many ways to manage dotfiles, i previously used a bare git repository that directly placed all files in respective locations. as i regularly switched between devices, i ende"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blazelight.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://blazelight.dev/blog/vobdoom",
+      "title": "Doom on a DVD player",
+      "description": "# Doom on a DVD player This is the written version of the talk above. Same story, with more detail: the real bytes off the disc, the measurements, and a couple of figures you can poke at. Watch, read, or both. I have a cheap portable DVD player, a JVC XV-PY1000A that cost me about $75. It's a top-loader, so I propped the lid open and you can watch the disc spin. Later that came in handy, when we n"
+    },
+    {
+      "link": "https://blazelight.dev/blog/smarter5thgrader",
+      "title": "Is your model smarter than a 5th grader?",
+      "description": "# Is your model smarter than a 5th grader? I saw a post about [LittleLearner](https://littlelearner-ll.github.io/), a scale-up study where Qwen3 dense models are pretrained on a corpus filtered down to U.S. K-5 material ([paper](https://arxiv.org/abs/2608.13545)). This model should thus effectively be a 5th grader. If you were watching TV in the early 2000s, you've most likely seen this show: It p"
+    },
+    {
+      "link": "https://blog.micr.dev/blog/learning-is-a-skill",
+      "title": "Reading: Learning is a Skill",
+      "description": "A great, deliberate approach you can take towards learning new skills."
+    }
+  ]
+}

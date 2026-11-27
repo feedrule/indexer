@@ -1,0 +1,20 @@
+{
+  "url": "https://jhx7.de/index.xml",
+  "posts": [
+    {
+      "link": "https://jhx7.de/blog/serving-isos-over-http/",
+      "title": "Serving ISO's over HTTP",
+      "description": "We are sitting on our computer somewhere and are in the need of an ISO . Maybe we want to create a virtual machine or have some other need like flashing said ISO to a usb stick. Sometimes it is too much hassle to mount our NAS share or we are on a totally different device which is not ours. I’ve had quite some situations in which I was working on a PC / Laptop that a friend gave me on which I did"
+    },
+    {
+      "link": "https://jhx7.de/blog/link-collection/",
+      "title": "Link Collection",
+      "description": "Over the years I’ve collected quite some amount of links/sites covering different aspects of the tech world - especially Linux and BSD related stuff. Without further ado, let’s get the ball rolling ! Linux Linux hardware database: https://linux-hardware.org/ Information about packages / repositories : https://repology.org/ Debian pastebin: https://paste.debian.net/ Linux kernel driver database: ht"
+    },
+    {
+      "link": "https://jhx7.de/blog/webdev-setup-on-freebsd/",
+      "title": "Webdev Setup on FreeBSD",
+      "description": "I wanted a small webdev setup where I could test some Python CGI code and do some shenanigans with PHP . Nothing special here and certainly nothing professional - Not a webdev by trade at all ! Let’s delve into setting up that environment . Apache all the way The webserver of choice for me is Apache in this setup. Sure, one can use Nginx , Lighttpd or something else entirely - that is up to the re"
+    }
+  ]
+}

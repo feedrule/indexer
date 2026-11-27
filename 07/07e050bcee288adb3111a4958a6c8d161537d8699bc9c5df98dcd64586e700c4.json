@@ -1,0 +1,20 @@
+{
+  "url": "https://stanleycyang.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://stanleycyang.com/writing/accessible-agent-interfaces",
+      "title": "Accessible Agent Interfaces for Keyboard, Screen Reader, and Voice Users",
+      "description": "Design streaming conversations, tool progress, approvals, errors, and voice controls that preserve focus, user control, and understandable status."
+    },
+    {
+      "link": "https://stanleycyang.com/writing/opentelemetry-genai-semantic-conventions",
+      "title": "Adopting OpenTelemetry GenAI Semantic Conventions Without Breaking Observability",
+      "description": "A migration playbook for adopting the evolving OpenTelemetry GenAI span, metric, and event schema safely."
+    },
+    {
+      "link": "https://stanleycyang.com/writing/agent-swarms-when-multiple-agents-help",
+      "title": "Agent Swarms: When Multiple AI Agents Help—and When They Make Things Worse",
+      "description": "A practical decision framework for choosing a multi-agent architecture, plus a minimal coordinator that keeps concurrency, budgets, and failure handling explicit."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://corentin-core.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://corentin-core.github.io/posts/ruxe-async-runtime-agnostic/",
+      "title": "Come Async You Are",
+      "description": "ruxe’s async write path: getting events into a synchronous store from any task, without tying the library to an async runtime."
+    },
+    {
+      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "title": "A data race that doesn't compile",
+      "description": "How I taught Rust’s type system to refuse my own parallel-Redux data races, with one false start and one mind-shift."
+    },
+    {
+      "link": "https://corentin-core.github.io/posts/claude-code-workflow/",
+      "title": "I spend more time writing instructions for my AI than writing code. It changed how I work.",
+      "description": "How I turned Claude Code from an eager intern into a real dev partner — layer by layer, failure by failure."
+    }
+  ]
+}

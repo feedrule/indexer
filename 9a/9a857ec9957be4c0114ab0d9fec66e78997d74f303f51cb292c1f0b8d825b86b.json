@@ -1,0 +1,20 @@
+{
+  "url": "https://helw.net/index.xml",
+  "posts": [
+    {
+      "link": "https://helw.net/2026/06/29/fun-with-sliders-and-compose/",
+      "title": "Fun With Sliders and Compose",
+      "description": "I noticed a pretty neat UI interaction in Ayah for iOS that I wanted to see if I could replicate in Android. Your browser does not support the video tag. You’ll notice a few different things here: on pressing the thumb, the search and jump buttons disappear, and the track expands. when the track expands, the thumb sometimes moves accordingly (ex for 0% and 100% cases, the thumb moves to the start"
+    },
+    {
+      "link": "https://helw.net/2026/03/07/running-android-auto-on-an-emulator/",
+      "title": "Running Android Auto on an Emulator",
+      "description": "The desktop-head-unit is used for testing Android Auto apps, typically in conjunction with running on a physical device and then running desktop-head-unit --usb . What if we want to test an Android Auto app without a physical device? The Android Auto version that can be seen on Google Play emulators says that “This app isn’t compatible with your device anymore.” Some time ago, I found a StackOverf"
+    },
+    {
+      "link": "https://helw.net/2025/08/31/compose-ui-without-an-activity/",
+      "title": "Compose UI without an Activity",
+      "description": "Recently, I needed to add a custom marker to a MapLibre map with the upcoming street name, while respecting various rules (supporting RTL, etc). Inspired by our iOS team, I solved this by writing the street name marker code in Compose, and then taking a screenshot of the Composable on demand and rendering it to the map. This solution worked well, and everything was great until I wanted to show the"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://lapcatsoftware.com/articles/atom.xml",
+  "posts": [
+    {
+      "link": "https://lapcatsoftware.com/articles/2026/11/4.html",
+      "title": "Why Bloomberg gift links don’t work in Safari on macOS Sequoia",
+      "description": "Mark Gurman of Bloomberg sometimes posts gift links on social media, for example Mastodon , for his Power On newsletter . However, the gift link for today’s newsletter showed only a paywall in Safari, my default web browser. In Chrome and Firefox, on the other hand, the gift link showed the entire newsletter. It took me a while to debug the issue. I use various Safari extensions, including my own"
+    },
+    {
+      "link": "https://lapcatsoftware.com/articles/2026/11/3.html",
+      "title": "What’s the deal with screenshots on macOS Golden Gate?",
+      "description": "I was trying to take a screenshot for yesterday’s blog post webloc files trigger a Gatekeeper alert in the latest macOS security updates , but the screenshot was so ugly that I had to take one from Tahoe instead. Here’s a screenshot of the empty trash window on Golden Gate: Compare and contrast with Tahoe: When I take a screenshot of the entire screen on Golden Gate, the empty trash window looks f"
+    },
+    {
+      "link": "https://lapcatsoftware.com/articles/2026/11/2.html",
+      "title": "webloc files trigger a Gatekeeper alert in the latest macOS security updates",
+      "description": "A webloc file is essentially a website bookmark. You can create a webloc file by dragging a URL from the Safari address bar and dropping into Finder. The file format is very simple, a URL wrapped in a binary property list. % plutil -p Example\\ Domain.webloc { \"URL\" => \"https://example.org/\" } Opening a webloc file, for example by double-clicking in Finder, now triggers a Gatekeeper alert in the la"
+    }
+  ]
+}

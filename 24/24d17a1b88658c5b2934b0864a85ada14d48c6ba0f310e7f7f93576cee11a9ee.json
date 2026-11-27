@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.nobugware.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.nobugware.com/post/2026/maps-in-my-terminal/",
+      "title": "Rendering Maps in Terminals",
+      "description": "I’ve been working for years with geospatial data, the ecosystem is vibrant (thanks to DuckDB), but I’ve always missed some tools in the terminal to visually look at geometries in context. I’ve started to work on a pure Go renderer, in 2025, and after 3 different iterations I finally have an API I’m happy with. This 3rd iteration was created by DeepSeek Pro for around 1USD, feeding it with my previ"
+    },
+    {
+      "link": "https://blog.nobugware.com/post/2025/risc-v-rv2-linux-sbc/",
+      "title": "RISC-V OrangePi RV2 Linux SBC",
+      "description": "In April 2025, I’ve ordered two OrangePi RV2, as soon as they announced Ubuntu 22.04 support, they are running 24x7 since then. The Ky X1 CPU is a RISC-V (RISC-V is open and royalty-free), 8 Core, the architecture is riscv64, (so not arm64/aarch64). Linux risc5 6.6.63-ky #1.0.0 SMP PREEMPT Wed Mar 12 09:04:00 CST 2025 riscv64 riscv64 riscv64 GNU/Linux It has two M.2 sockets, I have it installed wi"
+    },
+    {
+      "link": "https://blog.nobugware.com/post/2025/using-qt-qml-grpc-to-talk-to-your-app/",
+      "title": "Building Cross-Language Apps: Direct QML to gRPC Without C++",
+      "description": "TLDR: A recent Qt update let you do gRPC calls directly from QML, allowing to interact with gRPC from the UI without requiring C++. Qt is a rich ecosystem for UI development, but its roots are in C++. QML is a declarative language specialized in designing user interface applications on top of Qt. Qt supported gRPC for a long time but only via C++ code, recently they added gRPC calls directly from"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://cfallin.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://cfallin.org/blog/2026/04/09/aegraph/",
+      "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
+      "description": "Today, I'll be writing about the aegraph , or acyclic egraph , the data structure at the heart of Cranelift's mid-end optimizer. I introduced this approach in 2022 and, after a somewhat circuitous path involving one full rewrite, a number of interesting realizations and \"patches\" to the initial idea, various discussions with the wider e-graph community (including a talk ( slides ) at the EGRAPHS w"
+    },
+    {
+      "link": "https://cfallin.org/blog/2025/11/06/exceptions/",
+      "title": "Exceptions in Cranelift and Wasmtime",
+      "description": "Note: this post is also cross-posted to the Bytecode Alliance blog here . This is a blog post outlining the odyssey I recently took to implement the Wasm exception-handling proposal in Wasmtime , the open-source WebAssembly engine for which I'm a core team member/maintainer, and its Cranelift compiler backend. When first discussing this work, I made an off-the-cuff estimate in the Wasmtime biweekl"
+    },
+    {
+      "link": "https://cfallin.org/blog/2024/08/28/weval/",
+      "title": "Compilation of JavaScript to Wasm, Part 3: Partial Evaluation",
+      "description": "This is the final post of a three-part series covering my work on \"fast JS on Wasm\"; the first post covered PBL, a portable interpreter that supports inline caches, the second post covered ahead-of-time compilation in general terms, and this post discusses how we actually build the ahead-of-time compiler backends. Please read the first two posts for useful context! In the last post, we covered how"
+    }
+  ]
+}

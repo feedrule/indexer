@@ -1,0 +1,20 @@
+{
+  "url": "https://lief.re/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://lief.re/blog/2026-07-13-lief-1-0-0/",
+      "title": "LIEF v1.0.0",
+      "description": "LIEF 1.0.0: a new cross-platform Runtime API, faster Rust bindings, stable-ABI and free-threaded Python wheels"
+    },
+    {
+      "link": "https://lief.re/blog/2025-09-14-lief-0-17-0/",
+      "title": "LIEF v0.17.0",
+      "description": "LIEF 0.17.0: Binary Ninja and Ghidra plugins, contextual assembly patching, a refactored PE module with TLS, import, and export editing, lief-patchelf, and COFF support."
+    },
+    {
+      "link": "https://lief.re/blog/2025-07-13-patchelf/",
+      "title": "LIEF patchelf",
+      "description": "lief-patchelf: a LIEF-based reimplementation of NixOS patchelf to change the interpreter, add dependencies, and edit RPATH/RUNPATH, with prebuilt binaries."
+    }
+  ]
+}

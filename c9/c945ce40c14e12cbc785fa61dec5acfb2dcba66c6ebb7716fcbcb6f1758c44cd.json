@@ -1,0 +1,20 @@
+{
+  "url": "https://friendlybit.com/feed/",
+  "posts": [
+    {
+      "link": "http://friendlybit.com/python/justhtml-3-parser-architecture/",
+      "title": "JustHTML 3.0.0: A new HTML5 parser architecture",
+      "description": "JustHTML 3.0.0 is out, and the biggest change is not a new API. It's a new parser core. Up until now, JustHTML looked like most HTML5 parsers. First..."
+    },
+    {
+      "link": "http://friendlybit.com/python/justhtml-sanitization/",
+      "title": "JustHTML is now safe-by-default",
+      "description": "If you accept HTML from users (comments, profiles, CMS fields), you eventually hit the same problem: You want to keep some markup. You really don’t want to..."
+    },
+    {
+      "link": "http://friendlybit.com/python/justhtml-faq/",
+      "title": "JustHTML: Addressing some questions",
+      "description": "When Simon Willison wrote about JustHTML [1] [2], suddenly everyone was interested in giving their view. After reading through (what I think is) all of..."
+    }
+  ]
+}

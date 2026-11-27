@@ -1,0 +1,20 @@
+{
+  "url": "https://datagirl.xyz/atom.xml",
+  "posts": [
+    {
+      "link": "https://datagirl.xyz/posts/koneko.html",
+      "title": "Bringing oneko to KDE on Wayland",
+      "description": "Making sure the most important part of my desktop works on Wayland. (Summer 2026 Project Report, Part 1)"
+    },
+    {
+      "link": "https://datagirl.xyz/posts/emails.html",
+      "title": "New email address",
+      "description": "The old one still works, but expect replies to come from the new one."
+    },
+    {
+      "link": "https://datagirl.xyz/posts/dos_inside_the_box.html",
+      "title": "Detecting DOSBox from within the Box",
+      "description": "Look forward to the movie adaptation of this post, which is just three hours of me reading DOSBox and DOSBox-X source code."
+    }
+  ]
+}

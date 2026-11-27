@@ -1,0 +1,20 @@
+{
+  "url": "https://nachbaur.com/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://nachbaur.com/2026/03/11/dungeon-of-ymir-part-1/",
+      "title": "👾 The Dungeon of Ymir: A Daughter, Disassembler, and Her Dad's RPG",
+      "description": "My father, Fred Nachbaur, died of cancer in September of 2004. He was 53 years old. I had just moved to Canada not long before, and our relationship, which had always been complicated, never got the resolution that I think both of us probably wanted. He was brilliant, generous, stubborn, private, and deeply creative. He was a musician, an electronics/radio engineer, a programmer, and by all accoun"
+    },
+    {
+      "link": "https://nachbaur.com/2022/11/07/two-year-anniversary-at-okta/",
+      "title": "🎉 Celebrating my two-year anniversary at Okta",
+      "description": "I’m happy to share that today is my 2-year anniversary at Okta! This would make more sense if I’d originally announced on this blog that I’d changed jobs and started working at Okta, so I’ll take a moment to recap what’s happened in the past two years, and some of the milestones and accomplishments I’m most proud of. Before joining Okta, I worked at Salesforce for 10 years, and had many opportunit"
+    },
+    {
+      "link": "https://nachbaur.com/2020/05/06/stretchable-tableview-header/",
+      "title": "Building a stretchable UITableView header",
+      "description": "Someone on Twitter recently asked how to implement a TableView header that will stretch and resize as the content is scrolled, so I thought I’d spend a few minutes to provide a good example. Since I thought it’s a neat trick that’s often overlooked, I felt it was worthy of wrapping a post around it to explain how it works, maybe giving others the ability to replicate this pattern for themselves."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.tyil.nl/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://www.tyil.nl/post/2026/10/17/element-x-is-a-bad-neighbour/",
+      "title": "Element X is a Bad Neighbour",
+      "description": "I’m chanop on several IRC channels. Most of the time this makes no difference on how I interact with a channel. A few months ago I was asked to configure a Matrix bridge for a channel on OFTC, one of the very few IRC networks who still offer a Matrix bridge. The setup of the bridge went fine, and the people on the Matrix side do their best to make sure the Matrix bridge doesn’t make the IRC side a"
+    },
+    {
+      "link": "https://www.tyil.nl/post/2026/04/15/my-homelab-tyilnet/",
+      "title": "My Homelab: TyilNET",
+      "description": "In my last post, I noted that I was pretty happy with the current state of my homelab setup. In this post, I want to expand on what I have, and how I have it configured. The main part of the setup is a 15U server rack, with a 4U machine for simple storage , a 4U machine as dedicated database , and 1U with 3 NUCs for compute. Lastly, I use 2 raspberry pi machines to act as ingress machines. Apart f"
+    },
+    {
+      "link": "https://www.tyil.nl/post/2026/01/07/looking-back-at-2025/",
+      "title": "Looking Back at 2025",
+      "description": "I enjoyed making a post last year to reflect upon what’s keeping me busy, or what caused me to not be busy, so I was thinking to do it again! If you’re reading this, it turns out I went through with it. In general, the past year has been much better to me than the one before, at least on an emotional level. The relationship has progressed into becoming an engagement, and the work I put into my hom"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://goatreview.com/rss/",
+  "posts": [
+    {
+      "link": "https://goatreview.com/create-your-first-agent-team-with-orkeon-studio/",
+      "title": "Create your first agent team with Orkeon Studio",
+      "description": "You hear about AI agents everywhere, but in practice the tools often ask you to write YAML, open a terminal or understand an architecture. And most agentic tools live on the command line, under Linux or macOS. This one runs on Windows ❤️. Orkeon Studio tackles the problem from"
+    },
+    {
+      "link": "https://goatreview.com/publish-a-net-package-whose-origin-can-be-verified/",
+      "title": "Publish a .NET package whose origin can be verified",
+      "description": "dotnet add package is an act of trust in a stranger. For a package with a company behind it, the trust is in the company. For Orkeon there is no company — a single maintainer publishing under a pseudonym, no foundation behind it, no logo of a Fortune 500 customer"
+    },
+    {
+      "link": "https://goatreview.com/my-coding-agent-wrote-outside-the-repo-nothing-stopped-it/",
+      "title": "My coding agent wrote outside the repo. Nothing stopped it.",
+      "description": "You let a coding agent loose on a repository. It reads what it needs, then writes — a file two directories up, a ~/.config it had no business in, a /tmp script it runs next. When you look at how, the answer is dull: the agent's write tool"
+    }
+  ]
+}

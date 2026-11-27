@@ -1,0 +1,20 @@
+{
+  "url": "https://buffer.com/resources/overflow/rss/",
+  "posts": [
+    {
+      "link": "https://buffer.com/resources/infrastructure-refactoring/",
+      "title": "What We Learned After Finding 7 Forgotten Jobs Running for 5 Years",
+      "description": "We found 7 forgotten cron jobs had been running for five years – here's how we fixed them and what we learned in the process."
+    },
+    {
+      "link": "https://buffer.com/resources/popcorn-to-go/",
+      "title": "Popcorn To Go: Our New Mobile Design System for iOS and Android",
+      "description": "In this article, Daniel, a Senior Product Designer, breaks down the development and release of Buffer's new mobile design system, Popcorn to Go."
+    },
+    {
+      "link": "https://buffer.com/resources/we-replaced-sms-authentication-with-email-and-authenticator-apps-heres-why/",
+      "title": "We Replaced SMS Authentication With Email and Authenticator Apps — Here's Why",
+      "description": "Here’s why and how we replaced SMS authentication with email and authenticator apps."
+    }
+  ]
+}

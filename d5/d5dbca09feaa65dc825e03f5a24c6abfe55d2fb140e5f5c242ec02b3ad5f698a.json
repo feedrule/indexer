@@ -1,0 +1,20 @@
+{
+  "url": "https://workflows-of-ai.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://workflows-of-ai.com/blog/where-are-we-on-the-sigmoid-curve",
+      "title": "Where are we on the sigmoid curve?",
+      "description": "In February 2023 Tom Scott said AI was on a new sigmoid curve and that he had no idea how far along it we were. Almost four years later, I try to answer him: for capability, for adoption and for the money. (14 min read)"
+    },
+    {
+      "link": "https://workflows-of-ai.com/blog/how-far-can-we-push-elevenlabs-v4",
+      "title": "Can ElevenLabs fix my cold?",
+      "description": "I got sick, recorded my strained voice and pushed it through ElevenLabs v4: my voice clone, other voices, audio tags, a movie trailer and a Swedish dub. Every clip is in the post. (6 min read)"
+    },
+    {
+      "link": "https://workflows-of-ai.com/blog/theres-a-module-for-that",
+      "title": "There's a module for that",
+      "description": "Coding agents write a custom module before they look on drupal.org. I documented every Drupal 11 module for agents and put it behind a local MCP server. The write-up of my Drupal AI Learners Club talk. (16 min read)"
+    }
+  ]
+}

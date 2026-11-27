@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mastykarz.nl/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.mastykarz.nl/evaluate-agent-skill-without-right-answer/",
+      "title": "How do you evaluate an agent skill without a right answer?",
+      "description": "Some agent skills don't have a right answer to check against, which got me rethinking what I recently wrote about whether every agent skill needs an eval . I argued that the need for evals depends partly on how a skill is used. If you build a skill for yourself, you can judge its usefulness through experience. If you distribute it to thousands of developers, a bad skill affects far more people, so"
+    },
+    {
+      "link": "https://blog.mastykarz.nl/agent-skill-nutritional-label/",
+      "title": "Would you check an agent skill's nutritional label before installing it?",
+      "description": "In August, I argued that every agent skill should come with a nutritional label . The label would show whether the skill makes the agent better than the same agent without it , and what that improvement costs. But a label only proves its worth on a skill that people actually install, when someone reads it to decide whether to use that skill. SPFx Dev Skills 1.1.2 now ships with one. I'd like to kn"
+    },
+    {
+      "link": "https://blog.mastykarz.nl/eval-rubric-problem/",
+      "title": "What if your eval rubric is the problem?",
+      "description": "When you update an agent skill, your eval results tell you whether the update was worth it. You compare success rate and task cost before and after, then keep your work or revert it. But what if the evidence is incomplete? What if the agent does something valuable that your rubric doesn't recognize? In that case, the scores push you to throw away an improvement without any hint that the rubric is"
+    }
+  ]
+}

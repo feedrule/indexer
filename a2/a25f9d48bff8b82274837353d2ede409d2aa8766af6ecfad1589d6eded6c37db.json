@@ -1,0 +1,20 @@
+{
+  "url": "https://jpb.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://jpb.dev/blog/is-anubis-a-good-solution/",
+      "title": "I don't feel Anubis is a good solution",
+      "description": "A level 6 Anubis challenge took roughly 22 seconds of work in Chrome on my MacBook Pro. A custom GPU solver on the same machine averaged 5 milliseconds. Is this meant to deter scrapers?"
+    },
+    {
+      "link": "https://jpb.dev/blog/cracking-fn-801b3de4/",
+      "title": "Cracking fn_801B3DE4: The Function That Started It All",
+      "description": "One function in my Star Fox Adventures decomp held out for fifteen sessions, a fine-tuned model, two corpus brute-forces, decomp-permuter, even reverse-engineering the compiler itself, and every frontier AI I could throw at it — all of which kept insisting it was impossible. Here's the long road to a byte-perfect match — the daft no-op hack that first forced it, and the plain, idiomatic C I eventu"
+    },
+    {
+      "link": "https://jpb.dev/blog/dolphin-debugger-mcp/",
+      "title": "Reverse-Engineering Star Fox Adventures Live with Claude and a Dolphin MCP",
+      "description": "I built an MCP server that drives Dolphin's built-in GDB debugger, then handed it to Claude and just played the game. It set its own breakpoints and narrated an entire boss fight back to me — and along the way we renamed a mystery struct field and found a piece of cut content."
+    }
+  ]
+}

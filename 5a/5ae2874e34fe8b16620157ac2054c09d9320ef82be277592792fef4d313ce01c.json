@@ -1,0 +1,20 @@
+{
+  "url": "https://www.jeffnolan.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.jeffnolan.com/writing/five-gate-lifecycle/",
+      "title": "No artifact, no handoff: the five-gate campaign lifecycle",
+      "description": "One owner, one artifact, one gate per stage."
+    },
+    {
+      "link": "https://www.jeffnolan.com/field-guides/agents-as-a-workforce/",
+      "title": "Agents as a workforce",
+      "description": "The operating model is the process. Five agent lanes are how that process gets built and deployed, and the guardrail that stops an agent."
+    },
+    {
+      "link": "https://www.jeffnolan.com/field-guides/brand-integration-after-an-acquisition/",
+      "title": "Brand integration after an acquisition",
+      "description": "What to keep, what to redirect, and what happens to pipeline while two brands overlap, worked through with a made-up parent and a made-up acquisition."
+    }
+  ]
+}

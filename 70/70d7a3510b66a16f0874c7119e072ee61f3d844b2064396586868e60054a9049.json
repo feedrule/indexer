@@ -1,0 +1,20 @@
+{
+  "url": "https://gaarazhu.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://GaaraZhu.github.io/introducing-gate/",
+      "title": "Gate: a deterministic PII boundary between your data and AI agents",
+      "description": "The thing that should have been a 2 a.m. incident You wire a database tool into your coding agent. PostgreSQL, Databricks, an internal HTTP API — whatever. The agent is useful . It joins tables you’d forgotten existed, drafts the migration, and writes the report. Productivity goes up."
+    },
+    {
+      "link": "https://GaaraZhu.github.io/crgenerator/",
+      "title": "CRGenerator: automating Change Request documentation from git history",
+      "description": "The problem Most regulated software environments require a Change Request before any production deployment. The CR needs a list of every JIRA issue included in the release — what changed, why, and who approved it."
+    },
+    {
+      "link": "https://GaaraZhu.github.io/chat-the-ops-up/",
+      "title": "Chat the Ops up",
+      "description": "TL;DR This is the story of how we improved our CI/CD methodology by using Bamboo-on-Teams , a serverless ChatOps tool for interacting with Atlassian Bamboo from Microsoft Teams."
+    }
+  ]
+}

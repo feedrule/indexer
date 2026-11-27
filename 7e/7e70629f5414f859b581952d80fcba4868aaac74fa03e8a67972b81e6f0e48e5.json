@@ -1,0 +1,20 @@
+{
+  "url": "https://www.nikhilsnayak.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.nikhilsnayak.dev/blog/react-server-functions",
+      "title": "React Server Functions Are More Than Mutations",
+      "description": "I wanted to use React's existing protocol to query Server Functions. Following that idea led to streaming values, React trees, and the question of who owns the work while they arrive."
+    },
+    {
+      "link": "https://www.nikhilsnayak.dev/blog/introducing-effective-rsc",
+      "title": "Introducing effective-rsc",
+      "description": "An Effect-native React Server Components framework for Bun, built on Rspack and the Navigation API."
+    },
+    {
+      "link": "https://www.nikhilsnayak.dev/blog/2-years-into-software-engineering",
+      "title": "2 Years into Software Engineering",
+      "description": "From failing 12th to finding my ikigai in software engineering it’s been a wild, fulfilling 6-year journey."
+    }
+  ]
+}

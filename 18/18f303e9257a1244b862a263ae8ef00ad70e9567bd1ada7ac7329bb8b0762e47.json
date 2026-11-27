@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ziade.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://tarekziade.github.io/2026/02/18/running-smollm-135m-in-rustnn/",
+      "title": "Running SmolLM-135M in rustnn with flexible inputs",
+      "description": "WebNN is emerging as a portable, browser-friendly inference API. But LLMs hit a hard wall: dynamic inputs."
+    },
+    {
+      "link": "https://tarekziade.github.io/2026/01/31/catching-quadratic-complexity/",
+      "title": "Catching Code Complexity with a Local LLM",
+      "description": "Performance issues in Python often don’t look like bugs."
+    },
+    {
+      "link": "https://tarekziade.github.io/2026/01/14/the-economics-of-ai-coding/",
+      "title": "The Economics of AI Coding: A Real-World Analysis",
+      "description": "My whole stream in the past months has been about AI coding. From skeptical engineers who say it creates unmaintainable code, to enthusiastic (or scared) engineers who say it will replace us all, the discourse is polarized. But I’ve been more interested in a different question: what does AI coding actually cost, and what does it actually save?"
+    }
+  ]
+}

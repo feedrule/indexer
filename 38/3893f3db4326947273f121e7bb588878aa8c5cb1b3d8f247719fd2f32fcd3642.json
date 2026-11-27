@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dodgethissecurity.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.dodgethissecurity.com/2025/11/30/sysmon-config-creation-for-the-lolrmm-framework/",
+      "title": "Sysmon Config Creation for The LOLRMM Framework",
+      "description": "I have spent the last month and a half working on a Sysmon configuration for the LOLRMM framework. This framework is extremely useful for those who intend to hunt down RMMs within their environment. Thus I have been working on this configuration and it is nearly complete and will likely be finalized within the next […]"
+    },
+    {
+      "link": "https://www.dodgethissecurity.com/2019/11/01/hancitor-evasive-new-waves-and-how-com-objects-can-use-cached-credentials-for-proxy-authentication/",
+      "title": "Hancitor. Evasive new waves, and how COM objects can use Cached Credentials for Proxy Authentication.",
+      "description": "While analyzing a new wave of Hancitor, I have determined that they have combined a variety of techniques together which greatly increases the effectiveness of the campaign. According to my research, they have leveraged an effective combination of Living off the Land Techniques in order to evade detection. WMI for indirect command execution and COM […]"
+    },
+    {
+      "link": "https://www.dodgethissecurity.com/2019/02/28/reverse-engineering-an-unknown-rat-lets-call-it-skidrat-1-0/",
+      "title": "Reverse Engineering an Unknown RAT – Lets call it SkidRAT 1.0",
+      "description": "While monitoring a blogspot page that keeps embedding malicious scripts to execute on victim systems I seen some code changes that interested me. Specifically they added another payload for victim systems to retrieve. A casual glimpse at the blog post below wouldn’t make you think that the post was malicious. However, it does contain embedded […]"
+    }
+  ]
+}

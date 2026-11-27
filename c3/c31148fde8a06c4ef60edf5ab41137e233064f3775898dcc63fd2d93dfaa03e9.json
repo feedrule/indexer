@@ -1,0 +1,20 @@
+{
+  "url": "http://blog.martincowen.me.uk/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.martincowen.me.uk/my-c-source-file-format-preferences.html",
+      "title": "My C source file format preferences",
+      "description": "Formatting is not something developers should be spending much time on, but we spend a lot of time staring at code to see if it's right so the formatting needs to be pleasing to the eye. As such, many of the format options are subjective, with many developers' preferences coming from what they have been trained on in books and coursework as well as previously encountered codebases. Here I will att"
+    },
+    {
+      "link": "https://blog.martincowen.me.uk/unit-testing-embedded-c-off-target-with-cpputest-on-windows.html",
+      "title": "Unit Testing Embedded C: Off-Target with CppUTest on Windows",
+      "description": "The reasons for having unit tests in your projects are well-known and accepted; I'm not going to rehash them here. Whether you follow the school of thought that says you must write the tests first or your tests are written to prevent regressions and confirm that the implementation matches the design, you're going to need some unit tests. What I'm trying to do with unit tests is checking that compl"
+    },
+    {
+      "link": "https://blog.martincowen.me.uk/building-embedded-c-applications-on-windows-with-gcc-cmake-and-ninja.html",
+      "title": "Building Embedded C Applications on Windows with GCC, CMake and Ninja",
+      "description": "Most embedded C developers start writing their code on their microcontroller manufacturer's provided IDE - STM32CubeIDE, MPLAB X, TI Code Composer, NXP MCUXpresso, Segger Embedded Studio, Keil uVision, etc. The debugger support, peripheral setup tools and project structure support make this the right way to go, but at some point you should realise that these are not the best editors on the market"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://itsallaboutthebit.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "title": "I'm sorry, but you still have to think",
+      "description": "DHH, the creator of the Ruby on Rails framework, decided to rewrite Campfire Once from Ruby on Rails to Rust. Or rather ask a clanker to do it for him, as he can't stand reading or writing the Rust code himself. After that he added rewrites in other languages , like Elixir and Go. This is very interesting to me, as it's a very good insight into the results of someone using AI agents without readin"
+    },
+    {
+      "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "title": "Memory Safety Absolutists",
+      "description": "When seeing the title of this post, I bet in some people's minds, the first thought was \"Rust devs!\". This connection is not unfounded. Rust devs tend to be passionate about memory safety. Some of it, I'm sure, may have been caused by a classic language wars attitude: my language is better than yours, and here is why. I'm hoping, though, that most of the Rust devs, who say they care about memory s"
+    },
+    {
+      "link": "https://itsallaboutthebit.com/jawsm/",
+      "title": "JAWSM - a JavaScript to WASM compiler",
+      "description": "About a year ago I open sourced a distributed load testing tool called Crows . It runs scenarios compiled to WebAssembly, and as much as I like writing Rust, I wanted to allow using a scripting language in Crows. There are some options to do that in WebAssembly, like using AssemblyScript , but there is no native support for any of the mainstream scripting languages like JavaScript or Python. And,"
+    }
+  ]
+}

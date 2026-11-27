@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.goeswhere.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://blog.goeswhere.com/2026/02/quooker-cube/",
+      "title": "Failed Quooker Cube",
+      "description": "I received a failed Quooker Cube chiller unit. Upon connection to power, nothing would happen; no lights, no sounds. Slightly weird board layout, with the main voltage conversion \"primary\" situated a significant distance from the mains input \"power supply\": Investigation revealed the voltage on the secondary capacitors was only around one volt. The rectification diodes test fine. Investigating the"
+    },
+    {
+      "link": "https://blog.goeswhere.com/2019/10/spooky-exit/",
+      "title": "Spooky Exit At A Distance",
+      "description": "I am personally opposed to async , futures, promises; whatever you call it. It is almost never appropriate for application or library development, yet widely proposed as a good solution to problems. It also has an almost amusingly terrible history of integration and transition into ecosystems. I plan to explain my complaints properly in a future post. But, we still use it. Let's look at a specific"
+    },
+    {
+      "link": "https://blog.goeswhere.com/2017/02/seccomp-tool/",
+      "title": "Playing with prctl and seccomp",
+      "description": "I have been playing with low-level Linux security features, such as prctl no new privs and seccomp . These tools allow you to reduce the harm a process can do to your system. They're typically deployed as part of systemd, although the default settings in many distros are yet to be ideal . This is partly because it's hard to confirm what a service actually needs, and partly because many services su"
+    }
+  ]
+}

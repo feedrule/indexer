@@ -1,0 +1,20 @@
+{
+  "url": "https://bathtub-01.github.io/technical/index.xml",
+  "posts": [
+    {
+      "link": "https://bathtub-01.github.io/technical/ouros-demo/",
+      "title": "A Specialised Haskell Processor on FPGA",
+      "description": "I follow Lennart Augustsson’s approach when he was presenting MicroHs — give the demo first. This is a Haskell program running on a specialised processor, which is hosted on an FPGA and talks through a UART port: There is no software runtime or “kernel trap” underneath, everything is handled by the hardware processor. There is a more detailed demo video . If you want to reproduce this demo, either"
+    },
+    {
+      "link": "https://bathtub-01.github.io/technical/monad/",
+      "title": "Yet Another Explanation of (State) Monad",
+      "description": "While there are already numerous tutorials explaining what a Monad is on the internet, I will strive to present it in a more intuitive and friendly manner. Additionally, we will walk through an example of utilizing the state monad to develop a small embedded DSL in Haskell. Hiding Things Introduces Impurity To understand monads, we must first discuss their motivation. A significant advantage of fu"
+    },
+    {
+      "link": "https://bathtub-01.github.io/technical/little-typer/",
+      "title": "A Reading Note of The Little Typer",
+      "description": "The Little Typer , written by Daniel P. Friedman and David Thrane Christiansen, provides an accessible introduction to dependent type theory. This article briefly summarizes what I have learned from the book. An Overview of Pie The authors of the book designed a language named Pie to demonstrate their ideas. Basically, Pie has a similar syntax to Scheme - you write code in a pure functional style"
+    }
+  ]
+}

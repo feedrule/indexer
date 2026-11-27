@@ -1,0 +1,20 @@
+{
+  "url": "https://agileotter.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://agileotter.blogspot.com/2026/11/the-switch-to-agileotterdev.html",
+      "title": "The Switch to AgileOtter.Dev",
+      "description": "I feel that this site has run its course. I've taken the time to transfer all of the articles from this blog site to the new one, AgileOtter.Dev . The new site is active and online, and I will be posting all future articles to AgileOtter.Dev. I'll leave this one online for some time so people can find the new one from here."
+    },
+    {
+      "link": "https://agileotter.blogspot.com/2026/10/speculative-challenges-of-spec-driven.html",
+      "title": "Speculating on Challenges of Spec-Driven Development",
+      "description": "I'm not fully vested in and convinced by Spec Driven Development. I've gotten over 70% of my initial \"BDUF\" concern and am thinking more clearly. I thought that it would be a good time for me to list the concerns I have for ongoing SDD. In a few years, we can look back and see if we were able to overcome these challenges: Documents Age A document can be correct on the day it is written, and withou"
+    },
+    {
+      "link": "https://agileotter.blogspot.com/2026/09/why-redesign-doesnt-happen-enough.html",
+      "title": "Why redesign doesn't happen (enough)",
+      "description": "Code degrades because it is strongly anchored to the past. Instead of updating, refactoring, reorganising, and rearchitecting the code as we learn over the years, a system tends to keep its original shape, as developers shoehorn new features in with If/else statements. Imagine you are one of N people working individually in the codebase, each of you on a personally assigned task, not in groups. An"
+    }
+  ]
+}

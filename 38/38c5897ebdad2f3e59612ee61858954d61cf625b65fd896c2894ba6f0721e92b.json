@@ -1,0 +1,20 @@
+{
+  "url": "https://analogfeelings.xyz/rss.xml",
+  "posts": [
+    {
+      "link": "https://analogfeelings.xyz/posts/shadersave-inner-machinery/",
+      "title": "On Shadersave's Inner Machinery",
+      "description": "An article on Shadersave's inner workings, and how it can render Shadertoy shaders natively."
+    },
+    {
+      "link": "https://analogfeelings.xyz/posts/rendering-skybox-panoramas-povray/",
+      "title": "Rendering Skybox Panoramas With POV-Ray",
+      "description": "A knowledge article on rendering POV-Ray scenes into several files that can be turned into a panorama."
+    },
+    {
+      "link": "https://analogfeelings.xyz/posts/writing-a-screensaver/",
+      "title": "Writing a Windows Screensaver",
+      "description": "A knowledge article on writing native Win32 screensavers."
+    }
+  ]
+}

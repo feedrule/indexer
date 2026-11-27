@@ -1,0 +1,20 @@
+{
+  "url": "https://jross.me/rss",
+  "posts": [
+    {
+      "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
+      "title": "Open Source as We Know It Is Dead",
+      "description": "I've been part of open source for most of my life. This year, the projects I love started closing their doors to outside contributors, and I don't blame them one bit, but it makes me sad. A personal look at how AI is changing open source as I've known it."
+    },
+    {
+      "link": "https://jross.me/run-express-js-on-cloudflare-workers/",
+      "title": "Run Express.js on Cloudflare Workers",
+      "description": "Learn how to run express.js natively on Cloudflare Workers, with improved Node.js compatibility."
+    },
+    {
+      "link": "https://jross.me/compressing-assets-with-zstandard-and-webpack/",
+      "title": "Compressing assets with Zstandard and Webpack",
+      "description": "Learn how to build compressed zstandard (zstd) assets with webpack and CompressionWebpackPlugin."
+    }
+  ]
+}

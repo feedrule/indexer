@@ -1,0 +1,20 @@
+{
+  "url": "https://dx13.co.uk/index.atom",
+  "posts": [
+    {
+      "link": "https://dx13.co.uk/articles/2026/08/31/august-ai-research-favourites/",
+      "title": "August '26 AI research favourites",
+      "description": "Time for some of my favourite AI papers I’ve read this month. I’d like to write about neat research more, but we’ll see how it goes. For this month, we’ll look at: The Persona Selection Model: Why AI Assistants might Behave like Humans (February 2026). This paper questions why the AIs we use act as assistants — when little to no text in their pre-training will be written in that way. It presents t"
+    },
+    {
+      "link": "https://dx13.co.uk/articles/2026/08/17/load-balancing-with-rendezvous-hashing/",
+      "title": "Load balancing with... Rendezvous Hashing",
+      "description": "About a month ago I wrote about consistent hashing . It’s a neat way for a set of nodes to agree on the placement of something without coordinating with each other. For example, a set of frontend load balancers pinning a user’s session to a particular backend server — without the need for using a component like Redis to store the information. Rendezvous hashing is an alternative algorithm for this"
+    },
+    {
+      "link": "https://dx13.co.uk/articles/2026/07/17/link-perhaps-go-doesnt-leave-atomic-performance-on-the-table/",
+      "title": "Perhaps Go doesn't leave atomic performance on the table after all",
+      "description": "In Memory ordering of atomics in Rust and Go , I described how Go and Rust differ in that Rust allows choosing from a variety of memory ordering guarantees for atomic variables, while Go has just one ordering. I ended on: And so there you go, that’s why I think this is emblematic of Rust and Go’s design choices: Rust gives you the full menu and leaves you to figure out the best for your situation,"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://elih.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://elih.net/blog/nastaliq-distilled/",
+      "title": "Nasta’liq Distilled: Post-OpenType Neural Network Fonts",
+      "description": "Converting Gulzar, an OpenType Nasta’liq font, into a neural font. A build log."
+    },
+    {
+      "link": "https://elih.net/blog/neuraltype/",
+      "title": "NeuralType: A Post-OpenType Font Format",
+      "description": "A font format that uses a small neural model to generate outlines in context, with a live WASM demo."
+    },
+    {
+      "link": "https://elih.net/blog/virtua-grotesk/",
+      "title": "Virtua Grotesk: Grid Systems for Dataset Engineering",
+      "description": "Virtua Grotesk, a typeface drawn on a dyadic self-labeling grid system, and the small neural network learning to draw it."
+    }
+  ]
+}

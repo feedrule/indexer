@@ -1,0 +1,20 @@
+{
+  "url": "https://ivan.canet.dev/feed_rss_created.xml",
+  "posts": [
+    {
+      "link": "https://ivan.canet.dev/blog/2026/06/29/kotlin-non-exhaustive-enum.html",
+      "title": "Kotlin tricks: Non-exhaustive enums",
+      "description": "Kotlin tricks: Non-exhaustive enums Enums are an exhaustive set of values. But what if you suspect you may want to add new entries in the future?"
+    },
+    {
+      "link": "https://ivan.canet.dev/blog/2026/06/15/measure-time.html",
+      "title": "Don't measure elapsed time by subtracting timestamps",
+      "description": "Don't measure elapsed time by subtracting timestamps The most common way of measuring elapsed time is flawed."
+    },
+    {
+      "link": "https://ivan.canet.dev/blog/2026/06/08/kotlin-parameter-order.html",
+      "title": "In which order should Kotlin parameters be declared?",
+      "description": "In which order should Kotlin parameters be declared? There are so many kinds of parameters! Is there an order in which they should be declared?"
+    }
+  ]
+}

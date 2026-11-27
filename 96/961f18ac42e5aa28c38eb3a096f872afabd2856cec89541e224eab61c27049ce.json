@@ -1,0 +1,20 @@
+{
+  "url": "https://rohanadwankar.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://rohanadwankar.github.io/posts/virt.html",
+      "title": "700 agent sandboxes on a 7GB PC",
+      "description": "Recently I got a new computer so in continuity with my other posts on sandboxes I figured we should take a look at how many agent sandboxes we can fit in it to get an…"
+    },
+    {
+      "link": "https://rohanadwankar.github.io/posts/woff2.html",
+      "title": "parsing in .woff2",
+      "description": "In my last post, one piece of feedback I got was that the title was inaccurate because the sentiment parsing wasn't occurring on the font level but rather the typesetting level. This wasn't intentional but in retrospect was definitely true and drove me down a fun rabbit hole!"
+    },
+    {
+      "link": "https://rohanadwankar.github.io/posts/semfont.html",
+      "title": "A font that reads what you wrote",
+      "description": "semfont is a small library that sets typography automatically. As you can see below it automatically highlights, colors, bolds, and italicizes text which aims to make it easier to read."
+    }
+  ]
+}

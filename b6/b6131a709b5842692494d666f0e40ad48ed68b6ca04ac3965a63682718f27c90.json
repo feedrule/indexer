@@ -1,0 +1,20 @@
+{
+  "url": "https://omarjatoi.com/index.xml",
+  "posts": [
+    {
+      "link": "https://omarjatoi.com/terminal-setup/",
+      "title": "Terminal Setup",
+      "description": "Here’s how my terminal is setup and what it looks like these days 1 . I’m using Ghostty as my primary terminal application, and have installed most 2 command line programs using nix . I use the “Ayu Mirage” theme and the JetBrains Mono font. Zsh, Starship, Atuin, some aliases I use zsh as my shell with a pretty minimal .zshrc (shown below) and starship as my shell prompt. My starship configuration"
+    },
+    {
+      "link": "https://omarjatoi.com/coding-assistants/",
+      "title": "Warming up to LLM-based Coding Assistants",
+      "description": "Side-stepping philosophical discussions around whether or not using an LLM will make you more efficient or lead to skill-rot, and whether or not we ought to embrace these tools in education or reject them; one thing that’s become pretty clear to me is just how good an LLM can be for already experienced programmers who are interested in expanding their vocabulary in the plethora of programming lang"
+    },
+    {
+      "link": "https://omarjatoi.com/hardware-software-services/",
+      "title": "Current Hardware/Software/Services stack",
+      "description": "Some personal websites I’ve visited have a “colophon” section, somewhat similar to a “share my setup” kind of thing. I’ve enjoyed these, so here’s my take on that. What follows is a collection of hardware, software, and services I use on a regular basis. This Website Built with Hugo using a custom from-scratch theme I wrote called untitled (not open-source yet, or maybe ever) Hosted on Fly.io with"
+    }
+  ]
+}

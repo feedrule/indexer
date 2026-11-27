@@ -1,0 +1,20 @@
+{
+  "url": "https://mattjhayes.com/index.xml",
+  "posts": [
+    {
+      "link": "https://mattjhayes.com/posts/humans-are-deeply-unsafe-are-computers-too/",
+      "title": "Humans Are Deeply Unsafe - Are Computers Too?",
+      "description": "A review of my post from last year where I concluded that humans are the real AI safety issue against current (2026) AI safety incidents to see if anything has changed."
+    },
+    {
+      "link": "https://mattjhayes.com/posts/charting-time-with-prometheus-and-grafana/",
+      "title": "Charting Time With Prometheus and Grafana",
+      "description": "Time-series data helps us understand not only what happened, but when it happened and what else was happening at the same time."
+    },
+    {
+      "link": "https://mattjhayes.com/posts/self-hosting-my-blog-site/",
+      "title": "Self Hosting this Blog",
+      "description": "An account of my journey to self-hosting this blog, running Hugo, and Caddy on a Raspberry Pi"
+    }
+  ]
+}

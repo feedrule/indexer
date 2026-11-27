@@ -1,0 +1,20 @@
+{
+  "url": "https://carfax.org.uk/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Understanding U-Boot's Boot Process",
+      "description": "Over the last couple of months, I’ve been playing with writing an operating system. This post is only peripherally about that, though. I had to do quite a bit of investigating to work out how to get my nascent OS to boot. It’s hard to work it out from the available documentation: almost everything’s about how to make existing OSes work, and they’ve mostly hidden the details away so you don’t have"
+    },
+    {
+      "link": null,
+      "title": "Designing a trivial CPU, part 3: high level hardware",
+      "description": "Go to the first post in this series. Introduction In the first two parts of this series, I talked about picking the instruction set for my trivial processor. So far, however, I haven’t mentioned how the processor actually works to execute those instructions. In the next few posts, I’m going to talk about the design and control of the circuitry in the processor. The Loop As I mentioned in part 1, t"
+    },
+    {
+      "link": null,
+      "title": "Designing a trivial CPU, part 2: machine code",
+      "description": "Go to the first post in this series. Introduction I’m designing a small CPU. In the last post, I picked (fairly arbitrarily) bit-size, registers, addressing modes, and an instruction set. To recap, that’s: 8 bits; four registers ( x , y , i and j ); four additional indirect modes ( (i) , (j) , k and (k) ), where k is an 8-bit constant."
+    }
+  ]
+}

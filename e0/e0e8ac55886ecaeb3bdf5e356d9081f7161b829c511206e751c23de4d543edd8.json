@@ -1,0 +1,20 @@
+{
+  "url": "https://himynameisoleg.com/index.xml",
+  "posts": [
+    {
+      "link": "https://himynameisoleg.com/about/",
+      "title": "About Me",
+      "description": "I’m a Staff Software Engineer from Chicago. Currently at Bain & Company building AI-powered knowledge retrieval tools for consulting. Previously worked on data privacy and consent management at Abbott, shopping orchestration micro-services at United Airlines, and enterprise platforms, chatbots and web applications at Accenture. Graduated with a BS in Biology from Loyola University Chicago and an M"
+    },
+    {
+      "link": "https://himynameisoleg.com/blog/04-writing-interpreter-compiler/",
+      "title": "From Zero to Compiler: Lessons Learned by Doing",
+      "description": "Intro I’ve noticed that almost every book I read, new restaurant I try, or video game I play is usually based on someone’s recommendation. In the data science world, we can build recommendation engines using a technique called “Collaborative Filtering” to help make predictions when the data we have is limited. The gist of it is: “If I like something and I’m into similar things as you, then I must"
+    },
+    {
+      "link": "https://himynameisoleg.com/blog/02-an-ultralearning-approach-to-the-technical-interview/",
+      "title": "An Ultralearning Approach to the Technical Interview",
+      "description": "Intro In 2023 I interviewed with Amazon and Google. Both were eye opening experiences and exposed me to the rigor and extreme caution that big tech companies take with their hiring process. Their philosophy, as I’ve come to understand, is that passing on a few good candidates is better than hiring one bad egg. This poses an especially big challenge for us humble interviewees because we need to be"
+    }
+  ]
+}

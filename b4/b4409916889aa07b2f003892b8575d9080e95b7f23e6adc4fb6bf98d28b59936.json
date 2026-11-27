@@ -1,0 +1,20 @@
+{
+  "url": "https://jwillmer.de/feed.xml",
+  "posts": [
+    {
+      "link": "https://jwillmer.de/blog/projects/cosmic-text-editor-find-and-folder-icons",
+      "title": "Find like Notepad++, and folders with their own icons",
+      "description": "Since I wrote about writing Markdown in my patched COSMIC Text Editor , two releases came out. Version 0.6.0 gives the editor the search I used every day in Notepad++. Version 0.7.0 lets COSMIC Files show a folder’s own icon, so my projects folder finally looks like one. Both are part of Desktop Extras for COSMIC™, the collection of small tools from my first post . It is an unofficial, personal pr"
+    },
+    {
+      "link": "https://jwillmer.de/blog/projects/cosmic-text-editor-writing-markdown",
+      "title": "COSMIC Text Editor: from reading Markdown to writing it",
+      "description": "Update, 20 November 2026: Version 0.6.0 brings search like Notepad++: a Find and Replace window, Find All and Find in Files. Version 0.7.0 gives folders in COSMIC Files their own icons. Read more in Find like Notepad++, and folders with their own icons . When I wrote about my patched COSMIC Text Editor , it was good at reading Markdown: files opened rendered, with a preview that handles READMEs, M"
+    },
+    {
+      "link": "https://jwillmer.de/blog/projects/cosmic-text-editor",
+      "title": "A Notepad++-style Text Editor for COSMIC",
+      "description": "Update, 17 November 2026: Version 0.5.0 turns the editor from reading Markdown into writing it: a “/” menu, formatting shortcuts, list and table editing, and 5 MB files that open in about 2 seconds. Read more in COSMIC Text Editor: from reading Markdown to writing it . In my first post I described the taskbar and the other small tools I built after moving from Windows to COSMIC. The tool I now use"
+    }
+  ]
+}

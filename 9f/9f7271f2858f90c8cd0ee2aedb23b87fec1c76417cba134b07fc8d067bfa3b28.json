@@ -1,0 +1,20 @@
+{
+  "url": "https://eviltyrant.com/wordpress/feed/",
+  "posts": [
+    {
+      "link": "https://eviltyrant.com/wordpress/2026/10/if-you-want-to-install-macos-27-2-and-already-have-ai-disabled-via-homebrew-omlahore-tap-removemacai-removemacai/",
+      "title": "If you want to install MacOS 27.2 and already have AI disabled via homebrew omlahore/tap/removemacai (RemoveMacAI)",
+      "description": "Method for installing updates with removemacai installed. I think this is the order for a quick install: 1. Remove the AI removing profile 2. Reboot the machine 3. Install the software update 4. Reboot the machine 5. Reinstall the AI removing profile If you have time you can just install the upgrade. The install will […]"
+    },
+    {
+      "link": "https://eviltyrant.com/wordpress/2024/11/factory-toyota-dashcam-sd-card-replacement/",
+      "title": "Factory Toyota Dashcam SD card Replacement",
+      "description": "2022 Sienna, replacing the memory card was easy. Mine came with a 16 GB card labeled (industrial). So I ordered a SanDisk 64GB Max Endurance micro SDXC card to replace it. After reading online the SanDisk comes formatted ExFat, so I took the card out of the Dash Cam and checked the directory structure, sure […]"
+    },
+    {
+      "link": "https://eviltyrant.com/wordpress/2024/10/stupid-ubuntu-tricks-install-by-default-only-uses-100gb-of-space-even-when-you-tell-it-to-use-it-all/",
+      "title": "Stupid Ubuntu tricks – install defaults to allocating only 100GB of space even when you tell it to use it all.",
+      "description": "So this is one of the most annoying features of Ubuntu I’ve found yet. If you install server (possibly the desktop too, not sure). By default ubuntu will partition the root to have the full disk space (other than grub boot etc…) but will install the OS on a LV (logical volume) that restricts the […]"
+    }
+  ]
+}

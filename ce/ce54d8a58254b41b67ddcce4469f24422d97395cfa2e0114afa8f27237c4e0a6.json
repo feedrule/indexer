@@ -1,0 +1,20 @@
+{
+  "url": "https://hackteam.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://hackteam.io/blog/why-compression-should-be-part-of-your-agent-harness/",
+      "title": "Why compression should be part of your agent harness",
+      "description": "How you can use deterministic filtering, grouping, and formatting to reduce agent context, then use semantic compression and prompt rewrites separately. Practical examples from RTK, Caveman, and Ponytail."
+    },
+    {
+      "link": "https://hackteam.io/blog/tool-calling-is-broken-without-mcp-server-composition/",
+      "title": "Tool calling is broken without MCP Server Composition",
+      "description": "Most agents fail not at reasoning, but at picking and using the right tools. This post explains how Model Context Protocol (MCP) server composition fixes that with four practical patterns."
+    },
+    {
+      "link": "https://hackteam.io/blog/stop-converting-openapi-specs-mcp-servers/",
+      "title": "Stop Converting OpenAPI Specs Into MCP Servers",
+      "description": "Converting your existing OpenAPI specification into an MCP Server"
+    }
+  ]
+}

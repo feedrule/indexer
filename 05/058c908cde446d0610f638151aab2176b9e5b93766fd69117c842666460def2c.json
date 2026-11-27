@@ -1,0 +1,20 @@
+{
+  "url": "https://www.vegardstikbakke.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://vegardstikbakke.com/earendil-pi-compaction/",
+      "title": "Compaction in Pi",
+      "description": "A blog post I wrote for Earendil, where I'm currently working: How Compaction Works in Pi"
+    },
+    {
+      "link": "https://vegardstikbakke.com/kqueue/",
+      "title": "Detecting file changes on macOS with kqueue",
+      "description": "A while ago I wrote a small file watcher in Go for my own use with an accompanying blog post . I needed a tool that I could just plop in front of the command I was running as part of my iteration loop. I use it for recompiling C files when I modify them, reload gcc main.c -o main && ./main and for rebuilding and reloading my static site on file changes. reload make It has two modes. If one or more"
+    },
+    {
+      "link": "https://vegardstikbakke.com/recently-2026-1/",
+      "title": "Recently",
+      "description": "I want to write more! I like the format of Tom MacWright 's Recently posts. So here's what I've been doing and thinking about recently, for the first month of 2026. # Family My wife and I just had our third child at the start of this year - our third son! The older boys are 5 and 3, and they are very proud to have a baby brother. I have to say, it's so lovely to have a baby! And family life with t"
+    }
+  ]
+}

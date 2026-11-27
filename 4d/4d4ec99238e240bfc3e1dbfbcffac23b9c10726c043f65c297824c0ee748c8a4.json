@@ -1,0 +1,20 @@
+{
+  "url": "https://unclesp1d3r.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://unclesp1d3r.github.io/posts/red-team-operations-osint-social-engineering/",
+      "title": "Red team operations: OSINT for social engineering",
+      "description": "What an attacker can assemble about your organization from public sources in 2026, the tools that still work post-API-lockdown, the deepfake pretexting threat, and how a defender should think about the exposure surface. Framed for authorized red-teamers and the blue teams sitting across from them."
+    },
+    {
+      "link": "https://unclesp1d3r.github.io/posts/computer-history-computing-1980s-apple-macintosh/",
+      "title": "Computer History: Computing in the 1980s and the Apple Macintosh",
+      "description": "This article delves into the history and development of the Apple Macintosh in the 1980s, exploring its technical innovations, impact on the tech industry, and relevance to cybersecurity while sharing interesting trivia and anecdotes for a technical audience."
+    },
+    {
+      "link": "https://unclesp1d3r.github.io/posts/iot-security-smart-cities-infrastructure/",
+      "title": "IoT Security for Smart Cities and Infrastructure",
+      "description": "A defender-oriented tour of IoT and OT security for smart cities and critical infrastructure. Covers the architecture as deployed, the protocol footguns, the botnets and campaigns that keep showing up, the Flock license plate reader fight, and the regulatory pressure reshaping the market in 2026."
+    }
+  ]
+}

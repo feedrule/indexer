@@ -1,0 +1,20 @@
+{
+  "url": "https://daubois.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://daubois.dev/blog/cve-2026-109618-php2shell-rumors/",
+      "title": "What the PHP2Shell rumors got wrong, from inside the PHP security team",
+      "description": "The PHP2Shell leak got the severity right and most details wrong: an out-of-memory error turned into RCE, and the real stopgap went unmentioned."
+    },
+    {
+      "link": "https://daubois.dev/blog/cve-2026-91768-php-fpm-ipv6-allowed-clients-bypass/",
+      "title": "CVE-2026-91768: FastCGI allowed_clients compared only 96 of an IPv6 address's 128 bits",
+      "description": "php-fpm accepted FastCGI connections from any address sharing the first 96 bits of an allowed IPv6 address, because one memcmp asked for 12 bytes instead of 16."
+    },
+    {
+      "link": "https://daubois.dev/blog/cve-2026-91766-php-http-redirect-credential-leak/",
+      "title": "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
+      "description": "PHP's http:// stream wrapper sent Authorization, Cookie and Proxy-Authorization to any host a redirect pointed at, the bug curl fixed in 2018."
+    }
+  ]
+}

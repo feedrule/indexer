@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.chlc.cc/index.xml",
+  "posts": [
+    {
+      "link": "https://charlie0129.github.io/blog/p/vm-memory-give-back/",
+      "title": "Making VMs Give Memory Back to the Host Like Containers Do",
+      "description": "The Problem Containers are cheap on memory because they share the host kernel. When a process exits, its pages go straight back to the host’s free list. A VM is not like that. On my Proxmox VE hosts, a guest that touched 4 GiB once keeps 4 GiB of host memory forever, even if the guest is now idle with almost nothing running. The guest kernel knows the pages are free. The host does not. Then I noti"
+    },
+    {
+      "link": "https://charlie0129.github.io/blog/p/alpine-image-builder/",
+      "title": "Building Alpine Linux Disk Images Without a VM",
+      "description": "In Minimal Alpine Linux on a 1 GB Btrfs Root Disk I wrote down the recipe I use to build a tiny Alpine instance: boot the ISO in a VM, run setup-alpine with disk=none , partition by hand, setup-disk -m sys /mnt , reboot, then qemu-img convert the disk. It works, and I still use that post as the explanation of why the pieces are the way they are. What I got tired of is the process. Every image cost"
+    },
+    {
+      "link": "https://charlie0129.github.io/blog/p/building-audio-insight/",
+      "title": "Building Audio Insight: An Audio Analyzer That Actually Renders Smoothly",
+      "description": "I like audio analyzers. It answers questions that my ears alone cannot answer quickly. Where is that resonance? Is the low end actually mono? How loud is this over the whole track? Is a limiter catching an occasional peak, or working all the time? What I do not like is an analyzer whose interface feels slower than the display it runs on. On my M1 Max, Excite Audio VISION 4X appeared to top out at"
+    }
+  ]
+}

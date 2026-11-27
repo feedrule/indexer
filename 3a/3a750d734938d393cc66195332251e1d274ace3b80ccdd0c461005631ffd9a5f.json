@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.nathanaelbonfim.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.nathanaelbonfim.com/posts/my-yak-shaving-sessions-dont-yield-as-much-wool/",
+      "title": "My Yak shaving sessions don't yield as much wool",
+      "description": "I’ve always been into creating random tools to make what I do easier. It didn’t turn out great every time. Sometimes, the process of creating was such a pain that I would need to do the “small thing” 100 times over to recoup the invested time. Funny enough, I don’t regret any of my “yak shaving” detours. I learned a lot. Now with AI, I feel like I can “summon” whatever tool or automation I can dre"
+    },
+    {
+      "link": "https://blog.nathanaelbonfim.com/posts/how-to-make-drm-content-work-on-heliumbrowser-linux/",
+      "title": "How to make DRM content work on helium-browser (Linux only)",
+      "description": "Switched to Helium for a non-bloat experience, but now wanna watch stuff instead of working on your projects? I got you Legal disclaimer This guide is for educational purposes only . At no point are we distributing Widevine or any proprietary software. This method only works if you already have Google Chrome (and therefore Widevine) legally installed on your machine. TLDR Install “Google Chrome” S"
+    },
+    {
+      "link": "https://blog.nathanaelbonfim.com/posts/making-the-clipboard-work-across-ssh-sessions-on-wayland/",
+      "title": "Making the clipboard work across ssh sessions on Wayland",
+      "description": "Ever tried copying code from SSH conn and ended up doing a “finger workout” in your keyboard? Me too Recently I’ve given a crack into this “run agent in another machine thing”. At least for me, RAM is very expensive right now and my Thinkpad is strugling to keep up with it’s mere 16 GB. But hey, I do have an older laptop with another 16 GB. It’s DDR4, but still works. Arch installed, ssh configure"
+    }
+  ]
+}

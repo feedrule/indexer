@@ -1,0 +1,20 @@
+{
+  "url": "https://nor-blog.pages.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://nor-blog.pages.dev/posts/2026-10-27-enumerating-primes/",
+      "title": "Enumerating primes on a Turing machine in nearly linear time, unconditionally",
+      "description": "A new deterministic, unconditional algorithm for enumerating primes in nearly linear time on a multitape Turing machine, matching Harvey's previously conditional bound relying on a conjecture, with GPT-6 Astra."
+    },
+    {
+      "link": "https://nor-blog.pages.dev/posts/2026-10-11-circle-in-circle-packing-15-20/",
+      "title": "Optimal packings of 15-20 equal circles in a circle",
+      "description": "A short note on proving optimal packings of 15, 16, 17, 18 and 20 circles in a circle: history, how the proofs were found with an LLM, and the main ideas."
+    },
+    {
+      "link": "https://nor-blog.pages.dev/posts/2026-09-02-quantile-balancing/",
+      "title": "Understanding, extending and improving quantile balancing",
+      "description": "A discussion of MoE load balancing, understanding quantile balancing, and generalizing and improving upon it. We show two improvements - one for improving load balancing/steering, and another for improving loss by making load balancing strength configurable."
+    }
+  ]
+}

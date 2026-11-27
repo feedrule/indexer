@@ -1,0 +1,20 @@
+{
+  "url": "https://tansanrao.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://tansanrao.com/garden/notes/why-i-keep-unfinished-notes-in-public",
+      "title": "Why I keep unfinished notes in public",
+      "description": "Why I share evolving notes and how I learn through writing."
+    },
+    {
+      "link": "https://tansanrao.com/writing/2026/07/xnu-architecture-and-build-overview",
+      "title": "XNU Architecture and Build Overview",
+      "description": "This is the first post in a series to port Apple's XNU kernel to Raspberry Pi devices. In this post, we'll be exploring the XNU kernel architecture, key components, and build system."
+    },
+    {
+      "link": "https://tansanrao.com/writing/2026/03/nexus-kb-announcement",
+      "title": "Nexus KB Announcement",
+      "description": "Announcing Nexus Knowledge Base! Nexus Knowledge Base is a free and open source exploratory workspace for Linux kernel developers and academic researchers."
+    }
+  ]
+}

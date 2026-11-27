@@ -1,0 +1,20 @@
+{
+  "url": "https://claudio.cica.li/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://claudio.cica.li/posts/2026/a-leaner-redesign-and-owning-my-posts/",
+      "title": "A leaner redesign, 4×100 in Lighthouse, and owning my posts",
+      "description": "After moving away from Eleventy, it was time to give this website the redesign it deserved: out with the old, tired, and heavy look, and in with something much leaner, modern, and minimal. Working together with Gemini Neon on this refresh, we stripped the site down to the essentials. There is zero client-side JavaScript and zero external packages, just plain, semantic HTML, clean CSS, and self-hos"
+    },
+    {
+      "link": "https://claudio.cica.li/posts/2026/open-source-llm-training-and-the-scorpion/",
+      "title": "Open source, LLM training, and the scorpion",
+      "description": "Back when I was actively writing code and advocating for Free and Open Source Software, long before it became an unstoppable force and while proprietary software was still fighting it tooth and nail, we always got the same question: \"How do you expect to make a living if you just give your code away for free, dummy?\" After all these years, we finally have an answer! Our open source code, quietly i"
+    },
+    {
+      "link": "https://claudio.cica.li/posts/2026/moving-away-from-eleventy/",
+      "title": "Moving away from Eleventy",
+      "description": "I replaced Eleventy, Nunjucks, Markdown-it, Prism, and every single npm dependency of this website with a single, self-contained build.mjs file. Zero node_modules , zero plugins, ~100ms builds. If you read my previous post on using Node.js for everything , you already know how I feel about bloated package.json files and unnecessary dependency trees. This personal website is just a handful of stati"
+    }
+  ]
+}

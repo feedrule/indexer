@@ -1,0 +1,20 @@
+{
+  "url": "https://jasuja.us/feed/",
+  "posts": [
+    {
+      "link": "https://jasuja.us/2026/07/how-i-develop-software-in-july-2026/",
+      "title": "How I Do Software Development in July 2026",
+      "description": "Six months ago in Jan I ported JustHTML to PHP. I had also released a CLI for it and published it via Homebrew to make document parsing, selecting DOM nodes and dumping to markdown super easy. Most of the heavy lifting at the time was done by ChatGPT 5.2 Codex, a fantastic model that did […]"
+    },
+    {
+      "link": "https://jasuja.us/2026/03/the-us-israeli-attack-on-iran/",
+      "title": "The US-Israeli attack on Iran",
+      "description": "There was no reason for the US to attack Iran. What boggles the mind is that the administration is not even bothering to justify the attack. The Bush/Cheney administration at least had the decency to lie to the public about weapons of mass destruction so they could manufacture a pretext for the Iraq war. The […]"
+    },
+    {
+      "link": "https://jasuja.us/2026/01/porting-justhtml-to-php-with-gpt-5-2-codex/",
+      "title": "What I learned porting JustHTML to PHP with GPT 5.2 Codex",
+      "description": "A couple of weeks ago, I read Emil Stenström’s write-up on building JustHTML, then Simon Willison’s post about porting it to JavaScript with Codex. That inspired me to create a PHP port in the same vein: a pure PHP library for HTML parsing that passes the html5lib test suite and stays compatible with as many PHP versions […]"
+    }
+  ]
+}

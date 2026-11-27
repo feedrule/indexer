@@ -1,0 +1,20 @@
+{
+  "url": "https://sysdev.me/feed_rss_created.xml",
+  "posts": [
+    {
+      "link": "https://sysdev.me/2026/11/12/ci-for-embedded-projects/",
+      "title": "CI for Embedded Projects",
+      "description": "Why embedded CI is usually bad, and the pipeline that answers every excuse for it: one pinned toolchain image for the laptop and the runner, every compiled test run under sanitizers, and real boards wired into the pipeline."
+    },
+    {
+      "link": "https://sysdev.me/2026/10/19/bazel-cross-compilation/",
+      "title": "Cross-Compiling C++ with Bazel: Platforms, Toolchains and the Exec/Target Split",
+      "description": "As far as I'm concerned, Bazel is the best build tool you can pick today, as long as it supports your language."
+    },
+    {
+      "link": "https://sysdev.me/2026/09/29/context-enrichment-for-multi-agent-code-review/",
+      "title": "Context enrichment for multi-agent code review",
+      "description": "When a model gets something wrong, we reach for the same words: it hallucinated, it ignored the instructions, it isn't smart enough yet. Sometimes that's true."
+    }
+  ]
+}

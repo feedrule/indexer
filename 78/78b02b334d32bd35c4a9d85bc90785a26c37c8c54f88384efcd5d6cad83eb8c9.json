@@ -1,0 +1,20 @@
+{
+  "url": "https://albertodebortoli.com/rss/",
+  "posts": [
+    {
+      "link": "https://albertodebortoli.com/2026/09/15/authentication-and-authorization-a-comprehensive-guide/",
+      "title": "Authentication and Authorization: A Comprehensive Guide",
+      "description": "OAuth 2.0, JWT, PKCE, OIDC, SAML, SSO: the auth ecosystem is big enough to misremember. This compendium builds a clear mental model for each concept and explains how they fit together."
+    },
+    {
+      "link": "https://albertodebortoli.com/2026/09/08/inover-the-air-localizations-in-a-modular-ios-app/",
+      "title": "In-House Over-the-Air Localizations in a Modular iOS App",
+      "description": "How we built a minimalistic, elegant and effective remote localization system for the Just Eat Takeaway consumer app."
+    },
+    {
+      "link": "https://albertodebortoli.com/2026/07/15/revisiting-the-jet-ios-modular-architecture-in-2026/",
+      "title": "Revisiting the JET iOS Modular Architecture in 2026",
+      "description": "Revisiting the Modular iOS Architecture @ Just Eat from 2019 addressing previous limitations and refining the vocabulary."
+    }
+  ]
+}

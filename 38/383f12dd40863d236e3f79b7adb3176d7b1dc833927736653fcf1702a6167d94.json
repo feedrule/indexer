@@ -1,0 +1,20 @@
+{
+  "url": "https://fabiorehm.com/index.xml",
+  "posts": [
+    {
+      "link": "https://fabiorehm.com/blog/2026/10/09/im-done-with-dev-containers/",
+      "title": "I’m “Done” with Dev Containers",
+      "description": "Well… that didn’t last long Back in March I wrote about crib , yet another dev environment tool I built after years of not hacking on this kinda stuff in the open. The Dev Container spec really felt like the right foundation: I didn’t have to invent my own format or special configuration anymore, just build a runner that worked the way I wanted."
+    },
+    {
+      "link": "https://fabiorehm.com/about/",
+      "title": "About",
+      "description": "Hi, I’m Fabio! 👋 I’m based in Brazil and I make my living by turning product ideas into Rails code. The other thing that interests me is developer environment tooling: it started as making my own setup less painful, became open source, and lately became the kind of environment a coding agent can work inside. Most of what I wrote recently sits in that same space: a series walking through what my te"
+    },
+    {
+      "link": "https://fabiorehm.com/blog/2026/05/12/im-taired/",
+      "title": "I'm tAIred (lazy brain dump edition)",
+      "description": "No, not a typo, I’m getting tired of “AI”. I’m wondering when are we gonna go back to discussing other cool things? Can we just try and move on for a bit? What’s the next cool feature or trend we might see in Rails 9 that will be copied over to other frameworks? Does that still happen these days? What comes after containers for pushing code to prod and local dev? Micro VMs? Is serverless still a t"
+    }
+  ]
+}

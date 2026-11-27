@@ -1,0 +1,20 @@
+{
+  "url": "https://georgeguimaraes.com/rss/",
+  "posts": [
+    {
+      "link": "https://georgeguimaraes.com/stop-putting-mimic-copy-in-test_helper-exs/",
+      "title": "Stop Putting Mimic.copy in test_helper.exs",
+      "description": "Mimic's docs tell you to centralize Mimic.copy calls in test_helper.exs. I don't."
+    },
+    {
+      "link": "https://georgeguimaraes.com/review-nvim-code-review-annotations-ai/",
+      "title": "review.nvim: Code Review Annotations for AI Feedback Loops",
+      "description": "A Neovim plugin for annotating diffs, and any file, with typed review comments, then handing them to an AI coding assistant as markdown."
+    },
+    {
+      "link": "https://georgeguimaraes.com/smelter-json-schema-elixir-code-generator/",
+      "title": "Smelter: JSON Schema to Elixir Code Generator",
+      "description": "Stop hand-coding Ecto structs for external APIs. Smelter generates them from JSON Schema, including $ref resolution, composition, and batch processing."
+    }
+  ]
+}

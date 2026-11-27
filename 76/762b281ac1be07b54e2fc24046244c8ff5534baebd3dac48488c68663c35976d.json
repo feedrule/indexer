@@ -1,0 +1,20 @@
+{
+  "url": "https://audrey.feldroy.com/feeds/python.atom.xml",
+  "posts": [
+    {
+      "link": "https://audrey.feldroy.com/articles/2026-03-13-Staticware-0.2.0",
+      "title": "Staticware 0.2.0: The first cut",
+      "description": "This is an early release. Staticware does something very satisfyingly today: it serves static files with content-hashed URLs for cache busting. That means when you edit your CSS then redeploy and restart your server, visitors get the latest CSS without forcing a refresh. More will come."
+    },
+    {
+      "link": "https://audrey.feldroy.com/articles/2026-03-09-BinaryOrNot-0.6.0",
+      "title": "BinaryOrNot 0.6.0: Three Layers of Detection",
+      "description": "BinaryOrNot identifies binary files three ways: by extension, by file signature, and by content analysis. Pass it any file path and it tells you binary or text, accurately, across PNGs, PDFs, executables, archives, fonts, CJK-encoded text, and hundreds of other formats."
+    },
+    {
+      "link": "https://audrey.feldroy.com/articles/2026-03-07-BinaryOrNot-0.5.0",
+      "title": "BinaryOrNot 0.5.0: Zero Dependencies, 128 Bytes, One Trained Classifier",
+      "description": "If you've ever had BinaryOrNot misidentify a UTF-16 file, choke on a CJK-encoded document, or crash because chardet changed its API, this release is for you."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://elcoderino.com/feed/",
+  "posts": [
+    {
+      "link": "https://elcoderino.com/fix-vlc-video-freezing-after-pausing-or-looping-while-audio-continues-normally/",
+      "title": "Fix VLC Video Freezing After Pausing or Looping While Audio Continues Normally",
+      "description": "I ran into a weird problem where VLC would freeze the video after resuming from pause, or when a video started over after looping. The audio kept playing normally, but the picture stayed frozen until I manually skipped to another position in the video. In my case, the issue was caused by VLC’s hardware decoding. […] The post Fix VLC Video Freezing After Pausing or Looping While Audio Continues Nor"
+    },
+    {
+      "link": "https://elcoderino.com/how-to-purge-cache-on-cloudflare-for-a-single-file/",
+      "title": "How to Purge Cache on Cloudflare for a Single File",
+      "description": "Sometimes you push an update to a CSS file, a script, or an image, and Cloudflare keeps serving the old version to visitors. Purging your entire site cache is overkill (and slows things down while it rebuilds). Here is how you can clear the cache for a single specific file directly from your Cloudflare dashboard. […] The post How to Purge Cache on Cloudflare for a Single File appeared first on El"
+    },
+    {
+      "link": "https://elcoderino.com/how-to-bulk-delete-your-tweets-on-x-using-the-browser-console/",
+      "title": "How to Bulk Delete Your Tweets on X Using the Browser Console",
+      "description": "If you want to clean up your X / Twitter account, deleting tweets one by one can take forever. There are paid tools that can do this, but you can also automate the process directly from your browser using JavaScript and the browser console. Before You Start This method works directly in your […] The post How to Bulk Delete Your Tweets on X Using the Browser Console appeared first on El Coderino -"
+    }
+  ]
+}

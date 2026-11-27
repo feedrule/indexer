@@ -1,0 +1,20 @@
+{
+  "url": "https://melomac.com/index.xml",
+  "posts": [
+    {
+      "link": "https://melomac.com/posts/xcsset-domains-timeline-and-blocklists/",
+      "title": "XCSSET domains timeline and blocklists",
+      "description": "The lifecycle of every known XCSSET command-and-control domain across four campaigns and 23 hosts, and up-to-date blocklists for Little Snitch and LuLu."
+    },
+    {
+      "link": "https://melomac.com/posts/run-swift-on-debian-trixie/",
+      "title": "Run Swift on Debian Trixie",
+      "description": "How to run Swift toolchains on the current stable Debian release, by working around LLDB’s Python dependency mismatch."
+    },
+    {
+      "link": "https://melomac.com/posts/introducing-fashion-command-line-tool/",
+      "title": "Introducing fashion command-line tool",
+      "description": "Compute and match file cryptographic or fuzzy hash digests, for threat hunting and binary triage on macOS."
+    }
+  ]
+}

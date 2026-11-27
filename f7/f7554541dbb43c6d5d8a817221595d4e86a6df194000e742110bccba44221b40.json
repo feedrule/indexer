@@ -1,0 +1,20 @@
+{
+  "url": "https://wasmgroundup.com/blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://wasmgroundup.com/blog/wasm-vm-part-2",
+      "title": "A WebAssembly interpreter (Part 2)",
+      "description": "Adding local and global variable support to our Wasm Interpreter"
+    },
+    {
+      "link": "https://wasmgroundup.com/blog/wasm-vm-part-1",
+      "title": "A WebAssembly interpreter (Part 1)",
+      "description": "Implementing a Wasm Interpreter to explore its design and semantics"
+    },
+    {
+      "link": "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet",
+      "title": "A WebAssembly compiler that fits in a tweet",
+      "description": "Starting with a 192-byte one-liner that implements a Reverse Polish Notation arithmetic compiler, we'll work backward to transform it into readable JavaScript by removing one code golf trick at a time"
+    }
+  ]
+}

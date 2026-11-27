@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.programster.org/rss",
+  "posts": [
+    {
+      "link": "https://blog.programster.org/mailcow-create-smtp-credentials-for-entire-domains",
+      "title": "Mailcow - Create SMTP Credentials for Entire Domains",
+      "description": "Create a single SMTP-only mailbox on your Mailcow server that can send from any address on your domains."
+    },
+    {
+      "link": "https://blog.programster.org/zoneminder-tips-and-tricks",
+      "title": "Zoneminder Tips And Tricks",
+      "description": "Useful tips for a Zoneminder setup."
+    },
+    {
+      "link": "https://blog.programster.org/rustdesk-tutorial-video-from-awesome-open-source",
+      "title": "Rustdesk Tutorial Video From Awesome Open Source",
+      "description": "A timestamped youtube video from \"Awesome Open Source\", covering how to setup and use RustDesk for an open source remote desktop tool similar to TeamViewer."
+    }
+  ]
+}

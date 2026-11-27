@@ -1,0 +1,20 @@
+{
+  "url": "https://www.linuxbabe.com/feed/atom",
+  "posts": [
+    {
+      "link": "https://www.linuxbabe.com/linux-server/setting-up-domain-based-policy-routing-split-tunneling-on-vpn-server",
+      "title": "Setting Up Domain-Based Policy Routing & Split Tunneling on VPN Server",
+      "description": "Suppose we have two VPN servers: one located in Hong Kong and another in the United States. The HK server runs OpenConnect VPN, which is very effective to bypass the Great Firewall of China. HK server and US server are connected over WireGuard VPN tunnel. What we want to achieve is default traffic from VPN… Read more => Setting Up Domain-Based Policy Routing & Split Tunneling on VPN Server ."
+    },
+    {
+      "link": "https://www.linuxbabe.com/linux-server/how-to-improve-nextcloud-photos-performance",
+      "title": "How to Improve Nextcloud Photos Performance",
+      "description": "Improving photo performance in Nextcloud is one of the most impactful upgrades you can make, as the default behavior tends to render images lazily (on-demand), which completely chokes the system when you try to scroll through a timeline. To transform it from sluggish to snappy, you need to tackle preview pre-generation, database/memory caching, and consider… Read more => How to Improve Nextcloud P"
+    },
+    {
+      "link": "https://www.linuxbabe.com/raspberry-pi/ip-based-split-tunneling-on-raspberry-pi-vpn-gateway",
+      "title": "IP-based Split Tunneling on Raspberry Pi VPN Gateway",
+      "description": "In a previous article, we discussed the process of turning a Raspberry Pi into a router, and also configured it as a VPN gateway. For users in China, if you’re using a Raspberry Pi as a gateway router with an OpenConnect VPN (HK server), the most robust approach is: Default route → HK VPN China… Read more => IP-based Split Tunneling on Raspberry Pi VPN Gateway ."
+    }
+  ]
+}

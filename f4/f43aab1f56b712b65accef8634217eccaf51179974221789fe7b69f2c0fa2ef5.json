@@ -1,0 +1,20 @@
+{
+  "url": "https://rocketup.pages.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://rocketup.pages.dev/about/",
+      "title": "About Me",
+      "description": "Giuseppe Della Vedova, computer science hobbyist"
+    },
+    {
+      "link": "https://rocketup.pages.dev/posts/alternative-to-skills/",
+      "title": "Custom Prompts: zerostack alternative to Skills",
+      "description": "tldr Skills are over-engineered; a markdown file that redefines the system prompt + an agent integration to switch prompt does the same thing. The problem While designing zerostack (a lightweight TUI coding agent written in Rust), I needed to implement Skills, as they are common in most mainstream coding agents, but while coding them up I realized how Skills go against the minimal design of zerost"
+    },
+    {
+      "link": "https://rocketup.pages.dev/posts/how-zerostack-subagents-work/",
+      "title": "Subagents design @ zerostack",
+      "description": "tldr Parallel read-only child agents with simple text input-output The problem When an agent needs to understand a codebase, it has two choices: start probing files one by one (slow, burns tokens) or dump everything into context (impossible for large projects). Either way, the main agent’s context fills up with exploration noise, decreasing coding performance. Following most mainstream coding agen"
+    }
+  ]
+}

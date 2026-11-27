@@ -1,0 +1,20 @@
+{
+  "url": "https://dragsbaek.tech/rss.xml",
+  "posts": [
+    {
+      "link": "https://dragsbaek.tech/testing-actioncable-playwright-multiple-browsers/",
+      "title": "Testing ActionCable with Playwright across multiple browsers",
+      "description": "Two Playwright browser contexts, a real ActionCable adapter, and a wait for the subscription — not a Chrome/Firefox/Safari matrix."
+    },
+    {
+      "link": "https://dragsbaek.tech/cisco-anyconnect-wsl/",
+      "title": "Fix WSL2 DNS with Cisco AnyConnect on Windows 11",
+      "description": "Quick fix for WSL2 DNS failures under Cisco AnyConnect on Windows 11 by enabling mirrored networking and DNS tunneling."
+    },
+    {
+      "link": "https://dragsbaek.tech/hello-world/",
+      "title": "Hello World",
+      "description": "Hello to the world. This is the first post of my new technical website."
+    }
+  ]
+}

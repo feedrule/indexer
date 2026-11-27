@@ -1,0 +1,20 @@
+{
+  "url": "https://smallsharpsoftwaretools.com/index.xml",
+  "posts": [
+    {
+      "link": "https://smallsharpsoftwaretools.com/courses/git-basics/01-creating-a-repository/",
+      "title": "Creating a Repository",
+      "description": "Configure Git, create a repository, and make your first commit"
+    },
+    {
+      "link": "https://smallsharpsoftwaretools.com/courses/git-basics/02-tracking-changes/",
+      "title": "Tracking Changes",
+      "description": "See what changed with diffs, stage changes, and commit them"
+    },
+    {
+      "link": "https://smallsharpsoftwaretools.com/courses/git-basics/03-reviewing-history/",
+      "title": "Reviewing History",
+      "description": "Read the commit log, visit old commits, and throw away unwanted changes"
+    }
+  ]
+}

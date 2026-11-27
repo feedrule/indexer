@@ -1,0 +1,20 @@
+{
+  "url": "https://maniacalrobot.co.uk/var/feed.rss",
+  "posts": [
+    {
+      "link": "https://www.maniacalrobot.co.uk/var/2026/09/tmux-jumpsuite",
+      "title": "tmux-jumpsuite: A Tmux plugin to jump to things",
+      "description": "Tmux Jumpsuite is a very simple plugin that displays a context-aware list of available actions for the current pane. So far, it's pretty basic, and mostly geared around quickly jumping from tmux to Github (in the default browser), but hey it's a start. There's 2 github actions, \"Go to Repo\" and \"Go to PR\"; and a very simple \"Open in Finder\" which pops the Mac OS finder (or linux file manager) with"
+    },
+    {
+      "link": "https://www.maniacalrobot.co.uk/var/2026/04/favourite-photos-of-2025",
+      "title": "Favourite photos of 2025",
+      "description": "2025 is a story about travel around Southern England and Wales, from the Jurassic coast of Dorset to the south west of Devon and Cornwall, and the Pembrokeshire coast. Beaches, Castles, Cliffs, Industry."
+    },
+    {
+      "link": "https://www.maniacalrobot.co.uk/var/2026/04/a-tmux-config-walk-through",
+      "title": "A Tmux config walk through",
+      "description": "Tmux is a tool that I depend on daily. It is a cornerstone of my development environment. But it was not always like that, for years I only scratched the surface in what it could do. Recently I've invested some time sharpening the touch points. If I'm going to be critical of tmux, the out-of-the-box experience with the default configuration presents a challenge. keyboard bindings are far from intu"
+    }
+  ]
+}

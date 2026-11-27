@@ -1,0 +1,20 @@
+{
+  "url": "https://www.arnaudp.dev/rss/",
+  "posts": [
+    {
+      "link": "https://www.arnaudp.dev/ai-agents-azure-cost-review/",
+      "title": "Every Resource, Checked: How AI Agents Audited Our Cloud Bill",
+      "description": "The usual cost advice covers the big items. We used read-only AI agents and reviewer agents to check every resource in our Azure bill, and cut it by about a quarter."
+    },
+    {
+      "link": "https://www.arnaudp.dev/how-we-built-the-ai-factory/",
+      "title": "How We Built the AI Factory: Workspaces, Runners and Reports",
+      "description": "How the AI Factory is designed on top of Multica: one workspace per team, agents whose access does the locking, and a runner per workspace inside a box we control."
+    },
+    {
+      "link": "https://www.arnaudp.dev/ai-factory-company-platform-for-ai-workflows/",
+      "title": "Your Company's AI Work Shouldn't Live on Someone's Laptop",
+      "description": "People were building great AI workflows on their own. My boss asked what happens when they leave. The answer was one company platform with a harness around it."
+    }
+  ]
+}

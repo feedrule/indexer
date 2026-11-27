@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.hansenpartnership.com/feed/",
+  "posts": [
+    {
+      "link": "https://blog.hansenpartnership.com/adding-two-factor-authentication-to-android-lineageos/",
+      "title": "Adding Two Factor Authentication to Android (LineageOS)",
+      "description": "I really like the idea of using biometrics to add extra security, but have always hated the idea that simply touching the fingerprint sensor would unlock your entire phone, so in my version of LineageOS the touch to unlock feature is disabled but I still use second factor biometrics for the security of various apps. […]"
+    },
+    {
+      "link": "https://blog.hansenpartnership.com/figuring-out-how-ipsec-transforms-work-in-linux/",
+      "title": "Figuring out how ipsec transforms work in Linux",
+      "description": "I’ve had a couple of reasons recently to wonder about ipsec: one was doing private overlay networks in confidential VMs and the other was trying to be more efficient than my IPv4 openVPN when I’m remote on an IPv6 capable network. Usually ipsec descriptions begin with tools like raccoon or strong/open/libreswan; however, I’m going to […]"
+    },
+    {
+      "link": "https://blog.hansenpartnership.com/securing-a-rooted-android-phone/",
+      "title": "Securing a Rooted Android Phone",
+      "description": "This article will discuss securing your phone after you’ve rooted it and installed your preferred os (it will not discuss how to root your phone or change the OS). Re-securing your phone requires the installation of a custom AVB key, which not all phones support, so I’ll only be discussing Google Pixel phones (which support […]"
+    }
+  ]
+}

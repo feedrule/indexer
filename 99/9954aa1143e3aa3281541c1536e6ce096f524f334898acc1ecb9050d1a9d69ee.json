@@ -1,0 +1,20 @@
+{
+  "url": "https://hookrace.net/blog/feed/",
+  "posts": [
+    {
+      "link": "https://hookrace.net/blog/taiyuan/",
+      "title": "Staying in Taiyuan, China",
+      "description": "We live in Heidelberg, Germany. About once a year we travel to my wife’s hometown of Taiyuan, the capital of the Shanxi province in China, to visit my parents-in-law. Our most recent visit was in spring of this year, for two months. In this post I’ll talk about my experiences of regularly staying in Taiyuan since 2019. Source: Wikipedia Getting There Currently Germans can stay for 30 days in China"
+    },
+    {
+      "link": "https://hookrace.net/blog/finding-bugs-using-llms/",
+      "title": "Finding Bugs using LLMs",
+      "description": "At Materialize we’ve had success in finding bugs in existing code and open pull requests using LLM-based coding agents since February 2026, coinciding with the release of Anthropic’s Opus 4.6 (now mostly running on 4.7). In this post we’ll look into some of the considerations that went into the system we are currently using as well as lessons learned. Read the rest of the blog post over on the Mat"
+    },
+    {
+      "link": "https://hookrace.net/blog/workload-capture-replay/",
+      "title": "Workload Capture & Replay",
+      "description": "When customers hit issues in production, it can be an effort to locally reproduce them, especially when external sources are involved. Reproducing issues is useful not just to figure out the root cause, but also to verify the fix and add a regression test. The newly introduced workload capture & replay tooling records a Materialize instance’s state as well as recent queries and ingestion rates, th"
+    }
+  ]
+}

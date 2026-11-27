@@ -1,0 +1,20 @@
+{
+  "url": "https://jon.chrt.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://jon.chrt.dev/2026/10/07/the-modern-tech-interview.html",
+      "title": "The modern tech interview",
+      "description": "About 18 years ago, I dropped out of education and needed a job. A friend of mine worked at a local warehouse and said he could get me in. I met “the gaffer” 1 , and after a five minute chat we shook hands and agreed a start date for the following Monday. I lasted around a week before learning I wasn’t cut out for the work, and achieved little more than wasting the time of the poor chap who was as"
+    },
+    {
+      "link": "https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html",
+      "title": "Things you didn't know about indexes",
+      "description": "Let’s start with things you probably did know. A database index is similar to the index you found at the back of your science textbooks in school. You want to find the pages that talk about Phosphorus? Head to the back and you’ll find an alphabetical list of topics alongside page numbers that reference them. ... Oxygen .................. 42, 88, 103 Periodic table .......... 12–15 Phosphorus ....."
+    },
+    {
+      "link": "https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html",
+      "title": "Adding Live Reload to a Static Site Generator Written in Go",
+      "description": "Over the past few years, I have been toying around with my static site generator, Lumaca . What sets Lumaca apart from the plethora of other static site generators loose in the world? Very little, actually. I didn’t build it to compete with Hugo, Astro or Zola; which are more full featured products. Lumaca is minimal and opinionated. It doesn’t support custom styles or templates. It produces simpl"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jchigg2000.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://jchigg2000.dev/blog/the-same-alert-meant-two-different-failures",
+      "title": "The Same Alert Meant Two Different Failures",
+      "description": "My lineup job sent the same nightly alert, daily exited 1, on eight nights in eleven days. On November 10 it meant Codex was running out of time. By November 12 it meant a dead login, and the alert couldn't say which."
+    },
+    {
+      "link": "https://jchigg2000.dev/blog/green-checks-never-looked-at-the-truck",
+      "title": "1,591 Green Checks Never Looked at the Truck",
+      "description": "I left an agent session running on a 3D model of my flatbed idea, and it came back with 1,591 passing checks and a gray box truck. Every gate checked the data. None of them checked how it looked."
+    },
+    {
+      "link": "https://jchigg2000.dev/blog/a-better-projection-made-worse-lineups",
+      "title": "A Better Projection Made Worse Lineups",
+      "description": "I blended expert consensus rankings into my fantasy football projections and they got more accurate. The lineups built from them did no better, and on my main backtest they got worse, because the optimizer kept picking the players it overrated."
+    }
+  ]
+}

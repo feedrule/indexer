@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mikebourgeous.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.mikebourgeous.com/2026/06/10/the-power-of-the-domain-specific-language/",
+      "title": "The power of the domain-specific language",
+      "description": "1 2 3 4 5 6 7 play synth ( 'midi.mid' ) { | midi | midi . env * midi . tone . ramp . filter ( :lowpass , cutoff : midi . frequency + midi . env ( range : 300 .. 1200 ), quality : midi . cc ( 1 , range : 2 .. 10 ) ) } The mb-sound synthesizer DSL Hey everyone! In this post I want to talk about a long-standing idea in software engineering for making development easier, called domain-specific languag"
+    },
+    {
+      "link": "https://blog.mikebourgeous.com/2026/02/21/from-midi-to-memory-corruption-how-one-typo-uncovered-two-bugs-in-ruby/",
+      "title": "From missing parentheses to memory corruption: how one typo crashed Ruby and uncovered two core bugs",
+      "description": "Ruby bug #21220 TLDR: Click here if you just want the highlights Ruby's range syntax has lower precedence than method invocation, so 1..16.size returns the Range 1..8 (probably 1..4 on 32-bit systems), while (1..16).size returns the Integer 16 . Because of this, we need to wrap a range in parentheses or store it in a variable when we want to call a method on the range. I missed the parentheses aro"
+    },
+    {
+      "link": "https://blog.mikebourgeous.com/2026/02/15/can-ruby-do-audio-yes/",
+      "title": "Can Ruby do audio? Yes, yes it can. This video proves it.",
+      "description": "This video is about reverb. This post is about Ruby. Yet they are also part of a lifelong quest to find and redefine the edges of what people consider possible. A change of perspective can reveal the inherent simplicity within the apparently complex. This quest is incomplete and I don’t yet have the neat, packaged answer that ties everything together, but keep this idea in mind while you read and"
+    }
+  ]
+}

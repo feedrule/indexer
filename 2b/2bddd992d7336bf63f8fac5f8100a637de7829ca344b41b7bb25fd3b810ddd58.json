@@ -1,0 +1,20 @@
+{
+  "url": "https://frereit.de/index.xml",
+  "posts": [
+    {
+      "link": "https://frereit.de/hpcc/",
+      "title": "What are Hardware Private Cubic Circuits?",
+      "description": "Recently, my first ever paper has been published on the IACR ePrint server: https://eprint.iacr.org/2026/1351 . If you’re into hardware side-channel security and know what the d -probing model is, you should probably read the paper. Otherwise, here’s a small intro to what I spent my last ~year working on. Seemingly secure cryptography, like AES, can fail catastrophically when implemented naively o"
+    },
+    {
+      "link": "https://frereit.de/notes-on-av-evasion/",
+      "title": "How I write malware that evades AV and EDR",
+      "description": "In this short post, I want to ramble about my approach to writing malware for Windows systems that are protected by some kind of Antivirus or EDR software. I will use the term AV to refer generally to any endpoint products that are there to detect and mitigate malware attacks. Similarly, I use the term malware extremely broadly here. My experiments are done mostly with little C2 agents I’m cooking"
+    },
+    {
+      "link": "https://frereit.de/hackday_rusty_rev/",
+      "title": "HackDay 2025 - Rusty Rev Writeup",
+      "description": "The “rusty_rev” challenge was, as the name suggests, a Rust reverse engineering challenge for the HackDay 2025 Qualifications CTF . Challenge Description Hello agent, a trusted source managed to find one of the most secured app of the black mist crew, but unfortunately, we can’t find the password to access it. We know your talents for reverse engineering, we need you to help us this password. Down"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://baabaa.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://baabaa.blog/posts/matter-in-truenas/",
+      "title": "The APLSTUGA, HomeAssistant, and GrapheneOS",
+      "description": "I explore the Ikea Alpstuga air sensor, discuss my smart-home setup, Matter, Thread, Home Assistant, and GrapheneOS. I cover some limitations of these projects and work-arounds I’ve discovered, including Graphene’s inability to use the Android Matter Flow. The Ikea Alpstuga is a low-cost CO2, humidity, air temperature and quality sensor. Supporting the open Matter protocol, and costing £25 it’s ex"
+    },
+    {
+      "link": "https://baabaa.blog/posts/microsoft-rights-management/",
+      "title": "The Many Names of Microsoft Rights Management",
+      "description": "Branding Genius Microsoft are popular right now for renaming Microsoft Office to Microsoft 365 Copilot App, but did you know they’ve always been bad at branding? Microsoft Rights Management is a particularly dry piece of bread, microwaved and then toasted to make it palatable. It’s tasked with the challenge of controlling document integrity in and outside your domain. Its exact functions and featu"
+    },
+    {
+      "link": "https://baabaa.blog/posts/welcome/",
+      "title": "Welcome to my blog",
+      "description": "Baa Baaaaaaaaaaaaaa!"
+    }
+  ]
+}

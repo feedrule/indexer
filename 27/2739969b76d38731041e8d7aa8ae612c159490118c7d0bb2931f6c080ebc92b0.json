@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dmuth.org/feed/atom/",
+  "posts": [
+    {
+      "link": "https://www.dmuth.org/patching-https-portal-an-open-source-security-fix/",
+      "title": "Patching HTTPS-Portal: An Open Source Security Fix",
+      "description": "I’m a big fan of the HTTPS-Portal project for my webhosting needs. It’s a really nice Dockerized wrapper for Nginx that also includes a Let’s Encrypt client. What this means is that I can stand up a web service listening on port 8000 that is blocked off by a firewall, then run HTTPS-Portal on the … Continue reading \"Patching HTTPS-Portal: An Open Source Security Fix\""
+    },
+    {
+      "link": "https://www.dmuth.org/nearly-30-years-of-convention-conbadges/",
+      "title": "Nearly 30 Years of Convention Conbadges",
+      "description": "I’ve been attending conventions since going to Anthrocon back in 1999. And over the years, I’ve managed to hang onto most of those conbadges. Most of the conventions I’ve attended (and staffed!) were furry conventions, but there was also a few gaming an anime cons in the mix, as well as BronyCon. I have since … Continue reading \"Nearly 30 Years of Convention Conbadges\""
+    },
+    {
+      "link": "https://www.dmuth.org/furry/",
+      "title": "Inside the Furry Fandom",
+      "description": "Hey there! I first stumbled into the furry fandom in the late 90s–attending my first furry convention in 1999 and staffing my first furry convention in 2000. I did not realize just how much of a long-term role it would play in my life. In nearly 3 decades, I’ve since attended more than 130 conventions … Continue reading \"Inside the Furry Fandom\""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://captnemo.in/atom.xml",
+  "posts": [
+    {
+      "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+      "title": "Indian government sites are serving revoked eMudhra certificates",
+      "description": "On 17th October, eight eMudhra intermediate CAs chaining to emSign ECC Root CA - G3 were found to have trivially recoverable private keys . They were revoked the next day, and Mozilla and Chrome are now distrusting the G3 root. Separately, on 19th October eMudhra revoked 9,356 certificates on its unaffected RSA hierarchy (emSign Root CA - G1) with the reason “Superseded”. That batch matches every"
+    },
+    {
+      "link": "https://captnemo.in/superhexagon/",
+      "title": "Porting Super Hexagon to the Playdate",
+      "description": "Super Hexagon (by Terry Cavanagh) is one of my all-time favorite games. If you haven’t played it, here’s the trailer (from 13 years ago): It is a rhythm game with only two controls, and an official Linux port. The controls are circular (left and right rotate the player triangle around the screen) and ever since I got the Playdate, I’ve always thought that the crank on the playdate would make an am"
+    },
+    {
+      "link": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
+      "title": "Package Managers need global hooks",
+      "description": "This post is an expansion of what I wrote on r/archlinux as a proposal for AUR helpers. It is a call for every package manager to add support for global hooks . The packaging ecosystems that we all rely on have been under constant attacks. The most interesting countermeasures currently are: Dependency Cooldowns , and Dependency Policies . A third interesting one is Homebrew’s cooldown which is a 1"
+    }
+  ]
+}

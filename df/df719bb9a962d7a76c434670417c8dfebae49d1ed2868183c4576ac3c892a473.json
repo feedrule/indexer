@@ -1,0 +1,20 @@
+{
+  "url": "https://utkarsh.bearblog.dev/atom/",
+  "posts": [
+    {
+      "link": "https://utkarsh.bearblog.dev/fall-26/",
+      "title": "Fall 26",
+      "description": "Estimated read: 3-4 min I've ended up taking 12 units, which is disappointing, and partly because I've been a scared little bitch. Technically, I was supposed to take Real Analysis I, Science & Society, UWP104, and Immunology, but this 🪨 lodged in my submandibular gland has messed up all my plans, and I'm flying back thxgiving break to get it removed. Whatever. Immunology is kicking my ass anyways"
+    },
+    {
+      "link": "https://utkarsh.bearblog.dev/1466/",
+      "title": "🌉",
+      "description": "Disclaimer: I'm going to try really hard to write something unique that someone else hasn't observed before. Therefore, I might keep reworking this essay. The first thing I did when I landed in SF before college started was take a really deep breath. The cool air is a precursor to all the possibilities this city offers. Or at least that's how I like to think about it. It's been over a month now, s"
+    },
+    {
+      "link": "https://utkarsh.bearblog.dev/a-macos-port-of-reptyr/",
+      "title": "A MacOS port of reptyr",
+      "description": "Reptyr is a tool that lets you reparent a running program to a new terminal. For example, if you have a Slurm job running but you forgot to run it on a tmux pane, ur screwed. Reptyr helps sidestep this by letting you 'move' the terminal process into a tmux session, allowing you to detach safely. Codex and other agents often don't run things on tmux by default, and by the time i often remember to r"
+    }
+  ]
+}

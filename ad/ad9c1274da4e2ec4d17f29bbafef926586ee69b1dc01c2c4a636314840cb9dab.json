@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.nommy.moe/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.nommy.moe/blog/secret-deep-cleaning-gitlab/",
+      "title": "Deep cleaning of secrets in Gitlab",
+      "description": "So, we accidentally git commit -a -m \"I don't know how to use git\" . Or we just missed the fact that after a frantic debugging session, the new commit contain credentials for some particularly important service that shouldn't be there. We're all humans, after all. So now we're going to figure out how to minimize the damage. Scenario One: Nothing seems wrong yet We noticed in time that something we"
+    },
+    {
+      "link": "https://blog.nommy.moe/blog/exotic-mesh-vpn/",
+      "title": "Testing \"exotic\" p2p VPN",
+      "description": "How did the moose begin My standard \"everyday\" solution when it comes to connecting computers into a single network is Wireguard. Wireguard is good, supports p2p, and generally has no downsides. The downsides come from having part of my home infrastructure located in territory controlled by a country that has blocked Wireguard by signatures. This is, of course, utterly disgusting, and what's even"
+    },
+    {
+      "link": "https://blog.nommy.moe/blog/tasmota-tuya-perversions/",
+      "title": "Connecting Tasmota to Home Assistant and other weird noname devices",
+      "description": "What problem do we have? One day, a very naughty person decided that wiring the whole house (including the electric stove) on a single 2.5mm² cable was a very good idea. Fire safety regulations and automatic fuses didn't agree with this fact. So turning on the boiler and the oven at the same time causes a complete power outage in a single apartment, which frustrates me a lot. And going to unplug t"
+    }
+  ]
+}

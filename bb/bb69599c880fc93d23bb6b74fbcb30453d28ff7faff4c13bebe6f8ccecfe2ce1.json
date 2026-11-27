@@ -1,0 +1,20 @@
+{
+  "url": "https://duswnchl.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://duswnchl.github.io/posts/smarter-chromium-gn-in-vim-with-gn-language-server/",
+      "title": "Smarter Chromium GN in Vim with gn-language-server",
+      "description": "GN Language Server for Chromium development was announced on chromium-dev. It’s very easy to install in VSCode, NeoVim or Emacs. But how can we configure it with classic Vim + YCM?"
+    },
+    {
+      "link": "https://duswnchl.github.io/posts/your-chromium-browser-needs-approval-for-google-password-manager/",
+      "title": "Your Chromium browser needs approval for Google Password Manager",
+      "description": "A few weeks ago, I worked on a Chromium-based browser on Android."
+    },
+    {
+      "link": "https://duswnchl.github.io/posts/tips-for-using-vim-when-developing-chromium/",
+      "title": "Tips for using Vim when developing Chromium",
+      "description": "There are lots of powerful IDEs which are broadly used by developers. Vim is a text editor, but it can be turned into a good IDE with awesome plugins and a little bit of configuration."
+    }
+  ]
+}

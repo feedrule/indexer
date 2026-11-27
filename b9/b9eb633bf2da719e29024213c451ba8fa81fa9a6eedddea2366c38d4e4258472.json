@@ -1,0 +1,20 @@
+{
+  "url": "https://tech.idipankan.com/atom/",
+  "posts": [
+    {
+      "link": "https://tech.idipankan.com/real-time-logistics-with-fabric-and-decision-11/",
+      "title": "From Events to Decisions: Real-Time Logistics with Fabric and Decision-1.1",
+      "description": "Carrier updates, route constraints, and customer priorities complicate shipment recovery. See how Fabric Real-Time workflows and Decision-1.1 help augment rule-based engines to enable decision-making."
+    },
+    {
+      "link": "https://tech.idipankan.com/beyond-object-detection-building-spotquest-with-jev/",
+      "title": "Beyond Object Detection: Building SpotQuest with Jev’s Vision API",
+      "description": "Turning everyday surroundings into a scavenger hunt with Jev. Inside SpotQuest’s visual reasoning, game design, and unit economics."
+    },
+    {
+      "link": "https://tech.idipankan.com/reflexops-agentic-sre-with-jev/",
+      "title": "ReflexOps: Building an Agentic SRE with Jev and Foundry",
+      "description": "Building a safer SRE incident-response workflow with Jev, Microsoft Agent Framework, and Microsoft Foundry"
+    }
+  ]
+}

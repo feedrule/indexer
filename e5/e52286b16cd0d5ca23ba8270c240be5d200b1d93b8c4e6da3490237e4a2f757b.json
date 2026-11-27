@@ -1,0 +1,20 @@
+{
+  "url": "https://www.goodboy.ninja/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.goodboy.ninja/blog/thoughts-on-liquid-glass-in-logic-pro-13",
+      "title": "Thoughts on Liquid Glass in Logic Pro 13",
+      "description": "I just updated Logic Pro to version 13 which brings major changes to the design of the app's user interface. Apple seems to be taking a step deeper into implementing Liquid Glass, their latest design language which unifies the way apps look across different Apple devices. The timing of this release isn't arbitrary, Apple just released their New MacBook Pro with Touch, with the new Logic Pro 13 bei"
+    },
+    {
+      "link": "https://www.goodboy.ninja/blog/vibrating-trackpads-and-the-culture-of-software",
+      "title": "Vibrating trackpads and the culture of software",
+      "description": "I was listening to today's Syntax.fm's podcast episode where Wes and Scott were talking about the dawn of vibe coded Adobe clones, more specifically the release of the ArtCraft suite of apps that's been making waves on social medias for being a relatively solid \"first step in the right direction\" at essentially copying all of the big Adobe programs. In the episode Wes goes on to talk about his exp"
+    },
+    {
+      "link": "https://www.goodboy.ninja/blog/screen-studio-fixes-cursor-smoothing",
+      "title": "Screen Studio promises to fix cursor smoothing",
+      "description": "I recently shared my thoughts around Screen Studio's cursor smoothing feature: The smoothened cursor motion, as satisfying as it can look at times, creates a discrepancy between the cursor and the state of the items it interacts with. It's most noticeable when the cursor passes by menu items, buttons, checkboxes and other UI components that have a \"hover state\". 0:00 /0:11 1× A few days after (and"
+    }
+  ]
+}

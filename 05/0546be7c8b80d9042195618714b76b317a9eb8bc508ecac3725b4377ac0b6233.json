@@ -1,0 +1,20 @@
+{
+  "url": "https://gbenson.net/feed/",
+  "posts": [
+    {
+      "link": "https://gbenson.net/longintrepr-h/",
+      "title": "longintrepr.h",
+      "description": "Did your pip install fail with longintrepr.h: No such file or directory? The file likely is on your system, but it sometime or another it was moved, from /usr/include/python3.xx/longintrepr.h to /usr/include/python3.xx/cpython/longintrepr.h. The proper fix is to update the package in question with the new path, but if you’re installing an old version of something or … Continue reading longintrepr."
+    },
+    {
+      "link": "https://gbenson.net/docker-images-by-size-age/",
+      "title": "Docker images by age or size",
+      "description": "Files by age, newest first: ls -lt Docker images by age, newest first: docker images --format \"{{.CreatedAt}}\\t{{.Repository}}:{{.Tag}}\" | sort -r Files by size, largest first: ls -lS Docker images by size, largest first: docker images --format \"{{.Size}}\\t{{.Repository}}:{{.Tag}}\" | sort -rh Why why why??!"
+    },
+    {
+      "link": "https://gbenson.net/systemd-analyze-blame/",
+      "title": "Slow boot?",
+      "description": "Does your Linux box take forever to boot? The command you’re looking for is systemd-analyze blame"
+    }
+  ]
+}

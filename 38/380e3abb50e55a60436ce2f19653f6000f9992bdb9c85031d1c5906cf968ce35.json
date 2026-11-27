@@ -1,0 +1,20 @@
+{
+  "url": "https://edcrewe.blogspot.com/feeds/posts/default/-/python",
+  "posts": [
+    {
+      "link": "https://edcrewe.blogspot.com/2026/08/from-routing-checks-to-trajectory.html",
+      "title": "From Routing Checks to Trajectory Testing: Evaluating an Agentic Chatbot",
+      "description": "Which Agentic Chatbot? I have been working on a Python based AI test framework for a chatbot interface for my company 's product, Postgres AI Hybrid Manager. The manager allows the setup of Postgres clusters across cloud or on-prem and attaching various AI tools such as Langflow . So a combination of more traditional Postgres backup, migration, telemetry and analytics features along with LLM workf"
+    },
+    {
+      "link": "https://edcrewe.blogspot.com/2025/04/talk-about-cloud-prices-at-pyconlt-2025.html",
+      "title": "Talk about Cloud Prices at PyConLT 2025",
+      "description": "Introduction to Cloud Pricing I am looking forward to speaking at PyConLT 2025 . My talk is called Cutting the Price of Scraping Cloud Costs ( video ) Its been a while (12 years!) since my last Python conference EuroPython Florence 2012 , when I spoke as a Django web developer, although I did give a Golang talk at Kubecon USA last year. I work at EDB, the Postgres company, on our Postgres AI produ"
+    },
+    {
+      "link": "https://edcrewe.blogspot.com/2024/06/software-development-with-generative-ai.html",
+      "title": "Software Development with Generative AI - 2024 Update",
+      "description": "Why write an update? I wrote a blog post on Software Development with Generative AI last year , which was questioning the approach of the current AI software authoring assistants. I believe the bigger picture holds true that to fully utilize AI to write software, will require an entirely different approach. Changing the job of a software developer in a far more radical manner and perhaps making ma"
+    }
+  ]
+}

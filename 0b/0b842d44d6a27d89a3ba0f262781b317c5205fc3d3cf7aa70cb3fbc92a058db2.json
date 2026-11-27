@@ -1,0 +1,20 @@
+{
+  "url": "https://ceets.vip/feed.xml",
+  "posts": [
+    {
+      "link": "https://ceets.vip/posts/uuuuh-what-is-going-on-with-nomadic-identity/",
+      "title": "Uuuuh, what is going on with nomadic identity?",
+      "description": "(Image credit to The Verge ) Back in my 'how to migrate from Bluesky' article, I made a few offhand claims about the Fediverse that turned out to be both inaccurate and a bit of a rabbit hole to look into and correct. I learned shortly after publication that Mastodon implements a way to transfer follow relationships, as well as the actual account contents, to a different instance. I had seen claim"
+    },
+    {
+      "link": "https://ceets.vip/posts/one-does-not-simply-federate-pillowfort/",
+      "title": "One does not simply federate Pillowfort",
+      "description": "I originally wrote this for Pillowfort , but Coyote suggested IndieNews might be interested in the points made here. If you don't know what Pillowfort is, don't worry, consider this a case study on the more general \"you can't just add federation to any existing social media project as if there's no drawbacks.\" Thought I'd separate this into a post since it comes up relatively often when people lea"
+    },
+    {
+      "link": "https://ceets.vip/posts/move-your-bluesky-account-out-of-bluesky-(while-keeping-your-followers)/",
+      "title": "Move your Bluesky account out of Bluesky (while keeping your followers)",
+      "description": "Bluesky has come under fire yet again for a moderation decision. For those unfamiliar: this is more or less a weekly event. Bluesky's underlying technology, AtProto, allows you to speak to Bluesky users while being hosted and moderated by someone other than the Bluesky team. Their specific implementation comes with many issues and caveats, which other people have talked about at length, but it rem"
+    }
+  ]
+}

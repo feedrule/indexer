@@ -1,0 +1,20 @@
+{
+  "url": "https://bloggingabout.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://bloggingabout.net/2026/11/04/composing-product-lists-with-servicecomposer/",
+      "title": "Composing product lists with ServiceComposer",
+      "description": "A product identifier lets services work independently. A product list first needs someone to select the products. How composition events provide that context without a central controller knowing every service."
+    },
+    {
+      "link": "https://bloggingabout.net/2026/11/03/one-product-page-three-services/",
+      "title": "One product page, three services",
+      "description": "Catalog owns the name, Finance owns the price, and Marketing owns the rating. How does OmNomNom turn those separate contributions into one product page?"
+    },
+    {
+      "link": "https://bloggingabout.net/2026/09/10/jevons-paradox/",
+      "title": "Is AI another dot-com bubble, about to burst?",
+      "description": "AI may be in a bubble, but Jevons' paradox suggests cheaper intelligence will make usage and infrastructure demand explode anyway."
+    }
+  ]
+}

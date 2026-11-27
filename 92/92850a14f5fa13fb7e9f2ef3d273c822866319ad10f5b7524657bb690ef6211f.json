@@ -1,0 +1,20 @@
+{
+  "url": "https://kevinfiol.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://kevinfiol.com/blog/2025-retrospective/",
+      "title": "2025 Retrospective",
+      "description": "# 2025 Retrospective 2025 was my first full year as a married man, and I've come to appreciate the \"settled down\" life. Nevertheless, here are some things I did this past year. # Things I did in 2025 Held a belated wedding reception . Although I got married in 2024, my wife and I did not have a wedding reception in 2024, only a small ceremony in my mother-in-law's house with immediate family. In J"
+    },
+    {
+      "link": "https://kevinfiol.com/blog/deno-lsp-in-sublime-text-4/",
+      "title": "Deno LSP in Sublime Text 4",
+      "description": "# Deno LSP in Sublime Text 4 Using Deno with Sublime Text 4 can be surprisingly tricky. At the time of this writing, the SublimeLSP Docs still recommend using the LSP-Deno package on packagecontrol.io. Unfortunately, the package is outdated, with its last update being before the release of Deno 2. Deno's official docs include a section about using Deno LSP with Sublime Text . The catch is it tries"
+    },
+    {
+      "link": "https://kevinfiol.com/blog/a-tour-of-beancms/",
+      "title": "A Tour of BeanCMS",
+      "description": "# A Tour of BeanCMS BeanCMS is a minimalist content management system. I built it as a personal replacement for the great rwtxt . The motivation to build BeanCMS was: I wanted to self-host rwtxt, but had some changes I wanted to make to the core application. I wanted an excuse to build something using redbean.dev and fullmoon while demonstrating that Redbean and Lua are viable options for building"
+    }
+  ]
+}

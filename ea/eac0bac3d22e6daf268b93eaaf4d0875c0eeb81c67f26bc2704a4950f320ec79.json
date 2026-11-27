@@ -1,0 +1,20 @@
+{
+  "url": "https://aluhrs.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://aluhrs.com/blog/2026-03-05-lenny-v3-cli-refactor/",
+      "title": "Lenny V3 - Refactoring and Vibecleaning",
+      "description": "Lenny v3 is the major refactor I've been working on, and the real challenge is just... focus. One of the interesting things about vibecoding is that everything seems possible. You can throw so many things out at once that it’s easy to get lost. The current focus is giving Lenny a lot of tools to understand data about me. It's more on the data liberation side than the ”assistant” side of things. Qu"
+    },
+    {
+      "link": "https://aluhrs.com/links/01khw5ftg22xanc3wfcph2pyjn/",
+      "title": "A Beginner’s Guide to Split Keyboards",
+      "description": "A Beginner’s Guide to Split Keyboards - A lot of cool options, but I love my Alice layout!"
+    },
+    {
+      "link": "https://aluhrs.com/blog/2026-02-18-lenny-v2/",
+      "title": "Compendium - Lenny V2",
+      "description": "Two weeks ago I was enamored with OpenClaw, and after a week of using it I decided to write my own replacement. I'm calling it \"Compendium\" since it's my personal knowledge management system and AI assistant. I'm writing this because I've explained the architecture to a few people now, and I think the pattern of agents, tool sandboxing, etc. is worth writing out. So if you haven't seen the previou"
+    }
+  ]
+}

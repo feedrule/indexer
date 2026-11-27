@@ -1,0 +1,20 @@
+{
+  "url": "https://hillenius.net/tags/emacs/index.xml",
+  "posts": [
+    {
+      "link": "https://hillenius.net/post/emacsconfgnus/",
+      "title": "Emacs Gnus: specify which mail folders to see at all times",
+      "description": "The ultimate way to read, send and manage email (and RSS feeds, and Usenet) is with Emacs Gnus. Here are two ways to instruct Gnus to always show a select few mail folders."
+    },
+    {
+      "link": "https://hillenius.net/post/transient-2/",
+      "title": "Sharing our Transient Elpher menu",
+      "description": "Matto and I are sharing our Transient Menu for Elpher, entitled TMelpher."
+    },
+    {
+      "link": "https://hillenius.net/post/rangoon/",
+      "title": "Calcutta is located in Debian tzdata-legacy",
+      "description": "For those running Debian and derivatives: is Emacs' worldclock showing Bangalore ASIA instead of IST? One option: apt install tzdata-legacy."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "http://www.compdigitec.com/labs/feed/",
+  "posts": [
+    {
+      "link": "http://www.compdigitec.com/labs/2026/10/06/pure-terminal-ammonite-replacement-for-scala-3-9/",
+      "title": "Pure Terminal Ammonite Replacement for Scala 3.9",
+      "description": "Ammonite is gone in Scala 3.9 🙁 This architecture delegates live values to a global object scope before passing thread control over to the official native compiler shell runner. 1. Define a global “mailbox” object anywhere in the project: 2. Update the drop-to-repl invocation: 3. Run it via the Terminal When the application runs and […]"
+    },
+    {
+      "link": "http://www.compdigitec.com/labs/2024/11/01/vcd-dumping-in-chisel-6-5-svsim/",
+      "title": "VCD dumping in Chisel 6.5 / svsim",
+      "description": "Since Chisel 5, chiseltest (formerly known as chisel-testers2) is no longer supported and has been replaced with svsim in the default chisel-template. Unfortunately, the new system doesn’t provide an easy way to dump VCDs from tests. On vanilla Chisel 6.5 this ended up requiring two separate hacks against EphemeralSimulator: Third bonus hack: use the local […]"
+    },
+    {
+      "link": "http://www.compdigitec.com/labs/2024/06/23/dying-ssd-with-media-and-data-integrity-errors/",
+      "title": "Dying SSD with “Media and Data Integrity Errors”",
+      "description": "Dying SSD which caused system freezes, fsck issues, etc."
+    }
+  ]
+}

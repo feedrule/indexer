@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.bethcodes.com/posts.atom",
+  "posts": [
+    {
+      "link": "https://blog.bethcodes.com/i-am-running-for-congress",
+      "title": "I am Running for Congress!",
+      "description": "I am running for the House of Representatives in the Massachusetts 06 District ! From the outside, Congress might look like a wild change from being a Senior Staff Engineer writing healthcare software. For me, it feels like the next step. I always put my energy where I see the most urgent problems. That has taken me into jobs. It took me out of others. I went deep into optimizing computer vision a"
+    },
+    {
+      "link": "https://blog.bethcodes.com/for-delightful-code-reviews-say-nice-things",
+      "title": "For Delightful Code Reviews, Say Nice Things",
+      "description": "A rebellion is brewing. Ideas like post-commit reviews or even a return to cowboy coding are gaining traction over the unpleasant & unproductive experience that is the bug-hunt code review. This is unfortunate, because code reviews are one of the delightful parts of our profession. They let us shape and revel in the things we build together. They let us be confident in our work, and demolish impos"
+    },
+    {
+      "link": "https://blog.bethcodes.com/the-dyslexic-programmer",
+      "title": "The Dyslexic Programmer",
+      "description": "I am dyslexic, and these are my experiences. They certainly won’t be universal, especially as there isn’t just one form of dyslexia [0]. To identify my strain of dyslexia, I read quite quickly (though only somewhat accurately) through pure pattern-recognition. I can look at, say, \"word\" and identify that the second letter is an ‘o’, but if I want to understand it as a concept I ignore the letters"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.arjenwiersma.nl/feed/",
+  "posts": [
+    {
+      "link": "https://www.arjenwiersma.nl/losing-data",
+      "title": "Losing data",
+      "description": "Apparently upgrading writefreely through docker can cause some posts to disappear... The post on my Comicstash project seems to have completely vaporized. I was busy rewriting the blog anyways, so I will not bother, but just be mindful."
+    },
+    {
+      "link": "https://www.arjenwiersma.nl/ikea-grillplats-and-home-assistant-green",
+      "title": "IKEA Grillplats and Home Assistant Green",
+      "description": "So, I went shopping at the IKEA and ran into some really neat home automation gadgets. The Grillplats plug especially interested me as I would like to track power consumption of devices, and I did not yet find a good solution for that. One impulse buy later I was home with my new Grillplats plug. Of course I did a quick google search in the store to see if it was compatible with home assistant, an"
+    },
+    {
+      "link": "https://www.arjenwiersma.nl/it-has-been-a-while",
+      "title": "It has been a while",
+      "description": "My last post was quite a while back. In all honesty, the current state of affairs in coding land had me somewhat burned out on building things, AI is taking the pleasure out of actually thinking. I switched jobs in April, which also took a mental toll... so I decided to step away from my hobby projects and workshops to just focus on that. Now, 3 months later, I decided to reset the way I work with"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://dicomiseasy.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://dicomiseasy.blogspot.com/2011/12/chapter-4-dicom-objects-in-chapter-3.html",
+      "title": "Introduction to DICOM - Chapter 4 - DICOM Objects Explained: IODs, Modules, and How to Create a Secondary Capture Image (SC IOD) in C#",
+      "description": "Chapter 4 – DICOM Objects In chapter 3 we’ve learned about DICOM elements. Every element is one piece of typed data with a pre defined, well specified meaning. There are thousands of DICOM elements (See chapter 6 of the standard) from the very basic attributes of patient name and birth date to the most esoteric uses of 3D surface vortices. In this chapter we’re going to collect elements into image"
+    },
+    {
+      "link": "https://dicomiseasy.blogspot.com/2013/06/getting-oriented-using-image-plane.html",
+      "title": "Getting Oriented using the Image Plane Module",
+      "description": "Just before diving into how to get oriented using the DICOM Image Plane Module , so we can put the letters right in our viewer, I want to get equipped with few more latin words so we understand what Radiologists are mumbling. If you're a Doctor, please be patient with us programmers. Cuts! Three major cuts we have (or planes): Transverse (AKA Axial) divides head from feet Axial Cut Sagittall Cut -"
+    },
+    {
+      "link": "https://dicomiseasy.blogspot.com/2020/01/indexing-dicom-files-in-directory-into.html",
+      "title": "Indexing DICOM files in a directory into a CSV file using PowerShell and MODALIZER-SDK",
+      "description": "This post is continues my series on PowerShell DICOM scripting . It covers a very common task that repeats itself in all kind of forms where I have a directory full of DICOM files that piled up somewhere and needs to be indexed and processed. PowerShell scripting comes handy in these cases where there's a need to do something fast and probably change it on the fly. Of course, you will need a DICOM"
+    }
+  ]
+}

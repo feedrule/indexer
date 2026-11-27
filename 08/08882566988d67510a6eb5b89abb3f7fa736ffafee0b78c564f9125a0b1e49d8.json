@@ -1,0 +1,20 @@
+{
+  "url": "https://kokosa.dev/feed",
+  "posts": [
+    {
+      "link": "https://kokosa.dev/blog/2026/dotfly/",
+      "title": "dotFly - a fruit fly’s brain, simulated in C#",
+      "description": "Running the complete fruit fly connectome (166,700 neurons, 25 M synapses) as a spiking network in pure .NET, inside a game loop - and being honest about what that is and what it is not."
+    },
+    {
+      "link": "https://kokosa.dev/blog/2026/zero-gc/",
+      "title": "ZeroGC: an allocate-only garbage collector for .NET",
+      "description": "A custom CoreCLR GC that only ever allocates and never reclaims memory - the simplest possible baseline for writing a real one, and a fun toy for measuring how GC-bound your app really is."
+    },
+    {
+      "link": "https://kokosa.dev/blog/2026/dotllm/",
+      "title": "Introducing dotLLM - Building an LLM Inference Engine in C#",
+      "description": "How I built a ground-up LLM inference engine in .NET 10, and what I learned about AI-assisted (not vibe-coded) development along the way."
+    }
+  ]
+}

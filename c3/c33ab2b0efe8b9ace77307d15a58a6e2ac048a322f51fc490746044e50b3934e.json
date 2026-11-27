@@ -1,0 +1,20 @@
+{
+  "url": "https://vaxbarn.com/index.php?format=feed&type=atom",
+  "posts": [
+    {
+      "link": "https://vaxbarn.com/index.php/various-articles/accession-a-new-collection-management-system",
+      "title": "Accession: a new Collection Management System",
+      "description": "You may not immediately notice, but as of July 2026, you're looking at a brand-new website. It may look and feel very similar to the previous version of the website, but most of the information presented comes from our brand-new collection management system, Accession. History of this website In 2013, we moved from a small rental home to an old farmhouse. My collection, which previously sat in som"
+    },
+    {
+      "link": "https://vaxbarn.com/index.php/collection/super/intel-ipsc860/ipsc-860-repair",
+      "title": "iPSC/860 repair",
+      "description": "{accession-gallery:/images/intel/ipsc860/0_iPSC2_0.jpg:larger::} After we received an appropriate Intel SYP30 front-end (SRM), we could start thinking about getting our Intel iPSC/860 running again. The SYP-301 came with documentation and software for iPSC/2 and iPSC/860 systems, and an iPSC/2 cardcage with 8 node boards from an iPSC/2, a node board from an iPSC/860, an I/O board with SCSI control"
+    },
+    {
+      "link": "https://vaxbarn.com/index.php/collection/super/intel-ipsc860/srm-for-the-ipsc-860-boots",
+      "title": "SRM for the iPSC/860 boots!",
+      "description": "{accession-gallery:/images/intel/syp301/resizedimages/2021-03-19_141608.jpg:larger::} After a fair amount of work in a week's time, the Intel SYP301 that will serve as the Intel iPSC/860 's SRM has booted!"
+    }
+  ]
+}

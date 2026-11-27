@@ -1,0 +1,20 @@
+{
+  "url": "https://jamiejennings.com/index.xml",
+  "posts": [
+    {
+      "link": "https://jamiejennings.com/posts/2026-10-16-cs-reckoning/",
+      "title": "The CS Reckoning (A Thought)",
+      "description": "Chemical weapons were widely used in World War I, and the field of chemistry had to reckon with that after the war. Treaties were signed, and certain research was subjected to inspection and regulation. Physicists, including Einstein and Bethe, lobbied for bans on nuclear testing and weapons development after World War II. Treaties were signed, and a regime of regulation was developed. Physicists"
+    },
+    {
+      "link": "https://jamiejennings.com/posts/2026-09-27-frontier-ai-is-defective/",
+      "title": "Frontier AI is dangerous because it's defective",
+      "description": "Commercial AI products behave in unexpected ways. In industry research labs, “frontier AI” agents are escaping poorly-constructed sandboxes and hacking into other companies and governments. Such agents are dangerous because they are defective. They act in unpredictable and malicious ways, and clearly need to be brought under control."
+    },
+    {
+      "link": "https://jamiejennings.com/posts/2024-11-20-commandlinebenchmarking/",
+      "title": "Command-line benchmarking with BestGuess",
+      "description": "When you want to measure program performance, you can code up a micro-benchmark or you can time a program on the command line (a macro-benchmark ). Both are tricky to get right. I wrote BestGuess to make command-line benchmarking easy and accurate, after trying other solutions."
+    }
+  ]
+}

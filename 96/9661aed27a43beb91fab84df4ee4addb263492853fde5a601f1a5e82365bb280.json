@@ -1,0 +1,20 @@
+{
+  "url": "https://homenetworkguy.com/index.xml",
+  "posts": [
+    {
+      "link": "https://homenetworkguy.com/troubleshooting/ubuntu-chrony-ntp-redirect-opnsense/",
+      "title": "Fix Ubuntu Chrony Time Sync When Using OPNsense NTP Redirection",
+      "description": "Ubuntu Chrony may stop synchronizing after an OPNsense NTP redirect. Configure it to use the local NTP server directly."
+    },
+    {
+      "link": "https://homenetworkguy.com/homelab-storage/oupes-ups1200-nut-automatic-shutdown/",
+      "title": "Configure NUT for Automatic UPS Shutdowns on Linux with the OUPES UPS1200",
+      "description": "Build an independent UPS shutdown layer with Ubuntu, NUT, and the OUPES UPS1200, including battery-reporting workarounds and a disposable-client shutdown test."
+    },
+    {
+      "link": "https://homenetworkguy.com/updates/how-i-am-keeping-this-website-accurate-and-up-to-date-with-help-from-ai/",
+      "title": "How I Am Keeping This Website Accurate and Up to Date With Help From AI",
+      "description": "Why I am using AI to help maintain this website while keeping firsthand experience and technical review at the center of its content."
+    }
+  ]
+}

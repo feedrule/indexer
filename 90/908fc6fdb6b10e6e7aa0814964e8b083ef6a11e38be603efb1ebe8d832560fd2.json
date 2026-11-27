@@ -1,0 +1,20 @@
+{
+  "url": "https://strugglers.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://strugglers.net/posts/2026/dhcpv6-broken-in-d-i-for-tenplus-years/",
+      "title": "DHCPv6 has been broken in the Debian Installer for 10+ years",
+      "description": "As far as I can see, installs that require DHCPv6 have not been possible using the Debian Installer for more than 10 years. A bug has been reported but I suspect hasn't seen much attention because most people who have IPv6 use SLAAC."
+    },
+    {
+      "link": "https://strugglers.net/posts/2026/fail2ban-list-all-banned-ips/",
+      "title": "I got tired of having to look up how to list all fail2ban bans",
+      "description": "It's very strange that there is no simple way to look up all the IPs that are banned in all jails of `fail2ban`."
+    },
+    {
+      "link": "https://strugglers.net/posts/2026/communication-must-do-better/",
+      "title": "Communication: must do better",
+      "description": "A nearly catastrophic incident of professional miscommunication leaves me reeling"
+    }
+  ]
+}

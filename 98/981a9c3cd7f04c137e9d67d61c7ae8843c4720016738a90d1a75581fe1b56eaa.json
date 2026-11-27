@@ -1,0 +1,20 @@
+{
+  "url": "https://eddycolloton.com/blog?format=rss",
+  "posts": [
+    {
+      "link": "http://eddycolloton.com/blog/2026/1/4/automating-av-archival-workflows-part-4",
+      "title": "Automating AV Archival Workflows: Part 4",
+      "description": "One of our goals in building the macOS app AV Spex was to “flag” aspects of a video that need a closer look, so archivists can prioritize which parts of a video receive further investigation. Using the qct-parse features in AV Spex, we can identify specific frames that might have artifacts or errors. Unfortunately, sometimes that’s still too many frames! To truly prioritize manual review of video,"
+    },
+    {
+      "link": "http://eddycolloton.com/blog/2025/12/23/automating-av-archival-workflows-part-3",
+      "title": "Automating AV Archival Workflows: Part 3",
+      "description": "AV Spex is a macOS application I wrote in Python. It’s designed for the Smithsonian National Museum of African American History and Culture (NMAAHC) to process digital video files created from analog sources. The app allows digitization technicians and archivists at NMAAHC to automate multiple preservation actions from a variety of video and digital preservation software. It also collects the resu"
+    },
+    {
+      "link": "http://eddycolloton.com/blog/2025/12/20/automating-av-archival-workflows-part-2",
+      "title": "Automating AV Archival Workflows: Part 2",
+      "description": "INPT (INgest and Processing Toolkit) is a bash scripted command line tool for automating the processing workflow for time-based media at the Hirshhorn Museum and Sculpture Garden (HMSG). Prior to developing INPT, we were running these tools manually, one at a time. Some of the steps in the workflow are quick, like running MediaInfo on a video file, but others, like using FFmpeg to create a frame-l"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://anderskristiansen.com/post/index.xml",
+  "posts": [
+    {
+      "link": "https://anderskristiansen.com/post/2026/apim-legacy-access/",
+      "title": "Azure API Management advisory: what to check and how to hunt after recent attacks",
+      "description": "NSM warns that Azure API Management secrets and named values may be exposed. Here’s what to fix, which logs you need and how to hunt."
+    }
+  ]
+}

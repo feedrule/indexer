@@ -1,0 +1,20 @@
+{
+  "url": "https://jon.sprig.gs/blog/feed",
+  "posts": [
+    {
+      "link": "https://jon.sprig.gs/blog/post/8241",
+      "title": "EFS-CSI-Driver and the curse of the missing (deleted) PVC in #Kubernetes",
+      "description": "A colleague at work mentioned seeing this log in some security logs: I thought “Oh, that’s simple, it must be that the IAM policy we applied to the assumed role for the EFS driver was missing that permission”. It’s never that simple. When I checked the logs for the efs-csi-controller pods, specifically the csi-provisioner container, […]"
+    },
+    {
+      "link": "https://jon.sprig.gs/blog/post/8184",
+      "title": "Meetup with my tech community of the 2000-2010s – Catching up with GeekUp",
+      "description": "Last night, I met with a group of friends that I’d not seen for probably 10 years, and it was glorious. In 2006, I was relatively fresh-faced in the North-West Tech Community. I’d moved North in 2002, spent a couple of years finding my feet, and finally ended up hearing about GeekUp. GeekUp had been […]"
+    },
+    {
+      "link": "https://jon.sprig.gs/blog/post/8177",
+      "title": "Getting an asset from a Github Release in Bash",
+      "description": "A few years ago, I wrote an Ansible role to download the latest version of a file from a Github release. Around the same point, I also wrote a bash script to do the same thing. For some reason, I never released either of them (or if I did, I can’t find them), so here’s […]"
+    }
+  ]
+}

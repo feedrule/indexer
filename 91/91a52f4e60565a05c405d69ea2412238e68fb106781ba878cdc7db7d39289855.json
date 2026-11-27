@@ -1,0 +1,20 @@
+{
+  "url": "https://ionrock.org/index.xml",
+  "posts": [
+    {
+      "link": "https://ionrock.org/post/my-ai-tools-so-far/",
+      "title": "My AI Tools So Far",
+      "description": "LinkedIn has become really noisy with folks espousing extreme productivity thanks to AI. I’m skeptical. Yes, I think AI is going to be a massive shift, but we’re early in the process. So far, there hasn’t been much measurable impact beyond people not using skills and losing them. With that said, being at the beginning of the changes, tooling is important. The folks trying to achieve extreme produc"
+    },
+    {
+      "link": "https://ionrock.org/post/ai-and-software-engineering/",
+      "title": "AI and Software Engineering",
+      "description": "It is a scary time for many software engineers. AI has proven itself to be an effective tool at writing code and it puts into question investments engineers have made into languages, ecosystems, and even system design. First off, I don’t think AI will take everyone’s job, but it will take some. This is a simple economic force that reflects software becoming cheaper. The bigger impact is the atroph"
+    },
+    {
+      "link": "https://ionrock.org/post/speeding-up-python/",
+      "title": "Speeding Up Python",
+      "description": "One theme at Dagster is speed. Python, the langua franca of the data engineering world, is arguably slow. We use Python for everything and consistently see areas where it could be faster. Historically, Python advocates have always said you can rewrite slow code in C. While I’m sure there are a few folks that take this path, I think the more common solution is to simply spin up more infrastructure."
+    }
+  ]
+}

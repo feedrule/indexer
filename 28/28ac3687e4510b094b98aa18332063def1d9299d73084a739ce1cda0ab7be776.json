@@ -1,0 +1,20 @@
+{
+  "url": "https://remy.io/index.xml",
+  "posts": [
+    {
+      "link": "https://remy.io/blog/coding-benchmark-qwen-step/",
+      "title": "A Coding Benchmark: Step 3.7 vs Qwen 3.5 122B-A10B vs Qwen 3.6 27B vs Qwen 3.6 35B-A3B",
+      "description": "Introduction I recently ran a simple real-world benchmark with 4 different models, all quants from Unsloth : Step 3.7 - IQ4_XS Qwen 3.5 122B-A10B - UD-Q4_K_XL Qwen 3.6 27B - Q5_K_M Qwen 3.6 35B-A3B - UD-Q6_K The benchmark is quite simple: I have my own coding harness developed in Go, I want to add a /config command displaying the runtime value of all configuration fields, and from where the value"
+    },
+    {
+      "link": "https://remy.io/blog/local-inference-strix-halo-128gb/",
+      "title": "Local Inference Infrastructure with AMD Strix Halo",
+      "description": "Introduction I wanted to build a personal LLM inference stack that doesn’t rely on cloud providers or major tech companies. To achieve this, I purchased two Corsair AI Workstation 300 systems, each powered by an AMD Ryzen AI MAX+ 395 APU and each equipped with 128 GB of unified memory. Why 128GB of VRAM Changes the Game The AMD Strix Halo platform uses a unified memory architecture, allowing the G"
+    },
+    {
+      "link": "https://remy.io/blog/migrating-to-zig-0-16-0-with-a-local-llm/",
+      "title": "Migrating to Zig 0.16.0 With a Local LLM (Qwen3.6-27B)",
+      "description": "Introduction Using my local LLM inference setup (blog post coming soon), I wanted to take a shot at a somewhat large and complex refactor using Qwen3.6-27B . For years I’ve been using my own code editor developed in Zig that I compile with Zig 0.15.x , and recently, the Zig team released a new stable version, Zig 0.16.0 . Zig is still in development, so new versions imply breaking changes and havi"
+    }
+  ]
+}

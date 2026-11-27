@@ -1,0 +1,20 @@
+{
+  "url": "https://gregbair.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://gregbair.blog/posts/pds-on-nix/",
+      "title": "Hosting your own ATProto PDS on NixOS and Cloudflare",
+      "description": "Intro I’ve been on Bluesky ever since Twitter/X went downhill. It runs on the AT protocol , a distributed protocol. You can follow that link for more info. However, because I have a homelab and want control over my data, I decided to set up my own Personal Data Server (PDS) . I mostly followed this wonderful post by @isabelroses.com , but there were some hiccups and differences I added/changed. Pr"
+    },
+    {
+      "link": "https://gregbair.blog/posts/infrastructure-2026/",
+      "title": "Personal infrastructure setup 2026",
+      "description": "Personal infrastructure 2026 I have a small personal homelab consisting of my main workstation PC and two mini-PCs that run my homelab. Hardware These are the fastfetch outputs for the systems: A fastfetch image of my main desktop PC. It’s a PC that I built in 2020. Homer - my main homelab server. It’s a 2012 Mac mini. Contains most of my apps. Also is connected to my local backup external drive."
+    },
+    {
+      "link": "https://gregbair.blog/posts/new-blog/",
+      "title": "New Blog",
+      "description": "Welcome to the new home of my blog, gregbair.blog ! I haven’t written a post in checks notes… 4 years! I’ll tell you why, I hated the old theme, but didn’t understand Hugo enough to change it. Today I made the leap to learn how to change it. I also hope to make posts way more frequent, and add my adventures in creating a small homelab! So sit back, buckle up, and add me to your feed reader!"
+    }
+  ]
+}

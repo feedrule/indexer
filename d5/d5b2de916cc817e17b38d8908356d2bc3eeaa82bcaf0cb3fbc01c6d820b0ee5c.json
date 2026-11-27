@@ -1,0 +1,20 @@
+{
+  "url": "https://doscienceto.it/blog/tags/haskell.atom.xml",
+  "posts": [
+    {
+      "link": "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html",
+      "title": "Golden Testing a CAD Library",
+      "description": "In which it takes me three years to get round to testing my code"
+    },
+    {
+      "link": "https://doscienceto.it/blog/posts/2025-04-14-waterfall-cad-svg.html",
+      "title": "Waterfall CAD has SVG support now",
+      "description": "How a Christmas tree led me to add SVG support to my CAD library"
+    },
+    {
+      "link": "https://doscienceto.it/blog/posts/2024-09-15-chess-set.html",
+      "title": "Designing an Infinite Number of 3D Printed Chess Sets in Haskell",
+      "description": "In which I print a chess set, after writing some code in Haskell"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://andreww591.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://andreww591.blogspot.com/2026/08/my-own-os-uxrt-now-runs-shell.html",
+      "title": "My own OS (UX/RT) now runs a shell",
+      "description": "If you've watched some of my earlier videos or seen my posts here or on Discord , you might have seen that I've been working on my own QNX-like OS. Up until fairly recently, UX/RT only ran hardcoded tests built into the process server and had nothing to interact with, but now I have it running a minimal shell and a few other user programs. A demo VM image is now available on the dedicated site tha"
+    },
+    {
+      "link": "https://andreww591.blogspot.com/2026/06/virtual-os-museum-update-early-templeos.html",
+      "title": "Virtual OS Museum update - early TempleOS, Unite, IRIX improvements, and more",
+      "description": "I've now added a few new OS installations to the Virtual OS Museum. These are available both as updates in the launcher for people who downloaded previous versions, as well as complete images avaliable for download on the site. ls and tsk commands on Unite First off is Unite, a QNX-like OS from the late 80s and early 90s. It looks kind of like a 32-bit version of QNX Classic, and it beat QNX itsel"
+    },
+    {
+      "link": "https://andreww591.blogspot.com/2026/06/a-new-bug-fix-release-of-virtual-os.html",
+      "title": "A new bug fix release of the Virtual OS Museum is available",
+      "description": "I have released an updated version of the Virtual OS Museum with various bug fixes. The new release doesn't include any new OS installations, but it does fix most of the major issues people were reporting. It turns out that VirtualBox is less than ideal for this kind of thing, and other people were having major issues related to configuration file handling and mouse input that didn't show up on my"
+    }
+  ]
+}

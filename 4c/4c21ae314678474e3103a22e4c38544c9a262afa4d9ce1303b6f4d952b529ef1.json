@@ -1,0 +1,20 @@
+{
+  "url": "https://gabnotes.fr/posts_feed",
+  "posts": [
+    {
+      "link": "https://gabnotes.fr/posts/domain-update-gabnotesfr",
+      "title": "Domain update - gabnotes.fr",
+      "description": "This blog’s domain has been moved from gabnotes.org to gabnotes.fr. A redirect is in place so all links should keep working. Nothing else changes. Sorry for the noise!"
+    },
+    {
+      "link": "https://gabnotes.fr/posts/setting-up-tailscale-on-koreader",
+      "title": "Setting up Tailscale on KOReader",
+      "description": "“KOReader is a document viewer for E Ink devices”, as they advertise it. I use it as an alternative UI on my Kobo e-reader as I find it nicer than..."
+    },
+    {
+      "link": "https://gabnotes.fr/posts/creating-a-home-assistant-integration",
+      "title": "Creating a Home Assistant integration",
+      "description": "Home AssistantI’ve been using Home Assistant for about 7 years now, and it’s kept improving ever since. This continuous improvement is in part due to the company backing it with..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ahoneybun.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://ahoneybun.net/posts/mobile-linux-2025/",
+      "title": "A 2025 review of Mobile Linux with postmarketOS v25.12",
+      "description": "Note This was tested on a OnePlus 6T using Phosh as the desktop/shell. I purchased this phone from Swappa just for running Mobile Linux. Donations I'd like to start this post off by saying I HIGHLY recommend donating to postmarketOS if you want devices to have a second life once Android support is dropped or if you want them to be Linux first (not Android) first! postmarketOS Donation page Hardwar"
+    },
+    {
+      "link": "https://ahoneybun.net/posts/forgejo-runners/",
+      "title": "Welcome to Forgejo and it's Runners",
+      "description": "CI (Continuous Integration system) I have been using some form of a CI either in GitHub or recently GitLab with it's CI but not with Forgejo/Gitea (they both use the same runner process since Forgejo is a hard fork of Gitea) so I thought it was time to change that! My Forgejo instance NixOS Service Getting it going on a NixOS install is pretty easy (without using a secret management tool like agen"
+    },
+    {
+      "link": "https://ahoneybun.net/posts/hydra-ci-images/",
+      "title": "Using Hydra to build custom images",
+      "description": "Building custom images You can build images with either the legacy (non-flake) and flake method, there are a few great resources such as nix.dev and NixOS Wiki . For example if we wanted a minimal (CLI only) ISO for x86_64 with helix and git we can do that here: 1 { 2 description = \" Minimal NixOS installation media \" ; 3 inputs . nixpkgs . url = \" github:NixOS/nixpkgs/nixos-25.05 \" ; 4 outputs ="
+    }
+  ]
+}

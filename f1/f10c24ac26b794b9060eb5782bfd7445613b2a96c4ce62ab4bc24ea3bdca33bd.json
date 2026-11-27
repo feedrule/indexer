@@ -1,0 +1,20 @@
+{
+  "url": "https://paulbutcher.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://paulbutcher.com/lean-webapp.html",
+      "title": "A complete production webapp in Lean",
+      "description": "A few weeks ago, I published a Lean implementation of the popular TodoMVC app . That was a nice proof of existence, but every software engineer knows that the gap from a cute example to a fully working application is huge. So I'm pleased to be able to show a complete, production-ready web app in Lean ; TodoMVC plus everything a production application needs around it: passwordless sign-in, SQL migr"
+    },
+    {
+      "link": "https://paulbutcher.com/lean-markdown.html",
+      "title": "A (somewhat) formally verified implementation of Markdown",
+      "description": "Over the last couple of weeks, I've been working on a personal project in Lean . Six months ago I would have used Clojure but the combination of Lean and AI assisted software engineering is making formal verification so easy, why wouldn't I choose the additional safety it brings? As part of this work, I needed a Markdown parser/renderer. The obvious route would be to wrap something like cmark-gfm"
+    },
+    {
+      "link": "https://paulbutcher.com/lean2.html",
+      "title": "Formally verified CRUD",
+      "description": "A couple of weeks ago, I published Lean-ing into Software Engineering in which I hypothesized that the combination of the Lean Programming Language and AI-assisted coding meant that we were very close to the point where formal verification was realistic for everyday software engineering. Since then I've become convinced that we're not close: we're already there. In this article, I'm going to show"
+    }
+  ]
+}

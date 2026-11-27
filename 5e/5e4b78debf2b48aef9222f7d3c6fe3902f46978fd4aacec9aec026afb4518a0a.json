@@ -1,0 +1,20 @@
+{
+  "url": "https://rida.me/index.xml",
+  "posts": [
+    {
+      "link": "https://rida.me/blog/why-i-finally-tried-openclaw/",
+      "title": "Why I finally tried OpenClaw (and how I'm making it safe)",
+      "description": "I avoided running agents with real access for a year. The unlock wasn't better models or tighter sandboxes. It was giving the agent its own identity."
+    },
+    {
+      "link": "https://rida.me/blog/mcp-embedded-resources-slack-work-objects-block-kit/",
+      "title": "MCP Embedded Resources for Slack: Work Objects, Block Kit, and Silent Failures",
+      "description": "Building multi-channel AI agents means dealing with APIs that silently fail. Slack returned 200 OK while dropping my Work Objects. Here's what went wrong and the pattern that emerged."
+    },
+    {
+      "link": "https://rida.me/blog/kamal-1password-cicd-deployment/",
+      "title": "Kamal + 1Password + GitHub Actions: Production Deployment Pipeline",
+      "description": "Set up automated Kamal deployments with 1Password secrets management. The same .kamal/secrets file works for manual deploys and GitHub Actions CI/CD."
+    }
+  ]
+}

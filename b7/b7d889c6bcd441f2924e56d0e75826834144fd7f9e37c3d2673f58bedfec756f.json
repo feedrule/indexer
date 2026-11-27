@@ -1,0 +1,20 @@
+{
+  "url": "https://sharedobject.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://sharedobject.blog/posts/vp8-nitty-gritty/",
+      "title": "Video2NAND - The Fine Details",
+      "description": "Coming clean about all the nitty gritty details of VP8"
+    },
+    {
+      "link": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+      "title": "Video2NAND",
+      "description": "Abusing video codecs for great computational power"
+    },
+    {
+      "link": "https://sharedobject.blog/posts/nothing-bpf/",
+      "title": "Nothing is (not) Secure",
+      "description": "The excitement of having an insecure phone"
+    }
+  ]
+}

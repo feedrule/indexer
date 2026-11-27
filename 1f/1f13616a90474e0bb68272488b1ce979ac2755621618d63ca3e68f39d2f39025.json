@@ -1,0 +1,20 @@
+{
+  "url": "https://arunma.com/index.xml",
+  "posts": [
+    {
+      "link": "https://arunma.com/parquet-modular-footer-and-iceberg-v4/",
+      "title": "How a Reader Finds the Stats: Parquet's Modular Footer and Iceberg v4",
+      "description": "In every data platform there is a query that filters on one column of a very wide table and spends longer planning than reading the data itself. I bumped into two proposals in my feed this week that go after it: a Parquet footer split and an Iceberg v4 stats change. After a bit more digging, I realised that these proposals don’t just address the read delays in wide tables; they also cover a wide v"
+    },
+    {
+      "link": "https://arunma.com/constrained-decoding-how-we-actually-get-structure-out-of-llms/",
+      "title": "Constrained Decoding: How We Actually Get Structure Out of LLMs",
+      "description": "Somewhere in every codebase that shipped an LLM feature before mid-2024, there is a function that looks like this: 1 2 3 4 5 6 7 8 9 10 11 12 13 def extract_json ( text ): try : return json . loads ( text ) except json . JSONDecodeError : pass # remove the fence m = re . search ( r \"```(?:json)?\\s*(.*?)\\s*```\" , text , re . S ) ... # remove the prefix eg. \"Sure! Here's the JSON:\" ... # remove the"
+    },
+    {
+      "link": "https://arunma.com/fine-tuning-a-4b-model-into-your-own-persona-part-2-training-eval-ship/",
+      "title": "Fine-Tuning a 4B Model Into Your Own Persona, Part 2: Training, Eval, Ship",
+      "description": "Part 1 ended with train.jsonl , val.jsonl and a passes_all percentage. The passes_all percentage is our ceiling , the best score we can hope for from the model trained on that corpus. This post is the rest: LoRA SFT on Qwen3-4B, evaluating against the same five binary questions, iterating manually with hand-corrections and converting to GGUF for easier local inference. Code is in the same repo: gi"
+    }
+  ]
+}

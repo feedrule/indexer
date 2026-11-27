@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.daviey.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.daviey.com/posts/dan-luus-zstd-eval-open-weight-model/",
+      "title": "Running Dan Luu's Zstd Eval on GLM-5.3",
+      "description": "Engineer: Someone posted Dan Luu's numbers in the channel. 5.6 Sol reached full holdout correctness on 63 percent of medium-effort Zstd runs, 77 percent on xhigh. Astra clears 99 percent on medium. SRE: So Astra wins model choice. Buy it. Engineer: His runs were all on closed models. The obvious follow-up is whether the open-weight end gets similar numbers. SRE: With what? Engineer: GLM-5.3. A wee"
+    },
+    {
+      "link": "https://blog.daviey.com/posts/running-an-abliterated-model-what-actually-breaks/",
+      "title": "Running an Abliterated Model: What Actually Breaks",
+      "description": "Engineer: The agent stopped mid-engagement. Security: Crash? Engineer: The model refused. Said it couldn't assist with code that \"could facilitate unauthorized access\". Security: The code is a fuzzer for our own auth service. Engineer: Tell the model. Security: It's a general-purpose API model with someone else's policy baked into the weights. Engineer: So the red-team tooling needs a model with a"
+    },
+    {
+      "link": "https://blog.daviey.com/posts/super-cli-mario-terminal-in-six-days/",
+      "title": "SUPER CLI MARIO: a complete Mario clone for your terminal in zero-dependency Go",
+      "description": "TL;DR: a terminal game first. One deterministic engine renders into a terminal, then mimics itself onto a browser, an APK, an iOS .ipa, a UEFI boot image and a from-scratch SSH arcade, with a replay-verified leaderboard that nobody can lie to. Every number below is measured in-tree; every bug in the final section was hit by a real player. The demo run, captured from real terminal output. Yes, thos"
+    }
+  ]
+}

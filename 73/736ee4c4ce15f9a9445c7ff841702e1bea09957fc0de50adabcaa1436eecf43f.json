@@ -1,0 +1,20 @@
+{
+  "url": "https://vanderwalt.de/rss",
+  "posts": [
+    {
+      "link": "https://vanderwalt.de/blog/babylog",
+      "title": "Babylog",
+      "description": "A custom baby care diary."
+    },
+    {
+      "link": "https://vanderwalt.de/blog/3dprint-10inch-homelab-rack-fan-esp32-strix-halo-cooling",
+      "title": "3D printed 10\" homelab rack with ESP32 fan control for Strix Halo cooling",
+      "description": "Printing a Lab Rax 10 inch rack, designing custom mounts with an LLM, and building an ESP32 + DS18B20 fan controller to stop my GMKtec EVO-X2 cooking itself during local inference."
+    },
+    {
+      "link": "https://vanderwalt.de/blog/tabcue-synced-band-rehearsals",
+      "title": "TabCue: A Synchronized Tab Player for Band Rehearsals",
+      "description": "I built a tool that keeps every band member on the same bar during rehearsal. Here is what it does and why."
+    }
+  ]
+}

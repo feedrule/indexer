@@ -1,0 +1,20 @@
+{
+  "url": "https://www.semicomplete.com/index.xml",
+  "posts": [
+    {
+      "link": "https://semicomplete.com/blog/systemd-forwarding/",
+      "title": "systemd journal forwarding",
+      "description": "I’ve been working on software to make it faster to do local system reimaging. In order to make it easier to troubleshoot problems, I wanted to have local logs forwarded to another system. As I am currently relying on cloud-init images, most of the system logs are already going to systemd’s journal, but how can I forward the journal to a remote system? Systemd already provides a tool, systemd-journ"
+    },
+    {
+      "link": "https://semicomplete.com/blog/qemu-debian-13-boot-loop/",
+      "title": "Debian 13 boot loop on qemu",
+      "description": "Everything was going nicely until Debian 13 was stuck in a boot loop. Qemu repeated the following, endlessly blinking in my terminal: Booting `Debian GNU/Linux' Loading Linux 6.12.85+deb13-amd64 ... Why? I’m developing a tool to help me build desktop VM images to help me debug weird issues specific to certain Linux distributions. For this project, I’m starting with each linux distro’s cloud image"
+    },
+    {
+      "link": "https://semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/",
+      "title": "Exploring the Fragmentation of Wayland, an xdotool adventure",
+      "description": "In 2007, I was spending a my norther-hemisphere summer experimenting with UI automation. Born of those efforts, xdotool came into being when I separated it from another project . The goal was modest - write some scripts that execute common keyboard, mouse, and window management tasks. The first commit had only a few basic commands - basic mouse and keyboard actions, plus a few window management ac"
+    }
+  ]
+}

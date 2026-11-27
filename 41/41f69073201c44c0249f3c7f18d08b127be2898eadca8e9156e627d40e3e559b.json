@@ -1,0 +1,20 @@
+{
+  "url": "https://ret2c.com/feed/",
+  "posts": [
+    {
+      "link": "https://ret2c.com/touhou/",
+      "title": "running touhou ufo (x86_32) on an orange pi 5 (arm_aarch64) in kiosk mode",
+      "description": "preface / intro hello friends hello friends and hello friends! i hope you've been doing well, it's been like a month since i spoke at cyphercon about dealing drugs , did you guys enjoy that? i hope so! regardless, in the past i've usually thought of blog posts before i actually started working on them - and that's annoying, and a tad forced. i think it'll be a lot more fun just talking about some"
+    },
+    {
+      "link": "https://ret2c.com/terry/",
+      "title": "sorry terry, reverse engineering ransomware",
+      "description": "3/27/26 ˯ hey guys - ret2c from the future here 🔥 this post is pretty mid but maybe you can pull something cool from here Intro I've spent the past week or so learning Rust, and through some small research I found there weren't a lot of resources/challenges out there for BinEx/RE with Rust. The majority of my experience with BinEx/RE has been centered around analyzing binaries compiled with C on 3"
+    },
+    {
+      "link": "https://ret2c.com/archive/",
+      "title": "archive",
+      "description": "hi all, in the past i've written some posts before bearblog came along, but i'm not super proud of them anymore lol if you're interested in checking them out, they're linked here: 2022-03-27: peace, not war 2022-03-14: creating horrorbot outside of that, i also helped work on a cool post for the fella creating malcluster 2025-12-14: phorpiex malware analysis – part 1: validating malcluster on a re"
+    }
+  ]
+}

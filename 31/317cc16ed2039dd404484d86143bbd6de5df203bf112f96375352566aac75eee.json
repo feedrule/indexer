@@ -1,0 +1,20 @@
+{
+  "url": "https://williamkennedy.ninja/feed.xml",
+  "posts": [
+    {
+      "link": "https://williamkennedy.ninja/hotwire-native/2026/04/15/how-to-enter-full-screen-mode-in-your-hotwire-native-app-part-2-ios/",
+      "title": "How to Enter Full-Screen Mode in Your Hotwire Native App? - Part 2 iOS",
+      "description": "In my last post , we learned how to enter full screen mode on Android. We used two methods. First, we setup a Bridge Component to toggle full-screen mode with a button and then we demonstrated using path configuration to trigger a full-screen view. With iOS, it’s just as straightforward. We will start with Path Configuration and then move on to using a Bridge Component. Prerequisites I’m assuming"
+    },
+    {
+      "link": "https://williamkennedy.ninja/hotwire-native/2026/01/05/how-to-enter-full-screen-mode-in-your-hotwire-native-app/",
+      "title": "How to Enter Full-Screen Mode in Your Hotwire Native App? - Part 1 Android",
+      "description": "The default experience for hotwire native and native apps in general is to show the Top Bar at the top of you app but sometimes it’s advantageous to create a more immersive experience. A great example is when you press the full screen-mode on the YouTube app. This uses all available screen real estate so the user can enjoy the content. To enable full-screen mode with a Hotwire Native application,"
+    },
+    {
+      "link": "https://williamkennedy.ninja/hotwire/native/2025/11/11/debugging-hotwire-native-part-5-breakpoints/",
+      "title": "Debugging Hotwire Native Part 5 - Breakpoints",
+      "description": "Welcome to the final post on debugging Hotwire Native iOS and Hotwire Native Android applications. We have covered everything from obvious questions to ask to logging , webview debugging and now we’re finishing with breakpoints. Both Xcode and Android Studio have powerful debuggers that suspend the program, allowing you to inspect different objects and variables at that point of suspension. Let’s"
+    }
+  ]
+}

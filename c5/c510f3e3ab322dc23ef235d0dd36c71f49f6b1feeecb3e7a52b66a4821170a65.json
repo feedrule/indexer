@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mytungsten.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.mytungsten.net/blog/2026/adsb-tracking/",
+      "title": "ADSB Tracker & Webpage",
+      "description": "All the pieces on how I made my tracker webpage"
+    },
+    {
+      "link": "https://www.mytungsten.net/blog/2026/puzzmo-project/",
+      "title": "Puzzmo Project",
+      "description": "Using Astro and the ATProtocol to make a \"live\" updating page"
+    },
+    {
+      "link": "https://www.mytungsten.net/blog/2025/flight-log/",
+      "title": "Flight Log",
+      "description": "How I added the flight log to my site"
+    }
+  ]
+}

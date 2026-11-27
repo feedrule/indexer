@@ -1,0 +1,20 @@
+{
+  "url": "https://khalidabuhakmeh.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://khalidabuhakmeh.com/posts/csharp-write-to-file/",
+      "title": "C# Write to File: WriteAllText, WriteAllLines, AppendAllText, and StreamWriter",
+      "description": "How to write to a file in C# with File.WriteAllText, WriteAllLines, WriteAllBytes, AppendAllText, async methods, and StreamWriter, with tested examples."
+    },
+    {
+      "link": "https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/",
+      "title": "C# try/catch: Exception Handling in C# with Examples",
+      "description": "How to handle exceptions in C# with try/catch/finally, throw, custom exceptions, and when filters, with copy-paste examples tested on .NET 10."
+    },
+    {
+      "link": "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/",
+      "title": "Read an Excel File in C#: ExcelDataReader, ClosedXML, and No-Library OpenXML",
+      "description": "How to read an Excel file in C#: load .xlsx and .xls into objects with ExcelDataReader, ClosedXML, ExcelMapper, or plain OpenXML, no Office or Interop."
+    }
+  ]
+}

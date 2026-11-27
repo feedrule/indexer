@@ -1,0 +1,20 @@
+{
+  "url": "https://anam.al/rss/",
+  "posts": [
+    {
+      "link": "https://anam.al/posts/movies_jobs",
+      "title": "Analyzing Occupations of Movie Protagonists From 100 Years of Film",
+      "description": "Read this post on Substack. I’ve been on an old movies kick lately and was really taken by how often journalists were main characters in older movies. Journalism has always seemed appealing to me career-wise, so it makes sense, but it really made me notice how stark the difference was between how often journalists were present in movies then compared to now - His Girl Friday, The Philadelphia Stor"
+    },
+    {
+      "link": "https://anam.al/posts/movies_jobs_process",
+      "title": "Analyzing Occupations of Movie Protagonists From 100 Years of Film - What I Did",
+      "description": "This is a description of what I did to come up with the results for my Jobs in Movies Over Time post; it's fairly abbrievated but this is all the important parts IMO. Source Data IMDb movie data - films and cast (title.principals, name.basics) took movies with top 20% of votes per year from 1900 onward (68,567 movies) this seemed reasonable enough of a cutoff - really disproportionate towards the"
+    },
+    {
+      "link": "https://anam.al/posts/hopping",
+      "title": "Neverending Exits",
+      "description": "Read this post on Substack. When people categorize those in the software engineering profession, there’s a lot of resentment towards the incompetent job hopper, perhaps even more than the coaster; this is an archetype of someone who can only fail upwards, and when they do, they outearn those whose skills eclipse their own and when they leave, there is nothing but carnage in their wake. I’m too ear"
+    }
+  ]
+}

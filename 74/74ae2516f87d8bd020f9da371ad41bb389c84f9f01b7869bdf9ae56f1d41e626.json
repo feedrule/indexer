@@ -1,0 +1,20 @@
+{
+  "url": "https://renatobudinich.com/feed/",
+  "posts": [
+    {
+      "link": "https://renatobudinich.com/harness/",
+      "title": "Why context engineering isn’t enough",
+      "description": "5 failure modes of coding agents and the harness that stops each one, with a 5-minute checklist. Read it here or download the free PDF. The post Why context engineering isn’t enough appeared first on Renato Budinich ."
+    },
+    {
+      "link": "https://renatobudinich.com/vault-bridge-a-permissioned-mcp-middleware-for-agentic-workflows/",
+      "title": "Vault Bridge: a permissioned MCP middleware for agentic workflows",
+      "description": "TL;DR: Giving LLMs access to a knowledge base is easy. Giving them scoped, permissioned, read/write access without handing over the keys to the kingdom is hard. Vault Bridge is a Rust middleware layer that sits between an Obsidian LiveSync database (CouchDB) and an MCP client, enforcing policy-as-code boundaries. The code is available at https://github.com/nareto/vault-bridge. The… The post Vault"
+    },
+    {
+      "link": "https://renatobudinich.com/zkpass-org-a-technical-deep-dive/",
+      "title": "zkPass.org: a technical deep dive",
+      "description": "zkPass allows to unlock web2 data for web3 applications, with privacy. Scroll down to get the full technical deep dive. What is zkPass? zkPass is a protocol that uses Zero-Knowledge proofs to let you prove facts about your private Web2 data (from any HTTPS website) to Web3 applications. You can verify your identity, reputation, or… The post zkPass.org: a technical deep dive appeared first on Renat"
+    }
+  ]
+}

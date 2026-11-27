@@ -1,0 +1,20 @@
+{
+  "url": "https://tsharma.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://tsharma.bearblog.dev/operating-systems-101-what-is-an-os/",
+      "title": "OS 101: What is an Operating System?",
+      "description": "What Is an Operating System The problem it exists to solve Not \"it manages resources\" — that describes what an OS does, not why it must exist. You have one machine and want to run several programs written by strangers , some buggy, some hostile. They all need the CPU, RAM, disk, network. What stops program A reading program B's passwords? What stops an infinite loop freezing the box forever? Nothi"
+    },
+    {
+      "link": "https://tsharma.bearblog.dev/setting-up-authnauthz-with-keycloak-openid-connect-for-a-rest-go-api/",
+      "title": "Setting up AuthN/AuthZ with Keycloak (OpenID Connect) for a REST Go API",
+      "description": "Most Go services eventually need to answer two questions about every request: who is calling? and are they allowed to do this? The first is authentication, the second is authorization, and it's tempting to hand-roll both with a users table and a middleware that checks a session cookie. That works until you need password resets, multi-factor auth, single sign-on, social login, an admin UI to manage"
+    },
+    {
+      "link": "https://tsharma.bearblog.dev/building-a-60000-rps-time-series-data-ingestion-pipeline-in-go/",
+      "title": "Building a 60,000 RPS Time-Series Data Ingestion Pipeline in Go",
+      "description": "Time-series data is everywhere in modern applications—from monitoring CPU usage and API latencies to tracking business metrics and IoT sensor readings. But handling this data at scale requires careful engineering. In this post, I'll walk you through building a high-performance time-series data ingestion pipeline that can handle over 60,000 requests per second with sub-millisecond latency. The Chal"
+    }
+  ]
+}

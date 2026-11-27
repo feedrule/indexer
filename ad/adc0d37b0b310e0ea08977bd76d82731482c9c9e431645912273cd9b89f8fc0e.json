@@ -1,0 +1,20 @@
+{
+  "url": "https://rlancemartin.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "http://rlancemartin.github.io/2026/01/09/agent_design/",
+      "title": "Agent design patterns",
+      "description": "2025 ended with Meta buying Manus for over $2b and Claude Code reaching a $1B run rate . Here I explore common design patterns across these and other popular agents based on many of my favorite blogs, papers, and posts. We are getting closer to long-running autonomous agents. @METR_Evals reports that agent task length doubles every 7 months . But one challenge is that models get worse as context g"
+    },
+    {
+      "link": "http://rlancemartin.github.io/2025/12/01/claude_diary/",
+      "title": "Claude Diary",
+      "description": "Lance Martin Humans refine their skills and learn preferences through experience. But many AI agents lack this capacity for continual learning . I created a plugin called Claude Diary that gives Claude Code the ability to learn from experience and update its own memory. You can check out the code here . Agent Memory The CoALA paper by Sumers et al. (2023) proposes a framework for agent memory, inc"
+    },
+    {
+      "link": "http://rlancemartin.github.io/2025/10/15/manus/",
+      "title": "Context Engineering in Manus",
+      "description": "Lance Martin Why Context Engineering Earlier this week, I had a webinar with Manus co-founder and CSO Yichao “Peak” Ji . You can see the video here , my slides here , and Peak’s slides here . Below are my notes. Anthropic defines agents as systems where LLMs direct their own processes and tool usage, maintaining control over how they accomplish tasks. In short, it’s an LLM calling tools in a loop."
+    }
+  ]
+}

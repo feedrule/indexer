@@ -1,0 +1,20 @@
+{
+  "url": "https://chosker.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://chosker.github.io/blog/opaque-refraction",
+      "title": "Cheap Refraction using inverted Reflections",
+      "description": "Refraction on Opaque Materials using inverted Reflections with Lumen"
+    },
+    {
+      "link": "https://chosker.github.io/blog/hidden-property-editor",
+      "title": "Hidden Property Editor",
+      "description": "How to edit all Assets' hidden properties in UE5"
+    },
+    {
+      "link": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "title": "Colored Shadow Penumbra",
+      "description": "How to edit the UE5 Engine Shaders to have Colored Penumbra"
+    }
+  ]
+}

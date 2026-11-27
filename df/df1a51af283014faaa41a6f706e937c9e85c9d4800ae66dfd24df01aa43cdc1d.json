@@ -1,0 +1,20 @@
+{
+  "url": "https://albertoarena.it/rss.xml",
+  "posts": [
+    {
+      "link": "https://albertoarena.it/posts/what-i-learned-at-laravelday-2026/",
+      "title": "What I learned at LaravelDay 2026",
+      "description": "I spent a day at LaravelDay 2026 in Verona. Here is what I learned from the talks, why I think going to conferences is worth it, and why PHP is still alive."
+    },
+    {
+      "link": "https://albertoarena.it/posts/passing-tests-do-not-make-an-ai-built-app-safe/",
+      "title": "Passing tests do not make an AI-built app safe",
+      "description": "Researchers found AI-built apps handing private data to visitors who never logged in. Tests that only ask as the owner would not catch that. Here is the test that would."
+    },
+    {
+      "link": "https://albertoarena.it/posts/my-claude-code-output-style-needed-tests/",
+      "title": "My Claude Code Output Style Needed Tests",
+      "description": "I wanted Claude Code to talk in a playful voice, so I built an output style. Then I wrote tests for the prompt, and they found bugs I could not see."
+    }
+  ]
+}

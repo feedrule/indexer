@@ -1,0 +1,20 @@
+{
+  "url": "https://managing.blue/feed/",
+  "posts": [
+    {
+      "link": "https://managing.blue/2026/11/21/software-is-not-abandoned-anymore-part-2/",
+      "title": "software is not abandoned anymore – part 2",
+      "description": "During my MSc, I did a lot of reading on Event Calculus (this book and this book) which lead to software like the decreasoner from the author of the second book. The Discrete Event Calcuklus reasoner is written in C (with support for Cygwin) and Python2. So, once again, armed with my good friend Mistral … Continue reading software is not abandoned anymore – part 2 →"
+    },
+    {
+      "link": "https://managing.blue/2026/11/20/software-is-not-abandoned-anymore/",
+      "title": "Software is not abandoned anymore",
+      "description": "At work we make use of hound code search. It is plain simple and fast. It is also virtually unmaintained for 3 or more years. So when some of our developers came to me with some questions (“Can’t it do X?”) my initial reply was: it is what it is, we cannot do much. But … Continue reading Software is not abandoned anymore →"
+    },
+    {
+      "link": "https://managing.blue/2026/10/21/downtime-is-mandatory/",
+      "title": "Downtime is mandatory",
+      "description": "I do most of my coding in Slack now This is what a developer told my educator friend form yesterday’s post. Yeah, agentic coding does this. From the very beginnings of ChatOps automation to today’s environment, this was something bound to happen. Immediately I responded to my friend with the healthy mind platter: Working with … Continue reading Downtime is mandatory →"
+    }
+  ]
+}

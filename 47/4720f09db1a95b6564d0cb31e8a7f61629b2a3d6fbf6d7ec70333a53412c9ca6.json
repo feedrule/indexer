@@ -1,0 +1,20 @@
+{
+  "url": "https://xd009642.github.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://xd009642.github.io/2026/11/10/Catching-Panics-in-Production/",
+      "title": "Catching Panics in Production",
+      "description": "When writing services in Rust I’ve always aimed for zero panics in production. Aside from general correctness and code quality this also improves the API quality - our user should always expect a response from a HTTP endpoint with a meaningful status code and body when there’s an error. But sometimes things go awry and your service has a panic that it hits in production. This post is a small trick"
+    },
+    {
+      "link": "https://xd009642.github.io/2026/10/28/how-I-study-Japanese/",
+      "title": "How I Study Japanese",
+      "description": "It’s been 3-4 years since I started studying Japanese, and outside of friends I’ve not really talked about the process of learning a language - or at least my process. This post will talk a bit about what my progress is like, what I’ve found hard and what approaches I’ve taken to learning using apps and self-study. Well how well can I speak? Generally, I can get through most retail/service worker"
+    },
+    {
+      "link": "https://xd009642.github.io/2026/07/21/onnxruntime-and-the-pit-of-failure/",
+      "title": "Onnxruntime and the Pit of Failure",
+      "description": "There’s a saying of designing things so you fall into the pit-of-success. Sometimes however, you fall into a pit of failure. Where an innoculous API decision means that you suddenly make things much worse in ways that you don’t fully comprehend until someone starts to dig into it. This is how this PR , a one line change to reduce the number of threads the onnxruntime uses reduced the compute requi"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://bytes.zone/index.xml",
+  "posts": [
+    {
+      "link": "https://bytes.zone/projects/2026-winter-pinball-league/",
+      "title": "Winter Pinball League",
+      "description": "I joined a pinball league at a local barcade! I've got like… lifetime stats now! It's been really fun so far, but, as you can see, I'm not that good yet. Pinball wizard? Nah, but maybe a pinball apprentice."
+    },
+    {
+      "link": "https://bytes.zone/posts/software-estimation/",
+      "title": "Software estimation that doesn't suck",
+      "description": "You've been asked to give an estimate about when you're gonna be able to ship some code. Fine fine, except that there's something riding on this… a trade show, seasonal deadline, etc. Point is: there's another part of the business depending on you doing a good job here. But software estimates are notoriously inaccurate, to the degree that people frequently double or halve them depending on what th"
+    },
+    {
+      "link": "https://bytes.zone/projects/local-first-from-scratch/",
+      "title": "Local-First From Scratch",
+      "description": "I wanted to write a book about local-first software. Instead of doing a survey of all the libraries available, I took a first principles approach. That meant doing a lot of explaining CRDTs, syncing, and the like, but I had a ton of fun with it. As of March 2025, I had the introduction and first chapter done, and was working on the implementation that would end up being built up throughout the boo"
+    }
+  ]
+}

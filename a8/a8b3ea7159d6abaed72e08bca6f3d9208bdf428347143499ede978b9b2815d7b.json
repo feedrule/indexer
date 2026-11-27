@@ -1,0 +1,20 @@
+{
+  "url": "https://miguelbernadi.lobber.eu/index.xml",
+  "posts": [
+    {
+      "link": "https://miguelbernadi.lobber.eu/resources/writing-resource/",
+      "title": "Writing",
+      "description": "Writing is an underrated skill, and any intellectual worker is required to write. Part of it is writing to think, to help evaluate and express the ideas (and yes, this includes drawing, diagramming, mapping…). The other, is to share those ideas. I’ve been interested in writing for a long time and keep finding people with interest and need on improving and understanding how to write and how to thin"
+    },
+    {
+      "link": "https://miguelbernadi.lobber.eu/posts/bug-chasing-back-2016-cnag/",
+      "title": "Rabbit-chasing bugs back in 2016",
+      "description": "A recent hiring process required me to write down a debugging story that included application code and infrastructure. This prompt reminded me of an old happening back in 2016 and how amazingly baffling it was. I didn’t use this event in my job application, but I found it was worth writing down and share, showing the interesting failure modes that big distributed systems can bring."
+    },
+    {
+      "link": "https://miguelbernadi.lobber.eu/posts/git-configuration-and-signing-commits-with-ssh-keys/",
+      "title": "Git configuration and signing commits with SSH keys",
+      "description": "I was reading the other day a nice blogpost by Matthew Garret (mjg59) about being able to use SSH keys to sign Git commits. While trying to make that set up in my machine I realized there are some tricks I use to configure the Git repository identities I had not spoken about before, so I’m going to merge both topics. If you are only interested in the SSH signing, you can check mjg59’s post above a"
+    }
+  ]
+}

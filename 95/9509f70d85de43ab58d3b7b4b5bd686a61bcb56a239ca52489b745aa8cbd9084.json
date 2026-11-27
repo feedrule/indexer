@@ -1,0 +1,20 @@
+{
+  "url": "https://www.paigeniedringhaus.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.paigeniedringhaus.com/blog/getting-the-most-out-of-claude-code/",
+      "title": "Getting the Most out of Claude Code",
+      "description": "After 6+ months with Claude as my coding copilot, I've learned some helpful things."
+    },
+    {
+      "link": "https://www.paigeniedringhaus.com/blog/run-multiple-npm-publishing-scripts-with-trusted-publishing-oidc-via-github-reusable-workflows/",
+      "title": "Run Multiple npm Publishing Scripts with Trusted Publishing (OIDC) via GitHub Reusable Workflows",
+      "description": "npm only allows one GitHub Actions workflow script, but that script can dynamically call different publishing workflows."
+    },
+    {
+      "link": "https://www.paigeniedringhaus.com/blog/reviewing-the-benq-rd-series-monitor-for-developers/",
+      "title": "Reviewing the BenQ RD Series Monitor for Developers",
+      "description": "I didn't think developers needed a special monitor, until I tried the BenQ RD280U."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.plumislandmedia.net/feed/",
+  "posts": [
+    {
+      "link": "https://www.plumislandmedia.net/mysql/design-timezone-support-into-your-mariadb-or-mysql-app/",
+      "title": "Design timezone support into your MariaDB or MySQL app",
+      "description": "Timezones are important in global database applications. If you’re setting up a new database and software to use it, it’s smart to think through timezones early in your project. Figure out your timezone situation on your TIMESTAMP and DATETIME columns before you start storing data as your new application comes online. Retrofitting timezone support into ... Read more The post Design timezone suppor"
+    },
+    {
+      "link": "https://www.plumislandmedia.net/wordpress/not-minifying-core-javascript-in-wordpress/",
+      "title": "Not Minifying Core Javascript in WordPress",
+      "description": "I couldn’t find the answer to how to do this in WordPress. So, I he to break out the debugger. Grumble. But it does find stuff. Here’s what it found. To avoid minifying core Javascript (including such things as Gutenberg code) do this. or stick this line in wp-config.php. The post Not Minifying Core Javascript in WordPress appeared first on Plum Island Media ."
+    },
+    {
+      "link": "https://www.plumislandmedia.net/wordpress/buffer-pools-in-wordpress-databases-are-often-too-small/",
+      "title": "Buffer Pools in WordPress Databases Are Often Too Small",
+      "description": "I publish the WordPress plugin Index WP MySQL For Speed. Fairly often, when supporting that plugin’s users, I find a misconfiguration in the database software that seriously reduces performance. Virtually every WordPress installation uses a MariaDB or MySQL database. That database software has a feature called a *buffer pool*. It is an area of random-access ... Read more The post Buffer Pools in W"
+    }
+  ]
+}

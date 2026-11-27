@@ -1,0 +1,20 @@
+{
+  "url": "https://upvalue.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://upvalue.io/posts/language-design-in-the-time-of-agents",
+      "title": "Language design and implementation in the time of agents",
+      "description": "Some musings on whether there's a point to designing languages in the agentic era and how much fun it can be."
+    },
+    {
+      "link": "https://upvalue.io/posts/continuing-blub-studies",
+      "title": "Continuing blub studies",
+      "description": "Some disjoint thoughts on returning to work after a year off with all the change in the industry."
+    },
+    {
+      "link": "https://upvalue.io/posts/just-make-the-harness-programmable",
+      "title": "Just make the harness programmable",
+      "description": "Using a self-modifying chat app to churn out lots of personal software."
+    }
+  ]
+}

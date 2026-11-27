@@ -1,0 +1,10 @@
+{
+  "url": "https://deadletterqueue.cc/index.xml",
+  "posts": [
+    {
+      "link": "https://deadletterqueue.cc/posts/show-hn-vs-github/",
+      "title": "What actually happens to Show HN projects?",
+      "description": "I was curious about what happens to repositories after they are posted to Hacker News. I pulled Show HN data from BigQuery and combined it with GitHub API calls. Data covers 2021-2025 (with GitHub API calls through mid-January 2026). Repositories are dying faster The first chart shows when repositories die after their HN submission. 2025 data is brutal: more repos either died before posting or die"
+    }
+  ]
+}

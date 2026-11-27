@@ -1,0 +1,20 @@
+{
+  "url": "https://omervk.com/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Tackling Synology's Opaque \"Invalid File Format\" Error",
+      "description": "A few months back I bought a new Synology NAS and decided to, on a whim, build an app for it from scratch. Partly to see how well Claude Code could handle it, mostly to see whether the option was open to me. Starting off with the most basic app, the Python backend worked, the tests passed, the SPK archive assembled cleanly, but then Synology’s Package Center rejected it with the error \"Invalid fil"
+    },
+    {
+      "link": null,
+      "title": "DitherWorks",
+      "description": "I got my parents a Waveshare PhotoPainter for their anniversary. I wanted the 7-color e-paper digital frame to show photos of the grandkids that rotate every 12hrs and are visible in sheer daylight. Bonus: year-long battery. Challenge was it needed a specialized image format. Now, I could use the provided Python script but it didn’t let me crop the images to the 800x480 aspect ratio, didn’t suppor"
+    },
+    {
+      "link": null,
+      "title": "How to better understand business context as a StaffPlus engineer",
+      "description": "As senior individual contributors transition from focusing on the “what\" aspect of their work to the “how” (such as deciding whether to perform the tasks themselves or to help others to do it), gaining an understanding of the wider organization and its roadmap becomes vital for achieving efficiency, productivity, and clarity in their roles. This panel of experienced individual contributors share t"
+    }
+  ]
+}

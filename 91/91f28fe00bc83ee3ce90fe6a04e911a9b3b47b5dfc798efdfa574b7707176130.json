@@ -1,0 +1,20 @@
+{
+  "url": "https://vhyrro.neorg.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://vhyrro.neorg.org/posts/nixs-law/",
+      "title": "Nix's Law",
+      "description": "The quality of a program is inversely proportional to the complexity of its build system."
+    },
+    {
+      "link": "https://vhyrro.neorg.org/posts/critical-luarocks-exploit-cve/",
+      "title": "Conquering the Moon (luarocks.org remote code execution exploit)",
+      "description": "How I found an incredibly dangerous vulnerability in Lua's infrastructure."
+    },
+    {
+      "link": "https://vhyrro.neorg.org/posts/a-hitchhikers-guide-to-ai/",
+      "title": "A Hitchhiker's Guide to AI",
+      "description": "How not to make total slop :)"
+    }
+  ]
+}

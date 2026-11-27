@@ -1,0 +1,20 @@
+{
+  "url": "https://idoroseman.com/feed/",
+  "posts": [
+    {
+      "link": "https://idoroseman.com/%d7%90%d7%99%d7%9a-%d7%a2%d7%95%d7%91%d7%93%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-meshtastic-%d7%95-meshcore/",
+      "title": "איך עובדות רשתות Meshtastic ו-MeshCore",
+      "description": "דמיינו שאתם יוצאים לטיול בהרים, מפליגים בים, נמצאים באזור מבודד או אפילו חיים בעיר שבה התקשורת הסלולרית נפלה ואינה זמינה. איך אפשר לשלוח הודעה לחבר שנמצא כמה קילומטרים מכם, בלי אינטרנט, בלי Wi-Fi ובלי לשלם לחברת סלולר? זאת בדיוק הבעיה שרשתות LoRa Mesh מנסות לפתור. בשנים האחרונות צוברות פופולריות שתי פלטפורמות קוד פתוח שמאפשרות להקים […]"
+    },
+    {
+      "link": "https://idoroseman.com/bringing-ai-to-the-lora-mesh-building-a-smarter-meshcore-bot-with-ollama/",
+      "title": "Bringing AI to the LoRa Mesh: Building a Smarter MeshCore Bot with Ollama",
+      "description": "I’ve been experimenting with LoRa mesh networks, AI agents, and running local LLMs with Ollama. At some point, it occurred to me: why not bring them together? Both Meshtastic and MeshCore already have chatbot projects that let you interact with a bot over the radio. They’re useful, but many rely on fairly rigid commands. You […]"
+    },
+    {
+      "link": "https://idoroseman.com/designing-a-battery-powered-iot-device-the-fundamentals-that-determine-battery-life/",
+      "title": "Designing a Battery-Powered IoT Device: The Fundamentals That Determine Battery Life",
+      "description": "Battery-powered IoT products can look deceptively simple. Choose a wireless microcontroller, connect a battery, add a USB-C port if you want the device to be rechargeable, and the job appears to be done. Easy. In practice, reliable battery-powered wireless design is a system-level exercise. The processor, radio, sensors, voltage regulator, user interface, communication protocol, firmware […]"
+    }
+  ]
+}

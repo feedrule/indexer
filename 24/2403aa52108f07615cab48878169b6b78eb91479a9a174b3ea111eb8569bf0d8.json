@@ -1,0 +1,20 @@
+{
+  "url": "https://guillerg.dev/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://guillerg.dev/posts/home-cooked-chefs/",
+      "title": "Home-cooked software",
+      "description": "Software developers will sometimes run into problems and, if they have the skills, will develop personal-use software to fix them or work around them. As usual, the thing itself is not new, but terminology matters. Robin Sloan posted An app can be a home-cooked meal in 2020 and the term somewhat stuck. In the last couple of years, Maggie Appleton and Karan Sharma pointed out that AI was about to e"
+    },
+    {
+      "link": "https://guillerg.dev/posts/link-roundup-5/",
+      "title": "Link roundup (V)",
+      "description": "My usual procrastination habits are a great filter for checking whether the links I put together in these are evergreen. I usually gather them when I see them but then months go by before I give the post some format, add my commentary, and hit publish. That tends to leave me enough time and perspective to check whether the links are signal or noise. Maybe I’m just coping. Enjoy 1) I’ve always had"
+    },
+    {
+      "link": "https://guillerg.dev/posts/dmn/",
+      "title": "Agentic engineering in reverse",
+      "description": "One of the many projects I had started over the last few months was a daemonized shell. I wanted to understand how terminals work more in depth, and how tmux does what it does. In order to do that, I started building a very simple PTY daemon. My idea was something like: I want to be able to daemonize a shell, and then have some sort of listening process that controls it and can send bytes to it. T"
+    }
+  ]
+}

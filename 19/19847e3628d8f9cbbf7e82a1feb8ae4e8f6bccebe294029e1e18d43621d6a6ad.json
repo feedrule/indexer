@@ -1,0 +1,20 @@
+{
+  "url": "https://chamoda.com/feed",
+  "posts": [
+    {
+      "link": "https://chamoda.com/rethinking-monorepos-in-the-age-of-agents",
+      "title": "Rethinking monorepos in the age of agents",
+      "description": "As the industry switches to agentic coding, it makes less and less sense to keep separate repositories when agents benefit from the broader context of a monorepo."
+    },
+    {
+      "link": "https://chamoda.com/the-gervais-principle",
+      "title": "The Gervais Principle",
+      "description": "The Gervais Principle"
+    },
+    {
+      "link": "https://chamoda.com/software-is-no-longer-a-moat",
+      "title": "Software is no longer a moat",
+      "description": "If software becomes nearly free to build and AI models become commoditized, where does economic value actually get captured?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://peter-hoffmann.com/feed/atom-python.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Stable URLs for 42,000 Huts and Peaks",
+      "description": "biwak.info is my map of Alpine huts, bivouacs and peaks. For a long time the only way to link to a hut was a #Name hash that did an exact name match and fell back to the search when the name wasn't unique. I wanted real URLs I can share and that show a proper preview card in a chat: biwak.info/p/matterhorn . The data comes from OpenStreetMap : 9,429 huts and bivouacs and 33,437 named peaks, 42,866"
+    },
+    {
+      "link": null,
+      "title": "Loading 33,000 Peaks on Demand with a z10 Tile Grid",
+      "description": "biwak.info is my mobile-first map of Alpine huts and bivouacs. Recently I wanted to add peaks: tap anywhere near a summit and get its name, elevation, prominence, a photo and the Wikipedia link. The data for that comes from OpenStreetMap and Wikidata: 33,437 named peaks between Nice and Vienna. As a single peaks.json file this is 15.4 MB (1.8 MB gzipped). That's fine for a desktop, but on a phone"
+    },
+    {
+      "link": null,
+      "title": "Home Server Ops with a Read-Only Agent and pyinfra",
+      "description": "My home server is a small mini PC running Debian. It holds the file shares, Time Machine backups, Gitea, a music server and a few small apps of my own. Like most home servers it grew by hand over the years: a command here, a config edit there, notes somewhere else. Its exact state was mostly in my head, and not reliably. Over two days I moved it to a setup where a coding agent does most of the wor"
+    }
+  ]
+}

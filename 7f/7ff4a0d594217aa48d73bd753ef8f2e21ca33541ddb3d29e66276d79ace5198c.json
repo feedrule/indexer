@@ -1,0 +1,20 @@
+{
+  "url": "https://meka.rs/index.xml",
+  "posts": [
+    {
+      "link": "https://meka.rs/blog/2026/11/11/opinion-on-ai-and-the-future-of-it/",
+      "title": "Opinion on AI and the future of IT",
+      "description": "Current State When a statement starts with “people often ask me …”, you know it never happened, but during the past 9 months of job interviews, I was asked “What are your thoughts on AI and agentic development?” on a regular basis. Once I found a job, I forgot about the question until I met a friend at a store who asked me pretty much the same thing. My answer has always been “It’s like having a r"
+    },
+    {
+      "link": "https://meka.rs/blog/2025/07/15/neural-and-impulse-blending/",
+      "title": "Neural and Impulse Blending",
+      "description": "The idea of blending is to make two amplifiers and mix them into a single sound. The reason people do that is because different amplifiers have slightly different sound which combined together sounds better than any single one of them. It’s the same like having a single voice vs choir. With sounds it is simple: you just mix them. With neural amp modeler, there are few more steps. First you have to"
+    },
+    {
+      "link": "https://meka.rs/blog/2025/05/12/impulse-response-sweep/",
+      "title": "Impulse Response Sweep",
+      "description": "There is another way to capture IR, and it is using sweep frequency sound. That means that the file containing the sweep will have 20Hz to 20kHz frequencies, starting with low and increasing the frequency. The idea is to capture how the system, in this case power amp, guitar cabinet and microphone, respond to different frequencies and create IR based on that. For that purpose you can use Carla and"
+    }
+  ]
+}

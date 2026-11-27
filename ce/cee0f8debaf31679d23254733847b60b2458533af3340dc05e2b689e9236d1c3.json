@@ -1,0 +1,20 @@
+{
+  "url": "https://shivamrana.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://trigonaminima.github.io/2026/07/linear-regression/",
+      "title": "Linear Regression Primer",
+      "description": "Linear regression is the simplest useful model in machine learning. It contains most of the ideas that show up everywhere else in ML: a loss function, an optimizer, regularization, and the bias-variance trade-off."
+    },
+    {
+      "link": "https://trigonaminima.github.io/2026/07/cloudflare-deployment-modes/",
+      "title": "Cloudflare Deployment Modes for a CRUD App",
+      "description": "Cloudflare gives you three real ways to ship a full-stack CRUD app: Pages with Functions, Pages with a standalone Worker, and Workers with static assets. They look similar but differ in routing and auth, in where your code lives and when it runs."
+    },
+    {
+      "link": "https://trigonaminima.github.io/2026/07/class-of-one/",
+      "title": "Class of One: Podcast feed from NotebookLM summaries",
+      "description": "Podcasts are a good first pass to get oriented on a topic. I can convert some of my technical reading goals into podcasts then I can grok them better when I decide to go deeper into it."
+    }
+  ]
+}

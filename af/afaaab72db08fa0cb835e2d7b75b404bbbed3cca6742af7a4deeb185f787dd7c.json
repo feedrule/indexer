@@ -1,0 +1,20 @@
+{
+  "url": "https://yamanahlawat.in/feed.xml",
+  "posts": [
+    {
+      "link": "https://yamanahlawat.in/articles/llm-judge-same-code-different-scores",
+      "title": "An LLM judge passed renders with defects I planted",
+      "description": "My vision-model judge passed and failed the same code. On a newer model it was steadier, so I planted defects in five components and scored them with it and with Cloudflare Clef. The 0.85 pass gate let about half of the defect runs through."
+    },
+    {
+      "link": "https://yamanahlawat.in/articles/agent-ignores-your-mcp-tool",
+      "title": "Giving an agent a tool does not make it use the tool.",
+      "description": "I gave Claude Code a tool for asking me questions out loud. It used it in one project and printed the question on screen in the next, same machine, same day, even though it could quote my instruction back word for word."
+    },
+    {
+      "link": "https://yamanahlawat.in/articles/harness-around-llms",
+      "title": "You don't make LLMs deterministic. You build a harness around them.",
+      "description": "Why I stopped trying to make language models deterministic and instead built a system around them: hard gates a machine decides, a soft visual score for what a machine can't, and a refinement loop that keeps the best attempt."
+    }
+  ]
+}

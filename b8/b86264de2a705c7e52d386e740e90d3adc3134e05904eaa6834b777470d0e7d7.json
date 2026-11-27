@@ -1,0 +1,20 @@
+{
+  "url": "https://spitlo.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://spitlo.com/music/looptober-2026/",
+      "title": "Looptober 2026",
+      "description": "I missed last year’s Looptober, but I’ll make a go of it this year. I’m not restricting myself to one single machine this time, anything is fine as long as it’s a short piece of loopable music. My prediction for this year is more live instrumentation and less samples, since I have a nice setup at home with a few synced loop pedals all going through a Zoom LiveTrak L6 which makes for very fast reco"
+    },
+    {
+      "link": "https://spitlo.com/music/looptober-2024/",
+      "title": "Looptober 2024",
+      "description": "I decided to do looptober AGAIN! This year I will be using the Woovebox . I bought it awhile back but I haven’t really given it a good try yet. My prediction for this year is even more stuff in the same key, scale and BPM, because of how the Woovebox works. Or really because of how lazy I am. I really don’t like using bluetooth for transfer, so I won’t be backing up and resetting the Woovebox very"
+    },
+    {
+      "link": "https://spitlo.com/code/ctgol/",
+      "title": "CTGOL",
+      "description": "Conway Twitty’s Game of Life is an experiment in sequencing. It’s an evolving step sequencer that follows the rules of Conway’s Game of Life. Each active cell will trigger a very short fragment of a Conway Twitty song. It’s available online at spitlo.com/ctgol/ . Conway Twitty’s Game of Life is a part of a growing family of mostly useless sequencers. The family includes: PIKSEQ , available online"
+    }
+  ]
+}

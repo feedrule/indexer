@@ -1,0 +1,20 @@
+{
+  "url": "https://undef.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://undef.dev/writing/learn/vless-reality/",
+      "title": "Looking like nothing: surviving deep packet inspection with VLESS and REALITY",
+      "description": "There are mainly two reasons why people use a VPN service: privacy (because you trust your VPN provider more than you trust your ISP, a network operator, or whoever is on the café wifi), or access to"
+    },
+    {
+      "link": "https://undef.dev/writing/learn/speculative-decoding/",
+      "title": "Speculative decoding: when LLMs predict their own predictions",
+      "description": "How do modern LLMs generate several tokens for the price of one?"
+    },
+    {
+      "link": "https://undef.dev/writing/make/color-system/",
+      "title": "On starting a blog, and coloring it",
+      "description": "I'm interested in a lot of things (machine learning, math, games, languages, music) and I like sharing what I figure out along the way."
+    }
+  ]
+}

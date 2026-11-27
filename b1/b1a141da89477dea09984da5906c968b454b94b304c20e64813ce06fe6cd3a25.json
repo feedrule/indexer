@@ -1,0 +1,20 @@
+{
+  "url": "https://dcreager.net/feed.atom",
+  "posts": [
+    {
+      "link": "https://dcreager.net/languages/lua/html-dsl/",
+      "title": "[Link] Lua can be a really cool HTML templating engine",
+      "description": "¶ Lua can be a really cool HTML templating engine Riki gives a good overview of some Lua features that make it an especially good substrate for creating DSLs — in this case, as a templating language for producing HTML. Lua can be a really cool HTML templating engine [riki.house] Compare this with the options in a less DSL-friendly language, like Go. (Including text/template , which he mentions) Ge"
+    },
+    {
+      "link": "https://dcreager.net/craft/berry-innovation-standards/",
+      "title": "[Link] Standards for technological innovation, Wendell Berry",
+      "description": "¶ Standards for technological innovation, Wendell Berry The new tool should be cheaper than the one it replaces. It should be at least as small in scale as the one it replaces. It should do work that is clearly and demonstrably better than the one it replaces. It should use less energy than the one it replaces. If possible, it should use some form of solar energy, such as that of the body. It shou"
+    },
+    {
+      "link": "https://dcreager.net/languages/python/ty/spec-builder-migration/",
+      "title": "`SpecializationBuilder` migration",
+      "description": "This page is also available via Gemini at gemini://dcreager.net/"
+    }
+  ]
+}

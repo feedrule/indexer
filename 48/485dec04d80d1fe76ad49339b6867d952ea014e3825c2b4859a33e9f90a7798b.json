@@ -1,0 +1,20 @@
+{
+  "url": "https://theor.xyz/rss.xml",
+  "posts": [
+    {
+      "link": "https://theor.xyz/moirai-a-language-for-procedural-history-of-worlds/",
+      "title": "Moirai: a language for procedurally generating world histories",
+      "description": "Moirai is a small language, runtime and UI for simulating the history of a procedural world: entities, random events, triggers and the chronicle they write."
+    },
+    {
+      "link": "https://theor.xyz/rust-wasm-demo-effects/",
+      "title": "Demo effects using Rust and WebAssembly",
+      "description": "Classic demoscene effects — fire, plasma, stars, and roads — built in Rust compiled to WebAssembly and embedded live in the browser"
+    },
+    {
+      "link": "https://theor.xyz/doom-maps-laser-cut/",
+      "title": "DOOM maps to SVG to laser cutter",
+      "description": "Parsing DOOM WAD map data in Rust to generate SVG vector graphics suitable for laser cutting"
+    }
+  ]
+}

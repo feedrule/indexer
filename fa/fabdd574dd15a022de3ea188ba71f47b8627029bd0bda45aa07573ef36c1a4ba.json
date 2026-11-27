@@ -1,0 +1,20 @@
+{
+  "url": "https://feeds.feedburner.com/oshogbo",
+  "posts": [
+    {
+      "link": "https://oshogbo.com/blog/93/",
+      "title": "Suricata, Jumbo Frames, and netmap",
+      "description": "One of my FreeBSD machines sits between the Internet and the rest of my network. I wanted Suricata to monitor traffic arriving on four of the machine's interfaces and complain when something looks wrong. I started with one interface, `mce1`, and planned to add the other three after capture worked. The capture interfaces are backed by Mellanox ConnectX adapters handled by the mlx5en driver, and the"
+    },
+    {
+      "link": "https://oshogbo.com/blog/92/",
+      "title": "Hunting Memory Leaks in bsnmpd with DTrace",
+      "description": "One of my FreeBSD boxes runs `bsnmpd`, the base system SNMP daemon. The machine is on 15.0-p2, and the daemon kept growing until the kernel ran out of patience and OOM-killed it. That is not a good feature for a daemon. I could have just added a cron job to restart it and called it a day. But a leak that kills a long-running daemon is exactly the kind of thing I like to chase, and I already had a"
+    },
+    {
+      "link": "https://oshogbo.com/blog/91/",
+      "title": "How to Fetch a Moving Target with Poudriere",
+      "description": "The FreeBSD ports framework has a simple idea about the world: a distfile never changes. It has a fixed size and a fixed checksum, written once into `distinfo` and verified every time after that. It is super useful to verify that the upstream has not changed the package, or that someone changed it without authorization. Basically this is the trust contract between our FreeBSD ports system and the"
+    }
+  ]
+}

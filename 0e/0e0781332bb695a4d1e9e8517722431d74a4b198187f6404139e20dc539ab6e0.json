@@ -1,0 +1,20 @@
+{
+  "url": "https://ncrmro.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ncrmro.com/posts/door-knock/",
+      "title": "Door Knock Hidden Login Button",
+      "description": null
+    },
+    {
+      "link": "https://ncrmro.com/posts/bootstrapping-nixos-secrets-before-first-boot/",
+      "title": "Bootstrapping NixOS Secrets Before First Boot",
+      "description": "NixOS deploys the configuration, sops-nix deploys the secrets, and a YubiKey guards the key that gets three Raspberry Pis started."
+    },
+    {
+      "link": "https://ncrmro.com/posts/projected-git-graph-planning/",
+      "title": "Projected git graph planning",
+      "description": "A mildly retrocausal planning notation — pin the next minor release and it reaches back to decide which feature you commit today."
+    }
+  ]
+}

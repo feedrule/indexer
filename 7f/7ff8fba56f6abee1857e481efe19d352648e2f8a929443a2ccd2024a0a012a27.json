@@ -1,0 +1,20 @@
+{
+  "url": "https://rschwarz.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://rschwarz.github.io/posts/tied-ambition-scoring-for-5-player-arcs/",
+      "title": "Tied Ambition Scoring for 5 player Arcs",
+      "description": "This post is about the scoring of tied tied ambitions in the board game Arcs: Conflict & Collapse in the Reach and its upcoming expansion Arcs: Lost Vaults & Fated Leaders . In Arcs, players win by collecting the most power which they get by scoring various ambitions . These ambitions are about having the highest count of a specific resource type or other game marker. The base game of Arcs support"
+    },
+    {
+      "link": "https://rschwarz.github.io/posts/survival-analysis-for-mip-solving-time/",
+      "title": "Survival Analysis for MIP Solving Time",
+      "description": "Survival Analysis for MIP Solver Running Time ¶ Inspired by the recent activity in open-source MIP solvers ( HiGHS is becoming stable after the 1.0 release and many users submitting bug reports, SCIP has become open-source software), I wanted to revisit some folklore about running times. When solving difficult problems, in particular, when running computational experiments, we have to choose a tim"
+    },
+    {
+      "link": "https://rschwarz.github.io/posts/the-food-triangle-quantified/",
+      "title": "The Food Triangle Quantified",
+      "description": "In a recent cookbook, the Healthspan Solution , the authors propose a new way to categorize food: the food triangle. First of all, only whole food ingredients are considered. Then, rather than grouping foods into one of the macronutrients (fat, protein and carbohydrates), they are sorted by energy density on the one hand (top / down), and by source (animal on the left, plants on the right) on the"
+    }
+  ]
+}

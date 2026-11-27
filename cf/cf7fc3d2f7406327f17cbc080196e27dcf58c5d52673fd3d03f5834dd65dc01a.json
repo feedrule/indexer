@@ -1,0 +1,15 @@
+{
+  "url": "https://hakanshehu.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://hakanshehu.com/posts/building-the-colanode-sync-engine/",
+      "title": "Building the Colanode Sync Engine",
+      "description": "How Colanode uses a local-first model, Yjs, and a revision log to keep nodes consistent across devices."
+    },
+    {
+      "link": "https://hakanshehu.com/posts/building-a-scalable-real-time-chat-with-cloudflare-durable-objects/",
+      "title": "Building a Scalable Real‑Time Chat with Cloudflare Durable Objects",
+      "description": "How we built a real-time chat on Cloudflare Durable Objects and Workers, tested at 300k concurrent connections."
+    }
+  ]
+}

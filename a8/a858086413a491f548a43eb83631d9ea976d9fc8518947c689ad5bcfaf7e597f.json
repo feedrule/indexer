@@ -1,0 +1,20 @@
+{
+  "url": "https://www.enricozini.org/blog/index.atom",
+  "posts": [
+    {
+      "link": "https://www.ezini.eu/blog/2026/python/sandboxing-pre-commit",
+      "title": "Sandboxing pre-commit",
+      "description": "pre-commit is a tool that is often a prerequisite for contributing to Python upstream projects. It installs as a git pre-commit hook and runs various checks on commit, using tools installed in a set of virtualenvs that it automatically manages. In other words, it is a Remote Code Execution engine running with the permissions of your own user, and with read and write access to all your information"
+    },
+    {
+      "link": "https://www.ezini.eu/blog/2026/financial-risks-in-2026",
+      "title": "Financial risks in 2026",
+      "description": "I asked the banker who is my reference at the bank something like this: Give that we are talking about the consequences of the tantrum of a fascist foreign government, what happened to them (who are also people close and dear to me), in some future can very well happen to me. Suddenly my risk profile shot up under the roof. What do you suggest me to do? Should I find a trusted source of gold bulli"
+    },
+    {
+      "link": "https://www.ezini.eu/blog/2026/migrating-away-from-org-net-com-domains",
+      "title": "Migrating away from .org/.net/.com domains",
+      "description": "After having witnessed how easy it is for good people to lose a .org domain over a fascist tantrum (you can follow the Autistici/Inventati story here and here ), I've started moving all my infrastructure to differently managed TLDs . enricozini.org and enricozini.com will keep being functional for the time being, as dropping a domain makes it available for squatting and impersonation. These new do"
+    }
+  ]
+}

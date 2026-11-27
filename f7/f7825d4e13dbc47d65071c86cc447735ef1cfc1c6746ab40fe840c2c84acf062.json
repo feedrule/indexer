@@ -1,0 +1,20 @@
+{
+  "url": "https://www.8bitforce.com/index.xml",
+  "posts": [
+    {
+      "link": "http://www.8bitforce.com/blog/2026/03/05/retroshield-6800-is-running-flex-2.0/",
+      "title": "Retroshield 6800 is running FLEX 2.0",
+      "description": "I LOVE Retroshields! Not because I made them but they makes debugging HW/SW so easy and very educational. Recently, I was bringing up the Retroshield 6800 prototype. I quickly got MIKBUG and SWTBUG running. Next step was to run FLEX 2.0 using the DSK images on Teensy sdcard. That’s where my life felt like a “going down the drain”… I spent 2 weeks with no progress. Until today. With hind-sight, I l"
+    },
+    {
+      "link": "http://www.8bitforce.com/blog/2025/10/02/teensy-4.1-speaks-transputer-link/",
+      "title": "Teensy 4.1 speaks Transputer Link",
+      "description": "Typical transputer reference designs use IMS C011 (or IMS C012) link adapter chips (from INMOS) to connect the transputer to a HOST (PC) where the iserver application downloads the boot code and afterwards provides storage/console services over the link. Links use two types of messages: [11-bit message for 8-bit DATA] and [2-bit message for ACK]. The difference is the bit following the start bit ("
+    },
+    {
+      "link": "http://www.8bitforce.com/presentations/retroshield8008/",
+      "title": "RetroShield 8008 Presentations",
+      "description": "RetroShield 8008 Presentation ( html, pdf )"
+    }
+  ]
+}

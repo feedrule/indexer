@@ -1,0 +1,20 @@
+{
+  "url": "https://www.larsgregori.de/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.larsgregori.de/2026/01/20/nfl-ame-predictor-with-ralph-wiggum/",
+      "title": "Building an NFL Game Predictor While I Slept: The Ralph Wiggum Paradigm in Action",
+      "description": "I went to bed. 53 minutes later, I had a working NFL game prediction microservice. The Ralph Wiggum paradigm turned a concept document into a deployed application with ML predictions."
+    },
+    {
+      "link": "https://www.larsgregori.de/2026/01/08/mutation-testing-the-vibes/",
+      "title": "The T in vibe coding stands for testing (Part 3): Mutation testing the vibes",
+      "description": "Theory said AI-generated tests are circular. Now let's get empirical. I ran mutation testing on vibe-coded tests and found an 85% mutation score. That means 15% of bugs would slip through. Spec-first tests hit 92%. Property tests found 11 real bugs that all example tests missed entirely."
+    },
+    {
+      "link": "https://www.larsgregori.de/2026/01/06/independent-verification/",
+      "title": "The T in vibe coding stands for testing (Part 2): What independence actually means",
+      "description": "Using a different LLM for testing sounds like it would create independence. It doesn't. The moment any model sees your implementation, it reasons about what the code does, not what it should do. Real independence requires different information sources, not different systems."
+    }
+  ]
+}

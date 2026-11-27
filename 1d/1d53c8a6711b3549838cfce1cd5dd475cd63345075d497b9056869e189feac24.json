@@ -1,0 +1,20 @@
+{
+  "url": "https://jesper.sikanda.be/rss.xml",
+  "posts": [
+    {
+      "link": "https://jesper.sikanda.be/posts/coinduction-part-1.html",
+      "title": "Introduction to Coinduction in Agda Part 1: Coinductive Programming",
+      "description": "Jesper Cockx - Introduction to Coinduction in Agda Part 1: Coinductive Programming Jesper Cockx Home Blog Papers Talks Teaching Links Introduction to Coinduction in Agda Part 1: Coinductive Programming Posted by Jesper on January 22, 2026 {-# OPTIONS --guardedness --sized-types #-} {-# OPTIONS --cubical -WnoUnsupportedIndexedMatch #-} {-# OPTIONS --allow-unsolved-metas #-} open import Data.Bool.Ba"
+    },
+    {
+      "link": "https://jesper.sikanda.be/posts/going-vegan.html",
+      "title": "Going Vegan, or How I Ran All Out Of Excuses",
+      "description": "Jesper Cockx - Going Vegan, or How I Ran All Out Of Excuses Jesper Cockx Home Blog Papers Talks Teaching Links Going Vegan, or How I Ran All Out Of Excuses Posted by Jesper on January 3, 2026 It’s been clear to me for a while now that our diet can have a big impact on climate change. Up until 2019, I consequently called myself a “flexitarian” and tried to avoid eating meat as long as doing so was"
+    },
+    {
+      "link": "https://jesper.sikanda.be/posts/the-good-places-for-your-papers.html",
+      "title": "The good places to submit your papers",
+      "description": "Jesper Cockx - The good places to submit your papers Jesper Cockx Home Blog Papers Talks Teaching Links The good places to submit your papers Posted by Jesper on December 19, 2025 This week, the ACM made the monumental(ly stupid) decision to replace the abstracts of papers on their Digital Library website by AI-written summaries. While this did not apply to all papers, and it was only visible to “"
+    }
+  ]
+}

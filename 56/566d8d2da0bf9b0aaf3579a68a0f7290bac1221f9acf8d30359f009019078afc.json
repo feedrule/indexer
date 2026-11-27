@@ -1,0 +1,20 @@
+{
+  "url": "https://kirchware.com/index.xml",
+  "posts": [
+    {
+      "link": "https://kirchware.com/Building-a-CobaltStrike-AggressorScript-Bridge-for-Any-Language",
+      "title": "Building a CobaltStrike AggressorScript Bridge for Any Language",
+      "description": "That’s a Lot of Buzzwords You are completely right, but enough of those will hopefully get me onto hackernews or something :)."
+    },
+    {
+      "link": "https://kirchware.com/Driving-the-Rust-Compiler-to-Compile-Single-Files-as-Shellcode",
+      "title": "Driving the Rust Compiler to Compile Single Files as Shellcode",
+      "description": "WTF Does That Mean Rust exposes a feature that allows you to “drive” the rustc compiler from within a project."
+    },
+    {
+      "link": "https://kirchware.com/Dynamic-Indirect-Syscalls-via-JOP-or-ROP-in-Rust",
+      "title": "Dynamic Indirect Syscalls via JOP or ROP in Rust",
+      "description": "Overview Link to the Github Link to crates.io There is a lot to break down in this project and structuring something like this in a digestible format is a little difficult, so I am simply going to give an overview of what and why it is and break down a rough description of how the features work."
+    }
+  ]
+}

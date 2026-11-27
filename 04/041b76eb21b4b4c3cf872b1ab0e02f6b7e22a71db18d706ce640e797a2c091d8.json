@@ -1,0 +1,20 @@
+{
+  "url": "https://posts.oztamir.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://posts.oztamir.com/explain-vid-ai-explainer-videos-for-pull-requests/",
+      "title": "/explain-vid: AI explainer videos for pull requests",
+      "description": "An agent that turns big pull requests into one-minute narrated videos, triggered by a GitHub comment."
+    },
+    {
+      "link": "https://posts.oztamir.com/how-to-sort-wedding-videos-without-watching-them/",
+      "title": "How to sort your wedding videos without watching any of them",
+      "description": "Yo dawg, I heard you liked agents so I used an agent to write you an agent."
+    },
+    {
+      "link": "https://posts.oztamir.com/mcplexer-multiple-instances-of-the-same-mcp-server/",
+      "title": "MCPlexer: A tool for running multiple instances of the same MCP server",
+      "description": "A tiny MCP proxy for running multiple instances of the same MCP server without their tools colliding."
+    }
+  ]
+}

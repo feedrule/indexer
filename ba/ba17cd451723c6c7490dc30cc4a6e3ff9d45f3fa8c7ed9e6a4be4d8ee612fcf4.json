@@ -1,0 +1,20 @@
+{
+  "url": "https://stevengong.co/index.xml",
+  "posts": [
+    {
+      "link": "https://stevengong.co/notes/Huang-Law",
+      "title": "Huang's Law",
+      "description": "Huang’s Law Moore’s Law for GPUs. First heard through https://newsletter.semianalysis.com/p/nvidia-tensor-core-evolution-from-volta-to-blackwell."
+    },
+    {
+      "link": "https://stevengong.co/notes/Parallel-Thread-Execution",
+      "title": "Parallel Thread Execution (PTX)",
+      "description": "Parallel Thread Execution (PTX) PTX is the virtual instruct set. Ran into this term while working on the open-source GPU accelerated particle filter built on top of range_libc https://github."
+    },
+    {
+      "link": "https://stevengong.co/notes/Semianalysis",
+      "title": "Semianalysis",
+      "description": "Semianalysis Has some really good articles to learn about GPUs https://newsletter.semianalysis.com/p/nvidia-tensor-core-evolution-from-volta-to-blackwell https://newsletter."
+    }
+  ]
+}

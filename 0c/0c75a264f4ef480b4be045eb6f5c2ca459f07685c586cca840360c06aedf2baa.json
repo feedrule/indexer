@@ -1,0 +1,20 @@
+{
+  "url": "https://miccah.io/index.xml",
+  "posts": [
+    {
+      "link": "https://miccah.io/posts/2026-11-20-proj-page/",
+      "title": "Projects!",
+      "description": "Introducing my new projects page! I thought it would be fun to embed the README for some of my projects on my website, so I used Hugo’s resources.GetRemote to download it and strings.replaceRE to point relative links back to the repo (plus some other processing). The part I’m excited about is the timestamp on the index page though. It is the timestamp of the latest commit for that project, so it’s"
+    },
+    {
+      "link": "https://miccah.io/posts/2026-11-12-submitting-a-patch-to-gnu-sed/",
+      "title": "Submitting a patch to GNU sed",
+      "description": "I’m working on a long option parser for Hare and decided to use sed as an example (because Hare stdlib’s getopt has a sed example). This is sed ’s man page: Zoom in.. Enhance.. Huh, what does -V do?? It’s not described in the man page. Let’s try it. » sed -V sed: option requires an argument -- 'V' Okay.. giving it a wut argument resulted in no error message and just the usage text. So I found the"
+    },
+    {
+      "link": "https://miccah.io/posts/2026-08-11-ergonomic-ssh-development/",
+      "title": "Ergonomic SSH development",
+      "description": "I’ve been setting up a dev machine on my home server and doing all of my personal projects remotely over SSH . I’ve fiddled quite a bit with the system to make it ergonomic, so here are some of the things I’m quite happy with. Tmux autocompletions Of course, tmux is a t-must! One of the cool things about tmux is that you can programmatically read the contents of a pane via tmux capture-pane -S- -p"
+    }
+  ]
+}

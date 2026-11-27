@@ -1,0 +1,20 @@
+{
+  "url": "https://burgeonlab.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://burgeonlab.com/blog/hugo-tips-and-tricks/",
+      "title": "Hugo (Static Site Generator) CMS: Tips and Tricks",
+      "description": "Hugo SSG CMS tips and tricks for better website development. Learn about templates, minification, comments, custom themes, front matter, and more."
+    },
+    {
+      "link": "https://burgeonlab.com/blogroll/",
+      "title": "Blogroll: Interesting Sites and Creators",
+      "description": "A curated collection of Naty's favourite websites and creators, and inspiring blogs."
+    },
+    {
+      "link": "https://burgeonlab.com/blog/100daystooffload-2026/",
+      "title": "First Time Finisher: 100 Days To Offload Blogging Challenge",
+      "description": "My thoughts and tips on completing #100DaysToOffload for the first time and how I created a progress bar HTML element with Hugo template syntax."
+    }
+  ]
+}

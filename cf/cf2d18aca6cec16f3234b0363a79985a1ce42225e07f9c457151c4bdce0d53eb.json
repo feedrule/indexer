@@ -1,0 +1,20 @@
+{
+  "url": "https://tomscii.sig7.se/feed.xml",
+  "posts": [
+    {
+      "link": "https://tomscii.sig7.se/2026/05/Babys-First-DDS-Signal-Generator",
+      "title": "Baby's First DDS Signal Generator",
+      "description": "The most essential instruments of an electronics lab: a power supply , an oscilloscope, and a signal generator. Equipped with the first two, I decided to try my hand at building the third. In this article I present you with an original design of a very low cost, versatile and precise baseband signal generator based on a DDS (direct digital synthesis) architecture."
+    },
+    {
+      "link": "https://tomscii.sig7.se/2026/03/New-in-Barium-Chesslab-26Q1",
+      "title": "New in Barium & ChessLab, 2026/Q1",
+      "description": "In the tradition of “shut up and write the code” there have been no recent updates on what I’ve been up to. However, the pile of finished stuff is now high enough to call it a milestone or two, so I finally got down to compile a summary for those of you wishing to follow along."
+    },
+    {
+      "link": "https://tomscii.sig7.se/2025/11/ChessLab-A-program-for-chess-players",
+      "title": "ChessLab - A program for chess players",
+      "description": "Ever since publishing the Barium toolkit , I’ve been hinting at real applications waiting to be written. That is, non-trivial programs using Barium for their GUI. ChessLab is one such program, and the first to reach a standard of completion to be published."
+    }
+  ]
+}

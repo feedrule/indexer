@@ -1,0 +1,20 @@
+{
+  "url": "https://everyhue.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://everyhue.me/posts/preservering-ho-ngoc-duc-vietnamese-dictionary-dataset/",
+      "title": "Preserving Hồ Ngọc Đức's Vietnamese Dictionary Dataset",
+      "description": "The Vietnamese Language has a rich and evolving history. For many years I have relied upon Hồ Ngọc Đức’s online Vietnamese Dictionary project as a reference for my studies as well as used it in various language processing tasks. It saddened me to learn that his homepage at the University of Leipzig was no longer being hosted. The project itself started in 1999 and has been publically accessible un"
+    },
+    {
+      "link": "https://everyhue.me/posts/why-uncertainty-matters/",
+      "title": "Why Uncertainty Matters in Deep Learning and How to Estimate It",
+      "description": "More trustworthy models For safety critical systems and infrastructure, you need to know when to trust a model’s prediction and when you should be more cautious about its output. The problem with conventional deep neural networks is that they only provide point-estimates which are single predictive values given some input data. What you don’t get with these models is a measure of how uncertain the"
+    },
+    {
+      "link": "https://everyhue.me/posts/multiclass-calibration/",
+      "title": "Are your models calibrated?",
+      "description": "A calibration curve (sometimes called a “reliability diagram”) tells you whether your model’s predicted probabilities accurately reflect the real chance of your model being right. It’s very common for neural networks to overestimate the confidence in their predictions, and this type of diagram helps us detect when this phenomenon occurs. Here’s an example: On the x-axis we have our model’s predict"
+    }
+  ]
+}

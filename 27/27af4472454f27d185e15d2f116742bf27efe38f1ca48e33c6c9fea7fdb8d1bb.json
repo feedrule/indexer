@@ -1,0 +1,20 @@
+{
+  "url": "https://forrest.nyc/feed/",
+  "posts": [
+    {
+      "link": "https://forrest.nyc/death-of-the-gis-analyst/?utm_source=rss&utm_medium=rss&utm_campaign=death-of-the-gis-analyst",
+      "title": "The Death of the GIS Analyst: 7 New Roles",
+      "description": "The GIS analyst role is splitting into 7 new geospatial jobs. Here are the roles, the skills behind each, and how to map your GIS analyst career to them. The post The Death of the GIS Analyst: 7 New Roles first appeared on Matt Forrest ."
+    },
+    {
+      "link": "https://forrest.nyc/convert-shapefile-to-geoparquet/?utm_source=rss&utm_medium=rss&utm_campaign=convert-shapefile-to-geoparquet",
+      "title": "Convert a Shapefile to GeoParquet (Python, DuckDB, Sedona)",
+      "description": "I took a real Shapefile with almost 1.1 million polygons and converted it to GeoParquet three different ways. The file went from over 1.4 GB of source data down to 246 MB, opened cleanly in QGIS, and ran spatial queries in seconds instead of minutes. The dataset was the New York City building footprints. Every […] The post Convert a Shapefile to GeoParquet (Python, DuckDB, Sedona) first appeared o"
+    },
+    {
+      "link": "https://forrest.nyc/claude-ai-full-control-qgis/?utm_source=rss&utm_medium=rss&utm_campaign=claude-ai-full-control-qgis",
+      "title": "I Gave Claude AI Full Control of QGIS: What Happened",
+      "description": "I copied a shapefile path into a chat box and asked Claude to build a map. A few seconds later, QGIS opened a new project, loaded a Seattle bus network, zoomed to the extent, and reported the feature count back to me. I never touched the QGIS interface. That is what AI in QGIS looks […] The post I Gave Claude AI Full Control of QGIS: What Happened first appeared on Matt Forrest ."
+    }
+  ]
+}

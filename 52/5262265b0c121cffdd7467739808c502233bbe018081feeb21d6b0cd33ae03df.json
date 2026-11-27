@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.m5e.de/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.m5e.de/post/buffalo-linkstation-ssh-email-fix/",
+      "title": "Buffalo LinkStation (LS-QVL) – Fixing SSH Access and Email Notifications",
+      "description": "Recently, I ran into a problem with my old Buffalo LinkStation (LS-QVL) NAS: one of the hard drives failed, but I didn’t receive any email notification about it. That’s obviously a serious issue if you rely on these alerts to react in time — ideally before the second drive in the RAID also fails. The problem with these older devices is often outdated firmware. In particular, the built-in software"
+    },
+    {
+      "link": "https://blog.m5e.de/post/panasonic-lumix-dmc-fs10-full-spectrum-conversion/",
+      "title": "Panasonic Lumix DMC-FS10 Full Spectrum Conversion",
+      "description": "In this video, I demonstrate how I converted the Panasonic Lumix DMC-FS10 into a full spectrum camera by removing the internal infrared filter. This DIY modification allows the camera to capture light beyond the visible spectrum—ideal for infrared photography, UV shots, or creative full spectrum projects."
+    },
+    {
+      "link": "https://blog.m5e.de/post/i-hate-apt/",
+      "title": "I hate `apt`",
+      "description": "Let me start this post by writing how much I thank the Ubuntu , Debian and therefore also the apt ecosystem to be there in my life. It was there when I operated VPS back in 2010, it excited me in 2013 when I used Ubuntu as my main Desktop Operating System, and therefore it prepared my path to become a Software Developer and Founder before I even earned my first dime."
+    }
+  ]
+}

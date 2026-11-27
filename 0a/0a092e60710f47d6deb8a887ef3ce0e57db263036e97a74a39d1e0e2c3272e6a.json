@@ -1,0 +1,20 @@
+{
+  "url": "https://michael.kjorling.se/feeds/fulltext.xml",
+  "posts": [
+    {
+      "link": "https://michael.kjorling.se/blog/2026/links-10/",
+      "title": "Links: October 2026",
+      "description": "Why Old Software Sometimes Feels Better by nickb is, in a sense, an ode to old software. Software that had a purpose, and stuck to it. Software that didnʼt grow without bounds. Software that looked and behaved the same, day after day. Software that, in a sense, treated its user …"
+    },
+    {
+      "link": "https://michael.kjorling.se/blog/2026/force-value-error-libreoffice-calc/",
+      "title": "Forcing a \"#VALUE!\" error in LibreOffice Calc",
+      "description": "Every very occasionally, I find it useful to force a cell in a LibreOffice Calc spreadsheet to have a #VALUE! error status instead of an empty value which gets interpreted as 0 (for example when included in calculations). The easiest way I have found to do that is to make …"
+    },
+    {
+      "link": "https://michael.kjorling.se/blog/2026/links-07/",
+      "title": "Links: July 2026",
+      "description": "Whatʼs that straight, single-stroke font that seems to be everywhere once you start looking? Marcin Wichary set out to answer that question in The hardest working font in Manhattan , and there is more to that than you might believe. Hat tip to Raymond Chen for the 2026 mid-year link clearance …"
+    }
+  ]
+}

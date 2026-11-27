@@ -1,0 +1,20 @@
+{
+  "url": "https://srinivasraghav.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://srinivasraghav.bearblog.dev/alice-in-the-wonderland-all-the-way-to-cs312-part-1/",
+      "title": "Alice in Wonderland, All the Way to CS312 — Part 1",
+      "description": "I have recently been working through Stanford's deep learning CS31 and plan to discuss my reasoning and rationale on the questions of the the quizzes and One of the Question of the quiz asked us to predict what happens to a transformer's validation loss when different architectural components are removed. I initially underestimated how important residual connections are relative to normalization."
+    },
+    {
+      "link": "https://srinivasraghav.bearblog.dev/understanding-deep-learning/",
+      "title": "Understanding Deep Learning",
+      "description": "One of the most fundamental questions in modern deep learning is why deep learning works so remarkably well across such different domains. Problems such as protein structure prediction, autonomous driving, language generation, image recognition, and playing complex games appear to have little in common. Yet neural networks, trained using broadly similar principles, have achieved extraordinary resu"
+    },
+    {
+      "link": "https://srinivasraghav.bearblog.dev/how-does-a-gpt-learn/",
+      "title": "how does a gpt learn ?",
+      "description": "begin with one unfinished sentence Consider the short unfinished sentence the cat sat on the ? It looks simple to us because we read it almost in a single go. A language model does not begin with that understanding. It does not receive the sentence as meaning; it receives a sequence of token IDs. A tokenizer first breaks the text into tokens and maps each token to an integer. The model then turns"
+    }
+  ]
+}

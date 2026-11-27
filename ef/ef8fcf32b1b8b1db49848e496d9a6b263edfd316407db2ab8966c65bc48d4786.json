@@ -1,0 +1,20 @@
+{
+  "url": "https://yeldirium.de/atom.xml",
+  "posts": [
+    {
+      "link": "https://yeldirium.de/2026/09/20/traefik-block-llm-crawlers/",
+      "title": "Do you hate LLM crawlers? Here's how to block them using traefik",
+      "description": "Earlier today I noticed that three days ago the OpenAI GPTBot crawler started spamming my hosted websites with about 120 requests per min"
+    },
+    {
+      "link": "https://yeldirium.de/2025/10/10/golang-functional-options-pattern/",
+      "title": "GoLang Functional Options Pattern",
+      "description": "Thi Functional Options Pattern allows for the complex configuration of some type. There are several layers of how involved this pattern c"
+    },
+    {
+      "link": "https://yeldirium.de/2025/10/09/pre-commit-hooks/",
+      "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
+      "description": "The Git pre-commit hook is a commonly used tool for automated qual"
+    }
+  ]
+}

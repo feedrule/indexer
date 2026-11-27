@@ -1,0 +1,20 @@
+{
+  "url": "https://anderegg.ca/feed.xml",
+  "posts": [
+    {
+      "link": "https://anderegg.ca/2026/11/08/safaris-webloc-files-in-macos-272",
+      "title": "Safari’s .webloc files in macOS 27.2",
+      "description": "For more than 20 years, I’ve had a habit of dragging URLs to my desktop. I’m not going to pretend it’s a great habit, but I found it a handy way to save a link I wanted to check out later. For whatever reason, Apple has recently made this a lot more annoying."
+    },
+    {
+      "link": "https://anderegg.ca/2026/11/03/machines-building-machines",
+      "title": "Machines building machines",
+      "description": "Yesterday, a group of MIT researchers released an article titled “Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights”. The piece describes a set of experiments which convincingly show OpenAI’s latest Astra model is able to understand and successfully alter raw weight data. Wowzers!"
+    },
+    {
+      "link": "https://anderegg.ca/2026/10/26/just-put-some-html-on-the-web",
+      "title": "Just put some HTML on the web",
+      "description": "The internet is becoming a more dangerous place, and fast. LLMs are only getting better at identifying security issues, and more people are taking advantage of this. Some people argue that LLMs will eventually make large-scale vulnerabilities a thing of the past. I’m not so sure. Either way, I think it’s a good idea to have less stuff that can be hacked online. One way to do that is with staticall"
+    }
+  ]
+}

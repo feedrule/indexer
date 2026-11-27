@@ -1,0 +1,20 @@
+{
+  "url": "https://konstantintutsch.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://konstantintutsch.com/blog/introducing-firn/",
+      "title": "Introducing Firn: A Self-Hosted Endurance Training Heatmap",
+      "description": "Firn is a self-hosted heatmap of your endurance training activities, with statistics on your training, sleep and health. 🏃 Heatmap (test data) Why? You might be curious why exactly I decided to write a custom training data aggregator and visualizer when there already are open source projects 1 filling that gap. On top of that, it basically is a necessity to use a proprietary service like Garmin Co"
+    },
+    {
+      "link": "https://konstantintutsch.com/blog/docker-volume-grant-selinux-permissions/",
+      "title": "Grant Docker Access To Volume on SELinux Enforced System",
+      "description": "Note Docker can do everything this post describes automatically, you just need to set either the :z or :Z option on your volume. ( Docker Documentation ) When running Docker on a system enforcing SELinux, Docker Volumes require a special SELinux context to be accessible by the Docker Daemon and Container. This context is called container_file_t and can be set on a path recursively : semanage fcont"
+    },
+    {
+      "link": "https://konstantintutsch.com/blog/compile-java-from-multiple-source-files/",
+      "title": "How To Compile a Java Program with Multiple Source Files",
+      "description": "This blog post is just another note to my future self. This time, it is about compiling (and running) a Java application (with multiple source files) from only the command line. The Example Program Let's say, our application is made up of two files: Main.java and Combination.java . In this example, their contents look like this … // Main.java package com.konstantintutsch.Example; public class Main"
+    }
+  ]
+}

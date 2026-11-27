@@ -1,0 +1,20 @@
+{
+  "url": "https://simondalvai.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://simondalvai.org/blog/sfscon26-godot-workshop/",
+      "title": "[Workshop] Create a small platformer game with Godot",
+      "description": "This are the notes to my Godot Engine workshop at SFSCON 2026 . The goal of the workshop is to learn the basics of the Godot Engine. Note: the workshop won't be recorded. But I might create a separate video for this workshop, or simply extend this notes with more text. Godot Engine Since 2017 under MIT (no CLA!) Full engine with editor 2D and 3D Desktop, Mobile, Web GDScript, C# and C++ Setup Down"
+    },
+    {
+      "link": "https://simondalvai.org/blog/no-steamsdk-required/",
+      "title": "Releasing games on Steam without using the SteamSDK",
+      "description": "This month I'm very busy preparing my first commercial game for the v1.0 release in December. Additionally, I will also speak at GodotFest26 and SFSCON in November. For that reason this month's blog post will be short, but informative ;-) The mystery about the required SteamSDK There is this myth out there that the SteamSDK is needed to release games on Steam. Even the official docs state that it"
+    },
+    {
+      "link": "https://simondalvai.org/blog/two-years-solodev/",
+      "title": "Two years as full-time solo game dev",
+      "description": "Last year I wrote about my first year as full-time solo game dev . Now another year passed and I'm still working on my game 99Managers . Spoiler: not much changed, but there was progress and I learned a lot. I still do time tracking, use a single todo.md note file, don't own a car and have not given up :-) Listen to users A very important lesson I learned this year is how important it to listen to"
+    }
+  ]
+}

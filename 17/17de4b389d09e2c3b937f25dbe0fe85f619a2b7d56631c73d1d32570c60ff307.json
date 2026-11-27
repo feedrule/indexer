@@ -1,0 +1,15 @@
+{
+  "url": "https://codebolt.github.io/feed",
+  "posts": [
+    {
+      "link": "https://codebolt.github.io/mcp/csharp/open-webui/2026/01/07/getting-started-with-mcp.html",
+      "title": "Getting Started With MCP Development in C#",
+      "description": "This post is a brief quickstart for building MCP (Model Context Protocol) servers in C# using Visual Studio 2026 (with the MCP project template), with local testing in Open WebUI (a free and open-source AI chat client that you can easily run locally). I’ll show you how to make a simple MCP server with one simple tool, running it, and configuring Open WebUI to make use of it."
+    },
+    {
+      "link": "https://codebolt.github.io/2026/01/07/welcome-to-my-blog.html",
+      "title": "First post",
+      "description": "This is just a test."
+    }
+  ]
+}

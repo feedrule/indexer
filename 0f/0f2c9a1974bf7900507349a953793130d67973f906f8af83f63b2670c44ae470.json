@@ -1,0 +1,20 @@
+{
+  "url": "https://trevo.rs/feed.xml",
+  "posts": [
+    {
+      "link": "https://trevo.rs/agent-redaction",
+      "title": "Keeping Secrets Out of Your Agent's Context",
+      "description": "Reliably preventing sensitive data from leaking into Claude Code"
+    },
+    {
+      "link": "https://trevo.rs/gui-fuzzer",
+      "title": "Experiments in Fuzzing React GUIs",
+      "description": "Coverage-guided fuzz testing and state visualization of React components"
+    },
+    {
+      "link": "https://trevo.rs/wasm-seam-carving",
+      "title": "WASM Seam Carving",
+      "description": "Shrinking images with WASM"
+    }
+  ]
+}

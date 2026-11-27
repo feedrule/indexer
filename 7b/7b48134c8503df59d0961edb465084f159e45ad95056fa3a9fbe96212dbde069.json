@@ -1,0 +1,20 @@
+{
+  "url": "https://solodev.app/rss.xml",
+  "posts": [
+    {
+      "link": "https://solodev.app/using-ai-to-write-my-posts",
+      "title": "Using AI to Write My Posts.",
+      "description": "How I use Hermes Agent, structured templates, and queue automation to produce blog posts, reports, AsciiDoc files, Markdown files, and PDFs."
+    },
+    {
+      "link": "https://solodev.app/my-home-office",
+      "title": "My Home Office.",
+      "description": "A walk-through of my home office PCs where I describe how each machine powers my AI developer workflow which empowers my software technology startup."
+    },
+    {
+      "link": "https://solodev.app/dev-teams-and-their-docs",
+      "title": "Dev Teams and their Docs.",
+      "description": "A guide to the seven Development Documents, Leadership Team and Developer Team roles, and the Agile/Scrum Software Development Lifecycle."
+    }
+  ]
+}

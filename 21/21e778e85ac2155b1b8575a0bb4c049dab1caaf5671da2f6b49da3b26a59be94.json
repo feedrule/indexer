@@ -1,0 +1,20 @@
+{
+  "url": "https://permacomputer.solarpunk.au/?feed=rss2",
+  "posts": [
+    {
+      "link": "https://permacomputer.solarpunk.au/?p=275",
+      "title": "Permacomputer Text Editor Devlog #2",
+      "description": "The proof-of-concept Tiny BASIC text editor that the people’s permacomputer project sponsors has hit another milestone. The text editor has added a primitive edit mode. Edit mode allows a simple search and replace functionality. Please be advised that the program will only replace the first match it finds, requiring the user to rather laboriously repeat […]"
+    },
+    {
+      "link": "https://permacomputer.solarpunk.au/?p=266",
+      "title": "Project Update November 2026",
+      "description": "There have been two main points of focus for the project over the last month. People’s Permacomputer Text Editor You may have seen previously that a brief proof-of-concept BASIC text editor was published by the project. Work continues on the text editor. It is intended to suit the permacomputer hardware that the project has been […]"
+    },
+    {
+      "link": "https://permacomputer.solarpunk.au/?p=259",
+      "title": "Permacomputer Text Editor Devlog #1",
+      "description": "Progress has been made on the text editor that will be shipped on the first model of the people’s permacomputer. Please follow the code development here: https://codeberg.org/vidak/peoples Also, have a look at an earlier, historical editor from which this one was inspired, “VIC EDITYPE”: http://www.vic20listings.freeolamail.com/book_computevic2.html Forum thread here: https://basiclang.solarpunk.a"
+    }
+  ]
+}

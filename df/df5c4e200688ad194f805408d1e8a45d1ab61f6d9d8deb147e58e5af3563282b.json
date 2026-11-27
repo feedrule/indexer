@@ -1,0 +1,20 @@
+{
+  "url": "https://greggant.com/feed.xml",
+  "posts": [
+    {
+      "link": "http://blog.greggant.com//posts/2025/12/11/mobius-hotline-vps-wireguard-pi.html",
+      "title": "Mobius Hotline Vps Wireguard Pi",
+      "description": "Time for a massive info dump. Hotline is dated, and that complicates things as servers are very public. It was designed in a very different era of the internet. Hosting a server means exposing an IP. This isn't a huge deal, but I wanted to be able to host my files on my NAS without exposing said NAS to the internet. This is where a VPS comes in. The Mobius binary is happy on a small VPS, but stora"
+    },
+    {
+      "link": "http://blog.greggant.com//posts/2025/10/27/flying-toasters-lives.html",
+      "title": "Flying Toasters Lives On - Releasing an updated version of the classic screensaver",
+      "description": "Back in the \"classic\" days of Mac OS, one of the most iconic and beloved screensavers was the Flying Toasters. Originally developed by Berkeley Systems and released in the early 1990s as part of the After Dark screensaver collection. Later versions featured animations, and music. Personally speaking, this has always been one of my absolute favorite screensavers so I did something totally off-the-c"
+    },
+    {
+      "link": "http://blog.greggant.com//posts/2025/09/24/wordpress-rate-limter.html",
+      "title": "Wordpress Rate Limiter - A free plugin limit login attempts and block bad bots",
+      "description": "Obstensibly, this blog has always been a developer's blog of a front-end developer , UX developer , I mean, a full-stack developer's personal blog, even if 95% is Mac-related nonsense. However, now that I'm a lead developer, I've accidentally been writing about development projects more frequently as I've wrote a GUI wrapper for an Xbox Utility , How to install Pihole via Docker , wrote a plugin f"
+    }
+  ]
+}

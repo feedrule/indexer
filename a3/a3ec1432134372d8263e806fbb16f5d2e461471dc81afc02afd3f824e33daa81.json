@@ -1,0 +1,20 @@
+{
+  "url": "https://imaginary.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://imaginary.bearblog.dev/z-scoreboard-1/",
+      "title": "Z Scoreboard",
+      "description": "Unfortunately, this semester my e-ink tablet, one of my favorite pieces of technology, broke. As a result, I had to go back to using paper to keep score when playing canastra with my girlfriend. I tried a few apps on the App Store, but most were outdated, filled with intermittent ads, or required a subscription. So I decided to make one for us. Now that the semester is over, I finally had the time"
+    },
+    {
+      "link": "https://imaginary.bearblog.dev/paper-mess-1/",
+      "title": "Paper Mess",
+      "description": "When working on my Mac, I constantly need to take quick notes, whether to capture some info or adjust temporary text. I know there are many apps in this space, but I built one to fit my use case exactly. It is: Native: that means it does not drain your battery. Ephemeral: you don't need to worry about managing notes. You just open a window (or a lot of windows) and write. When you \"crumple\" (close"
+    },
+    {
+      "link": "https://imaginary.bearblog.dev/minutetick-1/",
+      "title": "MinuteTick",
+      "description": "MinuteTick is a macOS app I built to learn and play with SwiftUI. I sent it for review today and it is already live on the Mac App Store . The main feature of MinuteTick is that it allows you to set notifications for specific minutes of each hour. Overall, it was a joy to make, and I am really happy with how it turned out."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://fsharpforfunandprofit.com/index.xml",
+  "posts": [
+    {
+      "link": "https://fsharpforfunandprofit.com/posts/designing-weaving-software-2/",
+      "title": "Weaving design, part 2",
+      "description": "This is the second post in a series on designing software for weavers. These posts contain random thoughts and musings based on design challenges that I come across as I build a real-world project. In the first post I give the context for this project and presented the code for a initial domain-driven design. In this post and the next one, we’ll move to the next stage, converting between a text re"
+    },
+    {
+      "link": "https://fsharpforfunandprofit.com/posts/designing-weaving-software/",
+      "title": "Designing weaving software",
+      "description": "This post is part of the 2025 F# Advent Calendar. Check out all the other great posts there! And special thanks to Sergey Tihon for organizing this. Recently, I have taken up a new hobby, hand weaving. As a meditative, physical activity with tangible results, it’s a great antidote to doom-scrolling and spending too much time in front of a screen. The first time I tried it, something about the weav"
+    },
+    {
+      "link": "https://fsharpforfunandprofit.com/posts/return-of-the-edfh-3/",
+      "title": "The EDFH is defeated once again",
+      "description": "In the first post in this series, we came up with some properties that could be used to test a run-length encoding implementation: The output must contain all the characters from the input, in the same order Two adjacent characters in the output cannot be the same The sum of the run lengths in the output must equal the total length of the input If the input is reversed, the output must also be rev"
+    }
+  ]
+}

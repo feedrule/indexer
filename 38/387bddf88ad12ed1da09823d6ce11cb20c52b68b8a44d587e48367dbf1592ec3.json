@@ -1,0 +1,20 @@
+{
+  "url": "https://www.openpa.net/openpa.xml",
+  "posts": [
+    {
+      "link": "https://www.openpa.net/systems/hp-9000_pa-risc_markets.html",
+      "title": "PA-RISC in the RISC market of the 1990s",
+      "description": "The two-decade story of HP 9000 and PA-RISC computers in the RISC era market for technical computing. Originally devised as servers for business and transactions, PA-RISC computers grew into a variety of market roles and niches during the 1990s. Many examples of actual, wide-scale PA-RISC use cases can be gleaned from old HP customer stories. In its Infancy , HP 9000 and PA-RISC competed with esta"
+    },
+    {
+      "link": "https://www.openpa.net/systems/hp-9000_842_852_865_870.html",
+      "title": "First PA-RISC SMP - HP 9000 870 servers",
+      "description": "HP 9000 870 Emerald were the first PA-RISC multiprocessor (SMP) system released by HP, in 1991. 870S were hosted in a large cabinet with up to four 50 MHz PCX for around half a million US dollars, positioned against IBM mainframe transaction computers. HP claimed “four times the performance of the previous high-end HP 9000 model.” HP added SMP support to PA-RISC and HP 9000 since that “offer[ed] t"
+    },
+    {
+      "link": "https://www.openpa.net/pa-risc_fabrication.html",
+      "title": "PA-RISC Fabrication from TTL to CMOS",
+      "description": "HP designed all of its PA-RISC processors in-house for two decades – and fabbed them as well for more than a decade. HP manufactured PA-RISC processors in its own facilities in Colorado, from the 1986 TS-1 in TTL to 64-bit PA-8200 in CMOS , 1997. Close to PA-RISC’s Decline, HP switched to Intel fabs for two years and then to IBM in 2001 for CMOS SoI. Fabrication Year CPU Die mm and gates FETs Proc"
+    }
+  ]
+}

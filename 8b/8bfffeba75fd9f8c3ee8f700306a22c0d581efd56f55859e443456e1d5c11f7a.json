@@ -1,0 +1,20 @@
+{
+  "url": "https://simonhartcher.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli/",
+      "title": "Testing OpenGraph on localhost from the CLI before you go public",
+      "description": "og-check fetches a URL and renders its OpenGraph and Twitter Card metadata directly in your terminal, images and all. Point it at localhost and skip the tunnel."
+    },
+    {
+      "link": "https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig/",
+      "title": "Applying \"Programming Without Pointers\" to an mbox indexer using Zig",
+      "description": "Trading per-message allocations for two flat buffers, and what that unlocks for serializing the index to disk."
+    },
+    {
+      "link": "https://simonhartcher.com/posts/2026-03-03-announcing-pixels/",
+      "title": "Announcing Pixels: Disposable Linux Containers for AI Coding Agents",
+      "description": "Sandboxed containers that you can run on your own hardware."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.apalrd.net/index.xml",
+  "posts": [
+    {
+      "link": "https://www.apalrd.net/posts/2026/ent_nextcloud/",
+      "title": "Setting up Nextcloud with FreeIPA for my Linux-Based Enterprise",
+      "description": "I’m trying to build a business around self-hosted and open source software. Is it finally the year of Linux in the enterprise? I’ve tried FreeIPA, worked through distributing my policy through RPM packages, and now I need a groupware solution for my business. I’m trying Nextcloud, integrated into my FreeIPA setup, with automatic login using Kerberos. Contents Video Basic Setup Basic Setup - Instal"
+    },
+    {
+      "link": "https://www.apalrd.net/posts/2026/network_capture/",
+      "title": "mitmproxy on a transparent bridge on Linux",
+      "description": "Most of the time, when I am using mitmproxy, I am running in transparent mode - the network is routing packets to the proxy, and the proxy is intercepting them without intentional configuration on the client. This usually requires that I add a router in the path to point at the mitmproxy. However, it should be possible to do this entirely on one box with dual NICs, using a bridge, and then using e"
+    },
+    {
+      "link": "https://www.apalrd.net/posts/2026/ent_luks/",
+      "title": "Full Disk Encryption on Fedora w/ TPM2",
+      "description": "Today I’m diving into the world of Secure Boot, TPM2, and all of the complications that come with wanting a high level of security without having to type a disk encryption key all the time. Ultimately, my goal is to come up with a solution that I can roll out in my Linux-based business environment, but today I’m walking you through the basics of how full disk encryption works with LUKS and enrolli"
+    }
+  ]
+}

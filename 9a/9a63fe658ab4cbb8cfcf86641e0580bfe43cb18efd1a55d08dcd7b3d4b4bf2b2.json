@@ -1,0 +1,20 @@
+{
+  "url": "https://harpaz.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://harpaz.wordpress.com/2026/02/17/how-pytests-monkeypatch-works/",
+      "title": "How Pytest’s MonkeyPatch works",
+      "description": "MonkeyPatch is a fascinating tool provided by pytest, which is one a famous testing framework for Python. An example clarifying its usage is shown in the [documentation]:Given a file we wish to test: We can have the following test file: And, voila. monkeypatch patched requests.get to return the static json we wanted. And so, the … Continue reading How Pytest’s MonkeyPatch works →"
+    },
+    {
+      "link": "https://harpaz.wordpress.com/2025/12/21/power-prime-numbers/",
+      "title": "Power-Prime Numbers",
+      "description": "Here’s a fun little idea:Prime numbers are numbers which factor only to 1 and to themselves, with respect to the operation of multiplication.What about the operation of power?What would power-prime numbers look like? As a rough definition, we can think of it this way:A multiplication-prime number is a number which is built only using itself.For … Continue reading Power-Prime Numbers →"
+    },
+    {
+      "link": "https://harpaz.wordpress.com/2025/11/23/debugging-python-printing-the-python-call-stack/",
+      "title": "Debugging Python: Printing the Python Call Stack",
+      "description": "Welcome back to the “Debugging Python” series! [The previous post] in the series came about while I worked on the [Python Internals: Guaranteed Destructors] post.This one originates while working on [Regex Internals – Part 3 – Exploring the Regex Engine State Machine]. The Problem In [Regex Internals – Part 2], we found out that re.match … Continue reading Debugging Python: Printing the Python Cal"
+    }
+  ]
+}

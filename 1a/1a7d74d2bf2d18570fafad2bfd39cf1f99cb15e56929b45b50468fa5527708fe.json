@@ -1,0 +1,20 @@
+{
+  "url": "https://morgenthum.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://morgenthum.dev/blog/a-first-vertical-slice/",
+      "title": "A first vertical slice",
+      "description": "So my last update on the game was already a while ago. Here is a video of how it looks at the moment. Download the gameplay video (MP4). I implemented a first small chapter as a vertical slice and played around with lighting, LODs, 3D models and sounds, as you can see and hear. The biggest boost for development was using BSN files to make progress in a \"proper\" data-driven way. Based on this, I co"
+    },
+    {
+      "link": "https://morgenthum.dev/blog/weather-tablet-for-quest-planning/",
+      "title": "A weather tablet for quest planning",
+      "description": "Wild Spikes has dynamic weather. Rain, sun, clouds - the conditions change over time and affect the world. Some quests are easier to complete under certain weather conditions. Until now, the player had no way to know what was coming. That changes with the weather tablet. What it does The weather tablet shows a forecast of upcoming weather conditions. The player can pick it up, check what the next"
+    },
+    {
+      "link": "https://morgenthum.dev/blog/introduce-layers-into-bevy/",
+      "title": "How to introduce layers into Bevy games",
+      "description": "Wild Spikes is a survival and stealth game with quests, day/night cycles, weather, crafting, and other systems you would expect in a full-fledged game. I'm building it with Rust and Bevy, targeting PC and mobile. As the project grows, keeping things organized becomes critical. In this post I want to share the architecture I use and the thinking behind it. The problem Bevy makes it easy to add syst"
+    }
+  ]
+}

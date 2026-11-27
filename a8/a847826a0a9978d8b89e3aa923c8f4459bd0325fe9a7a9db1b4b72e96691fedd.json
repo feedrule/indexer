@@ -1,0 +1,20 @@
+{
+  "url": "https://nauman.im/rss.xml",
+  "posts": [
+    {
+      "link": "https://nauman.im/building-and-shipping-with-agents/",
+      "title": "How I Build and Ship with Agents",
+      "description": "My workflow for building and shipping with agents, from gathering requirements and reviewing the design to automated verification and user journeys, without human code review."
+    },
+    {
+      "link": "https://nauman.im/hyper-personalized-software/",
+      "title": "Hyper-personalized software: Optimizing deep learning models on a Nothing Phone (2a)",
+      "description": "Building a personal, on-device video workflow with Codex, PASE, VibeVoice and MMS-FA on a Nothing Phone (2a)."
+    },
+    {
+      "link": "https://nauman.im/building-a-personal-ai-workflow/",
+      "title": "Building a Personal AI Workflow: From Reading to Private Video",
+      "description": "A field report on building a human-supervised AI workflow that turns starred inbox reading into natural narration, visual slides, and private video."
+    }
+  ]
+}

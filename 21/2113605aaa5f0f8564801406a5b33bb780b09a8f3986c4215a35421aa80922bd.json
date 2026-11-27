@@ -1,0 +1,20 @@
+{
+  "url": "https://luten.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://luten.dev/recalibrating/",
+      "title": "Recalibrating",
+      "description": "This is a more personal post than usual, but I think it’s worth writing down. Earlier this year, around March, I had the first proper health scare of my life. I checked myself into the ER and spent a week in the hospital, being monitored and tested. I won’t go into much detail about it here, but it looks like I’m alright now, pending a few final checkups later this month."
+    },
+    {
+      "link": "https://luten.dev/mkdocs-alias-plugin-0.11.0-release/",
+      "title": "mkdocs-alias-plugin 0.11.0 Release",
+      "description": "The latest version, v0.11.0, of the mkdocs-alias-plugin is now available here . This new version adds the ability to use interwiki-style links, using the following syntax: [[w:Hypertext]] or [[w:Hypertext|The Article on Hypertext]] or [[w:Hypertext#History|The History of Hypertext]] The prefix ( w: in the example) can be configured through the plugin’s options and can point to any external site. m"
+    },
+    {
+      "link": "https://luten.dev/license-laundering-a-copyleft-project/",
+      "title": "License Laundering a Copyleft Project",
+      "description": "Disclaimer: I am not a lawyer; this is not legal analysis, nor legal advice, just an opinion. Mark Pilgrim, the original creator of chardet recently opened a GitHub issue on the project after he found that the project he started was relicensed under the MIT license from the original LGPL, a process generally referred to as license laundering . The current maintainer, Dan Blanchard, rewrote the pro"
+    }
+  ]
+}

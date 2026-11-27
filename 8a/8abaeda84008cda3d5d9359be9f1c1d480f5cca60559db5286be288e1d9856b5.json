@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dwarmstrong.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.dwarmstrong.org/netbsd-after/",
+      "title": "NetBSD: After First Boot",
+      "description": "After the first boot of my NetBSD installation , these are some extra steps I like to make right away to get a system off to a good start! Package management Run commands as root Use a different console font Alias for root mail Check for vulnerable packages Create SSH keys Custom login Custom prompt Accelerate keyboard repeat speed Adjust console brightness Microcode updates Backup encryption deta"
+    },
+    {
+      "link": "https://www.dwarmstrong.org/netbsd-encrypt-install/",
+      "title": "NetBSD 11.1 Installation with Disk Encryption",
+      "description": "The first time I installed NetBSD I used sysinst(8) , a menu-based program launched at boot that runs in the console. It has a clear and concise layout and I was quickly up-and-running on my new BSD system. For my next install I wanted to include disk encryption to protect personal data in case the device is lost or stolen. Its not really enough to simply encrypt home directories. Passphrases and"
+    },
+    {
+      "link": "https://www.dwarmstrong.org/netbsd-upgrade/",
+      "title": "Upgrading NetBSD from 11.0 to 11.1",
+      "description": "I successfully upgraded my NetBSD amd64 system (with one hiccup, detailed below) from 11.0 to 11.1: $ uname -v NetBSD 11.1 (GENERIC) #0: Mon Nov 2 16:34:32 UTC 2026 mkrepro@mkrepro.NetBSD.org:/usr/src/sys/arch/amd64/compile/GENERIC This was my first time upgrading NetBSD and I’m happy with how it all turned out! NetBSD’s Guide describes two different methods for performing an upgrade: boot from Ne"
+    }
+  ]
+}

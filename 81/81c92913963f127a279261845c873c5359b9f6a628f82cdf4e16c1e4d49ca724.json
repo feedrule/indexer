@@ -1,0 +1,20 @@
+{
+  "url": "https://guilhermesimoes.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://guilhermesimoes.github.io/blog/the-big-checklist-for-a-small-js-bundle",
+      "title": "The big checklist for a small JavaScript bundle",
+      "description": "This is a list of all the things I know, and all the things we’ve used to reduce the bundle size of the Peacock / SkyShowtime / NOW TV app. You’re more than welcome to use this checklist to improve your own projects."
+    },
+    {
+      "link": "https://guilhermesimoes.github.io/blog/when-to-use-nullish-coalescing-operator-chart",
+      "title": "Nullish Coalescing Operator Chart",
+      "description": "No Yes Yes No Yes No Yes No Yes No When should you use ?? if you care about bundle size? Using ES2020 or above? Doing num ?? 0? Sure, use ?? to your heart's content Stop! Use num || 0 Doing str ?? \"\"? Stop! Use str || \"\" Doing bool ?? false? Stop! Use bool || false Doing obj ?? {}? Stop! Use obj || {}"
+    },
+    {
+      "link": "https://guilhermesimoes.github.io/blog/making-dark-mode-work-with-bfcache",
+      "title": "Making dark mode play nicely with bfcache",
+      "description": "I try to avoid making this blog be about adding features to the blog, but I recently implemented a dark mode and hit a few snags that I felt might be worth talking about."
+    }
+  ]
+}

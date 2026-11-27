@@ -1,0 +1,20 @@
+{
+  "url": "https://fasterthanli.me/index.xml",
+  "posts": [
+    {
+      "link": "https://fasterthanli.me/articles/2025-recap",
+      "title": "2025 Recap: so many projects",
+      "description": "I’ve been working on so many projects in 2025, I thought it was important for me to make a recap, if only just to clear my head. There are many, many, many things to go through and we don’t have a sponsor today, so I’m gonna start right away with facet! facet facet is a project that I started working on in March of this year — that’s right, it’s only been ten months, yet it feels like an eternity."
+    },
+    {
+      "link": "https://fasterthanli.me/articles/introducing-arborium",
+      "title": "Introducing arborium, a tree-sitter distribution",
+      "description": "About two weeks ago I entered a discussion with the docs.rs team about, basically, why we have to look at this: When we could be looking at this: And of course, as always, there are reasons why things are the way they are. In an effort to understand those reasons, I opened a GitHub issue which resulted in a short but productive discussion. I walked away discouraged, and then decided to, reasons be"
+    },
+    {
+      "link": "https://fasterthanli.me/articles/does-dioxus-spark-joy",
+      "title": "Does Dioxus spark joy?",
+      "description": "Note: this article is adapted from a presentation I gave at a Rust Paris Meetup — that’s why it sounds a little different than usual. Enjoy! Good evening! Tonight, I will attempt to answer the question: Does Dioxus spark joy? Or at the very least, whimsy. What’s Dioxus, you ask? It is first and foremost a name that is quote: “legally not inspired by any Pokémon”. Even if the author concedes in a H"
+    }
+  ]
+}

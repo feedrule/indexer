@@ -1,0 +1,20 @@
+{
+  "url": "https://mainlog.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://mainlog.dev/posts/toolbench-internals/",
+      "title": "Inside toolbench: the runtime for small interactive web tools",
+      "description": "The internals of toolbench, the framework behind mainLog's tools: what the runner guards against, why a worker exists only to be terminated, how a graph is laid out and routed the same in every browser, how known answers and size budgets keep tools honest, and why every migration is the identity function."
+    },
+    {
+      "link": "https://mainlog.dev/posts/toolbench/",
+      "title": "Introducing toolbench: a tiny framework for interactive web tools",
+      "description": "Toolbench is a small framework for interactive tools in web pages. A tool is a pure function and a JSON manifest, and the runtime builds the form, runs the function and draws the answer. What it is, how it fits together, and the choices behind it, shown with tools that run live on mainLog."
+    },
+    {
+      "link": "https://mainlog.dev/posts/agent-memory/",
+      "title": "What an agent should remember",
+      "description": "Agent memory stores mostly decide what to forget by time: a TTL, or deleting what hasn't been used. In a 90-day scripted scenario, that kept a cancelled booking alive for weeks and stored a restaurant's sentence as the user's preference. Two fields fix both: who wrote the memory, and which event would make it false."
+    }
+  ]
+}

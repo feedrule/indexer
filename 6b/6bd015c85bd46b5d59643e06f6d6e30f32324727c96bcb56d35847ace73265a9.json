@@ -1,0 +1,20 @@
+{
+  "url": "https://roland.leth.ro/api/feed/tech",
+  "posts": [
+    {
+      "link": "https://roland.leth.ro/blog/tech/parsing-a-past-time-from-text-in-swift",
+      "title": "Parsing a past time from text in Swift",
+      "description": "A meal being logged already happened, so “pasta for dinner” typed at 08:00 means last night. How I parse typed times in Swift into the most recent past."
+    },
+    {
+      "link": "https://roland.leth.ro/blog/tech/swiftui-not-restoring-the-window-size-on-macos",
+      "title": "SwiftUI not restoring the window size on macOS",
+      "description": "SwiftUI kept opening my Mac app at its default size instead of where I left it. The cause was a private ViewModifier at the window root; the fix was one word."
+    },
+    {
+      "link": "https://roland.leth.ro/blog/tech/app-store-preview-videos-with-claude-code",
+      "title": "App Store preview videos with Claude Code",
+      "description": "How to make an App Store preview video without recording the app: redraw it in code and encode it with ffmpeg. All built with Claude Code."
+    }
+  ]
+}

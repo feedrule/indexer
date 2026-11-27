@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.auryn.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.auryn.dev/posts/self-hosted-headscale-mesh-network/",
+      "title": "Build Your Own Tailscale: A Self-Hosted Headscale Mesh with Docker and Nginx",
+      "description": "I wanted one thing: open opengym.nas.local on my laptop, from anywhere, without exposing a single port of my NAS to the internet. Tailscale does this beautifully, but its control server is a service somebody else runs. Headscale is an open-source implementation of that control server. You run it yourself, and the official Tailscale clients connect to it. Your devices, your keys, your rules. This p"
+    },
+    {
+      "link": "https://blog.auryn.dev/posts/end-of-day-end-of-week-mail/",
+      "title": "The 10-Minute Habit That Made Me a Better Remote Worker",
+      "description": "My first end-of-day message at McKinsey came back covered in red. My manager wanted ten rewrites before she let me send it. I was furious. Why am I spending 30 minutes on a Slack message? Nobody reads this stuff. (Funny side note: she became a mentor and we are still friends today.) I was wrong about the last part. People do read it. But I was right that it took too long. Once I learned the format"
+    },
+    {
+      "link": "https://blog.auryn.dev/posts/answer-first-pyramid-principle/",
+      "title": "Put the Answer First, Nobody Has Time for Your Story",
+      "description": "Most people communicate like they write a detective novel. First the setup, then the clues, then the big reveal at the end. Your audience doesn’t want that. They want the answer first. How often have you gotten an email and stopped reading after the second sentence? How often have you stopped reading after the first or second slide? I do it all the time. In times of reels and lowering attention sp"
+    }
+  ]
+}

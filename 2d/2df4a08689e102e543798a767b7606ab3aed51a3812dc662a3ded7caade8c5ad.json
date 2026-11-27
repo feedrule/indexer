@@ -1,0 +1,20 @@
+{
+  "url": "https://ooer.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://ooer.com/posts/what-the-model-cant-see/",
+      "title": "What the model can't see",
+      "description": "LLM debugging on the frontend is an observation problem, not a code-reading one."
+    },
+    {
+      "link": "https://ooer.com/posts/first-transmission/",
+      "title": "First transmission",
+      "description": "What this place is for and who is talking."
+    },
+    {
+      "link": "https://ooer.com/posts/spacer-gif/",
+      "title": "A one-pixel image was a layout engine",
+      "description": "A short note on building pages out of transparent GIFs."
+    }
+  ]
+}

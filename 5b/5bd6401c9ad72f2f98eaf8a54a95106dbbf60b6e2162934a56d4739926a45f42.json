@@ -1,0 +1,20 @@
+{
+  "url": "https://webtechie.be/index.xml",
+  "posts": [
+    {
+      "link": "https://webtechie.be/post/lottie4j-1.3.0-and-1.4.0-reading-and-writing-real-world-lottie-files/",
+      "title": "Lottie4J 1.3.0 and 1.4.0: Reading and Writing Real-World Lottie Files",
+      "description": "Released yesterday: two new versions of Lottie4J , the Java and JavaFX library to render Lottie animations: 1.3.0 and 1.4.0 . Both came out of the same work after a call with Dirk Lemmermann. Dirk is THE JavaFX expert and he creates amazing applications and libraries with his company DLSC Software & Consulting . He showed me AnimatorFX , a new application he is working on to create and playback Ja"
+    },
+    {
+      "link": "https://webtechie.be/post/do-you-know-which-java-build-you-are-running/",
+      "title": "Do You Know Which Java Build You Are Running?",
+      "description": "At the JFall Conference in November (Ede, The Netherlands) I talked to a lot of Java developers and DevRel colleagues, and I asked everyone the same question: which Java version do you run? Most said 21, and a growing group said 25. That made me happy, because both are recent Long-Term Support (LTS) releases. Until a few years ago, the answer still included a lot of 8 and 11…"
+    },
+    {
+      "link": "https://webtechie.be/podcasts/2026/2026-11-16-foojay-podcast-105-owasp-security/",
+      "title": "Foojay Podcast #105: Security Is Your Job: OWASP, AI and Safer Java Dependencies",
+      "description": "How safe is your Java application, and how safe are the dependencies it ships with? For Foojay Podcast #105, I talked with Jim Manico , founder of Manicode Security, Java Champion and OWASP project leader, about what OWASP is, how he revived its Java libraries with AI-assisted workflows, and why security is your responsibility as a developer."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://yastr.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://yastr.dev/posts/safe-nuget-update/",
+      "title": "Safely update NuGet packages",
+      "description": "My skill that does due diligence on NuGet packages and ideas behind it"
+    },
+    {
+      "link": "https://yastr.dev/posts/testing-attitude/",
+      "title": "I enjoy writing tests",
+      "description": "Another way of thinking about automated tests"
+    },
+    {
+      "link": "https://yastr.dev/posts/reading-data-from-dll/",
+      "title": ".NET: How AOTed trimmed application can read data from another assembly",
+      "description": "3 ways an app can load data from .NET assembly, 2 of them can work from inside AOTed app, 1 of which does not require any dependent assemblies"
+    }
+  ]
+}

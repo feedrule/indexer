@@ -1,0 +1,20 @@
+{
+  "url": "https://rxj.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://rxj.dev/posts/agent-factory-principles/",
+      "title": "Principles of Agent Factories",
+      "description": "Agent factories are a set of principles, not a platform. What it takes to run a fleet of AI agents reliably - orchestration, isolation, observability, human intervention points, and benchmarks built from real cases."
+    },
+    {
+      "link": "https://rxj.dev/posts/software-is-a-service/",
+      "title": "Software is a Service",
+      "description": "AI made generating code cheap. The value moves to the people who keep software secure and running. SaaS becomes SiaS."
+    },
+    {
+      "link": "https://rxj.dev/posts/coding-agents-writing-own-rules/",
+      "title": "Breaching Your Own Security Rules",
+      "description": "Coding agents manage their own permission files. That's a fundamental security architecture flaw, and the CVEs prove it."
+    }
+  ]
+}

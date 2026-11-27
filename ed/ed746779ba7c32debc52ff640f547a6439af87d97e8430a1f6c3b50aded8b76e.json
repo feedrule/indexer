@@ -1,0 +1,20 @@
+{
+  "url": "https://causality.blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://causality.blog/essays/what-async-promised/",
+      "title": "What Async Promised and What it Delivered",
+      "description": "The async/await saga is a story where each chapter solves the previous chapter's worst problem while introducing new structural costs. The sequential syntax that made async code readable also obscures the thing that matters: which operations actually depend on each other."
+    },
+    {
+      "link": "https://causality.blog/essays/the-isolation-trap/",
+      "title": "The Isolation Trap",
+      "description": "Erlang's mailbox design is more disciplined than Go's channels: only the owning process can read from a mailbox, and sends are asynchronous. Yet the four failure modes of shared mutable state still show up, just in different shapes."
+    },
+    {
+      "link": "https://causality.blog/essays/message-passing-is-shared-mutable-state/",
+      "title": "Message Passing Is Shared Mutable State",
+      "description": "The failure of message passing to eliminate concurrency bugs wasn't surprising, it was predicted. Edward Lee argued in 2006 that the shared-memory vs. message-passing debate was a false dichotomy. Go was a billion-dollar natural experiment. The results confirmed the prediction."
+    }
+  ]
+}

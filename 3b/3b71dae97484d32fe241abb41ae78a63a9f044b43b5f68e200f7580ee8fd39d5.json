@@ -1,0 +1,20 @@
+{
+  "url": "https://kciter.so/feed.xml",
+  "posts": [
+    {
+      "link": "https://kciter.so/posts/server-monitoring-analysis-guide/",
+      "title": "서버 모니터링 분석 가이드",
+      "description": "서버 개발자에게 있어서 모니터링은 마치 생명줄과도 같다. 그도 그럴 것이 서버는 언제든 문제가 발생할 수 있는 시한폭탄 같은 존재기 때문이다. 모니터링과 함께라면 장애가 발생하더라도 빠르게 원인을 좁힐 수 있고 장애가 발생하기 전에 미리 파악하는…"
+    },
+    {
+      "link": "https://kciter.so/posts/the-expensive-main-thread/",
+      "title": "브라우저의 메인 스레드는 비싸다",
+      "description": "프론트엔드 최적화라고 하면 무엇이 떠오르는가? 대체로 네트워크 요청을 줄이거나 번들 크기를 줄이고 캐시를 잘 쓰는 일을 떠올린다. 그 외에는 리렌더링 줄이기나 리소스를 불러오는 타이밍쯤이 떠오를 것이다. 보통 메인 스레드를 떠올리기는 쉽지 않은데…"
+    },
+    {
+      "link": "https://kciter.so/posts/feeling-claude-blue/",
+      "title": "만약 당신이 클로드 블루 때문에 힘들다면",
+      "description": "최근 들어 AI 코딩 에이전트를 사용하지 않는 개발자는 거의 찾아보기 어려울 정도로 AI가 개발자들의 일상에 깊숙이 들어왔다. 다만, 이전에는 도움이 된다 정도였다면 지금은 자신의 전문성이 대체된 것 같아 불안하다는 이야기를 심심치 않게 들을 수…"
+    }
+  ]
+}

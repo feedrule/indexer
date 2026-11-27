@@ -1,0 +1,20 @@
+{
+  "url": "https://vyldor.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://vyldor.com/journal/im-16-and-i-have-never-built-hardware",
+      "title": "I’m 16. I have never built hardware. So I published the parts I got wrong.",
+      "description": "Vyldor is still renders, specifications and code. It is also the clearest evidence I can give that I will keep working when the first version is wrong."
+    },
+    {
+      "link": "https://vyldor.com/journal/the-ai-wearables-are-switched-off",
+      "title": "Every AI wearable we were told to admire is now switched off",
+      "description": "Humane raised $230m, sold for $116m and bricked its customers' devices. Limitless was absorbed by Meta. The pattern is not bad luck, and it decided how we designed ours."
+    },
+    {
+      "link": "https://vyldor.com/journal/we-told-google-the-belt-was-free",
+      "title": "Our own structured data told Google the belt was free",
+      "description": "price: \"0\", priceCurrency: \"EUR\", availability: PreOrder. Every page of the site says it is not for sale. The machine-readable version said the opposite."
+    }
+  ]
+}

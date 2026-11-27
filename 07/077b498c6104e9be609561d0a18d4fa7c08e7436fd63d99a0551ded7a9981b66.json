@@ -1,0 +1,20 @@
+{
+  "url": "https://www.midnight-coding.de/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://midnight-coding.de/blog/l1vm/software/2026/11/03/L1VM-optimize.html",
+      "title": "L1VM - optimize",
+      "description": "I did develop an assembly code optimizer. It was created with the help of AI. The speedups on the tested code are high. So this can have an impact on execution speed."
+    },
+    {
+      "link": "https://midnight-coding.de/blog/l1vm/software/2026/10/20/vector-db.html",
+      "title": "vector-db",
+      "description": "I searched for a vector database with a C and C++ binding. And could not find one! They had all no C and C++ support!"
+    },
+    {
+      "link": "https://midnight-coding.de/blog/l1vm/software/2026/09/16/L1VM-raylib.html",
+      "title": "L1VM - raylib",
+      "description": "I’m working with AI an a raylib module. The raylib library has 2D and 3D graphics functions. A simple 3D demo program is already running. And I need to do more tests."
+    }
+  ]
+}

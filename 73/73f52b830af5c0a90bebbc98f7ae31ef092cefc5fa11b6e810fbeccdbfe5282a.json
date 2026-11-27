@@ -1,0 +1,20 @@
+{
+  "url": "https://swelljoe.com/index.xml",
+  "posts": [
+    {
+      "link": "https://swelljoe.com/post/poolside-laguna-s-21-is-alright/",
+      "title": "Poolside Laguna S 2.1 Is Alright",
+      "description": "I try every new small model that comes along. At the very least, I’ll give it a run through my Nelson security auditing benchmark suite to see if the new thing can topple the current tiny model champs, Gemma 4 31B and Qwen 3.6 27B, which are very closely matched and punch well above their weight, defeating several much larger models. Poolside has released a few models, and I’ve tried Laguna XS."
+    },
+    {
+      "link": "https://swelljoe.com/post/i-tried-almost-every-major-model-subscription/",
+      "title": "I Tried (Almost) Every Major Model Subscription So You Don't Have To",
+      "description": "The best way to buy AI inference is usually a subscription. It’s well-known that a $20 or $100 or $200 subscription from Anthropic or OpenAI is the most cost-effective way to buy access to their models, by far. One report said a $200 subscription could provide ~$9000 or ~$12000 worth of tokens at API rates from Anthropic and OpenAI, respectively. I haven’t done the precise math on this, but I have"
+    },
+    {
+      "link": "https://swelljoe.com/post/elements-of-ai-style/",
+      "title": "The Elements of AI Style",
+      "description": "I don’t like the verbosity of AI models and I don’t generally like their prose. Some are better than others, some have better prose that makes it less annoying, some are less sychophantic, also less annoying. But, a universal trait of LLMs is they do go on. LLMs love to ramble and there’s very little we can do about it. But, I still try. My AGENTS.md contains the following, lifted directly from St"
+    }
+  ]
+}

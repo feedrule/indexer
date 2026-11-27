@@ -1,0 +1,20 @@
+{
+  "url": "https://zacharytamas.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://zacharytamas.com/notebook/effect-4-mcp-server/",
+      "title": "My first MCP server with Effect 4 went suspiciously smoothly",
+      "description": "I built a personal MCP server with Effect 4, written entirely by coding agents inside a deliberately constrained codebase. It has gone smoothly, and I think the constraints are a big part of why."
+    },
+    {
+      "link": "https://zacharytamas.com/notebook/repo-roundup-2025-08-08/",
+      "title": "Repo Roundup #6",
+      "description": "This week's exploration was heavily influenced by AI announcements, focusing on things around the gpt-oss model."
+    },
+    {
+      "link": "https://zacharytamas.com/notebook/building-typescript-client-harmony/",
+      "title": "Building a TypeScript client for OpenAI Harmony",
+      "description": "After encountering challenges with OpenAI's new Harmony message format for their gpt-oss model, I decided to bridge the gap from Rust to TypeScript."
+    }
+  ]
+}

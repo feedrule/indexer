@@ -1,0 +1,20 @@
+{
+  "url": "https://flooey.org/index.rss",
+  "posts": [
+    {
+      "link": "https://flooey.org/travel/yearincities2025.html",
+      "title": "My Year In Cities, 2025",
+      "description": "Like last year, here is the list of cities I visited during 2025, in chronological order."
+    },
+    {
+      "link": "https://flooey.org/elixir.html",
+      "title": "AoC 2024: A Powerful Elixir",
+      "description": "Each year for Advent of Code I complete the puzzles in a language that I’ve never used before. This year I hastily decided on Elixir, a functional language that runs on the Erlang VM (called BEAM), at the last minute. (I used Zig in 2023, Common Lisp in 2022, Crystal in 2021, and Julia in 2020.)"
+    },
+    {
+      "link": "https://flooey.org/travel/yearincities2024.html",
+      "title": "My Year In Cities, 2024",
+      "description": "Like last year, here is the list of cities I visited during 2024, in chronological order."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://fulgidus.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://fulgidus.github.io/posts/talks/reactjsday26",
+      "title": "Cheap Output, Expensive Judgment",
+      "description": "Slides and write-up of my reactjsday 2026 talk: AI made output nearly free, but not judgment. What that does to the people doing the work, to the people receiving it, to our clients, and to the old dream of not needing skilled people."
+    },
+    {
+      "link": "https://fulgidus.github.io/posts/talks/introduction-to-marp",
+      "title": "Slides with Markdown: An Introduction to Marp",
+      "description": "A demonstration of creating presentation slides using Marp — Markdown Presentation Ecosystem. Learn how to write beautiful slide decks with just Markdown."
+    },
+    {
+      "link": "https://fulgidus.github.io/posts/zignet",
+      "title": "ZigNet: How I Built an MCP Server for Zig in 1.5 Days",
+      "description": "AI is great and all, but it can't keep up with Zig's breakneck development pace. So I wondered: what would it actually take to build my own? Turns out, with a hybrid deterministic/stochastic approach, an RTX 3090, and 4.5 hours of training, I created a specialized LLM that runs on a regular laptop."
+    }
+  ]
+}

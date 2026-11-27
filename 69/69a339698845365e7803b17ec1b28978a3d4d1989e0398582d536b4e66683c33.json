@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ryjones.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.ryjones.org/2026/10/09/hp-letsencrypt",
+      "title": "Let’s Encrypt on an HP LaserJet M553, renewed from a Proxmox container",
+      "description": "HP LaserJet Enterprise printers ship with a self-signed certificate and no ACME client. Mine now serves a Let’s Encrypt certificate on its admin page and on IPPS/AirPrint, and a small Alpine container on Proxmox renews it every two months without me touching the printer. Here is how."
+    },
+    {
+      "link": "https://blog.ryjones.org/2026/06/11/AFMER",
+      "title": "On data preservation",
+      "description": "Many years ago I started collecting the raw AFMER data from the ATF - glad I never deleted any of it, as some of this data is no longer available."
+    },
+    {
+      "link": "https://blog.ryjones.org/2026/03/24/tallinn",
+      "title": "On codes, art, and coup d’état",
+      "description": "I first stayed at Hotel Telegraaf in 2024 and I was struck by the artwork on the walls."
+    }
+  ]
+}

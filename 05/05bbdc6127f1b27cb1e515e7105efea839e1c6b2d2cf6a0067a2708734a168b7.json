@@ -1,0 +1,20 @@
+{
+  "url": "https://performanceengineeringin.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://performanceengineeringin.wordpress.com/2026/04/30/metrics-types-when-to-use-what/",
+      "title": "Metrics Types – When to use what ?",
+      "description": "This writeup talks about different metric type that an application can emit as telemetry. It intends to cover the case of when to use which metric types and the usecase for them. Metrics is one of the oldest forms of telemetry. There are many APM solutions, whose billing model runs on the number of metrics … Continue reading Metrics Types – When to use what ? →"
+    },
+    {
+      "link": "https://performanceengineeringin.wordpress.com/2025/11/20/prometheus-static-dynamic-scraping-on-eks/",
+      "title": "Prometheus: Static/Dynamic scraping on EKS",
+      "description": "This note is a mental model for how Prometheus discovers and scrapes metrics in Kubernetes. The lens I want to keep throughout is: Where will the scrape config file sit?(Prometheus repo vs application repo) In which namespace will the serviceMonitor sit?(and how Prometheus finds it) At a high level there are two ways to tell Prometheus about … Continue reading Prometheus: Static/Dynamic scraping o"
+    },
+    {
+      "link": "https://performanceengineeringin.wordpress.com/2025/11/10/leader-follower-relationship-with-primary-replicas/",
+      "title": "Leader/Follower relationship with Primary/Replicas",
+      "description": "In most of distributed datastore systems, there are a lot of techical terms to describe the behavior of the system. While these terms, like, “Leader”, “Follower”, “Replication”, “Consistency”, etc., are widely used and helpful, what I feel missing are the details about internal relationship between these terms.Analogically, while the map of the field is great, … Continue reading Leader/Follower re"
+    }
+  ]
+}

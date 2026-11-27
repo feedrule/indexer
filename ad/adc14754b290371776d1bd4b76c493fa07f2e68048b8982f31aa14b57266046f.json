@@ -1,0 +1,20 @@
+{
+  "url": "https://savolai.net/feed/",
+  "posts": [
+    {
+      "link": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
+      "title": "LLM + Text Files + Obsidian Kanban in git: Practical project management for devs",
+      "description": "28 May: This how-to for claude use also contains instructions on how obsidian can be sued with an MCP and probably a bit comprehensively than what I describe below. You might want to check it out. In software projects, you keep running into the same issue. Planning lives in one place, implementation in another, and … Continue reading \"LLM + Text Files + Obsidian Kanban in git: Practical project ma"
+    },
+    {
+      "link": "https://savolai.net/notes/fast-moving-tech-notes/desktop-scripting-in-apple-ecosystem/",
+      "title": "Desktop scripting in Apple ecosystem — a tiny UX review",
+      "description": "I wanted to download youtube videos. So I got more acquainted with Apple’s user space scripting tools. Overall I’m pretty inspired by the clean UX of these tools. Of course, I guess all of these tools only work inside Apple’s walled garden, which is sad in terms of general population getting educated in general purpose … Continue reading \"Desktop scripting in Apple ecosystem — a tiny UX review\""
+    },
+    {
+      "link": "https://savolai.net/notes/software-development-notes/extract-linkable-anchors-from-any-webpage/",
+      "title": "Extract linkable anchors from any webpage",
+      "description": "You can’t always tell what parts of a web page are linkable. Some headings have ids, some sections don’t. On mobile, inspecting element IDs is nearly impossible. This tool lets you paste any URL and see a list of anchors you can link to. It detects both <a name=””> and any element with an id. … Continue reading \"Extract linkable anchors from any webpage\""
+    }
+  ]
+}

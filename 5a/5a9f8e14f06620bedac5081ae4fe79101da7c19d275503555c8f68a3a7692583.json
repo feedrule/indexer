@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.kyleingraham.com/feed/",
+  "posts": [
+    {
+      "link": "https://blog.kyleingraham.com/2026/01/03/new-project-customelon/",
+      "title": "New Project: Customelon",
+      "description": "I’ve started a new project and it’s called Customelon. It provides an easy way to quickly find accurate customs duties for anything you’d want to ship to The Bahamas. Why? Bahamians, of which I am one myself, import quite a bit and customs duties can make up a large amount of an item’s cost. Before … Continue reading \"New Project: Customelon\""
+    },
+    {
+      "link": "https://blog.kyleingraham.com/2024/10/22/til-macos-ships-with-an-excellent-profiler/",
+      "title": "TIL: macOS Ships with an Excellent Profiler",
+      "description": "…and a little about the impact of the D garbage collector. Today I learned that macOS ships with an excellent profiler by the name of Instruments. Yes technically, Instruments does not ship with macOS as it requires installing Xcode. A quick trip to the App Store though and you’ve got yourself a capable sidekick for … Continue reading \"TIL: macOS Ships with an Excellent Profiler\""
+    },
+    {
+      "link": "https://blog.kyleingraham.com/2023/06/22/how-to-provide-managed-chatgpt-for-your-team/",
+      "title": "How to Provide Managed ChatGPT for Your Team",
+      "description": "Update 2024-10-21: Just use OpenAI’s ChatGPT Team to get a much better experience than the one I setup below. Why would you want to manage ChatGPT access for your team? There are a few reasons: Priority access to the service during busy periods. No more being unable to login to free accounts at https://chat.openai.com/ during … Continue reading \"How to Provide Managed ChatGPT for Your Team\""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://mukul0x9.pages.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://mukul0x9.pages.dev/blog/memdb/",
+      "title": "I Thought Redis Was Just a HashMap",
+      "description": "Building an in-memory database in Go."
+    },
+    {
+      "link": "https://mukul0x9.pages.dev/blog/hello-world/",
+      "title": "Hello World",
+      "description": "Hello World."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://julien.duponchelle.info//feed.xml",
+  "posts": [
+    {
+      "link": "https://julien.duponchelle.info/canada-stops-daylight-saving-time/",
+      "title": "November 1st: Western Canada keeps its clocks. Is your software ready?",
+      "description": "Some topics in computer science fascinate me, and time handling is one of them. At first it sounds simple, but there are a lot of edge cases behind it, and it’s tied to politics and to people’s everyday lives. On November 1st 2026, at 2:00 in the morning, while most of North America is asleep, the clocks will fall back one hour. Not in British Columbia, Alberta, the Northwest Territories and Manit"
+    },
+    {
+      "link": "https://julien.duponchelle.info/python-https-proxy/",
+      "title": "A simple HTTPS proxy with interception in Python",
+      "description": "This is a followup of my previous article How an HTTP/HTTPS Proxy Work where I explained how a basic HTTP proxy works. In this article, I will explain how to implement a simple HTTPS proxy with interception in Python using asyncio and the ssl module. No third-party libraries are required."
+    },
+    {
+      "link": "https://julien.duponchelle.info/2025-08-21-moving-to-hugo/",
+      "title": "Moving my blog from Jekyll to Hugo with Claude Code",
+      "description": "Historically this blog started in 2003 was using SPIP , then I moved to Jekyll to get a more simple setup without the need for a database. Jekyll was a good choice at the time, but it has become a bit cumbersome to maintain, especially with the need to run Ruby and its dependencies. I was stuck on an old version of Jekyll and Ruby, and each time I wanted to publish a new post, I had to spend time"
+    }
+  ]
+}

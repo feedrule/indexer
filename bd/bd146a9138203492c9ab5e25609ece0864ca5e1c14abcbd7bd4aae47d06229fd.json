@@ -1,0 +1,20 @@
+{
+  "url": "https://www.forbear.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.forbear.dev/log/005-calculator-and-c-api.html",
+      "title": "the first program, text input, and a C API from Jai",
+      "description": "the first program built with forbear, text input, and a C API from Jai."
+    },
+    {
+      "link": "https://www.forbear.dev/log/004-react-like-state-without-the-heap.html",
+      "title": "React-like state (mostly) without the heap, events without callbacks",
+      "description": "forbear now has state and components that feel like React, keyboard and mouse events, and runs on Windows."
+    },
+    {
+      "link": "https://www.forbear.dev/log/003-ui-from-javascript.html",
+      "title": "Rendering JSX without a browser by embedding Node.js in a native program",
+      "description": "forbear now runs JSX on an embedded Node, lays nodes out, and renders in sync with the compositor on Wayland."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://consteval.ca/feed.xml",
+  "posts": [
+    {
+      "link": "https://consteval.ca/2026/09/09/passwords/",
+      "title": "Wrinkles Between Password Managers",
+      "description": "If you keep up with the constant torrent of stupid online bullshit, you may have caught wind of a compelling reason to move away from 1Password. This made me pretty sad because 1Password is, broadly, a very good product, and Bitwarden—the only comparable alternative these days—has always kind of sucked real bad in comparison. As luck would have it, though, Bitwarden has very recently been making s"
+    },
+    {
+      "link": "https://consteval.ca/2025/09/27/dependent-names/",
+      "title": "Dependent Names With A Little Encouragement",
+      "description": "Hey, fuckface! Think fast! template<typename F> void invokeFoo(F& f) { f.foo(); } struct Fooable { void foo() {} }; int main() { Fooable c; invokeFoo(c); } This is normal C++ code—nothing particularly nefarious afoot. invokeFoo is a function that takes a hopefully-fooable argument and, well, calls its foo method. That’s fine and well, but what if we further assume that F::foo is a member template?"
+    },
+    {
+      "link": "https://consteval.ca/2025/04/04/htmelements/",
+      "title": "You Can Just Make Your Own HTML Elements",
+      "description": "This post originally appeared in Volume 0, Issue 3 of unpressed . After several years of making websites, only now have I realized that you can just define your own HTML elements. Like, HTML tags. You can just roll your own. There are no special keywords necessary. You just do it. 1 Here: <!DOCTYPE html> <html> <head> <style> your-very-own-element[something=\"burger\"] { display: block; font-size: 3"
+    }
+  ]
+}

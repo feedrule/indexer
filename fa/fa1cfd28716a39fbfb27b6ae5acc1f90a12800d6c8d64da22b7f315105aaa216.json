@@ -1,0 +1,20 @@
+{
+  "url": "https://cxong.github.io/feed",
+  "posts": [
+    {
+      "link": "https://cxong.github.io/2026/08/how-rts-games-solve-information-overload",
+      "title": "How RTS Games Solve Information Overload",
+      "description": "For the past few years I’ve been working on reverse engineering and remaking an almost 40 year old DOS game . Despite its age, I’m often surprised by the complexity and little tricks the game used, one of which is sound priority . Here’s the deal: the game, Crystal Caves , uses PC speaker audio , an extremely primitive, single-channel technology that was mostly used for simple beeps and boops. In"
+    },
+    {
+      "link": "https://cxong.github.io/2026/05/nutritious-games",
+      "title": "Nutritious Games",
+      "description": "When I was very young I, like many kids, thought subjects like history were dull and impenetrable. A series of meaningless dates and events to memorise for the sake of writing history reports . But by the time I was a young adult my attitude had done a 180 - I was a full blown history nerd, thinking about empires , battles, revolutions and more. I was hooked. At the start of every obsession there"
+    },
+    {
+      "link": "https://cxong.github.io/2026/01/easy-backward-compatibility",
+      "title": "Easy Backward Compatibility",
+      "description": "This one’s a practical coding article, one that I haven’t done in quite a while . It’s something I’ve come across often over the years so I’ve always wanted to have an article to point people to, so here it is. Here’s the premise: you’re making a game (or really any program) that reads data, whether that’s game data, config files, save files and so on. When these files get extended (like adding ne"
+    }
+  ]
+}

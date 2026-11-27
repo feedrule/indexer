@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.gibson.sh/index.xml",
+  "posts": [
+    {
+      "link": "http://blog.gibson.sh/job/",
+      "title": "Job",
+      "description": "My previous employer pivoted to “AI” too hard, so I’m looking for a new job as a software developer (not LLM micromanager). Update: Not looking for a job anymore, found one :-) I’ve been working as professional software developer for around 15 years now. I’m a generalist, but my career so far was a bit biased towards: Development on and for Linux Cross-platform development Game development Backend"
+    },
+    {
+      "link": "http://blog.gibson.sh/2026/06/03/ideapad-linux/",
+      "title": "Running Linux on an AMD Zen3-based Lenovo IdeaPad Slim 3",
+      "description": "I had a simple task: Install and configure my mothers new laptop. To my surprise she wanted to to try Linux, because Windows 11 again has a new UI and her reasoning was that if she needs to get used to something new it might as well be Linux - and I guess the fact that Win11 only got buggier over time has reached normies now. Now this should be no problem. Unfortunately that laptop, a Lenovo IdeaP"
+    },
+    {
+      "link": "http://blog.gibson.sh/2025/03/08/eclipse-cdt-setup/",
+      "title": "How to import a C/C++ project into Eclipse CDT",
+      "description": "I’ve been using the Eclipse IDE with its “CDT” C++ plugin (the Eclipse IDE for C/C++ Developers package) since forever, basically. It’s generally great, but setting up a project can be a bit of a PITA if you haven’t read this article, as it’s not exactly intuitive if you want it to actually work. “Actually work” as in: Eclipses source parser/indexer actually finds all included headers and thus “kn"
+    }
+  ]
+}

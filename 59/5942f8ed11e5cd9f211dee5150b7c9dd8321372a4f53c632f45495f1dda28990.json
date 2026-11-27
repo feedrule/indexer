@@ -1,0 +1,20 @@
+{
+  "url": "https://blainsmith.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://blainsmith.com/articles/writing-sql-drivers-in-hare/",
+      "title": "Writing SQL Drivers in Hare",
+      "description": "TL;DR the source is at hare-sql , hare-sqlite , and hare-postgresql . I've been writing Hare modules for a while and I did initially make hare-sqlite with limited C bindings, but now I wanted to attempt to make much more robust SQL modules to not only support SQLite, but also PostgreSQL since those are the 2 most popular databases in open source. I have a lot of experience with Go's database/sql p"
+    },
+    {
+      "link": "https://blainsmith.com/articles/reinventing-the-wheel/",
+      "title": "The Wheels We Keep Reinventing",
+      "description": "The industry has a maddening relationship with solved problems. A thing gets figured out, packaged, documented, and shipped, and a decade later half the field is building it again from scratch. The old solution was rarely wrong. Somewhere along the way the proven thing got traded for something that looked cheaper, and it turned out more expensive the moment anyone counted the hours. I watch this h"
+    },
+    {
+      "link": "https://blainsmith.com/articles/tracing-http-requests-with-rust/",
+      "title": "Tracing HTTP Requests with Rust",
+      "description": "Recently, I wrote about using Go's net/http/httptrace to get the per-phase timing breakdown for HTTP requests - DNS, TCP, TLS, and server processing. After writing about that package, I wanted to know what the same breakdown costs in Rust: whether the ecosystem has an equivalent, and what building one reveals about how the two languages approach instrumentation. The short answer is there's no equi"
+    }
+  ]
+}

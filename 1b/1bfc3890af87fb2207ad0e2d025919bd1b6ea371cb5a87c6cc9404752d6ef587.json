@@ -1,0 +1,20 @@
+{
+  "url": "https://gendignoux.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+      "title": "Just Let Me Write Digits",
+      "description": "Digital identities and what they mean for the web have become a hot topic of discussion in the last few years. They have also brought many controversies: age verification laws and what they mean for online anonymity, Wikipedia potentially having to verify the identify of its users in the UK, the reliance on official iOS and Android operating systems as mandatory form factors for digital identity w"
+    },
+    {
+      "link": "https://gendignoux.com/blog/2026/03/02/swiss-marriage-tax.html",
+      "title": "Quantifying the Swiss marriage tax",
+      "description": "This Sunday – incidentally on International Women’s Day – Swiss citizens will vote on an initiative about taxes for married couples: if it passes, married couples with tax residence in Switzerland will file taxes individually rather than jointly. The rationale behind this proposal is that married couples currently pay a different level of tax than if they weren’t married, due to how the tax formul"
+    },
+    {
+      "link": "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html",
+      "title": "The power of interning: making a time series database 2000x smaller in Rust",
+      "description": "This week-end project started by browsing the open-data repository of Paris’ public transport network, which contains various APIs to query real-time departures, current disruptions, etc. The data reuse section caught my eye, as it features external projects that use this open data. In particular, the RATP status website provides a really nice interface to visualize historical disruptions on metro"
+    }
+  ]
+}

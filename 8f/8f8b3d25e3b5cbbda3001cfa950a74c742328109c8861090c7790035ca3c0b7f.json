@@ -1,0 +1,20 @@
+{
+  "url": "https://drew.tech/rss/feed.xml",
+  "posts": [
+    {
+      "link": "https://drew.tech/posts/oreos",
+      "title": "Oreos are over 100 years old",
+      "description": "114 years old. Creation is older, and vibe coding is here to stay."
+    },
+    {
+      "link": "https://drew.tech/posts/commoditization-of-photos-and-code",
+      "title": "Commoditization of photos and code",
+      "description": "Software engineers could learn a lot from early 2000s studio photographers."
+    },
+    {
+      "link": "https://drew.tech/posts/let-your-agent-flag-bad-context",
+      "title": "Agent best practice: let your agent flag bad context",
+      "description": "Why agents should be allowed to flag bugs they find while doing other work."
+    }
+  ]
+}

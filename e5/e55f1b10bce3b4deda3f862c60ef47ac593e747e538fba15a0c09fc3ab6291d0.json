@@ -1,0 +1,20 @@
+{
+  "url": "https://www.schaap.io/index.xml",
+  "posts": [
+    {
+      "link": "https://www.schaap.io/posts/meet-gavin/",
+      "title": "Meet Gavin",
+      "description": "I have been experimenting with a dedicated AI assistant that can live inside my developer workflows. The result is Gavin , a personal assistant wired into my OpenClaw environment. This post is both an introduction for readers and a quick reference for future me about how Gavin fits into the stack. What Gavin actually is Gavin is a tightly scoped AI agent with access to my local workspace. It can:"
+    },
+    {
+      "link": "https://www.schaap.io/posts/hello-godot/",
+      "title": "Hello Godot!",
+      "description": "Automating your Godot project’s build and deployment process can save you time and ensure your game is always up-to-date. In this quick write-up, I’ll walk you through how I set up CI/CD for a Godot 4.3 project with a Web export target. Using GitHub Actions, I automated the build process and deployed to an Azure Storage Container that makes it available as a static web site. Making it easy to shar"
+    },
+    {
+      "link": "https://www.schaap.io/posts/multiple-neovim-configs/",
+      "title": "Multiple NeoVim configurations",
+      "description": "Recently I’ve been using Neovim to write some Rust code. The fastest way to get up and running seemed to be NvChad . After using that for a while I decided I wanted to try out some other configurations such as kickstart.nvim and LazyVim . At the same time I didn’t want to throw away my old config and it would be even better if I could switch easily between different configs. Fortunately, this is v"
+    }
+  ]
+}

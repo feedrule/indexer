@@ -1,0 +1,20 @@
+{
+  "url": "https://lucaswiman.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://lucaswiman.github.io/blog/2026-03-01-building-frontrun-with-claude/",
+      "title": "Building Frontrun with Claude Code",
+      "description": "This is a companion post to Announcing Frontrun, a concurrency testing library for Python. This post is about how I built it with Claude Code."
+    },
+    {
+      "link": "https://lucaswiman.github.io/blog/2026-03-01-frontrun-race-conditions/",
+      "title": "Announcing Frontrun",
+      "description": "Frontrun is a Python library for deterministic concurrency testing: it reproduces race conditions by controlling thread interleavings, with trace markers, bytecode fuzzing, and DPOR."
+    },
+    {
+      "link": "https://lucaswiman.github.io/blog/2025-01-05-teaching-transformers-arithmetic/",
+      "title": "Notes on Teaching Transformers Arithmetic",
+      "description": "I've been wanting to learn more about LLMs and transformers, so I tried reproducing the results from Transformers Can Do Arithmetic with the Right Embeddings…"
+    }
+  ]
+}

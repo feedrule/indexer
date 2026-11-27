@@ -1,0 +1,20 @@
+{
+  "url": "https://omarkama.li/rss",
+  "posts": [
+    {
+      "link": "https://omarkamali.com/blog/beyond-tokenization-four-taxes-path-forward",
+      "title": "Beyond Tokenization: The Four Taxes and the Path Forward",
+      "description": "The compounding tax stack low-resource languages carry, why vision encoders might hold the key, and the open research questions."
+    },
+    {
+      "link": "https://omarkamali.com/blog/hidden-tax-llm-pays-bad-tokenization",
+      "title": "The Hidden Tax Your LLM Pays for Bad Tokenization",
+      "description": "How bad tokenization forces language models to waste capacity on reconstruction instead of reasoning."
+    },
+    {
+      "link": "https://omarkamali.com/blog/tokenization",
+      "title": "Tokenization is Killing Our Multilingual LLM Dream",
+      "description": "Why tokenization is the hidden bottleneck blocking truly multilingual AI — lessons from building Sawalni and Wikilangs."
+    }
+  ]
+}

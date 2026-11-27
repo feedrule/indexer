@@ -1,0 +1,20 @@
+{
+  "url": "https://matthewmorek.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://matthewmorek.com/journal/building-native-linux-apps-feels-better-than-it-used-to",
+      "title": "Building native Linux apps feels better than it used to",
+      "description": "A weekend building native Linux apps with GTK4 and Libadwaita left me more impressed by the progress than the developer experience around it."
+    },
+    {
+      "link": "https://matthewmorek.com/journal/the-code-is-the-reference",
+      "title": "The code is the reference",
+      "description": "Design tools are valuable for exploration, but in software the shipped product — not the design file — should be the source of truth."
+    },
+    {
+      "link": "https://matthewmorek.com/journal/clean-exit-animations-in-react",
+      "title": "Clean exit animations in React",
+      "description": "Here's the simple solution everyone is missing when implementing exit animations in React components"
+    }
+  ]
+}

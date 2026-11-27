@@ -1,0 +1,15 @@
+{
+  "url": "https://knorpelsenf.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://knorpelsenf.me/posts/semantic-translation",
+      "title": "LLMs: Semantic Translation Machines",
+      "description": "LLMs: Semantic Translation Machines This post is based on my talk at the Waterkant Festival 2026. The AI hype is as ubiquitous as it is annoying. Some say that AI will beat software engineers at every task in a few months. Some say that human programmers will always be better than AI. Obviously, both extremes are wildly wrong. But what does it help to say \"the truth is more complicated\" without ac"
+    },
+    {
+      "link": "https://knorpelsenf.me/posts/tsglobal24",
+      "title": "Putting Advanced TypeScript Types Into Practice",
+      "description": "Putting Advanced TypeScript Types Into Practice I was a speaker at TypeScript Global Summit 2024 . My talk is about building complex TypeScript types in a way that they can be applied to practical problems. This can be illustrated with grammY, my first large open-source project. You can watch the recording here . Edit 2024-07-18: I have added subtitles to the video. I still recommend watching the"
+    }
+  ]
+}

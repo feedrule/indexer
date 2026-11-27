@@ -1,0 +1,20 @@
+{
+  "url": "https://semantic-domain.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://semantic-domain.blogspot.com/2026/06/qtcat-queer-and-trans-people-in.html",
+      "title": "QTCat: Queer and Trans People in Category Theory",
+      "description": "I just saw a poster for the QTCat workshop, which is a workshop for queer and trans people in category theory, which is being held this August 12-14, 2026 in Hamburg. Unfortunately, registration has closed, but I still wanted to post about it because they are going to livestream their talks, and it's got a pretty fascinating lineup of invited speakers: Jules Hedges , Theo Johnson-Freyd , Ioannis M"
+    },
+    {
+      "link": "https://semantic-domain.blogspot.com/2026/05/bidirectional-typechecking-that-does.html",
+      "title": "Bidirectional Typechecking That Does Not Stop",
+      "description": "I’ve been implementing a new language, and one of the things I have been doing is implementing a language server for the first time. Interestingly, this has changed how I will write bidirectional typecheckers from now on! A bidirectional type system is a set of (syntax-directed) rules with a mode assignment, telling you which bits of the rules are inputs, and which bits are outputs. This lets you"
+    },
+    {
+      "link": "https://semantic-domain.blogspot.com/2025/01/finally.html",
+      "title": "Finally...",
+      "description": "...it's Rocq, and no longer Coq!"
+    }
+  ]
+}

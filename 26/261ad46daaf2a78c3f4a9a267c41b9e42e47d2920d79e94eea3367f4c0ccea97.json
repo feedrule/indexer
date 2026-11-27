@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.iany.me/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.iany.me/2026/09/install-plannotator-for-claude-code-without-touching-global-config/",
+      "title": "Install Plannotator for Claude Code Without Touching Global Config",
+      "description": "Plannotator gives Claude Code a browser UI for marking up plans, files, and pull requests. It ships as three separate things—a CLI , a Claude Code plugin , and a set of skills —and the obvious install path for each one drops it into your user-level environment, where it loads in every project forever. You can keep the whole thing inside one repo instead. Trying it out shouldn’t cost you a permanen"
+    },
+    {
+      "link": "https://blog.iany.me/2026/09/vibe-coding-a-pixel-clock/",
+      "title": "Vibe Coding a Pixel Clock",
+      "description": "The Ulanzi TC002 Pixbar Smart Pixel Clock II is a clock with a 16×52 LED pixel canvas and a built-in battery. What makes it interesting to me is the HTTP API: I can send it GIFs and text, so I can decide what belongs on that little screen. I vibe coded ulanzi-tc002 to work with it. Two uses have become part of my day: animated pixel art from my Grok Bot, and a display that tells me whether my codi"
+    },
+    {
+      "link": "https://blog.iany.me/2026/09/forwarding-desktop-notifications-to-pushover/",
+      "title": "Forwarding Desktop Notifications to Pushover",
+      "description": "I already forwarded mako notifications to Pushover on Linux. The hook is tiny: mako runs a command with the notification id, the script reads makoctl list -j , skips loops and Pushover itself, and POSTs to the Pushover API. Windows has no equivalent of on-notify=exec . I wanted one binary, dn-pushover , that does the same job on both desktops: titles become [DN][hostname] … so a notification that"
+    }
+  ]
+}

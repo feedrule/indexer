@@ -1,0 +1,20 @@
+{
+  "url": "https://www.romainguy.dev/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://www.romainguy.dev/posts/2026/things-3/",
+      "title": "Things 3",
+      "description": "Here is a list of tings I read/watched/played/etc. this week that you might find interesting or enjoyable: Things to read Link to heading SIMD in the 90s — Great article explaining what Intel’s MMX was all about. Linear algebra done right — Contains a lot of stuff that I feel like I have to relearn every few years. Double-double: 31 digits of precision without leaving the FPU — I really , really l"
+    },
+    {
+      "link": "https://www.romainguy.dev/posts/2026/things-2/",
+      "title": "Things 2",
+      "description": "Here is a list of tings I read/watched/played/etc. this week that you might find interesting or enjoyable: Things to read Link to heading The fastest double-to-string algorithm you’ve never heard of — I always enjoy reading about how floating point formats work. Neural Super Sampling and Denoising — Interesting deep-dive about super sampling and denoising from Arm. Moving integer division to float"
+    },
+    {
+      "link": "https://www.romainguy.dev/posts/2026/things-1/",
+      "title": "Things 1",
+      "description": "Here is a list of tings I read/watched/played/etc. this week that you might find interesting or enjoyable: Things to read Link to heading A Deep Dive into C++26 std::hive: The Ultimate Container for Active Data — Some details about the internals of C++ 26’s new data structure. How fast is C++26’s std::hive? — Pretty self-explanatory and useful numbers to keep in mind. A Spectral BSSRDF for Shading"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://apsecurity.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://apsecurity.dev/posts/cracking-software-with-ai/",
+      "title": "Cracking software with AI",
+      "description": "In my last post I used an LLM agent to unpack live malware, which got me thinking: can LLMs also crack software? Let’s find out. Cracking a crackme To have something to crack, I built a simple VM-based crackme with GPT-6 Astra that takes a flag, does some basic transforms on it, and checks the result against a hardcoded, obfuscated value. Not too hard, but not trivial and most importantly, the sol"
+    },
+    {
+      "link": "https://apsecurity.dev/posts/unpacking-malware-ai-safely/",
+      "title": "Unpacking malware with AI (safely)",
+      "description": "In my last post , I showed how to unpack a random malware sample I found online. In this post, I’ll show how to let an AI agent do it - safely, with a real sandbox that neither the malware nor the agent can escape. (Contrary to popular belief, it’s possible.) Sandboxing setup Handling malware is very dangerous, so you need a VM. Easy. Using AI agents on their own has some limited risk - they can a"
+    },
+    {
+      "link": "https://apsecurity.dev/posts/unpacking-malware/",
+      "title": "Unpacking malware",
+      "description": "In this post I’ll show you a common trick used to unpack malware quickly that works with most packers. I used it a lot when I was reversing malware samples every day, so I’ve decided to share it. Finding a sample I went to MalwareBazaar’s statistics page to find out what’s most popular nowadays: Mirai is #1 - but it’s a botnet that mostly targets IoT / Linux and I’m looking for commodity Windows m"
+    }
+  ]
+}

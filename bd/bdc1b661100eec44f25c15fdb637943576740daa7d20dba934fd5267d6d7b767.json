@@ -1,0 +1,20 @@
+{
+  "url": "https://perry.kundert.ca/index.xml",
+  "posts": [
+    {
+      "link": "https://perry.kundert.ca/contact/resume-solutions-engineer/",
+      "title": "Perry's Résumé - Solutions Engineering & Cybersecurity",
+      "description": "Solutions engineer for networking and cybersecurity, decades of experience on both sides of the customer table: RTU firmware and a multi-route SCADA protocol still carrying pipeline control traffic for Enbridge, and seventeen years of consulting discovery, scoping, proposals and decision records for energy and industrial clients. Zero Trust and segmentation are things I have built, not just sold –"
+    },
+    {
+      "link": "https://perry.kundert.ca/contact/resume-embedded-audio/",
+      "title": "Perry's Résumé - Embedded Linux & Audio Systems",
+      "description": "C++ engineer on embedded Linux with an audio pedigree: a software audio mixer for priority-scaled SCADA alert audio at HP, when mixing was done entirely in software; years of building Linux kernels through the 2.4/2.6 days for advanced driver support; and real-time signal processing at rates that make audio look leisurely — a 25 Msps SDR receiver decoding 64 concurrent channels on commodity ARM ha"
+    },
+    {
+      "link": "https://perry.kundert.ca/contact/resume-security-systems/",
+      "title": "Perry's Résumé - Security & Field Systems Engineering",
+      "description": "Builder with decades of experience building field-deployable systems that run unattended where the network doesn't: a real-time SDR receiver recovering signals below the noise floor, a cryptographically secure multi-route SCADA protocol still carrying pipeline control traffic today, ruggedized satellite-connected video systems across Alberta oilfields, and a production AI service turning a large k"
+    }
+  ]
+}

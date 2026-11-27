@@ -1,0 +1,20 @@
+{
+  "url": "https://ewolff.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://ewolff.com/2026/11/13/replication-consistency-domain-driven-design.html",
+      "title": "Replication, Consistency, and Domain-driven Design",
+      "description": "Software engineers are often almost afraid of storing data redundantly. In practice, however, this is often the better option – because alternative solutions can create even bigger problems."
+    },
+    {
+      "link": "https://ewolff.com/2026/09/16/stable-architecture-good-architecture.html",
+      "title": "Stable Architecture – Good Architecture?",
+      "description": "The term architecture, and the metaphor from the construction industry, convey a sense of stability. But in reality, stability is not achievable in software architecture – striving for stability can even be harmful."
+    },
+    {
+      "link": "https://ewolff.com/2026/07/31/what-really-drives-software-architecture.html",
+      "title": "What Really Drives Software Architecture?",
+      "description": "Quality — or non-functional requirements — is often said to drive software architecture, meaning the structure of the software and the technical decisions behind it. While this sounds plausible at first glance, a closer look reveals that the situation is far more complicated."
+    }
+  ]
+}

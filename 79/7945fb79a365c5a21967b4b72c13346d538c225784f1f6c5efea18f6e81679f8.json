@@ -1,0 +1,20 @@
+{
+  "url": "https://naveensrinivasan.com/index.xml",
+  "posts": [
+    {
+      "link": "https://naveensrinivasan.com/posts/2026-11-08-my-wx-hook-was-letting-things-be-w-plus-x/",
+      "title": "My W^X Hook Was Letting Things Be W+X",
+      "description": "I added a new eBPF LSM hook to prevent memory from being writable and executable. A bypass in my original code let a page become W+X. How Did I Find This? I wish I had found it myself, but the truth is that AI code scanning helped me identify the gap. The existing policies all say which executables and paths may do what. But what if the code never has a path? Pulled down from the network, kept in"
+    },
+    {
+      "link": "https://naveensrinivasan.com/posts/2026-08-27-bpf-token-delegation/",
+      "title": "BPF Token Delegation",
+      "description": "What Is a BPF Token? The BPF Token prevents a process from gaining full root-level access to execute BPF code. The kernel hands out a BPF Token as a special permission slip to run BPF code. Only the privileged process can provide these specific BPF permissions, like loading, creating maps, etc to an unprivileged one to execute code or create maps, etc. Kernel version 6.9 introduced the BPF Token."
+    },
+    {
+      "link": "https://naveensrinivasan.com/posts/2026-08-13-read-my-blog-over-ssh/",
+      "title": "Read My Blog Over SSH",
+      "description": "Try it In your terminal, run: ssh ssh.naveensrinivasan.com , and you don’t need any authentication. The host key fingerprint for this server is SHA256:hK3ttqzsSBKUN18Wxu6eB0JB6lu4v4UBt6n8BX2WkIw . Why SSH? I have enjoyed the minimalism of the man pages, and it is also cool to have the blog accessible via SSH. The added benefits include no browsers, no cookies, no accounts, and no scrapers. Most of"
+    }
+  ]
+}

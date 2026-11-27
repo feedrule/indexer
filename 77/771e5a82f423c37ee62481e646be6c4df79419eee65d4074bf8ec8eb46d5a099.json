@@ -1,0 +1,20 @@
+{
+  "url": "https://steve.dignam.xyz/feed.xml",
+  "posts": [
+    {
+      "link": "https://steve.dignam.xyz/2026/09/28/surprises-in-postgres-semantics/",
+      "title": "Surprises in Postgres SQL",
+      "description": "The many ways to do things"
+    },
+    {
+      "link": "https://steve.dignam.xyz/2026/03/20/lsp-types-and-rust/",
+      "title": "LSP Types & Rust",
+      "description": "Using the Type System"
+    },
+    {
+      "link": "https://steve.dignam.xyz/2026/03/01/go-to-definition-affordances/",
+      "title": "Go to Definition Affordances",
+      "description": "Sharpening the Axe"
+    }
+  ]
+}

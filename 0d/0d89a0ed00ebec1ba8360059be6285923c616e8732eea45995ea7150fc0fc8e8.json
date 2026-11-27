@@ -1,0 +1,20 @@
+{
+  "url": "https://gideon.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://gideon.bearblog.dev/how-boolean-operations-work-in-vector-graphics-union-intersection-difference-and-xor-from-scratch/",
+      "title": "How Boolean Operations Work in Vector Graphics (Union, Intersection, Difference and XOR from scratch)",
+      "description": "I spent a week implementing Union, Intersection, Difference, and XOR for my vector engine. The geometry turned out to be simpler than I expected. The hard part was one function — correctly labeling which side of a boundary each segment is on. 1. Find where the shapes intersect 2. Split both paths at intersection points Now that we have the intersection points for both Path , we need to start split"
+    },
+    {
+      "link": "https://gideon.bearblog.dev/affine-transforms-how-graphics-engines-move-everything/",
+      "title": "Affine Transforms — How Graphics Engines Move Everything",
+      "description": "I was testing my vector engine and added a rotation.The curve disappeared — not off by a bit, completely gone, rendering at x=-649. Here's what was happening and how affine transforms fix it permanently. I finished building the Paths , Compound Paths , and even made some curve analysis method on the vector engine ( Arc Length , Curve-Curve Intersection , Path-Path Intersection etc.). Everything st"
+    },
+    {
+      "link": "https://gideon.bearblog.dev/winding-numbers-in-paths/",
+      "title": "Winding Numbers in Paths",
+      "description": "Recently I've been doing some research on vector graphics and decided to build a vector engine from scratch to further this. I got to the point of building compound paths (A list of Paths). Then I thought of something, How would I be able to look for a point is a Compound Path or even a Path. This was a problem. The first thought of solving this problem was to just make use of the Compound Path bo"
+    }
+  ]
+}

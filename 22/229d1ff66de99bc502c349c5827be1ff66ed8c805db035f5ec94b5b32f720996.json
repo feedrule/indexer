@@ -1,0 +1,20 @@
+{
+  "url": "https://www.fujimon.com/rss",
+  "posts": [
+    {
+      "link": "https://fujimon.com/blog/comprehension-layer",
+      "title": "Comprehension Layer",
+      "description": "Agents can write code faster than we can understand it. Documents don't fix that. What reviewers need is a briefing: something they can sit back and listen to, and interrupt when it matters."
+    },
+    {
+      "link": "https://fujimon.com/blog/skills",
+      "title": "Skills — The Merge Was Right, The Word Wasn't",
+      "description": "The default is model-invoked. For most of what we build, it should not be."
+    },
+    {
+      "link": "https://fujimon.com/blog/missing-ui",
+      "title": "AI's Missing UI",
+      "description": "The smartest AI agents fail without good UI for reviewing their output. That's why everything becomes a chat app."
+    }
+  ]
+}

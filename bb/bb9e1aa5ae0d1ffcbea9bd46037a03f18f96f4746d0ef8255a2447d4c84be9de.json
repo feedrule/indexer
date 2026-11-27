@@ -1,0 +1,20 @@
+{
+  "url": "https://bd103.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://bd103.dev/blog/2026-10-21-mitigating-emudhra-ungoogled-chromium/",
+      "title": "Mitigating eMudhra Private Key Compromise on Ungoogled Chromium",
+      "description": "I don't use Chrome, as I dislike Google's blatant disrespect for my privacy, so instead I use Ungoogled Chromium as my browser [1] . Because Ungoogled Chromium is a community-run project, they are slower to respond to security incidents. Yesterday, it was publicly announced that eight private keys of the eMudhra intermediate certificate authority were compromised. This is seriously bad, as anyone"
+    },
+    {
+      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "title": "C for Rust Programmers",
+      "description": "The very first systems programming language I ever learned was Rust. This is uncommon compared to many other programmers; you're more likely to find someone who learned C or C++ first before coming to Rust. As such, there are plenty of \"Rust for C Programmers\" articles on the internet, but little to no \"C for Rust Programmers\" articles out there. Well, I'm about to change that! I've been learning"
+    },
+    {
+      "link": "https://bd103.dev/blog/2025-03-19-bevy-lint-v0-2-0/",
+      "title": "Announcing bevy_lint v0.2.0",
+      "description": "Hello there, my dear punctual splendiforous bright questionably loud reader! I hope your day has been going exceptionally well. I have returned from my 6 month [1] writing hiatus to give you a very special announcement: today is the official release of bevy_lint v0.2.0! With it comes some very exciting features that I can't wait to talk about! bevy_lint is a custom linter for the Bevy game engine"
+    }
+  ]
+}

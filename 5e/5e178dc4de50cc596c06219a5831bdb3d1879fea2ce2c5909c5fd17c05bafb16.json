@@ -1,0 +1,20 @@
+{
+  "url": "https://www.infotechnotes.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://www.infotechnotes.com/2026/05/daily-driver-desktop-pc.html",
+      "title": "\"Daily Driver\" Desktop PC",
+      "description": "My \"daily driver\" PC had a power supply failure. I turned on an older machine which had been unused for some time. This writeup is the setup of my new daily driver PC running Microsoft Windows 10. Printer drivers are hardware-specific. Install printer hardware drivers and programs from the printer vendor. Video drivers are hardware-specific. Other than default"
+    },
+    {
+      "link": "https://www.infotechnotes.com/2026/05/failing-hard-disk-drive.html",
+      "title": "Failing Hard Disk Drive",
+      "description": "I have a couple of the Seagate 3000GB drives from a few years ago which are known to fail. Files sporadically became unreadable. Running the MS Windows built-in check disk command didn't recognize any errors. From a command window, the check disk syntax is: chkdsk driveletter: like \"chkdsk d:\". Check disk completed without finding errors."
+    },
+    {
+      "link": "https://www.infotechnotes.com/2025/03/yahoo-mail-summaries-and-privacy.html",
+      "title": "Privacy and Yahoo email summaries",
+      "description": "Yahoo mail recently introduced email summaries which are auto-generated and display above the email. This was a surprising change which is intrusive and annoying. From the settings in email, there does not appear to be a method to disable the summaries.The Yahoo brand owns \"oath\" which provides security and privacy settings. Go to yahoo.mydashboard.oath.com and you may need to log in again.Turn"
+    }
+  ]
+}

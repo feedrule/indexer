@@ -1,0 +1,20 @@
+{
+  "url": "https://rl.yad.codes/feed.xml",
+  "posts": [
+    {
+      "link": "https://rl.yad.codes/posts/20-exploration/",
+      "title": "Lecture 20: Exploration: from ε-greedy to intrinsic motivation",
+      "description": "Lecture 01 set up the MDP and the Bellman equations under the assumption that you already had a way to estimate Q(s, a) for every state-action pair you cared about. Lecture 03 introduced Q-learning and gestured at…"
+    },
+    {
+      "link": "https://rl.yad.codes/posts/21-multi-agent-rl/",
+      "title": "Lecture 21: Multi-agent RL and self-play",
+      "description": "Lectures 01–08 treat the world as a single MDP. There's an environment with stationary dynamics, a reward function defined on (state, action), and a single agent whose only job is to act well in it. The textbook (Sutton…"
+    },
+    {
+      "link": "https://rl.yad.codes/posts/22-world-models/",
+      "title": "Lecture 22: World models",
+      "description": "Lecture 08: Model-based RL introduced the basic idea: learn a model of environment dynamics, then use it to plan or to generate synthetic training data. That lecture covered Dyna-Q, MBPO with short rollouts from an…"
+    }
+  ]
+}

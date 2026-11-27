@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bytestone.uk/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://www.bytestone.uk/posts/2026-10-30-really-useful-box-families/",
+      "title": "Really Useful Boxes: the families that stack",
+      "description": "Really Useful Boxes only stack positively when they share a footprint. Here are all the footprint families from the manufacturer’s dimension table, with shop links, so you can pick a range and stay in it."
+    },
+    {
+      "link": "https://www.bytestone.uk/posts/2026-10-20-archiving-family-photographs/",
+      "title": "Archiving family photographs: a format statement",
+      "description": "What we capture when we scan a family photograph, what we keep, and how we expect it to still be readable in fifty years without any of the software that made it."
+    },
+    {
+      "link": "https://www.bytestone.uk/posts/2026-10-13-gonix-and-gokrazy/",
+      "title": "GoNIX and gokrazy: two ways to run Go on bare Linux",
+      "description": "Both put a Go userland on top of the Linux kernel, but one wants to be a small UNIX you can read in an afternoon and the other wants to be an appliance with nothing you don’t need."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://oliverconzen.de/rss.xml",
+  "posts": [
+    {
+      "link": "https://oliverconzen.de/blog/ubuntu-oracle-cloud-upgrade/",
+      "title": "Upgrading Ubuntu 24.04 LTS to 26.04 LTS on Oracle Cloud",
+      "description": "Upgrading Oracle Cloud Ampere instance from Ubuntu 24.04 LTS to 26.04 LTS via interim releases."
+    },
+    {
+      "link": "https://oliverconzen.de/blog/github-actions-oracle-free-tier/",
+      "title": "Non-Stop Action on a Budget: GitHub Actions on Oracle Free Tier",
+      "description": "Self-hosted GitHub Actions on Oracle Cloud Free Tier with GitOps. Scale to Hetzner when you outgrow the free tier."
+    },
+    {
+      "link": "https://oliverconzen.de/blog/robust-scripts-in-azure-pipelines/",
+      "title": "Robust Scripts in Azure Pipelines",
+      "description": "Apply bash strict mode to Azure Pipelines scripts. Stop silent failures and build more robust, reliable CI/CD automation."
+    }
+  ]
+}

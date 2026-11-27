@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sammachin.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.sammachin.com/bleepie/",
+      "title": "Bleepie",
+      "description": "Bleepie is a POCSAG/FLEX pager transceiver that plugs into your Tildagon badge as a hexpansion."
+    },
+    {
+      "link": "https://www.sammachin.com/bleepieaprs/",
+      "title": "BleepieAPRS",
+      "description": "BleepieAPRS is alternate firmware for your Bleepie hardware. It runs on exactly the same board — the same hexpansion, radio and USB-C board — but instead of turning it into a POCSAG/FLEX pager it turns it into an APRS transceiver."
+    },
+    {
+      "link": "https://www.sammachin.com/posts/alexaweb-reborn/",
+      "title": "AlexaWeb Reborn",
+      "description": "6 Years ago this month I published one of my first Alexa hacks, Alexa In The Browser This was one of the key projects that got me into Alexa Development and lead to me being nominated as one of the first Alexa Champions."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ohmyscript.com/atom",
+  "posts": [
+    {
+      "link": "https://ohmyscript.com/blogs/clickops-doesnt-scale/",
+      "title": "ClickOps Is Not a Disaster Plan & Wont Scale",
+      "description": "A plain, non-DevOps-heavy read on why manual cloud setups get risky at scale, what disaster recovery and business continuity mean in everyday language, and how infrastructure as code (Terraform, Pulumi, CDK, CloudFormation, or similar) supports both."
+    },
+    {
+      "link": "https://ohmyscript.com/musings/why-wired-over-wireless/",
+      "title": "In defense of the wired earphones",
+      "description": "Rant on why I prefer wired earphones over wireless"
+    },
+    {
+      "link": "https://ohmyscript.com/newsletter/welcome-to-my-newsletter/",
+      "title": "Welcome to my newsletter",
+      "description": "What this newsletter is, who it is for, and how it fits alongside the rest of my writing."
+    }
+  ]
+}

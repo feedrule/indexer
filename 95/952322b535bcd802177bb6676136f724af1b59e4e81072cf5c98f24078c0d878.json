@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.hacktohell.org/index.xml",
+  "posts": [
+    {
+      "link": "http://blog.hacktohell.org/claude-code-and-philisophy-code",
+      "title": "Ramblings on Claude Code and Philosophy of Work",
+      "description": "Effect of Claude Code in changing behaviors of making software decision tradeoffs"
+    },
+    {
+      "link": "http://blog.hacktohell.org/mitsubishi-ac-heat-pump-esphome-homeassistant",
+      "title": "Controlling Mitsubushi Heat Pump with esphome and homeassistant",
+      "description": "Build a DIY smart thermostat for Mitsubishi heat pumps using ESP32, ESPHome, and Home Assistant for under $15."
+    },
+    {
+      "link": "http://blog.hacktohell.org/main-build",
+      "title": "Main Desktop Build and Pain Points",
+      "description": "Documenting my main desktop build with a 3900x, dual GPUs, and the challenges of building a budget dual GPU system."
+    }
+  ]
+}

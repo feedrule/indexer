@@ -1,0 +1,20 @@
+{
+  "url": "https://nickdichev.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://nickdichev.com/blog/you-can-just-deploy-things/",
+      "title": "You Can Just Deploy Things",
+      "description": "How Nix makes it trivially easy to deploy software on your home server."
+    },
+    {
+      "link": "https://nickdichev.com/blog/state-of-the-homelab-early-2026/",
+      "title": "State Of The Homelab - Early 2026",
+      "description": "A snapshot of the current state of my homelab."
+    },
+    {
+      "link": "https://nickdichev.com/blog/elixir-huffman-pt3/",
+      "title": "Compressing Text Files With Elixir (part 3)",
+      "description": "Recover the original input from the compressed data."
+    }
+  ]
+}

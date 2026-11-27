@@ -1,0 +1,20 @@
+{
+  "url": "https://ryanhenrick.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ryanhenrick.com/research/apache-roller-rce-cve-2026-129448/",
+      "title": "Apache Roller: unauthenticated code execution through XML-RPC, being exploited",
+      "description": "Apache says a flaw in the Roller blog server that lets anyone run code is being exploited. Versions 4.0.0 to 6.1.4 are affected. Update to 6.1.6, or turn off XML-RPC properly."
+    },
+    {
+      "link": "https://ryanhenrick.com/research/openssh-musl-password-bypass-cve-2026-123158/",
+      "title": "OpenSSH password bypass on some Linux servers, now exploited",
+      "description": "OpenSSH 10.6p2, released on 5 November 2026, fixes a password bypass on Linux systems built with musl and without PAM, such as some Alpine servers. CISA lists it as exploited."
+    },
+    {
+      "link": "https://ryanhenrick.com/research/outlook-zero-day-cve-2026-124194/",
+      "title": "Outlook zero-day: a message file that leaks your Windows password hash",
+      "description": "Microsoft fixed an exploited Outlook flaw on 10 November 2026. Opening a crafted file can send the user's NTLM hash to an attacker. What it is and what to check."
+    }
+  ]
+}

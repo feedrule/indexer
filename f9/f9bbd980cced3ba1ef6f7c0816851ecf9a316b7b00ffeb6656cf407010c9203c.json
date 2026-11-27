@@ -1,0 +1,20 @@
+{
+  "url": "https://www.asterlabs.ai/rss",
+  "posts": [
+    {
+      "link": "https://www.asterlabs.ai/blog/six-models-one-app",
+      "title": "Testing Six Models on the Same App Build: Cost, Quality, and Tradeoffs",
+      "description": "Testing Gemini 4, Claude 5.5, and GPT-6.2 on the same interactive app build in Aster: what it cost, how we tested, and how a blind grader ranked them."
+    },
+    {
+      "link": "https://www.asterlabs.ai/blog/multi-agent-systems",
+      "title": "Designing an Effective Multi-Agent System: a Hierarchical Two-Pizza Approach",
+      "description": "How to design effective multi-agent systems using agent hierarchy"
+    },
+    {
+      "link": "https://www.asterlabs.ai/blog/pdf-understanding",
+      "title": "How to add PDF understanding to your AI Agent",
+      "description": "A practical guide to implementing PDF understanding for AI Agents, using both OCR and image conversion"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mchav.github.io/feed",
+  "posts": [
+    {
+      "link": null,
+      "title": "Context complexity: what is the Big-O of an agent API?",
+      "description": "TLDR; small, local models are a good instrument for measuring what a harness costs an agent. an API is only as good as its outputs’ specificity, parsimony, and truthfulness. obvious code repair is cheaper done in your tools than elicited from the model through another retry, provided the tool discloses what it changed."
+    },
+    {
+      "link": null,
+      "title": "A first look at token efficiency",
+      "description": "A while ago I saw the article Which languages are most token efficient. The article was largely discredited since it didn’t have a clear methodology. Unfortunately, I haven’t come up with one yet but I thought to do a small, anecdotal experiment comparing code generation in Haskell notebooks (with Sabela) vs Python notebooks (Marimo). Notebooks are a great environment to use with agents since they"
+    },
+    {
+      "link": null,
+      "title": "Pandas feels clunky coming from R. What about Haskell?",
+      "description": "Some years ago I came across an issue in the Frames repo that mentioned a blog post titled “Why pandas feels clunky when coming from R.” The article showed a side-by-side of simple data exploration in R and compared the code to Pandas. At the time, the author concluded that Pandas was “clunkier” than R. The author operationalises the definition of clunkiness but I think it’s really more of a you-k"
+    }
+  ]
+}

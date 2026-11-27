@@ -1,0 +1,20 @@
+{
+  "url": "https://claylo.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://claylo.dev/articles/markdown-cosplay/",
+      "title": "Markdown Cosplay: How MDX Ruins Everything Markdown Got Right",
+      "description": "MDX isn't Markdown. It's a React application wearing a .md extension like a fake mustache."
+    },
+    {
+      "link": "https://claylo.dev/articles/hello-again-world/",
+      "title": "Hello Again, World",
+      "description": "What started as a blank Astro site is now shipping agent-written release posts, per-project RSS feeds, and building tools in the open."
+    },
+    {
+      "link": "https://claylo.dev/articles/fundraising-the-gambler/",
+      "title": "Fundraising Lessons from The Gambler",
+      "description": "Read the signals, know when to walk away, and don't confuse rapport with a check."
+    }
+  ]
+}

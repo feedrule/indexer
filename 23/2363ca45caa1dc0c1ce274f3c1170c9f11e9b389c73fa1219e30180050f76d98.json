@@ -1,0 +1,20 @@
+{
+  "url": "https://iwhalen.com/feed_rss_updated.xml",
+  "posts": [
+    {
+      "link": "https://iwhalen.com/relevance-bench/",
+      "title": "Relevance-bench",
+      "description": "Relevance-bench This is a follow up to my post on using Jev for pseudo-relevance judgments on TREC DL 2023. This experiment felt more useful as a little benchmark that I can extend. Check out the code for this post here . For the data used, see my dataset on Hugging Face here ."
+    },
+    {
+      "link": "https://iwhalen.com/zierra-2/",
+      "title": "Zierra part 2",
+      "description": "Zierra part 2 This is another exciting entry in my implementation of Tierra in Zig. You can follow along in the repo here ."
+    },
+    {
+      "link": "https://iwhalen.com/jev-pseudo-relevance/",
+      "title": "Pseudo-relevances with Jev",
+      "description": "Pseudo-relevances with Jev The world is abuzz with excitement at the new \"system one\" models being pumped out right now. In this post, I take a look at how good these models are at generating relevancy scores on the TREC {0, 1, 2, 3} scale. The code used to create the results in this blog can be found here ."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://zohaib.me/rss/",
+  "posts": [
+    {
+      "link": "https://zohaib.me/crumb-a-small-self-improving-agent-harness-in-under-200-lines-of-hand-written-typescript-bun-runtime-no-external-libraries/",
+      "title": "Crumb - a small self-improving agent harness in under 200 lines of hand-written TypeScript. Bun runtime, no external libraries.",
+      "description": "The goal wasn't to build something useful. It was to take the magic out of \"self-improving agent harness\" by writing the smallest readable version of one. When it decides to improve itself it edits its own code. The runtime reloads the new code into a fresh"
+    },
+    {
+      "link": "https://zohaib.me/outcome-driven-development/",
+      "title": "Outcome Driven Development",
+      "description": "I feel there is spectrum between vibe coding and agentic engineering, which I like to refer to as Outcome Driven Development (ODD). Agentic engineering is using agents but evaluating its outputs with the same thoroughness as if you wrote code by hand. ODD is where you care less about the"
+    },
+    {
+      "link": "https://zohaib.me/using-open-coding-harness-to-be-more-model-agnostic/",
+      "title": "Using open coding harness to be more model agnostic",
+      "description": "I’ve been primarily using Claude Code. The recent launch of DeepSeek V4 and GPT 5.5, has made me realize the importance of having an open coding harness that is model agnostic. That will help me explore the capabilities of these new models. I’ve just reinstalled"
+    }
+  ]
+}

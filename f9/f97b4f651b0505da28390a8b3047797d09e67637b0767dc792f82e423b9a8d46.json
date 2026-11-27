@@ -1,0 +1,20 @@
+{
+  "url": "https://tresbien.tech/feed.xml",
+  "posts": [
+    {
+      "link": "https://tresbien.tech/blog/real-time-drupal-drupack/",
+      "title": "Real-time Drupal with Drupack",
+      "description": "Real-time Drupal with Drupack One reason I want Drupal to standardize on FrankenPHP is so we can build on top of the built-in mercure server and unlock a whole new range of applications for Drupal. Of course we can do all this today, provided you maintain a separate server (most likely a nodejs server of some kind), write the integration code and make sure everything keeps working… I'm all about r"
+    },
+    {
+      "link": "https://tresbien.tech/blog/wordpal-theme-drupal-wordpress-block-themes/",
+      "title": "WordPal: Theme Drupal with WordPress block themes",
+      "description": "WordPal: Theme Drupal with WordPress block themes One of the difficulty with starting a Drupal website is the lack of diversity in available themes. There has always been more choice in the WordPress world for themes. Maybe, just maybe, Drupal could use WordPress themes and get the best of both worlds? theodore October 5, 2026"
+    },
+    {
+      "link": "https://tresbien.tech/blog/drupack-drupal-infrastructure-single-binary/",
+      "title": "Drupack: Drupal infrastructure in a single binary",
+      "description": "Drupack: Drupal infrastructure in a single binary A few years ago I said Drupal needed infrastructure innovation , and I finally took the time to work on it. While I really like DDEV, I'm really not a fan of having to use Docker for everything so I'm trying to do something about it. theodore September 22, 2026"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://dbquacks.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://dbquacks.com/blog/shaping-the-roster",
+      "title": "Shaping the Roster: SQL's Core Clauses, the DuckDB Way",
+      "description": "Who scored highest? Which team came out ahead? How many games did each duck play? We've got a database full of ducks — let's learn the SQL to ask."
+    },
+    {
+      "link": "https://dbquacks.com/blog/looking-through-the-window",
+      "title": "Looking Through the WINDOW: OVER, Frames, and Ranking in DuckDB",
+      "description": "How does each duck stack up against its team, its rivals, and its own past? Let's learn window functions to answer them — without collapsing a single row."
+    },
+    {
+      "link": "https://dbquacks.com/blog/welcome-to-row-by-row",
+      "title": "Welcome to Row by Row",
+      "description": "Meet the new interactive SQL blog that turns every code block into a runnable DuckDB query."
+    }
+  ]
+}

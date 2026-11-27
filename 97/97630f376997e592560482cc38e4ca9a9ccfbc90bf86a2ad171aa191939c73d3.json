@@ -1,0 +1,20 @@
+{
+  "url": "https://tejasbubane.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://tejasbubane.github.io/posts/2026-07-04-typescript-distributive-union-types/",
+      "title": "Distributive Conditional Types in TypeScript",
+      "description": "A quick look at how TypeScript conditional types behave with union types."
+    },
+    {
+      "link": "https://tejasbubane.github.io/posts/rails-rate-limit-upcoming-changes/",
+      "title": "Upcoming changes in Rails rate limiter",
+      "description": "A quick look at new rate-limiter features in the upcoming Rails version."
+    },
+    {
+      "link": "https://tejasbubane.github.io/posts/rate-limit-rack-app-per-account/",
+      "title": "Implementing account-specific rate limits in Rails",
+      "description": "We can easily configure global rate limits, but how can we make them dynamic?"
+    }
+  ]
+}

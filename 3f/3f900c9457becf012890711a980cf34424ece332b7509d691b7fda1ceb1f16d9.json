@@ -1,0 +1,20 @@
+{
+  "url": "https://joel.franusic.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://joel.franusic.com/virgil-today.html",
+      "title": "Virgil today",
+      "description": "Using a tool called Virgil that I describe in the posts \" Making it easy to write a 9P server \" and \" Virgil foundations \" I had LLMs write a wide range of 9P servers. While the code that was written works, it's not in a state where I'd feel comfortable releasing it. Instead I will be paying for my LLM sins by rewriting Virgil and at least some of the servers. Before I get started with that howeve"
+    },
+    {
+      "link": "https://joel.franusic.com/virgil-foundations.html",
+      "title": "Virgil foundations",
+      "description": "Virgil is a tool that interactively guides you through building a 9P server. It does this by starting with the simplest of tests and builds from there. When a test fails, it stops and describes what happened and explains what is needed to pass the test. As I explained in the post \" Making it easy to write a 9P server \" this was inspired and informed by the \" okta-scim-beta \" project I created at O"
+    },
+    {
+      "link": "https://joel.franusic.com/making-it-easy-to-write-a-9p-server.html",
+      "title": "Making it easy to write a 9P server",
+      "description": "I want to make it as easy to write a server for the 9P network file protocol as it is to write an HTTP server using frameworks like Flask or Express. Why 9P? Because Linux has native support for it, as does a variety of software like QEMU, v86, ZeroFS. Ostensibly 9P also has a wide variety of programming language implementations , though a closer inspection will show that the support isn't as exte"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://maharship.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://maharship.com/blog/response-to-mcps",
+      "title": "A Response to My MCP Blog",
+      "description": "A response to my previous blog post about MCP."
+    },
+    {
+      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "title": "Why MCP Was Always a Bad Idea",
+      "description": "Why MCP was always a bad idea and I'm tired of pretending it's not."
+    },
+    {
+      "link": "https://maharship.com/blog/i-want-my-agent-to-talk-to-your-agent",
+      "title": "I Want My Agent To Talk To Your Agent",
+      "description": "I don't want to deal with service agents, I want my user agent to be able to talk to them"
+    }
+  ]
+}

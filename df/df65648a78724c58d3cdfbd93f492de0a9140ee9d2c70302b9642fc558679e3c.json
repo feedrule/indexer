@@ -1,0 +1,20 @@
+{
+  "url": "https://axlefublr.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://axlefublr.github.io/nushell-downfall/",
+      "title": "the nushell downfall",
+      "description": "...has not yet happen ed , but with every release my trust in the project diminishes, and I'm currently in the process of slowly rebasketting my eggs. When I look at software I want to start using, what matters most to me is not really where it's at currently . I have 11 -ish forks; patching in currently missing features and “configuration via source code” is something I'm very comfortable with. W"
+    },
+    {
+      "link": "https://axlefublr.github.io/fontconfig/",
+      "title": "fontconfig",
+      "description": "I have an array of my favorite fonts :] I painstakingly specify them in every new program that I start using, and sometimes they get out of sync as I discover new fonts and realize I like those more. I've vaguely heard of fontconfig, but suuuuuurely an old standard way of configuring fonts is probably too convoluted to actually use , right? As an example, have you ever tried configuring compose se"
+    },
+    {
+      "link": "https://axlefublr.github.io/timer-system/",
+      "title": "timer system",
+      "description": "In one of my recent blog posts , it would be too overwhelming to show you the entire code at once, so I introduced all of the moving parts piece by piece, as I explained emerging usecases. This worked pretty well, but was an annoying pain to actually write — jumping back and forth between what I'm showing you and what I have made things confusing. So this time, I think I'm just gonna blammo the tw"
+    }
+  ]
+}

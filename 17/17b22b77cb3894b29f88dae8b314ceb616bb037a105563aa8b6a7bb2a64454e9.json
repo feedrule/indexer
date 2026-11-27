@@ -1,0 +1,20 @@
+{
+  "url": "https://www.corsac.net/rss.php",
+  "posts": [
+    {
+      "link": "http://www.corsac.net/?rub=blog&post=1617",
+      "title": "IKEv1 protocol disabled in strongSwan package for Debian unstable",
+      "description": "Heads up, Debian IKE/IPsec users. Starting with strongSwan 6.1.0-1 (currently in Debian unstable and targeted at Debian 14 Forky), the IKEv1 protocol has been disabled. This is aligned with upstream decision . Considering IKEv2 is already nearly old enough to drink in the USA ( RFC 4306 will turn 21 next December) and IKEv1 has weaknesses, the disabling is long overdue amd will permit upstream to"
+    },
+    {
+      "link": "http://www.corsac.net/?rub=blog&post=1616",
+      "title": "Films 2025",
+      "description": "La liste rituelle, qui s'est un peu élargie cette année: Emilia Pérez: 15 janvier 2025, MK2 Bibliothèque Babygirl: 16 janvier 2025, MK2 Bibliothèque 5 septembre: 11 février 2025, MK2 Bibliothèque Mickey 17: 9 mars 2025, MK2 Quai de Loire The insider: 9 avril 2025 MK2 Bibliothèque Pink Floyd - Live at Pompeii: 28 avril 2025, Pathé Rennes Les règles de l’art: 6 mai 2025, MK2 Quai de Seine Thunderbol"
+    },
+    {
+      "link": "http://www.corsac.net/?rub=blog&post=1615",
+      "title": "Hiver",
+      "description": "Aujourd'hui les jours rallongent \\o/"
+    }
+  ]
+}

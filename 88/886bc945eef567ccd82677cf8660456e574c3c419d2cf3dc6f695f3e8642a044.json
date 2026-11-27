@@ -1,0 +1,20 @@
+{
+  "url": "https://withinboredom.info/index.xml",
+  "posts": [
+    {
+      "link": "https://withinboredom.info/posts/dist/",
+      "title": "What does distributed systems have to do with AI?",
+      "description": "tl;dr: a lot"
+    },
+    {
+      "link": "https://withinboredom.info/posts/the-hard-parts/",
+      "title": "The Hard Parts",
+      "description": "The best advice I ever got was in 2006: always do the hard parts. Twenty years later, I finally understand what it actually meant — and it was never about the code."
+    },
+    {
+      "link": "https://withinboredom.info/posts/origin-story/",
+      "title": "An Origin Story",
+      "description": "A turbulent flight over the Pacific, a letter to a three-year-old, and the eight-year road to building a database that shouldn’t exist."
+    }
+  ]
+}

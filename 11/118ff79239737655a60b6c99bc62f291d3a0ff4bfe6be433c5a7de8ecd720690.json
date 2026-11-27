@@ -1,0 +1,20 @@
+{
+  "url": "https://v0id-user.mataroa.blog/rss/",
+  "posts": [
+    {
+      "link": "https://v0id-user.mataroa.blog/blog/exploring-cloudflares-workerd/",
+      "title": "Exploring Cloudflare's Workerd Runtime: From Source to Custom API",
+      "description": "Why? Cloudflare Workers are basically magic. They handle shit ton of load, they're easy to deploy to, easy to work with. They just work. In this blog post I'm trying to scratch the surface of their actual code internals to understand what I'm running my code on top of, and to deepen my understanding of the thing I deploy to every time I'm building something of my own. What is it? It's a C++ server"
+    },
+    {
+      "link": "https://v0id-user.mataroa.blog/blog/incompressible-file-a-file-that-resists-compression/",
+      "title": "Incompressible file. A File That Resists Compression",
+      "description": "I recently got inspired by a podcast episode “Searching For Meaning In Randomness” (from The Rest Is Science). It sparked an idea \"what happens when you try to compress something that is truly random?\" Here’s the intuition they discussed, but in different context: Suppose you roll a die six times and get the same number every time: 6, 6, 6, 6, 6, 6. That’s easy to describe and compress. You could"
+    },
+    {
+      "link": "https://v0id-user.mataroa.blog/blog/i-tried-to-understand-how-large-scale-video-pipelines-work-so-i-built-a-serverless-transcoding-system-cloudflare-flyio-redis/",
+      "title": "I tried to understand how large-scale video pipelines work, so I built a serverless transcoding system (Cloudflare + Fly.io + Redis)",
+      "description": "I’ve always been curious how companies like YouTube actually process and move a video from “uploaded” to “watchable in different qualities at scale”. Instead of reading another high-level blog post, I decided to build a small but real system that does it end to end. That’s how TCoder came to life: an event-driven, serverless video transcoding pipeline designed to mirror the real flow of large medi"
+    }
+  ]
+}

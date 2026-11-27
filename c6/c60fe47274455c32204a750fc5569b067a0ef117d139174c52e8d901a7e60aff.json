@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ethereum.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.ethereum.org/en/2026/11/25/devcon-mumbai-wrap",
+      "title": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
+      "description": "Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology. From November 3–6, the Ethereum community gathered at the Jio World Convention Centre (JWCC) in Mumbai for Devcon 8, bringing together developers, researchers, creators, students, and community leaders from India and..."
+    },
+    {
+      "link": "https://blog.ethereum.org/en/2026/11/24/pqai-1",
+      "title": "PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era",
+      "description": "*This decision is the product of a multi-year effort, with many researchers and engineers inside and outside the EF contributing the ideas, proving breakthroughs, and feedback that got us here—including the Binius authors, the WHIR authors, Angus Gruen, Lev Soukhanov for GKR work, Benedikt Bünz, Ron Rothblum, and William Wang..."
+    },
+    {
+      "link": "https://blog.ethereum.org/en/2026/11/23/pqai-0",
+      "title": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "description": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on Ethereum's next major transition. The EF has been planning mitigations to the threat posed by quantum computers to Ethereum's cryptography for several years, but..."
+    }
+  ]
+}

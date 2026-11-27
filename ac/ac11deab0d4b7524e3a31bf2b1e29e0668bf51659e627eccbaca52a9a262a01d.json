@@ -1,0 +1,10 @@
+{
+  "url": "https://blog.carlid.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.carlid.dev/game-vibe-coding-to-protocol-design/",
+      "title": "How vibe coding a game made me design an AI agent protocol",
+      "description": "This is the story of how trying to vibe code a slop LLM-based MMO in Rust gave me an idea to develop a protocol for AI agents."
+    }
+  ]
+}

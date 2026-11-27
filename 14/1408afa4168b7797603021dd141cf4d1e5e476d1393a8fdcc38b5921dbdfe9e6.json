@@ -1,0 +1,20 @@
+{
+  "url": "https://jamiesimon.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://jamiesimon.io/blog/most-useful-random-matrix-theory-fact/",
+      "title": "The most useful random matrix theory fact I know",
+      "description": "I’ve written a lot of papers deriving and using theories of the learning behavior of kernel regression and random feature regression. It’s only a small exaggeration to say that all that work uses only one random matrix theory calculation. Here it is. $$ \\newcommand{\\bm}[1]{\\boldsymbol{#1}} \\newcommand{\\E}[2]{\\mathbb{E}_{#1} \\! \\left[ #2 \\right]} \\newcommand{\\diag}[1]{\\operatorname{diag}{#1}} \\newc"
+    },
+    {
+      "link": "https://jamiesimon.io/blog/hermite-coefficients-as-cumulants/",
+      "title": "Hermite coefficients as cumulants",
+      "description": "Here’s a terrific fact. Suppose that we have Gaussian data $\\mathbf{x} \\sim \\mathcal{N}(0, \\boldsymbol{\\Sigma})$ with positive-definite covariance $\\boldsymbol{\\Sigma} \\in \\mathbb{R}^{d \\times d}$ and deterministic scalar targets $y = f(\\mathbf{x})$. To set up the fact, we need to break $f$ down into the Hermite basis of $\\mathbf{x}$. First take $\\boldsymbol{\\Sigma} = \\mathbf{U} \\boldsymbol{\\Gamma"
+    },
+    {
+      "link": "https://jamiesimon.io/blog/l2-l1-duality-shallow-nets/",
+      "title": "A note on $L^2 \\leftrightarrow L^1$ duality in shallow homogeneous nets",
+      "description": "If you’ve been around the deep learning theory block long enough to get to know the locals, you’ve probably heard something like this at some point: In a shallow homogeneous neural net, minimizing the $L^2$-norm of the parameters is equivalent to minimizing the $L^1$-norm of a measure over unit-norm neurons. This makes a link between “aggregate $L^2$ land” and “sparse $L^1$ land.” It’s also direct"
+    }
+  ]
+}

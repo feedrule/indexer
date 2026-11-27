@@ -1,0 +1,20 @@
+{
+  "url": "https://pythonadventures.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://pythonadventures.wordpress.com/2025/12/24/get-the-value-of-pi-without-a-constant/",
+      "title": "Get the value of PI without a constant",
+      "description": "Problem You are using a new programming language and you need the value of PI. However, there’s no such constant in the language. What do you do? Solution You can copy the value of PI from somewhere and create your own constant. Or, you can use a math function for that. I must have learnt […]"
+    },
+    {
+      "link": "https://pythonadventures.wordpress.com/2024/12/23/in-a-graph-find-the-largest-complete-subgraph/",
+      "title": "In a graph, find the largest complete subgraph",
+      "description": "Problem In a graph, you want to find the largest complete subgraph. A complete subgraph is a graph in which every node is connected to every other node. Real-life example: in a party it’s a group of friends where everybody knows each other. Solution It’s a well-known graph problem that can be solved with the […]"
+    },
+    {
+      "link": "https://pythonadventures.wordpress.com/2024/12/13/how-to-solve-a-two-variable-equation-with-sympy/",
+      "title": "How to solve a two-variable equation with Sympy",
+      "description": "Problem You have a two-variable equation and you want to solve it with Python / Sympy. Solution Let’s see this example: What is the value of ‘x’ and ‘y’? We could solve it manually too, of course, but let’s say we have hundreds of these. So let’s solve it with Python using the Sympy library."
+    }
+  ]
+}

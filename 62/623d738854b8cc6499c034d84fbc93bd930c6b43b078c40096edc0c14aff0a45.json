@@ -1,0 +1,20 @@
+{
+  "url": "https://stackandink.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://stackandink.com/blog/analyze-telegram-channel-export-with-codex/",
+      "title": "How I Analyzed a Telegram Channel Export with Codex",
+      "description": "Analyze a Telegram channel export with Codex from local HTML: 2,779 records, no JSON conversion or custom parser, and a structured report in nine minutes."
+    },
+    {
+      "link": "https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/",
+      "title": "Personal Mac Security: Run a Practical Local Check",
+      "description": "Run a local security check on your personal Mac with NIST mSCP, keep reports in a temporary directory, and use the workflow manually or with an AI agent."
+    },
+    {
+      "link": "https://stackandink.com/blog/beyond-password-managers-minimize-secret-exposure/",
+      "title": "Beyond Password Managers: How to Minimize Secret Exposure",
+      "description": "Learn how passkeys, workload identities, short-lived credentials, and just-in-time access reduce secret exposure when a password manager is not enough."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://anees.xyz/index.xml",
+  "posts": [
+    {
+      "link": "https://anees.xyz/posts/sentinel/",
+      "title": "Why I Built Sentinel",
+      "description": "I Got Tired of Losing Errors Across My Services, So I Built a Zero-Setup Error Tracker in Go I built Sentinel for a very simple reason: I was tired of losing errors in my own development setup. I was working across a FastAPI backend, Celery workers, Celery Beat, frontend, Docker, Redis, Postgres, and Qdrant. Every part of the system had its own logs. Every service had something to say. When things"
+    },
+    {
+      "link": "https://anees.xyz/posts/diy_home_security/",
+      "title": "DIY home Security System with an Old iPhone",
+      "description": "Building a DIY Home Security System with an Old iPhone and Some Determination Look, I’ll be honest with you - I was genuinely worried. Our new neighborhood has been seeing break-in attempts every other day. Car break-ins, people trying doorknobs at 2 AM… the whole deal. I needed something to monitor my driveway at night, and I needed it fast. Commercial security cameras? They wanted €200+ per came"
+    },
+    {
+      "link": "https://anees.xyz/posts/shotbar/",
+      "title": "📸 ShotBar: Because ⌃⇧⌘4 is ridiculous",
+      "description": "📸 ShotBar: Because ⌃⇧⌘4 is ridiculous I got tired of doing finger gymnastics every time I wanted to take a screenshot. You know the drill: ⌃⇧⌘4 , wait for the cursor to change, drag to select, hope you got the right area, repeat. It’s 2025 and we’re still doing this dance. So I vibe-coded ShotBar in a weekend. What it does ShotBar sits in your menu bar and gives you three capture modes:"
+    }
+  ]
+}

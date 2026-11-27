@@ -1,0 +1,20 @@
+{
+  "url": "https://hunden.linuxkompis.se/feed.xml",
+  "posts": [
+    {
+      "link": "https://hunden.linuxkompis.se/2026/07/31/how-i-fixed-my-buggy-remote-control-for-our-google-chromecast-device.html",
+      "title": "How I fixed my buggy remote control for our Google Chromecast device",
+      "description": "The actual name of the device is actually “Google Chromecast with Google TV (4K)”. It must be one of the worst product names ever."
+    },
+    {
+      "link": "https://hunden.linuxkompis.se/2026/07/27/batch-rename-files-in-your-editor-with-vidir.html",
+      "title": "Batch rename files in your editor with vidir",
+      "description": "I have always used the built in tool :bulkrename in my file manager Ranger to batch rename files and directories. Unfortunately, that feature has been broken for ages now, and I haven’t had much success in finding an alternative that I like and is available in the repositories."
+    },
+    {
+      "link": "https://hunden.linuxkompis.se/2026/07/26/how-i-fixed-my-painfully-slow-decryption-process-when-using-gpg-to-decrypt-files.html",
+      "title": "How I fixed my painfully slow decryption process when using GPG to decrypt files",
+      "description": "I use qute-keepassxc add-on with my web browser qutebrowser. However. I’ve been experiencing some painfully slow delays when trying to run this command (which is needed to the add-on to work):"
+    }
+  ]
+}

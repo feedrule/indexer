@@ -1,0 +1,20 @@
+{
+  "url": "https://caleb-vincent.io/index.xml",
+  "posts": [
+    {
+      "link": "https://caleb-vincent.io/post/inkle-loom/",
+      "title": "An Inkle Loom",
+      "description": null
+    },
+    {
+      "link": "https://caleb-vincent.io/projects/anothordle/",
+      "title": "Anothordle",
+      "description": "I like Wordle, but I don’t like that there is a single (theoretically) starting move that is statistically best. If the opening move is always the same, then it shouldn’t be a move."
+    },
+    {
+      "link": "https://caleb-vincent.io/post/m5stack-imgui-pt1/",
+      "title": "M5Stack ImGui, Part 1",
+      "description": null
+    }
+  ]
+}

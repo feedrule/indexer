@@ -1,0 +1,20 @@
+{
+  "url": "https://jtarchie.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://jtarchie.com/posts/index.html",
+      "title": "Writing",
+      "description": "# Writing A note on my writing style. I write as I speak. Newest first. 2025-01-26 Efficient API Design: Avoiding Costly External Requests 2024-08-30 Exploring Goja: A Golang JavaScript Runtime 2024-07-02 Optimizing Large-Scale OpenStreetMap Data with SQLite 2023-11-15 Deploying a Rails Application with AWS Copilot 2023-10-30 Implementing a simple Mutex in Go 2023-10-14 Transitioning Back into the"
+    },
+    {
+      "link": "https://jtarchie.com/posts/2025-01-26.html",
+      "title": "Efficient API Design: Avoiding Costly External Requests",
+      "description": "# Efficient API Design: Avoiding Costly External Requests Previous article on using Goja provides context and underlying technical details. On a recent project, I built an API that leverages OpenStreetMap data, currently focusing on the United States and Canada to search for points of interest near each other. The API endpoint for querying that data ran into problems of slow response times, both f"
+    },
+    {
+      "link": "https://jtarchie.com/posts/2024-08-30.html",
+      "title": "Exploring Goja: A Golang JavaScript Runtime",
+      "description": "# Exploring Goja: A Golang JavaScript Runtime This post explores Goja , a JavaScript runtime library in the Golang ecosystem. Goja stands out as a powerful tool for embedding JavaScript within Go applications, offering unique advantages when manipulating data and exposing an SDK that doesn’t require a go build step. # Background: The Need for Goja In my project, I encountered challenges when query"
+    }
+  ]
+}

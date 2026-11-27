@@ -1,0 +1,20 @@
+{
+  "url": "https://bennyaustin.com/feed/",
+  "posts": [
+    {
+      "link": "https://bennyaustin.com/2026/08/04/fabric-accelerator-mirrordb-elt/",
+      "title": "Fabric Accelerator: Metadata-Driven ELT Pattern for Mirrored Databases",
+      "description": "Microsoft Fabric now offers low-cost, low-latency data replication into OneLake through mirroring, facilitating near real-time analytics without complex ingestion. The Fabric Accelerator 5.0 introduces a OneLake-Native ELT Pattern, eliminating duplicate data and accelerating the creation of reliable data products directly from shared assets while maintaining governance and quality standards."
+    },
+    {
+      "link": "https://bennyaustin.com/2025/12/09/fabric-accelerator-automated-deployment/",
+      "title": "Fabric Accelerator: Deployments Now Fully Automated with Fabric CLI",
+      "description": "Fabric Accelerator setup is now fully automated, cutting deployment time from 2 hours to just 15–20 minutes. The new process uses Fabric CLI for streamlined configuration, eliminating Git dependencies and tedious ID replacements. Deploy all Fabric items with full support for re-runnability and asynchronous Long Running Operations (LRO). Git-based CI/CD via GitHub Actions ensures version-controlled"
+    },
+    {
+      "link": "https://bennyaustin.com/2025/08/25/fabric-accelerator-fsql/",
+      "title": "Fabric Accelerator: ELT Framework Now Powered by Fabric SQL",
+      "description": "The Fabric Accelerator is a reusable code component suite for Microsoft Fabric, supporting batch and real-time workloads. It features a metadata-driven ELT framework and has transitioned to Fabric SQL, enhancing management and integration. Minor updates were made for streamlined deployment while removing certain features for better efficiency. Data engineers are encouraged to explore its capabilit"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://sklivvz.com/feed",
+  "posts": [
+    {
+      "link": "https://sklivvz.com/posts/introducing-positron-flux",
+      "title": "Introducing Positron Flux",
+      "description": "Over the years, I've wondered why experienced software teams struggle to improve. Why do smart teams keep revisiting the same issues in retros without real progress? Not the \"writing better code\" variety of issues. The answer, more often than not, is that they're missing three things at once: real data, an explanation of what's driving the data, and a way actually to change it. Usually, you get on"
+    },
+    {
+      "link": "https://sklivvz.com/posts/i-finally-emulated-my-childhood",
+      "title": "I finally emulated my childhood",
+      "description": "Last night I decided to dedicate some time to my old z80 emulator . I've squashed a few bugs and ported it to .NET 10. Then I added a ULA emulator. The ULA is a custom chip on a ZX Spectrum that handles IO, in practice, as an emulated chip it reads memory and ports and writes to audio buffers, screen buffers, and reads the keyboard connectors. Initially I thought it'd be a lot of work, but it turn"
+    },
+    {
+      "link": "https://sklivvz.com/posts/moonbuggy-zero-allocation-i18n-for-net",
+      "title": "MoonBuggy: zero-allocation i18n for .NET",
+      "description": "I’ve shipped a lot of software where internationalization starts as “we’ll add it later” and ends as “why is this hot path allocating and formatting strings on every request?” This time I wanted to do it differently. So I ran an experiment: could I build a serious, production-ready internationalization framework for .NET in a weekend, using Claude Code as a turbocharged implementation partner—whil"
+    }
+  ]
+}

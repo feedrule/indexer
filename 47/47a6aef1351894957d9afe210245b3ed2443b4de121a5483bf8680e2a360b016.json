@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.veladan.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.veladan.org/2026/11/01/revolut-cut-ai-coding-costs-self-hosted-glm.html",
+      "title": "How Revolut cut AI coding costs 90% with self-hosted open models",
+      "description": "I watched “How Revolut Cut AI Coding Costs 90% With Self-Hosted Open Models” — David Abitbol, who leads AI operations at Revolut, speaking at AI Engineer New York. His framing: “Shipping like a startup, regulated like a bank.” It is a dense technical talk, and almost every number in it is relevant to anyone running local models for agentic coding, so here are the points that matter."
+    },
+    {
+      "link": "https://blog.veladan.org/2026/10/11/the-binary-score-hides-the-near-misses.html",
+      "title": "The binary score hides the near-misses",
+      "description": "I posted this on X after finishing two full runs of DeepSWE, and it turned into the most interesting question of the whole exercise, so here is the long version."
+    },
+    {
+      "link": "https://blog.veladan.org/2026/10/10/mimo-v2-6-flash-deepswe-113-tasks.html",
+      "title": "MiMo-V2.6-Flash on DeepSWE: 71 of 113 tasks, done in 90 steps per task",
+      "description": "This is the companion run to the GLM-5.3-Flash evaluation: same 113 tasks, same agent framework, same fixed task order, same binary grading. MiMo-V2.6-Flash-MOPD came out of it with 71 of 113 tasks resolved (62.8%) and 94.52% of all target tests passing, using markedly less effort per task than GLM — and failing in a way that is genuinely different."
+    }
+  ]
+}

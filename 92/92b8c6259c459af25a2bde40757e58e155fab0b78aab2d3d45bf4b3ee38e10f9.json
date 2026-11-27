@@ -1,0 +1,20 @@
+{
+  "url": "https://chaliy.name/rss.xml",
+  "posts": [
+    {
+      "link": "https://chaliy.name/blog/good-moment-to-start-rust-in-ai/",
+      "title": "Now Is Awesome Moment to Start With Rust in AI",
+      "description": "A practical start with agents in Rust: an IDE, a coding agent, Everruns Framework, and a look at experimental Everruns Serve, inspired by Topcoat."
+    },
+    {
+      "link": "https://chaliy.name/blog/from-adrs-to-specs-to-okf/",
+      "title": "Moving repository memory from specs to OKF",
+      "description": "How my project memory evolved from architecture decision records to living specs and now Open Knowledge Format bundles maintained together with the code."
+    },
+    {
+      "link": "https://chaliy.name/blog/you-dont-need-a-server-for-evals/",
+      "title": "You Do Not Need a Server for Evals",
+      "description": "Most evals do not need LangSmith, Braintrust or MLflow. Datasets, the runner, and the history all fit in your git repo - and your coding agent reviews the results for free."
+    }
+  ]
+}

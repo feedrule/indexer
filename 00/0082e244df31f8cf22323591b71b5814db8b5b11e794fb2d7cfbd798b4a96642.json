@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hailelagi.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.hailelagi.com/personal/reflect/",
+      "title": "Reflect",
+      "description": "This is a small excerpt from an email exchange between myself and a former colleague, after I had just quit my backend role at a financial exchange and I was trying to decide what to do for work. > Why a database? How to unpack this lol, a few themes: 1. I want answers to - \"do I want to work on databases professionally\"? and \"can I gain the technical competence to be effective\"? 2. It's a fundame"
+    },
+    {
+      "link": "https://www.hailelagi.com/bookclub/",
+      "title": "Bookclub",
+      "description": "Hi, come read systems performance! Every week after April 5th 2025, we’ll meet async , over text only channels on a random little discord server at 7pm UTC every Saturday, I believe systems performance is a daunting but fun and rewarding book, if you’re an SRE, work on a backend, someone that likes systems programming or just wondering how netflix’s servers stay snappy take a peek! every week some"
+    },
+    {
+      "link": "https://www.hailelagi.com/notes/kubernetes/",
+      "title": "K8s and the 😶 🌫️",
+      "description": "k8s manages and orchestrates clusters of containerised applications, by abstracting over pools of computing resources cpu, network, memory & disk and abstracting deploying to a public cloud(s). via declarative yaml, json (but also imperative apis ) desired <-> observed <-> reconciliation achieve high-availability while running in fault-prone environments to allow us to continuously release new ver"
+    }
+  ]
+}

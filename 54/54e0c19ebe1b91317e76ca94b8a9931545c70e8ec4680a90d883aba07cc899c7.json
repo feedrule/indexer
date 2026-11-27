@@ -1,0 +1,20 @@
+{
+  "url": "https://robertknight.me.uk/index.xml",
+  "posts": [
+    {
+      "link": "https://robertknight.me.uk/posts/rten-2025/",
+      "title": "RTen in 2025",
+      "description": "RTen is a machine learning runtime for Rust that was first released in December 2023. It enables you to take models that have been trained in Python (eg. using PyTorch) and run them in Rust. It supports models in ONNX format, which you can find many of on Hugging Face or export from frameworks such as PyTorch . The project started out as a runtime for Ocrs , an OCR library and CLI tool. It has sin"
+    },
+    {
+      "link": "https://robertknight.me.uk/posts/rten-2024/",
+      "title": "The RTen machine learning runtime - a 2024 retrospective",
+      "description": "RTen is a machine learning runtime for Rust that I have been working on since mid 2022. It allows you to take models that have been trained in Python, using a framework such as PyTorch or Keras and run them in a Rust project. This includes many pre-trained models that are available on places such as Hugging Face . Models are first exported to ONNX which is a portable exchange format for models, th"
+    },
+    {
+      "link": "https://robertknight.me.uk/posts/shallow-rendering-revisited/",
+      "title": "Shallow rendering revisited: Better unit tests for React/Preact components",
+      "description": "In this post I will discuss the benefits of isolating tests for React/Preact UI components from the details of child components, and the various approaches that we looked at for our frontend projects at Hypothesis . I will explain why we settled on the approach that we did and provide links if you would like to use the same tools and techniques in your projects. Why mock child components? When wri"
+    }
+  ]
+}

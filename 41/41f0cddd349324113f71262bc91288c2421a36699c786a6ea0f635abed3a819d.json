@@ -1,0 +1,20 @@
+{
+  "url": "https://lyra.horse/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+      "title": "How I accidentally became a millionaire",
+      "description": "A story about a tweet thrown into the disinformation machine."
+    },
+    {
+      "link": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+      "title": "A peek into Reddit's anti-spam internals",
+      "description": "How Reddit accidentally leaked its spamurai system."
+    },
+    {
+      "link": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
+      "title": "SVG clickjacking",
+      "description": "A novel and powerful twist on an old classic."
+    }
+  ]
+}

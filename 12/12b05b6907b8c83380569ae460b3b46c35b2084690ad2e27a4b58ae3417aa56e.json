@@ -1,0 +1,20 @@
+{
+  "url": "https://pejmanjohn.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://pejmanjohn.com/agent-debt-don-t-trap-tomorrow-s-model-in-today-s-prompt",
+      "title": "Agent Debt: Don’t Trap Tomorrow’s Model in Today’s Prompt",
+      "description": "It’s one thing to keep up with the latest models and best practices with your own personal workflows. It is another thing to keep an AI-powered product feature state of the art. Personal workflows can mostly adapt on the fly. User-facing features need evals, testing, and a higher degree of confidence that a model update did not inadvertently degrade the experience. This higher cost and the fact th"
+    },
+    {
+      "link": "https://pejmanjohn.com/ai-eval-flywheel",
+      "title": "The AI Eval Flywheel: Scorers, Datasets, Production Usage & Rapid Iteration",
+      "description": "Last week I attended the 2025 AI Engineer World’s Fair in San Francisco with a bunch of other founders from Seattle Foundations. There were over 20 tracks on specific topics, and I went particularly deep on Evals, learning firsthand how companies like Google, Notion, Zapier, and Vercel build and deploy evals for their AI features. While there were meaningful unique details in each talk, there was"
+    },
+    {
+      "link": "https://pejmanjohn.com/making-more-is-more-true",
+      "title": "Making \"More is More\" true",
+      "description": "“Less is more” is a popular insight to the point of being trite. We reference it when designing products. We use slightly different language when invoking it for group decisions (“too many cooks in the kitchen”) or personal obligations (“priorities”). We as individuals and groups do best when working within constraints. Sometimes the constraint feels like pressure (only having so much financial ru"
+    }
+  ]
+}

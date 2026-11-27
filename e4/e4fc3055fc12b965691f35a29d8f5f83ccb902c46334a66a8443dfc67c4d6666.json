@@ -1,0 +1,20 @@
+{
+  "url": "https://blokhin.us/rss.xml",
+  "posts": [
+    {
+      "link": "https://blokhin.us/notes/gridcore-gpu-scheduler/",
+      "title": "A GPU Scheduler for Local LLMs: What Broke on Real Hardware",
+      "description": "How GridCore shares one 16 GB GPU between chat, agents and background jobs: design rules, VRAM estimates and the bugs only real hardware showed."
+    },
+    {
+      "link": "https://blokhin.us/notes/background-agents-without-frameworks/",
+      "title": "Agents in the Background: No LangGraph, No LangChain Required",
+      "description": "How I actually run agents that watch folders and websites: a long-lived process, plain trigger scripts, cron — and no LangGraph or LangChain."
+    },
+    {
+      "link": "https://blokhin.us/notes/claude-code-auto-mode/",
+      "title": "Claude Code Auto Mode: The \"Allow\" Button Was Never Protecting You",
+      "description": "Anthropic's classifier blocks 89% of dangerous actions; humans approve almost everything. Why Auto Mode by default matters — and what it doesn't replace."
+    }
+  ]
+}

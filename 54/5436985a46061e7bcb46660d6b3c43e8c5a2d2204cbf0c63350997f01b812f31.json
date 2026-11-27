@@ -1,0 +1,20 @@
+{
+  "url": "https://jamesalvarez.co.uk/index.xml",
+  "posts": [
+    {
+      "link": "https://jamesalvarez.co.uk/blog/youtube-to-lingq/",
+      "title": "YouTubeToLingQ - turning YouTube videos into A2 German reading practice",
+      "description": "I've been stepping up with my learning German and currently one of my favourite tools is LingQ . You can read upload text in your target language, and get an instant translation of specific words in the reader, and it keeps track of your vocabulary over time. LingQ has a YouTube import feature, but it's not reliable and you can't pick English videos to get them in German. I wanted a way to take an"
+    },
+    {
+      "link": "https://jamesalvarez.co.uk/blog/blockchain-historical-data/",
+      "title": "Why you do not need blockchain for archiving historical data",
+      "description": "TLDR: You can take the useful part of blockchains - hash chains - and reject the resource wasting over complexity. I learnt recently that a prominent historical archive was an early adopter of blockchain technology to ongoingly verify the historical accuracy of their records, including written testimonies, photographs and historical accounts. I think this is almost a good use for the technology -"
+    },
+    {
+      "link": "https://jamesalvarez.co.uk/blog/genome/",
+      "title": "Combining Ancestry and 23andMe Data with AWK",
+      "description": "I'm a big fan of learning about health and genetics, and for me, there is no better site than Genetic Lifehacks , which has a ton of well written and accessible detailed articles. With membership, it also allows you to connect your own genetic data to explain whether various genetic factors apply to you. I originally just had 23andMe data, but in order to get more SNPs, I also took the AncestryDNA"
+    }
+  ]
+}

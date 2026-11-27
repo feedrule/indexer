@@ -1,0 +1,20 @@
+{
+  "url": "http://www.kirupa.com/modular/kirupa.xml",
+  "posts": [
+    {
+      "link": "https://www.kirupa.com/html5/creating_morph_animation_without_morphing.htm",
+      "title": "Creating a Morph Animation Without Actually Morphing",
+      "description": "Fake a shape morph with plain CSS by animating border-radius, clip-path points, crossfades, and a squash-and-swap trick. Includes a live demo."
+    },
+    {
+      "link": "https://www.kirupa.com/animations/color_changing_bouncing_square.htm",
+      "title": "Random Colors and a Bouncy Square",
+      "description": "Build a square that bounces around the screen and changes color every time it hits a wall, using requestAnimationFrame, velocity, and random HSL colors."
+    },
+    {
+      "link": "https://www.kirupa.com/animations/importance_of_frame_rate.htm",
+      "title": "The Importance of Frame Rates",
+      "description": "What frame rate is, why 60fps and 120Hz screens matter, what causes jank when frames drop, and how to measure the frame rate of your animations."
+    }
+  ]
+}

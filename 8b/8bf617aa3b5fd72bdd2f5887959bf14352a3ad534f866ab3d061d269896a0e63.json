@@ -1,0 +1,20 @@
+{
+  "url": "https://log.andvari.net/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://log.andvari.net/nomad-gitops.html",
+      "title": "nomad-gitops",
+      "description": "I still run nomad at home. This surprises some people, who assume that anyone with opinions about production has long since capitulated to kubernetes, but the whole point of the lab is that it's mine and it's small and I get to pick. Nomad is still the right amount of …"
+    },
+    {
+      "link": "https://log.andvari.net/cringesweeper.html",
+      "title": "CringeSweeper",
+      "description": "Something I've been reminded of the last while: old social media posts are not assets, they're liabilities. Not just because of cringe (though there's plenty of that), but because the actual upside of preserving a bunch of posts from 2018 is approximately zero, and the downside is that they exist …"
+    },
+    {
+      "link": "https://log.andvari.net/disappointing-people-early.html",
+      "title": "Disappointing People Early",
+      "description": "One of my favourite phrases to remind people of as I'm fumbling about the business of producing reliable systems is \"We Should Disappoint People Early\" . I've gotten enough funny looks about this that I figure I should explain myself. The 'polite' assumption most folks make is that we should aim …"
+    }
+  ]
+}

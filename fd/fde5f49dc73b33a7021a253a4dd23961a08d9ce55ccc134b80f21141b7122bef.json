@@ -1,0 +1,20 @@
+{
+  "url": "https://www.prskavec.net/index.xml",
+  "posts": [
+    {
+      "link": "https://www.prskavec.net/post/migrations-that-never-roll-back/",
+      "title": "Migrations that never roll back",
+      "description": "Our Go services could not be rolled back because the schema was tied to the binary. The fix was to ship migrations as their own deployable, ahead of the code, forward only. Notes on replacing golang-migrate with a small service built on jackc/tern, and on what cost more than expected."
+    },
+    {
+      "link": "https://www.prskavec.net/talk/2026-11-19-go-meetups/",
+      "title": "Migrations that never roll back",
+      "description": "Why we left golang-migrate and built a small migration service on jackc/tern: migrations ship ahead of the code, forward only, so the service can always be rolled back."
+    },
+    {
+      "link": "https://www.prskavec.net/post/merge-queues-and-the-graphql-only-api/",
+      "title": "Merge queues, and the API GitHub only exposes over GraphQL",
+      "description": "What a merge queue actually does, how GitHub's version is configured, where the richer tools go further, and why writing a terminal dashboard for it meant giving up on REST entirely."
+    }
+  ]
+}

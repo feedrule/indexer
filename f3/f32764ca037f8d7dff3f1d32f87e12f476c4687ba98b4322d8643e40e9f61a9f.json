@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.poggs.com/feed/",
+  "posts": [
+    {
+      "link": "https://blog.poggs.com/2026/07/26/call-asterisk-get-mp3/",
+      "title": "Call Asterisk, Get MP3",
+      "description": "For several years, Electromagnetic Field has operated its own internal telephone system. Attendees can set up one or more extensions which can terminate on a copper telephone line, a DECT phone, a SIP endpoint or a GSM phone. Two years ago, I set up BatFax on a Raspberry Pi. Call the number, it calls you … Continue reading \"Call Asterisk, Get MP3\""
+    },
+    {
+      "link": "https://blog.poggs.com/2026/04/18/upgrading-proxmox-8-to-9/",
+      "title": "Upgrading Proxmox 8 to 9",
+      "description": "After running Proxmox 8.x in a lab environment for two years, this weekend was an appropriate time to upgrade. Backing up each machine was far more straightforward than I thought – shut it down, back it up to a Synology NAS defined in Proxmox, and delete it from the host. Even with 2.5Gbps Ethernet, this … Continue reading \"Upgrading Proxmox 8 to 9\""
+    },
+    {
+      "link": "https://blog.poggs.com/2026/03/14/replacing-an-apc-back-ups-battery-with-linux/",
+      "title": "Replacing an APC Back-UPS battery with Linux",
+      "description": "Some years ago, I bought some APC Back-UPS Pro units to keep a few important but non-critical home items working. I’m particularly invested in this because living in a large city, there are frequent short outages and I’d rather not have all my network kit reboot each time the electricity supply sneezes. Recently, I had … Continue reading \"Replacing an APC Back-UPS battery with Linux\""
+    }
+  ]
+}

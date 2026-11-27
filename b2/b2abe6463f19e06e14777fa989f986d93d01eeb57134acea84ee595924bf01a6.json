@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.vrplumber.com/b/feeds/",
+  "posts": [
+    {
+      "link": "https://blog.vrplumber.com/b/2026/11/13/tim-peters-will-be-missed/",
+      "title": "Tim Peters will be missed",
+      "description": "Tim spent a very long time in the early days of Python List teaching me all sorts of things I didn't know from my father's scattershot teaching as a child. He was generous with his time, full of humour and willing to teach some random kid on the internet when he had lots of other important things he could be doing. Spending ages with him and Christian trying to optimise some random function to the"
+    },
+    {
+      "link": "https://blog.vrplumber.com/b/2026/11/13/pyopengl-400b1-released/",
+      "title": "PyOpenGL 4.0.0b1 Released",
+      "description": "So we seem to have reached mostly-stable state for the PyOpenGL 4.0.0 release. There's no other planned major changes to the core library, so unless we see significant regressions we'll likely release 4.0.0 final over the next few weeks. Changes since the 4.0.0a5 release last mentioned here: Bug/crash fixes: * OSMesa -- a dropped OffscreenContext cleans up and prevents further writes * Buffers --"
+    },
+    {
+      "link": "https://blog.vrplumber.com/b/2026/09/11/hardware-accelerated-video-capture-for-pyopengl/",
+      "title": "Hardware Accelerated Video Capture for PyOpenGL",
+      "description": "The pyopengl-video library is a small hack that lets you pass FrameBufferObjects (FBOs) directly to the local platform video encoding library (or allows you to use your existing video buffer as an FBO, depending on the platform). The purpose of the library is to allow an off-screen renderer to generate h264 in mp4 video previews of that off-screen rendering. I find that useful to allow an agent to"
+    }
+  ]
+}

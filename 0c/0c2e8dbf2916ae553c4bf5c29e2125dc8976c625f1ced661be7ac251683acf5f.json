@@ -1,0 +1,20 @@
+{
+  "url": "https://gau-nernst.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://gau-nernst.github.io/b200-qr/",
+      "title": "World's fastest (panel) QR factorization on B200",
+      "description": "GPU MODE recently hosted a series of leaderboards for linear algebra kernels . I participated in the first one, QR decomposition, and claimed the 2nd place. I think it’s a breath of fresh air, a departure from the usual LLM-oriented kernels most people program for nowadays. As usual, my submission is open-sourced at gau-nernst/gpu-mode-kernels . The final submission is codex/submission.py . Table"
+    },
+    {
+      "link": "https://gau-nernst.github.io/cutedsl-tma/",
+      "title": "Using TMA in CuteDSL",
+      "description": "Some time ago, I explored using CuteDSL to write some kernels for vLLM to enjoy the JIT benefits (ability to specialize on more parameters, don’t need to recompile vLLM from source during development, etc…). I have always known that we can write CUDA C++ way (SIMT style) in CuteDSL: there are cute.arch.thread_idx() / cute.arch.block_idx() (equivalent of threadIdx / blockIdx in CUDA C++), PTX (or i"
+    },
+    {
+      "link": "https://gau-nernst.github.io/tcgen05/",
+      "title": "tcgen05 for dummies",
+      "description": "tcgen05 is the set of PTX instructions to program Tensor Cores on the latest NVIDIA Blackwell GPUs ( sm100 , not to be confused with consumer Blackwell sm120 ). At the time of writing, I couldn’t find a Blackwell tutorial in plain CUDA C++ with PTX, even though such exist for Ampere ( alexarmbr’s and spatters’ ) and Hopper ( Pranjal’s ). So let’s write one, documenting my process of learning tcgen"
+    }
+  ]
+}

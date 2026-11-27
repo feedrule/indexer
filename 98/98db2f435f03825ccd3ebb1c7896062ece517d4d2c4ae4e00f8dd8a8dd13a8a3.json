@@ -1,0 +1,20 @@
+{
+  "url": "https://janetgilbert.net/feed/",
+  "posts": [
+    {
+      "link": "https://janetgilbert.net/2026/10/16/walking-simulators/",
+      "title": "Walking simulators",
+      "description": "13 years ago I became a mum which led to about 10 years of having absolutely no time to play video games, followed by about 3 years of a pretty demanding corporate job, so I’ve got a big gap in my knowledge of the video game world from about 2013-2023, during which time an odd […] The post Walking simulators appeared first on Janet Gilbert Game Developer ."
+    },
+    {
+      "link": "https://janetgilbert.net/2026/04/27/dealing-with-old-lfs-bloat-filling-up-your-git-cloud-storage/",
+      "title": "Dealing with old LFS bloat filling up your Git cloud storage",
+      "description": "For anyone who has made a large game with Adventure Game Studio using Git as the source control, the problem of the sprite file is surely the bane of your life. For older versions of AGS, all sprites were stored together in one immense inseparable blob of a sprite file (acsprset.spr), which can easily end […] The post Dealing with old LFS bloat filling up your Git cloud storage appeared first on J"
+    },
+    {
+      "link": "https://janetgilbert.net/2026/03/30/can-an-llm-playtest-a-game/",
+      "title": "Can an LLM playtest a game?",
+      "description": "I have a friend who is developing a very big visual novel/RPG hybrid with a mindboggling amount of paths, companions, origins etc, all with unique dialog and situations. So I’ve been helping out with testing and a little light bug fixing. But I started to wonder, could I automate the testing for this? There’s a […] The post Can an LLM playtest a game? appeared first on Janet Gilbert Game Developer"
+    }
+  ]
+}

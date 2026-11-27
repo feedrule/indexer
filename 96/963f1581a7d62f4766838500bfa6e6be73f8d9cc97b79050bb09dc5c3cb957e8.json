@@ -1,0 +1,20 @@
+{
+  "url": "https://pta2002.com/blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://pta2002.com/blog/colemak/",
+      "title": "Switching to Colemak",
+      "description": "Let's learn to type properly!"
+    },
+    {
+      "link": "https://pta2002.com/blog/fava-on-nixos/",
+      "title": "Running Fava on NixOS",
+      "description": "Or, exposing any HTTP service safely with NixOS!"
+    },
+    {
+      "link": "https://pta2002.com/blog/cbz-sucks/",
+      "title": "Comic Book Archives Suck",
+      "description": "Warning! I wrote this several years ago, before moving to this new blog. My opinions may no longer be the same, and links might no longer work. If you have ever tried to read a comic book digitally, you have probably stumbled upon comic book archives, usually in the form of .cbz or .cbr files. These are extremely simple files - merely an archive of images, each representing a page. Or that’s the i"
+    }
+  ]
+}

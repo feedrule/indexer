@@ -1,0 +1,20 @@
+{
+  "url": "https://darryl-ruggles.cloud/feed.xml",
+  "posts": [
+    {
+      "link": "https://darryl-ruggles.cloud/the-real-cost-of-vector-storage-s3-vectors-vs-opensearch-vs-pgvector-vs-pinecone/",
+      "title": "The Real Cost of Vector Storage: S3 Vectors vs OpenSearch vs pgvector vs Pinecone",
+      "description": "Explore the true costs of vector storage across S3 Vectors, OpenSearch, pgvector, and Pinecone, revealing how pricing models and workloads impact expenses."
+    },
+    {
+      "link": "https://darryl-ruggles.cloud/from-factory-floor-to-ai-agent-an-iot-data-pipeline-with-msk-s3-tables-s3-files-and-strands-agents-terraform/",
+      "title": "From Factory Floor to AI Agent: An IoT Data Pipeline with MSK, S3 Tables, S3 Files, and Strands Agents (Terraform)",
+      "description": "Build an end-to-end smart manufacturing data pipeline with Terraform, using MSK, S3 Tables, S3 Files, and Strands Agents for real-time alerting and analysis."
+    },
+    {
+      "link": "https://darryl-ruggles.cloud/live-canary-deployments-with-aws-sam-the-new-websocket-api-resource-and-lambda-durable-functions/",
+      "title": "Live Canary Deployments with AWS SAM, the New WebSocket API Resource, and Lambda Durable Functions",
+      "description": "Explore AWS SAM's WebSocket API and Lambda Durable Functions to create a live canary deployment pipeline with real-time UI, enhancing workflow observation and control."
+    }
+  ]
+}

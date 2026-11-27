@@ -1,0 +1,20 @@
+{
+  "url": "https://pub.gctl.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://gctl.io/blog/2026/microvms-from-scratch-is-out/",
+      "title": "My book, microVMs from Scratch, is out",
+      "description": "My book is out! 🎉 It is called microVMs from Scratch: KVM, virtio and Firecracker in Rust , and you can get it on Leanpub today. If you have ever called an AWS Lambda function, a tiny virtual machine started, ran your code and was thrown away. That small machine is a microVM . The book is about how one works, and you learn it the slow, honest way: by building one. 🤔 Why I wrote it I kept running i"
+    },
+    {
+      "link": "https://gctl.io/blog/2026/teleporting-a-running-counter-across-cpus/",
+      "title": "Teleporting a running counter across x86, Arm and RISC-V",
+      "description": "What if a running program could pick up and move, without restarting? Imagine it counting, part way through its loop. You pause it on an Intel machine and set it down on an Arm machine, and it carries on from the very same number. Then you hand it to a RISC-V machine, and it carries on again. No restart, no lost work, and no care for which chip is underneath. If that worked, a program would no lon"
+    },
+    {
+      "link": "https://gctl.io/blog/2026/cocoon-claude-code-in-a-tiny-vm/",
+      "title": "cocoon: Claude Code in its own tiny virtual machine",
+      "description": "Claude Code is a coding agent. You ask it to fix a bug, and it reads your files, runs shell commands, installs packages and edits your code. That is the whole point of it. It is also exactly what would make you nervous if a stranger did it on your laptop. 😬 So I built cocoon . It runs Claude Code inside a small virtual machine on your own Linux computer. The agent gets a real Linux, real tools and"
+    }
+  ]
+}

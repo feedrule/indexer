@@ -1,0 +1,20 @@
+{
+  "url": "https://atymic.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://atymic.dev/blog/vennmeet-scheduling-across-time-zones/",
+      "title": "VennMeet, because When2meet doesn't know what time it is for you",
+      "description": "I built a free meeting scheduler for groups spread across time zones. Time zone handling in these tools is finicky, and none of them show you the thing you actually need to know, which is who ends up on a 6am call."
+    },
+    {
+      "link": "https://atymic.dev/blog/bref-2-to-bref-3-zero-downtime/",
+      "title": "Upgrading Bref 2 to Bref 3 with zero downtime",
+      "description": "Bref 3 forces container images on any app with a decent vendor directory, and Lambda won't let you convert a function from zip to image in place. Here's the API Gateway mapping swap that gets you across without downtime."
+    },
+    {
+      "link": "https://atymic.dev/blog/laravel-vapor-extended-secrets/",
+      "title": "Extending Laravel Vapor to remove secret size limits",
+      "description": "Running into Vapor's secret size limits? Issue no more!"
+    }
+  ]
+}

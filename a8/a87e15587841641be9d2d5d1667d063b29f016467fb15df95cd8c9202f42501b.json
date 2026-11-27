@@ -1,0 +1,20 @@
+{
+  "url": "https://pierce.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://pierce.dev/notes/making-a-software-trailer-with-astra",
+      "title": "Making a software trailer with Astra",
+      "description": "Filming a trailer for TrustMe, almost fully run by Astra xhigh - with special help from Opus."
+    },
+    {
+      "link": "https://pierce.dev/notes/how-the-marina-safeway-will-change-fort-mason",
+      "title": "How the Marina Safeway will change Fort Mason",
+      "description": "Despite my earnest attempts, no one could show me an actual simulation of how the proposed Marina Safeway redevelopment would affect Fort Mason. So here it is."
+    },
+    {
+      "link": "https://pierce.dev/notes/a-browser-for-agents",
+      "title": "A browser for agents",
+      "description": "A new browser control layer built for agents instead of people."
+    }
+  ]
+}

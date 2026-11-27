@@ -1,0 +1,20 @@
+{
+  "url": "https://pournasserian.com/ideas.xml",
+  "posts": [
+    {
+      "link": "https://pournasserian.com/ideas/sites-that-speak-for-themselves",
+      "title": "Sites that speak for themselves: an agent endpoint for every small website",
+      "description": "An idea for an open-source tool that lets a small website answer AI agents, its search box and a chat window from one index built when it is published."
+    },
+    {
+      "link": "https://pournasserian.com/ideas/an-os-for-ai-agents",
+      "title": "An OS for AI agents: not the one on your laptop",
+      "description": "An idea for running a fleet of personal AI agents: not an operating system per agent, but one small host that holds what each agent may call, spend and do."
+    },
+    {
+      "link": "https://pournasserian.com/ideas/ai-first-cms",
+      "title": "An AI-first CMS: AI operates, people govern",
+      "description": "An idea for a CMS built the other way round: the AI does the work by default, and people write the rules and review what matters before it goes live."
+    }
+  ]
+}

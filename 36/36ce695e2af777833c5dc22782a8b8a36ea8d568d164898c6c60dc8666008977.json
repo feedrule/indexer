@@ -1,0 +1,20 @@
+{
+  "url": "https://kodare.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://kodare.net/2026/10/26/mojo-deflate.html",
+      "title": "Mojo deflate vs C",
+      "description": "I read Richard Feldman’s post How close can pure FP get to C?, and this quote caught my attention:"
+    },
+    {
+      "link": "https://kodare.net/2026/03/05/smoother-django-translations.html",
+      "title": "Smoother translations in Django",
+      "description": "I’ve been working for roughly 5 years now in an app that is localized to Swedish, so I have built up some opinions on how to manage translation of a Django project. Here’s my list of things I do currently:"
+    },
+    {
+      "link": "https://kodare.net/2026/02/16/AI-readable-APIs.html",
+      "title": "AI and readable APIs",
+      "description": "In the AI age the importance of readable APIs goes up, as this can mean the difference between not reading the code because it’s too much, and easily reading it to verify it is correct because it’s tiny. It’s been pretty clear that one of the superpowers of AI development is that it happily deals with enormous amounts of boilerplate and workarounds in a way that would drive a human insane. But we"
+    }
+  ]
+}

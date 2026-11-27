@@ -1,0 +1,20 @@
+{
+  "url": "https://geeksilas.bearblog.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://geeksilas.bearblog.dev/inside-sika-agent/",
+      "title": "Inside Sika Agent: What Two Models Compute When Your Request Comes in Twi–English",
+      "description": "What changes inside Qwen3.5-9B and Ministral 3 8B when the same mobile money task comes in Twi or Twi–English instead of English, and where failure starts."
+    },
+    {
+      "link": "https://geeksilas.bearblog.dev/when-coding-agents-get-frustrated/",
+      "title": "When Coding Agents Get Frustrated",
+      "description": "A small-model replication sketch inspired by Anthropic's emotion-concept work. Anthropic's 2026 paper, Emotion Concepts and their Function in a Large Language Model , reports that Claude Sonnet 4.5 contains internal activation directions corresponding to emotion concepts such as calm , afraid , and desperate . The key claim is not that the model feels anything, but that these directions are measur"
+    },
+    {
+      "link": "https://geeksilas.bearblog.dev/stormlog-on-apple-silicon-fixing-a-pytorch-memory-leak/",
+      "title": "Stormlog on Apple Silicon: fixing a real PyTorch memory leak from first signal to final fix",
+      "description": "I built Stormlog after hitting the same problem too many times: memory debugging in training jobs kept turning into a fragmented workflow of ad hoc counters, partial profilers, logs that disappeared with the run, and artifacts that were hard to revisit later. I wanted one toolkit that could track memory live, save telemetry, analyze it after the fact, bundle diagnostics, export visualizations, and"
+    }
+  ]
+}

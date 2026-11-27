@@ -1,0 +1,20 @@
+{
+  "url": "https://qsoe-dev.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://qsoe-dev.blogspot.com/2026/11/usable-sel4-on-risc-v-qsoel-vs-sculpt.html",
+      "title": "Usable seL4 on RISC-V: QSOE/L vs Sculpt",
+      "description": "I wanted to know which seL4-based systems on RISC-V you can actually use as a workstation — compile code, keep files on a real disk, run a shell — rather than flash once and leave running. So I put the question to Google's AI Mode. It came back with a comparison of two: QSOE/L and Sculpt OS running on seL4. The structure was sound; several of the details were wrong. Here it is, corrected. QSOE/L ("
+    },
+    {
+      "link": "https://qsoe-dev.blogspot.com/2026/10/i-wanted-to-build-qsoe-04-on-azure.html",
+      "title": "I Wanted to Build QSOE 0.4 on Azure Linux 4.0 -- Here's What Happened",
+      "description": "QSOE is built every day on Debian. The 0.4 release was tested from a fresh clone on Debian too, and that's exactly the problem: a build that has only ever seen one distro silently learns that distro's habits. So on Monday evening, a day after the 0.4 release, I tried something different: a brand-new Azure Linux 4.0 virtual machine in QEMU, an 8 GB disk, a minimal install, and nothing else. RPM pac"
+    },
+    {
+      "link": "https://qsoe-dev.blogspot.com/2026/10/qsoe-04-released.html",
+      "title": "QSOE 0.4 released",
+      "description": "QSOE 0.4 is out today. In component terms: Component What it is 0.3 0.4 nq QSOE/N — the Skimmer microkernel and its taskman 0.30 0.36 lq QSOE/L — the seL4 taskman, its seam and its kernel patches 0.26 0.32 libc the C library, libqsoe and crt0 0.19 0.25 quser the shared userspace 0.18 0.24 qupkg the package manager, new in this release — 0.2 mr-bml the bootloader, shipped alongside 1.0 1.0 0.3 gave"
+    }
+  ]
+}

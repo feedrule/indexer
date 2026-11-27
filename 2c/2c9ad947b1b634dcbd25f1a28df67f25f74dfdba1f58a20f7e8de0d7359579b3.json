@@ -1,0 +1,20 @@
+{
+  "url": "https://convergentthinking.sh/index.xml",
+  "posts": [
+    {
+      "link": "https://convergentthinking.sh/posts/tabula-rasa/",
+      "title": "Tabula Rasa",
+      "description": "The phrase means blank slate, but the object was stone. A tablet, once carved, never goes back. You can fill the marks and cut new ones, but the uncut surface is gone. While newborns hear every language, by the first birthday, a child will only hear its own. Foreign sounds may still arrive, but as familiar ones, with an ear shaped by what it heard most. No one shows a four-year-old a slasher film."
+    },
+    {
+      "link": "https://convergentthinking.sh/posts/the-first-token/",
+      "title": "The First Token",
+      "description": "Some problems get easier as you go, and others can’t start until they’re already solved. A sentence is the first kind. Each word tightens what can follow, and the ending arrives as if it were always going to. Sudoku is the second. Place a number and it forecloses options in cells you haven’t looked at; erase it and everything built on it collapses. The grid resolves only once you see it whole."
+    },
+    {
+      "link": "https://convergentthinking.sh/posts/steer-before-you-shrink/",
+      "title": "Steer Before You Shrink",
+      "description": "What separates training methods that scale from those that don’t? Across 61,000 configurations on CIFAR, batch normalization, orthogonalized updates, and ASAM help at every data scale with no sign of diminishing returns. Dropout and random weight perturbation are neutral to mildly helpful only at low strength, and the threshold drops as task complexity rises. BN orthogonalizes representations , an"
+    }
+  ]
+}

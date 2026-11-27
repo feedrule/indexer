@@ -1,0 +1,20 @@
+{
+  "url": "https://damieng.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://damieng.com/blog/2026/vtx5000-part-5-rendering/",
+      "title": "VTX5000: Part 5 - Rendering",
+      "description": "In part 4 we followed data to and from the TI modem through the Intel 8251 USART landing in our buffers. Next up is the most interesting part—rendering those Viewdata 40×24 frames on what is typically a 32×24 display."
+    },
+    {
+      "link": "https://damieng.com/blog/2026/vtx5000-part-4-comms-routines/",
+      "title": "VTX5000: Part 4 - Communications",
+      "description": "In part 3 we saw how the VTX5000's 8K ROM is structured and how the BASIC program drives the terminal."
+    },
+    {
+      "link": "https://damieng.com/blog/2026/vtx5000-part-3-software-rom/",
+      "title": "VTX5000: Part 3 - Software ROM",
+      "description": "In part 1 we covered the history of Prestel and Prism, and in part 2 we cracked open the VTX5000 to examine the hardware. Now how did they squeeze a viewdata terminal app into 8KB..."
+    }
+  ]
+}

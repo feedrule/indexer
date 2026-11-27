@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hackerfactor.com/blog/index.php?/feeds/index.rss2",
+  "posts": [
+    {
+      "link": "https://hackerfactor.com/blog/index.php?/archives/1109-A-November-to-Remember.html",
+      "title": "A November to Remember",
+      "description": "This has been quite the November. November 12-13: Microsoft 365 and their cloud services went down globally for about 24 hours. November 13: Anthropic (Claude) had an API outage that lasted a few hours. This was partially related to the Microsoft outage. November 13: The Federal Aviation Administration (FAA) issued a nationwide ground stop that lasted over 4 hours. The backlog took days to resolve"
+    },
+    {
+      "link": "https://hackerfactor.com/blog/index.php?/archives/1108-AI-Enabled-Scams.html",
+      "title": "AI-Enabled Scams",
+      "description": "Last month, I attended three different presentations about AI and fraud. (Two online, one in person.) The premise each time was that consumers need to be more alert about deep fakes and fraud this holiday shopping season. These presentations all covered similar concerns: a strong emphasis on attacks coming from AI and advice about identifying fraud. However, they also made the same mistakes. Let m"
+    },
+    {
+      "link": "https://hackerfactor.com/blog/index.php?/archives/1107-C2PA-and-Consistently-Inconsistent-Validators.html",
+      "title": "C2PA and Consistently Inconsistent Validators",
+      "description": "When evaluating media provenance, the single most critical requirement is having consistent and repeatable results. Imagine evidence presented in a courtroom: the prosecution presents a validation report claiming an image is real, while the defense presents a different validator showing it is fake. What is the jury supposed to think? If a judge admits both reports under Frye, Daubert, or Kumho sta"
+    }
+  ]
+}

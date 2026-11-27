@@ -1,0 +1,20 @@
+{
+  "url": "https://www.maxghenis.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://maxghenis.com/blog/claude-ai-law-test/",
+      "title": "Four Claude models matched the answer key on 100 AI law questions 95.8% of the time from memory and 99.9% with the rule text",
+      "description": "I asked four Claude models 100 questions on California's SB 53, New York's RAISE Act, the EU AI Act and US chip rules. From memory, 95.8% of their replies matched the answer key. With the rule text in the prompt, 99.9% did, and with web search, 97.7% did on the 82 questions that version finished. Seven questions account for 39 of the 51 misses from memory."
+    },
+    {
+      "link": "https://maxghenis.com/blog/dc-initiative-86-forecasts/",
+      "title": "AIs predict that DC banning foie gras would increase the chances of future animal welfare regulations",
+      "description": "Before DC's November 3 vote, eight AI forecasters, each researching alone, give Initiative 86 an 89.7% chance of passing. After a one-point loss, they give 22% to someone filing a new DC initiative on farmed animals or animal products by the end of 2028; after a one-point win, 31%."
+    },
+    {
+      "link": "https://maxghenis.com/blog/california-bond-funds-billionaire-tax-odds/",
+      "title": "Testing California's bond funds against the billionaire tax odds",
+      "description": "Prediction markets have priced California's Proposition 40 for almost a year, and a fund of California municipal bonds has not moved with the odds by any amount I could detect. Before November 3, I registered a test that pools ballot measures across states."
+    }
+  ]
+}

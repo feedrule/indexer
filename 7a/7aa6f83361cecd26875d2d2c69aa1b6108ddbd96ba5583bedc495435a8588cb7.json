@@ -1,0 +1,20 @@
+{
+  "url": "https://charlesazam.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://charlesazam.com/blog/engineering-as-code-manifesto/",
+      "title": "Code is the future of hardware engineering.",
+      "description": "Code is the purest way to express complexity. We used it to describe engineering systems at Jimmy. Now I'm taking the idea further with AI agents and a drone."
+    },
+    {
+      "link": "https://charlesazam.com/blog/benchmark-driven-development/",
+      "title": "Stop reasoning blindly. How I tackle complex problems with benchmark driven development.",
+      "description": "Stop reasoning blindly. How I tackle complex problems with benchmark driven development."
+    },
+    {
+      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal Help?",
+      "description": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer."
+    }
+  ]
+}

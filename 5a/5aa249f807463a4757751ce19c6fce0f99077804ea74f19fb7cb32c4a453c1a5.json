@@ -1,0 +1,20 @@
+{
+  "url": "https://uni.horse/atom.xml",
+  "posts": [
+    {
+      "link": "https://uni.horse/esphome-glasgow.html",
+      "title": "flashing esphome to an esp32 device with a glasgow interface explorer",
+      "description": "You've probably found this page because you want to do this very specific thing, you tried it the obvious way, and it didn't work because esphome doesn't work with the pty created by glasgow uart . Get a 3.3V power supply. In my experience the Glasgow can provide enough current to flash successfully, but it'll immediately get stuck in a brownout reset loop as soon as you try to boot it, so you may"
+    },
+    {
+      "link": "https://uni.horse/rust-2025.html",
+      "title": "problems I still have with rust (in early 2025)",
+      "description": "I look at Rust a couple of times per year to see if it's Actually Good yet. Every time I'm very happy to see that whatever bothered me most about it last time has been improved, and then I get further into it and find new things that bother me. The last few times they've been more ergonomics issues than \"no you can't do that\" issues, which is cool and exciting. I happen to be in one of those cycle"
+    },
+    {
+      "link": "https://uni.horse/framework-review.html",
+      "title": "review: framework 16",
+      "description": "update 2025-03-25: it's actually not that good Since buying it and being fairly happy about it at first, my opinion has gradually lowered. Besides the nonsense with the keyboard and the load-bearing thermal pad, I've started having the machine spontaneously freeze or reset, while not doing anything particularly intensive. This takes it from \"extremely annoying but possible to work around\" to \"not"
+    }
+  ]
+}

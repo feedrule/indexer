@@ -1,0 +1,20 @@
+{
+  "url": "http://brandon.si/index.xml",
+  "posts": [
+    {
+      "link": "https://brandon.si/code/sandbox-minus-john-dillinger/",
+      "title": "Sandbox Minus John Dillinger Equals What?",
+      "description": "It didn’t look like anyone had ever tried to answer the question , so I thought I would have a go. This post probably won’t be interesting to folks already familiar with embeddings or linear algebra. It represents my rough, non-expert understanding of the subject matter Huh. What could it mean to subtract two words, and how would you even do that? If we just consider the how , it’s not too hard to"
+    },
+    {
+      "link": "https://brandon.si/code/linking-smaller-haskell-binaries/",
+      "title": "Linking Smaller Haskell Binaries",
+      "description": "Haskell binaries can get quite large (think ~100MB), especially for projects with many transitive dependencies. Here are two strategies that can help at link time, the latter being more experimental. I used the test-pandoc binary from pandoc on GHC 9.2.5 below. This was nice because obviously it was easy to test if linking broke anything (just run the tests). -split-sections and --gc-sections You"
+    },
+    {
+      "link": "https://brandon.si/code/ghc-llvm-lto-experiments-scratch-notes/",
+      "title": "GHC LLVM LTO Experiments Scratch Notes",
+      "description": "*This is a followup to this previous post where I play with GCC’s link-time optimization in GHC-compiled programs. I note there that this is limited since it only works on sources compiled from C (crucially the RTS). Here I’ve compiled rough notes doing the same thing with LLVM LTO, where I attempt to get true whole-program optimization *cooking. The goals were to play with some new tech and possi"
+    }
+  ]
+}

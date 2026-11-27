@@ -1,0 +1,20 @@
+{
+  "url": "https://shinglyu.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://shinglyu.com/blog/2026/11/18/private-repo-public-mirror-pattern-for-ai-agents.html",
+      "title": "A Private Repo, a Public Mirror: Keeping AI Agent Conversations Out of Your Open Source Project",
+      "description": "AI coding agents are most useful when you talk to them like a teammate. You paste in the half-baked idea, the customer complaint, the “I’m not sure this design is right” doubt. The agent works best with that context. But if your project is open source, where does that conversation live? Issues, pull request comments and agent session logs are all public by default. I’ve been using a setup that sol"
+    },
+    {
+      "link": "https://shinglyu.com/blog/2026/11/10/temporary-camera-android-app.html",
+      "title": "Temporary Camera: The Android App I Always Wanted, Built with AI",
+      "description": "I just released Temporary Camera on Google Play, a tool I’ve always wanted, built with AI. Here is why I made it and how an old phone, a piece of paper and an AI model got the camera rotation right while I did the dishes. (more...)"
+    },
+    {
+      "link": "https://shinglyu.com/blog/2026/10/28/five-elements-interactive-reference.html",
+      "title": "An Interactive Reference for the Five Elements",
+      "description": "I added a Five Elements interactive reference to my Volume 1 quick reference . It brings the correspondences together in a wheel and table, with options to explore the relationships and switch between English, Traditional Chinese, and Simplified Chinese labels. It’s based on Table 1.5, Figure 1.4, and the discussion of Five Elements relationships in Essentials of Chinese Medicine: Vol. 1. Foundati"
+    }
+  ]
+}

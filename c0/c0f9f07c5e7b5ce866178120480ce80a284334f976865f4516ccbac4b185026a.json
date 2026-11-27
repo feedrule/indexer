@@ -1,0 +1,20 @@
+{
+  "url": "https://tuckerchapman.com/index.xml",
+  "posts": [
+    {
+      "link": "https://tuckerchapman.com/til/generate-random-string-cli/",
+      "title": "Generate Random String with CLI",
+      "description": "TIL a few one-liners for generating random strings. date +%s | sha512sum | base64 | head -c 24 ; echo The string is pseudo random and seeded by the current UNIX timestamp. The command should work with most Linux distros and MacOS. If running on Linux a more random command to try uses /dev/urandom and tr . tr -dc A-Za-z0-9 </dev/urandom | head -c 24 ; echo If you need a passphrase you can use the d"
+    },
+    {
+      "link": "https://tuckerchapman.com/til/firefox-address-bar-shortcuts/",
+      "title": "Firefox Address Bar Shortcuts",
+      "description": "TIL The Firefox Address Bar includes shortcuts for all kinds of things. Use special characters to search your history (^), bookmarks (*), and tabs (%). Type the shortcut character before your search to filter the dropdown entries to tab through. Use the @ to search configured websites, history, bookmarks, and tabs (type @bookmarks, @wikipedia, etc.). Add keywords to your bookmarks to create shortc"
+    },
+    {
+      "link": "https://tuckerchapman.com/til/jwt-base64url-encoded-strings/",
+      "title": "JWTs are Base64URL Encoded Strings",
+      "description": "TIL a JWT (JSON Web Token) is a couple Base64URL encoded strings with a signature. A JWT takes the structure <header>.<payload>.<signature> . The header and payload of a JWT aren’t secret (they’re Base64URL encoded). The magic of JWTs is how the signature is calculated. Calculate the signature by Base64URL encoding the header and payload then hashing with a secret HMACSHA256(base64UrlEncode(header"
+    }
+  ]
+}

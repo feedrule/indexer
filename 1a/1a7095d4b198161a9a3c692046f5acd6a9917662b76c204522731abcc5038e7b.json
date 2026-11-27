@@ -1,0 +1,20 @@
+{
+  "url": "https://philz.blog/rss/",
+  "posts": [
+    {
+      "link": "https://philz.blog/software-as-art-making-things-in-the-age-of-ai/",
+      "title": "Software as Art: Making Things in the Age of AI",
+      "description": "I recently gave a keynote at next.app devCon in Berlin . After the talk, I was asked whether the content was available anywhere, so I’ve adapted it into a short article here. AI tools are increasingly shaping the way we do design, engineering, testing, and everything in between."
+    },
+    {
+      "link": "https://philz.blog/adopting-customizable-swiftui-toolbars/",
+      "title": "A Tale of Adopting Customizable SwiftUI Toolbars",
+      "description": "Toolbar customization is a staple of a true Mac app with any amount of complex functionality. I want toolbar customization, you want toolbar customization, your users want toolbar customization. However, setting it up using SwiftUI can be less than obvious – or, at least, much less so than when using"
+    },
+    {
+      "link": "https://philz.blog/using-dump-menu-debug-feature-on-macos-27-beta/",
+      "title": "Using the Dump Menu Debug Feature on macOS 27 Beta",
+      "description": "The AppKit Debug menu is a debugging tool that has been shipping as part of the framework and hence macOS itself for a few years. The Dump Menu debug feature is a new addition in macOS 27 that I think could be useful."
+    }
+  ]
+}

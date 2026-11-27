@@ -1,0 +1,20 @@
+{
+  "url": "https://bitbin.de/feed.xml",
+  "posts": [
+    {
+      "link": "https://stbenjam.github.io/2026/09/04/the-code-they-leave-behind.html",
+      "title": "The Code They Leave Behind",
+      "description": "I’ve been thinking a lot about what we’re actually trying to measure with coding benchmarks. Almost every major leaderboard evaluates models on a simple binary: did the model complete the task? That pass/fail metric hides the qualitative properties of the solution. A single score doesn’t tell you how the code was built, how fragile it is, or whether you would ever want to maintain it."
+    },
+    {
+      "link": "https://stbenjam.github.io/2026/06/05/separating-agent-identity.html",
+      "title": "Your AI Agent Needs Its Own Identity",
+      "description": "When people talk about running AI agents autonomously, the conversation usually centers on sandboxing: what can the agent access, what damage can it do, how do you contain the blast radius. These are important questions. But there’s a deeper problem lurking underneath them."
+    },
+    {
+      "link": "https://stbenjam.github.io/2026/03/29/screener-loop-pattern.html",
+      "title": "Screener Loop Pattern: LLM Analysis at Scale",
+      "description": "When you need to analyze thousands of unstructured artifacts (logs, error reports, support tickets) you face a dilemma. Humans are great at understanding individual cases but can’t scale. LLMs can process everything but make mistakes and often lack domain context. The Screener Loop pattern combines both by creating a tight feedback cycle between bulk LLM analysis and targeted human review."
+    }
+  ]
+}

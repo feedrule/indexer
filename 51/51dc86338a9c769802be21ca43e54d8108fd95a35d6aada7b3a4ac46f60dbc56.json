@@ -1,0 +1,20 @@
+{
+  "url": "https://atlee.ca/rss.xml",
+  "posts": [
+    {
+      "link": "https://atlee.ca/posts/synology-acme-renewal/",
+      "title": "How to fix Let's Encrypt / acme.sh renewal on Synology",
+      "description": "I use a Let's Encrypt certificate so Synology Photos can connect to my NAS over HTTPS without a certificate warning. I renew it with acme.sh using a DNS challenge. When the certificate expired, Photos stopped syncing and renewal failed with: curl: (60) SSL certificate problem: certificate has expired The error made it look like acme.sh didn't trust a certificate authority. The actual problem was t"
+    },
+    {
+      "link": "https://atlee.ca/posts/vim-glow-watch-face/",
+      "title": "Making a Vim watch face glow",
+      "description": "I wanted a Vim styled watch face for my Garmin Fenix 8. Line numbers, a filename at the top, and status information along the bottom. The time and other watch data could be the contents of the file. I also wanted it to look like an old green CRT, with glowing letters and scanlines across the display. Getting the text onto the screen was straightforward. Getting it to glow took quite a few attempts"
+    },
+    {
+      "link": "https://atlee.ca/posts/need-build-dependencies/",
+      "title": "need: for when you just need simple build dependencies",
+      "description": "Sometimes I need to express a simple dependency between files. For example, if I have a directory full of images, I want to generate a thumbnail for each image, and only regenerate the thumbnails that are out of date. just is great as a generic command runner. I frequently set up a justfile with common targets like test , format , and clean . But just doesn't track file dependencies. I could write"
+    }
+  ]
+}

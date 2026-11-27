@@ -1,0 +1,20 @@
+{
+  "url": "https://harudagondi.space/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.harudagondi.space/blog/mini-revamp-2026/",
+      "title": "A mini-revamp to my blog for early 2026",
+      "description": null
+    },
+    {
+      "link": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+      "title": "Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler",
+      "description": null
+    },
+    {
+      "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "title": "Parse, don't Validate and Type-Driven Design in Rust",
+      "description": null
+    }
+  ]
+}

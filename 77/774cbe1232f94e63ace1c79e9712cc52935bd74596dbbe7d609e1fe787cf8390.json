@@ -1,0 +1,20 @@
+{
+  "url": "https://rys.io/en/feed.rss",
+  "posts": [
+    {
+      "link": "https://rys.io/en/184.html",
+      "title": "Media helped create the crisis it finds itself in",
+      "description": "This blogpost is adapted from a transcript of my talk given at Breakwater Festival in Gdańsk. You can find the slides here . I am an Internet plumber. I’ve been an Internet plumber in many organizations, including journalistic ones. I’ve also done information security work for media organizations, for example in the run up to and during the Panama Papers. What I am not is a journalist. I have not"
+    },
+    {
+      "link": "https://rys.io/en/182.html",
+      "title": "Entirely Foreseeable AWS Outages",
+      "description": "According to Financial Times , Amazon Web Services experienced at least two minor outages in the final few months of last year, all caused by their internal “AI” tooling malfunctions. The article quoted one senior AWS employee describing them as “entirely foreseeable”. Amazon is going hard on slop generators. LLMs are extremely complex systems. And complexity creates real risk. I recently wrote ab"
+    },
+    {
+      "link": "https://rys.io/en/181.html",
+      "title": "AI will compromise your cybersecurity posture",
+      "description": "Yes, “AI” will compromise your information security posture. No, not through some mythical self-aware galaxy-brain entity magically cracking your passwords in seconds or “autonomously” exploiting new vulnerabilities. It’s way more mundane. When immensely complex, poorly-understood systems get hurriedly integrated into your toolset and workflow, or deployed in your infrastructure, what inevitably f"
+    }
+  ]
+}

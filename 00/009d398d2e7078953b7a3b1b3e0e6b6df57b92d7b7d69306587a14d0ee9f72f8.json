@@ -1,0 +1,20 @@
+{
+  "url": "https://www.heyuan110.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.heyuan110.com/posts/ai/2026-09-17-modern-windows-shell-terminal-guide/",
+      "title": "Modern Windows Shell Guide 2026: PowerShell 7 & Nushell",
+      "description": "Most developers struggling with command-line productivity on Windows are fixing the wrong layer. They swap terminal emulators every three months—bouncing from Windows Terminal to WezTerm, then Alacritty—while leaving the default shell untouched. A terminal emulator is just the canvas. The shell is the engine. In 2026, the difference between a frustrating Windows CLI experience and a lightning-fast"
+    },
+    {
+      "link": "https://www.heyuan110.com/posts/ai/2026-09-15-configuring-third-party-models-in-codex/",
+      "title": "Configuring Third-Party Models in OpenAI Codex: The Ultimate TOML & CC Switch Guide",
+      "description": "Unlocking OpenAI Codex’s capabilities with third-party models is the single most effective way to optimize your agentic coding workflows. By default, Codex is configured to talk directly to OpenAI’s native API. However, for high-frequency development, the sheer volume of code ingested during multi-file edits, codebase analyses, and deep refactoring can rapidly drain your token budget. Swapping the"
+    },
+    {
+      "link": "https://www.heyuan110.com/posts/ai/2026-09-14-pi-coding-agent-deep-dive/",
+      "title": "The Triumph of Minimalism: A Deep Dive into Pi (pi.dev) Agent Architecture and Extensibility",
+      "description": "The landscape of AI coding assistants is currently locked in a feature-rich, high-overhead arms race. Commercial IDEs like Cursor Agent, browser-based tools like Bolt, CLI agents like Claude Code, and open-source extensions like Cline are competing to pack more built-in features: complex multi-agent planning stages, Model Context Protocol (MCP) servers, sandboxed web-browsing containers, and infin"
+    }
+  ]
+}

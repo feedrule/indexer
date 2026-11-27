@@ -1,0 +1,20 @@
+{
+  "url": "https://varlog.info/feed/",
+  "posts": [
+    {
+      "link": "https://varlog.info/cloudflare-monetization-gateway/",
+      "title": "Cloudflare Monetization Gateway: Letting AI Agents Pay per Request",
+      "description": "Cloudflare's Monetization Gateway puts a pay-per-request wall in front of APIs using x402 and HTTP 402. How it works, what setup costs and who can use it."
+    },
+    {
+      "link": "https://varlog.info/google-drive-markdown/",
+      "title": "Google Drive and Docs Now Handle Markdown Natively",
+      "description": "Google Docs can edit .md files without converting them. How to use it, which Docs formatting won't survive a save, and why Google pushes Markdown for AI agents."
+    },
+    {
+      "link": "https://varlog.info/ai-hallucinations/",
+      "title": "AI Hallucinations: Why Language Models Make Things Up",
+      "description": "Fake court cases, an airline chatbot inventing policy, code importing missing packages. Why language models hallucinate and how to keep the damage small."
+    }
+  ]
+}

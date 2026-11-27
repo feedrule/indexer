@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.kotarak.net/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://blog.kotarak.net/2026/11/gamma-dog-firmware-62.html",
+      "title": "Gamma Dog firmware 6.2",
+      "description": "Many improvements and features in the audio response system. Ultra-fast boot mode was also added that essentially allows the user to quickly jump into the menu system at any point. New Frequency Glide feature changes the tone smoothly as the count rate increases instead of stepping through. Low Sensitivity mode is added for dealing with active specimens - the Pulse Height Threshold level is double"
+    },
+    {
+      "link": "https://blog.kotarak.net/2026/05/gamma-dog-maxi-bigger-brother-of-gamma.html",
+      "title": "Gamma Dog Maxi - the bigger brother of Gamma Dog Mini",
+      "description": "Gamma Dog Maxi was built with basically the same 3D Printed housing that Charles designed, but extended to fit a large 63x63mm NaI(Tl) detector. It is much closer in size to my main Gamma Dog line with 4\" diameter housing and since I was reusing the old Gen3 electronics, this unit received the electronics package with serial number \"AS001\" Beyond the larger housing size and construction is identic"
+    },
+    {
+      "link": "https://blog.kotarak.net/2026/05/gamma-dog-update-gamma-dog-mini-and.html",
+      "title": "Gamma Dog Update: \"Gamma Dog Mini\" and firmware update v5.9",
+      "description": "Finally found some time to work again on the Gamma Dog project. I had 3 GD electronics modules from the Gen 3 run and a bunch of 38B57 detectors laying around so I decided to turn them into actual units and add some improvements to the firmware. New Firmware release - Current version is 5.9. These are just some of the improvements: - completely new sound library with harmonic suppression and advan"
+    }
+  ]
+}

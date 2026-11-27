@@ -1,0 +1,20 @@
+{
+  "url": "https://jameslao.com/index.xml",
+  "posts": [
+    {
+      "link": "https://jameslao.com/post/gcra-burst-limit/",
+      "title": "GCRA With Burst Limiting",
+      "description": "In a previous posts we looked at how to implement a leaky bucket rate limiter using the generic cell rate algorithm (GCRA) and then again how to derive several common rate limiting headers . In this post we’ll look at how to apply a burst limit. Consider a rate limit of \\(X = 10\\) requests per \\(P = 60\\) seconds. With GCRA we can make all 10 requests in an instant because it allows us to consume t"
+    },
+    {
+      "link": "https://jameslao.com/post/gcra-rate-limit-status/",
+      "title": "Rate Limit Status Headers With GCRA",
+      "description": "How to calculate the rate limit status when using the GCRA for response headers."
+    },
+    {
+      "link": "https://jameslao.com/post/gcra-rate-limiting/",
+      "title": "GCRA Rate Limiting",
+      "description": "Efficient rate limiting using the generic cell rate algorithm explained."
+    }
+  ]
+}

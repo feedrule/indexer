@@ -1,0 +1,20 @@
+{
+  "url": "https://bandarra.me/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://bandarra.me/posts/webmcp-macros",
+      "title": "Is WebMCP Only for Agents?",
+      "description": "WebMCP tools were designed for in-browser AI agents, but each one is a named function with input and output schemas that the page keeps up to date. I built WebMCP Macros, a Chrome extension that calls those tools from block programs with no model in the loop, and used it to answer every letter in a Santa's Workshop demo with four blocks."
+    },
+    {
+      "link": "https://bandarra.me/posts/webmcp-outputschema",
+      "title": "Does WebMCP `outputSchema` Help Agents Pick Better Tools?",
+      "description": "Consolidating WebMCP read tools while keeping descriptions under 500 characters hides the fields each tool returns from the agent. Here is what happened when I tested WebMCP's new outputSchema across single-turn lookups, multi-step chains, and multi-turn conversations."
+    },
+    {
+      "link": "https://bandarra.me/posts/ev-vs-fine-tuned-bert",
+      "title": "Would Fine-Tuning Have Beaten Jev?",
+      "description": "The third post in my series on describing a classifier with Jev versus training one. This time I fine-tuned BERT on the same Jigsaw toxicity comments. With enough labels it ranks toxic comments better than Jev and the cloud-embedding models, but it needs about 500 labels to pass Jev, a GPU to train, and it misses almost every comment on the two rarest labels."
+    }
+  ]
+}

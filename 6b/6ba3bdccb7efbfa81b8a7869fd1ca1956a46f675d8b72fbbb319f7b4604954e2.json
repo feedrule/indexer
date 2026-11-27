@@ -1,0 +1,20 @@
+{
+  "url": "https://aroberge.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://aroberge.blogspot.com/2026/09/breaking-four-year-hiatus-to-talk-about.html",
+      "title": "Breaking a four year hiatus to talk about the export keyword (PEPs 842 and 843)",
+      "description": "I started writing this blog in 2004 and, every year I published at least one post until 2022. So four years of not writing about Python ... and, actually, four years of (essentially) not writing any code. It is time for me to start writing and coding again, this time about a proposed new Python keyword: export . Sources of frustration If you've ever written code and made it available for others to"
+    },
+    {
+      "link": "https://aroberge.blogspot.com/2022/10/better-nameerror-messages-for-python.html",
+      "title": "Better NameError messages for Python",
+      "description": "Python 3.11 is barely out and already the 3.12 alpha has some improvements for NameError messages. I suspect that these will be backported to 3.11 in time for the next release. On Ideas Python Discussion , Pamela Fox suggested that it might be useful to consider potential missing import when a NameError was raised. Thus, instead of having >>> stream = io.StringIO() Traceback (most recent call last"
+    },
+    {
+      "link": "https://aroberge.blogspot.com/2022/10/pandas-settingwithcopywarning-did-i-get.html",
+      "title": "pandas' SettingWithCopyWarning: did I get it right?",
+      "description": "I am just beginning to learn pandas and am looking to provide some automated help. From what I read, it appears that SettingWithCopyWarning is something that confuse many people. Is the following correct? In [2]: df = pd . DataFrame ([[ 10 , 20 , 30 ], [ 40 , 50. , 60 ]], index = list ( \"ab\" ), columns = list ( \"xyz\" )) In [3]: df . loc [ \"b\" ][ \"x\" ] = 99 `SettingWithCopyWarning`: A value is tryi"
+    }
+  ]
+}

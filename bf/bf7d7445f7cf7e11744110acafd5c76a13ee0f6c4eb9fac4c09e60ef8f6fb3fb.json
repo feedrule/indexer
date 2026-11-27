@@ -1,0 +1,15 @@
+{
+  "url": "https://travishaagen.github.io/atom",
+  "posts": [
+    {
+      "link": "https://travishaagen.github.io/posts/backpressure-in-client-server-applications/",
+      "title": "Backpressure in Client-Server Applications",
+      "description": "Backpressure, in client-server applications, is accomplished when a client adjusts its transmission of messages in response to a server that has slowed its processing of messages. Stuck in Traffic Ideally, when a networked client connects to a server, messages are sent at maximum speed and responses are likewise returned quickly. To handle more client traffic we scale horizontally by adding additi"
+    },
+    {
+      "link": "https://travishaagen.github.io/posts/static-exceptions-for-flow-control/",
+      "title": "Static Exceptions for Flow Control",
+      "description": "Static Exceptions, when used for flow control, can dramatically reduce garbage generation and latency in Java and Kotlin applications. TL;DR To create high performance exceptions for flow control in the JVM, simply extend the following StaticException class. Then store the Exception instance in a static final field and throw it as needed. They're fast, because the call stack doesn't need to be tra"
+    }
+  ]
+}

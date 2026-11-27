@@ -1,0 +1,20 @@
+{
+  "url": "https://katexochen.aro.bz/index.xml",
+  "posts": [
+    {
+      "link": "https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/",
+      "title": "Understanding NvPCRs in systemd v262",
+      "description": "systemd answers TPM PCR scarcity with additional PCR-like registers allocated in the TPM’s NV memory, with an anchoring design that was reworked in v262. In this hands-on deep dive, we rebuild a systemd NvPCR from scratch against a software TPM, picking up the required TPM concepts along the way, and analyze why the design is secure. Why can’t systemd get enough of those PCRs? Many of systemd’s se"
+    },
+    {
+      "link": "https://katexochen.aro.bz/posts/reproducible-secure-signatures/",
+      "title": "Secure signatures without a private key",
+      "description": "Reproducible builds allow anyone to verify that a binary matches its source code. But what if the build artifact must contain a cryptographic signature? Reproducing the signature requires the private key, which defeats the purpose of reproducibility. In this post, we present a technique based on ECDSA public key recovery that produces signatures which are both secure and fully reproducible, withou"
+    },
+    {
+      "link": "https://katexochen.aro.bz/posts/badaml/",
+      "title": "Reproducing and mitigating BadAML",
+      "description": "BadAML is an attack that exploits host-supplied ACPI tables to gain arbitrary code execution inside confidential VMs, bypassing their memory isolation guarantees. Working on Contrast, we reproduced the attack end-to-end against our stack and mitigated it with an AML sandbox that restricts bytecode execution to shared memory pages. On untrusted ground: Protecting guests with confidential computing"
+    }
+  ]
+}

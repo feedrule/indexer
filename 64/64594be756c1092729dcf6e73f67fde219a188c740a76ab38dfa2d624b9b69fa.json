@@ -1,0 +1,20 @@
+{
+  "url": "https://www.patrickweaver.net/feed",
+  "posts": [
+    {
+      "link": "https://patrickweaver.net/blog/cranban-is-kanban-for-humans-collaborating-with-robots/",
+      "title": "Cranban is kanban for humans collaborating with robots",
+      "description": "I recently created Cranban , a local-first kanban board that stores the board’s data in a markdown file on your computer. Its got the drag and drop simplicity of your favorite project management tools, but a very simple backend (just text!) that is easy to keep in source control, and update by hand when you want to. Because all of the data is on your computer in a simple format, it’s a great tool"
+    },
+    {
+      "link": "https://patrickweaver.net/blog/one-pager-self-editing-html/",
+      "title": "Building a Web Page That Edits Itself",
+      "description": "The original vision for the world wide web was a read/write medium. A few years ago I thought, “what if an HTML file could update itself?” When I first started making goofy web pages many years ago, the index.html file felt magical. It felt like the file was the website, and a few .html files in a directory were a little community of pages. Over time, working with things like PHP and WordPress, th"
+    },
+    {
+      "link": "https://patrickweaver.net/blog/irl-html-is-the-place-for-your-most-hand-written-websites/",
+      "title": "IRL HTML Is the Place For Your Most Hand-Written Websites",
+      "description": "Last year before HTML Energy 's HTML Day in San Francisco I had the idea to iterate on some of my previous projects like Whiteboard Email , and make both an app that would do OCR on HTML, and a website to host truly “hand-written” HTML. That became IRL HTML and it was good enough to make some very simple websites! The published website and the hand written source code, we realized that some letter"
+    }
+  ]
+}

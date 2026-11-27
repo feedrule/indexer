@@ -1,0 +1,20 @@
+{
+  "url": "https://www.carnaghan.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.carnaghan.com/building-notmycms-a-lightweight-git-backed-cms-with-aws-and-kiro",
+      "title": "Building NotMyCMS - A Lightweight Git-Backed CMS with AWS and Kiro",
+      "description": "Why I built my own CMS for this site and how it works - a static site on S3 and CloudFront, a serverless admin, and content kept as Markdown in git so version history and rollback come for free."
+    },
+    {
+      "link": "https://www.carnaghan.com/building-logstead-a-schedule-e-rental-tax-app-with-aws-and-kiro",
+      "title": "Building Logstead - A Schedule E Rental Tax App with AWS and Kiro",
+      "description": "How I built Logstead, a focused serverless web app for preparing an IRS Schedule E rental tax return, on AWS with Kiro - year-end totals, straight-line depreciation, and per-property reports."
+    },
+    {
+      "link": "https://www.carnaghan.com/building-a-personal-aws-vpn-with-wireguard-and-kiro",
+      "title": "Building a Personal AWS VPN with WireGuard and Kiro",
+      "description": "Build a secure, config-driven personal VPN on AWS using WireGuard, CDK Python, and a Makefile, cheaper than a subscription with full control over your infrastructure."
+    }
+  ]
+}

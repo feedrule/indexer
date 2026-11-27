@@ -1,0 +1,20 @@
+{
+  "url": "https://fiquett.com/feed/",
+  "posts": [
+    {
+      "link": "https://fiquett.com/2026/04/19-days-of-listening-what-my-balcony-microphone-learned-about-seattles-corvids/",
+      "title": "19 days of listening: what my balcony microphone learned about seattle’s corvids",
+      "description": "a raspberry pi on my balcony has been listening for 19 days. using birdnet and mfcc voice fingerprinting, it identified 18 individual corvids by voice - mapping their territories, daily schedules, call types, and social bonds across north seattle."
+    },
+    {
+      "link": "https://fiquett.com/2026/04/raspberry-pi-5-wifi-rejected-by-eero-status_code16-and-what-finally-fixed-it/",
+      "title": "raspberry pi 5 wifi rejected by eero: status_code=16 (and what finally fixed it)",
+      "description": "if you’ve landed here because your raspberry pi 5 refuses to connect to an eero mesh router and your logs are full of CTRL-EVENT-ASSOC-REJECT bssid=00:00:00:00:00:00 status_code=16, i spent several hours on exactly this problem. here’s what i tried, what i learned, and what eventually worked — along with an honest admission that i still don’t […]"
+    },
+    {
+      "link": "https://fiquett.com/2026/02/when-its-software-and-when-its-physics/",
+      "title": "when it’s software… and when it’s physics",
+      "description": "When multiple variables change at once, our brains tend to focus on the most interesting explanation. However, the lesson here was clear: the problem was physical, not software-related, and a simple swap fixed everything."
+    }
+  ]
+}

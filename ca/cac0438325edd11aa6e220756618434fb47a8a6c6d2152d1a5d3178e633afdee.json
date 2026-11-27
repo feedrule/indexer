@@ -1,0 +1,20 @@
+{
+  "url": "https://spiess.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://spiess.dev/blog/software-collaboration-in-the-ai-age",
+      "title": "Software Collaboration in the AI Age",
+      "description": "Let's start with two observations: ## 1. GitHub Is Dying (and so Is the Traditional SDLC) With the rise of AI coding agents, software…"
+    },
+    {
+      "link": "https://spiess.dev/note/engineering/ai/agents-as-commodity",
+      "title": "Agents as Commodity",
+      "description": "AI agents are _the_ AI engineering trend of 2025. It's understandable: For the first time, it's possible to really start to understand the…"
+    },
+    {
+      "link": "https://spiess.dev/blog/how-i-use-claude-code",
+      "title": "How I Use Claude Code",
+      "description": "One month ago, I subscribed to Claude Max. I've been using AI agents including Claude Code for some time prior, but with the flat pricing, my…"
+    }
+  ]
+}

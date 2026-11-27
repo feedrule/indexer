@@ -1,0 +1,20 @@
+{
+  "url": "https://leloykun.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://leloykun.github.io/ponder/lora-muon-ogd/",
+      "title": "LoRA-Muon-OGD: Spectral Orthogonal Gradient Projection on the Low-Rank Manifold for LLM Continual Learning",
+      "description": "Generalizing Orthogonal Gradient Projection to the low-rank case and to steepest descent under a larger family of norms."
+    },
+    {
+      "link": "https://leloykun.github.io/papers/lora-muon/",
+      "title": "LoRA-Muon: Spectral Steepest Descent on the Low-Rank Manifold",
+      "description": "Low-Rank Adaptation (LoRA) significantly reduces compute and memory costs for finetuning Deep Learning models but is often harder to tune than dense training: when using factor-wise optimizers such as AdamW, it is sensitive to initialization choices, its optimal learning rates transfer poorly across ranks, and it often fails to beat dense baselines. We derive LoRA-Muon by applying the Muon optimiz"
+    },
+    {
+      "link": "https://leloykun.github.io/ponder/lean4-tilelang/",
+      "title": "Lean4-TileLang Tensor Program Superoptimizer [WIP]",
+      "description": "Deriving Flash Attention 2, FlashNorm, and other 'flash' kernels automatically with Lean4, lowered to TileLang."
+    }
+  ]
+}

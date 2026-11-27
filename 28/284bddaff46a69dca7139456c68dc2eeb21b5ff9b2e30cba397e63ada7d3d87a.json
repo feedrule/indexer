@@ -1,0 +1,20 @@
+{
+  "url": "https://roge.onwrite.app/rss.xml",
+  "posts": [
+    {
+      "link": "https://rogix.dev/writing-code-by-hand-is-not-an-option-anymore",
+      "title": "Writing code by hand is not an option anymore",
+      "description": "Writing code by hand is something from the past, but not everything is lost"
+    },
+    {
+      "link": "https://rogix.dev/what-is-a-product",
+      "title": "What is a product?",
+      "description": "It is far too easy to create software these days, but what is the difference between a side project and a real product?"
+    },
+    {
+      "link": "https://rogix.dev/i-did-it",
+      "title": "I did it",
+      "description": "Notes on my journey from the idea to a full-featured blogging platform"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://rossmcmillan.co.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://rossmcmillan.co.uk/blog/a-better-oh-my-zsh-alias-for-gcb",
+      "title": "A better oh-my-zsh alias for gcb",
+      "description": "Prevent accidental commits on the wrong branch"
+    },
+    {
+      "link": "https://rossmcmillan.co.uk/blog/vscode-console-log-snippet",
+      "title": "VSCode keyboard shortcut for logging out a selected variable",
+      "description": "In an effort to wean off of TurboLog which has become awfully noisy"
+    },
+    {
+      "link": "https://rossmcmillan.co.uk/blog/3d-printing-a-mod-for-a-leak-sensor",
+      "title": "Making a shower sensor",
+      "description": "by 3D printing a stand for the Aqara Water Leak Sensor"
+    }
+  ]
+}

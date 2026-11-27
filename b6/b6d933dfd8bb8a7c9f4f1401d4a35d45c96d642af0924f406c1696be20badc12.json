@@ -1,0 +1,20 @@
+{
+  "url": "https://travisbumgarner.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://travisbumgarner.dev/blog/photo-palettes",
+      "title": "Photo Palettes Post Mortem",
+      "description": "Successes, Failures, and Lessons Learned from My Largest Project to Date."
+    },
+    {
+      "link": "https://travisbumgarner.dev/blog/scaling-without-burning-money",
+      "title": "Scaling Without Setting Money on Fire: Journeys of a Solo Developer",
+      "description": "When all we do is our day jobs, we can afford to throw money at problems. But as a solo developer, every dollar counts."
+    },
+    {
+      "link": "https://travisbumgarner.dev/blog/photography-portfolio-performance",
+      "title": "Predictive UX Engineering",
+      "description": "We know what the user wants, before they act. Let's build for that."
+    }
+  ]
+}

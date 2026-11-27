@@ -1,0 +1,20 @@
+{
+  "url": "https://www.peterbaumgartner.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.peterbaumgartner.com/blog/e2e-evals-agents/",
+      "title": "Agent Token Costs Are System Costs: Evaluate Your Agentic Tooling End-to-End",
+      "description": "tl;dr: Evaluate agentic tooling in realistic end-to-end agentic tasks, not in isolation. At the task level, costs are driven more by the persistence of context through many turns than by the token count of any single turn. Intro Organizations are entering the tokenmaxxing hangover stage. And with that, lots of tooling is popping up claiming to reduce token usage. I’m not an organization, but I’d l"
+    },
+    {
+      "link": "https://www.peterbaumgartner.com/blog/reporting-with-quarto/",
+      "title": "Reporting With Quarto",
+      "description": "Recently I’ve been using Quarto to generate HTML reports to share with stakeholders and I’d like to share a workflow and configuration that has worked for me. Background Most of my programming I do in VSCode. A typical workflow involves using an IPython REPL for exploratory coding, organizing commonly used code into a package, and creating CLI functions with typer as an abstraction for common task"
+    },
+    {
+      "link": "https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/",
+      "title": "Wrapping a Rust Crate in a Python Package",
+      "description": "In this blog post I’ll walk through step-by-step how I wrapped the voronoice Rust crate and created a Python package with it. It’s written as a development journal, where I walk through my thought process and document the code and errors we’re getting along the way. My hope is that this makes the process a little more approachable for beginners and adds some transparency to the process. Motivation"
+    }
+  ]
+}

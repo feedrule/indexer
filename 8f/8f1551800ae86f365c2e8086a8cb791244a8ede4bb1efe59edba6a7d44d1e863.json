@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.guillaume-gomez.fr/atom",
+  "posts": [
+    {
+      "link": "https://blog.guillaume-gomez.fr/articles/2023-06-13+Testing+rustdoc",
+      "title": "Testing rustdoc",
+      "description": "Testing rustdoc rustdoc is the Rust tool used to generate documentation based on your source code. Whenever you use cargo doc or browse documentation on docs.rs, the content you see was generated using the rustdoc tool. In this blog post, we will see how rustdoc is tested. It's actually into two main parts, the unit tests on one side and the test suites on the other. Unit tests Let's start by some"
+    },
+    {
+      "link": "https://blog.guillaume-gomez.fr/articles/2026-10-30+sysinfo%3A+fixing+performance+to+retrieve+process+GPU+usage",
+      "title": "sysinfo: fixing performance to retrieve process GPU usage",
+      "description": "sysinfo: fixing performance to retrieve process GPU usage This is the second part of sysinfo: retrieving process GPU usage information. I mentioned in the previous blog post that implementing the \"process GPU usage\" feature on Linux in the sysinfo crate had a huge impact on performance and that I spent two months on fixing it. Let's see why and how. Oh also before I forget: the 0.40.0 version of s"
+    },
+    {
+      "link": "https://blog.guillaume-gomez.fr/articles/2026-10-28+sysinfo%3A+retrieving+process+GPU+usage+information",
+      "title": "sysinfo: retrieving process GPU usage information",
+      "description": "sysinfo: retrieving process GPU usage information A few months ago, I wrote sysinfo: Getting GPUs which described how I implemented the retrieval of GPU information in the sysinfo crate. And some years ago, I wrote sysinfo: how to extract systems' information. Although you don't need to read them beforehand to read this blog post, I might go quickly over details that I described in these blog post"
+    }
+  ]
+}

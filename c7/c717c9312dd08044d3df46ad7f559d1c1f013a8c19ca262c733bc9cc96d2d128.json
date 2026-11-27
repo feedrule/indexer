@@ -1,0 +1,20 @@
+{
+  "url": "https://andydote.co.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://andydote.co.uk/2026/04/02/magic-conventions-implicit-explicit/",
+      "title": "On Magic, Convetions, and Implicit vs Explicit",
+      "description": "Earlier in my career I was working as a C# developer, and had read a lot about testing and testability from the Alt.Net crowd, a lose group of people with ideas outside of how Microsoft did things in C#. When I came to needing to write an API, the impossibility of testing in ASP.NET made me look elsewhere. ASP.NET made heavy usage of Annotations, where you add decorators to methods which at runtim"
+    },
+    {
+      "link": "https://andydote.co.uk/2025/01/26/database-column-prefixes/",
+      "title": "Database Column Prefixes",
+      "description": "Back in a previous company (the same place as where Debugging GDI Handle Leaks happened), there was an interesting convention in the database: all tables had a unique 3-letter prefix assigned to them, and all columns in that table must start with the prefix, which I’ve written about before. For example, a person table would have the prefix PEO, and the columns would be PEO_PersonID, PEO_FirstName,"
+    },
+    {
+      "link": "https://andydote.co.uk/2025/01/19/explicit-vs-implicit-code/",
+      "title": "Explicit vs Implicit code",
+      "description": "A system I am working on at the moment started giving errors occasionally, say 5 times out of 10,000 messages or so. The error was pretty straightforward: json: cannot unmarshal array into Go struct field Thing.Parts of type Parts The data structure it is referring to looks like this: type Thing struct { Parts Parts } type Parts struct { Part []Part } Which represents the (slightly weird) json str"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ediri.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks",
+      "title": "Kubernetes GPU Sharing: NVIDIA MIG + DRA on Amazon EKS",
+      "description": "GPU scheduling in Kubernetes has always felt like buying a mansion when you need a studio apartment. A small inference workload that needs 2GB of GPU…"
+    },
+    {
+      "link": "https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize",
+      "title": "Argo CD: Enable Helm Support in Kustomize",
+      "description": "Nothing is more controversial in the Kubernetes community than whether to use Helm or Kustomize. I always advocate the philosophy of using the right tool…"
+    },
+    {
+      "link": "https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator",
+      "title": "Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator",
+      "description": "This article is part three of my series on secret management on Kubernetes with the help of Pulumi. In my first article, we talked about the Sealed Secrets…"
+    }
+  ]
+}

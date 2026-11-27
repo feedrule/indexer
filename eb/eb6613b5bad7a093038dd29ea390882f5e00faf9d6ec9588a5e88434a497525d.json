@@ -1,0 +1,20 @@
+{
+  "url": "https://hypermedia.lol/feed.xml",
+  "posts": [
+    {
+      "link": "https://hypermedia.lol/articles/a-worse-browser-inside-a-browser/",
+      "title": "Every Single-Page App Is a Worse Browser Running Inside a Browser",
+      "description": "Good intentions snowball into a shitty browser inside a browser. A team decides the server will speak JSON and the client will do the rest, and four runs later they've rebuilt the back button, the cache, scroll restoration and the URL by hand, worse. With a yeti."
+    },
+    {
+      "link": "https://hypermedia.lol/articles/one-textbox-for-one-time-codes/",
+      "title": "Everybody Builds Six-Digit Code Inputs Wrong. Just Use a Text Field.",
+      "description": "Websites build a six-digit login code like it's a nuclear launch console. Here's what that breaks, live, and the one HTML input that replaces all of it."
+    },
+    {
+      "link": "https://hypermedia.lol/articles/the-motherfucking-website-canon/",
+      "title": "Stop Bloating Motherfucking Websites",
+      "description": "Four profane single-page manifestos have argued for plain HTML for over a decade. I ran all of them through Lighthouse, plus craigslist, Legible News, and this site. The numbers are funnier than the pages."
+    }
+  ]
+}

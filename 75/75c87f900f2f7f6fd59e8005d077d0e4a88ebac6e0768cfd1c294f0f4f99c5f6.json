@@ -1,0 +1,20 @@
+{
+  "url": "https://tommyodland.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://tommyodland.com/articles/2026/lonna-til-norske-utviklere-i-2026",
+      "title": "Lønna til norske utviklere i 2026",
+      "description": "(Norwegian) Lønnskalkulatoren for IT -utviklere har blitt oppdatert med to tusen nye datapunkter for 2026."
+    },
+    {
+      "link": "https://tommyodland.com/articles/2026/decline-curve-analysis",
+      "title": "Decline Curve Analysis",
+      "description": "Decline Curve Analysis is a method for forecasting oil and gas production in wells. The idea dates back to the early 1900s and involves fitting a parametric curve to the time series data. It’s extremely fast and robust, and despite its simplicity it often produces very accurate forecasts."
+    },
+    {
+      "link": "https://tommyodland.com/articles/2026/minimal-models-and-dumb-deployments",
+      "title": "Minimal models and dumb deployments",
+      "description": "The most common mistake I encounter in practical data science is unwarranted complexity in model choice and deployment."
+    }
+  ]
+}

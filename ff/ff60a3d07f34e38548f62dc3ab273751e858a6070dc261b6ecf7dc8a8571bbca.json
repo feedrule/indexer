@@ -1,0 +1,20 @@
+{
+  "url": "https://thomasjfrank.com/feed/",
+  "posts": [
+    {
+      "link": "https://thomasjfrank.com/notion-daily-planning/",
+      "title": "Why Most People Plan Their Day Wrong (And How to Fix It)",
+      "description": "I’m convinced that 95% of people plan their day in the wrong way. If you often find yourself looking at your list of tasks without knowing what to do next, you’re among them. But it’s not your fault… it’s the fault of your tools. And luckily, fixing those tools is extremly simple. Let me show […] The post Why Most People Plan Their Day Wrong (And How to Fix It) appeared first on Thomas Frank ."
+    },
+    {
+      "link": "https://thomasjfrank.com/how-to-handle-notion-api-request-limits/",
+      "title": "How to Handle Notion API Request Limits",
+      "description": "If you’ve worked with the Notion API, you might have run into a situation where your code fails due to the API’s request limits, leaving you scratching your head. I won’t bury the lede: I’ve solved this problem for you. In this post, I’ll show you a free, open-source tool I’ve created that completely handles […] The post How to Handle Notion API Request Limits appeared first on Thomas Frank ."
+    },
+    {
+      "link": "https://thomasjfrank.com/how-to-solve-out-of-memory-errors-in-pipedream/",
+      "title": "How to Solve “Out of Memory” Errors in Pipedream",
+      "description": "My team and I use Pipedream for all of our business’ automations and workflows. I’ve also pushed Pipedream to its absolute limits by building a workflow that transcribes uploaded audio files, summarizes them, and sends the transcript/summary to Notion. It’s in building this workflow that I started hitting Out of Memory errors. It’s also the […] The post How to Solve “Out of Memory” Errors in Piped"
+    }
+  ]
+}

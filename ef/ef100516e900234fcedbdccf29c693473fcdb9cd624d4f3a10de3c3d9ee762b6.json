@@ -1,0 +1,20 @@
+{
+  "url": "https://gisli.hamstur.is/atom.xml",
+  "posts": [
+    {
+      "link": "https://gisli.hamstur.is/2026/09/construction-by-composition/",
+      "title": "Construction by composition",
+      "description": "In mathematics, functions are composable because for a given input they are guaranteed to return the same output. By composing simple functions, complex behavior can be modeled in a way that is straight forward to reason about. In most programming languages however, functions do not compose well because they can perform arbitrary side-effects. Haskell takes a completely different approach by separ"
+    },
+    {
+      "link": "https://gisli.hamstur.is/2021/10/gentle-intro-to-zero-knowledge-proofs/",
+      "title": "A super gentle introduction to zero-knowledge proofs 🍄",
+      "description": "Once considered unrealistic moon math, zero-knowledge proofs, may hold the answer to some of the most pressing blockchain questions, like how will they scale and what about privacy? At the same time the zero-knowledge proofs are extremely ill-understood and inaccessible to most people. The aim is to develop an intuition for them, explain in simple terms how they can be used in the context of block"
+    },
+    {
+      "link": "https://gisli.hamstur.is/2021/01/the-holy-trinity/",
+      "title": "The Holy Trinity",
+      "description": "Blockchains solve the problem of double-spending and thereby allows financial ledgers to be distributed among peers who maintain the invariants collectively without resorting to entrusting a centralized entity with the ledger. At the same time technical limitations still remain, hindering greater adoption of the technology. We identify the biggest unsolved challenges and what is being done to crac"
+    }
+  ]
+}

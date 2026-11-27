@@ -1,0 +1,20 @@
+{
+  "url": "https://jry.io/writing/atom.xml",
+  "posts": [
+    {
+      "link": "https://jry.io/writing/goodbye-flow-state/",
+      "title": "Goodbye Flow State",
+      "description": "I learned to program the way a lot of people did: I locked myself in a room one summer and didn’t come out until I’d built a video game . It was a bad video game. But somewhere in those weeks I lost track of time for the first time in my life: debugging, reasoning, rethinking, discovering… Psychologists call it flow. It was always rare for me. A few colleagues over the years seemed to drop into it"
+    },
+    {
+      "link": "https://jry.io/writing/stop-worrying-love-nix/",
+      "title": "Making a deterministic MacBook",
+      "description": "After losing a MacBook Pro recently, 10 years of hand-written settings I depend on were gone. Backups existed, but all of the little configurations were lost to time. Things like macOS network settings, sleep/wake, time machine backup schedules, GUI applications and their configurations + licenses. This motivated me to find a way to instantly recreate my MacBook in its entirety in less than 30 min"
+    },
+    {
+      "link": "https://jry.io/writing/you-are-not-your-job-2026/",
+      "title": "You Are Not Your Job (2026)",
+      "description": "Redirecting to You Are Not Your Job ."
+    }
+  ]
+}

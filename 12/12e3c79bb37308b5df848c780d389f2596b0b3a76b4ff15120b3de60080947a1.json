@@ -1,0 +1,20 @@
+{
+  "url": "https://mdleom.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://mdleom.com/blog/2026/11/13/acme-openwrt-cloudflared/",
+      "title": "Obtain HTTPS/TLS certificate in OpenWRT using acme.sh and cloudflared",
+      "description": "Avoid opening inbound port"
+    },
+    {
+      "link": "https://mdleom.com/blog/2026/07/30/dns-dhcp-logs-openwrt/",
+      "title": "Monitor traffic in OpenWRT using rsyslog",
+      "description": "Store dnsmasq (DHCP & DNS) and NAT/conntrack logs using rsyslog then tie everything together"
+    },
+    {
+      "link": "https://mdleom.com/blog/2024/10/12/nts-openwrt/",
+      "title": "Configuring NTS in OpenWRT",
+      "description": "Obtain time in an authenticated manner"
+    }
+  ]
+}

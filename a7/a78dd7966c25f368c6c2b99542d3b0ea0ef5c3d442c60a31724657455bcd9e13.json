@@ -1,0 +1,20 @@
+{
+  "url": "https://bharad.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://bharad.dev/blog/ai-evals-interview",
+      "title": "Notes from Hamel Husain's experience designing eval interviews",
+      "description": "A high eval score can hide a broken test. Hamel Husain's seven-part interview structure shows how to inspect the data, explain experiments, and make a product decision as engineering and data science roles overlap."
+    },
+    {
+      "link": "https://bharad.dev/blog/build-the-eval-pyramid",
+      "title": "The Eval Pyramid, Part III: Trace One Failure from Fixture to Release Gate",
+      "description": "Reproduce the refund agent that said \"refunded\" when it hadn't, watch a ledger check and a critical gate block it, then fix the bug and rerun. A walkthrough of the open-source Eval Pyramid Starter, one failure at a time."
+    },
+    {
+      "link": "https://bharad.dev/blog/measuring-agent-reliability",
+      "title": "The Eval Pyramid, Part II: Measuring Agent Reliability with pass@k, pass^k, and Judges You Can Trust",
+      "description": "One passing trial says a system can succeed. Repeated trials, computed per task, say whether people can depend on it. Here's how to read pass@1, pass@k and pass^k, why the same 75% can describe two opposite systems, and how to check a model judge before it gates a release."
+    }
+  ]
+}

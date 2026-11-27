@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.system11.org/?feed=rss2",
+  "posts": [
+    {
+      "link": "https://blog.system11.org/?p=3723",
+      "title": "Art scans update Oct 2026",
+      "description": "I’ve uploaded a pile of extra scans to the archive. I’m trying to cherry pick cool, interesting or rare items where possible because realistically I can’t get through everything I have unless I was able to give up working."
+    },
+    {
+      "link": "https://blog.system11.org/?p=3679",
+      "title": "Irem 10L471G colour resistor repro",
+      "description": "Irem games from M72 up to and including M92 use custom resistor ladders for the colour mixing hardware, they tend to be found near KNA91H014 customs. These resistor ladders rarely fail but are prone to cracking from physical force. I had a Lightning Swords PCB (international version of Ken Go), it’s the one that was […]"
+    },
+    {
+      "link": "https://blog.system11.org/?p=3670",
+      "title": "Namco System 11 capacitor list",
+      "description": "Another hardware platform now commonly developing capacitor issues is Namco System 11, fairly typical of SMD electrolytics as this point, they’re just rubbish. I was considering selling my Dancing Eyes, got it out of storage and … fish smell. Looked around and found evidence of weeping capacitors so off they all came. I’m not 100% […]"
+    }
+  ]
+}

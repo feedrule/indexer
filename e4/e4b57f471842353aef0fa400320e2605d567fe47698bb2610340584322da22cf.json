@@ -1,0 +1,20 @@
+{
+  "url": "https://datasystemreviews.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://datasystemreviews.com/cloudflare-d1-relational-data-cache.html",
+      "title": "Cloudflare D1 as a cache for globally distributed Django apps",
+      "description": "In this article, I show that Cloudflare D1 can be used to create a globally distributed, eventually consistent data cache for Python applications. To summarize, I was able to increase a Django server's request throughput by 554% and decrease it's latency by 87%: Cloudflare D1 Django app latency Full-size image ↗ Cloudflare D1 Django app throughput Full-size image ↗ Those tests were conducted in th"
+    },
+    {
+      "link": "https://datasystemreviews.com/columnar-vs-row-storage.html",
+      "title": "Columnar VS Row Storage In Databases",
+      "description": "Row VS column storage visualization Full-size image ↗ Whenever you hear a table or database called \"row oriented\", \"columnar\", or basically any terminology suggesting that it is written via rows or columns, they are specifying the way that the database stores data. If you think about a spinning hard drive, or even an array holding an SSD's memory addresses, both are ultimately one dimensional. At"
+    },
+    {
+      "link": "https://datasystemreviews.com/fastest-open-source-databases.html",
+      "title": "Fastest Open-Source Databases",
+      "description": "Fastest open-source databases Full-size image ↗ PostgreSQL, MySQL, and MariaDB are the most popular open-source relational databases. This article compares the performance of these systems using Reserva , a custom benchmarking tool I created to simulate a high volume digital payments system. My tests show that PostgreSQL is the fastest of the bunch. PostgreSQL is 55% faster than MariaDB in my cust"
+    }
+  ]
+}

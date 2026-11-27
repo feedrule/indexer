@@ -1,0 +1,20 @@
+{
+  "url": "https://kristaps.me/feed.rss",
+  "posts": [
+    {
+      "link": "https://kristaps.me/blog/x402-ai-agent-stablecoin-payments/",
+      "title": "What is x402? How I charged a weather API in stablecoins so an AI agent could pay",
+      "description": "x402 turns HTTP 402 into a payment handshake. I used it on Flare so an AI agent could pay per weather API call in an ERC-20, with the API key locked inside a TEE."
+    },
+    {
+      "link": "https://kristaps.me/blog/solidity-erc-20-approve/",
+      "title": "Understanding approve() in ERC-20: Why It Matters and How to Use It Safely",
+      "description": "This post takes a closer look at the `approve()` function in the ERC-20 token standard. While commonly used in DeFi applications, it introduces a huge risk if not handled correctly. Learn how to use it safely and avoid known vulnerabilities."
+    },
+    {
+      "link": "https://kristaps.me/blog/dappcon-2025-berlin/",
+      "title": "Back from Berlin Blockchain Week: Thoughts on DappCon, Privacy, and Where Blockchain Goes Next",
+      "description": "DappCon in Berlin brought together builders tackling the big questions in Web3 - stablecoins, privacy, regulation, and UX. Berlin's deep-rooted values of privacy and self-expression made it the perfect setting. This post shares key insights from the conference and reflects on what still needs fixing to bring blockchain to everyday life."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jasontucker.blog/rss/",
+  "posts": [
+    {
+      "link": "https://jasontucker.blog/roam-assistant-home-assistant-in-the-motorhome/",
+      "title": "Roam Assistant: putting Home Assistant in the motorhome",
+      "description": "Our house runs on Home Assistant, and the new-to-us motorhome had nothing. So a Raspberry Pi in a cabinet became Roam Assistant. Here's the tour, and the start of a bunch of posts to come."
+    },
+    {
+      "link": "https://jasontucker.blog/teaching-home-assistant-to-read-my-rv-generator-without-starting-it/",
+      "title": "Teaching Home Assistant to read my RV generator (without starting it at midnight on accident)",
+      "description": "My RV's generator auto-start module only talks to a phone app over Bluetooth. Claude Code and I decoded it, got live status into Home Assistant, and found a security problem along the way. Here's who did what, and why the generator never started at 11:45 at night."
+    },
+    {
+      "link": "https://jasontucker.blog/inside-quartermaster-a-conversation-with-lewis-egley/",
+      "title": "Inside Quartermaster: A Conversation with Lewis Egley",
+      "description": "A conversation with Quartermaster developer Lewis Egley about the new Docker companion app, the security model built to survive real scrutiny, and the late nights behind the biggest update the app has ever shipped."
+    }
+  ]
+}

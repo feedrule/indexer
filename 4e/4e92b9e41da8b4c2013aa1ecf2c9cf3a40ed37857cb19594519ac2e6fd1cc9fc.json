@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.lyc8503.net/en/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.lyc8503.net/en/post/java-card-explore/",
+      "title": "A First Look at Java Card Smart Card Development and Applications (e.g., DIY a Physically Secure YubiKey Alternative / OpenPGP Card)",
+      "description": null
+    },
+    {
+      "link": "https://blog.lyc8503.net/en/post/23-metrics-and-grafana-dashboard/",
+      "title": "AIO Ep23. Configuring Grafana Monitoring for HomeLab, Ditching Netdata",
+      "description": null
+    },
+    {
+      "link": "https://blog.lyc8503.net/en/post/high-performance-crawler-ex/",
+      "title": "High-Concurrency Crawler Optimization Side Story - Crawler Infrastructure",
+      "description": null
+    }
+  ]
+}

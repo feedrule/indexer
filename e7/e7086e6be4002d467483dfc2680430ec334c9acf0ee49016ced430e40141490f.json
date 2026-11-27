@@ -1,0 +1,20 @@
+{
+  "url": "https://sbudella.altervista.org/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.certora.com/blog/take-no-hint-soundness-vulnerability-gnark",
+      "title": "Take no hint: soundness vulnerability in gnark zk-SNARK library",
+      "description": "How a missing on-curve constraint in fake GLV scalar multiplication allowed ECDSA signature forgery in zk-SNARK circuits."
+    },
+    {
+      "link": "https://www.certora.com/blog/keep-it-like-a-secret",
+      "title": "Keep It Like a Secret: Finality and trust in commit-reveal protocols",
+      "description": "\"Trustless\" bridges claim to allow secure asset exchange across chains even in the presence of malicious actors. However, we argue that truly trustless protocols based on commit-reveal schemes are actually impossible when at least one of the participants does not wait for block finality."
+    },
+    {
+      "link": "https://www.certora.com/blog/bls-signature-subtleties",
+      "title": "Subtleties of BLS Signatures",
+      "description": "This article explores an observation in the use of BLS signature aggregation within a production blockchain."
+    }
+  ]
+}

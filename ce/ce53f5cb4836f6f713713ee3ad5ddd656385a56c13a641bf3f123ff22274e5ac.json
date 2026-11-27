@@ -1,0 +1,20 @@
+{
+  "url": "https://digline.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://digline.dev/blog/more-samples-less-floor/",
+      "title": "The more samples I took, the less my noise floor could see",
+      "description": "A noise floor built from the range of K single samples, compared against a mean: why it widens as K grows while the measurement behind it gets better, what it adds on two real suites, and what should replace it."
+    },
+    {
+      "link": "https://digline.dev/blog/check-that-could-not-fail/",
+      "title": "The check was written well, and it could not fail",
+      "description": "A faithfulness check on an LLM call scored 1.000 because the prompt already forbade what it measured. What a green check says, how to make one red on purpose, what that costs, and what it cannot find."
+    },
+    {
+      "link": "https://digline.dev/blog/four-ways-past-the-hook/",
+      "title": "Four ways an agent walked past my command hook",
+      "description": "Four times in two days, a guard of mine named the act it guarded, and the act arrived under another name. In the order it happened, with three checks to run."
+    }
+  ]
+}

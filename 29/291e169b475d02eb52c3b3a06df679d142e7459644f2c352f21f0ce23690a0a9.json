@@ -1,0 +1,15 @@
+{
+  "url": "https://catalyst5010.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://catalyst5010.com/blog/what-happens-when-a-team-actually-uses-ai-for-a-day/",
+      "title": "What Happens When a Team Actually Uses AI for a Day",
+      "description": "I ran a hands-on AI session with a dev team. The developers shipped impressive code, but the PMs surprised me most, rethinking how work flows between roles."
+    },
+    {
+      "link": "https://catalyst5010.com/blog/from-github-issue-to-pull-request-with-claude-skills/",
+      "title": "Your Agent Probably Doesn't Need Hand-Holding Anymore",
+      "description": "Writing code isn't the bottleneck anymore. I built a pipeline that turns GitHub issues into pull requests to explore this idea."
+    }
+  ]
+}

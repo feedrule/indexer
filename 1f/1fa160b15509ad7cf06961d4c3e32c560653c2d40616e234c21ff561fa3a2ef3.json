@@ -1,0 +1,20 @@
+{
+  "url": "https://es617.dev/feed",
+  "posts": [
+    {
+      "link": "https://es617.dev/2026/07/07/audient-ears.html",
+      "title": "Let the AI Out: Audient — An Ambient Audio Perception Layer That Grows",
+      "description": "An audio perception layer for AI agents: hear a sound, recognize it if familiar, learn it if not."
+    },
+    {
+      "link": "https://es617.dev/2026/06/26/obsidian-vault-mcp.html",
+      "title": "My Second Brain Was Everywhere. My AI Couldn’t Get In.",
+      "description": "My notes were on every device I own, but Claude couldn't reach them while I was on the go. So I built an MCP server to fix that."
+    },
+    {
+      "link": "https://es617.dev/2026/04/19/training-apple-on-device-llm.html",
+      "title": "Training Apple’s On-Device LLM: LoRA, QLoRA, and What Actually Worked",
+      "description": "Apple's adapter toolkit assumes a beefy GPU. I got it running on a free Colab T4 and a 24GB Mac, and found a caching bug that ate 269GB along the way."
+    }
+  ]
+}

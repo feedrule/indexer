@@ -1,0 +1,20 @@
+{
+  "url": "https://kevincox.ca/feed.atom",
+  "posts": [
+    {
+      "link": "https://kevincox.ca/2025/08/24/nixos-postgres-upgrade/",
+      "title": "NixOS PostgreSQL Major Version Upgrade",
+      "description": "PostgreSQL major version upgrades are something that NixOS currently doesn’t handle for you. This is my process, documented mostly so that I can remember it next time I want to upgrade. Warning I highly recommend that you read the PostgreSQL Upgrading documentation . It is well written and gives important caveats. It would be risky to follow through these steps without understanding the process. C"
+    },
+    {
+      "link": "https://kevincox.ca/2026/11/05/sidewalk-game/",
+      "title": "The Sidewalk Game",
+      "description": "When new sidewalks are poured they are stamped with the year and construction company, presumably so that if they aren’t properly made they know who to blame. Our family has taken to playing a “game” where we try to find sidewalks from our birth years. The dynamics of this game are mildly interesting. You have the most matching sidewalks at the end of your birth year and it only goes down from the"
+    },
+    {
+      "link": "https://kevincox.ca/2026/08/07/lost-inputs/",
+      "title": "Lost Inputs",
+      "description": "A UI shouldn’t lose your inputs. If you are typing, each and every key should result in a letter in order. No characters should e mssig or rerodeerd. If I switch windows with Alt+Tab and then type, the events must always go to the newly focused window. If I close a tab with Ctrl+w and then type, the events must go to the newly focused tab. This may seem obvious, but I often see applications that b"
+    }
+  ]
+}

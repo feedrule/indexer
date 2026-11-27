@@ -1,0 +1,20 @@
+{
+  "url": "https://blintzbase.com/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "A KV cache calculator",
+      "description": "I made a small KV cache calculator for some current open-weight models, based on Neil Movva’s . KV Cache Calculator at 85% of GPU memory usable for weights + KV cache Memory: Average Sequence Length: Model Max Batch Size based on Neil Movva's KV cache calculator"
+    },
+    {
+      "link": null,
+      "title": "Why cryptography is not based on NP-complete problems",
+      "description": "Cryptography is not based on NP-complete problems - let me explain why. Hard problems in cryptography Cryptographic schemes are based on the computational difficulty of solving some ‘hard’ problem. For example, RSA (specifically, RSA-2048) is based on the difficulty of a problem like this: The RSA Problem I generate two large, random prime numbers, p p p and q q q , each of length 1024 bits. I the"
+    },
+    {
+      "link": null,
+      "title": "Beyond k-anonymity: private password breach checking",
+      "description": "You can check whether a password has appeared in a previous data breach at haveibeenpwned.com/passwords . The only issue is, of course, that you have to enter your password to find out if it’s been in a breach. I built a tool that uses homomorphic encryption to perform these lookups completely privately. Here’s why I built it, and an explanation of how it works. When “k-anonymity” isn’t enough HIB"
+    }
+  ]
+}

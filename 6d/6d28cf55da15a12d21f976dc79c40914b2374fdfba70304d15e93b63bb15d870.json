@@ -1,0 +1,20 @@
+{
+  "url": "https://jtemporal.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://jtemporal.com/grok-bot-ai-squad-video/",
+      "title": "The most productive Saturday I've had all year thanks to Grok Bot",
+      "description": "I don’t think I’ve been this excited about a new AI tool in a few months, and that’s thanks to the most productive Saturday I’ve had since the beginning of the year. Let’s talk about Grok Bot. If you know me, you probably know it takes me a few days, even a few weeks, before I try the new model or the new tool of the moment. Last Friday night I installed Grok Bot, thanks to this video by Mo . Long"
+    },
+    {
+      "link": "https://jtemporal.com/i-built-my-ai-squad-in-grok-bot/",
+      "title": "I built my AI squad and I had my most productive Saturday ever",
+      "description": "Okay, I have a tendency to wait weeks, months even, before I try new AI tools these days. But after watching this video from Mo maybe half a dozen times, I just couldn’t wait much longer. If you’ve known me for a while, you also know that during the weekdays I’m working on my DevRel tasks at Auth0 while I develop my side projects like My Yarn Stash and GitFichas on weekends. As you can probably te"
+    },
+    {
+      "link": "https://jtemporal.com/starting-a-project-from-zero-with-ai/",
+      "title": "Starting a project from zero with AI: begin with the AGENTS.md",
+      "description": "A while back, an AI agent deleted my local database when I asked it for a schema change. It decided the simplest path was to drop the database file and recreate it, and I approved the command without reading it closely. And just like that, all my test data was gone in one go. The uncomfortable part is that the agent did nothing unreasonable. It behaved exactly the way you would if you assumed a da"
+    }
+  ]
+}

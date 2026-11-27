@@ -1,0 +1,20 @@
+{
+  "url": "https://todbot.com/blog/feed/",
+  "posts": [
+    {
+      "link": "https://todbot.com/blog/2026/05/15/serialplotster-graphing-for-microcontrollers/",
+      "title": "SerialPlotster: graphing for microcontrollers",
+      "description": "SerialPlotster is a graphing tool for data coming from microcontrollers, like Arduino, CircuitPython or MicroPython. It’s free and cross-platform, available for MacOS, Windows, and Linux. It plots line-oriented numeric data from a serial port as a real-time strip chart, with scrub/zoom that does not pause data collection, plus a console pane for bidirectional communication with … Continue reading"
+    },
+    {
+      "link": "https://todbot.com/blog/2024/06/15/exporting-kicad-pcb-w-silkscreen-to-fusion-360/",
+      "title": "Exporting KiCad PCB w/ silkscreen to Fusion 360",
+      "description": "Here’s the process I’ve been using to add a silkscreen image to the exported STEP model from KiCad to Fusion 360. The steps are: In KiCad PCB: In Fusion 360:"
+    },
+    {
+      "link": "https://todbot.com/blog/2023/05/16/cheap-stereo-line-out-i2s-dac-for-circuitpython-arduino-synths/",
+      "title": "Cheap stereo line out I2S DAC for CircuitPython / Arduino synths",
+      "description": "I am a big fan of these PCM5102A I2S DAC boards (3 for $15! affilliate) for playing around with audio synthesis, for example in this video about new `synthio` CircuitPython library or this repository about Mozzi Arduino synthesis. They have pretty high-quality audio output up to at least 16-bit @ 44.1kHz and separate out all … Continue reading \"Cheap stereo line out I2S DAC for CircuitPython / Ard"
+    }
+  ]
+}

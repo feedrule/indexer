@@ -1,0 +1,20 @@
+{
+  "url": "http://blog.unicode.org/feeds/posts/default",
+  "posts": [
+    {
+      "link": "http://blog.unicode.org/2026/11/were-all-in-this-together-reflections.html",
+      "title": "We're All in This Together: Reflections on UTW 2026",
+      "description": "By Kyra Ann Dawkins, Script Encoding Initiative (SEI) It was such a privilege to be a co-host of UTW as part of the Script Encoding Initiative this year. I think there is something undeniably special about seeing months of planning come to fruition, from seeing room maps to actually being in the rooms surrounded by vibrant discussions. Having UTW in Europe this year was exciting and refreshing. La"
+    },
+    {
+      "link": "http://blog.unicode.org/2026/10/unicode-cldr-49-released.html",
+      "title": "Unicode CLDR 49 Released",
+      "description": "Unicode CLDR 49 is now available and has been integrated into version ICU 79 and ICU4X 2.4 . Some of the most significant changes in this release are: Replaced the backronym for CLDR “Common Locale Data Repository (CLDR)” → “Common Locale Data & Rules (CLDR)” Aligned the title of the CLDR specification “UTS #35: Unicode Locale Data Markup Language (LDML)” → “UTS #35: Unicode Common Locale Data & R"
+    },
+    {
+      "link": "http://blog.unicode.org/2026/10/icu-79-released.html",
+      "title": "ICU 79 Released",
+      "description": "Unicode® ICU 79 has just been released. ICU is the premier library for software internationalization , used by a wide array of companies and organizations to support the world's languages, implementing both the latest version of the Unicode Standard and of the Unicode locale data (CLDR). ICU 79 updates to Unicode 18 ( blog ), including new characters and scripts, emoji, collation & IDNA changes, a"
+    }
+  ]
+}

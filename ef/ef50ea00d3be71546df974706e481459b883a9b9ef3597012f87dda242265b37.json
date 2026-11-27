@@ -1,0 +1,20 @@
+{
+  "url": "https://www.tobias-franke.eu/rss/index.xml",
+  "posts": [
+    {
+      "link": "https://www.tobias-franke.eu/publications/tsopouridis26stafoit/index.html",
+      "title": "A Spatio-Temporal Acceleration Framework for Order-Independent Transparency",
+      "description": "Grigoris Tsopouridis, Christos Georgiou-Mousses, Aris Panagiotidis, Andreas A. Vasilakis, Tobias Alexander Franke, Aleksei Gorbonosov, Andrei Astapov, and Ioannis Fudos Proceedings of Pacific Graphics 2026 FLIP perceptual error comparison across ODT, WBOIT, and DFAOIT pipelines using VRS and Stencil acceleration, measured against non-accelerated references. All errors remain below 0.02, with VRS c"
+    },
+    {
+      "link": "https://www.tobias-franke.eu/log/2026/09/15/signed-tob.html",
+      "title": "Signed, Tob",
+      "description": "Back in the day, an ordinary HTTP served webpage would sometimes get ads inserted by the network operator/ISP , because HTTP traffic is unencrypted and therefore the recipient cannot prove or disprove that the ad was not there in the first place. One would open http://www.example.com in a browser, the network operator would fetch the request, but before serving the page it would get slightly modif"
+    },
+    {
+      "link": "https://www.tobias-franke.eu/log/2026/09/06/rss-librarian-version-two.html",
+      "title": "The RSS Librarian - Version Two",
+      "description": "Knowledge is power, store it well. For Science RSS-Librarian has worked quite well and attracted about 150 users to the main instance that regularly add a lot of articles, as well as several custom forks. I have also noticed several instances that have been modified and inserted into custom pages. The main instance is running stable with the default configuration and custom XSLT stylesheets for pr"
+    }
+  ]
+}

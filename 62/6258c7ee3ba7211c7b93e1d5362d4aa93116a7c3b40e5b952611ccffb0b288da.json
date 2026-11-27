@@ -1,0 +1,20 @@
+{
+  "url": "https://medium.com/feed/full-stack-architecture",
+  "posts": [
+    {
+      "link": "https://medium.com/full-stack-architecture/reusable-claude-skills-as-a-living-codebase-7fc3e204e31a?source=rss----7ddf416a7f74---4",
+      "title": "Reusable Claude Skills as a Living Codebase",
+      "description": "Share and continuously improve skills, rules, agents and hooks across every repository you work in by pointing CLAUDE_CONFIG_DIR at a git repository of your Claude components. Photo by Cam Bradford . The Opinionated TLDR Continuously improve and re-use your Claude components (skills, rules, agents, and hooks) across projects. Edit Claude components in the flow of real work, not in a separate autho"
+    },
+    {
+      "link": "https://medium.com/full-stack-architecture/a-probable-future-for-open-source-software-a84526b4c4f6?source=rss----7ddf416a7f74---4",
+      "title": "A Probable Future for Open Source Software",
+      "description": "When every capability has been distilled into its own atomic open source project, building an application is just choosing what to compose. Photo by Iain . AI will drive 100% of open source development. Projects will become atomic: each purpose-built for a single capability (examples being data structures and access patterns, deduplication, slug generation, retry logic, checksum verification, log"
+    },
+    {
+      "link": "https://medium.com/full-stack-architecture/i-will-no-longer-program-without-chatgpt-by-my-side-3f8268b48b68?source=rss----7ddf416a7f74---4",
+      "title": "I Will no Longer Program Without ChatGPT by My Side.",
+      "description": "ChatGPT helps provide code snippets, but right now, it's much better at helping with documentation and explaining business domains. Update: Three Years Later I’ve gone months without actually touching the final source code. I am getting linter perfect code from my interaction with the LLM. LLMs have given me my super power. Update: One Year Later The title of this article should have been “I Will"
+    }
+  ]
+}

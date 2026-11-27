@@ -1,0 +1,20 @@
+{
+  "url": "https://rion.io/rss/",
+  "posts": [
+    {
+      "link": "https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/",
+      "title": "Surviving the Streaming Dungeon with Kafka Queues",
+      "description": "Recently, I’ve been borderline addicted to Matt Dinniman’s Dungeon Crawler Carl series , which I cannot recommend enough. The books drop their characters into massive, chaotic dungeons filled with monsters, traps, loot, and a deeply unhinged AI that seems determined to keep things interesting . If you’"
+    },
+    {
+      "link": "https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/",
+      "title": "Prepare for Launch: Enrichment Strategies for Apache Flink",
+      "description": "Sometimes, when we’re getting ready to launch a new Apache Flink job — or even just roll out a major new feature — we run into a familiar problem: we need meaningful data in state before the job can do what we built it to do. While enrichment"
+    },
+    {
+      "link": "https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/",
+      "title": "Striking a Balance: Working Fully Remote for Nearly a Decade",
+      "description": "Recently, I was chatting with an engineer who was transitioning into a fully remote role for the first time in their career. They were excited, but also had a touch of anxiety about it. For someone who had spent their entire career in the familiar commute → office → commute"
+    }
+  ]
+}

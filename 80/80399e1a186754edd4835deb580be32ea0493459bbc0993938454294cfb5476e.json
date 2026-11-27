@@ -1,0 +1,20 @@
+{
+  "url": "https://mcpherrin.ca/feed.xml",
+  "posts": [
+    {
+      "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "title": "I’ve factored the RSA keys of a Certificate Authority…",
+      "description": "… from the 90s."
+    },
+    {
+      "link": "https://mcpherrin.ca/2025/10/20/ct-uptime.html",
+      "title": "CT: Managing uptime as a CA",
+      "description": "This talk was given at the transparency.dev summit 2025."
+    },
+    {
+      "link": "https://mcpherrin.ca/2025/03/25/srecon.html",
+      "title": "Ten Years as a Free, Open, and Automated Certificate Authority",
+      "description": "This talk was given at SRECon25 Americas."
+    }
+  ]
+}

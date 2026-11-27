@@ -1,0 +1,20 @@
+{
+  "url": "https://davidmytton.blog/feed/",
+  "posts": [
+    {
+      "link": "https://davidmytton.blog/energy-use-of-ai-inference-estimates-and-efficiency-opportunities/",
+      "title": "Energy use of AI inference – estimates and efficiency opportunities",
+      "description": "New estimates put frontier-model inference at 0.31 Wh per query, rising to 3.91 Wh for long reasoning and 0.73 GWh/day at 1B queries, but agentic workloads complicate the picture. The post Energy use of AI inference – estimates and efficiency opportunities appeared first on David Mytton ."
+    },
+    {
+      "link": "https://davidmytton.blog/ai-data-center-energy-in-2026/",
+      "title": "AI data center energy in 2026",
+      "description": "US data center electricity use is around 180 TWh today and credible forecasts point to 400-600 TWh by 2030, but chips, grids, politics, and the changing shape of AI workloads make estimates difficult. The post AI data center energy in 2026 appeared first on David Mytton ."
+    },
+    {
+      "link": "https://davidmytton.blog/the-hard-part-was-never-building/",
+      "title": "The hard part was never building",
+      "description": "The ability to complete no longer hinges solely on how many features you can build. The engineering gap between a two-person startup and a hundred-person org has collapsed. The post The hard part was never building appeared first on David Mytton ."
+    }
+  ]
+}

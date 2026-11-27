@@ -1,0 +1,20 @@
+{
+  "url": "https://jacob.earth/rss",
+  "posts": [
+    {
+      "link": "https://jacob.earth/post/2026/an-unofficial-mcp-server-for-optimizely-data-platform/",
+      "title": "An (unofficial) MCP server for Optimizely Data Platform (ODP)",
+      "description": "I built an unofficial MCP server for Optimizely Data Platform so I can query ODP through Claude"
+    },
+    {
+      "link": "https://jacob.earth/post/2026/a-first-look-at-optimizely-remote-mcp-server-for-experimentation/",
+      "title": "A First Look at Optimizely Remote MCP Server for Experimentation",
+      "description": "Optimizely just released a Remote MCP Server for Experimentation and I tried it out to see what it can do"
+    },
+    {
+      "link": "https://jacob.earth/post/2026/highlights-from-cloudflare-connect-london-2026/",
+      "title": "Highlights from Cloudflare Connect London 2026",
+      "description": "Highlights from Cloudflare Connect 2026. Bots, agents, and lawyers."
+    }
+  ]
+}

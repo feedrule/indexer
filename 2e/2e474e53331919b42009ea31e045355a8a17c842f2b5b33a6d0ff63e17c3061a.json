@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thechases.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.thechases.com/posts/smolweb/",
+      "title": "SmolWeb",
+      "description": "My take on the SmolWeb Recently @Kelson posted a survey asking what makes something \" SmolWeb \" and whether it differs from \"SmallWeb\" (I view them as largely the same) Only low-resource-specced non-corporate websites Also non-web small protocols like Gemini & Gopher Any personal/non-corporate website, but only web Any non-corp website and non-web small protocols What defines the SmolWeb for me? I"
+    },
+    {
+      "link": "https://blog.thechases.com/posts/vi/vim-knowledge-management/",
+      "title": "Vim Knowledge Management",
+      "description": "Another installment of @hyde 's \"Vim Carnival\" , this time asking, \"How do you use Neovim/Vim to build your knowledge management?\" Unstructured Data While boring, I dump all my unstructured \"knowledge\" data in a simple notes.txt file within my \"personal data/text files\" repo stored in git for syncing between machines. This file contains a host of random thoughts and web-clippings. Disambiguations"
+    },
+    {
+      "link": "https://blog.thechases.com/posts/vi/vim-carnival-motion-changed/",
+      "title": "Vim Carnival: Motion",
+      "description": "@hyde over on Mastodon issued a call for \"Vim Carnival\" posts, with this month's topic suggesting the vim motion that changed everything . Buckle up, because you get not one but multiple motions that changed things. The Boring Motion(s) While boring, you get 6 motions for the price of one: f / F / t / T jump forward/backward landing on (or immediately short of) a target character; and , / ; . to r"
+    }
+  ]
+}

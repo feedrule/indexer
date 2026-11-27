@@ -1,0 +1,20 @@
+{
+  "url": "https://pythonfriday.dev/feed_rss_created.xml",
+  "posts": [
+    {
+      "link": "https://pythonfriday.dev/2026/11/358-creating-a-telegram-bot/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication",
+      "title": "#358: Creating a Telegram Bot",
+      "description": "A Telegram bot is a surprisingly practical interface for our scripts: we can trigger jobs from our phone, receive notifications from long-running tasks or query a status without building a web frontend. In this first post of a small series, we register a bot with Telegram, install the python-telegram-bot library and get a minimal bot running."
+    },
+    {
+      "link": "https://pythonfriday.dev/2026/11/357-moving-pythonfriday-to-zensical/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication",
+      "title": "#357: Moving PythonFriday to Zensical",
+      "description": "The people behind Zensical put a lot of effort into a smooth transition for MkDocs users. For Python Friday I only needed a few changes in my mkdocs.yml and one additional package to get it up and running. The rest of the migration I used to fix problems that bothered me in MkDocs for a while. Let us see what steps I had to take."
+    },
+    {
+      "link": "https://pythonfriday.dev/2026/11/356-zensical-as-a-mkdocs-replacement/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication",
+      "title": "#356: Zensical as a MkDocs Replacement",
+      "description": "MkDocs is, or better was, a great static site generator. I used it for various projects since 2021 and moved my blogs to MkDocs with the Material theme in 2024 . Unfortunately, the team behind MkDocs decided to move into a new direction that would mean the end to all the plugins and with that the whole ecosystem that made MkDocs such a great tool. The team behind Material for MkDocs built a succes"
+    }
+  ]
+}

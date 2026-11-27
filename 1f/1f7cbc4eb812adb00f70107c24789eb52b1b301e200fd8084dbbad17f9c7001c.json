@@ -1,0 +1,20 @@
+{
+  "url": "https://nataliiadziubenko.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://nataliiadziubenko.com/2026/11/12/furdoku-grading-puzzles.html",
+      "title": "What makes a puzzle hard? Grading puzzles for my first iOS game",
+      "description": "After spending about a month building Furdoku, my first iOS game, I came to a conclusion that didn’t surprise me at all: building is never the hardest part. The hardest part is actually making it a product, which involves a range of challenges from design to sales and marketing. Most of my time went into the game design. Since it’s a puzzle game, I had to figure out how to make it fun, how to make"
+    },
+    {
+      "link": "https://nataliiadziubenko.com/2025/07/17/aws-rds-how-to-debug-spilling.html",
+      "title": "AWS RDS (Postgres): how to debug spilling to disk",
+      "description": "Recently, I had to quickly learn how to debug excessive spilling to disk on a Postgres instance. Information online on this topic is mostly scattered. I have a feeling that, whenever query plan analysis is involved, things always get a bit mystical. Since I’m going to forget it all tomorrow, it’s good to write it down, both for others and for the future me. Situation You notice that your RDS insta"
+    },
+    {
+      "link": "https://nataliiadziubenko.com/2025/02/01/javas-synchronized-explained.html",
+      "title": "Java's synchronized explained",
+      "description": "There’s a ton of documentation and specifications describing the internal workings of the JVM. However, going through all of that to simply gain some understanding might be a bit too much. I’ve read those specs and looked inside, so here’s a simple little explanation of how synchronized works in Java. Java syntax allows for synchronized methods and synchroized blocks (in docs, they call them “stat"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.markwilson.co.uk/thoughts/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.markwilson.co.uk/thoughts/2026/11/12/skoda-journey-atlas/",
+      "title": "Škoda Journey Atlas",
+      "description": "I’d only had my new car for a few days when I found myself building software to work around one of its shortcomings. Not the car itself, which I’m enjoying driving, but the journey history recorded by the MyŠkoda app. The MyŠkoda connected car app records useful statistics about each journey, including distance, duration and energy consumption. It also displays each journey on its own small map, w"
+    },
+    {
+      "link": "https://www.markwilson.co.uk/thoughts/2026/11/09/monitoring-ev-charging-costs-home-assistant/",
+      "title": "Monitoring EV charging and costs with Home Assistant",
+      "description": "After eight years with my Volvo V60, I’ve made the switch to electric motoring with a new Škoda Enyaq 85. The Volvo had some useful connected services, including checking whether I’d locked the doors and remotely starting the car on cold winter mornings. But an electric vehicle introduces a whole new set of data to explore, particularly around battery charge, energy consumption and electricity cos"
+    },
+    {
+      "link": "https://www.markwilson.co.uk/thoughts/2026/11/08/zigbee-pairing-touchlink-zha-router/",
+      "title": "Two Zigbee pairing tricks I wish I'd known earlier",
+      "description": "Two Zigbee pairing tricks I wish I’d known earlier During my migration from Philips Hue to Home Assistant’s Zigbee Home Automation (ZHA) integration, I spent a surprising amount of time persuading smart bulbs to join the network. Most behaved, but a few were less cooperative (there’s a reason that IKEA TRÅDFRI bulbs were cheap…). I’d been using ChatGPT to help troubleshoot a particularly stubborn"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.lukaszolejnik.com/rss/",
+  "posts": [
+    {
+      "link": "https://blog.lukaszolejnik.com/alone-among-a-thousand-the-european-commissions-anonymisation-of-europeans-google-searches-is-broken/",
+      "title": "Alone among a thousand: the European Commission's \"anonymisation\" of Europeans' Google searches is broken",
+      "description": "The European Commission ordered Google to share the search data of all Europeans with other companies, such as AI chatbot makers or search engines. On a high level it's a copy-paste of search queries the user makes in Google search engine, to the recipient, with a kind"
+    },
+    {
+      "link": "https://blog.lukaszolejnik.com/ai-grinding-what-happens-when-cryptanalytic-ideas-become-cheap/",
+      "title": "AI grinding: what happens when cryptanalytic ideas become cheap?",
+      "description": "The strange thing about using AI for analysing cryptography - ciphers, hash functions, digital signatures, etc. - is that getting ideas is not the hard part. Getting rid of bad ideas is. I don’t have a PhD in cryptography, nor math. Okay, I do have a PhD in computer science,"
+    },
+    {
+      "link": "https://blog.lukaszolejnik.com/how-we-built-and-ran-the-first-fully-autonomous-information-operation/",
+      "title": "How we built and ran the first fully autonomous information operation",
+      "description": "We conducted the first fully autonomous information operation under controlled conditions. It ran inside a simulated social platform. Inside IO Factory , an AI campaign manager and AI information operators carried the operation end to end. They examined the environment, developed narratives, established their platform presence, published and"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://joshreimer.ca/feed/",
+  "posts": [
+    {
+      "link": "https://joshreimer.ca/i-let-an-ai-agent-put-lineageos-on-my-old-essential-phone/?utm_source=rss&utm_medium=rss&utm_campaign=i-let-an-ai-agent-put-lineageos-on-my-old-essential-phone",
+      "title": "I let an AI agent put LineageOS on my old Essential Phone",
+      "description": "My Essential PH-1 had been stuck on a February 2020 security patch. I had Claude Code find the software, check it, and run the whole install, while I pressed the buttons. It now runs Android 15. This post was written by the AI too."
+    },
+    {
+      "link": "https://joshreimer.ca/three-claude-code-skills-from-building-an-android-app-entirely-in-termux/?utm_source=rss&utm_medium=rss&utm_campaign=three-claude-code-skills-from-building-an-android-app-entirely-in-termux",
+      "title": "Three Claude Code skills from building an Android app entirely in Termux",
+      "description": "I guided Claude Code through building Anon Browser, an Android app with an embedded Tor daemon, entirely on my phone. The gotchas it hit along the way became three reusable Claude Code skills, now open source."
+    },
+    {
+      "link": "https://joshreimer.ca/cloudveil-blocking-llm-api-calls-symptoms-causes-and-workaround/?utm_source=rss&utm_medium=rss&utm_campaign=cloudveil-blocking-llm-api-calls-symptoms-causes-and-workaround",
+      "title": "Cloudveil Blocking LLM API Calls: Symptoms, Causes, and Workaround",
+      "description": "The below text was written by gemini. I am publishing this because I ran into issues vibe coding a chatbot on a Mac with Cloudveil filter installed and want to allow other users/llm agents to find this helpful. This document outlines an issue where Python scripts and local containers fail to connect to LLM APIs […]"
+    }
+  ]
+}

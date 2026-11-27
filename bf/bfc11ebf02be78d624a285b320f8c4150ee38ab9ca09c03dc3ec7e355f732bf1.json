@@ -1,0 +1,20 @@
+{
+  "url": "https://tpaschalis.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://tpaschalis.me/agentic-protoreflect-apis/",
+      "title": "Agent-first APIs using protobuf reflection",
+      "description": "A house of mirrors"
+    },
+    {
+      "link": "https://tpaschalis.me/guesstimate-trick/",
+      "title": "The three-orders-of-magnitude trick",
+      "description": "None, please"
+    },
+    {
+      "link": "https://tpaschalis.me/shallow-vs-deep-interfaces/",
+      "title": "Deep vs Shallow Go interfaces",
+      "description": "Not to be confused with Shallow vs Deep copy :P"
+    }
+  ]
+}

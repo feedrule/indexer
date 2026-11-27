@@ -1,0 +1,20 @@
+{
+  "url": "https://zamechek.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://zamechek.com/blog/the-sieve-growing-from-a-seed/",
+      "title": "I Started With 12 Names. An LLM Sieve Found the Rest.",
+      "description": "I seeded a map of indie record-makers with 12 names I trusted, then let an LLM sieve (filter, never author) grow it to 469 verifiable nodes. Live at 2inch.fm."
+    },
+    {
+      "link": "https://zamechek.com/blog/stop-reaching-for-powerpoint/",
+      "title": "Stop Reaching for PowerPoint",
+      "description": "A Claude Code skill that turns a prompt into a self-contained HTML deck — and why that should be your new default."
+    },
+    {
+      "link": "https://zamechek.com/blog/i-built-an-nba-game-predictor-in-27-minutes/",
+      "title": "I Built an NBA Game Predictor in 27 Minutes. The Score Doesn't Matter.",
+      "description": "I Built an NBA Game Predictor in 27 Minutes. The Score Doesn't Matter."
+    }
+  ]
+}

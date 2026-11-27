@@ -1,0 +1,20 @@
+{
+  "url": "https://www.russellmcc.com/rss.xml",
+  "posts": [
+    {
+      "link": "http://www.russellmcc.com/posts/2026-03-17-bilinear-audio.html",
+      "title": "bilinear audio - free audio plug-ins with rust",
+      "description": "bilinear audio - free audio plug-ins with rust Russell McClellan March 17, 2026 Much of my technical hobby time in the last few years has been devoted to writing free audio plug-ins at bilinear audio . These are written in Rust and TypeScript using the conformal framework ."
+    },
+    {
+      "link": "http://www.russellmcc.com/posts/2023-04-03-aido-el.html",
+      "title": "aido.el - give chatgpt control of your emacs",
+      "description": "aido.el - give chatgpt control of your emacs Russell McClellan April 3, 2023 Have you ever forgotten an emacs command and wish you could just describe it with words? aido.el is an brand new, irresponsible emacs package to let you do just that! For example, you can M-x aido and then type \"insert today's date\" and then today's date will (usually) be inserted! Check out the readme for more usage tips"
+    },
+    {
+      "link": "http://www.russellmcc.com/posts/2019-06-30-Brinicle.html",
+      "title": "brinicle: a polyglot audio plug-in framework",
+      "description": "brinicle: a polyglot audio plug-in framework Russell McClellan June 30, 2019 Today I released brinicle , a toy framework for building audio effects using rust and react-native . I've long been interested in better ways of writing audio software than the traditional method, which involves using C++ for both signal processing and user interface code. Since audio software usually has to work in real-"
+    }
+  ]
+}

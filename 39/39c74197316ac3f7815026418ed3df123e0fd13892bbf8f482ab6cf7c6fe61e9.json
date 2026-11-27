@@ -1,0 +1,20 @@
+{
+  "url": "https://johnnys.news/atom.xml",
+  "posts": [
+    {
+      "link": "https://johnnys.news/2026/10/Jevfree-repurposing-an-embedding-model-for-decisions/",
+      "title": "Jevfree - repurposing EmbeddingGemma 2 for Jev-like decisions",
+      "description": "<p>This week EmbeddingGemma 2 - an open, lightweight and multimodal embedding model from Google was released. Nice, but embedding models are not something that gets me super excited on its own - for now i thought about these models as basic building blocks for search and retrieval, that’s what i use them for - for example in my local harness <a href=\"https://johnnysnews.com/2026/08/Floaty/\" target"
+    },
+    {
+      "link": "https://johnnys.news/2026/08/Floaty/",
+      "title": "Floaty - MY personal floating ai sidekick",
+      "description": "<h1 id=\"update-26.08.2026\">Update 26.08.2026<a title=\"#update-26.08.2026\" href=\"#update-26.08.2026\"></a></h1> <p>As I’m tinkering more and more with Linux lately, I wanted to get Floaty running there as well. I ditched .NET MAUI therefore and started to migrate Floaty to Avalonia. This means that native controls are no longer used and the UI is now fully rendered via Skia. I can live with that, as"
+    },
+    {
+      "link": "https://johnnys.news/2026/07/TheDailyFront-Hacker-News-as-a-daily-digital-news-magazine/",
+      "title": "TheDailyFront - Hacker News as a daily digital magazine",
+      "description": "<p>I love reading Hacker News, usually it’s one of the first things I do in the morning when I start browsing on my phone. The curation of the items is really good and I like to follow the discussions to see what others think about the topics and how users are challenging the posted content. For me the curation of the posts is very valuable - I often see myself browsing the “past” pages to find th"
+    }
+  ]
+}

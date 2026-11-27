@@ -1,0 +1,20 @@
+{
+  "url": "https://krijnhoetmer.nl/log.atom",
+  "posts": [
+    {
+      "link": "https://krijnhoetmer.nl/log/2026/10/friday-thoughts",
+      "title": "Friday thoughts",
+      "description": "(6 minute read) Three months since my last post , six months since my knee surgery and making plans . Now I'm mostly back to my old routine of not writing about the things I do. At FDND I'm working one day a week, so I'm open to new projects and clients, but I haven't been too vocal about that. I'm not sure I want to work in the ratrace anymore, constantly fighting off AI boosters. So what have I"
+    },
+    {
+      "link": "https://krijnhoetmer.nl/log/2026/07/playing-with-text-fit",
+      "title": "Playing with text-fit",
+      "description": "(3 minute read) Chromium 150 shipped support for the text-fit property about two weeks ago . There's not a lot of information in the “New in Chrome 150” post , and I can't find anything about it on MDN yet, so let's figure out what we can do with this, by using the Editor's Draft . First, the most basic example: <style> h1 { text-fit: grow; } </style> <h1>This might be very nice!</h1> text-fit: gr"
+    },
+    {
+      "link": "https://krijnhoetmer.nl/log/2026/07/pseudo-buttons",
+      "title": "Pseudo buttons",
+      "description": "(4 minute read) This week I came across an interesting little detail when using :active pseudo classes on <button> elements. I can't remember if I already knew this or read about this at some point, but it led me down another tiny rabbit hole. Let's say you want to make a simple button, with an active state, which makes it look like it's pressed: <button>A simple button</button> <style> button:act"
+    }
+  ]
+}

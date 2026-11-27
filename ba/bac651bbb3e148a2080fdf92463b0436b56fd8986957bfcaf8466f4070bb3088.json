@@ -1,0 +1,20 @@
+{
+  "url": "https://www.alexejgossmann.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.alexejgossmann.com/skill-maintenance-improvement-neglect/",
+      "title": "Notes on purposeful skill maintenance/improvement/neglect",
+      "description": "Over the course of my life I’ve invested a lot of time and effort into the acquisition of different skills, abilities, competencies, specialized knowledge – for simplicity I will refer to all of it as “skills” in the following. Some of those skills, I would say, have even become an integral part of my identity, which isn’t unusual for a human, I guess. At my current age (sadly I’m not 17 anymore)"
+    },
+    {
+      "link": "https://www.alexejgossmann.com/diy-ergo-kbd/",
+      "title": "The deep rabbit hole of DIY small ergonomic keyboards",
+      "description": "The following poem, created using Google Gemini AI :robot:, chronicles my journey into the world of ergonomic DIY keyboards. It documents my (evolving) preferences and opinions, as well as a curated list of resources that I have found useful over the last three years. :keyboard: Warning :keyboard: The following verses are likely entirely incomprehensible for normal people, and could be interpreted"
+    },
+    {
+      "link": "https://www.alexejgossmann.com/LLMs-for-spaced-repetition/",
+      "title": "Comparing GPT-4, 3.5, and some offline local LLMs at the task of generating flashcards for spaced repetition (e.g., Anki)",
+      "description": "tldr: I used GPT-4 Turbo, GPT-3.5 Turbo, and two open-source offline LLMs to create flashcards for a spaced repetition system (Anki) on a mathematical topic; I rated the 100 LLM-suggested flashcards (i.e., question-answer pairs) along the dimensions of truthfulness, self-containment, atomicity, whether the question-answer makes sense as a flashcard, and whether I would include a similar flashcard"
+    }
+  ]
+}

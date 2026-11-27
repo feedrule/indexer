@@ -1,0 +1,20 @@
+{
+  "url": "https://phoboslab.org/log/feed",
+  "posts": [
+    {
+      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "title": "Why this Obscure Audio Codec is a Perfect Fit for the N64",
+      "description": "Sorry for the clickbait title. I promise this post delivers: 44100 Hz stereo with near-Opus bitrates using about 4% of the N64’s CPU time. But first, some history: The options for playing and storing audio data on the N64 were dire. The PlayStation could just stream uncompressed redbook audio straight from the CD. On the N64, cartridge space was at a premium and time on the 93 MHz CPU was limited."
+    },
+    {
+      "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "description": "Two years ago, I was Porting my JavaScript Game Engine to C for No Reason . I have since found a reason: making a new N64 game! The result is Xibalba 64 – a Wolfenstein 3D-like FPS. Modretro agreed to publish the game as a physical launch title for their M64 (a modern N64 clone), complete with cartridge, packaging and manual! Xibalba 64 on Modretro.com This, to my knowledge, is only the second phy"
+    },
+    {
+      "link": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "title": "Additive Blending on the Nintendo 64",
+      "description": "Did you ever wonder why explosions and other effects looked so much cooler on the original PlayStation than they did on the Nintendo 64? “Silent Bomber“ for the PSX “Star Fox 64“ for the N64 The reason is additive blending! Or rather, in the N64 case, the lack thereof. While the N64 actually did support additive blending, it was practically unusable. PSX The PSX supports 4 different blend modes (i"
+    }
+  ]
+}

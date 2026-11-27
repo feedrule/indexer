@@ -1,0 +1,20 @@
+{
+  "url": "https://preset-env.cssdb.org/feed",
+  "posts": [
+    {
+      "link": "https://preset-env.cssdb.org/blog/postcss-mixins-and-custom-functions/",
+      "title": "PostCSS Mixins And PostCSS Custom Functions",
+      "description": "We are happy to announce the release of @csstools/postcss-mixins and @csstools/postcss-custom-functions . If you are using postcss-preset-env you will already have this plugin when using the latest version. Otherwise now is a great time to upgrade 🎉 @function Custom functions work at the value level and allow you to abstract complex bits of logic into a shared function. For example, in a columns s"
+    },
+    {
+      "link": "https://preset-env.cssdb.org/blog/relative-color-syntax-channel-values/",
+      "title": "Relative Color Syntax : Channel Values",
+      "description": "With relative color syntax it can become confusing what the exact values are at each step and how they can be used in math expressions. This little tool aims to show the channel values at each step of the process. Channel values for: oklch(from red calc(l / 2) 0.268 h) l 0,1 c 0,0.4 h 0,360 alpha Origin color 0.628 0.258 29.234 1.000 Expressions calc(l / 2) 0.268 h 1.000 Output color 0.314 0.268 2"
+    },
+    {
+      "link": "https://preset-env.cssdb.org/blog/postcss-bundler/",
+      "title": "PostCSS Bundler",
+      "description": "PostCSS Bundler is a standards compliant reference CSS bundler. It is built around @import statements, similarly to how esbuild , postcss-import or lightningcss bundle CSS. @import url ( 'variables.css' ) ; @import url ( 'typography.css' ) ; @import url ( 'components/not-a-card.css' ) ; Why this matters now Previously bundling CSS based on @import was relatively simple. There were always a few fea"
+    }
+  ]
+}

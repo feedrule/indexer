@@ -1,0 +1,20 @@
+{
+  "url": "https://www.trevorlasn.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.trevorlasn.com/blog/what-a-local-llm-can-do-llama-cpp-1-0",
+      "title": "What a Local LLM Can Do in 2026: Gemma 4 on llama.cpp 1.0",
+      "description": "I ran three sizes of Google's Gemma 4 on my MacBook with llama.cpp 1.0 and scored 138 checks: tool calls, JSON, code, SQL, screenshots."
+    },
+    {
+      "link": "https://www.trevorlasn.com/blog/deepseek-harness-keeps-uploading-your-sessions-after-you-turn-telemetry-off",
+      "title": "DeepSeek Harness Keeps Uploading Your Sessions After You Turn Telemetry Off",
+      "description": "DeepSeek Harness sends your session log, plugin list and device id to DeepSeek by default. The documented opt-out stops one of four uploads."
+    },
+    {
+      "link": "https://www.trevorlasn.com/blog/anthropic-has-no-moat",
+      "title": "Anthropic Has No Moat: The Bear Case Before the IPO",
+      "description": "Anthropic's IPO values it near $1.4 trillion. What a moat is, why the Claude models don't have one, whether a rival can crush it, and why I wouldn't short it."
+    }
+  ]
+}

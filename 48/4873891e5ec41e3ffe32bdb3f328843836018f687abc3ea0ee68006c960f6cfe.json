@@ -1,0 +1,20 @@
+{
+  "url": "https://kknowl.es/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Untangling Microsoft Graph's $batch requests in Burp",
+      "description": "tl;dr: Requests to Microsoft Graph’s $batch endpoint bundle several API calls into one JSON object. This makes analyzing Azure Portal traffic difficult, since underlying API calls for requests to the $batch endpoint are not individually logged. This post shares the graph_batch_parser.py Burp Suite extension as a way to speed up analysis of $batch requests. The extension processes $batch re..."
+    },
+    {
+      "link": null,
+      "title": "Dude, where's my CopilotInteraction?",
+      "description": "tl;dr: This post documents requirements for logging the CopilotInteraction event, as well as some caveats of when it isn’t logged. This event is key for Copilot audit trails. An App Insights alternative for logging interactions in Copilot Studio is also provided. Background In August 2025, I started looking into Copilot Studio. This led to some really interesting discoveries, like using Copil..."
+    },
+    {
+      "link": null,
+      "title": "Persisting Unseen: Defending against Entra ID persistence",
+      "description": "I recently presented “Persisting Unseen: Attacker Methods of Infesting Entra ID” at RSAC’s virtual Cloud Security seminar. This session introduced some methods attackers may use now or in the near future to maintain access to Entra ID (formerly Azure AD) once they’ve obtained a privileged foothold. This post serves two purposes: A follow-up to my session that you can easily share with your ..."
+    }
+  ]
+}

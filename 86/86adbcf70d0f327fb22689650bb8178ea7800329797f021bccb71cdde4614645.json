@@ -1,0 +1,20 @@
+{
+  "url": "https://grishy.dev/en/posts/rss.xml",
+  "posts": [
+    {
+      "link": "https://grishy.dev/en/posts/review-2025/",
+      "title": "2025 Year in Review",
+      "description": "Projects, trips, devices, notes, and the things I want to keep going after 2025."
+    },
+    {
+      "link": "https://grishy.dev/en/posts/macos-setup-2025/",
+      "title": "My macOS Setup in 2025",
+      "description": "My 2025 Mac setup: a new MacBook Air M4, Ghostty, Browserino for browser profiles, and a simple shell script instead of a heavier Nix or Ansible setup."
+    },
+    {
+      "link": "https://grishy.dev/en/posts/review-2024/",
+      "title": "2024 Year in Review",
+      "description": "My notes from 2024: a new M3 Max, self-hosted Anytype, time in Spain, better English, and a few plans that changed once real life got involved."
+    }
+  ]
+}

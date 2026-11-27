@@ -1,0 +1,10 @@
+{
+  "url": "https://journal.rafaelcosta.me/rss/",
+  "posts": [
+    {
+      "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "title": "My thousand dollar iPhone can't do math",
+      "description": "TL;DR: My iPhone 16 Pro Max produces garbage output when running MLX LLMs. An iPhone 15 Pro runs the same code perfectly. A MacBook Pro also runs the same code perfectly. The tensor outputs on the 16 show numerical values an order of magnitude wrong. I suspect it points"
+    }
+  ]
+}

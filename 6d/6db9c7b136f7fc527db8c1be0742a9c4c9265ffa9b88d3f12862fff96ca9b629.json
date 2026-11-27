@@ -1,0 +1,20 @@
+{
+  "url": "https://simonpcouch.com/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://simonpcouch.com/blog/2026-10-05-software/",
+      "title": "Software is so cool",
+      "description": "I recently visited my alma mater. I was walking into the sports center to see the new gym when a professor was walking out. “Simon!”, he said, “We were just using that R package that you wrote us in my class last week.”"
+    },
+    {
+      "link": "https://simonpcouch.com/blog/2026-09-03-fine-tune/",
+      "title": "You probably don’t want to fine-tune",
+      "description": "I’ve seen a line of reasoning quite a bit recently online and in calls with users that goes something like this:"
+    },
+    {
+      "link": "https://simonpcouch.com/blog/2026-09-02-local-agents-3/",
+      "title": "8B LLMs can almost do basic agentic coding",
+      "description": "At the end of last year , I authored an LLM evaluation that measured a model’s ability to do a simple agentic coding task. The model is placed inside of a typical coding agent harness and asked to carry out a basic refactor that requires the model to make a few tool calls to navigate a repository and make the change."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://observer.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://observer.bearblog.dev/what-i-learned-after-losing-code-to-ai-twice/",
+      "title": "What I Learned After Losing Code to AI (Twice)",
+      "description": "The first time Cursor nuked my code, I blamed myself. I should've committed more, read the diff closer, been clearer in my prompt. The second time I realized my workflow was broken. What Happened the First Time I'd been refactoring for about three hours. Cursor was being genuinely helpful, cleaning up old patterns, modernizing some syntax, breaking apart this massive god-object I'd been meaning to"
+    },
+    {
+      "link": "https://observer.bearblog.dev/the-best-way-to-use-teenage-engineering-manuals/",
+      "title": "The Best Way to Use Teenage Engineering Manuals",
+      "description": "The Best Way to Use Teenage Engineering Manuals If you own a Teenage Engineering device, you've probably tried to use the official PDF manual. The EP-133 manual is 144 pages. The OP-1 manual is 100+ pages. The OP-XY manual is even longer. These are dense technical documents that assume you'll read them cover-to-cover, but in reality you just need quick answers to specific questions. There's a bett"
+    },
+    {
+      "link": "https://observer.bearblog.dev/ai-manual-for-teenage-engineering-devices/",
+      "title": "I made an AI manual for Teenage Engineering devices",
+      "description": "I've been a fan of Teenage Engineering for years now. If you don't know them, they're a Swedish company that makes synthesizers, samplers, and audio gear with this very distinct industrial design. I'm not really a musician, but I've always appreciated their products from a design perspective. A few months ago I decided to finally try getting into music production and picked up an EP-1320, which is"
+    }
+  ]
+}

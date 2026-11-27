@@ -1,0 +1,20 @@
+{
+  "url": "https://jasonbrownlee.me/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://jasonbrownlee.me/blog/posts/evolab/",
+      "title": "EvoLab",
+      "description": "I spent a few hours yesterday developing an evolutionary computation simulator. It’s called EvoLab: EvoLab : Browser-based neuroevolution sandbox Here’s the code project: EvoLab on GitHub It’s your classic “evolve a creature for an environment” thing. Here’s a screenshot: Back in the day I tried to develop something like this for iphone and it took weeks just to get the physics and creature workin"
+    },
+    {
+      "link": "https://jasonbrownlee.me/blog/posts/quake-engine-black-book/",
+      "title": "Quake Engine Black Book",
+      "description": "It looks like Fabien Sanglard is writing a Quake Engine Black Book . This will sit along side is excellent Doom and Wolf3d engine black books: Game Engine Black Book Wolfenstein 3D Game Engine Black Book: DOOM See the series here , which includes free PDF downloads. I read his “The Book of CP-System” book, but it was not as nostalgic as the other two. He has not come out and declared the Quake boo"
+    },
+    {
+      "link": "https://jasonbrownlee.me/blog/posts/quake-rally-archive/",
+      "title": "Quake Rally Archive",
+      "description": "I’ve developed some new Quake archive projects. The first is a Quake Rally archive: Quake Rally Archive This includes all releases of Quake Rally, all third-party maps, and even precursor mods and extension mods. One of the precursor mods was “Quake Kart” by Quake Command, an early quake mod group that later went on to work for Valve and work on Half-Life. Very little of Quake Kart surrives and I"
+    }
+  ]
+}

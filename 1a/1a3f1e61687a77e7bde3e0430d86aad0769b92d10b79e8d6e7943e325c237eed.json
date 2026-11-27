@@ -1,0 +1,20 @@
+{
+  "url": "https://tirania.org/blog/miguel.rss2",
+  "posts": [
+    {
+      "link": "https://tirania.org/blog/archive/2026/Nov-20.html",
+      "title": "What Maintaining SwiftTerm Taught Me About AI Contributions",
+      "description": "If you maintain an open-source project right now, your pull request queue probably looks very different than it did two years ago. I maintain SwiftTerm , an open-source terminal emulator library that is now seven years old. Today, I estimate that about 80% of the pull requests I receive involve AI in some capacity. Looking back, though, this didn't happen all at once—it came in distinct waves. Dis"
+    },
+    {
+      "link": "https://tirania.org/blog/archive/2024/Jun-11.html",
+      "title": "SwiftNavigation",
+      "description": "To celebrate that RealityKit's is coming to MacOS, iOS and iPadOS and is no longer limited to VisionOS, I am releasing SwiftNavigation for RealityKit. Last year, as I was building a game for VisionPro, I wanted the 3D characters I placed in the world to navigate the world, go from one point to another, avoid obstacles and have those 3D characters avoid each other. Almost every game engine in the w"
+    },
+    {
+      "link": "https://tirania.org/blog/archive/2024/Apr-23.html",
+      "title": "Embeddable Game Engine",
+      "description": "Many years ago, when working at Xamarin, where we were building cross-platform libraries for mobile developers, we wanted to offer both 2D and 3D gaming capabilities for our users in the form of adding 2D or 3D content to their mobile applications. For 2D, we contributed and developed assorted Cocos2D-inspired libraries. For 3D, the situation was more complex. We funded a few over the years, and w"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.gandalfk7.it/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.gandalfk7.it/posts/20261122_01_tailcat/",
+      "title": "tailcat",
+      "description": "goal # connecting 2 machines without exposing ports, the aim is to allow a proxmox host to backup to a proxmox backup server using tailcat tailcat is a tool that leverages tailscale network without crating a tailnet or additional steps in this guide we'll set it up with persistence se at the restart of the service the keys remain the same prerequisites # two linux machines, in my case two debian 1"
+    },
+    {
+      "link": "https://blog.gandalfk7.it/posts/20260910_02_debian13upgradeWithNvidia/",
+      "title": "upgrade from deb12 to deb13 breaks my machines",
+      "description": "IPv6 # after the update from debian 12 to 13 I've encountered a strange issue on multiple machines after the full-upgrade reboot the system hanged in boot sequence throwing: job networking.service/start running (1m46s / no limit) Commenting iface eno1 inet6 auto in /etc/network/interfaces fixes boot because Proxmoxs ifupdown2 mistakenly combines it with the IPv4 DHCP stanza, starts an unnecessary"
+    },
+    {
+      "link": "https://blog.gandalfk7.it/posts/20260910_01_kindle5.19.6jailbreak/",
+      "title": "Kindle 5.19.4+ jailbreak and apps",
+      "description": "\"Neither PEKI nor KUAL should be used on modern devices (especially 5.19.4+, where it will not work at all)\" source: https://github.com/KindleTweaks/PEKI with update 5.19.4 Amazon removed the underlying Java stack and APIs that legacy tools like KUAL (Kindle Unified Application Launcher) relied on, so applications like KUAL won't work anymore. I need KUAL to launch my extensions like kterm, right"
+    }
+  ]
+}

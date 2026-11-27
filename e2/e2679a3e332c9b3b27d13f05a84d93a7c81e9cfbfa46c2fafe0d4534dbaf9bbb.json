@@ -1,0 +1,20 @@
+{
+  "url": "https://paul.tinypost.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://paul.tinypost.blog/aggregating-the-aggregators",
+      "title": "Aggregating the aggregators",
+      "description": "I've updated my feedland page with aggregator feeds. A good way to use these is to put them all in one folder in your reader and filter for keywords based on your interests. The feeds are: Most Covered on Scour This Week Popular Posts on Scour Today Open Web · discover Bubbles Bear Blog Trending Posts Bear Blog Most Recent Posts kottke.org Hacker News Lobsters FeedLand likes for all users Pinboard"
+    },
+    {
+      "link": "https://paul.tinypost.blog/using-freshrss-without-self-hosting",
+      "title": "Using FreshRSS without self hosting",
+      "description": "If you want to use open source software you’ve probably found that a lot of it is self hosted. Self hosting can be technically daunting and time consuming. Thankfully, there are two ways to use the open source RSS reader FreshRSS without self-hosting it. 1. Public instance Italian IT company Prodottoinrete host a public instance. It’s free and, although Prodottoinrete put some limits on usage to m"
+    },
+    {
+      "link": "https://paul.tinypost.blog/getting-started-with-tinypost",
+      "title": "Getting started with tinypost",
+      "description": "Found via https://simonbc.com/tinypost-now-has-comments"
+    }
+  ]
+}

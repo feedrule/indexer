@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.bitsofnetworks.org/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.bitsofnetworks.org/patching-openssh-debian/",
+      "title": "Patching OpenSSH in Debian",
+      "description": "This article was written entirely without the help of any generative AI tool. I needed to test an OpenSSH patch. I thought that rebuilding the Debian package would be easy, but it wasn't. My case for rebuilding the OpenSSH Debian package My main use-case when building or rebuild packages is to use patched or backported versions locally or for internal server use, not to push them in the Debian arc"
+    },
+    {
+      "link": "https://blog.bitsofnetworks.org/riscv-upstream-bpi-f3-part2-debian/",
+      "title": "BananaPi BPI-F3: bootstraping upstream Debian",
+      "description": "This post is part of the Upstream RISC-V serie: The upstream RISC-V experience: running RISC-V hardware with upstream distros VisionFive 2 Benchmarking RISC-V: VisionFive 2 vs the world VisionFive 2: the hardware BananaPi BPI-F3 BananaPi BPI-F3: hardware and software overview BananaPi BPI-F3: bootstraping upstream Debian Debian bootstrap method Since July 2023, riscv64 is an official Debian archit"
+    },
+    {
+      "link": "https://blog.bitsofnetworks.org/riscv-upstream-bpi-f3-part1-hardware/",
+      "title": "BananaPi BPI-F3: hardware and software overview",
+      "description": "This post is part of the Upstream RISC-V serie: The upstream RISC-V experience: running RISC-V hardware with upstream distros VisionFive 2 Benchmarking RISC-V: VisionFive 2 vs the world VisionFive 2: the hardware BananaPi BPI-F3 BananaPi BPI-F3: hardware and software overview BananaPi BPI-F3: bootstraping upstream Debian The BananaPi BPI-F3 hardware I recently received several BananaPi BPI-F3 boar"
+    }
+  ]
+}

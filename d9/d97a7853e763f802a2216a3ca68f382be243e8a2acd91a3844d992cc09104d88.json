@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dotnetsurfers.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://latish.dev/blog/2026/05/27/measuring-performance-in-frontend-using-fps/",
+      "title": "Measuring Performance in FrontEnd using FPS",
+      "description": "How to measure frontend performance with a tiny, dependency-free FPS meter, with live React and Angular demos you can jank on demand."
+    },
+    {
+      "link": "https://latish.dev/blog/2020/10/11/3-approaches-for-implementing-nested-forms-in-angular/",
+      "title": "3 Approaches for Implementing Nested Forms in Angular",
+      "description": null
+    },
+    {
+      "link": "https://latish.dev/blog/2019/01/21/creating-container-and-presentational-components-in-angular/",
+      "title": "Creating Container and Presentational Components in Angular",
+      "description": null
+    }
+  ]
+}

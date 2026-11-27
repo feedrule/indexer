@@ -1,0 +1,20 @@
+{
+  "url": "https://nexy.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://nexy.blog/2026/11/13/which-bio/",
+      "title": "Which bio?",
+      "description": "Which bio? Occasionally, I'll get a ping on Matrix from someone asking for the source on my bio (or some other comment on it). The issue is, each time I have to ask them, \"which bio did you see?\". This often confuses people - what do you mean \"which one\"? Well, about that... I have over 25, and growing. And in this post, I'm going to explain how! Because it was kinda fun."
+    },
+    {
+      "link": "https://nexy.blog/2026/09/19/nexy-digest-edition-1/",
+      "title": "Nexy digest, edition 1",
+      "description": "Nexy digest, edition 1 *taps mic* this thing still on? My blog has been collecting dust for, as per usual, quite some time . As I say all the time, I usually have small things I want to write about, but rarely enough to justify writing a whole blog post. Well, today I'm going to try something new: a \"monthly\" breakdown of everything that happened since my last digest, including things I've done, t"
+    },
+    {
+      "link": "https://nexy.blog/2026/01/28/cf-matrix-workers/",
+      "title": "No, Cloudflare's Matrix server isn't an earnest project",
+      "description": "No, Cloudflare's Matrix server isn't an earnest project Yesterday, 2026-01-27, Cloudflare published a blog post announcing that they had built a Matrix homeserver that could run entirely on Cloudflare workers. This sounds amazing! Finally, serverless edge-computing for my chat protocol. In theory this brings great benefits, given Cloudflare's dominant global presence. It could even improve access,"
+    }
+  ]
+}

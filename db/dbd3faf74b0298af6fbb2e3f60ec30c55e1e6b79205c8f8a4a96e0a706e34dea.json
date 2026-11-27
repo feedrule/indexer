@@ -1,0 +1,20 @@
+{
+  "url": "https://www.arguingwithalgorithms.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.arguingwithalgorithms.com/posts/lay-the-cornerstone-yourself.html",
+      "title": "Lay the cornerstone yourself",
+      "description": "As starting projects becomes easier than ever, it's never been more important to pay careful attention to the foundations and not let the AI make all the decisions for you."
+    },
+    {
+      "link": "https://www.arguingwithalgorithms.com/posts/flow-is-overrated.html",
+      "title": "\"Flow\" in software development is overrated",
+      "description": "Tackling the myth that \"flow\" is critical for software development. Decided not to go with the obvious \"Flow considered harmful\" title. You're welcome."
+    },
+    {
+      "link": "https://www.arguingwithalgorithms.com/posts/technical-design-spec-pattern.html",
+      "title": "How to keep your AI coding agent from going rogue",
+      "description": "Complete agentic LLM coding projects reliably with this proven workflow."
+    }
+  ]
+}

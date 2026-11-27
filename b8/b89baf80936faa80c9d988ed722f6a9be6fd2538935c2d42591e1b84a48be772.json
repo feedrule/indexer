@@ -1,0 +1,20 @@
+{
+  "url": "https://rasmusp.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://rasmusp.com/tils/tailwind-css-utility-feature/",
+      "title": "Tailwind CSS utility feature",
+      "description": "Tired of waiting for Tailwind CSS to support the newest CSS features?"
+    },
+    {
+      "link": "https://rasmusp.com/tils/astro-og-image-generation/",
+      "title": "Generate Open Graph Images in Astro",
+      "description": "Automatically generate dynamic Open Graph Images in Astro using Satori, Sharp, and React"
+    },
+    {
+      "link": "https://rasmusp.com/tils/better-error-pages-in-nuxt-one-for-users-one-for-developers/",
+      "title": "Better Error Pages in Nuxt — One for Users, One for Developers",
+      "description": "When building Nuxt applications, it's common to style the error page for a better user experience. But what if developers need more detailed error information during development or staging?"
+    }
+  ]
+}

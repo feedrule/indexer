@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/Kilianvalkhofcom",
+  "posts": [
+    {
+      "link": "https://kilianvalkhof.com/2026/css-html/state-of-html-results/",
+      "title": "State of HTML results",
+      "description": "The 2026 State of HTML survey results are out, and I’ve been reading through them with much interest. I do that every year, but this year especially because I got asked to write the conclusion! What makes the State of HTML interesting is that it’s more broadly the state of the “platform”. Much of browser […] The post State of HTML results first appeared on Kilian Valkhof ."
+    },
+    {
+      "link": "https://kilianvalkhof.com/2026/css-html/id-like-to-have-a-universal-pseudo-selector-in-css/",
+      "title": "I’d like to have a universal pseudo selector in CSS",
+      "description": "Last week, I wasted about an hour of my time figuring out why a certain element had different dimensions than the same element elsewhere in the DOM. It had the same CSS and the same defined width and height, but it still rendered differently. Yes, it was box-sizing. Of course it was box-sizing. I immediately […] The post I’d like to have a universal pseudo selector in CSS first appeared on Kilian"
+    },
+    {
+      "link": "https://kilianvalkhof.com/2026/css-html/my-take-on-a-link-to-a-random-post-with-only-html-css/",
+      "title": "My take on a link to a random post with only HTML/CSS",
+      "description": "Chris Coyier recently posted about creating a “random post” link on a site that would link to a different URL using only HTML/CSS: A Button That Links to a Random Post in HTML & CSS Only . Here’s my take on that. I saw that article and it reminded me of one of the random() […] The post My take on a link to a random post with only HTML/CSS first appeared on Kilian Valkhof ."
+    }
+  ]
+}

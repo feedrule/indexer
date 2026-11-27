@@ -1,0 +1,20 @@
+{
+  "url": "https://jakubtomsu.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://jakubtomsu.github.io/posts/bit_pools/",
+      "title": "You don't need free lists!",
+      "description": "Pool-like datastructures are incredibly practical, especially when combined with generational handles . They let you have an array of reusable item slots, but crucially all actions such as insertions, removals and lookups are always O(1) , including worst case! (Assuming you preallocate all buffers) The usual way to implement the slot-reuse mechanism is to store some kind of a list of currently un"
+    },
+    {
+      "link": "https://jakubtomsu.github.io/posts/odin_comp_speed/",
+      "title": "Odin compilation speed tips",
+      "description": "Compilation speed is really important . If you hit build and it takes so long it pulls you out of the flow and you start scrolling twitter, that’s a problem. So what can we do to compile Odin programs faster? Here I’ll try to explain some ways of troubleshooting Odin compile times and ways to improve them. TL;DR Use faster linkers There is a -show-debug-messages flag to dump things like LOC/s and"
+    },
+    {
+      "link": "https://jakubtomsu.github.io/posts/iter_debug/",
+      "title": "Coroutine-less way to visualize iterations",
+      "description": "Let’s say you’re working on a procgen system, or a similar problem where you combine multiple iterative algorithms to get visual results. It could look something like this: 1 // Imagine this is for a tile-based 2D game or something 2 generate_level :: proc ( some_params : ...) { 3 some_temp_state_1 , some_temp_state_2 : int 4 for i in 0 ..< N { 5 // generate land tiles ... 6 } 7 for iter in 0 ..<"
+    }
+  ]
+}

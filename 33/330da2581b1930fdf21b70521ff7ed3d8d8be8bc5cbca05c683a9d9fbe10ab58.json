@@ -1,0 +1,20 @@
+{
+  "url": "https://kisaragi-hiu.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://kisaragi-hiu.com/projects/taigikeyboard-packaging/",
+      "title": "Linux Packaging for Taigi Keyboard",
+      "description": "More easily installable and upgradable packages for siansiansu's Taigi Keyboard . Ubuntu https://launchpad.net/~kisaragi-hiu/+archive/ubuntu/taigikeyboard sudo add-apt-repository ppa:kisaragi-hiu/taigikeyboard sudo apt update sudo apt install fcitx5-taigikeyboard sudo apt install ibus-taigikeyboard Fedora https://copr.fedorainfracloud.org/coprs/kisaragi-hiu/taigikeyboard/ sudo dnf copr enable kisa"
+    },
+    {
+      "link": "https://kisaragi-hiu.com/generic-let-alist/",
+      "title": "let-alist but for any collection",
+      "description": "let-alist is great: ( let-alist ' (( a . (( b . \"nested-value\" )))) . a.b ) nested-value but it only supports alists. Surely it's not that hard to make a version that uses (map-elt map key) instead of (cdr (assq key alist)) ? What It sure wasn't. After about 10 minutes of hacking: ( require 'let-alist ) ( defun let-map--list-to-sexp ( list var ) \"Turn symbols LIST into recursive calls to `map-elt'"
+    },
+    {
+      "link": "https://kisaragi-hiu.com/blog/2026-08-14-taigi-lianjihu-check/",
+      "title": "Regular expression for checking Taigi words with too many dashes",
+      "description": "This is in a context with Perl-like regexps (Qt regexps in Lokalize, specifically). I sometimes write Taigi with too many dashes (eg. \"kang-khū-lia̍t-hāng-bo̍k\" instead of \"kang-khū-lia̍t hāng-bo̍k\") and wanted to use a regular expression to quickly find instances of this. With English we can just to (\\w+)-(\\w+)-… to find sequences of word characters. \\w doesn't match accented characters though. U"
+    }
+  ]
+}

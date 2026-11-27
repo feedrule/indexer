@@ -1,0 +1,20 @@
+{
+  "url": "https://ngs.io/index.xml",
+  "posts": [
+    {
+      "link": "https://ngs.io/2026/10/03/koikoi-swift/",
+      "title": "A Hanafuda Koi-Koi App for Apple Platforms",
+      "description": "I’ve released Koikoi , an app for playing the hanafuda card game Koi-Koi on iPhone / iPad / Mac / Apple Vision Pro. There are no ads and no in-app purchases, and it plays offline. App Store / Website"
+    },
+    {
+      "link": "https://ngs.io/2026/08/24/slack-bridge-mcp-server/",
+      "title": "An MCP Server That Bridges a Resident Claude Code Session to Slack",
+      "description": "I released slack-bridge-mcp-server , an MCP server that bridges a resident Claude Code session on my Mac to a Slack channel. I send a message from Slack, the local session picks it up, does the work, and replies where I sent it."
+    },
+    {
+      "link": "https://ngs.io/2026/08/14/asc-slack-notifier/",
+      "title": "asc-slack-notifier: App Store Connect Review Status in Slack",
+      "description": "asc-slack-notifier is a server I built that receives App Store Connect webhooks and posts review status and build events to Slack."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://stanislav.blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://stanislav.blog/make-git-worktrees-cheap-for-agents/",
+      "title": "Make git worktrees cheap for agents",
+      "description": "Agents work best in their own worktree. A worktree is only the tracked files, so everything else has to come from a shared cache, through one command."
+    },
+    {
+      "link": "https://stanislav.blog/give-your-agents-a-check-command/",
+      "title": "Give your agents a `check` command",
+      "description": "Speed up AI agents by giving them a single `check` command that runs all validation steps, eliminating wasted time on tool discovery and complex build processes."
+    },
+    {
+      "link": "https://stanislav.blog/optimize-your-developer-environment/",
+      "title": "Optimize your developer environment",
+      "description": "Most AI tokens are wasted fighting dev environment friction, not doing meaningful work. Sharpen your axe."
+    }
+  ]
+}

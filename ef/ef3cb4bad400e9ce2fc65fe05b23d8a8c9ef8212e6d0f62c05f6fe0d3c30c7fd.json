@@ -1,0 +1,20 @@
+{
+  "url": "https://derekmolloy.ie/blog/rss/",
+  "posts": [
+    {
+      "link": "https://derekmolloy.ie/artcraft-mcp-claude-code-xiao-pin-map/",
+      "title": "From Schematic to Pin Map: Driving PdfCraft, PhotoCraft and VectorCraft from Claude Code over MCP",
+      "description": "Three open-source ArtCraft desktop apps expose MCP servers, which lets Claude Code read a schematic PDF, draw a vector pin map from a Zephyr overlay, annotate a board photo and assemble a lab handout. This is a step-by-step guide to the setup and a record of documenting the nRF52840."
+    },
+    {
+      "link": "https://derekmolloy.ie/mece-module-planner-january-2027-entry/",
+      "title": "MECE module planner (Jan 2027 Entry)",
+      "description": "A holding post with an interactive module selection tool for MECE students entering DCU Engineering in January 2027. Please contact Richard Bolger directly if you have any questions about your registration. MECE module planner: January 2027 entry If you start MECE in January 2027, the programme runs over 20 months."
+    },
+    {
+      "link": "https://derekmolloy.ie/mcty-module-planner-jan-2027/",
+      "title": "MCTY module planner (Jan 2027 entry)",
+      "description": "If you start MCTY in January 2027, the programme runs over 20 months. In January you register for your three Semester 2 modules only. You register for the rest of the programme in September 2027: three Semester 1 modules, two Semester 2 modules, EEN1101 and EEN1095."
+    }
+  ]
+}

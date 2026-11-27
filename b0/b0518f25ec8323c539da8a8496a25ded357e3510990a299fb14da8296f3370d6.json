@@ -1,0 +1,20 @@
+{
+  "url": "https://ellie-g.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ellie-g.com/posts/programming-language-picky-eater.html",
+      "title": "Programming Language Picky Eater",
+      "description": "As you might expect from someone who tried her hand designing a programming language , I have a lot of strong opinions about language design. Recently I’ve been thinking about doing some hobby programming, but lately I haven’t found any languages to my taste. Maybe I’m just too picky? Probably my most subjective requirement of a language, but also the one I feel most strongly about: ahead-of-time"
+    },
+    {
+      "link": "https://ellie-g.com/posts/perils-of-isbn.html",
+      "title": "The Perils of ISBN",
+      "description": "Last year I got into using Letterboxd, to complement my goal of watching more (good) movies [1] . It’s got a really clean interface, the social features are useful but unobtrusive, and it makes remembering what I’ve watched and when I watched it easy. So why isn’t there a Letterboxd for books? Funnily enough, Letterboxd still describes itself as “like GoodReads for movies”. But GoodReads itself is"
+    },
+    {
+      "link": "https://ellie-g.com/posts/hot-reloading-rust.html",
+      "title": "Hot Reloading for Rust Gamedev",
+      "description": "An Idea I used to think hot reloading was something only “managed” languages could do, not “compiled” languages. When I change a React component it can update on the page; when I change a line of code in a Rust daemon I have to kill the program and bring it back up. This makes writing games in the “compiled” languages somewhat painful. Games tend to be highly stateful; if a bit of behavior only tr"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://tannerlinsley.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://tannerlinsley.com/posts/ai-open-source-and-the-long-road-to-tanstack-charts",
+      "title": "AI, Open Source, and the Long Road to TanStack Charts",
+      "description": "I went for a run and talked about AI, what I still love about building software, and the years of charting experience that went into TanStack Charts."
+    },
+    {
+      "link": "https://tannerlinsley.com/posts/projecting-react",
+      "title": "Projecting React",
+      "description": "An AI-generated projection of React's public API, shaped around what a TanStack Start app needs. ~9KB client, 2–3× faster on our workloads. Powers this blog today; capable of running tanstack.com end-to-end with no known regressions. An experiment, not a product. Not going into TanStack Start. Released, but not marketed."
+    },
+    {
+      "link": "https://tannerlinsley.com/posts/the-art-of-shipping",
+      "title": "The Art of Shipping: Prioritizing Product Development Amidst a Developer-Centric Landscape",
+      "description": "Exploring the priority of product over process in software engineering and the role of decision-making in the tech landscape."
+    }
+  ]
+}

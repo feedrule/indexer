@@ -1,0 +1,20 @@
+{
+  "url": "https://nikodunk.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://nikodunk.com/2026-07-15-pretty-unix",
+      "title": "Pretty, Performant Unix",
+      "description": "Similar to my decade-late discovery of Ruby on Rails, I recently discovered Elementary OS which is also a piece of often-overlooked technology from the 2007 technology era. This is a slightly edited version of a thank you post on their Reddit."
+    },
+    {
+      "link": "https://nikodunk.com/2026-06-06-swarm-logic",
+      "title": "Swarm logic for batteries",
+      "description": "Swarm logic (or swarm intelligence) in software is a design approach where complex, intelligent behavior emerges from many simple agents following simple local rules — with no central controller coordinating them. Each agent only knows about its immediate environment and neighbors, yet the collective produces sophisticated global behavior. The “intelligence” lives in the system, not any individual"
+    },
+    {
+      "link": "https://nikodunk.com/2025-06-10-DIY-Serverless-(coreOS-+-dokploy)",
+      "title": "Flatcar Container Linux + Dokploy make for a great DIY Heroku",
+      "description": "The hosting landscape ranges from low-cost, high-maintenance to high-cost, low-maintenance solutions. The sequence is roughly as in the image below: full-on VPS => Heroku platform-as-a-service => containers services like Lightsail => serverless functions like on Vercel, Firebase, Cloudflare Workers."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.codedge.de/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.codedge.de/posts/pihole-in-ha-mode/",
+      "title": "Pihole in HA mode",
+      "description": "Pihole is the central point of resolving internal and external domains in my homelab. Running this on only one device is a classical SPOF so I run two separate instances on two physical devices in HA mode. In my homelab I decided to use two spare Raspberry Pis doing all DNS resolving. Even my Fritzbox uses the Pihole devices as custom DNS server. The problem is, that the Fritzbox can only take one"
+    },
+    {
+      "link": "https://www.codedge.de/posts/no-javascript-needed/",
+      "title": "No JavaScript needed",
+      "description": "I have never been a fan of JavaScript. I don’t want it on my personal website. And I found ways to do things I usually would need JS for with static HTML and CSS. After a phishing attack on my friend’s computer I started to look closer at all the code I run without ever reading it. That attack was Node.js, not JavaScript in a browser - but its core trick, fetching code from a remote server and exe"
+    },
+    {
+      "link": "https://www.codedge.de/posts/deploy-static-site-with-curl/",
+      "title": "Deploy your static site with curl",
+      "description": "Long time I somehow struggled what would be the best way to deploy my static site. Hosting provider offer either FTP or a REST API to push your files onto. Depending on 3rd-party tools was not really an option. I use Bunny.net for hosting my page. They offer either FTP or a REST API. For whatever reason I started with FTP and much later settled for their API. I wanted these requirements to be met:"
+    }
+  ]
+}

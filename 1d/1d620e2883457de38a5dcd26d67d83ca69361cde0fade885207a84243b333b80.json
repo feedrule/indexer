@@ -1,0 +1,20 @@
+{
+  "url": "https://anthony.noided.media/feed.xml",
+  "posts": [
+    {
+      "link": "http://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+      "title": "I guess I kinda get why people hate AI",
+      "description": "I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last. This is a unique situation for me in a few ways—I’ve never been to Hawaii before, I think the five minutes it’s taken me to come up with that opening sentence is the somehow the most time I’ve ever spent on a hotel balcony, and this is the first time"
+    },
+    {
+      "link": "http://anthony.noided.media/blog/thoughts/haskell/languages/2021/11/05/writing-about-haskell-is-hard.html",
+      "title": "Writing about Haskell is Hard",
+      "description": "If your first thought upon clicking on a blog post entitled “Writing about Haskell is Hard” was “I bet this guy was writing a very different sort of post, got frustrated, and went back to the drawing board,” congradulations, you’re right! Because when I sat down after work and decided to do some blogging about programming, I originally wanted to write an introduction to my new JSON library, jordan"
+    },
+    {
+      "link": "http://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html",
+      "title": "Error Messages in Haskell, and how to Improve them",
+      "description": "I’ve been writing more and more Haskell lately, as part of a side project involving GraphQL. As part of working with the language, I’ve had to work with its compile errors. The Haskell compiler gives you errors that are extremely informative—if you know the language. If you don’t know the language very well, the compiler errors can occasionally be opaque and unhelpful. I’ve very much enjoyed using"
+    }
+  ]
+}

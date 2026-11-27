@@ -1,0 +1,20 @@
+{
+  "url": "https://roszkowski.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://roszkowski.dev/2026/dart-tui-nocterm/",
+      "title": "Building TUIs with Dart has never been easier",
+      "description": "Nocterm is revolutionizing the way I built tools for myself"
+    },
+    {
+      "link": "https://roszkowski.dev/2026/everybody-builds-the-same/",
+      "title": "Everyone is building the same thing…",
+      "description": "Tooling for AI agents for running mobile apps"
+    },
+    {
+      "link": "https://roszkowski.dev/2026/swiftgen-jnigen/",
+      "title": "jnigen and swiftgen in 2026 - some lessons learned",
+      "description": "jni 1.0 was recently published. It's a good opportunity to share some of my lessons from working with native interop over the last few years."
+    }
+  ]
+}

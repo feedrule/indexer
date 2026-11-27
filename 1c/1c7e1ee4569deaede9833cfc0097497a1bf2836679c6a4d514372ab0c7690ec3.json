@@ -1,0 +1,20 @@
+{
+  "url": "https://microsoftedge.github.io/edgevr/feed.xml",
+  "posts": [
+    {
+      "link": "https://microsoftedge.github.io/edgevr/posts/Lockdown-Mode/",
+      "title": "Reducing the Opportunity for Exploitation with Edge Lockdown Mode",
+      "description": "In a previous blog post, I discussed how artificial intelligence is changing the economics of vulnerability discovery and exploitation. In that post, I shared threat intelligence from Microsoft and its partners showing attackers targeting Edge and Chrome users by weaponising known vulnerabilities disclosed in Chromium’s open-source code. In Edge we are adopting a multi-pronged defensive strate..."
+    },
+    {
+      "link": "https://microsoftedge.github.io/edgevr/posts/From-Bug-Hunting-to-Bug-Prevention-with-Rust-and-Verus/",
+      "title": "From Bug Hunting to Bug Prevention with Rust and Verus",
+      "description": "Rewriting existing software in Rust brings memory safety, and the cleanup that comes with a rewrite often clears out years of accrued clutter. AI is making that conversion faster, and we’ve already shared our framework for building a compatible Rust implementation. This moves the bottleneck to validating the result and trusting its security. That left us with two questions: Assuming adversa..."
+    },
+    {
+      "link": "https://microsoftedge.github.io/edgevr/posts/SleeperWidget-How-Ad-Driven-Installs-Activate-Hidden-Browser-Extension-Behavior/",
+      "title": "SleeperWidget: How Ad-Driven Installs Activate Hidden Browser Extension Behavior",
+      "description": "Browser extension stores review submissions to identify harmful or deceptive behavior before they reach users. Microsoft Edge Extension Security investigated a family of store-hosted extensions that behaved differently depending on how users reached their listings. This design made policy-violating behavior difficult to observe during direct-install review. The extensions appeared to provide t..."
+    }
+  ]
+}

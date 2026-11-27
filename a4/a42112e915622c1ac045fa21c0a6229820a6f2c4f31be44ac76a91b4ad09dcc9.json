@@ -1,0 +1,20 @@
+{
+  "url": "https://www.thomashanning.com/rss/",
+  "posts": [
+    {
+      "link": "https://www.thomashanning.com/run-history-2/",
+      "title": "Run History",
+      "description": "Run History is my own iPhone app for runners. It turns years of running data from Garmin, Coros and Apple Health into clear statistics and fitness trends, and it keeps everything on your device. Download on the App Store · Read the Run History blog Why I built it I"
+    },
+    {
+      "link": "https://www.thomashanning.com/why-building-mobile-apps-is-so-much-harder-than-it-looks/",
+      "title": "Why Building Mobile Apps Is So Much Harder Than It Looks",
+      "description": "Mobile development looks simple from the outside—but it's one of the most demanding areas in software engineering. With limited resources, strict platform rules, and sky-high user expectations, building great mobile apps takes far more than just writing UI code."
+    },
+    {
+      "link": "https://www.thomashanning.com/swift-comparing-enums-with-associated-values/",
+      "title": "Swift: Comparing Enums With Associated Values",
+      "description": "Comparing enums in Swift is very straightforward – as long as they don’t have associated values. In this post, we will discuss what you can do in that case."
+    }
+  ]
+}

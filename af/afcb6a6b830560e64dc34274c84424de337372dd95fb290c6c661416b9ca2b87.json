@@ -1,0 +1,20 @@
+{
+  "url": "https://pro.userland.fr/feed.xml",
+  "posts": [
+    {
+      "link": "https://pro.userland.fr/articles/2026/running-and-deploying-ruby-on-rails-apps-on-alwaysdata/",
+      "title": "Faire tourner et déployer des applications Ruby on Rails sur AlwaysData",
+      "description": "AlwaysData est le meilleur hébergeur avec lequel j'ai travaillé en près de vingt ans, tout en étant le moins cher — ne me demandez pas comment ils réussissent cet exploit ! Voici comment simplifier le déploiement d'applications Ruby avec Capistrano, en gérant automatiquement la version de Ruby et le redémarrage de Puma sur leur infra."
+    },
+    {
+      "link": "https://pro.userland.fr/en/articles/2026/running-and-deploying-ruby-on-rails-apps-on-alwaysdata/",
+      "title": "Running and Deploying Ruby on Rails apps on AlwaysData",
+      "description": "AlwaysData is hands-down the greatest hosting provider I've worked with in almost two decades, while also being the cheapest, don't ask me how they manage that feat! Here's how to simplify Ruby version switching and Puma restarts for Ruby apps deployed with Capistrano."
+    },
+    {
+      "link": "https://pro.userland.fr/articles/2026/the-3-laws-of-robotics-applied-to-oop/",
+      "title": "Les 3 lois de la Robotique appliquées à la Programmation Orientée Objet",
+      "description": "En tant que développeur junior, j'avais parfois du mal à anticiper les conséquences de choix architecturaux, et je privilégiais parfois la simplicité et la lisibilité à ce que j'interprétais comme de la pureté théorique. La vie, bonne pédagogue, m'a donné l'occasion de constater la sagesse des principes SOLID. Les noms des principes forment un acronyme intéressant, mais sont un peu cryptiques pris"
+    }
+  ]
+}

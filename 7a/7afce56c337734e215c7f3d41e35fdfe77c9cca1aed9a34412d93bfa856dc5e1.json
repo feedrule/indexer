@@ -1,0 +1,20 @@
+{
+  "url": "https://tech-couch.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://tech-couch.com/blog/post/survival-guide-for-troubleshooting-degraded-linux-server-performance",
+      "title": "Survival guide for troubleshooting degraded linux server performance",
+      "description": "How to diagnose and resolve server outages or service degradation"
+    },
+    {
+      "link": "https://tech-couch.com/blog/post/git-development-strategies",
+      "title": "Git development strategies",
+      "description": "Git history management for common project lifecycles"
+    },
+    {
+      "link": "https://tech-couch.com/blog/post/running-oci-containers-on-incus",
+      "title": "Running OCI containers on incus",
+      "description": "And how it differs from docker/podman"
+    }
+  ]
+}

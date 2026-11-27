@@ -1,0 +1,20 @@
+{
+  "url": "https://markheath.net/feed/atom",
+  "posts": [
+    {
+      "link": "https://markheath.net/post/2026/10/29/azure-serverless-compute-operations",
+      "title": "Serverless Compute Operations with Azure Functions",
+      "description": "I'm pleased to announce that my latest Pluralsight course, \" Azure Serverless Compute Operations \", is now available. In it I cover how to implement, configure, deploy and monitor Azure Functions applications. Serverless Functions and Workflows in Azure Azure Functions has been around for a while now and regular readers of my blog will know that it is one of my favourite Azure services (I've also"
+    },
+    {
+      "link": "https://markheath.net/post/2026/10/18/simplifying-naudio-3-tfms",
+      "title": "Simplifying NAudio 3 Target Frameworks",
+      "description": "When I originally created NAudio in 2002, it was on the old .NET Framework which was Windows-only. The whole NAudio library was a single package, containing all the capabilities. Over time, I gradually split things out, trying to separate the \"cross-platform\" parts of NAudio, such as the core interfaces, WAV and MIDI file readers and writers, and fully managed DSP (e.g. FFT, WdlResampler ), from t"
+    },
+    {
+      "link": "https://markheath.net/post/2026/8/15/naudio-3-release",
+      "title": "NAudio 3",
+      "description": "I'm really pleased to announce the release of NAudio version 3 , which includes a complete modernization of the entire library, many bug-fixes and performance improvements, and adds several key new features including cross-platform support on Linux and the ability to host VST 3 effects. There's too many changes to discuss them all in detail in this post, but I did want to highlight a few of the mo"
+    }
+  ]
+}

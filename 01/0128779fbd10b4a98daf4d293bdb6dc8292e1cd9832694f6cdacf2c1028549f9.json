@@ -1,0 +1,20 @@
+{
+  "url": "https://secustor.dev/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://secustor.dev/blog/renovate_config_debugger/",
+      "title": "Renovate: It was a packageRule all along",
+      "description": "As a Renovate maintainer, the question I answer most often is not “why is Renovate broken?” but “why did Renovate do that with my config?”. The honest answer is usually “because you configured it that way”, and finding out where is the hard part. Every one of these mysteries ends the same way: you pull off the mask, and it was a packageRule all along. The Renovate Config Debugger is my attempt to"
+    },
+    {
+      "link": "https://secustor.dev/blog/renovate_generic_version_bump/",
+      "title": "Renovate: Could you please bump that version?",
+      "description": "Ever wished that Renovate increased that Chart version number in your Helm chart if the appVersion changes? Or maybe you wanted to bump the version number even though a dependency changed, which is not a direct dependency? Well, it can now!"
+    },
+    {
+      "link": "https://secustor.dev/blog/homelab_grafana_alloy_permissions/",
+      "title": "K8s monitoring v2: Why are there no logs?",
+      "description": "Do you have suddenly no logs in your Grafana Alloy logs after upgrading the “K8s Monitoring helm chart v2” ? 😅 This post will help you to solve the issue."
+    }
+  ]
+}

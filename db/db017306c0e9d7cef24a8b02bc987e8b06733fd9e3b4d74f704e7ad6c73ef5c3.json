@@ -1,0 +1,20 @@
+{
+  "url": "https://richdynamix.com/feed",
+  "posts": [
+    {
+      "link": "https://richdynamix.com/articles/filament-v5-resource-lifecycle-hooks-mutate-form-data",
+      "title": "The Filament Hook You Needed Was Already There: mutateFormDataBeforeCreate and Friends",
+      "description": "Overriding save() on a Filament page is how you break on the next minor release. The hooks that do the same job are already there — here is the order they actually run in."
+    },
+    {
+      "link": "https://richdynamix.com/articles/filament-v5-schemas-tables-actions-outside-panel-complete-guide",
+      "title": "Filament Without the Panel: Using v5 Schemas, Tables and Actions in Your Own Livewire Pages",
+      "description": "You built the admin in Filament and it is excellent. Now customers need their own page, on your layout, outside /admin. You do not have to rebuild the forms by hand, and you do not have to bend a panel into a front end."
+    },
+    {
+      "link": "https://richdynamix.com/articles/laravel-jev-noul-screen-gate-expensive-work",
+      "title": "Ask One Cheap Question First: Screening Work With a Jev Noul in Laravel",
+      "description": "Your pipeline pays full price for the newsletters. One Noul in front of the expensive step, two thresholds and a chained job, and it stops."
+    }
+  ]
+}

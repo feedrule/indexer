@@ -1,0 +1,20 @@
+{
+  "url": "https://aalonso.dev/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://aalonso.dev/blog/2026/enforcing-tdd-on-ai-agents-with-claude-code-hooks/",
+      "title": "Enforcing TDD on AI agents with Claude Code hooks",
+      "description": "Why test-driven development works so well for AI coding agents, and how I use Claude Code hooks to make sure my agents write a failing test before any code."
+    },
+    {
+      "link": "https://aalonso.dev/blog/2026/why-your-ai-agent-shouldnt-review-its-own-code/",
+      "title": "Why your AI agent shouldn't review its own code (and what to do instead)",
+      "description": "What adversarial code reviews with AI agents are, why they catch the bugs that a friendly self-review misses, and when they are worth the extra tokens."
+    },
+    {
+      "link": "https://aalonso.dev/blog/2026/how-to-publish-custom-prometheus-metrics-from-elixir/",
+      "title": "How to publish custom Prometheus metrics from Elixir",
+      "description": "Learn how to expose custom Prometheus metrics from an Elixir app with PromEx, and the two traps that made mine report the wrong numbers in production."
+    }
+  ]
+}

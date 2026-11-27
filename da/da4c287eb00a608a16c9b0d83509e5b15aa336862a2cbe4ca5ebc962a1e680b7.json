@@ -1,0 +1,20 @@
+{
+  "url": "https://www.pearprogramming.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.pearprogramming.blog/open-source/projects/2026/08/19/mind-your-fields-with-errors/",
+      "title": "TIL: Mind Your `field_with_errors` In Rails",
+      "description": "I was happily coding my RSS Feed reader, grabbing screenshots, taking notes when I suddenly found a wild bug: Did you see that text area collapse? Yeah, me too. And I didn’t like it. The thing is, I just couldn’t figure why it was happening. But first, some background. What am I using anyway? In order to understand any bug, the first thing we need to clarify is what we’re doing. In the case of HTM"
+    },
+    {
+      "link": "https://www.pearprogramming.blog/open-source/projects/2026/08/14/building-in-the-open/",
+      "title": "Building In The Open",
+      "description": "It’s been a while since I’ve posted anything and now I’ve decided to pick this up again. One of the things that always stumped me was finding the appropriate content to write about. I had heard of building in the open before and always thought it interesting so I decided to try my hand at that. I have many reservations around doing this, especially because I tend to start things and never finish t"
+    },
+    {
+      "link": "https://www.pearprogramming.blog/programming/opinions/2025/11/11/growing-software/",
+      "title": "Growing Software",
+      "description": "Back when I was young and dumb, I would avidly consume a lot of content related to programming: podcasts, books, you name it. At the time, there were many ideas floating around concerning how we should write code and the ones that really lived in my brain, rent free, were the principles exposed by Uncle Bob in Clean Code and in Clean Architecture. It was just beautiful. Everything nicely aligned a"
+    }
+  ]
+}

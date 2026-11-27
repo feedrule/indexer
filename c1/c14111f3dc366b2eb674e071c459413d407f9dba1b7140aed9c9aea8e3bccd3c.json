@@ -1,0 +1,20 @@
+{
+  "url": "https://mariusbancila.ro/blog/feed/",
+  "posts": [
+    {
+      "link": "https://mariusbancila.ro/blog/2026/11/11/understanding-cpp26-hazard_pointers/",
+      "title": "Understanding C++26 hazard pointers",
+      "description": "The C++26 standard features a new header called <hazard_pointer> and a new class with the same name, which, together with hazard_pointer_obj_base, provides safe memory reclamation for lock-free data structures. In this article, we’ll see how all this works. The memory reclamation problem To understand why hazard_pointer exists, we first need to look at what makes ... Read more The post Understandi"
+    },
+    {
+      "link": "https://mariusbancila.ro/blog/2026/10/24/the-cpp26-inplace_vector-container/",
+      "title": "The C++26 inplace_vector container",
+      "description": "The C++26 standard features a new container called std::inplace_vector, that sits in between the std::array and std::vector containers. It’s a container with a compiled-time fix capacity – like std::array, but a runtime variable size – like std::vector. In this article, we will discuss how it works and when to use it. A tale of two ... Read more The post The C++26 inplace_vector container first ap"
+    },
+    {
+      "link": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "title": "Composite objects and C++26 the std::polymorphic type",
+      "description": "In a previous article, I discussed the C++ std::indirect type and how it helps implementing the PImpl idiom. However, the std::indirect type was inducted in the standard alongside another type called std::polymorphic. This helps implementing composite classes, where composite means a class composed of member objects in an has-a relation, where the composite own the ... Read more The post Composite"
+    }
+  ]
+}

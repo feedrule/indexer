@@ -1,0 +1,20 @@
+{
+  "url": "https://pooladkhay.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://pooladkhay.com/posts/first-kernel-patch/",
+      "title": "my first patch to the linux kernel",
+      "description": "How an undefined behavior in C made me pull my hair out for days but became my first patch to the Linux kernel!"
+    },
+    {
+      "link": "https://pooladkhay.com/posts/virt-theory-silicon/",
+      "title": "virtualization: theory to silicon",
+      "description": "A description of the modern virtualization; starting from Popek and Goldberg and getting all the way to the implementation of the Intel VT-x (VMX) extension."
+    },
+    {
+      "link": "https://pooladkhay.com/posts/programming-is-modeling/",
+      "title": "programming is modeling - an experience report",
+      "description": "A short description of why mental models are important when building systems."
+    }
+  ]
+}

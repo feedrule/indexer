@@ -1,0 +1,20 @@
+{
+  "url": "https://beeb.li/rss.xml",
+  "posts": [
+    {
+      "link": "https://beeb.li/blog/introducing-swpui",
+      "title": "Introducing swpui",
+      "description": "swpui is a TUI (terminal user interface) tool for ergonomic and fast case-aware search and replace. It supports multiple search modes, including regex with capture groups."
+    },
+    {
+      "link": "https://beeb.li/blog/fish-shell-tips-and-tricks",
+      "title": "Fish Shell Tips & Tricks",
+      "description": "A collection of tips and tricks for the fish shell I wish I had known about a long time ago."
+    },
+    {
+      "link": "https://beeb.li/blog/optimizing-text-offset-calculation",
+      "title": "Optimizing Text Offset Calculations",
+      "description": "A tale of optimization for an algorithm that turns byte offsets into line and column numbers, and UTF-16 offsets. The final implementation leverages SIMD and fixes several inefficiencies in the original solution."
+    }
+  ]
+}

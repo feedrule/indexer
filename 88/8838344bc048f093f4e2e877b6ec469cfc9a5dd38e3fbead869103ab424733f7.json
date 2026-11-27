@@ -1,0 +1,20 @@
+{
+  "url": "https://max.gp/atom.xml",
+  "posts": [
+    {
+      "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/",
+      "title": "going full ai engineer, not touching code anymore",
+      "description": "I don’t write code anymore and I am not missing it. Not a function. Not a bug fix. Not a feature. From this blog to complex and ambitious work at enum , things that should never break. And I love it. The part I thought was the fun part I’ve been writing code for almost two decades. I was the kid running Linux and trying to create plugins for my Minecraft community. I remember the happiness I felt"
+    },
+    {
+      "link": "https://max.gp/writing/i-personally-paid-for-our-cncf-and-linux-foundation-memberships-and-id-do-it-again/",
+      "title": "i personally paid for our cncf and linux foundation memberships and i'd do it again",
+      "description": "I run a bootstrapped cloud company. Last year, we joined the Linux Foundation and the Cloud Native Computing Foundation as a Silver Member. I put my own money into enum to make it happen. Because we’re self-funded and I wasn’t going to let cash flow be the reason we don’t invest in the ecosystem we depend on. There is no business case for this Let me be clear: nobody is going to buy our Kubernetes"
+    },
+    {
+      "link": "https://max.gp/writing/kubernetes-is-not-only-about-scalability/",
+      "title": "kubernetes is not only about scalability",
+      "description": "I use Kubernetes whenever possible - even for this blog. The problem with managing servers I’ve been running Linux servers since I was twelve. And it’s always the same story: How do I run updates? What about networking? Backups? Security? Monitoring? And how the fuck do I configure all these services? Endless yak shaving before the code even runs. Even on VMs, I had to tinker with “hardware-level”"
+    }
+  ]
+}

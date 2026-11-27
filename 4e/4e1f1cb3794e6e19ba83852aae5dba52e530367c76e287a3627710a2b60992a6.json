@@ -1,0 +1,20 @@
+{
+  "url": "https://nolancaudill.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://nolancaudill.com/2026/04/30/anthropic/",
+      "title": "Anthropic",
+      "description": "I started at Anthropic a couple of weeks ago. I left PlanetScale last May after nearly 3 years with no plans for “the next thing.” It was by far the longest I’ve taken between anything, and I spent the time largely outside. I started running again and kept it going for over 6 months before the rotating collection of aches and pains stopped me. But it nudged me into cycling, first just to keep my l"
+    },
+    {
+      "link": "https://nolancaudill.com/2026/04/07/claude-cowork-and-home-assistant/",
+      "title": "Claude Cowork and Home Assistant",
+      "description": "I have not dabbled with any of the OpenClaw ecosystem (yet) but I’ve used Claude enough on non-coding local tasks that I wanted to give Claude Cowork a try. Cowork is a native app that lets Claude do more file and local machine manipulation. Specifically, combined with the Chrome extension that lets Claude access and drive a browser session. Recently, I’ve started adding a few more home automation"
+    },
+    {
+      "link": "https://nolancaudill.com/2026/03/26/putting-macbook-into-dfu-mode/",
+      "title": "Putting Macbook into DFU mode",
+      "description": "During the most recent upgrade, my MacBook seemed to freeze on the update so I restarted. Big mistake. After it came back up, I got the scary exclamation mark and text that linked to an Apple support page. The page gave me two options: ‘revive’ my Mac, or restore it. Reviving it meant connecting a USB-C cord between the dead laptop and a working one and then hitting a magic combination of keys on"
+    }
+  ]
+}

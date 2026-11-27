@@ -1,0 +1,20 @@
+{
+  "url": "https://mikegrouchy.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://mikegrouchy.com/blog/the-five-minute-app/",
+      "title": "The five-minute app",
+      "description": "Why building small personal tools is the best way to stay sharp, and why AI makes it a practice anyone can adopt"
+    },
+    {
+      "link": "https://mikegrouchy.com/blog/ai-enabled-software-development-and-jevons-paradox/",
+      "title": "AI Enabled Software Development and Jevons Paradox",
+      "description": "AI reduces the cost of building software. History says that means we'll build more of it, not less."
+    },
+    {
+      "link": "https://mikegrouchy.com/blog/taste-is-the-new-meta/",
+      "title": "Taste is the new Meta",
+      "description": "Everyone says taste is the new differentiator. They're half right."
+    }
+  ]
+}

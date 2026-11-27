@@ -1,0 +1,20 @@
+{
+  "url": "https://thatonegamedev.com/feed/",
+  "posts": [
+    {
+      "link": "https://thatonegamedev.com/cpp/fixed-point-math-in-c/",
+      "title": "Fixed point math in C",
+      "description": "Why did PS1 graphics looked so clunky and how where 3D graphics generally made prior to the graphical APIs. One thing I found out was that these older engines have something called fixed point math."
+    },
+    {
+      "link": "https://thatonegamedev.com/cpp/writing-generic-code-in-c-part-2/",
+      "title": "Writing generic code in C – Part 2",
+      "description": "After some comments on my previous post about writing generic code in C where people argue that this is “poor man’s overloading” I wanted to add a new technique that allows you to write real generic style code in C with the only drawback. You could even combine the technique from this lesson and the […]"
+    },
+    {
+      "link": "https://thatonegamedev.com/cpp/memory-leaks-with-deleaker/",
+      "title": "Fixing memory leaks with Deleaker",
+      "description": "Deleaker is a tool for Windows that helps you fix memory leaks quickly and never worry about hours of hunting memory bugs."
+    }
+  ]
+}

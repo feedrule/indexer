@@ -1,0 +1,20 @@
+{
+  "url": "https://almostintuitive.com/index.xml",
+  "posts": [
+    {
+      "link": "https://almostintuitive.com/docs/technical/building-our-own-streaming-engine/",
+      "title": "Is writing your own streaming engine a bad idea?",
+      "description": "Is writing your own streaming engine a bad idea? We run a real-time data platform. After years of struggle we wrote our own streaming engine, surprise: with LLMs. We actually have two implementations, one in Rust and one in Go, and extensive parity tests between the two. TLDR? Try creating bespoke implementations of databases, query engines, data pipelines from scratch, you may end up being surpri"
+    },
+    {
+      "link": "https://almostintuitive.com/docs/technical/github-actions-if-designed-today/",
+      "title": "What GitHub Actions Would Look Like If Designed Today",
+      "description": "What GitHub Actions Would Look Like If Designed Today As with most of you, our small team’s velocity has increased a lot over the last 6 months. There is a “reimagining git(hub)” zeitgeist going on, and “actions” are a big part of that in terms of time and money spent for every productive team. They’re even more important now, right? I think a world where llms/agents write most of the code (they d"
+    },
+    {
+      "link": "https://almostintuitive.com/docs/quant/volatility-drag/",
+      "title": "Concept: Volatility Drag",
+      "description": "Volatility Drag If you lose 50% of your capital in one year, you’ll need to achieve a 100% return the next year, just to get even. This asymmetry is the cause of the “Volatility drag” - one unit loss will hurt your long-term gains more than one unit gain. This reason why you want to optimize your portfolio to avoid losses on your capital, rather for extraordinary gains. The volatility drag could p"
+    }
+  ]
+}

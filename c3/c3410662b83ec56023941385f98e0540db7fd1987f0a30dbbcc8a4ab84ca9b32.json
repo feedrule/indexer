@@ -1,0 +1,20 @@
+{
+  "url": "https://www.benovermyer.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://benovermyer.com/blog/2026/11/trying-wow-forever/",
+      "title": "Trying World of Warcraft: Forever",
+      "description": "On November 5, my morning started as it usually does. I rolled out of bed, greeted the cats, and started some coffee brewing. Then, I sat down to play World of Warcraft: Forever, Blizzard’s newest iteration on its long-running MMORPG. And play it I did, for approximately twelve hours that day. My character is a Skyborne Beast Master Hunter. Basically, an elf from the elemental plane of air who run"
+    },
+    {
+      "link": "https://benovermyer.com/blog/2026/10/noise-for-terrain/",
+      "title": "Making terrain out of noise",
+      "description": "I’ve been interested in procedurally generating fantasy settings for a long time. Terrain is one part of that problem, and noise is a useful place to start. The name doesn’t tell you much, though. What does noise have to do with making a map? In this context, noise is a function that takes a position and returns a number that appears random. If we use that number as the height of the ground, we ge"
+    },
+    {
+      "link": "https://benovermyer.com/blog/2026/10/transcribing-the-accedence-of-armorie/",
+      "title": "Transcribing the Accedence of Armorie",
+      "description": "The heraldry section now has a complete transcription of Gerard Legh’s Accedence of Armorie , the 1597 edition, from the title page to the colophon. All 308 of its woodcut coats of arms are reproduced alongside the text. It is the longest single primary source on the site, and it took a good deal longer than I expected to get it there. The title page of the 1597 edition, set within an allegorical"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://slaptijack.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://slaptijack.com/articles/let-in-flight-requests-finish-during-a-service-shutdown.html",
+      "title": "Let In-Flight Requests Finish During a Service Shutdown",
+      "description": "Design bounded service shutdown around request admission, routing delays, active work, and recovery, then verify the behavior before a rollout."
+    },
+    {
+      "link": "https://slaptijack.com/articles/decide-what-happens-when-a-service-dependency-fails.html",
+      "title": "Decide What Happens When a Service Dependency Fails",
+      "description": "Define a runtime dependency policy with bounded deadlines, safe retries, explicit fallback behavior, and a tested recovery path before a downstream service fails."
+    },
+    {
+      "link": "https://slaptijack.com/articles/practice-an-incident-response-without-touching-production.html",
+      "title": "Practice an Incident Response Without Touching Production",
+      "description": "Run a discussion-only incident tabletop with a bounded scenario, explicit roles, timed information, and follow-up work that improves the next real response."
+    }
+  ]
+}

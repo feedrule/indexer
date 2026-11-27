@@ -1,0 +1,20 @@
+{
+  "url": "https://matheuzsecurity.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/",
+      "title": "Fileless ELF Execution via Kernel Keyring",
+      "description": "Hello guys! So I wanted to show a technique for executing an ELF payload without ever touching the filesystem and without calling execve, the userland exec part is not new, the trick is using the Linux kernel keyring for staging, which is a bit different from what most people do for fileless execution, so lets go. The issue with the usual approaches like memfd_create or O_TMPFILE is that even thou"
+    },
+    {
+      "link": "https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/",
+      "title": "Fileless ELF Execution via O_TMPFILE",
+      "description": "Hello guys! So today I want to show a way to execute an ELF payload that never touches disk as a named file. No memfd_create , no /memfd: prefix anywhere in telemetry. The trick is O_TMPFILE combined with execveat(AT_EMPTY_PATH) , and it works on any kernel since 3.19. The issue with memfd_create is that it leaves a very specific fingerprint: process.executable shows /memfd:name (deleted) , the ba"
+    },
+    {
+      "link": "https://matheuzsecurity.github.io/hacking/elastic-trusted-pid-bypass/",
+      "title": "Singularity Rootkit: Evading Elastic Defend Module Load Detection",
+      "description": "Rootkit Researchers: https://discord.gg/66N5ZQppU7 Singularity Rootkit: https://github.com/MatheuZSecurity/Singularity Elastic Defend has shipped a BPF-based module load event since around 8.14. With 9.5.0, that event gained a taint_flags field, and PR #6588 added the EQL detection rule that queries it. The older syslog rule from 2023 is still active and fires independently. Between the two, loadi"
+    }
+  ]
+}

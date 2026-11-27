@@ -1,0 +1,20 @@
+{
+  "url": "https://zverok.space/feed.xml",
+  "posts": [
+    {
+      "link": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+      "title": "Thinking about tests: assertions and matchers",
+      "description": "Why some of us are still bothered about the way we write tests and what the “matcher” concept has to do with it. During most of my Ruby career, I was that unpleasant person who honestly enjoys writing tests and is frequently concerned about the ways we write them. This means treating unit tests like the rest of the codebase: like something that is supposed to be read by humans and something that s"
+    },
+    {
+      "link": "https://zverok.space/blog/2026-01-18-upd.html",
+      "title": "It is 2026; where were we?",
+      "description": "Most of the time, I try to keep this blog/mailing list to thoroughly thought-through articles about software development: mostly, programming languages in general and Ruby in particular. But after it was dormant for quite some time, this one will be a bit more personal. And a lot less coherent. For those who just wandered into this blog post on my site, or those who have subscribed to my mailing l"
+    },
+    {
+      "link": "https://zverok.space/blog/2025-06-21-code-war-notes-week2.html",
+      "title": "Notes on code, text, and war. Week 2: If code is text, then what?",
+      "description": "Last time, I’ve highlighted “treating code as text” idea as something that I want dedicate a few posts to. Let’s talk in generalities some more this time. OK, if we look at code as a text, then what? If this metaphor-based approach – bringing the mental model of one domain into another – is useful, it should have some consequences. What are we gaining by using the culture’s experience with natural"
+    }
+  ]
+}

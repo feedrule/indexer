@@ -1,0 +1,20 @@
+{
+  "url": "https://mfaulk.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://mfaulk.github.io/2026/05/29/advantage360-left-half.html",
+      "title": "Fixing an Intermittent Left-Half Failure on the Kinesis Advantage360",
+      "description": "A follow-up to my earlier post on programming a Dvorak layout for the Advantage360. Same keyboard, different problem: the left half of my wired Advantage360 (KB360, SmartSet engine — not the Pro) started dropping out a few times a day. If you’re seeing the same thing, this post is the short version of how I diagnosed it and what fixed it."
+    },
+    {
+      "link": "https://mfaulk.github.io/2026/01/29/advantage360.html",
+      "title": "Dvorak with the Kinesis Advantage360",
+      "description": "This post shows how to program a Dvorak layout for the wired Kinesis Advantage360 by directly editing a layout file. Note that the (wireless) Advantage360 Professional uses a completely different configuration process, described here . For many years now, my keyboard of choice has been a contoured Advantage keyboard from Kinesis with a Dvorak layout. Contoured keyboards make the home row a very co"
+    },
+    {
+      "link": "https://mfaulk.github.io/2026/01/13/transformers.html",
+      "title": "Deep Learning: Transformers",
+      "description": "This post is a detailed look at the original Transformer. We’ll be working through the intuition, architecture, and a PyTorch implementation. By the end, you should be able to train and run your own transformer, and feel comfortable with each component in this diagram:"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mmhaskell.com/blog?format=rss",
+  "posts": [
+    {
+      "link": "https://mmhaskell.com/blog/2025/12/29/parsing-with-an-mcap-index",
+      "title": "Parsing with an MCAP Index",
+      "description": "Welcome to the sixth and final part of our series on MCAP parsing. In the first four parts, we did all the work to parse certain topic messages from a bag file, going through the file sequentially. In the fifth part , we set up a lot of infrastructure to allow ourselves to instead parse the file using indexing so we can get our messages faster. In this part, we’ll finish the process and see how mu"
+    },
+    {
+      "link": "https://mmhaskell.com/blog/2025/12/22/mcap-indexing",
+      "title": "MCAP Indexing",
+      "description": "In the first 4 parts of this series ( Part 1 , Part 2 , Part 3 , Part 4 ), we’ve written a program that can parse specific topic information out of MCAP-based ROS2 bags. The Megaparsec library helped us a lot, but our current approach has a weakness; our program scans through the entire file sequentially. Bag files can be very large! So if we’re only interested in a few topics, it can be wasteful"
+    },
+    {
+      "link": "https://mmhaskell.com/blog/2025/12/15/parsing-cdr-messages",
+      "title": "Parsing CDR Messages",
+      "description": "Welcome to the 4th part of our series on parsing MCAP data from a ROS2 bag in Haskell. We’ve spent the previous parts understanding the record structure in the bag and extracting the message data for particular topics . Today we will parse that data into Haskell types! Unfortunately, this will actually require us to learn a bit about yet another data encoding (CDR), but luckily we’ll still be able"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://blog.manganin.dev/rss/",
+  "posts": [
+    {
+      "link": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+      "title": "Reinventing issue tracking: Local-first and Git-native",
+      "description": "A core ingredient of collaboration is a shared issue tracking environment. When I went to design issue tracking for Manganin, I already had some requirements in mind. The backing data for issues should be stored in Git, and in a way that is playing to the strengths of the tool, not fighting against it. Git a powerful tool to manage versioning, but it isn't the obvious choice of database. Bolting o"
+    },
+    {
+      "link": "https://blog.manganin.dev/blog/tools-matter/",
+      "title": "Manganin: tools matter",
+      "description": "Manganin is a Git forge written in Zig . It's a reimagining of what modern source code management could be if we compromise on nothing. It is named after an alloy of manganese and copper that remains quite constant in electrical resistivity with changes in temperature. Vouch tree The world runs on trust, now more than ever. The number of lines of code in a PR is not necessarily correlated with its"
+    }
+  ]
+}

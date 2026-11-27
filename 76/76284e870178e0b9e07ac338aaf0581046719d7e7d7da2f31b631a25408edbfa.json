@@ -1,0 +1,20 @@
+{
+  "url": "https://automation.baldacchino.net/feed/",
+  "posts": [
+    {
+      "link": "https://automation.baldacchino.net/controlling-sigenergy-sigenstor-from-home-assistant-using-remote-ems/",
+      "title": "Controlling SigEnergy SigenStor From Home Assistant Using Remote EMS",
+      "description": "Late last year I posted an article about integrating my SigEnergy SigenStor into Home Assistant using Modbus. That post was my first go at reading telemetry from my SigEnergy system via Modbus. The logic on when to charge, when to discharge and so on all stayed within the SigEnergy eco-system as my energy plan was ... Read more The post Controlling SigEnergy SigenStor From Home Assistant Using Rem"
+    },
+    {
+      "link": "https://automation.baldacchino.net/your-guide-to-keeping-wordpress-secure/",
+      "title": "Your Guide To Keeping WordPress Secure",
+      "description": "I have been running WordPress in one form or another since 2003, which is hard to believe its 20+ years. Back then I was running a web hosting company. Since then I have hosted it for thousands of customers, I have stood on stage in front of a few thousand people and broken in to ... Read more The post Your Guide To Keeping WordPress Secure appeared first on Baldacchino Automation ."
+    },
+    {
+      "link": "https://automation.baldacchino.net/my-homelab-enterprise-hardware-household-workloads/",
+      "title": "My HomeLab – Enterprise Hardware Running Household Workloads",
+      "description": "Compute at home, home lab, what ever you wish to call it. I have always had something that allows me to tinker and learn. It has changed from time to time but the crux of my needs are, its been more reliability focus. In this post I want to talk about my computing platform at ... Read more The post My HomeLab – Enterprise Hardware Running Household Workloads appeared first on Baldacchino Automatio"
+    }
+  ]
+}

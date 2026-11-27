@@ -1,0 +1,20 @@
+{
+  "url": "https://www.guido-flohr.net/en/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.guido-flohr.net/bishop-and-knight-mate-the-missing-part/index.html",
+      "title": "Bishop and Knight Mate — the Missing Part",
+      "description": null
+    },
+    {
+      "link": "https://www.guido-flohr.net/change-grundfos-pm2-cable/index.html",
+      "title": "Change Grundfos PM 2 Pressure Monitor Cable",
+      "description": "The Grundfos PM 2 pressure control unit is used to automatically switch water pumps on and off. The electrical connection to the pump is made using a Schuko (type F) plug connection. In my case, this connection had burned out and I had to replace it. This blog post describes how to do it."
+    },
+    {
+      "link": "https://www.guido-flohr.net/yargs-18-pitfalls/index.html",
+      "title": "Yargs 18 Pitfalls",
+      "description": "Upgrading Yargs from version 17 to 18 in a TypeScript project using Jest turned out to be a bit of a nightmare. The release notes for Yargs 18.0.0 include the line “yargs is now ESM first” — a seemingly small change that can cause major headaches. In this blog post, we’ll take a closer look at what that means and how to deal with it."
+    }
+  ]
+}

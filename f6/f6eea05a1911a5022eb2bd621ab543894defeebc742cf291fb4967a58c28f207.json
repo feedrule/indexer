@@ -1,0 +1,20 @@
+{
+  "url": "https://ogden.eu/index.xml",
+  "posts": [
+    {
+      "link": "https://ogden.eu/webgpu-fast-fourier-transform/",
+      "title": "022: The Fast Fourier Transform",
+      "description": "2026-10-19"
+    },
+    {
+      "link": "https://ogden.eu/webgpu-fft/",
+      "title": "021: Fourier’s Window",
+      "description": "2026-10-18"
+    },
+    {
+      "link": "https://ogden.eu/webgpu-courant-number/",
+      "title": "020: A Step too Far",
+      "description": "Why the time step of a wave simulation cannot be too large."
+    }
+  ]
+}

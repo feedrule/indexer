@@ -1,0 +1,20 @@
+{
+  "url": "http://baddotrobot.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://baddotrobot.com/blog/2026-10-02-baking-in-evidence/",
+      "title": "Baking in Evidence",
+      "description": "Evidence tends to be in whatever shape the tool that produced it happened to emit; a JSON blob here, a PDF there, a spreadsheet far more often than it should. So how do we ensure it is more than just output, that it consistently proves what happened? Read on..."
+    },
+    {
+      "link": "https://baddotrobot.com/blog/2026-10-02-attestations-and-evidence/",
+      "title": "Attestations and Evidence",
+      "description": "Attestations and evidence are often referred to in GRC circles. They are related but not interchangeable. This post looks at definitions, interpretations and how, along with evaluations, they build trust in governance."
+    },
+    {
+      "link": "https://baddotrobot.com/blog/2026-04-04-control-engineering-meetup/",
+      "title": "Controls Engineering Meetup",
+      "description": "Reflections from a recent London roundtable with financial institutions on treating SDLC governance as an engineered, evidence-based system."
+    }
+  ]
+}

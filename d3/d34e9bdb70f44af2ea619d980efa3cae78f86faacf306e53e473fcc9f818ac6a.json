@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bkurtz.io/index.xml",
+  "posts": [
+    {
+      "link": "https://www.bkurtz.io/posts/secretive/",
+      "title": "Use TouchID for ssh with Secretive",
+      "description": "What is Secretive? Secretive is an open-source macOS app for protecting and managing SSH keys with the Secure Enclave. How do I set it up? Download the app from https://github.com/maxgoedjen/secretive/releases and drag it to your Applications folder. Launch the app and create an ssh key. You can choose to require TouchID each time the key is used or simply be notified when the key is used Set up S"
+    },
+    {
+      "link": "https://www.bkurtz.io/posts/tart/",
+      "title": "How to create a macOS virtual machine with Tart",
+      "description": "This post documents how to set up a macOS virtual machine with Tart. Installing Tart Option 1: Install Tart via Homebrew If you don't already have Homebrew installed Navigate to http://brew.sh/. Copy and execute the install command shown on the Homebrew website in Terminal: /bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" ⚠️ Caution: Be careful about"
+    },
+    {
+      "link": "https://www.bkurtz.io/posts/macvdmtool/",
+      "title": "Perform DFU Restores on Apple Silicon Macs with macvdmtool",
+      "description": "What is macvdmtool? It is a tool written by marcan under the AsahiLinux project. macvdmtool lets you put any Apple Silicon or Intel Macs with the T2 chip (2018 and forward) in DFU mode with an easy terminal command instead of requiring awkward keyboard gymnastics. Note: macvdmtool requires that the host machine is Apple Silicon based, Intel macs do not seem to support this tool as a host. Prerequi"
+    }
+  ]
+}

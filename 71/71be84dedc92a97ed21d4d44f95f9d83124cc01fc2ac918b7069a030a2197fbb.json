@@ -1,0 +1,20 @@
+{
+  "url": "https://www.funkysi1701.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.funkysi1701.com/posts/2026/climate-change/",
+      "title": "What I am doing about climate change",
+      "description": "It has been a hot summer, with quite a few heatwaves pushing past 30°C. I am not an environmental campaigner, but the weather is increasingly making me think we need to take better care of our planet. This post is about the levers I already have: who I bank with, who supplies my energy, who represents me in Parliament, and the company I work for. There is a film called the National Emergency Brief"
+    },
+    {
+      "link": "https://www.funkysi1701.com/posts/2026/signal-diff-cli/",
+      "title": "Signal Diff CLI for coding agents",
+      "description": "This post is about the signaldiff CLI: how to install it, run a local sitemap crawl, and hand that to Cursor, Copilot, or Claude Code so the agent can spot SEO and crawl issues without opening a dashboard. Signal Diff is the product behind that command. It fetches the URLs in a sitemap, checks on-page SEO and crawl health (titles, meta descriptions, redirects, slow responses, and more), and can co"
+    },
+    {
+      "link": "https://www.funkysi1701.com/posts/2026/gitops-with-flux-on-my-k3s-cluster/",
+      "title": "GitOps with Flux on my k3s cluster",
+      "description": "I already knew how to put things on a Kubernetes cluster. Helm packages the YAML. kubectl apply makes it exist. cert-manager mints the certificates. What I did not have was a boring answer to “what happens next week, when I have forgotten which laptop I ran that from?” GitOps is that answer, at least for platform on my homelab. In practice, GitOps means keeping the desired cluster state in git and"
+    }
+  ]
+}

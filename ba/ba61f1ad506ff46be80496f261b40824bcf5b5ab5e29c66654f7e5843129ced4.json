@@ -1,0 +1,20 @@
+{
+  "url": "https://ryanwesley.com/rss/",
+  "posts": [
+    {
+      "link": "https://ryanwesley.com/introducing-fabbar/",
+      "title": "Introducing FabBar: The Liquid Glass Tab Bar I Wish Apple Made",
+      "description": "FabBar is an open source SwiftUI library that recreates iOS 26's Liquid Glass tab bar with an integrated, tinted floating action button."
+    },
+    {
+      "link": "https://ryanwesley.com/ios-26-tab-bar-beef/",
+      "title": "My Beef with the iOS 26 Tab Bar",
+      "description": "The iOS 26 search tab looks more like an action button than a tab. That's causing problems for developers like me who want to follow Apple's guidelines."
+    },
+    {
+      "link": "https://ryanwesley.com/sqlite-databases-in-app-group-containers/",
+      "title": "SQLite Databases in App Group Containers: Just Don't",
+      "description": "Using SQLite in an App Group container might seem like a simple solution, but it can lead to several frustrating issues and crashes. Here’s why 0xDEAD10CC crashes happen and what to do instead."
+    }
+  ]
+}

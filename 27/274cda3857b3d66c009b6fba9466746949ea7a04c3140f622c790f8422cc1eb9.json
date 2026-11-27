@@ -1,0 +1,20 @@
+{
+  "url": "https://www.eldelto.net/feed/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.eldelto.net/articles/addictive-drums-2-on-linux",
+      "title": "Addictive Drums 2 on Linux",
+      "description": "I recently swapped my old Macbook for a new Lenovo Thinkpad and getting a decent setup for audio rec ..."
+    },
+    {
+      "link": "https://www.eldelto.net/articles/web-controllers-in-go",
+      "title": "Web Controllers in Go",
+      "description": "Go offers a lot of niceties out of the box with its expansive standard library but the ~http.Handler ..."
+    },
+    {
+      "link": "https://www.eldelto.net/articles/linux-incident-investigation",
+      "title": "Linux Incident Investigation",
+      "description": "This is a living blog post where I collect shell commands that have proven useful when trying to fix ..."
+    }
+  ]
+}

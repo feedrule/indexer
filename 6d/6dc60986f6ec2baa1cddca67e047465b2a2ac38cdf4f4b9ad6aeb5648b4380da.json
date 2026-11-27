@@ -1,0 +1,20 @@
+{
+  "url": "https://sergiolema.dev/feed/atom/",
+  "posts": [
+    {
+      "link": "https://sergiolema.dev/2026/11/23/optimizing-frontend-tables-why-client-side-processing-is-not-a-strategy-part-2/",
+      "title": "Optimizing Frontend Tables: Why Client-Side Processing Is Not a Strategy – Part 2",
+      "description": "Part 2 of the frontend table series: server-side filters and a debounced search box, plugged into the same MobX PaginationStore, with stale requests cancelled by an AbortController."
+    },
+    {
+      "link": "https://sergiolema.dev/2026/11/16/how-ive-used-devcontainers-to-speed-up-my-work-20x/",
+      "title": "How I’ve used devcontainers to speed up my work 20x",
+      "description": "In my new post, I describe about using Claude Code with the --dangerously-skip-permissions flag in a devcontainer to increase productivity by eliminating permission prompts. While this setup improves task efficiency, it requires careful configuration of firewalls, GitHub access, and safety measures to maintain security and allow for parallel sessions, resulting in increased token usage."
+    },
+    {
+      "link": "https://sergiolema.dev/2026/11/09/why-humans-still-make-the-best-architecture-decisions/",
+      "title": "Why Humans Still Make the Best Architecture Decisions",
+      "description": "The AI talked me into EventBridge Scheduler and SQS, then suggested table locks for a legacy cron I should have migrated. How I use AI recommendations for architecture decisions."
+    }
+  ]
+}

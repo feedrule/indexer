@@ -1,0 +1,20 @@
+{
+  "url": "https://forketyfork.github.io/feed",
+  "posts": [
+    {
+      "link": "https://forketyfork.github.io/blog/2026/02/03/teaching-my-static-analyzer-to-catch-the-bug-it-missed/",
+      "title": "Teaching My Static Analyzer to Catch the Bug It Missed",
+      "description": "I found a stack use-after-return bug in Architect today. Then I taught zwanzig, my Zig static analyzer, to catch it."
+    },
+    {
+      "link": "https://forketyfork.github.io/blog/2026/01/21/running-4-ai-coding-agents-at-once-the-terminal-i-built-to-keep-up/",
+      "title": "Running 9 AI Coding Agents at Once: The Terminal I Built to Keep Up",
+      "description": "I run multiple AI coding agents simultaneously because I often need to work on several tasks at once. One agent implements a feature, another does a code review, another improves my dev setup, yet another helps me keep my Obsidian notes up to date."
+    },
+    {
+      "link": "https://forketyfork.github.io/blog/2025/10/06/fzkill-fuzzy-process-killer-for-your-shell/",
+      "title": "fzkill: Fuzzy Process Killer for Your Shell",
+      "description": "I don’t know about you, but for me, killing processes from the command line always involved a ritual: run ps aux, scroll through output, find the target, copy the PID, then kill it. Or maybe grep for a pattern, parse column 2, and hope I picked the right one."
+    }
+  ]
+}

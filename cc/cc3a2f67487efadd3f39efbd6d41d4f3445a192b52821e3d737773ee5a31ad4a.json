@@ -1,0 +1,20 @@
+{
+  "url": "https://nklein.com/feed/",
+  "posts": [
+    {
+      "link": "https://nklein.com/2026/04/nomic-coding-game/",
+      "title": "Nomic Coding Game",
+      "description": "About 30 years ago, I had an idea for a coding game inspired by Nomic. It occurred to me last month that all of the tools I need are readily available now. The post Nomic Coding Game first appeared on nklein software ."
+    },
+    {
+      "link": "https://nklein.com/2025/08/quadratic-number-fields/",
+      "title": "Quadratic Number Fields",
+      "description": "I want to explore arrangements of balls in n-dimensions. In particular, I am interested in exploring kissing numbers in five or more dimensions. I want to ensure that if I come up with a configuration which improves upon the known lower-bounds that I have a precise specification of where to place the kissing balls. If […] The post Quadratic Number Fields first appeared on nklein software ."
+    },
+    {
+      "link": "https://nklein.com/2024/11/ray-tracing-csg/",
+      "title": "Ray Tracing Extra-dimensional CSG Objects",
+      "description": "This month, I added CSG (Constructive Solid Geometry) operators to the ray-tracer that I mentioned in the previous post. I added intersections, complements, and unions. You can find the source code in my weekend-raytracer github repo. The post Ray Tracing Extra-dimensional CSG Objects first appeared on nklein software ."
+    }
+  ]
+}

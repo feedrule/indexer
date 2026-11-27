@@ -1,0 +1,20 @@
+{
+  "url": "https://vatsalbakshi.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://vatsalbakshi.com/blog/flagstick-in-or-out/",
+      "title": "Flagstick In or Out? What Happens When a Putt Hits the Pin",
+      "description": "Since 2019 golfers can putt with the flagstick in. A Cal Poly engineer tested what that does to a putt, and the answer is clear: pull it. Here is the physics, and a simulator you can putt with."
+    },
+    {
+      "link": "https://vatsalbakshi.com/blog/2026-el-nino-daily/",
+      "title": "El Niño, 2026",
+      "description": "A daily-updating map of the 2026 El Niño built from NOAA satellite data, and a plain explainer of how a record ocean is measured and forecast: anomalies, grids, the Niño index, seasonal models, and RONI."
+    },
+    {
+      "link": "https://vatsalbakshi.com/blog/gaussian-splatting/",
+      "title": "Painting with Gaussians",
+      "description": "A visual, interactive derivation of 3D Gaussian Splatting: radiance fields, the volume rendering integral, NeRF, and how splatting renders photoreal scenes in real time."
+    }
+  ]
+}

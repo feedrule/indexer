@@ -1,0 +1,20 @@
+{
+  "url": "https://joshcgrossman.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://joshcgrossman.com/2026/04/14/introducing-aghast/",
+      "title": "Introducing AGHAST: AI-Guided Hybrid Application Static Testing",
+      "description": "Introducing AGHAST, an open source framework that combines static discovery with AI prompts to find code-specific and company-specific security issues."
+    },
+    {
+      "link": "https://joshcgrossman.com/2026/03/29/getting-multiple-github-accounts-on-one-windows-machine-2026-update/",
+      "title": "Getting multiple GitHub accounts on one Windows machine – 2026 update",
+      "description": "A guide on how to manage multiple GitHub accounts on a single Windows machine using 1Password and SSH host aliases, updated for 2026."
+    },
+    {
+      "link": "https://joshcgrossman.com/2026/02/04/claude-two-accounts-windows/",
+      "title": "Running two Claude Code accounts on one Windows PC (without them fighting)",
+      "description": "How I isolated Personal and Work Claude Code accounts on a single Windows machine by faking per-account home directories and a handful of symlinks."
+    }
+  ]
+}

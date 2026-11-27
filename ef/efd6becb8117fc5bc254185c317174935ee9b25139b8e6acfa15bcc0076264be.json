@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.evacchi.dev/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "A Glance at GPU Goodness in Java: LLM Inference with TornadoVM",
+      "description": "This post was originally published at JVM Advent . It seems like it’s become a tradition that I announce I have joined a new company for the Java Advent of Code. At least this time it’s actually an old friend: I am excited to be back at Red Hat, in the llm-d team! Does that mean I forgot about Java? Of course not. If anything, this is an opportunity to learn more about GPU programming, and since J"
+    },
+    {
+      "link": null,
+      "title": "The Return of Language-Oriented Programming",
+      "description": "I’ve been wondering what LLMs mean for language design and implementation . Some believe that, because language models are obviously trained on existing content, they are inherently less capable of assisting users with new programming languages. Intuitively this makes sense. However:"
+    },
+    {
+      "link": null,
+      "title": "Extending Kafka the Hard Way (Part 2)",
+      "description": "In our old post about Kafka we described how to write a self-contained application to apply arbitrary transforms to an incoming stream of Kafka records and publish the result on a new topic. In the previous post of this new series, we decided to embark on a new journey, towards embedding data transforms within the broker . In this case, instead of subscribing to a stream of records and applying tr"
+    }
+  ]
+}

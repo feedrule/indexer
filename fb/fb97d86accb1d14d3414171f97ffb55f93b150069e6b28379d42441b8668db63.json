@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.orange.tw/atom",
+  "posts": [
+    {
+      "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
+      "description": "This is what I built for Pwn2Own Berlin 2026 — a completely handmade, logic-only Microsoft Edge Full Chain, with no memory corruption, and no AI at all! 🔥"
+    },
+    {
+      "link": "https://blog.orange.tw/posts/2025-08-the-art-of-php-en/",
+      "title": "The Art of PHP — My CTF Journey and Untold Stories!",
+      "description": "This is my article featured in the PHRACK 40th Anniversary Release 🎉! It’s kinda a love letter to those CTF players and PHP nerds. Hope all the credit goes to the right people!"
+    },
+    {
+      "link": "https://blog.orange.tw/posts/2025-08-the-art-of-php-ch/",
+      "title": "(繁中) The Art of PHP — My CTF Journey and Untold Stories!",
+      "description": "這是一篇為了《PHRACK》所撰寫的文章！雖然來不及趕上它最輝煌的年代，但也深知其對「駭客文化」不可抹滅的重要性 —— 從計算機第一個揭開 Stack Buffer Overflow 神秘面紗的經典啟蒙，到現今所有 SQL Injection 攻擊的奠基之作，再到 Nmap 第一份原始碼的發布，以及出現在無數影視作品、控訴著「若我有罪，也是好奇心讓我犯罪」的《駭客宣言》…… 時至今日，四十年過去了，不知多少經典由此而生、藉其傳遞著知識，並啟發了一代又一代的駭客！"
+    }
+  ]
+}

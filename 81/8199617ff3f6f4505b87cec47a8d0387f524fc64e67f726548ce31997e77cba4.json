@@ -1,0 +1,20 @@
+{
+  "url": "https://leomata.com/index.xml",
+  "posts": [
+    {
+      "link": "https://leomata.com/blog/navegador-maturing-the-premise-and-the-experiment/",
+      "title": "Navegador: maturing the premise and the experiment",
+      "description": "I spent five months building a context engine on a premise I never checked. The premise seemed too obvious to test. An AI coding agent given a task starts by looking around: it greps for a symbol, opens whatever the grep turned up, then greps again with a better guess. Each of those searches reads from disk, which costs very little when a single agent is doing it. I run fleets, so ten agents redis"
+    },
+    {
+      "link": "https://leomata.com/blog/passwordless-auth-email-delivery/",
+      "title": "Testing Email Delivery for Passwordless Sign-In",
+      "description": "We were adding passwordless sign-in to a client’s mobile and web app. Instead of a password, the user receives a sign-in link or a short code by email and enters it. It removes a stored credential and is usually fewer steps than a social login. The approach depends on the email being delivered. The code has to reach the user’s actual mailbox. A send that the mail provider accepts is not the same a"
+    },
+    {
+      "link": "https://leomata.com/blog/brocs/",
+      "title": "BROCS and the platform problem of enterprise AI",
+      "description": "Enterprise AI has largely been framed as a problem of access. Give people a capable model, connect it to corporate data, and useful work will follow. This has been true often enough to create thousands of pilots. It has not been true enough to create thousands of durable production systems. Once a pilot becomes a dependency, the familiar obligations of operating software return in an unfamiliar fo"
+    }
+  ]
+}

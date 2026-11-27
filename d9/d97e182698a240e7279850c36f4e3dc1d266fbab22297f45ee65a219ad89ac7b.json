@@ -1,0 +1,10 @@
+{
+  "url": "https://joshkingsley.me/feed/",
+  "posts": [
+    {
+      "link": "https://joshkingsley.me/8-years-of-clojure/",
+      "title": "8 years of Clojure",
+      "description": "It was ClojureScript that first got me into Clojure, when a friend showed me his project using Figwheel and Reagent over coffee in Borough Market. This was back in the day when hot reloading didn't really exist for JavaScript, and React was still using class components. Being able to modify simple functions returning HTML as data (no JSX!), and have the UI update without resetting its state, blew"
+    }
+  ]
+}

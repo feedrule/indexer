@@ -1,0 +1,20 @@
+{
+  "url": "https://www.elliotblackburn.com/rss/",
+  "posts": [
+    {
+      "link": "https://www.elliotblackburn.com/writing-a-tailscale-native-app-with-tsnet/",
+      "title": "Writing a Tailscale native app with tsnet",
+      "description": "This week I finally got an opportunity to sit down and play around with the tsnet library from Tailscale. I used it to build a demo application called TSHelp . This is a short write up of what I built and learned. What is tsnet? Lets start with the description from"
+    },
+    {
+      "link": "https://www.elliotblackburn.com/organising-my-job-search/",
+      "title": "Organising my job search",
+      "description": "Announcing Trellum, a tool to organise your job search. Built using Procrastination Driven Development."
+    },
+    {
+      "link": "https://www.elliotblackburn.com/managing-dotfiles-with-nix/",
+      "title": "Managing dotfiles with Nix",
+      "description": "How I use Nix and Home Manager to manage dotfiles across two Macs and a Linux desktop from a single reproducible configuration."
+    }
+  ]
+}

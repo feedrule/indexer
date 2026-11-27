@@ -1,0 +1,20 @@
+{
+  "url": "https://www.pwnwriter.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://pwnwriter.me/notes/notes-cyber-showdown-nix/",
+      "title": "One Flake to Hack Them All",
+      "description": "I recently played Cyber Showdown CTF on a pure Nix setup, and it convinced me that Nix is one of the best things to happen to my CTF workflow. It also broke a few binaries in ways that taught me more about how Linux actually loads a program than any blog post ever did. So this is two things at once. It is a practical guide to running a CTF lab on Nix: how to set it up, the everyday commands, and t"
+    },
+    {
+      "link": "https://pwnwriter.me/notes/tailscale-homelab/",
+      "title": "Ditching Cloudflared for Tailscale",
+      "description": "A while back I wrote about SSHing into my home server from anywhere using a Cloudflare Tunnel . It worked. But the more I lived with it, the more it felt like the wrong tool. Cloudflared needs a domain. It routes my SSH through Cloudflare's edge. It's a daemon babysitting a config.yml , and every service I want to reach needs its own ingress rule. That's a lot of moving parts, and another company"
+    },
+    {
+      "link": "https://pwnwriter.me/notes/how-nix-works/",
+      "title": "How Nix Actually Works",
+      "description": "Most people meet Nix as a package manager, get scared by the syntax, and leave. That's a shame, because the whole thing is built on about three ideas. Once they click, the weird /nix/store/ paths, the reproducibility, the rollbacks, all of it stops being magic. No fluff. Let's look at what Nix is actually doing under the hood. 1. The language is just a calculator for attribute sets Before any pack"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ganets.ky/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.ganets.ky/ClangGenericLambdas/",
+      "title": "I can't use generic lambdas at compile-time, now what?",
+      "description": "This is a direct follow-up to my previous article, “Break MSVC and Clang with this one weird trick!”. In that article, I showed a solution for the problem in MSVC, but the problem in Clang seemed a lot more involved.As of the time of writing, the problem in Clang still hasn’t been fixed, although..."
+    },
+    {
+      "link": "https://blog.ganets.ky/BreakMsvcAndClang/",
+      "title": "Break MSVC and Clang with this one weird trick!",
+      "description": "A few weeks ago I came across some code that MSVC and Clang both rejected, but GCC accepted. The error messages are different in MSVC and Clang, so clearly I must have done something wrong, and GCC falsely accepts the code, right? I mostly minimized the code, and ended up with this. (Compiler Exp..."
+    },
+    {
+      "link": "https://blog.ganets.ky/MsvcGha/",
+      "title": "I wrote a GitHub Action to select an MSVC version",
+      "description": "Alright, I’m not breaking new ground here, but this is a difficulty I’ve had, and maybe it’s a difficulty you’ve had too. It’s not common, but if you want to compile your code with a particular version of MSVC, it’s already fairly finicky on your own machine. It’s even worse with GitHub Actions, ..."
+    }
+  ]
+}

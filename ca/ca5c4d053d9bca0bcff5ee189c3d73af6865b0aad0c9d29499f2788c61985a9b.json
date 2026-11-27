@@ -1,0 +1,20 @@
+{
+  "url": "https://jumptuck.com/feed",
+  "posts": [
+    {
+      "link": null,
+      "title": "How to Fix Audio Pop with Pipewire on Linux",
+      "description": "A harsh popping sound at the start and end of audio playback in Linux was driving me crazy. This is on a Dell XPS13 laptop and the issue is the power saving subsystem. Here's how to resolve the issue using Pipewire (Wireplumber) on Arch Linux."
+    },
+    {
+      "link": null,
+      "title": "Conditional Configuration for Hyprland",
+      "description": "Hyprland has no built-in support for conditional configuration. This makes me a bit sad as I like to maintain a single dotfile repo that works for more than one computer. Here's how I configure Hyprland based on hostname."
+    },
+    {
+      "link": null,
+      "title": "How to use Twister to cycle test Zephyr devices",
+      "description": "Zephyr includes a test runner app called Twister. It has a dizzying number of features, and recently I wrote a script to configure the tool for my most-used operation: cycle testing on embedded devices."
+    }
+  ]
+}

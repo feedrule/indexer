@@ -1,0 +1,20 @@
+{
+  "url": "http://cmj.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://example.com/blog/design-systems-ai-orchestration/",
+      "title": "Design Systems Meet AI Orchestration",
+      "description": "How structured prompting turns static component libraries into dynamic, reasoning UX agents."
+    },
+    {
+      "link": "https://example.com/blog/teaching-designers-structurally/",
+      "title": "Teaching Designers to Think Structurally in the Age of AI",
+      "description": "Why the transition from visual exploration to systems orchestration is the most critical shift for modern product designers."
+    },
+    {
+      "link": "https://example.com/blog/circle-framework/",
+      "title": "The CIRCLE Framework: Engineering AI Orchestration",
+      "description": "Moving beyond unstructured prompting to treat AI as a systems reasoning engine. A proprietary framework for enterprise and product leaders."
+    }
+  ]
+}

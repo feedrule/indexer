@@ -1,0 +1,20 @@
+{
+  "url": "https://bhart.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://bhart.org/articles/what-happens-after-ai-gets-smarter-than-every-human",
+      "title": "What Happens After AI Gets Smarter Than Every Human?",
+      "description": "AI progress in mathematics raises a question I cannot shake: if machines eventually reason beyond our best minds, will their discoveries still make sense to us?"
+    },
+    {
+      "link": "https://bhart.org/articles/fable-made-the-ai-compute-boom-make-sense",
+      "title": "Fable Made the AI Compute Boom Make Sense",
+      "description": "A few days with Claude Fable changed how I think about AI compute: capable local models could handle everyday work while large clusters make sustained investigations affordable."
+    },
+    {
+      "link": "https://bhart.org/articles/gpt-56-found-the-web-interface-i-was-missing",
+      "title": "GPT-5.6 Found the Web Interface I Was Missing",
+      "description": "Codex and GPT-5.6 helped me investigate a device I own and build a local browser interface after the official web option disappeared. It changed which personal projects feel worth trying."
+    }
+  ]
+}

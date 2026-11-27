@@ -1,0 +1,20 @@
+{
+  "url": "https://anthony.dev.profullstack.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://dev.profullstack.com/~anthony/blog/279-post.html",
+      "title": "A US bank account for everyone who isn’t American",
+      "description": "A teammate in Nigeria gets paid in dollars through a consumer app that only works for one corridor. We are building the same thing into CoinPay for every country we can, without ever holding anyone's money."
+    },
+    {
+      "link": "https://dev.profullstack.com/~anthony/blog/278-post.html",
+      "title": "I am now a button pusher",
+      "description": "An AI agent closed six issues, shipped three releases and fixed checkout while I clicked a CAPTCHA. The typing is gone. Knowing whether to push the button is the job now, and that comes from scar tissue."
+    },
+    {
+      "link": "https://dev.profullstack.com/~anthony/blog/277-post.html",
+      "title": "Post-mortem: how an attacker got a shell through our Postgres",
+      "description": "A leaked SSH key, a Docker port that skipped the firewall, and a lockdown that did not survive a reboot. What happened on one of our build boxes and what we changed."
+    }
+  ]
+}

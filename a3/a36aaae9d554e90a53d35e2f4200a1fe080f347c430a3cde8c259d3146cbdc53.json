@@ -1,0 +1,20 @@
+{
+  "url": "https://nexo.sh/index.xml",
+  "posts": [
+    {
+      "link": "https://olegpustovit.com/posts/agentpack/",
+      "title": "I Wanted Reproducible AI Coding Environments, So I Built agentpack",
+      "description": "Modern agents like Claude Code, Codex, Cursor and OpenCode need skills, hooks and MCPs, but they load them differently. agentpack creates ephemeral staging configuration for reproducible AI coding environments."
+    },
+    {
+      "link": "https://olegpustovit.com/posts/aws-serverless-boring-correct-choice/",
+      "title": "AWS Serverless: Still the Boring Correct Choice",
+      "description": "Fig. Serverless Network In the last 6 months, I’ve helped 3 AI startups migrate from Vercel or Cloudflare to AWS Lambda. The pattern is the same: they start on a platform with great DX. Then the wall shows up: background jobs, retries, queues, cron, and eventually a “this endpoint needs 2-8 GB RAM for 4-10 minutes” workload — and they land on AWS."
+    },
+    {
+      "link": "https://olegpustovit.com/posts/why-i-built-a-native-mp3-player-in-swiftui/",
+      "title": "In 2025, Apple still makes it hard to play your own MP3s, so I wrote my own app",
+      "description": "In 2025, playing your own music on an iPhone is surprisingly hard, unless you pay Apple or navigate a maze of limitations. So I built my own player from scratch, with full text search, iCloud support, and a local-first experience. GitHub link Why I Built My Own Audio PlayerFig. An image of a music app I’ve built Like many people, I’ve picked up too many subscriptions, some through Apple (iCloud, A"
+    }
+  ]
+}

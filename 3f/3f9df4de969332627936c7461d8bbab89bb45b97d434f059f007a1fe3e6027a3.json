@@ -1,0 +1,20 @@
+{
+  "url": "https://landedstar.com/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://landedstar.com/blog/posts/10_goto_10/",
+      "title": "10 goto 10",
+      "description": "Hulu auth in an endless loop."
+    },
+    {
+      "link": "https://landedstar.com/blog/posts/apple-broke-moving-a-file/",
+      "title": "Apple Broke Moving a File",
+      "description": "I moved some files between folders, and this happened. It happens a lot with iCloud. The problem, I’ve read, is that macOS is trying to download the file from iCloud, and then move it, and it gets a teeny bit confused. It’s been going on a while. I can’t believe Apple broke moving a file. Update Two restarts and two hours later and it’s still not moving. I could move them via terminal, but I refus"
+    },
+    {
+      "link": "https://landedstar.com/blog/posts/ban-the-box/",
+      "title": "Ban the Box",
+      "description": "Saw this on a job application. It doesn’t seem right."
+    }
+  ]
+}

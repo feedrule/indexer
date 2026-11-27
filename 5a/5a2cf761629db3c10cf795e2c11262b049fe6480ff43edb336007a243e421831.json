@@ -1,0 +1,15 @@
+{
+  "url": "https://freshsources.com/blog/files/feed.xml",
+  "posts": [
+    {
+      "link": "https://freshsources.com/blog/files/cpp-source.html#unique-entry-id-2",
+      "title": "When The C/C++ Users Journal Disappeared",
+      "description": "Today, if you have a question, you search the web or have ask an AI chatbot. In the early 1980s there was the C Programming Language, but: there was no web there was no Stack Overflow, there was no GitHub, there was often no Internet access at all. The C++ programming language had a creator , an organically emerging user community followed by a standards committee, and a vibrant ecosystem of write"
+    },
+    {
+      "link": "https://freshsources.com/blog/files/the-bitset-story.html#unique-entry-id-0",
+      "title": "The std::bitset Story",
+      "description": "How a Practical MS‑DOS Problem Contributed to C++ std::bitset feels like one of those standard library components that must have existed forever — a compact, efficient, type‑safe abstraction for working with fixed‑size collections of bits. But behind this ordinary feature lies a very human story: one that begins in an MS‑DOS application and winds through the earliest days of C++ standardization. T"
+    }
+  ]
+}

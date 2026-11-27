@@ -1,0 +1,20 @@
+{
+  "url": "https://alex.party/rss.xml",
+  "posts": [
+    {
+      "link": "https://alex.party/posts/2026-02-05-fresh-hot-css-trig-functions/",
+      "title": "Fresh Hot CSS: Trig Functions",
+      "description": "Today’s topic is Trig Functions. I feel like Trig Functions don’t get a lot of love because nobody seems to know what you would actually use them for. I don’t get to go over it in the talk very much. Let’s actually show a demo of where you might want to use something like this. Trig Functions The Trig functions that are now available are as follows: sin() cos() tan() asin() acos() atan() atan2() I"
+    },
+    {
+      "link": "https://alex.party/posts/2025-10-08-junior-dev-tip-scroll-up/",
+      "title": "Junior Dev Tip: \"Scroll Up\"",
+      "description": "My junior developer just came to me asking for help because their linting setup was broken. I’m writing this very quickly because I want to get all the details down. Junior Dev: “My linting is broken, can you help?” Me: “Sure” get on a call with junior dev junior dev runs linting command which ends with lots of “command failed” errors as well as a line that says “17 warnings, 2 errors” Junior Dev:"
+    },
+    {
+      "link": "https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/",
+      "title": "The future of web development is AI. Get on or get left behind.",
+      "description": "Editor’s Note: previous titles for this article have been added here for posterity. The future of web development is blockchain. Get on or get left behind. The future of web development is CSS-inJS. Get on or get left behind. The future of web development is Progressive Web Apps. Get on or get left behind. The future of web development is Silverlight. Get on or get left behind The future of web de"
+    }
+  ]
+}

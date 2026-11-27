@@ -1,0 +1,20 @@
+{
+  "url": "https://wonderingchimp.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://wonderingchimp.com/posts/reducing-resource-footprint-with-timescaledb-compression/",
+      "title": "Reducing resource footprint with TimescaleDB compression",
+      "description": "When we speak about digital sustainability, we often talk in terms of decreasing resource utilisation. In these resources we mainly count memory and CPU as drivers to reducing the electricity usage. However, one aspect that often gets neglected is the data and storage usage. Writing to/reading from storage also uses certain amount of electricity, which gets under the radar, hidden behind the all-t"
+    },
+    {
+      "link": "https://wonderingchimp.com/posts/a-lot-has-changed/",
+      "title": "A lot has changed...",
+      "description": "The first article I wrote and published under Wondering Chimp was more than 4 years ago. Wow! I could not have imagined that it will last that long... From the beginning, I started quite simple, some would say lazy, having in mind my technical background - wrote down some thoughts, and decided to post it online. I chose to host everything on Ghost.org - a site that helps you easily publish your th"
+    },
+    {
+      "link": "https://wonderingchimp.com/posts/one-look-at-failure-after-unlocking-the-pixel-2-bootloader/",
+      "title": "One look at failure after unlocking the Pixel 2 bootloader",
+      "description": "Albert Einstein famously said: The definition of insanity is doing the same thing over and over again and expecting a different result. I can relate to that, in recent days. Sort of. Would I consider myself insane? Sort of. I don't know. I'm not the expert who can tell. Anyhow, I had an old Pixel 2 lying around my place, gathering dust, and I wanted to make use of it. My plan was to put Linux on i"
+    }
+  ]
+}

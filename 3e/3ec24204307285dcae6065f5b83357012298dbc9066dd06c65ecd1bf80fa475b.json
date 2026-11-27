@@ -1,0 +1,20 @@
+{
+  "url": "https://www.pixelite.co.nz/rss/",
+  "posts": [
+    {
+      "link": "https://www.pixelite.co.nz/article/bots-scrapers-and-proxies-defending-drupal-sites-in-an-automated-internet/",
+      "title": "Bots, scrapers, and proxies: defending Drupal sites in an automated internet",
+      "description": "Bots are over half of web traffic. Here is the layered defence I use to keep Drupal sites running - companion to my DrupalSouth Wellington 2026 talk."
+    },
+    {
+      "link": "https://www.pixelite.co.nz/article/chrome-extensions-are-a-supply-chain-risk-build-your-own-instead/",
+      "title": "Chrome extensions are a supply chain risk - build your own instead",
+      "description": "JSON Formatter started injecting ads. Chrome extensions are a supply chain risk. I built my own replacement in under an hour with Claude."
+    },
+    {
+      "link": "https://www.pixelite.co.nz/article/debugging-docker-image-sizes-how-to-inspect-them-with-dive/",
+      "title": "Debugging Docker image sizes - how to inspect them with dive",
+      "description": "Have you ever wondered why your docker images are so large, and what can be done to drill down into the layers one by one. Well, you can."
+    }
+  ]
+}

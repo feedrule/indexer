@@ -1,0 +1,20 @@
+{
+  "url": "https://fariszr.com/index.xml",
+  "posts": [
+    {
+      "link": "https://fariszr.com/homelab-fixes-itself-komodo-openclaw/",
+      "title": "How I Made My Homelab Fix Itself Using Komodo and OpenClaw",
+      "description": "The most annoying thing about homelabbing is the upkeep. Keeping things running, handling breaking updates, fixing stuff as it breaks instead of letting everything slowly decay. It’s kinda embarrassing telling people how cool your Homelab is, only for things to break constantly. Luckily AI agents have gotten good enough that you can use them for the upkeep of your homelab. Until now though, you st"
+    },
+    {
+      "link": "https://fariszr.com/huawei-matepad-pro-4k-youtube-vp9/",
+      "title": "FYI: 2025 Huawei Matepads can't play 4k youtube videos",
+      "description": "I got my hands on a 2025 Huawei Matepad pro 12.2, with a gorgeous display. I was kinda stocked to use it as my media power house, that’s where the weirdness started. The device can’t play 4k videos on YouTube for some reason, and to make it worse, it’s a known issue, but it isn’t something that gets mentioned in reviews. It can play 1080p vp9 videos just fine, and you can play 4k video on YouTube"
+    },
+    {
+      "link": "https://fariszr.com/knocker-access-your-homelab-without-vpn/",
+      "title": "Knocker: Skip the VPN for your homelab, Just Knock",
+      "description": "I have a homelab, but accessing it from outside my home network was always a pain. I didn’t want to deal with the hassle of setting up VPNs on every device just to watch something on Jellyfin, so I built Knocker! It’s a knock-based access control service for your homelab that actually works with mobile apps, with clients on most platforms used by homelabbers. Your browser doesn't support HTML5 vid"
+    }
+  ]
+}

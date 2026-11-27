@@ -1,0 +1,20 @@
+{
+  "url": "https://www.alexghr.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.alexghr.me/blog/nix-agent-sandbox/",
+      "title": "Nix for AI agent sandboxes",
+      "description": "How I use Nix to provide dev environments for coding agents."
+    },
+    {
+      "link": "https://www.alexghr.me/blog/custom-bitmap-font/",
+      "title": "Creating and rendering a bitmap font",
+      "description": "Drawing a bitmap font in ASCII art, compiling it to PSF2 and rendering it in my game."
+    },
+    {
+      "link": "https://www.alexghr.me/blog/rebuild2/",
+      "title": "Reviving this website",
+      "description": "Rebuilding my website in Go and writing all the code by hand again"
+    }
+  ]
+}

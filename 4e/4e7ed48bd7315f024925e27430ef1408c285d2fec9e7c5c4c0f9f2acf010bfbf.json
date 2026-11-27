@@ -1,0 +1,20 @@
+{
+  "url": "https://antoine.vandecreme.net/atom.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "In praise of exhaustive destructuring",
+      "description": "When I learned Rust, I was frustrated by the fact that one had to list all fields or use the .. syntax when destructuring a struct. To illustrate this and because I am writing this during a heatwave, let's suppose we have the following struct: struct WeatherReading { station_id: String, recorded_at: DateTime<Utc>, temperature: f64 , humidity: f64 , pressure: f64 , } Note : Except for recorded_at ,"
+    },
+    {
+      "link": null,
+      "title": "Tips and tricks to avoid cloning",
+      "description": "In Rust, it is often better to avoid cloning if possible to avoid unnecessary allocation. Here is a list of techniques I use most often to do that. All titles are links to Rust playgrounds if you want to play with the examples. Implement the Copy trait For small data types, cloning might actually be the cheapest option. There is a special trait for that named Copy . Whenever possible, you should i"
+    },
+    {
+      "link": null,
+      "title": "Understanding rust async closures",
+      "description": "In the previous article , we saw how \"normal\" closures are desugared. The goal of this article is to see how it is done for async closures. However, we first need to understand how an async function is desugared. As in the first article, all titles are links to rust playgrounds where you can experiment with the code in the section. Async fn desugaring Let's consider this simple async function whic"
+    }
+  ]
+}

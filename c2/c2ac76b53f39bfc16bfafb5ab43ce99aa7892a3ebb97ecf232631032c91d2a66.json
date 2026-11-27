@@ -1,0 +1,20 @@
+{
+  "url": "https://rabzelj.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://rabzelj.com/blog/rust-nvml-crate-intro",
+      "title": "Using NVIDIA Management Library (NVML) in Rust",
+      "description": "Intro to singe-nvml Rust crate."
+    },
+    {
+      "link": "https://rabzelj.com/blog/rust-debug-deadlock",
+      "title": "How to Debug a Deadlock",
+      "description": "How to debug a deadlock in Rust?"
+    },
+    {
+      "link": "https://rabzelj.com/blog/temelj-typescript-async-utilities",
+      "title": "Async Primitives for TypeScript",
+      "description": "A collection of async primitives for TypeScript. Queue, Mutex, AsyncStream, delay, throttle, and more."
+    }
+  ]
+}

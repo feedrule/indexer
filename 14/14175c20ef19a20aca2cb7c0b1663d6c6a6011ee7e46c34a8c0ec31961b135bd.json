@@ -1,0 +1,20 @@
+{
+  "url": "http://200sc.dev/index.xml",
+  "posts": [
+    {
+      "link": "http://200sc.dev/posts/ai-nov-2026/",
+      "title": "We need boring tech (again)",
+      "description": "We need boring tech (again) The news of the moment is that the world is on fire with code exploits. From Microsoft to flights to secret government networks, everything is under attack (or falling apart from within). It’s probably correct to put a lot of blame here on AI, but for fun let’s imagine some things that we can actually do about this, because until the wealthy cash out on Anthropic, those"
+    },
+    {
+      "link": "http://200sc.dev/posts/ai-security-apr-2026/",
+      "title": "AI has another security problem",
+      "description": "AI has another security problem We all know about how MCP has fundamental flaws in how it handles authorization, how OpenClaw and its relatives open up local machines to exploits and the whole world of LLMs is a security nightmare𐠒. And we also are now hearing that Mythos, Anthropic’s latest model, can exploit all of the security flaws in all of the software ever and it’s so impressive that it was"
+    },
+    {
+      "link": "http://200sc.dev/posts/oak-mar-2022/",
+      "title": "State of Oak: March 2022",
+      "description": "What’s new this month Oak V4 Alpha Bark: A grid-based game engine Oak v4 Alpha Oak v4 alpha 1 is out today, featuring a complete overhaul of the event system, enabled via type parameterization and go 1.18. While we’re planning a breaking change, there’s several things we already know we want to include: Event Overhaul We’ve started off by rewriting the event package. There are a lot of changes, bu"
+    }
+  ]
+}

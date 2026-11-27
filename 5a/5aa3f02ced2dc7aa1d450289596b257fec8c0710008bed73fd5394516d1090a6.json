@@ -1,0 +1,20 @@
+{
+  "url": "https://aicode.danvoronov.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://aicode.danvoronov.com/2026-11/15_10-32/",
+      "title": "2026-11-15 10:32",
+      "description": "Cursor without OpenAI, Fable 5.2, Gemini 4, AlphaProof Code and /swarm OpenAI models in Cursor: the date was pushed back https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ On November 12, 2026, the contract under which OpenAI supplied its models to Cursor was supposed to end. That same day, OpenAI added a short update to its post: access was “ temporarily extended"
+    },
+    {
+      "link": "https://aicode.danvoronov.com/2026-11/4_21-12/",
+      "title": "2026-11-04 21:12",
+      "description": "Harness as a constructor: Claude Code Mods, dsh Creator Mode Claude Code mods https://claude.com/blog/claude-code-mods Works in the CLI, the Code tab of the desktop app, and (partially) VS Code. Anthropic released mods on October 1, 2026. A mod is a plugin containing JS/TS event handlers; it is no longer “agent configuration” (because who would be surprised by that now), but programming its harnes"
+    },
+    {
+      "link": "https://aicode.danvoronov.com/2026-11/3_21-49/",
+      "title": "2026-11-03 21:49",
+      "description": "Do We Need Plan Mode? The article \"Plan mode is dead\" https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html Ayman Nadeem, founder and CEO of Nuanced, published a postmortem of her own product, which was built around the idea of an LLM plan as a persistent spec document . That approach was precisely what failed. Long AI-generated text is difficult to"
+    }
+  ]
+}

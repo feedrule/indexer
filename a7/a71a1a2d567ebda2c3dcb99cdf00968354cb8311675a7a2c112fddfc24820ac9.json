@@ -1,0 +1,20 @@
+{
+  "url": "https://binarysky.se/rss.xml",
+  "posts": [
+    {
+      "link": "https://binarysky.se/blog/2026/01/why-is-the-app-slow-on-pixel-7/",
+      "title": "Why is the app slow on Pixel 7?",
+      "description": "So a collegue comes over to me one day to ask what changes we did since the last release, reason being: \"The app is very slow on Pixel 7 running on <cloud-based emulator service> \". As I, too, am addicted to being useful , I get curious and sympathetic to their call for help. I suggest we should try a debug build instead to get a profile trace. But instead, we get... a crash? Cannot locate symbol"
+    },
+    {
+      "link": "https://binarysky.se/blog/2024/02/my-advent-of-code-in-roc-2023/",
+      "title": "My Advent of Code in Roc 2023",
+      "description": "It starts like it always does. Everything is fun and games before they hit you with the algorithm-heavy days. And then you can't muster up the strength to keep up anymore. And then you give up. But I still mostly scraped by until day 20 (skipping 14 and 17, which I keep telling myself I will get back to anytime before next December). At least my language of choice gave me an interesting extra chal"
+    },
+    {
+      "link": "https://binarysky.se/blog/2023/11/val-town/",
+      "title": "Val.town",
+      "description": "If you're like me, you've probably run into the case that you need to run scripts every week, day or every hour. Maybe you want to monitor the daily scoreboard of Advent of Code. Maybe you want to post the status of the Strava running challenge to a Slack channel each week. I found val.town on hacker news some time ago and have since ported all my scripts to use it. In this post I have collected s"
+    }
+  ]
+}

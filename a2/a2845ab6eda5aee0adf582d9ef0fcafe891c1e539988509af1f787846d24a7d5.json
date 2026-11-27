@@ -1,0 +1,20 @@
+{
+  "url": "https://modern-sql.com/feed",
+  "posts": [
+    {
+      "link": "https://modern-sql.com/blog/2026-06/structured-primary-keys",
+      "title": "Structured Primary Keys",
+      "description": "Structured Primary Keys Sometimes I hit a wall when optimizing a client’s query. Over the years, I realized that most cases fall into two categories: (1) unreasonable expectations based on the cloud bill, not on the infrastructure’s power; (2) the primary key design. This article explains how primary keys can put tables into walled gardens so that the database schema falls apart into disconnected"
+    },
+    {
+      "link": "https://modern-sql.com/blog/2026-05/order-by-history",
+      "title": "ORDER BY Has Come a Long Way",
+      "description": "Order by Has Come a Long Way a Limited support in union , except and intersect legs b Expressions must not contain selected columns The order by clause is surely one of the best-known SQL clauses. Yet there are a number of common misunderstandings that are worth clearing up. For that, I’ll walk you through the evolution of the order by clause in ISO/IEC 9075-2:2023—that is, the SQL standard. The 1"
+    },
+    {
+      "link": "https://modern-sql.com/blog/2026-03/order-equivalence-over-clause",
+      "title": "Order-Equivalent OVER Clauses",
+      "description": "Order-Equivalent Over Clauses a ⚡Order-equivalent over clause can produce different row orders b Apparently, the framing must be identical too to make over clauses order-equivalent At the heart of this article, there is a simple question: Will the following query always give the same numbering in both columns? SELECT ROW_NUMBER() OVER (ORDER BY x) , ROW_NUMBER() OVER (ORDER BY x) FROM ... I did no"
+    }
+  ]
+}

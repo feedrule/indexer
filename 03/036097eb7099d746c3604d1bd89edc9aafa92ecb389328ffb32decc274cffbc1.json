@@ -1,0 +1,20 @@
+{
+  "url": "https://www.nobugs.org/blog/feed/",
+  "posts": [
+    {
+      "link": "https://www.nobugs.org/blog/archives/2026/01/18/laptop-meet-soldering-iron/",
+      "title": "Laptop, meet soldering iron",
+      "description": "My 2019-era Dell laptop died recently, a few days after I’d replaced the battery. More specifically, the laptop was still running fine off the battery but it had lost its ability to charge from the mains. Without any way to recharge the battery, the laptop was useless. The green LED on the charger would just […]"
+    },
+    {
+      "link": "https://www.nobugs.org/blog/archives/2023/11/15/transients-vs-sympy/",
+      "title": "Transients vs Sympy",
+      "description": "For variety, I switched from SageMath to Sympy since Sympy is a small more focused package. However, I’m struggling with it’s lack of seeming lack of equational reasoning. When you define an equation via Eq(lhs,rhs), it’s not a “first class” object – ie. you can’t divide it by 2 and expect both sides to be […]"
+    },
+    {
+      "link": "https://www.nobugs.org/blog/archives/2023/11/12/sagemath-vs-common-emitter-amplifier/",
+      "title": "Sagemath vs Common Emitter Amplifier",
+      "description": "Using Sagemath for electronics is nice because it forces you to be explicit about your assumptions and calculations. Ideally, you’d start by telling Sagemath about Maxwell’s laws and build up from there. For DC conditions, like calculating the bias for a common emitter amplifier we can assume no changing magnetic fields, so Faraday’s law of […]"
+    }
+  ]
+}

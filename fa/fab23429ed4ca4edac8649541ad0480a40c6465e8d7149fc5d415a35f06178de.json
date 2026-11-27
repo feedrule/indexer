@@ -1,0 +1,20 @@
+{
+  "url": "https://www.raisiqueira.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://raisiqueira.io/blog/2026-09-24-building-vuebench/",
+      "title": "Building VueBench: can coding agents fix real Vue bugs?",
+      "description": "Why I started evaluating coding agents on Vue 3 tasks, how VueBench checks their work, and what the first results do and do not tell us."
+    },
+    {
+      "link": "https://raisiqueira.io/blog/ai-buzzwords-guide/",
+      "title": "What Are LLMs, Agents and Open Weights? Translating the Language of AI.",
+      "description": "A practical guide to common AI terms such as LLMs, agents, harnesses, open-weight models, context windows, tokens, parameters, RAG, MCP, and more."
+    },
+    {
+      "link": "https://raisiqueira.io/blog/things-i-use-2026/",
+      "title": "Things I use (2026)",
+      "description": "An overview of my development setup and tools I use"
+    }
+  ]
+}

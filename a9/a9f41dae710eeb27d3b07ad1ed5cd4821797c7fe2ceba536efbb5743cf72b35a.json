@@ -1,0 +1,20 @@
+{
+  "url": "https://mainlymatmul.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://mainlymatmul.com/blog/pokemon-llm-tournament/",
+      "title": "I Spent $1000 Making LLMs Play Competitive Pokémon",
+      "description": "We ran a round-robin Pokémon Showdown tournament between ten frontier and open-weight model configurations, then read 26,220 of their decisions to see how they predict, bluff and sacrifice."
+    },
+    {
+      "link": "https://mainlymatmul.com/blog/diloco-speculator/",
+      "title": "SWARMS: Speculator Weight Adaptation via Remote Model Synchronization",
+      "description": "Every speculative decoding step already computes the labels a draft head needs. We train Qwen3.5-4B's MTP head on host CPUs from the traffic each engine is serving, without touching the serving path, and merge what every engine learns with DiLoCo. Experiments on 8-GPU nodes: +13.0% throughput per worker, a fleet that survives workers dying and an aggregator restart, and a distribution shift it fol"
+    },
+    {
+      "link": "https://mainlymatmul.com/blog/deepseek-v4-flash-tpu-v6e/",
+      "title": "Throughputmaxxing DeepSeek V4 Flash on TPU v6e",
+      "description": "What it took to serve DeepSeek-V4-Flash on TPU v6e (Trillium): 4-bit experts on a chip without 4-bit types, accuracy gates that caught a fake f32 all-reduce, latency-bound collectives, and the kernels that fixed each one. Then decode speed by concurrency, and the cost of one 8-chip prefill host feeding 64 decode chips."
+    }
+  ]
+}

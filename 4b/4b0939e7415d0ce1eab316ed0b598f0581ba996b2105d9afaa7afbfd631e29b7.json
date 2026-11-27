@@ -1,0 +1,20 @@
+{
+  "url": "https://oliviagallucci.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://oliviagallucci.com/company-culture-career-growth-new-beginnings/",
+      "title": "On Company Culture, Career Growth, and New Beginnings",
+      "description": "Where I've been, what's changing with my website, conferences, and [ret]2read, and what made my last workplace such a good place to grow. The post On Company Culture, Career Growth, and New Beginnings appeared first on Olivia A. Gallucci ."
+    },
+    {
+      "link": "https://oliviagallucci.com/iboot-stage-main-bootloader-security-on-macos/",
+      "title": "iBoot stage (main bootloader) security on macOS",
+      "description": "How iBoot on Apple Silicon Macs acts as the final secure gate before macOS launches by verifying signed boot assets, enforcing memory and hardware protections, validating the SSV, and making boot-level compromise significantly harder than attacks against the kernel or user space. The post iBoot stage (main bootloader) security on macOS appeared first on Olivia A. Gallucci ."
+    },
+    {
+      "link": "https://oliviagallucci.com/boot-rom-security-on-silicon-macs-m1-m2-m3/",
+      "title": "Boot ROM Security on Silicon Macs (M1/M2/M3)",
+      "description": "An overview of Apple Silicon Boot ROM security. Explains how SecureROM anchors the boot chain of trust, and exploits surrounding it. The post Boot ROM Security on Silicon Macs (M1/M2/M3) appeared first on Olivia A. Gallucci ."
+    }
+  ]
+}

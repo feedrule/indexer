@@ -1,0 +1,15 @@
+{
+  "url": "https://mgarletmilani.com/index.xml",
+  "posts": [
+    {
+      "link": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
+      "title": "Haskell diagrams: Tessellations",
+      "description": "I recently came across some of Escher’s impressive and inspiring artworks. Maybe the impossible staircase is one of his most famous drawings, but he also worked a lot on tessellations. A tessellation is the covering of a surface with repeated shapes. A very familiar type of tessellation is the checkerboard, where the plane is covered with squares of alternating colors. What makes Escher’s tessella"
+    },
+    {
+      "link": "https://mgarletmilani.com/blog/2026-05-10-penrose-triangle/",
+      "title": "Haskell diagrams: Penrose triangle",
+      "description": "Drawing good illustrations is an important part in presenting my work to my peers. Mathematics is very abstract, and starting with the correct mental model is essential to understand the technical details. So far I used TikZ to produce precise, high-quality drawings. While TikZ is certainly impressive and feature-rich, the length of its manual is also impressive: slightly over 1300 pages. Oftentim"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.danieldemmel.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.danieldemmel.me/blog/i-thought-capturing-linux-kernel-events-would-help-agent-monitoring",
+      "title": "I thought capturing Linux kernel events would help agent monitoring a lot, but so far it doesn't seem to",
+      "description": "I replayed 800 AI agent runs inside a sandbox that records what the Linux kernel sees, and asked a small model to watch them with and without that evidence. A pre-registered test couldn't show it helped – here's what I learnt along the way."
+    },
+    {
+      "link": "https://www.danieldemmel.me/blog/what-active-parameters-dont-tell-you-about-running-big-moe-models-on-a-mac",
+      "title": "What active parameters don't tell you about running big MoE models on a Mac",
+      "description": "Benchmarking DeepSeek V4 Flash and GLM 5.3 Flash on a MacBook Pro – why parameter counts only predict the start, why the built-in draft model slows things down, and what it costs to keep your RAM back"
+    },
+    {
+      "link": "https://www.danieldemmel.me/blog/feedback-loop-engineering",
+      "title": "Feedback loop engineering",
+      "description": "Why the most important skill with AI coding agents isn't prompting or curating context – it's designing how they verify their own work"
+    }
+  ]
+}

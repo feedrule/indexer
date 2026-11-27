@@ -1,0 +1,20 @@
+{
+  "url": "https://aross.se/feed.rss",
+  "posts": [
+    {
+      "link": "https://aross.se/posts/2026-10-10-worktree-for-the-terminal/",
+      "title": "Worktree: manage Git worktrees from the terminal",
+      "description": "I have built Worktree, a command-line tool for finding, creating, and switching between Git worktrees across projects. Git worktrees let you work on ..."
+    },
+    {
+      "link": "https://aross.se/posts/2026-08-04-standout-featured-in-smalandsposten/",
+      "title": "Standout featured in Smålandsposten",
+      "description": "I was recently interviewed by Smålandsposten about Standout's profit-sharing model, which has been part of the company for more than a decade. It is o..."
+    },
+    {
+      "link": "https://aross.se/posts/2026-05-29-standout-is-iso-27001-certified/",
+      "title": "Standout is ISO 27001 certified",
+      "description": "As CEO of Standout, I have driven our ISO 27001 work from decision to certification. Standout is now certified according to ISO/IEC 27001:2022, which ..."
+    }
+  ]
+}

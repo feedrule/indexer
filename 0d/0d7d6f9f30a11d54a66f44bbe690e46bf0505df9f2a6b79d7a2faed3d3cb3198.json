@@ -1,0 +1,20 @@
+{
+  "url": "https://schristoph.online/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://schristoph.online/blog/how-ai-changes-the-way-we-work/?utm=rss-feed",
+      "title": "Just One More Thing: How AI Is Changing the Way We Work",
+      "description": "TL;DR: This is the handout for my IT day talk “Just One More Thing: How AI Is Changing the Way We Work” on 25 November 2026, written for people who were in the room and for those who weren’t. Working with several AI agents felt like having Lieutenant Columbo in the office: every few minutes one of them turned around at the door with “just one more thing.” What helped me was running the day like a"
+    },
+    {
+      "link": "https://schristoph.online/blog/weights-are-a-compilation-target/?utm=rss-feed",
+      "title": "Weights Are a Compilation Target (Complexity Pt.5)",
+      "description": "TL;DR: A team at MIT CSAIL asked OpenAI’s GPT-6 Astra to write small game-playing networks from the game rules and source code, with no task data, no gradient training and no practice games. Its Breakout network scored 517.4. The authors’ PPO baseline, trained for 500 million steps, scored 25.3. The authors also explain how Astra did it: it designed a program (work out where the ball will land, mo"
+    },
+    {
+      "link": "https://schristoph.online/blog/engine-still-isnt-the-car/?utm=rss-feed",
+      "title": "The Engine Still Isn't the Car",
+      "description": "TL;DR: In 2024 I argued that the model is the engine of a generative AI application, and that nobody buys a car for its engine. For agents that still holds, but the question now sits one level higher. An enterprise with many teams needs a car platform, a shared layer that governs models, tools, identity and releases, so each team can build its own car on top of it. The Enterprise Agentic AI Platfo"
+    }
+  ]
+}

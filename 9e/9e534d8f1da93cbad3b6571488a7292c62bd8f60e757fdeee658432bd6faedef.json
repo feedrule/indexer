@@ -1,0 +1,20 @@
+{
+  "url": "https://nikogura.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://nikogura.com/blog/accomplishments-not-actions/",
+      "title": "You Are Your Accomplishments, Not Your Actions",
+      "description": "Imperative engineers narrate their work as a string of verbs they perform — I push, I deploy, I run the migration — and when the verb finishes, the sentence is over and they walk away. A declarative system has no such sentence. It has a noun: a desired state a controller holds true forever. The verb feels like control because it makes you the subject, but it's an illusion — your visibility ends th"
+    },
+    {
+      "link": "https://nikogura.com/blog/people-are-not-cattle/",
+      "title": "People Are Not Cattle",
+      "description": "The 'replaceable cog' theory of management is the cattle model applied to humans — interchangeable, nameless, swap any one for another. It's true exactly as far as the work is a stateless, commodity replica. Your best people are not. They carry state you cannot reproduce — context, judgment, relationships, the undocumented why — which makes them pets, not cattle. Treat a pet like cattle and two th"
+    },
+    {
+      "link": "https://nikogura.com/blog/infrastructure-is-not-an-application/",
+      "title": "Infrastructure Is Not an Application",
+      "description": "We took the software-engineering playbook — DRY, long-lived feature branches, package managers, dynamic in-cluster orchestration — and pointed it wholesale at running infrastructure. It keeps breaking, and not because the tools are bad. An application is a stateless artifact you stamp out in identical, disposable copies; infrastructure is stateful, singular, and alive in production. The patterns t"
+    }
+  ]
+}

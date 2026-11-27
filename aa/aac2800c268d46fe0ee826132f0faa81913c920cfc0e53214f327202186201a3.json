@@ -1,0 +1,20 @@
+{
+  "url": "https://jonathan-frere.com/index.xml",
+  "posts": [
+    {
+      "link": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+      "title": "Anatomy of a Test",
+      "description": "Sometimes when talking about testing, I think we have a tendency to resort to broad ideas and jargon without sufficiently explaining what these things might look like in practice. Or worse, we do provide examples, but these are toy examples that look nothing like our real life code, and thus give weird impressions of what tests should actually look like. To try and counteract this a bit, let’s loo"
+    },
+    {
+      "link": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+      "title": "Pushing and Pulling: Three Reactivity Algorithms",
+      "description": "It’s looking like I’m going to need to build a reactive engine for work, so I’m going to prepare for that by writing down what I know about them. I want to look at three ways of building reactive engines: push reactivity, pull reactivity, and the hybrid push/pull combination that is used in a bunch of web frameworks. The Problem Statement The simplest way to visualise reactivity, in my opinion, is"
+    },
+    {
+      "link": "https://jonathan-frere.com/posts/command-pattern-followup/",
+      "title": "Additional Thoughts about the Command Pattern",
+      "description": "A couple of weeks ago, I wrote a post on my employer’s blog titled Undo, Redo, and the Command Pattern , which I ended up quite pleased with. Here, I wanted to add a couple of additional thoughts based on some of the discussions and things I’ve read since writing that post. Firstly, undo/redo isn’t the only use for the command pattern! This is something I wish I’d made more explicit in that post."
+    }
+  ]
+}

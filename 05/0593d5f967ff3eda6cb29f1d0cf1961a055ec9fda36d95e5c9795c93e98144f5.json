@@ -1,0 +1,20 @@
+{
+  "url": "https://giedrius.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://giedrius.blog/zig-protobuf-1/",
+      "title": "Working on protobuf decoder in zig; part one",
+      "description": "I am working on a small protobuf decoder & encoder for Zig that uses comptime to generate encoding/decoding functions and I wanted to share some observations. At this point, I wrote a few hundred lines of Zig so take this with a grain of salt. I found it hard to debug things erroring out at comptime . @compileError() and @compileLog() builtins were a huge help - you can print anything, anywhere to"
+    },
+    {
+      "link": "https://giedrius.blog/learning-italian-b1/",
+      "title": "Learning Italian - B1",
+      "description": "I have been learning Italian a lot over the last almost 2 years and I wanted to share my progress. Learning languages is especially difficult for me somehow. I wanted to prove to myself that I can learn them. It is also very fun, expands your horizons, and I think, even makes your brain age slower. I took the CILS (Certificazione di Italiano come Lingua Straniera) test at the Vilnius Institute of"
+    },
+    {
+      "link": "https://giedrius.blog/zig-crash-interfaces/",
+      "title": "Zig crash - interfaces",
+      "description": "I am learning Zig a little bit and I encountered this interesting case: fn handleConnection (conn: std.Io.net.Stream, io: std.Io) ! void { var buffer: [ 1024 ] u8 = .{ 0 } ** 1024 ; var inBuf: [ 1024 ] u8 = .{ 0 } ** 1024 ; const reader = conn. reader (io, & inBuf); var writer = conn. writer (io, & buffer); var ri = reader.interface; var http_server = std.http.Server. init ( & ri, & writer.interfa"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://robjhyndman.com/index.xml",
+  "posts": [
+    {
+      "link": "https://robjhyndman.com/publications/cpts.html",
+      "title": "Online conformal inference for multi-step time series forecasting",
+      "description": "We study the construction of distribution-free prediction intervals for multi-step time series forecasting. In this setting, forecast errors at different horizons are serially dependent, and feedback is delayed, since the error of an -step-ahead forecast becomes available only after periods. We propose autocorrelated multi-step conformal prediction (AcMCP), an online procedure that accommodates de"
+    },
+    {
+      "link": "https://robjhyndman.com/hyndsight/scholarly_books.html",
+      "title": "The future of scholarly books",
+      "description": "On Monday, I took part in a Springer Nature roundtable on “The Future of Scholarly Books”, held in Melbourne. Around the table were publishers, librarians and authors. We had a wide-ranging discussion about how scholarly books are valued, used, funded and trusted. I was invited both as an author of scholarly books and as a publisher of them through OTexts . I described how OTexts started, how it i"
+    },
+    {
+      "link": "https://robjhyndman.com/seminars/ts_surprises.html",
+      "title": "Surprises in time series analysis",
+      "description": "Part of Time Series Connect webinar series Monday 26 October 2026, 6:00 PM Eastern Time Abstract I will present a statistical framework for identifying anomalies in three time series settings: unusual observations within a single historical series, unusual series within a large collection, and real-time surveillance of incoming data streams. In each case, anomalies are identified using a probabili"
+    }
+  ]
+}

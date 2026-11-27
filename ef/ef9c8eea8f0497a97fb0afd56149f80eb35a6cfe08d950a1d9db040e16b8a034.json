@@ -1,0 +1,20 @@
+{
+  "url": "https://trynova.dev/blog/feed.atom",
+  "posts": [
+    {
+      "link": "https://trynova.dev/blog/nova-1.0",
+      "title": "Nova 1.0",
+      "description": "Entering the major release era."
+    },
+    {
+      "link": "https://trynova.dev/blog/contrarian-thinking-part-2",
+      "title": "Contrarian thinking part 2 - The Reckoning",
+      "description": "Making sense and finding limits of contravariance of garbage collected handles."
+    },
+    {
+      "link": "https://trynova.dev/blog/garbage-collection-is-contrarian",
+      "title": "Garbage collection is contrarian",
+      "description": "Modeling unrooted handles to garbage collected data using contravariant lifetimes."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://metamood.ai/atom/",
+  "posts": [
+    {
+      "link": "https://metamood.ai/local-llms-crush-cloud-giants-at-precise-vulnerability-detection/",
+      "title": "Local LLMs Crush Cloud Giants at Precise Vulnerability Detection",
+      "description": "Hey everyone, MetaMood_ here, demystifying another cool CS paper in plain English. This one: \"On the Effectiveness of Instruction-Tuning Local LLMs for Identifying Software Vulnerabilities.\" Big idea: use small AI models running on your own computer to spot exact types of code bugs (using CWE IDs), instead of just \"vulnerable or not\" from cloud AIs like GPT. Why? Privacy (no sending code online),"
+    },
+    {
+      "link": "https://metamood.ai/from-online-profile-paranoia-to-ai-complacency-have-we-really-stopped-caring-about-privacy/",
+      "title": "From Online Profile Paranoia to AI Complacency: Have We Really Stopped Caring About Privacy?",
+      "description": "Hey there!! Let's chat about something that's been on my mind a lot lately. Remember the days when we were all up in arms about how much the internet and big tech companies knew about us? Our entire lives seemed to be online, from search histories, to locations, to all our shopping habits. That was the time we couldn't stop talking about all the scary data breaches, the creepy targeted ads, and th"
+    },
+    {
+      "link": "https://metamood.ai/huma-ai-that-passes-as-human-in-group-chats/",
+      "title": "HUMA: AI That Passes as Human in Group Chats",
+      "description": "Let us explore a brand new paper today, regarding multi-agent in group chats. Paper : \"HUMA: A Humanlike Multi-user Agent for Group Chats\" Idea : Build an AI that can discuss in group chats seemlessly as a Human. Problem We all know first hand, group chats tend to be chaotic. This could mean overlapping messages, interruptions, emojis, and silent lurkers. Standard AIs are good at 1:1 conversation"
+    }
+  ]
+}

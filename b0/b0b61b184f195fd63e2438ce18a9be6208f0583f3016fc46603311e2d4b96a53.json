@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.dark.ca/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.dark.ca/posts/16-years-of-devopsdays/",
+      "title": "16 Years of DevOpsDays: A Look at the Numbers",
+      "description": "Since the first DevOpsDays in Ghent in 2009, the community has organised well over 700 events across every populated continent. Here's what the shape of that history looks like. The long arc, 2009–2026 Events grew steadily from a handful in the early years to a peak of 81 in 2020 (yes, the pandemic year). The virtual format lowered the barrier to entry: no venue costs, no travel logistics, no bord"
+    },
+    {
+      "link": "https://blog.dark.ca/posts/building-a-mostly-reliable-ai-research-assistant/",
+      "title": "Building a (mostly) reliable research assistant",
+      "description": "If you install software from a public package registry (npm, PyPI, Crates, etc.), every security decision that registry makes sits inside your trust boundary. You don't run the infrastructure, you don't set the publisher policies, you don't decide what \"verified\" means, and whatever the registry (fails to) enforce travels straight into your build. This is a well-studied surface. Sonatype tracked m"
+    },
+    {
+      "link": "https://blog.dark.ca/posts/easily-keep-you-local-git-repo-up-to-date/",
+      "title": "Easily keep your local git repo up to date",
+      "description": "(This post originally appeared on dev.to ) Here's how to keep your clone of a Git repository current with upstream quickly and efficiently. Just pop this snippet into the .git/config of your local checkout and you're good to go (some assembly required). [ remote \" upstream \"] url = < http ur l > fetch = +refs/heads/ * :refs/remotes/upstream/ * [ alias ] refresh = \" !git checkout main && git fetch"
+    }
+  ]
+}

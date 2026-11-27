@@ -1,0 +1,20 @@
+{
+  "url": "https://kkovacs.eu/index.xml",
+  "posts": [
+    {
+      "link": "https://kkovacs.eu/task-like-a-19th-century-prussian-general/",
+      "title": "Task like a 19th century Prussian general",
+      "description": "Tasking people effectively is very hard to do, as I've learned in my late 20s, my first time being a manager-architect of a developer team. Now in 2026, when every developer (and soon every office worker) have teams of AIs standing at their command, tasking is not a niche skill anymore that only 5% of the population needs to know. My personal method, honed from years of personal mistakes, turned o"
+    },
+    {
+      "link": "https://kkovacs.eu/instant-legacy-code/",
+      "title": "Instant-legacy code",
+      "description": "I admit that I am an open-weight model aficionado. I do 95% of my work on OpenCode Go subscriptions. (Rest is OpenRouter pay-as-you-go.) Not only because I believe the world views and actions of Dario, Sam, Donald and a few others is the worst thing that happened to technology in the past years; not only because I was part of the Linux jihad against another monopoly (Microsoft) decades ago. It's n"
+    },
+    {
+      "link": "https://kkovacs.eu/opencode-go-with-claude-code/",
+      "title": "Using your Opencode Go subscription in Claude Code",
+      "description": "TL;DR: #export ANTHROPIC_DEFAULT_OPUS_MODEL=minimax-m3 export ANTHROPIC_DEFAULT_SONNET_MODEL=minimax-m3 export ANTHROPIC_DEFAULT_HAIKU_MODEL=minimax-m3 export CLAUDE_CODE_SUBAGENT_MODEL=minimax-m3 export ANTHROPIC_BASE_URL=\"https://opencode.ai/zen/go/\" export ANTHROPIC_AUTH_TOKEN=\"\" export ANTHROPIC_API_KEY=\"$OPENCODE_API_KEY\" You can use only the Anthropic-compatible models: check on OpenCode Go'"
+    }
+  ]
+}

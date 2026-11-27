@@ -1,0 +1,20 @@
+{
+  "url": "https://twdev.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://twdev.blog/2026/02/bash_incognito/",
+      "title": "Shell quick tips: Bash incognito mode",
+      "description": "Shell history is essential but sometimes undesired and has to be disabled. This is often the case when working with API keys, passwords or any type of credentials. I often find myself using API keys like that when working on a new script or doing some simple API tests with curl . Bash, allows disabling history using: set +o history but this is not very convenient as the history is disabled in the"
+    },
+    {
+      "link": "https://twdev.blog/2025/12/ccleanup/",
+      "title": "golang's defer in C (kind of)",
+      "description": "Quite often I find myself landing on gcc’s attributes documentation page. Not sure how that happens but this is always a gold mine. I’ve recently discovered __attribute__((cleanup(func))) , which allows attaching functions to variables. These functions are executed when the variable goes out of scope. Sounds familiar?"
+    },
+    {
+      "link": "https://twdev.blog/2025/11/robin_hood/",
+      "title": "Experimenting with Robin Hood hashing",
+      "description": "I’ve recently discovered a paper 1 about Robin Hood hashing and decided to perform some simple experiments and check how a trivial, custom implementation of a hash table employing this algorithm stacks against unordered_map ."
+    }
+  ]
+}

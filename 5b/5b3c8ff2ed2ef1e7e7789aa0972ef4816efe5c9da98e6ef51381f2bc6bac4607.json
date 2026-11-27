@@ -1,0 +1,20 @@
+{
+  "url": "https://www.oidaisdes.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.oidaisdes.org/blog/coding-agents-making-me-dumber",
+      "title": "Coding Agents: Are They Making Me Dumber?",
+      "description": "Tools like GitHub Copilot or ChatGPT make it easy to generate code. But what are the consequences for our cognitive skills?"
+    },
+    {
+      "link": "https://www.oidaisdes.org/blog/aria-notify-browser-support",
+      "title": "How good is Browser Support for the ARIA Notify API?",
+      "description": "More and more platforms and browsers support the new API. I did some tests with different screen readers."
+    },
+    {
+      "link": "https://www.oidaisdes.org/blog/dialog-closedby-attribute",
+      "title": "Enhance Dialogs with the closedby Attribute",
+      "description": "Easily add light dismiss behavior or prevent accidental closing via the Escape key."
+    }
+  ]
+}

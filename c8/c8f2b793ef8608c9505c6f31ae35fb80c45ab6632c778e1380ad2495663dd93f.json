@@ -1,0 +1,20 @@
+{
+  "url": "https://bennhuang.com/index.xml",
+  "posts": [
+    {
+      "link": "https://bennhuang.com/posts/we-need-more-7x24-autonomous-agents/",
+      "title": "How many of your agents work 24/7?",
+      "description": "This started as an internal talk I gave recently. Ideas get feedback more easily once they’re written down, so I’m putting it here too. We lean on agents heavily, but only as personal sidekicks We already use AI agents a ton. So why doesn’t the team feel more agent-native? Almost everyone here is a heavy user of one agent or another, things like Claude Code, Codex, OpenClaw, Manus. Many people run"
+    },
+    {
+      "link": "https://bennhuang.com/posts/why-your-openclaws-browser-keeps-getting-captchas/",
+      "title": "Why OpenClaw's browser keeps getting CAPTCHAs",
+      "description": "I’ve been running OpenClaw as my daily AI agent for a while. The browser ended up being the thing I had to fix. For weeks, my OpenClaw kept giving me mediocre results on deep research tasks and I couldn’t figure out why. Everything looked fine until I started checking the sources. Turns out it was getting blocked by almost every major site, even with my accounts logged in, and quietly falling back"
+    },
+    {
+      "link": "https://bennhuang.com/posts/moltbot-experience/",
+      "title": "Moltbot first impressions: it really feels like an AI intern",
+      "description": "I’ve been playing around with Moltbot (formerly ClawdBot) for a while now. Bottom line: it’s genuinely fun. None of the ideas are new on their own, but the way they come together is surprisingly compelling. Fair warning though—the bugs can be brutal. I haven’t been this frustrated debugging something in ages. Still, it’s worth it. Using Moltbot feels uncannily like working with a remote intern. Th"
+    }
+  ]
+}

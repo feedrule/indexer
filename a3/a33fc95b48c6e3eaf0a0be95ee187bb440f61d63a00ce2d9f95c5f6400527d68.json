@@ -1,0 +1,20 @@
+{
+  "url": "https://jakewharton.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://jakewharton.com/compose-and-kotlinx-html/",
+      "title": "Compose & kotlinx.html",
+      "description": "Let's render a simple page with Ktor server and kotlinx.html : get ( \"/users.html\" ) { call . respondHtml { myLayout ( title = \"Users\" ) { userList ( users = db . users . value , ) } } } A reusable myLayout provides scaffolding, userList encapsulates the specific page content, and db.users is a StateFlow<List<User>> from the persistence layer. I've been doing this over and over to create admin das"
+    },
+    {
+      "link": "https://jakewharton.com/live-coding-with-dir-stepper/",
+      "title": "Live coding with dir stepper",
+      "description": "Two months ago I gave my first ever live programming talk at KotlinConf. It was called \"Talking to terminals (and how they talk back)\", and you can watch it here . I've previously done slide-heavy talks which contained small demos or navigating through an existing codebase. Since this talk was starting from nothing, I decided to just write all the code from nothing. This meant spending the majorit"
+    },
+    {
+      "link": "https://jakewharton.com/the-lysine-contingency/",
+      "title": "The lysine contingency",
+      "description": "I'm happy to announce that Retrofit, OkHttp, and Okio are moving to a new GitHub organization, and along with SQL Delight are all joining the Commonhaus Foundation . You can read their announcement of the move . This move is meant to reinforce our commitment to these projects' longevity and honor the fact that they've long since outgrown the stewardship of a single company. The transfer of these p"
+    }
+  ]
+}

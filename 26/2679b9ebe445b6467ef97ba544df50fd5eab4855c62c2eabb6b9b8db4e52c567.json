@@ -1,0 +1,10 @@
+{
+  "url": "https://bmin.ai/feed",
+  "posts": [
+    {
+      "link": "https://bmin.ai/retrofitting/",
+      "title": "Four Ingredients for Successful Language Model Retrofitting",
+      "description": "Retrofitting enables GPU-poor people (like most of us) to do language model architecture research without falling very far off the frontier of the best open models since the cost of retrofitting an existing model is a small fraction of the cost of training a new model from scratch. Even if you do have the budget to train from scratch, retrofitting could give you a substantially faster pace of new"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.rssproject.nl/xml/feed",
+  "posts": [
+    {
+      "link": "https://www.rssproject.nl/style",
+      "title": null,
+      "description": "I have decided to remove the 'copy XML' option from the feed style, because it doesn't work for WebKit-based browsers. Still it taught me how to access the XML DOM, which I may be able to use for the writer/reader in the future."
+    }
+  ]
+}

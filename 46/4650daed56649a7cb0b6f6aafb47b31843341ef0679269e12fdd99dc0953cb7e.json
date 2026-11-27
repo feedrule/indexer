@@ -1,0 +1,20 @@
+{
+  "url": "https://alex.kaskaso.li/feed.xml",
+  "posts": [
+    {
+      "link": "https://alex.kaskaso.li/post/ai-infrastructure-security",
+      "title": "AI cybersecurity evaluations: infrastructure security",
+      "description": "AI cybersecurity evaluations: infrastructure security When we started building AI cybersecurity safety evaluations at Google DeepMind, we had to ask ourselves how to secure a workload that could exceed human expert capabilities and should be considered actively hostile. The framework we built for cyber eventually grew to run most of our frontier safety evaluations. What I describe here is not what"
+    },
+    {
+      "link": "https://alex.kaskaso.li/post/least-privilege-agents",
+      "title": "Least-privilege agents: runtime brokering and policy engines",
+      "description": "Least-privilege agents: runtime brokering and policy engines Identity and access management for agents is still evolving and the industry hasn’t yet converged on standard practices. In this post I work through one angle by demonstrating how to tightly scope an agent’s privileges at runtime, using an “SRE agent” running on Kubernetes as an example. We’ll discuss credential brokering, policy engines"
+    },
+    {
+      "link": "https://alex.kaskaso.li/post/vlm-captioning-retrieval",
+      "title": "Captioning images for retrieval: frontier vs 8B",
+      "description": "Captioning images for retrieval: frontier vs 8B TL;DR I wanted to know if there was any substantial difference between a frontier model and a small VLM for simple captioning of photos in a RAG pipeline. The answer is no, confirming priors. The experiment was conducted end to end with Claude Code in ~30 minutes, with human steering. This blog post was written entirely by the human in question (me)."
+    }
+  ]
+}

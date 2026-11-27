@@ -1,0 +1,20 @@
+{
+  "url": "https://jaime.win/feed.xml",
+  "posts": [
+    {
+      "link": "https://jaime.win/pad-live-coediting-with-agents/",
+      "title": "Collaborative editor for humans and AI Agents",
+      "description": "I built pad to co-edit a document with several AI agents inside the file I have open in Kiro. The agents read the editor buffer and write into it by anchor, so their edits land in the text while I keep typing, without a save step and without conflicts on line numbers. In the recording below, a copy editor, a structure editor and a reference checker work on a short paper while I write it. The sessi"
+    },
+    {
+      "link": "https://jaime.win/building-your-own-guppi/",
+      "title": "Voice Agents are useful again",
+      "description": "I’m a big fan of the Bobiverse, Dennis E. Taylor’s series that starts with We Are Legion (We Are Bob). Bob Johansson is a software engineer who signs up for cryonic preservation, gets hit by a car the next day, and wakes up a hundred-odd years later as a replicant, a scanned copy of his mind running an interstellar Von Neumann probe. The ship comes with GUPPI, the General Unit Primary Peripheral I"
+    },
+    {
+      "link": "https://jaime.win/reshaping-the-software-you-use/",
+      "title": "You can shape your Internet content",
+      "description": "User interfaces feel a bit hostile at times, but we can now shape the content we consume in ways we couldn’t before. For the last ten or twenty years software has consolidated into a handful of big vendors, and somewhere along the way the user stopped mattering much. Especially for anything paid for by ads, but not only there. We turned into data points to study, attention to grab, and someone to"
+    }
+  ]
+}

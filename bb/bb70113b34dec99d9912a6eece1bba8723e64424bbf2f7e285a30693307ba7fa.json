@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.melnib.one/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.melnib.one/2026/11/01/git-commit-based-reproducible-builds-with-maven/",
+      "title": "Git commit based reproducible builds with Maven",
+      "description": "I’ve been working on making my Maven builds byte-for-byte reproducible. This is generally pretty straightforward, and is documented on the Maven site . The short of it is that you need to specify an output timestamp in the POM, which lets Maven use that fixed point in time as the creation/modification timestamp for the files in your artifacts. Without a fixed timestamp, every build will be differe"
+    },
+    {
+      "link": "https://blog.melnib.one/2026/10/19/devoxx-2026/",
+      "title": "Devoxx 2026",
+      "description": "I attended another edition of Devoxx earlier this month. It’s been the traditional highlight of my professional year ever since I first attended one in 2007, when it was still called Javapolis. It’s always been a good place to learn about new and interesting things in the Java and broader development ecosystem, to catch up with friends and former coworkers, to cozy up to potential consulting prosp"
+    },
+    {
+      "link": "https://blog.melnib.one/2026/08/23/disabling-the-lid-sensor-on-a-thinkpad-p14s-gen4/",
+      "title": "Disabling the lid sensor on a ThinkPad P14s Gen4",
+      "description": "I spent a couple of days in mental agony over a really fucking weird bug: every time I closed and opened the lid on my ThinkPad P14s Gen4, the screen would remain blank (or black, really). This quick writeup shows the hardware surgery that ultimately “resolved” the issue, as well as a couple of failed attempts. Of course, “resolved” is somewhat relative here. The solution is perfect for me, the la"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://rnemeth90.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://rnemeth90.github.io/til/2026-11-11-windows-sticky-notes/",
+      "title": "Windows Sticky Notes",
+      "description": "Today I learned Windows Sticky Notes are backed by a sqlite database file. If you can access this directory, you can read other users’ sticky notes. C:\\Users\\<user>\\AppData\\Local\\Packages\\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\\LocalState\\plum.sqlite Don’t store sensitive data in your sticky notes!! You can open the sqlite with any sqlite database browser utility. Or (simpler), you can just o"
+    },
+    {
+      "link": "https://rnemeth90.github.io/til/2026-08-17-pipes/",
+      "title": "linux Pipes",
+      "description": "Linux pipes only work within the same process family tree. If you are piping from procA to procB , they must both have the same parent process (e.g. bash). For inter-process piping between unrelated processes, you can use a named pipe (also called a FIFO - First In, First Out). These are created with mkfifo and allow processes to communicate via a named file without being in the same process famil"
+    },
+    {
+      "link": "https://rnemeth90.github.io/projects/2023-08-17-dnspinger/",
+      "title": "DnsPinger: A Small .NET Tool for Diagnosing DNS Issues in Kubernetes",
+      "description": "DNS problems in Kubernetes are some of the most frustrating issues to chase down. They’re often intermittent, they can differ by node, by node pool, by which resolver actually answered the query, and the standard toolbox ( nslookup / dig run once by hand) doesn’t tell you much about a problem that only shows up 1% of the time or only on certain nodes. I got tired of manually reproducing DNS flakin"
+    }
+  ]
+}

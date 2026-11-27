@@ -1,0 +1,20 @@
+{
+  "url": "https://marcinmilkowski.pl/feed/atom/",
+  "posts": [
+    {
+      "link": "https://marcinmilkowski.pl/2026/03/20/announcing-the-frontiers-in-psychology-corpus-21000-papers-ready-for-concept-mining/",
+      "title": "Announcing the Frontiers in Psychology Corpus: 21,000+ Papers Ready for Concept Mining",
+      "description": "We’re excited to release a comprehensive linguistic corpus of 21,084 papers published in Frontiers in Psychology between 2010 and 2021. This dataset is specifically designed for computational linguistics research and semantic analysis—and it’s fully compatible with our high-performance concept mining tool, ConceptSketch . Why This Corpus Matters The Frontiers in Psychology corpus represents over a"
+    },
+    {
+      "link": "https://marcinmilkowski.pl/2026/06/30/cleaning-up-the-metadata-mess-introducing-zotero-search-replace/",
+      "title": "Cleaning Up the Metadata Mess: Introducing Zotero Search & Replace",
+      "description": "If you use Zotero, you know the feeling. You’ve spent years building a library of thousands of items. But as that library grows, so does the “metadata debt.” You notice that some authors’ names have extra spaces before the comma. Some titles are in ALL CAPS. Your DOIs are inconsistent—some are full URLs, others are … Continue reading \"Cleaning Up the Metadata Mess: Introducing Zotero Search & Repl"
+    },
+    {
+      "link": "https://marcinmilkowski.pl/2026/02/05/introducing-zotero-name-normalizer/",
+      "title": "Introducing Zotero Name Normalizer",
+      "description": "For decades, reference managers have struggled with a simple problem: author names appear in many formats across different papers. The same scholar might be “Jerry Fodor”, “J.A. Fodor”, “Fodor, Jerry A.”, “JERRY FODOR”, or any number of variations. When I checked my Zotero library of over 9,700 items, I found almost 500 cases of name … Continue reading \"Introducing Zotero Name Normalizer\" The post"
+    }
+  ]
+}

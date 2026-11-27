@@ -1,0 +1,20 @@
+{
+  "url": "https://ovalenzuela.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://ovalenzuela.com/2026/10/telling-working-agent-from-wedged.html",
+      "title": "My AI Agent Fleet, Part 3: Working, Waiting, or Stuck",
+      "description": "Part 3 of five on running an AI agent fleet. Part 1 covered the two lanes and the rulebook they share, and part 2 reviewed the headless lane in detail. This is the lane with sessions I talk to directly, through a central coordinator. With 21 agents open at once, on several computers and across several products, I can’t watch every window or check all the work myself. I need to know which sessions"
+    },
+    {
+      "link": "https://ovalenzuela.com/2026/10/github-issue-to-pr-headless.html",
+      "title": "My AI Agent Fleet, Part 2: From a GitHub Issue to a Pull Request Without Watching a Terminal",
+      "description": "Part 2 of five on running an AI agent fleet. Part 1 covered the two lanes and the rulebook they share. This post is about the headless lane. An issue gets assigned on GitHub, and some time later a pull request appears with tests and a description. Nobody watched a terminal for any of it. If a decision is needed, the agent escalates a question to me, the human in the loop, and once I answer, the wo"
+    },
+    {
+      "link": "https://ovalenzuela.com/2026/10/agent-fleet-two-lanes.html",
+      "title": "My AI Agent Fleet, Part 1: Two Lanes, One Rulebook",
+      "description": "A friend asked how I use AI day to day. I started replying in chat, but four paragraphs in I realized I needed more room. Writing it down is also a good backup for when I forget how everything is wired, so I’m writing a series about the setup I actually run. Here’s how it works, roughly. Some of the work I drive myself: 21 Claude Code sessions stay open across three machines, and a coordinator age"
+    }
+  ]
+}

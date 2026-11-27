@@ -1,0 +1,20 @@
+{
+  "url": "https://www.anup.io/rss/",
+  "posts": [
+    {
+      "link": "https://www.anup.io/til-how-pytorch-gguf-ggml-and-llama-cpp-actually-fit-together/",
+      "title": "TIL: How PyTorch, GGUF, ggml, and llama.cpp Actually Fit Together",
+      "description": "If you have ever dabbled in running local LLMs, you have probably seen acronyms like PyTorch , GGUF , ggml , and llama.cpp thrown around together. For a long time, I wasn't entirely sure where one ended and the other began. Today I learned how the local AI stack actually"
+    },
+    {
+      "link": "https://www.anup.io/til-claude-shannons-six-ways-to-get-unstuck/",
+      "title": "TIL: Claude Shannon's six ways to get unstuck",
+      "description": "In his 1952 talk on creative thinking , Claude Shannon describes constructive dissatisfaction : seeing something that works and suspecting there’s a simpler or better way to do it. I like that phrase. It captures a lot of what makes engineering enjoyable. You get something working, notice an awkward part,"
+    },
+    {
+      "link": "https://www.anup.io/til-six-ways-to-cut-llm-costs/",
+      "title": "TIL: Six ways to cut LLM costs",
+      "description": "Prompt caching. Put stable instructions, examples and tool schemas before changing inputs. An identical prefix can reuse earlier computation; the model still generates a fresh answer. Measure cache hits and account for cache-write costs. Claude Platform Docs Model routing. Send each task to the cheapest model that passes your"
+    }
+  ]
+}

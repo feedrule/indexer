@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ironclad-os.org/blog.xml",
+  "posts": [
+    {
+      "link": "https://blog.ironclad-os.org/introducing-oss-support-in-ironclad/",
+      "title": "Introducing Open Sound System (OSS) support to Ironclad",
+      "description": "Sound is a core part of modern computer usage. We spend our days watching videos and streams, listening to music as a companion to our day to day lives, and Ironclad has failed at exposing good audio interfaces to userland, until now that is! Ironclad has introduced support for the Open Sound System (OSS) , a free software audio infrastructure traditionally present in many Unix-like systems like L"
+    },
+    {
+      "link": "https://blog.ironclad-os.org/ironclad-at-aeic2026/",
+      "title": "Ironclad at AEiC 2026's Developers Workshop",
+      "description": "Ironclad will make an appearance at the 3rd Ada Developers Workshop this 12 June 2026 at Västerås, Sweden. The talk will delve on progress on the project since its 2024 AEiC Developer’s Workshop presentation, including its progress in virtualization, real time computing, and networking, alongside organizational aspects of the project, and feature a technical showcase of the project running Gloire,"
+    },
+    {
+      "link": "https://blog.ironclad-os.org/a-new-release-schedule-for-gloire/",
+      "title": "A new release schedule for Gloire",
+      "description": "Gloire , Ironclad’s reference distribution, has suffered from a poor release cycle for the longest time. Today, we fix that! Gloire’s release schedule has historically been problematic due to a combination of factors. The lack of compute resources and poor server infrastructure discouraged us from making frequent releases. Additionally, Ironclad’s slow development cycle made these releases less re"
+    }
+  ]
+}

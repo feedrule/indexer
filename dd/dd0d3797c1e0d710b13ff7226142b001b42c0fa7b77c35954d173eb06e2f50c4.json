@@ -1,0 +1,15 @@
+{
+  "url": "https://iddogino.com/posts.atom",
+  "posts": [
+    {
+      "link": "https://iddogino.com/configuring-posthaven-with-clouldflare-too-many-redirects",
+      "title": "Configuring Posthaven with Clouldflare -- too many redirects?",
+      "description": "meta: part of my purpose with this site was to document things I am working on. In that spirit I figured I should document a lil challenge I had in setting up this site. Setting up a post haven site with a custom domain seems deceptively easy - just put your custom domain name in the Posthaven dashboard and you are all set... right? Setting up my domain - I quickly ran into a problem. Namely, ever"
+    },
+    {
+      "link": "https://iddogino.com/right-click-to-copy-any-file-as-markdown-on-mac",
+      "title": "Right click to copy any file as markdown on Mac",
+      "description": "One underrated side effect of the AI revolution - everyone's finally using Markdown! I find myself often converting files to Markdown for use in AI prompts (ChatGPT and Claude let you upload files, but can’t do that running Ollama locally & on many other chat platforms) so manual markdown conversion is still useful. My go-to is to use the markitdown utility from microsoft which is great for almost"
+    }
+  ]
+}

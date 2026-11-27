@@ -1,0 +1,20 @@
+{
+  "url": "https://redfrontdoor.org/blog/?feed=rss2",
+  "posts": [
+    {
+      "link": "https://redfrontdoor.org/blog/?p=4047",
+      "title": "“But can it run Doom?”",
+      "description": "Some time ago now, a colleague and I were running a coding workshop for young people, using Pytch. We were talking with the club’s facilitator about Pytch, and he asked the age-old question: But can it run Doom? The obvious answer was “no, sorry, this is just a 2D system”, but the question nagged at me, and eventually I put some time into thinking properly about whether Pytch could do something wh"
+    },
+    {
+      "link": "https://redfrontdoor.org/blog/?p=4029",
+      "title": "More Dragon 32 nostalgia",
+      "description": "Continuing the Dragon 32 theme, I extracted from cassette a sequence of versions of a Tetris clone I wrote long ago, and tidied it up a bit."
+    },
+    {
+      "link": "https://redfrontdoor.org/blog/?p=4023",
+      "title": "Reverse-engineering the Dragon 32 game Invader’s Revenge",
+      "description": "Partly for the challenge, and partly for nostalgia, I reverse-engineered the Dragon 32 game Invader's Revenge, creating an essentially complete commented disassembly. I also created a Pytch version, which is embedded in the full write-up."
+    }
+  ]
+}

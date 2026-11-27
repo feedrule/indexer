@@ -1,0 +1,20 @@
+{
+  "url": "https://pablofernandez.tech/feed/",
+  "posts": [
+    {
+      "link": "https://pablofernandez.tech/2026/11/16/my-first-week-learning-vllm/",
+      "title": "My First Week Learning vLLM",
+      "description": "When I first read about KV caching in AI Engineering by Chip Huyen, I remember wondering why I was reading this. I was never going to use it. This week I spent quite a lot of time looking at KV cache charts. I’ve been learning deep learning for a while now, mostly through books and […]"
+    },
+    {
+      "link": "https://pablofernandez.tech/2026/09/02/tech-interviews-are-not-that-broken/",
+      "title": "Tech interviews are not (that) broken",
+      "description": "I constantly see the same complaints about job interviews: But those can be good software engineering interviews. The industry has become much better than it was when the complaints were: If none of these ring a bell, lucky you. Software engineering interviews used to be bad. They were bad in two different ways. Some were […]"
+    },
+    {
+      "link": "https://pablofernandez.tech/2026/05/30/applying-least-privilege-to-end-to-end-encrypted-dashboards/",
+      "title": "Applying least privilege to end-to-end encrypted dashboards",
+      "description": "Years ago I built an application called Dashman. Customers used it to show web dashboards on screens around an office, a factory, a classroom, or a public space: Google Analytics, internal Grafana, shop-floor counters, org announcements, whatever they cared about as long as it was on web pages. This post is a retrospective on how […]"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bstjohn.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.bstjohn.net/blog/homelab-sso-authentik/",
+      "title": "Single Sign-On for the Home Lab with Authentik",
+      "description": "Putting every home lab service behind one login with Authentik — Traefik forward-auth for apps without native SSO, OIDC for the rest, all declared in Git."
+    },
+    {
+      "link": "https://www.bstjohn.net/blog/3d-modelling-with-openscad/",
+      "title": "3D Modelling with OpenSCAD",
+      "description": "Replacing broken toy parts and household bits with parametric OpenSCAD code, plus the CI pipeline, in-browser customiser and agent workflow around it."
+    },
+    {
+      "link": "https://www.bstjohn.net/blog/claws/",
+      "title": "My Own Personal Claws",
+      "description": "I replaced OpenClaw with my own automation system that refines issues, implements features, fixes CI and turns voice notes into code for a single developer."
+    }
+  ]
+}

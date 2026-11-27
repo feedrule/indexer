@@ -1,0 +1,20 @@
+{
+  "url": "https://syndicate-lang.org/journal/index.atom",
+  "posts": [
+    {
+      "link": "https://syndicate-lang.org/journal/2026/09/02/syndicate-rust-scripts",
+      "title": "Single-file Rust Syndicate services",
+      "description": "As of crates syndicate v0.44.0-rc.6 and syndicate-macros v0.35.0-rc.4 , and in conjunction with the new cargo -Zscript feature , it is now possible to write single-file Rust Syndicate services that can be started from syndicate-server as separate processes. If you place the following code into, say, test.rs , and then chmod a+x test.rs , you will be able to run ./test.rs and feed it snippets of th"
+    },
+    {
+      "link": "https://syndicate-lang.org/journal/2026/08/18/syndicate-ts-plugin",
+      "title": "TypeScript IDE Syndicate plugin: good news!",
+      "description": "🎉🎉🎉 Back in July last year, more than two years (!) after noticing the problem , I finally figured out a way to get the Syndicate/TypeScript IDE support plugin working with TypeScript 5.x. 1 And, happily, the 5.x support also works with 4.x, so a single package can work with both. TL;DR : I merged it into main on 12th July 2025, and currently-released packages have the improvement. The TypeScript"
+    },
+    {
+      "link": "https://syndicate-lang.org/journal/2025/09/17/questions-and-answers",
+      "title": "Questions and Answers",
+      "description": "The Syndicated Actor Model (SAM) claims to enable conversations between software actors. Is this just a metaphor? Or is it anthropomorphic gloss to obscure details which wouldn’t hold up under examination? The question & answer (Q&A) protocol is a prime example of communication using what is arguably a literal application of human conversational concepts. By deconstructing Q&A we can examine the b"
+    }
+  ]
+}

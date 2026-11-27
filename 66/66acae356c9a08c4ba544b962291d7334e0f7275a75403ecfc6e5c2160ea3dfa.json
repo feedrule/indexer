@@ -1,0 +1,20 @@
+{
+  "url": "https://pzel.name/feed.xml",
+  "posts": [
+    {
+      "link": "https://pzel.name/2026/05/05/Scrolling-read-only-buffers-with-Spacebar-in-Emacs.html",
+      "title": "Scrolling read-only buffers with Spacebar in Emacs",
+      "description": "A small usability improvement If you are used to scrolling reading material with your spacebar and you dislike Emacs’ unhelpful default (showing Buffer is read-only: #<buffer blah.txt> in the minibuffer) when trying to do so in a read-only buffer, I have a simple solution: Create a function that maps <SPC> to #'scroll-up-command when the current buffer is read-only: (defun set-read-only-spacebar ("
+    },
+    {
+      "link": "https://pzel.name/2025/01/06/Built-in-Japanese-Dictionary-App-on-iPhone.html",
+      "title": "Built-in Japanese Dictionary App on iPhone",
+      "description": "Reviving Dictionary.app on your iPhone (kind of) Desktop Macs come with a superbly useful application called Dictionary.app , which is slowly getting shuffled out of sight in favor of ‘integrated’ search in Spotlight. I think this is a shame, since the quality of the dictionaries that come for free with Mac OS is simply outstanding. I first got a Mac in Japan in 2005, while studying in Tokyo, and"
+    },
+    {
+      "link": "https://pzel.name/2024/12/15/2024-in-review.html",
+      "title": "My recreational programming in 2024: Mostly Standard ML",
+      "description": "The year in review To the extent that lack of free time permits, I try to do some recreational programming on the side, unrelated to my dayjob or any money-making concerns. I find it helps me retain some love for the subject matter, and keeps me sharp. In the past year, I’ve gotten into Standard ML programming, using the excellent PolyML compiler, and got a bunch of tiny projects done. The approac"
+    }
+  ]
+}

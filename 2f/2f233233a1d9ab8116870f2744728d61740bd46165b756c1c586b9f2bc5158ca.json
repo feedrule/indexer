@@ -1,0 +1,20 @@
+{
+  "url": "https://ashpex.net/index.xml",
+  "posts": [
+    {
+      "link": "https://ashpex.net/2026/09/state-of-my-homelab-in-2026/",
+      "title": "State of My Homelab in 2026: k3s on NixOS and GitOps with FluxCD",
+      "description": "It has been a year since I last posted an update about my homelab, and a lot has changed since then, maybe almost everything. You can probably tell just by looking at the post image. Yes, I finally joined the club and built a mini rack."
+    },
+    {
+      "link": "https://ashpex.net/2026/05/give-my-thinkpad-a-new-life/",
+      "title": "Giving my ThinkPad T480 a new life",
+      "description": "I need an ethernet port I was tinkering with my router setup, and I needed a computer with an ethernet port. Simple enough, except my daily driver is an M4 Pro MacBook. Great laptop, but Apple decided everything should be USB-C. And of course, I don’t have a USB-C hub with ethernet either."
+    },
+    {
+      "link": "https://ashpex.net/2026/02/why-i-switched-from-arch-to-nixos/",
+      "title": "Why I switched from Arch to NixOS",
+      "description": "My problem with Arch and other Linux distros I have been a proud Arch linux user since 2019. Six years is the longest time I’ve stuck with any distro, which is saying something considering I’ve hopped through Debian, Ubuntu, Mint, Pop!_OS, Manjaro… just like any normal linux distro hopper."
+    }
+  ]
+}

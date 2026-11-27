@@ -1,0 +1,20 @@
+{
+  "url": "https://tech.michaelaltfield.net/feed/",
+  "posts": [
+    {
+      "link": "https://tech.michaelaltfield.net/2026/03/03/ai-venezuela-iran/",
+      "title": "The Banality of Artificial Intelligence",
+      "description": "What happens when an AI hallucination leads to bombing an elementary school? ⚠ Disclaimer: While there is sufficient evidence to indicate that Israel has used AI to determine the targets of their bombing, there is currently insufficient evidence to conclude that the US military is using AI to determine the targets of their bombings. The allegation that the United States is using AI to determine ta"
+    },
+    {
+      "link": "https://tech.michaelaltfield.net/2026/02/03/single-site-browser-firejail-proxychains/",
+      "title": "Persistent, Sandboxed, Single-Site Browser (firejail and proxychains)",
+      "description": "Or how to avoid getting locked-out of another Google Account This guide will describe how to setup a persistent browser (for Evil Corp) that’s isolated in a sandbox (with firejail) and forced to use a SOCKS5 proxy to retain a static IP address (using proxychains) Have you ever been locked out of your own account, and then got an email for your service provider annoyingly letting you know that they"
+    },
+    {
+      "link": "https://tech.michaelaltfield.net/2025/12/09/techlore-interview-2025/",
+      "title": "Techlore Interview (BusKill, Interdiction, and OpSec)",
+      "description": "I’m super happy that Techlore invited me on their YouTube channel to talk security and privacy 😀 Henry was mostly interested in my work with BusKill (an open-source dead man switch), but our conversation ran a gamut of issues regarding security and privacy — including How to mitigate State-sponsored interdiction attacks, minimizing attack surfaces of mobile phones with broadband processors, the th"
+    }
+  ]
+}

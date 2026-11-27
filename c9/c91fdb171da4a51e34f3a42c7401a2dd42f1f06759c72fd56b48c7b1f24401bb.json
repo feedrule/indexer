@@ -1,0 +1,20 @@
+{
+  "url": "https://edw.is/feed.xml",
+  "posts": [
+    {
+      "link": "https://edw.is/lucasmelor-2025-interview/",
+      "title": "lucasmelor interview with Elias Daler about PS1 development",
+      "description": "Recently, I gave an inteview to a Paraguayan YouTuber lucasmelor who made a great video about my PS1 game development work. The video is in Spanish, but the English version is coming soon. You can find the original inteview (originally done in English) below. P.S. I wish I had more time to do writeups about my PS1 work. For now, I mostly post about it on Twitter! lucasmelor (LM): What was the bigg"
+    },
+    {
+      "link": "https://edw.is/gcores_2025_interview/",
+      "title": "GCORES 2025 interview",
+      "description": "I gave an interview to Lee Cisco for GCORES (a Chinese website about videogames). You can find the article in Chinese here. The inteview was performed in English, so I’m publishing the original here. (LC - Lee Cisco. ED - Elias Daler) LC: Your current project runs on actual PS1 hardware, which is incredibly impressive. What motivated you to develop a brand-new game for actual PS1 hardware? Was it"
+    },
+    {
+      "link": "https://edw.is/learning-vulkan/",
+      "title": "How I learned Vulkan and wrote a small game engine with it",
+      "description": "Comments (GitHub discussion) Comments (Hacker News) tl;dr: I learned some Vulkan and made a game engine with two small game demos in 3 months. The code for the engine and the games can be found here: https://github.com/eliasdaler/edbr Table Of Contents Preface Learning graphics programming Bike-shedding and how to avoid it Why Vulkan? Learning Vulkan Engine overview and frame analysis General advi"
+    }
+  ]
+}

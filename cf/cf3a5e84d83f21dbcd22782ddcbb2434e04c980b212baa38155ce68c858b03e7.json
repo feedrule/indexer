@@ -1,0 +1,20 @@
+{
+  "url": "https://swiftwithmajid.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://swiftwithmajid.com/2026/10/14/adapting-your-app-for-iPhone-duo/",
+      "title": "Adapting your app for iPhone Duo",
+      "description": "iPhone Duo became the first folding iPhone providing us with two displays of different sizes and aspect ratios. This week, we will talk about adapting our apps to different screen sizes using simple techniques that Apple UI frameworks provide us."
+    },
+    {
+      "link": "https://swiftwithmajid.com/2026/09/29/iterative-data-loading-in-swift/",
+      "title": "Iterative data loading in Swift",
+      "description": "How to deal with complex features that might need 40–50 async requests to populate the screen? How might we arrange these requests to prevent overwhelming the Cooperative Thread Pool, or how could we refine concurrent tasks? This week, we will talk about the iterative data loading approach that I use in my CardioBot app."
+    },
+    {
+      "link": "https://swiftwithmajid.com/2026/09/22/backporting-swiftui-apis/",
+      "title": "Backporting SwiftUI APIs",
+      "description": "Usually, we don’t see many new APIs in intermediate releases like 27.1, but this time is different. Apple introduced several new iPhone Duo-related APIs in the 27.1 release. This week, we will learn how to use all of these new APIs without bumping your project’s target version."
+    }
+  ]
+}

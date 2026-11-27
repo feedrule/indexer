@@ -1,0 +1,20 @@
+{
+  "url": "https://pradyun.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://pradyun.net/notes/synthesis_bugs.html",
+      "title": "Synthesis Bugs",
+      "description": "I've been pretty busy over the last month, and it probably won't get any better over the next two weeks! So this post is a bit of a cop-out to hit my once-per-month goal. I was interviewing at a certain arrow-having company last week. There was a question about what a really hard technical bug I had to debug was, and how I solved it. I ended up talking about a bug in Synopsys Design Compiler that"
+    },
+    {
+      "link": "https://pradyun.net/blog/avy_and_other_things.html",
+      "title": "Avy, Not-Zettelkasten, Pictures, and Other Stuff",
+      "description": "There's a smattering of things I've wanted to write about, but they're all fairly small updates or thoughts over the last couple of months. I figured I'd just lump them into a single stream-of-thought, and I'll let you (the reader) decide which parts are interesting to you. Trying out Avy For the last two weeks I've disabled line numbers in Emacs and instead moved to using Avy , by indirect recomm"
+    },
+    {
+      "link": "https://pradyun.net/notes/emacs_mpc.html",
+      "title": "Of Course Emacs has an MPD client",
+      "description": "I recently started getting back into listening to my offline music library as a way to improve focus – my long-forgotten Linux ricing neurons immediately whispered \"install you must, MPD\" 1 . MPD is a fairly lightweight music player daemon, with plenty of frontends designed for it over the years. ncmpcpp and rmpc are fairly good examples of such frontends. There's also a command-line utility for m"
+    }
+  ]
+}

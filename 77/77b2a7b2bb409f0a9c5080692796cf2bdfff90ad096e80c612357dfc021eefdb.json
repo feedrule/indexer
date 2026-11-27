@@ -1,0 +1,20 @@
+{
+  "url": "https://yuexunj.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://yuexunj.com/native-macos-updates-in-tauri/",
+      "title": "Native macOS Updates in Tauri",
+      "description": "Tauri's updater gives you pipes. You build the bathroom."
+    },
+    {
+      "link": "https://yuexunj.com/why-mcp-matters/",
+      "title": "Why MCP Matters",
+      "description": "MCP is not just another API standard. It's the first protocol genuinely designed for AI agents, and its evolution from STDIO to OAuth proves its value."
+    },
+    {
+      "link": "https://yuexunj.com/how-to-make-your-tauri-dev-faster/",
+      "title": "How to Make Your Tauri Dev Faster",
+      "description": "A one-minute compile became fifteen seconds. Here's what was wrong and how to fix it."
+    }
+  ]
+}

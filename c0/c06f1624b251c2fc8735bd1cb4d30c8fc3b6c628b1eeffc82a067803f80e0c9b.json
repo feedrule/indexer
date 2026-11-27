@@ -1,0 +1,20 @@
+{
+  "url": "https://aredko.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://aredko.blogspot.com/2026/09/jdk-27-hard-sell.html",
+      "title": "JDK-27: hard sell?",
+      "description": "The JDK release train is so stable that many do not pay attention anymore! Nonetheless, the new JDK-27 release is there and quite a few things to unpack. JEP 527: Post-Quantum Hybrid Key Exchange for TLS 1.3 : enhances the security of Java applications that require secure network communication by implementing hybrid key exchange algorithms for TLS 1.3. Such algorithms defend against future quantum"
+    },
+    {
+      "link": "https://aredko.blogspot.com/2026/06/unexpected-usefulness-of.html",
+      "title": "Unexpected usefulness of the MessageDigest::isEqual method",
+      "description": "How one would compare two String s for equality in Java? There are a few options that come to mind, String::equals or Objects::equals would probably be among those. But for certain, not MessageDigest::isEqual , not even close. So what gives? No doubts, String::equals is very efficient and returns result as soon as possible. In majority of cases, this is the desired behavior. But what if you compar"
+    },
+    {
+      "link": "https://aredko.blogspot.com/2026/03/jdk-26-incremental-improvement.html",
+      "title": "JDK-26: incremental improvement",
+      "description": "Time for celebration once again: the JDK-26 was released just a few days ago! Although from all perspectives this release looks like incremental improvement (not a feature fest), it is worth paying close attention to. JEP 500: Prepare to Make Final Mean Final : issues warnings about uses of deep reflection to mutate final fields. These warnings aim to prepare developers for a future release that e"
+    }
+  ]
+}

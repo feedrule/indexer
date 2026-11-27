@@ -1,0 +1,20 @@
+{
+  "url": "https://manchicken.com/feed/",
+  "posts": [
+    {
+      "link": "https://manchicken.com/2026/10/01/adventures-in-zig-csv-parsing/",
+      "title": "Adventures in Zig: CSV parsing!",
+      "description": "Today I’m going to talk about CSV parsing. I’m not going to be writing a CSV parser, that work has already been done, instead I’m […]"
+    },
+    {
+      "link": "https://manchicken.com/2026/09/21/adventures-in-zig-string-construction/",
+      "title": "Adventures in Zig: String Construction",
+      "description": "String construction is one of those tasks that programmers learn early on and then build muscle memory around. We construct strings in memory so often […]"
+    },
+    {
+      "link": "https://manchicken.com/2026/09/20/adventures-in-zig-reversing-a-string/",
+      "title": "Adventures in Zig: Reversing a String",
+      "description": "Hello, friends, I’m back for more! This article will be pretty example-heavy, and it may feel a little advanced for folks who are less familiar […]"
+    }
+  ]
+}

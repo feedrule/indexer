@@ -1,0 +1,20 @@
+{
+  "url": "https://aifoc.us/index.xml",
+  "posts": [
+    {
+      "link": "https://aifoc.us/my-chrome-extensions-are-just-prompts/",
+      "title": "my chrome extensions are just prompts",
+      "description": "Earlier this year I wrote about how more and more of my software is just prompts and how I built an agent harness that was used to help me ship a prompt as a Chrome Extension, and the more I’ve got into it the more I’ve been able to customize Chrome to my intent with little mini-agents that run with the aim of doing one thing well. Why? Because I think we as an industry need to be pushing more on"
+    },
+    {
+      "link": "https://aifoc.us/voice-harness/",
+      "title": "My voice harness is my new operating system",
+      "description": "Earlier this year I built an Esper Machine that I was planning to integrate into my IO talk to showcase something cool that we can do on the web. I think it was really cool and it got me thinking about how we might be able to use voice to do more with my computer, so much so that I built a voice harness . That is, a harness like Claude or the pi-cli , but you can control all of the actions via jus"
+    },
+    {
+      "link": "https://aifoc.us/extensible-web-apps/",
+      "title": "extensible web apps",
+      "description": "This is a long post - if you want to jump to the thing I built, click here When I started to write this post it was about how much I am struggling with merge issues now that my agent fleet is working all day and more importantly how merging slows our ability to build software. I was finding that my agents would happily build my tools and products all in just a couple of files, or in ways that woul"
+    }
+  ]
+}

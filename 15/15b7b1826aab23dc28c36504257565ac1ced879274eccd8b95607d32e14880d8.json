@@ -1,0 +1,20 @@
+{
+  "url": "http://memosisland.blogspot.com/atom.xml",
+  "posts": [
+    {
+      "link": "http://memosisland.blogspot.com/2024/05/llm-analysis-fallacy.html",
+      "title": "A new kind of AutoML: On the fallacy of many-shot in-context learning with LLMs and PLMs",
+      "description": "Extension of this post, appear as a short article with a conjecture: Mehmet Süzen. In-context learning as a new kind of symbolic-AutoML: Lyapunov conjecture for CoTs. 2024 HAL France Preamble With the common usage of Pre-trained Large Language Models (PLMs/LLMs), now it is possible to direct them to make data analysis, generate predictions or code for very specialised tasks without training. The p"
+    },
+    {
+      "link": "http://memosisland.blogspot.com/2025/11/leymosun-high-entropy-randomness.html",
+      "title": "Understanding high-entropy random number generation for research: Leymosun Package",
+      "description": "Preamble The idea of generating randomness via computers goes back to von Neumann's and his team of colleagues work in Princeton and Los Alamos. Even though, he was sceptical about the idea of generating randomness via computer programs, this practice is now almost a de-facto standard, so the name pseudo-random-number-generator (PRNG). Is there a way to generate better PRNGs? This is a continuous"
+    },
+    {
+      "link": "http://memosisland.blogspot.com/2025/04/softmax-numerical-stability.html",
+      "title": "Numerical stability showcase: Ranking with SoftMax or Boltzmann factor",
+      "description": "Preamble Image: Babylonian table for computation (Wikipedia) Probably, one of the most important aspects of computational work in quantitative fields, such as physics and data sciences is stability of numerical computations. It implies given inputs, outputs should not wildly deviates to large numbers or it must not distort the results, such as ranking based on scores, one of the most used computat"
+    }
+  ]
+}

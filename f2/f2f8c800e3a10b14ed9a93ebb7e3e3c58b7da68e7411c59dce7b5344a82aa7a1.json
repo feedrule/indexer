@@ -1,0 +1,20 @@
+{
+  "url": "https://www.avanderlee.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/",
+      "title": "Xcode Instruments: Profile, Fix, and Verify Performance",
+      "description": "Xcode Instruments is a developer tool that comes for free with Xcode. It has a lot of useful tools to inspect and improve your app. Although it has a lot to offer, it’s often an area which is a bit less known. In this blog post, I’ll show you how I’ve improved the performance in … → The post Xcode Instruments: Profile, Fix, and Verify Performance appeared first on SwiftLee ."
+    },
+    {
+      "link": "https://www.avanderlee.com/ai-development/agentic-engineering-ai-fundamentals-course/",
+      "title": "Agentic engineering: why I built the AI Fundamentals course",
+      "description": "Agentic engineering changed how I build software, and today I’m launching the course I wrote about it: AI Fundamentals. I use agentic engineering and agentic coding for the same shift: you write less code yourself, and spend more time describing outcomes, reviewing changes, and improving the system around your agents. The course has been on … → The post Agentic engineering: why I built the AI Fund"
+    },
+    {
+      "link": "https://www.avanderlee.com/ai-development/agent-hooks-claude-code-cursor-codex/",
+      "title": "Agent hooks in Claude Code, Cursor, and Codex explained",
+      "description": "Agent hooks are small scripts that your agent tool runs automatically when something happens, like right before a shell command or when the agent finishes. Claude Code hooks, Cursor hooks, and Codex hooks all work this way, and they are the most reliable way to make sure a rule is followed every time. I use … → The post Agent hooks in Claude Code, Cursor, and Codex explained appeared first on Swif"
+    }
+  ]
+}

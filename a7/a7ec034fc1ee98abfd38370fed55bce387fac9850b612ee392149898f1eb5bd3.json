@@ -1,0 +1,20 @@
+{
+  "url": "https://sionwilliams.com/index.xml",
+  "posts": [
+    {
+      "link": "https://sionwilliams.com/posts/2026-05-06-ai-workflow-update/",
+      "title": "2026 May AI Workflow Update: Letting Claude Into the Vault",
+      "description": "I’m overdue an update. Two months on from my last workflow post , much has shifted - some of it from new tools, more from joining an organisation that takes AI seriously. The biggest change: I’ve handed my Obsidian vault to the agent. That sentence took a while to write. I’ve kept my personal knowledge management deliberately portable for years - no vendor lock-in, no proprietary formats, no agent"
+    },
+    {
+      "link": "https://sionwilliams.com/posts/2026-03-13-dotfiles-agentic-workflows/",
+      "title": "Using Dotfiles to Manage Agentic Workflow Artefacts",
+      "description": "I love agentic programming. Over the past two years I’ve built several CLIs and webapps to smooth my workflow. One problem persisted. Design a command for Project A, and you want it in Project B. Build a sub-agent fluent in Golang, and it sits useless in your JavaScript work. You need selectivity - certain artefacts for certain projects, no duplication. My instinct: build a centralised repository"
+    },
+    {
+      "link": "https://sionwilliams.com/posts/2026-03-06-ai-workflow-update/",
+      "title": "2026 March AI Workflow Update: Gemini Pro, M2.5,OpenAgentsControl, and JCodeMunch",
+      "description": "I’m forever changing my workflow as new tools are developed and better models become available. It’s not just a matter of chasing shiny objects - it’s about staying efficient, reducing costs, and leveraging what’s actually best for each task rather than defaulting to the most expensive option. This is the first installment in what I’m making my formal record of how my AI engineering workflow evolv"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://hynek.me/index.xml",
+  "posts": [
+    {
+      "link": "https://hynek.me/articles/docker-uv/",
+      "title": "Production-ready Python Docker Containers with uv",
+      "description": "Starting with 0.3.0 , Astral’s uv brought many great features, including support for cross-platform lock files uv.lock . Together with subsequent fixes, it has become Python’s finest workflow tool for my (non-scientific) use cases. Here’s how I build production-ready containers, as fast as possible."
+    },
+    {
+      "link": "https://hynek.me/articles/ditch-codecov-python/",
+      "title": "How to Ditch Codecov for Python Projects",
+      "description": "Codecov’s unreliability breaking CI on my open source projects has been a constant source of frustration for me for years. I have found a way to enforce coverage over a whole GitHub Actions build matrix that doesn’t rely on third-party services."
+    },
+    {
+      "link": "https://hynek.me/talks/python-superpower/",
+      "title": "Python’s True Superpower",
+      "description": "Python appears to be everywhere nowadays! How did it happen, that a language that almost died in the Python 2 to 3 process is now the lingua franca a default choice when people talk about programming? There must be some secret superpower and I think I found it!"
+    }
+  ]
+}

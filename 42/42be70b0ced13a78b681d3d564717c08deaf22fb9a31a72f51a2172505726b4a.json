@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.headius.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://headius.github.io/2026/07/jruby-at-rubyconf-2026.html",
+      "title": "JRuby at RubyConf 2026",
+      "description": "This year marks a big milestone in my history working on JRuby: twenty years ago, I joined Sun Microsystems to work on the project full-time. This month also marks another milestone for JRuby: two years being independently funded by my company Headius Enterprises through commercial support contracts. It’s a perfect time for us to return to RubyConf 2026 and show today’s Rubyists what JRuby can do"
+    },
+    {
+      "link": "https://headius.github.io/2025/12/inline-null-check-with-instanceof.html",
+      "title": "Non-null variable declaration in Java using instanceof patterns",
+      "description": "Ever since JRuby 10 upgraded to Java 21, I’ve been re-learning Java with all the excellent language enhancements of the past decade. One of my favorites has to be the instanceof pattern matching features added in Java 16. Today I also realized I can use an instanceof pattern to null-check and assign a variable at the same time."
+    },
+    {
+      "link": "https://headius.github.io/2025/10/warbled-sidekiq.html",
+      "title": "Warbled Sidekiq: Zero-install Executable for JVM",
+      "description": "In my previous post, I showed how to use Warbler to package a simple image-processing tool as an executable jar. This post will demonstrate how to “warble” a larger project: the Sidekiq background job server!"
+    }
+  ]
+}

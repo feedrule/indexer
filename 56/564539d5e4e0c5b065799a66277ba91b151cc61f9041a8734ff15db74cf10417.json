@@ -1,0 +1,20 @@
+{
+  "url": "http://rundev.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://rundev.me/blog/thresholding-with-anti-aliasing/",
+      "title": "Thresholding with Anti-Aliasing",
+      "description": "Performant and high-quality image thresholding (binarization) with anti-aliasing."
+    },
+    {
+      "link": "https://rundev.me/blog/fast-division-by-2n-1/",
+      "title": "Fast division by 2^n-1",
+      "description": "Fast methods for division by 2^n-1 with different rounding for unsigned integers."
+    },
+    {
+      "link": "https://rundev.me/blog/bc4-error-visualization/",
+      "title": "BC4 Error Visualization",
+      "description": "A visualization of BC4 block compression error for all possible encodings"
+    }
+  ]
+}

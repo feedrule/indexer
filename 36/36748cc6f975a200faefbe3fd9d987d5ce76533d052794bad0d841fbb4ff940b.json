@@ -1,0 +1,20 @@
+{
+  "url": "https://joe-antognini.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
+      "title": "Learning to Play Tic-Tac-Toe with Jax",
+      "description": "In this article we’ll learn how to train a neural network to play Tic-Tac-Toe using reinforcement learning in Jax . This article will aim to be more pedagogical, so the code we’ll end up with won’t be super optimized, but it will be fast enough to train a model to perfect play in about 15 seconds on a laptop. Code from this page can be found at this Github repo as well as in a Colab notebook (alth"
+    },
+    {
+      "link": "https://joe-antognini.github.io/ml/thought-experiments-on-consciousness",
+      "title": "Twelve Thought Experiments on the Computational Theory of Consciousness",
+      "description": "A few years ago I outlined the so-called “ triviality argument ” that consciousness cannot be reduced to the process of computing a particular kind of computer program. At the core of the argument is the recognition that there is no unique, objective way to define computational states in the physical world. Consequently, it is always possible to find some (perhaps complicated) mapping of arbitrary"
+    },
+    {
+      "link": "https://joe-antognini.github.io/astronomy/daylight",
+      "title": "How Fast the Days Are Getting Longer",
+      "description": "Here in the northern hemisphere the vernal equinox just passed and the days are quickly getting longer. One of my colleagues lives in Stavanger, Norway. Our team’s semi-weekly standup is at 6:30pm his time, so I’ve been accustomed to seeing the window in his background be pitch black for the past six months. But from one meeting to the next, his window went from pitch black to bright. This led me"
+    }
+  ]
+}

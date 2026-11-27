@@ -1,0 +1,20 @@
+{
+  "url": "https://wzykubek.xyz/en/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://wzykubek.xyz/en/blog/you-dont-need-jellyfin-probably/",
+      "title": "You don't need Jellyfin (probably)",
+      "description": "Title is somehow a rage bait, but I want to expand it a bit. You do not need Jellyfin if you use it only in your LAN and only for videos. I had Jellyfin installed to do this, and I know many people have as well. This post is not financial advice, read with caution! Explanation My setup was like this: QNAP NAS hosting videos Dell Wyse mini-PC with Jellyfin container and NFS access It worked, um, we"
+    },
+    {
+      "link": "https://wzykubek.xyz/en/blog/duckduckgo-bangs-without-duckduckgo/",
+      "title": "DuckDuckGo bangs without DuckDuckGo",
+      "description": "When you come to the privacy world, then you would probably consider changing Google from being your main search engine. The reasons for that are beyond the scope of this post. Probably the most popular option out there is DuckDuckGo. I’m not sure if that’s the best option; there are other engines that are definitely worth checking out. However, DuckDuckGo offers some great UX features except for"
+    },
+    {
+      "link": "https://wzykubek.xyz/en/blog/guide-for-using-go-templates-in-neovim/",
+      "title": "Guide for using Go templates in Neovim",
+      "description": "I spent the last couple of days trying to set up Neovim in a way that will allow me to edit Go HTML templates in a more comfortable manner. I wasted so much time tinkering around and looking for a solution, so I write this article as a future reference for myself, but maybe someone will find it helpful too. File detection If you ever used templates in Golang, then you probably know that there isn’"
+    }
+  ]
+}

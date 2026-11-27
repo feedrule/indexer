@@ -1,0 +1,20 @@
+{
+  "url": "https://emilytburak.com/index.xml",
+  "posts": [
+    {
+      "link": "https://emilytburak.net/posts/2026-09-22-gcp-iam-eventual-consistency/",
+      "title": "GCP IAM propagation lag and Terraform CI/CD",
+      "description": "GCP won’t admit the service account exists. So Terraform fails hard. Link to heading Google Cloud service accounts and IAM grants are not usable the instant Terraform creates them. They are eventually consistent. While the API, and thus Terraform, indicates creation, your next dependent resource fails with a 404, a 403, or an “inconsistent result” error. Why it matters: This is one of the most com"
+    },
+    {
+      "link": "https://emilytburak.net/posts/bitbucket-pipes-gap-gcp-oidc/",
+      "title": "Secure GCP auth in Bitbucket Pipelines",
+      "description": "This is post two in my Bitbucket Woes series. Post one covered the mental-model gap between GitHub Actions and Bitbucket Pipelines. This one is about a real pain point and cost of the gap: the Pipes ecosystem is much smaller than the Actions marketplace, and I’ve found that that gap is most painful around cloud authentication. Bitbucket does support OIDC for keyless auth to GCP, AWS, and Azure but"
+    },
+    {
+      "link": "https://emilytburak.net/posts/bitbucket-vs-github-actions-intro/",
+      "title": "GitHub Actions to Bitbucket Pipelines and minimizing the pain of the journey",
+      "description": "Recently I’ve had to move my mental model from the paradigms of GitHub Actions to Bitbucket Pipelines recently and boy howdy, it’s been kinda disorienting. Bitbucket is not exactly a popular choice compared to GitHub, and at first I struggled with the monolithic bitbucket-pipelines.yml, the differences in syntax between GHA and Bitbucket Pipelines, and its sometimes arcane API. I’m in a better pla"
+    }
+  ]
+}

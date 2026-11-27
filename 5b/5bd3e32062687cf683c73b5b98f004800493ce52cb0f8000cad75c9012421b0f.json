@@ -1,0 +1,20 @@
+{
+  "url": "https://mickael.canouil.fr/blog.xml",
+  "posts": [
+    {
+      "link": "https://mickael.canouil.fr/posts/2026-11-02-nacho-3-0/",
+      "title": "NACHO 3.0: A New Object, a New App and a New Report",
+      "description": "NACHO 3.0 is on CRAN. NACHO reads NanoString nCounter data, flags the samples that fail quality control, and normalises the counts. Note History The name stands for NAnoString quality Control dasHbOard. We published it in Bioinformatics in 2020 (Canouil et al., 2020) . Gerard Bouland and Roderick Slieker are co-authors of the package. The original development, described in the article, was funded"
+    },
+    {
+      "link": "https://mickael.canouil.fr/posts/2026-10-22-keisen-0-1/",
+      "title": "Keisen 0.1.0: Display Tables for Typst",
+      "description": "Keisen 0.1.0 is out on Typst Universe. It is a Typst package for display tables: the kind of table you put in a report or a paper, with a title, grouped rows, formatted numbers, and footnotes. I have used gt in R since its early days, and great_tables in Python since it came out. When I write in Typst, I miss them. Typst’s table() is good at layout, but every number is yours to format, cell by cel"
+    },
+    {
+      "link": "https://mickael.canouil.fr/posts/2026-10-05-quarto-atelier-project-type/",
+      "title": "An Extension Can Ship a Whole Quarto Project Type",
+      "description": "I maintain more than forty Quarto extensions. For a long time, a single template.qmd or example.qmd was all the documentation each of them had. This post shows how I gave every one of them a proper documentation website, without having to maintain the styling of forty websites. Extension Documentation A Quarto extension usually comes with a template.qmd or an example.qmd . It shows the extension a"
+    }
+  ]
+}

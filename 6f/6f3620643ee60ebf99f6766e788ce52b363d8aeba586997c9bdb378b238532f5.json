@@ -1,0 +1,20 @@
+{
+  "url": "https://jacobeliason.com/blog.xml",
+  "posts": [
+    {
+      "link": "https://jacobeliason.com/posts/2026-08-27-vegetarians-in-brazil/",
+      "title": "There Aren’t Really 30 Million Vegetarians in Brazil",
+      "description": "Someone is wrong on the internet I often compete with my family for the highest score in various daily geography quiz games. I recently took second place to my brother in one game by giving what was apparently a massive underestimate for how many people in Brazil are vegetarian. The game claimed that Brazil is the third-most vegetarian country in the world. While I was admittedly motivated by the"
+    },
+    {
+      "link": "https://jacobeliason.com/posts/2025-10-14-fire-survey-analysis-correction/",
+      "title": "Methodological issues in Kaufmann’s analysis of FIRE gender identity data",
+      "description": "Looking closely at a surprising claim Eric Kaufmann’s recent article on UnHerd –covered by the New York Post , RealClearPolitics , and elsewhere–claims that gender non-conforming identification among U.S. college students “has effectively halved” from 6.8% in 2022–2023 to 3.6% in 2025. This conclusion, based on analysis of survey data collected for FIRE ’s College Free Speech Rankings , suffers fr"
+    },
+    {
+      "link": "https://jacobeliason.com/posts/2021-11-11-setting-up-a-twitter-bot/",
+      "title": "Posting randomly selected satellite imagery chunks from my home state",
+      "description": "What Last month, I made a Twitter bot using RStudio. Every few hours, the bot posts a satellite image and a Wikipedia reference for a given pair of coordinates from my home state of Utah. The bot is inspired by @mattdray ’s @londonmapbot . How I started by forking Matt’s repository and following his instructions here . I made the following changes to his workflow: Instead of sampling from the grea"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://tomekdev.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://tomekdev.com/posts/chasing-100-lighthouse-scores-on-my-astro-blog/",
+      "title": "Chasing 100 Lighthouse scores on my Astro blog",
+      "description": "A blog should be fast. Mine quite was but it could be better. Let's improve it they way you should do these days."
+    },
+    {
+      "link": "https://tomekdev.com/posts/blog-migration-from-gatsby-to-astro-for-a-cup-of-coffee/",
+      "title": "Blog migration from Gatsby to Astro for a cup of coffee",
+      "description": "I migrated this blog from the legacy Gatsby stack to Astro with AI. Here's how I did it, and what it cost me."
+    },
+    {
+      "link": "https://tomekdev.com/posts/benchmarking-graphql-solutions-in-the-js-ts-landscape/",
+      "title": "Benchmarking GraphQL solutions in the JS/TS landscape",
+      "description": "Not all GraphQL stacks are equal when it comes to performance. Let's find out who's the fastest one!"
+    }
+  ]
+}

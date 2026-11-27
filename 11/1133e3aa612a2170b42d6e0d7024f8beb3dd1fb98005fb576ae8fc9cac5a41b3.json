@@ -1,0 +1,20 @@
+{
+  "url": "https://feeds.feedburner.com/Who-t",
+  "posts": [
+    {
+      "link": "http://who-t.blogspot.com/2026/07/libei-and-graphics-tablets-stylus.html",
+      "title": "libei and graphics tablets stylus support",
+      "description": "While you (yes, you! no, not you, the one behind you) have been sweltering in the heatwaves of the northern hemispheres (Assisted-by: AI), I've been busy adding graphics tablet support to libei. This is scheduled for the soon to be released libei 1.7.0. The initial work was done by Jason Gerecke and Josh Dickens from Wacom, I've been extending, polishing and testing it for the last few weeks. Also"
+    },
+    {
+      "link": "http://who-t.blogspot.com/2026/07/libei-and-gesture-events.html",
+      "title": "libei and gesture events",
+      "description": "/me gestures vaguely at everything Oh, hey, this works now? Great! libei 1.7.0 (to be released soon) comes with a new interface: \"ei_gestures\" which, creatively, will allow for gestures to be sent between a libei client and an EIS implementation (typically: a Wayland compositor). I'm not going to go too deeply into how pinch, swipe and hold gestures work, suffice to say we've had those in libinput"
+    },
+    {
+      "link": "http://who-t.blogspot.com/2026/07/libei-and-keysymtext-events.html",
+      "title": "libei and keysym/text events",
+      "description": "If you've been paying attention (and I know you have, because it'd be embarrassing for you if you didn't) you'd have noticed that libei 1.6 (May 2026) added support for keysym and text events. libei sends logical events between a libei client and an EIS implementation (typically: a Wayland compositor) but the keyboard interface it had was designed like real keyboards: key codes together with an (X"
+    }
+  ]
+}

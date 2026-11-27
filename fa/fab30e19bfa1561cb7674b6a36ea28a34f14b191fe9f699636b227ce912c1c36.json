@@ -1,0 +1,20 @@
+{
+  "url": "https://kosti.bearblog.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://kosti.bearblog.dev/local-theory-for-neural-thickets/",
+      "title": "Local theory for neural thickets",
+      "description": "Cross-posted this to alphaxiv . I read the Gan, Isola 2026 paper on neural thickets. If we start from a pre-trained model, we can use fine-tuning to convert the model into a task-expert, e.g., a model better at math questions, by following gradients w.r.t some training set. What Gan and Isola claimed is that some large models have some of those task experts relatively close in the weight space --"
+    },
+    {
+      "link": "https://kosti.bearblog.dev/quadratic-forms-of-standard-normal-variables-and-estimates-of-trace/",
+      "title": "Quadratic forms of standard normal variables and estimates of trace",
+      "description": "I should have known this fact! If you have u ~ N ( 0 , I ) and some matrix A , then E [ u T A u ] = t r a c e ( A ) . The corresponding estimator of the trace is called the Girard–Hutchinson estimator ."
+    },
+    {
+      "link": "https://kosti.bearblog.dev/had-fable-52-cross-check-the-bounds-for-the-strang-splitting/",
+      "title": "I had Fable 5.2 cross-check the bounds GPT-6-Astra came up with for the Strang splitting local order",
+      "description": "In an old post , we explored bounds on how high we can make the Strang splitting go if we pick the right decomposition A = B + C given some appropriate matrix A . GPT-6 Astra proved upper and lower bounds on the best local order we can get as we increase the dimensionality of A ∈ ℝ n × n . As Fable 5.2 is available (and discounted), I thought I would have it take a second look at Astra's proof (bo"
+    }
+  ]
+}

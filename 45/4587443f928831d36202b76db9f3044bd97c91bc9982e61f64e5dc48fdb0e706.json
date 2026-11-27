@@ -1,0 +1,20 @@
+{
+  "url": "http://webspeaks.in/rss.xml",
+  "posts": [
+    {
+      "link": "https://webspeaks.in/posts/examples/debug-shopify-pos-apps-in-ios/",
+      "title": "How to Debug Shopify POS App Console Logs on iOS (Using Safari DevTools)",
+      "description": "Step-by-step guide to debug Shopify POS UI extensions on iOS and view console.log output using Safari DevTools on macOS."
+    },
+    {
+      "link": "https://webspeaks.in/posts/shopify-pos-birthday-discount-app/",
+      "title": "Building a Birthday Discount App for Shopify POS with Modern UI Extensions",
+      "description": "Learn how to build a complete Shopify POS extension with real-time cart monitoring, GraphQL API access, and Preact components to automatically apply birthday discounts."
+    },
+    {
+      "link": "https://webspeaks.in/posts/mastering-useformstatus-hook-in-react/",
+      "title": "Mastering useFormStatus Hook in React: Reusable Submit Buttons",
+      "description": "Learn React's useFormStatus hook with a practical reusable SubmitButton component. Handle form loading states without prop drilling."
+    }
+  ]
+}

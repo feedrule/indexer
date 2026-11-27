@@ -1,0 +1,20 @@
+{
+  "url": "https://mariochavez.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://mariochavez.io/desarrollo/2026/09/28/security-in-times-of-ai/",
+      "title": "Rails Security in Times of AI-Driven Scanners",
+      "description": "A few weeks ago, I noticed something odd in my Rails applications. Apps used by only a handful of people were getting a very abnormal increase in requests. In the last seven days alone, Rack::Attack refused 3,247 requests from just 21 addresses, on applications that normally see almost no traffic from strangers. Scanners are nothing new. Since day one, I set up Rack::Attack on every application to"
+    },
+    {
+      "link": "https://mariochavez.io/desarrollo/2026/08/20/nexo-is-evolving-along-with-the-series/",
+      "title": "Nexo Is Evolving Along With the Series",
+      "description": "Eight posts of this series are published. Post 8 is drafted and sitting in my queue. Somewhere between writing post 1 and today, nexo_ai went from whatever it was in July to 0.11.0, and nexo_mail kept running against my actual inbox every day. Real mail breaks things a demo run never would. Before I publish post 8, I want to do something the series hasn’t done yet: go back and check what I already"
+    },
+    {
+      "link": "https://mariochavez.io/desarrollo/2026/08/11/merging-the-sources-into-one-digest/",
+      "title": "Merging the Sources Into One Digest",
+      "description": "After Part 6 the workflow produces three JSON files, one per source, each a list of classified items. That is not a briefing. The same newsletter can arrive in two accounts, the payments are scattered across the files, the meetings are not in order, and there is no narrative tying anything together. I want one digest.json that is the whole picture, and a short inbox-digest.md for the terminal. The"
+    }
+  ]
+}

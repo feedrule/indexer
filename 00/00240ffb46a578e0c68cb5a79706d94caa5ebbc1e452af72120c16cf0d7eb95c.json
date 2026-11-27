@@ -1,0 +1,20 @@
+{
+  "url": "https://javaclipse.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://javaclipse.blogspot.com/2025/11/next-generation-ai-ides-sponsored-by.html",
+      "title": "Next generation AI IDEs - sponsored by Eclipse and Advantest",
+      "description": "\"Next generation AI\" IDEs AI is the current buzzword, everyone seem to use it, so why not to write something about it? Disclaimer: the following blog is written wearing my \"hat\" as a proud Advantest team member, from the company that provides both hardware and software for the \"AI\". It happened to me (because of my job as Java/Eclipse platform owner at Advantest ) to stumble upon two \"AI based\" (a"
+    },
+    {
+      "link": "https://javaclipse.blogspot.com/2025/03/use-tracing-in-eclipse-plugins.html",
+      "title": "Use tracing in Eclipse plugins",
+      "description": "Many Eclipse developers (mis)use logging for debug messages. As the result, the Error Log view in Eclipse, which is supposed to show important errors or warnings, is quickly filled up with debug infos, hiding relevant warnings or errors: But there is advanced tracing capability built in into Eclipse that provides exactly the required functionality (reporting low level, debug related information) a"
+    },
+    {
+      "link": "https://javaclipse.blogspot.com/2023/04/xtext-job.html",
+      "title": "Xtext job",
+      "description": "Do you want to have... a very challenging and never boring job on an extreme complex piece of software? agile and intercultural working environment in Germany? work for a real high-tech company (we build semiconductor test hardware to test chips from tomorrow for almost all chip companies on the world)? a top notch RHEL workstation with 256 GB RAM, SSD and 16 core Xeon? a recent Thinkpad of your c"
+    }
+  ]
+}

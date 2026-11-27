@@ -1,0 +1,15 @@
+{
+  "url": "https://adocomplete.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://adocomplete.com/bash-for-ai-engineers/",
+      "title": "Bash for AI Engineers",
+      "description": "When your AI coding assistant asks to run find . -name \"*.py\" | xargs grep \"TODO\" , do you know what's about to happen? This guide covers the commands AI agents use the most and why understanding them keeps you safe, productive, and in control. What Is Bash, Anyway? You’ve probably seen it in movies: a hacker furiously typing green text into a black screen. That’s the terminal (more or less). And"
+    },
+    {
+      "link": "https://adocomplete.com/advent-of-claude-2025/",
+      "title": "Advent of Claude: 31 Days of Claude Code",
+      "description": "Throughout December, I shared one Claude Code tip per day on X/Twitter and LinkedIn. What started as a simple advent calendar became a map of the features that have fundamentally changed how I write software. This post compiles all 31 tips into a comprehensive guide, reorganized from beginner essentials to advanced patterns, and adds additional context that can't be covered in 280 characters. Whet"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://bare.systems/rss.xml",
+  "posts": [
+    {
+      "link": "https://bare.systems/posts/central-europe/",
+      "title": "Central Europe is not Eastern Europe",
+      "description": "TL;DR: Central Europe is a real region, sitting between Western and Eastern Europe, too often forgotten and mixed up with Eastern Europe. The two have different histories, culture, societies, and naming the difference is a way of respecting this identity. I often witnessed the same confusion, and lately more than ever with the internet newfound’s love for Poland: someone calls Polish, Czechs, or H"
+    },
+    {
+      "link": "https://bare.systems/posts/ubuntu-tpm-snap/",
+      "title": "Enabling Ubuntu's TPM encryption switches you to a snap kernel that blocks deb kernel packages",
+      "description": "TL;DR: Rediscovering that on Ubuntu 24.04 and 26.04, ticking “Use hardware-backed disk encryption” in the installer silently gives you a snap-based system (snap kernel and bootloader, like Ubuntu Core) instead of a normal deb-based one. On a modern laptop, this can breaks hardware enablement, in my case the webcam, with no supported way to fix it or have an equivalent feature set. I got my hands o"
+    },
+    {
+      "link": "https://bare.systems/policy/",
+      "title": "policy",
+      "description": "On AI Nothing here is AI-written. I find AI insufferable to read, and hate as a reader going through obviously, obnoxiously AI-generated posts. AI, and by that I mean agentic engineering, remains a very powerful tool and is used for grammar review (as a non-native English speaker), plus behind the scenes for web research, debugging, and for this site’s design. See non-creative AI declaration ."
+    }
+  ]
+}

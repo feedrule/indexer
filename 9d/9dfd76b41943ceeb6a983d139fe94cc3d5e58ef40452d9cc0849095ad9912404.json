@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.tempel.org/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://blog.tempel.org/2015/09/xojosqliteextensions.html",
+      "title": "Xojo SQLite databases: Enabling ICU for full Unicode support and adding custom functions",
+      "description": "Unicode Support (ICU) Updated 7 Aug 2026: Now the dylib also includes arm64 code for Apple Silicon Macs. Xojo's default Database class REALSQLDatabase (or its replacement SQLiteDatabase), which is based on sqlite, does not support international (non-english) characters. For instance, if you try to use the SQL function upper on a french phrase such as Tête-à-Tête, you will get&"
+    },
+    {
+      "link": "https://blog.tempel.org/2025/04/FinderCommentInternals.html",
+      "title": "Finder Comments (Get Info) internals & bugs in macOS",
+      "description": "How to get (and modify) file comments If you use \"Get Info\" in macOS, you can edit a comment for the item (file or folder). If you copy the file elsewhere, the comment it copied along. Now, programmers like me sometimes want to be able to inspect or even modify the comment. For instance, Find Any File lets you search for comments on any disk (volume), so it has to read these comments."
+    },
+    {
+      "link": "https://blog.tempel.org/2019/04/dir-read-performance.html",
+      "title": "Performance considerations when reading directories on macOS",
+      "description": "(Latest update: 17 Feb 2025 (2), see end of text) I'm developing (and selling) a fairly popular file search program for the Mac called Find Any File, or just FAF. It works differently from Spotlight, the Mac's primary search tool, in that it always scans the live file system instead of using a database. This makes it somewhat slower in many cases, but has the advantage that it looks at every"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "http://mark-story.com/posts.atom",
+  "posts": [
+    {
+      "link": "https://mark-story.com/posts/view/reverse-engineering-a-keyboard-pcb?utm_source=atom",
+      "title": "Reverse engineering a keyboard PCB",
+      "description": "A few years back, I received a mechanical keyboard from my work – Sentry. It is a beautiful, massive brick of aluminum with a 75% layout. The board came with bluetooth, per-key LED , and key-mappings to switch modifier keys for windows and mac layouts. Initially, the board worked fantastic."
+    },
+    {
+      "link": "https://mark-story.com/posts/view/upgrading-to-from-htmx1-to-htmx4?utm_source=atom",
+      "title": "Upgrading to from HTMX1 to HTMX4",
+      "description": "I recently saw the htmx 4 release announcement and wanted to give the upgrade a try. While, I’ve been following the project for many years, but docket was using HTMX 1.x. With the release of HTMX 4, I wanted to upgrade."
+    },
+    {
+      "link": "https://mark-story.com/posts/view/introducing-taskturbine?utm_source=atom",
+      "title": "Introducing Taskturbine",
+      "description": "Through most of 2025, I had been working on Sentry’s task platform. That system operates with pretty high throughput (~200,000 tasks/second), so I’m familiar with the challenges in operating big systems in this space. In November 2025, Armin published a post on Absurd and I was intrigued by the operational simplicity that ‘just Postgres’ could provide."
+    }
+  ]
+}

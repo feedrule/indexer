@@ -1,0 +1,20 @@
+{
+  "url": "https://andykong.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://andykong.org/blog/fast_mobile_e2e/",
+      "title": "Fast automated mobile E2E testing — the unwritten manual",
+      "description": "A practical field guide to speeding up automated mobile E2E tests by cutting snapshot, tap, verification, and backend-check latency."
+    },
+    {
+      "link": "https://andykong.org/blog/fpc-electrode-clip/",
+      "title": "Using flex PCB as electrode mount",
+      "description": "First opaque clear PCBs"
+    },
+    {
+      "link": "https://andykong.org/blog/urbanista-teardown/",
+      "title": "Teardown of the Urbanista Los Angeles headphones",
+      "description": "Removing another self-powering device from the world"
+    }
+  ]
+}

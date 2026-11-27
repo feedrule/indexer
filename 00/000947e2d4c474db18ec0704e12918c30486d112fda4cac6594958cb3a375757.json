@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.passwordclass.xyz/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.passwordclass.xyz/posts/2025-12-23/",
+      "title": "Migrating My Email to Stalwart",
+      "description": "I have been self hosting my own email for quite some time now on OpenBSD. In the beginning, I had a little trouble with getting out of peoples spam boxes, but eventually my mail server became my least troublesome server since there has only been 2 people on the server, not much room to get on a spam list. My configuration has been to use OpenSMTPd, dovecot, and rspamd to handle everything. My serv"
+    },
+    {
+      "link": "https://blog.passwordclass.xyz/posts/2025-12-22/",
+      "title": "Disable Fish Shell Greeting",
+      "description": "I have been using the fish shell recently. I have it tweaked some, and one day (probably after an update), I started to get this message: Welcome to fish, the friendly interactive shell Type help for instructions on how to use fish > ~ Not sure why I need a greeting every time, don’t want it. So I found two ways to disable this functionality: 1. Create an Empty Function File The method I chose was"
+    },
+    {
+      "link": "https://blog.passwordclass.xyz/posts/2025-08-21-my-smartos-live-demo-failure-and-success/",
+      "title": "My SmartOS Live Demo Failure, and Success",
+      "description": "This summer, I was tasked with a workshop: spend roughly 8 hours of the day teaching Ansible. The workshop went great. I got good feedback to improve and good remarks. I have grown to love to teach, and I always appreciate what people think about how I do. As a part of that workshop, I wanted to have VMs available for any of the people there that couldn’t virtualize on their own computers. The gro"
+    }
+  ]
+}

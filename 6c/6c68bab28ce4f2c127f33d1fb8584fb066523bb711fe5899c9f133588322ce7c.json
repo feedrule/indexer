@@ -1,0 +1,15 @@
+{
+  "url": "https://samermakes.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://samermakes.com/blog/just-ask-your-agent/",
+      "title": "Just ask your agent",
+      "description": "On hesitating to prompt agents with seemingly impossible tasks, unknown unknowns, and presenting your grievances with reality to an agent."
+    },
+    {
+      "link": "https://samermakes.com/blog/WCS/",
+      "title": "Are there words LLMs won’t say?",
+      "description": "A visual explanation of temperature, top-k, top-p, min-p, and the Word Coverage Score in LLM sampling."
+    }
+  ]
+}

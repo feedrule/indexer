@@ -1,0 +1,20 @@
+{
+  "url": "https://wedg.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://wedg.dev/posts/005-i-dont-like-defer/",
+      "title": "I don't like defer",
+      "description": "Ok that’s a bit of an exaggeration. It’s not that I don’t like defer , I think I might just prefer something else. But I’m not sure why. In this blog post we’ll take a look defer and its alternatives, and hopefully I’ll come out with a better idea of my own preferences. what is defer? Okay, the necessary part. What am I even talking about? defer is a statement in Go that defers some function call"
+    },
+    {
+      "link": "https://wedg.dev/posts/004-fosdem-2026/",
+      "title": "FOSDEM 2026",
+      "description": "Late last year I finally had the chance to attend the Matrix conference, I had missed the year before due to running out of days on my Schengen visa. That was a blast, and as soon as I got home I wanted to find the next thing to attend. Then I spotted that the Free and Open-source Software Developers’ European Meeting, better known as FOSDEM, was taking place in only a few months. So I hastily org"
+    },
+    {
+      "link": "https://wedg.dev/posts/003-aiguilles-dentreves/",
+      "title": "aiguilles d'entrèves",
+      "description": "My first proper alpine route."
+    }
+  ]
+}

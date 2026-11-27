@@ -1,0 +1,20 @@
+{
+  "url": "https://simonhearne.com/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://simonhearne.com/2026/static-site-search-zilliz/",
+      "title": "Adding site search to static sites using Zilliz Cloud",
+      "description": "A guide to building hybrid site search for a static site with 11ty, GitHub Actions, Cloudflare Workers and Zilliz Cloud. Typeahead, BM25 and vector search on free tiers, with no servers to look after."
+    },
+    {
+      "link": "https://simonhearne.com/2026/vector-search-visualised-paris/",
+      "title": "Vector Search, Visualised: Milvus Meetup Paris",
+      "description": "A visual crash course in vector search, built around an ecommerce dress-finder: exact search, ANN indexes, quantisation, and the filters that quietly wreck your recall."
+    },
+    {
+      "link": "https://simonhearne.com/2026/haystack-europe-2026/",
+      "title": "Haystack Europe 2026: the bleeding edge of retrieval engineering",
+      "description": "Agents as search consumers, hybrid retrieval as the default, and how to evaluate search systems - a summary of my takeaways from Haystack Europe 2026."
+    }
+  ]
+}

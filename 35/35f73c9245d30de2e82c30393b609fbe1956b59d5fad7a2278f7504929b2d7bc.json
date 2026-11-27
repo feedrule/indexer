@@ -1,0 +1,20 @@
+{
+  "url": "https://surya-dev-journey.hashnode.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.suryatejak.in/gitraven-april-2026-updates",
+      "title": "GitRaven: April 2026 updates",
+      "description": "Hey folks! It's been a while since I've written about GitRaven. This post will cover the new features I have introduced and talk about bug fixes. I used…"
+    },
+    {
+      "link": "https://blog.suryatejak.in/sleep-stopper-a-simple-gtk4-app-to-stop-linux-from-sleeping",
+      "title": "sleep-stopper: A simple GTK4 app to stop Linux from sleeping.",
+      "description": "Hello, I came up with a simple GUI for stopping Linux from sleeping when idle using Python for fun. This project came to be because of my comment: You can…"
+    },
+    {
+      "link": "https://blog.suryatejak.in/gitraven-how-to-setup-monaco-editor-for-qwebengine",
+      "title": "GitRaven: How to setup Monaco Editor for QWebEngine",
+      "description": "Hello, This blog post will talk about integrating Monaco Editor into a Qt + C++ app using QWebEngine. GitRaven is being built to serve as a near-identical…"
+    }
+  ]
+}

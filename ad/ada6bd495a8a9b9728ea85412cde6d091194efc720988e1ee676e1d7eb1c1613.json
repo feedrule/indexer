@@ -1,0 +1,20 @@
+{
+  "url": "https://www.zaaane.com/index.xml",
+  "posts": [
+    {
+      "link": "https://zaaane.com/posts/towards-math-proficiency-trigonometry/",
+      "title": "Towards Math Proficiency: Trigonometry",
+      "description": "Over the last few months, I’ve traded my keyboard for a pen, paper, and calculator to self-study maths. The motivation came from wanting to be more skilled and a newfound appreciation for the subject. Fortunately, one of my New Year’s Resolutions for 2026 was to stop using Discord and the amount of time I’ve reclaimed was enough to learn Calc I, Calc II, and more. My favorite resource so far has b"
+    },
+    {
+      "link": "https://zaaane.com/posts/on-the-latest-batch-of-ai-models/",
+      "title": "On the Latest Batch of AI Models",
+      "description": "In Q4 2025, Anthropic released Opus 4.5, a generative AI model that was relatively expensive to use but noticeably better than anything that came before it. It’s so good that it’s changing the way people think about programming. In this post I want to write about how the current crop of AI models is changing the software landscape, provide concrete comparisons to past models and the personal impac"
+    },
+    {
+      "link": "https://zaaane.com/posts/i-really-tried-to-like-emacs/",
+      "title": "I Really Tried to Like Emacs",
+      "description": "Sometime in late 2024, I switched from Neovim to Emacs . I was inspired to give it a try after learning that many of the developers at Jane Street use Spacemacs . The choice is not obvious for someone who is just learning about these editors. In this post I want to reflect on why I ultimately decided to switch back to Neovim after spending a lot of time in Spacemacs, Doom Emacs, and eventually try"
+    }
+  ]
+}

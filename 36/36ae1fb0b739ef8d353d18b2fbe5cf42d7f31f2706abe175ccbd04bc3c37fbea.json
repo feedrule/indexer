@@ -1,0 +1,15 @@
+{
+  "url": "https://deeplearningguy.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://deeplearningguy.github.io/blog/hello-world/",
+      "title": "Hello, world",
+      "description": "First post: checking that math and code render."
+    },
+    {
+      "link": "https://deeplearningguy.github.io/blog/jev-vs-claude-judge/",
+      "title": "Jev isn't a better judge than Claude",
+      "description": "I spent $40 putting Jev head to head with three Claude models. The result isn't what either fan club wants to hear."
+    }
+  ]
+}

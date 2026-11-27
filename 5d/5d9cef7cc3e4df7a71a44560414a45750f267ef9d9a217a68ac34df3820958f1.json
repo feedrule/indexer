@@ -1,0 +1,20 @@
+{
+  "url": "https://jchri.st/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://jchri.st/blog/in-praise-of-memcached/",
+      "title": "In praise of memcached",
+      "description": "If you happen to find yourself in a sysadmin position, or a position where you just so happen to maintain someone’s infrastructure, chances are that at some point in time the topic “we need a cache” comes up. You think for a moment and reach out for Redis, because you’re used to it, it’s fully featured, and it works! You remember it being a good, solid cache, and you wonder which new features rece"
+    },
+    {
+      "link": "https://jchri.st/blog/local-mail-setup-with-opensmtpd/",
+      "title": "Local mail setup with OpenSMTPD",
+      "description": "If you enjoy using the command-line, chances are you’ve wanted to send e-mails from your command line at some point. TUI clients like mutt / neomutt / aerc are often used with their own configuration file, tools like mail or other system daemons will just default to using whatever mail service you have on your host, and git-email can do a mix of both. I figured that instead of configuring each too"
+    },
+    {
+      "link": "https://jchri.st/blog/calculating-absolute-humidity-with-munin/",
+      "title": "Calculating absolute humidity with Munin",
+      "description": "In my previous two posts I talked about rrdtool and about Munin. Today I want to showcase how the two can work together using one of Munin’s more advanced features, which are virtual plugins using aggregate graphs. Using aggregate graphs, you can instruct Munin to build a graph from multiple data sources. “Virtual” plugins are really just plugins that don’t actually exist somewhere, you can write"
+    }
+  ]
+}

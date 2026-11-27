@@ -1,0 +1,15 @@
+{
+  "url": "https://blog.nullvoid.me/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.nullvoid.me/posts/peppercon-x-challenge/",
+      "title": "Peppercon X 2025 Puzzle Write-up",
+      "description": "Overview As is tradition at Defcon, Peppercon is a fun activity one can enjoy if they like spicy things. This year I was rewarded with the usual challenge coin for completing the pepper powder event, but as a bonus I was also provided a business card. This was the start of my Peppercon X CTF. The CTF consists of a chain of 10 independent puzzles: each stage produces a password that unlocks the nex"
+    },
+    {
+      "link": "https://blog.nullvoid.me/posts/mercku-exploits/",
+      "title": "Merck'd-U!",
+      "description": "Full disclosure of 0-Click / 1-Click RCE in default ISP routers (Mercku M6a) Introduction Router vulnerabilities continue to pose significant threats to home networks. Today, I’ll document a series of critical flaws discovered in Mercku routers, specifically the M6a model, that could allow attackers to achieve remote code execution with minimal effort. This has been tested and confirmed against ve"
+    }
+  ]
+}

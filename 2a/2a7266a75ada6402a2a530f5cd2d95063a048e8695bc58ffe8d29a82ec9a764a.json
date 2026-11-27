@@ -1,0 +1,20 @@
+{
+  "url": "https://cybersins.com/index.xml",
+  "posts": [
+    {
+      "link": "https://cybersins.com/pay-per-crawl-402-crawler-monetization/",
+      "title": "Pay per crawl: putting HTTP 402 to work, and the requirement I missed",
+      "description": "Cloudflare built a crawler billing system on HTTP 402, the status code that never had a defined meaning. To understand it I wrote my own simulator of the flow, an API and console of my own, and got a signature requirement wrong in a way that turns out to be instructive. Wire traces, the protocol in detail, and the criticism it deserves."
+    },
+    {
+      "link": "https://cybersins.com/cloudflare-fifteen-years-of-shipping/",
+      "title": "Fifteen years of Cloudflare: what a network company got right before everyone else",
+      "description": "I have run things on Cloudflare for nine years. This is the first of seven posts on what they built, why the engineering choices mattered, and where the honest limits are. Part one covers the arc from free SSL in 2014 to a network where most of the traffic is no longer human."
+    },
+    {
+      "link": "https://cybersins.com/shadow-ai-670k-premium/",
+      "title": "The $670,000 Premium: Shadow AI Stopped Being a Policy Problem",
+      "description": "IBM now puts a price on the AI tools your staff use without telling you: breaches that involve shadow AI cost $670,000 more. Here is what the 2026 numbers mean for the people who own the budget."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://timothyjordan.com/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://timothyjordan.com/blog/2026/07/01/llms-txt-linking.html",
+      "title": "llms.txt saves an agent real tokens, but it won’t read it unless you ask",
+      "description": "A controlled benchmark: a clean llms.txt discovery layer cuts an AI agent's tokens, but no in-page link (a head tag or a visible footer link) got the agent to use it on its own. One line in the prompt did. The lever is the instruction, not the markup."
+    },
+    {
+      "link": "https://timothyjordan.com/blog/2026/06/25/per-feature-ablation.html",
+      "title": "Which agent-readiness features actually pay off",
+      "description": "We toggled each of a14y.dev's 11 agent-readiness features on and off and measured what each one is worth to an AI agent. A markdown mirror and a real meta description do most of the work, the features don't simply stack, and one of them actively makes things worse."
+    },
+    {
+      "link": "https://timothyjordan.com/blog/2026/06/25/state-of-agent-readability.html",
+      "title": "The State of Agent Readability on the Web",
+      "description": "We scored the 50,074 most-visited websites for how well an AI agent can discover, parse, and comprehend them. The median scores 52 of 100, not one scored excellent, and roughly three in four haven't shipped the agent-readability layer that halves what an agent spends to use a site."
+    }
+  ]
+}

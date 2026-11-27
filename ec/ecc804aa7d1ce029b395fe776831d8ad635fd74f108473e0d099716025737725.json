@@ -1,0 +1,20 @@
+{
+  "url": "https://www.arundhaj.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.arundhaj.com/blog/kubernetes-deployments-and-replicasets-explained-with-examples.html",
+      "title": "Kubernetes Deployments and ReplicaSets Explained with Examples",
+      "description": "In the previous post on Pods we saw that a Pod you create by hand, once it is deleted or its node fails. Nothing brings it back. That's fine for a quick test, but not for a real application. This is where ReplicaSets and Deployments come in. A ReplicaSet keeps …"
+    },
+    {
+      "link": "https://www.arundhaj.com/blog/python-built-in-functions-lazy-iterators-vs-lists.html",
+      "title": "Why Some Python Built-in Functions Return Objects and Others Return Lists",
+      "description": "If you are new to Python, this output looks odd: >>> map ( str , [ 1 , 2 , 3 ]) < map object at 0x7f3a2c1d0 > >>> sorted ([ 3 , 1 , 2 ]) [ 1 , 2 , 3 ] >>> sum ([ 1 , 2 , 3 ]) 6 Three built-ins, three different kinds of result. This isn't inconsistency. Each function returns the cheapest form that can honestly …"
+    },
+    {
+      "link": "https://www.arundhaj.com/blog/kubernetes-pods-explained-pod-manifest-kubectl-logs-describe.html",
+      "title": "Kubernetes Pods Explained: Pod Manifest, kubectl logs and describe",
+      "description": "If you are starting with Kubernetes , the Pod is the first thing to understand. Every container you run on Kubernetes runs inside a Pod. Deployments, Jobs, and StatefulSets all create Pods for you. In this post we'll cover what a Pod is, how to write a Pod manifest, and how …"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.kamkow1lair.pl/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.kamkow1lair.pl/blog/MOP2/TCL-scripting.html",
+      "title": "TCL scripting in userspace",
+      "description": "In this blog post I’d like to take you through the process of how I added a simple way of writing scripts in MOP3 in userspace. This side-quest was also an excuse for me to slack on the USB stack (EHCI/OHCI is still work in progress) and generally I needed a simple \"quick-win\", because of being way too busy with private life stuff. The code for today: https://git.kamkow1lair.pl/kamkow1/mop3/src/br"
+    },
+    {
+      "link": "https://www.kamkow1lair.pl/blog/MOP2/priorities.html",
+      "title": "New priority-based round-robin scheduler",
+      "description": "Today I’d like to show you, how I’ve added priorities to MOP3’s round-robin scheduler! Code to follow along: https://git.kamkow1lair.pl/kamkow1/mop3/src/branch/master/kernel/amd64/proc.c https://git.kamkow1lair.pl/kamkow1/mop3/src/branch/master/kernel/proc/proc.c https://git.kamkow1lair.pl/kamkow1/mop3/src/branch/master/kernel/proc/proc.h Motivation So far MOP3 was fine with a basic round-robin sc"
+    },
+    {
+      "link": "https://www.kamkow1lair.pl/blog/MOP2/IDE_DMA.html",
+      "title": "Adding DMA support to an IDE driver",
+      "description": "In this article I’d like to show you, how I’ve added DMA support to MOP3’s IDE driver! Code to follow along: https://git.kamkow1lair.pl/kamkow1/mop3/src/branch/master/kernel/device/storage/idedrv.c https://git.kamkow1lair.pl/kamkow1/mop3/src/branch/master/kernel/device/storage/idedrv.h https://git.kamkow1lair.pl/kamkow1/mop3/src/branch/master/kernel/device/pci/pci_ide.c Terminology PRD = Physical"
+    }
+  ]
+}

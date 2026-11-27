@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.chipx86.com/feed/",
+  "posts": [
+    {
+      "link": "https://chipx86.blog/2026/11/19/tell-coding-agents-to-keep-notes/",
+      "title": "Tell Coding Agents to Keep Notes",
+      "description": "I use Obsidian daily as a journal system, a knowledge base, and writing tool. But also as a record of what AI coding agents are doing. I don’t always offload work to AI, but when I do, I prefer accountability. So here’s my setup: (Claude Code usually respects this. Though sometimes I do have to […]"
+    },
+    {
+      "link": "https://chipx86.blog/2026/10/20/reframing-review-board-for-modern-workflows/",
+      "title": "Review Board is Review-Driven Development",
+      "description": "We’re sort of reframing what Review Board is. Code review is important, maybe more important than ever, but inherently focuses on the end result. We’ve long done Image Review and Document Review, which is also not Code Review. And now that development is changing, as AI takes on more of the process, review needs to […]"
+    },
+    {
+      "link": "https://chipx86.blog/2026/08/24/coming-to-review-board-ai-eda-review-crucible-import/",
+      "title": "Coming to Review Board: AI, EDA Review, Crucible Import",
+      "description": "I feel like the world of code review has somewhat stagnated. Most people use a variation on GitHub Pull Requests, which slowly began to catch up to the kinds of features we have in Review Board, but never quite got there. Good enough for many, but could be better for most. In a similar vein, […]"
+    }
+  ]
+}

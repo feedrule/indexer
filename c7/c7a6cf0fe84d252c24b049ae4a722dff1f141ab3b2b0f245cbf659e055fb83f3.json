@@ -1,0 +1,20 @@
+{
+  "url": "https://emacsredux.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "title": "Working with Git Worktrees in Magit",
+      "description": "I’ll admit that until fairly recently I had no idea git worktrees existed. They’ve been part of git for a decade1 and I never once needed them. Feature branches did the job just fine - create a branch, do the work, merge it, delete it, and start over. What finally introduced me to worktrees was, of all things, AI coding agents. Tools like Claude Code create a worktree for each task, so several age"
+    },
+    {
+      "link": "https://emacsredux.com/blog/2026/08/26/meet-utterson-my-jekyll-blogging-helper/",
+      "title": "Meet Utterson, my Jekyll blogging helper",
+      "description": "Back in 2019 I wrote about dealing with Jekyll post URLs, where I shared a tiny command that spared me from having to remember the exact file name of every article I wanted to link to. That command has been in my config ever since, and over the years it quietly grew a few siblings. Recently I finally gathered them all in one place and turned them into a small package - utterson. The common Jekyll"
+    },
+    {
+      "link": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
+      "title": "Flycheck 38: Might & Magic",
+      "description": "Not all those who wander are lost. – J.R.R. Tolkien Today I’m happy to announce Flycheck 38 - easily the biggest and most ambitious Flycheck release since I took over the stewardship of the project. It’s the release where Flycheck grows a proper story for language servers, gets the kind of inline diagnostics you’d expect from a modern editor, and learns to apply fixes - all without giving up the c"
+    }
+  ]
+}

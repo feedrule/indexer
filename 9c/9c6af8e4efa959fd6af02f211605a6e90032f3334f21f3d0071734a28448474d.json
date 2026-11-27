@@ -1,0 +1,20 @@
+{
+  "url": "https://xn--2-umb.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://2π.com/26/dependent-r1cs/",
+      "title": "Dependent R1CS",
+      "description": "Dependent R1CS In dependent R1CS , the constraint matrices are functions of all public values: both the public input and the verifier challenges. This lets public computations become matrix coefficients. We compare it with fixed-matrix split-witness R1CS, then apply it to lookups and bignum arithmetic. Throughout, let p be prime, and {\\mathbb{F}}_{p} for the prime field of order p . All R1CS matri"
+    },
+    {
+      "link": "https://2π.com/26/dual-packing/",
+      "title": "Dual Packing",
+      "description": "Dual Packing Definition 1. ( Inner-product commitment ) Given fields {\\mathbb{F}} \\subseteq {\\mathbb{E}} an ({\\mathbb{F}},{\\mathbb{E}}) -inner-product commitment scheme (IPCS) commits to a vector \\mathbf{w} \\in {\\mathbb{F}}^{n} . An opening consists of a query \\mathbf{q} \\in {\\mathbb{E}}^{n} and claimed value h \\in {\\mathbb{E}} and reduces the claim, \\langle\\mathbf{w},\\mathbf{q}\\rangle_{\\mathbb{E}"
+    },
+    {
+      "link": "https://2π.com/26/johnson/",
+      "title": "Johnson beyond Johnson",
+      "description": "Johnson beyond Johnson The Johnson bound is well known to anyone working on hash-based proof systems. With minimal assumptions it achieves a very useful list size bound for a non-trivial range beyond the unique decoding radius, up to the Johnson radius 1 - \\sqrt{1 - \\delta} . It has always bothered me that standard presentations stop so abruptly at the Johnson radius. Here I’ll show how the same g"
+    }
+  ]
+}

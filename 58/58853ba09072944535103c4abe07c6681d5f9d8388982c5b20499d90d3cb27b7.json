@@ -1,0 +1,20 @@
+{
+  "url": "https://agostbiro.net/index.xml",
+  "posts": [
+    {
+      "link": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+      "title": "Anatomy of a Lean Proof for Software Engineers",
+      "description": "Intro I recently worked through a problem from a theory of computation textbook that asked me to prove a property of a language using finite automata. The informal proof is a simple constructive proof where you build an automaton and show that it recognizes the language. This is kind of similar to program verification, so I thought it’d be interesting to see what it takes to formalize the proof. L"
+    },
+    {
+      "link": "https://agostbiro.net/posts/2023-06-paxos-from-first-principles/",
+      "title": "Paxos From First Principles",
+      "description": "Paxos is a fault-tolerant distributed consensus algorithm invented by Leslie Lamport. A fault-tolerant distributed consensus algorithms lets us for example run a database on multiple servers simultaneously to make the database resilient to hardware failures. Dr. Lamport initially tried to prove that a fault-tolerant distributed consensus algorithm cannot exist and in the process discovered a very"
+    },
+    {
+      "link": "https://agostbiro.net/posts/2022-04-icloud-keychain-security/",
+      "title": "iCloud Keychain Security",
+      "description": "Apple claims that iCloud Keychain items are end-to-end encrypted, but recoverable with an Apple ID and device passcode even if all devices are lost. The official Apple support documents don’t explain well how this is possible, so I’ve dug in to resolve this seeming contradiction. The short answer is that secrets stored in iCloud Keychain are end-to-end encrypted, albeit with a low entropy key deri"
+    }
+  ]
+}

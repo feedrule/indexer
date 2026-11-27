@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mrphilgames.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.mrphilgames.com/blog/i-wrote-up-my-whole-claude-code-workflow",
+      "title": "I Wrote Up My Whole Claude Code Workflow",
+      "description": "The full field guide to how I drive Claude Code — design docs, phased delivery, verification gates, and continuous review — now lives on my personal site. Here's the short version and where to read the rest."
+    },
+    {
+      "link": "https://www.mrphilgames.com/blog/sbox-exciting-game-engine-but-not-for-ai",
+      "title": "S&box Looks Great, But AI Can't Write Code for It Yet",
+      "description": "S&box launches April 2026 as an open-source engine on Source 2. It looks incredible — but AI coding agents will struggle with it."
+    },
+    {
+      "link": "https://www.mrphilgames.com/blog/building-an-ai-that-runs-your-game-while-you-sleep",
+      "title": "Building an AI That Runs Your Game While You Sleep",
+      "description": "What happens when you give an AI agent autonomous control of a persistent game world — the tick architecture, guardrail system, and lessons from building Deep Hollow."
+    }
+  ]
+}

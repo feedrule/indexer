@@ -1,0 +1,20 @@
+{
+  "url": "https://amitlan.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://amitlan.com/2026/04/23/TupleTableSlot-ftw.html",
+      "title": "Postgres: TupleTableSlot as a batch container",
+      "description": "Postgres: TupleTableSlot as a batch container April 23, 2026 I’ve been working on adding batched execution to the Postgres executor. In an earlier post I described where the executor spends its time and why batching at the scan level is a natural first step, and in a follow-up I wrote about the RowBatch API that came out of the initial implementation — what worked, what didn’t, and what the implem"
+    },
+    {
+      "link": "https://amitlan.com/2026/04/22/fkey-fastpath.html",
+      "title": "Postgres: faster foreign key checks",
+      "description": "Postgres: faster foreign key checks April 22, 2026 In an earlier post I described how foreign key enforcement works in Postgres. The short version is that every INSERT or UPDATE on the referencing table fires an AFTER trigger that checks whether the new row’s FK column values exist in the referenced (PK) table. That check goes through SPI: it builds a query, plans it, executes it, and tears it all"
+    },
+    {
+      "link": "https://amitlan.com/2026/04/21/work-time.html",
+      "title": "Work: blocking time",
+      "description": "Work: blocking time April 21, 2026 I’ve been noticing a pattern in my own work that I want to write down before I forget it or start rationalizing it into something cleaner than it actually is. If I decide at the outset of a day that I’m going to spend it doing one sort of thing, say, reviewing a patch, or writing a specific piece of code, or reading through a subsystem I need to understand, and I"
+    }
+  ]
+}

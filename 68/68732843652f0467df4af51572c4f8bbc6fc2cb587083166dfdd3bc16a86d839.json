@@ -1,0 +1,20 @@
+{
+  "url": "https://jarkko.dev/feed/",
+  "posts": [
+    {
+      "link": "https://jarkko.dev/how-to-download-all-activities-from-garmin-connect-in-2026/",
+      "title": "How to Download All Activities from Garmin Connect in 2026",
+      "description": "Back in 2023, I wrote a blog post about downloading all your activities from Garmin Connect using a browser console script. The old script stopped working — Garmin changed their API endpoints and added CSRF token requirements. So here’s an updated version that works with the current Garmin Connect in 2026. What changed? The 2023 […] The post How to Download All Activities from Garmin Connect in 20"
+    },
+    {
+      "link": "https://jarkko.dev/weeknotes-2023-w51/",
+      "title": "Weeknotes – 2023-W51",
+      "description": "I have planned for a long time to start making public weeknotes. I want to keep track of what I have discovered and when. Of course, it would be a pleasure to share them with you. The post Weeknotes – 2023-W51 appeared first on Jarkko Tervonen ."
+    },
+    {
+      "link": "https://jarkko.dev/i-have-been-lazy/",
+      "title": "I have been lazy",
+      "description": "About two and half weeks ago, Coronavirus hit me the first time. I have lived without changing anything after the start of the pandemic and avoided the virus without any problems. Being sick has been relatively easy. I had only a slight fever for a couple of days, random tiredness, and a cough. The hardest […] The post I have been lazy appeared first on Jarkko Tervonen ."
+    }
+  ]
+}

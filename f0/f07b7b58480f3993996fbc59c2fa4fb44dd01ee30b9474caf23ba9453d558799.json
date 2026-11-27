@@ -1,0 +1,20 @@
+{
+  "url": "https://shearer.org/index.xml",
+  "posts": [
+    {
+      "link": "https://shearer.org/notes/ai-emphasis-communication-channels/",
+      "title": "Giving AI models a communication channel for emphasis",
+      "description": "As part of my ongoing experiments in understanding AI, I run many models and harnesses for coding and text generation, some local and some remote. Often I conclude AI is highly unreliable when used for general purposes, and some of this unreliability is because models do not use language the way humans expect. 🤔 One problem I had When an AI tells you something has gone wrong, how do you know how b"
+    },
+    {
+      "link": "https://shearer.org/research/not-before-time/",
+      "title": "Not Before Time",
+      "description": "Not Before Time is a public broadcast facility built on existing technology. Not Before Time guarantees that information: will not be readable before a certain future time (no early reading) was not sealed before a certain past date and time (no earlier sealing) was not electronically signed before a certain time (no late denials) These guarantees support human rights, democracy and business. Nove"
+    },
+    {
+      "link": "https://shearer.org/notes/cloba/",
+      "title": "Cloba - Claudio's Bash Logger",
+      "description": "I have used Cloba on isolated and small personal machines for many years. When I want something that is secure, distributed and generally more modern there are plenty of options I have tried. One I am looking into is Atuin ↗ whose name I hope refers to The Great A’Tuin ↗ . Recording all bash commands, simple & insecure There are three components: bash.logging, a bash script to initially set up the"
+    }
+  ]
+}

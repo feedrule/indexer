@@ -1,0 +1,20 @@
+{
+  "url": "https://bennycheung.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://bennycheung.github.io/beyond-the-context-window-architecture-of-a-trustworthy-ai-co-designer",
+      "title": "Beyond the Context Window - The Architecture of a Trustworthy AI Co-Designer",
+      "description": "The industry talks about long-context AI as a capacity problem: bigger windows, stuff everything in, let the model sort it out. Building Nova, a persistent AI co-designer that works alongside board game designers across months of sessions, taught us the opposite. The bottleneck of a long-running collaborator is not how much context you can hold. It is the architecture around it: what to leave out,"
+    },
+    {
+      "link": "https://bennycheung.github.io/baudrillardian-digital-twin",
+      "title": "Baudrillardian Digital Twin - Engineering Against Hyperreality",
+      "description": "A digital twin starts out as a faithful mirror of a factory floor. Over time, the relationship inverts. The factory begins to be reshaped so that the twin can render it cleanly. Wooden pallets get painted neon green because the computer-vision system cannot otherwise distinguish them from a grey concrete floor. In this article, we apply Jean Baudrillard’s Simulacra and Simulation to the engineerin"
+    },
+    {
+      "link": "https://bennycheung.github.io/card-grammar-for-complex-card-games",
+      "title": "Card Grammar - Teaching Machines the Rules of Complex Card Games",
+      "description": "We built a pipeline that generates mechanically coherent cards, scales them in five-card batches, exports directly to Tabletop Simulator, and stress-tests balance using tournament algorithms. It sounds like the future of card game design. But when we took 13 of the most influential card games ever published and tried to fit their mechanics into the pipeline’s five-field schema, the results were hu"
+    }
+  ]
+}

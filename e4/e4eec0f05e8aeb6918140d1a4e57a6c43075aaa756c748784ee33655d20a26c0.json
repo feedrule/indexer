@@ -1,0 +1,20 @@
+{
+  "url": "https://www.raf.xyz/rss.xml",
+  "posts": [
+    {
+      "link": "https://astro-nano-demo.vercel.app/blog/03-how-i-keep-up-with-ai-generated-prs/",
+      "title": "How I keep up with AI-generated PRs",
+      "description": "Use AI to review AI-generated code"
+    },
+    {
+      "link": "https://astro-nano-demo.vercel.app/blog/02-running-vllm-on-a-macbook-air/",
+      "title": "Running vLLM on a MacBook Air",
+      "description": "Installing vLLM on an M4 MacBook Air"
+    },
+    {
+      "link": "https://astro-nano-demo.vercel.app/blog/01-yc-take-two/",
+      "title": "YC, Take Two",
+      "description": "My experience going through YC a second time."
+    }
+  ]
+}

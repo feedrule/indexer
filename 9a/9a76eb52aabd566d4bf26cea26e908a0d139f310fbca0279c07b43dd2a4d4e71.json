@@ -1,0 +1,20 @@
+{
+  "url": "https://prepitaph.org/index.atom",
+  "posts": [
+    {
+      "link": "https://prepitaph.org/snippets/gist-exfil/",
+      "title": "Exfiltrating GitHub Gists",
+      "description": "snippet by FND May 14, 2026 Everyone’s leaving the dilapidated slop factory. My own efforts were stumped by GitHub’s account-data export being incomplete: Gists were missing. Recovering them was a matter of assembling a couple of throwaway scripts."
+    },
+    {
+      "link": "https://prepitaph.org/snippets/text-compression/",
+      "title": "Text Compression with Web Standards",
+      "description": "snippet by FND January 25, 2026 An ill-advised return to the rabbit hole of personal web apps and client-side secrets left me with a series of usability challenges. Naturally, those could only be addressed by fumbling with byte streams."
+    },
+    {
+      "link": "https://prepitaph.org/snippets/hamburger-icon/",
+      "title": "Animated Hamburger Icon",
+      "description": "snippet by FND September 19, 2025 While I’m generally skeptical of hamburger menus, sometimes they seem unavoidable – or at least pragmatic in a resigned kind of way. So we might as well try to get the icon right."
+    }
+  ]
+}

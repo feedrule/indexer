@@ -1,0 +1,20 @@
+{
+  "url": "https://cyberepistemics.com/index.xml",
+  "posts": [
+    {
+      "link": "https://cyberepistemics.com/posts/20261103-ai-eng-roles-metro-map/",
+      "title": "AI Engineering Roles as a Metro Map",
+      "description": "Seven AI-native engineering roles drawn as metro lines, with skills as stations. Where the lines share track is where to start, whatever the destination."
+    },
+    {
+      "link": "https://cyberepistemics.com/posts/20260911-recent-claude-code-learnings/",
+      "title": "Recent Claude Code Learnings",
+      "description": "Two esoteric shell behaviors surfaced by watching an agent work, and what they suggest about configuring a machine for agent-driven development"
+    },
+    {
+      "link": "https://cyberepistemics.com/posts/20260311-backpressure-in-agent-driven-development/",
+      "title": "Backpressure in Agent-Driven Development",
+      "description": "Agent-driven development is flooding codebases with code that doesn't respect their structure. Backpressure -- the resistance that keeps systems coherent -- needs to be engineered into the code itself."
+    }
+  ]
+}

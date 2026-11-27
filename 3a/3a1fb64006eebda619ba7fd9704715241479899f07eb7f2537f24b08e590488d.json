@@ -1,0 +1,20 @@
+{
+  "url": "https://saket.me/feed/atom/",
+  "posts": [
+    {
+      "link": "https://saket.me/touch-robot/",
+      "title": "Writing interactive screenshot tests in Compose UI with Touch Robot",
+      "description": "These are some examples of real issues that were happening at Block. Each of them was frustrating because we were regularly shipping broken experiences to customers despite having sufficient test coverage. We had screenshot tests using Paparazzi, but they were mostly static snapshots that verified layout correctness. We had connected device tests, but they ran […] The post Writing interactive scre"
+    },
+    {
+      "link": "https://saket.me/generating-rich-link-previews-10x-faster/",
+      "title": "Generating rich link previews 10x faster",
+      "description": "unfurl is one of my favorite open source libraries. Not because it’s clever or complex, but because it’s a tiny kotlin library that does one thing well: generate rich link previews by extracting their social metadata. You can try out its demo on your computer: brew install saket/repo/unfurl unfurl https://dog.ceo If you’ve ever pasted a […] The post Generating rich link previews 10x faster appeare"
+    },
+    {
+      "link": "https://saket.me/fast-feedback-loops/",
+      "title": "The pursuit of fast feedback loops",
+      "description": "Sebastian Sellmair from JetBrains recently showed off a prototype of hot-reloading Compose UI code for deploying changes without rebuilding the project. It looks exciting and I want it to succeed. At the same time, I’ve learned to be cautiously optimistic about hot-reload solutions. Google has tried this multiple times: their first attempt (Instant Run) was […] The post The pursuit of fast feedbac"
+    }
+  ]
+}

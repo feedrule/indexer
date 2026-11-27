@@ -1,0 +1,20 @@
+{
+  "url": "https://reedmeyerson.com/blog.xml",
+  "posts": [
+    {
+      "link": "https://reedmeyerson.com/posts/speculative_decoding_not_heuristic/",
+      "title": "Speculative Decoding Is Not a Heuristic",
+      "description": "The Basic Idea Speculative decoding [1] , [2] is an inference technique for increasing the throughput of an LLM. In its most basic form, there is a large/slow target model and a small/fast draft model . The draft model is used to quickly generate a draft sequence of the next tokens 1 . Then, a single pass of the target model is used to obtain next-token distributions 2 . A verification procedure t"
+    },
+    {
+      "link": "https://reedmeyerson.com/posts/ancient_ops/",
+      "title": "The Ancients had Ops",
+      "description": "A Bit of History Pyramid building, tax collection, and war waging are not exactly simple enterprises. So complex are these operations, that their management requires a great technology. A technology so transformational, our modern Ops stacks pale in comparison. I speak, of course, of the technology of writing . Writing first appeared over 5,000 years ago in the ancient Mesopotamian civilization of"
+    },
+    {
+      "link": "https://reedmeyerson.com/posts/boring_generative_AI/",
+      "title": "Generative AI doesn’t need to be flashy",
+      "description": "Generative AI is the new hotness. It’s flashy, exciting, full of pizazz. There’s a certain showmanship in asking a machine for an image of a monkey riding a unicycle and having it spit out an image of a monkey riding a unicycle. Most data scientists don’t deal with such exciting things. For most companies, pictures of monkeys riding unicycles have no effect on the bottom line; these flashy display"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://me.micahrl.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://me.micahrl.com/blog/hugo-habitat/",
+      "title": "Hugo Habitat",
+      "description": "I figured out that I can file some inconveniences off the experience of writing Hugo sites in VS Code, and the result is a new VS Code extension called Hugo Habitat: mrled/vscode-extension-hugo-habitat . It can: Add a clickable glyph next to Hugo links to open that page in the editor Open the current page in a browser via a command Update frontmatter date to current time via a command Clickable re"
+    },
+    {
+      "link": "https://me.micahrl.com/blog/minor-contagious-corruption-exiv2/",
+      "title": "Minor contagious metadata corruption in exiv2",
+      "description": "I found some contagious metadata corruption in exiv2, such that reading a file with corrupt XML namespace values in XMP data poisons all subsequent metadata writes with the same corrupt namespace — even to other files. I don’t think it is very serious (at least, compared to other data corruption bugs). All software seems to read the files just fine before and after, and the corruption is limited t"
+    },
+    {
+      "link": "https://me.micahrl.com/blog/protecting-git-malicious-agents/",
+      "title": "Protecting .git from malicious agents",
+      "description": "I realized you can use containers to run Claude Code in yolo mode with Internet access relatively safely, without needing to maintain a dedicated VM . This might sound obvious. The whole point of containers is to isolate the contained processes from the host. Run Claude in a container, mount your project inside the container, and call it a day. This works fine, and will certainly prevent Claude fr"
+    }
+  ]
+}

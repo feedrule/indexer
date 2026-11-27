@@ -1,0 +1,20 @@
+{
+  "url": "https://mnguyen.fr/rss",
+  "posts": [
+    {
+      "link": "https://mnguyen.fr/blog/2026-10-02-rootless-docker-in-rootless-docker",
+      "title": "Setting up Rootless Docker in Rootless Docker",
+      "description": "Learn how to set up rootless Docker in rootless Docker for secure, isolated CI/CD workloads. Explore why Docker-in-Docker is insecure and how Linux namespaces enable safe nested container execution."
+    },
+    {
+      "link": "https://mnguyen.fr/blog/2026-08-18-yubikey-luks",
+      "title": "Setting up Yubikey GPG with LUKS and Dracut",
+      "description": "Did you know that Dracut natively supports LUKS with Yubikey? Learn how to setup LUKS with Yubikey and use it with Dracut."
+    },
+    {
+      "link": "https://mnguyen.fr/blog/2026-07-09-embedded-etcd",
+      "title": "Using embedded etcd as distributed local store.",
+      "description": "Easy high availability for stateful services. Embed etcd in go applications and avoid deploying additional distributed stores."
+    }
+  ]
+}

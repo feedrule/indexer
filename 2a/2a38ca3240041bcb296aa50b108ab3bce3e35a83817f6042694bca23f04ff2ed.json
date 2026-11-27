@@ -1,0 +1,20 @@
+{
+  "url": "https://frankc.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://frankc.net/number-rot",
+      "title": "Steering Beats Scale",
+      "description": "When scale outruns the feedback loop, numbers rot. - Slow is smooth, smooth is fast. Everyone credits that to the Navy SEALs. Nobody can source it there. The earliest documented print appearance is Jack Coughlin’s 2006 Marine sniper memoir Shooter; before that it circulated only as spoken range instruction. A fair warning for the numbers that follow. A maxim..."
+    },
+    {
+      "link": "https://frankc.net/company-as-codebase",
+      "title": "The Company as a Codebase",
+      "description": "Every workflow ships two artifacts: the result, and a versioned improvement to the system that produced it. - A rule with no enforcement is a wish. Palantir’s AI FDE, the agent that builds apps inside Foundry, was missing a tool for creating projects from a template. So I made one project by hand with the browser’s network tab open, copied the Compass request sitting underneath the interface, and."
+    },
+    {
+      "link": "https://frankc.net/observable-blue-collar-ai",
+      "title": "Blue-Collar AI Is an Observability Problem",
+      "description": "The hard part is ground truth, and ground truth clocks in with the crew. - One year ago, Andrew didn’t have the words. Not in the fake-humble way. He’s the CEO of the operations company we’re forward-deployed with, and back then, literally: ontology was jargon, observability was a software team’s problem, and AI inside a residential energy contractor sounded like a demo from another universe...."
+    }
+  ]
+}

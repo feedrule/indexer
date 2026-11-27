@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hintdesk.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.hintdesk.com/2026/01/30/how-to-assign-ipv6-to-oracle-compute-instance/",
+      "title": "How to assign an IPv6 Address to an Oracle compute instance?",
+      "description": "This guide provides step-by-step instructions for assigning an IPv6 address to an active Oracle Cloud Compute Instance. Follow the procedures below to ensure proper configuration and connectivity."
+    },
+    {
+      "link": "https://www.hintdesk.com/2025/01/14/mongodb/",
+      "title": "MongoDB",
+      "description": "In this post, I would like to document some useful information about using MongoDB."
+    },
+    {
+      "link": "https://www.hintdesk.com/2022/07/27/some-useful-kubernetes-and-helm-commands/",
+      "title": "Some useful Kubernetes and Helm commands",
+      "description": "Intro In this post I would like to list some useful commands for using Kubernetes."
+    }
+  ]
+}

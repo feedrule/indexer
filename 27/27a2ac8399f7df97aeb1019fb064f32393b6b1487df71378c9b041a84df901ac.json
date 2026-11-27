@@ -1,0 +1,20 @@
+{
+  "url": "https://hunsley.io/index.xml",
+  "posts": [
+    {
+      "link": "https://hunsley.io/posts/2026/cinematography-pwm-leds-safe-frame-rates/",
+      "title": "Cinematography: safe frame rates for PWM LEDs",
+      "description": "Following on from previous posts on SFX electronics: Here’s some data and discussion on reducing artefacts like flickering if using low-frequency PWM LED lighting on-camera."
+    },
+    {
+      "link": "https://hunsley.io/posts/2026/sfx-electronics-remote-led-skin-prosthetic-plan-b/",
+      "title": "SFX electronics: LED skin prosthetic Plan B",
+      "description": "The best laid plans of mice and men… Extremely tight deadlines for pre-production mean there’s no time to fab+assembly (given that a revision to first fabs might be needed), so time for plan B: a much simpler push-button wired solution, no MCU etc. But first a summary of where I got to with the PCB."
+    },
+    {
+      "link": "https://hunsley.io/posts/2026/git-from-ten-thousand-feet/",
+      "title": "Git: from ten thousand feet",
+      "description": "Here’s a bird’s eye view of some git topics. These are things a seasoned git user should be aware of. I’ll be your Captain for this flight."
+    }
+  ]
+}

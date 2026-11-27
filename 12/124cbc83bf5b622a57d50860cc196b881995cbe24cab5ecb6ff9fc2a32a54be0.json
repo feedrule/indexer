@@ -1,0 +1,20 @@
+{
+  "url": "https://www.natannovum.work/rss/",
+  "posts": [
+    {
+      "link": "https://www.natannovum.work/developing-unbreakable-website-layout-engine/",
+      "title": "Developing an unbreakable website layout engine",
+      "description": "So many projects took forever to launch because we wanted an impressive website. There’s never enough time to develop it from scratch, but with themes, you end up wasting even more time hacking the code to fix their quirks. Neutrino was made to end that nonsense once and for all."
+    },
+    {
+      "link": "https://www.natannovum.work/seoul-beauty-club/",
+      "title": "Seoul Beauty Club",
+      "description": "Redesign of an AI-powered skincare app to improve conversion, stickiness, and retention, while consolidating UX/UI between the responsive web and iOS apps."
+    },
+    {
+      "link": "https://www.natannovum.work/aleph-design-system/",
+      "title": "Aleph Design System",
+      "description": "0→1 development of a custom design system and a v2 expansion to 32 components totaling 95 variants. It grew from powering a single product into Aleph's global standard."
+    }
+  ]
+}

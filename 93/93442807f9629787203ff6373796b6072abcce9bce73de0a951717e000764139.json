@@ -1,0 +1,15 @@
+{
+  "url": "https://feliceforby.com/posts_feed",
+  "posts": [
+    {
+      "link": "https://feliceforby.com/posts/honeybadger-deployment-tracking-for-rails-with-kamal-and-doppler",
+      "title": "Honeybadger deployment tracking for Rails with Kamal and Doppler",
+      "description": "I recently signed up for Honeybadger to help with monitoring and error tracking for my Rails app. It’s easy to set up (just add a gem!) and they have a great free tier for small projects. Besides error tracking, Honeybadger also offers a simple way to track each time you deploy a new version of your app. This post explains how to set up the deployment tracking specifically for a Rails app that use"
+    },
+    {
+      "link": "https://feliceforby.com/posts/setting-up-a-rails-8-kamal-app-with-doppler-secrets",
+      "title": "Setting up a Rails 8 + Kamal app with Doppler Secrets",
+      "description": "I recently started working on a new personal Rails project and was eager to try out Kamal and a secret manager called Doppler. I heard about Doppler on one of the Rails-related podcasts and loved what they had to say. I decided to use it with my app so that all my secrets would be centralized, easier to manage, and there would less risk of accidentally committing something to Github. Doppler’s CLI"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mitanshu7.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://mitanshu7.github.io/html/register_passkey_linux.html",
+      "title": "\"How to register (any*) passkey to linux?\"",
+      "description": "\"Register a new device on linux using command line and authenticate with a touch.\""
+    },
+    {
+      "link": "https://mitanshu7.github.io/html/About_Jellyfin.html",
+      "title": "\"About Jellyfin\"",
+      "description": "\"This blog post describes about jellyfin, a self hosted streaming platform\""
+    },
+    {
+      "link": "https://mitanshu7.github.io/html/Autoconnect_ProtonVPN_systemd.html",
+      "title": "\"Autoconnect to ProtonVPN using systemd\"",
+      "description": "\"This blog post describes a method to autostart ProtonVPN client using the systemd service\""
+    }
+  ]
+}

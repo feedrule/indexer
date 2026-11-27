@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.pengyuc.com/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.pengyuc.com/posts/indie/one-owner-many-channels/",
+      "title": "One Owner, Many Channels: Short-Video Accounts per Product",
+      "description": "One Inbox, Many Masks gave every product its own contact@ address inside a single Google Workspace seat. Opening the first YouTube Shorts channel for Zestimer asked the follow-on question: sign up as contact@zestimer.com , or as contact@magicparklabs.com ? Both — and which does which turns out to depend on the platform. The address that owns the account should belong to the studio. The address the"
+    },
+    {
+      "link": "https://blog.pengyuc.com/posts/indie/appkit-one-installed-program/",
+      "title": "appkit: One Installed Program, and the Xcode Windows It Deletes",
+      "description": "English · 中文 English The honest origin story is smaller than the engineering: I got tired of remembering asc flags. Not the hard kind of tired — I could look them up. The kind where every release starts with re-deriving a workflow I had already invented twice, because it lived as shell history in three different repos and none of the three agreed with each other. I wanted one thing that was determ"
+    },
+    {
+      "link": "https://blog.pengyuc.com/posts/indie/one-inbox-many-masks/",
+      "title": "One Inbox, Many Masks: How I Run Multiple Products With One Google Workspace",
+      "description": "I currently run three products — zestimer.com , furioke.com , and playtefuda.com — plus my studio domain, magicparklabs.com . At first, I thought every product should have its own Google Workspace account. Then I checked the price. Google Workspace charges by user, not by domain, and for a one-person indie studio, creating another user just because I want contact@newproduct.com feels unnecessary."
+    }
+  ]
+}

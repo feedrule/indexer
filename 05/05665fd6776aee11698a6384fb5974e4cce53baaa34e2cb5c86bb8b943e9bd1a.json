@@ -1,0 +1,20 @@
+{
+  "url": "https://www.davidvlijmincx.com/index.xml",
+  "posts": [
+    {
+      "link": "https://davidvlijmincx.com/posts/virtual-threads-hidden-costs/",
+      "title": "Hidden Costs of Java Virtual Threads: GC & Cache Locality",
+      "description": "What happens when Java Virtual Threads are misused: stack copying to the heap, OutOfMemoryErrors, GC pressure, and CPU cache locality."
+    },
+    {
+      "link": "https://davidvlijmincx.com/posts/java-native-memory-access-modes/",
+      "title": "Thread-Safe Native Memory in Java: VarHandle Modes",
+      "description": "Thread-safe native memory access in Java with VarHandle modes: Plain, Opaque, Acquire/Release, and Volatile—verified with JCStress tests."
+    },
+    {
+      "link": "https://davidvlijmincx.com/posts/java-native-memory-allocation-ffm-api/",
+      "title": "Native Memory in Java: Arenas, Malloc & Custom Pools",
+      "description": "A practical guide to managing native memory in Java using the Foreign Function & Memory API, covering Arenas, manual allocation, pooling, and slicing"
+    }
+  ]
+}

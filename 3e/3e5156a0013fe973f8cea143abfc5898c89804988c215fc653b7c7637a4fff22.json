@@ -1,0 +1,20 @@
+{
+  "url": "https://tech.amikelive.com/feed/",
+  "posts": [
+    {
+      "link": "https://tech.amikelive.com/node-1776/xcode-and-macos-version-compatibility/",
+      "title": "Xcode and macOS Version Compatibility",
+      "description": "If you develop on macOS and target Apple ecosystem (iOS, watchOS, tvOS, macOS), you will need Xcode as the Integrated Development Environment (IDE). You will also need Xcode or Xcode toolchain when compiling third party software on your machine. You can download Xcode from App Store if you somehow don’t have it installed on your machine. However, […]"
+    },
+    {
+      "link": "https://tech.amikelive.com/node-1766/how-to-rollback-homebrew-update/",
+      "title": "How to Rollback Homebrew Update",
+      "description": "If you use Homebrew to install software on macOS, you may notice that Homebrew may perform version upgrade prior to installing the software. If you wonder why, deep inside the core logic of brew, the main command line tool of Homebrew, there is a subroutine to perform automatic update when brew detects that the version installed on your […]"
+    },
+    {
+      "link": "https://tech.amikelive.com/node-1687/how-to-install-node-js-22-on-macos-high-sierra/",
+      "title": "How to Install Node JS 22 on macOS High Sierra",
+      "description": "MacOS is an operating system that often becomes OS platform of choice for developers. With a vast ecosystem built around Apple products and services, developers may find it so convenient to use macOS for developing software. Besides convenience felt through the rich user experience, high usability, and intuitive UI, macOS has been known as a […]"
+    }
+  ]
+}

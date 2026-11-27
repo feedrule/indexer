@@ -1,0 +1,20 @@
+{
+  "url": "https://diggingforfire.blog/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+      "title": "Can a blog post be handwritten?",
+      "description": "Can a blog post be handwritten? Suppose I handwrite a post on my supernote, then export it as a webp, which supports XMP metadata. Pretty sure I should be able to read that with javascript. Then, I could embed the webp on a blog post, and write a script that will toggle between hand- writing and the OCR'd (and edited) text metadata. Worth an experiment, I reckon. Wonder if you can read my handwrit"
+    },
+    {
+      "link": "https://diggingforfire.blog/posts/apple-products-2026/",
+      "title": "Apple Products",
+      "description": "I’m just reading through MacRumors today, and thinking about the new AirPods with camera, new HomePods, and an iPhone event in September. I realised that I have never been more bored and uninterested in Apple’s latest products since I started using them at the age of 5. A couple of years ago I insta-bought the new AirPods Pro as soon as they were available. Now, I mostly were my wired headphones,"
+    },
+    {
+      "link": "https://diggingforfire.blog/posts/t-embed-to-do/",
+      "title": "T-embed To Do",
+      "description": "While Joshua has been busy vibe-coding his own to-do app, I've been making my own brand of mischief over in hardware land. To-do apps are a right of passage for any programmer. But I'm feeling jaded and old. I don't want yet another slice of software asking me to pick up my phone. So instead, I decided to build some custom firmware for the LilyGO T-embed. The main menu. My spin on the classic chec"
+    }
+  ]
+}

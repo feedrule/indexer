@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sitmo.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.sitmo.com/sampling-stock-prices-directly-from-option-prices/",
+      "title": "Sampling Stock Prices Directly from Option Prices",
+      "description": "For a single maturity, European call prices encode the risk-neutral distribution of the underlying. You can turn them into Monte Carlo samples without fitting a model or estimating a density."
+    },
+    {
+      "link": "https://www.sitmo.com/denoising-correlation-matrices-for-more-stable-portfolio-optimization/",
+      "title": "Denoising Correlation Matrices for More Stable Portfolio Optimization",
+      "description": "Introduction Portfolio optimization lies at the heart of asset management, guiding investment strategies from risk minimization to return maximization. Many of the most widely used allocation methods such as minimum variance, maximum Sharpe ratio, and risk parity rely on the inverse of the correlation matrix to compute optimal portfolio weights. However, if the correlation matrix […]"
+    },
+    {
+      "link": "https://www.sitmo.com/releasing-the-garch-densities-dataset-1000-trillion-simulations-for-financial-ai/",
+      "title": "Releasing the GARCH Densities Dataset: 1,000 Trillion Simulations for Financial AI",
+      "description": "huggingface.co/datasets/sitmo/garch_densities We’ve released a new open dataset on Hugging Face: GARCH Densities, a large-scale benchmark for density estimation, option pricing, and risk modeling in quantitative finance. Created with Paul Wilmott, this dataset contains simulations from the GJR-GARCH model with Hansen skewed-t innovations. Each row links a parameter set \\[ \\Theta = (\\alpha, \\gamma,"
+    }
+  ]
+}

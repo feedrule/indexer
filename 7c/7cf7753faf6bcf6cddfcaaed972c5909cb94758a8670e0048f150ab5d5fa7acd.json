@@ -1,0 +1,20 @@
+{
+  "url": "https://hackeryarn.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://hackeryarn.com/post/fast-python-with-rust/",
+      "title": "Fast Python with Rust: a data-oriented approach",
+      "description": "How fast can Rust make Python? With a bit of data-oriented design , really fast: Details Library Operations Collection Size Time (seconds) Redbear 100000 × 5 10 0.056 Redbear 1000000 × 5 10 0.583 Redbear 10000 × 5 1000 0.015 Redbear 100000 × 5 1000 0.145 NumPy 100000 × 5 10 0.285 NumPy 1000000 × 5 10 2.436 NumPy 10000 × 5 1000 0.039 NumPy 100000 × 5 1000 0.371 When I count ops above, I actually me"
+    },
+    {
+      "link": "https://hackeryarn.com/about/me/",
+      "title": null,
+      "description": "I'm a staff engineer working with Python, Clojure, and all the DevOps technologies. Outside of work, I write Rust, contribute to open source, maintain a Kubernetes homelab cluster, and dabble in 3D printing and hardware. In the past, I taught software engineering at Washington University in St. Louis , and worked with web technologies, across many industries, since 2006."
+    },
+    {
+      "link": "https://hackeryarn.com/post/async-python-benchmarks/",
+      "title": "What async really means for your python web app?",
+      "description": "The Python community is abuzz with excitement about better async support. If you have an existing service, you might wonder if you're missing out. Benchmarks show higher throughput and promise the ability to handle more requests with less hardware. Will a switch to async be a free lunch for your existing service? As often happens, the reality differs from expectations. Unless you run in a highly d"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.evantahler.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.evantahler.com/blog/post/2026-05-01-software-for-humans-and-agents",
+      "title": "Building Software for Humans and Agents",
+      "description": "I've been building a library and a framework in parallel, and the same design constraint keeps showing up in both: every piece of software now has two audiences, humans and agents. Here's what that changes — for libraries, and for frameworks."
+    },
+    {
+      "link": "https://www.evantahler.com/blog/post/2026-03-13-announcing-keryx",
+      "title": "Announcing Keryx: A Full-Stack TypeScript Framework for APIs and MCP Servers",
+      "description": "After 14 years of building Actionhero, I built a new framework from scratch. Keryx lets you write one Action class and deploy it across HTTP, WebSocket, CLI, background tasks, and MCP — all with the same validation and middleware."
+    },
+    {
+      "link": "https://www.evantahler.com/blog/post/2026-03-13-curl-for-mcp",
+      "title": "curl for MCP: Why Coding Agents Are Happier Using the CLI",
+      "description": "We're building increasingly complex integrations to connect coding agents to MCP servers. But these agents already know how to use the CLI. So why are we teaching them a new interface?"
+    }
+  ]
+}

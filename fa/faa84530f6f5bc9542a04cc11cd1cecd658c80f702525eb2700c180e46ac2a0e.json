@@ -1,0 +1,20 @@
+{
+  "url": "https://borncity.com/win/feed/",
+  "posts": [
+    {
+      "link": "https://borncity.com/win/2026/10/17/windows-exchange-server-october-2026-issue-analysis-and-workarounds/",
+      "title": "Windows/Exchange Server October 2026 issue: Analysis and Workarounds",
+      "description": "[German]The security updates for Windows Server released by Microsoft on October 13, 2026, are also affecting Microsoft Exchange Server. Reports on my German blog and across the internet indicate that database services stop working approximately 24 hours after the updates … Continue reading →"
+    },
+    {
+      "link": "https://borncity.com/win/2026/09/14/windows-sept-2026-rds-bug-microsoft-provides-a-kir-solution/",
+      "title": "Windows Sept. 2026 RDS Bug: Microsoft Provides a KIR Solution",
+      "description": "[German]The Microsoft security updates for Windows released on September 8, 2026, cause RDP connections to stop working after the patches are installed. Users are logged out and can no longer log in. Microsoft has now confirmed this; all versions of … Continue reading →"
+    },
+    {
+      "link": "https://borncity.com/win/2026/09/12/bgp-exchange-website-compromised-sept-12-2026/",
+      "title": "BGP.Exchange Website Compromised (Sept. 12, 2026)",
+      "description": "[German]A quick update that a blog reader brought to my attention. BGP.Exchange has been hacked, and the site has been compromised. As of September 12, 2026, the website has been defaced, and it appears that spam is also being sent through … Continue reading →"
+    }
+  ]
+}

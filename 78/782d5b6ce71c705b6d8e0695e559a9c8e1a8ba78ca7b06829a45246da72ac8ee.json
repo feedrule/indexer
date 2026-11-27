@@ -1,0 +1,20 @@
+{
+  "url": "https://aloutfi.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://aloutfi.com/writing/load-bearing-smoking-gun",
+      "title": "The load-bearing smoking gun",
+      "description": "An apology that acknowledges the framing, the nuance, and the deeper structural issue without ever saying what happened."
+    },
+    {
+      "link": "https://aloutfi.com/writing/ai-shifts-the-cost-to-the-reader",
+      "title": "AI shi(f)ts the cost to the reader",
+      "description": "AI can generate a wall of text in seconds. Reading, validating, and owning it still costs a human."
+    },
+    {
+      "link": "https://aloutfi.com/writing/workbench-development-harness",
+      "title": "Workbench: a development harness I built for myself",
+      "description": "The requirements, failures, Git branches, and worktrees behind the personal harness I use to keep AI coding clients replaceable."
+    }
+  ]
+}

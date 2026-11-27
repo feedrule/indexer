@@ -1,0 +1,20 @@
+{
+  "url": "https://readings.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://readings.bearblog.dev/pi-agent-harness/",
+      "title": "PI agent harness",
+      "description": "https://earendil.com/posts/pi-autoresearch-and-databricks/ https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/system-prompt.ts#L121-L159 In this blog post the author explains how the minimalistic nature of Pi agent harness helps achieve performance at low cost and context overhead. I will be deep diving into the links linked in the blog post. I will keep on reading and u"
+    },
+    {
+      "link": "https://readings.bearblog.dev/upi-anatomy/",
+      "title": "UPI Anatomy",
+      "description": "https://timeseriesofindia.com/economy/beats/ This is an awesome blog explaining how UPI payment system works in simple words and with rich illustrations. It is not going much in depth but covers what is necessary at high level."
+    },
+    {
+      "link": "https://readings.bearblog.dev/job-queues/",
+      "title": "Job Queues",
+      "description": "https://typesanitizer.com/blog/job-queues.html In this article the author explains how we should think before updating or changing anything in the job queue systems that we use. He suggests to do the math before making any changes to the system."
+    }
+  ]
+}

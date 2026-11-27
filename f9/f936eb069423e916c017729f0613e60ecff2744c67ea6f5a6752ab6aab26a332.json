@@ -1,0 +1,20 @@
+{
+  "url": "https://bjlkeng.io/rss.xml",
+  "posts": [
+    {
+      "link": "http://bjlkeng.github.io/posts/annotated-deep-learning-course/",
+      "title": "Annotated Deep Learning Course",
+      "description": "For the past five years, one of the most enjoyable things I've done outside of my day job is teaching. From 2020 to 2025, I had the pleasure of teaching a course in the Master of Management Analytics (MMA) program at the Rotman School of Management (UofT). Now that I've wrapped up that course (on to the next one), I decided to package up the material and put it online for posterity. You can find t"
+    },
+    {
+      "link": "http://bjlkeng.github.io/posts/the-logic-behind-entropy/",
+      "title": "The Logic Behind the Maximum Entropy Principle",
+      "description": "For a while now, I've really enjoyed diving deep to understand probability and related fundamentals (see here , here , and here ). Entropy is a topic that comes up all over the place from physics to information theory, and of course, machine learning. I written about it in various different forms but always taken it as a given as the \"expected information\". Well I found a few of good explanations"
+    },
+    {
+      "link": "http://bjlkeng.github.io/posts/iterative-summarization-using-llms/",
+      "title": "Iterative Summarization using LLMs",
+      "description": "After being busy for the first part of the year, I finally have a bit of time to work on this blog. After a lot of thinking about how to best fit it into my schedule, I've decided to attempt to write shorter posts. Although I do get a lot of satisfaction writing long posts, it's not practical because of the time commitment. Better to break it up into smaller parts to be able to \"ship\" often rather"
+    }
+  ]
+}

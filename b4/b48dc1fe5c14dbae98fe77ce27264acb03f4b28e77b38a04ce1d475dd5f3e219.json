@@ -1,0 +1,20 @@
+{
+  "url": "https://tolkunov.dev/index.xml",
+  "posts": [
+    {
+      "link": "http://tolkunov.dev/posts/one-year-with-linux/",
+      "title": "One year with Linux",
+      "description": "My journey from macOS to Linux, the mistakes I made along the way, and the Fedora + Niri setup that became my daily driver."
+    },
+    {
+      "link": "http://tolkunov.dev/posts/remote-workflow/",
+      "title": "A Remote Dev Environment Was All I Needed",
+      "description": "I turned my underpowered Linux laptop into a thin client for a remote agentic dev setup instead of replacing it."
+    },
+    {
+      "link": "http://tolkunov.dev/posts/ai-powered-todo-app/",
+      "title": "Building AI-powered personal task tracker",
+      "description": "Task list app you can control by talking to it. Uses Whisper and Mixtral models to make natural language processing seamless."
+    }
+  ]
+}

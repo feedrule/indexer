@@ -1,0 +1,20 @@
+{
+  "url": "https://graemephi.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://graemephi.github.io/posts/audio-visualizers/",
+      "title": "How to audio visualizer good",
+      "description": "So, multiple times now I have found myself helping out people making audio visualizers. It’s mostly easy but being able to bang out one that looks good takes a certain amount of tacit knowledge. The values you get from an FFT are linear in frequency and in magnitude, and noisy. To make a visualizer that looks good you need to sort out all three. My target audience for this post is people who have"
+    },
+    {
+      "link": "https://graemephi.github.io/posts/spectrogram-phases/",
+      "title": "Spectrogram Phases",
+      "description": "There was a tweet recently pointing out the apparent structurelessness of the phase data that is usually discarded when you compute audio spectrograms. People familiar with audio will know phase is important so this is pretty weird. So here’s quick post about what makes the phases so bad and some tricks to show there is structure to be found in them, but no promises any of it will be useful. I’m g"
+    },
+    {
+      "link": "https://graemephi.github.io/posts/twelve-tones/",
+      "title": "Twelve tones are inescapable",
+      "description": "Speculations. Nothing new just held up at a different angle than what you’ve seen before. I want to write about something interesting you can do with a single pentatonic scale. I’m just going to begin with what I noticed that got me thinking about this. Take C \\text C C major pentatonic, C D E G A \\text{C D E G A} C D E G A And transpose it onto G \\text{G} G . G A B ‾ D E \\text{G A } \\underline{\\t"
+    }
+  ]
+}

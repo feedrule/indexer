@@ -1,0 +1,20 @@
+{
+  "url": "https://ggirelli.info/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://ggirelli.info/blog/2025/12/30/horror-movies",
+      "title": "Horror Movies from 2025",
+      "description": "It’s the end of 2025, and unfortunatly I didn’t manage to watch ALL the horror movies released this year. That said, I think watching more than 30 titles is a decent achievement. So, as the year wraps up, I thought of sharing the horror films that sent a chill down my spine, and that I would like to recommend for a fun watch with friends. Here they are - no particular order. Opus A movie where Joh"
+    },
+    {
+      "link": "https://ggirelli.info/blog/2025/11/16/bootstrap-csp",
+      "title": "[solved] CSP and Bootstrap conflict",
+      "description": "A strict Content Security Policy (img-src self or stricter) will conflict with out-of-the-box Bootstrap CSS files, as they contain inline image data. Below is a table matching raw image data from the CSS to the corresponding SVG file name. The only solution I found has been to manually replace the inline data with the path to a locally stored SVG file, after downloading them. SVG Raw data SVG code"
+    },
+    {
+      "link": "https://ggirelli.info/blog/2026/11/08/folia",
+      "title": "Folia - our new engine",
+      "description": "Bye bye Jekyll… welcome Folia! Finally got tired of Jekyll enough to… fully vibe-code an alternative that better fits this website: Rust-based, built with Dioxus, supports multiple publishing modes (blog and microblog posts, digital garden, pages, …) out-of-the-box. I called it Folia, a multi-modality Rust static website generator, currently hosted on GitHub. It is currently v0.1.0 and using it is"
+    }
+  ]
+}

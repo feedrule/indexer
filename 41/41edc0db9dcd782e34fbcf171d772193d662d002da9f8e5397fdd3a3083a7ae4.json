@@ -1,0 +1,20 @@
+{
+  "url": "https://modularmoose.org/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://modularmoose.org/blog/2026-10-21-building-and-sharing-models-with-moosenexus/",
+      "title": "Building and sharing Moose models with MooseNexus",
+      "description": "Build repeatable Moose models from source projects, automate them with the MooseNexus CLI, and share them through artifact registries."
+    },
+    {
+      "link": "https://modularmoose.org/blog/2026-10-06-setup-mooseci-with-github-actions/",
+      "title": "Setup MooseCI on your repository with GitHub Actions",
+      "description": "Run MooseCI code-quality analyses on your repository with GitHub Actions."
+    },
+    {
+      "link": "https://modularmoose.org/blog/2026-09-29-ssa-python/",
+      "title": "Implementing a Static Single Assigment (SSA) in FAST-Python",
+      "description": "Implement a Static Single Assignment (SSA) representation on top of FAST-Python."
+    }
+  ]
+}

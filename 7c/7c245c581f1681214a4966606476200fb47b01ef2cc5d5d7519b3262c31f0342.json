@@ -1,0 +1,20 @@
+{
+  "url": "https://arttuv.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://arttuv.com/writings/ironies-of-automation-and-ai/",
+      "title": "The Ironies of Automation and Artificial Intelligence",
+      "description": "Ironies of automation (Bainbridge, 1983) is a foundational paper on what has been learned from automating work, or adding automation to tools people use for work. Ironies of artificial intelligence (Endsley, 2023) adds new observations on how LLM-powered systems have both similar and also new kinds of issues and opportunities. I also explain my approach to designing LLM systems."
+    },
+    {
+      "link": "https://arttuv.com/writings/augment-complement-empower-yourself/",
+      "title": "Augment, Complement and Empower Yourself",
+      "description": "LLMs are helpful and should be used with intent. Use them as tools to enhance your abilities while deliberately maintaining the fundamental skills you need to perform when the automation fails."
+    },
+    {
+      "link": "https://arttuv.com/writings/agile-still-relevant/",
+      "title": "Agile - Still Relevant",
+      "description": "It has been surprisingly common to see critique towards agile lately. I find it a bit odd, having seen the waterfall world and how much more humane agile has been. It can be easy to overlook how fundamental agile principles remain for surviving fast-paced, complex software projects."
+    }
+  ]
+}

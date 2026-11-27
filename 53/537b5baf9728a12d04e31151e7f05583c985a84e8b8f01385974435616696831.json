@@ -1,0 +1,20 @@
+{
+  "url": "https://tatey.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://tatey.com/2026/03/14/jekyllstudio-is-a-local-only-macos-editor-designed-for-writing-and-editing-jekyll-blog-posts/",
+      "title": "JekyllStudio is a local-only macOS editor designed for writing and editing Jekyll blog posts",
+      "description": "I’ve been using Jekyll since 2009 (17 years at time of writing!) and it remains my favourite way to publish on the web. Jekyll’s appeal lies in its philosophy . Your content lives on disk as plain files, they get generated into a static site, and that generated site can be pushed to any web server. No databases, no admin panels, and your blog posts still get pretty permalinks. The elegance of Jeky"
+    },
+    {
+      "link": "https://tatey.com/2026/03/08/tailscale-sidecar-pattern-for-synology-nas-with-dsm-7-and-container-manager/",
+      "title": "Tailscale sidecar pattern for Synology NAS with DSM 7 and Container Manager",
+      "description": "Tailscale lets you connect your devices over the internet as if they were on the same local network. Its MagicDNS feature gives each device a stable hostname so you can reach them with something like foo.yourtailnet.ts.net instead of an IP address. It’s convenient and private. I use Container Manager on my Synology NAS to self-host services. Tailscale can be installed as a client directly into DSM"
+    },
+    {
+      "link": "https://tatey.com/2026/03/01/i-built-a-native-macos-app-to-do-my-quarterly-bas-with-opencode/",
+      "title": "I built a native macOS app to do my quarterly BAS with OpenCode",
+      "description": "For the last 15 years I have been selling Antenna Mate on the App Store, and every quarter that means submitting a Business Activity Statement (BAS) to report on my Goods and Services Tax (GST) obligations (Paying our tax is important!) . My workflow has largely been the same. Download invoices from App Store Connect, gather business purchases, paste everything into a spreadsheet, calculate GST, t"
+    }
+  ]
+}

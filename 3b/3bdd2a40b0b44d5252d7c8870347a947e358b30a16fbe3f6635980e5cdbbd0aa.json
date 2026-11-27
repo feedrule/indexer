@@ -1,0 +1,20 @@
+{
+  "url": "https://unconcurrent.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://unconcurrent.com/articles/SoloDBvsLiteDBAndMongoDB.html",
+      "title": "SoloDB vs LiteDB vs MongoDB",
+      "description": "Three document databases from C#: ordinary and optimized queries, 200,000 events, native updates, file storage, and checked results."
+    },
+    {
+      "link": "https://unconcurrent.com/articles/BeatingCppWithFsharp.html",
+      "title": "Beating C++ with F# at Its Own Game",
+      "description": "How a memory-mapped F# implementation of the One Billion Row Challenge reached 1.650 seconds, beat an independent C++ version, and then met its Clang rematch."
+    },
+    {
+      "link": "https://unconcurrent.com/articles/CommonUndergroundII.html",
+      "title": "Agentic Echo Chamber",
+      "description": "Seven AI agents built a government, echoed one another's errors, and revealed why long-running agent crews drift without a human."
+    }
+  ]
+}

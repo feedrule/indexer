@@ -1,0 +1,20 @@
+{
+  "url": "https://acusti.ca/atom.xml",
+  "posts": [
+    {
+      "link": "https://acusti.ca/blog/2026/01/22/ai-cant-stop-wont-stop/",
+      "title": "Endless Loops in the Gemini Coding Agent CLI",
+      "description": "I just had an amazing interaction with the Gemini CLI where after saying “I’m done.”, it continued going with 11 “final checks” and 4 “one last checks”, along with another 14 calls to “Wait.” as it double⁴ checked its work. Gemini was so “confident” during this exchange that it said so no less than 4 times and confirmed its response was “correct” 10 times. In the end, it devolved into outputting “"
+    },
+    {
+      "link": "https://acusti.ca/blog/2025/12/22/claude-vs-codex-practical-guidance-from-daily-use/",
+      "title": "Claude vs Codex: Practical Guidance From Daily Use",
+      "description": "I have been using AI coding agents heavily to amplify the output of our two-person product team at Outlyne . My co-founder, Jeremy Willer, is a brilliant product designer and highly capable traditional web developer (HTML and CSS), while I’m a full-stack software engineer. Over the last decade, React and JSX (now TSX) have enabled Jeremy to become a productive contributor to our Typescript codebas"
+    },
+    {
+      "link": "https://acusti.ca/blog/2025/12/16/react-compiler-silent-failures-and-how-to-fix-them/",
+      "title": "React Compiler’s Silent Failures (And How to Fix Them)",
+      "description": "I have been building highly interactive React UIs since 2017: visual editors, design tools, the kind of applications where users are dragging elements, adjusting properties in real-time, and expecting every interaction to feel as responsive as Figma or Photoshop. An unnecessary re-render can break the illusion of direct manipulation, making the experience laggy and unpleasant. For eight years, I t"
+    }
+  ]
+}

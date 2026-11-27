@@ -1,0 +1,15 @@
+{
+  "url": "https://btema.net/index.xml",
+  "posts": [
+    {
+      "link": "https://btema.net/blog/two-elegant-use-cases-for-go-build-tags/",
+      "title": "Two Elegant Use Cases for Go Build Tags",
+      "description": "I won’t explain what Go build tags are, or conditional compilation in general. There are already many good resources that cover those topics well. Instead, I want to highlight two use cases that I’ve rarely seen discussed explicitly. In both cases, build tags proved extremely handy, and the resulting solutions turned out quite elegant, at least to my taste. Providing a Unified Interface for Toolch"
+    },
+    {
+      "link": "https://btema.net/blog/you-probably-dont-need-jupyterhub-on-kubernetes/",
+      "title": "You probably don't need JupyterHub on Kubernetes",
+      "description": "To deploy Jupyter notebooks on Kubernetes using open-source software, there are currently two major approaches to choose from: Make Notebooks a Core Feature on Kubernetes This is usually done using CRDs to make Kubernetes treat a Notebook as it treats a Pod or a Secret. These Custom Resources are backed by an Operator that is aware of notebook management logic and will be in charge of your noteboo"
+    }
+  ]
+}

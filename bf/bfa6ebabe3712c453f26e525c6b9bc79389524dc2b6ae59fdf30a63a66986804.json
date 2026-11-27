@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.zeis.de/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.zeis.de/posts/siemens-arc-1-sap-development-analysis/",
+      "title": "How Siemens Uses ARC-1 for SAP Development and Analysis",
+      "description": "Before I change an ABAP method, I want to know what else calls it. In SAP, I’d open the where-used list. At Siemens, a developer can ask an AI assistant the same question. ARC-1 lets it look up the answer using that developer’s own SAP permissions. On 7 October 2026, Daniel Dorst, Development Factory Lead at Siemens AG, and I presented SAP und KI richtig einordnen: Zwischen Kontext, Kontrolle und"
+    },
+    {
+      "link": "https://blog.zeis.de/posts/arc-1-sap-adt-growing-together/",
+      "title": "ARC-1 and SAP ADT: Growing Together",
+      "description": "When I started ARC-1 , there were already MCP servers for SAP’s ADT APIs. My main goal was enterprise-ready access: a service hosted on SAP BTP, with central control over who can use it and what they are allowed to do. For a team, that means being able to give some users read access and others permission to make changes, restrict where changes are allowed, and manage the service centrally. ARC-1’s"
+    },
+    {
+      "link": "https://blog.zeis.de/posts/custom-mcp-server-joule-work-desktop-xsuaa/",
+      "title": "Build a Custom MCP Server for Joule Work Desktop with XSUAA",
+      "description": "You have a spreadsheet with business-partner IDs and want to check the names against SAP. In Joule Work Desktop (JWD) , you might ask: Look up business partner 1000001 in SAP and compare its name with this spreadsheet. Include the source system and retrieval time, and leave SAP unchanged. A custom MCP server for Joule Work Desktop can provide that tool. Your developers decide what it reads, whose"
+    }
+  ]
+}

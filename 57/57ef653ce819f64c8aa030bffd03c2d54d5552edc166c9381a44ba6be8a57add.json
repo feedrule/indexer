@@ -1,0 +1,20 @@
+{
+  "url": "https://justsomebody.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://justsomebody.dev/blog/gitops-k3s-flux",
+      "title": "HomeLab #2: Immutable GitOps homelab + MikroTik hardening",
+      "description": "Let's get uCore, k3s and FluxCD running on the server!"
+    },
+    {
+      "link": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "description": "Proceed at your own risk! (... it's worth it)"
+    },
+    {
+      "link": "https://justsomebody.dev/blog/farewell-fire-pass",
+      "title": "Farewell, Fire Pass (for now)",
+      "description": "Experience on beta testing unlimited LLM tokens"
+    }
+  ]
+}

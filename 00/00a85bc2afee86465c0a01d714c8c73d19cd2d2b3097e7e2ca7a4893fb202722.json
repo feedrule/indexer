@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.aotoki.me/en/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.aotoki.me/en/posts/2026/11/18/kobako-from-default-allow-to-deny/",
+      "title": "Kobako: From Default Allow to Deny — Balancing Convenience and Security",
+      "description": "From the design stage, Kobako aimed to let the Host and the Guest communicate easily, which is why the Bind service mechanism was designed in the first place. To make it as easy as possible to use, you could pass basically any object to Sandbox#bind and call that object’s methods from the Guest. That convenience brought a huge risk, and in the end the only option was to change the design."
+    },
+    {
+      "link": "https://blog.aotoki.me/en/posts/2026/11/11/kobako-why-sandbox-has-no-time/",
+      "title": "Kobako: Why the Sandbox Deliberately Has No Time",
+      "description": "Once we finished mechanisms like RPC, Handle, and Block , we already had a pleasant mruby scripting environment. But the most critical capability of a sandbox is “security” — every arbitrary script it runs should be treated as dangerous, which means we need to defend against all kinds of scenarios."
+    },
+    {
+      "link": "https://blog.aotoki.me/en/posts/2026/11/04/kobako-block-through-sandbox/",
+      "title": "Kobako: Letting Blocks Pass Through the Sandbox",
+      "description": "The Kobako: Handle Mechanism isn’t anything special for projects that support a scripting language, but blocks are a capability unique to Ruby, and it would be a shame if we couldn’t make good use of them inside a sandbox. But can we really write something like this? 1 sandbox . bind ( \"Seq::Map\" , -> ( items , & blk ) { items . map ( & blk ) }) 2 sandbox . eval ( \"Seq::Map.call([1, 2, 3]) { |x| x"
+    }
+  ]
+}

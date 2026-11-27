@@ -1,0 +1,20 @@
+{
+  "url": "https://simedw.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://simedw.com/2026/10/27/harness-corp/",
+      "title": "Harness Corp: a game about making a 0.6B model useful",
+      "description": "An incremental game where you build the harness around a tiny LLM running in your browser"
+    },
+    {
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "description": "A 360M model that pretends to be a terminal, and remembers what you did"
+    },
+    {
+      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "title": "Training a 125M-parameter Model to Autocomplete Piano",
+      "description": "RollTab is a real-time piano MIDI autocomplete model and iPhone app."
+    }
+  ]
+}

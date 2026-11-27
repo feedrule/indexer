@@ -1,0 +1,20 @@
+{
+  "url": "https://horenbergerb.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://horenbergerb.github.io/2026/10/13/claude-slopped-aws-deployments.html",
+      "title": "Claude-slopped AWS deployments",
+      "description": "Why would you do that? The App The architecture Nuance Static stuff Dynamic stuff Authentication Storage API Also NAT Gluing it all together with terraform So what did it cost? Worst case: What could it have costed? Claude-slopped estimates Human-slopped reflection Conclusion Post-script: Blogging in the post-claude era Why would you do that? So I have this nice GitHub pages blog. I can show off a"
+    },
+    {
+      "link": "https://horenbergerb.github.io/2026/09/27/claude-on-bernoulli-diffusion.html",
+      "title": "Optimizing Bernoulli Diffusion with Claude",
+      "description": "Bernoulli Diffusion? What? Can Claude optimize my stuff? Reminder of how Bernoulli Diffusion works Forward trajectory Reverse trajectory Model probability Training In summary Claude’s improvements Skip connection One random timestep per example Predict $\\mathbf{x}^{(0)}$ Remarks and lingering questions Conclusion Bernoulli Diffusion? What? You’ve probably heard of diffusion, which is the thing tha"
+    },
+    {
+      "link": "https://horenbergerb.github.io/2025/09/01/brain-timescales.html",
+      "title": "Timescales in the Brain and Hierarchical Reasoning Models",
+      "description": "Hierarchical reasoning models: Very cool What is Autocorrelation? How does autocorrelation relate to neuroscience? Observable timescales in the brain Deep dive on autocorrelations of neuron spike counts Anything else? Conclusion and what’s next Hierarchical reasoning models: Very cool Recently there has been discussion about a new ML architecture, hierarchical reasoning models. Although it’s too s"
+    }
+  ]
+}

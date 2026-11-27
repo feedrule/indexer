@@ -1,0 +1,20 @@
+{
+  "url": "https://www.wonderousponder.com/feed/",
+  "posts": [
+    {
+      "link": "https://www.wonderousponder.com/how-to-convert-ogg-audio-files-to-mp3/",
+      "title": "How to convert Ogg audio files to MP3",
+      "description": "Hi Folks, In this post I talk about an easy way to convert Ogg audio files to MP3 using the terminal. You can do this easily if you have FFmpeg installed. FFmpeg is a complete cross-platform to record convert, and stream audio and video. Here’s the command to use: ffmpeg -i your-input-file.ogg your-output-file.mp3 That’s it! … Continue reading How to convert Ogg audio files to MP3 The post How to"
+    },
+    {
+      "link": "https://www.wonderousponder.com/how-to-resize-images-with-the-terminal-using-imagemagick/",
+      "title": "How to resize images with the terminal using ImageMagick",
+      "description": "Hi Folks, In this post I cover how to resize images easily with the terminal using ImageMagick. We cover 2 scenarios. The first is if you want to maintain aspect ratio while the second is if you want the resulting image to have a specific width and height, regardless of aspect ratio. Resizing Images while … Continue reading How to resize images with the terminal using ImageMagick The post How to r"
+    },
+    {
+      "link": "https://www.wonderousponder.com/getting-dandy-with-dnf/",
+      "title": "Getting Dandy with DNF",
+      "description": "Hi Folks, In this post I’ll talk briefly about an interesting tool called DNF. Recently I was trying to install dependencies in a Red Hat linux docker image and ran into issues using yum. After consulting with a very knowledgeable colleague, I learnt that I could resolve the problem by using DNF. I tried DNF … Continue reading Getting Dandy with DNF The post Getting Dandy with DNF appeared first o"
+    }
+  ]
+}

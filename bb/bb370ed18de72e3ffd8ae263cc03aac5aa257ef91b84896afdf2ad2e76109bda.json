@@ -1,0 +1,20 @@
+{
+  "url": "https://lukelau.me/feed.xml",
+  "posts": [
+    {
+      "link": "http://lukelau.me/2026/10/17/table-lookups.html",
+      "title": "Cracking a popcount benchmark",
+      "description": "Last month I woke up to a fresh regression on llvm-test-suite where the automotive-bitcount benchmark was 46% slower on RISC-V."
+    },
+    {
+      "link": "http://lukelau.me/2026/01/26/closing-the-gap-pt2.html",
+      "title": "Closing the gap, part 2: Probability and profitability",
+      "description": "Welcome back to the second post in this series looking at how we can improve the performance of RISC-V code from LLVM."
+    },
+    {
+      "link": "http://lukelau.me/2025/12/10/closing-the-gap-pt1.html",
+      "title": "Closing the LLVM RISC-V gap to GCC, part 1",
+      "description": "At the time of writing, GCC beats Clang on several SPEC CPU 2017 benchmarks on RISC-V1: Compiled with -march=rva22u64_v -O3 -flto, running the train ↩"
+    }
+  ]
+}

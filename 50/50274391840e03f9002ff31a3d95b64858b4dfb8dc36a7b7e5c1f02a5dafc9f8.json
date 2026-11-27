@@ -1,0 +1,20 @@
+{
+  "url": "https://loiane.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://loiane.com/2026/08/ai-loop-engineering-github-pr-claude-code/",
+      "title": "AI Loop Engineering: Four Loops From a GitHub Issue to a Merged Feature",
+      "description": "A few weeks ago I stopped babysitting a pull request and let an agent do it instead. The task was the boring, exhausting kind every team knows. A PR is open, CI runs, something fails, you fix it, you push, you wait ten minutes for CI to come back, and then the next gate fails. Coverage dropped below the threshold. Checkstyle is unhappy. A flaky test failed on retry. The static analysis tool fo..."
+    },
+    {
+      "link": "https://loiane.com/2026/08/mutation-testing-angular-stryker/",
+      "title": "Mutation Testing for Angular with Stryker: When 100% Coverage Still Tests Nothing",
+      "description": "A few weeks ago I wrote about mutation testing for Java with PIT: why 100% line coverage can still catch nothing, and how deliberately injecting small bugs, mutants, measures whether your tests would actually notice. If you want the full case for why coverage lies, start there. This post is the other half of the stack: the same sensor, applied to Angular with Stryker Mutator. The frontend is w..."
+    },
+    {
+      "link": "https://loiane.com/2026/07/contract-testing-spring-boot-angular/",
+      "title": "Contract Testing for Spring Boot and Angular: Catch Frontend-Backend Drift Before Production",
+      "description": "Your Angular service reads courseName off every response. Last Tuesday the backend renamed that field to name. Both projects compile. Both test suites are green. Production shows a table full of blanks. Nothing in either codebase was wrong on its own. The Spring controller returns a perfectly valid DTO. The Angular CoursesService maps a perfectly valid TypeScript interface. The bug lives in th..."
+    }
+  ]
+}

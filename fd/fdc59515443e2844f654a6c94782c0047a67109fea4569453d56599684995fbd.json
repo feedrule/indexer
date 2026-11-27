@@ -1,0 +1,20 @@
+{
+  "url": "http://maurycyz.com/index.xml",
+  "posts": [
+    {
+      "link": "https://maurycyz.com/projects/badcert/",
+      "title": "Horrible public key tricks:",
+      "description": "So, I've always been somewhat annoyed at SSL/TLS. It requires everyone to go through a complex \"ACME\" dance just to put up a public website. Worse, certificates expire every few months, so it's not a one and done thing: even with automation, maintaining a certificate requires care to ensure the ACME client always has access to DNS records or the web server. ... and the whole system doesn't even wo"
+    },
+    {
+      "link": "https://maurycyz.com/misc/email/",
+      "title": "A bit about email",
+      "description": "Before you torch and pitchfork me, I'm aware most of this is simplified and doesn't go into edge cases, even though the internet is composed entirely of edge cases. Otherwise, I'd be writing a whole book. First, some terminology; A typical email will past through many different components on the way to the recipient: 1. Sender's MUA [Via SMTP on port 465] 2. Sending MSA 3. Sending MTA [Via SMTP on"
+    },
+    {
+      "link": "https://maurycyz.com/misc/email_thoughts/",
+      "title": "Some thoughts on hosting email",
+      "description": "Generally speaking, email isn't as hard as its reputation would suggest. Yes, big-tech providers will occasionally send my messages to spam... but paying for commercial email doesn't guarantee delivery: emails within a single provider are generally safe, but in my experience, big-tech to other big-tech has a ~75% chance. Because of this, having my own mail server is great for piece of mind: I can"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://nothing.pcarrier.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://nothing.pcarrier.com/posts/blitception/",
+      "title": "Blitception",
+      "description": "I've been working on blit , which streams terminals and graphical apps to your browser with very low latency. Naturally, I had to see how deep it goes. This is blit in my browser in France, connected to a server on the US East Coast. The two bottom panes show the same video, arriving through two very different routes. On the left, blit streams a remote Chromium. That Chromium loaded another blit i"
+    },
+    {
+      "link": "https://nothing.pcarrier.com/posts/vanity-keygen-opencl/",
+      "title": "Vanity SSH keys at 300M/s on OpenCL",
+      "description": "A few years ago I published vanity-keygen , a small Go program that brute-forces ed25519 SSH keypairs until the public key matches a regex. It did about 250k keys per second on my 32-core machine: a minute for love$ , days for [pP][cC][aA][rR][rR][iI1][eE][rR] . This week an LLM rewrote it from scratch in Rust, with all of the cryptography hand-rolled in a single OpenCL kernel. I provided directio"
+    },
+    {
+      "link": "https://nothing.pcarrier.com/posts/alive/",
+      "title": "I'm alive",
+      "description": "It's been quiet here, but I'm alive! Work is keeping me busy these days, and what's left over is split between building new stuff and writing about it. Writing gets very little. The building side shows over on xmit.dev : cc.me, and found.as grows a contact page and four more utilities on cc.me . Building in public what I need when I need it is super enjoyable. Work also produced blit.sh , terminal"
+    }
+  ]
+}

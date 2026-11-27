@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bram.us/feed/",
+  "posts": [
+    {
+      "link": "https://www.bram.us/2026/11/19/codepen-commander-cli-tool-cdpn/",
+      "title": "CodePen Commander — Sync, serve, and build local CodePen 2.0 Pens straight from the CLI",
+      "description": "I scratched my own itch (again 😅) and built CodePen Commander — a CLI cdpn command to sync local folders with CodePen 2.0 Pens, deploy them, and manage privacy rules right from the terminal."
+    },
+    {
+      "link": "https://www.bram.us/2026/10/22/gta-js/",
+      "title": "GTA.js, a reimplementation of the 1997 Grand Theft Auto engine in JavaScript and WebGL",
+      "description": "Here’s a little sideproject I’ve been spending my tokens on: https://gtajs.wtf/ It’s a reimplementation of the 1997 Grand Theft Auto engine in JavaScript and WebGL."
+    },
+    {
+      "link": "https://www.bram.us/2026/10/14/scroll-triggered-animations-debugger-devtools-extension/",
+      "title": "Scroll-Triggered Animations Debugger (DevTools Extension)",
+      "description": "I’m extremely pleased to announce the release of Scroll-Triggered Animations Debugger , a DevTools extension to visualize and debug CSS Scroll-Triggered Animations ."
+    }
+  ]
+}

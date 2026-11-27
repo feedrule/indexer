@@ -1,0 +1,20 @@
+{
+  "url": "https://gui.do/rss.xml",
+  "posts": [
+    {
+      "link": "https://gui.do/post/atproto-series-02-your-identity-isnt-your-username/",
+      "title": "Your identity isn't your username",
+      "description": "Your username is a label; your identity is a key you own. atproto splits who you are from what you're called, so you can rename freely, prove who you are with a domain you control, and carry one identity across the apps you use. Part of 'Apps as Views, Not Vaults': the things you make are yours; apps are just the viewers."
+    },
+    {
+      "link": "https://gui.do/post/atproto-series-01-you-dont-own-your-network/",
+      "title": "Who actually owns your network?",
+      "description": "Every time I moved a community to a new platform, the exit cost members and history. Platforms come and go; the lock-in architecture underneath is why. Part of 'Apps as Views, Not Vaults': the things you make are yours; apps are just the viewers."
+    },
+    {
+      "link": "https://gui.do/post/self-hosted-github-runner-vps/",
+      "title": "Outsource your GitHub CI to a VPS: cheaper, faster, and a free backup server too",
+      "description": "Self-hosted GitHub Actions runners on a small Hetzner VPS cut my CI wall-clock from ~12 minutes to ~3 minutes for about half the price of the GitHub-hosted minutes I was burning. Here's the full setup."
+    }
+  ]
+}

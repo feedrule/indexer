@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.pentlander.com/feed/",
+  "posts": [
+    {
+      "link": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+      "title": "The Deeply Impersonal Personalized Recruiter Mail",
+      "description": "Lately I’ve encountered a new species of software engineer recruiter mail. It goes something like this: Your work on infrastructure at Railway, along with your earlier years building observability software at City Storage Systems and storage systems on AWS Glacier, is exactly the kind of platform background this role calls for. So the first paragraph is spent explaining my career to me (thanks I f"
+    },
+    {
+      "link": "https://blog.pentlander.com/building-blocks-sasquach-type-system/",
+      "title": "Building Blocks of the Sasquach Type System",
+      "description": "This post I will describe my current vision for the Sasquach type system. Some content mentioned here is already implemented, though much of it is not. I indicate what's currently working 1 at the end of each section . I expect some aspects of the type system to change as I continue to implement it. Structs Sasquach is a high level functional language that aims to feel like you're (mostly) writing"
+    },
+    {
+      "link": "https://blog.pentlander.com/why-build-sasquach-lang/",
+      "title": "Why build Sasquach lang",
+      "description": "I'm writing a new functional programming language called Sasquach that targets the Java Virtual Machine (JVM). This post aims to answer why I'm building it, why I'm not just using another language, the goals and non-goals of the language, and why it's targeting the JVM. Why For the most part I'm building this language for myself. I've had a few side projects over the years, usually related to dist"
+    }
+  ]
+}

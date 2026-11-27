@@ -1,0 +1,20 @@
+{
+  "url": "https://www.nodejs-security.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.nodejs-security.com/blog/hardening-your-npm-pnpm-config-for-shai-hulud/",
+      "title": "Hardening Your npm and pnpm Configs in the Age of Shai-Hulud",
+      "description": "A copy-paste-ready .npmrc and pnpm-workspace.yaml that actually defends against the supply-chain attacks of 2025 and 2026 — with the threat model behind every directive."
+    },
+    {
+      "link": "https://www.nodejs-security.com/blog/argument-injection-vulnerability-in-git-blame-1-4-0/",
+      "title": "Argument Injection vulnerability in git-blame@1.4.0",
+      "description": "The git-blame npm package is vulnerable to Argument Injection via the `rev` parameter allowing arbitrary command injection."
+    },
+    {
+      "link": "https://www.nodejs-security.com/blog/argument-injection-vulnerability-in-gits-0-1-8/",
+      "title": "Argument Injection vulnerability in `gits@0.1.8`",
+      "description": "An Argument Injection vulnerability was discovered in the `gits` npm package that could allow attackers to execute arbitrary commands on the host"
+    }
+  ]
+}

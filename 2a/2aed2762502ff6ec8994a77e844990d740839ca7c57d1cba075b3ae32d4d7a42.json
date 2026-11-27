@@ -1,0 +1,15 @@
+{
+  "url": "https://sahil.im/feed.xml",
+  "posts": [
+    {
+      "link": "https://sahil.im/posts/2026/how-i-publish-to-my-site-with-obsidian/",
+      "title": "How I publish to my site with Obsidian",
+      "description": "I built a CMS where I write in Obsidian, a plugin pings my Go API, markdown gets stored in Cloudflare D1, and the site updates immediately. It's absurdly overengineered and I love it."
+    },
+    {
+      "link": "https://sahil.im/posts/2024/guide-to-ricing/",
+      "title": "A definitive, entirely subjective guide to ricing Linux",
+      "description": "Ricing is the art of making your Linux desktop look unreasonably good for no practical benefit. I've been doing it for years, and I have opinions. Strong ones."
+    }
+  ]
+}

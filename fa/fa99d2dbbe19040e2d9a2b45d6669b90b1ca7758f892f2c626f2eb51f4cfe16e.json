@@ -1,0 +1,20 @@
+{
+  "url": "https://amedee.be/feed/",
+  "posts": [
+    {
+      "link": "https://amedee.be/fighting-ai-generated-comment-spam-on-wordpress/",
+      "title": "Fighting AI-generated comment spam on WordPress",
+      "description": "Recently, I’ve been getting a new type of comment spam on my blog. The comments are surprisingly relevant to the articles they’re posted on. They refer to the actual content of the blog post, use appropriate terminology and even sound as though someone has taken the time to read what I wrote. Except they have… Read More » Fighting AI-generated comment spam on WordPress"
+    },
+    {
+      "link": "https://amedee.be/goodbye-node-js-and-good-riddance-to-dependency-hell/",
+      "title": "Goodbye, Node.js — and Good Riddance to Dependency Hell",
+      "description": "🎉 PARTY TIME! 🎉 I removed the Node.js component from my configuration management repository yesterday. Not because of some grand redesign. I deleted a reusable GitHub Action, and then realized it was the only reason Node.js was still hanging around. The repository is Ansible, YAML, shell scripts, and a bit of Python. No JavaScript. No… Read More » Goodbye, Node.js — and Good Riddance to Dependency"
+    },
+    {
+      "link": "https://amedee.be/do-i-really-need-ai-for-automatic-dependency-updates/",
+      "title": "Do I Really Need AI for Automatic Dependency Updates?",
+      "description": "Dependency updates are one of those areas where AI is often presented as an obvious win. But when you look closely, the value proposition can be surprisingly thin. Every few months I find myself looking at a piece of automation I wrote and asking a dangerous question: “If I deleted this today, would I miss… Read More » Do I Really Need AI for Automatic Dependency Updates?"
+    }
+  ]
+}

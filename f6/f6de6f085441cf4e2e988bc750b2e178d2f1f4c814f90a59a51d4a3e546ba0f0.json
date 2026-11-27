@@ -1,0 +1,20 @@
+{
+  "url": "https://vinitkumar.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://vinitkumar.me/feyro-manual-camera-app/",
+      "title": "I Built Feyro, a Manual Camera App for iPhone",
+      "description": "Feyro is a manual camera app for iPhone. It puts shutter speed, ISO, focus and white balance on dials, shoots ProRAW, RAW and 48 MP HEIF…"
+    },
+    {
+      "link": "https://vinitkumar.me/my-week-in-open-source-2026-10-16/",
+      "title": "My Week in Open Source: Python 3.15, Faster Django CMS, and a Stable Rust Release",
+      "description": "October 9–16, 2026 This week, my open-source work ranged from interpreter compatibility across the django CMS ecosystem to performance…"
+    },
+    {
+      "link": "https://vinitkumar.me/13-years-of-json2xml/",
+      "title": "Thirteen Years of json2xml",
+      "description": "On July 6, 2013, I published json2xml 0.1 on PyPI. Its job was straightforward: take JSON and turn it into XML. Thirteen years later, that…"
+    }
+  ]
+}

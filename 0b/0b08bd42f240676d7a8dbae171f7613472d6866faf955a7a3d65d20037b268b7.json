@@ -1,0 +1,20 @@
+{
+  "url": "https://mikehadlow.com/index.xml",
+  "posts": [
+    {
+      "link": "https://mikehadlow.com/posts/2026-04-15-running-individual-bun-tests-with-zed-tasks/",
+      "title": "Running individual Bun tests with Zed tasks",
+      "description": "I’m a big fan of the Zed editor. It’s been my daily driver (when I’ve had a choice) for around a year now. It runs like butter on an ancient nine-year-old Dell XPS that’s been my Arch Linux hobby machine for a while. Back when I was a Windows guy coding in Visual Studio, one of my favourite tools was TestDriven.NET, an open source test runner by Jamie Cansdale. A superpower of TestDriven.NET was i"
+    },
+    {
+      "link": "https://mikehadlow.com/posts/2026-02-23-vibe-coding/",
+      "title": "Book Review: Vibe Coding by Gene Kim and Steve Yegge",
+      "description": "For myself and many others, everything changed around November last year. I’d just started to use Codex and Claude Code when Anthropic’s Opus 4.5 was released. It was immediately apparent that this was a step change, both in the capabilities of the models themselves and the tooling that enabled a deep interaction with the CLI. I’d experimented with IDE plugin chatbots and code completion previousl"
+    },
+    {
+      "link": "https://mikehadlow.com/posts/2026-01-30-bluesky-comments-for-hugo/",
+      "title": "Vibe-Coding BlueSky Comments",
+      "description": "I’ve vibe-coded a new commenting system for this blog using BlueSky as the backend. At the bottom of the page you’ll see a call to action to “Join the conversation on BlueSky” which takes you to a BlueSky post. Any replies to that post will also appear at the bottom of the page, there might even be some there now."
+    }
+  ]
+}

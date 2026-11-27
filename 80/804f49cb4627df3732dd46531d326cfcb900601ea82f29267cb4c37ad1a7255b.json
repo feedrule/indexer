@@ -1,0 +1,20 @@
+{
+  "url": "https://henrikgerdes.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://henrikgerdes.me/blog/2026-09-ionos-k8s-vulnerability/",
+      "title": "Reporting a Vulnerability in IONOS Cloud - How to not join Kubernetes Nodes",
+      "description": "Experience of Reporting a Privilege Escalation Vulnerability for IONOS managed Kubernetes **TLDR:** A reported vulnerability in IONOS managed Kubernetes offering was not fixed after reporting it. Learn how to fix a private escalation path that allows becoming Cluster-Admin in just two commands. --- --> While dissecting Kubernetes internals regarding node-join process and in-cluster endpoints, I lo"
+    },
+    {
+      "link": "https://henrikgerdes.me/blog/2026-06-credentialless-aws-azure/",
+      "title": "AWS Web-Identity to Azure - Goodbye Static Tokens",
+      "description": "Native Keyless Authentication from AWS to Azure with Web-Identity TLDR: AWS STS Web-Identity-Token function allows secure, low maintenance authentication via OIDC for all none AWS Services at no additional cost. Perfect for Azure, OnPrem system or CI. Late 2025, I wrote about Reduce your Token-Usage for all non AWS-Apps which looked at the new AWS capability to authenticate from AWS to OnPrem reso"
+    },
+    {
+      "link": "https://henrikgerdes.me/blog/2026-04-k8s-native-ipv6-edge/",
+      "title": "Native IPv6 Kubernetes for true edge routing",
+      "description": "Kubernetes & IPv6 Let’s bring some technologies with very different adoption metrics closer together: Kubernetes is just over 11 years old, as of writing. IPv6 is from 1998, that’s more than twice the age of k8s with 27 years. Some early deployments are even older. While Kubernetes is nothing but a success story, IPv6 has a complicated history. Based on Google data , IPv6 just hit 50% of traffic -"
+    }
+  ]
+}

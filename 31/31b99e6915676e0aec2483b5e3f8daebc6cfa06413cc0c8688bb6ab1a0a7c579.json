@@ -1,0 +1,20 @@
+{
+  "url": "https://junaidqadir.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://junaidqadir.com/blog/php-8-6-what-changes-in-code-you-already-have/",
+      "title": "PHP 8.6: what changes in code you already have",
+      "description": "PHP 8.6 run on the official image: partial application and clamp() for everyday code, new session defaults, and the helper that now throws."
+    },
+    {
+      "link": "https://junaidqadir.com/blog/what-modern-web-guidance-legacy-scan-catches/",
+      "title": "What Modern Web Guidance's legacy scan catches",
+      "description": "legacy-scan checks 52 rules for specific UI hacks, not old code in general. A 2013 boilerplate and Bootstrap 5.3.8 both come back clean."
+    },
+    {
+      "link": "https://junaidqadir.com/blog/claude-code-code-mode-fix-your-hooks-first/",
+      "title": "Claude Code Code Mode: fix your hooks first",
+      "description": "Code Mode lets Claude Code batch tool calls into one JavaScript step. Before you turn it on, check how your PreToolUse hooks read Bash commands."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://lonoak.com/atom/",
+  "posts": [
+    {
+      "link": "https://lonoak.com/encrypteddns/",
+      "title": "Thoughts on encrypted DNS",
+      "description": "Think your browsing is private just because there’s a little padlock in your browser? Cute. Even with HTTPS, your Internet Service Provider can still see every domain you visit because old-school DNS requests are basically sent out like postcards — wide open for anyone on the route to read. If you’d rather not hand your browsing history over like a grocery list, switch your system or router to use"
+    },
+    {
+      "link": "https://lonoak.com/what-shell-your-mac-is-using/",
+      "title": "What Shell Your Mac is Using?",
+      "description": "Every Mac comes with a Unix shell that provides a command line interface. Macs running macOS 10.15 and later use Zsh by default. Before that, Macs used the Bash shell by default. Of course, no matter what version of macOS you’re using, you can change the shell your Mac is using. What shell is your Mac using? Open the Terminal application on your Mac. At the prompt, type echo $0"
+    },
+    {
+      "link": "https://lonoak.com/secure-file-shredder-program-mac/",
+      "title": "Secure File Shredder",
+      "description": "brew install coreutils and then use gshred to overwrite the file before you remove it. gshred will by default overwrite a file 3 times but you can set it to do more then remove the file. $ gshred -v -z -u -n 3 filename.txt"
+    }
+  ]
+}

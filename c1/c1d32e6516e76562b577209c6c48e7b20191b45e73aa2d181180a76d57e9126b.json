@@ -1,0 +1,20 @@
+{
+  "url": "https://steve-adams.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://steve-adams.me/claude-code-deny-list-is-leaky.html",
+      "title": "Your Claude Code Deny List Is Leaky",
+      "description": "After a short stint of letting Claude handle adding, committing, and pushing changes to a project, I realized I didn't like it. It was too eager to make changes that were too aggressive and too broadly scoped, and everything felt noisy. Even with my regular intervention, change sets were getting too frequent and the quality was dropping. I added git commit and git push to the deny list and figured"
+    },
+    {
+      "link": "https://steve-adams.me/metaprogramming-typescript-with-the-reflect-api.html",
+      "title": "Metaprogramming TypeScript with the Reflect API",
+      "description": "Do you ever wonder what exactly Reflect is for, and why you'd use it? You're not alone. In fact, there's a good chance a lot of people you work with have never heard of it. Reflect's documentation covers a lot of lower-level, seemingly abstract ideas, which leads to it being unclear as to why you'd use it. This isn't because you're not catching on or understanding; it's because its functionality i"
+    },
+    {
+      "link": "https://steve-adams.me/building-minesweeper-with-xstate-store.html",
+      "title": "Building Minesweeper with @xstate/store",
+      "description": "State management is hard. If I had to guess, maybe most bugs I work on are some form of errant, brain-derived state management issues. This is an account of trying to find ways to make it less hard, hopefully use my brain less so it can't get in the way, and have some fun in the process. Why @xstate/store? At first glance I thought \"Why wouldn't I use x, y, or z state management library\", but then"
+    }
+  ]
+}

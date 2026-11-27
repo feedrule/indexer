@@ -1,0 +1,20 @@
+{
+  "url": "https://teleported.in/index.xml",
+  "posts": [
+    {
+      "link": "https://teleported.in/blog/2025/12/landmark-llm-papers/",
+      "title": "Landmark LLM Papers",
+      "description": "Introduction A list of curated landmark papers in the field of LLMs. Foundational Efficient Estimation of Word Representations in Vector Space (Word2Vec) (2013) GloVe: Global Vectors for Word Representation (2014) Neural Machine Translation by Jointly Learning to Align and Translate (2014) Introduced the concept of attention Transformer Attention Is All You Need (2017) Introduced the Transformer a"
+    },
+    {
+      "link": "https://teleported.in/about/",
+      "title": "About",
+      "description": "Hi, I’m Anand 👋 These are my notes on topics related to machine learning , large & small language models and efficient ML . Here is my LinkedIn profile . My X handle is @anandsaha ."
+    },
+    {
+      "link": "https://teleported.in/blog/2017/11/decoding-the-resnet-architecture/",
+      "title": "Decoding the ResNet architecture",
+      "description": "Introduction Fast.ai’s 2017 batch kicked off on 30th Oct and Jeremy Howard introduced us participants to the ResNet model in the first lecture itself. I had used this model earlier in the passing but got curious to dig into its architecture this time. (In fact in one of my earlier client projects I had used Faster RCNN, which uses a ResNet variant under the hood.) ResNet was unleashed in 2015 by K"
+    }
+  ]
+}

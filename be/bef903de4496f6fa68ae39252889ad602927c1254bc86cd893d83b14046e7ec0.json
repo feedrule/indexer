@@ -1,0 +1,15 @@
+{
+  "url": "https://niki.cat/rss.xml",
+  "posts": [
+    {
+      "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+      "title": "Detecting scraper bots through scroll behaviour",
+      "description": "Ever since I first read \"Burstiness and Memory in Complex Systems\" by Kwang-Il Goh, I have been obsessed with the two formulas showcased in the paper. Burstiness (B), and its just-as-important counterpart Memory (M), let us understand the dynamics of event-based systems. We can use them to analyse the behaviour of sent emails, texts or even heartbeats when only the time at which those events happe"
+    },
+    {
+      "link": "https://niki.cat/the-key-to-keeping-the-internet-alive-might-be-anticheats",
+      "title": "The key to keeping the internet alive might be anticheats",
+      "description": "The Dead Internet Theory is a concept asserting that the internet consists primarily of bots and automated content[1], an idea that has gotten ever more popular since the boom of Artificial Intelligence, however, I don't think it's quite true. At the time of writing, 58.7% of the requests to HTML files passing through Cloudflare's network are initiated by bots[2], these are most certainly crawlers"
+    }
+  ]
+}

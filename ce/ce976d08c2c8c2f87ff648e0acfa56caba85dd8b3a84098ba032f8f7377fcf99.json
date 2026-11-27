@@ -1,0 +1,20 @@
+{
+  "url": "https://shad0wmazt3r.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://shad0wmazt3r.github.io/ai-security",
+      "title": "The Agent Is Not the Scanner: Making AI Security Agents Better",
+      "description": "Eight months of testing security agents taught me that more scaffolding is not always better. Here’s where skills and MCP helped, where they hurt, and how I route models now."
+    },
+    {
+      "link": "https://shad0wmazt3r.github.io/Linux-DFIR",
+      "title": "Analyzing a Compromised Linux Machine",
+      "description": "A hands-on review of a deliberately compromised Linux host: SQL injection, stored XSS, exposed services, backdoor accounts, and the evidence behind each finding."
+    },
+    {
+      "link": "https://shad0wmazt3r.github.io/VajraSpy",
+      "title": "Vajra Spy - An Android Malware",
+      "description": "My first malware analysis: decompiling VajraSpy, tracing its Android workers, and finding how it collects files, messages, contacts, and call logs."
+    }
+  ]
+}

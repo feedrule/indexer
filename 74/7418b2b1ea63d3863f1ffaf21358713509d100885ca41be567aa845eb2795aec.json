@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.karliner.net/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.karliner.net/posts/adversarial-authoring/",
+      "title": "Adversarial Authoring",
+      "description": "I hate writing. I’m pretty sure I still have PTSD from all those homework assignments to ‘write 250 words on what I did in my holidays’. Even then, I couldn’t see the point of just generating prose for the sake of it. And besides, my family never went on holiday. Even now, the horror vacui of a blank sheet of paper, or more often a blank screen, sends me into a flurry of displacement activities —"
+    },
+    {
+      "link": "https://blog.karliner.net/posts/thingstudio-common-ground/",
+      "title": "Making Common Ground for Humans and LLM's",
+      "description": "TLDR; I set out to make asynchronous programming on microcontrollers easier. Along the way, I accidentally built somewhere that humans and AI’s can work together comfortably. This is the first in a short series of posts about learnings and insights I’ve got during the making of Thingstudio, leading up to a proper introduction. For now, all you need to know is that Thingstudio is a low-code program"
+    },
+    {
+      "link": "https://blog.karliner.net/posts/babies-and-llms/",
+      "title": "Babies and LLMs",
+      "description": "Last week, I spent some time with Haley (one year old) doing serious research into ‘putting things into other things’. We’d brought her a soft toy squirrel and, inevitably, she had found the cardboard box it came in much more interesting. There followed a considerable period of putting various objects into the box and taking them out again. This was pretty interesting, but the discovery that closi"
+    }
+  ]
+}

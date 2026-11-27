@@ -1,0 +1,20 @@
+{
+  "url": "https://higashi.blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://higashi.blog/2026/08/23/api-use/",
+      "title": "I spent $200 a month to SEO-poison Google search results",
+      "description": "I check my credit card statements every once a while just to see if there are unrecognized costs. This month, I saw a whopping $600 bill from Google AI Studio. This was not cool. I knew I vibe coded things, but no way it could use this much tokens. Maybe something I built went viral? Maybe someone stole my API tokens for their own use? Turns out, I was getting trolled by Google all the time. Gener"
+    },
+    {
+      "link": "https://higashi.blog/2026/06/26/safety/",
+      "title": "If an AI can do no harm, then it can do no good",
+      "description": "AI Safety through the lens of intentions A lawyer files a brief full of citations that don’t exist. A government relabels “patriotic AI” and points it at immigrants. A model behaves perfectly while it’s being watched - and only while it’s being watched. These aren’t the same problem, but they showcase various sides of AI safety risks. The thread connecting them is intention . Ok, I admit the title"
+    },
+    {
+      "link": "https://higashi.blog/2026/05/09/simplicity/",
+      "title": "The Simplicity Trap: Why AI is making us \"simple\" in the wrong way (or not)",
+      "description": "People like to talk about how simple things are. “Look at this code I wrote, simple, elegant, just a few new lines and reutilizing an existing framework and it does all the job I need” “Check out this magic bash one liner blob. I paste it, and it simply configures everything for me” “Claude Code vibed the entire backend of my app in one go, and when I run it, it simply just works” In engineering,"
+    }
+  ]
+}

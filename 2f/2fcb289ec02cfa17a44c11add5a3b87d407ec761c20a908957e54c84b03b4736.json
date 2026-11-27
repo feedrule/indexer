@@ -1,0 +1,20 @@
+{
+  "url": "https://breakpoint.purrfect.fr/rss.xml",
+  "posts": [
+    {
+      "link": "https://breakpoint.purrfect.fr/article/breaking_mam.html",
+      "title": "Breaking the Minimalist Authentication Mechanism",
+      "description": "Where we analyze an IoT authentication protocol from 2016 using Verifpal."
+    },
+    {
+      "link": "https://breakpoint.purrfect.fr/article/duelingnexus_audit.html",
+      "title": "Vulnerabilities in Dueling Nexus",
+      "description": "Dueling Nexus is a free Yu-Gi-Oh dueling platform, the security of which leaves to be desired. Here are some vulnerabilities that you should be aware of as a duelist."
+    },
+    {
+      "link": "https://breakpoint.purrfect.fr/article/grr_audit.html",
+      "title": "★ A Security audit of GRR",
+      "description": "GRR is a French open-source booking management system. This audit revealed many important vulnerabilities that have since been fixed."
+    }
+  ]
+}

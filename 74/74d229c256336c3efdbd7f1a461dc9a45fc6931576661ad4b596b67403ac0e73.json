@@ -1,0 +1,20 @@
+{
+  "url": "https://nemmen.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://nemmen.bearblog.dev/neural-operator-surrogate-for-magnetized-plasma-simulations/",
+      "title": "Neural Operator Surrogate for Magnetized Plasma Simulations",
+      "description": "We are releasing the code for our recent paper on Fourier Neural Operators (FNOs) applied to magnetohydrodynamic turbulence. The repository contains a PyTorch implementation of a FNO trained to act as a surrogate for 2D MHD simulations of the Orszag–Tang vortex, a canonical plasma physics benchmark. Given a short initial window of simulation frames plus two physical parameters (kinematic viscosity"
+    },
+    {
+      "link": "https://nemmen.bearblog.dev/introducing-gpumonty-simulating-black-hole-light-with-gpus/",
+      "title": "Introducing GPUmonty: Simulating Black Hole Light with GPUs",
+      "description": "This has been a long time coming, and I am thrilled that we are finally making this codebase public! Our group is releasing GPUmonty: a GPU-accelerated Monte Carlo radiative transfer code that simulates the appearance of hot gas falling onto a black hole. The big news is that our code is the first to solve this problem using GPUs, and it is over ten times faster than previous solutions. The entire"
+    },
+    {
+      "link": "https://nemmen.bearblog.dev/nature-news-views-article/",
+      "title": "Nature News & Views article",
+      "description": "Nature asked me to write a News & Views article on a recent hot result on little red dots. N&V articles explain the results of new research paper in a way that is accessible to a broad community of scientists outside the specific field, while giving the author’s opinion on the work. LRDs are the hottest thing in astronomy right now, and nobody really knows their nature (no pun intended). As you wi"
+    }
+  ]
+}

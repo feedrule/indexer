@@ -1,0 +1,20 @@
+{
+  "url": "https://www.holm.dog/feeds/posts/default?alt=rss",
+  "posts": [
+    {
+      "link": "https://www.holm.dog/2026/10/grocery-stores-are-great-abstractions.html",
+      "title": "Grocery stores are great abstractions",
+      "description": "The purpose of a programming abstraction is to hide complexity. Modules and libraries abstract away complex code; coding languages abstract away complex assembly; assembly abstracts away complex binary operations; binary operations abstract away complex transistor chemistry. A person working at any given layer is, ideally, spared the cognitive load of understanding the complexity of the layers ben"
+    },
+    {
+      "link": "https://www.holm.dog/2025/04/ai-agents-most-expensive-way-to-check.html",
+      "title": "AI agents: the most expensive way to check the weather",
+      "description": "In this post, I'm going to explain how a humble LLM can become an all-powerful weather-checking AI agent. You're sitting in your office, rows of desks as far as the eye can see, when a wistful question crosses your mind: \"What's the weather like outside?\" Unfortunately, there isn't a window in sight and your corporate security policies don't allow distracting websites like weather.com, so you're s"
+    },
+    {
+      "link": "https://www.holm.dog/2025/03/i-yelled-at-claude-until-it-built-unity.html",
+      "title": "I yelled at Claude until it built a Unity game",
+      "description": "In this post, I explore vibecoding for game development. Me, blissfully vibecoding As I've been learning Unity and using it to develop games like Build + Brawl , I've found the Cursor IDE 's AI coding tools to be quite helpful. Its composer feature is great for writing snippets where I know roughly what I want to do – for instance, \"get the aspect ratio of the current screen\" – but don't know the"
+    }
+  ]
+}

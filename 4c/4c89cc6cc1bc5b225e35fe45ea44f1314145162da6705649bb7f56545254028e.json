@@ -1,0 +1,15 @@
+{
+  "url": "https://mnoukhov.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://mnoukhov.github.io/posts/ngu/",
+      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
+      "description": "This is a blog post for my recent paper on RL post-training of LLMs: introducing the Matthew Effect and proposing to solve it with Never Give Up. It is presented interactively and less formally, more like how I give the talk. For a deeper, more technical dive, check out the paper on arxiv and code on github . The Matthew Effect # What is your eval actually measuring? # Every good RL practitioner h"
+    },
+    {
+      "link": "https://mnoukhov.github.io/posts/emergent-communication-intro/",
+      "title": "Emergent Communication: An Introduction",
+      "description": "For the past two years, I have been fascinated by the field of emergent communication; I even made it the topic of my master’s thesis. This year, I am co-organizing the event that sparked my interest: The Workshop on Emergent Communication at NeurIPS 2019 . To give others a look into the field (and also to make my thesis writing more fun), I will be writing a series of blog posts on emergent commu"
+    }
+  ]
+}

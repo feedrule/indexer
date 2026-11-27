@@ -1,0 +1,20 @@
+{
+  "url": "https://neilb.org/atom.xml",
+  "posts": [
+    {
+      "link": "http://neilb.org/2026/01/13/cpan-report-2026.html",
+      "title": "CPAN Report 2026",
+      "description": "This is a look at CPAN activity through the end of 2025, to see whether CPAN authoring is decreasing, increasing, or holding level. I've done this a few times before, and the general trend has been a steady decline."
+    },
+    {
+      "link": "http://neilb.org/2024/10/28/what-is-your-pause-id.html",
+      "title": "When asking to adopt a CPAN module please tell me your PAUSE id",
+      "description": "If you're emailing the PAUSE admin alias ( modules@perl.org ), saying that you want to adopt a module / distribution, please Please PLEASE include your PAUSE id in your email."
+    },
+    {
+      "link": "http://neilb.org/2023/07/13/cpan-report-2023.html",
+      "title": "CPAN Report 2022",
+      "description": "This is a follow-up to last year's blog post , where I posted some charts to show how new CPAN users and distributions have changed over time. I meant to post this in January, but was repeatedly ambushed by yaks, and eventually decided it was too late. Then Olaf asked if I could show him updated charts with 2022 data, and I figured I might as well publish a belated report."
+    }
+  ]
+}

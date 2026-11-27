@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.threatuniverse.co.uk/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.threatuniverse.co.uk/posts/asyncrat-bitmap-steganography-dropper/",
+      "title": "Pixels to Payload: Dissecting a Four-Stage Bitmap-Steganography Dropper Delivering AsyncRAT",
+      "description": "Note: The bulk of this analysis and write-up was produced with the Kimi K3 large language model. Summary The sample analysed here is a four-stage .NET delivery chain that deploys AsyncRAT version 0.5.8. The outer binary poses as an Armenian-language water-cycle simulation, complete with a functioning particle engine, control panel, and live charts. Its two bitmap resources are not artwork. They ar"
+    },
+    {
+      "link": "https://blog.threatuniverse.co.uk/posts/usersyncworker-macos-infostealer/",
+      "title": "Dissecting a Multi-Stage macOS Infostealer",
+      "description": "Summary I recently obtained a sample of a macOS infostealer that caught my attention for its operational sophistication. What initially appeared to be a straightforward Swift downloader revealed itself to be a well-engineered three-stage attack chain with some interesting anti-analysis and evasion techniques. Concurrent analysis by Jamf Threat Labs has confirmed this sample is a variant of MacSync"
+    },
+    {
+      "link": "https://blog.threatuniverse.co.uk/posts/deerstealer-qihoo-360-trojan/",
+      "title": "DeerStealer's Qihoo 360 Trojan Horse",
+      "description": "Summary Analysis of a trojanized MSI installer revealed an atypical antivirus evasion technique. The malware did not merely bypass detection. It weaponized a legitimately signed component from Qihoo 360 Safe, one of China’s largest security suites, to establish persistence and attempt kernel-level access. DeerStealer, a commodity infostealer sold for $200-$3,000/month on dark web forums, demonstra"
+    }
+  ]
+}

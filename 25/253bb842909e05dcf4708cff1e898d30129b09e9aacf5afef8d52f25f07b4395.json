@@ -1,0 +1,20 @@
+{
+  "url": "https://kamens.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://kamens.com/blog/llm-wiki-for-fighting-disease",
+      "title": "Customizing Karpathy's LLM wiki for fighting disease",
+      "description": "hstack is a stack of tools and agent specialists built to help those who use LLMs to fight disease, including an LLM-powered \"personal disease wiki\" inspired by Karpathy's LLM wiki idea."
+    },
+    {
+      "link": "https://kamens.com/blog/claw-draws-claw",
+      "title": "Claw, reflect on our work and express your feelings as animated ASCII art",
+      "description": "claw-draws-claw is a skill that lets AI agents express themselves through animated ASCII art. The agent reflects on its recent work sessions, distills what it's feeling into vision sentences, and paints that feeling onto an animated textmode.js canvas."
+    },
+    {
+      "link": "https://kamens.com/blog/code-with-ai-the-hard-way-update-ii",
+      "title": "Code with AI the Hard Way - 8 month update",
+      "description": "Code with AI the Hard Way - 8 month update"
+    }
+  ]
+}

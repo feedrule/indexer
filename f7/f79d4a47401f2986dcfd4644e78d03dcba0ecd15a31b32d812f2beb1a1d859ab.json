@@ -1,0 +1,20 @@
+{
+  "url": "https://onebitfloat.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://onebitfloat.bearblog.dev/an-interesting-equivalence-in-linear-factor-models/",
+      "title": "An interesting side note in linear factor models",
+      "description": "Linear factor models Linear factor models of stock returns are commonly used by practitioners and academics. The topic is well covered (see Elements of Quantitative Investing , or this post ), so I won't repeat the basics, but instead dig a little more into an interesting result that I've seen mentioned a few times but never fully explored. Pure factor portfolios as estimators Our model for stock"
+    },
+    {
+      "link": "https://onebitfloat.bearblog.dev/the-joys-of-not-having-to-manage-configuration/",
+      "title": "The joys of not having to manage configuration",
+      "description": "One of my least favourite activities associated with programming has always been configuration management. Each tool and platform has its own config file format (JSON, YAML, custom scripting lang, ...) with a different naming convention ( ._rc, ._.conf , ._config`, ...) in a different location with weird obtuse setting names and values (only a slight exaggeration). This is a natural consequence of"
+    },
+    {
+      "link": "https://onebitfloat.bearblog.dev/autodifferentiation-and-backpropragation/",
+      "title": "Autodifferentiation and backpropragation",
+      "description": "Backpropagation is the fundamental algorithm that allows us to train neural networks, and autodifferentiation is the primary tool used to do this in practice. Lets start by writing a basic autograd library, and then use it to train a basic neural network using backpropagation. Smallgrad What is autodifferentiation An autodiff library lets us compute the gradient of some derived value with respect"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://doingbayesiandataanalysis.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://doingbayesiandataanalysis.blogspot.com/2026/01/problem-in-multilevel-hierarchical.html",
+      "title": "Problem in multilevel (hierarchical) multinomial logistic regression",
+      "description": "The data The predicted variable is a categorical response , named resp with levels ‘1’, ‘2’, ‘3’, and ‘4’ (nominal labels, not numerical values). The predictor is a categorical/nominal variable named group , with levels ‘A’ through ‘K’. Notice these aspects of the data: The proportion of response ‘2’ equals response ‘3’ within each group, and across all groups. Specifically, in every group, p(‘2’)"
+    },
+    {
+      "link": "https://doingbayesiandataanalysis.blogspot.com/2025/06/lecture-slides-offered-by-prof-richard.html",
+      "title": "Lecture slides offered by Prof Richard Charnigo",
+      "description": "Richard Charnigo, Professor of Biostatistics, College of Public Health, University of Kentucky, has posted lecture slides online for his Bayesian course that used DBDA2. On his website he states, \" Here is a zipped folder containing my lecture slides and related materials for the “Bayesian Biostatistics” special topics course that I taught in Spring 2025. The lecture slides largely follow Prof. Kr"
+    },
+    {
+      "link": "https://doingbayesiandataanalysis.blogspot.com/2024/05/what-does-b-on-sail-mean.html",
+      "title": "What does the B on the sail mean?",
+      "description": "The Bayesian sailor tries not to be daft; at least he can tell the boat's fore from its aft. Retired he likes to go sailing the most but still can discern what is prior and post."
+    }
+  ]
+}

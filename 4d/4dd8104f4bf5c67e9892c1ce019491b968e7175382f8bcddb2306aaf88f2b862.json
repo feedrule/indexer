@@ -1,0 +1,20 @@
+{
+  "url": "https://simme.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://simme.dev/now/",
+      "title": "What I'm doing now.",
+      "description": "Building Nothing to share currently. Reading I’m currently revisiting Gödel, Escher, Bach, which I’ve not picked up in quite a few years. Thinking about How to make engineering organizations clearer and more effective: better decisions, less coordination drag, stronger technical leadership, and AI used as leverage for real work rather than for the novelty factor."
+    },
+    {
+      "link": "https://simme.dev/posts/five-years-of-observability-at-canonical/",
+      "title": "Five years of Observability at Canonical",
+      "description": "After five years of leading Observability at Canonical, that journey is coming to an end."
+    },
+    {
+      "link": "https://simme.dev/posts/why-is-everything-so-slow-a--case-study/",
+      "title": "\"Why is everything so slow?\" - a case study",
+      "description": "A Juju charm performance case study tracing slow NRPE target reconciliation to repeated downstream relation databag updates, and showing how batching cuts hook-tool invocations dramatically."
+    }
+  ]
+}

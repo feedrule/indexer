@@ -1,0 +1,20 @@
+{
+  "url": "https://mikeinnes.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://mikeinnes.io/sponsor/posts/trivia/",
+      "title": "Trivia Pursuit",
+      "description": "One of the first language pretty-printers was the 1965 “ALGOL 60 Reference Language Editor”, designed to clean up badly-transcribed programs by tweaking indentation. But despite formatting tools having been around for a while, programmers have spent most of the last few decades tweaking code by hand. It’s relatively recently that Go, released in 2009, bundled gofmt with the compiler and made unifo"
+    },
+    {
+      "link": "https://mikeinnes.io/posts/style/",
+      "title": "Style Guide",
+      "description": "Via Hacker News , my one social-media vice, I get exposed to a lot of technical blog posts, websites advertising software, and general Silicon Valley-speak. Like most people who read plenty, or write themselves, I have ended up with Certain Opinions on the right and wrong way to do these things, and must confine my pedantry to a safe little habitat so that it can’t loose itself upon an unsuspectin"
+    },
+    {
+      "link": "https://mikeinnes.io/sponsor/posts/concurrency/",
+      "title": "Structured Concurrency",
+      "description": "I’m going to show you some examples of how Raven handles async, which might seem surprising. Then I’m (I hope) going to convince you that it’s a sensible and even elegant approach to some difficult problems in concurrency, despite being unusual. You can start a background task with the async keyword, which returns a Task object: t = async { sleep( 1 ), 2 + 2 }"
+    }
+  ]
+}

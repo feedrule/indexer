@@ -1,0 +1,20 @@
+{
+  "url": "https://beesbuzz.biz/code/feed",
+  "posts": [
+    {
+      "link": "https://beesbuzz.biz/code/16680-On-LLM-based-programming",
+      "title": "On LLM-based programming",
+      "description": "Lately there’s been a brewing culture war in the software community regarding the usage of LLM-based coding tools (ChatGPT, Claude, Gemini, etc.), and I’m seeing a lot of hardline discourse on both sides, but especially from the anti-AI side of things."
+    },
+    {
+      "link": "https://beesbuzz.biz/code/6604-Specification-vs.-implementation",
+      "title": "Specification vs. implementation",
+      "description": "There are a lot of times when the specification says one thing but common implementations do another. Here are some especially common examples to watch out for."
+    },
+    {
+      "link": "https://beesbuzz.biz/code/6987-Why-I-dislike-.well-known",
+      "title": "Why I dislike .well-known",
+      "description": ".well-known considered harmful"
+    }
+  ]
+}

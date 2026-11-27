@@ -1,0 +1,20 @@
+{
+  "url": "https://thecloudlet.github.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://thecloudlet.github.io/technical/refactor-with-ai/part-2-refactor/",
+      "title": "Pinning Both Ends: Letting AI Rewrite 15k Lines of Test Tooling",
+      "description": "Tool Y, an old test generator, shrank from about 15,000 lines to about 3,500 in 3.5 working days. Not one old golden file changed, except the ones the upstream specification showed were wrong. The method is the same as in Part 1 : pin both ends, then let the AI rewrite the middle. The input end is the parsed data. The output end is the golden files, byte for byte. The old tool itself was the check"
+    },
+    {
+      "link": "https://thecloudlet.github.io/technical/refactor-with-ai/part-1-deletion/",
+      "title": "Deleting 19k Lines of Dead Compiler Code Without Trusting the LLM",
+      "description": "This is how I deleted ~19k lines of code in about a week. A month later: no reverts, no fix-up commits. Why deletion gets skipped Code accumulates, and nobody removes it. A staff engineer at a previous job advised me to leave coupled spaghetti alone, for two reasons. First, cleanup didn't count as work: nobody saw it, and nobody rewarded it. Second, in his experience these refactors ended in disas"
+    },
+    {
+      "link": "https://thecloudlet.github.io/murmur/timeball/",
+      "title": "Who Keeps the Time? Perth Observatory, and a Lawn on Gongyuan Road",
+      "description": "A question in the dark I went to Perth in early August with my wife and my sister. One night we joined a stargazing tour at Perth Observatory. (Side note: I really like how Australian tourism handles history. They write it down clearly and make sure visitors actually learn it. Not a plaque I walk past, but a story someone tells me out loud.) Our guide explained why the observatory was built in the"
+    }
+  ]
+}

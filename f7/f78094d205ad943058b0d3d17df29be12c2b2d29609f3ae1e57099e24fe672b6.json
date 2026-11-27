@@ -1,0 +1,20 @@
+{
+  "url": "https://www.cloudacm.com/?feed=rss2",
+  "posts": [
+    {
+      "link": "https://www.cloudacm.com/?p=5456",
+      "title": "Python Desktop Capture",
+      "description": "This post uses yet another process similar to an earlier post, https://www.cloudacm.com/?p=5414 where the desktop was piped to a MQTT broker. This post will not be restricted to systems with powershell. Instead it will use python libraries to capture the desktop screen and send that data to a MQTT broker. The following python script uses the mss library. More information about the library can be f"
+    },
+    {
+      "link": "https://www.cloudacm.com/?p=5424",
+      "title": "Optimizing Node-RED",
+      "description": "I’ve used Node-RED for several years for various odds and ends. Node-RED’s history started with the IBM Emerging Technology Services team and now is a part of the OpenJS Foundation. The dashboard and flow editor are simple to setup and work with. The limit of node complexity is directly proportional to the developer, which makes it an ideal frontier to push. Pushing those limits can expose issues"
+    },
+    {
+      "link": "https://www.cloudacm.com/?p=5414",
+      "title": "Desktop Capture to Node Red via MQTT",
+      "description": "This post uses a similar process to an earlier post (https://www.cloudacm.com/?p=3974) where images are piped through a MQTT broker. This post will not be using FFMpeg or images captured with a camera. Instead it will use a native application to capture the desktop screen. PowerShell is a Windows native application that will be used to capture the desktop. PowerShell will call a MQTT publish proce"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://bhserna.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://bhserna.com/you-can-ask-your-coding-agent-for-a-selector-to-compare-ui-options",
+      "title": "You can ask your coding agent for a selector to compare UI options",
+      "description": "One of the ways I have been using coding agents these days is to prototype small UI changes in an existing project. I use them as a tool to explore. In this usage mode, I am not interested in the code. I am interested in how the options look. My objective is to extract ideas from the LLM, choose what I want, and later work on the real change in a different chat. Ask for a selector to compare One l"
+    },
+    {
+      "link": "https://bhserna.com/make-a-method-a-recurring-task-with-solid-queue",
+      "title": "Make a method a recurring task with solid queue",
+      "description": "This week I made a refactor to remove a job ( ActiveJob::Base ) that was used only in recurring.yml , and call a class method directly instead. Sometimes it is ok to have a job, but sometimes using the method can help you write a little less code. And these days it is just a prompt away. The example I was working on a follow-up flow for users who had not updated their profile in over a year. The r"
+    },
+    {
+      "link": "https://bhserna.com/md-record-file-backed-models-for-rails",
+      "title": "MdRecord: File-backed models for Rails",
+      "description": "I just released md_record , a Ruby gem that provides an ActiveRecord-like interface for markdown files with YAML frontmatter. Why? I needed a simple way to manage content like blog posts and guides in my Rails apps without a database. I wanted something that felt like ActiveRecord but worked with markdown files. Installation gem \"md_record\" Basic Usage Create a model that inherits from MdRecord::B"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://elezea.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://elezea.com/2026/11/how-i-work-with-ai/",
+      "title": "How I work with AI",
+      "description": "A map of my personal AI agent system, and why the most important part is how it learns from its mistakes."
+    },
+    {
+      "link": "https://elezea.com/2026/11/tldl-v2-6-0/",
+      "title": "TL;DL v2.6.0 — Claude Opus 5.5 summaries and M4A support",
+      "description": "Episode summaries are now written by Claude Opus 5.5, episode pages link to the episode itself, and long M4A episodes now transcribe."
+    },
+    {
+      "link": "https://elezea.com/2026/11/listentomore-v1-6-0/",
+      "title": "listentomore v1.6.0 — Claude writes the summaries, pages load faster",
+      "description": "This release moves the site's AI writing to Claude and makes pages that aren't cached load much faster."
+    }
+  ]
+}

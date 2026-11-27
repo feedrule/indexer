@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.firsov.net/feeds/posts/default?alt=rss",
+  "posts": [
+    {
+      "link": "https://blog.firsov.net/2026/11/xhr-by-cem-data-request-api-made-right.html",
+      "title": "XHR by CEM, The data request API made right.",
+      "description": "The theory and practical way. An HTTP response, a local file, and a string supplied by an application all enter CEM through the same import boundary. CEM-ML selects the parser for the input format, decodes the source, and builds a typed document tree. The shared importer supports XML and JSON alongside YAML, CSV, HTML, CSS, and formats such as SVG and MathML. Each format keeps its own semantics. A"
+    },
+    {
+      "link": "https://blog.firsov.net/2025/12/consumer-semantic-theme-reached-110.html",
+      "title": "Consumer Semantic Theme reached 110% coverage of Material Design tokens.",
+      "description": "Besides M3 tokens, it also covers container based responsive layout and speech tokens. Damn proud of myself 😜 And sincere gratitude 🙏 to ChatGPT and Claude Code products. Without them—and without taking dollars out of my family budget—this would have taken a year (or years) instead of a month. Next up: Theme Builder… github.com/EPA-WG/custom-element-dist/blob/develop/src/material/theme/tokens/cem-"
+    },
+    {
+      "link": "https://blog.firsov.net/2025/12/continue-to-work-on-consumer-semnatic.html",
+      "title": null,
+      "description": "Continue to work on Consumer Semnatic Theme principles... Stroke thickness is allowed to vary *by density mode* as a **non-breaking** adjustment, as long as semantics stay intact: - Dense UI may need **stronger strokes** because small targets and reduced whitespace reduce separability. - Comfort UI can remain at hairline boundaries in more places because whitespace carries part of the separation w"
+    }
+  ]
+}

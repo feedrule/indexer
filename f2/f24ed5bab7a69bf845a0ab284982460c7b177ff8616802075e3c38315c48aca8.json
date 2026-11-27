@@ -1,0 +1,20 @@
+{
+  "url": "https://eli.thegreenplace.net/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "description": "In the previous post on this topic , we’ve seen how the Discrete-Time Fourier Series (DTFS) and transform (DTFT) are used to analyze infinite-duration periodic and non-periodic discrete signals. Now, it’s time to turn to realistic digital signal processing where signals are not only discrete, but also finite in …"
+    },
+    {
+      "link": "https://eli.thegreenplace.net/2026/monads-in-lean/",
+      "title": "Monads in Lean",
+      "description": "This post demonstrates how to use monads in the Lean programming language (Lean 4, to be specific). If you're not familiar with Lean, this part of the language is very similar to other functional programming languages, like Haskell or OCaml. Motivating example - evaluating expressions Suppose we want to write a …"
+    },
+    {
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "title": "Notes on the complex roots of unity",
+      "description": "One of the most wonderful aspects of math is how deep we can get by studying seemingly trivial questions. Consider the roots of unity, where \"unity\" simply means the number 1. Basics: roots of unity for real numbers Studying the roots of unity usually begins in middle school: what is …"
+    }
+  ]
+}

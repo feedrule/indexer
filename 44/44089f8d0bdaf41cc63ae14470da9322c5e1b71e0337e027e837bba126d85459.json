@@ -1,0 +1,20 @@
+{
+  "url": "https://rolbk.com/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://rolbk.com/posts/router1-desoldering/",
+      "title": "Hacking My Home Router, Part 1",
+      "description": "When Yallo removes bridge mode on my Home Router after explicitly promising it, then I’ll just re-enable it myself - even if it means desoldering the NAND and extracting the raw firmware."
+    },
+    {
+      "link": "https://rolbk.com/posts/iot5-ministories/",
+      "title": "IoT Mini Stories",
+      "description": "A collection of smaller home automation projects built on open source solutions from others. From magically opening entrance doors to RGB ambience behind every piece of furniture, and a standing desk that obeys Siri."
+    },
+    {
+      "link": "https://rolbk.com/posts/matectf-birthday/",
+      "title": "Mate CTF: The Greatest Birthday Present Ever Made",
+      "description": "My friends built me a custom CTF for my 26th birthday. It had QR codes hidden in birthday cards, physical flags at ETH, and an ESP32 “rowhammer” challenge. A tale of caffeine addiction and hardware security trauma."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://deletethis.net/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://deletethis.net/dave/2026-03/edge-and-webview2-in-chrome-devtools-mcp/",
+      "title": "Edge and WebView2 in Chrome DevTools MCP",
+      "description": "The Chrome DevTools MCP is very useful! Although it is the Chrome DevTools MCP, it supports connecting to pretty much all chromium based browsers. This includes Microsoft Edge and WebView2 with a bit of extra configuration in mcp.json . The tool knows explicitly about Chrome, so you have to specify either the --executablePath for launch scenarios or --userDataDir for auto-connect scenarios. Edge L"
+    },
+    {
+      "link": "https://deletethis.net/dave/2026-03/webview2-wv2winrt-bug-case-study/",
+      "title": "WebView2 wv2winrt bug case study",
+      "description": "The following are my notes on investigating a bug that a customer ran into back when I was on the WebView2 team. I'm sharing it here in case aspects of it can be helpful for folks in similar situations. The names of files, functions, and such have been changed. The customer had provided me a VS solution that would reproduce the bug somewhat minimally: I've started the app, opened DevTools for WebV"
+    },
+    {
+      "link": "https://deletethis.net/dave/2025-08/code-search-comparison--github--azure-devops--and-chromium/",
+      "title": "Code Search Comparison: GitHub, Azure DevOps, and Chromium",
+      "description": "Before working in Chromium I had been using our internal project's Azure DevOps (ADO) code search feature, and occassionally using Chromium Code Search or GitHub's code search. It seemed like Chromium Code Search or GitHub code search would only sometimes work with my queries. Sitting down to compare the syntax of them led me to figure out why and the power of Chromium Code Search: Comparison Tabl"
+    }
+  ]
+}

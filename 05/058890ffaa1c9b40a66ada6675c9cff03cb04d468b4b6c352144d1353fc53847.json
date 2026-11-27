@@ -1,0 +1,20 @@
+{
+  "url": "https://www.jasonwu.ink/signals/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.jasonwu.ink/signals/2026-09-01-fine-tuning-gemma4-e2b-for-language-learning",
+      "title": "Fine-Tuning Gemma4 E2B for Language Learning",
+      "description": "The most peculiar side quest I've been on this 4month career break has been building Oxalis, a language learning app for macOS with a fully local inference stack. In this post, we'll go through the following: How I finetuned Gemma4 E2B to be the only inference engine for Oxalis Why finetuning…"
+    },
+    {
+      "link": "https://www.jasonwu.ink/signals/2026-08-26-breaking-my-career",
+      "title": "Breaking My Career",
+      "description": "Today marks month four of the first and only break in my entire software engineering career. I've been working remotely for tech startups ever since COVID hit during my sophomore year of college. These companies spanned across many industries ranging from finance and ecommerce all the way to…"
+    },
+    {
+      "link": "https://www.jasonwu.ink/signals/2026-08-26-trojan-cows",
+      "title": "Trojan Cows",
+      "description": "Today marks my 1.5th year living in San Francisco. It feels like ages since I moved here from the peaceful suburbs of Northern Georgia to chase my lifelong dream of building the final AI harness for B2B SaaS. Ok fine... maybe not lifelong. I was truly, very excited though. After working remote for…"
+    }
+  ]
+}

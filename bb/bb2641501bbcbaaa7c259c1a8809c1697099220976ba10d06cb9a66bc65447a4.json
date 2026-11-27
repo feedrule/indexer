@@ -1,0 +1,20 @@
+{
+  "url": "https://a64.in/rss.xml",
+  "posts": [
+    {
+      "link": "https://theapache64.github.io/posts/perfetto-failed-to-fetch/",
+      "title": "Fix for Perfetto's Failed to Fetch Error",
+      "description": "How to fix the \"Could not load local trace TypeError Failed to fetch\" error in Perfetto UI"
+    },
+    {
+      "link": "https://theapache64.github.io/posts/revisiting-compose-perf-land-2025/",
+      "title": "Revisiting Compose Perf-Land in 2025",
+      "description": "Revisiting Jetpack Compose performance patterns and assumptions in 2025 to see what has changed - performance - jetpack-compose"
+    },
+    {
+      "link": "https://theapache64.github.io/posts/todx/",
+      "title": "Why and How I am building a smarter TODO app.",
+      "description": "Solving a personal itch by creating a non-boring TODO app."
+    }
+  ]
+}

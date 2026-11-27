@@ -1,0 +1,20 @@
+{
+  "url": "https://pranavmishra.app/feed.xml",
+  "posts": [
+    {
+      "link": "https://pranavmishra.app/case-studies/voice-intake-agent",
+      "title": "Voice intake without an operator: how the mistakes get caught",
+      "description": "An insurance voice agent that takes onboarding calls by itself. How a misheard detail gets caught once nobody is listening in: a second transcript, code that owns the moments with consequences, and a link where the caller checks their own details."
+    },
+    {
+      "link": "https://pranavmishra.app/case-studies/eonfolk",
+      "title": "EONFOLK: a civilization game where models can only propose",
+      "description": "A small local-first game with eight citizens and a rule I also use for agents: the player, the models and the narrator can suggest what happens, but only one deterministic layer changes the world."
+    },
+    {
+      "link": "https://pranavmishra.app/case-studies/kryn",
+      "title": "KRYN: a coding agent on your Mac that can't hit a usage limit",
+      "description": "A coding agent that runs on a MacBook with a local 9B model: no usage limit, no API bill, and inference never leaves the laptop. How I grade it against plain OpenCode with tests it can't see, and what those tests caught."
+    }
+  ]
+}

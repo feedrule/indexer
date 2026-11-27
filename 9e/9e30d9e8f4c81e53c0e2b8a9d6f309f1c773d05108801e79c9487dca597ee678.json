@@ -1,0 +1,20 @@
+{
+  "url": "https://adamgreenough.net/feed/post.xml",
+  "posts": [
+    {
+      "link": "https://adamgreenough.net/blog/wordpress-vulnerability-statistics/",
+      "title": "WordPress Ecosystem Vulnerability Statistics 2026: What 23,000 Security Reports Show",
+      "description": "I analysed all 23,434 vulnerabilities published in the WordPress ecosystem since January 2025: how many there were, what kinds of bugs they are, who can use them and how many get fixed. I also compare WordPress with other platforms and cover how to protect your site."
+    },
+    {
+      "link": "https://adamgreenough.net/blog/ai-has-an-xy-problem/",
+      "title": "AI Has an XY Problem",
+      "description": "The XY problem used to give itself away, one follow-up question at a time. Now AI answers every one of them, and people turn up nine steps down the wrong path with code that almost works."
+    },
+    {
+      "link": "https://adamgreenough.net/blog/this-fence-has-no-farmer/",
+      "title": "This Fence Has No Farmer",
+      "description": "Every developer inherits code nobody can explain. The old assumption, that someone had a reason for it, is getting harder to trust. Pondering Chesterton's Fence and AI code."
+    }
+  ]
+}

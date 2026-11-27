@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thms.uk/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.thms.uk/2026/11/freshrss-bbc-videos/",
+      "title": "A FreshRSS extension for BBC News videos",
+      "description": "BBC News articles scraped into FreshRSS lose their videos to a JavaScript placeholder. I wrote a small extension that swaps it for BBC’s own embeddable player."
+    },
+    {
+      "link": "https://blog.thms.uk/2026/10/docker-compose-updates-prometheus/",
+      "title": "Tracking Docker Compose updates with Prometheus and Grafana",
+      "description": "Release feeds and Diun weren't enough to track what needed updating across my hosts, so I built a minimal exporter that turns Compose image drift into Prometheus metrics."
+    },
+    {
+      "link": "https://blog.thms.uk/2026/10/rebuild-remi-php-packages-almalinux/",
+      "title": "Patching PHP Before Remi Does: Rebuilding Remi’s Packages on AlmaLinux",
+      "description": "Remi’s repo didn’t have today’s PHP security fix, so I rebuilt his PHP 8.5 packages from source on a matching VM and shipped them to prod, with a rollback plan."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://kylecho.com/notes/feed.xml",
+  "posts": [
+    {
+      "link": "https://kylecho.com/notes/half-idle-fully-busy/",
+      "title": "half idle, fully busy",
+      "description": "A Node pod saturated at 100% event-loop utilization reads 49% CPU, so a CPU-targeting autoscaler never fires. Why the two numbers diverge in both directions, what to scale on instead, and two fleets you can watch."
+    },
+    {
+      "link": "https://kylecho.com/notes/not-everything-belongs-in-state/",
+      "title": "not everything belongs in state",
+      "description": "A drag handle that updates React state on every pointermove re-renders the layout at input speed. Three tiers of state, where per-frame gesture state actually belongs, and a side-by-side divider you can drag."
+    },
+    {
+      "link": "https://kylecho.com/notes/no-one-has-to-agree/",
+      "title": "no one has to agree",
+      "description": "How two people can edit the same document with no server deciding the order: why naive position-based merging breaks, what operational transform and CRDTs each do about it, and a live two-replica demo you can type into."
+    }
+  ]
+}

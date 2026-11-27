@@ -1,0 +1,20 @@
+{
+  "url": "https://www.simoahava.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager/",
+      "title": "Optimized Tagging Experience For Google Tag Manager",
+      "description": "With a recent update, the Google Tag Manager and Google Tag technologies are finally merging. In my many posts about Google Tag, I’ve often lamented the fact that while any given Google Tag is essentially a wrapper for an underlying Google Tag Manager container, for some inexplicable reason Google Tag Manager containers themselves did not have the capabilities of Google Tags ( and vice versa ). We"
+    },
+    {
+      "link": "https://www.simoahava.com/gtmtips/automatically-generate-version-information-in-gtm/",
+      "title": "#GTMTips: Automatically Generate Version Information In GTM",
+      "description": "Google Tag Manager has a new, AI-powered feature. It’s not flashy, it’s not prominent, and it’s not something you’d make a big deal out of. However, it contributes to an absolutely vital part of container management that many, many people neglect: version naming . With this new feature, Google Tag Manager generates a Version Name and Version Description automatically from your workspace changes. C"
+    },
+    {
+      "link": "https://www.simoahava.com/gtmtips/gtm-template-status-page/",
+      "title": "#GTMTips: The GTM Template Status Page",
+      "description": "There’s a somewhat understated feature in the Google Tag Manager Community Template Gallery , which should certainly prove useful, especially to template authors. The template status page shows a list of all the GitHub commits handled by the gallery importer, along with any associated errors that the template author should check, especially if there are noticeable problems with integrating the lat"
+    }
+  ]
+}

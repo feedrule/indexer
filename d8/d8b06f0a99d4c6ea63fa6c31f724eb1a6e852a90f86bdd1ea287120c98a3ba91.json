@@ -1,0 +1,20 @@
+{
+  "url": "https://www.andre-aulich.de/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.andre-aulich.de/blog/thinking-in-scenarios/",
+      "title": "Thinking in Scenarios",
+      "description": "For decisions which change the rest of a plan, I like to prepare alternatives before anyone has decided, so that everyone can see the consequences of each option and the work can continue right after the decision. A garden party and an architecture project show how far to work out such an alternative and where preparing it doesn't help."
+    },
+    {
+      "link": "https://www.andre-aulich.de/blog/where-juniors-start/",
+      "title": "Where Juniors Start When AI Does the Simple Work",
+      "description": "When AI takes over the simple tasks with which juniors used to learn their job, many wonder how a career should start today and why companies should hire juniors at all. Looking back at how my own career started with the internet in the 1990s, I explain why I think the same model works for AI and what companies can look for when they hire people at the start of their career."
+    },
+    {
+      "link": "https://www.andre-aulich.de/blog/the-human-measure-of-ai/",
+      "title": "The Human Measure of AI",
+      "description": "We give an AI agent trust the way we give it to a new colleague, and we cut work for agents the way a company cuts its work into departments, so that each part fits into one head or one context window. This article looks at why we model AI on people and why I think this lets us keep AI under control, although some human limitations come along with it."
+    }
+  ]
+}

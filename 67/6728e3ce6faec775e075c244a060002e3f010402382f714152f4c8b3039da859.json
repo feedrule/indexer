@@ -1,0 +1,20 @@
+{
+  "url": "https://www.msoos.org/feed/",
+  "posts": [
+    {
+      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "title": "Incentives in Academic Research",
+      "description": "Charlie Munger said: “Show me the incentive and I will show you the outcome”. The issue with Academic Research, in my opinion, is that the outcomes have drifted very far away from the original goal, which I believe to be the advancement of scientific understanding, and training of the new generation of researchers. Academic research … Continue reading Incentives in Academic Research →"
+    },
+    {
+      "link": "https://www.msoos.org/2026/09/cryptominisat-on-xnf-benchmarks-revisited/",
+      "title": "CryptoMiniSat on XNF Benchmarks, Revisited",
+      "description": "I was quite hopeful when I first saw the XNF solver 2-Xornado, and then Xorricane, which solve so-called XOR-OR-AND (XNF) problems, i.e. problems written in the format “(a XOR b XOR c) or (f XOR NOT g)”. The two papers about this family of solvers were [PDF1][PDF2], and the results looked impressive. They could outdo … Continue reading CryptoMiniSat on XNF Benchmarks, Revisited →"
+    },
+    {
+      "link": "https://www.msoos.org/2026/03/ganak-the-making-of-a-versatile-high-performance-model-counter/",
+      "title": "Ganak: The Making of a Versatile, High Performance Model Counter",
+      "description": "Ganak (github), our propositional model counter, has won every single model counting competition track for the past two years. Perhaps it’s time to explain how that came about, and what are the ingredients of such a tool. Firstly, a propositional model counter is a tool that counts how many solutions there are to a set … Continue reading Ganak: The Making of a Versatile, High Performance Model Cou"
+    }
+  ]
+}

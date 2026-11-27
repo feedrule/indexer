@@ -1,0 +1,20 @@
+{
+  "url": "https://davidaw.ad/rss.xml",
+  "posts": [
+    {
+      "link": "https://davidaw.ad/posts/formbook-at-scale/",
+      "title": "Building formbook at scale with a fleet of coding agents",
+      "description": "How 805 coding-agent runs on throwaway boxes took formbook from zero to 489 court-filing templates, mostly in two days, and what the data can't tell you."
+    },
+    {
+      "link": "https://davidaw.ad/posts/03-18-quantum-gravity-unrenormalizable/",
+      "title": "Why can't we do with the graviton what we did with the photon",
+      "description": "The mathematics of why integrating graviton momenta from zero to infinity produces infinities that cannot be absorbed by a finite set of counterterms — and why this is a fundamental, structural problem."
+    },
+    {
+      "link": "https://davidaw.ad/posts/3-8-lessons-from-markets-on-decision-making/",
+      "title": "Lessons from Markets on Decision Making",
+      "description": "Exploring how market principles apply to life decisions - from understanding utility functions and value systems to finding your edge in competitive environments."
+    }
+  ]
+}

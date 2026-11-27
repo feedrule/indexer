@@ -1,0 +1,15 @@
+{
+  "url": "https://david-osipov.vision/ru/atom.xml",
+  "posts": [
+    {
+      "link": "https://doi.org/10.5281/zenodo.18685007",
+      "title": "Как Wildberries обходит самозапрет с ООО Престо с займами под 279,9%",
+      "description": "Расследование: Wildberries и ООО «Престо» выдают займы под 279,9% людям с самозапретом через подмену договора. Доказательства, юр. разбор, алгоритм защиты."
+    },
+    {
+      "link": "https://doi.org/10.5281/zenodo.21261469",
+      "title": "CVE-2026-14440: как Cloudflare Universal SSL обходит строгие CAA-ограничения RFC 8657",
+      "description": "CVE-2026-14440: как Cloudflare Universal SSL может перекрывать строгие CAA-ограничения RFC 8657 и ослаблять контроль выпуска сертификатов."
+    }
+  ]
+}

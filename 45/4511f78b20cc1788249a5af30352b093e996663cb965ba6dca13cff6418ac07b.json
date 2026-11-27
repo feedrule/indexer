@@ -1,0 +1,20 @@
+{
+  "url": "https://heyquark.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://heyquark.com/brew/2026/02/27/on-ai-homebrew/",
+      "title": "On AI coding and homebrew",
+      "description": "I have a lot of thoughts on large language models in general, but it has come a little close to home recently with the submission to hacks.guide of a “90% vibe coded” (author’s words, not mine) installer for isfshax, an low-level exploit for Wii U, and the follow-up information that some parts of isfshax itself were made this way."
+    },
+    {
+      "link": "https://heyquark.com/me/2026/02/27/on-ai-world/",
+      "title": "On AI coding and one of its impacts on the world",
+      "description": "This is a follow-up post to my previous one on the use of AI coding for homebrew projects. I provided some technical arguments on code quality and maintainability there; but in this post I will discuss one of the impacts on the world I have observed from the use of AI, and why I consider continued use to be unethical and dangerous. You are welcome to skip this one if you believe technology is sepe"
+    },
+    {
+      "link": "https://heyquark.com/sysadmin/2023/09/24/ipv6-privacy/",
+      "title": "(Both) IPv6 Privacy Extensions",
+      "description": "One of the biggest benefits of IPv6 is that your computer’s address is a real, actual, global IP, rather than being a super-secret private IP that only your LAN knows about. I’m most excited for port forwarding to be a process that makes sense and the benefits to p2p gaming that will result. I am, however, saddened by the inevitable death of “hey join my minecraft server it’s 192.168.1.12”. (Note"
+    }
+  ]
+}

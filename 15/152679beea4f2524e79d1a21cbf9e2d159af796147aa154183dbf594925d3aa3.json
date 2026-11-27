@@ -1,0 +1,20 @@
+{
+  "url": "https://capybot.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://capybot.com/2026/11/11/keel_1/",
+      "title": "Structuring a C++ Application - `main()` is an architecture decision",
+      "description": "Why C++ applications grow god classes, and how to structure one instead. Components with a lifecycle, a composition root in main(), and dependencies declared as types that the compiler checks, so the init and shutdown order is derived for you. Introduces keel, a single-header C++20 library built on these ideas."
+    },
+    {
+      "link": "https://capybot.com/2024/12/31/safe_cpp_is_dead/",
+      "title": "C++ will be safe one day, but it will be too late",
+      "description": "C++ will eventually gain safer features, but Rust’s memory safety model is already here; and flourishing. In this article, we explore why C++ might arrive too late to the safe-by-default party, despite its vast legacy ecosystem."
+    },
+    {
+      "link": "https://capybot.com/2023/06/26/software_engineering_in_cpp/",
+      "title": "Programming in C++ is hard, Software Engineering in C++ is even harder",
+      "description": "It is natural to assume that proficiency in C++ directly translates to the ability to develop software in the language. However, the two are not always synonymous. The complexities of C++ pose challenges for software engineering. Simplicity is important for maintainability and long-term success in software engineering."
+    }
+  ]
+}

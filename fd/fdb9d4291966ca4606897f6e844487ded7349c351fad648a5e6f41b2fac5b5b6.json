@@ -1,0 +1,20 @@
+{
+  "url": "https://www.richardneililagan.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://richardneililagan.com/posts/network-printer-with-raspberry-pi/",
+      "title": "Reviving an old Brother printer with a Raspberry Pi Zero 2 W",
+      "description": "My old Brother printer only does USB, so I turned a spare Raspberry Pi Zero 2 W into a print server for it with CUPS. Here's how, and how to do the same for other printers."
+    },
+    {
+      "link": "https://richardneililagan.com/posts/compact-tabs-on-firefox-157-nova/",
+      "title": "Compact-er vertical tabs on Firefox v157's new Nova design",
+      "description": "How to make the vertical tabs on Firefox's new vertical tabs design more compact."
+    },
+    {
+      "link": "https://richardneililagan.com/posts/blocking-rfc1918/",
+      "title": "I'm blocking private IPv4 addresses on my servers by default from now on",
+      "description": "Due to my own negligence, I'm going to start proactively blocking outgoing network packets to private address spaces by default."
+    }
+  ]
+}

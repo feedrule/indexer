@@ -1,0 +1,20 @@
+{
+  "url": "https://oswalt.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://oswalt.dev/2026/02/difference-between-iter-and-into_iter-in-rust/",
+      "title": "Difference between 'iter()' and 'into_iter()' in Rust",
+      "description": "In today’s edition of “things that really confused me when starting with Rust” - I struggled to understand the difference between these two methods I kept seeing:"
+    },
+    {
+      "link": "https://oswalt.dev/2026/02/headermap-iteration-semantics/",
+      "title": "Rust HeaderMap Iteration Semantics",
+      "description": "This Rust program is syntactically correct, but there’s a mistake in it. Can you spot it? 1 use http::header::{ CONTENT_LENGTH , HOST , HeaderMap}; 2 3 fn main () { 4 let headers: HeaderMap = get_headermap(); 5 6 for (name, value) in headers { 7 if let Some (name) = name { 8 println! ( \" {:?} : {:?} \" , name, value); 9 } 10 } 11 } 12 13 // get_headermap() implementation omitted from this example T"
+    },
+    {
+      "link": "https://oswalt.dev/2025/12/classifying-mnist-handwritten-digits-with-a-fully-connected-neural-network/",
+      "title": "Classifying MNIST Handwritten Digits With a Fully Connected Neural Network",
+      "description": "I’d like to continue on my deep learning journey. In my first blog on this topic I built a basic neural network “from scratch”. This was done intentionally to learn how things work at a low-level, even though it was impractical for any “serious” usage."
+    }
+  ]
+}

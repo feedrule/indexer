@@ -1,0 +1,20 @@
+{
+  "url": "https://mofeed.xyz/index.xml",
+  "posts": [
+    {
+      "link": "https://mofeed.xyz/posts/linux-agentic-desktop/",
+      "title": "The Year of the Linux Desktop Is Finally Here — But Not for Humans!",
+      "description": "For decades, the open-source world has asked: “Is this finally the year of the Linux desktop?” For actual humans, the answer always seemed to be “not quite”—until now. The catch? Linux desktops have finally conquered the world… but as the home turf of AI agents, not people. Yes, in the age of superagents—digital workers like OpenAI’s Agent Mode, Manus, TARS, and more—the Linux desktop is having it"
+    },
+    {
+      "link": "https://mofeed.xyz/posts/efficient-data-r/",
+      "title": "Efficient Data wrangling in R",
+      "description": "Advanced Techniques for Efficient Large Data Handling in R In the era of big data, R users often find themselves grappling with datasets that push the limits of their hardware. Traditional approaches using packages like tidyverse or data.table can struggle when faced with truly massive datasets. But fear not! A new generation of tools and techniques is emerging, offering R users powerful ways to h"
+    },
+    {
+      "link": "https://mofeed.xyz/posts/first-blog/",
+      "title": "Demo Blog",
+      "description": "base R plot Ploting in R Base R plotting is the original graphics system in R, providing a straightforward and flexible approach to data visualization. It operates on an “artist’s palette” model, where you start with a blank canvas using high-level functions like plot() to create the initial plot, and then incrementally add elements such as points, lines, and text with low-level functions like poi"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.kenkoonwong.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.kenkoonwong.com/blog/modified-poisson/",
+      "title": "Why Risk Ratio Is Preferred, What is Modified Poisson, and Why Do We Even Care About Standard Error?",
+      "description": "Learnt about modified Poisson for the first time. Simulated RR vs OR, log-binomial and robust SE, then sprinkled in repeated measures. Turns out a 95% CI can be too narrow (confidently wrong) or too wide (overly cautious)! Still learning, but pretty convinced now 🙌 Motivations I was working on a project recently and learnt a few things as we were going along and want to look into it a bit more wit"
+    },
+    {
+      "link": "https://www.kenkoonwong.com/blog/interim-analysis/",
+      "title": "Interim Analysis: My Messy Notes",
+      "description": "Why can’t we just peek at our data with α = 0.05 every time? 🤔 Gotta see it to believe it! Simulating the inflated error, seeing why it’s not Bonferroni, and rebuilding O’Brien-Fleming & Lan-DeMets boundaries to match gsDesign. Hope it’s not an illusion of learning 😅 Motivations I’ve always heard “interim analysis” thrown around in trial papers but never really understood what’s happening under th"
+    },
+    {
+      "link": "https://www.kenkoonwong.com/blog/mice/",
+      "title": "My Messy Notes of Learning MICE From Scratch",
+      "description": "MICE always felt like magic to me 🪄 So I tried rebuilding it from scratch in R to understand it better. Lots of mistakes and help along the way, but my version ended up close to the mice package. Might be just luck. Still learning, but here are my messy notes! 🎃📊 Motivations We used mulitple imputation by chained equations (MICE) quite often in imputing missing data in many occasion, but I never r"
+    }
+  ]
+}

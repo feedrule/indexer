@@ -1,0 +1,20 @@
+{
+  "url": "https://tiffnix.com/articles.xml",
+  "posts": [
+    {
+      "link": "https://tiffnix.com/csharp-conversion",
+      "title": "Converting my game to C#",
+      "description": "I recently converted my game from a mix of GDScript and C++ into Godot C#."
+    },
+    {
+      "link": "https://tiffnix.com/faking-relativity",
+      "title": "Faking relativity",
+      "description": "Normally in space games, some kind of FTL method is needed for the players to get around quickly. Here, I present an alternative, based on a concept from Special Relativity."
+    },
+    {
+      "link": "https://tiffnix.com/blender-nebula",
+      "title": "Nebula",
+      "description": "Red and blue nebula that I rendered in blender."
+    }
+  ]
+}

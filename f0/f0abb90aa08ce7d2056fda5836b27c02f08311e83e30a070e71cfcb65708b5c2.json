@@ -1,0 +1,20 @@
+{
+  "url": "https://notes.alexkehayias.com/index.xml",
+  "posts": [
+    {
+      "link": "https://notes.alexkehayias.com/how-to-decide-ai-human-in-the-loop/",
+      "title": "how to decide on full AI vs human-in-the-loop",
+      "description": "A heuristic that’s helpe me decide if a given problem should be given completely to AI or use a human-in-the-loop model is “transaction symetry”:"
+    },
+    {
+      "link": "https://notes.alexkehayias.com/selling-exotic-cars/",
+      "title": "it's harder to sell exotic cars to people who can afford it",
+      "description": "I was watching an interview with a exotic car salesman when he said something that struck me."
+    },
+    {
+      "link": "https://notes.alexkehayias.com/ai-agent-security/",
+      "title": "AI agent security",
+      "description": "AI agent security is application security, network security PLUS controls for prompt injection (the lethal trifecta) and LLM fallibility (trusted/untrusted input)."
+    }
+  ]
+}

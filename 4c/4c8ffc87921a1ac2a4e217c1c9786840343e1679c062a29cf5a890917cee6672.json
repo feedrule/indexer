@@ -1,0 +1,20 @@
+{
+  "url": "https://adikel.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://adikel.bearblog.dev/roundcube-php-deserialisation-rce-cve-2025-49113/",
+      "title": "🚨 Roundcube PHP Deserialization RCE CVE-2025-49113",
+      "description": "Introduction What is Roundcube? Roundcube is a free, open-source, browser-based email client that lets you access, send, and organise your emails from any web browser. How does it work? Roundcube operates as an IMAP client. This means it connects directly to your mail server to read and manage emails, allowing messages to stay synchronised with other email applications (like Outlook or Apple Mail)"
+    },
+    {
+      "link": "https://adikel.bearblog.dev/w1seguy-ctf-xor-encryption-challenge/",
+      "title": "🔐 W1seGuy CTF - XOR Encryption Challenge",
+      "description": "Introduction Today we have an exciting TryHackMe challenge that we will go through . It is a XOR encryption based challenge that tests how well you understand XOR cipher and know how to use it to decrypt the encrypted flags. Sounds like a fun challenge! On their website, it is given as an easy challenge that should take 5 mins, but I can assure you that, as a beginner it took me well over an hour"
+    },
+    {
+      "link": "https://adikel.bearblog.dev/n8n-expression-injection-rce-cve-2025-68613/",
+      "title": "🚨 n8n Expression Injection RCE CVE-2025-68613",
+      "description": "What is n8n? n8n is a visual workflow automation platform that connects different apps, services, and AI models so they can talk to each other. It acts as a digital assistant to automate boring, repetitive tasks without requiring you to write everything from scratch. Versions 0.211.0 through 1.120.3 contain a critical Remote Code Execution (RCE) vulnerability within the workflow expression evaluat"
+    }
+  ]
+}

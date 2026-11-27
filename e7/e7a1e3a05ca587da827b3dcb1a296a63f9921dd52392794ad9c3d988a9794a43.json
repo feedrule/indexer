@@ -1,0 +1,20 @@
+{
+  "url": "https://izzo.pro/atom.xml",
+  "posts": [
+    {
+      "link": "https://izzo.pro/blog/phone-call-testing/",
+      "title": "Automatic phone call testing",
+      "description": "One of the goals of postmarketOS is to make Linux on Mobile usable for non-technical users . We are not there yet , one of the reasons is the current lack of reliability 1 . For example phone calls generally work, but sometimes they don't or the audio quality is very bad. I discussed about phone call testing with Anjan and Dylan during postmarketOS Hackathon 2025 , but after the event i put the id"
+    },
+    {
+      "link": "https://izzo.pro/blog/night-light/",
+      "title": "Night Light: My first mainline driver",
+      "description": "I have been daily driving postmarketOS on a OnePlus 6 since March 2024. I keep a list of the stuff which is not working , which helps me track the progress of the project through my personal experience. An entry of this list is: \"Night light does not work\", this is annoying when using the phone in the evening as it has a bright OLED screen. I've been following postmarketOS since 2019, but writing"
+    },
+    {
+      "link": "https://izzo.pro/blog/raw-to-hdr/",
+      "title": "HDR photos from any RAW file",
+      "description": "HDR Displays are becoming more widespread, but HDR photos are quite rare in photography. In this article, we are going to see how to use Darktable to produce an HDR image file (JPEG XL) from a RAW file. HDR or High Dynamic Range is a misleading term in photography, usually referred to the technique of shooting multiple photos with different exposures to capture the full dynamic range of an high co"
+    }
+  ]
+}

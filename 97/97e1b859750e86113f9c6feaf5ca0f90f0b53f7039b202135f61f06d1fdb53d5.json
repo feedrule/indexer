@@ -1,0 +1,20 @@
+{
+  "url": "https://adriacidre.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://adriacidre.com/blog/tests-passed-with-code-deleted/?utm_source=rss/",
+      "title": "The Test Passed With the Code Deleted",
+      "description": "Coverage tells you a test ran. It does not tell you the test would fail if the code were wrong. Before an AI refactors your core, you need the second thing."
+    },
+    {
+      "link": "https://adriacidre.com/blog/bounded-extraction/?utm_source=rss/",
+      "title": "An AI Wrote 200% Where It Meant 20%. The Bound Caught It.",
+      "description": "Confidence is what the model thinks of itself. Bounds are what your system thinks of the model. They are independent signals; use both."
+    },
+    {
+      "link": "https://adriacidre.com/blog/dont-delete-the-row-delete-the-key/?utm_source=rss/",
+      "title": "Don't Delete the Row. Delete the Key.",
+      "description": "Append-only history and GDPR-style erasure look incompatible. They are not, if you put the secret in two places."
+    }
+  ]
+}

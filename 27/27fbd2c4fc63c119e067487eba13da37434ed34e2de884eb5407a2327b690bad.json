@@ -1,0 +1,20 @@
+{
+  "url": "http://serge-sans-paille.github.io/pythran-stories/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "http://serge-sans-paille.github.io/pythran-stories/pros-and-cons-of-unified-build.html",
+      "title": "Pros and Cons of Unified Build",
+      "description": "Some thoughts on unified build, based on the experience gathered on Firefox codebase."
+    },
+    {
+      "link": "http://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html",
+      "title": "A Hidden Weakness",
+      "description": "A surprising combination of symbol qualifiers that lead to a long bug hunt."
+    },
+    {
+      "link": "http://serge-sans-paille.github.io/pythran-stories/trivial-auto-var-init-experiments.html",
+      "title": "Trivial Auto Var Init Experiments",
+      "description": "exploring the impact of -ftrivial-auto-var-init on Firefox codebase"
+    }
+  ]
+}

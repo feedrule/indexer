@@ -1,0 +1,10 @@
+{
+  "url": "https://nish-chup-one.vercel.app/writing/rss.xml",
+  "posts": [
+    {
+      "link": "https://nish-chup-one.vercel.app/writing/drishti-1-crawler",
+      "title": "Drishti 1.0: Inside the Crawler Behind Developer's Eye",
+      "description": "How a focused web crawler runs on nothing but Python and PostgreSQL. It has no queue service and no Redis, and it still keeps its manners with every host it visits."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://trpevski.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://trpevski.com/blog/before-your-data-reaches-an-llm-data-classification-and-security",
+      "title": "Before Your Data Reaches an LLM: Data Classification and Security",
+      "description": "How to classify, authorize, and protect sensitive data before it reaches an LLM, using PostgreSQL, pgvector, and Microsoft Presidio."
+    },
+    {
+      "link": "https://trpevski.com/blog/enterprise-ai-security-authorization-data-isolation-pii",
+      "title": "Securing Enterprise AI: Authorization, Data Isolation, and PII Protection in Production",
+      "description": "A practical guide to enterprise AI security: LLM authorization, permission-aware RAG, data isolation, PII minimization, and tool controls."
+    },
+    {
+      "link": "https://trpevski.com/blog/microsoft-agent-framework-custom-orchestration",
+      "title": "Microsoft Agent Framework: What I Stopped Building Myself",
+      "description": "The LLM call was the easy part. The execution loop around tools, context, retries, approvals, and state was not."
+    }
+  ]
+}

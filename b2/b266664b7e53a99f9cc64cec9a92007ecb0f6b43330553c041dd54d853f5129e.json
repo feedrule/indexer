@@ -1,0 +1,20 @@
+{
+  "url": "https://statisticsbyjim.com/feed/",
+  "posts": [
+    {
+      "link": "https://statisticsbyjim.com/regression/negative-controls-when-a-bias-check-misses-the-problem/",
+      "title": "Negative Controls: When a Bias Check Misses the Problem",
+      "description": "Researchers have long used negative controls to spot misleading results. The idea is clever: check for a relationship that should not exist. If it appears, something in the analysis might be wrong. Now, a new study sheds light on how well these checks work—and reveals a surprising weakness. Under some conditions, a larger problem can […] The post Negative Controls: When a Bias Check Misses the Pro"
+    },
+    {
+      "link": "https://statisticsbyjim.com/basics/dichotomizing-ordinal-data/",
+      "title": "Dichotomizing Ordinal Data: What You Lose by Combining Categories",
+      "description": "When Simplifying Survey Responses by Dichotomizing Data Changes the Story Dichotomizing ordinal data can hide important differences. Suppose you ask people to rate their health using five choices: Very good, good, fair, bad, or very bad. To simplify the analysis, you dichotomize those responses into two groups: favorable and unfavorable health. That sounds reasonable. But […] The post Dichotomizin"
+    },
+    {
+      "link": "https://statisticsbyjim.com/regression/freedmans-paradox-regression-finds-patterns-in-random-noise/",
+      "title": "Freedman’s Paradox: When Regression Finds Patterns in Random Noise",
+      "description": "A new article in The American Statistician revisits Freedman’s paradox, a problem that can make a regression model look meaningful even when it has found only chance patterns. Suppose you ask statistical software to find which factors predict an outcome. You give it a long list of possibilities, let it select the most promising ones, […] The post Freedman’s Paradox: When Regression Finds Patterns"
+    }
+  ]
+}

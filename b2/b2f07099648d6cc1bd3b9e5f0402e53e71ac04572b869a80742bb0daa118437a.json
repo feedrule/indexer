@@ -1,0 +1,20 @@
+{
+  "url": "https://mudongliang.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "http://mudongliang.github.io/2026/09/25/2021-06-24-trace-cmd-a-front-end-for-ftrace.html",
+      "title": null,
+      "description": "References References [1] trace-cmd: A front-end for Ftrace [2] ftrace: trace your kernel functions! [3] trace-cmd(1) — Linux manual page"
+    },
+    {
+      "link": "http://mudongliang.github.io/2023/07/14/vagrant-cloud-box-and-insecure-key-pairs.html",
+      "title": "Vagrant cloud, box and insecure key pairs",
+      "description": "Problems Naive Solution Problems Vagrant leverages a insecure public/private keypair to create base boxes so that vagrant installations can automatically SSH into the boxes. By default, vagrant up generates a new public/private keypair locally and inserts this public keypair into the virtual machine. The private key is stored in the file - .vagrant/machines/default/virtualbox/private_key . Naive S"
+    },
+    {
+      "link": "http://mudongliang.github.io/2023/07/14/debian-compile-linux-kernel.html",
+      "title": "Debian compile Linux Kernel from Source Code",
+      "description": "安装依赖软件 下载源代码 解压压缩包 配置 编译Linux内核 安装依赖软件 sudo apt install build-essential libncurses5-dev libssl-dev flex bison libelf-dev bc 下载源代码 wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.38.tar.xz 解压压缩包 tar -xvf linux-6.1.38.tar.xz 配置 make allyesconfig 编译Linux内核 make -j40"
+    }
+  ]
+}

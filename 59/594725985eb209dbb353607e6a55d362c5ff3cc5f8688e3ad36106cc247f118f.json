@@ -1,0 +1,20 @@
+{
+  "url": "https://www.jpt.sh/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "learn to like your terminal, part 2",
+      "description": "Part 1 of this series laid a foundation for a better terminal experience: a package manager, terminal emulator (Ghostty), and shell (fish). This time we’ll look at a set of tools that improve upon some of the essential tools you likely use every day. tl;dr This guide introduces the following tools: eza : replaces ls and tree . bat : syntax highlighting and other UI improvements to cat . zoxide : a"
+    },
+    {
+      "link": null,
+      "title": "Default Apps, 2026",
+      "description": "I wound up doing some nice tool upgrades this year. The biggest improvement– I’m now using Linux again for most things. Below are my defaults, if I switched to it in the last year, I’ve also listed the tool it replaced. web email : Fastmail todo : tweek ( my own tool, tt ) calendar : Fastmail, Fantasical rss : miniflux , self-hosted git : codeberg ( GitHub ) hosting : bunnyCDN via trifold ( Netlif"
+    },
+    {
+      "link": null,
+      "title": "trifold: painless static website hosting via CDN",
+      "description": "I just want to host some HTML… For years I hosted my static sites on AWS CloudFront , but about six years ago, in an effort to move away from Amazon, I wound up on Netlify. Netlify has mostly been great, I have recommended it to friends and, more recently, students looking for a place to host their portfolios & personal projects. While the interface & offerings have gotten far more complex than I"
+    }
+  ]
+}

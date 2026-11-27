@@ -1,0 +1,20 @@
+{
+  "url": "https://codn.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://codn.dev/blog/codn-native-linux-app-for-terminal-coding-agents/",
+      "title": "codn — A Native Linux App for Terminal Coding Agents",
+      "description": "codn is a native Linux app in Rust that runs Claude Code, Codex and shells as real CLIs in terminals and shows which session is waiting for you."
+    },
+    {
+      "link": "https://codn.dev/blog/asus-dsl-ac87vg-reverse-engineering-cgi-api/",
+      "title": "The Asus DSL-AC87VG: Reverse Engineering a CGI API",
+      "description": "No JSON API — just raw JavaScript. How I extracted router data from the Asus DSL-AC87VG using regex, a CSRF token hidden in a GIF, and positional arrays."
+    },
+    {
+      "link": "https://codn.dev/blog/speedport-plus-2-reverse-engineering-encrypted-api/",
+      "title": "The Speedport Plus 2: Reverse Engineering an Encrypted API",
+      "description": "The Speedport Plus 2 encrypts its API with SJCL AES-CCM. No docs, no SDK — just DevTools, a five-step auth flow, and a Python client."
+    }
+  ]
+}

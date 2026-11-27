@@ -1,0 +1,20 @@
+{
+  "url": "https://grahamgilbert.com/index.xml",
+  "posts": [
+    {
+      "link": "https://grahamgilbert.com/talks/2026-09-25-path-to-staff-engineer/",
+      "title": "The Path to Staff Engineer and Beyond",
+      "description": "Staying on the IC train: what comes after senior engineer if management isn’t the goal, and why going from manager back to IC isn’t a demotion."
+    },
+    {
+      "link": "https://grahamgilbert.com/blog/2026/05/26/humans-are-the-integration-layer/",
+      "title": "Humans Are the Integration Layer",
+      "description": "Designing Infrastructure for Bounded Autonomy Introduction A production access request during an incident looks straightforward from far enough away. An identity system can grant a role, a privileged access system can time-limit it, and an audit system can record what happened. The hard part is deciding whether the request should be granted at all. That decision draws on the state of the incident"
+    },
+    {
+      "link": "https://grahamgilbert.com/blog/2026/05/07/ai-can-write-the-rfc-it-cannot-build-alignment/",
+      "title": "AI Can Write the RFC. It Cannot Build Alignment.",
+      "description": "I was working on a design doc recently with the help of AI when it generated a sentence that immediately made me stop. It described another team’s system as “legacy infrastructure that should be replaced.” That might sound like a small wording issue, but it was not. The system was not legacy. The team had invested heavily in it, it solved real operational problems, and replacing it was neither rea"
+    }
+  ]
+}

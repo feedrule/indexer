@@ -1,0 +1,20 @@
+{
+  "url": "https://monty-says.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html",
+      "title": "The concepts of forking",
+      "description": "Lately there has been a lot of discussion about “hard” or “soft” forks related to MySQL. As someone who has done a successful fork of MySQL, I think this is both confusing and trivialising the concept of forking. In my previous blog , I did touch a bit on this topic, but it looks like some more clarifications are needed. When we did the initial fork of MariaDB from MySQL, we tried our best to keep"
+    },
+    {
+      "link": "https://monty-says.blogspot.com/2024/10/celebrating-15-years-of-mariadb.html",
+      "title": "Celebrating 15 years of MariaDB",
+      "description": "It is 15 years since the first MariaDB server release of MariaDB 5.1.38 on 29'th of October 2009. MariaDB got its name from my youngest daughter Maria, following the tradition of MySQL, who got its name from my oldest daughter My. The MariaDB project started on April 20 2009, the same day when Oracle announced that Oracle will buy Sun Microsystems, who owned MySQL. The initial MariaDB engineering"
+    },
+    {
+      "link": "https://monty-says.blogspot.com/2022/12/i-want-to-wish-you-happy-new-year-with.html",
+      "title": "I want to wish you a happy new year with MariaDB 11.0!",
+      "description": "MariaDB 11.0-Alpha preview is now available for download ! MariaDB 11.0 is in essence a \"new optimizer cost model\" release. There are also some other features , but I will concentrate this blog post on the 11.0 optimizer changes. Why/when is MariaDB 11.0 of interest to you? MariaDB 11.0 should be of interest to you if any of the following scenarios match your typical queries: Your queries are usin"
+    }
+  ]
+}

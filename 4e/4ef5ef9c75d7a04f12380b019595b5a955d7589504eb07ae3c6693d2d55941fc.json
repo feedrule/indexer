@@ -1,0 +1,20 @@
+{
+  "url": "https://sugui.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://sugui.bearblog.dev/refactoring-export-variables-in-godot-without-losing-data/",
+      "title": "Refactoring @export variables in Godot without losing data",
+      "description": "In Godot, you can use @export variables to edit their values inside the Godot editor. This is especially useful for resources, which are a great way to store your game data. You can think of them like JSON files, but in a way they're more powerful since they can store any Godot resource in them. I'm starting to use them to save information about dialogues. For example, I'm using an @export_multili"
+    },
+    {
+      "link": "https://sugui.bearblog.dev/trasferring-files-between-android-and-pc-preserving-modification-time/",
+      "title": "Transferring files between Android and PC preserving modification time",
+      "description": "This is going to be a short post 1 . So, I've been using my old phone in a daily basis during 6 years, until this last month, where I switched to another phone. The old phone still works perfectly, but I was worried about it stopping working someday. Not only that, but performance and battery life issues were getting noticeable. I had some image folders in the old phone, and I wanted to send them"
+    },
+    {
+      "link": "https://sugui.bearblog.dev/creating-a-small-puzzle-rpg-to-experiment-with-godot-rust/",
+      "title": "Creating a small puzzle RPG to experiment with godot-rust",
+      "description": "These 2-3 last weeks, I have been using what I could of my free time to experiment with godot-rust . My experience using the library Using godot-rust has been a nice experience for me, although I got blocked with some things at first. I got blocked on issues like these: Realizing I had to call .bind() or .bind_mut() whenever I wanted to access to some node attributes. I also had to make those attr"
+    }
+  ]
+}

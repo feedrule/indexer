@@ -1,0 +1,20 @@
+{
+  "url": "https://andrewlock.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/",
+      "title": "Invariant culture string interpolation with [InterpolatedStringHandler]",
+      "description": "In this post I show how you can use a custom [InterpolatedStringHandler] to ensure string interpolation formats values using the invariant culture"
+    },
+    {
+      "link": "https://andrewlock.net/understanding-lazy-thread-safety-modes/",
+      "title": "Understanding Lazy thread safety modes",
+      "description": "In this post I look at how the different `LazyThreadSafetyMode` values work with `Lazy `, and how exceptions are handled for each mode"
+    },
+    {
+      "link": "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/",
+      "title": "An introduction to Compact Binary Object Representation (CBOR) in .NET",
+      "description": "In this post I introduce CBOR as a JSON alternative, and show how to use the System.Formats.Cbor NuGet package to read and write CBOR encoded data"
+    }
+  ]
+}

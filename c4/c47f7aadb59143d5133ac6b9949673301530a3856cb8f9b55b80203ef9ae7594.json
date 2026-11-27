@@ -1,0 +1,20 @@
+{
+  "url": "https://bertails.org/feed/all.xml",
+  "posts": [
+    {
+      "link": "https://bertails.org/2026/05/11-rdf-dataset-as-a-log-compacted-topic",
+      "title": "RDF Dataset as a Log-Compacted Topic",
+      "description": "Treating an RDF Dataset as a log-compacted Kafka topic, one named graph per key, so the whole dataset can be exchanged, replayed, and sunk into any RDF store."
+    },
+    {
+      "link": "https://bertails.org/2015/06/17-an-rdf-abstraction-for-the-jvm",
+      "title": "An RDF abstraction for the JVM",
+      "description": "A design critique of Commons RDF: why its class hierarchy and abstract factory limit interoperability between Jena and Sesame, and what to do instead."
+    },
+    {
+      "link": "https://bertails.org/2015/02/21-decrypt-pgp-email-from-command-line",
+      "title": "How to read a PGP-encrypted email from the command-line",
+      "description": "A step-by-step walkthrough of decrypting a PGP-encrypted email from the command line with GnuPG, from importing keys to extracting attachments."
+    }
+  ]
+}

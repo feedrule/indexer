@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.pjhoberman.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.pjhoberman.com/compound-engineering-one-level-up",
+      "title": "Compound engineering, one level up",
+      "description": "A Claude Code plugin that scales compound engineering to whole projects: a committed task graph, built a wave of PRs at a time."
+    },
+    {
+      "link": "https://blog.pjhoberman.com/build-a-knowledge-base-that-compounds",
+      "title": "Build a Knowledge Base That Compounds",
+      "description": "A workflow for turning technical reading into compounding signal. Theme tracking, corroboration requirements, and a forkable contract template."
+    },
+    {
+      "link": "https://blog.pjhoberman.com/autoresearch-60-experiments-production-search",
+      "title": "I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here's What Actually Happened.",
+      "description": "60 autoresearch experiments on a production search algorithm. 93% failed. The failures mapped the ceiling — and that was the real finding."
+    }
+  ]
+}

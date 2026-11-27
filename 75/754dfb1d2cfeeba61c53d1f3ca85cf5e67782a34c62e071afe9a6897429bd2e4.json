@@ -1,0 +1,20 @@
+{
+  "url": "https://heffree.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://heffree.dev/blog/no-more-sprocs.html",
+      "title": "Please, I beg you, we need to stop using Stored Procedures (from applications)",
+      "description": "2026-08-30 | programming databases Please, I beg you, we need to stop using Stored Procedures (from applications) Please, application developer, I beg you, stop allowing reliance on Stored Procedures to enter your codebase. Please, application developer, I beg you, learn some SQL! Please, database administrator, I beg you, stop using Stored Procedures as a cudgel to compensate for your application"
+    },
+    {
+      "link": "https://heffree.dev/blog/moved-off-github.html",
+      "title": "Moved Off of Github",
+      "description": "feels good for some reason"
+    },
+    {
+      "link": "https://heffree.dev/blog/reference-image-player.html",
+      "title": "Reference Image Player",
+      "description": "I made an app for my own use, Go Figure!"
+    }
+  ]
+}

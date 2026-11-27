@@ -1,0 +1,20 @@
+{
+  "url": "https://mikro2nd.mataroa.blog/rss/",
+  "posts": [
+    {
+      "link": "https://mikro2nd.mataroa.blog/blog/wikid-update/",
+      "title": "Wikid Update",
+      "description": "Nice thing on fedi this morning, a gentle query from BillSeitz asking how the WikidProject is going. I'm touched that somebody is even aware of the thing, let alone cares how it's going! I really ought to have written an update sooner, but I think part of me is ashamed at how slow progress has been. I see other people with their pet software projects racing ahead, \"getting stuff done\", and I'm sti"
+    },
+    {
+      "link": "https://mikro2nd.mataroa.blog/blog/gradle-rant/",
+      "title": "Gradle Rant",
+      "description": "Why is it? Every time — EVERY time — I pick up some open-source project to take a look at the code, and it uses gradle for its build system, the whole thing is a complete and utter shitshow? I'm going through a pretty steep learning curve right now, and that means frequently wanting to look at some example code. So the answer's simple, right? You search around for some open-source projects related"
+    },
+    {
+      "link": "https://mikro2nd.mataroa.blog/blog/the-lack-of-a-better-programming-toolset/",
+      "title": "The Lack of a Better Programming Toolset",
+      "description": "GeePawHill : \" If you have so much tedious boilerplate that an LLM can reduce your workload, the problem is that your design and code require lots of tedious boilerplate, and that is not a problem you will fix without learning to program better. \" (via TheSocials ) Now, of course I agree whole heartedly with GeePaw, but would like to add that I think our tooling could also use some significant imp"
+    }
+  ]
+}

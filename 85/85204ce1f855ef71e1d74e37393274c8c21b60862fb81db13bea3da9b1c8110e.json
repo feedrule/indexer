@@ -1,0 +1,20 @@
+{
+  "url": "https://developer.okta.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://developer.okta.com/blog/2026/11/23/secure-go-mcp-app-cross-app-access/",
+      "title": "Implement Secure Cross App Access (XAA) in Go",
+      "description": "See how a Go MCP app uses Cross App Access (XAA) and token exchange to let AI agents reach protected data without OAuth consent screens."
+    },
+    {
+      "link": "https://developer.okta.com/blog/2026/10/09/typescript-mcp-sdk-cross-app-access/",
+      "title": "Build a Secure TypeScript MCP Client with Cross App Access (XAA)",
+      "description": "Build a TypeScript MCP app with Cross App Access (XAA): exchange ID-JAG tokens, discover auth servers, and delegate OAuth with no consent screens."
+    },
+    {
+      "link": "https://developer.okta.com/blog/2026/09/18/okta-classic-engine-deprecation/",
+      "title": "Classic Engine Feature EOL: SSR, Desktop SSO, Device Trust",
+      "description": "Okta Classic Engine's Self-Service Registration, Desktop SSO, and Device Trust reach end of support – upgrade to Identity Engine now."
+    }
+  ]
+}

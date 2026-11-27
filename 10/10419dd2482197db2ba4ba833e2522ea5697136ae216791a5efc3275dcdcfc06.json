@@ -1,0 +1,20 @@
+{
+  "url": "https://itsodeleo.github.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://itsodeleo.github.io/posts/nested-intelligence-2/",
+      "title": "Nested Intelligence (II): Asking the Questions First",
+      "description": "Breaking the pessimistic conjecture of the first post into four questions: the structure of the chain, the optimistic and pessimistic paths, how to measure intelligence, and experiments we can run on the layer below."
+    },
+    {
+      "link": "https://itsodeleo.github.io/posts/local-decision-workflow/",
+      "title": "If LLMs Can Decide Without Fine-Tuning, Do We Still Need Models Like Jev?",
+      "description": "If the options have meaning, could a language model's learned probability distribution already contain the ability to choose? I tried reading decisions directly from existing models before deciding whether to add a specialist."
+    },
+    {
+      "link": "https://itsodeleo.github.io/posts/when-reality-feels-structured/",
+      "title": "Nested Simulation and Nested Intelligence: A Pessimistic Thought",
+      "description": "If intelligence could create something greater than itself, why would a nested chain remain silent? A personal reflection on limits and non-interference."
+    }
+  ]
+}

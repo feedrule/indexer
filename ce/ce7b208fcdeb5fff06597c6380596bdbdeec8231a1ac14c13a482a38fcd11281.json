@@ -1,0 +1,20 @@
+{
+  "url": "https://pulkomandy.tk/rss.pl",
+  "posts": [
+    {
+      "link": "http://pulkomandy.tk/_/_/_Generating%20VGA%20Using%20The%20Allwinner%20V3s",
+      "title": "Generating VGA Using The Allwinner V3s",
+      "description": "Back in 2023, I designed a baseboard for the Lichee Pi Zero . I had not written about it again on this website (there is a blog post in French on Linuxfr , however), but eventually I ordered the boards and assembled them, and, surprisingly, the thing works. I ordered 10 PCBs and only assembled one. Let me know if you'd like one (with or without the components, assuming it's still possible to get a"
+    },
+    {
+      "link": "http://pulkomandy.tk/_/_/_Porting%20GrafX2%20to%20Windows%20CE%2C%20part%202",
+      "title": "Porting GrafX2 to Windows CE, part 2",
+      "description": "I finished the previous article with GrafX2 up and running, but I think I have enough things to write for a second one. First of all, I got the CI running. Except for the mishap last month of running out of CI minutes, there were no specific problems to write about. The executable is generated and the release zip is created and added to the generated nightly builds download page. No problems there"
+    },
+    {
+      "link": "http://pulkomandy.tk/_/_/_Porting%20GrafX2%20to%20Windows%20CE",
+      "title": "Porting GrafX2 to Windows CE",
+      "description": "I'm porting GrafX2 to Windows CE! Why am I doing this? Ah yes, the usual question here. There are several answers. First of all, I needed a break. Both my paid job and my work in Haiku, and a few other things, have kept me too busy and with high levels of stress accumulating to some minor health issues. I have to spend some time away from these things, and take a break. But I don't want to stop pr"
+    }
+  ]
+}

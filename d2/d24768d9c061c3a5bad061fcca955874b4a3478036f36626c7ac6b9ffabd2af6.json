@@ -1,0 +1,20 @@
+{
+  "url": "https://www.maxmntl.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.maxmntl.com/blog/neovim-save-markdown-folds",
+      "title": "Neovim: Save folds in markdown files",
+      "description": "How to save folds in markdown files in neovim using Lua and autocommands."
+    },
+    {
+      "link": "https://www.maxmntl.com/blog/maxmntl-the-making-of",
+      "title": "The Making Of: maxmntl",
+      "description": "The classic meta blog post about how this blog was made."
+    },
+    {
+      "link": "https://www.maxmntl.com/blog/optional-account-powersync",
+      "title": "Account Optional Apps with PowerSync",
+      "description": "Using PowerSync to make an app you can use without requiring an account."
+    }
+  ]
+}

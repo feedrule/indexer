@@ -1,0 +1,20 @@
+{
+  "url": "https://yakshed.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://yakshed.com/lamp/",
+      "title": "Lampin' #1: Let There Be Light",
+      "description": "I work remotely, and my \"office\" is a windowless dungeon room in the basement with deeply mediocre lighting. I've had this setup for years, it's ultimately fine. But recently, as the days started getting shorter, I wondered if I could do better. Unsurprisingly, the answer is yes. As it turns out, money can be exchanged for many things. Some of those things are very, very bright lamps. But unless y"
+    },
+    {
+      "link": "https://yakshed.com/great-experiment/",
+      "title": "The Great Experiment",
+      "description": "Note: If you don't like reading words, my feelings here are pretty accurately summed up by this absolute earworm of surprisingly high-quality AI slop . Disclosure I start working at OpenAI tomorrow, so my opinions are my own, yada yada. You'll find countless internet commentators breathlessly declaring that nobody needs to read the code anymore. You'll find a similar number of folks arguing the ex"
+    },
+    {
+      "link": "https://yakshed.com/digitalocean/",
+      "title": "Backing up old DigitalOcean VMs for 1/20th the price",
+      "description": "According to my email history, I've been using DigitalOcean since 2013. In that interval, I've gone through about five iterations of VMs, for self-hosting my ever-increasing levels of nonsense. Every time I migrate to some new and shiny VM, I use DigitalOcean's Snapshot feature to preserve the old VM in case I forgot something important on there. [1] What this means in practice is that I've accumu"
+    }
+  ]
+}

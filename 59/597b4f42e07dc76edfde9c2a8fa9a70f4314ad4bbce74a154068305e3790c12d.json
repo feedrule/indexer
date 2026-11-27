@@ -1,0 +1,20 @@
+{
+  "url": "https://www.franceselliott.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.franceselliott.com/2026/10/29/ai-test-harness.html",
+      "title": "Building deterministic testing harness for AI-generated docs",
+      "description": "LLMs don’t write quality developer docs without a ton of deterministic guardrails and human near the loop or human in the loop. That’s what I hear from those neck-deep in inventing AI doc gen best practices, and I agree. I’ve already introduced deterministic tests into my AI doc gen workflows to a certain extent, but after reading the book Docs as Test, I’m getting a lot more granular and systemat"
+    },
+    {
+      "link": "https://www.franceselliott.com/2026/09/14/ai-doc-metrics.html",
+      "title": "Tooling tidbits for AI-generated docs",
+      "description": "My Claude doc-generating skills are in decent, workable shape, but I’m feeling inspired to do more after listening to a recent podcast from I’d Rather Be Writing – Orchestrating docs instead of writing them yourself — podcast with Sarah Deaton of Anthropic."
+    },
+    {
+      "link": "https://www.franceselliott.com/2026/03/10/micropost-claude-skills.html",
+      "title": "Building AI doc toolchains with Claude skills",
+      "description": "I’ve been building out some powerful AI-assisted docs toolchain infrastructure recently. Some random observations:"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://aminediro.com/index.xml",
+  "posts": [
+    {
+      "link": "https://aminediro.com/posts/flash_attn/",
+      "title": "Reimplementing FlashAttention for performance and giggles",
+      "description": "⏲️ Estimated reading time ~45min. Flash Attention: From Theory to Implementation Flash Attention has become one of the most impactful optimizations in modern deep learning. Since the original paper was published in 2022, we’ve seen four major versions—each squeezing more performance out of increasingly powerful hardware. But here’s the thing: reading papers is one thing, understanding why these op"
+    },
+    {
+      "link": "https://aminediro.com/posts/pg_job_queue/",
+      "title": "Implementing a Postgres job queue in less than an hour",
+      "description": "I recently listened to the rust in production podcast with the founder of tembo.io. The guest and host talked about their PGMQ rust project, a job queue implemented in postgres. They went into some details of how they build this using the amazing pgrx rust lib for writing Rust postgres extension. I wouldn’t really recommend using Postgres as a message broker nor a task queue for obvious reasons (w"
+    },
+    {
+      "link": "https://aminediro.com/posts/mirrors/",
+      "title": "Mirro.rs: Rust magicmirror",
+      "description": "A few years ago, I was really into Raspberry Pis. I think they are amazing pieces of hardware to own if you love tinkering and learning new stuff. By stuff, I mean: software, embedded systems, kernel development, self-hosting, networks, clusters, robotics, and more. I still own quite a few. Raspberry Pis are a great educational tool, they only require swapping out a single SD card to boot up into"
+    }
+  ]
+}

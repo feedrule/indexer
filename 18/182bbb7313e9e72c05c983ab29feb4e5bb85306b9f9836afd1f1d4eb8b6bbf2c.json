@@ -1,0 +1,20 @@
+{
+  "url": "https://pragmaticaddict.com/feed.rss",
+  "posts": [
+    {
+      "link": "https://pragmaticaddict.com/microsoft-blocks-smtp.html",
+      "title": "Microsoft SMTP block lists",
+      "description": "Background Completely out of the blue I received a similar message when trying to send mail to outlook.com live.com hotmail.com & msn.com host msn-com.olc.protection.outlook.com[52.101.41.123] said: 550 5.7.1 Unfortunately, messages from [97.107.133.211] weren't sent. Please contact your Internet service provider since part of their network is on our block list (S3150). You can also refer your pro"
+    },
+    {
+      "link": "https://pragmaticaddict.com/usb-power.html",
+      "title": "Power Cycle USB Devices",
+      "description": "Background I have a USB zigbee controller that needed to be unplugged/replugged on a Raspbery Pi 4b. The problem was it was a 4 our drive to get there. After some poking around I found uhubctl which allows you to manage smart USB hubs. As luck would have it, most all Raspberry Pi support this! Installation On my Debian/RaspiOS it’s a simple command sudo apt-get install uhubctl See what hubs are su"
+    },
+    {
+      "link": "https://pragmaticaddict.com/vnc-shared-desktop.html",
+      "title": "Share a desktop over VNC using SSH",
+      "description": "Background I run a very minimalist desktop (LXDE) which doesn’t have the facilities to allow for shared desktop. I did use xrdp, it works but requires you to be logged off from the desktop and doesn’t allow sharing. I did a bit of research and found a great solution that uses SSH and (should) works on any linux desktop no matter the window manager. Note: You will need to have SSH setup on both mac"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://kovashikawa.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://kovashikawa.com/ai/e-means-k-means-worth-another-look/",
+      "title": "e-means Makes k-means Worth Another Look",
+      "description": "e-means reaches standard k-means quality in far fewer passes. What changes, what stays the same, and why cheaper clustering is worth another look."
+    },
+    {
+      "link": "https://kovashikawa.com/design/projects/lowercase-is-a-mood-chrome-extension/",
+      "title": "Lowercase Is a Mood, Now a Chrome Extension",
+      "description": "A Chrome extension with one a/A switch that renders the site you are on in lowercase. Display-only, saved per site, no network requests."
+    },
+    {
+      "link": "https://kovashikawa.com/ai/when-ai-lies-about-your-search-data/",
+      "title": "When AI Lies About Your Search Data",
+      "description": "How FUSE's Emet pipeline checks AI answers about search data: declared receipts, a deterministic verifier whose tolerance comes from how a number was written, and a judge from a different model provider, with the research behind each choice."
+    }
+  ]
+}

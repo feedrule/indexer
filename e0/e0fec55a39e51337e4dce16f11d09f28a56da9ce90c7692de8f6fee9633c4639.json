@@ -1,0 +1,20 @@
+{
+  "url": "https://www.janwagemakers.be/jekyll/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Broken shift6mq phone - oops I did it again...",
+      "description": "TL;DR Be very careful with qbootctl because it can brick your phone. The long story: I’ve a shift6mq shift-phone running postmarketOS and Android in a dual boot (slot A/B) setup. Sometime in December, I had an appointment with my doctor for an annual checkup. I wanted to pay my doctor with my smartphone (Payconiq/Android), so it was time to switch my phone back to Android. Instead of pressing the"
+    },
+    {
+      "link": null,
+      "title": "shift6mq: update: postmarketOS installed on SD card (dual boot android)",
+      "description": "This is an update of https://www.janwagemakers.be/jekyll/postmarketos/shift/2025/09/18/shift6mq_sdcard_postmarketos.html where I describe my dual boot setup between postmarketOS and android on my shift6mq shift-phone . Slot A: postmarketOS /boot with rootfs on SD card (mmcblk0) Slot B: android (shiftOS-G 5) This is mostly ment as a documentation for myself… I’ve found an easier way to update my /b"
+    },
+    {
+      "link": null,
+      "title": "Replace procmail with a bash script",
+      "description": "Preface: For a very long time, this was my email setup at home: Mutt : MUA (Mail User Agent) postfix : MTA (Message transfer agent) fetchmail : MRA (Mail retrieval agent) procmail : MDA (Message delivery agent) Procmail was used to sort my email in Maildir folders depending on rules defined in .procmailrc . I’ve replaced my ~/.procmailrc with a bash script. Now my setup is: Mutt : MUA postfix : MT"
+    }
+  ]
+}

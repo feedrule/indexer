@@ -1,0 +1,15 @@
+{
+  "url": "https://ivanvalentini.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://ivanvalentini.github.io/posts/fluorite/",
+      "title": "Fluorite: A Rust framework for deploying distributed enclave applications on Kubernetes",
+      "description": "Rust framework for deploying attested, immutable workloads in trusted and confidential computing environments on Kubernetes with support for Microsoft Azure, Google Cloud, and AMD SEV-SNP bare-metal, alongside NVIDIA H100 GPUs in confidential mode"
+    },
+    {
+      "link": "https://ivanvalentini.github.io/posts/technical-report-semester-project-eurecom/",
+      "title": "Intercepting and modifying Fitbit Charge 5 messages",
+      "description": "How I walked 1337 steps from the comfort of my chair"
+    }
+  ]
+}

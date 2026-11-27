@@ -1,0 +1,20 @@
+{
+  "url": "https://janikvonrotz.ch/index.xml",
+  "posts": [
+    {
+      "link": "https://janikvonrotz.ch/2026/11/10/premodern-cube-primer/",
+      "title": "Premodern Cube Primer",
+      "description": "This is another update on my Premodern Cube. This time I want to share the “Primer”. A primer is a manual for the cube. It explains how to play the cube and what to expect. The primer for my cube can be accessed with this link: https://janikvonrotz.ch/premodern-cube-primer/ I had several goals with the primer. First of all I wanted to explain the project and why I build it. Then I wanted to go giv"
+    },
+    {
+      "link": "https://janikvonrotz.ch/2026/11/07/taskfile-project-introduction/",
+      "title": "Taskfile project introduction",
+      "description": "I spend a lot of time on my https://taskfile.build/ project. What started as a standard to run any git project with bash, has become a command library for a wide range of software tools. Every git project I am working with has a task script (aka Taskfile) in its root. The Taskfile provides all functions to run the project. No need to learn language-specific tools or specific commands to launch the"
+    },
+    {
+      "link": "https://janikvonrotz.ch/2026/11/06/the-least-thing-you-can-do-about-ai/",
+      "title": "The least thing you can do about ai",
+      "description": "I am still writing the ai call lower case and call agents “clankers”. Because writing “AI” is too bold and calling clankers “agents” assumes some degree of agency. And this is simply not true. As it always was with Open Source Software (OSS) my only request to the world is to choose alternatives over proprietary. And with ai we have entered another level of proprietary dependencies and vendor-lock"
+    }
+  ]
+}

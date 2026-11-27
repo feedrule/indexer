@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ethanrosenthal.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.ethanrosenthal.com/2026/03/10/confingy/",
+      "title": "Introducing confingy",
+      "description": "I’m incredibly excited to finally introduce confingy to the world. GitHub: https://github.com/runwayml/confingy Docs: https://runwayml.github.io/confingy This is a library that solves a problem that I’ve had for over a decade at every company at which I’ve worked. The library is also the answer to my previous blog post, Why can’t we separate YAML from ML? . Major shoutout to my employer, Runway ,"
+    },
+    {
+      "link": "https://www.ethanrosenthal.com/2026/03/08/reproducibility/",
+      "title": "Stop talking about reproducibility",
+      "description": "I’m not saying reproducibility is an unworthy aspiration. I merely have issues with the word itself. It’s a misnomer that distracts from the real goals. You often hear about the need for “reproducible science”, or better yet, a “crisis of reproducibility” in science, particularly in the social sciences. Nobody really cares about whether somebody else can exactly rerun the same published experiment"
+    },
+    {
+      "link": "https://www.ethanrosenthal.com/2024/11/19/yaml-ml/",
+      "title": "Why can't we separate YAML from ML?",
+      "description": "As for the ever popular Python vs R vs Julia vs Scala... It's already been decided and the right answer is YAML. It ever has ML in the name ! 😉 [image or embed] — Alex Gude ( @alexgude.com ) October 27, 2024 at 5:23 PM Why can’t I just write code? I’m coming up on 10 years, and half as many jobs, in data science and machine learning. No matter what, in every role, I find myself reinventing a progr"
+    }
+  ]
+}

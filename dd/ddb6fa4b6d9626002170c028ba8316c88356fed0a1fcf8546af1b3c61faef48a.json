@@ -1,0 +1,20 @@
+{
+  "url": "http://virtualtothecore.com/index.xml",
+  "posts": [
+    {
+      "link": "https://www.virtualtothecore.com/object-lock-buckets-on-rustfs-for-veeam-with-ansible/",
+      "title": "Object Lock Buckets on Rustfs for Veeam, Automated With Ansible",
+      "description": "In the previous post I have installed RustFS on a dedicated VM, from the data disk and the systemd service to TLS and the rc client. The server is running, but it is still empty. In this post I will create the buckets, automate their creation and their access keys with an Ansible playbook, and test the different combinations of immutability."
+    },
+    {
+      "link": "https://www.virtualtothecore.com/replacing-minio-in-my-home-lab-with-rustfs/",
+      "title": "Replacing Minio in My Home Lab With Rustfs",
+      "description": "I’ve been using MinIO as the S3 object storage behind my Veeam lab for a while. After its license changes and the archiving of the community repository, I started looking for a replacement and found RustFS : an S3-compatible object storage written in Rust and released under the Apache 2.0 license, with support for versioning and Object Lock. This first post gives a short introduction to the projec"
+    },
+    {
+      "link": "https://www.virtualtothecore.com/veeam-malware-tester-test-and-demonstrate-veeam-malware-detection-capabilities/",
+      "title": "Veeam Malware Tester: Test and Demonstrate Veeam Malware Detection Capabilities",
+      "description": "Testing Veeam’s malware detection features requires a specific set of conditions that may be hard to reproduce quickly in a production or demo environment. To solve this, I created a script for Linux systems that allows you to quickly create a series of harmless artifacts to trigger each of the three detection engines included in Veeam Backup & Replication (VBR): File System Analysis, Inline Entro"
+    }
+  ]
+}

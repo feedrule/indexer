@@ -1,0 +1,20 @@
+{
+  "url": "https://www.fsobral.dev/rss",
+  "posts": [
+    {
+      "link": "http://localhost:3000/blog/the-map-eats-the-territory",
+      "title": "The Map Eats the Territory",
+      "description": "On two works that stopped reaching for the original and signed the map instead."
+    },
+    {
+      "link": "http://localhost:3000/blog/spring84",
+      "title": "Specifying Spring '84",
+      "description": "A follow-up to my Spring '83 implementation: specifying a small successor protocol for expressive, self-certifying web boards."
+    },
+    {
+      "link": "http://localhost:3000/blog/e-unibus-infinitum",
+      "title": "E Unibus Infinitum",
+      "description": "David Foster Wallace's E Unibus Pluram: was published in 1993, but is more relevant than ever today."
+    }
+  ]
+}

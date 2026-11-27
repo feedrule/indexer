@@ -1,0 +1,20 @@
+{
+  "url": "https://vermaden.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://vermaden.wordpress.com/2026/11/23/valuable-news-2026-11-23/",
+      "title": "Valuable News – 2026/11/23",
+      "description": "The Valuable News weekly series is dedicated to provide summary about news, articles and other interesting stuff mostly but not always related to the UNIX/BSD/Linux systems. Whenever I stumble upon something worth mentioning on the Internet I just put it here. Today the amount information that we get using various information streams is at massive […]"
+    },
+    {
+      "link": "https://vermaden.wordpress.com/2026/11/16/valuable-news-2026-11-16/",
+      "title": "Valuable News – 2026/11/16",
+      "description": "The Valuable News weekly series is dedicated to provide summary about news, articles and other interesting stuff mostly but not always related to the UNIX/BSD/Linux systems. Whenever I stumble upon something worth mentioning on the Internet I just put it here. Today the amount information that we get using various information streams is at massive […]"
+    },
+    {
+      "link": "https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/",
+      "title": "New FreeBSD pkgbase(8) Tool",
+      "description": "We all know that PKGBASE is ‘the’ way for the FreeBSD future – but there are some things that need to be polished. FreeBSD 15.x is the last version that will allows usage of freebsd-update(8) command to update/upgrade FreeBSD system. Starting with FreeBSD 16.0-RELEASE the PKGBASE will be the ONLY way of installing/updating/upgrading the FreeBSD […]"
+    }
+  ]
+}

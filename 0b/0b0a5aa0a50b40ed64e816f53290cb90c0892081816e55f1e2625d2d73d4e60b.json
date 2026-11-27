@@ -1,0 +1,20 @@
+{
+  "url": "https://gosom.dev/feed/",
+  "posts": [
+    {
+      "link": "https://gosom.dev/postgresql-logical-replication-with-partitioned-tables/",
+      "title": "PostgreSQL logical replication with partitioned tables",
+      "description": "This post explains how publish_via_partition_root changes the logical replication behavior of partitioned tables in PostgreSQL. When a row is inserted into a partitioned table, it is stored in one of its leaf partitions. For logical replication, PostgreSQL must decide which table identity will be sent to the subscriber: the partitioned root table or the leaf partition. This behavior is controlled"
+    },
+    {
+      "link": "https://gosom.dev/deploy-your-own-maps-scraping-api-in-5-minutes/",
+      "title": "Deploy Your Own Maps Scraping API in 5 Minutes",
+      "description": "The maps-scraper now has a SaaS mode: multi-user, REST API, admin UI, job queue. One command to deploy on your own VPS. Why The CLI works fine for one person. But if you need multiple users, an API to integrate with, or a dashboard to manage jobs — you need something more. The new SaaS Edition adds that on top of the same scraper. Same repo, same MIT license. You get: REST API with Swagger docs Ad"
+    },
+    {
+      "link": "https://gosom.dev/postgresql-updates-and-locks/",
+      "title": "PostgreSQL update and locking tip",
+      "description": "Start a PostgreSQL server using docker: docker run --rm --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword postgres open one terminal ( A ): docker exec -it some-postgres psql -U postgres and create a table and insert one row CREATE table accounts( id TEXT PRIMARY KEY, name TEXT NOT NULL ); INSERT INTO accounts(id, name) VALUES ('9e6f35d3-f53a-423f-a0d6-d60c441e3b40', 'Georgios'); Now try:"
+    }
+  ]
+}

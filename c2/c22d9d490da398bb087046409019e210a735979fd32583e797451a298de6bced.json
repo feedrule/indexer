@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.stijn-dhaese.be/feed/",
+  "posts": [
+    {
+      "link": "https://blog.stijn-dhaese.be/2026/06/hide-the-phone-link-in-start-menu-in-windows-11/",
+      "title": "Hide the Phone Link In Start Menu in Windows 11",
+      "description": "In the most recent update of Windows 11, Microsoft added a new design of the windows 11 start menu that includes a the pane “Access your mobile devices here”, also called “Phone Link In Start Menu”. While this is a neat feature for users at home, it’s not something you really want in a company environment. And as usual, Microsoft hasn’t provided any policy or … Continue reading \"Hide the Phone Lin"
+    },
+    {
+      "link": "https://blog.stijn-dhaese.be/2025/06/exclaimer-breaks-email-forwarding/",
+      "title": "Exclaimer Breaks Email Forwarding",
+      "description": "UPDATE 15/09/2025: it looks like they fixed it a couple of weeks ago. Recently, several colleagues reported that they received blank emails containing only images and a text file named ATT00001.txt. The images were part of the email signature, and the actual message body appeared inside the text attachment. I soon found out that Exclaimer … Continue reading \"Exclaimer Breaks Email Forwarding\""
+    },
+    {
+      "link": "https://blog.stijn-dhaese.be/2022/12/hard-to-find-call-queues-and-auto-attendants-in-microsoft-teams/",
+      "title": "Hard to find Call Queues and Auto Attendants in Microsoft Teams",
+      "description": "I’m currently migrating from our Skype environment to Teams and one of the issues we had was that our internal user could not easily find the Auto Attendant or Call queue of our internal departments. Only when they searched on the virtual operator (Resource Account) full name, did they get the correct results. Fortunately, thanks … Continue reading \"Hard to find Call Queues and Auto Attendants in"
+    }
+  ]
+}

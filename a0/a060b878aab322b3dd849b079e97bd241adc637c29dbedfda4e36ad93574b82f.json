@@ -1,0 +1,20 @@
+{
+  "url": "https://interrupt.sh/index.xml",
+  "posts": [
+    {
+      "link": "https://interrupt.sh/blog/dockerfile-tags/",
+      "title": "Use digests, not tags, in your Dockerfiles",
+      "description": "How mutable Docker tags can pwn your builds."
+    },
+    {
+      "link": "https://interrupt.sh/blog/discovering-domains-via-ns-correlation/",
+      "title": "Discovering domains via NS correlation",
+      "description": "A simple OSINT technique for discovering related domains."
+    },
+    {
+      "link": "https://interrupt.sh/blog/certificate-transparency/",
+      "title": "Alternative uses for Certificate Transparency",
+      "description": "What certificate transparency is, and some clever ways to use it beyond its original purpose."
+    }
+  ]
+}

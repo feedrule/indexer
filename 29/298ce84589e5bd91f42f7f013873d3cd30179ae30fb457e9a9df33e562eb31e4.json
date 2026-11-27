@@ -1,0 +1,20 @@
+{
+  "url": "https://royans.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://royans.github.io//security/ssh/honeypot/ai/experiment/2026/01/04/Building-FauxSSH-an-interesting-experiment.html",
+      "title": "Building FauxSSH: An interesting experiment",
+      "description": "I’ve always been fascinated by honeypots. Recently, I decided to run an experiment: Could I build a convincing high-interaction SSH honeypot in just a few days, using Google’s Antigravity and Gemini models as my coding assistants?"
+    },
+    {
+      "link": "https://royans.github.io//security/honeypot/genai/2025/12/28/Smarter-honeypots-using-GenAI-v2.html",
+      "title": "Smarter Honeypots v2 - Using GenAI for High-Fidelity Contextual Deception",
+      "description": "Abstract"
+    },
+    {
+      "link": "https://royans.github.io//llm/code/execution/cryptographic/2025/12/23/the-cryptographic-wall-fast-external-verification-of-code-execution.html",
+      "title": "The Cryptographic Wall - Fast External Deterministic Verification of LLM Code Execution",
+      "description": "Abstract"
+    }
+  ]
+}

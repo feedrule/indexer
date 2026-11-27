@@ -1,0 +1,20 @@
+{
+  "url": "https://kernelkennel.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+      "title": "Where are the third places for learners?",
+      "description": "A detailed commentary of the lack of middle spaces between application of high-level knowledge and learning low-level topics."
+    },
+    {
+      "link": "https://kernelkennel.com/blog/migration-zola/",
+      "title": "Moving to Zola",
+      "description": "Simple update on moving from BARF to Zola for SSG."
+    },
+    {
+      "link": "https://kernelkennel.com/blog/ruxmon-slides/",
+      "title": "Ruxmon Talk - Rosetta2 game hacking",
+      "description": "A post that shows the slides for my talk at Ruxmon in 2025."
+    }
+  ]
+}

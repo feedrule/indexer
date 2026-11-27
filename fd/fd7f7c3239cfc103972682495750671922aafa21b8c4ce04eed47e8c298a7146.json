@@ -1,0 +1,20 @@
+{
+  "url": "https://www.shayon.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://www.shayon.dev/post/2026/283/versioned-filesystem-for-disposable-sandboxes/",
+      "title": "A versioned filesystem for disposable sandboxes",
+      "description": "livedraftsandbox 1$ python sync_leads.pysandbox 2$ node enrich.jssandbox 3, days later$ python report.py41424344reads 43branch/mainfork, nothing copiedbranch/drafta sandbox on the draft$ python score_v2.pyEach sandbox commits a new snapshot to the volume, live keeps moving forward, and a draft forks off snapshot 43 without copying anything. At Tines we built 3B around a simple idea, which is that"
+    },
+    {
+      "link": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+      "title": "Every fast write moves work somewhere else",
+      "description": "Every storage engine has to decide what must finish before it tells a client that a write succeeded. The quickest answer is to return after copying the bytes into memory. A local durable write waits for fdatasync() on an SSD in the database host. Keeping the write after that host disappears means waiting for a network volume, an object store, or several database servers to save their own copies. T"
+    },
+    {
+      "link": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+      "title": "Building a tiny FUSE filesystem",
+      "description": "Lately I have been working around sandboxing, storage, and networking, and a lot of that work keeps coming back to files, which makes sense since Unix has organized itself around everything is a file for over fifty years. Your terminal and random number generator are device files you can open and read (/dev/tty, /dev/urandom), and even network sockets, which are created with their own system call"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://kimmo.suominen.com/feed/atom/",
+  "posts": [
+    {
+      "link": "https://kimmo.suominen.com/blog/2026/11/shell-completions-for-tmuxp-and-tests/",
+      "title": "Shell completions for tmuxp (and tests)",
+      "description": "I updated misc/py-tmuxp to 1.82.0, and the package now installs shell completions for bash, fish and zsh. Getting there took a new package, an update to misc/py-libtmux, and a longer detour through the test suites than I had planned, although I guess I could have just skipped the tests. Completions tmuxp generates its completions with […]"
+    },
+    {
+      "link": "https://kimmo.suominen.com/blog/2026/11/checking-exposure-to-the-november-2026-php-security-releases/",
+      "title": "Checking exposure to the November 2026 PHP security releases",
+      "description": "PHP 8.5.13, 8.4.28, 8.3.37 and 8.2.36 were released today as security releases. The pre-announcement said that the issues rated CRITICAL “require either non-default configuration or uncommon setups.” The ChangeLog only lists advisory titles, so I went through all 17 advisories with Claude to see what those configurations are, and whether my servers have them. The […]"
+    },
+    {
+      "link": "https://kimmo.suominen.com/blog/2026/01/upgrading-to-freebsd-15/",
+      "title": "Upgrading to FreeBSD 15",
+      "description": "Some additional steps were necessary when upgrading to FreeBSD 15.0-RELEASE: freebsd-update upgrade -r 15.0-RELEASE freebsd-update install shutdown -r now freebsd-update install rm -rf \\ /usr/local/etc/pkg/repos/FreeBSD.conf \\ /var/db/pkg/FreeBSD.meta \\ /var/db/pkg/repo-FreeBSD.sqlite \\ /var/db/pkg/repos/FreeBSD \\ /var/db/pkg/repos/FreeBSD-kmods pkg bootstrap -f pkg update pkg upgrade pkg install"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://irhuru.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://irhuru.github.io/blog/human-like-as-good/",
+      "title": "Human-like isn't the same as good: Rethinking Conversational AI's North Star",
+      "description": "There's an assumption baked into most conversational AI roadmaps that nobody really questions anymore: more human-like is better. Friendlier persona, more natural turn-taking, more emotional mirroring, all treated as obvious improvements, the same way \"more accurate\" or \"faster\" would be. But is that actually true? Or have we been chasing a proxy for quality and calling it the goal itself? Why hum"
+    },
+    {
+      "link": "https://irhuru.github.io/blog/prompt-literacy/",
+      "title": "Text is the new interface and not everyone speaks it well",
+      "description": "For most of computing history, the interface stood between you and the machine, and good UX meant designing that interface so a user's skill level stopped mattering much. LLMs quietly broke that deal. The interface is now a text box, and \"prompt engineering\" is mostly just writing well: knowing what you want, saying it clearly, structuring it so someone (or something) can follow your logic, etc. I"
+    },
+    {
+      "link": "https://irhuru.github.io/blog/user-expectations-cai/",
+      "title": "Stop blaming the interface: Conversational AI fails in the user's head first",
+      "description": "A lot of conversations with AI products go wrong. But if you dig into why these interactions really fail, you'll often find that the problem isn't in the interface at all, but it's psychological and it starts in the user's head, before they've even typed a word. Everyone walks into a conversation with a chatbot, voice assistant, or AI companion already carrying a set of expectations: about how sma"
+    }
+  ]
+}

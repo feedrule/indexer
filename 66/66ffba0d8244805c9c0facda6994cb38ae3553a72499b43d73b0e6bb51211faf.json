@@ -1,0 +1,20 @@
+{
+  "url": "https://supun.io/feed",
+  "posts": [
+    {
+      "link": "https://supun.io/ai-coding",
+      "title": "AI Coding Isn't Satisfying",
+      "description": "There's an AI-written PR open in my editor, waiting for a review for 4 days. It's only 3k lines. I have struggled reviewing it. Instead, I seem to prefer playing Manor Lords or writing a blog post like this to vent. This is unprecedented. There were better times when I managed to write and review larger PRs in one sitting. I started using AI for coding a couple of months back, and since then my ea"
+    },
+    {
+      "link": "https://supun.io/tls-mode",
+      "title": "An abstraction for handling TLS in self-hosted applications",
+      "description": "We recently made Hyvor Blogs self-hostable . While working on it, I came up with an opinionated abstraction - a way to reason about TLS handling in self-hosted applications. TLS Mode The core principle is to introduce a TLS_MODE configuration that supports the following values: auto : the application manages TLS external : a reverse proxy terminates TLS manual : the user provides the certificates"
+    },
+    {
+      "link": "https://supun.io/symfony-kill",
+      "title": "With --time-limit, does Symfony kill messenger consumers while a message is being handled?",
+      "description": "I was worried about that, and it appears Symfony does not kill messenger consumers while a message is being handled, only after the message is handled . This is true for all --limit , --memory-limit , --time-limit options. Let’s look at the code of the messenger:consume command ( source ): 1 // when --limit 2 $this-> eventDispatcher -> addSubscriber ( new StopWorkerOnMessageLimitListener ( $ limit"
+    }
+  ]
+}

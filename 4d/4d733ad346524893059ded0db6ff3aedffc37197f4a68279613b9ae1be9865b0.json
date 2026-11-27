@@ -1,0 +1,20 @@
+{
+  "url": "https://arunraghavan.net/feed/",
+  "posts": [
+    {
+      "link": "https://arunraghavan.net/2026/09/on-llms-and-free-software/",
+      "title": "On LLMs and free software",
+      "description": "Like many, I’ve been thinking a lot about the impact of LLMs on the free software community. In the GNOME community, there have been a couple of posts on Planet GNOME and Discourse , and assorted heated discussions on Matrix and Mastodon. We are not unique in this – there are similar conversations in the KDE and Debian communities as well. I think we should be actively working on figuring out how"
+    },
+    {
+      "link": "https://arunraghavan.net/2026/06/notes-from-the-pipewire-hackfest-2026-part-2/",
+      "title": "Notes from the PipeWire Hackfest 2026: Part 2",
+      "description": "(these notes are being posted in two parts to make the length more manageable, part 1 is here ) Continuing from where we left off, about topics discussed at the PipeWire hackfest in Nice… DSP features We discussed a number of features related to digital signal processing blocks which are typically realised on specialised hardware (often a DSP core that can directly interface with physical audio in"
+    },
+    {
+      "link": "https://arunraghavan.net/2026/06/notes-from-the-pipewire-hackfest-2026-part-1/",
+      "title": "Notes from the PipeWire Hackfest 2026: Part 1",
+      "description": "(these notes are being posted in two parts to make the length more manageable, part 2 is here ) The PipeWire community organised a hackfest in Nice , France, colocated with Embedded Recipes, the GStreamer hackfest, and a number of other events. In attendance were members of the upstream community, as well as folks interested in PipeWire from Collabora, Red Hat, Qualcomm, Stream Unlimited, Texas In"
+    }
+  ]
+}

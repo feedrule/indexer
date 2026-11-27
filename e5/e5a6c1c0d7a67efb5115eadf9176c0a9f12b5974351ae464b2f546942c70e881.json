@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bhekani.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.bhekani.com/posts/building-a-home-dashboard-on-an-android-tablet/",
+      "title": "Turning a Lenovo tablet into a home display",
+      "description": "I went looking for a digital photo frame and found a Lenovo tablet at the same price. Here's how I turned it into an always-on home display, with a WebView launcher you can use yourself."
+    },
+    {
+      "link": "https://www.bhekani.com/posts/were-building-the-culture-of-ai-work-right-now/",
+      "title": "We're building the culture of AI work right now",
+      "description": "Right now, every way we talk about AI at work is helping define what ownership, competence, and judgment look like in the AI era. We should be more deliberate about that."
+    },
+    {
+      "link": "https://www.bhekani.com/posts/the-real-bottleneck-in-your-agentic-workflow-is-you/",
+      "title": "The real bottleneck in your agentic workflow is you",
+      "description": "When an AI agent stops to ask you something, it's usually not a reasoning failure. It's a context-access failure. The fix isn't a smarter model. It's better systems for capturing the judgment trapped in your head."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jordanhollinger.com/posts.atom",
+  "posts": [
+    {
+      "link": "https://jordanhollinger.com/2025/12/04/i-love-designing-extension-apis/",
+      "title": "I love designing extension APIs",
+      "description": "At a previous job where I did 50/50 front-end/back-end work, we had to be HIPAA compliant. We also needed to support “offline mode” in the browser. This involved downloading data during sign in, fetching encryption keys from the backend, encrypting the data before writing it to browser storage, decrypting the data on-demand, and ensuring the encryption keys weren’t readily accessible after a sessi"
+    },
+    {
+      "link": "https://jordanhollinger.com/2025/12/03/my-feud-with-philip-glass/",
+      "title": "My feud with Philip Glass",
+      "description": "Philip Glass is a well-known late-20th century American composer and pianist. I personally enjoy some of his work (e.g. Mad Rush ). Other pieces are interesting but… less accessible . I have my father to thank for introducing me to his music, as well as many other classical and contemporary composers. But I have no direct connection to Mr. Glass. A few years ago Geico suddenly began addressing me"
+    },
+    {
+      "link": "https://jordanhollinger.com/2024/08/20/am-i-about-to-be-arrested/",
+      "title": "Am I about to be arrested?",
+      "description": "It’s Thursday. As is my custom, I’m working on my laptop out of a coffee shop in downtown Lexington. My mind deep in some code I’m rather proud of, I hit Ignore on an incoming local call flagged as potential spam. (That describes most of my calls.) They immediately call back. That’s new. Well, the warning has been wrong before. I answer. I’m greeted by the Fayette County Sheriff’s Department. Am I"
+    }
+  ]
+}

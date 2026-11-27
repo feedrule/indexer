@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hakstuff.net/blog?format=rss",
+  "posts": [
+    {
+      "link": "https://www.hakstuff.net/blog/osint-research-on-the-new-bmw-idc-evo",
+      "title": "OSINT: Research on the New BMW IDC EVO Platform",
+      "description": "BMW recently revealed the BMW iX3 and i3 Sedan, some of their latest vehicles based on their new “Neue Klasse” platform/architecture. Peeking at photos of the new interior, I couldn’t help but notice: They seem to have a new infotainment system! The latest cars have a system that includes four displays (three panoramic displays embedded into the dashboard and one tablet-style one in the center), s"
+    },
+    {
+      "link": "https://www.hakstuff.net/blog/teardown-rivian-r1s-axm-module",
+      "title": "Teardown: Rivian R1S Autonomy eXperience Module (AXM) 1.0",
+      "description": "Today we’ll be performing a teardown and analysis of the Rivian “Autonomy eXperience Module”, or AXM. The AXM is a core part of the Rivian R1S and R1T vehicles, controlling driver assistance, media playback, infotainment display, and essentially all ADAS/infotainment tasks in the vehicle!"
+    },
+    {
+      "link": "https://www.hakstuff.net/blog/car-hacking-and-vulnerability-reporting-in-2026",
+      "title": "Car Hacking and Vulnerability Reporting in 2026",
+      "description": "Now that we’re fresh into the start of 2026, I thought it would be interesting to take a look back at the state of automotive cybersecurity. To do this, I wanted to answer the question of: What is the state of automotive vulnerability reporting in 2026?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://www.bryanthornbury.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://bryanthornbury.com/posts/fast-forced-alignment/",
+      "title": "Fast Forced Alignment: Finding Where the Words Go",
+      "description": "A visual introduction to CTC forced alignment and the CUDA kernels that make it up to 1000× faster than the tested implementations."
+    },
+    {
+      "link": "https://bryanthornbury.com/posts/intuitive-understanding-ai-diffusion-models/",
+      "title": "An Intuitive Understanding of AI Diffusion Models",
+      "description": "An explanation of my personal intuitive understanding of diffusion models."
+    }
+  ]
+}

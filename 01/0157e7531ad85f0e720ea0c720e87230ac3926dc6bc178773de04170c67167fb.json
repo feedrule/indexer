@@ -1,0 +1,20 @@
+{
+  "url": "https://tristandunn.com/feed",
+  "posts": [
+    {
+      "link": "https://tristandunn.com/2026/11/13/replacing-ynab-with-custom-budget",
+      "title": "Replacing YNAB with a Custom Budget Application",
+      "description": "After using YNAB for about ten years, I finally grew tired of the increasing annual price and the endless features that made it feel like it was targeting a completely different audience. I understand the company has to cater to new, less technical users, but I found it frustrating as an experienced user. In January I started building Budget , a minimal and focused envelope-based budgeting applica"
+    },
+    {
+      "link": "https://tristandunn.com/2026/02/03/resurrecting-crimsonland",
+      "title": "Resurrecting Crimsonland",
+      "description": "Some games die quietly. They get delisted, lose their multiplayer servers, fade into the digital void. Others get remastered by the original authors with slightly better graphics and a battle pass. And then there’s the third way: you open the binary in ghidra and start naming functions. I played this top-down shooter from 2003 with my roommates, and recently remembered the gameplay but couldn’t re"
+    },
+    {
+      "link": "https://tristandunn.com/2026/01/28/customizing-claude-code-spinner",
+      "title": "Customizing the Claude Code Spinner",
+      "description": "Claude Code just added a spinnerVerbs setting that lets you customize the rotating status text shown while it’s working. By default, there are 52 gerunds that cycle through, but now you can replace them with your own. For example, to set a static “Working” message instead of the rotating verbs, add this to your ~/.claude/settings.json file: { \"spinnerVerbs\" : { \"mode\" : \"replace\" , \"verbs\" : [ \"Wo"
+    }
+  ]
+}

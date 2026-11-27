@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mplanchard.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.mplanchard.com/posts/breaking-up-with-1password-after-15-years.html",
+      "title": "Breaking Up with 1Password after 15 Years",
+      "description": "After 15 years, 1Password's response to my concerns about their donations to Omarchy prompted me to switch to Proton Pass."
+    },
+    {
+      "link": "https://blog.mplanchard.com/posts/maintaining-git-history-when-spinning-out-a-subdirectory.html",
+      "title": "Maintaining Git History when Spinning Out a Subdirectory",
+      "description": "A quick summary of how to maintain git history when moving a subdirectory of a larger project out into its own repository, e.g. when open sourcing a monorepo component."
+    },
+    {
+      "link": "https://blog.mplanchard.com/posts/async-rust-patterns-send-a-sender.html",
+      "title": "Async Rust Patterns: Send a Sender",
+      "description": "Another quick pattern overview and/or reminder for those of us like myself who sometimes miss the obvious: if you need to get a message from some background task, to which you already have the Sender side of a Sender/Receiver pair, rather than creating a new inverse Sender/Receiver pair and dealing with the hassle of storing them, you can just make a quick Sender and send that through the existing"
+    }
+  ]
+}

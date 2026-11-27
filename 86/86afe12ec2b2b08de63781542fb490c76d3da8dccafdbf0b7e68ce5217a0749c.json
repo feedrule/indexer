@@ -1,0 +1,20 @@
+{
+  "url": "https://www.lihaoyi.com/feed.xml",
+  "posts": [
+    {
+      "link": "http://www.lihaoyi.com/post/JoiningAMItoworkonWorldModels.html",
+      "title": "Joining AMI to work on World Models",
+      "description": "In June this year I joined AMI Labs , a company trying to develop the next generation of AI models that go beyond the limits of the LLMs and image/video-gen models that are ubiquitous today. This post discusses why among all the AI companies out there, I thought AMI's mission and vision were interesting to me, and why I ended up joining AMI to help drive that vision forward. NOTE: I am not a ML/AI"
+    },
+    {
+      "link": "http://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html",
+      "title": "Golden Literal Testing in uTest 0.9.0",
+      "description": "uTest is a small unit testing library I maintain that aims for simplicity and convenience. This blog post explores the Golden testing feature newly-added in uTest 0.9.0: why it is necessary, what it does, and how it works internally. This feature was inspired by the Jane Street blog post What if writing tests was a joyful experience ."
+    },
+    {
+      "link": "http://www.lihaoyi.com/post/12yearsofthecomlihaoyiScalaPlatform.html",
+      "title": "12 years of the com.lihaoyi Scala Platform",
+      "description": "The com.lihaoyi platform is an ecosystem of Scala tools and libraries that allow you to write Scala in a way that is easy , rather than powerful. This post discusses the history of the com.lihaoyi platform, how it came about and evolved over the past decade, and what role I think it may play in the future of the Scala language."
+    }
+  ]
+}

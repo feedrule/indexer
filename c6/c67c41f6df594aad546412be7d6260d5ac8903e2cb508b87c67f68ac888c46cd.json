@@ -1,0 +1,20 @@
+{
+  "url": "https://hnnng.space/blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://hnnng.space/blog/software-defaults-2026/",
+      "title": "Software Defaults 2026",
+      "description": "Checking my RSS reader recently I came across David Bushells \"App Defaults 2026\" blog post , where he gives an overview of his current software tooling. I do enjoy learning about other peoples setups, especially when they are using tools diverging from the usual popular choices. So I decided to start off my blog this year (it's about time!) with a similar post. Enjoy! OS: Arch Linux Arch Linux has"
+    },
+    {
+      "link": "https://hnnng.space/blog/configure-predefined-tmux-windows/",
+      "title": "Configure predefined tmux windows",
+      "description": "For quiet some time now tmux has become one of my day-to-day core tools. With time I also adopted and refined a set of tmux windows I create everyday to keep my tools sorted (like a window for timetracking for example). So why create these windows everytime I start tmux? There should be a way to configure these once, right? And actually there is a pretty simple way. So simple even that it made me"
+    },
+    {
+      "link": "https://hnnng.space/blog/bookmark-spotlight-22/",
+      "title": "Bookmark Spotlight 22",
+      "description": "Accessibility Truths about digital accessibility Creating, maintaining, or evaluating accessible technology? Here are some things to keep in mind. ericwbailey Eric Bailey Considerations for making a tree view component accessible A deep dive on the work that went into making the component that powers repository and pull request file trees. The GitHub Blog Eric Bailey Design Not a roadmap! Recent,"
+    }
+  ]
+}

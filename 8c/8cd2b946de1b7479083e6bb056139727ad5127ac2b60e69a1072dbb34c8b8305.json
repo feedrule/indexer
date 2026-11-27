@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.tenstral.net/feed",
+  "posts": [
+    {
+      "link": "https://blog.tenstral.net/2026/11/new-fdo-website.html",
+      "title": "Changes on freedesktop.org!",
+      "description": "Today we launched a change that has been a long time in the making: The updated website for freedesktop.org, as well as the refreshed wiki.freedesktop.org are live now! You can read the announcement here, this blog post elaborates a bit on it and on the background of the changes, as well as future plans. Why […]"
+    },
+    {
+      "link": "https://blog.tenstral.net/2026/09/jpeg-xl-appstream-and-better-media-processing.html",
+      "title": "JPEG-XL as default in AppStream, and better media processing",
+      "description": "Two weeks ago, I released AppStream 1.2.0. This release contains a lot of great changes, but one of the most important ones concerns how media are being handled, and AppStream’s default image export format. AppStream is a Freedesktop metadata standard to describe software components. That can be anything from system services over fonts to console […]"
+    },
+    {
+      "link": "https://blog.tenstral.net/2026/08/sovereign-tech-fellowship-for-freedesktop-tasks.html",
+      "title": "Sovereign Tech Fellowship for Freedesktop Tasks",
+      "description": "In 2025 I was honored to be selected for the first cohort of Sovereign Tech Fellows, a program by Germany’s Sovereign Tech Agency to improve the resilience of the open source ecosystem by supporting maintainers directly (complementing their existing support for larger FOSS organizations). Back in 2025, I was only working very limited hours – […]"
+    }
+  ]
+}

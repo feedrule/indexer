@@ -1,0 +1,20 @@
+{
+  "url": "https://isayeter.com/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233/month With Zero Downtime",
+      "description": "A real-world production migration from DigitalOcean to Hetzner dedicated, handling 248 GB of MySQL data across 30 databases, 34 Nginx sites, GitLab EE, Neo4j, and live mobile app traffic — with zero downtime. Why We Migrated Running a software company in Turkey has become increasingly expensive over the last few years. Skyrocketing inflation and a dramatically weakening Turkish Lira against the US"
+    },
+    {
+      "link": "https://isayeter.com/posts/reverse-engineering-gsm/",
+      "title": "How I Reverse-Engineered one of the biggest GSM Operator's application.",
+      "description": "This is a story of how I found a critical bug in one of the biggest GSM Operator’s application in our country. That bug allows me to login to any user account that I want, without a password. After logging into an account, there was endless possibility what you can do, like forwarding all calls, reading his messages, fetching all invoices etc. So, that was a serious BUG and reported to the company"
+    },
+    {
+      "link": "https://isayeter.com/posts/six-degrees-of-separation/",
+      "title": "First Proof of \"Six Degrees Of Separation\"",
+      "description": "Three months ago, I was talking with my friend about the COVID-19 virus. COVID-19 has taken the whole world under its influence in a very short time. So how is it that the planet we live on can succumb to a virus that spread from only one person in such a short amount of time? Well, if I told you that you can reach everyone in the world through a maximum of six people by following the path of your"
+    }
+  ]
+}

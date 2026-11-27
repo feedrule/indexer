@@ -1,0 +1,20 @@
+{
+  "url": "https://nothing-so-practical.com/index.xml",
+  "posts": [
+    {
+      "link": "https://nothing-so-practical.com/post/do-the-do-calc/",
+      "title": "do-calculus for Humans",
+      "description": "do-Calculus for Humans Pearl’s structural approach to causal inference is built around DAGs (directed acyclic graphs). In many cases, applying this framework boils down to measuring and adjusting for confounding variables. A key insight is that when working with purely observational data, controlling for all confounders can be equivalent to assigning the treatment level, as we would in an experime"
+    },
+    {
+      "link": "https://nothing-so-practical.com/post/causal-inference-is-hard/",
+      "title": "Causal Inference Is Hard",
+      "description": "Causal Inference Is Hard The first post argued that causal inference is simply a matter of ruling out rival explanations. That sounds pretty straightforward, but it’s not. Rival explanations can be hard to identify, hard to measure, and hard to eliminate. Overlook a confound, measure it poorly, or choose an inadequate study design, and causal inference fails. No matter how sophisticated the method"
+    },
+    {
+      "link": "https://nothing-so-practical.com/post/causal-inference-is-easy/",
+      "title": "Causal Inference Is Easy",
+      "description": "Causal Inference Is Easy Causal inference seems to be having a moment. Why the sudden interest? The tech industry’s belated realization that correlation really doesn’t equal causation, no matter how big the data, could have something to do with it. It might also be that we’ve collectively worked through all the easy prediction problems and now need to answer harder questions about why things happe"
+    }
+  ]
+}

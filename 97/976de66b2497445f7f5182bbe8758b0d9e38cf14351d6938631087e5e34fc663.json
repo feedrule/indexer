@@ -1,0 +1,20 @@
+{
+  "url": "https://lukas.im/atom.xml",
+  "posts": [
+    {
+      "link": "https://lukas.im/2026/06/02/debian-13-on-bluefield-2/",
+      "title": "Setting up Debian 13 on a Bluefield 2 as a standalone system",
+      "description": "Somebody recently nudged me into the direction of NVIDIAs Bluefield 2 cards being a weird but fun system to play around with, so I did exactly that and I wanted to get rid of the vendor kernel and instead use a modern(ish) distro with a mainline kernel. Funnily enough that wasn’t actually too hard. In my case I got some DELL cards, part number 0JNDCM. They have 32GB of memory and 128GB of EMMC sto"
+    },
+    {
+      "link": "https://lukas.im/2022/06/03/change-boot-logo-on-thinkpad-x13/",
+      "title": "Change boot logo on ThinkPad X13",
+      "description": "I had problems changing the boot logo on my ThinkPad X13 the official way. Using the Windows updater it silently failed, always showing the original logo instead. Using the bootable ISO updater it just showed various error messages (that had 0 results on google, wtf). After some playing around I found a reliable way. Prepare boot logo First of all prepare your boot logo. Lenovo says it can be JPG,"
+    },
+    {
+      "link": "https://lukas.im/2025/04/03/extreme-networks-vulnerabilities/",
+      "title": "Security vulnerabilities in AeroHive/Extreme Networks access points",
+      "description": "During my work for the Mobile Communications Lab at Hochschule Bonn-Rhein-Sieg I found some rather severe security vulnerabilities in AeroHive/Extreme Networks WiFi access points. It all started with a few cheap used devices whose firmware I wanted to take a closer look at to make them more suitable for a few use cases I had in mind. While digging around I stumbled over multiple vulnerabilities, r"
+    }
+  ]
+}

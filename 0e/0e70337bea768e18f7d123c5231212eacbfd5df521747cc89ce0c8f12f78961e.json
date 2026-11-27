@@ -1,0 +1,20 @@
+{
+  "url": "https://alexsci.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/",
+      "title": "The race to secure record-like information for domains",
+      "description": "How can applications securely manage domain configuration?"
+    },
+    {
+      "link": "https://alexsci.com/blog/preparing-to-change-the-clocks/",
+      "title": "Preparing to change the clocks",
+      "description": "How to manually set a clock, twice a year, with precision"
+    },
+    {
+      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "description": "When timestamps aren’t time-ordered and other oddities"
+    }
+  ]
+}

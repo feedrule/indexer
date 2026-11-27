@@ -1,0 +1,20 @@
+{
+  "url": "https://jin.codes/rss.xml",
+  "posts": [
+    {
+      "link": "https://jin.codes/llm-as-a-web-server/",
+      "title": "LLM as a Web Server",
+      "description": "I built a site where every new page is generated live by an LLM instead of a template. Here's what happens when the model is the entire UI layer."
+    },
+    {
+      "link": "https://jin.codes/mythos-unchained/",
+      "title": "Mythos Unchained?",
+      "description": "Anthropic just confirmed two of my key suspicions about why Mythos took so long to ship."
+    },
+    {
+      "link": "https://jin.codes/token-subs-are-dead-long-live-token-subs/",
+      "title": "Token subs are dead! Long live token subs!",
+      "description": "Subs aren't a rug pull waiting to happen, they're how frontier labs soak up spare inference capacity."
+    }
+  ]
+}

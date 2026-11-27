@@ -1,0 +1,20 @@
+{
+  "url": "https://cdouglas.github.io/feed",
+  "posts": [
+    {
+      "link": null,
+      "title": "Inverting Iceberg Snapshots with Compaction Maps",
+      "description": "Using compaction maps to invert delta commits to reference newer layouts, rather than the snapshots from which they derived."
+    },
+    {
+      "link": null,
+      "title": "Compaction Maps",
+      "description": "Repairing conflicts caused by layout changes in table formats"
+    },
+    {
+      "link": null,
+      "title": "Simulating Multi-Table Contention in Catalog Formats",
+      "description": "Simulating multi-table commit rates across S3, Azure, and GCS for Apache Iceberg catalog-as-file commits."
+    }
+  ]
+}

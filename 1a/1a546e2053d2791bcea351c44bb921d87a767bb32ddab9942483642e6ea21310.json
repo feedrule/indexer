@@ -1,0 +1,20 @@
+{
+  "url": "https://avanelsas.github.io/foggy-glasses/feed.xml",
+  "posts": [
+    {
+      "link": "https://avanelsas.github.io/foggy-glasses/on-ethical-lines-morally-abject-software-too-much-stuff-and-life/",
+      "title": "On ethical lines, morally abject software, too much stuff and life",
+      "description": "The world I am confronted with professionally seems to be divided in two. Either you use LLMs to do a job, or you reject them. I've noticed that the people rejecting them believe that it should be rejected on both moral and ethical grounds. The people that use them often seem…"
+    },
+    {
+      "link": "https://avanelsas.github.io/foggy-glasses/indifference-is-killing-open-source-software/",
+      "title": "Indifference is killing open-source software",
+      "description": "Looking at news sources for developers these days is a daunting task. Daily I see new projects and implementations of incredibly ambitious nature. On a typical day you might see announcements of people coding something in assembly, porting language A to platform B,…"
+    },
+    {
+      "link": "https://avanelsas.github.io/foggy-glasses/static-site-comments-using-babashka-and-google-sheets/",
+      "title": "Static site comments using Babashka and Google Sheets",
+      "description": "I wanted to extend my current static blog generator BareBlog with the possibility to add a comments section. Since the blog is generated as a static site and published to Github Pages, this leaves me with several somewhat unattractive potential solutions."
+    }
+  ]
+}

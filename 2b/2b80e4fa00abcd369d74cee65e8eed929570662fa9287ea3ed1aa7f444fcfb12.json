@@ -1,0 +1,20 @@
+{
+  "url": "https://scolton.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://scolton.blogspot.com/2026/11/screen-shaker-rgb-triple-laser.html",
+      "title": "Screen Shaker: RGB Triple Laser Projector Speckle Reduction",
+      "description": "A while ago, I shot this quick video showing how a pixel-shifting DLP projector works: It was mostly just an interesting subject for playing around with high-speed cameras, but I've also been interested in projector technology ever since ditching my TV for one. The one shown in that video used a white light source (I can't remember what type, but not laser) and an RGB color wheel. The base frame r"
+    },
+    {
+      "link": "https://scolton.blogspot.com/2026/05/tinycross-ice-racing-next-updates.html",
+      "title": "TinyCross: Ice Racing + Next Updates",
+      "description": "Earlier this year, I got to do some TinyCross ice racing on a frozen lake: Thanks to Dane for organizing the event; there were over a dozen crazy ice vehicles. TinyCross wasn't the fastest, but the combination of four-wheel-drive, independent suspension, and traction control really helped it get off the line quickly and pull itself through ruts left in the slushy top layer by other vehicles. Overa"
+    },
+    {
+      "link": "https://scolton.blogspot.com/2025/02/gandr-power-loop-measurement-and.html",
+      "title": "GaNDr: Power Loop Measurement and Optimization",
+      "description": "In a half-bridge configuration, the power loop is the path from the DC bus capacitor positive terminal to the output switch node and back to the capacitor negative terminal. This is the path of high dI/dt, passing through both FETs in the half-bridge. It's important to keep this loop as small as possible, to reduce the amount of parasitic inductance interacting with the high dI/dt. This applies to"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://davidederosa.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://davidederosa.com/2026/08/i-joined-the-rewrite-bandwagon/",
+      "title": "I joined the rewrite bandwagon",
+      "description": "TL;DR Yes, I rewrote Partout from Swift to Zig with AI. No, it wasn’t one prompt. In late 2024, I started venting the idea of making Passepartout available beyond the Apple platforms, and this blog testifies how much I dedicated myself to making the original Swift/ObjC codebase cross-platform for more than a year. Cross-platform Swift Around March 2025, I evaluated a few options that made sense at"
+    },
+    {
+      "link": "https://davidederosa.com/cross-platform-swift/closing/",
+      "title": "Cross-platform Swift: Closing",
+      "description": "Moving on While I don’t usually leave my projects incomplete, especially with the finish line in sight (“Architecture” was supposed to be the very last topic), I’m going to end this series a little earlier than planned. Many things have changed in software over the last year, and what looked like a legit effort a year ago has become increasingly harder to justify today. As much as I love Swift as"
+    },
+    {
+      "link": "https://davidederosa.com/cross-platform-swift/architecture-part-one/",
+      "title": "Cross-platform Swift: Architecture (pt. 1)",
+      "description": "It’s been a while since the announcement of the last post, but I finally found the time to kickstart the last part of this series. Today, we start gathering all the previous research to make Swift and non-Swift apps that share a common Swift library. You will find the source code on GitHub as usual. The simple app layout The idea is straightforward: we want to make apps with a native UI and a shar"
+    }
+  ]
+}

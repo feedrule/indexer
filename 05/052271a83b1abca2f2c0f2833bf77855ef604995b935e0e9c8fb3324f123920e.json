@@ -1,0 +1,20 @@
+{
+  "url": "https://kabirk.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://kabirk.com/noticing",
+      "title": "Three levels of noticing",
+      "description": "I see, but I do not observe."
+    },
+    {
+      "link": "https://kabirk.com/music-26",
+      "title": "What I'm listening to, mid-2026",
+      "description": "A collection of songs that I've enjoyed this year so far."
+    },
+    {
+      "link": "https://kabirk.com/multilingual",
+      "title": "SWE-bench Multilingual",
+      "description": "Introducing a new dataset in the SWE-bench family with 300 curated tasks in 9 programming languages to evaluate LLMs on software engineering tasks."
+    }
+  ]
+}

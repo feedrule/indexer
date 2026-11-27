@@ -1,0 +1,20 @@
+{
+  "url": "https://thegrahams.au/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Your AI Output Is Fine. That's the Problem.",
+      "description": "The convergent/divergent framework from my AI pipeline project was a theory built on one domain. I tested it against Anthropic’s knowledge-work-plugins across six domains, then against a professional reasoning benchmark. Pipeline won in five of the original six, then lost on the benchmark — and the failure sharpened the thesis into something more honest: pipelines earn their cost only when the cor"
+    },
+    {
+      "link": null,
+      "title": "Context Carries Cognitive Mode",
+      "description": "I removed a quality-checking section from an AI prompt. The prompt got smaller. The output got deeper. Same model, same data, 70% of the context window unused. This wasn’t a capacity problem."
+    },
+    {
+      "link": null,
+      "title": "Context Carries Cognitive Mode — Evidence & Methods",
+      "description": "The companion evidence post to ‘Context Carries Cognitive Mode’ — containing the full experiment designs, version comparisons, and claims tables. Each section is self-contained. Every claim is mapped to its evidence and its limitations."
+    }
+  ]
+}

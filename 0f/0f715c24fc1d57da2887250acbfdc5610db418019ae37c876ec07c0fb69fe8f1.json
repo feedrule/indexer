@@ -1,0 +1,20 @@
+{
+  "url": "https://cannibalcode.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://cannibalcode.com/blog/2026-10-21-why-your-monorepo-has-two-copies-of-your-singleton/",
+      "title": "Why your monorepo has two copies of your singleton",
+      "description": "=== was true in dev and false in prod"
+    },
+    {
+      "link": "https://cannibalcode.com/blog/2026-10-20-i-argued-ioc-was-pointless/",
+      "title": "I argued IoC was pointless in JavaScript, forgetting I’d published my own container to npm",
+      "description": "Why I built ioc-manifest: convention-based DI codegen for TypeScript and Awilix"
+    },
+    {
+      "link": "https://cannibalcode.com/blog/2026-08-your-status-enum-lives-in-five-files/",
+      "title": "Your status enum lives in five files",
+      "description": "And the as const trick everyone reaches for only fixes one of them"
+    }
+  ]
+}

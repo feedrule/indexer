@@ -1,0 +1,20 @@
+{
+  "url": "https://darios.blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://darios.blog/posts/how-not-to-communicate-production-issue",
+      "title": "How not to communicate a production incident",
+      "description": "AWS had a production issue on Friday and gave a good example of how not to talk to your customers."
+    },
+    {
+      "link": "https://darios.blog/posts/owning-technical-decisions-in-the-age-of-ai",
+      "title": "Owning technical decisions in the age of AI",
+      "description": "Using an LLM to help you write a technical proposal is fine, but don't forget that the accountability for that proposal and the code behind it is still yours."
+    },
+    {
+      "link": "https://darios.blog/posts/your-saas-works-perfectly-until-real-users-show-up",
+      "title": "Your SaaS works perfectly, until real users show up",
+      "description": "Your SaaS works great until real humans (and their ad-blockers, auto-translators, and bot friends) prove you wrong."
+    }
+  ]
+}

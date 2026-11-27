@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/ArtemErvits",
+  "posts": [
+    {
+      "link": "http://blog.ervits.com/2026/11/copy-this-brief.html",
+      "title": "Copy This Brief: A Coordinator Agent Plus Cross-Vendor Review",
+      "description": "A written brief at the center, with review coming in from the sides. In Green Tests, Broken App , I changed how fixes get built: one AI coordinator plans the work, builders write the code, and LLMs from other vendors review every piece. In The Bug Was in the Instruction, Not the Code , those reviewers caught the coordinator's own instructions being wrong. Those posts are the stories. This one is t"
+    },
+    {
+      "link": "http://blog.ervits.com/2026/11/bug-was-in-instruction-not-code.html",
+      "title": "The Bug Was in the Instruction, Not the Code",
+      "description": "Three builders, one instruction, and a crack in the instruction. In one release, the reviewers caught the coordinator's own instructions being wrong three times. Not the builders' code. The instructions. I use AI agents to fix my assistant app. In Green Tests, Broken App , I ended with a rule: one coordinator plans and checks the work, builders from three vendors write the fixes, and every piece i"
+    },
+    {
+      "link": "http://blog.ervits.com/2026/11/green-tests-broken-app.html",
+      "title": "Green Tests, Broken App: One Coordinator and Three AI Agents",
+      "description": "A smoke detector with a green light is not proof that it works. The light only says the battery is in. To know, you press the button and listen. This post is about the week I stopped trusting the green light on my own app, pressed the button, and changed how the fixes get built. In my last post, Five Reviews in One Release , I ended with one question to ask about every fix: what else does this tou"
+    }
+  ]
+}

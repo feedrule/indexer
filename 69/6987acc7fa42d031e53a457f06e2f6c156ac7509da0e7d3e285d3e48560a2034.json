@@ -1,0 +1,20 @@
+{
+  "url": "https://ferjorosa.github.io/feed",
+  "posts": [
+    {
+      "link": "https://ferjorosa.github.io/blog/2026/01/02/llms-probailistic-reasoning.html",
+      "title": "How do language models solve Bayesian network inference?",
+      "description": "Exploring how frontier LLMs approach probabilistic inference on Bayesian networks, comparing their reasoning strategies against the traditional Variable Elimination algorithm."
+    },
+    {
+      "link": "https://ferjorosa.github.io/blog/2025/12/11/reflections-ai-creativity.html",
+      "title": "Some reflections on AI and Creativity",
+      "description": "Can we use AI as a tool without losing ourselves? I think so, as long as we stay connected to why we create things in the first place."
+    },
+    {
+      "link": "https://ferjorosa.github.io/blog/2025/08/07/decision-theory-III.html",
+      "title": "Introduction to Decision Theory: Part III",
+      "description": "Deep dive into sensitivity analysis for decision problems, implementing the oil field purchase decision using PyAgrum's library, and creating an interactive web interface with Gradio to explore how changes in probabilities and utilities affect optimal decisions."
+    }
+  ]
+}

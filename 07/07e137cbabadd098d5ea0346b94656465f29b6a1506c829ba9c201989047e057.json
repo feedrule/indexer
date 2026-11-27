@@ -1,0 +1,20 @@
+{
+  "url": "https://rishabkumar.com/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://rishabkumar.com/blog/ai-agent-blast-radius/",
+      "title": "Your AI Agent Doesn't Need Less Power. It Needs a Smaller Blast Radius.",
+      "description": "Imagine giving an AI coding agent root access, Docker, and permission to run privileged containers, then telling it to destroy everything it can reach. That is exactly what I did live on stage at WeAreDevelopers World Congress North America. The agent succeeded. It deleted every container, image, volume, network, and build cache it could find. My host machine was fine. That result captures the mai"
+    },
+    {
+      "link": "https://rishabkumar.com/blog/migrating-my-blog-from-hashnode-with-codex/",
+      "title": "I Finally Migrated My Blog From Hashnode With Codex",
+      "description": "I have wanted to move my blog into my personal site for a while. Actually, I wanted to do this last year, but like a lot of side projects, it kept sitting on the list. I would think about it, open the repo, look at the amount of work, and then convince myself that Hashnode was fine for now. And honestly, Hashnode was fine. The issue was not that Hashnode was bad."
+    },
+    {
+      "link": "https://rishabkumar.com/blog/getting-more-out-of-codex/",
+      "title": "How I’m Getting More Out of Codex",
+      "description": "I started using Codex the obvious way: point it at a repo, ask it to make a change, run the tests, and help me clean up the diff. That is still useful. But lately, I’ve been using Codex for a lot more than just code. I use it to help with blog posts, talks, docs, Azure demos, browser testing, research, and random follow-ups that would otherwise sit in my head for too long."
+    }
+  ]
+}

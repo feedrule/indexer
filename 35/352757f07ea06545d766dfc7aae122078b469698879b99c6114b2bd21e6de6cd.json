@@ -1,0 +1,20 @@
+{
+  "url": "https://mbernste.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://mbernste.github.io/posts/perturbation_response_image_analysis/",
+      "title": "Backyard perturbation prediction: An analogy for virtual cell modeling",
+      "description": "As machine learning and AI have come to prominence, and as new technologies have come online for perturbing and measuring cells at scale, a renewed effort has emerged to develop virtual cells: computational models capable of predicting how biological cells respond to perturbations. In this blog post, I will present an analogy of the perturbation modeling task that I feel captures, to some loose de"
+    },
+    {
+      "link": "https://mbernste.github.io/posts/ai_quantity_quality/",
+      "title": "AI makes quantity cheap, but quality is still expensive. The net effect is more human work",
+      "description": "At the time of this writing (September 22, 2026), the quality gap between AI-generated output and the output produced by human experts has still not closed in most domains (coding and math being clear exceptions). In this post, I make two arguments. First, AI changes how we should plan projects: where project planning was once mostly about how much work could be produced in a given amount of time,"
+    },
+    {
+      "link": "https://mbernste.github.io/posts/metrics/",
+      "title": "A framework for making sense of metrics in technical organizations",
+      "description": "If you work in a quantitative or technical field, there is little doubt that you or your team has worked long and hard to define which metrics to measure and track. Using data-driven metrics is a critical practice for making rational decisions and deciphering truth in a complex and noisy world. However, as others have pointed out, an over-reliance on metrics can lead to poor outcomes. In an effort"
+    }
+  ]
+}

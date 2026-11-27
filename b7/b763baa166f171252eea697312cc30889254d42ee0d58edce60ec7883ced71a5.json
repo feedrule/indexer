@@ -1,0 +1,20 @@
+{
+  "url": "https://arjunprabhulal.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://arjunprabhulal.com/how-i-built-semantic-search-300m-academic-papers/",
+      "title": "How I Built Semantic Search Over 300 Million Plus Academic Papers",
+      "description": "What I learned building semantic paper search for Rivul AI on one machine: a retrieval funnel of BGE-small, FAISS IVF-PQ, INT8 re-scoring and title matching, plus ranking, filters and read-time fixes."
+    },
+    {
+      "link": "https://arjunprabhulal.com/graph-harness-loop-context/",
+      "title": "Four Layers of Agent Engineering",
+      "description": "Most agent bugs get blamed on the model. Most of them actually live in one of four layers: context, loop, harness, or graph. Here's how I tell them apart."
+    },
+    {
+      "link": "https://arjunprabhulal.com/ai-ml-essential-terms/",
+      "title": "Top 30 AI/ML Terms Every Developer Should Know",
+      "description": "A comprehensive glossary of 30 must-know AI and Machine Learning terms. From neural networks to RAG, transformers to agentic AI - explained simply."
+    }
+  ]
+}

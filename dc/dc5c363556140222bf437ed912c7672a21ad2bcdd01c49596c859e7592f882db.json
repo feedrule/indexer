@@ -1,0 +1,20 @@
+{
+  "url": "https://kdgregory.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.kdgregory.com/index.php?page=rv.tabitha",
+      "title": "A Year With Tabitha",
+      "description": "Tabitha is our 2025 nuCamp T@B 400 travel trailer. We brought her home on Black Friday 2024, and have spent the past year vacationing with her. This is the story of that experience, and the things we learned as newbie trailer owners."
+    },
+    {
+      "link": "https://www.kdgregory.com/index.php?page=rv.rental",
+      "title": "Green Peas on the Highway: A Week in a Rental Motorhome",
+      "description": "In 2020, we opted for a socially-distanced vacation. If you're thinking of doing the same, here are some things we learned."
+    },
+    {
+      "link": "https://www.kdgregory.com/index.php?page=swing.async",
+      "title": "Asynchronous Operations in Swing",
+      "description": "This article looks thread management in a Swing GUI. There's more to success than simply spinning up background threads for long-running operations: you need to get the results of these operations back to the user, control the sequencing of not-quite-independent operations, and provide feedback to the user while the operation is running."
+    }
+  ]
+}

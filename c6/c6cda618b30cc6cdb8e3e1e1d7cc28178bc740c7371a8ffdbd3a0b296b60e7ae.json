@@ -1,0 +1,20 @@
+{
+  "url": "https://latlong.blog/feeds/atom.xml",
+  "posts": [
+    {
+      "link": "https://latlong.blog/2026/11/cng-forum-session-recordings-are-now-on-youtube.html",
+      "title": "CNG Forum Session Recordings Are Now on YouTube",
+      "description": "Link: www.youtube.com The first batch of session recordings from last month’s CNG Forum are available on YouTube, showcasing the latest and greatest cloud-native geospatial technology and use cases. As of now, 44 recordings are online, with more to follow soon."
+    },
+    {
+      "link": "https://latlong.blog/2026/11/state-of-the-map-2027-is-coming-to-bogota.html",
+      "title": "State of the Map 2027 Is Coming to Bogotá",
+      "description": "Link: blog.openstreetmap.org The next State of the Map, the global gathering of OpenStreetMap enthusiasts, researchers and users, will take place in Bogotá, Colombia, 2–4 July 2027. From the announcement : We are excited to share that State of the Map (SotM), the international gathering of the OpenStreetMap community, will take place in Bogotá, Colombia in 2-4 July 2027! This edition will gather m"
+    },
+    {
+      "link": "https://latlong.blog/2026/11/tippecanoe-alternative-runs-45-times-faster-in-an-independent-test.html",
+      "title": "Tippecanoe Alternative Manby Runs 4.5 Times Faster in an Independent Test",
+      "description": "Link: birkskyum.github.io (via: bsky.app ) Manby , a new command-line tool for creating vector tiles, promises to be a drop-in replacement for Tippecanoe , while being faster and more memory efficient. The command options match Tippecanoe’s. It reads all the formats that Tippecanoe reads, plus GeoParquet sources from local files or remote object storage, and writes MapLibre Tiles in addition to Ma"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jacobkiers.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://jacobkiers.net/post/do-not-accept-router-advertisements-on-ix-links/",
+      "title": "Don't accept router advertisements on IX links",
+      "description": "To explore global networking, I run an IPv6-only Autonomous System . Like any network operator, I need routers. One of the routers is connected to an Internet Exchange LAN network. A while ago, I noticed that router was installing an extra IPv6 default route, which caused routing errors. I didn't give it much attention at that point. Earlier this week, I decided to find out what was happening. I n"
+    },
+    {
+      "link": "https://jacobkiers.net/post/alternating-current-and-relation-to-voltage/",
+      "title": "Alternating current and its relation to voltage",
+      "description": "Intro For a while now I am interested in electronics. So after some false starts, I started following a long course on it: Crash Course Electronics and PCB Design . Lecture 9 was about alternating current (AC), the kind of current that flows from a wall socket. I struggled to understand how it's voltage is determined, so I took a lot of notes. This is the result. Warning: algebra ahead. Also: ever"
+    },
+    {
+      "link": "https://jacobkiers.net/post/rust-cross-compilation-on-drone/",
+      "title": "Cross compiling Rust with Drone",
+      "description": "Why For a while now, I have been working on a personal project called newsletter2web , which I run on a Raspberry PI. As the title already indicates, it is written in Rust . Since compiling the project takes a while, especially on a Raspberry PI, I decided to investigate how to make it build automatically. That sounds like a job for continuous integration solution. But these tend to use quite a bi"
+    }
+  ]
+}

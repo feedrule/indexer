@@ -1,0 +1,20 @@
+{
+  "url": "https://sharphall.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://sharphall.org/posts/2026/Apr/20/nixos-is-magic.html",
+      "title": "NixOS is magic",
+      "description": "I’ve been using NixOS recently on my laptop, because I know how great declarative configuration is from my experience deploying software on servers with tools like Kubernetes and Terraform. Along the way, I’ve had a few experiences with it that have left me impressed with how powerful a declarative approach to the configuration of my personal computers can be. Declarative vs imperative If you’ve u"
+    },
+    {
+      "link": "https://sharphall.org/posts/2025/May/13/5-patterns-in-rust-that-are-kind-of-a-big-deal.html",
+      "title": "5 patterns in Rust that are kind of a big deal",
+      "description": "Recently I’ve been learning and building in Rust to the point where I’m feeling productive with it. Like many others, I’ve found the “The Rust Programming Language” book (or “the book” as my rustacean friends like to call it) to be an incredibly helpful resource. But as I’ve progressed beyond the book I’ve found that reading the source code of the standard library and the crates I was using was ex"
+    },
+    {
+      "link": "https://sharphall.org/posts/2025/Apr/27/notes-on-setting-up-hyprland.html",
+      "title": "Notes on setting up Hyprland",
+      "description": "I tried out the Hyprland tiling window manager today, and wrote up some notes that might make a useful cheatsheet for new users. Configuration, as it turns out , can get pretty involved. These notes are just intended to give a lay of the land, at times from the point of view of someone who wants to get it to work on Debian. Using Hyprland Unlike Gnome or KDE , Hyprland is extremely minimal, and a"
+    }
+  ]
+}

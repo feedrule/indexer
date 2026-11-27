@@ -1,0 +1,20 @@
+{
+  "url": "https://sir68k.re/index.xml",
+  "posts": [
+    {
+      "link": "https://sir68k.re/rh1/fw/",
+      "title": "Custom Firmware for the Sony MZ-RH1",
+      "description": "Custom Firmware for the Sony MZ-RH1 Modern usability improvements for Sony's last Hi-MD flagship recorder. Overview This custom firmware extends the original functionality of the MZ-RH1 while maintaining all existing capabilities. It introduces new features such as enhanced track information display and improved OLED brightness control. More configuration are now accessible directly on the device,"
+    },
+    {
+      "link": "https://sir68k.re/posts/rh1-firmware-available/",
+      "title": "Custom Firmware for the MZ-RH1 - Ready for Testing!",
+      "description": "A while ago I wrote about my early experiments with modifying the firmware of the Sony MZ-RH1, mainly driven by one long-standing annoyance: not being able to see track titles on the unit itself during playback. That post demonstrated a proof-of-concept, which was not ready for release. This time, things are a bit more serious. I’ve now completed the first public release of custom firmware for the"
+    },
+    {
+      "link": "https://sir68k.re/posts/rh1-firmware/",
+      "title": "Towards Custom Firmware for the MZ-RH1",
+      "description": "As some of you may know, I’ve been producing new displays for the MZ-RH1, with the goal to revive as many MZ-RH1s as possible. But sadly, even with new displays, the MZ-RH1 has some (in my opinion) flaws that at times make it feel more like a toy than an advanced MiniDisc recorder. One of the limitations is that it is impossible to view track titles during playback on the OLEDs. This is a real sha"
+    }
+  ]
+}

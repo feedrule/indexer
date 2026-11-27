@@ -1,0 +1,20 @@
+{
+  "url": "https://wolthera.info/feed/",
+  "posts": [
+    {
+      "link": "https://wolthera.info/2026/11/hdr-part-2-tone-and-gamut-mapping/",
+      "title": "HDR part 2: Tone and Gamut mapping",
+      "description": "One of the big things I wanted to achieve during this HDR project is to have a decent tone and gamut map filter, something Krita never had all these years, in spite of us having unbounded floating point editing as well as color management via LCMS that works with this unbounded floating point. The unbounded […]"
+    },
+    {
+      "link": "https://wolthera.info/2026/06/improving-hdr-handling-in-krita-part-1/",
+      "title": "Improving HDR Handling in Krita, Part 1.",
+      "description": "So, last road map discussion it was decided I would start working on HDR. This is partially because I have the hardware for it, as well as Krita now supporting the wayland color management protocol, so my hardware is actually being used appropriately. Furthermore, before I worked on text my specialization within Krita is its […]"
+    },
+    {
+      "link": "https://wolthera.info/2025/11/text-tool-phase-3/",
+      "title": "Text Tool Phase 3",
+      "description": "When I started work on the text tool, I had planned it in three phases. The first phase was going to be the on canvas editor. And I handled inserting and removing text, moving the cursor around, and creating simple wrapping areas. IME support and simple copy-paste was also handled during this phase. The second […]"
+    }
+  ]
+}

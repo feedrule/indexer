@@ -1,0 +1,20 @@
+{
+  "url": "https://mathspp.com/blog.atom",
+  "posts": [
+    {
+      "link": "https://mathspp.com/blog/migrating-to-python-315",
+      "title": "Migrating to Python 3.15",
+      "description": "This practical guide tells you what to pay attention to when migrating to Python 3.15. This short article walks you through the main things to keep in mind when migrating your code to Python 3.15: backwards-compatible features : features released in 3.15 that you can start using because they're backwards compatible backwards-incompatible features : features released in 3.15 that you can only start"
+    },
+    {
+      "link": "https://mathspp.com/blog/python-abi3t-what-is-it",
+      "title": "Python abi3t: what is it?",
+      "description": "Learn what the abi3t and the limited C API are and what that means for Python users. This article explains what the limited C API and the abi3t are to Python developers who don't have experience with C extensions. Python wheels A Python wheel is the binary file that you download from PyPI every time you “pip install” a Python package. Conversely, it's also the binary file you build when you're get"
+    },
+    {
+      "link": "https://mathspp.com/blog/threadsafe-iterators",
+      "title": "Thread-safe iterators",
+      "description": "Learn how to write and use thread-safe iterators in Python 3.15. This article shows how to write and use iterators in a thread-safe manner using the new tools from Python 3.15: threading.serialize_iterator threading.synchronized_iterator Iterators are not thread-safe Most iterators are not thread-safe by default. For example, generator iterators can raise a ValueError if accessed simultaneously fr"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mlai.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://http://www.dlai.dev/",
+      "title": "About Me",
+      "description": "AI Engineering and Inference Optimization Specialist"
+    },
+    {
+      "link": "https://http://www.dlai.dev/tools/",
+      "title": "Interactive Tools",
+      "description": "Browser examples for thread indexing and online softmax, with links to the underlying equations."
+    },
+    {
+      "link": "https://http://www.dlai.dev/2026-09-13-eggvolve",
+      "title": "EggEvolve",
+      "description": "A source-level study of EggEvolve: e-graphs and egglog, finite configuration search, Triton attention, numerical contracts, and the engineering required for hardware-guided evolution."
+    }
+  ]
+}

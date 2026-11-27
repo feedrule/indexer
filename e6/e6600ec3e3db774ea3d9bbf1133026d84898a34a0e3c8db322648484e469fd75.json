@@ -1,0 +1,20 @@
+{
+  "url": "https://mrcat.au/atom.xml",
+  "posts": [
+    {
+      "link": "https://mrcat.au/blog/truffle_merge_explode/",
+      "title": "JITting machine code by writing an interpreter",
+      "description": "In the previous blog post , we added memory-mapped I/O devices to our RISC-V emulator. The next step I mentioned in that post was to add support for virtual disk drives and network adapters… which I have in fact done! I just haven’t written about it yet. But more important™ things have come up, and I have to write about them first. Prelude: Rewriting our emulator in Rust … Java? I’m currently (as"
+    },
+    {
+      "link": "https://mrcat.au/projects/rivet/",
+      "title": "rivet",
+      "description": "Rivet is a toy RISC-V emulator I made as an excuse to learn Zig. As of now, it implements the RV64GC architecture, with an interpreted core written in Zig. The core has access to a few virtual devices through MMIO, including a serial port, real-time clock, hard drive, and ethernet adapter. This is enough to boot and run Linux! Usage The CLI requires exactly one file argument: either an ELF or a bi"
+    },
+    {
+      "link": "https://mrcat.au/blog/how_to_devices/",
+      "title": "Teaching an emulator how to talk",
+      "description": "In the previous blog post , we made a RV64GC emulator that can pass all the architecture tests. Which is very cool in and of itself, but being able to run tests doesn’t necessarily mean we can run actual software. And in this case, we are v e r y very far away from being able to run something like Linux on this thing, so let’s start making progress towards that. What you might have realised with o"
+    }
+  ]
+}

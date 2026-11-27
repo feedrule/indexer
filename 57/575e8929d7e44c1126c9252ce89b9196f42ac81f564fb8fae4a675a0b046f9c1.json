@@ -1,0 +1,20 @@
+{
+  "url": "https://wongmjane.com/blog/feed",
+  "posts": [
+    {
+      "link": "https://browserbase.run/prompt-injection",
+      "title": "Your AI browser is one malicious away from going rogue",
+      "description": "Prompt injection is a natural consequence of mixing instruction-following models with untrusted content. The mitigation that scales is containment."
+    },
+    {
+      "link": "https://wongmjane.com/blog/waymo-gemini",
+      "title": "Waymo Is Working on a Gemini AI Assistant. Here’s the System Prompt",
+      "description": "First look at Waymo’s upcoming Gemini integration and the 1,200+ line system prompt that defines its behavior inside the robotaxi."
+    },
+    {
+      "link": "https://wongmjane.com/blog/messenger-rooms-writeup",
+      "title": "Messenger Rooms Bug Bounty Write-up",
+      "description": "Unrestricted API calls as Messenger Rooms Guest"
+    }
+  ]
+}

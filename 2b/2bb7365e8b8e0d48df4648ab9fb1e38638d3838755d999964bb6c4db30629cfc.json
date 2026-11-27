@@ -1,0 +1,20 @@
+{
+  "url": "https://techbrij.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://techbrij.com/fix-read-only-disk-filesystem-ubuntu-macbook-boot-failure?utm_source=rss&utm_medium=blog&utm_campaign=rss-feed",
+      "title": "Ubuntu 26.04 on MacBook Pro: Fixing the Read-Only Filesystem and Emergency Mode Boot Failure",
+      "description": "Ubuntu 26.04 on a MacBook Pro going read-only or booting to emergency mode? Learn how lowering max_sectors_kb to 1280 and running e2fsck fixed it. To read full article, please click here"
+    },
+    {
+      "link": "https://techbrij.com/fix-webcam-macbook-pro-ubuntu-facetimehd?utm_source=rss&utm_medium=blog&utm_campaign=rss-feed",
+      "title": "Fixing the Webcam on a MacBook Pro (Mid 2015) with Ubuntu 26.04 (facetimehd)",
+      "description": "How I got the FaceTime HD webcam working on a mid-2015 MacBook Pro in an Ubuntu 26.04, including the firmware hash error and missing calibration warning. To read full article, please click here"
+    },
+    {
+      "link": "https://techbrij.com/install-ubuntu-lts-on-old-macbook-pro-2015?utm_source=rss&utm_medium=blog&utm_campaign=rss-feed",
+      "title": "Installing Ubuntu on an Old MacBook Pro: Giving My 2015 Mac a New Life",
+      "description": "Install Ubuntu 26.04 LTS on an old 2015 MacBook Pro with this step-by-step guide, covering bootable USB creation, installation, and troubleshooting. To read full article, please click here"
+    }
+  ]
+}

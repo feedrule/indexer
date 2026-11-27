@@ -1,0 +1,20 @@
+{
+  "url": "https://www.lucavallin.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.lucavallin.com/blog/google-cloud-ai-tooling-for-engineers",
+      "title": "Every AI Tool on Google Cloud, and When to Use It",
+      "description": "Every major AI tool on Google Cloud as of November 2026, after the Vertex AI rename: what each one is for, when to use it, and what changed this year."
+    },
+    {
+      "link": "https://www.lucavallin.com/blog/building-with-apple-intelligence",
+      "title": "Building with Apple Intelligence",
+      "description": "Apple Intelligence for developers after iOS 27: the models, the Foundation Models framework and Private Cloud Compute, Siri and App Intents, Vision and Speech, Core AI and MLX, and when to use each."
+    },
+    {
+      "link": "https://www.lucavallin.com/blog/how-i-actually-use-claude-code",
+      "title": "How I Actually Use Claude Code",
+      "description": "My Claude Code setup: CLAUDE.md as a contract, tests and CI as gates, the skills, plugins and MCP servers that earn their place, and how to build the same."
+    }
+  ]
+}

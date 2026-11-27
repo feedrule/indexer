@@ -1,0 +1,20 @@
+{
+  "url": "https://rootkitlabs.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "description": "This article was written entirely by a human, for humans. I tend to get excited about certain chips. This time, it was a microprocessor: The Rockchip RV1103 is a single-core 1.1 GHz ARM Cortex-A7 SoC (system on chip) with 64 MB of DDR2 RAM and a MIPI CSI-2 bus shoved into a QFN-88 package. With this chip, I built a cheap, simple stereo vision board with built-in compute and Linux support."
+    },
+    {
+      "link": "https://rootkitlabs.com/2026/06/22/I'm-Building-a-Secure-USB-Drive/",
+      "title": "I'm Building a Secure USB Drive That Hides Itself",
+      "description": "This article was written by a human, for humans. Phantomdrive is now available from the Rootkit Labs shop . Many places don’t respect privacy laws, in certain situations you may be forced to unencrypt your media, or worse, assumed to be guilty. A Veracrypt hidden volume is useful in the former situation, but not the latter. This is why I made Phantomdrive. Phantomdrive is a completely open source"
+    },
+    {
+      "link": "https://rootkitlabs.com/2025/06/04/whats-next/",
+      "title": "Pick Your Payload - What Open-source Security Hardware Should we Build Next?",
+      "description": "Everything we do is for educational and ethical purposes only . I build open source hardware that I want, but I won’t work on hardware nobody else wants. If people aren’t fired up, I can’t get excited, so my projects only take off when there’s real interest. I’ve got three ideas, please pick your favourite. I only have so much time, and I want to gauge interest first. They’re all cybersecurity/hac"
+    }
+  ]
+}

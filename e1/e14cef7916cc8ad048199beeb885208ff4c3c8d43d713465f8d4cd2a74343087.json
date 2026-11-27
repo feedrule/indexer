@@ -1,0 +1,15 @@
+{
+  "url": "https://themobiusstrip.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://themobiusstrip.github.io/x402-payment-proxy/",
+      "title": "A Spending Guardrail for Agentic Payments — Hands-On x402",
+      "description": "Let Claude pay an x402 testnet paywall without holding the wallet key, then test payment limits, rolling budgets, and duplicate protection."
+    },
+    {
+      "link": "https://themobiusstrip.github.io/your-coding-agent-will-always-tell-you-its-safe/",
+      "title": "Your Coding Agent Will Always Tell You It’s Safe",
+      "description": "Agentic security starts from agent trust, and trust starts from verifiability: an agent can't monitor itself or declare itself secure. Why defense in depth needs a watcher underneath — read-only, open source, local-only — and why I built perch."
+    }
+  ]
+}

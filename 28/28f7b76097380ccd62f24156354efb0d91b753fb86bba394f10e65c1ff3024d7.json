@@ -1,0 +1,20 @@
+{
+  "url": "https://kulkarniankita.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://kulkarniankita.com/conferences/ai-agent-toolkit-building-minions-react-paris",
+      "title": "AI Agent Toolkit for Building Minions",
+      "description": "Over the past year, I've built and shipped multiple AI-powered tools from communication copilots to SaaS assistants that think, act, and scale like real teammates. In this talk, I'll share the exact toolkit and architecture I use to build what I call \"AI Minions\" - autonomous agents that can fetch data, trigger workflows, and assist users across full-stack Next.js apps. I'll walk through real exam"
+    },
+    {
+      "link": "https://kulkarniankita.com/next.js/nextjs-performance-optimizations-you-need-to-fix-now",
+      "title": "7 Next.js Performance Mistakes Slowing Your App (2026)",
+      "description": "Fix the most common Next.js performance mistakes - from bundle bloat and data waterfalls to image optimization and font layout shifts."
+    },
+    {
+      "link": "https://kulkarniankita.com/next.js/whats-new-in-nextjs-16-2",
+      "title": "What's New in Next.js 16.2: The AI Update That Changes Everything",
+      "description": "Next.js 16.2 is a massive update. AI success rates hit 100%, dev startup is 400x faster, and browser log forwarding changes everything."
+    }
+  ]
+}

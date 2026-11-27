@@ -1,0 +1,20 @@
+{
+  "url": "https://nguyengineer.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://nguyengineer.dev/scaling-database-practices",
+      "title": "Scaling database practices",
+      "description": "A practical guide to scaling PostgreSQL: connection pooling, indexing, partitioning, replicas, sharding, and CDC for real-world systems."
+    },
+    {
+      "link": "https://nguyengineer.dev/how-i-built-and-scaled-real-time-chat-app-from-2-to-millions-of-users-without-a-rewrite",
+      "title": "How I built and scaled real‑time chat app from 2 to millions of users — without a rewrite?",
+      "description": "Inside the architecture of an ephemeral one‑on‑one chat that scales from a demo WebSocket to millions of concurrent conversations."
+    },
+    {
+      "link": "https://nguyengineer.dev/we-won-honestbee-logistics-challenge-2016",
+      "title": "We won Honestbee Logistics Challenge 2016",
+      "description": "In 2016 my team won Honestbee’s Saigon logistics challenge with a BFS route optimizer and learned how a fun, safe culture boosts performance."
+    }
+  ]
+}

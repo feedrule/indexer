@@ -1,0 +1,20 @@
+{
+  "url": "https://lengrand.fr/rss/",
+  "posts": [
+    {
+      "link": "https://lengrand.fr/from-assisted-to-orchestrated-ai-development-using-maestro/",
+      "title": "From Assisted to Orchestrated AI Development using Maestro",
+      "description": "My experience with Maestro, an AI agent orchestration tool. By combining spec-driven Auto Runs with a feedback loop, it transforms the developer role from writing code to managing features."
+    },
+    {
+      "link": "https://lengrand.fr/my-blog-was-hacked-and-claude-and-i-just-fixed-it/",
+      "title": "My blog was hacked and Claude and I just fixed it",
+      "description": "My self-hosted Ghost blog got silently hacked via a malicious script injected directly into the database, targeting only Windows users. I traced the source of the issue and fixed it quickly with the help of Claude Code."
+    },
+    {
+      "link": "https://lengrand.fr/ways-in-which-genai-has-changed-my-coding-so-far/",
+      "title": "Ways in which GenAI has changed the way I write code so far",
+      "description": "AI has fundamentally transformed my developer workflow, from stack choices and IDE preferences to how git is used. I using Claude and orchestration tools like Maestro to guide implementation while tests serve as guardrails."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jiahao.gg/atom.xml",
+  "posts": [
+    {
+      "link": "https://jiahao.gg/blog/token-numbers/",
+      "title": "Token Numbers Every Engineer Should Know",
+      "description": "Inspired from this visualization of Jeff Dean’s Latency Numbers Every Programmer Should Know , I wanted to visualize how different documents fit into context windows of LLMs. Numbers below are measured with a pre-4.7 Claude tokenizer. Other models can differ by 30+%. Characters per token Content Density Chars/token"
+    },
+    {
+      "link": "https://jiahao.gg/blog/crankshell/",
+      "title": "Running Ghostty on a Playdate to control tmux",
+      "description": "My Playdate connects to a remote tmux session. Crank to scroll or push B to talk (and exit vim). Under the hood, it uses ghostty-vt to emulate a terminal and connects to the remote session over mTLS. Demo: Over the past few weeks, I’ve been working on turning the game console into a remote control for my terminal. It’s a Cortex M7 with a 1-bit display, Wi-Fi and a mic. There is a C SDK and people"
+    },
+    {
+      "link": "https://jiahao.gg/blog/java-functional/",
+      "title": "Writing Java With a Dash of Functional Programming",
+      "description": "After learning a little bit of Haskell, writing idiomatic Java leaves me wanting a little more from the normal object orientated constructs and traditional imperative programming paradigms. I realized during one of my projects that I could apply some functional concepts to it to make the code more elegant and readable, which I’ll share in this post using a slimmed down example! Problem A typical d"
+    }
+  ]
+}

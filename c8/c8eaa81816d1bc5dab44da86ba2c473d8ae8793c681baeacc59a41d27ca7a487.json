@@ -1,0 +1,20 @@
+{
+  "url": "https://patrickaudley.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://patrickaudley.com/#post-purrdf-1-0",
+      "title": "PurRDF 1.0: one RDF engine, one behavior, every language",
+      "description": "PurRDF 1.0 is out: an RDF 1.2 toolkit written once in Rust and carried byte for byte into Python, WebAssembly/JavaScript, and C. Ranked full-text search, spatial predicates, and vector similarity are answered from SPARQL, in-process, over the same dataset: the three jobs for which an RDF project has usually run PostgreSQL beside its triple store."
+    },
+    {
+      "link": "https://patrickaudley.com/#post-logit-loom",
+      "title": "Logit Loom: turn the token boundary into a programmable surface",
+      "description": "Logit Loom turns the token boundary into a programmable Rust surface: compose ordered logit transforms, observe exact token bytes, stop at defined boundaries, checkpoint llama.cpp sessions, and retain serializable receipts of the mechanics that ran."
+    },
+    {
+      "link": "https://patrickaudley.com/#post-gmeow-ontology",
+      "title": "GMEOW: a reasoning-centric super-vocabulary for digital existence",
+      "description": "A new ontology project: GMEOW (the Global Metadata and Entity Ontology for the Web), a reasoning-centric, OWL 2 DL, gUFO-grounded super-vocabulary for a person's or organization's digital existence. It mints canonical terms and aligns outward to FOAF, REL, DOAP, GEDCOM, PROV-O, ORG, schema.org, vCard and Wikidata, treating provenance, confidence, temporal validity, and coreference as first-class c"
+    }
+  ]
+}

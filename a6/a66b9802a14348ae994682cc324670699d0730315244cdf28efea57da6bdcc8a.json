@@ -1,0 +1,20 @@
+{
+  "url": "https://jmoney.world/rss.xml",
+  "posts": [
+    {
+      "link": "https://jmoney.world/posts/blogkitty-an-rss-feed-manager-in-discord",
+      "title": "blogkitty: A RSS Feed Manager in Discord",
+      "description": "Hi! I wanted a way to monitor blogs for members in my Discord server, so I created a bot which will monitor RSS feeds into channels with just one command. You can check out the project here ! How it Works When you run the /monitor [rss-feed] [channel-name] command in Discord, the bot will create a channel with that name and stream any updates from rss-feed into it. To remove the feed you can just"
+    },
+    {
+      "link": "https://jmoney.world/posts/how-i-set-up-jwt-authentication-for-waygates",
+      "title": "How I Set Up JWT Authentication for Waygates",
+      "description": "Here is devlog #2 for the waygates project. This is how I setup JWT authentication in Go using Gin. As always here is a link to the repository on Github. User authentication consists of three endpoints: /signin , /signout , and /signup . The /signin endpoint has the following flow: Check if the email is in our database and grab the hashed password. Hash the password from the request. Check if the"
+    },
+    {
+      "link": "https://jmoney.world/posts/book-review-the-shadow-rising",
+      "title": "The Shadow Rising by Robert Jordan",
+      "description": "this is a spoiler review I just finished Wheel of Time Book 4: The Shadow Rising, By Robert Jordan. This book is generally talked about as the best book in the series. This is the first time in the series where we really see \"He Who Comes With The Dawn\" really tear apart the world. You can see some of the seeds Jordan plants in previous books really come to life here. An obvious example here being"
+    }
+  ]
+}

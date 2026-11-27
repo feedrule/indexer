@@ -1,0 +1,20 @@
+{
+  "url": "https://code.zikani.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://code.zikani.me/how-to-populate-a-postgresql-test-container-in-go-for-integration-testing",
+      "title": "How to populate a PostgreSQL test container in Go for integration testing",
+      "description": "In this article I will show you how to setup a minimal test using testcontainers-go. We are going to extend some ideas from my last article on generating…"
+    },
+    {
+      "link": "https://code.zikani.me/generating-test-data-in-json-csv-and-sql-formats-using-go-and-faker",
+      "title": "Generating test data in JSON, CSV and SQL formats using Go and Faker",
+      "description": "Sometimes, you may need to generate fake data for use for testing behavior of your systems or for load or volume testing, for example to test that…"
+    },
+    {
+      "link": "https://code.zikani.me/machine-learning-based-spam-detection-using-onnx-in-java",
+      "title": "Machine Learning based SPAM detection using ONNX in Java",
+      "description": "In this article I go over how I implemented a Spring Boot API for Spam Detection using an advanced anti-spam model from the Hugging Face onnx-community and…"
+    }
+  ]
+}

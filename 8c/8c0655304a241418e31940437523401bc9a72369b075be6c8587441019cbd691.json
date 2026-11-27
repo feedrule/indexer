@@ -1,0 +1,20 @@
+{
+  "url": "https://gppmad.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://gppmad.github.io/posts/supply-chain-security/",
+      "title": "Supply Chain Security starts early",
+      "description": "One of the trending security threats according to OWASP is related to supply chain security, which involves every component that developers use to build applications. In the end, it is important to use high-quality components, produced by trustworthy organizations and constantly maintained to fix security flaws. The problem is that organizations increasingly use open-source code, which does not al"
+    },
+    {
+      "link": "https://gppmad.github.io/posts/passkey/",
+      "title": "Open Sourcing Passkey Extension",
+      "description": "Today, I’m happy to open source one of my latest projects: https://github.com/gppmad/passkey-extension . It’s a simple passkey chrome extension that allows you to store and use passkeys. Passkeys and other passwordless mechanisms are undoubtedly the future of authentication, and it’s becoming increasingly important to be transparent about where these credentials are stored and how they are synced"
+    },
+    {
+      "link": "https://gppmad.github.io/posts/hi-everyone/",
+      "title": "Hi Everyone!",
+      "description": "Welcome to my blog!"
+    }
+  ]
+}

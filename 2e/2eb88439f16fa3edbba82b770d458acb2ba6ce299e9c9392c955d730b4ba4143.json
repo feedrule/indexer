@@ -1,0 +1,20 @@
+{
+  "url": "https://cdelmonte.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://cdelmonte.dev/explainers/sorted-files-ordered-scan/",
+      "title": "Why Sorted Parquet Files Do Not Guarantee an Ordered Scan in DataFusion",
+      "description": "A purchases table, one Parquet file per day, every file sorted by customer: you would expect a GROUP BY customer to use that order, yet EXPLAIN often shows it ignored. This explainer follows the ordering from the file scan to the aggregate in Apache DataFusion, shows where it gets lost, how to read it in the plan, and what you can change."
+    },
+    {
+      "link": "https://cdelmonte.dev/essays/a-small-compiler-for-explaining-delta-lake-pruning/",
+      "title": "A Small Compiler for Explaining Delta Lake Pruning",
+      "description": "How delta-explain turns one predicate and the Delta log into a trustworthy explanation of file pruning, through shared representation, safe rewrites, and conservative measurement."
+    },
+    {
+      "link": "https://cdelmonte.dev/explainers/parquet-bit-unpacking-explained/",
+      "title": "From Dictionary Indices to Integers: Parquet Bit Unpacking Explained",
+      "description": "Parquet rarely stores a column’s values directly. Dictionary encoding keeps the distinct values once and represents the column through small bit-packed integer indices. This explainer walks through dictionary encoding, how the indices are bit-packed, and the bit-unpacking step that reconstructs them into an int[] before every dictionary lookup."
+    }
+  ]
+}

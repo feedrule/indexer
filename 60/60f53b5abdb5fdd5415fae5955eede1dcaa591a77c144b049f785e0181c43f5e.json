@@ -1,0 +1,20 @@
+{
+  "url": "https://natemoo.re/rss.xml",
+  "posts": [
+    {
+      "link": "https://natemoo.re/posts/missing-middle/",
+      "title": "The Missing Middle of Open Source",
+      "description": "Why serious, maintainer-driven projects struggle to sustain themselves—and what it will take to fix it."
+    },
+    {
+      "link": "https://natemoo.re/posts/hello-from-the-other-side/",
+      "title": "Hello from the other side",
+      "description": "One pandemic, two JavaScript frameworks, and a few career highlights later, here's a quick reflection on my past six years."
+    },
+    {
+      "link": "https://natemoo.re/posts/complex-animations/",
+      "title": "Controlling complex animations with custom properties",
+      "description": "I wanted to share a quick trick for controlling the playback of @keyframes in response to user interaction"
+    }
+  ]
+}

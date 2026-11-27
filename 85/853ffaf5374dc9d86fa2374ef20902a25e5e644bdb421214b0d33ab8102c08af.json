@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ssanj.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.ssanj.net/posts/2025-12-17-pi-hole-blocking-fornite-gift-card-redemption.html",
+      "title": "Pi Hole Blocking Fortnite Gift Card Redemption",
+      "description": "TL;DR: Turn off the Pi-Hole or use Mobile data to redeem Fortnite gift cards. I’ve been trying to redeem some Fornite gift cards for my son recently and I’ve found it to be so frustrating. I initially tried to use the QR on the gift card using my Android phone but that just did nothing. I later tried to enter the code on the redeem website manually. Same result - nothing. No error. No message. Not"
+    },
+    {
+      "link": "https://blog.ssanj.net/posts/2024-07-17-how-to-call-trait-functions-in-rust.html",
+      "title": "How to call trait functions in Rust",
+      "description": "Traits define a group of functions that work towards some shared behaviour. There are a few ways to invoke trait functions in Rust and we’ll have a look at those ways in the sections below. Traits have two types of functions: Methods - These are functions that take in a self parameter Associated Functions - These are functions that do not take a self parameter How to invoke Functions of a Trait He"
+    },
+    {
+      "link": "https://blog.ssanj.net/posts/2024-01-24-working-with-rust-result.html",
+      "title": "Working With Rust Result",
+      "description": "Trying to learning how to use the Rust Result type can be daunting. In this “Working with Rust Result” series of short posts, I hope to make that more approachable. This series is for beginners who are finding it difficult to understand what a Result is and how to use it. The series is split into fourteen parts as listed below. What is a Result? - ( Construction ) Extracting Values - ( Pattern mat"
+    }
+  ]
+}

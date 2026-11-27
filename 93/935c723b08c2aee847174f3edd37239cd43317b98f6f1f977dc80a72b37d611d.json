@@ -1,0 +1,15 @@
+{
+  "url": "https://harikb.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://harikb.github.io/posts/tailscale-hot-swap-between-tailnets/",
+      "title": "How to Move a Remote Server Between Tailnets (Without Losing SSH Access)",
+      "description": "Moving a remote machine between two Tailscale networks (tailnets) is a high-stakes operation. Because Tailscale is a single-session service, logging out usually means cutting the very branch you’re sitting on. If you’re restructuring your organization or—as in our case—migrating because an old admin left the building, here is how to perform the “Hot Swap” without getting locked out. The Problem: T"
+    },
+    {
+      "link": "https://harikb.github.io/posts/postgres-11-hash-partitioning-part1/",
+      "title": "Postgres 11 Hash Partitioning Part1",
+      "description": "Goal: Explore Postgres 11’s Declarative Partitioning features This entire post is detailed explanation of a thread in postgresql mailing list and wonderful answers by David Rowley Why do I need partitions? I already have an index! A partition is a logical unit that can be drop -ed and removed from queried dataset as well as the database detach -ed from the frequently queried dataset, but retained"
+    }
+  ]
+}

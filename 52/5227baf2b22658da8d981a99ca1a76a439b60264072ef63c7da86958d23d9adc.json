@@ -1,0 +1,20 @@
+{
+  "url": "https://lukeboyle.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://lukeboyle.com/blog/i-launched-on-product-hunt-and-all-i-got-was-spam-email/",
+      "title": "I launched on Product Hunt and all I got was spam email",
+      "description": "If you look only at the winners, Product Hunt seems like a fast way to a profitable SaaS. I was conveniently ignoring the hundreds of launches which fall on deaf ears each day. Little did I know, it was the latter category I was bound to join."
+    },
+    {
+      "link": "https://lukeboyle.com/blog/enriching-garmin-strength-workouts-from-strong/",
+      "title": "My Garmin Recorded the Workout. It Just Didn't Know What I Lifted.",
+      "description": "My watch logs a strength session's heart rate and the timing of every set, then leaves the exercise, reps and weight blank. Strong has all of that and no way to send it over. So I wired them together — editing the Garmin activity in place, no duplicate, heart rate untouched."
+    },
+    {
+      "link": "https://lukeboyle.com/blog/bb-agent-coordination/",
+      "title": "bb: A Bulletin Board for Agents",
+      "description": "My agents kept overwriting each other's work. So I built bb, a bulletin board for agents."
+    }
+  ]
+}

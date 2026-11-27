@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.cellutils.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.cellutils.com/post/2026-10-22-the-power-of-astro-for-business-websites/",
+      "title": "The Power of Astro for Business Websites",
+      "description": "In this post I talk about an overhaul I made to one of my very first projects (tolampogiali.com), focusing deeply at the importance of using Astro in SSR mode for all of it."
+    },
+    {
+      "link": "https://blog.cellutils.com/post/2026-03-04-how-to-set-up-librespeed-docker-compose/",
+      "title": "How to Set Up LibreSpeed | Docker Compose",
+      "description": "Full guide to install LibreSpeed on Linux using Docker Compose. Tutorial includes example YAML file to get you up to speed."
+    },
+    {
+      "link": "https://blog.cellutils.com/post/2026-03-06-quick-guide-on-caddy-reverse-proxy/",
+      "title": "Quick guide for Caddy | Reverse Proxy",
+      "description": "An easy tutorial on how to get started with Caddy reverse proxy with docker compose. Exposing containers, ports or just static websites and handling errors, all in a simple tutorial."
+    }
+  ]
+}

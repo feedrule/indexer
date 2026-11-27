@@ -1,0 +1,20 @@
+{
+  "url": "https://raphgl.github.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://raphgl.github.io/blog/2026/07/the_case_for_custom_ssgs.html",
+      "title": "The case for custom static site generators",
+      "description": "Some reasons to ditch static site generators and write your own"
+    },
+    {
+      "link": "https://raphgl.github.io/blog/stop-abusing-regex.html",
+      "title": "Stop (ab)using regex",
+      "description": "Stop it, get some help!"
+    },
+    {
+      "link": "https://raphgl.github.io/blog/recommended-c-compiler-flags.html",
+      "title": "C compiler flags you ought to know",
+      "description": "A compiled list of compiler flags that make development and catching errors easier"
+    }
+  ]
+}

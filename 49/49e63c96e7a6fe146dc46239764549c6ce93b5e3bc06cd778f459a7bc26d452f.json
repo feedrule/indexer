@@ -1,0 +1,20 @@
+{
+  "url": "https://zeybek.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://zeybek.dev/blog/hybrid-search-in-postgres-measured",
+      "title": "Hybrid search with pgvector got worse until I added BM25",
+      "description": "The hybrid query most tutorials show, Postgres full-text search fused with pgvector, scored worse on two public benchmarks than vector search alone. With a real BM25 index as the keyword half, the same fusion gave the best result I measured, in under 3 ms a query. Here are the numbers for seven ways to search, and the query shapes that made the fused one 15 times slower until I found them."
+    },
+    {
+      "link": "https://zeybek.dev/blog/typesafe-jev-in-production",
+      "title": "TypeSafe's Jev in production: thresholds and two bugs",
+      "description": "Jev is a decision model: it picks, rates and judges, and writes nothing. I wired it into ten places on this site and measured what it cost. The model was the easy part. The hard part was choosing a threshold for each decision, giving moderation a token budget nothing else can spend, and finding out the counter meant to cap the whole thing had never counted anything. These are the eleven thresholds"
+    },
+    {
+      "link": "https://zeybek.dev/blog/how-i-turn-any-handful-of-colours-into-a-readable-theme",
+      "title": "How I turn any handful of colours into a readable theme",
+      "description": "This site ships 18 hand-made themes and 368 base16 schemes. When I measured them, 16 of the first and all 368 of the second broke basic rules about contrast and colour. I wrote the rules down as code, built an engine that repairs a palette with the smallest change it can find, then pointed it at random colours. This is how it works and where it stops."
+    }
+  ]
+}

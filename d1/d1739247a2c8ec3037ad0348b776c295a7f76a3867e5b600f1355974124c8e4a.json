@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.dfb.sh/blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.dfb.sh/blog/claude-desktop-freeze/",
+      "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
+      "description": "TL;DR: Claude Desktop on Linux froze dead every couple of days, with empty logs. It took two months and a 1.5 TiB core dump to find out why. The app never reads a 27-byte telemetry reply, and Chromium keeps a file descriptor open for each one until the renderer runs out of them. Chromium says it works as intended, and Anthropic's bot closed my issue as \"not about Claude Code\"."
+    },
+    {
+      "link": "https://blog.dfb.sh/blog/zfs-fsync/",
+      "title": "fsync gives you durability and ordering, but often you only need ordering",
+      "description": "TL;DR: fsync promises two things, durability and ordering, and I only need ordering. ext4 gives both or neither: every fsync commits the journal and flushes the disk cache. ZFS with sync=disabled gives ordering alone: transaction groups land in order, and a crash loses the last tens of seconds, not a database. My two HDDs are 2.7% busy instead of 13%, and a write takes 2 ms instead of 16."
+    },
+    {
+      "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "description": "TL;DR: My TP-Link EAP770 v1 corrupts downloads over Wi-Fi and TP-Link EOL'd it before I unboxed it. The fix is two zeros in sysfs. TP-Link's shell won't let me write them, so I wrote a kernel exploit for my own fucking access point."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://caverav.cl/rss.xml",
+  "posts": [
+    {
+      "link": "https://caverav.cl/posts/flutterdec/",
+      "title": "How flutterdec works",
+      "description": "A guided look at Flutter AOT decompilation, Dart snapshots, Serwalker deserialization, and how flutterdec reconstructs readable code."
+    },
+    {
+      "link": "https://caverav.cl/posts/ctfs-not-dead/",
+      "title": "CTFs Are Not Dead, They’re Just Growing Up",
+      "description": "Are LLMs killing CTFs? Or are they just forcing them to evolve? Exploring the new landscape of cybersecurity competitions."
+    },
+    {
+      "link": "https://caverav.cl/posts/dompurify-mxss/",
+      "title": "CVE-2026-0540: How a CTF Detour Led Us to a DOMPurify mXSS - Daft",
+      "description": "A detailed write-up of the DOMPurify mXSS we found during a CTF detour, affecting 3.1.3 through 3.3.1 and fixed through a small patch series in 3.3.2."
+    }
+  ]
+}

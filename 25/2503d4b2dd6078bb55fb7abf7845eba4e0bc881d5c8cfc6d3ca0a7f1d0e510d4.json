@@ -1,0 +1,20 @@
+{
+  "url": "https://narimiran.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://narimiran.github.io//2026/10/19/aoc-nfs-2026.html",
+      "title": "Advent of Clojure: NFS 2026",
+      "description": "This is a sequel to my AoC: NFS blogpost from 2023. Here I’ll further explore some ways to improve the performance of Clojure code, based on my AoC 2025 solutions."
+    },
+    {
+      "link": "https://narimiran.github.io//2024/10/02/tools.html",
+      "title": "Snapshot of my tools",
+      "description": "This post is aimed at future-me, so he can check in a year or two or five what hardware and software I was using at several points in time. I don’t think it’ll be useful for anybody else, but if it is somehow: let me know how."
+    },
+    {
+      "link": "https://narimiran.github.io//2023/01/17/advent-of-clojure.html",
+      "title": "Advent of Clojure: Need for Speed",
+      "description": "Advent of Code (AoC) is a series of fun programming challenges, released every December. People solve the tasks in a variety of programming languages, and I find them great for the purpose of learning a new language."
+    }
+  ]
+}

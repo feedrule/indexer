@@ -1,0 +1,20 @@
+{
+  "url": "https://matheja.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://matheja.me/2026/10/09/what-i-host-in-my-homelab.html",
+      "title": "The Tools Behind My Homelab and How They Fit Together",
+      "description": "The tools in my homelab, from GitLab and Flux to Vault, Authentik, Garage and Grafana, plus an MCP gateway for my agents, and how they connect."
+    },
+    {
+      "link": "https://matheja.me/2026/10/09/why-i-left-todoist-for-a-plain-text-todo-md.html",
+      "title": "Why I Left Todoist for a Plain-Text TODO.md",
+      "description": "After twelve years with Todoist and a webhook integration of my own, all my tasks live in one TODO.md in an Obsidian vault. Why, and what I gave up."
+    },
+    {
+      "link": "https://matheja.me/2026/10/06/immich-photo-management-cloudflare-tunnel.html",
+      "title": "Self-Hosted Photo Management: Immich Behind Cloudflare Tunnel",
+      "description": "How part of my family backs up their phones to a self-hosted Immich, and how a Cloudflare service token lets the mobile app through Access."
+    }
+  ]
+}

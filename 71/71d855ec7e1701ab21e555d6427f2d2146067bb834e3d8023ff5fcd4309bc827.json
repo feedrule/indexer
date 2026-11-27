@@ -1,0 +1,20 @@
+{
+  "url": "https://www.kenwalger.com/blog/feed/",
+  "posts": [
+    {
+      "link": "https://www.kenwalger.com/blog/developer-relations/one-script-four-documents/",
+      "title": "One Script, Four Documents",
+      "description": "The rules were already knowable, so I didn’t put a model in the pipeline. A video course may begin with one master script, but the people producing it rarely need the same document. The presenter needs clean narration for a teleprompter. The screencast recorder needs actions, commands, visual cues, and voiceover. The motion designer needs … Continue reading \"One Script, Four Documents\""
+    },
+    {
+      "link": "https://www.kenwalger.com/blog/ai-engineering/do-you-need-an-ai-review-panel/",
+      "title": "Do You Need an AI Review Panel?",
+      "description": "What independent AI code review catches, what it misses, and why verification still matters Disclosure: some of the experience in this post comes from evaluating a commercial multi-model review tool, using credits the vendor provided. This post names no product, and nobody reviewed it before publication. More and more of the code in my projects … Continue reading \"Do You Need an AI Review Panel?\""
+    },
+    {
+      "link": "https://www.kenwalger.com/blog/developer-relations/a-word-list-tied-the-model/",
+      "title": "A Word List Tied the Model",
+      "description": "I tried to find out which of my comments mattered. The answer was not the one I built for. A few weeks ago I pulled nine years of my own DEV data out of the API, mostly to chart which posts had moved my follower count. The numbers were not what I expected. The follow-up, … Continue reading \"A Word List Tied the Model\""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://theredwizardtower.com/index.xml",
+  "posts": [
+    {
+      "link": "http://theredwizardtower.com/posts/porting-micro-to-wasm-wasi/",
+      "title": "Porting micro to WASM + WASI",
+      "description": "I’ve been experimenting with WASM a few times before. Getting normal C projects compiling under WASM has always been rather finnicky. For once, gcc and clang do not support WASM as a main target out of the box, you’re therefore forced to find another way to reach your desired output. One pretty popular way to get your C and C++ to cleanly compile to WASM is through emscripten . Emscripten allows y"
+    },
+    {
+      "link": "http://theredwizardtower.com/posts/chronicles-of-the-lost-pixel-framework/",
+      "title": "Chronicles of the lost pixel framework",
+      "description": "So, this story requires a bit of context. It kind of started in 2022. Back then, I had been playing from time to time with PICO-8. PICO-8 is a pretty awesome and charming little fantasy console to create retro games in a resolution of 128x128 pixels. Each of these 128x128 pixels can represent a palette of 16 unique colors, and they can be individually manipulated using the Lua functions provided b"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://eclecticdreams.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://eclecticdreams.com/blog/styling-feeds/",
+      "title": "Styling XML Feeds in 2026",
+      "description": "Back in the day if you had an RSS or Atom feed you could use the power of XSLT to transform the plain and rather unassuming view that a browser gave it by default into a moderately functional web page. XSLT was a tool to transform one dialect of markup into another. This was back in the day when XML was the grand future of the web and XHTML was all the rage. Spin forward 25 years and XSLT is looki"
+    },
+    {
+      "link": "https://eclecticdreams.com/blog/the-technical-architects-playbooks/",
+      "title": "The Agile Technical Architect's Playbooks",
+      "description": "Back when I started at my previous job, I moved from being a Senior Developer to a Technical Architect. At the time I found the transition interesting enough that I thought it would be worth cataloguing some of the tools and techniques I used more in that role than in previous ones. That work became The Agile Technical Architect's Playbooks. I had some grand aspirations of it being comprehensive e"
+    },
+    {
+      "link": "https://eclecticdreams.com/blog/eleventy-on-github-pages.2026/",
+      "title": "Eleventy on GitHub pages in 2026",
+      "description": "So, this blog uses 11ty to build a static site. Which is great and means I don't have to do much in terms of server admin for the blog anymore. I just use GitHub actions to build it and GitHub pages to deploy it. I wrote a previous blog post on deploying Eleventy with github pages, but things have changed a lot since 2020. Most notably the number of supply chain attacks has gone up astronomically"
+    }
+  ]
+}

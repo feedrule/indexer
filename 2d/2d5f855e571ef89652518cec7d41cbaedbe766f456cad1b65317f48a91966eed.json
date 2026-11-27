@@ -1,0 +1,20 @@
+{
+  "url": "https://taihen.org/index.xml",
+  "posts": [
+    {
+      "link": "https://taihen.org/posts/the-lonely-engineer/",
+      "title": "The Rise of the Lonely Engineer",
+      "description": "In my post about multinational teams I wrote that a colleague’s silence in a meeting could mean at least six different things. They might be thinking deeply, disagreeing strongly, waiting to be invited to speak, fighting a bad connection, processing in a second language or just really needing coffee. I missed one. There is a seventh meaning now. They are talking to their agent. Nobody asks me “hey"
+    },
+    {
+      "link": "https://taihen.org/posts/distroless-was-the-easy-part/",
+      "title": "Distroless Was the Easy Part",
+      "description": "Last year I wrote about distroless containers and finished with a small brag: I build my own minimal base image with apko and Wolfi , look how tiny it is, look how few packages it has. This year I held that image against the standards that serious hardened-image vendors compete on. It failed. Not because of what was inside the image. The contents were fine. Six packages, no shell, non-root user, s"
+    },
+    {
+      "link": "https://taihen.org/posts/building_effective_global_teams/",
+      "title": "Working Effectively in Multinational Teams as an Engineer",
+      "description": "Early in my career, I assumed everyone worked the same way I did. I thought “professional” meant universal and that technical rigor transcended culture. I was not just incorrect, I was naively wrong . I’ve spent about twenty-five years working in infrastructure engineering, almost always in multinational distributed teams. I’ve been the formal manager of an infrastructure team twice in my career,"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mpaldridge.github.io/feed",
+  "posts": [
+    {
+      "link": "https://mpaldridge.github.io/blog/birth-process.html",
+      "title": "The birth process is negative binomial",
+      "description": "What is the birth process?"
+    },
+    {
+      "link": "https://mpaldridge.github.io/blog/feiges-conjecture.html",
+      "title": "Feige’s conjecture",
+      "description": "Let $X_1, X_2, \\dots, X_n$ be independent random variables, each with mean at most 1. We want to maximise the probability that their sum $S = \\sum_{i=1}^n X_i$ is at least $n + \\delta$ for some $\\delta > 0$. How do we do this?"
+    },
+    {
+      "link": "https://mpaldridge.github.io/blog/favourite-american.html",
+      "title": "Some of my favourite things American",
+      "description": "“A Change Is Gonna Come” “A Perfect Day for Bananafish” the Apollo program Barbara Stanwyck Bob Dylan Calvin Trillin Claude Shannon and information theory Different Trains Do The Right Thing Dwight Garner’s book reviews Edward Hopper’s Nighthawks eggs Benedict Ernest Hemingway’s novels and short stories Francis Ford Coppola’s run of films in the 1970s The Great Gatsby hip-hop heavier-than-air flig"
+    }
+  ]
+}

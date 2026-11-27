@@ -1,0 +1,20 @@
+{
+  "url": "https://jdamcd.blog/index.xml",
+  "posts": [
+    {
+      "link": "https://jdamcd.blog/posts/rc-wk-1-2/",
+      "title": "RC weeks 1 & 2",
+      "description": "The Recurse Center is a programming retreat. This is a difficult concept to explain concisely because it’s truly unique: a community of kind, curious, motivated people doing self-directed, computer-adjacent work at the edge of their abilities. At first glance, the hub in Brooklyn looks like any scrappy startup office (perhaps with more hardware gadgets taped to the walls). But once you start meeti"
+    },
+    {
+      "link": "https://jdamcd.blog/posts/monzo-5/",
+      "title": "5 years at Monzo",
+      "description": "I joined Monzo in September 2021. I wasn’t particularly looking to get into FinTech, but I knew they’d hired a fantastic team and established a top-notch engineering culture. I was interviewing with a couple of big social networks at the same time. What made Monzo stand out in contrast was a magical kind of incentive alignment: it was obvious how the business and its customers could win together."
+    },
+    {
+      "link": "https://jdamcd.blog/posts/mcp-by-example/",
+      "title": "MCP by example",
+      "description": "I’ve previously written about using AI coding tools to build various side projects. Now I want to take a broader look at the ecosystem surrounding the models, starting with Model Context Protocol . MCP is an open standard for connecting AI systems to external tools. The official docs describe it as USB-C for AI: one protocol to connect any model with any tool. We’ll cover each component of MCP, bu"
+    }
+  ]
+}

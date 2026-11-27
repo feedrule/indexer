@@ -1,0 +1,20 @@
+{
+  "url": "https://filmicworlds.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://filmicworlds.com/blog/adaptive-catmull-clark-subdivision-with-compute-tessellation/",
+      "title": "Adaptive Catmull-Clark Subdivision with Compute Tessellation",
+      "description": "Catmull-Clark subdivision is the standard for smooth surfaces in offline rendering, going back to Geri’s Game in 1997. Catmull-Clark recursively refines a mesh, allowing artists to author a low-poly mesh and subdivide it during rendering. It’s also a well-known tool in modeling for multi-resolution sculpting, particularly with ZBrush and Mudbox. When you export a displacement map from ZBrush, it’s"
+    },
+    {
+      "link": "https://filmicworlds.com/blog/adaptive-compute-tessellation/",
+      "title": "Adaptive Compute Tessellation",
+      "description": "In the previous post, we talked about ways to tessellate a triangle with adaptive tess factors. Now it’s time to take the next step and actually tessellate a mesh. The goal of this post is to put together a reference solution, a baseline approach that works everywhere."
+    },
+    {
+      "link": "https://filmicworlds.com/blog/compute-tessellation-with-clamped-parallelograms/",
+      "title": "Triangle Tessellation with Clamped Parallelograms",
+      "description": "Hardware tessellation as we know it today (Dx11-style) had its origins on the Xbox 360, which released in 2005. Time flies, right? It was a natural step in the evolution toward film-quality realtime rendering. After all, tessellation was a key component of the original Pixar Reyes paper [7]."
+    }
+  ]
+}

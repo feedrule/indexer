@@ -1,0 +1,20 @@
+{
+  "url": "https://johanrin.com/index.xml",
+  "posts": [
+    {
+      "link": "https://johanrin.com/posts/getting-started-microsoft-agent-framework/",
+      "title": "Getting Started with Microsoft Agent Framework",
+      "description": "You want to build an AI agent with code. You search “Microsoft agent framework” and find Semantic Kernel. Then AutoGen. Then you realize both are from Microsoft. Two frameworks, same company. Which one do you pick? Here’s the thing: you don’t have to choose anymore. Microsoft merged both projects into a single framework called Microsoft Agent Framework . In my previous post , I showed you how to u"
+    },
+    {
+      "link": "https://johanrin.com/posts/model-router-microsoft-foundry/",
+      "title": "How to Use Model Router on Microsoft Foundry",
+      "description": "Imagine you’re building an app that calls an LLM. You default to Claude Opus 4.6 for everything. It works great. Until you see the bill. Here’s the thing: not every prompt needs the most powerful model. A simple “summarize this email” doesn’t require the same firepower as “analyze this entire codebase and suggest improvements.” What if the system could make that call for you, in real time? In my p"
+    },
+    {
+      "link": "https://johanrin.com/posts/deploy-mcp-server-microsoft-foundry/",
+      "title": "Deploy Your First MCP Server and Use it on Microsoft Foundry",
+      "description": "Have you ever asked your Copilot, ChatGPT, or Gemini for information it simply couldn’t access? This is a common limitation of LLMs. They only know what they were trained on. Yesterday’s news? Tomorrow’s weather? They can’t help you there. But what if we could supercharge our LLMs with these powers? That’s exactly what MCP (Model Context Protocol) enables. Curious to learn how? Let’s go! In this t"
+    }
+  ]
+}

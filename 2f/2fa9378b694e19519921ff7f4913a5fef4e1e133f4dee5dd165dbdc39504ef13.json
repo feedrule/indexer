@@ -1,0 +1,20 @@
+{
+  "url": "https://www.giladpeleg.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.giladpeleg.com/blog/congrats-on-your-new-appointment",
+      "title": "Congrats on your new appointment",
+      "description": "A practical model for leading AI agents: give subagents clear roles, consistent instructions, and the context they need to do useful work."
+    },
+    {
+      "link": "https://www.giladpeleg.com/blog/getting-real-with-llms",
+      "title": "Getting Real With LLMs",
+      "description": "It's hard to tell from the internet what can one do with LLMs at their workplace. This blog tries to cover the current options and challenges"
+    },
+    {
+      "link": "https://www.giladpeleg.com/blog/smart-receiver-dumb-sender",
+      "title": "Smart Receiver, Dumb Sender",
+      "description": "We've been solving notifications from the wrong end this whole time."
+    }
+  ]
+}

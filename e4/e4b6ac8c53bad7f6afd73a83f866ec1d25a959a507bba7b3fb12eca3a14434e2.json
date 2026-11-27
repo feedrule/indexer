@@ -1,0 +1,20 @@
+{
+  "url": "https://www.daweisun.me/index.xml",
+  "posts": [
+    {
+      "link": "https://www.daweisun.me/blog/stl-planning-rl/",
+      "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
+      "description": "Can a 9B open model learn to plan robot missions from temporal-logic specifications as well as a much larger one? Here’s the story of how we got there."
+    },
+    {
+      "link": "https://www.daweisun.me/blog/the-pac-learning-framework/",
+      "title": "A Gentle Introduction to PAC Learning",
+      "description": "Why should a model that fits a finite set of training examples do well on data it has never seen? Here’s a gentle tour of how the PAC framework answers that."
+    },
+    {
+      "link": "https://www.daweisun.me/about/",
+      "title": "About",
+      "description": "Hi, I’m Dawei Sun . I’m a machine learning engineer, and my work has taken me through quantitative trading, LLMs, recommender systems, and robotics — four rather different worlds, each with its own lessons about how learning systems behave once they meet reality. Before that, I received my Ph.D. from the University of Illinois Urbana-Champaign and my B.E. from Tsinghua University. You can find me"
+    }
+  ]
+}

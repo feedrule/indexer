@@ -1,0 +1,20 @@
+{
+  "url": "https://mehmetince.net/feed/atom/",
+  "posts": [
+    {
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "title": "Part 3/6 | How I Ended Up Turning a 22-Year-Old PostgreSQL Type-Confusion Primitive into RCE (CVE-2026-6460)",
+      "description": "If you had told me in April 2026 one question “Mehmet, can we use managed PostgreSQL for this project?” would send me into the deepest rabbit hole of my life, I would have laughed. Months later, I finally found the bottom of that rabbit hole. It was a 22-year-old zero-day in PostgreSQL core. In this […] The post Part 3/6 | How I Ended Up Turning a 22-Year-Old PostgreSQL Type-Confusion Primitive in"
+    },
+    {
+      "link": "https://mehmetince.net/part-2-6-breaking-the-superuser-guardrails-attacking-security-hardening-extensions-systemic-risks-in-the-managed-postgresql-industry/",
+      "title": "Part 2/6 | Breaking the Postgres Superuser Guardrails: Attacking Security-Hardening Extensions |Systemic Risks in the Managed PostgreSQL Industry",
+      "description": "It’s been a month since I published the first part of this research, and interest from the Postgres community has been higher than I expected. Most vendors I contacted were shy to respond, so the Databricks team’s blog post Collaboration makes us all stronger was one of the first examples of a vendor publicly sharing […] The post Part 2/6 | Breaking the Postgres Superuser Guardrails: Attacking Sec"
+    },
+    {
+      "link": "https://mehmetince.net/part-1-6-systemic-risks-in-the-managed-postgresql-industry-extension-risks-are-real-exploiting-postgis-memory-corruption-bug-at-neondb-supabase-and-many-more/",
+      "title": "Part 1/6 | Systemic Risks in the Managed PostgreSQL Industry: Extension Risks Are Real! Exploiting PostGis Memory Corruption Bug at NeonDB, SupaBase and Many More",
+      "description": "Back in April, I was talking with our system and software engineering teams at PRODAFT about the possibilities of using a managed database service. Due to the nature of our business, we simply cannot start using managed services right away. I told my team, “Alright, I will have a look at a few companies and […] The post Part 1/6 | Systemic Risks in the Managed PostgreSQL Industry: Extension Risks"
+    }
+  ]
+}

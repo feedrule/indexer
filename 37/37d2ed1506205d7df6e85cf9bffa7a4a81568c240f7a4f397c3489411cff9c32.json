@@ -1,0 +1,20 @@
+{
+  "url": "https://datta0.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://datta0.github.io/posts/rl-for-llms/",
+      "title": "Reinforcement Learning for LLMs",
+      "description": "A brief introduction to reinforcement learning for LLMs"
+    },
+    {
+      "link": "https://datta0.github.io/posts/flash-attention/",
+      "title": "The MathemaTricks behind FlashAttention",
+      "description": "Fast and memory efficient exact attention"
+    },
+    {
+      "link": "https://datta0.github.io/posts/the-lore-behind-lora/",
+      "title": "The lore behind LoRA",
+      "description": "LoRA imagined from the ground up"
+    }
+  ]
+}

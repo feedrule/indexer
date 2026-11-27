@@ -1,0 +1,20 @@
+{
+  "url": "https://alexfurrier.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://alexfurrier.dev/blog/2026-10-02-my-ray-summit-talk/",
+      "title": "My Ray Summit Talk",
+      "description": "Scaling GPU-powered machine learning models with Ray and Anyscale at Discord."
+    },
+    {
+      "link": "https://alexfurrier.dev/blog/2026-09-09-apparently-32-prs-week-conservative/",
+      "title": "Apparently 32 PRs a Week Was Conservative",
+      "description": "The models got better. Templates, context engineering, and dogfooding kept the projects from getting dumber."
+    },
+    {
+      "link": "https://alexfurrier.dev/blog/2026-08-18-my-day-job-is-unsupervising-agents/",
+      "title": "My Day Job Is Unsupervising Agents",
+      "description": "I gave my coding agents a Discord activity and accidentally made the scale of their work visible."
+    }
+  ]
+}

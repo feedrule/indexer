@@ -1,0 +1,20 @@
+{
+  "url": "https://mgmarlow.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://mgmarlow.com/words/2026-11-21-reading-nicomachean-ethics/",
+      "title": "Reading: Nicomachean Ethics",
+      "description": "My second choice of philosopher has not been as successful as the first. Aristotle is nowhere near the readability of Plato. I was surprised when I first began studying philosophy how enjoyable I found Plato's dialogues. Plato actually employs literary technique. Many of his dialogues read like stage plays; they're occasionally light and humorous, or they play with narrative structure, or they pos"
+    },
+    {
+      "link": "https://mgmarlow.com/words/2026-11-15-unpacking-atproto-cryptography/",
+      "title": "Unpacking Atproto Cryptography",
+      "description": "The AT Protocol (atproto) Cryptography page is an intersection of two of my recent interests: open web standards and cryptography. But for someone like me who is new to the world of cryptography, the page is so dense with details it's near unreadable. In an effort to better understand what the page is describing and how it fits together with different standards, I offer this post. I'll talk throug"
+    },
+    {
+      "link": "https://mgmarlow.com/words/2026-11-03-setting-up-wkd/",
+      "title": "Web Key Directory with Sequoia",
+      "description": "My prior post on Sequioa PGP didn't mention setting up a Web Key Directory (WKD) because I briefly read through the details and thought it might be a pain to set up. Turns out, it's quite easy. Not only that, it's probably the preferred option for custom domains. Let's talk about it. What is WKD? A Web Key Directory is a directory on your web server that points to the various public keys associate"
+    }
+  ]
+}

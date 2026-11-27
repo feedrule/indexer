@@ -1,0 +1,20 @@
+{
+  "url": "https://www.tengis.dev/rss",
+  "posts": [
+    {
+      "link": "https://www.tengis.dev/blog/projects",
+      "title": "Projects I've worked on",
+      "description": "A short list of projects and systems I am building or have built."
+    },
+    {
+      "link": "https://www.tengis.dev/blog/monorepo-dependencies-sherif",
+      "title": "TIL: I need yet another monorepo tool / Sherif",
+      "description": "Learned about the challenges of managing dependencies in a monorepo, like TypeScript version mismatches. Discovered and used Sherif, a CLI tool, to lint and fix these issues for a healthier monorepo setup."
+    },
+    {
+      "link": "https://www.tengis.dev/blog/nextjs-tailwind-docker-build-slow",
+      "title": "Debugging Slow Docker Builds in Next.js + Tailwind CSS v4",
+      "description": "Step-by-step guide to trace and fix painfully slow Docker builds in Next.js projects—plus the Tailwind CSS v4.1 upgrade that cuts build times by 3×."
+    }
+  ]
+}

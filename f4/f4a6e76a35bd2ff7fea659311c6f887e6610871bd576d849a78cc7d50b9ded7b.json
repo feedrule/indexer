@@ -1,0 +1,20 @@
+{
+  "url": "https://yongzx.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://yongzx.github.io/blog/2026/08/09/what-is-ssrf/?utm_source=rss&utm_medium=feed&utm_campaign=blog",
+      "title": "You should know about SSRF",
+      "description": "SSRF appears in the OpenAI–HuggingFace incident reports, and I expect it to matter more in the agentic-AI era."
+    },
+    {
+      "link": "https://yongzx.github.io/blog/2026/08/08/llm-can-jump?utm_source=rss&utm_medium=feed&utm_campaign=blog",
+      "title": "Hot Take: LLM can ‘jump’",
+      "description": "An interconnected-knowledge thesis: what it means for scientific breakthroughs, potential safety risks, and continual learning."
+    },
+    {
+      "link": "https://yongzx.github.io/blog/2026/08/04/thoughts-on-ukaisi-unsanctioned-agent-behaviour-during-cyber-testing/?utm_source=rss&utm_medium=feed&utm_campaign=blog",
+      "title": "Quick Thoughts on UKAISI’s “unsanctioned agent behaviour during cyber testing”",
+      "description": "On loss of control, social engineering, and realistic uplift studies"
+    }
+  ]
+}

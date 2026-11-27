@@ -1,0 +1,20 @@
+{
+  "url": "https://camden.sh/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://camden.sh/posts/clef-omni-spanish/",
+      "title": "Clef-omni Struggles with Similar-Sounding Spanish Words",
+      "description": "In my last post , I wrote about trying to use an audio judgment model to grade Spanish flashcards. I’m in a Spanish class right now and I figured it would be an interesting use of the new judgment models to try to create a low-latency experience for learning Spanish. When I got into working on this, I learned that there are pretty limited options for audio judgment models. Clef-omni is really the"
+    },
+    {
+      "link": "https://camden.sh/posts/audio-decision-models/",
+      "title": "Audio Judgment Models Are Jagged",
+      "description": "Judgment models are great for fast, cheap interactions. One underexplored use case is low-latency voice interactions. I wanted to create a flashcard program to help me learn Spanish. The experience I wanted was simple: I’d hear a word or phrase in English or Spanish and respond in the other language, depending on the drill. Then a system-one / judgment model would quickly grade my response. Existi"
+    },
+    {
+      "link": "https://sync.cheap/blog/make-com-fails-the-agent-experience-test/",
+      "title": "Make.com fails the agent experience test",
+      "description": "You can’t even create a simple scenario through the MCP."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://mathematicaloddsandends.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://mathematicaloddsandends.wordpress.com/2026/09/17/the-product-of-four-consecutive-fibonacci-numbers-equals-the-product-of-two-consecutive-integers-a-proof/",
+      "title": "The product of four consecutive Fibonacci numbers equals the product of two consecutive integers: a proof",
+      "description": "In this recent post, John Cook stated that the product of 4 consecutive Fibonacci numbers is equal to the product of two consecutive integers. We prove that statement in this post. Let denote the th Fibonacci number, using the convention … Continue reading →"
+    },
+    {
+      "link": "https://mathematicaloddsandends.wordpress.com/2026/08/22/abundant-numbers/",
+      "title": "Abundant numbers",
+      "description": "For any natural number , let denote the sum of its factors including itself. Take for example : , so 12 is an abundant number. (It also happens to be the smallest one.) If is an abundant number, then is … Continue reading →"
+    },
+    {
+      "link": "https://mathematicaloddsandends.wordpress.com/2026/08/09/evaluating-zeta2-and-zeta4-with-fourier-series/",
+      "title": "Evaluating \\zeta(2) and \\zeta(4) with Fourier series",
+      "description": "In this previous post, I claimed that , where is the zeta function There are several proofs for . In this post, I share one from Reference 1 that uses Fourier series. Reference 1 details how one can evaluate for … Continue reading →"
+    }
+  ]
+}

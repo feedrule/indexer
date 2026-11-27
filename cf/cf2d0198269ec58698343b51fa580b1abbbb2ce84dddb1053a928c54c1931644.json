@@ -1,0 +1,20 @@
+{
+  "url": "https://obiwahn.org/index.xml",
+  "posts": [
+    {
+      "link": "https://obiwahn.org/posts/safe-sftp-access-for-agents/",
+      "title": "Safe Repository Access for AI Agents with bwrap and sshfs",
+      "description": "I run AI agents in a dedicated VM. The agents need access to my local git repositories so they can read and modify code, but I don’t want them to be able to push to remotes, read my SSH keys, or touch anything outside the repos directory — even if an agent somehow gains root in the VM."
+    },
+    {
+      "link": "https://obiwahn.org/posts/thunderbird-iso-timestamps/",
+      "title": "Use ISO-8601 time-stamps in Thunderbird",
+      "description": "A simple solution to standardize time stamps in Thunderbird using the ISO-8601 format by leveraging the Lithuanian locale."
+    },
+    {
+      "link": "https://obiwahn.org/posts/linux-terminal-productivity/",
+      "title": "Default Compiler Defines",
+      "description": "A quick reference for displaying default preprocessor macros across different C and C++ compilers."
+    }
+  ]
+}

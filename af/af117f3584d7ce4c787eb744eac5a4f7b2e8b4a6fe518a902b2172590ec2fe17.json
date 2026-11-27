@@ -1,0 +1,20 @@
+{
+  "url": "https://pradeep.md/feed",
+  "posts": [
+    {
+      "link": "https://pradeep.md/2026/09/14/agenthook.html",
+      "title": "agenthook: give your coding agent a webhook-backed inbox",
+      "description": "It’s annoying when you’re working inside a coding agent, doing something with an external service that takes more time than a single turn. For example, a github deploy. Unless the agent is monitoring (which blocks the execution), we might not know."
+    },
+    {
+      "link": "https://pradeep.md/2026/09/14/mailcheck-2-0.html",
+      "title": "mailcheck 2.0",
+      "description": "Some libraries get old in a good way. They do one useful thing, people copy them into their product, and then nobody needs to think about them for years."
+    },
+    {
+      "link": "https://pradeep.md/2026/09/10/flyiverse.html",
+      "title": "Flyiverse: a field guide to the fly brain’s strange internet life",
+      "description": "A fly’s nervous system gets mapped by researchers. And somehow, someone looks at the wiring diagram and asks the eternal question - can it play Doom?"
+    }
+  ]
+}

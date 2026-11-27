@@ -1,0 +1,20 @@
+{
+  "url": "https://0xsp.com/feed/",
+  "posts": [
+    {
+      "link": "https://0xsp.com/research/turning-werenc-dll-lolbin-into-an-attacker-controlled-encryption-primitive-byok/?utm_source=rss&utm_medium=rss&utm_campaign=turning-werenc-dll-lolbin-into-an-attacker-controlled-encryption-primitive-byok",
+      "title": "Turning WerEnc.dll LOLBIN into an attacker-controlled encryption primitive (BYOK)",
+      "description": "Introduction Every Windows 10 1607+ and Windows 11 machine ships WerEnc.dll (“Windows Error Reporting Dump Encoding Library”) in System32. It is Microsoft-signed. It exports two functions:… The post Turning WerEnc.dll LOLBIN into an attacker-controlled encryption primitive (BYOK) appeared first on 0xsp Labs ."
+    },
+    {
+      "link": "https://0xsp.com/research/game-of-hide-and-seek-detecting-dynamic-api-resolution-at-runtime-with-aether/?utm_source=rss&utm_medium=rss&utm_campaign=game-of-hide-and-seek-detecting-dynamic-api-resolution-at-runtime-with-aether",
+      "title": "Game of Hide and Seek: Detecting Dynamic API Resolution at Runtime With Aether",
+      "description": "Introduction Welcome to the second blog post exploring the new capabilities of the Aether v0.9 stable release. Following the beta launch(v0.8), the community provided valuable feedback… The post Game of Hide and Seek: Detecting Dynamic API Resolution at Runtime With Aether appeared first on 0xsp Labs ."
+    },
+    {
+      "link": "https://0xsp.com/security%20research%20%20development%20srd/aether-memory-forensics-and-threat-hunting-tool/?utm_source=rss&utm_medium=rss&utm_campaign=aether-memory-forensics-and-threat-hunting-tool",
+      "title": "Aether: memory forensics and threat hunting tool",
+      "description": "Introduction I started building this tool a few months ago purely out of curiosity just to see if I could hunt for specific patterns in memory… The post Aether: memory forensics and threat hunting tool appeared first on 0xsp Labs ."
+    }
+  ]
+}

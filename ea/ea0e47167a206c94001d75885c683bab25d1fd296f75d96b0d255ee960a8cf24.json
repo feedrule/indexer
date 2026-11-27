@@ -1,0 +1,20 @@
+{
+  "url": "https://dirk.eddelbuettel.com/blog/index.rss",
+  "posts": [
+    {
+      "link": "http://dirk.eddelbuettel.com/blog/2026/11/17#littler_0.3.24",
+      "title": "littler 0.3.24 on CRAN: Two new scripts",
+      "description": "The twentyfifth release of littler as a CRAN package landed on CRAN today, following in the now twenty-one year history (!!) as a (initially non-CRAN) package started by Jeff in 2006, and joined by me just a little later. littler is the first command-line interface for R as it predates Rscript . It allows for piping as well for shebang scripting via #! , uses command-line arguments more consistent"
+    },
+    {
+      "link": "http://dirk.eddelbuettel.com/blog/2026/11/07#prrd_0.1.0",
+      "title": "prrd 0.1.0 at CRAN: Now With Real Concurrency",
+      "description": "A new release of prrd arrived at CRAN today, and has already been built for r2u and on r-universe . The prrd package facilitates the parallel running [of] reverse dependency [checks] when preparing R packages. It is used extensively for releases I make of Rcpp , RcppArmadillo , RcppEigen , BH , and others. The key idea of prrd is simple, and described in some more detail on its webpage and its Git"
+    },
+    {
+      "link": "http://dirk.eddelbuettel.com/blog/2026/11/02#myman_0.13.0",
+      "title": "myman 0.13.0 on CRAN: Another wave!",
+      "description": "Another new version of our still-new-ish package myman reached CRAN this morning, and has been built for r2u and on r-universe . The matching Python package has also been updated. The package offers twenty two hundred eighty four “My man …” posts by Kevin Kruse made on bsky during the summer of 2026. Each wave picked at one particular public persona. This package wrapse these up in the style of pa"
+    }
+  ]
+}

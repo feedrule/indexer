@@ -1,0 +1,20 @@
+{
+  "url": "https://itman.in/feed/",
+  "posts": [
+    {
+      "link": "https://itman.in/ansible-fundamentals-core-concepts-with-simple-examples/",
+      "title": "Ansible Fundamentals: Core Concepts with Simple Examples",
+      "description": "Ansible is not magic, and it is not complicated. It is a declarative automation tool that answers one question: “What should the system look like when I’m done?” In two articles, you’ll learn the core concepts of Ansible and apply them through small, practical tasks. We explain how to set up a fully functional WordPress … Continue reading Ansible Fundamentals: Core Concepts with Simple Examples Со"
+    },
+    {
+      "link": "https://itman.in/how-to-set-the-default-ssh-port-for-ansible-connections-to-2222/",
+      "title": "How to set the default SSH port for Ansible connections to 2222?",
+      "description": "There are several methods to set the SSH port for Ansible. Simplest one: Inventory variable Edit your inventory file to add the port: Or make it default for a whole group: Set project-wide default SSH port with ansible.cfg Create/edit ansible.cfg in your project directory: But the cleaner way in the config is put it under … Continue reading How to set the default SSH port for Ansible connections t"
+    },
+    {
+      "link": "https://itman.in/80-most-useful-linux-commands/",
+      "title": "80 Most Useful Linux Commands",
+      "description": "A alias The alias command lets you run a command or a series of Unix commands using a shorter name than the ones usually associated with them. apt, apt-get The apt-get tool automatically updates a Debian machine and installs Debian packages/programs. awk, Gawk AWK is a programming language tool used to manipulate text. The AWK … Continue reading 80 Most Useful Linux Commands Сообщение 80 Most Usef"
+    }
+  ]
+}

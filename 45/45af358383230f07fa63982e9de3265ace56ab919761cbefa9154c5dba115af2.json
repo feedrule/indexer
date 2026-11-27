@@ -1,0 +1,20 @@
+{
+  "url": "https://berry.sh/rss.xml",
+  "posts": [
+    {
+      "link": "https://berry.sh/posts/testing-code-harnesses-with-plugins/",
+      "title": "Testing Claude Code Harnesses with Plugins",
+      "description": "Claude Code plugins turn harness testing into a toggle — install candidate agent suites once, then enable and disable them in-session without swapping files."
+    },
+    {
+      "link": "https://berry.sh/posts/obsidian-publishing-guide/",
+      "title": "A Simple Guide to Managing and Publishing Articles with Obsidian",
+      "description": "Three battle-tested workflows for turning an Obsidian vault into a published blog — Git submodules, auto-export hooks, or a publishing plugin — with the trade-offs of each."
+    },
+    {
+      "link": "https://berry.sh/posts/codex-worktrees-git-locking/",
+      "title": "Codex + git worktrees: avoiding index.lock in multi-agent workflows",
+      "description": "Practical patterns for safely using git worktrees with multiple concurrent agents without hitting Git lock errors."
+    }
+  ]
+}

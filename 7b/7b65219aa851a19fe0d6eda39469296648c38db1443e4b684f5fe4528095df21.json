@@ -1,0 +1,20 @@
+{
+  "url": "https://www.martyndavis.com/?feed=rss2",
+  "posts": [
+    {
+      "link": "https://www.martyndavis.com/?p=1169",
+      "title": "Notabene3",
+      "description": "Just a quick post to mention a new application I’ve been working on. I started it back in the 1990s (!) as a personal aid to help me learn to read music (I was studying for violin grade exams) and the concept helped me immensely. I upgraded it over the years and now it’s reached … Continue reading \"Notabene3\""
+    },
+    {
+      "link": "https://www.martyndavis.com/?p=1139",
+      "title": "CMake Makefile",
+      "description": "CMake has plenty of advantages, I don’t need to re-iterate them here. However, if you’re like me, who lives on the command line and has ./configure and make seemingly hard-wired into my fingers, it seems a bit cumbersome to have to type mkdir build, cd build, and (for example) cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON each time … Continue reading \"CMake Makefile\""
+    },
+    {
+      "link": "https://www.martyndavis.com/?p=1120",
+      "title": "std::visit and std::variant",
+      "description": "If you’ve got a set of types, and you need to iterate over them and do something with each of them, your initial instinct would probably be to make them related. For example, if we had a set of application menu commands, we might make them all inherit from a pure virtual base class (let’s … Continue reading \"std::visit and std::variant\""
+    }
+  ]
+}

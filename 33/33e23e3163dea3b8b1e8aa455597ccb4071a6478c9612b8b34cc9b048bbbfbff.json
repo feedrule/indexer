@@ -1,0 +1,20 @@
+{
+  "url": "https://ergaster.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://ergaster.org/til/deleting-better-than-hoarding/",
+      "title": "TIL that Deleting files is better than hoarding them",
+      "description": "It's easy to hoard files at work, but it's more of a liability than anything."
+    },
+    {
+      "link": "https://ergaster.org/thoughts/front-server/",
+      "title": "I realized that A cheap VPS is a good front",
+      "description": "I host services at home, but I don't want to give my IP to the world. A small VPS and haproxy protect me."
+    },
+    {
+      "link": "https://ergaster.org/til/yubikey-unlock-laptop/",
+      "title": "TIL that YubiKeys are convenient for Linux login",
+      "description": "Typing a long password when you need to log in or get sudo privileges is annoying. YubiKeys can make it easier."
+    }
+  ]
+}

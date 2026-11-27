@@ -1,0 +1,20 @@
+{
+  "url": "https://fifthrevision.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://fifthrevision.com/writing/2026/machines-of-stories-and-logic.html",
+      "title": "Machines of Stories and Logic",
+      "description": "On building the machines of the 21st century"
+    },
+    {
+      "link": "https://fifthrevision.com/micro/2026/axle-0.35-and-0.36.html",
+      "title": "Release: Axle 0.35 and 0.36",
+      "description": "For some reason, Axle releases often come in pairs. Often one release ships something new and interesting, then it prompts follow-up work. In a way, that’s the mark of a productive design iteration. 0.35 highlights Continuations . A send can now carry after , a program that runs once the turn settles. This holds the queue and allows follow-up messages. This is useful in places where a program want"
+    },
+    {
+      "link": "https://fifthrevision.com/micro/2026/intellectual-labor.html",
+      "title": "Intellectual Labor",
+      "description": "I think a lot about the nature of work, especially how it pertains to my own. What it comes down to, put simply, is whether one believes work to be zero-sum. As best I can tell, building software is decidedly not zero-sum. Jevons paradox applies here, but I’ll go even one step further: there will be not just more consumption, but compounding productivity. Software benefits from specificity; it rea"
+    }
+  ]
+}

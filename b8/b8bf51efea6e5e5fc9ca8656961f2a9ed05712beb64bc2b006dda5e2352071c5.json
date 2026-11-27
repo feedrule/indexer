@@ -1,0 +1,20 @@
+{
+  "url": "https://mloduchowski.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://mloduchowski.com/-mounted-bitter-fs-better-with-claude/",
+      "title": "🎉 Mounted — bitter-FS better with Claude",
+      "description": "A 41 TB filesystem, two kernels that didn't know about each other, and the ~320 KB of writes that brought it all back."
+    },
+    {
+      "link": "https://mloduchowski.com/scsipub-or-what-if-mounting-a-disk-image-was-as-easy-as-clicking-a-link/",
+      "title": "scsipub — or, what if mounting a disk image was as easy as clicking a link",
+      "description": "I've spent more time than I'd like to admit flashing SD cards, burning ISOs to USB sticks, and dd-ing images onto drives just to boot a machine into something different for twenty minutes. The tooling exists, the images exist — the friction..."
+    },
+    {
+      "link": "https://mloduchowski.com/iscsi-usb-bridge-or-making-a-5-devkit-pretend-to-be-a-flash-drive/",
+      "title": "iSCSI USB Bridge - or, making a $5 devkit pretend to be a flash drive",
+      "description": "Connecting external PCI Express devices to Raspberry Pi was one thing. This time the question was simpler, but somehow more annoying: what's the laziest possible way to get files from a NAS onto a device that only understands USB mass storage?"
+    }
+  ]
+}

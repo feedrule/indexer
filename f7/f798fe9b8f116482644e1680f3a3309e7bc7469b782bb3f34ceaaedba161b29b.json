@@ -1,0 +1,20 @@
+{
+  "url": "https://fullstackphoenix.com/posts/rss.xml",
+  "posts": [
+    {
+      "link": "https://fullstackphoenix.com/tutorials/rendering-an-activity-feed-in-phoenix-liveview",
+      "title": "Rendering an Activity Feed in Phoenix LiveView",
+      "description": "In the previous tutorial, we built an automatic activity tracking system that records events whenever a tracked schema is inserted, updated, or deleted. Now let's build the actual feed — a LiveView that renders events with cursor-based pagination and a \"load more\" button."
+    },
+    {
+      "link": "https://fullstackphoenix.com/tutorials/activity-tracking-in-phoenix-liveview",
+      "title": "Activity Tracking in Phoenix LiveView",
+      "description": "Most SaaS apps need some form of activity tracking — who did what and when. In this tutorial, we'll build an automatic activity tracking system that hooks into Ecto's Repo so every insert, update, and delete is recorded without cluttering your business logic."
+    },
+    {
+      "link": "https://fullstackphoenix.com/tutorials/infinite-scroll-in-phoenix-liveview",
+      "title": "Infinite Scroll in Phoenix LiveView",
+      "description": "Traditional pagination works fine, but sometimes you want something smoother. Infinite scroll keeps the user in the flow — no clicking \"next\", no page reloads. In this tutorial, we'll build a fully virtualized infinite scroll list using LiveView streams, viewport bindings, and zero JavaScript."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://sajalsharma.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://sajalsharma.com/posts/personal-agents-have-gone-mainstream/",
+      "title": "Personal Agents Have Gone Mainstream",
+      "description": "Within a year of OpenClaw, Meta, OpenAI, and Instinct launched personal agents. What stands between asking AI questions and handing it your errands?"
+    },
+    {
+      "link": "https://sajalsharma.com/posts/shared-knowledge-base-for-ai-agents/",
+      "title": "A Guide to Building a Shared Knowledge Base for Your AI Agents",
+      "description": "Build a shared knowledge base that you and your AI agents can use across tools and devices, with common notes, instructions, skills, and workflows."
+    },
+    {
+      "link": "https://sajalsharma.com/posts/sandboxing-an-ai-agent/",
+      "title": "Sandboxing an AI Agent",
+      "description": "A guide to sandboxing AI agents: why an autonomous agent needs its own disposable computer, and the isolation tech underneath."
+    }
+  ]
+}

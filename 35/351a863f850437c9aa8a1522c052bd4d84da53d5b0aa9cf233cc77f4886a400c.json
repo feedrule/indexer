@@ -1,0 +1,20 @@
+{
+  "url": "https://schaerli.org/weblog/rss",
+  "posts": [
+    {
+      "link": "https://schaerli.org/weblog/7-filen/",
+      "title": "Filen's password onion made me cry",
+      "description": "Filen hashes passwords with MD5(MD4(MD2(pwd))). This post shows several cryptographic weaknesses in their protocol and questions if it's even worth doing end-to-end encryption delivered through a webpage."
+    },
+    {
+      "link": "https://schaerli.org/weblog/6-internxt/",
+      "title": "Post-Quantum Crypto Won't Fix Your Architecture",
+      "description": "Adding PQC to this product was like installing a vault door on a tent. The server could intercept your keys and an RCE let attackers run code on your desktop."
+    },
+    {
+      "link": "https://schaerli.org/weblog/5-proton/",
+      "title": "Proton's crypto is not Transparent and not OPAQUE",
+      "description": "Proton says privacy \"isn't a promise, it's mathematically ensured.\" I found new ways they could read your data anyway."
+    }
+  ]
+}

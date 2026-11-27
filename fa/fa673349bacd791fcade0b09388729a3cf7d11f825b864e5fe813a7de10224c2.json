@@ -1,0 +1,20 @@
+{
+  "url": "https://mydnic.be/rss",
+  "posts": [
+    {
+      "link": "https://mydnic.be/post/mini-swe-agent-the-100-line-ai-agent-that-solves-github-issues",
+      "title": "mini-swe-agent: The 100 Line AI Agent That Solves GitHub Issues",
+      "description": "I was scrolling through my GitHub stars looking for something to write about and stopped on this one again. mini-swe-agent is the kind of project I like: it takes something everyone assumes needs a huge framework (an AI coding agent) and does it i..."
+    },
+    {
+      "link": "https://mydnic.be/post/pdfcraft-a-pdf-reader-and-editor-written-from-scratch-in-rust",
+      "title": "PdfCraft: a PDF reader and editor written from scratch in Rust",
+      "description": "I spend a lot of time fighting with PDFs: splitting invoices, redacting a page before sending a contract, or just trying to read a scanned document without my PDF viewer choking on it. So when I came across PdfCraft, a PDF reader and editor built en..."
+    },
+    {
+      "link": "https://mydnic.be/post/eveil-cloud-grew-up-a-lot-since-launch-here-is-what-changed",
+      "title": "Eveil.cloud grew up a lot since launch (here is what changed)",
+      "description": "Eveil.cloud is a marketing agent that finds your customers for you. You give it your website URL, it figures out what you sell and to whom, then it goes and tells people about it on every channel a small team never has time to cover by hand: cold..."
+    }
+  ]
+}

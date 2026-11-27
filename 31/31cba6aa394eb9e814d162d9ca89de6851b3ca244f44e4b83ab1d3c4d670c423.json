@@ -1,0 +1,20 @@
+{
+  "url": "https://markjames.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://markjames.dev/blog/bit-masking-enum-flags-dotnet",
+      "title": "Bit Masking Made Easy with .NET Enum Flags",
+      "description": null
+    },
+    {
+      "link": "https://markjames.dev/blog/6502-jump-indirect-bug",
+      "title": "6502 Emulation - The Jump Indirect Bug",
+      "description": null
+    },
+    {
+      "link": "https://markjames.dev/blog/jwt-authorization-asp-net-core",
+      "title": "Securing an ASP .NET Core Web API using JWT and Role-based Authorization",
+      "description": null
+    }
+  ]
+}

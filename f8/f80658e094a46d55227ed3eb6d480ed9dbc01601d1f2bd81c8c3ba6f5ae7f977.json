@@ -1,0 +1,20 @@
+{
+  "url": "https://benscheirman.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://benscheirman.com/2026/11/hurry-up-and-wait",
+      "title": "Hurry Up And Wait",
+      "description": "I’m sure we’ve all seen this before… You’re driving and there’s a car speeding and weaving in and out of other cars, driving dangerously and passes you. You observe them pass a few other cars and then they are out of sight. Then a couple minutes later you pull up to a light and that same car is right next to you. All that effort, and they aren’t any faster."
+    },
+    {
+      "link": "https://benscheirman.com/2026/04/mise-the-one-tool-manager",
+      "title": "mise: My Go-To Tool Manager and Task Runner",
+      "description": "For years my machine has had a graveyard of version managers: rbenv for Ruby, nvm for Node, pyenv for Python, etc. Each one had its own shell hook, its own config format, and its own way of getting confused when I would cd into a project."
+    },
+    {
+      "link": "https://benscheirman.com/2025/04/organizing-routes-in-vapor",
+      "title": "Organizing Routes in a Real Vapor App",
+      "description": "When you follow a Vapor tutorial, you’ll often end up with something like this in routes.swift:"
+    }
+  ]
+}

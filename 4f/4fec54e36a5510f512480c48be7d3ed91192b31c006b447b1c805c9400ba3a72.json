@@ -1,0 +1,20 @@
+{
+  "url": "https://samihonkonen.com/index.xml",
+  "posts": [
+    {
+      "link": "https://samihonkonen.com/posts/my-personal-assistant-today/",
+      "title": "My personal AI assistant today: ~170 tools, any client, Hermes as the daily driver",
+      "description": "My AI assistant is one backend with ~170 tools, used from Hermes, Claude Code or Claude Desktop. Here’s what it does, why one backend is worth it, and where Hermes fits in."
+    },
+    {
+      "link": "https://samihonkonen.com/posts/how-the-architect-talks-to-the-engineer/",
+      "title": "How the architect talks to the engineer",
+      "description": "The architect and the engineer never share a context window. Here’s the protocol that lets them work together anyway: a handoff comment in Linear, ADRs for anything durable, and a status field that says whose move it is."
+    },
+    {
+      "link": "https://samihonkonen.com/posts/the-engineer-gets-its-own-machine/",
+      "title": "The engineer gets its own machine",
+      "description": "The architect/engineer split from the last post became an actual CLI, and the engineer role moved off my laptop onto a machine of its own."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.farre.se/feed",
+  "posts": [
+    {
+      "link": "https://blog.farre.se/posts/2026/08/17/tracing-web-specs/",
+      "title": "Tracing algorithms through web specifications",
+      "description": "A bug comes in, or someone shows me a page doing something surprising, and the question is always the same one. Is that what the spec says? Not what we all assume it says, and not what Gecko happens to do, but what the algorithm actually does when you follow it step by step. So I open html.spec.whatwg.org, find the entry point, and start reading. Twenty tabs later I have usually lost the thread."
+    },
+    {
+      "link": "https://blog.farre.se/posts/2026/06/01/session-history-diagrams/",
+      "title": "Session History Diagrams in Firefox DevTools",
+      "description": "I’ve spent a lot of time at Mozilla working on session history, the machinery that keeps track of where you’ve been so the back and forward buttons do something sensible. It’s one of those parts of the browser that sounds simple from the outside and turns out to be anything but. Once you add iframes, nested iframes, and the subtle rules about when a navigation creates a new entry versus replacing"
+    },
+    {
+      "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "title": "How to make Firefox builds1 17% faster2",
+      "description": "In the previous post, I mentioned that buildcache has some unique properties compared to ccache and sccache. One of them is its Lua plugin system, which lets you write custom wrappers for programs that aren’t compilers in the traditional sense. With Bug 2027655 now merged, we can use this to cache Firefox’s WebIDL binding code generation."
+    }
+  ]
+}

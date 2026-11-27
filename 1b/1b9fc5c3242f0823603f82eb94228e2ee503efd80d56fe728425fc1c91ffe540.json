@@ -1,0 +1,20 @@
+{
+  "url": "https://marcoroth.dev/feed.xml",
+  "posts": [
+    {
+      "link": "https://marcoroth.dev/posts/introducing-insta-snapshot-testing-for-ruby",
+      "title": "Introducing Insta: Snapshot Testing for Ruby",
+      "description": "Announced on July 15 at RubyConf 2026 in Las Vegas. Today at RubyConf 2026 , I’m excited to release a project that fell out of building Herb : The lightning talk page, and the recording once it’s available, lives on RubyEvents . 📸 Insta , snapshot testing for Ruby, with an interactive review workflow. Think of it as assert_equal , where the expected value manages itself. Insta is extracted from He"
+    },
+    {
+      "link": "https://marcoroth.dev/posts/glamorous-christmas",
+      "title": "Glamorous Christmas: Bringing Charm to Ruby",
+      "description": "Today, Ruby 4.0 was released . What an exciting milestone for the language! This release brings some amazing new features like the experimental Ruby::Box isolation mechanism, the new ZJIT compiler, significant performance improvements for class instantiation, and promotions of Set and Pathname to core classes. It’s incredible to see how Ruby continues to thrive and be pushed forward 30 years after"
+    },
+    {
+      "link": "https://marcoroth.dev/posts/rails-luminary-2025",
+      "title": "Giving Back to the Rails Community",
+      "description": "I’m deeply grateful and truly honored to be named a Rails Luminary this year. Thank you to everyone who supported me, my work, and took the time to nominate me. Recognition like this only exists because of a community that cares about long-term contribution, and I don’t take that lightly. Rails has given me a lot over the years. Not just technically, but professionally and personally. Rails gave m"
+    }
+  ]
+}

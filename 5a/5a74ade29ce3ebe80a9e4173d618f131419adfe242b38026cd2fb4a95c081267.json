@@ -1,0 +1,20 @@
+{
+  "url": "https://jackharrington.xyz/atom/",
+  "posts": [
+    {
+      "link": "https://jackharrington.xyz/aws-slack-agents/",
+      "title": "Building a Slack agent with AWS",
+      "description": "Introduction Slack agents are massively powerful. A well-made Slack agent can be used by a company to automate a lot of toil and tiring work. You might ask why a Slack agent is uniquely powerful compared to, say, Claude Desktop. It's because Slack is already a multiplayer experience where the context of multiple people can coalesce in a natural setting. Often the deciding factor of if an agent wil"
+    },
+    {
+      "link": "https://jackharrington.xyz/teaching-a-llm-to-do-addition/",
+      "title": "Teaching a small LLM to do addition with RL",
+      "description": "1 I had fun teaching a very small LLM how to add numbers together this weekend. I followed this Prime Intellect task-set tutorial quite closely, but I recommend messing around with Prime first, since it takes a hot minute to learn all the terminology and how the Verifiers library works. Qwen 3.5 0.8B is a tiny LLM. It fits into about 2 GB and can run on your laptop. It's...not very smart. Here is"
+    },
+    {
+      "link": "https://jackharrington.xyz/codeindexing/",
+      "title": "Let's build a cursor-style code indexer.",
+      "description": "Introduction. Codebase indexing is very commonplace. You load up a repo in Cursor, and then it breaks up your code and stores it into a vector DB. This powers the semantic search Cursor does, where it uses natural language search on your codebase, like: \"How does the logging system work?\". This looked like an interesting project to build out as a CLI tool. Luckily, Cursor provides a fairly detaile"
+    }
+  ]
+}

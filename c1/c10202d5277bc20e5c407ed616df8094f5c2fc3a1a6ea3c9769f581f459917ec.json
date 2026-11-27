@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.nono.io/index.xml",
+  "posts": [
+    {
+      "link": "https://blog.nono.io/post/software_engineering_income/",
+      "title": "Software Engineering: Income over the Course of a Career",
+      "description": "A Software Engineer’s Annual Gross Income ( AGI ) over 35 years, adjusted for inflation. AGI is a US tax measurement of an individual’s total gross income minus specific deductions. This is a chart that displays my AGI for the years 1987 through 2025 relative to my 1987 AGI, adjusted for inflation. For example, in 1987 the number is 1.0 (my 1987 AGI is 1.0✕ my 1987 AGI). In 1998, my AGI was 2.0 (I"
+    },
+    {
+      "link": "https://blog.nono.io/post/8.8.8.8/",
+      "title": "What's at the Other End of 8.8.8.8?",
+      "description": "8.8.8.8 is Google’s “ free, global DNS resolution service ”, so popular that it’s been lampooned by XKCD . It has a wonderfully straightforward front-end: the IP address 8.8.8.8 . But that begs the question: what’s on the back-end? Do the authoritative nameservers receive queries from 8.8.8.8 or some other IP address? Spoiler: the queries don’t originate from 8.8.8.8 ; instead, the queries origina"
+    },
+    {
+      "link": "https://blog.nono.io/post/debugging_vsphere_cpi_api/",
+      "title": "Debugging the vSphere API via the BOSH vSphere CPI from Your Workstation",
+      "description": "This Blog Post Is Not For You This blog post is directed towards people who are working with the BOSH vSphere CPI (Cloud Provider Interface), which is not you. There are more interesting things to read. If you want suggestions, try Ulysses by Sir Alfred Lord Tennyson, a poem about an aged hero seeking to recapture his adventures of youth. Challenge: Extending the Size of the Root Disk I’d like to"
+    }
+  ]
+}

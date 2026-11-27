@@ -1,0 +1,20 @@
+{
+  "url": "https://dnhkng.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://dnhkng.github.io/posts/m4-tinystories/",
+      "title": "Teaching an M4 CPU to Tell Stories with XOR, Popcount and SDOT",
+      "description": "Introduction Language models are designed in linear algebra, PyTorch functions, and translated onto hardware afterwards. You pick an architecture, then you bend CUDA, Metal, or BLAS to your will to run it, hoping the compilers will do a good job with graph optimisation. An ARM core already contains a pile of very fast operations that nobody invented for language models. It compares floating-po..."
+    },
+    {
+      "link": "https://dnhkng.github.io/posts/gh200-benchmarking-part-4-dsv4-released/",
+      "title": "2x GH200 for LLM inference, Part 4: DeepSeek V4 Flash - SGLang vs vLLM at 1M context",
+      "description": "Introduction Part 1 measured this dual GH200 workstation as a memory system. Part 2 used those numbers on the preview DeepSeek V4 Flash checkpoint, where the interesting/painful part was getting multi-token prediction to run at all: a hand-written vLLM O-projection fallback, a config-propagation fix, and a narrow upstream PR. Part 3 then took the box to its limit with GLM-5.2 and expert offloa..."
+    },
+    {
+      "link": "https://dnhkng.github.io/posts/gh200-benchmarking-part-3-glm52/",
+      "title": "2x GH200 for LLM inference, Part 3: GLM-5.2, expert offload, and the CPU question",
+      "description": "Introduction Part 1 measured the dual GH200 workstation as a memory system. Part 2 used those measurements to explain why DeepSeek V4 Flash can be fast in vLLM when the model layout fits the hardware: keep hot weights in HBM, avoid unnecessary Hopper-to-Hopper traffic, and use MTP only where the acceptance rate pays for the draft work. GLM-5.2 starts at 2.39 output tok/s on this machine and a..."
+    }
+  ]
+}

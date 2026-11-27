@@ -1,0 +1,20 @@
+{
+  "url": "https://rieble.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://rieble.com/blog/llm-first-human-second/",
+      "title": "Data Visualization: LLM first, human second",
+      "description": "Interactions happen between agents. Humans are rarely involved."
+    },
+    {
+      "link": "https://rieble.com/blog/hands-off-coding/",
+      "title": "Hands-Off Coding",
+      "description": "Software engineer economics are broken. Everything will change. Here is what changed for me so far."
+    },
+    {
+      "link": "https://rieble.com/blog/talking-to-the-ai/",
+      "title": "Talking to the AI",
+      "description": "Exploring how AI responses vary with subtle prompt changes, and why understanding this matters when using language models."
+    }
+  ]
+}

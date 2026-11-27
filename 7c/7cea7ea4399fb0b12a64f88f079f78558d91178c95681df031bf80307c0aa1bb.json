@@ -1,0 +1,20 @@
+{
+  "url": "http://brianguthrie.com/index.xml",
+  "posts": [
+    {
+      "link": "https://brianguthrie.com/p/product-engineering-software-craft/",
+      "title": "The new software craft",
+      "description": "A friend of mine is a solo nontechnical founder with a product background. For years he employed engineers in Ukraine to build his product, but he wasn’t a programmer, so he couldn’t read the code they wrote, or apply much scrutiny to their technical decisions; functionally, he had to trust their judgment on things he couldn’t verify. You’ve likely had a boss like this somewhere up the reporting c"
+    },
+    {
+      "link": "https://brianguthrie.com/p/software-architecture-after-ai/",
+      "title": "Software architecture after AI",
+      "description": "One of the more useful definitions of software architecture comes from Building Evolutionary Architectures : architecture is definitionally the stuff that’s hard to change. 1 I’ve always found this definition to be the most honest framing available, to say nothing of the simplest. It doesn’t pretend architecture is about beauty or correctness or your resident architect’s favorite stalking-horse. I"
+    },
+    {
+      "link": "https://brianguthrie.com/p/ai-isnt-a-value-add-for-software-software-is-a-value-add-for-ai/",
+      "title": "AI isn't a value-add for software; software is a value-add for AI",
+      "description": "When a company hits a ceiling on its core business, it often tries to grow demand. The Michelin Guide wasn’t about restaurants; it was about miles driven. Facebook’s internet.org wasn’t about altruism; it unlocked expansion by growing the size of the entire internet. The ceiling on the business was the medium, so they expanded it. AI companies face the same structural problem: their constraint on"
+    }
+  ]
+}

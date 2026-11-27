@@ -1,0 +1,20 @@
+{
+  "url": "https://jadjoubran.io/rss.xml",
+  "posts": [
+    {
+      "link": "https://jadjoubran.io/blog/prevent-antigravity-env",
+      "title": "How to prevent Google Antigravity from accessing .env",
+      "description": "How to deny Google Antigravity's agent access to your .env in the IDE and the CLI, how to verify it worked, and the settings around it that matter."
+    },
+    {
+      "link": "https://jadjoubran.io/blog/prevent-github-copilot-env",
+      "title": "How to prevent GitHub Copilot from accessing .env",
+      "description": "Two ways to stop GitHub Copilot from suggesting inside your .env files in VS Code, how to verify it worked, and where those fixes stop helping."
+    },
+    {
+      "link": "https://jadjoubran.io/blog/declarative-partial-updates",
+      "title": "Declarative Partial Updates unlock a new Native Component Model",
+      "description": "How declarative partial updates stream HTML out of order with markers and templates, preserve app state without a framework, and lets us move to a native component model."
+    }
+  ]
+}

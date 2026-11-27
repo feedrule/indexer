@@ -1,0 +1,20 @@
+{
+  "url": "https://drybalka.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://drybalka.com/blog/adapting-claude-skills-for-opencode/",
+      "title": "Adapting Claude Code skills for OpenCode",
+      "description": "Why Claude Code skills don't translate verbatim to OpenCode, and how I adapted a popular skills collection."
+    },
+    {
+      "link": "https://drybalka.com/blog/my-writing-style-llm-benchmark/",
+      "title": "My writing style LLM benchmark",
+      "description": "Which model emulates my writing style best and why I still decided not to use it."
+    },
+    {
+      "link": "https://drybalka.com/blog/personal-website/",
+      "title": "Personal website",
+      "description": "Building a personal website is easier and more rewarding than you might think."
+    }
+  ]
+}

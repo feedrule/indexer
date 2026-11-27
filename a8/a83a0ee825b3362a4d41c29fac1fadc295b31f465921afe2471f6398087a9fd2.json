@@ -1,0 +1,20 @@
+{
+  "url": "https://www.vult-dsp.com/blog-feed.xml",
+  "posts": [
+    {
+      "link": "https://www.vult-dsp.com/post/ramblings-and-thoughts-to-get-overon-working",
+      "title": "Ramblings and thoughts to get Overon working",
+      "description": "In this blog post, I just let my mind go and describe what I have been doing for the last couple of years to design a single VCV Rack module: Overon. Vult Overon: a SEM inspired synth voice Since VCV Rack was released, it has been my favorite platform for experimenting with all the ideas I have for synthesizers. Thanks to its open nature, I have been able to create my own modules and algorithms. W"
+    },
+    {
+      "link": "https://www.vult-dsp.com/post/four-new-ways-to-make-chaos-with-caudal",
+      "title": "Four New Ways to Make Chaos with Caudal",
+      "description": "If you have been following the Caudal story, you know that the module started as a simulation of a four-segment pendulum. Over time, I added the Planets and Fish Tank models, and later the Fluctuations mode inspired by the Buchla Source of Uncertainty. With this update, I'm adding four new operation modes that I've been developing over the past months. When I designed the original Caudal models, I"
+    },
+    {
+      "link": "https://www.vult-dsp.com/post/new-firmware-for-the-freak",
+      "title": "New firmware for the Freak!",
+      "description": "Over the past few months, I’ve made progress developing a new testing platform to help verify the changes I made to the Freak firmware...."
+    }
+  ]
+}

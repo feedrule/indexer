@@ -1,0 +1,20 @@
+{
+  "url": "https://korban.net/atom.xml",
+  "posts": [
+    {
+      "link": "https://korban.net//posts/2026-08-20-software-in-the-age-of-coding-agents.html",
+      "title": "Software in the age of coding agents",
+      "description": null
+    },
+    {
+      "link": "https://korban.net//posts/2026-05-23-using-codex-to-finish-algo.html",
+      "title": "Using Codex to finish Algo",
+      "description": "Reflects on using Codex to finish the Algo Elixir package, covering where it helped, where it fell short, and why human review remained the bottleneck."
+    },
+    {
+      "link": "https://korban.net//posts/2026-05-20-algo-ramda-like-elixir-package.html",
+      "title": "Algo: a Ramda-like Elixir package for working with lists, nested maps and keyword lists",
+      "description": "Introduces Algo, an Elixir utility package for practical data transformations with nested maps, keyword lists, collection helpers, and naming choices that make immutable updates read more clearly."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://swharden.com/blog/feed/",
+  "posts": [
+    {
+      "link": "https://swharden.com/blog/2026-05-02-jpeg-payload/",
+      "title": "Embed Arbitrary Payloads into JPEGs without Special Tools",
+      "description": "Arbitrary binary data can be hidden at the end of JPEG files which otherwise behave normally. This article explores strategies for packing and unpacking payloads into JPEG images using standard console commands and no external tools or special steganography software. I find it amusing how easy it is to hide arbitrary data in JPEG images that otherwise appear normal! Images with unexpected trailing"
+    },
+    {
+      "link": "https://swharden.com/blog/2026-03-05-git-activity-merge/",
+      "title": "Merge External Repositories into GitHub Contribution Graph",
+      "description": "I enjoy gazing at the green squares in my GitHub Contribution Graph as a way to visualize the ebbs and flows of my development efforts over the last decade. However, I’ve been working more in repositories on other platforms (GitLab, Azure, and locally) which are not tracked by GitHub and do not contribute to their activity graph. I sought a solution to reclaim those hard-earned green squares! This"
+    },
+    {
+      "link": "https://swharden.com/blog/2025-11-16-streaming-pi-digits/",
+      "title": "Streaming Digits of Pi",
+      "description": "This page describes a strategy for calculating pi one digit at a time using a streaming algorithm that does not require floating point arithmetic. Although there are more exotic strategies for calculating pi, this one is surprisingly simple to implement, and it streams the digits of pi infinitely. Before we dive in, give it a try in your browser! TheoryIt has long been known that pi can be represe"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://gregwilson.tech/rss.xml",
+  "posts": [
+    {
+      "link": "https://gregwilson.tech/ios-charging-monitor",
+      "title": "ChargeSpeed: live iPhone charging watts, straight from the PMU",
+      "description": "I built a small SwiftUI app that reads my iPhone's charger and battery sensors through private IOKit APIs and shows real-time watts, volts, amps, the negotiated USB-PD profile, and temperatures. Source and an unsigned IPA are on GitHub. It can never ship on the App Store, and here's why."
+    },
+    {
+      "link": "https://gregwilson.tech/building-domain-specific-ai-chatbots",
+      "title": "Building domain-specific AI chatbots: JazzQuery, RennQuery, WristQuery, and Celiac vs Me",
+      "description": "A technical deep-dive on the shared framework behind four niche AI companions — the serverless chat architecture, the cheap-Haiku/smart-Sonnet model split, curated web allowlists, and local knowledge bases (Wikipedia mirrors, a 33-million-row jazz discography, and my own book)."
+    },
+    {
+      "link": "https://gregwilson.tech/reboot-volvo-ex90",
+      "title": "Every known way to reboot or reset a 2025 Volvo EX90",
+      "description": "Every known way to reboot or reset a 2025 Volvo EX90 - The EX90 Survival Guide"
+    }
+  ]
+}

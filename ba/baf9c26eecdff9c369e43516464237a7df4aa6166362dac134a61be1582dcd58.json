@@ -1,0 +1,20 @@
+{
+  "url": "https://zamundaaa.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://zamundaaa.github.io/wayland/2026/07/31/fixing-multi-gpu.html",
+      "title": "Fixing Multi-GPU performance, part 1",
+      "description": "Performance on “secondary” GPUs has historically been suboptimal on Linux, especially with external GPUs. Let’s take a look at why it’s slow, and how we’re finally fixing it."
+    },
+    {
+      "link": "https://zamundaaa.github.io/wayland,/graphics/drivers/2026/06/24/display-next-hackfest.html",
+      "title": "Display Next Hackfest 2026",
+      "description": "This year, there was another display next hackfest, this time in Nice, France. This was a very productive hackfest, so I’ll focus just on my personal highlights here."
+    },
+    {
+      "link": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+      "title": "Making wl_shm fast",
+      "description": "While most new applications use the GPU for rendering to achieve better performance and battery life, there are some new applications and a lot of older applications that still use CPU rendering. More specifically relevant for KDE, while QtQuick is GPU accelerated, QtWidgets uses CPU rendering."
+    }
+  ]
+}

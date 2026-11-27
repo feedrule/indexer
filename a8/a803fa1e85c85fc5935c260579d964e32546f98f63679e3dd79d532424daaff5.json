@@ -1,0 +1,20 @@
+{
+  "url": "https://jdkaplan.dev/blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://jdkaplan.dev/blog/thinkin-logs-2026-10-09/",
+      "title": "Debugging Breakout paddle bounces",
+      "description": "Over the summer, I started working through the 20 games challenge . While working on my Breakout clone , I struggled with choosing the physics parameters for how the paddle should affect the ball's speed and angle. That's the kind of thing that's easier with a debugger! My childhood memory of Breakout is actually itself a clone (Brick on the iPod 5G). But I think I remember that the paddle would b"
+    },
+    {
+      "link": "https://jdkaplan.dev/blog/thinkin-logs-2026-05-15/",
+      "title": "Shell typo aliases",
+      "description": "There are some commands I run so often that I find it useful to assign them to single-character aliases. This has turned out to be a source of great convenience but also the cause of further problems (namely, one specific typo). First, a list of the aliases I've defined: alias g = ' git ' alias j = ' jump ' # A `cd` bookmark script I have alias k = ' kubectl ' alias l = ' ls ' alias t = ' task ' a"
+    },
+    {
+      "link": "https://jdkaplan.dev/blog/thinkin-logs-2026-05-05/",
+      "title": "Named function expressions in JavaScript",
+      "description": "Until today, I thought I knew all of the ways that it was possible to define a function in JavaScript. But I jokingly tried const f = function g() {}; in a Node REPL, and it worked , so now I feel like I need to explain it to myself. Common ways to make a function To give some context for why I was surprised that \"named function expressions\" are allowed, I think it's worth showing examples of what"
+    }
+  ]
+}

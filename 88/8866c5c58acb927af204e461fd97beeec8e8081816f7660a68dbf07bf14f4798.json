@@ -1,0 +1,20 @@
+{
+  "url": "https://dmitry.gr/rss.php",
+  "posts": [
+    {
+      "link": "https://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker",
+      "title": "PokéWalker hacking",
+      "description": "Complete device takeover by blinking at it!"
+    },
+    {
+      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "title": "RISC-V: They Should Have Known Better",
+      "description": "I am often asked to explain my distaste for RISC-V. Here it is."
+    },
+    {
+      "link": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "title": "Preserving Pixter",
+      "description": "Fisher-Price Pixter: From unknown and obscure to fully documented, emulated, and preserved"
+    }
+  ]
+}

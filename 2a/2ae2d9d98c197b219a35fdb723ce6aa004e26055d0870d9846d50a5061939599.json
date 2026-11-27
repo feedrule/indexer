@@ -1,0 +1,15 @@
+{
+  "url": "https://kabir.au/rss.xml",
+  "posts": [
+    {
+      "link": "https://kabir.au/blog/uncovering-a-live-watering-hole-attack",
+      "title": "Uncovering a Live Watering Hole Attack",
+      "description": "How a poisoned CDN dependency turned a legitimate FPV store into a watering hole and exploited a Sub-Store zero-day."
+    },
+    {
+      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "title": "The CTF scene is dead",
+      "description": "Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be."
+    }
+  ]
+}

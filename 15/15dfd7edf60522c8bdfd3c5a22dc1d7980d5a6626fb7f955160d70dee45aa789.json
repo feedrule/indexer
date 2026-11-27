@@ -1,0 +1,20 @@
+{
+  "url": "https://hudochenkov.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://hudochenkov.com/posts/fix-kodi-playback-freeze/",
+      "title": "Fixing Kodi freezing for a few seconds before playing",
+      "description": "I use Kodi on Nvidia Shield to watch movies and TV shows. At some point, Kodi developed an issue: every time I press “play,” it freezes for 4 seconds as if nothing happens, then starts playing. It wasn’t a network issue. Reboots also didn’t help. The debug logs had no entries about what was happening during that time. I found a solution on a forum: contents of the’temp’ folder could mess up with K"
+    },
+    {
+      "link": "https://hudochenkov.com/posts/app-defaults-2026/",
+      "title": "App Defaults 2026",
+      "description": "It's been a long time since I shared something online. I haven't posted on social media for a few years now, and haven't written a single blog post in 5 years. I've started reading more personal blogs and would like to share more on my own website. People like Robb , Sophie , and Anh have beautiful personal websites, and they are inspiring! To start easily, let's begin with the list of apps and se"
+    },
+    {
+      "link": "https://hudochenkov.com/posts/linter-severity-levels/",
+      "title": "The most underutilized linters feature: severity levels",
+      "description": "Linters have many rules. Not all rules are equally helpful. Some rules prevent bugs in the code, some enforce good practices, and some enforce code style. Our configured linters usually are very vocal about “errors” in our code while our code is perfectly working. Just its style doesn’t follow specified guidelines. It results in constant unproductive noise from linters. Didn’t add a space — error."
+    }
+  ]
+}

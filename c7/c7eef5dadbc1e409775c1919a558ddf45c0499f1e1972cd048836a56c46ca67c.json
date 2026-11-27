@@ -1,0 +1,20 @@
+{
+  "url": "https://rjb7731.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://rjb7731.github.io/blog/2026/inventing-new-gadgets-rl/",
+      "title": "Teaching a Tiny Model to Invent Kitchen Gadgets on a Laptop",
+      "description": "How a 0.6B model on my MacBook learned to write new patent claims for kitchen gadgets, tried to cheat twice, and taught me that the reward matters more than the model"
+    },
+    {
+      "link": "https://rjb7731.github.io/blog/2026/the-myth-of-enterprise-ai/",
+      "title": "The Generalisation Myth in Enterprise AI, and Why Your Models Don’t Need to Be Massive",
+      "description": "Why in-context learning is not adaptation, why production models remain frozen, and why domain intelligence requires far fewer parameters than you think"
+    },
+    {
+      "link": "https://rjb7731.github.io/blog/2026/learning-from-scratch/",
+      "title": "Teaching a Tiny Model to Read Like a Child, and Sit the Year 1 Phonics Check",
+      "description": "How I trained a tiny model to teach itself to pass the Year 1 phonics check with no labels, no answer key"
+    }
+  ]
+}

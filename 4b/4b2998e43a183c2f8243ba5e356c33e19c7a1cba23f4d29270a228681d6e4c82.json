@@ -1,0 +1,20 @@
+{
+  "url": "https://pomcor.com/feed/",
+  "posts": [
+    {
+      "link": "https://pomcor.com/2026/10/06/passkey-fused-credentials-definition-protocols-and-use-cases/",
+      "title": "Passkey-fused credentials: definition, protocols and use cases",
+      "description": "In the previous post I described issuance and presentation protocols for a kind of third-party credential that is made available at once to all the browser instances controlled by a user, which I refer to as the user's sync fabric, instead of being issued to one instance and then replicated to other instances upon request … Continue reading \"Passkey-fused credentials: definition, protocols and use"
+    },
+    {
+      "link": "https://pomcor.com/2026/09/17/making-a-third-party-credential-available-on-multiple-devices-by-issuing-it-to-the-users-sync-fabric/",
+      "title": "Making a third-party credential available on multiple devices by issuing it to the user’s sync fabric",
+      "description": "Updated on September 27 and October 5 to correct errors as shown below by crossed out text and underlined text. In the previous post I went over a live demonstration showing how a passkey can be used for replication of a credential comprising a JSON certificate and its associated private key across browser instances on … Continue reading \"Making a third-party credential available on multiple devic"
+    },
+    {
+      "link": "https://pomcor.com/2026/06/02/on-demand-cross-device-replication-of-a-drivers-license-credential/",
+      "title": "On-demand cross-device replication of a driver’s license credential",
+      "description": "Updated September 25, 2026 This post is joint work with Sukhi Chuhan and Pema Selden. This post is an interim report on version v5 of a live demonstration of a multi-purpose driver's license credential. The demonstration is live and a step-by-step description of how to run it is provided below. The code of seven Node.js … Continue reading \"On-demand cross-device replication of a driver’s license c"
+    }
+  ]
+}

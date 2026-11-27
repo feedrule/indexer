@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sindastra.de/feed",
+  "posts": [
+    {
+      "link": "https://www.sindastra.de/p/3871/git-lfs-breaks-git-assumptions?pk_campaign=rssfeed&pk_kwd=git-lfs-breaks-git-assumptions",
+      "title": "Git LFS breaks Git assumptions",
+      "description": "You probably know that Git, unlike, say, SVN, does not store a full source copy of each version but rather only stores a copy of the very first version in the initial commit, and then just stores the differences (diffs) from there. This means that by default, unless you tell git explicitly not to, when [...] The post Git LFS breaks Git assumptions appeared first on Sindastra's info dump ."
+    },
+    {
+      "link": "https://www.sindastra.de/p/3845/move-turris-omnia-storage-srv-to-subvolume?pk_campaign=rssfeed&pk_kwd=move-turris-omnia-storage-srv-to-subvolume",
+      "title": "Move Turris Omnia Storage /srv to Subvolume",
+      "description": "A quick guide on how to move Turris OS external storage subvolume. The post Move Turris Omnia Storage /srv to Subvolume appeared first on Sindastra's info dump ."
+    },
+    {
+      "link": "https://www.sindastra.de/p/3816/git-ignore-files-globally?pk_campaign=rssfeed&pk_kwd=git-ignore-files-globally",
+      "title": "Git ignore files globally",
+      "description": "This is a very short post to let you know that you can ignore files in Git globally, which is very useful for certain pesky files… The post Git ignore files globally appeared first on Sindastra's info dump ."
+    }
+  ]
+}

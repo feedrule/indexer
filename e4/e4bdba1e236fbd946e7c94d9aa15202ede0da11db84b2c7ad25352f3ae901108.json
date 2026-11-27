@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.zethian.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blogs.zethian.com/the-case-for-narrow-exceptions.html",
+      "title": "The Case for Narrow Exceptions",
+      "description": "Claude Code resolves permission rules in a fixed order, so a broad deny with a narrow exception cannot be expressed. permcheck runs as a PreToolUse hook and lets a narrower allow or ask override a matching deny, but only when the deny already covers every call the exception matches. Includes the shell analysis it performs and the limits of what a permission hook can enforce."
+    }
+  ]
+}

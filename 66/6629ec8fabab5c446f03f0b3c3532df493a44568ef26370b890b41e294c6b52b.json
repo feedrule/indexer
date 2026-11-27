@@ -1,0 +1,20 @@
+{
+  "url": "https://antoniosarro.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://antoniosarro.dev/blog/no-proxy",
+      "title": "No Proxy: Ambition, Wires, and a Car That Still Talks Back",
+      "description": "Everything now comes with something standing between you and the thing itself. I keep choosing the parts that take the filter away."
+    },
+    {
+      "link": "https://antoniosarro.dev/blog/komodo-homelab",
+      "title": "Self-Hosted Container Management with Komodo: Your Own Deployment Platform in Docker",
+      "description": "Learn how to deploy Komodo, a powerful self-hosted container and server management platform, using Docker in your homelab. Complete guide covering Core installation, Periphery agents, and Builder setup for a full CI/CD pipeline."
+    },
+    {
+      "link": "https://antoniosarro.dev/blog/forgejo-homelab",
+      "title": "Self-Hosted Git with Forgejo: Your Own GitHub Alternative in Docker",
+      "description": "Learn how to deploy Forgejo, a lightweight and powerful self-hosted Git platform, using Docker in your homelab. Complete guide from installation to configuration with Forgejo Actions support."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://malfind.com/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Testing local LLMs: Qwen 3.5 vs. PowerShell Obfuscation",
+      "description": "Recently I finally got to test some local models with Nous Research Hermes-Agent . For the first spin I took these three Qwen 3.5 models: qwen3.5-27b-claude-4.6-opus-reasoning-distilled-v2 (Q4_K_M) qwen3.5-35b-a3b (Q4_K_M) qwen3.5-122b-a10b (Q4_K_S)"
+    },
+    {
+      "link": null,
+      "title": "About Malfind Labs",
+      "description": "About Malfind Labs Welcome to Malfind Labs, a research blog dedicated to exploring the intersection of malware analysis and artificial intelligence. Our mission is to advance cybersecurity through innovative research, practical analysis techniques, and cutting-edge AI applications. Our Focus Areas Malware Analysis We dive deep into the world of malicious software, examining: Static and dynamic ana"
+    },
+    {
+      "link": null,
+      "title": "Malware triage in 30 minutes or how to get infected when browsing google",
+      "description": "Today when looking to download a new version of VLC Player, I got served with this malicious advertisement on google and thought it might be an excellent opportunity to show how to make a quick malware triage. In this article, I show not only what are the dangers of malicious advertisements in google, but also how to triage malware in 30 minutes without any knowledge of coding, assembly, or revers"
+    }
+  ]
+}

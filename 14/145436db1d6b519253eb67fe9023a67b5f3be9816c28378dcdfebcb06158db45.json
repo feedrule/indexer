@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.aurel32.net/feed",
+  "posts": [
+    {
+      "link": "https://blog.aurel32.net/upstream-opensbi-spacemit-k1.html",
+      "title": "Running upstream OpenSBI on SpacemiT K1",
+      "description": "The SpacemiT K1 is a rather interesting RISC-V SoC, found for instance on boards like the Banana Pi BPI-F3 board. It's one of those platforms that looked promising on paper, but took a bit of time before things really started to move upstream. Things have clearly accelerated over the last few months. Linux 7.0 brings, among other things PCIe support, making the board quite capable as a development"
+    },
+    {
+      "link": "https://blog.aurel32.net/uefi-uki-d-i-riscv64.html",
+      "title": "UEFI Unified Kernel Image for Debian Installer on riscv64",
+      "description": "On the riscv64 port, the default boot method is UEFI, with U-Boot typically used as the firmware. This approach aligns more closely with other architectures, which avoid developping riscv64 specific code. For advanced users, booting using U-Boot and extlinux is possible, thanks to the kernel being built with CONFIG_EFI_STUB=y . The same applies to the Debian Installer, which is provided as ISO ima"
+    },
+    {
+      "link": "https://blog.aurel32.net/ai-crawlers-should-be-smarter.html",
+      "title": "AI crawlers should be smarter",
+      "description": "It would be fantastic if all those AI companies dedicated some time to make their web crawlers smarter (what about using AI?). Noawadays most of them still stupidly follow every link on a Git frontend. Hint : Changing the display options does not provide more training data!"
+    }
+  ]
+}

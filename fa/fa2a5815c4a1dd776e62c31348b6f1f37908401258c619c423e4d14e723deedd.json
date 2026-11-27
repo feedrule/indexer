@@ -1,0 +1,20 @@
+{
+  "url": "https://johnvidler.co.uk/feed.xml",
+  "posts": [
+    {
+      "link": "http://localhost:8080/blog/the-hardware-index-hwidx/",
+      "title": "The Hardware Index - HWIDX",
+      "description": "I built HWIDX, the Hardware Index, to solve a practical problem I kept seeing with bare PCB designs. Projects from Adafruit, Micro:bit, Arduino, and others often have no case with space for a URL or other useful information. Once a board is in someone’s hands, I wanted there to be a simple way to find its current, correct documentation. My solution is a stable identifier that can be printed direct"
+    },
+    {
+      "link": "http://localhost:8080/blog/text-only-copyable-shopping-baskets/",
+      "title": "Text-Only Copyable Shopping Baskets",
+      "description": "I’ve been ordering a large number of things from ThePiHut lately, and the university procurement system needs quite a few details of each order line so they can actually make the purchase. Unfortunately, ThePiHut’s website does not include an ‘export basket’ or other equivalent mechanism that I can use to send all these details to our procurement folks… so in the usual fasion of a developer faced"
+    },
+    {
+      "link": "http://localhost:8080/blog/kicad-footprints-with-multiple-parts-for-pcba/",
+      "title": "KiCAD Footprints with Multiple Parts for PCBA",
+      "description": "The original symbol as defined in the official mikroBUS library The process begins with an original component that consists of two physically independent connectors housed in a single package. This is a common scenario with certain types of board-to-board connectors or specialized interface headers where manufacturing constraints require separate physical components, but the electrical design trea"
+    }
+  ]
+}

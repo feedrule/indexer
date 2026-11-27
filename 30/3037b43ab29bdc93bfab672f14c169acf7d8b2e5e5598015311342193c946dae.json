@@ -1,0 +1,20 @@
+{
+  "url": "https://nikita-volkov.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://nikita-volkov.github.io/hasql-v2-the-native-era/",
+      "title": "Hasql v2: the Native Era Begins",
+      "description": "Hasql v2 is here! It can run natively in Haskell with no external dependencies or the same way it always has, using “libpq”. It’s the user’s choice now. No breaking changes in the API except for the choice of the adapter in the connection settings. With this release it enters a new era, where the native implementation matures incrementally without imposing risks on users and providing them the sam"
+    },
+    {
+      "link": "https://nikita-volkov.github.io/pqi-making-libpq-a-choice/",
+      "title": "pqi: Making libpq a Choice, Not a Requirement",
+      "description": "For years, every serious Haskell PostgreSQL driver has been chained to the same C library - libpq - with no clean way out. I tried to cut it loose twice, and both times I failed at the finish line. They say the third time’s the charm. I hope it will be - not because I’ve tried harder, but because I’ve changed the goal. I’m Nikita Volkov, author of hasql . This is the story of that reframe, and of"
+    },
+    {
+      "link": "https://nikita-volkov.github.io/pgenie-in-production-part-1/",
+      "title": "My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator",
+      "description": "Hi, I’m Nikita Volkov - architect, consultant, and the author of hasql , one of the two main PostgreSQL drivers in Haskell used in major production projects like PostgREST and IHP. After 25 years in IT and more late-night schema-drift fires than I care to count, I open-sourced something I wish had existed a decade ago: pGenie . Following is the story of how I went from shipping a popular ORM in 20"
+    }
+  ]
+}

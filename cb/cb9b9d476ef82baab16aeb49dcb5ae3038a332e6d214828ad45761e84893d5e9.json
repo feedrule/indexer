@@ -1,0 +1,20 @@
+{
+  "url": "https://jack.wrenn.fyi/atom.xml",
+  "posts": [
+    {
+      "link": "https://jack.wrenn.fyi/blog/price-check/",
+      "title": "Price-Checking Zerocopy's Zero Cost Abstractions",
+      "description": "Zerocopy is toolkit that promises safe and efficient abstractions for low-level memory manipulation and casting. While we’ve long done the usual (e.g., testing, documentation, abstraction, miri) and unusual (e.g., proofs, formal verification) to prove to ourselves and our users that we’ve kept our promise of safety, we’ve kept our other promise of efficiency with a less convincing combination of #"
+    },
+    {
+      "link": "https://jack.wrenn.fyi/blog/safety-hygiene/",
+      "title": "The Three Basic Rules of Safety Hygiene",
+      "description": "Ask not what you can do with unsafe ; ask what unsafe can do for you. On the Rust subreddit, I often see beginners get tripped up on unsafe , posing questions like “What can I do in unsafe ?” and “When do I need unsafe ?” . These are useful questions — but not enough to really understand (un)safety. The former defies a simple, evergreen answer — as Rust’s operational semantics are refined, so too"
+    },
+    {
+      "link": "https://jack.wrenn.fyi/blog/undroppable/",
+      "title": "Undroppable Types",
+      "description": "In Rust, ManuallyDrop is the tool of choice for eliding the destructor of a value. Wrapped in ManuallyDrop , a value is simply forgotten when it goes out of scope. However, in some cases, it is useful to ensure that a value cannot be dropped — not because it is forgotten, but because the very act of dropping it is a compilation error."
+    }
+  ]
+}

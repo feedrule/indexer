@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ktz.me/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.ktz.me/amp-modelers-are-dead/",
+      "title": "Guitar Amp Modelers Are Dead.",
+      "description": "Amp modellers are dead. I don't say that lightly or to be hyperbolic. It's just true. NAM-A2 is here and it is awesome."
+    },
+    {
+      "link": "https://blog.ktz.me/esp32-plane-radar/",
+      "title": "An ESP32 based plane radar",
+      "description": "Plane radar is a neat little project that pulls nearby ADS-B traffic, plots each aircraft by distance and bearing, and shows the details directly on a cute little screen."
+    },
+    {
+      "link": "https://blog.ktz.me/ghost-to-astro/",
+      "title": "After 11 years, I dropped Ghost",
+      "description": "After nearly eleven years of being continuously served via Ghost, this blog is now a static site built with Astro."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://randygaul.github.io/feed",
+  "posts": [
+    {
+      "link": "https://randygaul.github.io/coding/2026/02/23/AI-Assisted-Coding.html",
+      "title": "AI Assisted Coding",
+      "description": "I recently had an AI implement a brand new lighting algorithm from a 2025 white paper, one-shot, producing visible soft-shadows and constant-time global illumination on the first try. Before that it one-shot an entire compute shader backend for my game engine. Tasks that used to take months took under an hour."
+    },
+    {
+      "link": "https://randygaul.github.io/graphics/2025/03/04/2D-Rendering-SDF-and-Atlases.html",
+      "title": "2D Rendering with SDF’s and Atlases",
+      "description": "Sprite Packing"
+    },
+    {
+      "link": "https://randygaul.github.io/data-structures/memory/2024/10/13/Data-Structures-In-C-And-Allocating.html",
+      "title": "Data Structures in C and Allocating",
+      "description": "I’ve been researching ways to make C more ergonomic. After years of trial and error, I’ve found that the most maintainable code is typically pure, portable C. However, one major pain point keeping me in C++ is simplifying user code when dealing with data structures. While C++ allows defining classes with custom semantics, C lacks that kind of flexibility—or so I thought."
+    }
+  ]
+}

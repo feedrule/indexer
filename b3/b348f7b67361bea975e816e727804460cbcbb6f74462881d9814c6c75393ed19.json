@@ -1,0 +1,20 @@
+{
+  "url": "https://tomverbeure.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://tomverbeure.github.io/2026/11/08/TDS3000-Oscilloscope-Screen-Repair.html",
+      "title": "Tektronix TDS3000(B) Screen Repair",
+      "description": "A TDS3052 with a Broken-Not-Broken LCD Panel A TDS3014B with Very Broken Screen Opening the Scope Power Supply Assembly Removal Removing the Motherboard Taking Out the LCD Panel Replacing the Protective Screen Replace the LCD Panel The Result Footnotes A TDS3052 with a Broken-Not-Broken LCD Panel Last summer, Joshua tricked me into bidding $165 for a TDS3052 oscilloscope. The photos on the surplus"
+    },
+    {
+      "link": "https://tomverbeure.github.io/2026/11/02/Estimation-Nr-of-Correction-Bits.html",
+      "title": "Intuitive Estimation of the Number of Error Correction Bits",
+      "description": "Introduction Hamming Distance Intuitive Estimation of Error Correction Bits Digging Deeper Comparing against BCH Codes What about Reed-Solomon Codes? BCH vs Reed-Solomon Codes References Footnotes Introduction I’ve been interested in error correcting codes (ECC) for a while now, and though I haven’t gotten very far, I keep on reading and, occasionally, writing about it . Except for really simple s"
+    },
+    {
+      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "description": "Introduction The TDS7104 Common Failures Make an Image of the Hard Drive CR2032 Backup Battery Replacement and Display Brightness Do NOT Remove the Front Panel Scope Disassembly A Failed Attempt at Switching over to an SSD Reinstalling from Scratch: Windows 2000 Pro or Windows XP? Not All TEAC CD-224E Drives are the Same Installing Windows 2000 Pro on an Old Machine through a Virtual Machine Burni"
+    }
+  ]
+}

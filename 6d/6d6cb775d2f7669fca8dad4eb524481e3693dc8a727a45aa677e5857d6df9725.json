@@ -1,0 +1,20 @@
+{
+  "url": "https://dan.turnerhallow.co.uk/rss.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Dependency churn and you",
+      "description": "Way back when, I was working on a Java service. We used Spring and Hibernate, and we'd also started to use Postgres' new-fangled UUID types. Further, we'd integrated Lucene into our application, via Hibernate Search, to give our users full-text search capabilities. This seemed great, until Spring released their next major version and dropped support for the version we were using. Hibernate followe"
+    },
+    {
+      "link": null,
+      "title": "Only got a d20? No problem",
+      "description": "When I'm out and about, I don't always have a full set of dice because I carry a small bag. This is sometimes of critical importance when an impromptu game of D&D breaks out. In 5e, you usually only need a d20, but there are cases you need a d4, d6, d8, d10, d12, or even a d100. Fortunately, you can easily use a d20 and some mental arithmetic to simulate all of these dice with the humble d20. You"
+    },
+    {
+      "link": null,
+      "title": "Variation is king: Cost impacts",
+      "description": "Back in May of this year, Sam Taylor published an article on XmRit, \" Variation Is King, Not The Average \". I agree entirely with the article, and I privately published the following addition on a private forum. I find myself referring to this somewhat regularly, so it's worth making it more widely available. You can model many (most?) systems as a queue with a consumer, which means you can use qu"
+    }
+  ]
+}

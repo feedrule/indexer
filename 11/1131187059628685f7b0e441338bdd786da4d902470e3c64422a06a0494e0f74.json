@@ -1,0 +1,20 @@
+{
+  "url": "https://george.chiramattel.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://george.chiramattel.com/blog/mental-models-for-working-with-coding-agents",
+      "title": "mental-models-for-working-with-coding-agents",
+      "description": "Model intelligence sets the ceiling. Your workflow with the agent harness sets what you actually ship."
+    },
+    {
+      "link": "https://george.chiramattel.com/blog/how-we-build-hncompanion-web-app-in-a-day",
+      "title": "how-we-build-hncompanion-web-app-in-a-day",
+      "description": "Building Hacker News clone on Cloudflare Workers with AI summaries"
+    },
+    {
+      "link": "https://george.chiramattel.com/blog/developing-strong-tech-instincts",
+      "title": "developing-strong-tech-instincts",
+      "description": "Cultivating your technological intuition through diverse knowledge sources, contrasting perspectives, and practical tools like Hacker News"
+    }
+  ]
+}

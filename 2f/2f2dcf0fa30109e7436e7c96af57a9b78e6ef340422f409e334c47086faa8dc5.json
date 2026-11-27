@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mcpantz.org/index.xml",
+  "posts": [
+    {
+      "link": "https://www.mcpantz.org/blog/2026/05/24/introducing-vtermux/",
+      "title": "Introducing vtermux",
+      "description": "The terminal is still where most developers live. The UNIX philosophy of being able to shuffle data from one application to another is essential when one’s job is building things; reusable components are a critical necessity. As such, when developers build tools, even when not thinking about interoperability, the first class audience is the terminal. Now with LLMs making it almost trivial to build"
+    },
+    {
+      "link": "https://www.mcpantz.org/resume/",
+      "title": "Paul C. Mantz",
+      "description": "pcmantz at mcpantz dot org Experience Workforce.com Sept 2025 - Dec 2025 Senior Software Engineer Chicago, IL Worked with an international engineering department to build features for Workforce.com’s payroll and tax engine in a monolithic, multi-national application using Edge Rails (8.1) with high levels of internationalization (i18n) and localization (l10n). Leveraged AI coding assistant technol"
+    },
+    {
+      "link": "https://www.mcpantz.org/blog/2026/03/08/blog-rehabilitated/",
+      "title": "Blog Rehabilitated",
+      "description": "After fourteen years of disuse, I have decided to take the effort to dust off this old domain and blog and to try to breathe some new life into it. There have been many projects that I have wanted to talk about publicly, but haven’t had the spirit to fight against a languishing OctoPress installation. Thankfully, this current era of LLM-driven development has made it manageable to dissipate old te"
+    }
+  ]
+}

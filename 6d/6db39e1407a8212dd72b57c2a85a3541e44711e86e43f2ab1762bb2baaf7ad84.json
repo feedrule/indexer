@@ -1,0 +1,20 @@
+{
+  "url": "https://taner-dev.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://taner-dev.com/articles/case-for-tdd-vibe-coding",
+      "title": "The case for TDD vibe coding",
+      "description": "TLDR: TDD was hyped but never fully reached the mainstream. Now it could be what makes vibe engineering more sustainable. I have been trying to find a good balance between traditional coding as in 2020 and using AI coding assistants. It gets frustrating pretty quickly when you have a clear instruction and the agentic model touches 5 files instead of the one you specified. Also it's hard to check e"
+    },
+    {
+      "link": "https://taner-dev.com/articles/docker-not-respecting-ufw",
+      "title": "How docker can break your ufw rules",
+      "description": "TLDR: Docker can break your ufw rules if you are not careful. And you might not even notice it until it is too late. I was in shock recently when I tested my personal servers ip-address for open ports with nmap -sV -p- <your-server-ip> . I had 5 open ports but it should have only been 3. I ssh'ed into my server to check the firewall rules with sudo ufw status and it looked like everything was fine"
+    },
+    {
+      "link": "https://taner-dev.com/articles/securing-coolify",
+      "title": "Securing Coolify with Tailscale",
+      "description": "The Problem The Setup Disabling Conventional SSH Installing Coolify (if not already installed) Setup Access of Coolify to the Other Servers Setting up a domain for the coolify dashboard How to keep services public but ssh secure Set certain services to only be accessible via tailscale Final Thoughts TLDR: Your production coolify cluster is not secure by default. Tailscale is a great addition to yo"
+    }
+  ]
+}
