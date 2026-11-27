@@ -13,6 +13,7 @@ needs:
     url: https://missfrugalmommy.com/feed/
     accept: false
     title: Miss Frugal Mommy
+    site: https://missfrugalmommy.com/
     language: en
     last_post: 2026-11-12
     about: Saving money with kids, one small habit at a time, every week
@@ -23,6 +24,7 @@ needs:
     found_in: https://data.commoncrawl.org/crawl-data/CC-MAIN-2021-49/.../...warc.wat.gz
     recent_posts:
       - link: https://missfrugalmommy.com/ten-ways/
+        date: 2026-11-12
         title: Ten ways to save on groceries
         description:
           - We spend too much on food. Here are ten things that we
@@ -116,6 +118,8 @@ def _entry(s: Proposal) -> dict[str, Any]:
     if s.score is not None:
         entry["score"] = round(s.score, 3)
     entry["title"] = _one_line(s.title, _MAX_TITLE) or None
+    if (site := _one_line(s.site_url, _MAX_POST_LINK)) and _is_http(site):
+        entry["site"] = site
     entry["language"] = _one_line(s.language, 200) or None
     entry["last_post"] = s.last_item_date.date()
     if subtitle := _one_line(s.subtitle, _MAX_SUBTITLE):
@@ -131,6 +135,8 @@ def _entry(s: Proposal) -> dict[str, Any]:
     posts = []
     for post in s.recent_posts:
         item: dict[str, Any] = {"link": _one_line(post.link, _MAX_POST_LINK)}
+        if post.date:
+            item["date"] = date.fromisoformat(post.date)  # written like last_post
         if title := _one_line(post.title, _MAX_TITLE):
             item["title"] = title
         if description := _one_line(post.description, _MAX_DESCRIPTION):
@@ -140,6 +146,10 @@ def _entry(s: Proposal) -> dict[str, Any]:
         posts.append(item)
     entry["recent_posts"] = posts
     return entry
+
+
+def _is_http(url: str) -> bool:
+    return url.lower().startswith(("http://", "https://"))
 
 
 class _Dumper(yaml.SafeDumper):

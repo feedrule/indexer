@@ -191,10 +191,12 @@ doesn't grow with them. The workflows check it out into `./proposals/` and mount
 origin/proposals` does the same. The finds go to a new file per run,
 `data/proposals/<yyyymm>/<dd-HHMMSS>.yaml` in UTC (for example
 `data/proposals/202611/19-041105.yaml`). The file is YAML: a comment
-header, then one document per feed, separated by `---`: `url`, `accept: false`, `title`,
+header, then one document per feed, separated by `---`: `url`, `accept: false`, `title`, `site`
+(the website the feed names, if http(s)),
 `language`, `last_post` (the newest item's date), `about` (the subtitle), `posts_read` and
 `categories` (the 8 categories its authors used most on those posts, with counts), `found_in`
-(the WAT file) and `recent_posts` (the 3 most recent: `link`, `title` and `description`, the
+(the WAT file) and `recent_posts` (the 3 most recent: `link`, `date` (the item's newest date, a
+UTC day), `title` and `description`, the
 start of the description as lines of at most 60 characters, for phones). Untrusted text is
 flattened to one line and written by `yaml.safe_dump`, which quotes anything YAML would read as
 something else; files are read with `yaml.safe_load_all`.
@@ -430,7 +432,7 @@ To run the same steps from your machine against Supabase, put those values in a 
 | `response_time_ms` | time to the response headers of the final request |
 | `error` | `null` on success, otherwise one fixed identifier (below) |
 | `etag`, `last_modified` | the validators of the final 200 response, as sent |
-| `recent_posts` | JSON list of the feed's most recent posts (up to 3, newest first: `link`, `title`, `description`, untrusted text); `null` on failure, and cleared by `cleanup` after 3 days |
+| `recent_posts` | JSON list of the feed's most recent posts (up to 3, newest first: `link`, `title`, `description`, `date` (YYYY-MM-DD, UTC), untrusted text); `null` on failure, and cleared by `cleanup` after 3 days |
 
 `feeds` has one row per feed URL with its **latest** metadata, updated in place: a check that
 parses the feed replaces every column (a field the feed no longer has becomes `null`), a failed

@@ -248,6 +248,19 @@ def test_recent_posts_are_the_three_most_recent_items() -> None:
     assert links(parse_feed(undated)) == ("https://a.example/1", "https://a.example/2")
 
 
+def test_recent_posts_carry_their_newest_date_as_a_utc_day() -> None:
+    atom = b"""<feed xmlns="http://www.w3.org/2005/Atom"><title>t</title>
+      <entry><link href="https://a.example/1"/><published>2026-11-01T23:30:00-02:00</published>
+        <updated>2026-11-03T10:00:00Z</updated></entry>
+      <entry><link href="https://a.example/2"/></entry>
+    </feed>"""
+    assert [p.date for p in parse_feed(atom).recent_posts] == ["2026-11-03", None]
+    rss = b"""<rss version="2.0"><channel><title>t</title>
+      <item><link>https://a.example/x</link><pubDate>Sun, 01 Nov 2026 23:30:00 -0200</pubDate>
+      </item></channel></rss>"""
+    assert parse_feed(rss).recent_posts[0].date == "2026-11-02"  # 01:30 UTC
+
+
 def test_recent_post_links_are_capped() -> None:
     items = "".join(
         f"<item><link>https://a.example/{i}/{'x' * 2 * MAX_POST_LINK_LEN}</link></item>"

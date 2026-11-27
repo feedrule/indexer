@@ -286,7 +286,7 @@ async def test_listed_feeds_rules() -> None:
         ok = listed[base + "ok"]
         assert (ok.source, ok.source_license) == ("https://lists.example/a.opml", "MIT")
         assert ok.recent_posts == [
-            {"link": base + "ok/1", "title": "One", "description": "First post"}
+            {"link": base + "ok/1", "title": "One", "description": "First post", "date": None}
         ]
         await conn.execute("DELETE FROM inputs WHERE url LIKE %s", (base + "%",))
         await conn.execute("DELETE FROM health_checks WHERE run_id = %s", (run_id,))

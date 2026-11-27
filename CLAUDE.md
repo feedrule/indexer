@@ -52,9 +52,9 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   branch, so old proposals can't be merged by mistake). Skips URLs already in that branch's files (accepted or not) or in inputs.
   Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the PR.
   The file is YAML (asked 2026-11-22, replacing comment blocks in .txt files, converted once): a comment header, then one
-  document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, language, last_post,
+  document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, site (the feed's website, http(s) only; asked 2026-11-27), language, last_post,
   about, posts_read and categories (the authors' top 8 with counts, `run._top_categories` from `FeedInfo.item_tags`, never
-  stored), found_in (the WAT file), recent_posts (3: link, title, description as a list of lines ≤ 60 characters for phones;
+  stored), found_in (the WAT file), recent_posts (3: link, date (the item's newest date, a UTC day; asked 2026-11-27, also stored in `recent_posts`), title, description as a list of lines ≤ 60 characters for phones;
   `FeedInfo.recent_posts`, never stored or fetched); lists and mappings in block style, one item per line. Written with
   `yaml.safe_dump` (quotes anything that would parse as something else, no aliases), read with `yaml.safe_load_all`
   (`sources.proposal_documents`). A reviewer sets `accept: true` on the feeds they want; only those are loaded.

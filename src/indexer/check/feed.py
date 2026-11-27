@@ -76,6 +76,7 @@ class RecentPost(NamedTuple):
     link: str
     title: str | None
     description: str | None
+    date: str | None = None  # the item's newest date (published or updated), YYYY-MM-DD in UTC
 
 
 @dataclass(frozen=True, slots=True)
@@ -398,9 +399,9 @@ def _recent_posts(
 ) -> tuple[RecentPost, ...]:
     """The MAX_RECENT_POSTS most recent items with a link (undated items after dated ones, in
     feed order), distinct by link: the link as written (RSS/RDF <link> text, Atom <link
-    rel=alternate href>, only printable characters, length capped), the title, and the start
-    of the first non-empty description."""
-    dated: list[tuple[float, int, str, Element]] = []
+    rel=alternate href>, only printable characters, length capped), the title, the start of the
+    first non-empty description, and the item's newest date (a day, UTC; None if undated)."""
+    dated: list[tuple[float, int, str, Element, datetime | None]] = []
     for position, item in enumerate(items):
         if atom:
             raw = next(
@@ -416,10 +417,10 @@ def _recent_posts(
         link = "".join(c for c in (raw or "") if c.isprintable()).strip()[:MAX_POST_LINK_LEN]
         if link:
             dates = [d for tag in date_tags if (d := parse_date(item.findtext(tag)))]
-            newest = max(dates).timestamp() if dates else float("-inf")
-            dated.append((-newest, position, link, item))
+            when = max(dates) if dates else None
+            dated.append((-when.timestamp() if when else float("inf"), position, link, item, when))
     posts: dict[str, RecentPost] = {}
-    for _newest, _position, link, item in sorted(dated, key=lambda d: (d[0], d[1])):
+    for _newest, _position, link, item, when in sorted(dated, key=lambda d: (d[0], d[1])):
         if link in posts:
             continue
         description = next(
@@ -430,7 +431,10 @@ def _recent_posts(
             ),
             None,
         )
-        posts[link] = RecentPost(link, _text_of(item.find(title_tag), markup=True), description)
+        day = when.astimezone(UTC).date().isoformat() if when else None
+        posts[link] = RecentPost(
+            link, _text_of(item.find(title_tag), markup=True), description, day
+        )
         if len(posts) == MAX_RECENT_POSTS:
             break
     return tuple(posts.values())

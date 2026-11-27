@@ -58,6 +58,7 @@ class Proposal:
     categories: tuple[tuple[str, int], ...] = ()  # the authors' categories: (name, posts), top
     posts_read: int = 0  # posts whose categories were counted
     score: float | None = None  # probability of being accepted (training.py's model)
+    site_url: str | None = None  # the website the feed names (untrusted, never fetched)
 
 
 @dataclass(slots=True)
@@ -198,6 +199,7 @@ def _judge(row: CheckRow, rules: Rules, wat_url: str, result: ProposalsResult) -
         row.recent_posts,
         _top_categories(row.item_tags),
         len(row.item_tags),
+        site_url=row.site_url,
     )
 
 

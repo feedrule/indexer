@@ -83,6 +83,27 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
     assert "about:" not in bare and "categories:" not in bare and "recent_posts: []\n" in bare
 
 
+def test_entries_show_the_website_and_each_posts_date() -> None:
+    posts = (
+        RecentPost("https://a.example/1", "One", None, "2026-11-20"),
+        RecentPost("https://a.example/2", "Two", None),  # undated
+    )
+    site = replace(
+        proposal("https://a.example/feed", "A"), site_url="https://a.example/", recent_posts=posts
+    )
+    (feed,) = proposal_documents(render_entries([site], "C", date(2026, 1, 1)).encode())
+    assert feed["site"] == "https://a.example/"
+    assert list(feed)[:5] == ["url", "accept", "title", "site", "language"]
+    assert feed["recent_posts"] == [
+        {"link": "https://a.example/1", "date": date(2026, 11, 20), "title": "One"},
+        {"link": "https://a.example/2", "title": "Two"},
+    ]
+    for bad in ("javascript:alert(1)", None, ""):
+        hidden = replace(site, site_url=bad)
+        (feed,) = proposal_documents(render_entries([hidden], "C", date(2026, 1, 1)).encode())
+        assert "site" not in feed  # only http(s) websites are shown
+
+
 def test_a_post_description_is_lines_for_phones() -> None:
     long_text = "We spend too much on food. Here are ten things that we changed to spend less"
     posts = (RecentPost("https://a.example/" + "x" * 80, long_text, long_text),)
