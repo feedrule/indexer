@@ -405,7 +405,7 @@ To run the same steps from your machine against Supabase, put those values in a 
 
 `runs` has one row per `indexer run` (`id` is the run number, `started_at`, `finished_at`).
 
-`health_checks` has one row per URL per run, with only per-check data (about 330 bytes per row, plus up to ~4 KB of recent posts for 3 days):
+`health_checks` has one row per URL per run, with only per-check data (about 330 bytes per row, plus up to ~6 KB of recent posts for 3 days: 3 posts, descriptions up to 1,000 characters):
 
 | column | meaning |
 | --- | --- |

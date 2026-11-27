@@ -61,7 +61,7 @@ from indexer.survivors.training import REJECT_REASONS
 _MAX_TITLE = 200
 _MAX_SUBTITLE = 400
 _MAX_POST_LINK = 600
-_MAX_DESCRIPTION = 400
+_MAX_DESCRIPTION = 1000
 _WIDTH = 60  # characters per line of a post's description, for phones
 
 
