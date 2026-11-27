@@ -3,7 +3,7 @@
 # reason: one of commercial, seo, press, republished, machine, forum, notices, unsafe, other.
 ---
 url: https://doctorphalanx.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.847
 title: doctorphalanx
 site: https://doctorphalanx.blogspot.com/
@@ -98,7 +98,7 @@ recent_posts:
       - used to the aesthetic of hexification. But the battles using
 ---
 url: https://www.ahappymum.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.768
 title: A Happy Mum
 site: https://www.ahappymum.com/
@@ -191,6 +191,7 @@ recent_posts:
 ---
 url: https://blog.faithfellowship.info/?feed=rss2
 accept: false
+reason: notices
 score: 0.686
 title: Faith Fellowship Church of Tennessee, IL
 site: https://blog.faithfellowship.info
@@ -229,7 +230,7 @@ recent_posts:
       - Dave
 ---
 url: https://blog.tacti.info/feed/
-accept: false
+accept: true
 score: 0.662
 title: Tacti's Garage
 site: https://blog.tacti.info
@@ -270,6 +271,7 @@ recent_posts:
 ---
 url: https://clontarfscwaterpolo.ie/feed/
 accept: false
+reason: notices
 score: 0.546
 title: Clontarf Water Polo Club
 site: https://clontarfscwaterpolo.ie
@@ -309,7 +311,7 @@ recent_posts:
       - request letter here.
 ---
 url: https://whitecenternow.com/feed/
-accept: false
+accept: true
 score: 0.502
 title: 'White Center Now: The blog about White Center'
 site: https://whitecenternow.com
@@ -353,7 +355,7 @@ recent_posts:
       - 'Center Library Guild hopes to see you Friday and Saturday:'
 ---
 url: https://npcnewsonline.com/feed/
-accept: false
+accept: true
 score: 0.487
 title: NPC News Online
 site: https://npcnewsonline.com
@@ -387,7 +389,7 @@ recent_posts:
       - State Open! Click here to see the galleries.
 ---
 url: https://ntfronline.com/feed/
-accept: false
+accept: true
 score: 0.429
 title: North Texas Farm and Ranch
 site: https://ntfronline.com
