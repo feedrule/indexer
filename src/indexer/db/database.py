@@ -16,6 +16,7 @@ from psycopg import sql
 from psycopg.rows import class_row
 from psycopg.types.json import Jsonb
 
+from indexer.check.feed import STORED_POST_FIELDS
 from indexer.check.runner import CheckRow
 from indexer.db.models import Feed, HealthCheck, Input, IPAddress, Model, Run, columns, values
 from indexer.publish.export import ListedFeed
@@ -234,7 +235,11 @@ def _inet(value: str | None) -> IPAddress | None:
 
 def _health_check(run_id: int, row: CheckRow) -> HealthCheck:
     fields = {name: getattr(row, name) for name in _CHECK_FIELDS}
-    posts = [p._asdict() for p in row.recent_posts] if row.error is None else []
+    posts = (
+        [{k: getattr(p, k) for k in STORED_POST_FIELDS} for p in row.recent_posts]
+        if row.error is None
+        else []
+    )
     return HealthCheck(
         run_id=run_id, ip_address=_inet(row.ip_address), recent_posts=posts or None, **fields
     )

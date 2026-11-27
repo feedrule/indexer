@@ -196,8 +196,12 @@ header, then one document per feed, separated by `---`: `url`, `accept: false`, 
 `language`, `last_post` (the newest item's date), `about` (the subtitle), `posts_read` and
 `categories` (the 8 categories its authors used most on those posts, with counts), `found_in`
 (the WAT file) and `recent_posts` (the 3 most recent: `link`, `date` (the item's newest date, a
-UTC day), `title` and `description`, the
-start of the description as lines of at most 60 characters, for phones). Untrusted text is
+UTC day), `title`, `links` (the other sites the post's HTML links to: registrable domains with
+counts, at most 5, most linked first), `sponsored: true` on a post with affiliate or sponsored
+links (`rel="sponsored"`, an affiliate network's domain, an Amazon `tag=` link, or a disclosure
+in its text; `check/post_links.py`) and `description`, the
+start of the description as lines of at most 60 characters, for phones). `links` and `sponsored`
+are never stored (not in `health_checks.recent_posts`) and no link is fetched. Untrusted text is
 flattened to one line and written by `yaml.safe_dump`, which quotes anything YAML would read as
 something else; files are read with `yaml.safe_load_all`.
 Each workflow run commits

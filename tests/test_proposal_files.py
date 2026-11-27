@@ -104,6 +104,27 @@ def test_entries_show_the_website_and_each_posts_date() -> None:
         assert "site" not in feed  # only http(s) websites are shown
 
 
+def test_entries_show_each_posts_links_and_sponsored_mark() -> None:
+    posts = (
+        RecentPost("https://a.example/1", "One", "D", None, (("npr.org", 2), ("x\n---", 1)), True),
+        RecentPost("https://a.example/2", "Two", None),
+    )
+    entry = replace(proposal("https://a.example/feed", "A"), recent_posts=posts)
+    text = render_entries([entry], "C", date(2026, 1, 1))
+    (feed,) = proposal_documents(text.encode())
+    assert feed["recent_posts"] == [
+        {
+            "link": "https://a.example/1",
+            "title": "One",
+            "links": {"npr.org": 2, "x ---": 1},  # untrusted: one line
+            "sponsored": True,
+            "description": ["D"],
+        },
+        {"link": "https://a.example/2", "title": "Two"},  # no links, not sponsored: left out
+    ]
+    assert "sponsored: false" not in text and "links_to" not in text
+
+
 def test_a_post_description_is_lines_for_phones() -> None:
     long_text = "We spend too much on food. Here are ten things that we changed to spend less"
     posts = (RecentPost("https://a.example/" + "x" * 80, long_text, long_text),)

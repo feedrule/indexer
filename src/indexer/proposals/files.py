@@ -26,11 +26,18 @@ needs:
       - link: https://missfrugalmommy.com/ten-ways/
         date: 2026-11-12
         title: Ten ways to save on groceries
+        links:
+          amazon.com: 3
+          budgetbytes.com: 1
+        sponsored: true
         description:
           - We spend too much on food. Here are ten things that we
           - changed...
 
-A post's description is a list of lines of at most 60 characters, for reading on a phone.
+A post's `links` are the other sites its HTML links to (registrable domains, with counts, at
+most 5, most linked first; left out when there are none) and `sponsored: true` marks a post with
+affiliate or sponsored links (`check.post_links`; left out otherwise). A post's description is a
+list of lines of at most 60 characters, for reading on a phone.
 
 A reviewer sets `accept: true` on each feed they want (optionally `reason: <reason>` on a
 rejected one, see training.py REJECT_REASONS) and merges; the daily input job (which checks out
@@ -139,6 +146,14 @@ def _entry(s: Proposal) -> dict[str, Any]:
             item["date"] = date.fromisoformat(post.date)  # written like last_post
         if title := _one_line(post.title, _MAX_TITLE):
             item["title"] = title
+        if post.links:
+            linked: dict[str, int] = {}
+            for domain, n in post.links:
+                key = _one_line(domain, 100)
+                linked[key] = linked.get(key, 0) + n
+            item["links"] = linked
+        if post.sponsored:
+            item["sponsored"] = True
         if description := _one_line(post.description, _MAX_DESCRIPTION):
             item["description"] = textwrap.wrap(
                 description, _WIDTH, break_long_words=False, break_on_hyphens=False

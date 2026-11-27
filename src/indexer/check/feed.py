@@ -22,6 +22,7 @@ from xml.etree.ElementTree import Element, ParseError
 from defusedxml import DefusedXmlException
 from defusedxml import ElementTree as SafeET
 
+from indexer.check.post_links import PostLinks, post_links
 from indexer.errors import CheckError, ErrorCode
 
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -77,6 +78,15 @@ class RecentPost(NamedTuple):
     title: str | None
     description: str | None
     date: str | None = None  # the item's newest date (published or updated), YYYY-MM-DD in UTC
+    # Not stored (STORED_POST_FIELDS): the other sites its HTML links to (registrable domains,
+    # with counts, most linked first) and whether it has affiliate or sponsored links
+    # (`post_links`). Untrusted, never fetched.
+    links: tuple[tuple[str, int], ...] = ()
+    sponsored: bool = False
+
+
+# The RecentPost fields stored in health_checks.recent_posts (and so in the posts branch).
+STORED_POST_FIELDS = ("link", "title", "description", "date")
 
 
 @dataclass(frozen=True, slots=True)
@@ -432,12 +442,39 @@ def _recent_posts(
             None,
         )
         day = when.astimezone(UTC).date().isoformat() if when else None
+        links = _item_links(item, description_tags, link)
         posts[link] = RecentPost(
-            link, _text_of(item.find(title_tag), markup=True), description, day
+            link,
+            _text_of(item.find(title_tag), markup=True),
+            description,
+            day,
+            links.sites,
+            links.sponsored,
         )
         if len(posts) == MAX_RECENT_POSTS:
             break
     return tuple(posts.values())
+
+
+def _item_links(item: Element, tags: tuple[str, ...], link: str) -> PostLinks:
+    """The links of every description element of an item (`post_links`): escaped HTML as text,
+    or Atom XHTML content as child elements."""
+    fragments: list[str] = []
+    anchors: list[tuple[str, str]] = []
+    texts: list[str] = []
+    for tag in tags:
+        el = item.find(tag)
+        if el is None:
+            continue
+        if len(el):  # XHTML: the markup is elements
+            for child in el.iter():
+                is_anchor = isinstance(child.tag, str) and child.tag.rsplit("}", 1)[-1] == "a"
+                if is_anchor and (href := child.get("href")):
+                    anchors.append((href, child.get("rel") or ""))
+            texts.append(" ".join(el.itertext()))
+        elif el.text:
+            fragments.append(el.text)
+    return post_links(fragments, clean_url(link), anchors, " ".join(texts))
 
 
 def _item_tags(item: Element) -> tuple[str, ...]:
