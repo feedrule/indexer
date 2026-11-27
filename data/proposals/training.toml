@@ -1,0 +1,14 @@
+# Reviewed proposal files the proposal filter is trained on, relative to this file. Each feed in
+# them is a labelled example: `accept: true` = accepted; `accept: false` = rejected (a
+# `reason: <reason>` is an optional note, see proposals/training.py REJECT_REASONS). The text the
+# reviewer saw (title, about, categories, recent posts) is read from its fields.
+# `indexer proposals` trains the model on them (once per change to these files; kept, git-ignored,
+# in data/models/) and drops the proposals it scores lowest; `indexer train` prints its size and
+# cut-off.
+#
+# List only files produced with the current proposal rules and format (2026-11-21:
+# the categories line, every rule up to the business words), so all examples look alike.
+files = [
+  "202611/21-161034.yaml", # PR #18, 200 feeds
+  "202611/21-162942.yaml", # PR #19, 300 feeds
+]
