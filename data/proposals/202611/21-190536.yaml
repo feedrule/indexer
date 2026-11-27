@@ -1641,7 +1641,8 @@ recent_posts:
       - Girls team guides girls to
 ---
 url: https://www.pointswithacrew.com/feed/
-accept: true
+accept: false
+reason: commercial
 title: Points with a Crew
 language: en
 last_post: 2026-11-21
