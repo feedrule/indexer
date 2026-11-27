@@ -27,7 +27,7 @@ def fake_embed(texts: Sequence[str]) -> np.ndarray:
 def posts_file(directory: Path, name: str, url: str, posts: list[dict[str, object]]) -> None:
     path = directory / name[:2] / f"{name}.json"
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps({"url": url, "checked_at": None, "posts": posts}), encoding="utf-8")
+    path.write_text(json.dumps({"url": url, "posts": posts}), encoding="utf-8")
 
 
 def test_split_keeps_sentences_of_three_words_or_more() -> None:

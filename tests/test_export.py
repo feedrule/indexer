@@ -466,10 +466,8 @@ def write_with_posts(out: Path, posts: Path, feeds: list[ListedFeed]) -> None:
 def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> None:
     out, posts = tmp_path / "out", tmp_path / "posts"
     posts.mkdir()
-    checked = datetime(2026, 11, 20, 5, 12, 9, tzinfo=UTC)
     with_posts = replace(
         feed(1),
-        checked_at=checked,
         recent_posts=[
             {"link": "javascript:alert(1)", "title": " New\n <b>post</b>", "description": None}
         ],
@@ -480,7 +478,6 @@ def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> No
     stored = json.loads((posts / posts_path(with_posts.url)).read_text(encoding="utf-8"))
     assert stored == {
         "url": "https://f1.example/feed",
-        "checked_at": "2026-11-20T05:12:09+00:00",
         "posts": [{"link": None, "title": "New <b>post</b>", "description": None}],
     }
     preview = json.loads((out / preview_path(with_posts.url)).read_text(encoding="utf-8"))
@@ -497,27 +494,22 @@ def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> No
     assert preview["posts_url"] == f"https://p.example/posts/{posts_path(with_posts.url)}"
 
 
-def test_posts_files_are_rewritten_only_when_the_posts_change(tmp_path: Path) -> None:
+def test_posts_files_change_only_with_the_posts(tmp_path: Path) -> None:
     out, posts = tmp_path / "out", tmp_path / "posts"
     posts.mkdir()
     first = replace(
-        feed(1),
-        checked_at=datetime(2026, 11, 20, tzinfo=UTC),
-        recent_posts=[{"link": "https://f1.example/a", "title": "A", "description": "x"}],
+        feed(1), recent_posts=[{"link": "https://f1.example/a", "title": "A", "description": "x"}]
     )
     write_with_posts(out, posts, [first])
     path = posts / posts_path(first.url)
-    before = path.read_text(encoding="utf-8")
-    recheck = replace(first, checked_at=datetime(2026, 11, 23, tzinfo=UTC))  # same posts
-    write_with_posts(out, posts, [recheck])
-    assert path.read_text(encoding="utf-8") == before  # keeps the date of the first check
+    before = path.read_bytes()
+    write_with_posts(out, posts, [replace(first, file_size=99)])  # a recheck, same posts
+    assert path.read_bytes() == before  # same bytes: no change for git
     newer = replace(
-        recheck,
-        recent_posts=[{"link": "https://f1.example/b", "title": "B", "description": None}],
+        first, recent_posts=[{"link": "https://f1.example/b", "title": "B", "description": None}]
     )
     write_with_posts(out, posts, [newer])
     doc = json.loads(path.read_text(encoding="utf-8"))
-    assert doc["checked_at"] == "2026-11-23T00:00:00+00:00"
     assert doc["posts"] == [{"link": "https://f1.example/b", "title": "B", "description": None}]
 
 
@@ -609,7 +601,6 @@ def test_repository_spec_matches_the_output() -> None:
         "languages",
         "topics",
         "posts_url",
-        "checked_at",
         "posts",
     ):
         assert f"`{field}`" in spec

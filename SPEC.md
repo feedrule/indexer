@@ -34,10 +34,9 @@ and `license`, e.g. `MIT`, `CC0-1.0`, `Common Crawl terms`; `name` may be `null`
 
 The feeds' recent posts are on the `posts` branch (served at
 `https://raw.githubusercontent.com/feedrule/indexer/posts/`), one JSON file per feed at
-`<h:2>/<h>.json` (the same `<h>` as its preview). A file is written when the feed's posts change
-and kept after that, so it holds the latest posts seen, even when the feed was last checked long
-ago. Fields: `url` (the feed URL), `checked_at` (when the check that fetched these posts ran,
-ISO 8601 with a UTC offset; may be `null`), `posts` (up to 3 of the feed's most recent posts,
+`<h:2>/<h>.json` (the same `<h>` as its preview). A file is kept after the feed's posts are
+cleared from the database, so it holds the latest posts seen. Fields: `url` (the feed URL),
+`posts` (up to 3 of the feed's most recent posts,
 newest first, each `link`, `title` and `description` (the start of the post); any of the three
 may be `null`, and only `http(s)` links are given).
 

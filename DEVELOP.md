@@ -271,8 +271,8 @@ page: fetch a topic's `links.txt`, then the previews of the results shown; see
 `export.preview_path` and `export.render_preview`). `links.txt` files are most recently active
 first. The feeds' recent posts are not in the output: with `--posts-dir` (a checkout of the
 `posts` branch) export writes one file per feed there (`export.posts_path`,
-`export.render_posts`: the feed URL, when the check that fetched the posts ran, and the posts),
-only when the posts differ from the file's, and never deletes one, so a feed keeps its latest
+`export.render_posts`: the feed URL and the posts; the same posts give the same bytes, so git sees
+no change) and never deletes one, so a feed keeps its latest
 posts after cleanup clears them from the database. Each preview's `posts_url` links to that file
 (`--posts-url`, default `https://raw.githubusercontent.com/feedrule/indexer/posts/`), or is null. It also writes the website, `output/docs/` (`src/indexer/publish/site.py`): `index.html` (the 50 largest
 topics, a search box over all of them, and the sources),
