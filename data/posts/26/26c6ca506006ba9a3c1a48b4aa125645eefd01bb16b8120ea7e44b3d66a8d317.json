@@ -1,0 +1,20 @@
+{
+  "url": "https://joshuatz.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://joshuatz.com/posts/2026/auto-fixing-e501-line-length---ruff-compatible-linting/",
+      "title": "Auto-Fixing E501 Line Length - Ruff Compatible Linting",
+      "description": "How to auto-fix and format Python that violates E501 \"line too long\", when Ruff refuses, by using black as an intermediate formatter."
+    },
+    {
+      "link": "https://joshuatz.com/projects/web-stuff/depth-viewport-a-headset-free-2d-to-3d-web-app-demo/",
+      "title": "Depth-Viewport: A Headset-Free 2D to 3D Web App Demo",
+      "description": "Project writeup for \"depth-viewport\", a demo web app that lets you interactively experience 2D->3D depth map generation, with just a webcam or smartphone."
+    },
+    {
+      "link": "https://joshuatz.com/posts/2026/a-surprising-python-gotcha---clashing-package-names/",
+      "title": "A Surprising Python Gotcha - Clashing Package Names",
+      "description": "Written after a frustrating day dealing with two Python packages trying to use the same module namespace - and learning the surprising way that Python (doesn't) handle this."
+    }
+  ]
+}

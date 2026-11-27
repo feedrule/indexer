@@ -1,0 +1,20 @@
+{
+  "url": "https://wp.pureprogrammer.org/feed/",
+  "posts": [
+    {
+      "link": "https://wp.pureprogrammer.org/2025/12/20/comparison-of-orangepi-sbcs/",
+      "title": "Comparison of Orange Pi SBCs",
+      "description": "The post reviews and compares several single-board computers (SBCs), focusing on the Orange Pi 5 Plus, Orange Pi RV2, and Orange Pi 6 Plus against the Raspberry Pi 5. Key specifications, performance benchmarks, and suitability for makers and desktop use are discussed, highlighting differences in core architecture and software support. The post Comparison of Orange Pi SBCs first appeared on Pure Programmer ."
+    },
+    {
+      "link": "https://wp.pureprogrammer.org/2025/08/02/computing-math-constants-and-functions/",
+      "title": "Computing Math Constants and Functions",
+      "description": "This post explains high precision computation of mathematical functions, focusing on Taylor series expansions. The post Computing Math Constants and Functions first appeared on Pure Programmer ."
+    },
+    {
+      "link": "https://wp.pureprogrammer.org/2025/07/24/computing-%cf%80-revisited/",
+      "title": "Computing π (Revisited)",
+      "description": "The Chudnovsky algorithm calculates π using a rapidly converging series, enabling high-precision computation. Various programming implementations optimize the algorithm via methods like multithreading, incremental computation, and binary splitting, enhancing speed and efficiency. Despite these advancements, challenges persist in calculating billions of digits due to memory constraints. The post Computing π (Revisited) first appeared on Pure Programmer ."
+    }
+  ]
+}

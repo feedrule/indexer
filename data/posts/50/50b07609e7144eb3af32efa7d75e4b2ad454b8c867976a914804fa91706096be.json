@@ -1,0 +1,20 @@
+{
+  "url": "https://sheldonbrown.com/blog/feed/",
+  "posts": [
+    {
+      "link": "https://sheldonbrown.com/blog/2026/09/02/and-another-gear-calculator-upgrade/",
+      "title": "And another gear-calculator upgrade!",
+      "description": "The Gear Calculator has now been upgraded to allow entry of data from a rollout measurement. When you enter rim diameter and tire width, the calculator will automatically give you a rollout number, but you may edit the number to reflect your bicycle’s tire pressure, weight load and tread depth."
+    },
+    {
+      "link": "https://sheldonbrown.com/blog/2026/08/20/upgrade-to-the-gear-calculator/",
+      "title": "Upgrade to the Gear Calculator",
+      "description": "We have upgraded and updated the Gear Calculator. Main improvements: Tire width and rim size are now two separate entries. Pick any tire width rather than being restricted to a list. We have entries for new internal-gear hubs — 3×3 NINE, Kindernay VII, Enviolo. We have added coverage of a few more rim sizes. We … Continue reading \"Upgrade to the Gear Calculator\""
+    },
+    {
+      "link": "https://sheldonbrown.com/blog/2026/07/05/improved-gear-graph/",
+      "title": "Improved gear graph",
+      "description": "Our gear-graph article now includes a new, much improved version by Jeremy Mak of the diagram which plots gear ratios of bicycle cassettes and freewheels. His version uses Javascript so you can create a plot for any tooth counts."
+    }
+  ]
+}

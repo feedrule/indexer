@@ -1,0 +1,20 @@
+{
+  "url": "https://markus-haack.com/feed/feed.xml",
+  "posts": [
+    {
+      "link": "https://markus-haack.com/bessere-schule/",
+      "title": "bessere.schule: Building a Student-First App for beste.schule",
+      "description": "At 7:15 in the morning, a student has exactly one question: does my first lesson take place, and in which room? Getting that answer shouldn’t take more than a glance. My daughter’s school uses beste.schule for pretty much everything: timetable, substitutions, grades, the Klassenbuch (the digital class register) and announcements from the school. All the information is there. But every time we opened the app, we had the same feeling. It works. It just wasn’t built for us. So I built a better one - for my daughter, for students, for us. Hence the name: bessere.schule is German for “better school”. We deliberately kept it close to the official beste.schule (“best school”), so it’s obvious the two belong together. One App for Everyone # beste.schule calls itself “a platform for your entire school day”: grade book, report cards, Klassenbuch, attendance, parent communication, payments and analytics, all in one place. Teachers, school admins, parents and students all use the same app, and you"
+    },
+    {
+      "link": "https://markus-haack.com/aem-experince-workspace-explained/",
+      "title": "AEM Experience Workspace: The Agentic Content Engine Explained",
+      "description": "What if you could build a complete, on-brand landing page from one prompt, inside AEM? That’s one of the demos in our new Adobe Developers Live session, where my colleague Martin Buergi and I introduce AEM Experience Workspace . If you followed my posts on DA MCP or our Summit 2026 lab , this is where that work is heading. https://www.youtube.com/watch?v=b8IeoY4SKBI What is Experience Workspace? # It’s the agentic evolution of AEM: one platform where authors, developers and AI agents work on the same content. The visual editing is based on Universal Editor principles, so a lot of it will feel familiar. What you’ll see in the video # Intro into Experience Workspace and why we are building it. Three views of one page: visual, raw content, and a split view that keeps both in sync. Live collaboration: you can see when a colleague is editing the page. You can also see when an AI agent is. An AI assistant that knows what you’ve selected and works with your brand guidelines and SEO requiremen"
+    },
+    {
+      "link": "https://markus-haack.com/zettelbox-2/",
+      "title": "Building Zettelbox 2.0 – An ESPHome E-Ink Display Upgrade",
+      "description": "Two years ago, I built a wooden notepad box with a 2.9-inch E-Ink display and wrote about it . Until recently, it was still sitting on my desk and it’s still working. It was even shared on Hacker News back then. But there were two things that kept bothering me a bit. Not a huge deal, but still. That’s why I’ve been toying with the idea of an upgrade for a few months now. The display was too small: I could just about fit the data I wanted on it, but that was about it. And the box itself looked exactly as it was: sawn by hand, filed by hand, and given a quick coat of paint. Quite obviously a DIY project. The new display # The original Waveshare 2.9\" panel had 296×128 pixels, landscape. The layout was always a compromise. Everything squeezed to fit. The new panel is a Waveshare 2.7\". Slightly smaller on the diagonal, but 264x176 pixels in landscape with a 3:2 ratio. More vertical space. The card-based layout I’d been sketching for a while actually worked on the first try. The new box # Ve"
+    }
+  ]
+}

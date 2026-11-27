@@ -1,0 +1,20 @@
+{
+  "url": "https://justinmchase.com/feed/",
+  "posts": [
+    {
+      "link": "https://justinmchase.com/2026/06/04/spec-driven-development-keeping-humans-in-the-loop-while-scaling-ai-assisted-code-review/",
+      "title": "Spec-Driven Development: Keeping Humans in the Loop While Scaling AI-Assisted Code Review",
+      "description": "A field report from building Real Polite Protocol, an open protocol and reference implementation on Deno Deploy. The problem with “vibe coding” at scale AI coding agents have gotten genuinely good. They will happily implement a feature end-to-end, write the tests, run them, and report green. The trouble is that “the tests pass” is a … Continue reading \"Spec-Driven Development: Keeping Humans in the Loop While Scaling AI-Assisted Code Review\""
+    },
+    {
+      "link": "https://justinmchase.com/2023/03/16/bing-ai-can-write-code-in-my-custom-programming-language-and-its-blowing-my-mind/",
+      "title": "Bing AI can write code in my custom programming language and its blowing my mind",
+      "description": "I’ve been working on a programming language project for quite a while. Its been challenging and fun as my on-again-off-again side project for probably 10+ years. Needless to say this programming language isn’t known by many people and it is fairly original while borrowing from a few other similarly obscure language projects. The language is … Continue reading \"Bing AI can write code in my custom programming language and its blowing my mind\""
+    },
+    {
+      "link": "https://justinmchase.com/2023/03/11/hybrid-microservice-architecture/",
+      "title": "Hybrid Microservice Architecture",
+      "description": "In the article What are Microservices, Amazon Web Services does a great job of defining Microservices. Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. These services are owned by small, self-contained teams. Additionally, they do an excellent job of outlining … Continue reading \"Hybrid Microservice Architecture\""
+    }
+  ]
+}

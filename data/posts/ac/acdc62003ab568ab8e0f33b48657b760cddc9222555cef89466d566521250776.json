@@ -1,0 +1,10 @@
+{
+  "url": "https://alexandergoslin.me/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Writing a SIGGRAPH paper from scratch.",
+      "description": "In September 2024, my final year of college, I began working on a side project called “Terrain Diffusion.” The goal was to create a learned procedural terrain generator that could drop into almost any game engine with minimal friction. I had nothing but one RTX 3090 Ti, which I bought with money from an internship at Walmart that prior summer. As I worked on the project, I developed InfiniteDiffusion, a new algorithm for infinite generation with diffusion models [5]. I continued this work throughout my final year of college, a move to California, and a full time SWE job at Walmart. In December 2025, I released the first preprint to ArXiv, and in January, I submitted it to SIGGRAPH 2026, where the paper was later accepted."
+    }
+  ]
+}

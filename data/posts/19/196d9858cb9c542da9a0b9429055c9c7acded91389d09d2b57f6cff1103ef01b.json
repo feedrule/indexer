@@ -1,0 +1,15 @@
+{
+  "url": "https://codesthings.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://codesthings.com/blog/2026-05-01-zerocalc.html",
+      "title": "ZeroCalc",
+      "description": "From delivery box to a standalone Pico-8 dev machine. The ZeroCalc build, minus the forum digging."
+    },
+    {
+      "link": "https://codesthings.com/blog/2026-03-30-how-this-site-works.html",
+      "title": "Personal Website",
+      "description": "The whole site is about 3000 lines of JavaScript and a folder of JSON. Here's how it works, and why there's no framework."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://douxx.blog/feed.xml",
+  "posts": [
+    {
+      "link": "https://douxx.blog/listening-to-switzerland-s-unencrypted-paging-network",
+      "title": "Listening to Switzerland’s Unencrypted Paging Network",
+      "description": "Some features may only be available on the original post . TL;DR With a ~$40 RTL-SDR and a Raspberry Pi, I listened to Switzerland's POCSAG paging network ( 147.3-147.4MHz and 169.7MHz ). It's full of unencrypted messages: network monitoring alerts, heartbeats, ambulance and fire dispatches, and even customer service requests with names and phone numbers. On 169.7MHz , I also found base64-encoded GPS ephemeris data (u-blox UBX format). I anonymized everything private in this article. While exploring radio signals using my rtl-sdr , I came across those small bursts around 147.3-147.4MHz : After further investigation, I discovered they were POCSAG messages, and part of a relatively large network. I'll show some cool stuff I found, but before that, What Is POCSAG? Radio-paging code No. 1 , usually called POCSAG, referring to the name of the group that developed the code, P ost O ffice C ode S tandardisation A dvisory G roup, is an asynchronous protocol used to transmit data via radio. It'"
+    },
+    {
+      "link": "https://douxx.blog/turning-a-raspberry-pi-zero-into-a-fm-sound-card",
+      "title": "Turning a Raspberry Pi Zero Into a FM Sound Card",
+      "description": "Some features may only be available on the original post . For once, this post will be a bit more about assembling existing stuff rather than building something from scratch, but I hope you still enjoy it! I've wanted to build something for a long time that I could plug into any laptop or PC, select as a sound card, and have my audio broadcasted on FM with minimal delay. I already tried building it in the past, but failed. This time, I succeeded, and I'll document the process here. Getting the Hardware Ready For the hardware, I chose to go with a Raspberry Pi Zero W , for a few reasons: It can broadcast radio. A small hack on its general purpose clock lets us broadcast FM radio at low power. It's cheap — costing about $20. Finally, it can run in gadget mode, meaning we can communicate with it over the same USB port that powers it. Installing the OS Since the RPI is a small computer, it needs an operating system to work. To install it, I first ran the Raspberry Pi Imager on my laptop an"
+    },
+    {
+      "link": "https://douxx.blog/booting-to-life",
+      "title": "Booting to life",
+      "description": "Some features may only be available on the original post . I've just finished my second year of software development school, and now I finally have time to write, create, and hopefully rest. I have 6 weeks of summer vacation, so I'll try to post a bit more articles, covering a variety of subjects — obviously tech-related. In this first article of my vacations, I'll document and explain how I've managed to make a USB stick boot to life , how I like to call it, or less spectacularly \"boot into Conway's Game Of Life without any OS, and keep the culture alive.\" Without further ado, let's start by making a small checklist of the steps I've gone through, and that I'll cover in this article. Figuring how to create something that boots Go from 16 to 32 bits Run C code Integrate the Game Of Life Make the game better Figuring How to Create Something That Boots I didn't even start to write a single line of code and I'm already facing a dilemma: should I go the legacy route, or the multiboot one?"
+    }
+  ]
+}

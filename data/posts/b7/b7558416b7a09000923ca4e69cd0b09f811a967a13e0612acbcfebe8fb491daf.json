@@ -1,0 +1,20 @@
+{
+  "url": "https://rasyidanaf.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://rasyidanaf.com/blog/vim-of-coding-agents/",
+      "title": "Vim of Coding Agents",
+      "description": "A note on neovim-like coding agent harnesses"
+    },
+    {
+      "link": "https://rasyidanaf.com/blog/opinionated-mental-models-for-agentic-workflows/",
+      "title": "Opinionated Mental Models for Agentic Workflows",
+      "description": "Tool-agnostic mental models for the agentic era. What to delegate, how to design feedback loops, and why human judgement scales LLM output."
+    },
+    {
+      "link": "https://rasyidanaf.com/blog/the-nix-experience-managing-macos-with-nix/",
+      "title": "The Nix Experience: Managing macOS with Nix",
+      "description": "Introducing Nix and my experience of using Nix as ultimate package manager and system configuration tool."
+    }
+  ]
+}

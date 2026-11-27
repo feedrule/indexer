@@ -1,0 +1,20 @@
+{
+  "url": "https://revontulet.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://revontulet.dev/p/2026-installing-arch-from-arch-onto-an-external-drive/",
+      "title": "Installing Arch from Arch onto an External Drive",
+      "description": "To install Arch Linux, the most common and easiest way is booting it up from an installation media. This may not be an option, and instead we want to install it straight onto a drive. The Arch Wiki provides a guide to Install Arch Linux from existing Linux , but it took a while to get all pieces right. Consider this post to aim for a more noob-friendly and handholding setup on how to install Arch from Arch . For readability, only hyperlinks not referring to wiki.archlinux.org are marked with their source in brackets."
+    },
+    {
+      "link": "https://revontulet.dev/p/2025-no-shave-november-and-face-detection/",
+      "title": "No Shave November Through the Eyes of Face Detection",
+      "description": "Every year No Shave November and Movember are held to raise funds and spread awareness for Men’s Health, particularly cancer research and treatment. They are more or less the same, but not exactly. Movember vs No Shave November (tue.nl) provides a more detailed view of their differences. The idea is simple: Do not spend your money on a barber for the whole of November, instead donate it to a good cause."
+    },
+    {
+      "link": "https://revontulet.dev/p/2025-wayland-sway-nvidia-dlss-unreal-engine-and-ghosting/",
+      "title": "Wayland, Sway, Nvidia DLSS, Unreal Engine and Ghosting",
+      "description": "Since January 2023, I’m the owner of a Steam Deck. Until April 2025, my main computer still had Windows running, but I found that I hardly use it for anything but the browser and games. Given the Steam Deck experience, I was confident to ditch Windows and continue playing on Linux from here on. Especially as pretty much anything I play is on Steam. However, in my setup with an Nvidia RTX 3070 and Sway (thus Wayland), heavy ghosting occurred on games like Hogwarts Legacy , and one I started most recently, Arc: Raiders . Overall, these problems seem to happen with games that are built in Unreal Engine , as e.g. RDR2 or GTA V work flawlessly."
+    }
+  ]
+}

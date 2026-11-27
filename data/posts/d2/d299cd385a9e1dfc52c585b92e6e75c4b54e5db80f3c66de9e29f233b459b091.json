@@ -1,0 +1,20 @@
+{
+  "url": "https://ex.rs/feed",
+  "posts": [
+    {
+      "link": "http://ex.rs/a-genus-3-polyhedron-relaxed/",
+      "title": "A Genus-3 Polyhedron, Relaxed",
+      "description": "my work, AI-generated overview Ruslan Mizhaev’s Integer Realization of an Equivelar Octahedron of Genus 3 does something I like: it takes an object previously known only abstractly and pins it down with exact integer coordinates, so every claim about it is checkable without a single floating-point comparison. Eight planar nonagonal faces, 24 vertices, 36 edges, three faces meeting at every vertex — a {9,3} equivelar map — with C₄ symmetry. Twenty pairs of faces share an edge; the remaining eight pairs share two. The genus follows from counting: 24 − 36 + 8 = −4, and χ = 2 − 2g gives g = 3. But counting is not seeing. The faces are big thin nonagons that weave past one another, and no still picture made it obvious to me that this spiky thing is a triple torus. So I built an animation that relaxes the polyhedron into a smooth genus-3 surface under surface tension at constant volume. Every keyframe, and every linear interpolation between keyframes, is certified free of self-intersection,"
+    },
+    {
+      "link": "http://ex.rs/why-post-quantum-why-now/",
+      "title": "Why post-quantum, why now?",
+      "description": "Today marks the 12th anniversary of the Tezos white paper , and today, Nomadic Labs, Trilitech, and other contributors are proud to unveil the upcoming preview net for a fully post-quantum version of Tezos. This previewnet is currently being tested internally and will be made publicly available during September. Simply speaking, like every other blockchain, Tezos is secured with cryptographic techniques. These cryptographic techniques typically use a mathematical object known as an “elliptic curve”. As far as we know, classical computers cannot break these techniques without a literally astronomical amount of computation. However, once quantum computers become sufficiently large, they will be able to break them with ease. Fortunately, not all cryptographic techniques are vulnerable to quantum computers. So-called “ post-quantum cryptography ” uses algorithms that remain out of reach of quantum computers. These techniques haven’t been widely adopted yet because they are typically a bit"
+    },
+    {
+      "link": "http://ex.rs/stars-are-hard-comparisons-are-easy/",
+      "title": "Stars Are Hard, Comparisons Are Easy",
+      "description": "my work, AI-generated overview Somewhere around 2015 I admitted to myself that my IMDB ratings were garbage: the numbers meant nothing. Asked to give a movie 7 or 8 stars, I produce noise: it depends on my mood, on the last thing I rated, on whether I’m anchoring against masterpieces or against the mediocre thing I watched on a plane. A 7 from 2013-me and a 7 from 2015-me are not the same 7. What I wanted was for my ratings to be calibrated : an 8 should be a statement with content, comparable across years and genres. But here’s the thing: while I can’t rate a movie in isolation to save my life, ask me which of two movies is better and I usually answer quickly, and consistently. This is an old observation — psychophysicists have known for a century that absolute judgments drift and paired comparisons are stable. So the plan wrote itself: stop rating. Compare, and let the machine infer the numbers. The machine works like this. Every item gets a hidden score, and a comparison is a noisy"
+    }
+  ]
+}

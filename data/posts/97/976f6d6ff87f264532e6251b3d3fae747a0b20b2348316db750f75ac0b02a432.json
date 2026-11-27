@@ -1,0 +1,20 @@
+{
+  "url": "https://mbednarski.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://mbednarski.com/blog/2026/11/27/",
+      "title": "We only need a few years to lock in a beautiful future",
+      "description": "There's no moat in software anymore. Once open models catch up and run locally, nobody can take them away, and rent seekers run out of road."
+    },
+    {
+      "link": "https://mbednarski.com/blog/2026/10/15/",
+      "title": "\"Anthropic Merges 30,000 Changes a Day\" Misses the Point",
+      "description": "Merging 30,000 changes a day is cheap. Each change is then read hundreds of times, mostly by machines, and reading is where the cost explodes."
+    },
+    {
+      "link": "https://mbednarski.com/blog/2026/09/29/",
+      "title": "Nobody will know what the system is",
+      "description": "The four levels of self-driving codebases, adversarial reviewers, and what comes after humans stop reading code."
+    }
+  ]
+}

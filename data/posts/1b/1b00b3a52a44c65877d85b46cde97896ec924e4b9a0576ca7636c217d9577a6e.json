@@ -1,0 +1,20 @@
+{
+  "url": "https://fleeb.ee/blog/atom.xml",
+  "posts": [
+    {
+      "link": "https://fleeb.ee/blog/ethical-llms",
+      "title": "Ethical LLMs",
+      "description": "The LLM is a technology that has been tainted by the corrosive touch of multibillion tech companies. Can it be saved?"
+    },
+    {
+      "link": "https://fleeb.ee/blog/transcribing-after-a-long-break",
+      "title": "Transcribing after a long break",
+      "description": "Transcribing is hard, but fulfilling work"
+    },
+    {
+      "link": "https://fleeb.ee/blog/are-llms-tools",
+      "title": "Are LLMs tools?",
+      "description": "Some possibly incoherent thoughts on the toolness of LLMs"
+    }
+  ]
+}

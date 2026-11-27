@@ -1,0 +1,20 @@
+{
+  "url": "https://johnjr.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://johnjr.dev/posts/the-reflection-on-my-first-year-at-meta/",
+      "title": "The Reflection on My First Year at Meta",
+      "description": "Disclaimer : Everything here is just my personal opinion, and this text does not reflect any opinion of my employer. Also, feel free to disagree with me on anything here; again, this is just my personal opinion and reflects my experience. Before I talk about my first year at Meta, I think it is worth first discussing how I arrived here. I haven’t applied for any job at Meta. Since around 2019, I have received many emails from recruiters about positions there. At the beginning of 2024, I aced the interviews, but I didn’t join the company. At that moment, your interview’s results were valid for 1 year, and I took the entire year to make my decision. Then, I decided to join in January 2025 and started in May 2025."
+    },
+    {
+      "link": "https://johnjr.dev/posts/binary-search/",
+      "title": "Binary Search",
+      "description": "One of the most fundamental algorithms that appears in interviews at big tech companies is Binary Search . Of course, nobody will ask you to implement binary search directly. However, as Jon Bentley cited in his famous book Programming Pearls , only a small percentage of people he asked—10% to be precise—were able to code this algorithm without any errors. Here, I will show you a correct implementation of binary search, its variants that appear in interviews, and LeetCode problems that you can solve using these techniques."
+    },
+    {
+      "link": "https://johnjr.dev/posts/builder-design-pattern-and-cyclomatic-complexity-reduction/",
+      "title": "Builder Design Pattern and Cyclomatic Complexity Reduction",
+      "description": "In this post, I will explain in detail how I used the builder design pattern together with the bit mask field technique to reduce complexity. As a result, I decreased the cyclomatic complexity from 24 to 0 and reduced development time from hours to minutes. The rest of this post is organized as follows sections: The problem explains the problem I was solving. Creating the bit mask field presents a solution to the problem. Cyclomatic Complexity discusses cyclomatic complexity and calculates this metric for the solution presented in the section above. Builder design pattern explains the builder design pattern and describes the refactoring process that removed complexity. Conclusion summarizes this post. References provides references related to the topics discussed here. All the examples shown here are in C++."
+    }
+  ]
+}

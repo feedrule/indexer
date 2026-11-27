@@ -1,0 +1,20 @@
+{
+  "url": "https://andreasfertig.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://andreasfertig.com/blog/2026/11/cpp-insights-episode-80-a-facet-of-cpps-narrowing-conversions/",
+      "title": "C++ Insights Episode 80: A facet of C++s narrowing conversions",
+      "description": "I published a new C++ insights episode: A facet of C++s narrowing conversions. In this episode, you'll learn about a fact of C++'s narrowing conversions and how I tripped and almost felt :-) Andreas"
+    },
+    {
+      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "title": "C++26 DIS failed, how does C++ survive?",
+      "description": "On October 23, 2026, the unthinkable happened. It was supposed to be a mere formality: C++26 was up for a vote by the ISO National Bodies (NBs). The options are always approval, rejection, or abstention. Comments are also allowed. Since 1998, this process had run quietly and smoothly. Not …"
+    },
+    {
+      "link": "https://andreasfertig.com/blog/2026/10/cpp-insights-episode-79-consteval-function-propagation-with-cpp-insights/",
+      "title": "C++ Insights Episode 79: consteval Function Propagation with C++ Insights",
+      "description": "I published a new C++ insights episode: consteval Function Propagation with C++ Insights. In this episode, you'll learn about C++23s change to consteval functions and how C++ Insights helps you see that. Andreas"
+    }
+  ]
+}

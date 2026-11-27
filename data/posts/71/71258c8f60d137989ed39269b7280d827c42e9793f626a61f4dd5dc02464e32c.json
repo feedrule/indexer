@@ -1,0 +1,20 @@
+{
+  "url": "https://manishrjain.com/feed.rss",
+  "posts": [
+    {
+      "link": "https://manishrjain.com/egres/",
+      "title": "Egres: A Postgres-compatible database for heavy, multi-tenant workloads",
+      "description": "I love Postgres. It is an incredible database. But, its design is also 30 years old and most of what people fight in production comes from decisions made long time ago: VACUUM, transaction id wraparound, bloat, a process per connection…"
+    },
+    {
+      "link": "https://manishrjain.com/ai-code/",
+      "title": null,
+      "description": "The actual code output, even with top AI models today, is quite like their language output (particularly for technical topics). It's written in a way that's hard to understand. Short where more words would help. Long where fewer words would do the job. And random phrases you can do without. And that complexity makes it easy to overlook underlying logical irregularities. It's only until you simplify and understand what's written that you start to realize there're better ways to approach the same problem. And AI would still get you there fast, but it's an iterative process. For any decently complex tech project, I don't think you can/should just let coding models loose in auto mode. Use the manual mode, read, aggressively rewrite and understand the code. At least, until AI (inevitably) can write better, simpler code. We'll know AI is there when it can write in language that reads like Paul Graham's articles."
+    },
+    {
+      "link": "https://manishrjain.com/jj-git/",
+      "title": null,
+      "description": "I started using jj (Jujutsu VCS) for all my git commits months ago, and since then, I have not used git directly even once. jj is just so much easier to work with. I write code in layered commits, one on top of other, then squash. Or branch out without actually using branches -- all because jj makes it super easy to move between commits and squash them into each other, without worrying about conflicts. jj is an addictive, transformative way to interact with git repositories. It's an incredible piece of software."
+    }
+  ]
+}

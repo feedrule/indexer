@@ -1,0 +1,20 @@
+{
+  "url": "https://jens.dev/index.xml",
+  "posts": [
+    {
+      "link": "https://jens.dev/2026/11/25/stop-managing-vulnerabilities.html",
+      "title": "Stop managing vulnerabilities, start owning the response",
+      "description": "Groundhog Day Looking at the current state of software security, the thing that changed the most in the last years is the pace. CVEs with a score above 9.0 come out practically every day, and the software vendors follow the same rhythm: patches no longer arrive with the next quarterly release, they get sent out daily. What did not change is the way most companies operate around this. In most of them, CVEs and patches are implemented by the product teams, each team for the software it owns, and somewhere in between the work it actually planned. Sometimes a security team sits in front of that and is responsible for the notification, it reads the advisories and opens the tickets. And quite often not even that exists, and nobody is explicitly tasked with the oversight at all."
+    },
+    {
+      "link": "https://jens.dev/2026/11/19/everlock-at-the-rust-meetup-in-leipzig.html",
+      "title": "Everlock at the Rust meetup in Leipzig",
+      "description": "On Tuesday I gave a talk at the Rust meetup in Leipzig : “Everlock: Everything Is Git, Protocols Are Just Adapters”. It is the practical side of my post about Git as universal storage , with Everlock as the example. Thanks to everybody who came. Click into the slides and use the arrow keys, or open them in their own tab . The Markdown source of the deck is available as well, speaker notes included."
+    },
+    {
+      "link": "https://jens.dev/2026/11/07/an-epaper-picture-frame-revisited.html",
+      "title": "An epaper picture frame, revisited",
+      "description": "Two years ago I wrote about an epaper picture frame . The picture quality was surprisingly good for only 16 greyscale colors, but feeding it with images from the internet meant working around three obstacles: no encryption, no authentication and a custom image format. I ended up writing my own server in Rust ( framelabs-s3-server ) and promised a separate post about the software. That post never happened. So consider this the follow-up, just with a different frame."
+    }
+  ]
+}

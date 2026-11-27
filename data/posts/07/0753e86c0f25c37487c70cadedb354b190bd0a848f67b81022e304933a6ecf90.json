@@ -1,0 +1,20 @@
+{
+  "url": "https://sleeplessbeastie.eu/index.xml",
+  "posts": [
+    {
+      "link": "https://sleeplessbeastie.eu/2026/11/24/how-to-determine-docker-image-entrypoint-command/",
+      "title": "How to determine Docker image entrypoint command",
+      "description": "Use docker image inspect and jq to determine the entrypoint command of any Docker image."
+    },
+    {
+      "link": "https://sleeplessbeastie.eu/2026/11/17/how-to-expose-a-proxmox-vm-id-to-the-guest-os/",
+      "title": "How to expose a Proxmox VM ID to the guest OS",
+      "description": "Pass a virtual machine ID to its guest operating system using the SMBIOS serial field."
+    },
+    {
+      "link": "https://sleeplessbeastie.eu/2026/11/10/how-to-calculate-and-display-effective-cpu-frequency-per-process/",
+      "title": "How to calculate and display effective CPU Frequency per process",
+      "description": "Calculate and display effective CPU frequency (MHz) per process."
+    }
+  ]
+}

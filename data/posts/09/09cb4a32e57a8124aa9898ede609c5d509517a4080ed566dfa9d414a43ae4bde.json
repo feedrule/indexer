@@ -1,0 +1,20 @@
+{
+  "url": "https://machinedreams.blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://machinedreams.blog/posts/the-cli-first-world/",
+      "title": "The CLI-First World",
+      "description": "Why CLIs are becoming the best interface for agents, and why that matters more than chat wrappers."
+    },
+    {
+      "link": "https://machinedreams.blog/posts/warm-up-the-context-window-best-mcps-for-codex-cli/",
+      "title": "Warm Up the Context Window",
+      "description": "The best MCP workflow for Codex CLI starts with research, not code. Use DeepWiki MCP and Perplexity MCP to onboard your agent and improve execution quality."
+    },
+    {
+      "link": "https://machinedreams.blog/posts/tips-to-make-claude-code-work-faster/",
+      "title": "Tips to make Claude Code work faster!",
+      "description": "Replace traditional GNU tools with modern Rust alternatives to make Claude Code operations 5-20x faster. A simple setup that dramatically improves your AI coding assistant performance."
+    }
+  ]
+}

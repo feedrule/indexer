@@ -1,0 +1,20 @@
+{
+  "url": "https://m-malinowski.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://m-malinowski.github.io/2026/09/22/quantum-jump.html",
+      "title": "What even is a quantum jump?",
+      "description": "As you start reading about quantum mechanics, one of the first things you learn is that there are quantum jumps. But what the heck does that even mean? During quantum gates, for example, the wave function evolves continuously between the two qubit states. So in what sense is anything jumping?"
+    },
+    {
+      "link": "https://m-malinowski.github.io/2026/09/15/puzzle.html",
+      "title": "The quantum lab puzzle that took me five years to solve",
+      "description": "Back in my PhD, my team and I ran one of the first ion trap chips with integrated photonics. But the chip had a problem, and I thought I had a clever solution… that for some stubborn reason refused to work. It only took me five years to understand what I did wrong. Let’s see if you can spot it!"
+    },
+    {
+      "link": "https://m-malinowski.github.io/2026/08/24/ai-knowledge-management.html",
+      "title": "Hey Claude… what are we actually building?",
+      "description": "The best-known use of AI in 2026 is in execution of well-scoped tasks in the domains of software engineering, general productivity, and mathematics. Within any given company, the human still has the most context about what to build, but the agent does a lot of the building."
+    }
+  ]
+}

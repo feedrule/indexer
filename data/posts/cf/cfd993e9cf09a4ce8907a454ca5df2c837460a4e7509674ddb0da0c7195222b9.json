@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.chay.dev/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.chay.dev/ssos-20267-season",
+      "title": "SSO's 2026/7 Season",
+      "description": "My random thoughts about it"
+    },
+    {
+      "link": "https://blog.chay.dev/parallelized-commits",
+      "title": "Parallelized commits",
+      "description": "Yet another \"jj is magic\" post"
+    },
+    {
+      "link": "https://blog.chay.dev/ts-ignore-is-now-supported-in-svelte-tags",
+      "title": "@ts-ignore is now supported in Svelte tags!",
+      "description": ".. finally!"
+    }
+  ]
+}

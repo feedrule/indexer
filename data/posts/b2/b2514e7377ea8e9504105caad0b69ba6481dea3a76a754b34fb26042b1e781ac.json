@@ -1,0 +1,20 @@
+{
+  "url": "https://0xn3va.gitbook.io/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://0xn3va.gitbook.io/blog#executing-ai-agent-on-behalf-another-user-in-langsmith-agent-builder-resolved",
+      "title": "Executing AI agent on behalf another user in LangSmith Agent Builder (Resolved)",
+      "description": "This post examines the agent's underlying architecture and the chain of vulnerabilities that led to user impersonation during agent execution."
+    },
+    {
+      "link": "https://0xn3va.gitbook.io/blog#chaining-service-key-leakage-and-path-confusion-in-langsmith-resolved",
+      "title": "Chaining service key leakage and path confusion in LangSmith (Resolved)",
+      "description": "This post describes the discovery and exploitation of a vulnerability that allowed unauthorised access across LangSmith agent deployments. In addition, it details research into path normalisation differences between Nginx and GCP Load Balancer."
+    },
+    {
+      "link": "https://0xn3va.gitbook.io/blog#achieving-remote-code-execution-in-langsmith-playground-using-unsafe-template-formatting",
+      "title": "Achieving remote code execution in LangSmith Playground using unsafe template formatting",
+      "description": "This post details the discovery and exploitation of a vulnerability in LangSmith Playground that allowed arbitrary code execution through unsafe template formatting."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://leahneukirchen.org/blog/index.atom",
+  "posts": [
+    {
+      "link": "https://leahneukirchen.org/blog/archive/2025/12/merry-christmas.html",
+      "title": "Merry Christmas!",
+      "description": "Frohe Weihnachten, ein schönes Fest, und einen guten Rutsch ins neue Jahr wünscht euch Leah Neukirchen Merry Christmas and a Happy New Year! NP: Pearl Jam—Quick Escape"
+    },
+    {
+      "link": "https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html",
+      "title": "Advent of Swift",
+      "description": "This year, I decided to use Advent of Code to learn the language Swift . Since there were only 12 days of tasks for 2025, here is my summary of experiences. Also check out my solutions . Tooling I used Swift 6.2 on Void Linux, which I compiled from scratch since there were no prebuilt binaries that worked with a Python 3.13 system (needed for lldb). It’s possible to bootstrap Swift from just a clang++ toolchain, so this wasn’t too tedious, but it still required looking up Gentoo ebuilds how to pass configuration properly. As an end user, this should not worry you too much. Tooling in general is pretty nice: there’s an interpreter and you can run simple “scripts” directly using swift foo.swift . Startup time is short, so this is great for quick experiments. There’s also a REPL, but I didn’t try it yet. One flaw of the interpreter (but possibly related to my setup) is that there were no useful backtraces when something crashed. In this case, I compiled a binary and used the included lldb"
+    },
+    {
+      "link": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
+      "title": "Comparing nitro to runit",
+      "description": "Yesterday I announced a first public release of nitro, a tiny init system and process supervisor . This got a fair bit of attention, and to my delight was even boosted on the fediverse by both Laurent Bercot (of s6 fame) and djb himself. One of the most requested things was a comparison to other init systems. Since I’m most familiar with runit , I shall compare nitro and runit here. Comparison to runit runit and nitro share the basic design of having a directory of services and using small scripts to spawn the processes. Comparing nitro to runit, there are a few new features and some architectural differences. From a design point of view, runit follows the daemontoools approach of multiple small tools: The runit-init process spawns runsvdir , which spawns a runsv process for each service. nitro favors a monolithic approach, and keeps everything in a single process. This makes it also easier to install for containerization. The new features are: nitro keeps all runtime state in RAM and"
+    }
+  ]
+}

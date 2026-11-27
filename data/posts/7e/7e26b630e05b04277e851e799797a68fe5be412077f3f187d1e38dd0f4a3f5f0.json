@@ -1,0 +1,20 @@
+{
+  "url": "https://www.analogue.computer/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.analogue.computer/blog/harness-engineering-typescript",
+      "title": "Harness engineering: Preparing TypeScript codebases for coding agents",
+      "description": "Vibe coding is upon us, but it works best when the codebase has strong affordances — a concept in design that describes the possible actions an actor (in this case, a coding agent) can take, in relation to an object (in this case, the codebase): Affordance: a use or purpose that a thing can have, that people notice as part of the way they see or experience it. For a coding agent like Claude Code or Cursor to produce productive code instead of \"AI slop\" that becomes expensive to maintain and clean up later, building a codebase with obvious structure and automated guardrails becomes important. Even the smartest models today can't possibly reason about every edge case without a good harness. And even with coding agents like Claude Code, designing repositories in a thoughtful way can go a long way in improving the quality of the code. A repository should be treated less like a pile of code that can be executed, and more like an execution environment for agents . Good vibe coding, therefore"
+    },
+    {
+      "link": "https://www.analogue.computer/blog/cyber-2028",
+      "title": "Cyber 2028",
+      "description": "Anthropic published its Mythos Preview cybersecurity evaluation a few days ago, and a lot of people in cyber are spooked. Not because it reads like a scenario piece such as AI 2027 , but because the point is more immediate: if frontier models are already finding and exploiting serious zero-days across major software targets, cyber is changing right now. This is a prediction essay about what happens now. My basic claim is that as cyber moves from a labor-bound craft industry to a capital-bound one, the economics of offense, defense, and state power change with it. Cyber was a craft industry The parts of cyber that people usually mean when they say \"advanced\" or \"sophisticated\" have historically looked much closer to guild craftsmanship than industrial production. Good operators built intuition over years: they learned how to read massive codebases, infer system behavior from side channels, chain small observations into a coherent exploit path, and adapt when the blue team reacts. That k"
+    },
+    {
+      "link": "https://www.analogue.computer/blog/security-economics",
+      "title": "The economic failures of penetration testing",
+      "description": "Offensive security seems to be getting its time in the sun again with the rise of AI-powered tools that promise fully autonomous penetration testing. But is it really all that different from the old days? The persistent failure of the penetration testing market is often framed as a technical problem: not enough talent, insufficient automation, immature tooling, or attackers moving faster than defenders. This framing is comforting because it implies that incremental technical progress will eventually close the gap. In reality, the core problem is economic. It systematically rewards the appearance of security over the reduction of risk, and it does so through a predictable set of incentive failures that any A-Level Economics student can explain. The core problem: it is not a market for outcomes, it is a market for signals. Information Asymmetry and Adverse Selection Akerlof's market for lemons is a classic example of how information asymmetry can lead to market failure. In the used car m"
+    }
+  ]
+}

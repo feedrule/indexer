@@ -1,0 +1,20 @@
+{
+  "url": "https://libreoffice-dev.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://libreoffice-dev.blogspot.com/2026/11/status-and-potential-next-steps-for-qt6.html",
+      "title": "Status and potential next steps for qt6 vcl plugin on Windows by Michael Weghorn",
+      "description": "Let me publish here a text from Michael Weghorn's letter to our dev mailing list about current Qt6 plugin for Windows build status (because I like when more people can see such important information): Earlier this year, initial support for the qt6 vcl plugin on Windows (and macOS) was implemented on master. Below is a summary of the current status and potential next steps from my perspective. I haven't used/tested it much myself beyond the point of \"It starts and looks plausible at first\" when contributing to it in the past and it is not my own main focus now. The below is meant as a basis for further discussion and coordinating efforts between those who are interested in getting involved to further improve it. If you have any thoughts or are interested in getting involve, feedback is very welcome! I think in particularly steps described in \"Identify and address what else is missing\" could be a good starting point for both, developers (already now, requires building from source), and n"
+    },
+    {
+      "link": "https://libreoffice-dev.blogspot.com/2026/09/libreoffice-calc-now-supports-general.html",
+      "title": "LibreOffice Calc now supports general Dynamic arrays features",
+      "description": "If you don't know what is dynamic arrays, then just read this article https://exceljet.net/articles/dynamic-array-formulas-in-excel . Note, dynamic array's functions like UNIQUE, FILTER, SORT, etc. were already implemented early. But other new general dynamic array features were added to LibreOffice Calc only now into current master that will be 27.2 release in next year. Let's say big thanks to Collabora's developers for it, because all work was made for Collabora Office and then Xisco Fauli copied all patches to LibreOffice project (The source code license allows it, because it's the same MPL 2.0 on both sides). You can try the new features using master daily builds for your OS by the link ."
+    },
+    {
+      "link": "https://libreoffice-dev.blogspot.com/2024/08/the-best-libreoffice-extensions-code.html",
+      "title": "The best LibreOffice extensions. Code Highlighter 2",
+      "description": "When I translated one book about Python to Russian which contained many examples of Python code I though quite long how to highlight them in the normal text. For book writing I used LibreOffice Writer (of course) but Writer has no a standard tool for code highlighting. So after some searching I found the LibreOffice extension - Code Highlighter 2 . It is also available on our extension site . This extension makes code highlighting using Pygments Python library. There is support for many programming languages and many color styles for highlighting there. The extension worked fine, but I didn't like that for highlighting I should manually select every code example in the text, then press some shortcut, then select another code example, etc... I wrote an issue on the extension github page and after some discussions the extension author Jean-Marc Zambon implemented a new feature that allows to highlight all code example in the book in only one action using Paragraph style! So my workflow i"
+    }
+  ]
+}

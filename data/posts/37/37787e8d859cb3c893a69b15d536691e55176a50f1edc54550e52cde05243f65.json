@@ -1,0 +1,20 @@
+{
+  "url": "https://andrewpollack.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://andrewpollack.dev/blog/fixing-linkedin-customizing-the-web/",
+      "title": "Personal Software Is Getting Cheaper to Build, So I Killed My LinkedIn Feed",
+      "description": "A Chrome extension to hide the LinkedIn feed, the surprising ease of building it, and what World of Warcraft's WeakAuras ecosystem suggests about the future of personal software."
+    },
+    {
+      "link": "https://andrewpollack.dev/blog/stacked-prs-worktrees-git-exercises-agentic-development/",
+      "title": "Stacked PRs, Worktrees, and Git Exercises for Agentic Development",
+      "description": "Highlighting some recent 'aha' moments I've had while learning to effectively manage Agents, including exercises to help bake them into memory."
+    },
+    {
+      "link": "https://andrewpollack.dev/blog/build-succeeded-import-failed/",
+      "title": "Build succeeded, import failed: debugging a glibc mismatch in Python wheels",
+      "description": "A debug log of a wheel that built and installed cleanly but failed at import time due to a glibc mismatch, plus guardrails to prevent it."
+    }
+  ]
+}

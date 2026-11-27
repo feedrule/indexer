@@ -1,0 +1,20 @@
+{
+  "url": "https://vigneshx.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://vigneshx.com/blog/what-is-mcp/",
+      "title": "What is MCP?",
+      "description": "What is MCP (Model Context Protocol)? A plain explanation using one everyday story, from custom translators before MCP, to MCP v1, to MCP v2."
+    },
+    {
+      "link": "https://vigneshx.com/blog/08-production-deployment-fastapi-docker/",
+      "title": "The Production Blueprint: Deploying, Containerizing, and Serving Self-Hosted Agent Runnables",
+      "description": "How to deploy autonomous agents to production using FastAPI REST + SSE streaming, non-root hardened Docker containers, and Jaeger distributed tracing."
+    },
+    {
+      "link": "https://vigneshx.com/blog/07-context-hygiene-compaction/",
+      "title": "Context Hygiene & Compaction: Micro-Observations and Cache-Aware Prefix Freezing",
+      "description": "How to save 80% on tool token bloat and protect LLM prompt caching discounts using tool micro-compaction and prefix freezing."
+    }
+  ]
+}

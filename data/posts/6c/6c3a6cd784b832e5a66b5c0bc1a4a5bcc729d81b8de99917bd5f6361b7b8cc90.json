@@ -1,0 +1,15 @@
+{
+  "url": "https://chhs1.github.io/feed",
+  "posts": [
+    {
+      "link": "https://chhs1.github.io/blog/2026/01/22/self-hosted-discovery-playlists.html",
+      "title": "Self Hosted Music Discovery Playlists with ListenBrainz and Navidrome",
+      "description": "Introduction"
+    },
+    {
+      "link": "https://chhs1.github.io/blog/2022/03/08/youtube-rss-torrent.html",
+      "title": "From YouTube channel to RSS video podcast, backed with BitTorrent",
+      "description": "Wouldn’t it be great to publish video content, but not have to pay for all the infrastructure necessary to deliver it to your subscribers? By combining youtube-dl, RSS feeds, and BitTorrent, we can deliver our video content with the power of a peer-to-peer network."
+    }
+  ]
+}

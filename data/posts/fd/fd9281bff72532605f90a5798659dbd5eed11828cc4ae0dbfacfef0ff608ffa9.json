@@ -1,0 +1,20 @@
+{
+  "url": "https://destructured.net/rss.xml",
+  "posts": [
+    {
+      "link": "https://destructured.net/free-software-moral-legitimacy",
+      "title": "Free software and moral legitimacy",
+      "description": "I don't know how it came about exactly, but Richard Stallman, who founded the GNU Project and the Free Software Foundation, appears to have responded to Computing As Social Activity — or, at any rate, to Open Source Science's critique of CASA, where his comments are appended as an addendum. The substance of Stallman's response is that the Free Software movement recognizes the need ..."
+    },
+    {
+      "link": "https://destructured.net/casa-conscience-constraint",
+      "title": "CASA, conscience and the absence of constraint",
+      "description": "When I posted the CASA document a few weeks ago, I expected — indeed, hoped for — some debate. I just didn't expect the first major critique to come from an institutional source. Open Source Science (OS-Sci), an international outfit that partners with organizations like GitHub and the Rust Foundation, has published a blogpost outlining their objections. If you haven't read \"Comput..."
+    },
+    {
+      "link": "https://destructured.net/fasp-tracked",
+      "title": "FASP-tracked",
+      "description": "Lately, in fediverse development circles, a certain amount of hype has built around Fediverse Auxiliary Service Providers, or FASPs. For anyone familiar with the challenges of instance administration, the reason should be fairly obvious: The ability to plug into independent services promises to reduce the load on home servers. For example, one of the buzzier fediverse projects in recent years, ..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://peterbraden.co.uk/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Evolving A Smile; Gaussian Splatting approaches",
+      "description": "Evolving A Smile; Gaussian Splatting approaches Ever since university, I've kept a passive interest in the world of computer graphics, and while learning about Gaussian-Splatting, a fairly new approach to novel-view synthesis, or generating 3 dimensional scenes from a series of image, I was struck by a similarity of the approach to one of my very old projects. Almost 20 years ago, and inspired by a blog post by Roger Johansson , I played around with a genetic algorithm that generated an image to approximate the Mona Lisa based on overlapping translucent ellipses. If you squint hard enough at the problem, it's a little bit similar to gaussian splatting - in my version, an unguided gradient descent (using random mutations of a series of ellipses) found a local minima that minimized pixel difference of a target image. Over the years, I'd used the project to experiment with some other techniques that piqued my interest, notably a collaborative approach that split the evolution across many"
+    },
+    {
+      "link": null,
+      "title": "The Carddeck and a Strain Wave Clock",
+      "description": "The Carddeck and a Strain Wave Clock Completing projects is tricky for me - I am very good at starting them, but my motivation tends to dwindle about the time that the tricky part of the problem has been solved. The final polish has no sheen for me, which resigns actually posting about them to the scrapheap of procrastination. I spent a lot of the past month noodling on a design for a clock that uses a strain-wave (harmonic drive) gearbox to step down the gear ratio needed for the hands. Conceptually it was a tricky problem, and I found gear ratios that would indeed work in theory, but in practise, overcoming the friction and binding of the stages meant that the clock didn't run for long before jamming. Eventually my patience for the project ran out - it's a fun idea, and perhaps I'll return to it, but I didn't have the motivation to get it to the finish line. Your browser does not support the video tag. In contrast, another little project, was so short that I managed to get it done in"
+    },
+    {
+      "link": null,
+      "title": "The New World",
+      "description": "The New World AI has changed software development forever - LLM’s are already capable of writing code as well as many software engineers, and we aren’t going to return to the old world of software development. We therefore need to work out what this means for us, as software developers, and understand what our new role is. The Present Tools and methodologies have always evolved in our field. Over my long career, I’ve seen them come and go. In many ways, software development today is unrecognizable from when I started in this industry 20 years ago. Part of the job has always been to stay up to date with this evolution and work out how to be most effective with the tooling and mentality of the day. This is never more true than over the last year, when LLM assisted coding has gone from being a sometimes useful autocomplete, to a fully fledged collaborator, capable of large and difficult tasks with minimal assistance. A large component of our work was translating business requirements into"
+    }
+  ]
+}

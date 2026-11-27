@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.vero.site/index.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "description": "Many people know that you shouldn’t do decimal calculations, such as those involving U.S. dollars and cents, with the floating-point numbers in most programming languages. This is because decimal numbers can’t be expressed exactly as such floating-point numbers, so you will encounter rounding errors. Famously, with IEEE double-precision floats , 0.1 + 0.2 is not 0.3 , but rather, 0.30000000000000004 . On the other hand, I use a Python REPL to add up decimal numbers for receipts all the time. Of course, my stakes are lower; I’m summing things in the $1–$100 range and know to manually round the microscopic errors off before copying the sum somewhere. But actually it’s quite often that those errors don’t appear at all. If we sum every pair of multiples of 0.01 up to 1.00 and look at whether the printed result is too large (blue), too small (red), or correct, we get a cool pattern: Figure 1: How floating-point affects summing two multiples of 0.01, up to 1.00 Where does this pattern come f"
+    },
+    {
+      "link": null,
+      "title": "all the words we leave behind",
+      "description": "Here I go quoting song lyrics to myself again I have to confess I almost forgot to write a year-end post until today, New Year’s Eve. What did I do in 2025? As before, I worked on a lot of things on Anthropic’s interpretability team, including our massive circuit tracing and biology papers from March. Also as before, I helped run Galactic Puzzle Hunt 2025 with the rest of ✈✈✈ Galactic Trendsetters ✈✈✈ in September. Throughout the year I posted less-polished posts more often on my bear blog . Otherwise I didn’t do a whole lot of publicly linkable things. That’s a bit sad. Some part of me still wants to grow up to be an unclassifiable maker-of-things-on-the-Internet. There are excuses I can make and a few other miniprojects I can point to in my defense, but mostly I just haven’t set aside time for it, and I can partially make peace with this — continuing the trend, 2025 was one of the most offline social years I’ve had. Other things I did offline:"
+    },
+    {
+      "link": null,
+      "title": "Gold-medaling the 2025 IMO was easier than average",
+      "description": "(Background/disclaimer: I work at Anthropic, far from any efforts related to math reasoning or evaluations; opinions are my own. I was an IMO gold medalist in 2012.) I way missed the news window on this one, but I thought it was interesting and a bit underappreciated that the fraction of gold medalists at the 2025 IMO (72/630 = 11.4%) is the highest it’s been since 1981. Crudely, IMO gold medals are awarded to the highest-scoring 1/12 of contestants. 1 However, because scores are integers up to 42 and there’s no provision for tiebreaking, it’s possible for a lot of contestants to be tied around the threshold. In that case, either all of them get a gold medal or none do, and the fraction of gold medalists might deviate substantially from 1/12. That’s what happened this year: 46 contestants all won a gold medal by scoring exactly 35 points. Here’s a comparison with the fraction of IMO gold medalists for each year since 2000. (See appendix 1 for a full table and appendix 2 for discussion"
+    }
+  ]
+}

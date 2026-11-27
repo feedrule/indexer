@@ -1,0 +1,20 @@
+{
+  "url": "https://simon.grays.blog/feed",
+  "posts": [
+    {
+      "link": "https://simon.grays.blog/posts/2026/the-distrust-is-natural",
+      "title": "The distrust is natural",
+      "description": "Lately, I have been thinking about how people respond psychologically to LLM use. The honeymoon phase is over, and generative AI now affects nearly every part of society. The speed of this change is revolutionary, almost in the literal sense. And society is reacting. More and more people are integrating AI into their personal workflows, but negative reactions to AI use are growing alongside it."
+    },
+    {
+      "link": "https://simon.grays.blog/posts/2026/i-hate-not-knowing-how-to-repair-my-bike",
+      "title": "I hate not knowing how to repair my bike",
+      "description": "I live in Copenhagen. Bicycles are my primary means of transportation. On occassion, e.g. when leaving the city, I will use public transportation. I don't have a car or even a driver's licence."
+    },
+    {
+      "link": "https://simon.grays.blog/posts/2022/a-hydrated-spa-architecture-using-rum",
+      "title": "A hydrated SPA architecture using Rum",
+      "description": "...with special guests: Transit and Pedestal. To anyone who is not my future self: these are my notes on the architecture of a web application used to browse the next version of the Danish WordNet: an RDF graph and its associated ontologies. At this point, I have several years of experience working with reagent which—I believe—is still the simplest way to create a \"reactive\" single-page app (or \"SPA\" for short) in ClojureScript. However, I had still not created a properly \"hydrated\" SPA, which is the nomenclature used to describe single-page apps that are prerendered server-side and subsequently made to come alive in glorious, reactive dynamism on the client."
+    }
+  ]
+}

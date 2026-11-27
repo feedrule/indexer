@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thecodewhisperer.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.thecodewhisperer.com/permalink/a-tale-of-map-and-parseInt-in-three-acts",
+      "title": "A Tale of map and parseInt in Three Acts, or WAT You Will",
+      "description": "A Tale of map and parseInt in Three Acts Act 1: What?! import { describe, it, expect } from '@jest/globals'; describe(\"map parseInt over an array of strings\", () => { it(\"should parse both numbers, but doesn't seem to\", () => { expect([\"0\", \"0\"].map(parseInt)).toStrictEqual([0, 0]); }); }); The actual result is [0, NaN] . Huh. Act 2: Hmmm…. import { describe, it, expect } from '@jest/globals'; describe(\"map parseInt over an array of strings\", () => { it(\"should parse both numbers, but doesn't seem to\", () => { expect([\"0\", \"0\"].map(s => parseInt(s))).toStrictEqual([0, 0]); expect([\"0\", \"0\"].map(parseInt)).toStrictEqual([0, NaN]); }); }); This test passes. Wait… when does eta-conversion fail?! When there is more than one argument to the function we are “mapping”! What does Array.map() actually do? callback is called with three arguments: the value of the element, the index of the element, and the object being traversed. — https://tc39.es/ecma262/multipage/indexed-collections.html#sec-ar"
+    },
+    {
+      "link": "https://blog.thecodewhisperer.com/permalink/clarifying-the-rule-of-three-in-refactoring",
+      "title": "Clarifying the Rule of Three in Refactoring",
+      "description": "Do you know the Rule of Three in refactoring? (If not, then read the References section.) More than a quarter century after this heuristic received its name, it continues to confuse and divide programmers. Most notably, some programmers swear by it while others (and I count myself as one) take a more relaxed attitude towards it. This lies at the center of the ongoing debate between whether to favor removing duplication or to wait before extracting an abstraction, lest it become unhelpful. So what’s up with that? I think of the Rule of Three as a way to stop Advanced Beginners 1 from greedily removing all duplication without considering for a moment whether that duplication is accidental or essential . We could argue about the need for mitigating this particular risk, but the rule seems to try to balance learning and performance. When the programmer is primarily learning about how to design by refactoring, rather than making choices up front , they might remove all duplication greedily"
+    },
+    {
+      "link": "https://blog.thecodewhisperer.com/permalink/going-further-with-one-outcome-per-test",
+      "title": "Going Further with One Outcome Per Test",
+      "description": "Today I read Jason Gorman’s “TDD Under the Microscope: One Outcome Per Test” . I like this and I propose one step more: the emergence of two interesting outcomes itself signals a potentially-helpful abstraction. First, let me restate the principle in Jason’s article, which I tend to follow: When one action leads to two interesting outcomes, consider writing two tests with the same action. … but it gets even better when I go further. When one action leads to two interesting outcomes, I consider those two outcomes as two listeners to the some (new, emerging) domain event, particularly when those two interesting outcomes seem independent of each other. Jason’s Example To return to Jason’s example, the action is “buy item X with payment card Y”. The two interesting outcomes, which he writes as assertions, are “check the inventory of X” and “verify the attempt to charge payment card Y”. It seems to me that these are independent outcomes… although perhaps not. (I’ll come back to this later i"
+    }
+  ]
+}

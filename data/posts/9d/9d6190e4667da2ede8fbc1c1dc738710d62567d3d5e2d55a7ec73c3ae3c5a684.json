@@ -1,0 +1,20 @@
+{
+  "url": "https://newton.cx/~peter/rss.xml",
+  "posts": [
+    {
+      "link": "https://newton.cx/~peter/2026/one-good-tutorial-hpc-best-practices/",
+      "title": "One Good Tutorial at HPC Best Practices Webinar: Slides",
+      "description": "On Wednesday I’m going to present my scientific software documentation project, One Good Tutorial , as part of the IDEAS HPC Best Practices webinar series . It’ll take place at 1 PM US Eastern time. Register to attend if you’re able to watch it live, but you can always watch a recording later if you’re not. My slides are attached to this post. Here are the slides if you want to check them out. I can say that as I’ve been polishing and promoting the project, I’ve focused more and more on the idea of a “minimum viable documentation product”. I think it really captures the core idea that One Good Tutorial is trying to convey, and hopefully it anchors that idea in a context that a lot of people are familiar with. There is a bit of potential acronym confusion , though. The work described in this post was supported by a Better Scientific Software Fellowship ."
+    },
+    {
+      "link": "https://newton.cx/~peter/2026/one-good-tutorial-beta/",
+      "title": "One Good Tutorial: Beta Release!",
+      "description": "I’m delighted to announce that a beta-testing version of my scientific software documentation resource, One Good Tutorial , is ready for your feedback! Check it out at onegoodtutorial.org . (You might have noticed that my blogging pace has fallen off a cliff. Having a kid will do that to you! I aspire to ramp things back up, but it’ll probably be a little while …) One Good Tutorial is the guide that I’ve been developing over the past ~year thanks to the support of a Better Scientific Software (BSSw) Fellowship . My proposal was all about helping maintainers of small-to-medium scientific software projects create better documentation with more confidence, and in my last update , I laid out my first-draft vision for what I would build. Based on some initial work surveying the state of the field , I came to some decisions about where I wanted to direct my focus. First, I wanted to hammer my target audience over the head with the idea that there’s more to docs than API docs (hugely influenc"
+    },
+    {
+      "link": "https://newton.cx/~peter/2025/one-good-tutorial-plan/",
+      "title": "One Good Tutorial: The Plan",
+      "description": "The past few posts have been about prep work for my BSSw project : interviews and a survey of tools . After all this throat-clearing, I’m ready to sketch out the resource that I’m actually planning to create! I plan to call it One Good Tutorial . The target audience will be, of course, developers of small-to-medium scientific software projects. The centerpiece of the project will be a checklist: complete these actions, and you can sleep easy knowing that you’ve documented your project adequately. One thing that I absolutely want to beat people over the head with is the point that there is more to documentation than API docs . This is the big idea behind Diátaxis , of course, and I’m completely sold on it; and I also believe that it’s an idea that many scientific software developers need to be exposed to. I think this is such a big deal that, well, I let it drive the whole project branding. In particular, I believe that the most important thing that most projects lack is introductory, “"
+    }
+  ]
+}

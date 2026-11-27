@@ -1,0 +1,10 @@
+{
+  "url": "https://loomui.dev/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://loomui.dev/blog/introducing-loom/",
+      "title": "INTRODUCING LOOM",
+      "description": "After four months in the making, I’m really excited to announce loom. The first signal-based component framework in Go, that can be used for the Web, the Terminal, and more. func Counter () Node { count, setCount := Signal ( 0 ) go func () { for { time. Sleep (time.Second / 30 ) setCount ( count () + 1 ) } }() return P ( Text ( \"Count: \" ), BindText (count)) } What is loom? Loom is a component framework. It’s similar to modern versions of SolidJS or SvelteJS, but in Go and with a few twists: 1) Markup is just Go functions. Markup is not written in HTML, using templating, or in a separate JSX-like syntax that would require extra tooling. Instead, it’s just plain Go. A component is simply a function that returns a loom.Node , optionally taking children as arguments. func MyComponent (children ... loom.Node) loom.Node { // ... } Since markup is just Go functions, it can be used and written however it fits you best to construct a complete UI. For instance creating a Card() component with a"
+    }
+  ]
+}

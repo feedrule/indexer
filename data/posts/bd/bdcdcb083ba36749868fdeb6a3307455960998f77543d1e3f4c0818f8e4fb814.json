@@ -1,0 +1,20 @@
+{
+  "url": "https://charlesbine.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://charlesbine.com/blog/catching-gemini-4s-thought-summarizer-mid-rollout/",
+      "title": "Catching Gemini 4's leaking thought summarizer mid-rollout",
+      "description": "I asked Gemini 4 about Sweetwater candy bags, got a hallucinated database latency trace, mined 12,899 local thought blocks, and watched Google silently swap the summarizer at 4:00 PM ET."
+    },
+    {
+      "link": "https://charlesbine.com/blog/why-my-homelab-is-a-star-chart/",
+      "title": "Why my homelab is a star chart",
+      "description": "How a homelab naming rule built around trust distance turned into a zero-docker-sock WebGL star chart where layout is topology and state is only light."
+    },
+    {
+      "link": "https://charlesbine.com/blog/the-shadowbox-outlived-the-startup/",
+      "title": "The shadowbox outlived the startup",
+      "description": "I built a 64×64 wooden LED display to stay off a startup’s cloud, misspelled the repo for three years, accidentally built a second one, and folded them together."
+    }
+  ]
+}

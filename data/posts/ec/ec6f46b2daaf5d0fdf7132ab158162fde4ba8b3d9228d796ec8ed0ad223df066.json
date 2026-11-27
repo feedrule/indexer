@@ -1,0 +1,20 @@
+{
+  "url": "https://actually.fyi/feed.xml",
+  "posts": [
+    {
+      "link": "https://actually.fyi/posts/soundcraft-usb/index.html",
+      "title": "\"Fixing\" noisy USB channel on Soundcraft Notepad-12FX",
+      "description": "According to various online posts, the Soundcraft Notepad line of mixers tends to develop various faults of the USB audio inteface after a few years, including constant noise. Fortunately, if you can live without the digital parts of the mixer, there's a workaround."
+    },
+    {
+      "link": "https://actually.fyi/posts/pwsh-method-output/index.html",
+      "title": "Writing to PowerShell output streams outside a cmdlet",
+      "description": "A reflection-based approach to calling `WriteWarning`, `WriteVerbose`, and other PowerShell output methods from anywhere in your .NET code outside the cmdlet, without passing callbacks."
+    },
+    {
+      "link": "https://actually.fyi/posts/sgx/index.html",
+      "title": "A short summary of Intel SGX enclaves",
+      "description": "High-level overview of Intel SGX enclaves and both local and remote attestation."
+    }
+  ]
+}

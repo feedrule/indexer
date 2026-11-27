@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sciencebits.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://www.sciencebits.com/posts/measuring-the-atmosphere-from-inside-the-moons-shadow",
+      "title": "Measuring the Atmosphere from Inside the Moon's Shadow",
+      "description": "A total solar eclipse and its lunar shadow over Valencia de Don Juan turn a panorama into an experiment on the height and cooling of the atmosphere."
+    },
+    {
+      "link": "https://www.sciencebits.com/corona-time-varying",
+      "title": "Modeling the COVID-19 / Coronavirus pandemic – 4.Modeling with at time variable infection rate.",
+      "description": "One of the most interesting aspects of the coronavirus is the time dependence of its infection rate. It determines how effective measures like quarantining can be. Spoiler: quite ineffective!"
+    },
+    {
+      "link": "https://www.sciencebits.com/corona-populations",
+      "title": "Modeling the COVID-19 / Coronavirus pandemic – 3.The effects of several populations",
+      "description": "The next interesting question to ask when studying the coronavirus, is what is the effect of a mixed population which has different infection rates. That is, that some individuals are more infectious than others (e.g., a cashier in the supermarket vs. a farmer). Spoiler: it turns out that unless there are super-spreaders then all you care about is the arithmetic average of the transmission coefficient."
+    }
+  ]
+}

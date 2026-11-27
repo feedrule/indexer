@@ -1,0 +1,20 @@
+{
+  "url": "https://rockwotj.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://rockwotj.com/blog/firestore-query-matching/",
+      "title": "How Firestore Matches Realtime Queries",
+      "description": null
+    },
+    {
+      "link": "https://rockwotj.com/blog/firestore-txn/",
+      "title": "Google Cloud Firestore Transactions",
+      "description": null
+    },
+    {
+      "link": "https://rockwotj.com/blog/chorus/",
+      "title": "Chorus: A fast WAL for object storage",
+      "description": null
+    }
+  ]
+}

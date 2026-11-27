@@ -1,0 +1,20 @@
+{
+  "url": "https://gioscalzo.com/blog/index.xml",
+  "posts": [
+    {
+      "link": "https://gioscalzo.com/blog/ai-accelerated-mobile-development-nslondon/",
+      "title": "What I still had to do when AI built the app",
+      "description": "“Yeah, yeah, it works. Now save it. Oops.” That was me trying the QR-code app in my NSLondon demo. It generated codes from text and links, so I was pleased with it. Then I tried to save one and found a bug. I could copy the stack trace, or even better, take a screenshot because I’m lazy. I gave the agent the screenshot and suggested checking the sandbox. It found a missing entitlement, corrected it, and saving worked too."
+    },
+    {
+      "link": "https://gioscalzo.com/blog/antescher-how-ant-attack-works/",
+      "title": "Antescher: How Ant Attack Works",
+      "description": "My Spectrum turned up late. Italy ran behind on home computers, so by the time one arrived in our house the machine was past its prime everywhere else, and the tapes we had were older still. I was a kid at school, which is exactly the right age not to know or care that you are late to something. Every game took minutes to load off cassette and I loved all of them indiscriminately."
+    },
+    {
+      "link": "https://gioscalzo.com/blog/build-with-ai-imperial-college-morning/",
+      "title": "A Morning Reset at Build with AI at Imperial College",
+      "description": "I only made it to the morning of Build with AI at Imperial College London on Saturday, March 14, 2026. It was enough to make the trip worth it. GDG London and Women Techmakers held the event at the Blackett Laboratory. It did not feel like a day spent selling AI. People shared what they had learned, compared notes and spoke plainly about where the technology might be heading."
+    }
+  ]
+}

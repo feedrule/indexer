@@ -1,0 +1,20 @@
+{
+  "url": "https://the.secure.engineer/index.xml",
+  "posts": [
+    {
+      "link": "https://the.secure.engineer/questionnaire-blind-spots/",
+      "title": "Questions that security questionnaires should be asking",
+      "description": "Framing the problem Questionnaires are part of the job. They’re part of how our industry works. Organisations need to make sure that their vendors are trustworthy enough to do business with, and questionnaires are the industry agreed-upon way to do so, alongside compliance frameworks obviously. The problem is that questionnaires are often too generic. Customising questionnaires for each potential vendor introduces significant overhead for a third-party vendor risk assessment team. Historically, teams devised a standardised questionnaire based on common compliance frameworks, and sent that to all sorts of vendors. Fancy questionnaires came with some conditional logic to tailor it to specific use cases. Some organisations converged towards extremely detailed standard questionnaires like CSA CAIQ and SIG . In the 2010s, security questionnaires got so repetitive and devoid of any originality that tools like Loopio adapted their RFP-answering offerings for this use case. Today, LLMs are mak"
+    },
+    {
+      "link": "https://the.secure.engineer/on-integrity/",
+      "title": "On the importance of integrity",
+      "description": "The first course that I attended at engineering school was on engineering ethics. Ten whole hours on this topic, with a retired nuclear engineer. As a 20 year old, I did not fully grasp the importance of the topic, and frankly I did not pay much attention to what was being said. One idea stuck though: we, engineers, have an ethical responsibility towards our users, coworkers, organisations and society at large. All engineers are concerned, but today, we’ll focus on some ethical considerations that security teams often face. Bug bounty temptation The first one is obvious. Bug bounty programs can create interesting situations if the employees who run the program decide they want to join in on the fun. First off, insiders can leverage their position within the company to find bugs more easily. They can then submit these findings as external bug bounty hunters, and approve the reports, effectively paying themselves. The bad kind of security monitoring Security monitoring platforms, aka SIE"
+    },
+    {
+      "link": "https://the.secure.engineer/google-workspace-is-a-terrible-idp/",
+      "title": "Google Workspace is a terrible identity provider",
+      "description": "Nearly everyone uses Google In SecAtScale ’s latest Pulse Survey report , 86.5% of respondents reported using Google Workspace as their email and office apps provider. And 34.1% of respondents reported using Google Workspace as an identity provider. It’s understandable. Google Workspace (abbreviated as GWS from now on) has great pricing and features. Starting at 6.80€/u/mo , you get access to a best-in-class email service, a fully featured calendar, video calling, an AI assistant, cloud storage and a suite of office applications. The value proposition is simple: it’s cheap, covers all your needs, and all your trendy friends are already using it. You end up using GWS’s IDP, and stay loyal as the organisation grows. Let’s talk about why that’s an awful idea. Yet, Google Workspace is still a terrible Identity Provider For anything beyond basic features, GWS’s IDP does not offer sufficient flexibility for the needs of a modern tech organisation. No programmatic management of Google Groups"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://blog.billyedmoore.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://blog.billyedmoore.com/heathrow.html",
+      "title": "What's going on at Heathrow Airport",
+      "description": "Predicting goings on at Heathrow airport with OpenSky data."
+    },
+    {
+      "link": "https://blog.billyedmoore.com/dumb_barcode_app.html",
+      "title": "My (Dumb) Parkrun Barcode App",
+      "description": "My journey developing a sup-par parkrun barcode app for the Forerunner 55."
+    }
+  ]
+}

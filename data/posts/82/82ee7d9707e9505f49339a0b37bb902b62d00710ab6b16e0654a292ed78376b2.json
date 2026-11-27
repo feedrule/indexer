@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.gorewood.games/atom/",
+  "posts": [
+    {
+      "link": "https://blog.gorewood.games/the-rediscovery-threshold/",
+      "title": "The Rediscovery Threshold",
+      "description": "Ask a coding agent for a cache in a particular language and watch what it does. It may go looking for a library. But I often see mine simply build one for the task at hand. No comparison of five packages, no rubric for maintenance and compatibility, no integration work to accommodate someone else's design. Just the behavior the application needs, with tests, evolved as needed. That's an observation from watching agents develop software for me. I haven't measured how common it is across models or projects. But it keeps raising a question: when implementing something gets cheap, which dependencies still earn their keep? I wrote about this in January in Maybe We Need Fewer Dependencies? . I still think there's something there, but “fewer dependencies” is a blunt way to describe it. The more useful distinction is how much knowledge you would have to rediscover by replacing one. The code is only part of what you're acquiring If you need a small, well-understood component, acquiring it has a"
+    },
+    {
+      "link": "https://blog.gorewood.games/the-future-of-consumer-apps/",
+      "title": "The Future of Consumer Apps?",
+      "description": "A friend built himself an expense app. He described it as a miniature QuickBooks that he actually likes using. What made it magical was being able to change it while doing his expenses. He wanted a right-click action to categorize every expense from the same vendor. He added it. He wanted a way to see all that vendor's expenses together. He added that too. Small features, discovered through use, built when they became useful. I keep thinking about what happens when that becomes an ordinary expectation of software. You buy or install a good tool, start using it, and have an agent add the particular behavior you need. That suggests a direction for consumer and desktop apps: a dependable core, with personal features and workflows built around it. Claude Code is an example you can already see Claude Code's recent addition of mods makes this concrete. Mods work in the terminal and in the Code tab of the Claude Desktop app. They can add panes and commands, change parts of the interface, and"
+    },
+    {
+      "link": "https://blog.gorewood.games/the-articulation-problem/",
+      "title": "The Articulation Problem",
+      "description": "Coding is solved. Knowing what you want is the new bottleneck."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sonho.fr//feed.xml",
+  "posts": [
+    {
+      "link": "https://www.sonho.fr//2026/03/18/aeneas-overview.html",
+      "title": "An Overview of the Aeneas Rust Verification Toolchain",
+      "description": "An Overview of the Aeneas Rust Verification Toolchain"
+    },
+    {
+      "link": "https://www.sonho.fr//2022/12/26/sculpted-head.html",
+      "title": "Sculpting a Head with ZBrush",
+      "description": "I recently decided to create a logo for my project Aeneas . I knew creating logos requires a specific set of skills but really wanted to give it a try: what about sketching some concept on pen and paper, then vectorizing it on computer? It proved even harder than I had expected: after spending a couple of evenings using various techniques to sketch ideas which all ended up in the garbage bin, I completely discarded the idea of doing something in 2D. Definitely too hard for now, especially as I don’t have a clear idea of what I want to achieve. I then got the following idea: what about doing some sort of an antique coin, with a sculpted profile? I could model the coin in 3D then stylize the render a bit. That would actually be an excellent opportunity of going back to 3D sculpting, which is something I hadn’t done in many, many years. I had also just replaced my >12 year old graphic tablet with a new one, and 3D sculpture was a perfect opportunity to play with it. I thus set off on this"
+    },
+    {
+      "link": "https://www.sonho.fr//2021/01/19/old-town.html",
+      "title": "Exploring Computer Graphics: Modelling an Old Town in Blender",
+      "description": "I recently had a look at the new release of Blender, and was amazed by the progress made since my last use 8 years ago. I had already been amazed by this tool when in high-school, but the new features got me really excited: I sometimes can’t believe an open software can be so good and powerful. After watching a few videos and tutorials showcasing the new features, I couldn’t resist experimenting with the new ray-tracing engine introduced in the 2.8 version. A ray-tracing engine works by sampling, for each pixel of the image, several light rays coming from the camera and bouncing randomly on the surfaces they meet. Every surface on which a light ray bounces contributes a bit to the final pixel color. This is a very good approximation of reality, and gives photorealistic results when the sampling is high enough. When I used it 8 years ago, Blender mostly worked with rasterization , which tends to give less photorealistic results unless you develop advanced techniques to simulate global i"
+    }
+  ]
+}

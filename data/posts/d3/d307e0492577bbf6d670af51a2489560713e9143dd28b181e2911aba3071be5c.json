@@ -1,0 +1,20 @@
+{
+  "url": "https://sketchbooky.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://sketchbooky.wordpress.com/2026/07/24/release-gmic-4-0-x/",
+      "title": "Release: G’MIC 4.0.x",
+      "description": "The free open-source G’Mic 4.0 is now available. The GMIC-8bf filter for Photoshop is the one most people will want, and specifically GmicPlugin_x64.zip for Windows. Has an interesting new take on the ‘transfer colours’ filter… New filter ‘Colors / Transfer Color [Multi]’ proposes several different methods to transfer colors from a style image onto a... Continue reading »"
+    },
+    {
+      "link": "https://sketchbooky.wordpress.com/2026/06/10/release-comfyui-pixeldriftfix/",
+      "title": "Release: ComfyUI-PixelDriftFix",
+      "description": "ComfyUI-PixelDriftFix… a ComfyUI node that really does fix pixel drift (at last!) by using some clever behind-the-scenes ‘homography matrices’ maths. In other words: what goes in now matches what comes out, in terms of a really good 1:1 overlay when brought back into Photoshop. One can see the potential for local colorisation, via a Color... Continue reading »"
+    },
+    {
+      "link": "https://sketchbooky.wordpress.com/2026/04/04/setting-a-custom-zoom-level-for-photoshop/",
+      "title": "Setting a custom Zoom level for Photoshop",
+      "description": "When loading images from eBay in Photoshop, such as postcards at 1600px wide, it’s annoying that the right-hand side of the images is hidden under the UI’s side-panels. When what you want is this (below). Now we have the whole image in view, and the side-panels on the side… Double-clicking the top-bar on the panels... Continue reading »"
+    }
+  ]
+}

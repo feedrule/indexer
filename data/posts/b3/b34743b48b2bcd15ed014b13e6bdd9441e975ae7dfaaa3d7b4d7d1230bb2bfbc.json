@@ -1,0 +1,20 @@
+{
+  "url": "https://nekrozqliphort.github.io/feed",
+  "posts": [
+    {
+      "link": "https://nekrozqliphort.github.io/posts/membarrier/",
+      "title": "Learner's Notes: Linux membarrier() System Call - Details of Asymmetric Fences",
+      "description": "Asymmetric Fences? While browsing through Folly’s synchronization primitives to study up on concurrency concepts, one familiar-looking name in the codebase caught my attention: Asymmetric Thread Fence. I already knew what std::atomic_thread_fence is meant to achieve, but what does this construct do? And what exactly is asymmetric about it? That question led me down an interesting rabbit hole: ..."
+    },
+    {
+      "link": "https://nekrozqliphort.github.io/posts/no-unique-address/",
+      "title": "Learner's Notes: Alignment and padding - What does [[no_unique_address]] do?",
+      "description": "Problem Statement Let’s start with a small, innocent-looking example: struct Foo { long long foo_val; bool foo_val2; }; template &lt;typename T&gt; struct MaybeDeleted { T val; bool deleted; }; static_assert(sizeof(Foo) == 16); static_assert(alignof(Foo) == 8); static_assert(sizeof(MaybeDeleted&lt;Foo&gt;) == 24); At first glance, nothing here looks particularly suspi..."
+    },
+    {
+      "link": "https://nekrozqliphort.github.io/posts/happens-b4/",
+      "title": "Learner's Notes: Memory Order Side Chapter - The Story Of Strongly Happens Before",
+      "description": "Strongly Happens Before? It started innocently enough. I just wanted to brush up on C++ memory orderings. It’s been a while since I last stared into the abyss of std::atomic, so I figured, why not revisit some good ol’ std::memory_order mayhem? Then I saw it. Strongly happens before. Wait, what? When did we get a stronger version of happens before? Turns out, it has been there for quite some..."
+    }
+  ]
+}

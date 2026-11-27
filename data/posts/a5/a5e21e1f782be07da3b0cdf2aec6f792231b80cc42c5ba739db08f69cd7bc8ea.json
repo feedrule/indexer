@@ -1,0 +1,20 @@
+{
+  "url": "https://catherinepope.com/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://catherinepope.com/posts/kagi-better-search-engine-chatbot/",
+      "title": "Kagi: A Better Search Engine and Chatbot",
+      "description": "A few years ago, it would’ve seemed ridiculous to pay for a search engine. Google was fast, comprehensive, and convenient. But as Cory Doctorow points out in his book Enshittification , Google has become, well, enshittified. Now it mainly delivers AI-generated slop and irrelevant ads. Fortunately, Doctorow also recommends an alternative: Kagi. Kagi (pronounced KAH-ghee) is a paid ad-free search engine. It’s actually a metasearch engine, as it aggregates results from other established search engines, such as Google and Yandex. So, you get the benefit of the Google index, without all the distortions. Since moving to Kagi, I’ve discovered so many useful websites that had previously been buried on page 23 of the results."
+    },
+    {
+      "link": "https://catherinepope.com/posts/create-your-own-chatbot-with-ollama/",
+      "title": "Create Your Own Chatbot with Ollama",
+      "description": "In a previous post , I explained how Jan offers a single interface for interacting with multiple LLMs from different providers. Although it’s powerful and flexible, Jan is mainly designed as a simple frontend. If you want to build your own custom applications around LLMs, you need a different approach. Ollama is an open-source platform for running and managing LLMs locally. Although it offers a GUI and access to cloud models, it’s mainly used through the command-line interface and its API. If that all sounds like gobbledegook, Jan is a friendlier option."
+    },
+    {
+      "link": "https://catherinepope.com/posts/pick-and-mix-chatbots-with-jan/",
+      "title": "Pick and Mix Chatbots with Jan",
+      "description": "Although I find generative AI useful for some tasks, I’ve become increasingly concerned about what happens to the conversations. Most chatbots claim not to use our data for training purposes, but they’re owned by the same tech firms that gobbled up copyrighted material like Pacman on amphetamines. Also, every query to a cloud-based chatbot consumes a lot of resources. Pleasingly, it’s now much easier to run a chatbot locally. Everything stays on your computer and isn’t stored in the cloud or used to train an LLM. Many of the big names - such as Claude, ChatGPT, and Gemini - offer free versions that you can download and use offline. Then you just need a way of interacting with them."
+    }
+  ]
+}

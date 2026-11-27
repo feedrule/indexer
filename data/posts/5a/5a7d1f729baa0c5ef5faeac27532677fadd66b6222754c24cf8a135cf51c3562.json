@@ -1,0 +1,20 @@
+{
+  "url": "https://dbln.me/feed.xml",
+  "posts": [
+    {
+      "link": "https://dbln.me/blog/5-rules-for-building-reliable-ai-agents",
+      "title": "Reliability at the core: five ground rules for building an agent loop",
+      "description": "Five ground rules for building an AI agent loop with reliability at its core, learned building Kept: lay down the state machine before the code, separate the loop runner from the host, turn errors into outcomes, keep the history atomic, and assert every transition three ways."
+    },
+    {
+      "link": "https://dbln.me/blog/building-an-ai-agent-observability-first",
+      "title": "Putting the trace before the loop",
+      "description": "Observability is the bedrock of reliability, so I designed and implemented the full tracing layer for an AI agent before writing a single line of the agent loop. Three benefits, two drawbacks, and the span tree that turned out to be the loop's control flow."
+    },
+    {
+      "link": "https://dbln.me/blog/testing-ai-tools",
+      "title": "Did it check, or did it guess? Testing a tool whose output is written by an LLM",
+      "description": "My first AI tool worked, or at least the output looked right when I ran it. Then I pictured a client asking what makes it trustworthy: did it check, or did it guess? This is how I built a real answer, and how designing the output for testing made the tool harder to lie with."
+    }
+  ]
+}

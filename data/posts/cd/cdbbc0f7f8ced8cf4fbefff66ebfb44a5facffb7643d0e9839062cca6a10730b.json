@@ -1,0 +1,20 @@
+{
+  "url": "https://tidefield.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "title": "Bytecode-to-Source Mapping",
+      "description": "Compressing source-line metadata while preserving efficient bytecode lookups"
+    },
+    {
+      "link": "https://tidefield.dev/week-2-at-rc/",
+      "title": "Recurse Center, week 2",
+      "description": "Crafting Interpreters, merged Biome PRs, and a Garmin BLE adventure"
+    },
+    {
+      "link": "https://tidefield.dev/week-1-at-rc/",
+      "title": "Recurse Center, week 1",
+      "description": "Settling in and feeling less productive"
+    }
+  ]
+}

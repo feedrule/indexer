@@ -1,0 +1,20 @@
+{
+  "url": "https://www.yabasanshiro.com/blog/rss.xml",
+  "posts": [
+    {
+      "link": "https://yabasanshiro.com/blog/2026-08-02_before-it-is-lost",
+      "title": "Before It's Lost — Rebuilding the Sega Saturn's development environment on a modern PC",
+      "description": "CartDev, SEGA's official Saturn development cartridge, was becoming unusable — not because it broke, but because the DOS-and-SCSI world around it did. I captured the USB traffic, disassembled the on-target monitor to decode the protocol, and rebuilt a way to load, run and debug programs on real Saturn hardware straight from a modern PC, with no DOS and no virtual machine in between."
+    },
+    {
+      "link": "https://yabasanshiro.com/blog/2026-05-31_new_vdp2_emulation",
+      "title": "Rebuilding VDP2 — Reproducing the Saturn’s “read-and-composite” pipeline per pixel, in real-hardware order",
+      "description": "I rebuilt the emulation of the Sega Saturn’s background processor, VDP2, from scratch. A new compositor fetches each pixel by priority on a per-scanline basis and runs color calculation in the exact order the real hardware does — fixing Doom’s see-through walls, Azel’s translucent menus, Luna’s tinted text, and more."
+    },
+    {
+      "link": "https://yabasanshiro.com/blog/2026-05-09_vdp1_emulation_with_compute_shader",
+      "title": "YabaSanshiro's VDP1 rendering gets even more accurate — reproducing SEGA Saturn drawing with Compute Shaders",
+      "description": "YabaSanshiro is an emulator that actively leverages the GPU so that SEGA Saturn games run comfortably on modern hardware."
+    }
+  ]
+}

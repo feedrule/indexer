@@ -1,0 +1,20 @@
+{
+  "url": "https://vlad.build/feed/",
+  "posts": [
+    {
+      "link": "https://vlad.build/my-fabulous-weekend/",
+      "title": "My Fabulous Weekend",
+      "description": "The weekend in numbers: 18 Claude Code sessions, 1.1 billion tokens processed, 140 commits, ~23,000 lines of code across three repos. This weekend I went on a building spree with Fable, Anthropic's new frontier model. Fable launched on June 9 and was suspended three days later under a US export-control order: for two and a half weeks, nobody could use it. On June 30 — my birthday, as it happens — the government lifted the ban, and I had a backlog of ideas waiting. I haven't personally felt a jump this big since GPT-4 came out. The boundary between what you can imagine and what actually exists is getting very thin: I would describe an idea on a walk and review the working version an hour later. There's a state people have started calling AI psychosis; what I have is better described as AI mania. Each project probably deserves its own post, so consider this an overview: what I built, and what's actually possible today. VladOS VladOS takes my entire digital footprint and turns it into a q"
+    },
+    {
+      "link": "https://vlad.build/lovable/",
+      "title": "Lovable",
+      "description": "In one week, I used Lovable to turn a semi-manual data pipeline into a full micro-SaaS : user signups, credits, pipeline triggers; the works. I didn't plan on this. I have Lovable Pro through Lenny's Newsletter and thought I'd use it to quickly spin up a React frontend. Instead, I found a fully integrated platform for building full-stack apps. Thanks to the Supabase integration, the Lovable agent can create and manage databases, implement authentication (Google, GitHub, etc.), run business logic with edge functions, and store files in bucket systems. Frontend and backend get built together, efficiently. The Lovable agent is primed to work with Supabase, so you don't have to choose an external backend service and spend time integrating it into your LLM via prompts and MCPs. Beyond Supabase, Lovable has more integrations: Stripe for payments, Resend for email campaigns, Make for automations. If I were a business, I'd be working hard to get integrated. Want to create an AI app? The agent"
+    },
+    {
+      "link": "https://vlad.build/the-best-articles-on-building-agents/",
+      "title": "The Best Articles on Building Agents",
+      "description": "Will update this as I find more. Building effective agents : Anthropic says the most reliable agents come from simple, composable patterns with clear tool interfaces—only add agentic complexity when measurements show it helps. Writing effective tools for agents — with agents : Anthropic outlines how to design high-quality tools and evaluations, introduces the Model Context Protocol for scaling many tools, and shows an evaluation-driven workflow where Claude helps optimize its own tools. How we built our multi-agent research system : Anthropic built a multi-agent system where a lead agent coordinates parallel subagents to independently research subquestions, improving factual accuracy and coverage—but at the cost of high token usage, latency, and complex orchestration. How to Build an Agent : Thorsten Ball demonstrates a code-editing agent in Context Engineering for AI Agents: Lessons from Building Manus : Manus prioritizes “context engineering” (stable KV-cache prefixes, append-only de"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.patrickmouwen.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://patrickmouwen.com/blog/is-all-dynamics-365-ce-customization-really-low-code/",
+      "title": "Is all Dynamics 365 CE customization really low-code?",
+      "description": "“Build it in CE, that's low-code” is a common reason to keep F&O untouched. For new tables and forms that holds. Further up, CE customization is C# and JavaScript, with the same update risk as X++, and often a change in three places."
+    },
+    {
+      "link": "https://patrickmouwen.com/blog/choosing-a-pricing-api-for-your-webshop/",
+      "title": "Choosing a pricing API for your webshop? Look beyond pricing",
+      "description": "Since 10.0.47, Dynamics 365 F&O has its own pricing API, but Microsoft doesn't position it for storefronts. The Commerce Scale Unit prices the whole cart, with its own licence. Whether that licence pays off depends on what else you use it for."
+    },
+    {
+      "link": "https://patrickmouwen.com/blog/keep-dynamics-365-fo-standard-where-should-business-logic-live/",
+      "title": "Keep Dynamics 365 F&O standard. But where should the business logic live?",
+      "description": "“Keep F&O standard” is a good principle, but I've seen it taken quite far: ERP functionality rebuilt in CE, and now agents suggested to close the gaps. The more interesting question is whether moving logic outside F&O makes the solution easier to maintain."
+    }
+  ]
+}

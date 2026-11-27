@@ -1,0 +1,20 @@
+{
+  "url": "https://peter.briggs.seattle.wa.us/feed.xml",
+  "posts": [
+    {
+      "link": "https://peter.briggs.seattle.wa.us/tools/weekdays/",
+      "title": "English-Polish weekdays",
+      "description": "As a reference. I don't know Polish; this is just what Wikipedia and Google Translate have to say: en pl Sunday Niedziela Monday Poniedziałek Tuesday Wtorek Wednesday Środa Thursday Czwartek Friday Piątek Saturday Sobota"
+    },
+    {
+      "link": "https://peter.briggs.seattle.wa.us/page/app-defaults/",
+      "title": "App Defaults",
+      "description": "Inspired by Luke Harris and Robb Knight's App Defaults project, but admittedly more verbose! 📬 Communication Mail Server: Purelymail . They're awesome. Mail Client: Betterbird . A few months I switched from using Gmail as my inbox to using Purelymail as my inbox. It was a simple matter of swapping who forwards to whom, and I haven't looked back. It's so nice to have a \"real\" desktop email client, one that can show me a status bar indicator, and be more competent offline. Text Chat: Well, I use Google Voice for MMS (and occasional voice calls). I'm also in a couple Slack workspaces. I've dabbled with running a Matrix server, but I didn't have a use for it so I took it down. Contacts: Google contacts. 🌐 Web Browser: Long story. I originally used Chrome, but then I switched to a Raspberry Pi as my main computer for a few months, and Firefox was the default. I would have installed Chrome (for familiarity, password sync, DevTools, etc.) but Google didn't seem to build Chrome for ARM64 (Chro"
+    },
+    {
+      "link": "https://peter.briggs.seattle.wa.us/page/microsoft-domains/",
+      "title": "Microsoft Domains",
+      "description": "I have I pretty strong bias against Microsoft's software products. Almost everything feels so crufty ! When I have the misfortune of using Windows, for example, some parts don't seem to have been touched in many years. You also see evidence, historical artifacts, of handfuls of failed attempts to \"bring everything up to date.\" For example, the Settings app in Windows 10 tries to give a more polished layer for modifying basic system settings in one app. But the moment you try to do anything more than surface-level, the Settings app redirects you to a page in the classic Control Panel. Personally, I prefer Control Panel over Settings because it allows me as a more advanced user to find what I want more quickly, but I get that they wanted to make settings more accessible to the average user. But how hard could it be to just complete the job, get it over with, and implement the remaining few dozen Control Panel settings in the new Settings app? But Windows is far from the worst; my pet pee"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://opcraft.co/feed.atom",
+  "posts": [
+    {
+      "link": "https://opcraft.co/writing/2026/04/getting-the-good-ai-future/",
+      "title": "Hollywood in the 60s and the Good AI Future",
+      "description": "I was in a discussion today with other CTOs about how AI is changing our work. It’s apparent that, over the long term, none of us see any technical reason why a frontier AI could not fulfill the responsibilities of most C-level positions, including ours. We’re building the foundations of the systems that will one day replace us. It’s a simple extrapolation: we’re already able to deliver much more, much more quickly — almost too quickly! — by ourselves, without having to hire teams. It seems silly to think that transformation won’t keep spreading. Many of us, myself included, think that this could actually be great. There is an optimism for the “Star Trek” outcome — abundance, autonomy, and meaningful work by choice — felt by people doing the work now, not just futurists and fiction authors. But good outcomes from technological displacement have never been the default. Historically, in most cases, capital owners capture the gains and displaced workers absorb the losses. Enter 1960s Holl"
+    },
+    {
+      "link": "https://opcraft.co/writing/2026/03/day-zero-security-for-your-new-business/",
+      "title": "Day-zero security for your new business",
+      "description": "Step 0: Get an iPhone Buy an iPhone, or an iPad. It doesn’t need cell service. You could even get a used one, but make sure it runs the latest OS. Factory-reset it. Create a fresh iCloud account with MFA enabled. This device is now company property — the root of your identity infrastructure, and completely unentangled with your personal life. Step 1: Register your domain Use that iCloud email to open an account with a domain registrar. Then buy your domain. Now DNS management is locked to your root device. Step 2: Set up MS 365 Go with Business Premium or E5, and an admin account on the .onmicrosoft.com domain with passwordless MFA (tied to the iPhone). Use the iCloud email as your backup/recovery address — your recovery path now exists outside the tenant itself. Add and verify your domain name within the new MS365 tenant. Set up Conditional Access. Configure DMARC and SPF so your email deliverability is rock-solid. Step 3: Create your “daily driver” user account Create the “normal” yo"
+    },
+    {
+      "link": "https://opcraft.co/writing/2025/08/manually-type-punctuation/",
+      "title": "Manually type punctuation",
+      "description": "What follows is a style prescription for publishing nerds who write in English, and it’s one I follow myself everywhere I publish. Em- and en-dashes, proper quotes and apostrophes (“curly” or “smart” to some), emoji, and math symbols should be manually typed and stored as such in the original text source. Do not rely on Smartypants -style text processing at any step after writing to produce typographically correct punctuation. This ensures that the text will be correct no matter how it is eventually published, syndicated or repurposed. Stop worrying about AI markers If, for any given thing, you’re concerned that your reader will take it less seriously than they should (because they think an AI wrote it), then either they’re right, or you need to level up your writing, or both. Don’t kid yourself you can hide your deficiencies by scrubbing out dashes. It’s true that LLMs often overuse em-dashes. They have many other writing quirks that you would do well to study. If you’re a well-read,"
+    }
+  ]
+}

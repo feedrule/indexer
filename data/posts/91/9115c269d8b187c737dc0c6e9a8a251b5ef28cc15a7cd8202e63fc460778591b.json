@@ -1,0 +1,20 @@
+{
+  "url": "https://wangyi.ai/atom.xml",
+  "posts": [
+    {
+      "link": "https://wangyi.ai/blog/2026/02/16/solving-jane-street-dropped-neural-net/",
+      "title": "Solving Jane Street's 'Dropped a Neural Net' Puzzle",
+      "description": "Jane Street’s January 2026 puzzle 1 , “Dropped a Neural Net” , presents a deceptively simple premise: a neural network was “dropped” and its 97 pieces scattered. Your job is to put them back together. Behind this simple framing lies a deep combinatorial optimization problem that I solved two different ways — first with gradient-based permutation learning and combined swaps, then again with a simpler approach that revealed a key insight: pairing corrections unlock cascading improvements in ordering . The Problem You’re given 97 weight/bias files ( piece_0.pth through piece_96.pth ) and a dataset ( historical_data.csv with 10,000 rows of 48 input features, plus pred and true columns). The neural network architecture is: 48 residual blocks , each consisting of: An “inp” layer: Linear(48 → 96) followed by ReLU An “out” layer: Linear(96 → 48) A residual connection: x = x + out(relu(inp(x))) 1 final layer : Linear(48 → 1) producing the prediction The 97 pieces split into three groups by weig"
+    },
+    {
+      "link": "https://wangyi.ai/blog/2026/02/12/hierarchical-reasoning-model-explained/",
+      "title": "HRM Explained: A 27M Parameter Model That Reasons Without Chain-of-Thought",
+      "description": "What if you could build a model that solves complex Sudoku puzzles, navigates mazes, and tackles abstract reasoning — all with just 27 million parameters and 1,000 training examples? No pre-training on massive datasets, no Chain-of-Thought prompting, no language at all. That’s the claim behind the Hierarchical Reasoning Model (HRM) from Sapient Intelligence. In this post, I’ll walk through how HRM actually works by tracing the code and architecture step by step. I’ll also cover the important follow-up critiques that question some of these claims. The Big Idea Current LLMs reason by writing out their thinking step by step (Chain-of-Thought). This works, but it’s slow, requires huge models, and needs lots of training data. HRM takes a completely different approach: it reasons in latent space — inside the model’s hidden states — through iterative refinement. The core insight is borrowed from neuroscience: the human brain processes information hierarchically, with slow abstract planning an"
+    },
+    {
+      "link": "https://wangyi.ai/blog/2026/02/07/brushnet-explained-inpainting/",
+      "title": "BrushNet & BrushEdit Explained: From Inpainting Architecture to Intelligent Editing",
+      "description": "You’ve probably seen AI tools that can erase objects from photos and fill in the gap seamlessly. But how does the model know what to put there — and how does it figure out where to edit when you just say “remove the dog”? In this post, I’ll break down two papers: BrushNet , a clever architecture that adds inpainting ability to any diffusion model, and BrushEdit , an agent pipeline that wraps BrushNet with language understanding to turn natural instructions into image edits. Part 1: BrushNet — The Inpainting Engine The Problem: Teaching a Model to Fill Holes Imagine you have a photo of a dog on a beach. You want to replace the dog with a sandcastle. You need a model that: Understands what’s around the hole (beach, sky, waves) Generates something new that matches (a sandcastle) Blends it seamlessly at the edges The simplest approach? Fine-tune the entire diffusion model for inpainting. But this has a big downside — you break the original model. It can’t do normal image generation anymore"
+    }
+  ]
+}

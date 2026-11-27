@@ -1,0 +1,20 @@
+{
+  "url": "https://deepankarm.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://deepankarm.github.io/posts/type-safe-python-decorators/",
+      "title": "Type-Safe Python Decorators",
+      "description": "A practical guide to getting decorator type hints right with ParamSpec, Concatenate, and generics"
+    },
+    {
+      "link": "https://deepankarm.github.io/posts/claude-code-hooks-for-slack/",
+      "title": "Claude Code hooks for Slack",
+      "description": "Get notified on Slack when Claude Code completes a task or needs your attention"
+    },
+    {
+      "link": "https://deepankarm.github.io/posts/pep-723-inline-script-metadata/",
+      "title": "TIL: Inline dependencies in Python scripts",
+      "description": "Embed dependencies and Python version requirements directly in your script"
+    }
+  ]
+}

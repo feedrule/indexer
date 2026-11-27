@@ -1,0 +1,20 @@
+{
+  "url": "https://telcontar.net/About/notices-feed",
+  "posts": [
+    {
+      "link": "https://telcontar.net/About/notices?start=2026-09-16",
+      "title": "Notices for 16th September 2026",
+      "description": "Experimentation Testing a custom font for the first time, not for the typography per se, but because web fonts bypass the horrible hinting system that plagues Windows! CSS doesn’t seem to have a “draw font nicely” option, so the only alternative is to find something vaguely close to Helvetica that isn’t hinted. I’m not settled on Inter, but it will suffice for now. The next problem is that using font-feature-settings: \"cv01\", \"ss03\", \"cv10\" to improve the typography (let alone the need for tighter tracking with Inter) causes weird problems for other fonts that support OpenType: I never realised that Arial has a variety of alternative letter forms quietly waiting to be unlocked. CSS needs a way to scope all the font and text settings to only the specified font, and disallow them to be inherited anywhere that a different typeface is used, because whatever that site feature is, it doesn’t want the OpenType customisation and other adjustments needed to pretend that the font you really want"
+    },
+    {
+      "link": "https://telcontar.net/About/notices?start=2026-03-25",
+      "title": "Notices for 25th March 2026",
+      "description": "Star Trek afficionados will remember the TNG episode “Remember Me”, where the crew of the Enterprise slowly vanish, as though they never existed. Reality is starting to take this form. While waiting for the last slivers of progress with the UK power industry (if indeed they are still on this side of the warp bubble), I’ve spent a bit of time adding material to the operating system design notes section. I don’t expect to be taken seriously and I don’t expect to accomplish anything, but it’s good to get more ideas documented publicly instead of having them merely crawling around inside my skull."
+    },
+    {
+      "link": "https://telcontar.net/About/notices?start=2025-03-13",
+      "title": "Notices for 13th March 2025",
+      "description": "When I started the pylons section of the site in summer 2022, with the intention of documenting all of the UK’s electricity pylon (transmission tower) types, I genuinely believed that I would not get far before progress came to an end. Instead, I have been doubly surprised: by how much further this has progressed than expected (with help from many people) and just how many tower types this island nation has dreamt up. It feels like Jon Bruford’s “tower bible” only scratched the surface of what is out there, with many types not known even to enthusiasts. The UK electricity pylon series page is already around 50 pages long, covering (depending how you count them) 54 different tower series (suites/families), 52 of which having at least one illustration, many extensively covered. 2025 has so far proved fruitful, with suggestions of more yet to come. A challenge to the UK power industry: let’s see how far we can get to 100% completeness before the end of the year. That includes all the 33 a"
+    }
+  ]
+}

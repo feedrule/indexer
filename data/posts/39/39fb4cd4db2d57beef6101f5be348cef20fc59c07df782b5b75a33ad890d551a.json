@@ -1,0 +1,20 @@
+{
+  "url": "https://seanjmullan.org/blog/atom.xml",
+  "posts": [
+    {
+      "link": "http://seanjmullan.org/blog/2026/09/15/jdk27",
+      "title": "JDK 27 Security Enhancements",
+      "description": "JDK 27 was released on September 15, 2026! As with my previous blogs , I have compiled a list of what I think are the most interesting and useful security enhancements in this release. I have also grouped them into appropriate categories (crypto, TLS, etc) which should make it easier to find out what has changed in each specific area. The JDK 27 release notes also contain further details on these and other enhancements. Highlights of this release include TLS 1.3 support for post-quantum hybrid key exchange mechanisms , and a third preview of the PEM API . Table of Contents Crypto PKI TLS Tools Crypto JEP 538: PEM Encodings of Cryptographic Objects (Third Preview) JDK 27 includes the third preview API for encoding and decoding cryptographic objects to/from the PEM format which was defined in JEP 538 . PEM is a widely used format for transferring and storing DER-encoded cryptographic data such as certificates, CRLs, private keys, and more. This was one of the most commonly requested feat"
+    },
+    {
+      "link": "http://seanjmullan.org/blog/2026/03/16/jdk26",
+      "title": "JDK 26 Security Enhancements",
+      "description": "JDK 26 was released on March 17, 2026! As with my previous blogs , I have compiled a list of what I think are the most interesting and useful security enhancements in this release. I have also grouped them into appropriate categories (crypto, TLS, etc) which should make it easier to find out what has changed in each specific area. The JDK 26 release notes also contain further details on these and other enhancements. Highlights of this release include a second preview of the PEM API , API support for Hybrid Public Key Encryption, and signed JAR support for the post-quantum ML-DSA algorithm. Table of Contents Crypto PKI TLS XML Signature Tools Crypto Hybrid Public Key Encryption We have added support for Hybrid Public Key Encryption, or HPKE. HPKE is a modern encryption scheme for encrypting arbitrary-sized plaintexts with a recipient’s public key. HPKE is defined in RFC 9180 . It combines 3 different algorithms, a KEM, KDF, and an AEAD (authenticated encryption with associated data) alg"
+    },
+    {
+      "link": "http://seanjmullan.org/blog/2025/09/23/jdk25",
+      "title": "JDK 25 Security Enhancements",
+      "description": "JDK 25 was released on September 16, 2025! As with my previous blogs , I have compiled a list of what I think are the most interesting and useful security enhancements in this release. I have also grouped them into appropriate categories (crypto, TLS, etc) which should make it easier to find out what has changed in each specific area. The JDK 25 release notes also contain further details on these and other enhancements. Highlights of this release include a final version of the Key Derivation Function API and a new preview API for encoding and decoding cryptographic objects to/from PEM . Table of Contents Crypto TLS Performance Improvements Security Manager Miscellaneous Crypto JEP 470: PEM Encodings of Cryptographic Objects (Preview) A new preview API for encoding and decoding cryptographic objects to/from the PEM format has been introduced in JDK 25 and defined in JEP 470 . PEM is a widely used format for transferring and storing DER-encoded cryptographic data such as certificates, CR"
+    }
+  ]
+}

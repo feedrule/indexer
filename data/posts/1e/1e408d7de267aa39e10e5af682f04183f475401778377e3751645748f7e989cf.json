@@ -1,0 +1,20 @@
+{
+  "url": "https://tripletime.de/rss.xml",
+  "posts": [
+    {
+      "link": "https://tripletime.de/blog/fiber-laser-ly-0961-auto-focus-manual/",
+      "title": "LY Focus 0961 User Manual",
+      "description": "Auto-focus controller, typically used in laser engraving systems – Chinenglish to English"
+    },
+    {
+      "link": "https://tripletime.de/blog/nginx-sed-patch-error-html/",
+      "title": "Ever dreamt of customising your nginx error pages?",
+      "description": "...while having fun with `sed` wizardry?"
+    },
+    {
+      "link": "https://tripletime.de/blog/rust-cpp-crates-nix-crate-cc-no-defaults/",
+      "title": "Compiling Rust Crates with C++ Dependencies in Nix",
+      "description": "Solving the `-std=c++17` flag conflict when building wasm-opt-rs and similar crates that compile C++ code in Nix/devenv environments."
+    }
+  ]
+}

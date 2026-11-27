@@ -1,0 +1,20 @@
+{
+  "url": "https://issei.space/index.xml",
+  "posts": [
+    {
+      "link": "https://issei.space/blog/finding-perfect-usb-c-hub/",
+      "title": "W poszukiwaniu idealnego docka USB-C (i wyciszanie HP Thunderbolt Dock G2)",
+      "description": "Jakiś czas temu zacząłem szukać nowego huba/docka USB-C do laptopa służbowego i prywatnego. Przez ostatnie lata korzystałem z prostych hubów od Ugreena i w większości przypadków działały w porządku, ale miałem z nimi dwa problemy. Pierwszy to krótki kabel. Używam pionowej podstawki na laptopa, żeby nie zajmował miejsca na biurku, przez co hub wisi na samym kablu zamiast leżeć na blacie. Drugi pojawił się niedawno: po latach używania kabel chyba po prostu się zużył. Czasem były problemy z ładowaniem, ale przede wszystkim z monitorem. Laptop widział wyświetlacz, monitor udawał, że ma sygnał, a mimo to nie pokazywał nic."
+    },
+    {
+      "link": "https://issei.space/blog/til-gitlab-agent-kubernetes/",
+      "title": "TIL: you don't need glab-cli to connect to Gitlab Agent kubernetes clusters",
+      "description": "As the title says - you don’t actually need the gitlab cli to connect to Kubernetes clusters exposed via Gitlab Agent. It is easier (and creates a short-lived token instead a long-lived one!), but it is not required."
+    },
+    {
+      "link": "https://issei.space/blog/1password-linux-unable-to-git-sign/",
+      "title": "1Password Linux: fatal: cannot exec '/opt/1Password/op-ssh-sign': No such file or directory",
+      "description": "I’m using 1Password to store my SSH keys - recently i noticed that the git sign process started to fail ❯ git commit -m \"very important change\" fatal: cannot exec '/opt/1Password/op-ssh-sign': No such file or directory error: fatal: failed to write commit object It turns out, that the op-ssh-sign has been moved from /opt/1Password/op-ssh-sign to /usr/share/1password/op-ssh-sign . After editing the ~/.gitconfig to use the new path, it started working again. What’s weird, is that in the “Configure Commit Signing…” popup, the automatic setup still uses the /opt directory. Not sure on which version precisely i got broken, but it is still broken on 1Password for Linux 8.12.24 (81224034)"
+    }
+  ]
+}

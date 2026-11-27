@@ -1,0 +1,20 @@
+{
+  "url": "https://josh.mn/feed.xml",
+  "posts": [
+    {
+      "link": null,
+      "title": "PostgreSQL internals explained for developers: Understanding SELECT",
+      "description": "I’ll build a small Ruby model (heap pages, a B-tree, shared buffers, a catalog), run it to make sure the output is real, then write the section around it. Finding Peppa: what happens after the SQL is gone By the time Postgres actually goes looking for your row, the SQL is long gone. The parser and planner have already turned SELECT * FROM people WHERE id = 1 into a plan, and that plan basically says “use the index on id, find 1, go get the row.” That’s the part we care about, so we’ll skip straight to it. Four..."
+    },
+    {
+      "link": null,
+      "title": "Just give it credit.",
+      "description": "If you’re going to use generative AI for your content or your code, attribute it. Don’t pass it off as your own, and when nobody asks where it came from, don’t take the credit in the moment anyway. And if somebody does ask, don’t dodge it. (Somebody is going to ask. I’ve started asking.) I’m aware that a guy who ran a piracy site for five years lecturing people about credit is a little rich—though, for the record, I did give credit: “all the feeds come straight from the providers.” In my defense, I don’t think piracy has ever had..."
+    },
+    {
+      "link": null,
+      "title": "Why are my users not converting?",
+      "description": "Since early 2025, my once-beloved subreddits that were only kind-of-filled-with-self-promoting stuff have turned into mostly self-promoting-stuff, with the occasional “why aren’t my users converting” questions. Seldom do I see reasonable content. The advent of AI has turned everyone with an idea into hey-I-built-this-they-will-come. Suddenly everyone thinks that once they click deploy and make a single post, they will be an overnight sensation. To those who finally ask “why aren’t my users converting” (or some variation of it), I usually reply with “have you asked them?”"
+    }
+  ]
+}

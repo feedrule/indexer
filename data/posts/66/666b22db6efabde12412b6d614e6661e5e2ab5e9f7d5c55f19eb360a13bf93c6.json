@@ -1,0 +1,20 @@
+{
+  "url": "https://laymonage.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://laymonage.com/posts/2025-recap/",
+      "title": "Twenty twenty-five",
+      "description": "Another year already?"
+    },
+    {
+      "link": "https://laymonage.com/tils/javascript/promise-withresolvers/",
+      "title": "Write cleaner promises using `Promise.withResolvers()`",
+      "description": "If you need to pass around the `resolve` and `reject` functions of a `Promise` object, creating the promise using `Promise.withResolvers()` is a nicer API that reduces nesting."
+    },
+    {
+      "link": "https://laymonage.com/tils/django/check-template-override/",
+      "title": "How to check if a Django template has been overridden",
+      "description": "If you're an author of a Django package, you might find it useful to check whether a template has been overridden. Here's a little snippet that helps you do that."
+    }
+  ]
+}
