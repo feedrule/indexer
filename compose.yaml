@@ -137,7 +137,7 @@ services:
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}" # owns what it writes
     volumes:
       - ./data:/work/data:ro # survivors and sources.toml
-      - ./published:/work/posts:ro # a checkout of the posts branch
+      - ./published/data/posts:/work/posts:ro # the posts branch's data/posts/
       - ./data/clusters:/work/data/clusters # what it writes
     command: ["clusters", "--posts", "posts"]
 

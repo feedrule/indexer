@@ -474,7 +474,7 @@ def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> No
     )
     write_with_posts(out, posts, [with_posts, feed(2)])
     digest = hashlib.sha256(b"https://f1.example/feed").hexdigest()
-    assert posts_path("https://f1.example/feed") == f"{digest[:2]}/{digest}.json"
+    assert posts_path("https://f1.example/feed") == f"data/posts/{digest[:2]}/{digest}.json"
     stored = json.loads((posts / posts_path(with_posts.url)).read_text(encoding="utf-8"))
     assert stored == {
         "url": "https://f1.example/feed",
@@ -604,7 +604,7 @@ def test_repository_spec_matches_the_output() -> None:
         "posts",
     ):
         assert f"`{field}`" in spec
-    assert "`<h:2>/<h>.json`" in spec  # the posts branch's files
+    assert "`data/posts/<h:2>/<h>.json`" in spec  # the posts branch's files
 
 
 def test_index_shows_the_largest_topics_and_searches_all(tmp_path: Path) -> None:

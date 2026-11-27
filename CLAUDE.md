@@ -108,8 +108,8 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   URLs use `export.topic_slug` (+ → plus, # → sharp: `c++` → `cplusplus`); pages show the name.
   publish.yml force-pushes output/ as one orphan commit to the `output` branch (no history, by design).
 - **Posts branch** (asked 2026-11-27: keep each feed's recent posts in git as long as the feed exists, beyond the
-  database's 3 days): orphan branch `posts`, one file per feed at `<2 hex>/<sha256 of the URL>.json` (the preview's path
-  without `previews/`), `{url, posts}` (posts as in `recent_posts`, links http(s) only; no check date, asked 2026-11-27: keep it simple, so
+  database's 3 days): orphan branch `posts`, one file per feed at `data/posts/<2 hex>/<sha256 of the URL>.json` (the preview's name
+  under data/posts/, asked 2026-11-27), `{url, posts}` (posts as in `recent_posts`, links http(s) only; no check date, asked 2026-11-27: keep it simple, so
   a recheck with the same posts writes the same bytes and git sees no change). `indexer export --posts-dir DIR` writes the
   file of every feed with posts in the database and never deletes one. publish.yml checks the branch out, moves
   its `.git` aside before the container runs (the container never sees .git or a token), commits what changed and pushes

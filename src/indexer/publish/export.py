@@ -155,18 +155,23 @@ def render_opml(
     return "\n".join(lines) + "\n"
 
 
-def posts_path(url: str) -> str:
+def _hashed(url: str) -> str:
     """<2 hex>/<sha256 of the URL, hex>.json: fixed length whatever the URL (hex of the URL
     itself can exceed the 255-byte file name limit), split in 256 folders. A browser computes it
-    with crypto.subtle.digest("SHA-256", new TextEncoder().encode(url)). The feed's file on the
-    posts branch."""
+    with crypto.subtle.digest("SHA-256", new TextEncoder().encode(url))."""
     digest = hashlib.sha256(url.encode("utf-8")).hexdigest()
     return f"{digest[:2]}/{digest}.json"
 
 
 def preview_path(url: str) -> str:
-    """previews/<2 hex>/<sha256 of the URL, hex>.json (as `posts_path`, in previews/)."""
-    return f"previews/{posts_path(url)}"
+    """previews/<2 hex>/<sha256 of the URL, hex>.json: the feed's preview in the output."""
+    return f"previews/{_hashed(url)}"
+
+
+def posts_path(url: str) -> str:
+    """data/posts/<2 hex>/<sha256 of the URL, hex>.json: the feed's file on the posts branch
+    (the same name as its preview)."""
+    return f"data/posts/{_hashed(url)}"
 
 
 def render_posts(feed: ListedFeed) -> str:

@@ -14,7 +14,9 @@ HELP = "cluster the sentences of recent posts (posts branch and rejected survivo
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
-    parser.add_argument("--posts", type=Path, required=True, help="a checkout of the posts branch")
+    parser.add_argument(
+        "--posts", type=Path, required=True, help="the posts branch's data/posts/ directory"
+    )
     parser.add_argument(
         "--survivors",
         type=Path,

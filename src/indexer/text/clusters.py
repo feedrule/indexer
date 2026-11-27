@@ -1,8 +1,8 @@
 """Unsupervised clusters of the sentences of recent posts (titles and descriptions), from two
 sources:
 
-- the posts files (the posts branch's <h:2>/<h>.json, written by `indexer export`), those with
-  posts: the feeds listed now or before;
+- the posts files (the posts branch's data/posts/<h:2>/<h>.json, written by `indexer export`),
+  those with posts: the feeds listed now or before;
 - the rejected feeds of the reviewed survivors proposals (data/survivors/**/*.yaml,
   `accept: false`), except those rejected as unsafe or with an excluded keyword
   (`[commoncrawl] exclude_keywords`) in their text, so none of that reaches the examples.
@@ -85,7 +85,7 @@ def split(text: str | None) -> list[str]:
 
 def read_posts(directory: Path, into: Sentences) -> None:
     """The post titles and descriptions of every posts file (`export.render_posts`) with posts,
-    in directory/<2 hex>/ (a checkout of the posts branch)."""
+    in directory/<2 hex>/ (the posts branch's data/posts/)."""
     for path in sorted(directory.glob("[0-9a-f][0-9a-f]/*.json")):
         into.files += 1
         try:
