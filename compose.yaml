@@ -65,17 +65,21 @@ services:
     <<: *indexer
     volumes:
       - ./data:/work/data:ro
+      - ./proposals/data/proposals:/work/data/proposals:ro # the proposals branch's (see proposals)
     command: ["load-inputs", "data/sources.toml"]
 
   # Proposes feeds from a ~5-year-old Common Crawl crawl that are still active today: writes
-  # them to a new data/survivors/<yyyymm>/<dd-HHMMSS>.yaml (for a pull request) and output/proposals.md. Locally:
-  #   mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm proposals
+  # them to a new data/proposals/<yyyymm>/<dd-HHMMSS>.yaml (for a pull request) and
+  # output/proposals.md. data/proposals/ is the proposals branch's, from a checkout in ./proposals
+  # (its .git stays outside the container). Locally:
+  #   git worktree add proposals origin/proposals
+  #   mkdir -p output data/models && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm proposals
   proposals:
     <<: *indexer
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}" # owns what it writes
     volumes:
       - ./data:/work/data:ro
-      - ./data/survivors:/work/data/survivors # the proposals it writes
+      - ./proposals/data/proposals:/work/data/proposals # the proposal files, and the new one
       - ./data/models:/work/data/models # the proposal filter it trains once per review (git-ignored)
       - ./output:/work/output # the pull request report
     command: ["proposals", "--report", "output/proposals.md"]
@@ -123,7 +127,8 @@ services:
 
   # Clusters the sentences of recent posts into data/clusters/ (clusters.yml pushes them to the
   # binaries branch): the posts files of a checkout of the posts branch in ./published, and the
-  # rejected survivors in data/survivors. No database, no network; the text is untrusted.
+  # rejected proposals of a checkout of the proposals branch in ./proposals. No database, no
+  # network; the text is untrusted.
   #   HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm clusters
   clusters:
     build:
@@ -136,7 +141,8 @@ services:
     network_mode: none
     user: "${HOST_UID:-10001}:${HOST_GID:-10001}" # owns what it writes
     volumes:
-      - ./data:/work/data:ro # the proposal files and sources.toml
+      - ./data:/work/data:ro # sources.toml
+      - ./proposals/data/proposals:/work/data/proposals:ro # the proposals branch's proposal files
       - ./published/data/posts:/work/posts:ro # the posts branch's data/posts/
       - ./data/clusters:/work/data/clusters # what it writes
     command: ["clusters", "--posts", "posts"]

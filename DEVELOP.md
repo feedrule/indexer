@@ -106,8 +106,7 @@ The sources and their licenses are listed on the [site's home page](https://feed
 
 `data/submissions.txt` is an ordinary source (`files = ["submissions.txt"]`), listed last in
 `data/sources.toml` so a feed that is also in another list keeps that list as its source.
-`uv run pytest` checks that every line of it (and every accepted URL in `data/survivors/`) is a
-valid, unique URL.
+`uv run pytest` checks that every line of it is a valid, unique URL.
 
 ### Proposals: feeds that survived from an old crawl
 
@@ -179,15 +178,19 @@ shared hosts like `fc2.com` or `free.fr`). A feed is proposed only if:
   there is far more in Common Crawl than one run reads;
 - it is **served over https today**: the URL after redirects is `https://` (links are tried as
   `https://`; one that redirects back to plain http is skipped);
-- it is not already in a file in `data/survivors/` (accepted or not) or the inputs table.
+- it is not already in a proposal file on the `proposals` branch (accepted or not) or in the
+  inputs table.
 
 Feeds already there are skipped before checking (and again after, for the URL a redirect led
 to). The rest are checked in random order, 200 at a time, and the run stops once `--max-feeds`
 (20) pass, so a run proposes at most 20 and stops checking early.
 
-The finds go to a new file per run, `data/survivors/<yyyymm>/<dd-HHMMSS>.yaml` in UTC (for example
-`data/survivors/202611/19-041105.yaml`), which the source `survivors` reads with
-`format = "proposals"` and the glob `files = ["survivors/*/*.yaml"]`. The file is YAML: a comment
+The proposals live on their own orphan branch, `proposals`, in `data/proposals/`, so develop
+doesn't grow with them. The workflows check it out into `./proposals/` and mount only its
+`data/proposals/` as the container's `data/proposals/`; locally, `git worktree add proposals
+origin/proposals` does the same. The finds go to a new file per run,
+`data/proposals/<yyyymm>/<dd-HHMMSS>.yaml` in UTC (for example
+`data/proposals/202611/19-041105.yaml`). The file is YAML: a comment
 header, then one document per feed, separated by `---`: `url`, `accept: false`, `title`,
 `language`, `last_post` (the newest item's date), `about` (the subtitle), `posts_read` and
 `categories` (the 8 categories its authors used most on those posts, with counts), `found_in`
@@ -197,14 +200,17 @@ flattened to one line and written by `yaml.safe_dump`, which quotes anything YAM
 something else; files are read with `yaml.safe_load_all`.
 Each workflow run commits
 that file to a **new branch** with the same timestamp (for example `proposals-20261119-041105`),
-and opens **its own pull request** into `develop`, whose description links to the file in
+and opens **its own pull request** into `proposals`, whose description links to the file in
 GitHub's editor and gives the run's summary; the feeds themselves are only in the file, so no
 untrusted text reaches the pull request. The run also writes the proposed feeds as OPML
 next to the `.yaml` file (same name, `.opml`; not read as a source), and the description links to
 it: download it and import it into a feed reader to try them while reviewing. Review the diff, set **`accept: true`** on each feed you want (optionally
-`reason: <reason>` on a rejected one, see below), and merge (or close the pull request to drop the whole batch): the input job then
-loads the accepted feeds on the push to `develop` (source `survivors`, license
-`LicenseRef-CommonCrawl-ToU`, ranked last). Every run starts from `develop`, so a pull request never carries an older run's proposals.
+`reason: <reason>` on a rejected one, see below), and merge (or close the pull request to drop the whole batch).
+The branch has no workflows of its own, so a merge starts nothing: the daily input job checks
+the branch out too and loads the accepted feeds (source `proposals`, `format = "proposals"`, the
+glob `files = ["proposals/*/*.yaml"]`, license `LicenseRef-CommonCrawl-ToU`, ranked last). Feeds loaded before the move keep their old source,
+`.../data/survivors`, which the site shows as `data/proposals/`. Every run starts from the
+`proposals` branch, so a pull request never carries an older run's proposals.
 Each pull request adds its own file, so open pull requests never conflict and can be merged in any
 order. URLs in another open pull request are not skipped, so the same feed can be proposed twice. A feed left at `accept: false`
 counts as known (`files.known_urls` reads every file in the folder), so it is not proposed
@@ -329,7 +335,7 @@ Postgres rather than returned at once, so the size may only drop after autovacuu
 
 `indexer clusters` groups the sentences of recent posts into 500 clusters, unsupervised: the post
 titles and descriptions of the posts branch's files (written by `indexer export`) and of the
-rejected proposals in `data/survivors/` (not those rejected as `unsafe`
+rejected proposals on the `proposals` branch (not those rejected as `unsafe`
 or with an excluded keyword, so none of that reaches the examples). Each distinct sentence of at
 least 3 words is embedded once with MiniLM; seeded spherical k-means makes the same sentences give
 the same clusters. It writes `data/clusters/`:
@@ -341,7 +347,7 @@ the same clusters. It writes `data/clusters/`:
 | `posts.md` | per cluster: counts, top words and the sentences closest to its centre (untrusted text, in code spans) |
 
 These files are not committed to develop (`.gitignore`): `clusters.yml` (Mondays, or by hand)
-checks out the posts branch into `published/`, runs the `clusters` service (no
+checks out the posts branch into `published/` and the proposals branch into `proposals/`, runs the `clusters` service (no
 network, no database, no token) and pushes the files to the `binaries` branch. That branch mirrors
 the repository's paths and has no history: each run keeps its other files, replaces
 `data/clusters/`, and force-pushes one new commit. To use them in a checkout of develop:
@@ -362,7 +368,7 @@ canonical form the loader stores (e.g. `HTTPS://Example.com:443/feed` matches
 the URLs it found in no table. `undo.yml` runs it against Supabase on a push to `develop` that
 changes `data/undo.txt` (or by hand) and copies the report to the job summary. Re-running is
 harmless: deleted URLs are then reported as not found. A URL still listed in a source (a list in
-`sources.toml`, a file in `data/survivors/`, `submissions.txt`) comes back with the next input load, so
+`sources.toml`, an accepted proposal on the `proposals` branch, `submissions.txt`) comes back with the next input load, so
 remove it there as well.
 
 ## Starting over: drop-tables
@@ -521,7 +527,7 @@ output depends slightly on which names share a batch, so a rebuild also moves un
 little (cosine ~0.99 to their old vector); the same `topics.txt` always gives the same matrix. A feed with no
 English item gets no topics.
 
-**Proposal filter.** `data/training.toml` lists reviewed proposal files (paths relative to it).
+**Proposal filter.** `data/proposals/training.toml` (on the `proposals` branch) lists reviewed proposal files (paths relative to it).
 Every feed in them is a labelled example: `accept: true` or `accept: false`. A
 `reason: <reason>` on a rejected feed (one of
 `training.REJECT_REASONS`: commercial, seo, press, republished, machine, forum, notices, unsafe,
@@ -615,7 +621,7 @@ Source layout (`src/indexer/`):
 | `sources.py` | data/sources.toml and loading the lists into inputs |
 | `net/` | fetching untrusted URLs: `fetch.py` (the guarded fetcher), `validate.py` (URL rules, URL files), `resolver.py`, `ippolicy.py`, `urls.py`, `domains.py` |
 | `check/` | `runner.py` (one check per URL), `feed.py` (parsing RSS/Atom) |
-| `proposals/` | `run.py` (the pipeline, steps 1–5), `wat.py` (reading Common Crawl: the `<link>`s of each HTML page in a WAT slice; imports nothing from indexer), `feed_links.py` (the URL rules before checking: `scan_wat`, `filter_page_links`), `filters.py` (the rules after checking), `files.py` (the data/survivors/ files, their OPML, the run summary and the PR report), `scoring.py` (dropping proposals the trained model scores low), `training.py` (training that model on reviewed proposals) |
+| `proposals/` | `run.py` (the pipeline, steps 1–5), `wat.py` (reading Common Crawl: the `<link>`s of each HTML page in a WAT slice; imports nothing from indexer), `feed_links.py` (the URL rules before checking: `scan_wat`, `filter_page_links`), `filters.py` (the rules after checking), `files.py` (the data/proposals/ files, their OPML, the run summary and the PR report), `scoring.py` (dropping proposals the trained model scores low), `training.py` (training that model on reviewed proposals) |
 | `text/` | models on plain text: `topics.py`, `language.py` (fastText), `embeddings.py` (MiniLM and the embedding sets in data/embeddings/) |
 
 ```sh

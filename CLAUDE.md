@@ -35,13 +35,21 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   **Agree any selection or quality heuristic with the user before implementing it.** (`discover`, which
   inserted the newest crawl's feeds unfiltered, was removed on 2026-11-16: `indexer proposals` replaces it.)
 - **One name** (asked 2026-11-27): the pipeline once called survivors is `proposals` everywhere (command, workflow,
-  package, service, PR branches); "survivors" only describes the rule (old feeds still active). The `data/survivors/` files
-  and the source named `survivors` keep their names until they move to the `proposals` branch.
-- `indexer proposals` **proposes, never inserts**: writes a new file `data/survivors/<yyyymm>/<dd-HHMMSS>.yaml` (UTC) per run (asked 2026-11-21,
-  replacing the single `data/survivors.txt`: no huge file, no conflicts between open PRs; the `files` source is the glob
-  `survivors/*/*.yaml`, format `proposals`, CC ToU license; `files` entries may be glob patterns, sorted, none matching is fine) and
-  every proposals.yml run opens its own PR from a new branch `proposals-<UTC timestamp>` (the file's name) based on develop (never a reused
-  branch, so old proposals can't be merged by mistake). Skips URLs already in develop's files (accepted or not) or in inputs.
+  package, service, PR branches, files, source); "survivors" only describes the rule (old feeds still active). Feeds loaded
+  before the move keep their inputs.source (.../data/survivors); `site.source_of` maps it to the `data/proposals/` entry.
+- **Proposals branch** (asked 2026-11-27, so develop doesn't grow with proposals: 200k more feeds are to come from them):
+  orphan branch `proposals` with `data/proposals/` (moved from develop's `data/survivors/` and `data/training.toml`):
+  `<yyyymm>/<dd-HHMMSS>.{yaml,opml}` and `training.toml`. The source `proposals` (format `proposals`, `files =
+  ["proposals/*/*.yaml"]`) reads the files and loads only `accept: true` (agreed 2026-11-27: no accepted.txt or lists
+  pipeline; an index can come back when reading every file gets slow). The branch has no workflows, so a merge into it
+  starts nothing: the daily input run picks it up. Workflows (input, proposals, clusters) check the branch out into `./proposals/` and mount only its
+  `data/proposals/` as the container's `data/proposals/` (no .git, no token in the container); commits happen on the
+  runner with hooks off. Locally: `git worktree add proposals origin/proposals`. Old `survivors-*` branches are ignored.
+- `indexer proposals` **proposes, never inserts**: writes a new file `data/proposals/<yyyymm>/<dd-HHMMSS>.yaml` (UTC) per run on the `proposals` branch (asked 2026-11-21,
+  replacing the single `data/survivors.txt`: no huge file, no conflicts between open PRs; CC ToU license; `files` entries in
+  sources.toml may be glob patterns, sorted, none matching is fine, and format `proposals` still reads such files) and
+  every proposals.yml run opens its own PR from a new branch `proposals-<UTC timestamp>` (the file's name) based on the `proposals` branch, PR into it (never a reused
+  branch, so old proposals can't be merged by mistake). Skips URLs already in that branch's files (accepted or not) or in inputs.
   Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the PR.
   The file is YAML (asked 2026-11-22, replacing comment blocks in .txt files, converted once): a comment header, then one
   document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, language, last_post,
@@ -119,7 +127,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   normally (**never force-pushed**: files are not re-uploaded), before force-pushing output; publish has its own concurrency
   group (queued, not cancelled). Posts are overwritten, not merged across checks (for now). clusters reads this branch.
 - **Sentence clusters** (agreed 2026-11-22): 500 k-means clusters of MiniLM vectors of the sentences (≥ 3 words) of recent post
-  titles and descriptions: the posts branch's files (the output previews until 2026-11-27) plus the rejected proposals in data/survivors (not `reason: unsafe`,
+  titles and descriptions: the posts branch's files (the output previews until 2026-11-27) plus the rejected proposals on the proposals branch (not `reason: unsafe`,
   not with an excluded keyword). Written to `data/clusters/` (git-ignored on develop) and pushed by clusters.yml to the `binaries`
   branch: generated binaries off develop, paths mirroring the repo's, no history (each workflow replaces only its own folder, keeps
   the rest, force-pushes one commit); the push runs on the runner, the container has no token. Planned: the user marks unwanted
@@ -217,7 +225,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   No English item, no topics. `indexer proposals` does not compute topics.
 - Proposal filter (agreed 2026-11-21 after testing MiniLM centroids/vectors, char n-grams, a pretrained quality model;
   this is the agreed quality heuristic for proposals): `indexer proposals` fits TF-IDF (words + word pairs) and a numpy
-  logistic regression over accepted / rejected on the reviewed proposal files in `data/training.toml`
+  logistic regression over accepted / rejected on the reviewed proposal files in `data/proposals/training.toml` (proposals branch)
   (today PR #18's and #19's, the only ones made with the current rules and format); label = `accept: true` or false (binary
   agreed 2026-11-22: same AUC as one class per reason, no reason labelling needed; a `reason: <reason>` field is an
   optional, unused note), text = what the reviewer saw (title, about, categories, posts' titles and descriptions). Trained by `indexer proposals` (up to a minute,

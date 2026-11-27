@@ -1,10 +1,11 @@
-"""Feeds found by `indexer proposals`, proposed for review in data/survivors/<timestamp>.yaml.
+"""Feeds found by `indexer proposals`, proposed for review in data/proposals/<timestamp>.yaml on
+the `proposals` branch (checked out so that its data/proposals/ is this data/proposals/).
 
 `indexer proposals` does not insert into the database. Each run writes its finds to a new file in
-data/survivors/<year><month>/ (the `proposals` source `survivors/*/*.yaml` in sources.toml), so
-no file grows huge and two open pull requests never conflict; the workflow proposes the file as a
-pull request. The file is YAML: a comment header, then one document per feed, separated by
-`---`, with what a reviewer needs:
+data/proposals/<year><month>/, so no file grows huge and two open pull requests never conflict;
+the workflow proposes the file as a pull request against the proposals branch. The file is
+YAML: a comment header, then one document per feed, separated by `---`, with what a reviewer
+needs:
 
     # Proposed 2026-11-12 from CC-MAIN-2021-49.
     # Set accept: true on each feed to keep. ...
@@ -30,9 +31,10 @@ pull request. The file is YAML: a comment header, then one document per feed, se
 A post's description is a list of lines of at most 60 characters, for reading on a phone.
 
 A reviewer sets `accept: true` on each feed they want (optionally `reason: <reason>` on a
-rejected one, see training.py REJECT_REASONS) and merges; the daily input job then
-loads the accepted URLs. Proposals left at `accept: false` still count as known, so a feed left
-out is not proposed again. Reviewed files are also the proposal model's training data.
+rejected one, see training.py REJECT_REASONS) and merges; the daily input job (which checks out
+the proposals branch too) then loads the accepted URLs (the `proposals` source, format
+`proposals`). Proposals left at `accept: false` still count as known, so a feed left out is not
+proposed again. Reviewed files are also the proposal model's training data.
 
 Titles, categories and links come from the feeds, so they are untrusted: each is flattened to
 one line of printable text and written by yaml.safe_dump, which quotes whatever YAML would
@@ -94,12 +96,12 @@ def known_urls(directory: Path) -> set[str]:
 
 
 def file_name(when: datetime) -> str:
-    """A run's file under data/survivors/, from its UTC start time: 202611/21-041105.yaml."""
+    """A run's file under data/proposals/, from its UTC start time: 202611/21-041105.yaml."""
     return when.astimezone(UTC).strftime("%Y%m/%d-%H%M%S") + ".yaml"
 
 
 def render_entries(proposals: Iterable[Proposal], crawl: str, today: date) -> str:
-    """A run's file in data/survivors/: the header, then one YAML document per feed."""
+    """A run's file in data/proposals/: the header, then one YAML document per feed."""
     header = (
         f"# Proposed {today.isoformat()} from {crawl}.\n"
         "# Set accept: true on each feed to keep. A rejected feed may say why, with\n"

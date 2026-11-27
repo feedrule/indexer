@@ -1,12 +1,14 @@
-# Proposes feeds from a ~5-year-old Common Crawl crawl that are still active: reads the first
-# 25 MB (input slice-mb) of one random WAT file, checks every feed found, and writes the ones that pass to
-# a new data/survivors/<yyyymm>/<dd-HHMMSS>.yaml (UTC) in a new pull request (base develop). Nothing is inserted here:
-# once the pull request is reviewed and merged, the input job loads the feeds marked accept: true in it.
+# Proposes feeds from a ~5-year-old Common Crawl crawl that are still active, weekly or by hand:
+# reads the first 25 MB (input slice-mb) of one random WAT file, checks every feed found, and
+# writes the ones that pass to a new data/proposals/<yyyymm>/<dd-HHMMSS>.yaml (UTC) in a new pull
+# request against the `proposals` branch. Nothing is inserted here: the daily input job checks
+# out that branch and loads the feeds marked accept: true (a merge there starts no workflow).
 #
-# Every run starts from develop and pushes its own branch, proposals-<UTC timestamp>, so a pull
-# request only ever holds that run's finds: older proposals are never carried along. Requires the
+# Every proposing run starts from the proposals branch and pushes its own branch,
+# proposals-<UTC timestamp>, so a pull request only ever holds that run's finds. Requires the
 # repository setting "Allow GitHub Actions to create and approve pull requests". Reads the inputs
-# table (to skip known URLs) with the SUPABASE_DB_* secrets.
+# table (to skip known URLs) with the SUPABASE_DB_* secrets. The containers get the branch's
+# data/proposals/ only, never its .git; commits and pushes happen on the runner.
 name: proposals
 
 on:
@@ -65,6 +67,13 @@ jobs:
           ref: develop
           persist-credentials: false
 
+      - name: Check out the proposals branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: proposals
+          path: proposals
+          persist-credentials: false
+
       - name: Build images
         run: docker compose build liquibase proposals
 
@@ -73,14 +82,15 @@ jobs:
 
       - name: Find feeds to propose
         run: |
-          mkdir -p output data/models
+          mkdir -p output data/models data/proposals
           HOST_UID="$(id -u)" HOST_GID="$(id -g)" docker compose run --rm --no-deps -T proposals \
             proposals --report output/proposals.md --slice-mb "$SLICE_MB" \
             --years-ago "$YEARS_AGO" --active-days "$ACTIVE_DAYS" --max-feeds "$MAX_FEEDS"
 
       - name: Propose them
         run: |
-          file="$(git ls-files --others --exclude-standard 'data/survivors/*.yaml')"
+          cd proposals
+          file="$(git ls-files --others --exclude-standard 'data/proposals/*.yaml')"
           opml="${file%.yaml}.opml"
           if [ -z "$file" ]; then
             echo "Nothing new to propose."
@@ -92,6 +102,7 @@ jobs:
           git add "$file" "$opml"
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              -c core.hooksPath=/dev/null \
               commit -q -m "Propose feeds from Common Crawl, $stamp"
           git push -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$branch:$branch"
           {
@@ -106,7 +117,7 @@ jobs:
             echo "- To try them in a feed reader, [download them as OPML]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/raw/$branch/$opml)"
             echo "  and import the file."
             echo
-            cat output/proposals.md
+            cat ../output/proposals.md
           } > "$RUNNER_TEMP/body.md"
-          gh pr create --repo "$GITHUB_REPOSITORY" --base develop --head "$branch" \
+          gh pr create --repo "$GITHUB_REPOSITORY" --base proposals --head "$branch" \
             --title "Feeds from Common Crawl, $stamp" --body-file "$RUNNER_TEMP/body.md"

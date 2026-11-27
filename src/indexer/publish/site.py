@@ -72,9 +72,16 @@ def source_of(url: str | None) -> Source | None:
     """The entry of SOURCES an inputs.source URL belongs to: the first whose name (without a
     trailing slash) is in the URL's path. That matches a list's raw file URLs
     (raw.githubusercontent.com/kagisearch/smallweb/...) and this repository's files under any
-    branch or old name (.../data/survivors.txt). None if no entry matches."""
+    branch or old name (.../data/survivors.txt). Feeds loaded from data/survivors/ (the proposals
+    before they moved to the proposals branch) keep that source: they belong to data/proposals/.
+    None if no entry matches."""
     path = urlsplit(url).path if url else ""
+    for old, new in _OLD_NAMES.items():
+        path = path.replace(old, new)
     return next((s for s in SOURCES if s.name.rstrip("/") in path), None)
+
+
+_OLD_NAMES = {"data/survivors": "data/proposals"}  # an inputs.source path -> its entry's
 
 
 def safe_href(url: str | None) -> str | None:
@@ -203,7 +210,7 @@ SOURCES = (
     Source("matthiasjost/dotnet-creators-opml",
            "https://github.com/matthiasjost/dotnet-creators-opml",
            "MIT", "", "~140 .NET blogs", ""),
-    Source("data/survivors/", f"{REPO}/tree/develop/data/survivors",
+    Source("data/proposals/", f"{REPO}/tree/proposals/data/proposals",
            "Common Crawl terms", "https://commoncrawl.org/terms-of-use",
            "old feeds still active today, reviewed by hand", f"{REPO}#feeds-from-common-crawl"),
     Source("data/submissions.txt", f"{REPO}/blob/develop/data/submissions.txt",

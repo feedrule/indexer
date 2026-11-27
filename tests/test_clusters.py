@@ -191,7 +191,7 @@ def test_clusters_command_defaults() -> None:
     assert (args.k, str(args.directory), str(args.proposals)) == (
         500,
         "data/clusters",
-        "data/survivors",
+        "data/proposals",
     )
     assert args.posts_commit is None
 

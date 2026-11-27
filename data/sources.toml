@@ -5,7 +5,7 @@
 # on their own. A source that fails is skipped and reported; the rest still load. The inputs
 # table only grows, so a broken or truncated upstream file removes nothing.
 #
-# The survivors source below is filled by `indexer proposals` through reviewed pull requests.
+# The proposals source below is filled by `indexer proposals` through reviewed pull requests.
 #
 # To add a source, add a [[source]] block with an openly licensed list. Lists without a
 # license are not used (e.g. kilimchoi/engineering-blogs, peterc/engblogs).
@@ -178,12 +178,12 @@ urls = [
 ]
 
 [[source]]
-name = "survivors"
+name = "proposals"
 license = "LicenseRef-CommonCrawl-ToU"
 format = "proposals" # YAML, one document per feed; only feeds with accept: true are loaded
-homepage = "https://github.com/feedrule/indexer/tree/develop/data/survivors"
-notes = "Feeds from a ~5-year-old Common Crawl crawl that are still active, proposed weekly by the proposals workflow as a pull request and reviewed before merging."
-files = ["survivors/*/*.yaml"] # relative to this file: survivors/<yyyymm>/<dd-HHMMSS>.yaml, one per run
+homepage = "https://github.com/feedrule/indexer/tree/proposals/data/proposals"
+notes = "Feeds from a ~5-year-old Common Crawl crawl that are still active, proposed weekly by the proposals workflow as a pull request against the proposals branch and reviewed before merging. Read from a checkout of that branch, whose data/proposals/ is mounted as data/proposals/."
+files = ["proposals/*/*.yaml"] # relative to this file: proposals/<yyyymm>/<dd-HHMMSS>.yaml, one per run
 
 [[source]]
 name = "submissions"

@@ -87,7 +87,7 @@ def test_proposals_defaults() -> None:
     args = parser().parse_args(["proposals"])
     assert (args.years_ago, args.slice_mb, args.active_days, args.max_feeds) == (5, 25, 243, 20)
     assert str(args.config) == "data/sources.toml"
-    assert str(args.dir) == "data/survivors" and args.report is None
+    assert str(args.dir) == "data/proposals" and args.report is None
 
 
 def test_drop_tables_needs_yes(capsys: pytest.CaptureFixture[str]) -> None:

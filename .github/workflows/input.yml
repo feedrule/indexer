@@ -1,7 +1,8 @@
 # Loads every feed URL from the sources in data/sources.toml into the `inputs` table (Supabase
 # Postgres), daily: sources are not pinned, so new feeds added upstream arrive on their own.
-# Also on a push to develop or main that changes the lists in this repo (a merged submission or
-# proposals pull request), so they load right away.
+# Also on a push to develop or main that changes the lists in this repo (a merged submission),
+# so they load right away. Accepted proposals are read from a checkout of the proposals branch
+# (its data/proposals/ only is mounted), so a merged proposal is loaded on the next daily run.
 # Safe to re-run: new URLs are added, nothing is deleted, and a URL's source changes only to a
 # more permissive license. A source that fails (file moved or gone, malformed) is skipped and
 # the run is marked failed, after the other sources have loaded.
@@ -28,7 +29,6 @@ on:
     paths:
       - data/sources.toml
       - data/*.txt # repo lists read via `files` (submissions)
-      - data/survivors/*/*.yaml # survivors: one file per run
       - "!data/undo.txt" # not a source: the undo workflow reads it
 
 permissions:
@@ -57,6 +57,13 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Check out the proposals branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: proposals
+          path: proposals
+          persist-credentials: false
+
       - name: Build images
         run: docker compose build liquibase input
 
@@ -64,4 +71,6 @@ jobs:
         run: docker compose run --rm --no-deps -T liquibase
 
       - name: Load inputs
-        run: docker compose run --rm --no-deps -T input
+        run: |
+          mkdir -p data/proposals
+          docker compose run --rm --no-deps -T input

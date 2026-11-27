@@ -1,5 +1,5 @@
-"""A filter for proposals, learned from past reviews: the reviewed proposal files
-listed in data/training.toml are read as labelled examples, a small model is trained on them
+"""A filter for proposals, learned from past reviews: the reviewed proposal files listed in
+data/proposals/training.toml are read as labelled examples, a small model is trained on them
 (up to a minute) and kept in data/models/ (not committed; `cached_model`), and `indexer
 proposals` drops the new proposals it scores lowest (about the bottom CUT of them).
 
@@ -40,7 +40,7 @@ import numpy.typing as npt
 
 from indexer.sources import SourceError, proposal_documents
 
-TRAINING_CONFIG = Path("data/training.toml")
+TRAINING_CONFIG = Path("data/proposals/training.toml")  # on the proposals branch
 MODEL_DIR = Path("data/models")  # the stored model (git-ignored)
 CUT = 0.30  # drop about this share of proposals: those scored lowest
 # Why a feed was rejected, as a reviewer may note it (`reason:`, optional; not used by the model,
@@ -83,7 +83,7 @@ class Reviewed:
 
 
 def training_files(config: Path = TRAINING_CONFIG) -> list[Path]:
-    """The proposal files data/training.toml lists, relative to it, in its order."""
+    """The proposal files data/proposals/training.toml lists, relative to it, in its order."""
     data = tomllib.loads(config.read_text(encoding="utf-8"))
     files = data.get("files")
     if not isinstance(files, list) or not all(isinstance(f, str) and f for f in files):

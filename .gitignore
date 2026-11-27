@@ -19,6 +19,10 @@ posts.git/
 report/
 # Written by `indexer clusters`; kept on the binaries branch, not here (clusters.yml)
 data/clusters/posts.*
+# A checkout of the proposals branch (its data/proposals/ is mounted as data/proposals/), and
+# that mount point
+/proposals/
+/data/proposals/
 # clusters.yml's checkout of the posts branch
 published/
 # The proposal filter `indexer proposals` trains and keeps (training.cached_model); never commit models

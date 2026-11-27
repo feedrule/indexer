@@ -1,4 +1,4 @@
-"""indexer train: train the proposal filter on the reviewed files in data/training.toml."""
+"""indexer train: train the proposal filter on the files data/proposals/training.toml lists."""
 
 import argparse
 import sys

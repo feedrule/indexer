@@ -20,8 +20,8 @@ def add_arguments(parser: argparse.ArgumentParser) -> None:
     parser.add_argument(
         "--proposals",
         type=Path,
-        default=Path("data/survivors"),
-        help="the reviewed proposal files (default data/survivors)",
+        default=Path("data/proposals"),
+        help="the reviewed proposal files (default data/proposals: the proposals branch's)",
     )
     parser.add_argument(
         "--sources",

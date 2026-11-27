@@ -9,7 +9,7 @@ Commands, in pipeline order:
   drop-tables  delete every table of this project (all data); needs --yes
   topics       the topics of some text (no feed, no database): to try the topic model
   languages    the languages of some text (no feed, no database): to try the language model
-  train        train the proposal filter on the reviewed proposal files in data/training.toml
+  train        train the proposal filter on the reviewed proposals (data/proposals/training.toml)
   clusters     cluster the sentences of recent posts (posts branch, rejected proposals) with k-means
 """
 

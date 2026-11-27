@@ -282,25 +282,16 @@ def test_submissions_file_is_valid() -> None:
     assert source is config.sources[-1]  # listed last: other lists keep credit on ties
 
 
-def test_proposals_files_are_valid() -> None:
-    """data/survivors/*/*.yaml (proposals from `indexer proposals`, merged after review): every
-    feed says accept: true or false, every accepted one is a valid https URL, none twice across
-    the files, and the source reads them all from the checkout."""
-    paths = sorted((REPO_CONFIG.parent / "survivors").glob("*/*.yaml"))
-    assert paths and not list((REPO_CONFIG.parent / "survivors").glob("*/*.txt"))
-    for path in paths:
-        feeds = proposal_documents(path.read_bytes())
-        assert all(isinstance(f.get("accept"), bool) for f in feeds), path
-    entries = [url for path in paths for url in extract_urls(path.read_bytes(), "proposals")]
-    valid, invalid = valid_urls(entries)
-    assert invalid == 0, "data/survivors/ has invalid URLs"
-    assert len(valid) == len(entries), "data/survivors/ has duplicate URLs"
-    assert all(url.startswith("https://") for url, _host in valid)
+def test_proposals_source_reads_the_proposals_branch() -> None:
+    """Accepted proposals load from the proposal files of a checkout of the proposals branch
+    (mounted as data/proposals/), only those with accept: true."""
     config = load_config(REPO_CONFIG)
-    (source,) = [s for s in config.sources if s.name == "survivors"]
-    assert source.files == ("survivors/*/*.yaml",) and not source.urls
+    (source,) = [s for s in config.sources if s.name == "proposals"]
+    assert source.files == ("proposals/*/*.yaml",) and not source.urls
     assert source.format == "proposals"
+    assert source.homepage == "https://github.com/feedrule/indexer/tree/proposals/data/proposals"
     assert source.license == "LicenseRef-CommonCrawl-ToU"
+    assert not (REPO_CONFIG.parent / "survivors").exists()  # moved to the proposals branch
 
 
 async def test_local_file_source(tmp_path: Path) -> None:
