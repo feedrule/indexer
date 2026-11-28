@@ -21,10 +21,11 @@ with keyword filters and no account.</span></p>
 <td class="feed">
 <span class="head"><a class="mail" href="{{ row.feedrule }}" title="Get this feed by email (feedrule.com)"><img src="../../{{ icon }}" width="20" height="20" alt="Get by email"></a>
 <a class="title" href="{{ row.site }}" rel="nofollow">{{ row.label }}</a></span>
+<span class="meta host">{{ row.host }}</span>
 {% if row.subtitle %}
 <span class="sub">{{ row.subtitle }}</span>
 {% endif %}
-<span class="meta">{{ row.host }} · <a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a> · <a class="preview" href="../../{{ row.preview }}">Preview</a></span>
+<span class="meta"><a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a> · <a class="preview" href="../../{{ row.preview }}">Preview</a></span>
 {% if row.date %}
 <span class="meta">Last indexed post: <time datetime="{{ row.date }}">{{ row.date }}</time></span>
 {% endif %}

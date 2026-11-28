@@ -159,9 +159,10 @@ def test_feedrule_link_is_prefilled_and_encoded() -> None:
     digest = hashlib.sha256(b"https://f1.example/feed").hexdigest()
     # the title and "Website" link to the website; "Feed" to the feed
     assert '<a class="title" href="https://f1.example/" rel="nofollow">T</a>' in html
-    # one cell per feed: the domain, Website and Feed on one line, the date on its own
+    # one cell per feed: the domain under the title; Website, Feed and Preview on one line; the date
+    assert '</a></span>\n<span class="meta host">f1.example</span>\n' in html
     assert (
-        'f1.example · <a class="site" href="https://f1.example/" rel="nofollow">Website</a>'
+        '<span class="meta"><a class="site" href="https://f1.example/" rel="nofollow">Website</a>'
         ' · <a class="rss" href="https://f1.example/feed" rel="nofollow">Feed</a>'
         f' · <a class="preview" href="../../preview/?sha={digest}">Preview</a></span>' in html
     )

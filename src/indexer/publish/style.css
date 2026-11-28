@@ -111,6 +111,7 @@ th, td { padding: 9px 8px; border-bottom: 1px solid var(--border); vertical-alig
 .feeds .sub { display: block; color: var(--fg); font-size: 14px; overflow-wrap: anywhere; }
 .feeds .title { color: var(--fg); font-weight: 500; }
 .feeds .meta, .feeds .meta a { color: var(--muted); font-size: 13px; }
+.feeds .meta.host { margin-left: 30px; margin-bottom: 2px; }
 .feeds .meta a.site, .feeds .meta a.rss, .feeds .meta a.preview { color: var(--link); }
 .ftopics { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
 .ftopics a, .ftopics span {
