@@ -9,7 +9,7 @@
 | `all/feeds.opml` | OPML 2.0 of every listed feed, sorted by URL. |
 | `previews/<h:2>/<h>.json` | One JSON file per listed feed (see below). |
 | `docs/index.html` | Website (GitHub Pages serves `docs/`): the 50 largest topics, a search over all published topics, and the sources. |
-| `docs/topic/<slug>/index.html` | Page of the first 200 of those feeds (20 shown at first, then 20 more per "Show more" click): title (links to the website), the domain under it, the feed's subtitle (up to 200 characters), "Website", "Feed" (links to the feed), "Preview" and "Email digest" (feedrule.com's form, prefilled with the feed) on one line, the feed's other topics (most relevant first), last post date. |
+| `docs/topic/<slug>/index.html` | Page of the first 200 of those feeds (20 shown at first, then 20 more per "Show more" click): title (links to the website), the domain under it, the feed's subtitle (up to 200 characters), "Website", "Feed" (links to the feed), and "Preview" on one line, "Email digest by Feedrule" (feedrule.com's form, prefilled with the feed) on the next, the feed's other topics (most relevant first), last post date. |
 | `docs/preview/index.html` | The feed preview page, `preview/?sha=<h>` (nothing else is accepted): a script fetches that feed's preview and posts file and shows its title, subtitle, links, languages, where it was imported from (linked to the index's sources table), topics and recent posts (each description cut at 300 characters). Marked `noindex`, not in the sitemap. |
 | `docs/style.css`, `docs/feedrule.svg` | The site's stylesheet and feedrule.com's icon. |
 | `docs/sitemap.xml` | The index and every topic page with at least 3 feeds (smaller ones are marked `noindex`). |

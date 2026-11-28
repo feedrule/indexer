@@ -57,14 +57,16 @@
     if (subtitle && subtitle.toLowerCase() !== title.toLowerCase()) page.append(el("p", "sub", subtitle));
 
     const meta = el("p", "meta");
-    const digest = el("a", "digest", "Email digest");
+    const digest = el("a", "digest", "Email digest by Feedrule");
     digest.href = FEEDRULE + encodeURIComponent(feed.url).replace(/%3A/gi, ":").replace(/%2F/gi, "/");
     digest.title = "Get this feed's new posts by email (feedrule.com)";
     const icon = el("img");
     Object.assign(icon, { src: "../{{ icon }}", width: 14, height: 14, alt: "" });
     digest.append(icon);
-    meta.append(link(site, "Website"), " · ", link(feed.url, "Feed"), " · ", digest);
-    page.append(meta);
+    meta.append(link(site, "Website"), " · ", link(feed.url, "Feed"));
+    const by = el("p", "meta");
+    by.append(digest);
+    page.append(meta, by);
 
     const facts = [];
     if (feed.last) facts.push(`Last indexed post: ${feed.last}`);

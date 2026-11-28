@@ -10,7 +10,7 @@
 {% endif %}
 <p class="actions"><a class="button" href="{{ data }}feeds.opml">.OPML</a>
 <a class="button ghost" href="{{ data }}links.txt">.TXT</a></p>
-<p class="tip"><img src="../../{{ icon }}" width="20" height="20" alt=""><span>Use "Email digest" under
+<p class="tip"><img src="../../{{ icon }}" width="20" height="20" alt=""><span>Use "Email digest by Feedrule" under
 a feed to get its new posts by email: a free digest from <a href="{{ feedrule }}">feedrule.com</a>,
 with keyword filters and no account.</span></p>
 <table class="feeds">
@@ -24,7 +24,8 @@ with keyword filters and no account.</span></p>
 {% if row.subtitle %}
 <span class="sub">{{ row.subtitle }}</span>
 {% endif %}
-<span class="meta"><a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a> · <a class="preview" href="../../{{ row.preview }}">Preview</a> · <a class="digest" href="{{ row.feedrule }}" title="Get this feed's new posts by email (feedrule.com)">Email digest<img src="../../{{ icon }}" width="14" height="14" alt=""></a></span>
+<span class="meta"><a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a> · <a class="preview" href="../../{{ row.preview }}">Preview</a></span>
+<span class="meta"><a class="digest" href="{{ row.feedrule }}" title="Get this feed's new posts by email (feedrule.com)">Email digest by Feedrule<img src="../../{{ icon }}" width="14" height="14" alt=""></a></span>
 {% if row.date %}
 <span class="meta">Last indexed post: <time datetime="{{ row.date }}">{{ row.date }}</time></span>
 {% endif %}
