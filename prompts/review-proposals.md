@@ -84,36 +84,45 @@ nothing. It is not for hard calls: when there is text to read, decide, even on a
 ## Examples
 
 ```
-accept - https://joshuapnudell.com/feed/ # who: a historian, own blog; for: readers of history and books
-accept - https://capturedandexposed.com/feed/ # who: a genealogist; for: readers of crime history
-accept - https://www.handsfreemama.com/feed/ # who: an author, own essays; for: parents; links to own books
-reject notices https://www.cavsconnect.com/feed/ # who: a high school's student paper; for: its school
-reject notices https://www.lyndaleucc.org/feed/ # who: a church, sermons and prayers; for: its congregation
-reject press https://cvm.missouri.edu/feed/ # who: a university college, news releases; for: press
-reject commercial https://opensprinkler.com/feed/ # who: a product's maker, firmware releases; for: customers
-reject seo https://www.product-reviews.net/feed/ # who: a news-filler site, chocolate bars and patch notes; for: search
-reject seo https://www.tusharmangl.com/feeds/posts/default # who: guest posts by company founders; for: promotion
-reject republished https://wordlesstech.com/feed/ # who: one-line teasers of others' news; for: clicks
-unsure - https://www.crossrhythms.co.uk/feeds/rss.xml # who: unknown; only post is a title with no text
+https://joshuapnudell.com/feed/ | who: a historian, own blog | for: readers of history and books | accept -
+https://capturedandexposed.com/feed/ | who: a genealogist | for: readers of crime history | accept -
+https://www.handsfreemama.com/feed/ | who: an author, own essays, links to own books | for: parents | accept -
+https://www.cavsconnect.com/feed/ | who: a high school's student paper | for: its school | reject notices
+https://www.lyndaleucc.org/feed/ | who: a church, sermons and prayers | for: its congregation | reject notices
+https://cvm.missouri.edu/feed/ | who: a university college, news releases | for: the press | reject press
+https://opensprinkler.com/feed/ | who: a product's maker, firmware releases | for: its customers | reject commercial
+https://www.product-reviews.net/feed/ | who: a filler site, chocolate bars and patch notes | for: search engines | reject seo
+https://www.tusharmangl.com/feeds/posts/default | who: guest posts by company founders | for: promotion | reject seo
+https://wordlesstech.com/feed/ | who: one-line teasers of others' news | for: clicks | reject republished
+https://www.crossrhythms.co.uk/feeds/rss.xml | only post is a title with no text | unsure -
 ```
+
+The verdict follows from the note: a feed written for its own school, congregation or
+customers is rejected however well written it is.
 
 ## Your answer
 
 One line per feed, in the order given, and nothing else: no heading, no summary, no code fence.
 
 ```
-accept - <url> # who: …; for: …
-reject <reason> <url> # who: …; for: …
-unsure - <url> # what is missing
+<url> | who: … | for: … | accept -
+<url> | who: … | for: … | reject <reason>
+<url> | what is missing | unsure -
 ```
 
-The first word is `accept`, `reject` or `unsure`. The second is the reason for a reject and `-`
-otherwise. The third is the feed's `url`, copied exactly. After ` # ` comes your answer to the
-two questions, in at most 15 words, on the same line. Every feed gets exactly one line.
+Write each line in this order:
+
+1. The feed's `url`, copied exactly, first: it says which feed the line is about. Check it is the
+   feed you are describing, not its neighbour.
+2. Who writes it and for whom, from that feed's own fields, in at most 15 words.
+3. Last, the verdict that follows from what you just wrote: `accept -`, `reject <reason>` or
+   `unsure -`.
+
+Every feed gets exactly one line.
 
 (The script turns accept into `accept: true`, reject into `accept: false` with your reason, and
 unsure into `accept: false` with `learn: false`, so an unsure feed doesn't teach the filter. The
-note after `#` is kept for the person who checks your review.)
+note is kept for the person who checks your review.)
 
 ## The feeds to review
 

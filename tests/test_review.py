@@ -43,7 +43,7 @@ FILE = render_entries(
     "CC-MAIN-2021-49",
     date(2026, 11, 28),
 )
-ANSWER = f"accept - {A}\nreject seo {B}\nunsure - {C}\n"
+ANSWER = f"{A} | accept -\n{B} | reject seo\n{C} | unsure -\n"
 
 
 def test_each_verdict_sets_accept_learn_and_reason() -> None:
@@ -73,27 +73,32 @@ def test_only_the_review_lines_change() -> None:
 
 def test_a_second_review_replaces_the_first() -> None:
     once = apply_decisions(FILE, parse_decisions(ANSWER))
-    again = apply_decisions(once, parse_decisions(f"reject other {A}\naccept - {B}\nunsure - {C}"))
+    again = apply_decisions(
+        once, parse_decisions(f"{A} | reject other\n{B} | accept -\n{C} | unsure -")
+    )
     a, b, _ = proposal_documents(again.encode())
     assert (a["accept"], a["reason"]) == (False, "other")
     assert (b["accept"], "reason" in b) == (True, False)
     assert apply_decisions(again, parse_decisions(ANSWER)) == once
 
 
-def test_a_note_after_the_url_is_kept_apart() -> None:
-    (a, b) = parse_decisions(
-        f"accept - {A} # who: a person; for: anyone\nreject seo {B}#x # who: a shop\n"
+def test_the_note_between_url_and_verdict_is_kept_apart() -> None:
+    (a, b, c) = parse_decisions(
+        f"{A} | who: a person | for: anyone | accept -\n"
+        f"{B}#x|y  |  who: a shop |  reject seo\n"  # a URL with # and | stays whole
+        f"{C} unsure -\n"  # no note
     ).items()
-    assert a == (A, Decision("accept", None, "who: a person; for: anyone"))
-    assert b == (f"{B}#x", Decision("reject", "seo", "who: a shop"))  # a #fragment stays
+    assert a == (A, Decision("accept", None, "who: a person | for: anyone"))
+    assert b == (f"{B}#x|y", Decision("reject", "seo", "who: a shop"))
+    assert c == (C, Decision("unsure", None, ""))
 
 
 def test_review_file_keeps_the_notes() -> None:
     def reviewer(argv: Sequence[str], text: str) -> str:
-        return "".join(f"accept - {url} #  who:   me\n" for url in _urls(text))
+        return "".join(f"{url} |  who:   me | accept -\n" for url in _urls(text))
 
     answer = review_file(FILE, PROMPT, ["m"], size=5, run=reviewer)
-    assert answer == "".join(f"accept - {u} # who: me\n" for u in (A, B, C))
+    assert answer == "".join(f"{u} | who: me | accept -\n" for u in (A, B, C))
     edited = apply_decisions(FILE, parse_decisions(answer))
     assert "who:" not in edited
 
@@ -105,13 +110,14 @@ def test_blank_lines_and_code_fences_are_ignored() -> None:
 @pytest.mark.parametrize(
     "answer",
     [
-        f"maybe - {A}",
-        f"reject boring {A}",
-        f"reject - {A}",
-        f"accept seo {A}",
-        f"accept {A}",
-        f"accept - {A} because it is good",
-        f"accept - {A}\nreject seo {A}",
+        f"{A} | maybe -",
+        f"{A} | reject boring",
+        f"{A} | reject -",
+        f"{A} | accept seo",
+        f"{A} accept",
+        f"{A} | accept - because it is good",
+        f"accept - {A}",
+        f"{A} | accept -\n{A} | reject seo",
     ],
     ids=[
         "verdict",
@@ -119,7 +125,8 @@ def test_blank_lines_and_code_fences_are_ignored() -> None:
         "reject without reason",
         "accept with reason",
         "two fields",
-        "four fields",
+        "words after the verdict",
+        "the old order",
         "twice",
     ],
 )
@@ -131,8 +138,8 @@ def test_a_malformed_answer_fails(answer: str) -> None:
 @pytest.mark.parametrize(
     ("answer", "match"),
     [
-        (f"accept - {A}\nreject seo {B}", "no decision for"),
-        (ANSWER + "accept - https://evil.example/", "not in the file"),
+        (f"{A} | accept -\n{B} | reject seo", "no decision for"),
+        (ANSWER + "https://evil.example/ | accept -", "not in the file"),
     ],
 )
 def test_the_answer_must_cover_exactly_the_file_s_feeds(answer: str, match: str) -> None:
@@ -144,7 +151,7 @@ def test_a_failure_leaves_the_file_as_it_was(tmp_path: Path) -> None:
     path = tmp_path / "28-041105.yaml"
     path.write_text(FILE)
     with pytest.raises(ReviewError):
-        apply_file(path, f"accept - {A}")
+        apply_file(path, f"{A} | accept -")
     assert path.read_text() == FILE
     assert [p.name for p in tmp_path.iterdir()] == [path.name]
 
@@ -156,7 +163,7 @@ def test_the_command(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None
     assert main(["review", str(path), str(answer)]) == 0
     assert "1 accept, 1 reject, 1 unsure" in capsys.readouterr().out
     assert extract_urls(path.read_bytes(), "proposals") == [A]
-    answer.write_text(f"accept - {A}")
+    answer.write_text(f"{A} | accept -")
     assert main(["review", str(path), str(answer)]) == 1
     assert "not changed" in capsys.readouterr().err
 
@@ -166,7 +173,7 @@ def _urls(batch: str) -> list[str]:
 
 
 def accept_all(argv: Sequence[str], text: str) -> str:
-    return "".join(f"accept - {url}\n" for url in _urls(text.split(PROMPT, 1)[1]))
+    return "".join(f"{url} | accept -\n" for url in _urls(text.split(PROMPT, 1)[1]))
 
 
 PROMPT = "Review these.\n"
@@ -185,16 +192,18 @@ def test_review_file_asks_per_batch_and_answers_in_file_order() -> None:
 
     def reviewer(argv: Sequence[str], text: str) -> str:
         calls.append(text)
-        return "".join(f"accept - {url}\n" for url in reversed(_urls(text)))  # any order
+        return "".join(f"{url} | accept -\n" for url in reversed(_urls(text)))  # any order
 
     answer = review_file(FILE, PROMPT, ["model"], size=2, parallel=1, run=reviewer)
-    assert answer == f"accept - {A}\naccept - {B}\naccept - {C}\n"
+    assert answer == f"{A} | accept -\n{B} | accept -\n{C} | accept -\n"
     assert len(calls) == 2 and all(c.startswith(PROMPT + "\n") for c in calls)
     assert "url: https://evil.example/" not in answer  # text inside a post is not a feed
 
 
 def test_a_bad_batch_is_asked_again_then_fails() -> None:
-    answers = iter([f"accept - {A}\n", f"accept - {A}\nreject seo {B}\n"])  # B missing, then ok
+    answers = iter(
+        [f"{A} | accept -\n", f"{A} | accept -\n{B} | reject seo\n"]
+    )  # B missing, then ok
     answer = review_file(
         FILE,
         PROMPT,
@@ -204,7 +213,7 @@ def test_a_bad_batch_is_asked_again_then_fails() -> None:
         retries=1,
         run=lambda argv, text: next(answers) if A in _urls(text) else accept_all(argv, text),
     )
-    assert answer.splitlines()[1] == f"reject seo {B}"
+    assert answer.splitlines()[1] == f"{B} | reject seo"
 
     def broken(argv: Sequence[str], text: str) -> str:
         raise ReviewError("claude exited 1")
@@ -212,7 +221,7 @@ def test_a_bad_batch_is_asked_again_then_fails() -> None:
     with pytest.raises(ReviewError, match="batch 1/2: claude exited 1"):
         review_file(FILE, PROMPT, ["m"], size=2, retries=2, run=broken)
     with pytest.raises(ReviewError, match="1 feeds not decided"):
-        review_file(FILE, PROMPT, ["m"], size=2, retries=0, run=lambda a, t: f"accept - {A}")
+        review_file(FILE, PROMPT, ["m"], size=2, retries=0, run=lambda a, t: f"{A} | accept -")
 
 
 FAKE_REVIEWER = """
@@ -220,7 +229,7 @@ import sys
 text = sys.stdin.read()
 for line in text.splitlines():
     if line.startswith("url: "):
-        print("reject other", line[5:])
+        print(line[5:], "| who: a fake | reject other")
 """
 
 
@@ -234,7 +243,7 @@ def test_the_command_runs_the_reviewer(tmp_path: Path, capsys: pytest.CaptureFix
     args += ["--reviewer", f"{sys.executable} -I {fake}", "--save-answer", str(saved)]
     assert main(args) == 0
     assert "0 accept, 3 reject, 0 unsure" in capsys.readouterr().out
-    assert saved.read_text() == "".join(f"reject other {u}\n" for u in (A, B, C))
+    assert saved.read_text() == "".join(f"{u} | who: a fake | reject other\n" for u in (A, B, C))
     assert main([*args[:4], "--reviewer", f"{sys.executable} -I -c 'import sys; sys.exit(3)'"]) == 1
     assert "exited 3" in capsys.readouterr().err
     assert all(d["reason"] == "other" for d in proposal_documents(path.read_bytes()))

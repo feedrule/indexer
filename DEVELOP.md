@@ -231,9 +231,12 @@ git push origin proposals && git push origin --delete proposals-20261119-041105
 
 **A first pass by a model.** `prompts/review-proposals.md` asks a model (Haiku is enough) to
 judge every feed of a file, with no tools: it gets the prompt and the file's text and answers one
-line per feed, `accept - <url>`, `reject <reason> <url>` or `unsure - <url>`, each followed by
-` # who: …; for: …` (who writes the feed and for whom, the test the prompt asks first; kept in the
-answer for whoever checks it, never written to the file). `indexer review FILE`
+line per feed, `<url> | who: … | for: … | <verdict>`, the verdict being `accept -`, `reject
+<reason>` or `unsure -`. The URL comes first, tying the line to its feed; the note (who writes the
+feed and for whom, the test the prompt asks first) before the verdict, so the model decides after
+saying it. With the verdict first, Haiku wrote "for: its school community" and accepted, and in a
+batch a note could land on a neighbour's URL. The note is kept in the answer for whoever checks
+it, never written to the file. `indexer review FILE`
 asks it: a file is too big for one call (~150 feeds, ~600 KB), so it is cut into batches of 5
 feeds (`--batch-size`; the header, then whole feeds; few, so a feed's `about` line isn't lost among
 the others' posts), 4 reviewed at once (`--parallel`), each sent

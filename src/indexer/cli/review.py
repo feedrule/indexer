@@ -20,8 +20,8 @@ from indexer.proposals.review import (
 NAME = "review"
 HELP = (
     "review every feed of a proposal FILE with a model (in batches, no tools) and set accept,"
-    " learn and reason from its answer, or apply an ANSWER given (one '<accept|reject|unsure>"
-    " <reason or -> <url>' line per feed); all or nothing"
+    " learn and reason from its answer, or apply an ANSWER given (one '<url> | <note> |"
+    " <accept|reject|unsure> <reason or ->' line per feed); all or nothing"
 )
 
 

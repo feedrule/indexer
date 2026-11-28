@@ -2,12 +2,16 @@
 
 The model reads the file with no tools and answers one line per feed:
 
-    accept - <url> # who: ...; for: ...
-    reject <reason> <url> # who: ...; for: ...
-    unsure - <url> # what is missing
+    <url> | who: ... | for: ... | accept -
+    <url> | who: ... | for: ... | reject <reason>
+    <url> | what is missing | unsure -
 
-The note after ` # ` (optional) is the model's reason, kept in the answer for the person who
-checks the review and never written to the file.
+The URL comes first, so the line is tied to its feed before anything is said about it, and the
+verdict last, so the model writes who the feed is for before it decides (verdict first, it
+decided, then explained: a note "for: its school community" ended in accept; with several feeds
+in a call, a note and a verdict could also land on the wrong URL). The note in between
+(optional) is kept in the answer for the person who checks the review, never written to the
+file.
 
 `apply_decisions` sets only the `accept`, `learn` and `reason` keys of each feed: accept gives
 `accept: true` and `learn: true`, reject `accept: false`, `learn: true` and the reason, unsure
@@ -65,7 +69,6 @@ TIMEOUT = 600  # seconds per call
 # Runs the reviewer command (argv) with the text on stdin and returns its stdout.
 Run = Callable[[Sequence[str], str], str]
 
-_NOTE = re.compile(r"\s+#\s?")  # a note starts at whitespace then #; a URL's #fragment has none
 _DOCUMENT_START = re.compile(r"^---[ \t]*$", re.MULTILINE)
 _REVIEW_KEY = re.compile(r"^(accept|learn|reason):")  # a top-level key: column 0
 _KEYS = ("accept", "learn", "reason")
@@ -79,23 +82,23 @@ class ReviewError(Exception):
 class Decision:
     verdict: Verdict
     reason: str | None  # for a reject only
-    note: str = ""  # the model's note (after ` # `), for people; not written to the file
+    note: str = ""  # the model's note (between the URL and the verdict), for people; not written
 
 
 def parse_decisions(text: str) -> dict[str, Decision]:
     """The model's answer, by URL. Blank lines and code fences (```) are ignored; anything else
-    must be `<accept|reject|unsure> <reason or -> <url>`, optionally followed by ` # <note>`.
-    ReviewError otherwise."""
+    must be `<url> [| <note> |] <accept|reject|unsure> <reason or ->`: the URL is the first
+    word, the verdict and reason the last two, the note what lies between. ReviewError
+    otherwise."""
     decisions: dict[str, Decision] = {}
     for number, line in enumerate(text.splitlines(), 1):
         if not line.strip() or line.strip().startswith("```"):
             continue
-        head, *rest = _NOTE.split(line.strip(), maxsplit=1)
-        note = " ".join(rest[0].split()) if rest else ""
-        fields = head.split()
-        if len(fields) != 3:
-            raise ReviewError(f"line {number}: expected '<verdict> <reason or -> <url>'")
-        word, reason, url = fields
+        fields = line.split()
+        if len(fields) < 3:
+            raise ReviewError(f"line {number}: expected '<url> | <note> | <verdict> <reason or ->'")
+        url, word, reason = fields[0], fields[-2], fields[-1]
+        note = " ".join(fields[1:-2]).strip("| ")
         verdict = next((v for v in VERDICTS if v == word), None)
         if verdict is None:
             raise ReviewError(f"line {number}: unknown verdict {word!r}")
@@ -236,8 +239,8 @@ def review_file(
 
 
 def _line(decision: Decision, url: str) -> str:
-    note = f" # {decision.note}" if decision.note else ""
-    return f"{decision.verdict} {decision.reason or '-'} {url}{note}"
+    note = f" | {decision.note}" if decision.note else ""
+    return f"{url}{note} | {decision.verdict} {decision.reason or '-'}"
 
 
 def _run(argv: Sequence[str], text: str) -> str:
