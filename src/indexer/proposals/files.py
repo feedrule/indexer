@@ -12,6 +12,7 @@ reviewer needs:
     ---
     url: https://missfrugalmommy.com/feed/
     accept: false
+    learn: true
     title: Miss Frugal Mommy
     site: https://missfrugalmommy.com/
     language: en
@@ -48,7 +49,8 @@ are none) and `sponsored: true` marks a post with affiliate or sponsored links
 characters, for reading on a phone.
 
 A reviewer sets `accept: true` on each feed they want (optionally `reason: <reason>` on a
-rejected one, see training.py REJECT_REASONS) and merges; the daily input job (which checks out
+rejected one, see training.py REJECT_REASONS; `learn: false` on a feed the proposal model
+should not learn from, whatever the decision) and merges; the daily input job (which checks out
 the proposals branch too) then loads the accepted URLs (the `proposals` source, format
 `proposals`). Proposals left at `accept: false` still count as known, so a feed left out is not
 proposed again. Reviewed files are also the proposal model's training data.
@@ -124,13 +126,14 @@ def render_entries(proposals: Iterable[Proposal], crawl: str, today: date) -> st
         f"# Proposed {today.isoformat()} from {crawl}.\n"
         "# Set accept: true on each feed to keep. A rejected feed may say why, with\n"
         f"# reason: one of {', '.join(REJECT_REASONS)}.\n"
+        "# Set learn: false on a feed the proposal filter should not learn from.\n"
     )
     return header + "".join("---\n" + _dump(_entry(s)) for s in proposals)
 
 
 def _entry(s: Proposal) -> dict[str, Any]:
     """One feed's document, keys in reading order; untrusted text flattened to one line."""
-    entry: dict[str, Any] = {"url": s.url, "accept": False}
+    entry: dict[str, Any] = {"url": s.url, "accept": False, "learn": True}
     if s.score is not None:
         entry["score"] = round(s.score, 3)
     entry["title"] = _one_line(s.title, _MAX_TITLE) or None

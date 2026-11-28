@@ -17,6 +17,7 @@ from indexer.proposals.training import (
     cached_model,
     model_path,
     parse_proposals,
+    read_examples,
     reviewed_text,
     tokens,
     train_model,
@@ -75,10 +76,18 @@ def test_a_rejection_reason_is_read_and_not_part_of_the_text() -> None:
         (f"url: {BAD.url}\naccept: false\n", f"url: {BAD.url}\naccept: false\nreason: boring\n"),
         (f"url: {GOOD.url}\naccept: true\n", f"url: {GOOD.url}\naccept: true\nreason: seo\n"),
         (f"url: {BAD.url}\naccept: false\n", f"url: {BAD.url}\naccept: maybe\n"),
+        ("learn: true\n", "learn: maybe\n"),
         (f"url: {BAD.url}\n", "url: [unclosed\n"),
         (f"url: {BAD.url}\n", ""),
     ],
-    ids=["unknown reason", "reason on accepted", "accept not a boolean", "malformed", "no url"],
+    ids=[
+        "unknown reason",
+        "reason on accepted",
+        "accept not a boolean",
+        "learn not a boolean",
+        "malformed",
+        "no url",
+    ],
 )
 def test_a_malformed_review_fails(old: str, new: str) -> None:
     text = reviewed(GOOD, BAD)
@@ -158,6 +167,22 @@ def test_the_cut_drops_rejects_and_keeps_accepted_feeds(tmp_path: Path) -> None:
     scores = model.scores([p.text for p in examples])
     dropped = [p for p, s in zip(examples, scores, strict=True) if s < model.threshold]
     assert dropped and not any(p.accepted for p in dropped)
+
+
+def test_learn_false_keeps_a_feed_out_of_the_training(tmp_path: Path) -> None:
+    text = reviewed(GOOD, BAD)
+    good, bad = parse_proposals(text)
+    assert good.learn and bad.learn  # written as learn: true
+    assert parse_proposals(text.replace("learn: true\n", ""))[0].learn  # older files: no key
+    skipped = text.replace(
+        f"url: {BAD.url}\naccept: false\nlearn: true\n",
+        f"url: {BAD.url}\naccept: false\nlearn: false\n",
+    )
+    (tmp_path / "a.yaml").write_text(skipped)
+    (tmp_path / "training.toml").write_text('files = ["a.yaml"]\n')
+    assert [p.url for p in read_examples(tmp_path / "training.toml")] == [GOOD.url]
+    with pytest.raises(TrainingError, match="both"):  # the only reject was skipped
+        train_model(tmp_path / "training.toml")
 
 
 def test_both_labels_are_needed(tmp_path: Path) -> None:

@@ -58,9 +58,11 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
         "# Proposed 2026-11-18 from CC-MAIN-2021-49.\n"
         "# Set accept: true on each feed to keep. A rejected feed may say why, with\n"
         f"# reason: one of {', '.join(REJECT_REASONS)}.\n"
+        "# Set learn: false on a feed the proposal filter should not learn from.\n"
         "---\n"
         "url: https://missfrugalmommy.com/feed/\n"
         "accept: false\n"
+        "learn: true\n"
         "title: Miss Frugal Mommy\n"
         "language: en\n"
         "last_post: 2026-11-12\n"
@@ -108,7 +110,7 @@ def test_entries_show_the_website_and_each_posts_date() -> None:
     )
     (feed,) = proposal_documents(render_entries([site], "C", date(2026, 1, 1)).encode())
     assert feed["site"] == "https://a.example/"
-    assert list(feed)[:5] == ["url", "accept", "title", "site", "language"]
+    assert list(feed)[:5] == ["url", "accept", "learn", "title", "site"]
     assert feed["recent_posts"] == [
         {"link": "https://a.example/1", "date": date(2026, 11, 20), "title": "One"},
         {"link": "https://a.example/2", "title": "Two"},

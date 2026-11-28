@@ -56,7 +56,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   squash-merges it into `proposals` by hand and deletes it. Skips URLs already in that branch's files (accepted or not) or in inputs.
   Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the summary.
   The file is YAML (asked 2026-11-22, replacing comment blocks in .txt files, converted once): a comment header, then one
-  document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, site (the feed's website, http(s) only; asked 2026-11-27), language, last_post, future_dated (true/false, always written: some item dated more than a day ahead; asked 2026-11-28; `FeedInfo.future_dated`, never stored),
+  document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, `learn: true` by default (asked 2026-11-28: `learn: false` keeps the feed out of the proposal filter's training; no key counts as true), title, site (the feed's website, http(s) only; asked 2026-11-27), language, last_post, future_dated (true/false, always written: some item dated more than a day ahead; asked 2026-11-28; `FeedInfo.future_dated`, never stored),
   about, posts_read and categories (the authors' top 8 with counts, `run._top_categories` from `FeedInfo.item_tags`, never
   stored), authors (who wrote the posts read: names only, never an email address; top 5 with counts, `run._top_authors` from `FeedInfo.item_authors`, never stored; asked 2026-11-28; not in the proposal model's text), found_in (the WAT file), recent_posts (3: link, date (the item's newest date, a UTC day; asked 2026-11-27, also stored in `recent_posts`), title, links (the other sites the post links to, registrable domains with counts, top 5) and `sponsored: true` (strict evidence only: rel=sponsored, affiliate network domains, Amazon `tag=`, a disclosure; `check/post_links.py`; asked 2026-11-28, per post only, no feed totals; never stored), description as a list of lines ≤ 60 characters for phones (the longest of the item's description fields, so full content beats an excerpt; asked 2026-11-28, stored that way too; language and topics still read the first);
   `FeedInfo.recent_posts`, never stored or fetched); lists and mappings in block style, one item per line. Written with
@@ -244,7 +244,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   logistic regression over accepted / rejected on the reviewed proposal files in `data/proposals/training.toml` (proposals branch)
   (today PR #18's and #19's, the only ones made with the current rules and format); label = `accept: true` or false (binary
   agreed 2026-11-22: same AUC as one class per reason, no reason labelling needed; a `reason: <reason>` field is an
-  optional, unused note), text = what the reviewer saw (title, about, categories, posts' titles and descriptions). Trained by `indexer proposals` (up to a minute,
+  optional, unused note; feeds with `learn: false` are skipped, `training.read_examples`), text = what the reviewer saw (title, about, categories, posts' titles and descriptions). Trained by `indexer proposals` (up to a minute,
   deterministic) and kept in git-ignored `data/models/proposals-<hash of training.toml, the listed files and proposals/training.py>.npz`:
   reused while present, retrained when the hash changes; never committed (agreed 2026-11-22: no model binaries in git
   history). `indexer train` prints its size and cut-off.

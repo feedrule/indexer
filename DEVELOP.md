@@ -219,7 +219,8 @@ request is opened**: GitHub keeps a pull request's commits for good (`refs/pull/
 after its branch is deleted, so the repository could never shrink. The run also writes the proposed feeds as OPML
 next to the `.yaml` file (same name, `.opml`; not read as a source), and the summary links to
 it: download it and import it into a feed reader to try them while reviewing. Set **`accept: true`** on each feed you want (optionally
-`reason: <reason>` on a rejected one, see below) and commit on the branch, then squash-merge it
+`reason: <reason>` on a rejected one, and `learn: false` on one the filter shouldn't learn from,
+see below) and commit on the branch, then squash-merge it
 into `proposals` by hand and delete it (or only delete it to drop the whole batch):
 
 ```sh
@@ -553,7 +554,9 @@ little (cosine ~0.99 to their old vector); the same `topics.txt` always gives th
 English item gets no topics.
 
 **Proposal filter.** `data/proposals/training.toml` (on the `proposals` branch) lists reviewed proposal files (paths relative to it).
-Every feed in them is a labelled example: `accept: true` or `accept: false`. A
+Every feed in them is a labelled example: `accept: true` or `accept: false`, except a feed
+with `learn: false`, which is left out of the training whatever its label (proposal files write
+`learn: true`; an older feed without the key counts as true). A
 `reason: <reason>` on a rejected feed (one of
 `training.REJECT_REASONS`: commercial, seo, press, republished, machine, forum, notices, unsafe,
 other) is an optional note for people: it is checked but the model doesn't use it. Its text is what the reviewer saw (title,

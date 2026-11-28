@@ -5,8 +5,11 @@ proposals` drops the new proposals it scores lowest (about the bottom CUT of the
 
 A proposal file (proposals/files.py) holds one YAML document per feed: what the reviewer
 saw, and `accept: true` if they accepted it; a rejected feed may say why: `reason: <reason>`
-(one of REJECT_REASONS; a note for people, checked but not used by the model). Each feed
-becomes a `Reviewed`: the URL, the label, the reason and the text the reviewer read (title,
+(one of REJECT_REASONS; a note for people, checked but not used by the model). `learn: false`
+keeps a feed out of the training (a review that shouldn't teach the model, whatever its label);
+`learn: true`, written by default, or no `learn` at all (older files) keeps it in. Each feed
+becomes a `Reviewed`: the URL, the label, the reason, whether to learn from it and the text the
+reviewer read (title,
 about, categories, the recent posts' titles and descriptions; not the bookkeeping: language,
 dates, the WAT file, post links, a score), all in memory.
 
@@ -80,6 +83,7 @@ class Reviewed:
     accepted: bool
     text: str  # what the reviewer saw, as one line of plain text
     reason: str | None = None  # why it was rejected (REJECT_REASONS), if the reviewer said
+    learn: bool = True  # False: not a training example (`learn: false`)
 
 
 def training_files(config: Path = TRAINING_CONFIG) -> list[Path]:
@@ -93,9 +97,9 @@ def training_files(config: Path = TRAINING_CONFIG) -> list[Path]:
 
 def parse_proposals(text: str) -> list[Reviewed]:
     """Every feed in a proposal file's text, in order: its URL, whether it was accepted, the
-    text the reviewer saw and the reason it was rejected, if given. TrainingError on a malformed
-    file, an `accept` that isn't true or false, an unknown reason or a reason on an accepted
-    feed."""
+    text the reviewer saw, the reason it was rejected, if given, and whether to learn from it
+    (`learn`, true when absent). TrainingError on a malformed file, an `accept` or `learn` that
+    isn't true or false, an unknown reason or a reason on an accepted feed."""
     try:
         feeds = proposal_documents(text.encode("utf-8"))
     except SourceError as exc:
@@ -105,12 +109,15 @@ def parse_proposals(text: str) -> list[Reviewed]:
         url, accepted, reason = feed["url"], feed.get("accept"), feed.get("reason")
         if not isinstance(accepted, bool):
             raise TrainingError(f"{url}: accept must be true or false")
+        learn = feed.get("learn", True)
+        if not isinstance(learn, bool):
+            raise TrainingError(f"{url}: learn must be true or false")
         if reason is not None:
             if accepted:
                 raise TrainingError(f"{url}: accepted, but has a rejection reason")
             if reason not in REJECT_REASONS:
                 raise TrainingError(f"{url}: unknown rejection reason {reason!r}")
-        proposals.append(Reviewed(url, accepted, reviewed_text(feed), reason))
+        proposals.append(Reviewed(url, accepted, reviewed_text(feed), reason, learn))
     return proposals
 
 
@@ -127,8 +134,14 @@ def reviewed_text(feed: dict[str, Any]) -> str:
 
 
 def read_examples(config: Path = TRAINING_CONFIG) -> list[Reviewed]:
-    """Every proposal in the training files, in the files' order."""
-    return [p for path in training_files(config) for p in parse_proposals(path.read_text("utf-8"))]
+    """Every proposal in the training files to learn from (not `learn: false`), in the files'
+    order."""
+    return [
+        p
+        for path in training_files(config)
+        for p in parse_proposals(path.read_text("utf-8"))
+        if p.learn
+    ]
 
 
 def tokens(text: str) -> list[str]:
