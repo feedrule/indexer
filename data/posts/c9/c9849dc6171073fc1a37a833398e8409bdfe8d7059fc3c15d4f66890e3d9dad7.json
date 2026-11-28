@@ -4,17 +4,20 @@
     {
       "link": "https://sosuke.com/four-days-training-a-guardrail-chasing-jev-and-jev-like/",
       "title": "Four Days Training a Guardrail chasing Jev and Jev-like",
-      "description": "Jev is so hot right now. With good reason honestly if it all works out. The idea behind them is that instead of a model focused on chat it is focused on giving short responses from a finite dataset. One of the obvious places we can use this in our day to day work is… Read More »"
+      "description": "Jev is so hot right now. With good reason honestly if it all works out. The idea behind them is that instead of a model focused on chat it is focused on giving short responses from a finite dataset. One of the obvious places we can use this in our day to day work is… Read More »",
+      "date": null
     },
     {
       "link": "https://sosuke.com/local-coding-agents-on-a-16-gb-gpu-what-worked-and-what-broke/",
       "title": "Local Coding Agents on a 16 GB GPU: What Worked and What Broke",
-      "description": "I wanted a local coding assistant that could read enough of a repository to make a change, use its tools, and get the code right. Speed came after that. The results gave me plenty of reasons to keep that order. In my earlier LM Studio experiment, I got a local model to create a file,… Read More »"
+      "description": "I wanted a local coding assistant that could read enough of a repository to make a change, use its tools, and get the code right. Speed came after that. The results gave me plenty of reasons to keep that order. In my earlier LM Studio experiment, I got a local model to create a file,… Read More »",
+      "date": null
     },
     {
       "link": "https://sosuke.com/running-codex-with-lm-studio-taking-it-offline-by-stopping-the-callouts/",
       "title": "Running Codex with LM Studio: Taking It Offline by Stopping the Callouts",
-      "description": "In September 2026 I got an email saying Codex could use Ollama. A few months earlier I had already managed to run a local model inside Cursor, OpenCode, and Crush, then wrote up the arrangement in Running Local LLMs Inside Cursor, OpenCode, and Crush. I had a working LM Studio server on my network. I… Read More »"
+      "description": "In September 2026 I got an email saying Codex could use Ollama. A few months earlier I had already managed to run a local model inside Cursor, OpenCode, and Crush, then wrote up the arrangement in Running Local LLMs Inside Cursor, OpenCode, and Crush. I had a working LM Studio server on my network. I… Read More »",
+      "date": null
     }
   ]
 }

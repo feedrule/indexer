@@ -4,17 +4,20 @@
     {
       "link": "https://blog.roboticoverlords.org/2026-10-27-vercmp-three-ways.md",
       "title": "Porting vercmp to C, Go and Python",
-      "description": "pacman orders versions with a small function from libalpm that walks two strings side by side. It skips separators, cuts out the next run …"
+      "description": "pacman orders versions with a small function from libalpm that walks two strings side by side. It skips separators, cuts out the next run …",
+      "date": "2026-10-27"
     },
     {
       "link": "https://blog.roboticoverlords.org/2026-10-26-split-pkgs.md",
       "title": "Split packages replace, not merge",
-      "description": "Inside package_foo() of a split PKGBUILD, declaring an array replaces the global one wholesale — there is no per-item merge. A global …"
+      "description": "Inside package_foo() of a split PKGBUILD, declaring an array replaces the global one wholesale — there is no per-item merge. A global …",
+      "date": "2026-10-26"
     },
     {
       "link": "https://blog.roboticoverlords.org/2026-10-24-vercmp.md",
       "title": "vercmp contradicts your version intuition",
-      "description": "pacman does not compare versions left-to-right like humans do. It splits each dotted field into alternating numeric and alphabetic runs; num…"
+      "description": "pacman does not compare versions left-to-right like humans do. It splits each dotted field into alternating numeric and alphabetic runs; num…",
+      "date": "2026-10-24"
     }
   ]
 }

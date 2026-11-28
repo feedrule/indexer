@@ -4,17 +4,20 @@
     {
       "link": "https://paddy3118.blogspot.com/2026/10/finding-flaws-in-technical-documentation.html",
       "title": "Finding Flaws in Technical Documentation",
-      "description": "An idea I spent some time on a project and had finished updating the tutorials and reference documentation I'd created as Markdown .md files. Then I suddenly thought: Why not use the AI to test the documentation? So I asked ChatGPT if it could create an isolated new chat that read just the project's .md documentation files and then tried to use the tool. Putting it to the test My current chat sess"
+      "description": "An idea I spent some time on a project and had finished updating the tutorials and reference documentation I'd created as Markdown .md files. Then I suddenly thought: Why not use the AI to test the documentation? So I asked ChatGPT if it could create an isolated new chat that read just the project's .md documentation files and then tried to use the tool. Putting it to the test My current chat sess",
+      "date": null
     },
     {
       "link": "https://paddy3118.blogspot.com/2026/06/sparse-ranges.html",
       "title": "Sparse Ranges",
-      "description": "Implementing sparse_range : From a Python Discuss Idea to a Sieve Stress Test I found an interesting thread over on the Python Discuss forum titled \" Possibility to exclude ranges from range \" . The initial discussion revolved around a common (?), developer need of : how to cleanly skip specific blocks of ints in a range of ints without writing clunky, nested if/continue logic, and without doing s"
+      "description": "Implementing sparse_range : From a Python Discuss Idea to a Sieve Stress Test I found an interesting thread over on the Python Discuss forum titled \" Possibility to exclude ranges from range \" . The initial discussion revolved around a common (?), developer need of : how to cleanly skip specific blocks of ints in a range of ints without writing clunky, nested if/continue logic, and without doing s",
+      "date": null
     },
     {
       "link": "https://paddy3118.blogspot.com/2025/09/from-all-truths-to-irrelevancies.html",
       "title": "From all truths to (ir)relevancies",
-      "description": "Following up on my previous post about truth tables, I now ask a subtler question: which inputs actually matter? Some variables, though present, leave no trace on the output. In this post, I uncover those quiet bits — the irrelevant inputs — and learn how to spot them with precision. Building on the previous The previous post showed that for a given number of inputs, there is a finite, but rapidly"
+      "description": "Following up on my previous post about truth tables, I now ask a subtler question: which inputs actually matter? Some variables, though present, leave no trace on the output. In this post, I uncover those quiet bits — the irrelevant inputs — and learn how to spot them with precision. Building on the previous The previous post showed that for a given number of inputs, there is a finite, but rapidly",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "http://sebmestre.blogspot.com/2026/01/en-intepreter-optimization-shapes-and.html",
       "title": "[EN] Intepreter Optimization: Shapes and Inline Caches",
-      "description": "Typical implementations of Javascript and other high-level languages don't store objects as hash tables. (although that is the mental model they expose to users) Instead, objects are stored as flat buffers, with a side field-to-offset table (usually called the \"shape\" or \"dynamic type\") that's shared by all the objects with the same shape. To avoid looking up the side table they also keep some spa"
+      "description": "Typical implementations of Javascript and other high-level languages don't store objects as hash tables. (although that is the mental model they expose to users) Instead, objects are stored as flat buffers, with a side field-to-offset table (usually called the \"shape\" or \"dynamic type\") that's shared by all the objects with the same shape. To avoid looking up the side table they also keep some spa",
+      "date": null
     },
     {
       "link": "http://sebmestre.blogspot.com/2025/12/least-squares-is-just-maximum.html",
       "title": "What Least Squares Assumes About Your Data",
-      "description": "In my linear algebra course in college I learned about least squares regression, where it wasn't very motivated outside of \"we square the error because it makes error non-negative, really penalizes outliers, and it's easy to compute\". Recently, I learned about maximum likelihood estimation, where we pick parameters for a model based on whatever maximizes the likelihood of the observed data. For ex"
+      "description": "In my linear algebra course in college I learned about least squares regression, where it wasn't very motivated outside of \"we square the error because it makes error non-negative, really penalizes outliers, and it's easy to compute\". Recently, I learned about maximum likelihood estimation, where we pick parameters for a model based on whatever maximizes the likelihood of the observed data. For ex",
+      "date": null
     },
     {
       "link": "http://sebmestre.blogspot.com/2025/06/en-approximating-pi-by-binomial.html",
       "title": "[EN] Approximating pi by Binomial Averaging",
-      "description": "Consider this generator, which implements the Taylor series for arctan(1): function* piTaylor() { let res = 0; let sign = 1; for (let i = 1; true; i += 2) { res += sign / i; sign = -sign; yield 4 * res; } } This function generates successive approximations of pi using the formula: π/4 = 1 - 1/3 + 1/5 - 1/7 + 1/9 - ... Each term alternates between positive and negative, and we multiply the result b"
+      "description": "Consider this generator, which implements the Taylor series for arctan(1): function* piTaylor() { let res = 0; let sign = 1; for (let i = 1; true; i += 2) { res += sign / i; sign = -sign; yield 4 * res; } } This function generates successive approximations of pi using the formula: π/4 = 1 - 1/3 + 1/5 - 1/7 + 1/9 - ... Each term alternates between positive and negative, and we multiply the result b",
+      "date": null
     }
   ]
 }

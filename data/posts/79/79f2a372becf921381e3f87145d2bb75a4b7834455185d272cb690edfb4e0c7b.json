@@ -4,17 +4,20 @@
     {
       "link": "https://stdfox.me/posts/measuring-memory-bandwidth-on-a-macbook-pro-m5/",
       "title": "Measuring Memory Bandwidth on a MacBook Pro M5",
-      "description": "Measuring real memory bandwidth on the base MacBook Pro M5 with STREAM on the CPU and metalstream on the GPU, and checking the numbers against llama.cpp decode speeds."
+      "description": "Measuring real memory bandwidth on the base MacBook Pro M5 with STREAM on the CPU and metalstream on the GPU, and checking the numbers against llama.cpp decode speeds.",
+      "date": null
     },
     {
       "link": "https://stdfox.me/posts/the-ai-instruction-files-that-hijack-coding-agents/",
       "title": "The AI Instruction Files That Hijack Coding Agents",
-      "description": "How malicious AI instruction files access credentials, propagate through agent outputs, and compromise CI/CD pipelines without executing a single shell command."
+      "description": "How malicious AI instruction files access credentials, propagate through agent outputs, and compromise CI/CD pipelines without executing a single shell command.",
+      "date": null
     },
     {
       "link": "https://stdfox.me/posts/algorithmic-anxiety-and-ai-safety-filters/",
       "title": "Algorithmic Anxiety and AI Safety Filters",
-      "description": "AI safety filters refuse work they read as harmful, even your own. Experts learn to soften and abstract their content to get it through, trading precision for permission. That habit is algorithmic anxiety, and its cost compounds: the filtered text becomes the data the next models train on."
+      "description": "AI safety filters refuse work they read as harmful, even your own. Experts learn to soften and abstract their content to get it through, trading precision for permission. That habit is algorithmic anxiety, and its cost compounds: the filtered text becomes the data the next models train on.",
+      "date": null
     }
   ]
 }

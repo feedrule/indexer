@@ -4,17 +4,20 @@
     {
       "link": "https://andraskindler.com/blog/ai-glossary-terms-definitions/",
       "title": "AI Glossary",
-      "description": "Commonly used AI terms, phrases, and abbreviations, and their definitions."
+      "description": "Commonly used AI terms, phrases, and abbreviations, and their definitions.",
+      "date": null
     },
     {
       "link": "https://andraskindler.com/blog/posthog-ios-sdk-filter-event-properties/",
       "title": "Set up PostHog on iOS to track exactly what you want",
-      "description": "The PostHog iOS SDK collects a lot of properties for each event tracked. I use this piece of code to take control over what property is sent exactly."
+      "description": "The PostHog iOS SDK collects a lot of properties for each event tracked. I use this piece of code to take control over what property is sent exactly.",
+      "date": null
     },
     {
       "link": "https://andraskindler.com/blog/screenshotmark-ios/",
       "title": "ScreenshotMark is available in the App Store",
-      "description": "I'm releasing a new iOS app that turns ordinary screenshots into beautiful visuals."
+      "description": "I'm releasing a new iOS app that turns ordinary screenshots into beautiful visuals.",
+      "date": null
     }
   ]
 }

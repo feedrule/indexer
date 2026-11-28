@@ -4,17 +4,20 @@
     {
       "link": "https://designinto3d.com/2026/11/07/rabbeted-box-designer-app-proof-of-concept/",
       "title": "Rabbeted Box Designer App — proof of concept",
-      "description": "Recently, flet.dev (a Python GUI toolkit which more-or-less makes the Dart UI Flutter available to Python) reached the 1.0 milestone. Using it, I was able to make an app/web page which affords a simple set of parameters: Box width Box depth Box height Stock thickness Lid type (sliding or none) Cutout tool diameter This is […]"
+      "description": "Recently, flet.dev (a Python GUI toolkit which more-or-less makes the Dart UI Flutter available to Python) reached the 1.0 milestone. Using it, I was able to make an app/web page which affords a simple set of parameters: Box width Box depth Box height Stock thickness Lid type (sliding or none) Cutout tool diameter This is […]",
+      "date": null
     },
     {
       "link": "https://designinto3d.com/2026/02/18/carbide-create-839-adds-support-for-layers-from-dxfs/",
       "title": "Carbide Create 839 adds support for layers from DXFs",
-      "description": "Just announced: https://community.carbide3d.com/t/carbide-create-beta-839/101187 it affords support for mapping layers in a DXF to layers of the same name in a Carbide Create file:"
+      "description": "Just announced: https://community.carbide3d.com/t/carbide-create-beta-839/101187 it affords support for mapping layers in a DXF to layers of the same name in a Carbide Create file:",
+      "date": null
     },
     {
       "link": "https://designinto3d.com/2025/08/12/linear-and-rotate-extrude/",
       "title": "Linear and Rotate Extrude",
-      "description": "The current implementation has a 90 degree arc being stepped through 1 degree at a time — adding 2D outlines of tools will simplify this down to a single operation when using Rotate Extrude. Similarly, complex outlines such as for roundover tools are greatly simplified by using 2D outlines and Linear Extrude. Currently, 2D outlines […]"
+      "description": "The current implementation has a 90 degree arc being stepped through 1 degree at a time — adding 2D outlines of tools will simplify this down to a single operation when using Rotate Extrude. Similarly, complex outlines such as for roundover tools are greatly simplified by using 2D outlines and Linear Extrude. Currently, 2D outlines […]",
+      "date": null
     }
   ]
 }

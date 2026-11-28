@@ -4,17 +4,20 @@
     {
       "link": "https://yortuc.github.io/posts/teaching-a-14b-model-to-talk-like-otisabi/",
       "title": "Teaching a 14B Model to Talk Like otisabi: An SFT Style Transfer Experiment",
-      "description": "I wanted to fine-tune a small LLM to write like a specific person. Not a generic “write in a funny tone” — I wanted it to mimic a real writer’s voice. I picked otisabi , a veteran writer on ekşi sözlük with nearly 14,000 entries and a distinctive style. For those unfamiliar: ekşi sözlük is Turkey’s iconic collaborative dictionary, founded in 1999 — years before Urban Dictionary or Reddit existed."
+      "description": "I wanted to fine-tune a small LLM to write like a specific person. Not a generic “write in a funny tone” — I wanted it to mimic a real writer’s voice. I picked otisabi , a veteran writer on ekşi sözlük with nearly 14,000 entries and a distinctive style. For those unfamiliar: ekşi sözlük is Turkey’s iconic collaborative dictionary, founded in 1999 — years before Urban Dictionary or Reddit existed.",
+      "date": null
     },
     {
       "link": "https://yortuc.github.io/posts/securing-shell-execution-agents/",
       "title": "Securing Shell Execution Agents: From Validation to Custom DSLs",
-      "description": "Agents with shell execution capabilities are everywhere now—from general-purpose CLI assistants that help with development tasks, to IT support bots that diagnose system issues, to DevOps agents that automate deployments, to security compliance agents that enforce policies across fleets. These agents execute PowerShell on Windows, bash on Linux, or zsh on macOS to accomplish their tasks. But this"
+      "description": "Agents with shell execution capabilities are everywhere now—from general-purpose CLI assistants that help with development tasks, to IT support bots that diagnose system issues, to DevOps agents that automate deployments, to security compliance agents that enforce policies across fleets. These agents execute PowerShell on Windows, bash on Linux, or zsh on macOS to accomplish their tasks. But this",
+      "date": null
     },
     {
       "link": "https://yortuc.github.io/posts/simulation-for-agentic-evaluation/",
       "title": "Simulation for Agentic Evaluation",
-      "description": "Evaluating AI agents presents fundamentally different challenges compared to traditional software testing. Traditional software follows deterministic paths—given the same input, you get the same output. You can write unit tests, integration tests, and measure code coverage with confidence. But agents are non-deterministic by nature. They make decisions based on LLM outputs that vary between runs,"
+      "description": "Evaluating AI agents presents fundamentally different challenges compared to traditional software testing. Traditional software follows deterministic paths—given the same input, you get the same output. You can write unit tests, integration tests, and measure code coverage with confidence. But agents are non-deterministic by nature. They make decisions based on LLM outputs that vary between runs,",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://staal-it.nl/posts/azure-defender-for-cloud-settings/",
       "title": "Enforcing Microsoft Defender for Cloud Across 30+ Subscriptions With Bicep",
-      "description": "Security posture management is one of those things that starts manually and stays manual for too long. Someone enables Defender for Cloud on a subscription in the portal, picks a few plans, saves. Six months later a new subscription appears, nobody remembers exactly which plans were enabled on the others, and the configuration drifts. An audit comes along and suddenly you’re comparing screenshots."
+      "description": "Security posture management is one of those things that starts manually and stays manual for too long. Someone enables Defender for Cloud on a subscription in the portal, picks a few plans, saves. Six months later a new subscription appears, nobody remembers exactly which plans were enabled on the others, and the configuration drifts. An audit comes along and suddenly you’re comparing screenshots.",
+      "date": null
     },
     {
       "link": "https://staal-it.nl/posts/digital-sovereignty/",
       "title": "Digital Sovereignty in the Microsoft Azure Cloud: Why It Matters More Than Ever",
-      "description": "With President Trump back in the White House, the topic of digital sovereignty has returned to the center of political and business discussions in Europe. Recent events have shown how dependent we are on non-European hyperscalers like Microsoft and how quickly foreign political decisions can impact European organizations. But what exactly is digital sovereignty, why is it such a hot topic now, and"
+      "description": "With President Trump back in the White House, the topic of digital sovereignty has returned to the center of political and business discussions in Europe. Recent events have shown how dependent we are on non-European hyperscalers like Microsoft and how quickly foreign political decisions can impact European organizations. But what exactly is digital sovereignty, why is it such a hot topic now, and",
+      "date": null
     },
     {
       "link": "https://staal-it.nl/posts/azure-gallery-vm-app/",
       "title": "Installing COTS applications using Azure Gallery VM",
-      "description": "When having the need to install COTS applications (Custom Off-The-Shelf) on virtual machines in Azure, you have multiple options to manage that. One of the options is to use the Azure Gallery VM Applications. As the name implies, its part of Azure Compute Gallery, formally known as Azure Shared Image Gallery. Azure Gallery VM Applications is a feature that simplifies the process of managing and de"
+      "description": "When having the need to install COTS applications (Custom Off-The-Shelf) on virtual machines in Azure, you have multiple options to manage that. One of the options is to use the Azure Gallery VM Applications. As the name implies, its part of Azure Compute Gallery, formally known as Azure Shared Image Gallery. Azure Gallery VM Applications is a feature that simplifies the process of managing and de",
+      "date": null
     }
   ]
 }

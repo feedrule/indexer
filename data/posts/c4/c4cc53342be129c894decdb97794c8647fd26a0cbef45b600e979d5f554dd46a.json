@@ -4,17 +4,20 @@
     {
       "link": "https://www.itworkslocally.dev/posts/yjs-internals-origins-yata-state-vectors",
       "title": "Yjs Internals: Origins, YATA and State Vectors",
-      "description": "How Yjs orders concurrent edits without trusting a single clock: item origins, the YATA tie-break, state vectors, the sync handshake and the rules you have to respect in production."
+      "description": "How Yjs orders concurrent edits without trusting a single clock: item origins, the YATA tie-break, state vectors, the sync handshake and the rules you have to respect in production.",
+      "date": null
     },
     {
       "link": "https://www.itworkslocally.dev/posts/no-effect-before-its-cause",
       "title": "No Effect Before Its Cause: From Einstein to Lamport",
-      "description": "Einstein's moving train, Leslie Lamport's clocks and a 2,500-year-old idea explain the core problem of leaderless replication: ordering writes when no clock can be trusted."
+      "description": "Einstein's moving train, Leslie Lamport's clocks and a 2,500-year-old idea explain the core problem of leaderless replication: ordering writes when no clock can be trusted.",
+      "date": null
     },
     {
       "link": "https://www.itworkslocally.dev/posts/timshel",
       "title": "Timshel: The One Word That Explains Your Entire Life",
-      "description": "On John Steinbeck's East of Eden and the meaning of 'Timshel': the idea that what makes us human is the power to choose."
+      "description": "On John Steinbeck's East of Eden and the meaning of 'Timshel': the idea that what makes us human is the power to choose.",
+      "date": null
     }
   ]
 }

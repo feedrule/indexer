@@ -4,17 +4,20 @@
     {
       "link": "https://lynn.github.io/blog/pico-timers/",
       "title": "Setting timers in simple games (feat. the frame rule)",
-      "description": "Lately I’ve been reading the disassembled source code to Super Mario Bros. , and I learned that, in its code, events are scheduled for the future in much the same way I do it when making a quick game-jam game in Lua, such as o moku e mun . It’s so simple it’s barely a system! But I like how understandable-yet-flexible it is. I’ll describe it in Lua, for use in a PICO-8 or Picotron game. It’s two l"
+      "description": "Lately I’ve been reading the disassembled source code to Super Mario Bros. , and I learned that, in its code, events are scheduled for the future in much the same way I do it when making a quick game-jam game in Lua, such as o moku e mun . It’s so simple it’s barely a system! But I like how understandable-yet-flexible it is. I’ll describe it in Lua, for use in a PICO-8 or Picotron game. It’s two l",
+      "date": null
     },
     {
       "link": "https://lynn.github.io/blog/discord-server-folders/",
       "title": "TOMLing my Discord servers",
-      "description": "I am in far too many Discord servers. I wanted to organize the folders they’re grouped in. This is really annoying to do in Discord itself, because it only lets you drag and drop them around one at a time in the left sidebar. So I did a little bit of messing around in Firefox’s Developer Tools to extract and reinsert my folder data. I’m not sure if I saved time doing all this. It would have been f"
+      "description": "I am in far too many Discord servers. I wanted to organize the folders they’re grouped in. This is really annoying to do in Discord itself, because it only lets you drag and drop them around one at a time in the left sidebar. So I did a little bit of messing around in Firefox’s Developer Tools to extract and reinsert my folder data. I’m not sure if I saved time doing all this. It would have been f",
+      "date": null
     },
     {
       "link": "https://lynn.github.io/blog/lahc/",
       "title": "Late acceptance hill-climbing, a snake with a camera",
-      "description": "It’s a Saturday morning, and suddenly I wonder: what’s the most compressible list of eight distinct 8-letter English words? Let’s write some Python code. import random , re , zlib words = open ( \"/usr/share/dict/words\" ). read (). split () words = [ w for w in words if re . match ( \"^[a-z]{8}$\" , w )] N = 8 def compress ( w ): return zlib . compress ( \" \" . join ( w ). encode ( \"utf-8\" ), level ="
+      "description": "It’s a Saturday morning, and suddenly I wonder: what’s the most compressible list of eight distinct 8-letter English words? Let’s write some Python code. import random , re , zlib words = open ( \"/usr/share/dict/words\" ). read (). split () words = [ w for w in words if re . match ( \"^[a-z]{8}$\" , w )] N = 8 def compress ( w ): return zlib . compress ( \" \" . join ( w ). encode ( \"utf-8\" ), level =",
+      "date": null
     }
   ]
 }

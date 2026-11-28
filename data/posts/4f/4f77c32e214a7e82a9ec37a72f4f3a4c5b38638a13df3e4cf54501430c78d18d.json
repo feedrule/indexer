@@ -4,17 +4,20 @@
     {
       "link": "https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms/",
       "title": "How to keep learning in the age of LLMs",
-      "description": "Notes on how I keep learning as a programmer in the age of LLMs"
+      "description": "Notes on how I keep learning as a programmer in the age of LLMs",
+      "date": null
     },
     {
       "link": "https://ogzhanolguncu.com/blog/arena-allocator-in-go/",
       "title": "Arena Allocator in Go",
-      "description": "Learn how memory allocation works by building an arena allocator in Go from scratch. Covers memory addresses, alignment, padding math, and unsafe pointer reads."
+      "description": "Learn how memory allocation works by building an arena allocator in Go from scratch. Covers memory addresses, alignment, padding math, and unsafe pointer reads.",
+      "date": null
     },
     {
       "link": "https://ogzhanolguncu.com/blog/implementing-distributed-counter-part-2/",
       "title": "Implementing Distributed Counter: Part 2 - Networking",
-      "description": "Learn how to implement TCP networking for a distributed counter in Go. This part covers TCP transport implementation with proper framing, peer management refactoring, and shows a working distributed counter cluster communicating over an actual network."
+      "description": "Learn how to implement TCP networking for a distributed counter in Go. This part covers TCP transport implementation with proper framing, peer management refactoring, and shows a working distributed counter cluster communicating over an actual network.",
+      "date": null
     }
   ]
 }

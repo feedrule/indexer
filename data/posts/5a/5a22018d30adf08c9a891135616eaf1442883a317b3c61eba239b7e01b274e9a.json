@@ -4,17 +4,20 @@
     {
       "link": "https://tskulbru.dev/posts/beads-local-shadow-for-agent-work/",
       "title": "I Lost Track of What My Agents Were Doing, So I Gave Them a Shared Notebook",
-      "description": "Running parallel Claude Code sessions across a dozen repos, I kept losing the thread of long efforts that branched into many PRs and months of blockers. GitHub was the wrong place for in-flight state, a knowledge base like gbrain answered the wrong question, and a dashboard would only have fixed one of three problems. What I needed was something in between. This is how I landed on Beads, added mar"
+      "description": "Running parallel Claude Code sessions across a dozen repos, I kept losing the thread of long efforts that branched into many PRs and months of blockers. GitHub was the wrong place for in-flight state, a knowledge base like gbrain answered the wrong question, and a dashboard would only have fixed one of three problems. What I needed was something in between. This is how I landed on Beads, added mar",
+      "date": null
     },
     {
       "link": "https://tskulbru.dev/posts/your-ai-strategy-is-a-cost-control-strategy/",
       "title": "Your AI Strategy Is a Cost-Control Strategy",
-      "description": "Token budgets, sandboxes, and who gets the frontier model. The three things leaders ask about most are the three signs a company is running AI as a cost centre. Here is what it looks like when the business runs on it instead."
+      "description": "Token budgets, sandboxes, and who gets the frontier model. The three things leaders ask about most are the three signs a company is running AI as a cost centre. Here is what it looks like when the business runs on it instead.",
+      "date": null
     },
     {
       "link": "https://tskulbru.dev/posts/building-padeliq-on-device-padel-match-analysis/",
       "title": "Building PadelIQ: Padel Match Analysis That Never Uploads Your Video",
-      "description": "How I built PadelIQ, an iOS app that turns phone-against-the-glass padel footage into positioning heatmaps and coaching verdicts — with the whole computer vision pipeline running on-device via Core ML and YOLOv8."
+      "description": "How I built PadelIQ, an iOS app that turns phone-against-the-glass padel footage into positioning heatmaps and coaching verdicts — with the whole computer vision pipeline running on-device via Core ML and YOLOv8.",
+      "date": null
     }
   ]
 }

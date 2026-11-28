@@ -4,17 +4,20 @@
     {
       "link": "https://typesanitizer.com/blog/scion.html",
       "title": "An outsider's perspective on Scion and Mononoke",
-      "description": "Thoughts on Anthropic's in-house version control system Scion, and how it relates to Facebook's VCS server Mononoke."
+      "description": "Thoughts on Anthropic's in-house version control system Scion, and how it relates to Facebook's VCS server Mononoke.",
+      "date": "2026-11-01"
     },
     {
       "link": "https://typesanitizer.com/blog/performance-issues.html",
       "title": "There continue to be reasons for software to be slow",
-      "description": "A discussion on the various reasons why performance is slow, and which ones are unlikely to be affected by LLMs. Originally written as a counter-point to Dan Luu's 'There's no reason for software to be slow anymore'."
+      "description": "A discussion on the various reasons why performance is slow, and which ones are unlikely to be affected by LLMs. Originally written as a counter-point to Dan Luu's 'There's no reason for software to be slow anymore'.",
+      "date": "2026-08-22"
     },
     {
       "link": "https://typesanitizer.com/blog/code-review.html",
       "title": "Reviewing code is a skill",
-      "description": "A discussion on code review with short case studies and links to research on expertise."
+      "description": "A discussion on code review with short case studies and links to research on expertise.",
+      "date": "2026-08-10"
     }
   ]
 }

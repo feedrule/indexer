@@ -4,17 +4,20 @@
     {
       "link": "https://blog.kulman.sk/same-hostnames-at-home-and-over-tailscale/",
       "title": "Using the same hostnames at home and over Tailscale",
-      "description": "In my previous post about my terminal-native setup for coding agents, I described using Heeler to connect from my iPhone to Herdr running on my Mac. Heeler connects over SSH through Tailscale, but that setup left me with one small annoyance: the hostname depended on where I was. At home, with Tailscale disabled, Bonjour made the Mac available as: cookiebook.local Away from home, with Tailscale ena"
+      "description": "In my previous post about my terminal-native setup for coding agents, I described using Heeler to connect from my iPhone to Herdr running on my Mac. Heeler connects over SSH through Tailscale, but that setup left me with one small annoyance: the hostname depended on where I was. At home, with Tailscale disabled, Bonjour made the Mac available as: cookiebook.local Away from home, with Tailscale ena",
+      "date": null
     },
     {
       "link": "https://blog.kulman.sk/terminal-native-setup-for-parallel-coding-agents/",
       "title": "My terminal-native setup for parallel coding agents",
-      "description": "In my previous post about Pi, I wrote about wanting a stable coding harness while the models underneath it keep changing. But one agent in one terminal is not the whole workflow. I increasingly have several agents working at once, sometimes in the same repository. The surprising part is that I manage that with a simpler stack: a terminal, Git worktrees, and a terminal multiplexer built for agents."
+      "description": "In my previous post about Pi, I wrote about wanting a stable coding harness while the models underneath it keep changing. But one agent in one terminal is not the whole workflow. I increasingly have several agents working at once, sometimes in the same repository. The surprising part is that I manage that with a simpler stack: a terminal, Git worktrees, and a terminal multiplexer built for agents.",
+      "date": null
     },
     {
       "link": "https://blog.kulman.sk/pi-is-now-my-ai-harness/",
       "title": "Why Pi is my AI coding harness",
-      "description": "I want to experiment with AI models without rebuilding my coding workflow every time I switch. Pi has become the stable layer around those experiments. By “harness”, I mean the command-line environment, tools, extensions, and instructions around the model. I have been experimenting with AI models and coding tools quite a lot lately. At the moment, I pay $20/month for ChatGPT Plus and $20/month for"
+      "description": "I want to experiment with AI models without rebuilding my coding workflow every time I switch. Pi has become the stable layer around those experiments. By “harness”, I mean the command-line environment, tools, extensions, and instructions around the model. I have been experimenting with AI models and coding tools quite a lot lately. At the moment, I pay $20/month for ChatGPT Plus and $20/month for",
+      "date": null
     }
   ]
 }

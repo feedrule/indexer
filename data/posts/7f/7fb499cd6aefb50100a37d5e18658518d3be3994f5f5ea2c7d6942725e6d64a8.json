@@ -4,17 +4,20 @@
     {
       "link": "https://emmer.dev/blog/preparing-for-incidents-with-tabletop-exercises",
       "title": "Preparing for Incidents With Tabletop Exercises",
-      "description": "People practice fire and tornado drills so they know how to respond to emergencies. You can do the same with software systems your team owns."
+      "description": "People practice fire and tornado drills so they know how to respond to emergencies. You can do the same with software systems your team owns.",
+      "date": null
     },
     {
       "link": "https://emmer.dev/blog/generating-v7-uuids-in-mysql",
       "title": "Generating v7 UUIDs in MySQL",
-      "description": "MySQL's UUID() function generates v1 UUIDs, which are time-based, but not time-ordered. We can define our own function to generate v7 UUIDs, which are more appropriate for primary keys."
+      "description": "MySQL's UUID() function generates v1 UUIDs, which are time-based, but not time-ordered. We can define our own function to generate v7 UUIDs, which are more appropriate for primary keys.",
+      "date": null
     },
     {
       "link": "https://emmer.dev/blog/concurrent-shell-command-queues",
       "title": "Concurrent Shell Command Queues",
-      "description": "How to run shell commands in parallel while limiting their concurrency."
+      "description": "How to run shell commands in parallel while limiting their concurrency.",
+      "date": null
     }
   ]
 }

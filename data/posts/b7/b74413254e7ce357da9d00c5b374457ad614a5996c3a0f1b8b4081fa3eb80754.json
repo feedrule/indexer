@@ -4,17 +4,20 @@
     {
       "link": "https://www.codenicer.com/?p=240",
       "title": "Temporary mounting zpool from different OS",
-      "description": "In case you have different zfs instances, and you need to read one from another, but without altering its metadata. It can be done like this (assuming that other zpool is named “zroot”): # make sure that /zroot exists, following command will mount# all but /ROOT/defaultzpool import -o readonly=on -f -R /zroot zroot# zroot/ROOT/default might […]"
+      "description": "In case you have different zfs instances, and you need to read one from another, but without altering its metadata. It can be done like this (assuming that other zpool is named “zroot”): # make sure that /zroot exists, following command will mount# all but /ROOT/defaultzpool import -o readonly=on -f -R /zroot zroot# zroot/ROOT/default might […]",
+      "date": null
     },
     {
       "link": "https://www.codenicer.com/?p=238",
       "title": "Textmate themes",
-      "description": "These are nice websites with big collections:"
+      "description": "These are nice websites with big collections:",
+      "date": null
     },
     {
       "link": "https://www.codenicer.com/?p=234",
       "title": "How to Prevent MATE from Auto-mounting Devices",
-      "description": "Execute these commands: gsettings set org.mate.media-handling automount-open falsegsettings set org.mate.media-handling automount false To disable automonting for GNOME you should execute: gsettings set org.gnome.desktop.media-handling automount-open falsegsettings set org.gnome.desktop.media-handling automount false"
+      "description": "Execute these commands: gsettings set org.mate.media-handling automount-open falsegsettings set org.mate.media-handling automount false To disable automonting for GNOME you should execute: gsettings set org.gnome.desktop.media-handling automount-open falsegsettings set org.gnome.desktop.media-handling automount false",
+      "date": null
     }
   ]
 }

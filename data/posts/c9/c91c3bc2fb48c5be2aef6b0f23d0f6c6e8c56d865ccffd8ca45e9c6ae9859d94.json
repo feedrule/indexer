@@ -4,7 +4,8 @@
     {
       "link": "https://offensive-actions.github.io/2026/05/24/claude-team-rce.html",
       "title": "Gone Phishing with Claude Teams: From Deceptive Team Onboarding to RCE",
-      "description": "🕚 tl;dr With a $125 investment, and a valid email address for an arbitrary “business domain”, an attacker can create a Claude Team. They then can actively invite targets of any domain into that Team or passively have Anthropic ask all current and future Claude users of their own domain to join the Team. In both cases, Anthropic is communicating the invitation, not the attacker. After a victim deci"
+      "description": "🕚 tl;dr With a $125 investment, and a valid email address for an arbitrary “business domain”, an attacker can create a Claude Team. They then can actively invite targets of any domain into that Team or passively have Anthropic ask all current and future Claude users of their own domain to join the Team. In both cases, Anthropic is communicating the invitation, not the attacker. After a victim deci",
+      "date": null
     }
   ]
 }

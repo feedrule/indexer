@@ -4,17 +4,20 @@
     {
       "link": "https://garrit.xyz/posts/2026-11-11-introducing-llmtee?utm_source=rss",
       "title": "llmtee: A lightweight LLM proxy",
-      "description": "TL;DR: llmtee is a self-hosted proxy for the OpenAI and Anthropic APIs, plus any OpenAI-compatible provider. Change one base URL, and every request gets logged with tokens, cost, latency and time to first token. It's a single Go binary with a SQLite file. I use LLMs in a lot of places by now. Coding agents, a few n8n workflows, some scripts, and local models running on Ollama . What I didn't have"
+      "description": "TL;DR: llmtee is a self-hosted proxy for the OpenAI and Anthropic APIs, plus any OpenAI-compatible provider. Change one base URL, and every request gets logged with tokens, cost, latency and time to first token. It's a single Go binary with a SQLite file. I use LLMs in a lot of places by now. Coding agents, a few n8n workflows, some scripts, and local models running on Ollama . What I didn't have",
+      "date": null
     },
     {
       "link": "https://garrit.xyz/posts/2026-08-10-ascii-art-of-a-dolphin-looking-into-a-mirror?utm_source=rss",
       "title": "ASCII art of a dolphin looking into a mirror",
-      "description": "Simon Willison has an amazing personal benchmark that he uses on any new AI model that comes out: \"Generate an SVG of a pelican riding a bicycle\" The outputs are as funny as they are informative about the AI model. The pelican is very saturated on the internet by now, so it's hard to tell if an AI is particularly trained against this prompt. So, for the longest time, I wanted to have my own simila"
+      "description": "Simon Willison has an amazing personal benchmark that he uses on any new AI model that comes out: \"Generate an SVG of a pelican riding a bicycle\" The outputs are as funny as they are informative about the AI model. The pelican is very saturated on the internet by now, so it's hard to tell if an AI is particularly trained against this prompt. So, for the longest time, I wanted to have my own simila",
+      "date": null
     },
     {
       "link": "https://garrit.xyz/posts/2026-07-15-you-should-be-using-a-meta-harness-for-agents?utm_source=rss",
       "title": "You should be using a meta harness for agents",
-      "description": "So you've been using an agent harness like Claude Code , Codex , Pi or one of the many others on the market. This is great! It's incredible how quickly these projects are evolving. After talking to some coworkers, reading articles on various blogs and seeing countless memes, it seems like many developers are still stuck in the habit of using \"an agent\" to aid their work - meaning they use one or a"
+      "description": "So you've been using an agent harness like Claude Code , Codex , Pi or one of the many others on the market. This is great! It's incredible how quickly these projects are evolving. After talking to some coworkers, reading articles on various blogs and seeing countless memes, it seems like many developers are still stuck in the habit of using \"an agent\" to aid their work - meaning they use one or a",
+      "date": null
     }
   ]
 }

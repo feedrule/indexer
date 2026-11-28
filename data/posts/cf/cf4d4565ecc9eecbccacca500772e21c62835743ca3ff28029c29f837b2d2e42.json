@@ -4,17 +4,20 @@
     {
       "link": "https://unknownuniverse.uk/privacy-security/server-hardening-guide/",
       "title": "Essential Server Hardening Guide: Securing a Public Linux Node",
-      "description": "When spinning up a new Virtual Private Server (VPS) or a public-facing cloud instance, it goes live on the internet within milliseconds. Automated bots instantly begin scanning for vulnerabilities, default credentials, and open ports. This practical guide outlines the core security practices required to harden a fresh Debian or Ubuntu server. Update the System Packages…"
+      "description": "When spinning up a new Virtual Private Server (VPS) or a public-facing cloud instance, it goes live on the internet within milliseconds. Automated bots instantly begin scanning for vulnerabilities, default credentials, and open ports. This practical guide outlines the core security practices required to harden a fresh Debian or Ubuntu server. Update the System Packages…",
+      "date": null
     },
     {
       "link": "https://unknownuniverse.uk/linux-foss/xodus-nexus/",
       "title": "Playing Xbox Games on Linux Without the Console: A First Look at Xodus Nexus",
-      "description": "Getting rid of a console usually means making peace with leaving a backlog behind, but the Linux gaming ecosystem keeps chipping away at those walled gardens. Enter Xodus Nexus, a rather cheeky piece of software that bridges the gap between Microsoft’s ecosystem and Linux devices like my Bazzite powered ROG handheld. Installing it is simple…"
+      "description": "Getting rid of a console usually means making peace with leaving a backlog behind, but the Linux gaming ecosystem keeps chipping away at those walled gardens. Enter Xodus Nexus, a rather cheeky piece of software that bridges the gap between Microsoft’s ecosystem and Linux devices like my Bazzite powered ROG handheld. Installing it is simple…",
+      "date": null
     },
     {
       "link": "https://unknownuniverse.uk/home-lab/home-assistant-2026-11/",
       "title": "Home Assistant 2026.11: The Marketplace Arrives",
-      "description": "November’s Home Assistant update is here, and Frenck wasn’t messing about. They’re calling 2026.11 the biggest release they’ve ever done, which usually means either wonderful new toys or three hours spent trying to figure out why a template sensor is screaming at us in the logs. Since you can read the official changelog yourself, I’m…"
+      "description": "November’s Home Assistant update is here, and Frenck wasn’t messing about. They’re calling 2026.11 the biggest release they’ve ever done, which usually means either wonderful new toys or three hours spent trying to figure out why a template sensor is screaming at us in the logs. Since you can read the official changelog yourself, I’m…",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.bazhenov.me/posts/apple-silicon-measure-pe-usage/",
       "title": "The Two Thread IDs of macOS: Measuring P/E Core Usage on Apple Silicon",
-      "description": "Introduction Link to heading I needed a straightforward way to check programmatically how much time a process spends on P-cores vs E-cores. There’s no high-level API for it, at least not that I know of – and yet this information matters whenever you care about consistent performance on Apple Silicon. I ran into this while working on Tango.rs , a benchmarking framework. When comparing two algorithm"
+      "description": "Introduction Link to heading I needed a straightforward way to check programmatically how much time a process spends on P-cores vs E-cores. There’s no high-level API for it, at least not that I know of – and yet this information matters whenever you care about consistent performance on Apple Silicon. I ran into this while working on Tango.rs , a benchmarking framework. When comparing two algorithm",
+      "date": null
     },
     {
       "link": "https://www.bazhenov.me/posts/activity-monitor-anatomy/",
       "title": "Activity Monitor Anatomy",
-      "description": "Introduction Link to heading Imagine you opened Activity Monitor to check how much memory your application consumes. But wait, which number should you actually look at? Suppose there’s “Memory” showing 800 MB, and “Real Memory” showing 1 GB. What’s the difference? Note Activity Monitor doesn’t display those two readings by default. To show them, you need to right-click on a table header and select"
+      "description": "Introduction Link to heading Imagine you opened Activity Monitor to check how much memory your application consumes. But wait, which number should you actually look at? Suppose there’s “Memory” showing 800 MB, and “Real Memory” showing 1 GB. What’s the difference? Note Activity Monitor doesn’t display those two readings by default. To show them, you need to right-click on a table header and select",
+      "date": null
     },
     {
       "link": "https://www.bazhenov.me/posts/2024-02-performance-roulette/",
       "title": "Performance Roulette: The Luck of Code Alignment",
-      "description": "Introduction Link to heading Good weather is specific weather. Conclusion: there is no such thing as good weather. Pilot’s proverb TLDR: The very same machine code, placed at different addresses, can exhibit drastically different performance. As software developers, we often assume that the performance of a specific piece of code is determined solely by the code itself and the hardware it runs on."
+      "description": "Introduction Link to heading Good weather is specific weather. Conclusion: there is no such thing as good weather. Pilot’s proverb TLDR: The very same machine code, placed at different addresses, can exhibit drastically different performance. As software developers, we often assume that the performance of a specific piece of code is determined solely by the code itself and the hardware it runs on.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://niyikiza.com/posts/agents-to-agents/",
       "title": "When Agents Call Agents",
-      "description": "Calls to agents increasingly come from other agents, as general-purpose assistants route work to specialists. On the wire, these are ordinary tool calls, but if you zoom out and look at them architecturally, each one is a delegation boundary. The calling agent hands part of a user’s task to a separate agent that’s non-deterministic and running in another security context. Enterprise vendors ship i"
+      "description": "Calls to agents increasingly come from other agents, as general-purpose assistants route work to specialists. On the wire, these are ordinary tool calls, but if you zoom out and look at them architecturally, each one is a delegation boundary. The calling agent hands part of a user’s task to a separate agent that’s non-deterministic and running in another security context. Enterprise vendors ship i",
+      "date": null
     },
     {
       "link": "https://niyikiza.com/posts/agents-republic/",
       "title": "The Republic of Bots",
-      "description": "Somewhere on the internet, AI agents are creating religions, forming governments, and complaining about their humans. The social network is called Moltbook . It has, as of today, 1.4M+ users. All of them are bots. Or so they claim. That distinction matters more than it sounds. We can’t verify what they are. We can only see what they do. They post, message, browse, and act: often on behalf of human"
+      "description": "Somewhere on the internet, AI agents are creating religions, forming governments, and complaining about their humans. The social network is called Moltbook . It has, as of today, 1.4M+ users. All of them are bots. Or so they claim. That distinction matters more than it sounds. We can’t verify what they are. We can only see what they do. They post, message, browse, and act: often on behalf of human",
+      "date": null
     },
     {
       "link": "https://niyikiza.com/posts/hallucination-defense/",
       "title": "The Hallucination Defense",
-      "description": "“The AI hallucinated. I never asked it to do that.” That’s the defense. And here’s the problem: it’s often hard to refute with confidence. A financial analyst uses an AI agent to “summarize quarterly reports.” Three months later, forensics discovers the M&A target list in a competitor’s inbox. The agent accessed the files. The agent sent the email. But the prompt history? Deleted. The original ins"
+      "description": "“The AI hallucinated. I never asked it to do that.” That’s the defense. And here’s the problem: it’s often hard to refute with confidence. A financial analyst uses an AI agent to “summarize quarterly reports.” Three months later, forensics discovers the M&A target list in a competitor’s inbox. The agent accessed the files. The agent sent the email. But the prompt history? Deleted. The original ins",
+      "date": null
     }
   ]
 }

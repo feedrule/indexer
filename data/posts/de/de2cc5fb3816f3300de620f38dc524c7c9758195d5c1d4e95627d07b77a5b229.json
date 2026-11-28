@@ -4,17 +4,20 @@
     {
       "link": "https://verdagon.dev/blog/reverse-borrow-checking",
       "title": "A New Way to Think About Borrow Checking (In Reverse)",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://verdagon.dev/blog/valen-group-borrowing",
       "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://verdagon.dev/blog/boundary-memory-safety",
       "title": "The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary",
-      "description": null
+      "description": null,
+      "date": null
     }
   ]
 }

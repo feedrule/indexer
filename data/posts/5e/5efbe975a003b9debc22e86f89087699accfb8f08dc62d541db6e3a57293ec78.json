@@ -4,17 +4,20 @@
     {
       "link": "https://jvogel.me/posts/2026/one-method-using-71-percent-of-cpu/",
       "title": "One Method Was Using 71% of CPU. Here's the Flame Graph.",
-      "description": "Walking through the JFR recordings and flame graphs behind a 5x Java speedup. How fixing one method revealed the next bottleneck, and the profiling workflow that found them all."
+      "description": "Walking through the JFR recordings and flame graphs behind a 5x Java speedup. How fixing one method revealed the next bottleneck, and the profiling workflow that found them all.",
+      "date": null
     },
     {
       "link": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
       "title": "Java Is Fast. Your Code Might Not Be.",
-      "description": "Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each"
+      "description": "Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each",
+      "date": null
     },
     {
       "link": "https://jvogel.me/posts/2026/aws-still-charging-you/",
       "title": "You Deleted Everything and AWS Is Still Charging You",
-      "description": "The AWS cleanup checklist I wish someone had given me when I was starting out with cloud. Learn what's actually charging you after you delete everything."
+      "description": "The AWS cleanup checklist I wish someone had given me when I was starting out with cloud. Learn what's actually charging you after you delete everything.",
+      "date": null
     }
   ]
 }

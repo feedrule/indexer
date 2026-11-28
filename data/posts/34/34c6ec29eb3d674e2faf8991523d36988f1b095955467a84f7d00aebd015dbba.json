@@ -4,17 +4,20 @@
     {
       "link": "http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits",
       "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
-      "description": "I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization . My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things. Everything says 10 gigabit. Wind"
+      "description": "I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization . My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things. Everything says 10 gigabit. Wind",
+      "date": null
     },
     {
       "link": "http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps",
       "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps",
-      "description": "I’ve had a Synology NAS for a very long time , and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8 . This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole eveni"
+      "description": "I’ve had a Synology NAS for a very long time , and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8 . This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole eveni",
+      "date": null
     },
     {
       "link": "http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead",
       "title": "Is the craft dead?",
-      "description": "The Japanese are really good at woodworking. And I love watching the Yankee workshop, my dad makes Native American bows and arrows completely from scratch in his workshop with trees that he finds. This is all different from the stuff you get at IKEA, but I’ve been coding now for money for 35 years and systems are still complicated, computers still do dumb stuff, humans still do dumb stuff, this is"
+      "description": "The Japanese are really good at woodworking. And I love watching the Yankee workshop, my dad makes Native American bows and arrows completely from scratch in his workshop with trees that he finds. This is all different from the stuff you get at IKEA, but I’ve been coding now for money for 35 years and systems are still complicated, computers still do dumb stuff, humans still do dumb stuff, this is",
+      "date": null
     }
   ]
 }

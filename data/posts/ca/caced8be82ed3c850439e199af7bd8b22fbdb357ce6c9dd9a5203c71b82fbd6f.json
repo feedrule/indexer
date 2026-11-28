@@ -4,17 +4,20 @@
     {
       "link": "https://giacomo.coletto.io/blog/cockpit/",
       "title": "Manage your server from its web interface",
-      "description": "Cockpit offers terminal access, resource usage, and one-click system updates from a handy web interface"
+      "description": "Cockpit offers terminal access, resource usage, and one-click system updates from a handy web interface",
+      "date": null
     },
     {
       "link": "https://giacomo.coletto.io/blog/arch-amd/",
       "title": "Installing Arch Linux on a laptop",
-      "description": "How I got rid of Windows and never looked back"
+      "description": "How I got rid of Windows and never looked back",
+      "date": null
     },
     {
       "link": "https://giacomo.coletto.io/blog/ducklake/",
       "title": "A new data lakehouse with DuckLake and dbt",
-      "description": "Reflections on bringing the ELT game to the lake"
+      "description": "Reflections on bringing the ELT game to the lake",
+      "date": null
     }
   ]
 }

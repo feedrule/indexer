@@ -4,17 +4,20 @@
     {
       "link": "https://hartenfeller.dev/blog/uc-local-apex-dev-26-5",
       "title": "uc-local-apex-dev 26.5: better backups, utPLSQL, and more",
-      "description": "uc-local-apex-dev 26.5 backs up objects that a Data Pump schema export misses, rebuilds your local database in one command, and adds utPLSQL installation and space management tools."
+      "description": "uc-local-apex-dev 26.5 backs up objects that a Data Pump schema export misses, rebuilds your local database in one command, and adds utPLSQL installation and space management tools.",
+      "date": "2026-11-26"
     },
     {
       "link": "https://hartenfeller.dev/blog/deep-data-security-is-here-to-stay",
       "title": "Deep Data Security is here to stay #JoelKallmanDay",
-      "description": "I think Deep Data Security (DDS) is one of the most promising additions to Oracle 26ai. The idea is straightforward: describe who may read or change which data with SQL, and let the database enforce it."
+      "description": "I think Deep Data Security (DDS) is one of the most promising additions to Oracle 26ai. The idea is straightforward: describe who may read or change which data with SQL, and let the database enforce it.",
+      "date": "2026-10-14"
     },
     {
       "link": "https://hartenfeller.dev/blog/makefiles-for-apex-projects",
       "title": "Make APEXlang Easy: Makefiles and Merge-Safe Imports",
-      "description": "How a makefile turns the SQLcl, Git and dbLinter commands of an APEX project into short make commands, and how a Git-based sync script stops APEXlang imports from overwriting your colleagues' App Builder changes."
+      "description": "How a makefile turns the SQLcl, Git and dbLinter commands of an APEX project into short make commands, and how a Git-based sync script stops APEXlang imports from overwriting your colleagues' App Builder changes.",
+      "date": "2026-09-23"
     }
   ]
 }

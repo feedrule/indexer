@@ -4,17 +4,20 @@
     {
       "link": "https://oleg.fi/gists/posts/2026-05-07-compatibility-packages-b.html",
       "title": "Compatibility packages in 2026",
-      "description": "Posted on 2026-05-07 by Oleg Grenrus engineering Seven years ago I wrote a post about compatibility packages. It is now highly outdated, so let us revisit the matter. Recently there have been a small push towards reinstallable base . While it's still far from being a thing, it made me remember that using impl(ghc >= 7.9) -like conditionals to guard against different base versions is semantically w"
+      "description": "Posted on 2026-05-07 by Oleg Grenrus engineering Seven years ago I wrote a post about compatibility packages. It is now highly outdated, so let us revisit the matter. Recently there have been a small push towards reinstallable base . While it's still far from being a thing, it made me remember that using impl(ghc >= 7.9) -like conditionals to guard against different base versions is semantically w",
+      "date": null
     },
     {
       "link": "https://oleg.fi/gists/posts/2025-02-13-phoas-to-db.html",
       "title": "PHOAS to de Bruijn conversion",
-      "description": "Posted on 2025-02-13 by Oleg Grenrus agda Recently I looked again at PHOAS, and once again I concluded it's nice for library APIs, but so painful to do anything with inside those libraries. So let convert to something else, like de Bruijn. There are standalone source files if you just want to see the code: Agda: https://github.com/phadej/nbexp/blob/master/src/NbEXP/SelfContained/Conv.agda Haskell:"
+      "description": "Posted on 2025-02-13 by Oleg Grenrus agda Recently I looked again at PHOAS, and once again I concluded it's nice for library APIs, but so painful to do anything with inside those libraries. So let convert to something else, like de Bruijn. There are standalone source files if you just want to see the code: Agda: https://github.com/phadej/nbexp/blob/master/src/NbEXP/SelfContained/Conv.agda Haskell:",
+      "date": null
     },
     {
       "link": "https://oleg.fi/gists/posts/2025-02-11-nbe-phoas.html",
       "title": "NbE PHOAS",
-      "description": "Posted on 2025-02-11 by Oleg Grenrus agda Normalization by evaluation using parametric higher order syntax. In Agda. I couldn't find a self-contained example of PHOAS NbE, so here it is. I hope someone might find it useful. module NbEXP . PHOAS where data Ty : Set where emp : Ty fun : Ty → Ty → Ty data Tm ( v : Ty → Set ) : Ty → Set where var : ∀ { a } → v a → Tm v a app : ∀ { a b } → Tm v ( fun a"
+      "description": "Posted on 2025-02-11 by Oleg Grenrus agda Normalization by evaluation using parametric higher order syntax. In Agda. I couldn't find a self-contained example of PHOAS NbE, so here it is. I hope someone might find it useful. module NbEXP . PHOAS where data Ty : Set where emp : Ty fun : Ty → Ty → Ty data Tm ( v : Ty → Set ) : Ty → Set where var : ∀ { a } → v a → Tm v a app : ∀ { a b } → Tm v ( fun a",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://mavlevin.com/2026/02/15/404-to-RCE-Unauthenticated-PHP-Exec-in-Ethereum-retesteth.html",
       "title": "404‑to‑RCE: Unauthenticated PHP Exec in Ethereum’s retesteth",
-      "description": "I challenged myself to hack the next system I stumbled into and ended up with unauthenticated RCE on Ethereum’s retesteth. This is the exploit, the race, and the human side."
+      "description": "I challenged myself to hack the next system I stumbled into and ended up with unauthenticated RCE on Ethereum’s retesteth. This is the exploit, the race, and the human side.",
+      "date": null
     },
     {
       "link": "https://mavlevin.com/2026/01/18/flashbots-mev-relay-race-condition-vulnerability.html",
       "title": "Billion-Dollar Bait & Switch: Exploiting a Race Condition in Blockchain Infrastructure",
-      "description": "My 3 am realization exposed a vulnerability in blockchain infrastructure handling billions in cryptocurrency transactions. This vulnerability writeup details a critical race condition I found in the Flashbots Ethereum MEV-Boost relay that allowed attackers to hijack MEV auctions and trick validators."
+      "description": "My 3 am realization exposed a vulnerability in blockchain infrastructure handling billions in cryptocurrency transactions. This vulnerability writeup details a critical race condition I found in the Flashbots Ethereum MEV-Boost relay that allowed attackers to hijack MEV auctions and trick validators.",
+      "date": null
     },
     {
       "link": "https://mavlevin.com/2025/11/30/CVE-2022-35420-Scada-LTS-Unauthenticated-Account-Takeover.html",
       "title": "Compromising Critical Infrastructure: Unauthenticated RCE on Scada-LTS (CVE-2022-35420)",
-      "description": "How I turned a competition distraction into a 0-day. This writeup covers the discovery and exploitation of CVE-2022-35420, an auth bypass in Scada-LTS that exposes critical industrial control systems to unauthenticated account takeover."
+      "description": "How I turned a competition distraction into a 0-day. This writeup covers the discovery and exploitation of CVE-2022-35420, an auth bypass in Scada-LTS that exposes critical industrial control systems to unauthenticated account takeover.",
+      "date": null
     }
   ]
 }

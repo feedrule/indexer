@@ -4,17 +4,20 @@
     {
       "link": "https://0l.de/blog/2026/04/restic-monitor/",
       "title": "restic-monitor: Never Miss a Failed Backup",
-      "description": "I run restic to back up my servers. One day I noticed a repository hadn’t received a new snapshot in weeks. The backup job had been silently failing, and I had no idea. That’s the worst kind of failure: everything appears fine until you actually need the backup. TL;DR /stv0g/restic-monitor is a small Go tool that checks whether each of your restic repositories has a recent enough snapshot and repo"
+      "description": "I run restic to back up my servers. One day I noticed a repository hadn’t received a new snapshot in weeks. The backup job had been silently failing, and I had no idea. That’s the worst kind of failure: everything appears fine until you actually need the backup. TL;DR /stv0g/restic-monitor is a small Go tool that checks whether each of your restic repositories has a recent enough snapshot and repo",
+      "date": null
     },
     {
       "link": "https://0l.de/blog/2026/04/sylvac-freecad-input/",
       "title": "Turning a Bluetooth Caliper into a FreeCAD Input Device",
-      "description": "When I spotted a used Sylvac S_Cal EVO caliper on eBay for €90, I jumped on it. Swiss-made precision instruments don’t usually fall into hobby budgets, but here was my chance: a Bluetooth-enabled digital caliper that normally costs 3-4× as much. I thought I was buying a better measuring tool. I didn’t realize I was buying a new FreeCAD input device. TL;DR I’ve developed a Python library, sylvac-me"
+      "description": "When I spotted a used Sylvac S_Cal EVO caliper on eBay for €90, I jumped on it. Swiss-made precision instruments don’t usually fall into hobby budgets, but here was my chance: a Bluetooth-enabled digital caliper that normally costs 3-4× as much. I thought I was buying a better measuring tool. I didn’t realize I was buying a new FreeCAD input device. TL;DR I’ve developed a Python library, sylvac-me",
+      "date": null
     },
     {
       "link": "https://0l.de/blog/2025/12/codeberg-migration/",
       "title": "A New Home for My Open Source Projects: Embracing Codeberg",
-      "description": "More than 14 years ago , I migrated my 26 open source code projects to GitHub. Back then GitHub was a fresh and modern platform pushing the boundaries of collaborative software development. Over the years, however, my perspective on GitHub has changed significantly. I have recently migrated my by now 79 repositories from GitHub to Codeberg , a decision driven by several significant factors. Concer"
+      "description": "More than 14 years ago , I migrated my 26 open source code projects to GitHub. Back then GitHub was a fresh and modern platform pushing the boundaries of collaborative software development. Over the years, however, my perspective on GitHub has changed significantly. I have recently migrated my by now 79 repositories from GitHub to Codeberg , a decision driven by several significant factors. Concer",
+      "date": null
     }
   ]
 }

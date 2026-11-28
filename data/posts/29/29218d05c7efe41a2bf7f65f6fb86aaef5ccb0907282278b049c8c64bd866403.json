@@ -4,17 +4,20 @@
     {
       "link": "https://markkarpov.com/post/announcing-tilia.html",
       "title": "Tilia—a new formatter for Haskell",
-      "description": "Announcing Tilia—a new formatter for Haskell source code."
+      "description": "Announcing Tilia—a new formatter for Haskell source code.",
+      "date": null
     },
     {
       "link": "https://markkarpov.com/post/announcing-ahab.html",
       "title": "Announcing Ahab",
-      "description": "Announcing Ahab—a hermeticity analyzer for Bazel."
+      "description": "Announcing Ahab—a hermeticity analyzer for Bazel.",
+      "date": null
     },
     {
       "link": "https://markkarpov.com/post/ormolu-one-refactor-that-fixed-everything.html",
       "title": "Ormolu: one refactor that fixed everything",
-      "description": "This post documents a big refactor in Ormolu that resolved all comments-related issues."
+      "description": "This post documents a big refactor in Ormolu that resolved all comments-related issues.",
+      "date": null
     }
   ]
 }

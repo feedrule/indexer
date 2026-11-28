@@ -4,17 +4,20 @@
     {
       "link": "https://atlassc.net/2026/11/24/connecting-to-ubuntu-from-a-mac-with-microsoft-windows-app",
       "title": "Connecting to Ubuntu from a Mac with Microsoft Windows App",
-      "description": "Set up GNOME Desktop Sharing on Ubuntu and control your desktop from a Mac using Microsoft Windows App."
+      "description": "Set up GNOME Desktop Sharing on Ubuntu and control your desktop from a Mac using Microsoft Windows App.",
+      "date": null
     },
     {
       "link": "https://atlassc.net/2026/11/23/designing-memory-for-research-agents",
       "title": "Designing Memory for Research Agents: Four Patterns You Can Implement",
-      "description": "Design a research agent with four kinds of memory, recoverable context, and source-backed claims. Start with files and add indexing as the workload grows."
+      "description": "Design a research agent with four kinds of memory, recoverable context, and source-backed claims. Start with files and add indexing as the workload grows.",
+      "date": null
     },
     {
       "link": "https://atlassc.net/2026/11/22/designing-an-mcp-image-upload-tool",
       "title": "How to Design an MCP Image Upload Tool",
-      "description": "Keep image bytes out of LLM tool arguments. Let a local tool upload the file with HTTP PUT, then attach it through MCP."
+      "description": "Keep image bytes out of LLM tool arguments. Let a local tool upload the file with HTTP PUT, then attach it through MCP.",
+      "date": null
     }
   ]
 }

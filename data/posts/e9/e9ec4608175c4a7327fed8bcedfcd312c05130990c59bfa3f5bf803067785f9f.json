@@ -4,17 +4,20 @@
     {
       "link": "https://kalfeher.com/hybrid-lab-03/",
       "title": "Connecting Semaphore or Ansible to Proxmox",
-      "description": "Automation to manage the on-prem portion of a hybrid lab. I set up and test managing hosts on Proxmox with Ansible and Semaphore."
+      "description": "Automation to manage the on-prem portion of a hybrid lab. I set up and test managing hosts on Proxmox with Ansible and Semaphore.",
+      "date": null
     },
     {
       "link": "https://kalfeher.com/hybrid-lab-02/",
       "title": "Storing Secrets for Terraform in a Small Lab",
-      "description": "I discuss three storage options for Terraform secrets. They are all appropriate for a small lab and they are all zero cost."
+      "description": "I discuss three storage options for Terraform secrets. They are all appropriate for a small lab and they are all zero cost.",
+      "date": null
     },
     {
       "link": "https://kalfeher.com/hybrid-lab-01/",
       "title": "Building a Hybrid Lab - Proxmox and Terraform",
-      "description": "Automation to set up a lab to test hybrid workload management. Step one is setting up hosts on Proxmox with Terraform."
+      "description": "Automation to set up a lab to test hybrid workload management. Step one is setting up hosts on Proxmox with Terraform.",
+      "date": null
     }
   ]
 }

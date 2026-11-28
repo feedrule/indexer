@@ -4,17 +4,20 @@
     {
       "link": "https://davidlowryduda.com/latex-tables-with-python",
       "title": "Typesetting Latex Tables with Python",
-      "description": "Typesetting tables in latex is annoying. In practice, I usually have the tabular data in some programming-friendly format and need to put it in latex. I forget how to do this nicely, but it's extremely simple using the tabulate package in python. import tabulate from itertools import batched # Data A = [ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 10 , 11 , 14 , 15 , 17 , 19 , 21 , 23 , 26 , 31 , 34 , 35 , 39 , 4"
+      "description": "Typesetting tables in latex is annoying. In practice, I usually have the tabular data in some programming-friendly format and need to put it in latex. I forget how to do this nicely, but it's extremely simple using the tabulate package in python. import tabulate from itertools import batched # Data A = [ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 10 , 11 , 14 , 15 , 17 , 19 , 21 , 23 , 26 , 31 , 34 , 35 , 39 , 4",
+      "date": null
     },
     {
       "link": "https://davidlowryduda.com/on-arxiv-endorsement",
       "title": "Asking me for arxiv endorsement",
-      "description": "There is no reason why amateurs can't make worthwhile contributions to research mathematics. But there is also no reason why every mathematician must listen to any particular amateur. 1 1 This is much more true now that it's easier to write mathlike documents with help from an LLM. I don't have time to offer personal advice or guidance to everyone who contacts me. 2 2 If I have sent you to this pa"
+      "description": "There is no reason why amateurs can't make worthwhile contributions to research mathematics. But there is also no reason why every mathematician must listen to any particular amateur. 1 1 This is much more true now that it's easier to write mathlike documents with help from an LLM. I don't have time to offer personal advice or guidance to everyone who contacts me. 2 2 If I have sent you to this pa",
+      "date": null
     },
     {
       "link": "https://davidlowryduda.com/notes-gdocs",
       "title": "Notes to Self on Google Docs",
-      "description": "I write most professional correspondence in either plaintext (markdown) or latex+pdf. I recently had to make two versions of the same document in latex and Google Docs. 1 1 This is unnatural. The medium of communication affects both the reading and writing experience. But I don't explain why , and instead merely comment on how . Eventually the latex+pdf version will be made public, so I write the"
+      "description": "I write most professional correspondence in either plaintext (markdown) or latex+pdf. I recently had to make two versions of the same document in latex and Google Docs. 1 1 This is unnatural. The medium of communication affects both the reading and writing experience. But I don't explain why , and instead merely comment on how . Eventually the latex+pdf version will be made public, so I write the",
+      "date": null
     }
   ]
 }

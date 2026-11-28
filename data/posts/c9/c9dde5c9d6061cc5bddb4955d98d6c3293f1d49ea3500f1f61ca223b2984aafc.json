@@ -4,17 +4,20 @@
     {
       "link": "https://castastrophe.blog/is-there-a-future-for-design-tokens/",
       "title": "Is CSS the future of design data?",
-      "description": "Design tokens solve complex problems, and the community behind them has done thoughtful work. But the surfaces a design system has to support are growing in dimension, and as new features reach Baseline, CSS has become a better home for design data than tokens."
+      "description": "Design tokens solve complex problems, and the community behind them has done thoughtful work. But the surfaces a design system has to support are growing in dimension, and as new features reach Baseline, CSS has become a better home for design data than tokens.",
+      "date": null
     },
     {
       "link": "https://castastrophe.blog/on-writing-the-custom-elements-section-for-modern-web-guidance/",
       "title": "On writing the custom elements section for Modern Web Guidance",
-      "description": "Nolan Lawson called the web components section I wrote for Chrome's Modern Web Guidance \"discouraging at times,\" and he has a point about the tone. Here's why I leaned native-first, and where Nolan and I land in the same place."
+      "description": "Nolan Lawson called the web components section I wrote for Chrome's Modern Web Guidance \"discouraging at times,\" and he has a point about the tone. Here's why I leaned native-first, and where Nolan and I land in the same place.",
+      "date": null
     },
     {
       "link": "https://castastrophe.blog/guides/gecko-web-components-rendering/",
       "title": "How Firefox renders web components",
-      "description": "How Firefox turns a custom element into pixels, traced through Gecko's own source, from the registry to the reactions stack to the flattened tree Stylo styles."
+      "description": "How Firefox turns a custom element into pixels, traced through Gecko's own source, from the registry to the reactions stack to the flattened tree Stylo styles.",
+      "date": null
     }
   ]
 }

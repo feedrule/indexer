@@ -4,17 +4,20 @@
     {
       "link": "https://oxidt.com/blog/mention-monitor-charges-per-search",
       "title": "My mention monitor charges per search, not per month",
-      "description": "Brand monitoring tools start at $159 to $249 a month for a feed a solo founder reads once a day. Overhear bills per search instead: prepaid credits, six sources, Claude sorting the hits, and a connector so you can ask it questions instead of opening a dashboard."
+      "description": "Brand monitoring tools start at $159 to $249 a month for a feed a solo founder reads once a day. Overhear bills per search instead: prepaid credits, six sources, Claude sorting the hits, and a connector so you can ask it questions instead of opening a dashboard.",
+      "date": null
     },
     {
       "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
       "title": "One year of Dioxus fullstack in production: the good, the painful",
-      "description": "After a year of Dioxus fullstack in production, the Rust code is the most boring part of my business. CI is the most exciting part, and not in a good way: a release build takes 90 minutes on a GitHub-hosted runner."
+      "description": "After a year of Dioxus fullstack in production, the Rust code is the most boring part of my business. CI is the most exciting part, and not in a good way: a release build takes 90 minutes on a GitHub-hosted runner.",
+      "date": null
     },
     {
       "link": "https://oxidt.com/blog/product-demo-as-config-file",
       "title": "My product demo is a config file now",
-      "description": "Interactive demo tools charge hundreds a month, and screenshot-based ones go stale the moment your UI changes. I stopped re-taking screenshots and turned my demos into a JSON file a CLI can re-record."
+      "description": "Interactive demo tools charge hundreds a month, and screenshot-based ones go stale the moment your UI changes. I stopped re-taking screenshots and turned my demos into a JSON file a CLI can re-record.",
+      "date": null
     }
   ]
 }

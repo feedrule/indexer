@@ -4,17 +4,20 @@
     {
       "link": "https://markshroyer.com/2026/11/coursepointer/",
       "title": "Fast Interception of a Path of Geodesic Segments on the Earth Spheroid",
-      "description": "Here I describe a fast filter-and-refine algorithm for finding interceptions of a sequence of Earth geodesic segments by a set of points, such as between a GPX file’s route and waypoints, which I developed last year for my open source project CoursePointer . [1] Combining this filter with Karney’s geodesic interception algorithm [9] yields precise points of interception while being simpler to impl"
+      "description": "Here I describe a fast filter-and-refine algorithm for finding interceptions of a sequence of Earth geodesic segments by a set of points, such as between a GPX file’s route and waypoints, which I developed last year for my open source project CoursePointer . [1] Combining this filter with Karney’s geodesic interception algorithm [9] yields precise points of interception while being simpler to impl",
+      "date": null
     },
     {
       "link": "https://markshroyer.com/2025/12/package-management/",
       "title": "My package management cheatsheet",
-      "description": "Lately I’ve been hopping between projects that use different Rust, Python, and TypeScript package managers, and I kept having to turn back to documentation to keep their subcommands straight when switching from one back to another. So I made this cheat sheet for my own reference, and I might as well share it with the class too… Project dependencies Common package management tasks include: Prepare"
+      "description": "Lately I’ve been hopping between projects that use different Rust, Python, and TypeScript package managers, and I kept having to turn back to documentation to keep their subcommands straight when switching from one back to another. So I made this cheat sheet for my own reference, and I might as well share it with the class too… Project dependencies Common package management tasks include: Prepare",
+      "date": null
     },
     {
       "link": "https://markshroyer.com/2025/09/socklink/",
       "title": "Juggling multiple SSH_AUTH_SOCKs in tmux",
-      "description": "This post is about a portable Unix shell script, socklink.sh , written to keep SSH_AUTH_SOCK working within a long-running tmux session—even when switching between multiple clients that have different SSH agents, whether those clients are simultaneously connected or attaching and detaching over time. I also digresses into what I’ve learned from writing and testing a cross-platform shell script in"
+      "description": "This post is about a portable Unix shell script, socklink.sh , written to keep SSH_AUTH_SOCK working within a long-running tmux session—even when switching between multiple clients that have different SSH agents, whether those clients are simultaneously connected or attaching and detaching over time. I also digresses into what I’ve learned from writing and testing a cross-platform shell script in",
+      "date": null
     }
   ]
 }

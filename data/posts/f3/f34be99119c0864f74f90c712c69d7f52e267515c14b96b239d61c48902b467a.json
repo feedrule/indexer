@@ -4,17 +4,20 @@
     {
       "link": "http://workdad.dev/posts/tech-lead-manager-ai-agents/",
       "title": "I’m OK being the tech lead manager of my AI agents",
-      "description": "In my 20+ year career in tech, only once have I accepted a position as a manager. And while we eventually parted ways for reasons that are outside the scope of this article, the experience of being a manager was actually quite satisfying, to my surprise. Sure, I wasn’t close to the code anymore but I still understood the architecture and was able to make informed decisions about it when my reporte"
+      "description": "In my 20+ year career in tech, only once have I accepted a position as a manager. And while we eventually parted ways for reasons that are outside the scope of this article, the experience of being a manager was actually quite satisfying, to my surprise. Sure, I wasn’t close to the code anymore but I still understood the architecture and was able to make informed decisions about it when my reporte",
+      "date": null
     },
     {
       "link": "http://workdad.dev/posts/just-enough-queueing-theory-to-get-you-by-part-1/",
       "title": "Just enough queueing theory to get you by - part 1",
-      "description": "Queuing theory is a large and complex topic but it is amazing how much practical usefulness you can derive just from its basic principles. I had to learn it while undergoing my masters in computer science and it has served me well in my career when dealing with building servers and scaling them. Understanding basic queuing theory will make it a lot easier to: understand which bottlenecks to tackle"
+      "description": "Queuing theory is a large and complex topic but it is amazing how much practical usefulness you can derive just from its basic principles. I had to learn it while undergoing my masters in computer science and it has served me well in my career when dealing with building servers and scaling them. Understanding basic queuing theory will make it a lot easier to: understand which bottlenecks to tackle",
+      "date": null
     },
     {
       "link": "http://workdad.dev/posts/semantically-significant-apis-case-study/",
       "title": "Semantically significant apis: a case study with sqlc",
-      "description": "I’ve been developing an URL shortener in my spare time: shortn.cc . It works as expected, though the frontend UI definitely needs work (hey, backend engineer for most of my career! Cut me some slack). It is built using a Go stack with sqlite . As I’ve discussed before, I’m not a fan of ORMs and instead use a named query library called sqlc to create queries and generate a storage API for my servic"
+      "description": "I’ve been developing an URL shortener in my spare time: shortn.cc . It works as expected, though the frontend UI definitely needs work (hey, backend engineer for most of my career! Cut me some slack). It is built using a Go stack with sqlite . As I’ve discussed before, I’m not a fan of ORMs and instead use a named query library called sqlc to create queries and generate a storage API for my servic",
+      "date": null
     }
   ]
 }

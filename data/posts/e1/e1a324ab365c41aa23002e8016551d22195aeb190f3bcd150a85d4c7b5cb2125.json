@@ -4,17 +4,20 @@
     {
       "link": "https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/",
       "title": "Conventional Commit rules everything around me",
-      "description": "There’s a community standard out there called Conventional Commit for structured git-commit messages. If you don’t know about it already, it recommends a strict type(scope?): description format for describing a code change in a repo. A normal git commit history might look like this: > git log --oneline 9d30ff6 fix typo 3062496 oops d0b38ad shit b5f8df7 redesign site That’s all well and good, but l"
+      "description": "There’s a community standard out there called Conventional Commit for structured git-commit messages. If you don’t know about it already, it recommends a strict type(scope?): description format for describing a code change in a repo. A normal git commit history might look like this: > git log --oneline 9d30ff6 fix typo 3062496 oops d0b38ad shit b5f8df7 redesign site That’s all well and good, but l",
+      "date": null
     },
     {
       "link": "https://daverupert.com/2026/11/pseudo-pseudo-classes/",
       "title": "Pseudo-pseudo-classes for maximum interactive demos!",
-      "description": "Have you ever wanted to display all variants of a Button next to each other in your Storybook like your designer did in Figma? But then you come to a screeching halt when you realize :hover , :active , :focus don’t work without user-interaction? Blergh. Whatever can we do? I got nerd-sniped by this problem in the ShopTalk Discord when Nils said he was trying to build a simple state machine demo fo"
+      "description": "Have you ever wanted to display all variants of a Button next to each other in your Storybook like your designer did in Figma? But then you come to a screeching halt when you realize :hover , :active , :focus don’t work without user-interaction? Blergh. Whatever can we do? I got nerd-sniped by this problem in the ShopTalk Discord when Nils said he was trying to build a simple state machine demo fo",
+      "date": null
     },
     {
       "link": "https://daverupert.com/2026/11/write-mo/",
       "title": "Write mo'",
-      "description": "I decided not to do #NaNoWriMo this year. Part of that is because I’ve never done it. Never even attempted it. Don’t even want to. Writing a novel is a life goal of mine, but cramming it all into one month isn’t for me. November is impossibly busy. But I do think it would be cool to have a big excuse for avoiding all those obligations. “Dave, come to this holiday party!” “Sorry, I’m writing a nove"
+      "description": "I decided not to do #NaNoWriMo this year. Part of that is because I’ve never done it. Never even attempted it. Don’t even want to. Writing a novel is a life goal of mine, but cramming it all into one month isn’t for me. November is impossibly busy. But I do think it would be cool to have a big excuse for avoiding all those obligations. “Dave, come to this holiday party!” “Sorry, I’m writing a nove",
+      "date": null
     }
   ]
 }

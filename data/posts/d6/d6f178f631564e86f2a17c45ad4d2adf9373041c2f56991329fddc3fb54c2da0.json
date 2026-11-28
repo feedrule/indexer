@@ -4,17 +4,20 @@
     {
       "link": "https://aoli.al/blogs/linux-laptop/",
       "title": "Using a Linux Laptop in 2026",
-      "description": "Using a Linux Laptop in 2026 After graduation, I joined a startup and was lucky enough to convince the company to let me use Linux instead of macOS for work. They bought me a Dell XPS 14, which was the only available option with an Intel Ultra X7 Panther Lake chip in stock. Since I already use NixOS on my personal desktop, I decided to install it on my laptop as well. I wanted to document my exper"
+      "description": "Using a Linux Laptop in 2026 After graduation, I joined a startup and was lucky enough to convince the company to let me use Linux instead of macOS for work. They bought me a Dell XPS 14, which was the only available option with an Intel Ultra X7 Panther Lake chip in stock. Since I already use NixOS on my personal desktop, I decided to install it on my laptop as well. I wanted to document my exper",
+      "date": null
     },
     {
       "link": "https://aoli.al/blogs/diorama/",
       "title": "Deterministic Simulation Testing for Distributed Systems: The Good, the Bad, and the Ugly",
-      "description": "Deterministic Simulation Testing for Distributed Systems: The Good, the Bad, and the Ugly During my PhD, I built Fray , a deterministic simulation testing framework for concurrent programs written in Java. Fray was quite successful and has found many bugs in mature concurrent programs. As an academic, a natural question for me was: can we use a similar idea to test distributed systems? This led to"
+      "description": "Deterministic Simulation Testing for Distributed Systems: The Good, the Bad, and the Ugly During my PhD, I built Fray , a deterministic simulation testing framework for concurrent programs written in Java. Fray was quite successful and has found many bugs in mature concurrent programs. As an academic, a natural question for me was: can we use a similar idea to test distributed systems? This led to",
+      "date": null
     },
     {
       "link": "https://aoli.al/blogs/data-race/",
       "title": "Can a Data Race Happen on a Single-Core Machine?",
-      "description": "Can a Data Race Happen on a Single-Core Machine? 1. The Question I woke up wondering: Can a data race happen on a single-core machine? . A data race occurs when a program contains two conflicting accesses (write/write or read/write) that are not ordered by a happens-before relationship. This is the definition from Java Language Specification . My first instinct was to ask Claude . The answer I rec"
+      "description": "Can a Data Race Happen on a Single-Core Machine? 1. The Question I woke up wondering: Can a data race happen on a single-core machine? . A data race occurs when a program contains two conflicting accesses (write/write or read/write) that are not ordered by a happens-before relationship. This is the definition from Java Language Specification . My first instinct was to ask Claude . The answer I rec",
+      "date": null
     }
   ]
 }

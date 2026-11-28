@@ -4,17 +4,20 @@
     {
       "link": "https://mrbruh.com/asusrouter/",
       "title": "Unauthenticated RCE affecting 35 million ASUS routers",
-      "description": "Unauthenticated RCE affecting 35 million ASUS routers As part of my ongoing security research into six or seven different router vendors (see motorola and tplink), I ended up taking a look into ASUS and their router firmware. I ended up choosing the ASUS “RT-AX86U Pro” as a starting point for this research. It’s a popular WiFi 6 gaming router that released in 2022. It also has the ability to act a"
+      "description": "Unauthenticated RCE affecting 35 million ASUS routers As part of my ongoing security research into six or seven different router vendors (see motorola and tplink), I ended up taking a look into ASUS and their router firmware. I ended up choosing the ASUS “RT-AX86U Pro” as a starting point for this research. It’s a popular WiFi 6 gaming router that released in 2022. It also has the ability to act a",
+      "date": null
     },
     {
       "link": "https://mrbruh.com/amd2/",
       "title": "The RCE that AMD wouldn’t fix!",
-      "description": "The RCE that AMD wouldn’t fix After being interrupted multiple times by an annoying console window that would pop up periodically on my new gaming PC, I managed to track the offending executable down to AMD’s AutoUpdate software. In my frustration, I decided to punish this software by decompiling it to figure out how it worked, and accidentally discovered a trivial Remote Code Execution (RCE) vuln"
+      "description": "The RCE that AMD wouldn’t fix After being interrupted multiple times by an annoying console window that would pop up periodically on my new gaming PC, I managed to track the offending executable down to AMD’s AutoUpdate software. In my frustration, I decided to punish this software by decompiling it to figure out how it worked, and accidentally discovered a trivial Remote Code Execution (RCE) vuln",
+      "date": null
     },
     {
       "link": "https://mrbruh.com/msi_blackhole/",
       "title": "All vulnerability reports to MSI are bouncing due to a full mailbox",
-      "description": "All vulnerability reports to MSI are bouncing due to a full mailbox Today I tried to report a critical vulnerability I found in some MSI related software, which hopefully you all will be reading soon enough. However, in the process of reporting their vulnerability I have run into an issue I think all security researchers should be aware of. All vulnerability reports to psirt@msi.com are currently"
+      "description": "All vulnerability reports to MSI are bouncing due to a full mailbox Today I tried to report a critical vulnerability I found in some MSI related software, which hopefully you all will be reading soon enough. However, in the process of reporting their vulnerability I have run into an issue I think all security researchers should be aware of. All vulnerability reports to psirt@msi.com are currently",
+      "date": null
     }
   ]
 }

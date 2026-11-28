@@ -4,17 +4,20 @@
     {
       "link": "https://wadetregaskis.com/core-image-drops-a-jpeg-xls-alpha-channel/",
       "title": "Core Image drops a JPEG XL’s alpha channel",
-      "description": "A JPEG XL image with an alpha channel, loaded by Core Image itself – CIImage(data:) or CIImage(contentsOf:) – comes out with alpha 1.0 everywhere (i.e. no transparency) ImageIO decodes the same file correctly (CGImageSourceCreateImageAtIndex gives a CGImage with alphaInfo == .last and the right alpha), and CIImage(cgImage:) of that is right. So that’s one workaround.… Read more"
+      "description": "A JPEG XL image with an alpha channel, loaded by Core Image itself – CIImage(data:) or CIImage(contentsOf:) – comes out with alpha 1.0 everywhere (i.e. no transparency) ImageIO decodes the same file correctly (CGImageSourceCreateImageAtIndex gives a CGImage with alphaInfo == .last and the right alpha), and CIImage(cgImage:) of that is right. So that’s one workaround.… Read more",
+      "date": null
     },
     {
       "link": "https://wadetregaskis.com/vmware-fusion-crashing-on-vm-launch-on-macos-27-golden-gate/",
       "title": "VMware Fusion crashing on VM launch on macOS 27 Golden Gate",
-      "description": "After installing macOS 27 (up from 15 Sequoia) I found that VMware Fusion was basically useless – the app would launch, but as soon as I started any VM it would just exit. No crash report dialog, no error message, just gone. Long story short, it’s due to a change in behaviour in AppKit: Fusion… Read more"
+      "description": "After installing macOS 27 (up from 15 Sequoia) I found that VMware Fusion was basically useless – the app would launch, but as soon as I started any VM it would just exit. No crash report dialog, no error message, just gone. Long story short, it’s due to a change in behaviour in AppKit: Fusion… Read more",
+      "date": null
     },
     {
       "link": "https://wadetregaskis.com/unifi-express-7-mlo-breaks-apple-airplay/",
       "title": "UniFi Express 7 MLO breaks Apple AirPlay",
-      "description": "In UniFi / Ubiquiti’s defence, MLO is disabled by default and presents a warning in the settings when enabled: ⚠️ Although MLO can boost performance by combining bands, most WiFi 7 devices still operate on a single band — so any benefits may be limited. To avoid potential interoperability issues, we recommend not enabling it… Read more"
+      "description": "In UniFi / Ubiquiti’s defence, MLO is disabled by default and presents a warning in the settings when enabled: ⚠️ Although MLO can boost performance by combining bands, most WiFi 7 devices still operate on a single band — so any benefits may be limited. To avoid potential interoperability issues, we recommend not enabling it… Read more",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://lavafroth.is-a.dev/post/how-the-linux-kernel-initializes-the-stack/",
       "title": "How the Linux Kernel Initializes the Stack",
-      "description": "Everyone has their own way of looking at the program stack. Some say it grows up, others say it goes top to bottom. In this sketch I present to you the number line representation of the stack to clear up the confusion once and for all. It should also help understand what the Linux kernel is doing when a program gets executed."
+      "description": "Everyone has their own way of looking at the program stack. Some say it grows up, others say it goes top to bottom. In this sketch I present to you the number line representation of the stack to clear up the confusion once and for all. It should also help understand what the Linux kernel is doing when a program gets executed.",
+      "date": "2026-11-27"
     },
     {
       "link": "https://lavafroth.is-a.dev/post/a-spongebob-shader/",
       "title": "A Spongebob Shader",
-      "description": "I have been meaning to write about this for months now but it feels too trivial and I put it off. Well, here’s how I stumbled upon the spongebob shader: I was playing around with the equation of a squircle x 4 + y 4 = 1 x^4 + y^4 = 1 when I factored out the x and y raised to the powers of 4 as a square of squares. x 2 ⋅ x 2 + y 2 ⋅ y 2 = 1 x^2 \\cdot x^2 + y^2 \\cdot y^2 = 1 It helps to think of each squared term like x 2 x^2 as energy or intensity from a physics perspective."
+      "description": "I have been meaning to write about this for months now but it feels too trivial and I put it off. Well, here’s how I stumbled upon the spongebob shader: I was playing around with the equation of a squircle x 4 + y 4 = 1 x^4 + y^4 = 1 when I factored out the x and y raised to the powers of 4 as a square of squares. x 2 ⋅ x 2 + y 2 ⋅ y 2 = 1 x^2 \\cdot x^2 + y^2 \\cdot y^2 = 1 It helps to think of each squared term like x 2 x^2 as energy or intensity from a physics perspective.",
+      "date": "2026-11-21"
     },
     {
       "link": "https://lavafroth.is-a.dev/post/grug-rephrase-to-comprehend/",
       "title": "Grug-rephrase to Comprehend",
-      "description": "One of the core problems of memory and recall is making ideas stick in the long run. I have been a huge proponent of Anki flashcards for pure memorization. However, some ideas are better suited for on-the-fly derivation from a few axioms. These ideas may originate from research papers or blog posts that we read. Research papers have notoriously been a source of slop, way before the advent of LLMs. After looking up unfamiliar terms and performing a more or less linear scan of the document, I find taking cliff notes in grug speak incredibly helpful."
+      "description": "One of the core problems of memory and recall is making ideas stick in the long run. I have been a huge proponent of Anki flashcards for pure memorization. However, some ideas are better suited for on-the-fly derivation from a few axioms. These ideas may originate from research papers or blog posts that we read. Research papers have notoriously been a source of slop, way before the advent of LLMs. After looking up unfamiliar terms and performing a more or less linear scan of the document, I find taking cliff notes in grug speak incredibly helpful.",
+      "date": "2026-08-18"
     }
   ]
 }

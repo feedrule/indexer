@@ -4,17 +4,20 @@
     {
       "link": "https://quin.fyi/posts/sapi-code-page.html",
       "title": "How one manifest line broke ä and ö",
-      "description": "A Finnish SAPI 5 voice garbled every ä and ö in Paperback's read aloud, and the cause turned out to be a single line in Paperback's app manifest."
+      "description": "A Finnish SAPI 5 voice garbled every ä and ö in Paperback's read aloud, and the cause turned out to be a single line in Paperback's app manifest.",
+      "date": "2026-11-26"
     },
     {
       "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
       "title": "How WinHelp files work",
-      "description": "A tour of the WinHelp .hlp format, from its file system in a file to its two layers of compression, written while I was recovering from wisdom teeth surgery."
+      "description": "A tour of the WinHelp .hlp format, from its file system in a file to its two layers of compression, written while I was recovering from wisdom teeth surgery.",
+      "date": "2026-11-26"
     },
     {
       "link": "https://quin.fyi/posts/tdsr-with-nvda.html",
       "title": "tdsr through NVDA, over Tailscale",
-      "description": "Run tdsr on a remote machine and hear it through NVDA on Windows, with TDSR Server, Tailscale, and a PuTTY app module that keeps NVDA quiet."
+      "description": "Run tdsr on a remote machine and hear it through NVDA on Windows, with TDSR Server, Tailscale, and a PuTTY app module that keeps NVDA quiet.",
+      "date": "2026-11-19"
     }
   ]
 }

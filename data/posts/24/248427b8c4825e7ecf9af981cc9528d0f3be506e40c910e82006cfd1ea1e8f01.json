@@ -4,17 +4,20 @@
     {
       "link": "https://parameterfree.com/2026/11/18/the-wrong-explanation-of-preconditioning/",
       "title": "The Wrong Explanation of Preconditioning",
-      "description": "These days, preconditioners seem to be everywhere. In discussions of deep learning optimizers, we collect gradients, build matrices, take matrix roots, and call the result “an adaptation to the geometry of the problem.” The matrices can be diagonal, block diagonal, or Kronecker factored. There is an impressive amount of linear algebra involved. But what, exactly, […]"
+      "description": "These days, preconditioners seem to be everywhere. In discussions of deep learning optimizers, we collect gradients, build matrices, take matrix roots, and call the result “an adaptation to the geometry of the problem.” The matrices can be diagonal, block diagonal, or Kronecker factored. There is an impressive amount of linear algebra involved. But what, exactly, […]",
+      "date": null
     },
     {
       "link": "https://parameterfree.com/2026/05/02/multi-scale-expert-algorithm-to-tune-learning-rates/",
       "title": "Multi-scale Expert Algorithm to Tune Learning Rates",
-      "description": "This time we consider an application of Online Mirror Descent (OMD) to the problem of prediction with multi-scale expert advice. In this setting, at each time step , an algorithm selects a probability distribution over a set of experts (or actions). After observing a loss vector , the algorithm incurs a loss of . The […]"
+      "description": "This time we consider an application of Online Mirror Descent (OMD) to the problem of prediction with multi-scale expert advice. In this setting, at each time step , an algorithm selects a probability distribution over a set of experts (or actions). After observing a loss vector , the algorithm incurs a loss of . The […]",
+      "date": null
     },
     {
       "link": "https://parameterfree.com/2026/04/06/from-online-learning-to-non-convex-non-smooth-optimization/",
       "title": "From Online Learning to Non-convex Non-smooth Optimization",
-      "description": "This is the last post in this series to show that online learning is more than online learning. This time it is about using an online linear optimization algorithm to minimize non-convex, non-smooth functions with access to stochastic gradients. Unlike in the previous two posts, here we will actually use the online algorithm itself, not […]"
+      "description": "This is the last post in this series to show that online learning is more than online learning. This time it is about using an online linear optimization algorithm to minimize non-convex, non-smooth functions with access to stochastic gradients. Unlike in the previous two posts, here we will actually use the online algorithm itself, not […]",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://candid.dev/blog/many-hells-of-webdav/",
       "title": "Many Hells of WebDAV",
-      "description": "Implementing a WebDAV/CalDAV client and server should be easy! It’s a well documented spec, standardized in the early 00s, and somewhat widely supported. At least, that’s the naive assumption we started from when creating one for Homechart. Existing Go Implementations Now before you mention NIH syndrome, yes, we looked at the existing Go implementation, go-webdav . This library was lacking some ke"
+      "description": "Implementing a WebDAV/CalDAV client and server should be easy! It’s a well documented spec, standardized in the early 00s, and somewhat widely supported. At least, that’s the naive assumption we started from when creating one for Homechart. Existing Go Implementations Now before you mention NIH syndrome, yes, we looked at the existing Go implementation, go-webdav . This library was lacking some ke",
+      "date": null
     },
     {
       "link": "https://candid.dev/blog/becoming-an-ai-company/",
       "title": "Becoming an AI Company",
-      "description": "Over the past years, we’ve been listening to our users feedback, either directly or through invasive telemetry, and have amassed quite the backlog. A backlog filled with our users hopes, problems, desires, and in some cases, their social security numbers. It is with a heavy heart that we say goodbye to that backlog as we transition ourselves from a Product Company™ to an AI Company™. For the past"
+      "description": "Over the past years, we’ve been listening to our users feedback, either directly or through invasive telemetry, and have amassed quite the backlog. A backlog filled with our users hopes, problems, desires, and in some cases, their social security numbers. It is with a heavy heart that we say goodbye to that backlog as we transition ourselves from a Product Company™ to an AI Company™. For the past",
+      "date": null
     },
     {
       "link": "https://candid.dev/blog/dont-procrastinate-iterate/",
       "title": "Don't Procrastinate, Iterate",
-      "description": "Developing software can be hard, especially when you’re developing something new. The anxiety over creating new code causes a lot of folks in the industry to get the opposite of tunnel vision, forest vision : even though they’re only supposed to be working on a tree, all they see is the forest of additional stuff that needs to happen. And it’s overwhelming, like staring into the abyss. This anxiet"
+      "description": "Developing software can be hard, especially when you’re developing something new. The anxiety over creating new code causes a lot of folks in the industry to get the opposite of tunnel vision, forest vision : even though they’re only supposed to be working on a tree, all they see is the forest of additional stuff that needs to happen. And it’s overwhelming, like staring into the abyss. This anxiet",
+      "date": null
     }
   ]
 }

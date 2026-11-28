@@ -4,17 +4,20 @@
     {
       "link": "https://a-chacon.com/en/posts/2026-08-13-rss-para-la-resistencia/",
       "title": "Resistance Technologies: RSS",
-      "description": "This post was originally published on hackinta.cl In case you hadn’t noticed, when you visit our Hackinta Blog page, a button appears that says: RSS . These stand for Really Simple Syndication , something like really simple distribution . Those who have heard of this technology at some point might say it’s a thing of the past, like accessing a page via HTTP. But that’s not quite the case — RSS is"
+      "description": "This post was originally published on hackinta.cl In case you hadn’t noticed, when you visit our Hackinta Blog page, a button appears that says: RSS . These stand for Really Simple Syndication , something like really simple distribution . Those who have heard of this technology at some point might say it’s a thing of the past, like accessing a page via HTTP. But that’s not quite the case — RSS is",
+      "date": null
     },
     {
       "link": "https://a-chacon.com/en/posts/2026-08-06-where-are-the-benefits-of-use-ai/",
       "title": "Where Are the Benefits of Programming with AI?",
-      "description": "Where are the benefits of using AI? Last Monday I woke up with this question on my mind, I, from my corner of the world far away from big techs, millions of dollars, datacenters, posts on X and LLM-generated posts on LinkedIn. Eight years ago I started working as a programmer, two at the company where I am currently and one since they started pushing us to use AI to accelerate the development proc"
+      "description": "Where are the benefits of using AI? Last Monday I woke up with this question on my mind, I, from my corner of the world far away from big techs, millions of dollars, datacenters, posts on X and LLM-generated posts on LinkedIn. Eight years ago I started working as a programmer, two at the company where I am currently and one since they started pushing us to use AI to accelerate the development proc",
+      "date": null
     },
     {
       "link": "https://a-chacon.com/en/posts/2026-06-23-introducing-procman-for-procfile-based-apps/",
       "title": "Procman: An alternative for running Procfile apps",
-      "description": "Some time ago, we migrated our work application from Rails 6 to Rails 8 in one big jump and adopted several new features that came with this version. One of those was a Procfile that defined the necessary processes to run the application in local environments, which is executed when you run bin/dev . If you look at the code of this file, you will find the real responsible party for executing all t"
+      "description": "Some time ago, we migrated our work application from Rails 6 to Rails 8 in one big jump and adopted several new features that came with this version. One of those was a Procfile that defined the necessary processes to run the application in local environments, which is executed when you run bin/dev . If you look at the code of this file, you will find the real responsible party for executing all t",
+      "date": null
     }
   ]
 }

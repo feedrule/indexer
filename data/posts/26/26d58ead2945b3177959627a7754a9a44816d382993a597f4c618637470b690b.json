@@ -4,17 +4,20 @@
     {
       "link": "https://brunoluiz.net/talks/",
       "title": "Talks",
-      "description": "Meetups and conferences where I have spoken."
+      "description": "Meetups and conferences where I have spoken.",
+      "date": null
     },
     {
       "link": "https://brunoluiz.net/blog/2026/jun/crossplane-providers/",
       "title": "How Crossplane providers work and how to implement one",
-      "description": "A guide for building Crossplane providers in Golang, from the reconciler lifecycle to examples of how to implement and best practices."
+      "description": "A guide for building Crossplane providers in Golang, from the reconciler lifecycle to examples of how to implement and best practices.",
+      "date": null
     },
     {
       "link": "https://brunoluiz.net/blog/2026/apr/say-no/",
       "title": "Engineers must learn how to say \"no\"",
-      "description": "A reminder to my future self and a guide for those early in their careers on why “no” is often the most productive word in an engineer vocabulary."
+      "description": "A reminder to my future self and a guide for those early in their careers on why “no” is often the most productive word in an engineer vocabulary.",
+      "date": null
     }
   ]
 }

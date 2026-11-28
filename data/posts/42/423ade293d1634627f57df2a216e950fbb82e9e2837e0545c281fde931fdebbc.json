@@ -4,17 +4,20 @@
     {
       "link": "https://jaredsinclair.com/2026/11/24/machine-learning.html",
       "title": "And Forgive Us Our Trespasses",
-      "description": "We are building the final machine that will either destroy or enslave us all, and we’re helping the Chinese build it, too, because their money is good, even though we will tell you again tomorrow that nothing could be worse for America and her interests than the machine being Chinese. Or Russian, for that matter. That guy who promised to have and to hold and to never sell chips to our adversaries?"
+      "description": "We are building the final machine that will either destroy or enslave us all, and we’re helping the Chinese build it, too, because their money is good, even though we will tell you again tomorrow that nothing could be worse for America and her interests than the machine being Chinese. Or Russian, for that matter. That guy who promised to have and to hold and to never sell chips to our adversaries?",
+      "date": null
     },
     {
       "link": "https://jaredsinclair.com/2025/09/10/observation.html",
       "title": "Observation. No, the framework. No, the class. Which one ends with ess?",
-      "description": "(Note: Every buzz-and-nonbuzz word of this post was painstakingly conceived and typed by hand using a real-ass keyboard and a real-ass text editor running on my personal computer in my home office outside Cleveland, Ohio. No GPUs were harmed in the making of this film.)"
+      "description": "(Note: Every buzz-and-nonbuzz word of this post was painstakingly conceived and typed by hand using a real-ass keyboard and a real-ass text editor running on my personal computer in my home office outside Cleveland, Ohio. No GPUs were harmed in the making of this film.)",
+      "date": null
     },
     {
       "link": "https://jaredsinclair.com/2024/11/12/beware-unchecked.html",
       "title": "Beware @unchecked Sendable, or Watch Out for Counterintuitive Implicit Actor-Isolation",
-      "description": "I ran into some unexpected runtime crashes recently while testing an app on iOS 18 compiled under Swift 6 language mode, and the root causes ended up being the perils of using @unchecked Sendable in combination with some counterintuitive compiler behavior with implicit actor isolation. Rather than start at the end, I’ll walk you through how I introduced the crash, and then what I did to resolve it"
+      "description": "I ran into some unexpected runtime crashes recently while testing an app on iOS 18 compiled under Swift 6 language mode, and the root causes ended up being the perils of using @unchecked Sendable in combination with some counterintuitive compiler behavior with implicit actor isolation. Rather than start at the end, I’ll walk you through how I introduced the crash, and then what I did to resolve it",
+      "date": null
     }
   ]
 }

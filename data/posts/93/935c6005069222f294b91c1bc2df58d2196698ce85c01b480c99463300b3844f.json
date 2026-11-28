@@ -4,17 +4,20 @@
     {
       "link": "https://julianlbauer.com/writing/markdown-to-typst",
       "title": "Converting all my Markdown notes to Typst",
-      "description": "Using Pandoc to upgrade more than 400 notes."
+      "description": "Using Pandoc to upgrade more than 400 notes.",
+      "date": null
     },
     {
       "link": "https://julianlbauer.com/writing/typst-helix-config",
       "title": "Configuring Helix for convenient Typst previewing",
-      "description": "Guide to configure Helix to open Typst preview in a dedicated window on-demand."
+      "description": "Guide to configure Helix to open Typst preview in a dedicated window on-demand.",
+      "date": null
     },
     {
       "link": "https://julianlbauer.com/writing/idris-sorting",
       "title": "Formally verifying insertion sort in Idris",
-      "description": "Using the dependently-typed programming language Idris to verify insertion sort."
+      "description": "Using the dependently-typed programming language Idris to verify insertion sort.",
+      "date": null
     }
   ]
 }

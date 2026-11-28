@@ -4,17 +4,20 @@
     {
       "link": "https://codebycorey.com/blog/migrating-from-nextjs-to-astro-with-claude-code/",
       "title": "I Migrated My Blog from Next.js to Astro with Claude Code",
-      "description": "My personal blog was running on Next.js 14 with Supabase. It was overkill. I used Claude Code and agent teams to migrate to Astro and Convex in a single session."
+      "description": "My personal blog was running on Next.js 14 with Supabase. It was overkill. I used Claude Code and agent teams to migrate to Astro and Convex in a single session.",
+      "date": "2026-02-11"
     },
     {
       "link": "https://codebycorey.com/blog/my-dev-environment/",
       "title": "My Dev Environment and Dotfiles Setup",
-      "description": "A walkthrough of my macOS development environment — terminal, editor, window management, and how I manage it all with a dotfiles repo and GNU Stow."
+      "description": "A walkthrough of my macOS development environment — terminal, editor, window management, and how I manage it all with a dotfiles repo and GNU Stow.",
+      "date": "2026-02-09"
     },
     {
       "link": "https://codebycorey.com/blog/building-a-claude-code-plugin-for-spec-driven-development/",
       "title": "Building a Claude Code Plugin for Spec-Driven Development",
-      "description": "I built a Claude Code plugin called delta-spec that brings spec-driven development to AI-assisted coding. Here is what I learned from dogfooding it to build itself."
+      "description": "I built a Claude Code plugin called delta-spec that brings spec-driven development to AI-assisted coding. Here is what I learned from dogfooding it to build itself.",
+      "date": "2026-02-05"
     }
   ]
 }

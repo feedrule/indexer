@@ -4,17 +4,20 @@
     {
       "link": "https://technotim.com/posts/gtx-1080-local-ai-agent/",
       "title": "Turning my GTX 1080 into a local AI agent",
-      "description": "After building my self-hosted AI platform, I started thinking about some of the even older hardware I still had. I’d already found useful jobs for several GPUs, but my EVGA GTX 1080 was sitting around doing nothing. I wanted to see whether I could put it back to work. This time, I wanted an agent that could help with my homelab. Something I could ask to connect to a server, deploy a container,..."
+      "description": "After building my self-hosted AI platform, I started thinking about some of the even older hardware I still had. I’d already found useful jobs for several GPUs, but my EVGA GTX 1080 was sitting around doing nothing. I wanted to see whether I could put it back to work. This time, I wanted an agent that could help with my homelab. Something I could ask to connect to a server, deploy a container,...",
+      "date": null
     },
     {
       "link": "https://technotim.com/posts/github-universe-2026/",
       "title": "My Reflections on GitHub Universe 2026",
-      "description": "Last week I attended GitHub Universe in San Francisco. I’ve had some time to reflect and collect my thoughts, so I figured I’d share them. Many of you might be wondering what actually goes on at GitHub Universe. I had the same thought going in. I knew there would be announcements and technical sessions, but I wasn’t entirely sure what else to expect. The best way I can describe it is that it’..."
+      "description": "Last week I attended GitHub Universe in San Francisco. I’ve had some time to reflect and collect my thoughts, so I figured I’d share them. Many of you might be wondering what actually goes on at GitHub Universe. I had the same thought going in. I knew there would be announcements and technical sessions, but I wasn’t entirely sure what else to expect. The best way I can describe it is that it’...",
+      "date": null
     },
     {
       "link": "https://technotim.com/posts/my-self-hosted-ai-platform/",
       "title": "My self-hosted AI platform with vLLM and Semantic Router",
-      "description": "I’ve been running local AI models for a while now, and the models themselves are only part of the problem. I’ve got different GPUs, a couple of other AI machines, models running in vLLM, and a few things I want to run on the Intel NPU. Then there are the applications that need to use all of this. GitHub Copilot, Open WebUI, Home Assistant, and anything else that can talk to an OpenAI-compatible..."
+      "description": "I’ve been running local AI models for a while now, and the models themselves are only part of the problem. I’ve got different GPUs, a couple of other AI machines, models running in vLLM, and a few things I want to run on the Intel NPU. Then there are the applications that need to use all of this. GitHub Copilot, Open WebUI, Home Assistant, and anything else that can talk to an OpenAI-compatible...",
+      "date": null
     }
   ]
 }

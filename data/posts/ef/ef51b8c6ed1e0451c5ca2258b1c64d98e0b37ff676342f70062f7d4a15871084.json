@@ -4,17 +4,20 @@
     {
       "link": "https://www.willhallonline.co.uk/blog/2026-09-12-docker-ansible-6-4-8-and-the-projects-around-it/",
       "title": "Docker Ansible 6.4.8 and the Projects Around It",
-      "description": "Docker Ansible’s latest releases add health checks, update Python packaging, refresh Alpine support, and align the project’s test image and GitHub Action."
+      "description": "Docker Ansible’s latest releases add health checks, update Python packaging, refresh Alpine support, and align the project’s test image and GitHub Action.",
+      "date": null
     },
     {
       "link": "https://www.willhallonline.co.uk/blog/2026-09-12-documentation-in-a-post-ai-agent-world/",
       "title": "Documentation in a Post-AI-Agent World",
-      "description": "The documentation for Docker Ansible has always had a fairly practical job: explain which image to pull, which tag to choose, what is inside it, and how to run it. As the project has accumulated Ansible Core versions, base operating systems, architectures and older tags, the README has become more than an introduction. It is an operational reference. That feels increasingly important in a post-AI-"
+      "description": "The documentation for Docker Ansible has always had a fairly practical job: explain which image to pull, which tag to choose, what is inside it, and how to run it. As the project has accumulated Ansible Core versions, base operating systems, architectures and older tags, the README has become more than an introduction. It is an operational reference. That feels increasingly important in a post-AI-",
+      "date": null
     },
     {
       "link": "https://www.willhallonline.co.uk/blog/2026-08-23-improving-home-wifi-what-the-tests-revealed/",
       "title": "Improving home Wi-Fi: what the tests revealed",
-      "description": "I spent some time testing my home Wi-Fi properly this weekend, mainly because it felt “mostly fine” but not always great when the network was busy. The quick summary is: signal strength was never really the issue. In normal use, everything looked strong: Wi-Fi 6 on 5 GHz Signal around -40 dBm (excellent) Link rate up to 1200 Mbps Download around 450-460 Mbps Upload around 52-59 Mbps No packet loss"
+      "description": "I spent some time testing my home Wi-Fi properly this weekend, mainly because it felt “mostly fine” but not always great when the network was busy. The quick summary is: signal strength was never really the issue. In normal use, everything looked strong: Wi-Fi 6 on 5 GHz Signal around -40 dBm (excellent) Link rate up to 1200 Mbps Download around 450-460 Mbps Upload around 52-59 Mbps No packet loss",
+      "date": null
     }
   ]
 }

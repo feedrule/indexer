@@ -4,17 +4,20 @@
     {
       "link": "https://alexanderhoughton.co.uk/blog/letting-ai-off-the-lead-slim-graphics/",
       "title": "🐕 Letting AI off the lead: Slim Graphics",
-      "description": "I let Claude loose on my toy graphics engine: a Vulkan backend, GPU-driven test scenes and a ray-traced PBR renderer in 24 hours. But what did I learn?"
+      "description": "I let Claude loose on my toy graphics engine: a Vulkan backend, GPU-driven test scenes and a ray-traced PBR renderer in 24 hours. But what did I learn?",
+      "date": null
     },
     {
       "link": "https://alexanderhoughton.co.uk/blog/outsourcing-to-ai-converting-alexanderhoughton-co-uk-from-wordpress-to-hugo/",
       "title": "🤖 Outsourcing to AI: Converting AlexanderHoughton.co.uk from Wordpress to Hugo",
-      "description": "How I handed the whole job of moving this website from WordPress to Hugo over to Claude Code, what impressed me, and how the AI says it did it."
+      "description": "How I handed the whole job of moving this website from WordPress to Hugo over to Claude Code, what impressed me, and how the AI says it did it.",
+      "date": null
     },
     {
       "link": "https://alexanderhoughton.co.uk/uncategorized/%F0%9F%93%8A-evaluating-threading-performance-relationship-with-memory-bandwidth-cpu-caches-arm-cortex-a53/",
       "title": "📊 Evaluating Threading Performance Relationship With Memory Bandwidth & CPU Caches (ARM Cortex-A53)",
-      "description": "Should you always throw more threads at a problem to try and make it faster? As with so many problems in computing the answers is often “It Depends”. In…"
+      "description": "Should you always throw more threads at a problem to try and make it faster? As with so many problems in computing the answers is often “It Depends”. In…",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.whizzy.org/2026-06-14-growatt-shinewifi-x-esphome-modbus-bridge/",
       "title": "The Growatt ShineWiFi-X 'USB' dongle is really a Modbus bridge, so I reflashed it with ESPHome",
-      "description": "TL;DR The Growatt ShineWiFi-X is a Wi-Fi dongle that plugs into the “USB” port on a Growatt inverter. Inside it is an ESP8266. The port looks like USB but it is not: the pins carry plain TTL serial, and what flows over that serial line is Modbus. So the dongle..."
+      "description": "TL;DR The Growatt ShineWiFi-X is a Wi-Fi dongle that plugs into the “USB” port on a Growatt inverter. Inside it is an ESP8266. The port looks like USB but it is not: the pins carry plain TTL serial, and what flows over that serial line is Modbus. So the dongle...",
+      "date": null
     },
     {
       "link": "https://www.whizzy.org/2026-06-07-home-assistant-disable-polling-bluetooth-proxy-slots/",
       "title": "The hidden Home Assistant setting that frees your Bluetooth proxy connection slots",
-      "description": "TL;DR If you control Bluetooth devices through ESPHome Bluetooth proxies, some integrations connect once and then never let go, holding a precious proxy connection slot open forever. There is a built-in, per-device Home Assistant setting that fixes this: turn off “Enable polling for changes” on the config entry. The integration..."
+      "description": "TL;DR If you control Bluetooth devices through ESPHome Bluetooth proxies, some integrations connect once and then never let go, holding a precious proxy connection slot open forever. There is a built-in, per-device Home Assistant setting that fixes this: turn off “Enable polling for changes” on the config entry. The integration...",
+      "date": null
     },
     {
       "link": "https://www.whizzy.org/2026-05-16-setup-with-claude/",
       "title": "Writing setup docs for an AI: a pattern for small, complex projects",
-      "description": "TL;DR I built a small personal-scale tool (Bookcast) — drop audiobooks into a Google Drive folder, get RSS feeds you can subscribe to in any podcast app. The setup involves a Google Cloud project, an OAuth client, the Apps Script editor, and clasp. That’s not hard, but it’s the kind..."
+      "description": "TL;DR I built a small personal-scale tool (Bookcast) — drop audiobooks into a Google Drive folder, get RSS feeds you can subscribe to in any podcast app. The setup involves a Google Cloud project, an OAuth client, the Apps Script editor, and clasp. That’s not hard, but it’s the kind...",
+      "date": null
     }
   ]
 }

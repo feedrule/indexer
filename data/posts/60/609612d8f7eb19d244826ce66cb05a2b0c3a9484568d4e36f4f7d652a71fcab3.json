@@ -4,17 +4,20 @@
     {
       "link": "https://crystallabs.io/davinci-resolve-studio-debian-ubuntu/",
       "title": "Running DaVinci Resolve Studio on Debian GNU/Linux, Ubuntu, Devuan GNU+Linux",
-      "description": "Introduction This article summarizes the simple instructions for running DaVinci Resolve and DaVinci Resolve Studio video editing software on Debian GNU/Linux-based systems. Supported Distributions DaVinci Resolve and Resolve Studio work fine on Debian and Ubuntu. Release of Debian tested was Debian 12 (bookworm) amd64. Due to reliance on systemd, the application will not work on Devuan GNU+Linux."
+      "description": "Introduction This article summarizes the simple instructions for running DaVinci Resolve and DaVinci Resolve Studio video editing software on Debian GNU/Linux-based systems. Supported Distributions DaVinci Resolve and Resolve Studio work fine on Debian and Ubuntu. Release of Debian tested was Debian 12 (bookworm) amd64. Due to reliance on systemd, the application will not work on Devuan GNU+Linux.",
+      "date": null
     },
     {
       "link": "https://crystallabs.io/software-licensing/",
       "title": "Software Licensing - Terms and Licenses Explained",
-      "description": "Introduction Software licensing is an area where the discrepancy between users’ and companies’ interests is glaringly obvious. Even when users are not interested in the licensing terms of a particular product, they are still bound by them. It is exactly those terms that have shaped the product, its monetization methods, and its whole ecosystem. Commercial companies attract users by emphasizing sho"
+      "description": "Introduction Software licensing is an area where the discrepancy between users’ and companies’ interests is glaringly obvious. Even when users are not interested in the licensing terms of a particular product, they are still bound by them. It is exactly those terms that have shaped the product, its monetization methods, and its whole ecosystem. Commercial companies attract users by emphasizing sho",
+      "date": null
     },
     {
       "link": "https://crystallabs.io/unix-philosophy-explained/",
       "title": "The Unix Philosophy - Explained and Extended",
-      "description": "Introduction This article explains the principles on which Unix is based in more detail, gives additional examples and clarifications, and ends with an extended description of the Unix philosophy. Unix and its most popular branches, BSD and GNU/Linux, run on everything and everywhere – on all top 500 supercomputers (GNU/Linux), all Intel CPUs after 2015 (MINIX), all mobile phones and tablets (Andr"
+      "description": "Introduction This article explains the principles on which Unix is based in more detail, gives additional examples and clarifications, and ends with an extended description of the Unix philosophy. Unix and its most popular branches, BSD and GNU/Linux, run on everything and everywhere – on all top 500 supercomputers (GNU/Linux), all Intel CPUs after 2015 (MINIX), all mobile phones and tablets (Andr",
+      "date": null
     }
   ]
 }

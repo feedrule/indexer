@@ -4,17 +4,20 @@
     {
       "link": "https://zhul.in/2026/11/10/xiaomi-double-click-power-google-wallet/",
       "title": "Opening Google Wallet with a Double Press of the Power Button on a China-Version Xiaomi 15: It Only Takes One adb Command",
-      "description": "In my previous post about FCM , I mentioned that I was getting ready to study abroad. Now that I'm actually overseas, I tap my card for almost everything—getting on the bus, buying coffee—so Google Wallet has become one of the most-used apps on my phone. But on the China version of HyperOS, \"double-press the power button\" can only open Mi Wallet. Every time I pull out my phone I have to unlock it,"
+      "description": "In my previous post about FCM , I mentioned that I was getting ready to study abroad. Now that I'm actually overseas, I tap my card for almost everything—getting on the bus, buying coffee—so Google Wallet has become one of the most-used apps on my phone. But on the China version of HyperOS, \"double-press the power button\" can only open Mi Wallet. Every time I pull out my phone I have to unlock it,",
+      "date": null
     },
     {
       "link": "https://zhul.in/2026/07/17/my-router-proxy-plan-with-cudy-tr3000-and-n100/",
       "title": "Cudy TR3000 Can't Eat the Whole Cake Anymore – Introducing HomeServer as Proxy Helper",
-      "description": "Background Let me start with a quick note: in the rest of this post, \"dae,\" \"daed,\" and \"mihomo\" refer to the familiar transparent proxy stack you already know. I previously documented my experience running daed on the Cudy TR3000 . Back in my internship apartment, the broadband was only 200 Mbps—I ran some tests and found that proxy throughput could saturate the connection, and the CPU seemed to"
+      "description": "Background Let me start with a quick note: in the rest of this post, \"dae,\" \"daed,\" and \"mihomo\" refer to the familiar transparent proxy stack you already know. I previously documented my experience running daed on the Cudy TR3000 . Back in my internship apartment, the broadband was only 200 Mbps—I ran some tests and found that proxy throughput could saturate the connection, and the CPU seemed to",
+      "date": null
     },
     {
       "link": "https://zhul.in/2026/05/28/nuxt-ssg-trailing-slash-hydration-trap/",
       "title": "How Should You Handle Trailing Slashes in a Nuxt SSG Blog?",
-      "description": "This blog is a pure SSG site built with Nuxt v4, Nuxt Content v3, and i18n. When I first set it up, I casually made what looked like an unimportant decision: every page URL should end with a trailing slash . It sounded like the kind of thing that should be solved with a single config line. In practice, Nuxt still has no unified official switch for trailing slash handling ( nuxt/nuxt#15462 has been"
+      "description": "This blog is a pure SSG site built with Nuxt v4, Nuxt Content v3, and i18n. When I first set it up, I casually made what looked like an unimportant decision: every page URL should end with a trailing slash . It sounded like the kind of thing that should be solved with a single config line. In practice, Nuxt still has no unified official switch for trailing slash handling ( nuxt/nuxt#15462 has been",
+      "date": null
     }
   ]
 }

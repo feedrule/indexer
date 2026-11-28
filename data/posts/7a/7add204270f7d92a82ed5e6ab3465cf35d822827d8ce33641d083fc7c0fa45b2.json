@@ -4,17 +4,20 @@
     {
       "link": "https://blog.dashmage.dev/photoblog-setup/",
       "title": "Setting up a Tiny Photoblog",
-      "description": "I've been wanting to put up some photos I've taken over the years, on the internet, for both myself and close contacts where I could hand them a link to check out. These are pictures I enjoy due to their composition, the colours or even just the memory around capturing it. Now I know what you must be thinking - upload it on Instagram! But I didn't want to do this for a few reasons. I wanted these"
+      "description": "I've been wanting to put up some photos I've taken over the years, on the internet, for both myself and close contacts where I could hand them a link to check out. These are pictures I enjoy due to their composition, the colours or even just the memory around capturing it. Now I know what you must be thinking - upload it on Instagram! But I didn't want to do this for a few reasons. I wanted these",
+      "date": null
     },
     {
       "link": "https://blog.dashmage.dev/ai-agent-experience/",
       "title": "AI Agent Experience",
-      "description": "Recently, I've been seeing many reports of experienced developers fully embracing the productivity boost offered by AI-assisted development. It looks especially useful for low-stakes personal projects where the code doesn't need to be production-ready but only get the job done. I've never believed in the utility of \"vibe coding\" until now. Vibe coding , for those developers who have been avoiding"
+      "description": "Recently, I've been seeing many reports of experienced developers fully embracing the productivity boost offered by AI-assisted development. It looks especially useful for low-stakes personal projects where the code doesn't need to be production-ready but only get the job done. I've never believed in the utility of \"vibe coding\" until now. Vibe coding , for those developers who have been avoiding",
+      "date": null
     },
     {
       "link": "https://blog.dashmage.dev/easy-borg-restores/",
       "title": "Easy Borg Restores",
-      "description": "I recently setup Borg to perform backups of local files to a remote server 1 . As part of that, I was also checking out the backup restoration process. You don't want to be in a situation where you've put in place an elaborate backup strategy but haven't tested out how to restore files in case things go sideways. First, we need to list the archives for the remote repository. You can think of an ar"
+      "description": "I recently setup Borg to perform backups of local files to a remote server 1 . As part of that, I was also checking out the backup restoration process. You don't want to be in a situation where you've put in place an elaborate backup strategy but haven't tested out how to restore files in case things go sideways. First, we need to list the archives for the remote repository. You can think of an ar",
+      "date": null
     }
   ]
 }

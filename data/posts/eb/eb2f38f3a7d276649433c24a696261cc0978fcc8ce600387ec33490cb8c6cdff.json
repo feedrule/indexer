@@ -4,17 +4,20 @@
     {
       "link": "https://newbmiao.github.io/what-matters-in-aiops.html",
       "title": "AI-Driven Terraform: Move Fast Without Losing Control",
-      "description": "Keep AI-authored Terraform inside a defined scope, verify it with scripts and policy, and reserve production writes for approved CI/CD runs."
+      "description": "Keep AI-authored Terraform inside a defined scope, verify it with scripts and policy, and reserve production writes for approved CI/CD runs.",
+      "date": "2026-11-27"
     },
     {
       "link": "https://newbmiao.github.io/flt-dev-rewards.html",
       "title": "Fluence FLT drop — claim guide for eligible GitHub Web3 devs",
-      "description": "GitHub eligibility on claim.fluence.network, proof CLI, ETH mainnet gas, and OKX top-up gotchas."
+      "description": "GitHub eligibility on claim.fluence.network, proof CLI, ETH mainnet gas, and OKX top-up gotchas.",
+      "date": "2026-11-20"
     },
     {
       "link": "https://newbmiao.github.io/rust-tower-service.html",
       "title": "Tower Service and Layer — HTTP middleware chains with hyper",
-      "description": "How tower’s Service and Layer traits compose Logger, Timeout, and hyper handlers."
+      "description": "How tower’s Service and Layer traits compose Logger, Timeout, and hyper handlers.",
+      "date": "2026-11-20"
     }
   ]
 }

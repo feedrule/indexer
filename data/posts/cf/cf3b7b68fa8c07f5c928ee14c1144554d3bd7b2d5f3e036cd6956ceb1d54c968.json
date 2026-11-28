@@ -4,17 +4,20 @@
     {
       "link": "https://www.world-machine.com/blog/2026/11/halloween-notes/",
       "title": "Halloween Notes",
-      "description": "Build 4069 was released last week. There are a ton of improvements in it; I won’t try to describe all the changes here (read about it https://help.world-machine.com/topic/build-4069-dragontail-peak/ ), but I’m pretty happy with the improvements across the board in the areas that it attempted to improve (Working within the graph, Flow Restructure, general build performance). […]"
+      "description": "Build 4069 was released last week. There are a ton of improvements in it; I won’t try to describe all the changes here (read about it https://help.world-machine.com/topic/build-4069-dragontail-peak/ ), but I’m pretty happy with the improvements across the board in the areas that it attempted to improve (Working within the graph, Flow Restructure, general build performance). […]",
+      "date": null
     },
     {
       "link": "https://www.world-machine.com/blog/2026/09/september-notes-whats-next/",
       "title": "September Notes / Whats Next",
-      "description": "The first half of september was all about getting Build 4067 and its improvements and fixes out the door, as well as website changes. There is one more feature-build planned (4068) that contains a significant feature still missing from Dragontail, which is re-integrating the ridge breaking mode into flow restructure. That is almost ready – […]"
+      "description": "The first half of september was all about getting Build 4067 and its improvements and fixes out the door, as well as website changes. There is one more feature-build planned (4068) that contains a significant feature still missing from Dragontail, which is re-integrating the ridge breaking mode into flow restructure. That is almost ready – […]",
+      "date": null
     },
     {
       "link": "https://www.world-machine.com/blog/2026/08/wrapping-august/",
       "title": "Wrapping August",
-      "description": "Along with the Meshify improvements mentioned last time, the main push for the next build 4067 is build system quality of life improvements. One major example is that the background previewer now receives backpressure from memory usage and stops previewing if the usage starts getting too high. Previously, it would preview up to the maximum […]"
+      "description": "Along with the Meshify improvements mentioned last time, the main push for the next build 4067 is build system quality of life improvements. One major example is that the background previewer now receives backpressure from memory usage and stops previewing if the usage starts getting too high. Previously, it would preview up to the maximum […]",
+      "date": null
     }
   ]
 }

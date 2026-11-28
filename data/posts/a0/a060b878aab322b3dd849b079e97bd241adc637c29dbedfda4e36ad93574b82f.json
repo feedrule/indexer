@@ -4,17 +4,20 @@
     {
       "link": "https://interrupt.sh/blog/dockerfile-tags/",
       "title": "Use digests, not tags, in your Dockerfiles",
-      "description": "How mutable Docker tags can pwn your builds."
+      "description": "How mutable Docker tags can pwn your builds.",
+      "date": null
     },
     {
       "link": "https://interrupt.sh/blog/discovering-domains-via-ns-correlation/",
       "title": "Discovering domains via NS correlation",
-      "description": "A simple OSINT technique for discovering related domains."
+      "description": "A simple OSINT technique for discovering related domains.",
+      "date": null
     },
     {
       "link": "https://interrupt.sh/blog/certificate-transparency/",
       "title": "Alternative uses for Certificate Transparency",
-      "description": "What certificate transparency is, and some clever ways to use it beyond its original purpose."
+      "description": "What certificate transparency is, and some clever ways to use it beyond its original purpose.",
+      "date": null
     }
   ]
 }

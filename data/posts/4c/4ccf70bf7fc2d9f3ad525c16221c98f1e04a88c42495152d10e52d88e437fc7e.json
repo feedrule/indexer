@@ -4,17 +4,20 @@
     {
       "link": "https://www.moniquemudama.com/posts/2026/mongodb-read-defaults/",
       "title": "It's 9pm. Do you know where your Mongo calls are going?",
-      "description": "Note: Unless otherwise stated, this post describes how a MongoDB replica set behaves by default . If you want a more complete understanding of how you can tweak these behaviors, you can read the documentation for Read Preferences , Read Concerns , Write Concerns , and Sharding . Oh, and probably Causal Consistency as well. Now, on to the post. Some years ago, I worked at a company that used MongoD"
+      "description": "Note: Unless otherwise stated, this post describes how a MongoDB replica set behaves by default . If you want a more complete understanding of how you can tweak these behaviors, you can read the documentation for Read Preferences , Read Concerns , Write Concerns , and Sharding . Oh, and probably Causal Consistency as well. Now, on to the post. Some years ago, I worked at a company that used MongoD",
+      "date": null
     },
     {
       "link": "https://www.moniquemudama.com/posts/2026/cap-partitions/",
       "title": "CAP Theorem - Partition is a verb",
-      "description": "People who’ve spent some time around databases usually have an intuitive sense of ACID, even if the acronym slips their mind. And if you work with distributed systems, you usually have a rough idea of the CAP Theorem, even if the details are fuzzy. The first thing you remember about CAP is probably, “Pick two out of three.” And maybe you can even remember the letters without a search engine …"
+      "description": "People who’ve spent some time around databases usually have an intuitive sense of ACID, even if the acronym slips their mind. And if you work with distributed systems, you usually have a rough idea of the CAP Theorem, even if the details are fuzzy. The first thing you remember about CAP is probably, “Pick two out of three.” And maybe you can even remember the letters without a search engine …",
+      "date": null
     },
     {
       "link": "https://www.moniquemudama.com/posts/2025/fun-with-slices/",
       "title": "Fun With Golang Slices",
-      "description": "When I first encountered Go, I found slices puzzling. You can create slices from a starting slice or array, and the new slice will be a pointer to a portion of the original data. Got it. But wait, you can also append to the new slice - how does that even work? If you’re appending something to the new slice, what’s happening to the original slice? If it’s modified, does that mean you’re appending t"
+      "description": "When I first encountered Go, I found slices puzzling. You can create slices from a starting slice or array, and the new slice will be a pointer to a portion of the original data. Got it. But wait, you can also append to the new slice - how does that even work? If you’re appending something to the new slice, what’s happening to the original slice? If it’s modified, does that mean you’re appending t",
+      "date": null
     }
   ]
 }

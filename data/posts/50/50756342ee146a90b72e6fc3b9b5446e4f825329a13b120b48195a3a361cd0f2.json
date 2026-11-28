@@ -4,17 +4,20 @@
     {
       "link": "https://rivassec.com/secure-iam-lint-v1-2-0.html",
       "title": "secure-iam-lint v1.2.0: Catching Guardrails That Never Fire",
-      "description": "secure-iam-lint v1.2.0 flags SCP and RCP guardrails that never fire, adds baseline mode for noise-free PRs, and stabilizes SARIF fingerprints."
+      "description": "secure-iam-lint v1.2.0 flags SCP and RCP guardrails that never fire, adds baseline mode for noise-free PRs, and stabilizes SARIF fingerprints.",
+      "date": null
     },
     {
       "link": "https://rivassec.com/testing-an-iam-analyzer-against-its-own-claims.html",
       "title": "Testing an IAM Analyzer Against Its Own Claims",
-      "description": "I checked my IAM blast-radius analyzer against a catalog I did not write and a harness that attacks its own tests. Twice, a green build hid a wrong answer."
+      "description": "I checked my IAM blast-radius analyzer against a catalog I did not write and a harness that attacks its own tests. Twice, a green build hid a wrong answer.",
+      "date": null
     },
     {
       "link": "https://rivassec.com/prompt-injection-supply-chain-evasion.html",
       "title": "Prompt Injection Will Become a Supply Chain Evasion Technique",
-      "description": "Prompt injection's threat model is older than the term. The mechanism is new, the objective is the evasion goal attackers have pursued for decades."
+      "description": "Prompt injection's threat model is older than the term. The mechanism is new, the objective is the evasion goal attackers have pursued for decades.",
+      "date": null
     }
   ]
 }

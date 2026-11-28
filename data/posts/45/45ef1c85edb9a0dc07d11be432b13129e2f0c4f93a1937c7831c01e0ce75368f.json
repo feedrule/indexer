@@ -4,17 +4,20 @@
     {
       "link": "https://sinn.io/a-pen-license/",
       "title": "A Pen License",
-      "description": "A simpler time – where learning how to write had a beautiful artificial reward."
+      "description": "A simpler time – where learning how to write had a beautiful artificial reward.",
+      "date": null
     },
     {
       "link": "https://sinn.io/proxying-elasticsearch-through-kibana-using-python/",
       "title": "Proxying Elasticsearch through Kibana, using Python",
-      "description": "I've seen some need to permit access to Kibana, but not open up access to Elasticsearch's API (tcp/9200) directly. For this, and when you're using the elasticsearch-py Python Library, you can use the following transport in order to connect through your availab…"
+      "description": "I've seen some need to permit access to Kibana, but not open up access to Elasticsearch's API (tcp/9200) directly. For this, and when you're using the elasticsearch-py Python Library, you can use the following transport in order to connect through your availab…",
+      "date": null
     },
     {
       "link": "https://sinn.io/detection-studio/",
       "title": "detection.studio",
-      "description": "A new tool to help detection engineers get the most out of Sigma."
+      "description": "A new tool to help detection engineers get the most out of Sigma.",
+      "date": null
     }
   ]
 }

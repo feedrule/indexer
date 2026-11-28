@@ -4,17 +4,20 @@
     {
       "link": "https://networkphil.com/2026/10/28/scale-up-scale-out-and-scale-across-networking-for-gpu-workloads/",
       "title": "Scale-Up, Scale-Out, and Scale-Across Networking for GPU Workloads",
-      "description": "A large AI job isn’t just an application running over the network. Thousands of GPUs could be working together on the same job, repeatedly exchanging data and synchronizing before they can continue. That makes communication performance part of compute performance. In other words, a slow GPU is a problem, but so is a GPU waiting... Continue Reading →"
+      "description": "A large AI job isn’t just an application running over the network. Thousands of GPUs could be working together on the same job, repeatedly exchanging data and synchronizing before they can continue. That makes communication performance part of compute performance. In other words, a slow GPU is a problem, but so is a GPU waiting... Continue Reading →",
+      "date": null
     },
     {
       "link": "https://networkphil.com/2026/09/23/how-ai-factories-change-data-center-networking/",
       "title": "How AI Factories Change Data Center Networking",
-      "description": "At first glance, the network inside a modern AI factory can look very similar to a traditional data center network. You’ll see BGP, ECMP, high-radix switches, Clos fabrics, and, in many Ethernet environments, familiar technologies like EVPN-VXLAN. That may sound a lot like the data center networks we’ve been building for years, and in many... Continue Reading →"
+      "description": "At first glance, the network inside a modern AI factory can look very similar to a traditional data center network. You’ll see BGP, ECMP, high-radix switches, Clos fabrics, and, in many Ethernet environments, familiar technologies like EVPN-VXLAN. That may sound a lot like the data center networks we’ve been building for years, and in many... Continue Reading →",
+      "date": null
     },
     {
       "link": "https://networkphil.com/2026/09/16/understanding-asymmetric-and-symmetric-irb-in-evpn-vxlan-fabrics/",
       "title": "Understanding Asymmetric and Symmetric IRB in EVPN-VXLAN Fabrics",
-      "description": "EVPN-VXLAN can seem unnecessarily complicated until you stop looking at all the individual protocols and start following a packet through the network. IRB, or Integrated Routing and Bridging, allows a leaf switch to provide both layer 2 bridging within a subnet and layer 3 routing between subnets. In an EVPN-VXLAN fabric, there are two primary... Continue Reading →"
+      "description": "EVPN-VXLAN can seem unnecessarily complicated until you stop looking at all the individual protocols and start following a packet through the network. IRB, or Integrated Routing and Bridging, allows a leaf switch to provide both layer 2 bridging within a subnet and layer 3 routing between subnets. In an EVPN-VXLAN fabric, there are two primary... Continue Reading →",
+      "date": null
     }
   ]
 }

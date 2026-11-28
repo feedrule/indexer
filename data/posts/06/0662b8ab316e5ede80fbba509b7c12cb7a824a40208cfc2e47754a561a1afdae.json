@@ -4,17 +4,20 @@
     {
       "link": "https://renfoc.us/posts/1786642829-not_so_dirt_cheap_refactor",
       "title": "not so dirt cheap refactor",
-      "description": "This post argues that AI agents haven't actually made refactoring cheaper, they've just made the same risky, all-or-nothing rewrites faster. The real fix, the author says, is doing refactors in small, incremental pieces instead of big sweeps."
+      "description": "This post argues that AI agents haven't actually made refactoring cheaper, they've just made the same risky, all-or-nothing rewrites faster. The real fix, the author says, is doing refactors in small, incremental pieces instead of big sweeps.",
+      "date": null
     },
     {
       "link": "https://renfoc.us/posts/1784818495-what_is_pitch",
       "title": "what is pitch",
-      "description": "A dive into what \"pitch\" actually is, sparked by a glitchy synth loop that left both my ears and my tuner app stumped. From vibrating air to harmonics, spectrograms, and the Fast Fourier Transform, this post unpacks how tuner apps guess at a note, and why some sounds simply refuse to resolve into one."
+      "description": "A dive into what \"pitch\" actually is, sparked by a glitchy synth loop that left both my ears and my tuner app stumped. From vibrating air to harmonics, spectrograms, and the Fast Fourier Transform, this post unpacks how tuner apps guess at a note, and why some sounds simply refuse to resolve into one.",
+      "date": null
     },
     {
       "link": "https://renfoc.us/posts/1782490973-antipatterns_the_blob",
       "title": "antipatterns the blob",
-      "description": "The Blob is a class or function that has absorbed too many responsibilities over time until nobody fully knows what it does anymore. It shows up in codebases everywhere, even the best ones, and it tends to freeze you the moment you open it. This post names the pattern, walks through how a Blob grows one reasonable addition at a time, and argues that the first step is not always fixing it today but"
+      "description": "The Blob is a class or function that has absorbed too many responsibilities over time until nobody fully knows what it does anymore. It shows up in codebases everywhere, even the best ones, and it tends to freeze you the moment you open it. This post names the pattern, walks through how a Blob grows one reasonable addition at a time, and argues that the first step is not always fixing it today but",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://rioterm.com/blog/2026/08/10/riotermjs-rio-terminal-for-the-web",
       "title": "riotermjs: Rio's terminal engine, now on the web",
-      "description": "Rio's Rust VT engine compiled to WebAssembly, published as rioterm on npm. Faster than xterm.js on every metric we measured, and already running inside Lovable."
+      "description": "Rio's Rust VT engine compiled to WebAssembly, published as rioterm on npm. Faster than xterm.js on every metric we measured, and already running inside Lovable.",
+      "date": null
     },
     {
       "link": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
       "title": "rio-vt and librio: Rio's terminal engine, now embeddable",
-      "description": "Rio's terminal core is now a standalone, dependency-light engine you can embed anywhere: rio-vt as a safe Rust crate and librio as a C ABI."
+      "description": "Rio's terminal core is now a standalone, dependency-light engine you can embed anywhere: rio-vt as a safe Rust crate and librio as a C ABI.",
+      "date": null
     },
     {
       "link": "https://rioterm.com/blog/2026/03/11/whats-coming-next",
       "title": "What's coming next?",
-      "description": "A look at what's coming in the next major version of Rio terminal."
+      "description": "A look at what's coming in the next major version of Rio terminal.",
+      "date": null
     }
   ]
 }

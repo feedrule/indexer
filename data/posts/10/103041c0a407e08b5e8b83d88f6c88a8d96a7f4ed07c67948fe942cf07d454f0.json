@@ -4,17 +4,20 @@
     {
       "link": "https://blog.arv.tools/archives/2026/11/02/18.35.20/",
       "title": "Multithreaded JavaScript",
-      "description": "Over the last few weeks I haven't been able to stop thinking about multithreaded JavaScript. It all started with me seeing Jarred Sumner's PR adding shared-memory threads to JavaScriptCore in Bun's fork of WebKit. It pointed to Filip Pizlo's WebKit blog post \" Concurrent JavaScript: It can work! \". The idea behind both is to allow multiple threads that share the same memory. The threads share the"
+      "description": "Over the last few weeks I haven't been able to stop thinking about multithreaded JavaScript. It all started with me seeing Jarred Sumner's PR adding shared-memory threads to JavaScriptCore in Bun's fork of WebKit. It pointed to Filip Pizlo's WebKit blog post \" Concurrent JavaScript: It can work! \". The idea behind both is to allow multiple threads that share the same memory. The threads share the",
+      "date": null
     },
     {
       "link": "https://blog.arv.tools/archives/2026/11/02/09.22.37/",
       "title": "Revival",
-      "description": "Like a phoenix rising from the ashes, my old blog is back, rebuilt with the help of Claude Code. The blog went offline after Emil passed away. 😢 To bring it back, I recovered the old posts by crawling the Internet Archive . Then I had Claude build a new site with Eleventy , which my dear friend Alex Russell has always spoken highly of. After a 12-year hiatus, maybe this will get me writing again."
+      "description": "Like a phoenix rising from the ashes, my old blog is back, rebuilt with the help of Claude Code. The blog went offline after Emil passed away. 😢 To bring it back, I recovered the old posts by crawling the Internet Archive . Then I had Claude build a new site with Eleventy , which my dear friend Alex Russell has always spoken highly of. After a 12-year hiatus, maybe this will get me writing again.",
+      "date": null
     },
     {
       "link": "https://blog.arv.tools/archives/2014/09/01/09.21.39/",
       "title": "Traceur on JavaScript Jabber",
-      "description": "Last week the interview with me on JavaScript Jabber went live . The interview is a about Traceur but we also ended up talking quite a bit about ES6."
+      "description": "Last week the interview with me on JavaScript Jabber went live . The interview is a about Traceur but we also ended up talking quite a bit about ES6.",
+      "date": null
     }
   ]
 }

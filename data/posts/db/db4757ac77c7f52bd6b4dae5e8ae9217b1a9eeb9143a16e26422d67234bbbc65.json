@@ -4,17 +4,20 @@
     {
       "link": "https://oylenshpeegul.gitlab.io/blog/posts/20260902/",
       "title": "Alpine Linux",
-      "description": "I just installed Alpine Linux on an old laptop. Works great! Last year, I complained about all of the lightweight Linux distributions being based on Debian. Alpine is not based on Debian and is very lightweight indeed; it uses busybox in place of many GNU utilities, musl libc in place of glibc, and openrc in place of systemd. Alpine is so small that lots of folks use it for containers and things."
+      "description": "I just installed Alpine Linux on an old laptop. Works great! Last year, I complained about all of the lightweight Linux distributions being based on Debian. Alpine is not based on Debian and is very lightweight indeed; it uses busybox in place of many GNU utilities, musl libc in place of glibc, and openrc in place of systemd. Alpine is so small that lots of folks use it for containers and things.",
+      "date": null
     },
     {
       "link": "https://oylenshpeegul.gitlab.io/blog/posts/20260601/",
       "title": "Ziglings",
-      "description": "I just completed Ziglings! It's wicked fun! Zig is a programming language and Ziglings is a collection of fun exercises to help you learn it. I heard about if from this interview with Andrew Kelley. He is the creator of Zig (but not the creator of Ziglings, that's Dave Gauer). Zig is still under development (it has yet to release version 1.0), so it's changing a lot and Ziglings is changing right"
+      "description": "I just completed Ziglings! It's wicked fun! Zig is a programming language and Ziglings is a collection of fun exercises to help you learn it. I heard about if from this interview with Andrew Kelley. He is the creator of Zig (but not the creator of Ziglings, that's Dave Gauer). Zig is still under development (it has yet to release version 1.0), so it's changing a lot and Ziglings is changing right",
+      "date": null
     },
     {
       "link": "https://oylenshpeegul.gitlab.io/blog/posts/20260412/",
       "title": "Computing Days Until with Perl and Rust",
-      "description": "The other day Charles Choi wrote about Computing Days Until with Emacs. I decided to try it in Perl and Rust. Perl In Perl, we could do it with just the standard library like so. #!/usr/bin/env perl use v5.42; use POSIX qw(ceil); use Time::Piece; use Time::Seconds; my $target_date = shift // die \"\\nUsage: $0 YYYY-MM-DD\\n\"; my $target = Time::Piece->strptime($target_date, \"%Y-%m-%d\"); my $today = l"
+      "description": "The other day Charles Choi wrote about Computing Days Until with Emacs. I decided to try it in Perl and Rust. Perl In Perl, we could do it with just the standard library like so. #!/usr/bin/env perl use v5.42; use POSIX qw(ceil); use Time::Piece; use Time::Seconds; my $target_date = shift // die \"\\nUsage: $0 YYYY-MM-DD\\n\"; my $target = Time::Piece->strptime($target_date, \"%Y-%m-%d\"); my $today = l",
+      "date": null
     }
   ]
 }

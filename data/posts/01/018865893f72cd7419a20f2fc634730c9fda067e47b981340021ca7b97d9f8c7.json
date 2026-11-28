@@ -4,17 +4,20 @@
     {
       "link": "https://blog.josefsson.org/2026/09/04/soft-launching-the-diffos-project/",
       "title": "Soft-launching the DiffOS project",
-      "description": "Today marks the day of soft-launching of my Debian derivative, which I’ve been using on several of my own machines for the past year or so. This is still work in progress, but I wanted to establish a launch date Continue reading Soft-launching the DiffOS project →"
+      "description": "Today marks the day of soft-launching of my Debian derivative, which I’ve been using on several of my own machines for the past year or so. This is still work in progress, but I wanted to establish a launch date Continue reading Soft-launching the DiffOS project →",
+      "date": null
     },
     {
       "link": "https://blog.josefsson.org/2026/01/18/backup-of-s3-objects-using-rsnapshot/",
       "title": "Backup of S3 Objects Using rsnapshot",
-      "description": "I’ve been using rsnapshot to take backups of around 10 servers and laptops for well over 15 years, and it is a remarkably reliable tool that has proven itself many times. Rsnapshot uses rsync over SSH and maintains a temporal Continue reading Backup of S3 Objects Using rsnapshot →"
+      "description": "I’ve been using rsnapshot to take backups of around 10 servers and laptops for well over 15 years, and it is a remarkably reliable tool that has proven itself many times. Rsnapshot uses rsync over SSH and maintains a temporal Continue reading Backup of S3 Objects Using rsnapshot →",
+      "date": null
     },
     {
       "link": "https://blog.josefsson.org/2026/01/13/debian-libre-live-13-3-0-is-released/",
       "title": "Debian Libre Live 13.3.0 is released!",
-      "description": "Following up on my initial announcement about Debian Libre Live I am happy to report on continued progress and the release of Debian Libre Live version 13.3.0. Since both this and the previous 13.2.0 release are based on the stable Continue reading Debian Libre Live 13.3.0 is released! →"
+      "description": "Following up on my initial announcement about Debian Libre Live I am happy to report on continued progress and the release of Debian Libre Live version 13.3.0. Since both this and the previous 13.2.0 release are based on the stable Continue reading Debian Libre Live 13.3.0 is released! →",
+      "date": null
     }
   ]
 }

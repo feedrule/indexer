@@ -4,17 +4,20 @@
     {
       "link": "https://gomargin.app/blog/margin-vs-bear",
       "title": "Margin vs Bear: Markdown notes in a database or in a folder",
-      "description": "Bear keeps Markdown in one SQLite database. Margin keeps each note as a .md file in a folder, so it has folders and Bear doesn't. Where each is better, and how to move."
+      "description": "Bear keeps Markdown in one SQLite database. Margin keeps each note as a .md file in a folder, so it has folders and Bear doesn't. Where each is better, and how to move.",
+      "date": null
     },
     {
       "link": "https://gomargin.app/blog/no-mcp-server",
       "title": "Your notes don't need an MCP server",
-      "description": "Bear shipped a CLI, a Claude connector and an MCP server so agents can reach its notes. A folder of Markdown files needs none of that. What an agent gets from the folder, and what breaks when it edits it."
+      "description": "Bear shipped a CLI, a Claude connector and an MCP server so agents can reach its notes. A folder of Markdown files needs none of that. What an agent gets from the folder, and what breaks when it edits it.",
+      "date": null
     },
     {
       "link": "https://gomargin.app/blog/markdown-edge-cases",
       "title": "The edge cases I hit building a live-preview Markdown editor",
-      "description": "I assumed Markdown would be the easy part of building a notes app. Pipes, round-tripping, paste and the cursor each ate a weekend."
+      "description": "I assumed Markdown would be the easy part of building a notes app. Pipes, round-tripping, paste and the cursor each ate a weekend.",
+      "date": null
     }
   ]
 }

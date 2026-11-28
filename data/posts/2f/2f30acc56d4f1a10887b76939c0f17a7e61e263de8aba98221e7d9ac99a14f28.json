@@ -4,17 +4,20 @@
     {
       "link": "https://html-in-canvas.page/canvas-on-demand/",
       "title": "A canvas only while something moves",
-      "description": "Two copies of one card with the same transition. One lives in a canvas all the time. The other is plain HTML, and is moved into a canvas made on the spot for the length of the transition. The page measures what each costs."
+      "description": "Two copies of one card with the same transition. One lives in a canvas all the time. The other is plain HTML, and is moved into a canvas made on the spot for the length of the transition. The page measures what each costs.",
+      "date": null
     },
     {
       "link": "https://html-in-canvas.page/cloth/",
       "title": "A notice printed on cloth",
-      "description": "An article with a link, a button and a checkbox hangs from four pegs as a sheet of cloth. Pull a corner, send a gust through it or scroll the page, and it swings. Its controls can be pressed while it moves, because the hit box follows the triangle under the pointer."
+      "description": "An article with a link, a button and a checkbox hangs from four pegs as a sheet of cloth. Pull a corner, send a gust through it or scroll the page, and it swings. Its controls can be pressed while it moves, because the hit box follows the triangle under the pointer.",
+      "date": null
     },
     {
       "link": "https://html-in-canvas.page/crashes/suite/",
       "title": "Canary crash and stress suite",
-      "description": "A runner for every past crash, context loss and engine bug recorded in this project, alongside five tap-to-run stress tests that push 2D, WebGL 2, WebGPU, snapshots and DOM lifecycle paths, with one-click Markdown output for Chrome engineers."
+      "description": "A runner for every past crash, context loss and engine bug recorded in this project, alongside five tap-to-run stress tests that push 2D, WebGL 2, WebGPU, snapshots and DOM lifecycle paths, with one-click Markdown output for Chrome engineers.",
+      "date": null
     }
   ]
 }

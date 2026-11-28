@@ -4,17 +4,20 @@
     {
       "link": "http://lisplog.org/elmlog.html",
       "title": "Elmlog",
-      "description": "I'm rewriting Lisplog in Elm. It's called Elmlog . Watch that space for progress."
+      "description": "I'm rewriting Lisplog in Elm. It's called Elmlog . Watch that space for progress.",
+      "date": "2026-02-05"
     },
     {
       "link": "http://lisplog.org/im_back.html",
       "title": "I'm Back",
-      "description": "I'v been retired since November of 2020, when my programming muse left, and I retired. I didn't even know I had a programming muse until it left. I'm back. Working on Arbitrage.wtf , a project to find arbitrage in crypto trades, a way to make risk-free money by trading crypto currency. I'd love to rewrite Lisplog in Elm, and add markdown, but I doubt I'll get to it before I shuffle off to buffalo."
+      "description": "I'v been retired since November of 2020, when my programming muse left, and I retired. I didn't even know I had a programming muse until it left. I'm back. Working on Arbitrage.wtf , a project to find arbitrage in crypto trades, a way to make risk-free money by trading crypto currency. I'd love to rewrite Lisplog in Elm, and add markdown, but I doubt I'll get to it before I shuffle off to buffalo.",
+      "date": "2024-10-31"
     },
     {
       "link": "http://lisplog.org/mammudeck.html",
       "title": "Mammudeck",
-      "description": "I retired in November of 2020, because my brain wasn't working. I sat in front of my computer, but nothing happened. Since I'm entirely reliant on my muse to write code, my mother had just died and left me some money, and my social security was enough to live on, I decided to retire. Two years later, my brain has come back, and I'm writing code every day. Elm code, for my Mammudeck web application, a Tweet-Deck like multi-column interface to the Mastodon Client API . I still execute arithmetic in my Emacs *scratch* buffer, but my Lisp addiction is currently in remission (he said, while typing in a window put up by his Lisplog server). Mammudeck is a Progressive Web App (PWA), meaning that you can save it to your home screen on a phone or tablet, and save it as a native desktop application from browsers that support that (I've confirmed that in Brave and Chrome). I've been using Mammudeck for the Fediverse since shortly after it worked well enough for that. I started it on July 4, 2019."
+      "description": "I retired in November of 2020, because my brain wasn't working. I sat in front of my computer, but nothing happened. Since I'm entirely reliant on my muse to write code, my mother had just died and left me some money, and my social security was enough to live on, I decided to retire. Two years later, my brain has come back, and I'm writing code every day. Elm code, for my Mammudeck web application, a Tweet-Deck like multi-column interface to the Mastodon Client API . I still execute arithmetic in my Emacs *scratch* buffer, but my Lisp addiction is currently in remission (he said, while typing in a window put up by his Lisplog server). Mammudeck is a Progressive Web App (PWA), meaning that you can save it to your home screen on a phone or tablet, and save it as a native desktop application from browsers that support that (I've confirmed that in Brave and Chrome). I've been using Mammudeck for the Fediverse since shortly after it worked well enough for that. I started it on July 4, 2019.",
+      "date": "2022-11-22"
     }
   ]
 }

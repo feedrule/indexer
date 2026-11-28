@@ -4,17 +4,20 @@
     {
       "link": "https://catalinionescu.dev/ai-agent/building-my-own-canva-over-the-weekend/",
       "title": "Building My Own Canva Over a Weekend",
-      "description": "I was manually turning generated children's books into Instagram carousels, hit the limit of “doing things that don't scale,” and built a focused internal editor to make the workflow deterministic and fast."
+      "description": "I was manually turning generated children's books into Instagram carousels, hit the limit of “doing things that don't scale,” and built a focused internal editor to make the workflow deterministic and fast.",
+      "date": null
     },
     {
       "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
       "title": "Building an AI agent inside a 7-year old Rails application",
-      "description": "We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints."
+      "description": "We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.",
+      "date": null
     },
     {
       "link": "https://catalinionescu.dev/blog/how-to-connect-to-multiple-databases/",
       "title": "How to connect to multiple databases in Ruby on Rails 7",
-      "description": "A deep dive into connecting to multiple databases with Ruby on Rails exploring multiple use-cases such as read-replicas and reading from legacy sources."
+      "description": "A deep dive into connecting to multiple databases with Ruby on Rails exploring multiple use-cases such as read-replicas and reading from legacy sources.",
+      "date": null
     }
   ]
 }

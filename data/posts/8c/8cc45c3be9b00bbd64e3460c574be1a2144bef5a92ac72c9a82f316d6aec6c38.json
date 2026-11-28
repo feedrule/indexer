@@ -4,17 +4,20 @@
     {
       "link": "http://journal.rjevski.io/blockchains-for-non-cryptocurrency-applications-still-don-t-make-sense",
       "title": "Blockchains for non-cryptocurrency applications (still) don't make sense",
-      "description": "Author’s note: originally published in 2019, revised January 2026. Having witnessed the NFT and crypto boom and bust of 2021, these arguments have only grown more relevant. Why blockchains work for cryptocurrencies # Blockchains work for cryptocurrencies because the asset being traded is the blockchain record itself. When you “own” Bitcoin, what you actually own is a cryptographic entry on a distr"
+      "description": "Author’s note: originally published in 2019, revised January 2026. Having witnessed the NFT and crypto boom and bust of 2021, these arguments have only grown more relevant. Why blockchains work for cryptocurrencies # Blockchains work for cryptocurrencies because the asset being traded is the blockchain record itself. When you “own” Bitcoin, what you actually own is a cryptographic entry on a distr",
+      "date": null
     },
     {
       "link": "http://journal.rjevski.io/wrapping-static-api-keys-with-iam-roles",
       "title": "Wrapping static API keys with IAM roles and beating Shai-Hulud",
-      "description": "In view of the recent Shai-Hulud supply chain attack where a malicious package install script exfiltrated the current user’s environment variables and static secrets found in their files, I am describing a solution to eliminate static tokens in favor of dynamic, machine/workload-specific credentials that are time- and scope-limited. Note that this does not aim to prevent malware attacks per se; an"
+      "description": "In view of the recent Shai-Hulud supply chain attack where a malicious package install script exfiltrated the current user’s environment variables and static secrets found in their files, I am describing a solution to eliminate static tokens in favor of dynamic, machine/workload-specific credentials that are time- and scope-limited. Note that this does not aim to prevent malware attacks per se; an",
+      "date": null
     },
     {
       "link": "http://journal.rjevski.io/web-cache-deception-vulnerabilities-with-cloudflare-and-django",
       "title": "Web cache deception vulnerabilities with Cloudflare and Django",
-      "description": "If you’re using Django (or any standards-compliant web application using cookie-based sessions) behind Cloudflare, you need to be aware of a massive limitation in their cache implementation that could lead to caching and leakage of private responses (intended for a specific user presenting their session cookie) to everyone . Background: the Vary header # The Vary response header is used by an orig"
+      "description": "If you’re using Django (or any standards-compliant web application using cookie-based sessions) behind Cloudflare, you need to be aware of a massive limitation in their cache implementation that could lead to caching and leakage of private responses (intended for a specific user presenting their session cookie) to everyone . Background: the Vary header # The Vary response header is used by an orig",
+      "date": null
     }
   ]
 }

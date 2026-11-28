@@ -4,17 +4,20 @@
     {
       "link": "https://techwolf12.nl/blog/freeradius-with-google-workspace-and-ssl/",
       "title": "Setting Up FreeRADIUS with Google Workspace Authentication, VLAN Support per Client, and SSL Authentication",
-      "description": "Authenticate Wi-Fi users against Google Workspace with FreeRADIUS: Secure LDAP across multiple domains, per-office and per-group VLAN assignment, EAP over TLS, and access points on dynamic IPs verified through authoritative DNS."
+      "description": "Authenticate Wi-Fi users against Google Workspace with FreeRADIUS: Secure LDAP across multiple domains, per-office and per-group VLAN assignment, EAP over TLS, and access points on dynamic IPs verified through authoritative DNS.",
+      "date": null
     },
     {
       "link": "https://techwolf12.nl/blog/google-family-link-exploit/",
       "title": "Google Family Link exploit that locks out victims permanently",
-      "description": "Imagine waking up to an alert that your Google Account password has been changed. You haven’t been standard-hacked. You’ve been trapped in the Family Link Exploit, a severe security loophole that weaponizes Google’s child safety features against adult users, and currently leaves victims completely stranded."
+      "description": "Imagine waking up to an alert that your Google Account password has been changed. You haven’t been standard-hacked. You’ve been trapped in the Family Link Exploit, a severe security loophole that weaponizes Google’s child safety features against adult users, and currently leaves victims completely stranded.",
+      "date": null
     },
     {
       "link": "https://techwolf12.nl/blog/mysql-tips-and-tricks/",
       "title": "MySQL Tips and Tricks",
-      "description": "Welcome to this practical guide filled with MySQL tips and tricks! Whether you’re a seasoned database administrator or just getting started with MySQL, these handy queries and techniques will help you manage your databases more efficiently."
+      "description": "Welcome to this practical guide filled with MySQL tips and tricks! Whether you’re a seasoned database administrator or just getting started with MySQL, these handy queries and techniques will help you manage your databases more efficiently.",
+      "date": null
     }
   ]
 }

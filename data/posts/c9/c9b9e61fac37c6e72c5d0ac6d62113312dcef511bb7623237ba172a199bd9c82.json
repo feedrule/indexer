@@ -4,17 +4,20 @@
     {
       "link": "https://ankursethi.com/blog/an-experiment-with-simd-in-rust-using-fearless_simd/",
       "title": "An experiment with SIMD in Rust using fearless_simd",
-      "description": "SIMD is having a moment right now. Go added experimental SIMD support to their standard library. C++26 standardized std::simd (which hasn't been very well received ). Portable SIMD is available on nightly Rust via std::simd . The excellent fearless_simd cut a 1.0 release in September . It works on stable Rust. Other languages have already shipped portable SIMD APIs in their standard libraries for"
+      "description": "SIMD is having a moment right now. Go added experimental SIMD support to their standard library. C++26 standardized std::simd (which hasn't been very well received ). Portable SIMD is available on nightly Rust via std::simd . The excellent fearless_simd cut a 1.0 release in September . It works on stable Rust. Other languages have already shipped portable SIMD APIs in their standard libraries for",
+      "date": null
     },
     {
       "link": "https://ankursethi.com/blog/may-cause-respiratory-effects/",
       "title": "May cause respiratory effects",
-      "description": "It's 11pm on a Sunday as I write this. It's Diwali. I'm visiting my parents in Delhi, as I've done every year since I moved away over a decade ago. I'm feeling a certain way right now. I'm writing this post so I don't forget this feeling. The fireworks outside are so loud that it feels like the world is ending. They've been going off for three or four hours now. I'm cowering inside my bedroom, thi"
+      "description": "It's 11pm on a Sunday as I write this. It's Diwali. I'm visiting my parents in Delhi, as I've done every year since I moved away over a decade ago. I'm feeling a certain way right now. I'm writing this post so I don't forget this feeling. The fireworks outside are so loud that it feels like the world is ending. They've been going off for three or four hours now. I'm cowering inside my bedroom, thi",
+      "date": null
     },
     {
       "link": "https://ankursethi.com/blog/a-few-assorted-thoughts-about-llms-in-november-2026/",
       "title": "A few assorted thoughts about LLMs in November 2026",
-      "description": "LLMs are useful tools. They're also the products of the greatest theft of intellectual labor in human history. Both of these things can be true at the same time. In the right hands, LLMs can produce good, reliable software in shorter timeframes than ever before. Most hands are not the right hands. Most organizations using LLMs to write code are producing slop, no matter what they tell you in their"
+      "description": "LLMs are useful tools. They're also the products of the greatest theft of intellectual labor in human history. Both of these things can be true at the same time. In the right hands, LLMs can produce good, reliable software in shorter timeframes than ever before. Most hands are not the right hands. Most organizations using LLMs to write code are producing slop, no matter what they tell you in their",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://haitmg.pl/blog/aws-ci-role-compromised-containment/",
       "title": "What Would You Cut If Your AWS CI Role Was Compromised?",
-      "description": "Scanners show you the attack path. Almost nobody shows you which single deny stops a compromised CI role without taking down prod. That missing piece is containment."
+      "description": "Scanners show you the attack path. Almost nobody shows you which single deny stops a compromised CI role without taking down prod. That missing piece is containment.",
+      "date": null
     },
     {
       "link": "https://haitmg.pl/blog/blast-audit-aws-attack-path-visualizer/",
       "title": "Building blast-audit: AWS attack path visualizer in the browser (no Neo4j, no Docker)",
-      "description": "I built blast-audit, a browser-only AWS attack path visualizer. Drop a cloud-audit JSON, see the chain. 7 historical breach scenarios, BFS in 110 LOC."
+      "description": "I built blast-audit, a browser-only AWS attack path visualizer. Drop a cloud-audit JSON, see the chain. 7 historical breach scenarios, BFS in 110 LOC.",
+      "date": null
     },
     {
       "link": "https://haitmg.pl/blog/aws-active-abuse-detection-threat-feed/",
       "title": "AWS Abuse Pattern Detection: 10 Open Source Signals (2026)",
-      "description": "cloud-audit Threat Feed v1 - 10 open source detectors mapped to documented 2025-2026 AWS incidents. Confirmed signals, strong heuristics, precursors. CLI, MIT."
+      "description": "cloud-audit Threat Feed v1 - 10 open source detectors mapped to documented 2025-2026 AWS incidents. Confirmed signals, strong heuristics, precursors. CLI, MIT.",
+      "date": null
     }
   ]
 }

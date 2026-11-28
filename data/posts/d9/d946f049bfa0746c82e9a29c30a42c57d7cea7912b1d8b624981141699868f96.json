@@ -4,17 +4,20 @@
     {
       "link": "https://ivangsa.com/articles/arcadia/015-arcadia-editions-asyncapi-governance-case-study/",
       "title": "Arcadia Editions: An OpenSource AsyncAPI Governance Case Study",
-      "description": "Arcadia Editions is a fictional company built in the open to show an AsyncAPI governance process that keeps working after years, based on automation instead of policies and enforcement. This article walks through the whole thing: the problems it was designed to reproduce, the three principles behind it, the pipelines, the two contracts of every service, the architecture manifest, and how you can c"
+      "description": "Arcadia Editions is a fictional company built in the open to show an AsyncAPI governance process that keeps working after years, based on automation instead of policies and enforcement. This article walks through the whole thing: the problems it was designed to reproduce, the three principles behind it, the pipelines, the two contracts of every service, the architecture manifest, and how you can c",
+      "date": null
     },
     {
       "link": "https://ivangsa.com/articles/three-pillars-formal-verification/",
       "title": "Three pillars: Formal Verification in the age of agentic engineering",
-      "description": "What can formal verification tell us about our designs before we start coding? An introduction to formal verification for event-driven architectures and an exploration of how far the domain models we already write can take us towards TLA+. A first independent experiment with ZFL and ZDL suggests about a third of the way today, and two thirds or more with a few additional conventions, with caveats."
+      "description": "What can formal verification tell us about our designs before we start coding? An introduction to formal verification for event-driven architectures and an exploration of how far the domain models we already write can take us towards TLA+. A first independent experiment with ZFL and ZDL suggests about a third of the way today, and two thirds or more with a few additional conventions, with caveats.",
+      "date": null
     },
     {
       "link": "https://ivangsa.com/articles/three-pillars-domain-driven-design-as-code/",
       "title": "Three pillars: Domain-Driven Design as Code",
-      "description": "Domain-Driven Design gives us the tools and the mental frame to understand the business. The challenge now is to write those findings down as a spec both humans and agents can work on. EventStorming in its two sizes: process-level and design-level, and two languages that turn them into code: ZFL and ZDL. Originally published at ivangsa.com: https://ivangsa.com/articles/three-pillars-domain-driven-"
+      "description": "Domain-Driven Design gives us the tools and the mental frame to understand the business. The challenge now is to write those findings down as a spec both humans and agents can work on. EventStorming in its two sizes: process-level and design-level, and two languages that turn them into code: ZFL and ZDL. Originally published at ivangsa.com: https://ivangsa.com/articles/three-pillars-domain-driven-",
+      "date": null
     }
   ]
 }

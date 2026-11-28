@@ -4,17 +4,20 @@
     {
       "link": "https://www.lonecpluspluscoder.com/post/2026-03-01-wrong-measure-llms/",
       "title": "We're using the wrong measure for LLM productivity",
-      "description": "I’ve been spending a bit of time on LinkedIn lately after finally stopping my use of Xitter (you can find me on Mastodon instead). One of the tropes that I see being uncritically spouted over and over again is “I’m sooooooo productive, by spending $gazillion in LLM credits a day I’ll generate my new product at 50,000 lines of code day”. While I’m applauding your effort to build a new, much needed"
+      "description": "I’ve been spending a bit of time on LinkedIn lately after finally stopping my use of Xitter (you can find me on Mastodon instead). One of the tropes that I see being uncritically spouted over and over again is “I’m sooooooo productive, by spending $gazillion in LLM credits a day I’ll generate my new product at 50,000 lines of code day”. While I’m applauding your effort to build a new, much needed",
+      "date": null
     },
     {
       "link": "https://www.lonecpluspluscoder.com/post/2024-07-07-timemachine-on-samba/",
       "title": "If you get this error from Time Machine on Samba, check available disk space",
-      "description": "I’ve been using Samba with the time machine setting for years to back up the couple of Macs I own. I’ve recently been running into issues with Time Machine backups erroring out with \"The network backup disk does not support the required capabilities\" . Poking around the Internet didn’t really point at an obvious culprit until I found some mumblings about this potentially begin a disk space issue."
+      "description": "I’ve been using Samba with the time machine setting for years to back up the couple of Macs I own. I’ve recently been running into issues with Time Machine backups erroring out with \"The network backup disk does not support the required capabilities\" . Poking around the Internet didn’t really point at an obvious culprit until I found some mumblings about this potentially begin a disk space issue.",
+      "date": null
     },
     {
       "link": "https://www.lonecpluspluscoder.com/2023/11/05/install-set-emacs-homedir-windows/",
       "title": "Don't forget to set the home directory for Emacs on Windows",
-      "description": "I’m currently rebuilding my main Windows machine after it had become close to unusable. Given that I upgraded it multiple times from Windows 7 all the way to Windows 11 without ever reinstalling the OS, this shouldn’t have come as a major surprise. Either way, this is the reason for the sudden outburst of Windows related posts so I can go and refer to my blog as my Internet Notes repository."
+      "description": "I’m currently rebuilding my main Windows machine after it had become close to unusable. Given that I upgraded it multiple times from Windows 7 all the way to Windows 11 without ever reinstalling the OS, this shouldn’t have come as a major surprise. Either way, this is the reason for the sudden outburst of Windows related posts so I can go and refer to my blog as my Internet Notes repository.",
+      "date": null
     }
   ]
 }

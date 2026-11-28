@@ -4,17 +4,20 @@
     {
       "link": "https://clutterstack.com/particles/ai/2026-08-04-claude-api-skill",
       "title": "Monster skill jumpscare: claude-api",
-      "description": "Claude Fable spent $4* to tell me that a long background job might cost me $4 in expired cache. *not four real dollars I was refining a testing skill with Fable in one Claude Code session, and exercising it with Opus in another. I asked what would happen if the other agent's background job took a long time to return. CLI, version 2.1.220 Fable: This is a caching-mechanics question — let me check t"
+      "description": "Claude Fable spent $4* to tell me that a long background job might cost me $4 in expired cache. *not four real dollars I was refining a testing skill with Fable in one Claude Code session, and exercising it with Opus in another. I asked what would happen if the other agent's background job took a long time to return. CLI, version 2.1.220 Fable: This is a caching-mechanics question — let me check t",
+      "date": null
     },
     {
       "link": "https://clutterstack.com/particles/ai/2026-06-29-clueless-search",
       "title": "Clueless wiki search with LLMs",
-      "description": "I thought I'd try semantic search on my playground wiki using an embedding model, but as it turns out, you have to plan how to embed stuff to suit your use case, which takes a lot more concentration than I was planning to allocate. Instead, I decided to give some local LLMs a search tool and ask them to find the right thing. THIS IS NOT A TUTORIAL, unless you want to build local search that takes"
+      "description": "I thought I'd try semantic search on my playground wiki using an embedding model, but as it turns out, you have to plan how to embed stuff to suit your use case, which takes a lot more concentration than I was planning to allocate. Instead, I decided to give some local LLMs a search tool and ask them to find the right thing. THIS IS NOT A TUTORIAL, unless you want to build local search that takes",
+      "date": null
     },
     {
       "link": "https://clutterstack.com/posts/2026-01-09-agent-schmagent-tools-cool",
       "title": "Agent, schmagent (but tools are cool)",
-      "description": "Thomas Ptacek says everybody Should Write An Agent , because It's Incredibly Easy . You can indeed have your very own agent in a matter of a few dozen (pretty-printed!) lines of Python plus API access to a tool-call-capable LLM, per Simon Willison's definition: \"an LLM agent runs tools in a loop to achieve a goal\" . Thomas illustrates this with a chat client for the OpenAI Responses API that lets"
+      "description": "Thomas Ptacek says everybody Should Write An Agent , because It's Incredibly Easy . You can indeed have your very own agent in a matter of a few dozen (pretty-printed!) lines of Python plus API access to a tool-call-capable LLM, per Simon Willison's definition: \"an LLM agent runs tools in a loop to achieve a goal\" . Thomas illustrates this with a chat client for the OpenAI Responses API that lets",
+      "date": null
     }
   ]
 }

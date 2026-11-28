@@ -4,17 +4,20 @@
     {
       "link": "https://www.kassner.com.br/en/2026/10/31/2026-hardware-updates/",
       "title": "2026 hardware update",
-      "description": "Hi! It has been a good while since my last post about my NAS, so I want to share an update on how things are looking nowadays. Filesystem I won’t get into details here, but I’m out of BTRFS. The filesystem did not fail on me and thankfully I didn’t lose any data, but suffice to say that BTRFS does not like when you shuffle snapshots to a different system, transform them into live subvolumes, chang"
+      "description": "Hi! It has been a good while since my last post about my NAS, so I want to share an update on how things are looking nowadays. Filesystem I won’t get into details here, but I’m out of BTRFS. The filesystem did not fail on me and thankfully I didn’t lose any data, but suffice to say that BTRFS does not like when you shuffle snapshots to a different system, transform them into live subvolumes, chang",
+      "date": null
     },
     {
       "link": "https://www.kassner.com.br/en/2025/05/08/delta-chat-encrypted-chat-with-boring-technology/",
       "title": "Delta Chat: encrypted chat with boring technology",
-      "description": "Hi, A couple of days ago I’ve heard about Delta Chat , and for once I got thrilled with some piece of technology again. At the surface it’s just a chat app to the likes of Telegram, Signal and WhatsApp. The exciting part, however, is that is uses plenty of open standards technology under the hood. It’s a chat app built on top the regular e-mail protocols, SMTP and IMAP, with a sprinkle of PGP to m"
+      "description": "Hi, A couple of days ago I’ve heard about Delta Chat , and for once I got thrilled with some piece of technology again. At the surface it’s just a chat app to the likes of Telegram, Signal and WhatsApp. The exciting part, however, is that is uses plenty of open standards technology under the hood. It’s a chat app built on top the regular e-mail protocols, SMTP and IMAP, with a sprinkle of PGP to m",
+      "date": null
     },
     {
       "link": "https://www.kassner.com.br/en/2025/04/12/luks-btrfs-raid1-resize/",
       "title": "Resizing a LUKS-backed BTRFS RAID1 filesystem",
-      "description": "Hi. After a series of hardware upgrades, I finally have 2x 2TB SDD for data on my NAS ! However, they are still configured with ~900GiB data partitions, and today it is time to expand it! Initial state The current disk layout is: # fdisk -l /dev/sda Disk /dev/sda: 1.82 TiB, 2000398934016 bytes, 3907029168 sectors Disk model: PNY CS900 2TB SS Sector size (logical/physical): 512 bytes / 512 bytes De"
+      "description": "Hi. After a series of hardware upgrades, I finally have 2x 2TB SDD for data on my NAS ! However, they are still configured with ~900GiB data partitions, and today it is time to expand it! Initial state The current disk layout is: # fdisk -l /dev/sda Disk /dev/sda: 1.82 TiB, 2000398934016 bytes, 3907029168 sectors Disk model: PNY CS900 2TB SS Sector size (logical/physical): 512 bytes / 512 bytes De",
+      "date": null
     }
   ]
 }

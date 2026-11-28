@@ -4,17 +4,20 @@
     {
       "link": "https://meltedinhex.com/posts/extension-attack/",
       "title": "Extension ATT&CK: A Taxonomy for Browser Extension Threats",
-      "description": "Extension ATT&CK organizes browser extension threats into 80 techniques, with public examples, browser API details, and detection ideas."
+      "description": "Extension ATT&CK organizes browser extension threats into 80 techniques, with public examples, browser API details, and detection ideas.",
+      "date": null
     },
     {
       "link": "https://meltedinhex.com/posts/hijacking-ai-agents-catching-it/",
       "title": "Hijacking AI Agents, Part 4: Catching It",
-      "description": "Most of these payloads have a tell. Normalize the text first, then hunt for the signals: hidden characters, override phrasing, secret-read-plus-egress, and persistence writes."
+      "description": "Most of these payloads have a tell. Normalize the text first, then hunt for the signals: hidden characters, override phrasing, secret-read-plus-egress, and persistence writes.",
+      "date": null
     },
     {
       "link": "https://meltedinhex.com/posts/hijacking-ai-agents-the-four-surfaces/",
       "title": "Hijacking AI Agents, Part 3: The Four Surfaces",
-      "description": "A malicious file is only one way in. The same trust bug shows up in MCP tool descriptions, in content the agent merely fetches, and in the supply chain that delivers all of it."
+      "description": "A malicious file is only one way in. The same trust bug shows up in MCP tool descriptions, in content the agent merely fetches, and in the supply chain that delivers all of it.",
+      "date": null
     }
   ]
 }

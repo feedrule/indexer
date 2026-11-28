@@ -4,17 +4,20 @@
     {
       "link": "https://www.mograblog.com/2026/11/in-browser-ocr-tesseract-vs-vision-llms/",
       "title": "In-Browser OCR in 2026: Tesseract.js (WASM) vs. Florence-2 Vision AI (Live Demo)",
-      "description": "Compare classic Tesseract.js WebAssembly OCR (~4 MB) side-by-side with Microsoft's Florence-2 Vision-Language Model running 100% locally in your browser via WebGPU."
+      "description": "Compare classic Tesseract.js WebAssembly OCR (~4 MB) side-by-side with Microsoft's Florence-2 Vision-Language Model running 100% locally in your browser via WebGPU.",
+      "date": null
     },
     {
       "link": "https://www.mograblog.com/2026/09/web-agent-loop-autonomous-browser-agents/",
       "title": "What Happens When You Put an AI Agent Loop Inside the Browser?",
-      "description": "What happens when an AI agent loop runs sandboxed inside your browser tab—with no app server to host and no direct access to your local files? Discover how far browser agents can go today and the future of on-demand UI."
+      "description": "What happens when an AI agent loop runs sandboxed inside your browser tab—with no app server to host and no direct access to your local files? Discover how far browser agents can go today and the future of on-demand UI.",
+      "date": null
     },
     {
       "link": "https://www.mograblog.com/2026/11/in-browser-llm-chess-webgpu/",
       "title": "Playing Chess Against AI 100% in the Browser: Stockfish 19 WASM, Difficulty Scaling, and Live Analysis",
-      "description": "How to build a real, zero-backend Chess AI with adjustable difficulty (800 to 2800+ ELO), a live evaluation bar, and move-by-move blunder detection in under 2 MB of WebAssembly."
+      "description": "How to build a real, zero-backend Chess AI with adjustable difficulty (800 to 2800+ ELO), a live evaluation bar, and move-by-move blunder detection in under 2 MB of WebAssembly.",
+      "date": null
     }
   ]
 }

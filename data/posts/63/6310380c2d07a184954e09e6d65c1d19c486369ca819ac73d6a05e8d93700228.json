@@ -4,17 +4,20 @@
     {
       "link": "http://sven.stormbind.net/blog/posts/talk_froscon2026_tls_ech_caa_https/",
       "title": "FrOSCon 2026: TLS Talk",
-      "description": "Info: German content only, sorry. I was pondering for the past three years if I should give some sort of TLS basics talk at FrOSCon. I finally stepped up this year and gave that talk today, with the title \"TLS, mTLS, SNI, ECH, CAA, HTTPS, PKI, Zertifikate und ein bisschen PQC\". I was too optimistic with my 50 slides, and had to drop the Post Quantum Cryptography part at the end. Still got positive"
+      "description": "Info: German content only, sorry. I was pondering for the past three years if I should give some sort of TLS basics talk at FrOSCon. I finally stepped up this year and gave that talk today, with the title \"TLS, mTLS, SNI, ECH, CAA, HTTPS, PKI, Zertifikate und ein bisschen PQC\". I was too optimistic with my 50 slides, and had to drop the Post Quantum Cryptography part at the end. Still got positive",
+      "date": null
     },
     {
       "link": "http://sven.stormbind.net/blog/posts/misc_ech_enabled_curl_oci_image/",
       "title": "container image with ECH enabled curl",
-      "description": "As an opportunity to rewire my brain from \"docker\" to \"podman\" and \"buildah\" I started to create an image build with an ECH enabled curl at https://gitlab.com/hoexter/ech . Not sure if it helps anyone, but setup should be like this: git clone https://gitlab.com/hoexter-experiments/ech cd ech buildah build --layers -f Dockerfile -t echtest podman run -ti echtest /usr/local/bin/curl \\ --ech true --d"
+      "description": "As an opportunity to rewire my brain from \"docker\" to \"podman\" and \"buildah\" I started to create an image build with an ECH enabled curl at https://gitlab.com/hoexter/ech . Not sure if it helps anyone, but setup should be like this: git clone https://gitlab.com/hoexter-experiments/ech cd ech buildah build --layers -f Dockerfile -t echtest podman run -ti echtest /usr/local/bin/curl \\ --ech true --d",
+      "date": null
     },
     {
       "link": "http://sven.stormbind.net/blog/posts/misc_rfc9849_ech/",
       "title": "RFC 9849 - Encrypted Client Hello",
-      "description": "Now that ECH is standardized I started to look into it to understand what's coming. While generally desirable to not leak the SNI information, I'm not sure if it will ever make it to the masses of (web)servers outside of big CDNs. Beside of the extension of the TLS protocol to have an inner and outer ClientHello, you also need (frequent) updates to your HTTPS/SVCB DNS records. The idea is to rotat"
+      "description": "Now that ECH is standardized I started to look into it to understand what's coming. While generally desirable to not leak the SNI information, I'm not sure if it will ever make it to the masses of (web)servers outside of big CDNs. Beside of the extension of the TLS protocol to have an inner and outer ClientHello, you also need (frequent) updates to your HTTPS/SVCB DNS records. The idea is to rotat",
+      "date": null
     }
   ]
 }

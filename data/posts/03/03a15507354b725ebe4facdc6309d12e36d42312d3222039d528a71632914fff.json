@@ -4,17 +4,20 @@
     {
       "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
       "title": "Why care about programming languages",
-      "description": "In the age of AI-assisted coding, it’s easy to feel that deep knowledge of programming languages has become obsolete. Why spend years mastering language intricacies when an AI can generate code in any language on demand? I recently encountered this sentiment in a question from a fellow developer: I feel like caring about programming languages and stuff is actually very useless. … Am I being too ex"
+      "description": "In the age of AI-assisted coding, it’s easy to feel that deep knowledge of programming languages has become obsolete. Why spend years mastering language intricacies when an AI can generate code in any language on demand? I recently encountered this sentiment in a question from a fellow developer: I feel like caring about programming languages and stuff is actually very useless. … Am I being too ex",
+      "date": null
     },
     {
       "link": "https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/",
       "title": "On keys, essences and performance",
-      "description": "A recent exchange on linkedin about what data is and how to store it prompted me to write this small piece, since I consider the issue at hand quite fundamental to developing systems that reflect reality and therefore help people. Here is what the author of the quote said: I mean that actual data, as observed in the world around us - may not have natural keys as required by the model. Nor are data"
+      "description": "A recent exchange on linkedin about what data is and how to store it prompted me to write this small piece, since I consider the issue at hand quite fundamental to developing systems that reflect reality and therefore help people. Here is what the author of the quote said: I mean that actual data, as observed in the world around us - may not have natural keys as required by the model. Nor are data",
+      "date": null
     },
     {
       "link": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
       "title": "All you need is PostgreSQL",
-      "description": "Introduction The setup Laying the foundation The foundation: schemas and user roles for modularity Domains Accounts, managed and external Transfers, constrained by a state machine and temporal periods Transfer state history Account auditing Transactions, the immutable events On maintaining business rules via meaningful constraints The transfer state machine Transactions must fall within the transf"
+      "description": "Introduction The setup Laying the foundation The foundation: schemas and user roles for modularity Domains Accounts, managed and external Transfers, constrained by a state machine and temporal periods Transfer state history Account auditing Transactions, the immutable events On maintaining business rules via meaningful constraints The transfer state machine Transactions must fall within the transf",
+      "date": null
     }
   ]
 }

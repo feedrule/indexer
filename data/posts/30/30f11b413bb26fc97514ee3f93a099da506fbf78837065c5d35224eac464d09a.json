@@ -4,17 +4,20 @@
     {
       "link": "https://www.bobbydurrettdba.com/2026/11/11/llm-generates-read-only-commands/",
       "title": "LLM Generates Read Only Commands",
-      "description": "I’ve moved on from my previous script which generated SELECT statements on Oracle databases using an LLM. I’m using Claude 4.6 through AWS Bedrock. In this post I will describe my latest tool which I cleverly named “readonly” for lack … Continue reading →"
+      "description": "I’ve moved on from my previous script which generated SELECT statements on Oracle databases using an LLM. I’m using Claude 4.6 through AWS Bedrock. In this post I will describe my latest tool which I cleverly named “readonly” for lack … Continue reading →",
+      "date": null
     },
     {
       "link": "https://www.bobbydurrettdba.com/2026/09/30/selectloop-ai-queries-an-oracle-database-to-answer-a-question/",
       "title": "Selectloop – AI Queries an Oracle Database to Answer a Question",
-      "description": "This is a follow up to my July post. I have had almost two months to work with my new Selectloop Python script and I want to tell people what I learned so it will be helpful to them. Also … Continue reading →"
+      "description": "This is a follow up to my July post. I have had almost two months to work with my new Selectloop Python script and I want to tell people what I learned so it will be helpful to them. Also … Continue reading →",
+      "date": null
     },
     {
       "link": "https://www.bobbydurrettdba.com/2026/07/08/using-an-llm-in-a-select-loop/",
       "title": "Using an LLM in a SELECT Loop",
-      "description": "Introduction This post describes a way to use a Large Language Model (LLM) to investigate Oracle database problems. In this approach, the LLM repeatedly generates SELECT statements based on previous queries and their results. Each query provides additional context, allowing … Continue reading →"
+      "description": "Introduction This post describes a way to use a Large Language Model (LLM) to investigate Oracle database problems. In this approach, the LLM repeatedly generates SELECT statements based on previous queries and their results. Each query provides additional context, allowing … Continue reading →",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://kevinullyott.com/blog/2026-05-05-composer-lock-gitattributes",
       "title": "You can have your composer.lock and not make others eat it too!",
-      "description": "If you maintain a PHP package, there's a small file at the root of your repo that's quietly making life worse for everyone who installs it. That file is composer.lock . Your tests, CI configs, code style configs, and half a dozen other dev......"
+      "description": "If you maintain a PHP package, there's a small file at the root of your repo that's quietly making life worse for everyone who installs it. That file is composer.lock . Your tests, CI configs, code style configs, and half a dozen other dev......",
+      "date": null
     },
     {
       "link": "https://kevinullyott.com/blog/2026-05-02-announcing-meliorstan-v1",
       "title": "Announcing MeliorStan v1",
-      "description": "MeliorStan v1 is out! It is a PHPStan extension that ships over 30 custom rules you can plug into your existing PHPStan setup. There is no separate runner, no separate report, and no separate config file to maintain. You include it in your......"
+      "description": "MeliorStan v1 is out! It is a PHPStan extension that ships over 30 custom rules you can plug into your existing PHPStan setup. There is no separate runner, no separate report, and no separate config file to maintain. You include it in your......",
+      "date": null
     },
     {
       "link": "https://kevinullyott.com/blog/2020-09-17-installing-phpredis-extension-on-macos-via-homebrewpecl",
       "title": "Installing PHPRedis Extension on MacOs Via Homebrew/PECL",
-      "description": "Many applications such as Laravel rely on Redis for tasks, so having a local Redis instance running for local development is a great idea. But in order to best communicate with Redis you will need the PHPRedis package installed locally. I ran into a......"
+      "description": "Many applications such as Laravel rely on Redis for tasks, so having a local Redis instance running for local development is a great idea. But in order to best communicate with Redis you will need the PHPRedis package installed locally. I ran into a......",
+      "date": null
     }
   ]
 }

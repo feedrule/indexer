@@ -4,17 +4,20 @@
     {
       "link": "https://technicalmusings.blogspot.com/2026/03/the-dangerous-valley-of-self-driving.html",
       "title": "The Dangerous Valley of self driving cars",
-      "description": "Five Nines When I was a teenager in the late 80s I worked as a gopher (As in: Hey kid, go for something I want; a less fancy name for Intern) for the company my Dad worked at. It was a financial news agency with an office in Manhattan. They were investigating the latest in Optical Character Recognition (OCR). They wanted to bypass the expensive data services to get government market information by"
+      "description": "Five Nines When I was a teenager in the late 80s I worked as a gopher (As in: Hey kid, go for something I want; a less fancy name for Intern) for the company my Dad worked at. It was a financial news agency with an office in Manhattan. They were investigating the latest in Optical Character Recognition (OCR). They wanted to bypass the expensive data services to get government market information by",
+      "date": null
     },
     {
       "link": "https://technicalmusings.blogspot.com/2024/08/python-requests-proxy-all-protocols.html",
       "title": "Python Requests proxy all protocols through single URL",
-      "description": "The Python Requests library requires you to specify multiple proxy URLs per protocol, like this: import requests proxies = { 'http': 'http://10.10.1.10:3128', 'https': 'http://10.10.1.10:1080', } requests.get('http://example.org', proxies=proxies) The annoying thing is if you leave off either protocol, it does not error - it just doesn't proxy that traffic. While this flexibility is great, it woul"
+      "description": "The Python Requests library requires you to specify multiple proxy URLs per protocol, like this: import requests proxies = { 'http': 'http://10.10.1.10:3128', 'https': 'http://10.10.1.10:1080', } requests.get('http://example.org', proxies=proxies) The annoying thing is if you leave off either protocol, it does not error - it just doesn't proxy that traffic. While this flexibility is great, it woul",
+      "date": null
     },
     {
       "link": "https://technicalmusings.blogspot.com/2024/04/i-found-this-template-for-elixir.html",
       "title": null,
-      "description": "I found this template for Elixir scripts to be really useful: https://arathunku.com/b/2024/shell-scripting-with-elixir/ To add to that, I wanted to require a particular version of Elixir: elixir_version_required=\"~> 1.14\" if not Version.match?(Version.parse!(System.version), Version.parse_requirement!(elixir_version_required)) do IO.write(\"Elixir version doesn't match requirement: #{elixir_version"
+      "description": "I found this template for Elixir scripts to be really useful: https://arathunku.com/b/2024/shell-scripting-with-elixir/ To add to that, I wanted to require a particular version of Elixir: elixir_version_required=\"~> 1.14\" if not Version.match?(Version.parse!(System.version), Version.parse_requirement!(elixir_version_required)) do IO.write(\"Elixir version doesn't match requirement: #{elixir_version",
+      "date": null
     }
   ]
 }

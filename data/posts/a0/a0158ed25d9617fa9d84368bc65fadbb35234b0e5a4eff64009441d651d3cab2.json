@@ -4,17 +4,20 @@
     {
       "link": "https://petrovs.info/post/2026-11-21-geek-szitman-endoscope-android/",
       "title": "An open Android app for the Geek szitman USB endoscope",
-      "description": "I have one of those cheap Chinese USB endoscopes. The stickers on it say J106 and J108 (yes, two different ones), and on USB it shows up as: ID 2ce3:3828 Geek szitman supercamera It looks like a webcam, but it isn’t one. It does not implement UVC, so no camera app on any system recognises it. The only official way to use it is a closed vendor app for Android and iOS, which I would rather not have"
+      "description": "I have one of those cheap Chinese USB endoscopes. The stickers on it say J106 and J108 (yes, two different ones), and on USB it shows up as: ID 2ce3:3828 Geek szitman supercamera It looks like a webcam, but it isn’t one. It does not implement UVC, so no camera app on any system recognises it. The only official way to use it is a closed vendor app for Android and iOS, which I would rather not have",
+      "date": null
     },
     {
       "link": "https://petrovs.info/post/2026-09-17-immich-pi-photo-frame/",
       "title": "Immich Pi Photo Frame",
-      "description": "My photos live on a self-hosted Immich server. It is great for browsing and backups, but the photos rarely get looked at unless someone opens the app. So I built a small photo frame around an original Raspberry Pi Model A+ that shows photos from selected Immich albums. The hardware This is what I had in the cabinet. The image is built especially for this hardware, but it could be easily ported to"
+      "description": "My photos live on a self-hosted Immich server. It is great for browsing and backups, but the photos rarely get looked at unless someone opens the app. So I built a small photo frame around an original Raspberry Pi Model A+ that shows photos from selected Immich albums. The hardware This is what I had in the cabinet. The image is built especially for this hardware, but it could be easily ported to",
+      "date": null
     },
     {
       "link": "https://petrovs.info/post/2026-07-22-bor-linux-policy-management/",
       "title": "Bor: My Side Project",
-      "description": "This blog does not get updated very often, and there is a simple reason for that: most of my free time goes into a side project called Bor . After more than a year of evenings and weekends spent on it, it deserves a proper introduction here. What is Bor Bor is an open-source policy management platform for Linux desktops . The core idea can be summarized in one sentence: define, distribute, and enf"
+      "description": "This blog does not get updated very often, and there is a simple reason for that: most of my free time goes into a side project called Bor . After more than a year of evenings and weekends spent on it, it deserves a proper introduction here. What is Bor Bor is an open-source policy management platform for Linux desktops . The core idea can be summarized in one sentence: define, distribute, and enf",
+      "date": null
     }
   ]
 }

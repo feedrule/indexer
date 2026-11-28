@@ -4,17 +4,20 @@
     {
       "link": "https://oedokumaci.com/blog/posts/apache-kafka/",
       "title": "Kafka vs RabbitMQ vs SQS vs PostgreSQL vs Redis",
-      "description": "One PostgreSQL database on a laptop takes about 23,000 New York taxi trips a second, sent one at a time, while the city’s yellow taxis averaged about 1.3 trips a second in 2024. In this chapter, we compare Kafka with RabbitMQ, Amazon SQS, Redis, and PostgreSQL, and see how Kafka works: its topics, partitions, offsets, consumer groups, batches, and segments. We also see how a crash can lose or repe"
+      "description": "One PostgreSQL database on a laptop takes about 23,000 New York taxi trips a second, sent one at a time, while the city’s yellow taxis averaged about 1.3 trips a second in 2024. In this chapter, we compare Kafka with RabbitMQ, Amazon SQS, Redis, and PostgreSQL, and see how Kafka works: its topics, partitions, offsets, consumer groups, batches, and segments. We also see how a crash can lose or repe",
+      "date": null
     },
     {
       "link": "https://oedokumaci.com/blog/posts/apache-spark/",
       "title": "Spark vs Hadoop vs DuckDB vs Polars",
-      "description": "One SQL query on 41 million New York taxi trips in an Iceberg table takes 0.29 s with DuckDB, 0.51 s with Polars, and 5.66 s with Spark, all on one laptop. In this chapter, we see how DuckDB and Polars use every core of one machine, how the Google File System, MapReduce, and Hadoop store and process data on many machines, and how Spark works: its cache and lineage, the driver and executors, the qu"
+      "description": "One SQL query on 41 million New York taxi trips in an Iceberg table takes 0.29 s with DuckDB, 0.51 s with Polars, and 5.66 s with Spark, all on one laptop. In this chapter, we see how DuckDB and Polars use every core of one machine, how the Google File System, MapReduce, and Hadoop store and process data on many machines, and how Spark works: its cache and lineage, the driver and executors, the qu",
+      "date": null
     },
     {
       "link": "https://oedokumaci.com/blog/posts/world-of-warcraft-servers/",
       "title": "How WoW Forever and MMORPGs Work: System Design",
-      "description": "After more than 20 years, World of Warcraft’s servers still struggle, and adding more servers can’t fix it. Through one PvP fight from 2006, we see what the game’s client and server each do, then why the work of a packed crowd grows at least with the square of its size, how realms, instances, shards, layers, and batching spread the load, and why the server’s processor is still the limit."
+      "description": "After more than 20 years, World of Warcraft’s servers still struggle, and adding more servers can’t fix it. Through one PvP fight from 2006, we see what the game’s client and server each do, then why the work of a packed crowd grows at least with the square of its size, how realms, instances, shards, layers, and batching spread the load, and why the server’s processor is still the limit.",
+      "date": null
     }
   ]
 }

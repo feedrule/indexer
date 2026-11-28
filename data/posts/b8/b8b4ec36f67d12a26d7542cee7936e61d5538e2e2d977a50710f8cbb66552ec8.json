@@ -4,17 +4,20 @@
     {
       "link": "https://withblack.ink/posts/fun-with-ikeas-dirigera/fun-with-ikeas-dirigera/",
       "title": "Fun With Ikea's Dirigera",
-      "description": "I’ve always wanted to know what’s running on IKEA’s DIRIGERA, it’s a great little device, it runs most of my apartment’s smart devices… but how does it work? First up we gotta say fanks to IKEA for actually providing - this is great, it shows all changes the IKEA team made to open source software , what I wanna see is the juicy bits, userland daemons, what’s driving the Matter and ZigBee radios/de"
+      "description": "I’ve always wanted to know what’s running on IKEA’s DIRIGERA, it’s a great little device, it runs most of my apartment’s smart devices… but how does it work? First up we gotta say fanks to IKEA for actually providing - this is great, it shows all changes the IKEA team made to open source software , what I wanna see is the juicy bits, userland daemons, what’s driving the Matter and ZigBee radios/de",
+      "date": null
     },
     {
       "link": "https://withblack.ink/posts/meo-xgspon-bypass/meo-xgspon-bypass/",
       "title": "Bypassing MEO's XGS-PON ONT with the WAS-110",
-      "description": "If there’s one thing I like, it’s having control over the edge network, thanks to the 8311 Project bypassing your ISPs ONT with the WAS-110 is pretty easy, however, not all OLTs (PTIN in my case) support changing out the provided ONT with a custom device such as the WAS-110. Massive thank you to djGrrr (WAS-110 Firmware Maintainer) - the late nights helping me troubleshooting this as well as discu"
+      "description": "If there’s one thing I like, it’s having control over the edge network, thanks to the 8311 Project bypassing your ISPs ONT with the WAS-110 is pretty easy, however, not all OLTs (PTIN in my case) support changing out the provided ONT with a custom device such as the WAS-110. Massive thank you to djGrrr (WAS-110 Firmware Maintainer) - the late nights helping me troubleshooting this as well as discu",
+      "date": null
     },
     {
       "link": "https://withblack.ink/posts/signing-git-commits-with-ssh/",
       "title": "Signing Git Commits with SSH Keys",
-      "description": "Publicly announcing I’m signing Git commits with SSH Keys here on out! -----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 - From here on (20-01-2026) I Dylanger Daly will be signing my git commits with my generated Ed25519 key ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAEfYnJ8NLimSDq8p0yyRbVQ0elHYaMrQk8dOzDJhy/3 -----BEGIN PGP SIGNATURE----- iHUEARYKAB0WIQQe5eQ8BuOBFz+1tFzebx7+th692gUCaW96owAKCRDebx7+th69"
+      "description": "Publicly announcing I’m signing Git commits with SSH Keys here on out! -----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 - From here on (20-01-2026) I Dylanger Daly will be signing my git commits with my generated Ed25519 key ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAEfYnJ8NLimSDq8p0yyRbVQ0elHYaMrQk8dOzDJhy/3 -----BEGIN PGP SIGNATURE----- iHUEARYKAB0WIQQe5eQ8BuOBFz+1tFzebx7+th692gUCaW96owAKCRDebx7+th69",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://patrickbrosset.com/lab/alpha-shared-transparency",
       "title": "One transparency value to rule them all, with CSS alpha()",
-      "description": "The CSS alpha() function is now Baseline Newly available, so all 3 major browser engines support it, e.g. alpha(from red / 0.5) . This fake OS uses it to drive a bunch of borders, backgrounds, and shadows that all react to the same transparency value in different ways."
+      "description": "The CSS alpha() function is now Baseline Newly available, so all 3 major browser engines support it, e.g. alpha(from red / 0.5) . This fake OS uses it to drive a bunch of borders, backgrounds, and shadows that all react to the same transparency value in different ways.",
+      "date": null
     },
     {
       "link": "https://patrickbrosset.com/lab/who-shipped-first",
       "title": "Who shipped first?",
-      "description": "Which browser engine, Chromium, Gecko or WebKit, shipped web features first? Totals, trend over time, and a feature list, built from the web-features dataset."
+      "description": "Which browser engine, Chromium, Gecko or WebKit, shipped web features first? Totals, trend over time, and a feature list, built from the web-features dataset.",
+      "date": null
     },
     {
       "link": "https://patrickbrosset.com/slides/oredev-2026/#printout",
       "title": "Fun never gets old: 30 years of creative constraints on the web",
-      "description": "The early web was a playground. We hacked table layouts, sliced images, and spent hours on rounded corners. The tools were limited, but we made things anyway. Constraints fueled our creativity. That spirit is the web's most important legacy. In this talk, we'll trace an arc from Netscape-era hacks to modern web techniques, showing how creative abuses of technology can become the standards of the e"
+      "description": "The early web was a playground. We hacked table layouts, sliced images, and spent hours on rounded corners. The tools were limited, but we made things anyway. Constraints fueled our creativity. That spirit is the web's most important legacy. In this talk, we'll trace an arc from Netscape-era hacks to modern web techniques, showing how creative abuses of technology can become the standards of the e",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://fanyangmeng.blog/plex-vm-gpu-passthrough/",
       "title": "Intel Arc Graphics (iGPU) Passthrough on Proxmox Virtual Machine for Plex Hardware Transcoding",
-      "description": "A complete walkthrough of passing through an Intel Arc Graphics integrated GPU on a Meteor Lake-P processor to an Ubuntu 24.04 VM for hardware-accelerated Plex transcoding — including the pitfalls I hit along the way."
+      "description": "A complete walkthrough of passing through an Intel Arc Graphics integrated GPU on a Meteor Lake-P processor to an Ubuntu 24.04 VM for hardware-accelerated Plex transcoding — including the pitfalls I hit along the way.",
+      "date": null
     },
     {
       "link": "https://fanyangmeng.blog/ghost-bunnycdn-cache-purging-middleware-scripts/",
       "title": "Automate Ghost CDN Cache Purging with BunnyCDN Middleware Scripts",
-      "description": "This guide shows how to use BunnyCDN Middleware Scripts to instantly refresh your Ghost CDN cache when you make changes to the website—no extra servers required. A simple solution that automatically detects content changes and keeps your site up-to-date."
+      "description": "This guide shows how to use BunnyCDN Middleware Scripts to instantly refresh your Ghost CDN cache when you make changes to the website—no extra servers required. A simple solution that automatically detects content changes and keeps your site up-to-date.",
+      "date": null
     },
     {
       "link": "https://fanyangmeng.blog/111-minimum-depth-of-binary-tree/",
       "title": "111. Minimum Depth of Binary Tree",
-      "description": "Master LeetCode 111 the binary tree minimum depth problem with Python! Learn four different approaches—recursive postorder, direct recursion, preorder, and level-order traversal—to find the shortest path from root to leaf node. Avoid common pitfalls with nodes having only one child."
+      "description": "Master LeetCode 111 the binary tree minimum depth problem with Python! Learn four different approaches—recursive postorder, direct recursion, preorder, and level-order traversal—to find the shortest path from root to leaf node. Avoid common pitfalls with nodes having only one child.",
+      "date": null
     }
   ]
 }

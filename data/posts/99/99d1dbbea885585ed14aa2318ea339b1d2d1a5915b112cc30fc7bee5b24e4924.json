@@ -4,17 +4,20 @@
     {
       "link": "https://lucvandonkersgoed.com/2026/07/01/i-replaced-my-github-runners-with-lambda-microvms-and-maybe-you-should-too/",
       "title": "I replaced my GitHub runners with Lambda MicroVMs, and maybe you should too",
-      "description": "AWS recently released Lambda MicroVMs: ephemeral, isolated VMs with a lifetime of up to eight hours and very fast startup times. As an experiment I tried to use them as GitHub Actions runners and came away pleasantly surprised."
+      "description": "AWS recently released Lambda MicroVMs: ephemeral, isolated VMs with a lifetime of up to eight hours and very fast startup times. As an experiment I tried to use them as GitHub Actions runners and came away pleasantly surprised.",
+      "date": null
     },
     {
       "link": "https://lucvandonkersgoed.com/2026/03/31/introducing-semantic-content-search-to-aws-news/",
       "title": "Introducing semantic content search to AWS News",
-      "description": "In this article we explore how AWS News semantic search was implemented using S3 vector buckets and embeddings, so you can find articles by meaning rather than exact keywords."
+      "description": "In this article we explore how AWS News semantic search was implemented using S3 vector buckets and embeddings, so you can find articles by meaning rather than exact keywords.",
+      "date": null
     },
     {
       "link": "https://lucvandonkersgoed.com/2025/06/06/end-to-end-email-testing-with-ses-and-sqs/",
       "title": "End-to-end email testing with SES and SQS",
-      "description": "The AWS News Feed has an extensive end-to-end testing suite, but email validation has always been a challenge. In this post I will describe how I implemented end-to-end email testing with SES and SQS."
+      "description": "The AWS News Feed has an extensive end-to-end testing suite, but email validation has always been a challenge. In this post I will describe how I implemented end-to-end email testing with SES and SQS.",
+      "date": null
     }
   ]
 }

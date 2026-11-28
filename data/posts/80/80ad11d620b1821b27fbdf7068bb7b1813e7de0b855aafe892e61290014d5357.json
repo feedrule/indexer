@@ -4,17 +4,20 @@
     {
       "link": "https://kenta.blogspot.com/2026/10/kllfzlhr-git-push-to-non-bare-repository.html",
       "title": "[kllfzlhr] git push to a non-bare repository",
-      "description": "git push \"\"\" remote: error: refusing to update checked out branch: refs/heads/master By default, updating the current branch in a non-bare repository is denied, because it will make the index and work tree inconsistent with what you pushed, and will require 'git reset --hard' to match the work tree to HEAD. ! [remote rejected] master -> master (branch is currently checked out) error: failed to pus"
+      "description": "git push \"\"\" remote: error: refusing to update checked out branch: refs/heads/master By default, updating the current branch in a non-bare repository is denied, because it will make the index and work tree inconsistent with what you pushed, and will require 'git reset --hard' to match the work tree to HEAD. ! [remote rejected] master -> master (branch is currently checked out) error: failed to pus",
+      "date": null
     },
     {
       "link": "https://kenta.blogspot.com/2026/10/utjtylqu-many-charges.html",
       "title": "[utjtylqu] many charges",
-      "description": "in the real world, you can have masses which only attract gravitationally, or masses with positive or negative electric charge which attract or repel according to the parity of their signs. if inventing your own universe for N-body particle simulation, you can have as many different charge types as you want, and you can choose the sign (or more generally, strength) of the interaction between each"
+      "description": "in the real world, you can have masses which only attract gravitationally, or masses with positive or negative electric charge which attract or repel according to the parity of their signs. if inventing your own universe for N-body particle simulation, you can have as many different charge types as you want, and you can choose the sign (or more generally, strength) of the interaction between each",
+      "date": null
     },
     {
       "link": "https://kenta.blogspot.com/2026/10/heqmnnne-caesar-demand-sustenance.html",
       "title": "[heqmnnne] Caesar demand sustenance!",
-      "description": "parody of the ddate calendar utility's \"Grudnuk demand sustenance!\". phrase origin (and identity of Grudnuk) are unknown."
+      "description": "parody of the ddate calendar utility's \"Grudnuk demand sustenance!\". phrase origin (and identity of Grudnuk) are unknown.",
+      "date": null
     }
   ]
 }

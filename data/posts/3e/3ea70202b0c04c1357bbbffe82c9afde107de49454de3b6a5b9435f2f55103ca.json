@@ -4,17 +4,20 @@
     {
       "link": "https://npf.io/2026/04/optimize-for-reviewers/",
       "title": "Optimizing for Reviewers: The Three Step AI Dev Loop",
-      "description": "With AI writing a lot more of our code, we need to optimize for the human code reviewer. The key to this is good test coverage and minimizing diffs in changes that humans need to verify. We should strive to separate refactors that don’t change logic from changes that intentionally change logic (bug fixes, feature additions, etc). Separating the two makes it significantly easier to understand if a"
+      "description": "With AI writing a lot more of our code, we need to optimize for the human code reviewer. The key to this is good test coverage and minimizing diffs in changes that humans need to verify. We should strive to separate refactors that don’t change logic from changes that intentionally change logic (bug fixes, feature additions, etc). Separating the two makes it significantly easier to understand if a",
+      "date": null
     },
     {
       "link": "https://npf.io/2022/05/why-infer/",
       "title": "Why Infer Types?",
-      "description": "Someone at work asked the following question: Why write code like this: foo := getFoo() bar, err := getBar() instead of this: var foo Type = getFoo() var err error var bar Type bar, err = getBar(foo) Isn’t the latter more explicit? Isn’t explicit better? It’ll be easier to review because you’ll be able to see all the types. Well, yes and no. For one thing, between the name of the function you’re c"
+      "description": "Someone at work asked the following question: Why write code like this: foo := getFoo() bar, err := getBar() instead of this: var foo Type = getFoo() var err error var bar Type bar, err = getBar(foo) Isn’t the latter more explicit? Isn’t explicit better? It’ll be easier to review because you’ll be able to see all the types. Well, yes and no. For one thing, between the name of the function you’re c",
+      "date": null
     },
     {
       "link": "https://npf.io/2022/05/safer-enums/",
       "title": "Safer Enums",
-      "description": "How to “do” enums is a common problem in Go, given that it doesn’t have “real” enums like other languages. There’s basically two common ways to do it, the first is just typed strings: type FlagID string const ( FooBar FlagID = “FooBar” FizzBuzz FlagID = “FizzBuzz” ) func IsEnabled(id FlagID) bool { The problem with this is that string literals (really, string constants) in Go will get converted to"
+      "description": "How to “do” enums is a common problem in Go, given that it doesn’t have “real” enums like other languages. There’s basically two common ways to do it, the first is just typed strings: type FlagID string const ( FooBar FlagID = “FooBar” FizzBuzz FlagID = “FizzBuzz” ) func IsEnabled(id FlagID) bool { The problem with this is that string literals (really, string constants) in Go will get converted to",
+      "date": null
     }
   ]
 }

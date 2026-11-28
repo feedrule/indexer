@@ -4,17 +4,20 @@
     {
       "link": "https://tomasvemola.com/bugbash-2026/",
       "title": "BugBash 2026 - We have won, now let's keep winning",
-      "description": "I. We have won, what now? Meeting your 'internet' people in real life is bizarre. You've been following them on the interwebs, potentially for years, and always rationally knew that they are real . But still, when you see them in the flesh for the first time, it's like they finally emerge from Narnia, come to Earth, and your brain reclassifies them into the 'indeed exists' category. Last week I wa"
+      "description": "I. We have won, what now? Meeting your 'internet' people in real life is bizarre. You've been following them on the interwebs, potentially for years, and always rationally knew that they are real . But still, when you see them in the flesh for the first time, it's like they finally emerge from Narnia, come to Earth, and your brain reclassifies them into the 'indeed exists' category. Last week I wa",
+      "date": null
     },
     {
       "link": "https://tomasvemola.com/slacks-default-channels-are-poorly-named/",
       "title": "Slack's default channels are poorly named",
-      "description": "I. It is the dev's responsibility to choose a good default It is the developer's responsibility to choose a good default behavior. In case the software is not flexible, the default behavior is the only behavior - by definition making it something you need to care about. In case the software offers customization, the default behavior is still what most people will stick with . So you should still c"
+      "description": "I. It is the dev's responsibility to choose a good default It is the developer's responsibility to choose a good default behavior. In case the software is not flexible, the default behavior is the only behavior - by definition making it something you need to care about. In case the software offers customization, the default behavior is still what most people will stick with . So you should still c",
+      "date": null
     },
     {
       "link": "https://tomasvemola.com/til-git-ignore-rev/",
       "title": "TIL: `git blame --ignore-rev` for ignoring formatting changes",
-      "description": "When you want to introduce a formatter in an existing project, you have two extreme options - do a 'big bang' reformatting, or reformat only changed lines. A big bang reformat is enticing because you get it done and can add a CI formatting check straight away. However, you would polute git blame with a bunch of no-value changes. --ignore-revs to the rescue! TIL that you can except commits out of g"
+      "description": "When you want to introduce a formatter in an existing project, you have two extreme options - do a 'big bang' reformatting, or reformat only changed lines. A big bang reformat is enticing because you get it done and can add a CI formatting check straight away. However, you would polute git blame with a bunch of no-value changes. --ignore-revs to the rescue! TIL that you can except commits out of g",
+      "date": null
     }
   ]
 }

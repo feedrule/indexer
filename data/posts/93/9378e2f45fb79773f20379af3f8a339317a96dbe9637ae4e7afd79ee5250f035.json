@@ -4,17 +4,20 @@
     {
       "link": "http://blog.allpurposem.at/linux",
       "title": "Linux? On my phone??",
-      "description": "I've used Android for longer than I have had a phone. The first computer I owned was an Android 4 tablet[^bq]), which I received as a gift for my 8th birthday, alongside a shiny Google Mail account (huh, I guess I was breaking TOS since the beginning lol). Since then, I have fully engaged in the Android ecosystem, running relatively up-to-date OS versions on both smartphones I have owned, at least"
+      "description": "I've used Android for longer than I have had a phone. The first computer I owned was an Android 4 tablet[^bq]), which I received as a gift for my 8th birthday, alongside a shiny Google Mail account (huh, I guess I was breaking TOS since the beginning lol). Since then, I have fully engaged in the Android ecosystem, running relatively up-to-date OS versions on both smartphones I have owned, at least",
+      "date": null
     },
     {
       "link": "http://blog.allpurposem.at/making-a-wii-game-in-2024",
       "title": "Making a Wii game in 2024",
-      "description": "As a game developer, some of my most creative work has come from embracing limitations rather than fighting against them. As counterintuitive as it sounds, clamping down on hardware capabilities or abstractions forces you to think outside the box much more. To give you this experience, there's online fantasy consoles such as PICO-8 (nonfree) and TIC80 which make it super accessible to prototype an"
+      "description": "As a game developer, some of my most creative work has come from embracing limitations rather than fighting against them. As counterintuitive as it sounds, clamping down on hardware capabilities or abstractions forces you to think outside the box much more. To give you this experience, there's online fantasy consoles such as PICO-8 (nonfree) and TIC80 which make it super accessible to prototype an",
+      "date": null
     },
     {
       "link": "http://blog.allpurposem.at/pythonplusplus-bridging-worlds-with-polyglot-code",
       "title": "PythonPlusPlus: Bridging Worlds with Polyglot Code",
-      "description": "Picture this: you find yourself immersed in a new job, knee-deep in a C++ codebase, yet your heart yearns for the simplicity and elegance of Python syntax. What do you do? You don't just conform – you innovate, and boldly submit this to code review: #include \"pythonstart.h\" def greet(name): print(\"hello, \" + name + \"!\") return def greet2(name): print(\"how are you, \" + name + \"?\") return def bye():"
+      "description": "Picture this: you find yourself immersed in a new job, knee-deep in a C++ codebase, yet your heart yearns for the simplicity and elegance of Python syntax. What do you do? You don't just conform – you innovate, and boldly submit this to code review: #include \"pythonstart.h\" def greet(name): print(\"hello, \" + name + \"!\") return def greet2(name): print(\"how are you, \" + name + \"?\") return def bye():",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://termiprotocol.com/watching-ai-write-code",
       "title": "Watching AI write code changed how I review it",
-      "description": "Cold diffs are the worst way to review AI-written code. The agent's trajectory, which files it read, what it ran, how many retries, tells you where to actually look."
+      "description": "Cold diffs are the worst way to review AI-written code. The agent's trajectory, which files it read, what it ran, how many retries, tells you where to actually look.",
+      "date": null
     },
     {
       "link": "https://termiprotocol.com/six-agents-one-codebase",
       "title": "Six AI agents, one codebase: what a normal day looks like now",
-      "description": "Lanes in the morning, checkpoint diffs at night. A day in the life of a codebase worked by several CLI agents in parallel, and the rules that keep it from turning into chaos."
+      "description": "Lanes in the morning, checkpoint diffs at night. A day in the life of a codebase worked by several CLI agents in parallel, and the rules that keep it from turning into chaos.",
+      "date": null
     },
     {
       "link": "https://termiprotocol.com/managing-ai-coding-agents",
       "title": "Managing AI coding agents is becoming a real job",
-      "description": "Less typing, more directing. The brief, delegate, inspect, unblock loop looks like management, and the skills that transfer are not the ones people expect."
+      "description": "Less typing, more directing. The brief, delegate, inspect, unblock loop looks like management, and the skills that transfer are not the ones people expect.",
+      "date": null
     }
   ]
 }

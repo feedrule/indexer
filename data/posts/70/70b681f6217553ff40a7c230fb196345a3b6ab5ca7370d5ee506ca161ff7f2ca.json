@@ -4,17 +4,20 @@
     {
       "link": "https://gaurav.koley.in/2026/arc-into-contracts",
       "title": "Turning Arc behavior into testable contracts",
-      "description": "“Feature parity with Arc” was a useful research prompt. It was a terrible implementation ticket. A model can list product features all day: compact chrome, command palette, floating agent panel, split view. That list does not tell an agent, or a test, what done means. Visual resemblance is not a state transition. I needed the boring form: each inspiration becomes an invariant the browser can check"
+      "description": "“Feature parity with Arc” was a useful research prompt. It was a terrible implementation ticket. A model can list product features all day: compact chrome, command palette, floating agent panel, split view. That list does not tell an agent, or a test, what done means. Visual resemblance is not a state transition. I needed the boring form: each inspiration becomes an invariant the browser can check",
+      "date": null
     },
     {
       "link": "https://gaurav.koley.in/2026/computer-use-discovery",
       "title": "Using Computer Use to discover browser functionality",
-      "description": "I have been designing how agents talk to Narada. Before I locked too much of that interface in, I did something a bit sideways: I pointed Computer Use at other browsers on purpose. I was not trying to automate Arc or Chrome forever. I wanted the model to click around the way I would. Open a command. Switch tabs. Open a panel. Notice what happens to focus and the pointer. Then write down the bits t"
+      "description": "I have been designing how agents talk to Narada. Before I locked too much of that interface in, I did something a bit sideways: I pointed Computer Use at other browsers on purpose. I was not trying to automate Arc or Chrome forever. I wanted the model to click around the way I would. Open a command. Switch tabs. Open a panel. Notice what happens to focus and the pointer. Then write down the bits t",
+      "date": null
     },
     {
       "link": "https://gaurav.koley.in/2026/agent-native-browser-owns",
       "title": "What an agent-native browser should own",
-      "description": "If an agent can act inside a browser, who should remember what it is allowed to do? The model could remember. The application that connected it could remember. A chat panel could keep a list somewhere. All three answers work until the model changes, another client connects, or the user takes control of the tab. The browser is the only part of this system that sees the whole situation. It knows whi"
+      "description": "If an agent can act inside a browser, who should remember what it is allowed to do? The model could remember. The application that connected it could remember. A chat panel could keep a list somewhere. All three answers work until the model changes, another client connects, or the user takes control of the tab. The browser is the only part of this system that sees the whole situation. It knows whi",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://myers.io/2026/04/15/LLMs-and-the-Adversarial-loop/",
       "title": "LLMs and the Adversarial Loop",
-      "description": "LLMs are confident. So much so that if you ask one to give you the recipe to immortality, it will probably take a stab at it, even though it knows as much about mortality as it does its own existence. Ask one to write a design spec and it’ll produce something that reads well, covers the obvious cases, and sounds authoritative. Ask it to implement code from that spec and it’ll write something that"
+      "description": "LLMs are confident. So much so that if you ask one to give you the recipe to immortality, it will probably take a stab at it, even though it knows as much about mortality as it does its own existence. Ask one to write a design spec and it’ll produce something that reads well, covers the obvious cases, and sounds authoritative. Ask it to implement code from that spec and it’ll write something that",
+      "date": null
     },
     {
       "link": "https://myers.io/2023/07/04/debugging-python-http-requests/",
       "title": "Debugging Python HTTP(S) Requests",
-      "description": "Debugging Python HTTP Requests"
+      "description": "Debugging Python HTTP Requests",
+      "date": null
     },
     {
       "link": "https://myers.io/2022/04/16/the-tools-that-power-outlook/",
       "title": "The tools that power Outlook",
-      "description": "I’ve been responsible for the developer tooling for Outlook iOS for 6 years now. Back when I started, we had just a single Bash script that covered everything we though we needed at the time. Now, we have 30,000+ lines of Python code (including tests I have to admit) that depend directly on 50 Python packages. Most of these packages are ones you might expect such as requests, pylint, or black. How"
+      "description": "I’ve been responsible for the developer tooling for Outlook iOS for 6 years now. Back when I started, we had just a single Bash script that covered everything we though we needed at the time. Now, we have 30,000+ lines of Python code (including tests I have to admit) that depend directly on 50 Python packages. Most of these packages are ones you might expect such as requests, pylint, or black. How",
+      "date": null
     }
   ]
 }

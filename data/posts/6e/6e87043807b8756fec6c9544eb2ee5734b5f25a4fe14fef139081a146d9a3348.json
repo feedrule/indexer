@@ -4,17 +4,20 @@
     {
       "link": "https://drewhyde.io/blog/envsave-conductor-worktrees",
       "title": "Envsave: keeping secrets across worktrees",
-      "description": "Worktrees are great, env's are annoying."
+      "description": "Worktrees are great, env's are annoying.",
+      "date": null
     },
     {
       "link": "https://drewhyde.io/blog/cc-alias-claude-code",
       "title": "Bonnie and Claude: Aliasing --dangerously-skip-permissions",
-      "description": "I got bored typing out a 37-character flag every time I launched Claude Code, so I made it two keystrokes."
+      "description": "I got bored typing out a 37-character flag every time I launched Claude Code, so I made it two keystrokes.",
+      "date": null
     },
     {
       "link": "https://drewhyde.io/blog/claude-code-beep-hooks",
       "title": "Making Claude Beep: a dive into hooks with Claude Code",
-      "description": "How to set up a sound notification so you stop getting lost in Twitter threads while Claude finishes your code."
+      "description": "How to set up a sound notification so you stop getting lost in Twitter threads while Claude finishes your code.",
+      "date": null
     }
   ]
 }

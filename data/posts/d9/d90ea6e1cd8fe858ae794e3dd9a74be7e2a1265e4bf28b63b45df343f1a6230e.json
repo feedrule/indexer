@@ -4,17 +4,20 @@
     {
       "link": "https://calibreapp.com/blog/native-lazy-loading",
       "title": "Lazy Loading Images: How loading=\"lazy\" and eager Work",
-      "description": "How far ahead Chrome, Firefox and Safari fetch loading=\"lazy\" images, why a lazy hero image slows your page, and when to use eager and fetchpriority instead."
+      "description": "How far ahead Chrome, Firefox and Safari fetch loading=\"lazy\" images, why a lazy hero image slows your page, and when to use eager and fetchpriority instead.",
+      "date": null
     },
     {
       "link": "https://calibreapp.com/blog/airline-websites-are-slow",
       "title": "It’s official: Airline websites are slow, but they don’t have to be",
-      "description": "We analysed 111 airline websites and it confirmed what travellers have been feeling for years"
+      "description": "We analysed 111 airline websites and it confirmed what travellers have been feeling for years",
+      "date": null
     },
     {
       "link": "https://calibreapp.com/blog/chrome-for-linux-arm64",
       "title": "Chrome for Linux arm64: official builds and download",
-      "description": "Google ships official arm64 Linux builds of Chrome. How to download the .deb or .rpm, Chrome for Testing support, and why it matters for browser automation."
+      "description": "Google ships official arm64 Linux builds of Chrome. How to download the .deb or .rpm, Chrome for Testing support, and why it matters for browser automation.",
+      "date": null
     }
   ]
 }

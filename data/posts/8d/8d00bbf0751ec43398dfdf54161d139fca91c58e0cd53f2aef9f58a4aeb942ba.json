@@ -4,17 +4,20 @@
     {
       "link": "https://0y.lol/2026/09/14/network-troubleshooting-evidence-ledger-and-restart-point/",
       "title": "Network Troubleshooting Evidence Ledger and Restart Point",
-      "description": "This is Part 3 of the network troubleshooting series."
+      "description": "This is Part 3 of the network troubleshooting series.",
+      "date": null
     },
     {
       "link": "https://0y.lol/2026/09/11/network-troubleshooting-command-reference-by-osi-layer/",
       "title": "Network Troubleshooting Command Reference by OSI Layer",
-      "description": "This is Part 2 of the network troubleshooting series. Part 1 kept the full incident chronology: the 100 Mbps injector, the marginal coupler panel, the one-way TCP collapse, the bad VLAN test, and the local U6 result that finally narrowed the fault domain."
+      "description": "This is Part 2 of the network troubleshooting series. Part 1 kept the full incident chronology: the 100 Mbps injector, the marginal coupler panel, the one-way TCP collapse, the bad VLAN test, and the local U6 result that finally narrowed the fault domain.",
+      "date": null
     },
     {
       "link": "https://0y.lol/2026/09/03/from-80mbps-to-proven-720mbps-wifi-path/",
       "title": "From 80 Mbps and Random 100 Mbps Links to a Proven 720 Mbps Wi-Fi Path",
-      "description": "This is Part 1 of a troubleshooting series built from a real incident rather than a clean-room example. This post keeps the chronological investigation: what looked broken, what actually was broken, the tests that misled me, and the measurements that finally narrowed the fault domain. Part 2 will extract the reusable command runbook; Part 3 will preserve the evidence ledger and restart point."
+      "description": "This is Part 1 of a troubleshooting series built from a real incident rather than a clean-room example. This post keeps the chronological investigation: what looked broken, what actually was broken, the tests that misled me, and the measurements that finally narrowed the fault domain. Part 2 will extract the reusable command runbook; Part 3 will preserve the evidence ledger and restart point.",
+      "date": null
     }
   ]
 }

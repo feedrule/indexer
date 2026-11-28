@@ -4,17 +4,20 @@
     {
       "link": "https://lioncoding.com/how-to-set-up-analyzers-and-editorconfig-for-an-existing-large-project/",
       "title": "How to set up analyzers and editorconfig for an existing large project",
-      "description": "Introduction Analyzers and EditorConfig are a set of rules that allow a team to have a common base on how to write readable and better code and importantly avoid losing time in code review on feedback..."
+      "description": "Introduction Analyzers and EditorConfig are a set of rules that allow a team to have a common base on how to write readable and better code and importantly avoid losing time in code review on feedback...",
+      "date": null
     },
     {
       "link": "https://lioncoding.com/how-to-write-integration-tests-for-a-custom-kubernetes-controller-in-.net",
       "title": "How to write integration tests for a custom kubernetes controller in .NET",
-      "description": "Introduction A Kubernetes controller is a program that continuously monitors object states in a cluster and makes changes based on predefined logic. Kubernetes has several built-in controllers, but de..."
+      "description": "Introduction A Kubernetes controller is a program that continuously monitors object states in a cluster and makes changes based on predefined logic. Kubernetes has several built-in controllers, but de...",
+      "date": null
     },
     {
       "link": "https://lioncoding.com/resumable-file-uploads-in-.net",
       "title": "Resumable file uploads in .NET",
-      "description": "Introduction Uploading files is a common task in today's digital world. However, when dealing with large files or unstable network connections, uploads can often fail, leading to a poor user experienc..."
+      "description": "Introduction Uploading files is a common task in today's digital world. However, when dealing with large files or unstable network connections, uploads can often fail, leading to a poor user experienc...",
+      "date": null
     }
   ]
 }

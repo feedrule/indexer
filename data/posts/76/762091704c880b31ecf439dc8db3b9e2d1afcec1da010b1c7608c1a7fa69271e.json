@@ -4,17 +4,20 @@
     {
       "link": "https://christian-gmeiner.info/2026-06-19-the-diagonal-seam/",
       "title": "The Diagonal Seam",
-      "description": "Two more dEQP tests down: dEQP-GLES3.functional.fbo.blit.rect.nearest_consistency_mag -- Pass dEQP-GLES3.functional.fbo.blit.rect.nearest_consistency_min -- Pass This one was a fun geometry puzzle. The problem Mesa’s u_blitter is the utility that drivers use for framebuffer blits – copying pixel data between surfaces, optionally scaling and filtering. It works by drawing a textured quad: set up th"
+      "description": "Two more dEQP tests down: dEQP-GLES3.functional.fbo.blit.rect.nearest_consistency_mag -- Pass dEQP-GLES3.functional.fbo.blit.rect.nearest_consistency_min -- Pass This one was a fun geometry puzzle. The problem Mesa’s u_blitter is the utility that drivers use for framebuffer blits – copying pixel data between surfaces, optionally scaling and filtering. It works by drawing a textured quad: set up th",
+      "date": null
     },
     {
       "link": "https://christian-gmeiner.info/2026-06-10-fixing-the-rb-swap-the-right-way/",
       "title": "Fixing the R/B swap the right way",
-      "description": "If you’ve ever looked at a GPU render and seen blue where red should be, you’ve met the R/B swap problem. For etnaviv this has been a long-standing source of complexity. We were solving it in the shader, but the proprietary blob driver had a simpler approach all along. As part of my work at Igalia , I finally sat down and did it properly. The problem Vivante GPUs have a quirk: the Pixel Engine (PE"
+      "description": "If you’ve ever looked at a GPU render and seen blue where red should be, you’ve met the R/B swap problem. For etnaviv this has been a long-standing source of complexity. We were solving it in the shader, but the proprietary blob driver had a simpler approach all along. As part of my work at Igalia , I finally sat down and did it properly. The problem Vivante GPUs have a quirk: the Pixel Engine (PE",
+      "date": null
     },
     {
       "link": "https://christian-gmeiner.info/2026-04-20-panvk-extensions/",
       "title": "PanVK Extension Sprint: Mesa 26.1",
-      "description": "Last week marks the Mesa 26.1 branch point, and I wanted to take a moment to look back at what happened on the PanVK front. Spoiler: it was a busy one. The landscape PanVK - the Vulkan driver for Arm Mali GPUs (Valhall and newer) - is a collaborative effort. Collabora has been doing incredible work on the compiler backend and the foundational infrastructure. Arm themselves are actively contributin"
+      "description": "Last week marks the Mesa 26.1 branch point, and I wanted to take a moment to look back at what happened on the PanVK front. Spoiler: it was a busy one. The landscape PanVK - the Vulkan driver for Arm Mali GPUs (Valhall and newer) - is a collaborative effort. Collabora has been doing incredible work on the compiler backend and the foundational infrastructure. Arm themselves are actively contributin",
+      "date": null
     }
   ]
 }

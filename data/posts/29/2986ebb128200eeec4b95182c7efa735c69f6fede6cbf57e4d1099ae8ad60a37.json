@@ -4,17 +4,20 @@
     {
       "link": "https://timlawrenceportfolio.com/tpm-system-design-the-twelve-factor-approach/",
       "title": "TPM System Design: The Twelve-Factor Approach",
-      "description": "Because I come from such a non-traditional tech background (I started in Public Education), I meet a lot of Program and Project Managers who ask me about getting into Technical Program Management. I'm not a software engineer, but I grew up in the early days of blogging, so I'm pretty well versed in early languages and concepts like HTML, CSS, PHP, and MySQL and took a few computer science classes"
+      "description": "Because I come from such a non-traditional tech background (I started in Public Education), I meet a lot of Program and Project Managers who ask me about getting into Technical Program Management. I'm not a software engineer, but I grew up in the early days of blogging, so I'm pretty well versed in early languages and concepts like HTML, CSS, PHP, and MySQL and took a few computer science classes",
+      "date": null
     },
     {
       "link": "https://timlawrenceportfolio.com/twelve-factor-checklist-for-tpms/",
       "title": "Twelve-Factor App Checklist for TPMs",
-      "description": "In my previous post on TPM System Design . I talked about a checklist I use when reviewing design docs to ensure my programs follow the Twelve-Factor App methodology . I figured I would share it here for other TPMs interested in adopting Twelve-Factor principles for system design. Checklist Factor Checklist Pass Criteria I. Codebase Single repo with many deploys? Git repo shared; libs for duplicat"
+      "description": "In my previous post on TPM System Design . I talked about a checklist I use when reviewing design docs to ensure my programs follow the Twelve-Factor App methodology . I figured I would share it here for other TPMs interested in adopting Twelve-Factor principles for system design. Checklist Factor Checklist Pass Criteria I. Codebase Single repo with many deploys? Git repo shared; libs for duplicat",
+      "date": null
     },
     {
       "link": "https://timlawrenceportfolio.com/connecting-cursor-to-your-heroku-database-via-heroku-mcp/",
       "title": "Cursor + Heroku MCP: Instant SQL Queries from Your Database",
-      "description": "How to set it up Cursor and Heroku MCP for instant SQL query generation in Cursor, slashing time on schema recall and joins."
+      "description": "How to set it up Cursor and Heroku MCP for instant SQL query generation in Cursor, slashing time on schema recall and joins.",
+      "date": null
     }
   ]
 }

@@ -4,12 +4,14 @@
     {
       "link": "https://aneviaro.eu/posts/snapshot-based-cmek-bypass/",
       "title": "Snapshot-based CMEK Bypass: Cross-Project Disk Replication",
-      "description": "This follow-up demonstrates a snapshot-based bypass that complements the disk-cloning attack described earlier."
+      "description": "This follow-up demonstrates a snapshot-based bypass that complements the disk-cloning attack described earlier.",
+      "date": null
     },
     {
       "link": "https://aneviaro.eu/posts/the-hidden-risk-of-gcp-viewer-role-cross-project-disk-replication/",
       "title": "The Hidden Risk of GCP Viewer Role: Cross-Project Disk Replication",
-      "description": "TL;DR: The legacy Basic roles/viewer is riskier than you think. It grants compute.disks.useReadOnly , which allows an attacker to clone disks (even CMEK encrypted ones) into an external project, effectively removing the CMEK encryption and bypassing specific KMS permissions you would expect to prevent this. While Google patched the direct disk cloning bypass following my disclosure, I have discove"
+      "description": "TL;DR: The legacy Basic roles/viewer is riskier than you think. It grants compute.disks.useReadOnly , which allows an attacker to clone disks (even CMEK encrypted ones) into an external project, effectively removing the CMEK encryption and bypassing specific KMS permissions you would expect to prevent this. While Google patched the direct disk cloning bypass following my disclosure, I have discove",
+      "date": null
     }
   ]
 }

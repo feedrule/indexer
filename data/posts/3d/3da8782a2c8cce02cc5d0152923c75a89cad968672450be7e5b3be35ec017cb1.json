@@ -4,17 +4,20 @@
     {
       "link": "https://perrotta.dev/2026/11/jo-create-json-from-shell-arguments/",
       "title": "jo: create JSON from shell arguments",
-      "description": "♠ Today I learned : jo creates JSON from shell arguments. jq queries and transforms JSON. They work well together, complementing each other. Both can create objects. jo : % repo=$(basename \"$PWD\") % branch=$(git branch --show-current) % jo repo=\"$repo\" branch=\"$branch\" {\"repo\":\"perrotta.dev\",\"branch\":\"master\"} The equivalent with jq needs -n (no input) and --arg for each string. -c keeps the outpu"
+      "description": "♠ Today I learned : jo creates JSON from shell arguments. jq queries and transforms JSON. They work well together, complementing each other. Both can create objects. jo : % repo=$(basename \"$PWD\") % branch=$(git branch --show-current) % jo repo=\"$repo\" branch=\"$branch\" {\"repo\":\"perrotta.dev\",\"branch\":\"master\"} The equivalent with jq needs -n (no input) and --arg for each string. -c keeps the outpu",
+      "date": null
     },
     {
       "link": "https://perrotta.dev/2026/11/maccy-pinned-items-instead-of-private-espanso-snippets/",
       "title": "maccy: pinned items instead of private espanso snippets",
-      "description": "♠ Previously . Problem statement : keep frequently accessed private snippets handy without maintaining a separate Espanso config. Use Maccy pinned items instead. I already use it as my clipboard manager. For fixed text I need to paste often, a pinned entry is enough. The workflow : Copy the snippet. Open Maccy and highlight its clipboard entry. Press ⌥P to pin it. The entry stays at the top of the"
+      "description": "♠ Previously . Problem statement : keep frequently accessed private snippets handy without maintaining a separate Espanso config. Use Maccy pinned items instead. I already use it as my clipboard manager. For fixed text I need to paste often, a pinned entry is enough. The workflow : Copy the snippet. Open Maccy and highlight its clipboard entry. Press ⌥P to pin it. The entry stays at the top of the",
+      "date": null
     },
     {
       "link": "https://perrotta.dev/2026/11/macos-meetingbar-for-calendar-events/",
       "title": "macos: meetingbar for calendar events",
-      "description": "♠ Previously . I was too quick to declare I no longer needed Raycast. SpotMenu replaced its Spotify menu bar display, but I forgot another feature: showing the next calendar meeting . MeetingBar replaces that too. It shows the current or next meeting in the macOS menu bar and lets us join calls with one click. It is free and open source . Install with Homebrew : % brew install meetingbar ==> Downl"
+      "description": "♠ Previously . I was too quick to declare I no longer needed Raycast. SpotMenu replaced its Spotify menu bar display, but I forgot another feature: showing the next calendar meeting . MeetingBar replaces that too. It shows the current or next meeting in the macOS menu bar and lets us join calls with one click. It is free and open source . Install with Homebrew : % brew install meetingbar ==> Downl",
+      "date": null
     }
   ]
 }

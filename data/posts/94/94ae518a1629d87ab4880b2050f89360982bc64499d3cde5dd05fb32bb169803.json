@@ -4,17 +4,20 @@
     {
       "link": "https://andsmi.com/blog/example-future-post/",
       "title": "Example future post (won't publish until July)",
-      "description": "A placeholder demonstrating scheduled publishing — delete me."
+      "description": "A placeholder demonstrating scheduled publishing — delete me.",
+      "date": null
     },
     {
       "link": "https://andsmi.com/blog/hello-again/",
       "title": "And the blogging starts (again)",
-      "description": "Rebooting andsmi.com after an eleven-year break — same habit as 2011, new pile of markdown, and a build that posts for me when I forget to."
+      "description": "Rebooting andsmi.com after an eleven-year break — same habit as 2011, new pile of markdown, and a build that posts for me when I forget to.",
+      "date": null
     },
     {
       "link": "https://andsmi.com/blog/uptima-welcome-principal-consultant/",
       "title": "Welcome to Uptima",
-      "description": "Uptima's LinkedIn welcome post from April 2022 — Commodore, Lotus 1-2-3, Upstate NY, family."
+      "description": "Uptima's LinkedIn welcome post from April 2022 — Commodore, Lotus 1-2-3, Upstate NY, family.",
+      "date": null
     }
   ]
 }

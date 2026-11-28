@@ -4,17 +4,20 @@
     {
       "link": "https://cbpowell.wordpress.com/2026/10/15/reversing-the-scout-ads-b-receiver-part-3/",
       "title": "Reversing the Scout ADS-B receiver (part 3)",
-      "description": "When I last worked on this effort in October 2025, I had left off puzzled and frustrated that I had a decryption key and encrypted message traffic, but only one tantalizing successful decryption on hand. I eventually put the project aside for twelve months. Returning with a fresh mind My interest in the project returned … Continue reading →"
+      "description": "When I last worked on this effort in October 2025, I had left off puzzled and frustrated that I had a decryption key and encrypted message traffic, but only one tantalizing successful decryption on hand. I eventually put the project aside for twelve months. Returning with a fresh mind My interest in the project returned … Continue reading →",
+      "date": null
     },
     {
       "link": "https://cbpowell.wordpress.com/2026/10/15/reversing-the-scout-ads-b-receiver-part-2/",
       "title": "Reversing the Scout ADS-B receiver (part 2)",
-      "description": "With apologies, here is a very late writeup about reverse-engineering efforts I undertook in October, 2025. When I left off last time in Part 1, I had captured the actual wire data flowing between the Scout device and ForeFlight. Analysis made it clear that they were using a non-standard extension to the GDL90 spec. If … Continue reading →"
+      "description": "With apologies, here is a very late writeup about reverse-engineering efforts I undertook in October, 2025. When I left off last time in Part 1, I had captured the actual wire data flowing between the Scout device and ForeFlight. Analysis made it clear that they were using a non-standard extension to the GDL90 spec. If … Continue reading →",
+      "date": null
     },
     {
       "link": "https://cbpowell.wordpress.com/2025/09/25/reversing-the-scout-ads-b-receiver-part-1/",
       "title": "Reversing the Scout ADS-B receiver (part 1)",
-      "description": "TL;DR: the Scout ADS-B receiver transmits its data using a proprietary, undocumented format that I cannot decode, but perhaps with scrutiny it could be decoded and used for fun projects. Come for the story of my process; stay for the crappy responses from ForeFlight and uAvionix tech support. This article is part 1, wouldn’t it … Continue reading →"
+      "description": "TL;DR: the Scout ADS-B receiver transmits its data using a proprietary, undocumented format that I cannot decode, but perhaps with scrutiny it could be decoded and used for fun projects. Come for the story of my process; stay for the crappy responses from ForeFlight and uAvionix tech support. This article is part 1, wouldn’t it … Continue reading →",
+      "date": null
     }
   ]
 }

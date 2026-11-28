@@ -4,17 +4,20 @@
     {
       "link": "https://mg-04.github.io/posts/2026/10/pyvisa",
       "title": "Peeling a Scope: The Layers of PyVISA",
-      "description": "One line of Python sets a scope to 500 mV/div. Here's every layer it passes through, from the PyVISA class hierarchy down to USB permissions on a PYNQ board."
+      "description": "One line of Python sets a scope to 500 mV/div. Here's every layer it passes through, from the PyVISA class hierarchy down to USB permissions on a PYNQ board.",
+      "date": null
     },
     {
       "link": "https://mg-04.github.io/posts/2026/10/elmore",
       "title": "Elmore Delay Analysis",
-      "description": "18-4/622 Recitation 01: a step-by-step walkthrough of Elmore delay on a midterm problem, from switch-level RC models to wire pi-models."
+      "description": "18-4/622 Recitation 01: a step-by-step walkthrough of Elmore delay on a midterm problem, from switch-level RC models to wire pi-models.",
+      "date": null
     },
     {
       "link": "https://mg-04.github.io/posts/2026/05/sr",
       "title": "Simon’s Rock: Now & Then",
-      "description": "In memory of my dead school"
+      "description": "In memory of my dead school",
+      "date": null
     }
   ]
 }

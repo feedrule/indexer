@@ -4,17 +4,20 @@
     {
       "link": "https://blog.bofh.it/debian/id_473",
       "title": "systemd has not implemented age verification",
-      "description": "This needs to be clear: systemd is under attack by a trolling campaign orchestrated by fascist elements. Nobody is forced to like or use systemd, but anybody who wants to pick a side should know the facts. Recently, the free software Nazi bar crowd styling themselves as \"concerned citizens\" has tried to start a moral panic by saying that systemd is implementing age verification checks or that some"
+      "description": "This needs to be clear: systemd is under attack by a trolling campaign orchestrated by fascist elements. Nobody is forced to like or use systemd, but anybody who wants to pick a side should know the facts. Recently, the free software Nazi bar crowd styling themselves as \"concerned citizens\" has tried to start a moral panic by saying that systemd is implementing age verification checks or that some",
+      "date": null
     },
     {
       "link": "https://blog.bofh.it/debian/id_472",
       "title": "Bypassing deep packet inspection with socat and HTTPS tunnels",
-      "description": "Recently I found myself with a few hours to kill, but with the only available connectivity provided by an annoying firewall which would normally allow requests only to a few very specific web sites. This post shows how to work around this kind of restrictions by hiding SSH in an HTTPS connection, which then can be used as a SOCKS proxy to allow general connectivity. socat does all the hard work. F"
+      "description": "Recently I found myself with a few hours to kill, but with the only available connectivity provided by an annoying firewall which would normally allow requests only to a few very specific web sites. This post shows how to work around this kind of restrictions by hiding SSH in an HTTPS connection, which then can be used as a SOCKS proxy to allow general connectivity. socat does all the hard work. F",
+      "date": null
     },
     {
       "link": "https://blog.bofh.it/id_472",
       "title": "Are the IXPs actually critical infrastructure?",
-      "description": "Over the past year, the peering LAN of MIX-IT, the largest internet exchange point in Italy carrying 2.5-3 Tbps of traffic, has experienced multiple outages. The longest lasted 34 hours, which I understand has set a new world record. These incidents should clearly demonstrate to regulators that IXP s do not generally meet the criteria for critical infrastructure / essential entities, and this is a"
+      "description": "Over the past year, the peering LAN of MIX-IT, the largest internet exchange point in Italy carrying 2.5-3 Tbps of traffic, has experienced multiple outages. The longest lasted 34 hours, which I understand has set a new world record. These incidents should clearly demonstrate to regulators that IXP s do not generally meet the criteria for critical infrastructure / essential entities, and this is a",
+      "date": null
     }
   ]
 }

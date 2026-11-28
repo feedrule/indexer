@@ -4,17 +4,20 @@
     {
       "link": "https://teaaddictyt.tumblr.com/post/833970749677207552",
       "title": "Apartment Fixes /testing",
-      "description": "lamare-sims : Apartment Fixes /testing Fixed these 4 apartment bugs: the “ attempt to index a nil value ” error in ClearLotApartmentObjects function (big scary error message) caused by removing CC or otherwise the game not finding an object token it expected to find the “ scattered furniture in neighbor’s unit ” bug also caused by removing CC and possibly other reasons that might shift object toke"
+      "description": "lamare-sims : Apartment Fixes /testing Fixed these 4 apartment bugs: the “ attempt to index a nil value ” error in ClearLotApartmentObjects function (big scary error message) caused by removing CC or otherwise the game not finding an object token it expected to find the “ scattered furniture in neighbor’s unit ” bug also caused by removing CC and possibly other reasons that might shift object toke",
+      "date": null
     },
     {
       "link": "https://teaaddictyt.tumblr.com/post/833781344435912704",
       "title": "Hi! I have kind of a random question for you, but this has been driving me bonkers for a while and I thought maybe you’d know how to deal with it. Is there any way to make a mod so that the “take bubb",
-      "description": "Hey! Yeah I can absolutely show you how to make a mod like this. Luckily, all baths share the same \"semiglobal\" group, which means they all use the same code when they run. Each bath has it's own \"tree table\" (TTAB / interactions table) but they all run the same semiglobal interaction BHAV. You can tell because the TTABs are only found within the individual bathtub groups, but the BHAVs all start"
+      "description": "Hey! Yeah I can absolutely show you how to make a mod like this. Luckily, all baths share the same \"semiglobal\" group, which means they all use the same code when they run. Each bath has it's own \"tree table\" (TTAB / interactions table) but they all run the same semiglobal interaction BHAV. You can tell because the TTABs are only found within the individual bathtub groups, but the BHAVs all start",
+      "date": null
     },
     {
       "link": "https://teaaddictyt.tumblr.com/post/833617143185768449",
       "title": "re apartments: while I do have the same issue with people in unplayed apartments, I also have a different issue with them. I’ve found in post on MTS about it, but without any solution: left-overs in a",
-      "description": "hey Anon, Second person who has said this, which is interesting. Can I ask if you have any \"leftovers\" related mods? Simple Leftovers Lamare's edit + autonomous put away leftovers Per Fridge Leftovers Any of those?"
+      "description": "hey Anon, Second person who has said this, which is interesting. Can I ask if you have any \"leftovers\" related mods? Simple Leftovers Lamare's edit + autonomous put away leftovers Per Fridge Leftovers Any of those?",
+      "date": null
     }
   ]
 }

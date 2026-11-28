@@ -4,17 +4,20 @@
     {
       "link": "https://seoulsaram.org/articles/RK3588/mainline-hwdec/",
       "title": "Hardware-accelerated 4K video on RK3588 with Linux 7.0",
-      "description": "Background Collabora team has been doing amazing work. Now you don't need to use vendor BSP to use hardware acceleration. Now with upstream linux kernel 7.0, you can play 4K 60fps video with hardware acceleration without any vendor kernel patch. First of all, thank you so much to my friend for lending me Odroid-M2 1 in this RAMpocalypse. But how to do it? I couldn't find a guide on how to actually"
+      "description": "Background Collabora team has been doing amazing work. Now you don't need to use vendor BSP to use hardware acceleration. Now with upstream linux kernel 7.0, you can play 4K 60fps video with hardware acceleration without any vendor kernel patch. First of all, thank you so much to my friend for lending me Odroid-M2 1 in this RAMpocalypse. But how to do it? I couldn't find a guide on how to actually",
+      "date": null
     },
     {
       "link": "https://seoulsaram.org/articles/GSoC25/final-report/",
       "title": "GSoC 2025 Final Report: RVV Optimization for the dav1d AV1 Decoder",
-      "description": "Project Overview and Goals dav1d 1 is an open-source AV1 video decoder that aims for the highest possible performance. The primary goal of this GSoC project was to optimize dav1d 's core video processing functions by implementing hand-written assembly using the RISC-V Vector (RVV) Extension . The objective was to maximize performance to enable smooth playback of high-definition AV1 video on low-po"
+      "description": "Project Overview and Goals dav1d 1 is an open-source AV1 video decoder that aims for the highest possible performance. The primary goal of this GSoC project was to optimize dav1d 's core video processing functions by implementing hand-written assembly using the RISC-V Vector (RVV) Extension . The objective was to maximize performance to enable smooth playback of high-definition AV1 video on low-po",
+      "date": null
     },
     {
       "link": "https://seoulsaram.org/articles/GSoC25/perf/",
       "title": "How to build perf for spacemit x60 and use it with dav1d",
-      "description": "This time we are going to explore how to use Perf command. This allows us to determine which functions have the most significant impact on decoding with dav1d. How to build perf cd linux/tools/perf/pmu-events ./jevents.py riscv spacemit/x60 . pmu-events.c It will fail, so remove the failing codes in jevents.py. if len(archs) < 2 : raise IOError ( f 'Missing architecture directory \\' { _args . arch"
+      "description": "This time we are going to explore how to use Perf command. This allows us to determine which functions have the most significant impact on decoding with dav1d. How to build perf cd linux/tools/perf/pmu-events ./jevents.py riscv spacemit/x60 . pmu-events.c It will fail, so remove the failing codes in jevents.py. if len(archs) < 2 : raise IOError ( f 'Missing architecture directory \\' { _args . arch",
+      "date": null
     }
   ]
 }

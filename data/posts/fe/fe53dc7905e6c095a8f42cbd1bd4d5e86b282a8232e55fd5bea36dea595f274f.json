@@ -4,17 +4,20 @@
     {
       "link": "https://ikeanalytics.com/articles/the-closer-protocol/",
       "title": "The Closer Protocol",
-      "description": "An agent can finish a computation and leave the actual question unresolved. Closer Protocol is a proposed answer: obligations that survive agent episodes, evidence that has to earn its conclusions, and authority that cannot be inferred from a goal. A review draft, published here so it has a stable address."
+      "description": "An agent can finish a computation and leave the actual question unresolved. Closer Protocol is a proposed answer: obligations that survive agent episodes, evidence that has to earn its conclusions, and authority that cannot be inferred from a goal. A review draft, published here so it has a stable address.",
+      "date": null
     },
     {
       "link": "https://ikeanalytics.com/articles/the-meter/",
       "title": "The Meter: Spread is Signal",
-      "description": "Ask a model the same question five times and it will either answer five ways or one way. The variance of a model's unaided attempts predicts whether new true information will move its score — a meter you can read before you spend a token."
+      "description": "Ask a model the same question five times and it will either answer five ways or one way. The variance of a model's unaided attempts predicts whether new true information will move its score — a meter you can read before you spend a token.",
+      "date": null
     },
     {
       "link": "https://ikeanalytics.com/articles/the-exchange-of-thinking-work/",
       "title": "The Exchange of Thinking Work",
-      "description": "An agent that cannot pay for itself is a toy. Three citizens, one loop, and an experiment to claw back what the subscription costs."
+      "description": "An agent that cannot pay for itself is a toy. Three citizens, one loop, and an experiment to claw back what the subscription costs.",
+      "date": null
     }
   ]
 }

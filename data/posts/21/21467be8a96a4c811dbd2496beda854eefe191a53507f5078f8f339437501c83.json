@@ -4,17 +4,20 @@
     {
       "link": "https://mnaoumov.wordpress.com/2026/04/13/migrating-blog/",
       "title": "Migrating blog",
-      "description": "Moved the blog to https://mnaoumov.dev/ as I wanted self-hosted markdown blog for a while…"
+      "description": "Moved the blog to https://mnaoumov.dev/ as I wanted self-hosted markdown blog for a while…",
+      "date": null
     },
     {
       "link": "https://mnaoumov.wordpress.com/2023/12/17/switch-between-three-keyboard-languages/",
       "title": "Switch between three keyboard languages",
-      "description": "Hi folks. On the regular basis I use three keyboard: English, Russian and Ukrainian. I need them quite often and I need a quick way to switch between them. Default Alt + Shift and Win + Space are not good enough. Cyclical changes don’t work well sometimes and I have to click more and look … Continue reading \"Switch between three keyboard languages\""
+      "description": "Hi folks. On the regular basis I use three keyboard: English, Russian and Ukrainian. I need them quite often and I need a quick way to switch between them. Default Alt + Shift and Win + Space are not good enough. Cyclical changes don’t work well sometimes and I have to click more and look … Continue reading \"Switch between three keyboard languages\"",
+      "date": null
     },
     {
       "link": "https://mnaoumov.wordpress.com/2023/01/31/regex-to-find-the-end-of-file-eof-in-visual-studio-code/",
       "title": "Regex to find the end of file (EOF) in Visual Studio Code",
-      "description": "Hi folks. To do bulk text replacement, I usually use Visual Studio Code. I needed to replace some text only if it is at the end of the file (EOF). But simple regex $ would not work, because it finds end of each line. It seems that in VSCode they use multiline regex. And I … Continue reading \"Regex to find the end of file (EOF) in Visual Studio Code\""
+      "description": "Hi folks. To do bulk text replacement, I usually use Visual Studio Code. I needed to replace some text only if it is at the end of the file (EOF). But simple regex $ would not work, because it finds end of each line. It seems that in VSCode they use multiline regex. And I … Continue reading \"Regex to find the end of file (EOF) in Visual Studio Code\"",
+      "date": null
     }
   ]
 }

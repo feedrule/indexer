@@ -4,17 +4,20 @@
     {
       "link": "https://verrchu.github.io/blog/3-the-reflex-of-deriving-serde-traits/",
       "title": "The reflex of deriving `serde` traits",
-      "description": "serde is a great library, and a big part of what makes it great is how easy it is to use: just derive Serialize / Deserialize and that’s it. But because it takes zero effort to add those derives to an existing #[derive(Debug, Clone, ...)] , types often end up implementing Serialize / Deserialize accidentally, by reflex. Once some other piece of code (or another system entirely) starts relying on t"
+      "description": "serde is a great library, and a big part of what makes it great is how easy it is to use: just derive Serialize / Deserialize and that’s it. But because it takes zero effort to add those derives to an existing #[derive(Debug, Clone, ...)] , types often end up implementing Serialize / Deserialize accidentally, by reflex. Once some other piece of code (or another system entirely) starts relying on t",
+      "date": null
     },
     {
       "link": "https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/",
       "title": "\"Respectful\" YAML patching in Rust",
-      "description": "Patching a YAML file programmatically is straightforward in principle: parse, modify, serialize. Ideally the process should also be respectful — that is, preserve the following properties of the initial file: Formatting. The same YAML value can be represented in multiple ways: how mappings and lists are indented, whether blank lines separate sections, how strings are quoted, and so on. For example"
+      "description": "Patching a YAML file programmatically is straightforward in principle: parse, modify, serialize. Ideally the process should also be respectful — that is, preserve the following properties of the initial file: Formatting. The same YAML value can be represented in multiple ways: how mappings and lists are indented, whether blank lines separate sections, how strings are quoted, and so on. For example",
+      "date": null
     },
     {
       "link": "https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/",
       "title": "The `Sync` bound nobody asked for",
-      "description": "&self as a receiver in an async method of a trait whose returned future must be Send implicitly forces Sync on the trait implementor type — even if neither the trait nor its callers ever explicitly ask for Sync . Here’s a quick demonstration. 1.1. Future without Send bound, Send + Sync impl type — compiles: 1 2 3 4 5 6 7 8 9 10 11 struct SendSync ; static_assertions:: assert_impl_all! (SendSync: S"
+      "description": "&self as a receiver in an async method of a trait whose returned future must be Send implicitly forces Sync on the trait implementor type — even if neither the trait nor its callers ever explicitly ask for Sync . Here’s a quick demonstration. 1.1. Future without Send bound, Send + Sync impl type — compiles: 1 2 3 4 5 6 7 8 9 10 11 struct SendSync ; static_assertions:: assert_impl_all! (SendSync: S",
+      "date": null
     }
   ]
 }

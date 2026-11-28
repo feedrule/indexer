@@ -4,17 +4,20 @@
     {
       "link": "https://seminumerical.io/post/cpu-works-somehow/",
       "title": "The Cpu Works Somehow",
-      "description": "You can create a simple CPU by using a bunch of transistors to build logic gates (AND, OR, NAND, etc.), then connecting those gates so they run actual logic and computations. However, I could not understand how such simple primitives could perform fairly complicated operations in a very small number of machine cycles - sometimes even in a single cycle. Confusion I will use addition as an example."
+      "description": "You can create a simple CPU by using a bunch of transistors to build logic gates (AND, OR, NAND, etc.), then connecting those gates so they run actual logic and computations. However, I could not understand how such simple primitives could perform fairly complicated operations in a very small number of machine cycles - sometimes even in a single cycle. Confusion I will use addition as an example.",
+      "date": null
     },
     {
       "link": "https://seminumerical.io/post/microsurface-refraction-bsdf/",
       "title": "Microsurface Refraction BSDF Derivation",
-      "description": "In the microfacet model, the surface BSDF is expressed through the BSDF of separate facets as follows: \\[ \\tag{1} f_s(\\bold i, \\bold o, \\bold n) = \\underset{H^2(\\bold n)}{\\int} \\bigg| \\frac{\\bold i \\cdot \\bold m }{\\bold i \\cdot \\bold n} \\bigg| f_s^m(\\bold i, \\bold o, \\bold m) \\bigg| \\frac{\\bold o \\cdot \\bold m }{\\bold o \\cdot \\bold n} \\bigg| G(\\bold i, \\bold o, \\bold m) D(\\bold m) d\\omega_m \\] The"
+      "description": "In the microfacet model, the surface BSDF is expressed through the BSDF of separate facets as follows: \\[ \\tag{1} f_s(\\bold i, \\bold o, \\bold n) = \\underset{H^2(\\bold n)}{\\int} \\bigg| \\frac{\\bold i \\cdot \\bold m }{\\bold i \\cdot \\bold n} \\bigg| f_s^m(\\bold i, \\bold o, \\bold m) \\bigg| \\frac{\\bold o \\cdot \\bold m }{\\bold o \\cdot \\bold n} \\bigg| G(\\bold i, \\bold o, \\bold m) D(\\bold m) d\\omega_m \\] The",
+      "date": null
     },
     {
       "link": "https://seminumerical.io/post/my-20-year-old-program/",
       "title": "My 20-Year-Old Program",
-      "description": "Dedicated to my friend Volodymyr, who has a birthday today. I almost forgot about it, but I remembered when I wrote the publish date for this post. Years ago, Volodymyr wrote a ray tracer compatible with the original pbrt. All functionality in that ray tracer was covered with tests. I never saw another ray tracer project that was so serious about test code. Volodymyr is included in the acknowledgm"
+      "description": "Dedicated to my friend Volodymyr, who has a birthday today. I almost forgot about it, but I remembered when I wrote the publish date for this post. Years ago, Volodymyr wrote a ray tracer compatible with the original pbrt. All functionality in that ray tracer was covered with tests. I never saw another ray tracer project that was so serious about test code. Volodymyr is included in the acknowledgm",
+      "date": null
     }
   ]
 }

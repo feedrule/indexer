@@ -4,17 +4,20 @@
     {
       "link": "https://jack.is/posts/posted-with-mkd/",
       "title": "Posted with MKD",
-      "description": "How to manage your markdown blog posts better"
+      "description": "How to manage your markdown blog posts better",
+      "date": null
     },
     {
       "link": "https://jack.is/posts/self-hosting-your-pds/",
       "title": "Self hosting your PDS with Podman",
-      "description": "A writeup of gotchas and other fun stuff along the way of deploying a PDS"
+      "description": "A writeup of gotchas and other fun stuff along the way of deploying a PDS",
+      "date": null
     },
     {
       "link": "https://jack.is/posts/comments-api/",
       "title": "Comments API",
-      "description": "On how I learned something new, and made my comments better in the process"
+      "description": "On how I learned something new, and made my comments better in the process",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://oneweekwonder.blogspot.com/2026/09/gameboy-pixmap-demo-part-7.html",
       "title": "GameBoy Pixmap Demo (Part 7)",
-      "description": "This is the 7th and likely last in the series on Framebuffer-based graphics on the Nintendo GameBoy. As before I'll start with a recap. Then we'll continue with more development, classic 8-bit display routines for pixel plotting and line drawing. Recap The incredibly successful 8-bit Nintendo GameBoy used tile-based graphics for performance reasons and memory constraints. The 160x144 pixel screen"
+      "description": "This is the 7th and likely last in the series on Framebuffer-based graphics on the Nintendo GameBoy. As before I'll start with a recap. Then we'll continue with more development, classic 8-bit display routines for pixel plotting and line drawing. Recap The incredibly successful 8-bit Nintendo GameBoy used tile-based graphics for performance reasons and memory constraints. The 160x144 pixel screen",
+      "date": null
     },
     {
       "link": "https://oneweekwonder.blogspot.com/2026/09/gameboy-pixmap-demo-part-6.html",
       "title": "GameBoy Pixmap Demo (Part 6)",
-      "description": "This is the 6th in the series on Framebuffer-based graphics on the Nintendo GameBoy. As before I'll start with a recap. Then we'll continue with more development, classic 8-bit display routines for clearing and scrolling the screen. This one will, hopefully, be much shorter than some of the others. Recap The incredibly successful 8-bit Nintendo GameBoy used tile-based graphics for performance reas"
+      "description": "This is the 6th in the series on Framebuffer-based graphics on the Nintendo GameBoy. As before I'll start with a recap. Then we'll continue with more development, classic 8-bit display routines for clearing and scrolling the screen. This one will, hopefully, be much shorter than some of the others. Recap The incredibly successful 8-bit Nintendo GameBoy used tile-based graphics for performance reas",
+      "date": null
     },
     {
       "link": "https://oneweekwonder.blogspot.com/2026/09/gameboy-pixmap-demo-part-5.html",
       "title": "GameBoy Pixmap Demo (Part 5)",
-      "description": "This is the 5th in the series on Framebuffer-based graphics on the Nintendo GameBoy. As before I'll start with a recap. Then we'll continue with more development, displaying characters while the PPU is active. Recap The incredibly successful 8-bit Nintendo GameBoy used tile-based graphics for performance reasons and memory constraints. The 160x144 pixel screen is divided into 20x18 (=360) TileMap"
+      "description": "This is the 5th in the series on Framebuffer-based graphics on the Nintendo GameBoy. As before I'll start with a recap. Then we'll continue with more development, displaying characters while the PPU is active. Recap The incredibly successful 8-bit Nintendo GameBoy used tile-based graphics for performance reasons and memory constraints. The 160x144 pixel screen is divided into 20x18 (=360) TileMap",
+      "date": null
     }
   ]
 }

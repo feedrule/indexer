@@ -4,17 +4,20 @@
     {
       "link": "https://mz.attahri.com/posts/delegation-as-os-primitive/",
       "title": "Delegation as an OS Primitive",
-      "description": "The OpenClaw mania was striking. It was the first time in my career I felt limited by safety, not by capability. Most of the conversation about agentic operating systems is happening at the application layer: MCP, LangGraph, agent sandboxes, orchestration platforms. It’s about how to wire agents together and how to contain them when they misbehave. It rarely touches what the operating system itsel"
+      "description": "The OpenClaw mania was striking. It was the first time in my career I felt limited by safety, not by capability. Most of the conversation about agentic operating systems is happening at the application layer: MCP, LangGraph, agent sandboxes, orchestration platforms. It’s about how to wire agents together and how to contain them when they misbehave. It rarely touches what the operating system itsel",
+      "date": null
     },
     {
       "link": "https://mz.attahri.com/posts/software-bill-of-materials-as-code/",
       "title": "Rethinking the Software Bill of Materials",
-      "description": "CLI tool to dynamically manage and enforce a SBOM policy."
+      "description": "CLI tool to dynamically manage and enforce a SBOM policy.",
+      "date": null
     },
     {
       "link": "https://mz.attahri.com/posts/how-to-fix-apple-app-store/",
       "title": "How to fix the App Store?",
-      "description": "The App Store has 3 problems, none of which are hard to fix."
+      "description": "The App Store has 3 problems, none of which are hard to fix.",
+      "date": null
     }
   ]
 }

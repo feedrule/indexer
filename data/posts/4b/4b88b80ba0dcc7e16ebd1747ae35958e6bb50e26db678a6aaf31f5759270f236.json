@@ -4,17 +4,20 @@
     {
       "link": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
       "title": "Chuwi Minibook X: the netbook we deserve",
-      "description": "Netbooks are dead, but the Chuwi Minibook X scratches the same itch. The Minibook X is a 10.5″ x86_64 sub-ultrabook with 16GB RAM, a 512GB NVMe drive, and only one majorly annyoing Linux quirk. I needed a knock-around laptop, so I bought myself a Minibook for my birthday last year. The more I tote it around, the more fun I’m having with this ridiculous little computer. Chuwi Minibook X Quick specs"
+      "description": "Netbooks are dead, but the Chuwi Minibook X scratches the same itch. The Minibook X is a 10.5″ x86_64 sub-ultrabook with 16GB RAM, a 512GB NVMe drive, and only one majorly annyoing Linux quirk. I needed a knock-around laptop, so I bought myself a Minibook for my birthday last year. The more I tote it around, the more fun I’m having with this ridiculous little computer. Chuwi Minibook X Quick specs",
+      "date": null
     },
     {
       "link": "https://tylercipriani.com/blog/2026/04/24/on-the-software-supply-chain-doom-spiral/",
       "title": "GitHub Actions is a trap",
-      "description": "Hackers are pwning packages at an exhausting clip, and GitHub Actions features in every postmortem. In late February, a hackerbot AI 1 yoinked the release key for a single project. Within a month, fifty-ish other projects had cred stealers. Each infected repo swiped credentials for the next. This spate of supply-chain hacks started from a GitHub Actions trap; a simple, bad default with a five-year"
+      "description": "Hackers are pwning packages at an exhausting clip, and GitHub Actions features in every postmortem. In late February, a hackerbot AI 1 yoinked the release key for a single project. Within a month, fifty-ish other projects had cred stealers. Each infected repo swiped credentials for the next. This spate of supply-chain hacks started from a GitHub Actions trap; a simple, bad default with a five-year",
+      "date": null
     },
     {
       "link": "https://tylercipriani.com/blog/2024/09/29/subliminal-git-commits/",
       "title": "Git commit hashes that spark joy",
-      "description": "We’ve all seen Git commit hashes—the hard-to-remember hexadecimal strings that refer to Git commits. But it’s rare to see Git commit hashes spark joy: $ git log --oneline deadbeef ( HEAD - > main ) Dead beef is beef. Live beef is cow. 🥁 c0ffeeee Late night debugging ☕ defacedd Fix vandalism facade00 Provide simple interface class c0deca11 Add function call Creating memorable Git hashes is hard. Gi"
+      "description": "We’ve all seen Git commit hashes—the hard-to-remember hexadecimal strings that refer to Git commits. But it’s rare to see Git commit hashes spark joy: $ git log --oneline deadbeef ( HEAD - > main ) Dead beef is beef. Live beef is cow. 🥁 c0ffeeee Late night debugging ☕ defacedd Fix vandalism facade00 Provide simple interface class c0deca11 Add function call Creating memorable Git hashes is hard. Gi",
+      "date": null
     }
   ]
 }

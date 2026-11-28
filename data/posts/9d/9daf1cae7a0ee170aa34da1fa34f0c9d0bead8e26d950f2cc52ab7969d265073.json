@@ -4,17 +4,20 @@
     {
       "link": "https://rendle.dev/blog/memlite-part-1/",
       "title": "memlite part 1: what is memlite?",
-      "description": "Problem: every time I started a new Claude session, it didn’t know me. Not in the “we haven’t met” sense — in the “I told you about my coffee three days ago and you’ve forgotten” sense. There’s a model gap there that no amount of context-window engineering closes. The fix isn’t a bigger prompt. It’s a place to put the things you’d want any agent to remember. I tried a couple, like SQLite-Memory, b"
+      "description": "Problem: every time I started a new Claude session, it didn’t know me. Not in the “we haven’t met” sense — in the “I told you about my coffee three days ago and you’ve forgotten” sense. There’s a model gap there that no amount of context-window engineering closes. The fix isn’t a bigger prompt. It’s a place to put the things you’d want any agent to remember. I tried a couple, like SQLite-Memory, b",
+      "date": null
     },
     {
       "link": "https://rendle.dev/blog/back-once-again/",
       "title": "Back Once Again",
-      "description": "I should really start blogging again. So I’m gonna. There’s been a bunch of stuff on my mind lately, some of it about software engineering and architecture, some about life and mental health and stuff I’m going through, that kind of thing. So I’m spinning up Hugo, sorting out some hosting and CI/CD pipelines and all that so I can get it all out of my head and on the web so you can read it. If you"
+      "description": "I should really start blogging again. So I’m gonna. There’s been a bunch of stuff on my mind lately, some of it about software engineering and architecture, some about life and mental health and stuff I’m going through, that kind of thing. So I’m spinning up Hugo, sorting out some hosting and CI/CD pipelines and all that so I can get it all out of my head and on the web so you can read it. If you",
+      "date": null
     },
     {
       "link": "https://rendle.dev/talks/",
       "title": "Rendle Talks",
-      "description": "Highlights In no particular order… Programming’s Greatest Mistakes An ever-evolving look at some of the mistakes in software engineering over the years that have led to explosions, bankruptcies, world-wide Windows outages, or in one case just a severe telling-off from my boss :) From Devoxx Belgium 2024 How JavaScript Happened A history of programming languages, but limited to the ones that introd"
+      "description": "Highlights In no particular order… Programming’s Greatest Mistakes An ever-evolving look at some of the mistakes in software engineering over the years that have led to explosions, bankruptcies, world-wide Windows outages, or in one case just a severe telling-off from my boss :) From Devoxx Belgium 2024 How JavaScript Happened A history of programming languages, but limited to the ones that introd",
+      "date": null
     }
   ]
 }

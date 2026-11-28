@@ -4,17 +4,20 @@
     {
       "link": "https://dev.to/steady5063/semantica11y-semantic-html-for-everyone-4daa",
       "title": "Semantica11y - Semantic HTML for Everyone",
-      "description": "Modern web development has habit of using <div> , <span> and other non-native elements and then slapping a coat of ARIA roles on them to ensure they are \"accessible'. The result is a tangled web of ARIA that is used to cover a foundation of \"DIV soup\". I built Semantica11y to help fix that. Semantica11y is a small, focused rules engine that analyzes your application and highlights places where sem"
+      "description": "Modern web development has habit of using <div> , <span> and other non-native elements and then slapping a coat of ARIA roles on them to ensure they are \"accessible'. The result is a tangled web of ARIA that is used to cover a foundation of \"DIV soup\". I built Semantica11y to help fix that. Semantica11y is a small, focused rules engine that analyzes your application and highlights places where sem",
+      "date": null
     },
     {
       "link": "https://dev.to/steady5063/who-am-i-writing-for-2bdb",
       "title": "Who Am I Writing For?",
-      "description": "Recently, I was asked a question that really made me take a step back. “With all these AI tools, aren't they just to give users what you would write about anyways, so who are you writing for?” Yes, AI can generate content faster than ever before. It can summarize, rephrase, and expand on our content. It can also write test cases, code snippets, documentation, and even write articles. So why am I w"
+      "description": "Recently, I was asked a question that really made me take a step back. “With all these AI tools, aren't they just to give users what you would write about anyways, so who are you writing for?” Yes, AI can generate content faster than ever before. It can summarize, rephrase, and expand on our content. It can also write test cases, code snippets, documentation, and even write articles. So why am I w",
+      "date": null
     },
     {
       "link": "https://dev.to/steady5063/accessibility-snapshot-testing-in-ios-408e",
       "title": "Accessibility Snapshot Testing in iOS",
-      "description": "Snapshot testing is a popular type of regression testing that a lot of development teams are unaware has untapped potential when it comes to accessibility. The AccessibilitySnapshot library offers a way to bring accessibility into your automated regression suite. By treating the accessibility hierarchy as a testable artifact, developers can catch issues early and maintain a consistent, inclusive e"
+      "description": "Snapshot testing is a popular type of regression testing that a lot of development teams are unaware has untapped potential when it comes to accessibility. The AccessibilitySnapshot library offers a way to bring accessibility into your automated regression suite. By treating the accessibility hierarchy as a testable artifact, developers can catch issues early and maintain a consistent, inclusive e",
+      "date": null
     }
   ]
 }

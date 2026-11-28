@@ -4,17 +4,20 @@
     {
       "link": "http://cyber-man.pl//ECSC-2026-Finals-udev-true-innovation-misc",
       "title": "ECSC 2026 Finals - /udev - true innovation - 9 solves",
-      "description": "/udev - true innovation - misc author: Firzen Challenge description: You may have heard of FUSE and UBLK, but those are just bandaids that don’t address the core issue Introducing “/udev”, finally giving the users full control over the /dev filesystem. You don’t need to be root anymore if you can just alter /dev as a low priv user :9Head:. Number of solves: 9 Points: 484 attachments: slash-udev.zi"
+      "description": "/udev - true innovation - misc author: Firzen Challenge description: You may have heard of FUSE and UBLK, but those are just bandaids that don’t address the core issue Introducing “/udev”, finally giving the users full control over the /dev filesystem. You don’t need to be root anymore if you can just alter /dev as a low priv user :9Head:. Number of solves: 9 Points: 484 attachments: slash-udev.zi",
+      "date": null
     },
     {
       "link": "http://cyber-man.pl//0ctf-2025-ezmd-web",
       "title": "0ctf 2025 - ezmd - 5 solves",
-      "description": "Recommended: Full video write-up ezmd - web (Unintended solution) author: rainhurt Challenge description: Yet another markdown renderer… Number of solves: 5 Points: 733 attachments: ezmd_(…).zip I was solving this challenge together with my teammate drbrix tl;dr bypass dom purify for fname parameter with replacement manipulation bypass setJavaScriptEnabled(false) by opening an iframe which opens t"
+      "description": "Recommended: Full video write-up ezmd - web (Unintended solution) author: rainhurt Challenge description: Yet another markdown renderer… Number of solves: 5 Points: 733 attachments: ezmd_(…).zip I was solving this challenge together with my teammate drbrix tl;dr bypass dom purify for fname parameter with replacement manipulation bypass setJavaScriptEnabled(false) by opening an iframe which opens t",
+      "date": null
     },
     {
       "link": "http://cyber-man.pl//SECCON-Quals-2025-dummyhole-web",
       "title": "SECCON Quals 2025 - dummyhole - 15 solves",
-      "description": "Recommended: Full video write-up dummyhole - web author: RyotaK Challenge description: Is this a hole or…? Challenge: http://dummyhole.seccon.games Admin bot: http://dummyhole.seccon.games:1337 Number of solves: 15 Points: 233 attachments: dummyhole.tar.gz tl;dr couple of interesting exploits chained: image/jpeg+json / image/png+json allowed as they are checked with just .startsWith('image/png') f"
+      "description": "Recommended: Full video write-up dummyhole - web author: RyotaK Challenge description: Is this a hole or…? Challenge: http://dummyhole.seccon.games Admin bot: http://dummyhole.seccon.games:1337 Number of solves: 15 Points: 233 attachments: dummyhole.tar.gz tl;dr couple of interesting exploits chained: image/jpeg+json / image/png+json allowed as they are checked with just .startsWith('image/png') f",
+      "date": null
     }
   ]
 }

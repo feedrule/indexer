@@ -4,17 +4,20 @@
     {
       "link": "https://monoid.github.io/posts/false-sharing-alignment/",
       "title": "False Sharing Alignment",
-      "description": "What is false sharing What is false sharing ? When CPUs and their cores read and update atomic variables, special hardware protocols make it correct and efficient, while keeping each core’s caches consistent. The coordination doesn’t happen per-address: these protocols work on cache-line-sized chunks. What happens when two atomic variables happen to reside on the same cache line? For example: an a"
+      "description": "What is false sharing What is false sharing ? When CPUs and their cores read and update atomic variables, special hardware protocols make it correct and efficient, while keeping each core’s caches consistent. The coordination doesn’t happen per-address: these protocols work on cache-line-sized chunks. What happens when two atomic variables happen to reside on the same cache line? For example: an a",
+      "date": null
     },
     {
       "link": "https://monoid.github.io/about/cv/",
       "title": "Ivan Boldyrev's Curriculum Vitae",
-      "description": "Contact Contact: lispnik@gmail.com LinkedIn: linkedin.com/in/ivan-boldyrev GitHub: github.com/monoid Location: Barcelona, Catalonia, Spain Top Skills Languages: Rust, Python, C++. Rust ecosystem: Tokio, axum, tonic, serde, Rkyv, WASM, libc. Domains: Distributed systems, Performance engineering, Vector search, Web crawling, System programming. Open Source: WASM-SIMD implementation of BLAKE3 , Perfo"
+      "description": "Contact Contact: lispnik@gmail.com LinkedIn: linkedin.com/in/ivan-boldyrev GitHub: github.com/monoid Location: Barcelona, Catalonia, Spain Top Skills Languages: Rust, Python, C++. Rust ecosystem: Tokio, axum, tonic, serde, Rkyv, WASM, libc. Domains: Distributed systems, Performance engineering, Vector search, Web crawling, System programming. Open Source: WASM-SIMD implementation of BLAKE3 , Perfo",
+      "date": null
     },
     {
       "link": "https://monoid.github.io/posts/c-in-c/",
       "title": "C in \"C\" means \"confusion\"",
-      "description": "And in “C++” too."
+      "description": "And in “C++” too.",
+      "date": null
     }
   ]
 }

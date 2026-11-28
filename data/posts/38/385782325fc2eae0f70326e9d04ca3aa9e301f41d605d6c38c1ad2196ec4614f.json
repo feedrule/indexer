@@ -4,17 +4,20 @@
     {
       "link": "https://mcbal.github.io/post/a-large-d-closure-for-asymmetric-kinetic-vector-spin-systems/",
       "title": "A Large-D Closure for Asymmetric Kinetic Vector-Spin Systems",
-      "description": "Introduction ✨ Code: In , we built transformer-like modules around naive mean-field descriptions of driven stochastic vector spins wobbling about on hyperspheres. The modules , but their mean-field observables showed , especially in delayed correlations and at lower temperatures, even as the vector dimension $D$ grew. Rather than turning to second-order (TAP) mean-field approximations, which for v"
+      "description": "Introduction ✨ Code: In , we built transformer-like modules around naive mean-field descriptions of driven stochastic vector spins wobbling about on hyperspheres. The modules , but their mean-field observables showed , especially in delayed correlations and at lower temperatures, even as the vector dimension $D$ grew. Rather than turning to second-order (TAP) mean-field approximations, which for v",
+      "date": null
     },
     {
       "link": "https://mcbal.github.io/post/nonequilibrium-dynamics-in-spin-model-transformers/",
       "title": "Nonequilibrium Dynamics in Spin-Model Transformers",
-      "description": "✨ TL;DR: We design a transformer-shaped module built around relaxation steps of a driven disordered spin system after an input “quench”. Taking one learned-initialization step $\\approx$ a parallel transformer block, taking $\\infty$ steps $\\approx$ a deep-equilibrium module. A toy language-modeling training experiment shows that the one-step modules learn to use task-relevant transient states, and"
+      "description": "✨ TL;DR: We design a transformer-shaped module built around relaxation steps of a driven disordered spin system after an input “quench”. Taking one learned-initialization step $\\approx$ a parallel transformer block, taking $\\infty$ steps $\\approx$ a deep-equilibrium module. A toy language-modeling training experiment shows that the one-step modules learn to use task-relevant transient states, and",
+      "date": null
     },
     {
       "link": "https://mcbal.github.io/post/spin-model-transformers/",
       "title": "Spin-Model Transformers",
-      "description": "✨ Update (August 2026): For the most complete treatment of this framework, read , which carries the vector-spin construction forward into a broader study of quench protocols, relaxation, stability, and controllable nonequilibrium dynamics. ✨ TL;DR: We interpret and implement transformer modules as driven, disordered vector-spin models whose response behavior can be shaped by learning parameterized"
+      "description": "✨ Update (August 2026): For the most complete treatment of this framework, read , which carries the vector-spin construction forward into a broader study of quench protocols, relaxation, stability, and controllable nonequilibrium dynamics. ✨ TL;DR: We interpret and implement transformer modules as driven, disordered vector-spin models whose response behavior can be shaped by learning parameterized",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://rogs.me/2026/09/i-dont-write-codebase-documentation-anymore/",
       "title": "I don't write codebase documentation anymore",
-      "description": "Hello everyone 👋 Confession time: in 10+ years of writing software, I have never kept documentation up to date. Not once. And I’ve tried! Confluence spaces, GitHub wikis, a docs/ folder, READMEs that start strong and stop being true three sprints later. It always goes the same way. Someone writes a nice page, the code moves, nobody touches the page, and six months later a new person reads it, beli"
+      "description": "Hello everyone 👋 Confession time: in 10+ years of writing software, I have never kept documentation up to date. Not once. And I’ve tried! Confluence spaces, GitHub wikis, a docs/ folder, READMEs that start strong and stop being true three sprints later. It always goes the same way. Someone writes a nice page, the code moves, nobody touches the page, and six months later a new person reads it, beli",
+      "date": null
     },
     {
       "link": "https://rogs.me/2026/08/running-headscale-on-my-own-infra-and-finally-killing-my-wireguard-setup/",
       "title": "Running Headscale on my own infra (and finally killing my WireGuard setup)",
-      "description": "Hello everyone 👋 This one started in the dumbest possible way: I wanted to check on my 3D printer from outside my house. I have a Bambu printer running in LAN-only mode, and I use OctoApp to control it from my phone. Works great at home. Useless the moment I leave. The usual answer is OctoEverywhere, which is a lovely project, but it means my printer traffic goes through someone else’s servers, an"
+      "description": "Hello everyone 👋 This one started in the dumbest possible way: I wanted to check on my 3D printer from outside my house. I have a Bambu printer running in LAN-only mode, and I use OctoApp to control it from my phone. Works great at home. Useless the moment I leave. The usual answer is OctoEverywhere, which is a lovely project, but it means my printer traffic goes through someone else’s servers, an",
+      "date": null
     },
     {
       "link": "https://rogs.me/2026/07/how-i-got-claude-certified-and-how-you-can-too/",
       "title": "How I got Claude certified (and how you can too)",
-      "description": "I’m Claude Certified Architect - Foundations now. Look at me. A friend from work, Daniel, pinged me right after he started studying because he was confused and a little frustrated. He’d gone through the official docs, done a couple of practice exams, and felt like there was no connection between what he was studying and what the exam was actually testing. Fair. I felt the same way when I started."
+      "description": "I’m Claude Certified Architect - Foundations now. Look at me. A friend from work, Daniel, pinged me right after he started studying because he was confused and a little frustrated. He’d gone through the official docs, done a couple of practice exams, and felt like there was no connection between what he was studying and what the exam was actually testing. Fair. I felt the same way when I started.",
+      "date": null
     }
   ]
 }

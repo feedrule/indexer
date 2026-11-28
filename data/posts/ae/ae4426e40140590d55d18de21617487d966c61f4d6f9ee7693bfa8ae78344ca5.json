@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Finding bugs in DuckDB with property-based testing",
-      "description": "DuckDB is a widely used database and a personal favorite. I recently found some bugs in DuckDB using property-based testing and wanted to share how the bugs were found (all these bugs were reported and promptly fixed). In total, I found 5 bugs, four of which were related to the COPY ... TO command and the remaining one was a different issue. Let’s look at these one by one. DuckDB has a COPY ... TO"
+      "description": "DuckDB is a widely used database and a personal favorite. I recently found some bugs in DuckDB using property-based testing and wanted to share how the bugs were found (all these bugs were reported and promptly fixed). In total, I found 5 bugs, four of which were related to the COPY ... TO command and the remaining one was a different issue. Let’s look at these one by one. DuckDB has a COPY ... TO",
+      "date": null
     },
     {
       "link": null,
       "title": "Finding All Solutions to LinkedIn Queens with a SAT Solver and Model Checkers",
-      "description": "LinkedIn Queens is a puzzle played on an n × n grid with the following rules: The grid is divided into n colored regions. Each row, column, and colored region must contain exactly one queen. No two queens may be adjacent, including diagonally. However, diagonals at a distance are allowed. In this post, we look for all solutions, not just one, using a Python-based SAT solver and Spin, a model check"
+      "description": "LinkedIn Queens is a puzzle played on an n × n grid with the following rules: The grid is divided into n colored regions. Each row, column, and colored region must contain exactly one queen. No two queens may be adjacent, including diagonally. However, diagonals at a distance are allowed. In this post, we look for all solutions, not just one, using a Python-based SAT solver and Spin, a model check",
+      "date": null
     },
     {
       "link": null,
       "title": "How to Solve Santa Claus Concurrency Puzzle with a Model Checker",
-      "description": "When I enjoy a book, I often look for other work by the same author. While reading a book by Ben-Ari, I looked up his other writing and came across a paper on the Santa Claus concurrency puzzle 1 . The puzzle is stated as follows: Santa Claus sleeps at the North Pole until awakened by either all nine reindeer or a group of three out of ten elves. He performs one of two indivisible actions: If awak"
+      "description": "When I enjoy a book, I often look for other work by the same author. While reading a book by Ben-Ari, I looked up his other writing and came across a paper on the Santa Claus concurrency puzzle 1 . The puzzle is stated as follows: Santa Claus sleeps at the North Pole until awakened by either all nine reindeer or a group of three out of ten elves. He performs one of two indivisible actions: If awak",
+      "date": null
     }
   ]
 }

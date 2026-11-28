@@ -4,17 +4,20 @@
     {
       "link": "https://www.meandmark.com/posts/jj-show-bookmark-changes/",
       "title": "Jujutsu Version Control: Show Bookmark Changes",
-      "description": "To see a list of the changes that are part of a bookmark’s change, run the jj log command with the following options: The -r flag The ancestors function, supplying the name of the bookmark in parentheses The following command shows the changes for a bookmark named trunk : jj log -r ancestors(trunk)"
+      "description": "To see a list of the changes that are part of a bookmark’s change, run the jj log command with the following options: The -r flag The ancestors function, supplying the name of the bookmark in parentheses The following command shows the changes for a bookmark named trunk : jj log -r ancestors(trunk)",
+      "date": null
     },
     {
       "link": "https://www.meandmark.com/posts/jj-github/",
       "title": "Jujutsu Version Control: Using Github",
-      "description": "When working with version control you usually have your project in a remote repository using a service like GitHub, GitLab, or Bitbucket. This article shows how to put your Jujutsu repo on GitHub and push changes to GitHub. Most of the material in this article also applies to services like GitLab and Bitbucket. Create a GitHub Repository # If you have not created a repository for your project on G"
+      "description": "When working with version control you usually have your project in a remote repository using a service like GitHub, GitLab, or Bitbucket. This article shows how to put your Jujutsu repo on GitHub and push changes to GitHub. Most of the material in this article also applies to services like GitLab and Bitbucket. Create a GitHub Repository # If you have not created a repository for your project on G",
+      "date": null
     },
     {
       "link": "https://www.meandmark.com/posts/jj-changes/",
       "title": "Jujutsu Version Control: Change Basics",
-      "description": "When using Jujutsu you spend a lot of time working with changes. A change in a Jujutsu repository involves the following steps: Create a new change. Make changes to your project. Describe the change. Creating a Change # Run the jj new command to create a change. jj new After creating a change, you can make changes in your project, such as adding, editing, and removing code. Describing a Change # R"
+      "description": "When using Jujutsu you spend a lot of time working with changes. A change in a Jujutsu repository involves the following steps: Create a new change. Make changes to your project. Describe the change. Creating a Change # Run the jj new command to create a change. jj new After creating a change, you can make changes in your project, such as adding, editing, and removing code. Describing a Change # R",
+      "date": null
     }
   ]
 }

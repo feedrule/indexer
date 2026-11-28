@@ -4,17 +4,20 @@
     {
       "link": "https://mozex.dev/blog/31-laravel-deadlocks-queue-jobs-that-already-ran-end-up-in-failed-jobs",
       "title": "Laravel Deadlocks: Queue Jobs That Already Ran End Up in failed_jobs",
-      "description": "I queued 2,000 jobs in a scratch Laravel 13.33.0 app and ran them through eight php artisan queue:work processes against MySQL 5.7. All 2,000 ran. When the workers stopped, 76 of them were still in the jobs table, reserved, and the log had lines that start like this one: [2026-09-23 20:05:01] local.ERROR: SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try rest"
+      "description": "I queued 2,000 jobs in a scratch Laravel 13.33.0 app and ran them through eight php artisan queue:work processes against MySQL 5.7. All 2,000 ran. When the workers stopped, 76 of them were still in the jobs table, reserved, and the log had lines that start like this one: [2026-09-23 20:05:01] local.ERROR: SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try rest",
+      "date": null
     },
     {
       "link": "https://mozex.dev/blog/30-migrate-wordpress-users-to-laravel-without-a-password-reset",
       "title": "Migrate WordPress Users to Laravel Without a Password Reset",
-      "description": "I built a WordPress site in Docker to see what a wp_users table holds after WordPress's move to bcrypt: WordPress 6.7.9 first, then an upgrade to 7.1.2, with users created on both versions. Then I copied its eight users, hashes intact, into a fresh Laravel 13.33 app on PHP 8.5 and tried to log each one in. Seven of the eight logins threw RuntimeException: This password does not use the Bcrypt algo"
+      "description": "I built a WordPress site in Docker to see what a wp_users table holds after WordPress's move to bcrypt: WordPress 6.7.9 first, then an upgrade to 7.1.2, with users created on both versions. Then I copied its eight users, hashes intact, into a fresh Laravel 13.33 app on PHP 8.5 and tried to log each one in. Seven of the eight logins threw RuntimeException: This password does not use the Bcrypt algo",
+      "date": null
     },
     {
       "link": "https://mozex.dev/blog/29-laravel-tests-fail-when-two-runs-overlap-even-with-parallel",
       "title": "Laravel Tests Fail When Two Runs Overlap, Even With --parallel",
-      "description": "Whenever two test commands ran inside one of my projects at the same time, they failed, because one run would clear the database under the other. It happened especially when I asked a Claude Code session to hand work to sub-agents: each sub-agent ran the tests for its own change, the runs failed, and it became a loop of discovering the problem and running it again. For this post I reproduced it on"
+      "description": "Whenever two test commands ran inside one of my projects at the same time, they failed, because one run would clear the database under the other. It happened especially when I asked a Claude Code session to hand work to sub-agents: each sub-agent ran the tests for its own change, the runs failed, and it became a loop of discovering the problem and running it again. For this post I reproduced it on",
+      "date": null
     }
   ]
 }

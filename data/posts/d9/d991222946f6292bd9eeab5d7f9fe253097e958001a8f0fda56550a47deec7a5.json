@@ -4,17 +4,20 @@
     {
       "link": "https://bhanuvadlakonda.com/set-up-hermes-on-railway-with-codex/",
       "title": "Set Up Hermes on Railway With Codex",
-      "description": "A beginner-friendly guide to using Codex to deploy Hermes Agent on Railway, protect its memory, and migrate an older setup."
+      "description": "A beginner-friendly guide to using Codex to deploy Hermes Agent on Railway, protect its memory, and migrate an older setup.",
+      "date": null
     },
     {
       "link": "https://bhanuvadlakonda.com/decision-fatigue/",
       "title": "Decision Fatigue and Decision Making Wisdom",
-      "description": "A synthesis of decision fatigue and decision-making wisdom from various sources. Overview Decision fatigue is the deteriorating quality of decisions made after a long session of decision making. The more choices we make throughout the day, the harder each subsequent choice becomes. These highlights explore frameworks, mental models, and principles that help navigate decisions more effectively. Key"
+      "description": "A synthesis of decision fatigue and decision-making wisdom from various sources. Overview Decision fatigue is the deteriorating quality of decisions made after a long session of decision making. The more choices we make throughout the day, the harder each subsequent choice becomes. These highlights explore frameworks, mental models, and principles that help navigate decisions more effectively. Key",
+      "date": null
     },
     {
       "link": "https://bhanuvadlakonda.com/description-engineering-the-hidden-prompt-in-your-api-documentation/",
       "title": "Description Engineering: The Hidden Prompt in Your API Documentation",
-      "description": "Your API documentation isn't just documentation anymore—it's a prompt . When LLMs consume your API via function calling or tools, every description field in your OpenAPI spec or JSON Schema gets injected directly into the model's context. That terse, one-word parameter name q ? The model doesn't know if it wants a keyword, a natural language question, or a SQL query. That missing example in your d"
+      "description": "Your API documentation isn't just documentation anymore—it's a prompt . When LLMs consume your API via function calling or tools, every description field in your OpenAPI spec or JSON Schema gets injected directly into the model's context. That terse, one-word parameter name q ? The model doesn't know if it wants a keyword, a natural language question, or a SQL query. That missing example in your d",
+      "date": null
     }
   ]
 }

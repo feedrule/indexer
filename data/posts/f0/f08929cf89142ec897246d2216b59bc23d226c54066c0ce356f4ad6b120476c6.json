@@ -4,17 +4,20 @@
     {
       "link": "https://hiphish.github.io/blog/2026/05/01/github-does-not-have-to-be-our-only-forge/",
       "title": "GitHub does not have to be your only forge",
-      "description": "I had moved off GitHub back before it was cool, but recently more and more Free and Open Source projects have been migrating off GitHub as well, and with how much of a shitshow the entire service has become I cannot see why anyone would trust the platform at all anymore. Actually no, I do know one reason: its user base. Pretty much everyone is on GitHub. For all its flaws, GitHub is still solving"
+      "description": "I had moved off GitHub back before it was cool, but recently more and more Free and Open Source projects have been migrating off GitHub as well, and with how much of a shitshow the entire service has become I cannot see why anyone would trust the platform at all anymore. Actually no, I do know one reason: its user base. Pretty much everyone is on GitHub. For all its flaws, GitHub is still solving",
+      "date": null
     },
     {
       "link": "https://hiphish.github.io/blog/2026/04/30/separation-of-content-and-presentation-in-tailwind/",
       "title": "Separation of content and presentation in Tailwind",
-      "description": "Every Tailwind example I have ever seen uses inline styling by applying Tailwind utility classes directly to the element. Even the Tailwind website advertises this feature. It was what kept me from trying out Tailwind for years. Eventually I decided to at least give it a try, and I found out that you can indeed separate your presentation from the content with Tailwind."
+      "description": "Every Tailwind example I have ever seen uses inline styling by applying Tailwind utility classes directly to the element. Even the Tailwind website advertises this feature. It was what kept me from trying out Tailwind for years. Eventually I decided to at least give it a try, and I found out that you can indeed separate your presentation from the content with Tailwind.",
+      "date": null
     },
     {
       "link": "https://hiphish.github.io/blog/2026/04/29/switching-to-astro/",
       "title": "Switching to Astro",
-      "description": "I really, really did not want to do this, but I have rewritten this website again from scratch. This time I’m going all in on the JavaScript ecosystem: TypeScript, Tailwind and Astro. And no, I’m not kidding."
+      "description": "I really, really did not want to do this, but I have rewritten this website again from scratch. This time I’m going all in on the JavaScript ecosystem: TypeScript, Tailwind and Astro. And no, I’m not kidding.",
+      "date": null
     }
   ]
 }

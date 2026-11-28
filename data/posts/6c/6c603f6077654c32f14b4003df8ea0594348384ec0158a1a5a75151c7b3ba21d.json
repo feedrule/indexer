@@ -4,17 +4,20 @@
     {
       "link": "https://rfcorner.in/posts/from-flask-to-c-and-kore/",
       "title": "From Flask to C and Kore via a Rust OOM",
-      "description": "From Flask and Gunicorn through slow Rust builds and OOM kills to C, Kore, and memory safety with Fil-C."
+      "description": "From Flask and Gunicorn through slow Rust builds and OOM kills to C, Kore, and memory safety with Fil-C.",
+      "date": null
     },
     {
       "link": "https://rfcorner.in/posts/omnesta-a-smart-home-app-under-256-kib/",
       "title": "Omnesta: A Smart Home App Under 256 KiB",
-      "description": "eWeLink kept logging my wife out when I logged in. That frustration became Omnesta, a tiny native Android app bringing five smart home ecosystems together."
+      "description": "eWeLink kept logging my wife out when I logged in. That frustration became Omnesta, a tiny native Android app bringing five smart home ecosystems together.",
+      "date": null
     },
     {
       "link": "https://rfcorner.in/posts/streaming-my-own-music-like-an-animal/",
       "title": "Streaming My Own Music, Like an Animal",
-      "description": "Missing music, country restrictions, and stuttering playback sent me back to a local music collection and gonic."
+      "description": "Missing music, country restrictions, and stuttering playback sent me back to a local music collection and gonic.",
+      "date": null
     }
   ]
 }

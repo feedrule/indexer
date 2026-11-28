@@ -4,17 +4,20 @@
     {
       "link": "https://kobolt.no/article-289.html",
       "title": "Technics RS-M10 Capacitor Replacement",
-      "description": "I noticed that my Technics RS-M10 cassette deck from 1979 had that nasty green corrosion coming from a capacitor. Also inspecting the board underneath showed a trace that was damaged. Even though only one brand seemed to leak, I replaced all the electrolytic capacitors, since they are close to 50 years old now."
+      "description": "I noticed that my Technics RS-M10 cassette deck from 1979 had that nasty green corrosion coming from a capacitor. Also inspecting the board underneath showed a trace that was damaged. Even though only one brand seemed to leak, I replaced all the electrolytic capacitors, since they are close to 50 years old now.",
+      "date": null
     },
     {
       "link": "https://kobolt.no/article-288.html",
       "title": "GeForce GTX 1060 Thermal Repaste",
-      "description": "The ASUS GeForce GTX 1060 I have installed in a Linux box suddenly started to behave badly. The screen would go dark but everything else would keep running. The dmesg command would reveal the following:"
+      "description": "The ASUS GeForce GTX 1060 I have installed in a Linux box suddenly started to behave badly. The screen would go dark but everything else would keep running. The dmesg command would reveal the following:",
+      "date": null
     },
     {
       "link": "https://kobolt.no/article-287.html",
       "title": "Booting Linux from CP/M-68K",
-      "description": "This is just a pointless proof-of-concept for fun, but I found a way to boot the Linux kernel directly from a running CP/M-68K instance. The method is similar to LOADLIN which can boot Linux directly from DOS on an Intel x86 system. The proper way is just to boot Linux directly as seen in my previous article."
+      "description": "This is just a pointless proof-of-concept for fun, but I found a way to boot the Linux kernel directly from a running CP/M-68K instance. The method is similar to LOADLIN which can boot Linux directly from DOS on an Intel x86 system. The proper way is just to boot Linux directly as seen in my previous article.",
+      "date": null
     }
   ]
 }

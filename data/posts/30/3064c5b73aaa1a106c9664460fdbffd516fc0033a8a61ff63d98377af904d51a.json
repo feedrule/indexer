@@ -4,17 +4,20 @@
     {
       "link": "http://shufflingbytes.com/posts/harjus-release-4.0.0/",
       "title": "Harjus v4 adds kernel bypass and more",
-      "description": "After releasing the triangular arbitrage trading bot Harjus under MIT license and publishing a write-up on my journey last year, I took a brief stint of working on other stuff. However, I was constantly feeling that I had given up too early, when there were still major optimizations that could be enough to turn a profit. My previous write-up had caught the eye of multiple aspirational arbitrageurs"
+      "description": "After releasing the triangular arbitrage trading bot Harjus under MIT license and publishing a write-up on my journey last year, I took a brief stint of working on other stuff. However, I was constantly feeling that I had given up too early, when there were still major optimizations that could be enough to turn a profit. My previous write-up had caught the eye of multiple aspirational arbitrageurs",
+      "date": null
     },
     {
       "link": "http://shufflingbytes.com/posts/binance-triangular-arbitrage/",
       "title": "Harjus: Triangular Arbitrage Bot for Binance",
-      "description": "Note Read also the writeup on latest Harjus release. The idea of turning on a program and just letting it rip while collecting (riskless) money is compelling. No sales or marketing, or other things I, as an engineer, like to shy away from doing - just enjoyable tinkering with models and infra. That’s printing money. To have a go at money printing, I built a trading bot. The bot is called Harjus (F"
+      "description": "Note Read also the writeup on latest Harjus release. The idea of turning on a program and just letting it rip while collecting (riskless) money is compelling. No sales or marketing, or other things I, as an engineer, like to shy away from doing - just enjoyable tinkering with models and infra. That’s printing money. To have a go at money printing, I built a trading bot. The bot is called Harjus (F",
+      "date": null
     },
     {
       "link": "http://shufflingbytes.com/posts/how-to-make-nmap-recognize-new-services/",
       "title": "How to Make Nmap Recognize New Services",
-      "description": "Nmap has been my favorite hacking tool for years. Its accuracy is unchallenged and it boasts hundreds of scripts that make it vital in every pentest engagement. Lately, I’ve been working more on the ICS space, developing a OPC UA vulnerability scanner. To my dismay, I noticed that Nmap does not recognize OPC UA services. This makes black box security testing of this dominating ICS protocol tricky,"
+      "description": "Nmap has been my favorite hacking tool for years. Its accuracy is unchallenged and it boasts hundreds of scripts that make it vital in every pentest engagement. Lately, I’ve been working more on the ICS space, developing a OPC UA vulnerability scanner. To my dismay, I noticed that Nmap does not recognize OPC UA services. This makes black box security testing of this dominating ICS protocol tricky,",
+      "date": null
     }
   ]
 }

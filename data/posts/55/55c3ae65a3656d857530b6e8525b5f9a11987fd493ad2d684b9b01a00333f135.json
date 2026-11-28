@@ -4,17 +4,20 @@
     {
       "link": "https://www.salmanq.com/blog/dsc-neo-apple-home/",
       "title": "Getting a DSC PowerSeries Neo Alarm Panel into Apple Home",
-      "description": "My house has a hardwired DSC PowerSeries Neo HS2032 alarm panel. Two dozen wired door, window and motion zones, keypads by the doors, and professional monitoring through a local alarm company. Pretty much everything else in the house is in Apple Home, except the alarm. I wanted to fix that. And I didn’t just want door contacts showing up in Home, I wanted a real HomeKit Security System that I coul"
+      "description": "My house has a hardwired DSC PowerSeries Neo HS2032 alarm panel. Two dozen wired door, window and motion zones, keypads by the doors, and professional monitoring through a local alarm company. Pretty much everything else in the house is in Apple Home, except the alarm. I wanted to fix that. And I didn’t just want door contacts showing up in Home, I wanted a real HomeKit Security System that I coul",
+      "date": null
     },
     {
       "link": "https://www.salmanq.com/blog/bpe-how-models-see-text/",
       "title": "BPE: How Models See Text",
-      "description": "When you type a sentence into an LLM, the model never sees your letters. It sees a sequence of integers. Before any attention head fires or any logit is computed, a tokenizer chops your text into pieces called tokens and looks up each one’s ID in a fixed vocabulary. The word “tokenization” might become [\"token\", \"ization\"] → [3323, 2065]. Everything the model knows about language, it knows in term"
+      "description": "When you type a sentence into an LLM, the model never sees your letters. It sees a sequence of integers. Before any attention head fires or any logit is computed, a tokenizer chops your text into pieces called tokens and looks up each one’s ID in a fixed vocabulary. The word “tokenization” might become [\"token\", \"ization\"] → [3323, 2065]. Everything the model knows about language, it knows in term",
+      "date": null
     },
     {
       "link": "https://www.salmanq.com/blog/rapamycin-discovery/",
       "title": "The Drug from Easter Island: How Rapamycin Was Discovered",
-      "description": "In 1964, a Canadian scientific expedition landed on Easter Island — Rapa Nui — a volcanic speck in the South Pacific, 2,300 miles from the nearest continent. The island is famous for its enormous stone statues, the moai, which stand with their backs to the sea and look inward across a treeless landscape. The scientists weren’t there for the statues. They were looking for something stranger: microb"
+      "description": "In 1964, a Canadian scientific expedition landed on Easter Island — Rapa Nui — a volcanic speck in the South Pacific, 2,300 miles from the nearest continent. The island is famous for its enormous stone statues, the moai, which stand with their backs to the sea and look inward across a treeless landscape. The scientists weren’t there for the statues. They were looking for something stranger: microb",
+      "date": null
     }
   ]
 }

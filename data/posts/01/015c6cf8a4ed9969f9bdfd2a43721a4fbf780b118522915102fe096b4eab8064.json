@@ -4,17 +4,20 @@
     {
       "link": "https://petr.codes/blog/bridgetown/sitemap-generation/",
       "title": "How to generate sitemap.xml with Bridgetown",
-      "description": "During playing with Bridgetown (that I am using on this site), I needed to add a sitemap.xml file for search engines."
+      "description": "During playing with Bridgetown (that I am using on this site), I needed to add a sitemap.xml file for search engines.",
+      "date": null
     },
     {
       "link": "https://petr.codes/blog/rails/versioning-api-requests/",
       "title": "Versioning API requests",
-      "description": "Learn how to handle API request versioning in Rails without duplicating controllers, using a schema-based approach that supports OpenAPI documentation and seamlessly maps external API structures to internal models."
+      "description": "Learn how to handle API request versioning in Rails without duplicating controllers, using a schema-based approach that supports OpenAPI documentation and seamlessly maps external API structures to internal models.",
+      "date": null
     },
     {
       "link": "https://petr.codes/blog/rails/flexible-api-versioning-with-rails/",
       "title": "Flexible API Versioning with Rails",
-      "description": "A well-defined API versioning strategy is crucial for any API expected to evolve. Let's explore the most common API versioning strategies and develop a flexible one in Rails."
+      "description": "A well-defined API versioning strategy is crucial for any API expected to evolve. Let's explore the most common API versioning strategies and develop a flexible one in Rails.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.blue-indus.in/notes/system-f-pop-typing.html",
       "title": "Jigsawing an extended System-F calculus",
-      "description": "← 2026-09-18 Jigsawing an extended System-F calculus rough note · thinking out loud, not a finished post I have been rather slow in coming up with new posts for several reasons, the most important being that I don’t think what I can come up with is anything worth writing about. This attitute hasn’t been really productive because the focus remains on having something new or fresh every single time"
+      "description": "← 2026-09-18 Jigsawing an extended System-F calculus rough note · thinking out loud, not a finished post I have been rather slow in coming up with new posts for several reasons, the most important being that I don’t think what I can come up with is anything worth writing about. This attitute hasn’t been really productive because the focus remains on having something new or fresh every single time",
+      "date": null
     },
     {
       "link": "https://www.blue-indus.in/posts/oxcaml-type-system.html",
       "title": "The OxCaml Type system",
-      "description": "← 2026-09-05 The OxCaml Type system As promised, this post is finally up and has a section by section explanation of the OxCaml type system - the typing rules, what type contexts are made up of, the steps taken for inferring modes and the differences between the declarative and the syntax-directed rules of the type system. These topics cover sections 3 and Appendix B of the paper . I wanted to add"
+      "description": "← 2026-09-05 The OxCaml Type system As promised, this post is finally up and has a section by section explanation of the OxCaml type system - the typing rules, what type contexts are made up of, the steps taken for inferring modes and the differences between the declarative and the syntax-directed rules of the type system. These topics cover sections 3 and Appendix B of the paper . I wanted to add",
+      "date": null
     },
     {
       "link": "https://www.blue-indus.in/posts/intro-oxcaml.html",
       "title": "A Brief Introduction to OxCaml Modes",
-      "description": "← 2026-08-31 A Brief Introduction to OxCaml Modes Having recently read through the paper on OxCaml , the basic idea of modes as qualifiers on types was simple enough to grasp. A mode is a combination of three axes of qualifiers that determine how many times a value can be used, if a value has only reference to it and if a value can live beyond the region it is defined in. It’s only after working t"
+      "description": "← 2026-08-31 A Brief Introduction to OxCaml Modes Having recently read through the paper on OxCaml , the basic idea of modes as qualifiers on types was simple enough to grasp. A mode is a combination of three axes of qualifiers that determine how many times a value can be used, if a value has only reference to it and if a value can live beyond the region it is defined in. It’s only after working t",
+      "date": null
     }
   ]
 }

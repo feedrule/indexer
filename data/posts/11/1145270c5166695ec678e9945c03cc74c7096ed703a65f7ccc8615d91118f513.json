@@ -4,17 +4,20 @@
     {
       "link": "https://ericportis.com/posts/2026/monochrome-summer/",
       "title": "Monochrome Summer",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://ericportis.com/posts/2025/when-do-you-have-to-repeat-sizes/",
       "title": "When do you have to repeat redundant sizes attributes within a <picture>?",
-      "description": "TL;DR Almost always, but that might be changing . Okay, so— Let’s say you’ve got a <picture> element that includes multiple candidate sources. If you’re doing art direction , those sources are probably each going to be laid out differently. This means they’ll each need their own sizes attribute. <picture> <!-- landscape image over text --> <source media= \"(min-width: 600px)\" srcset= \"landscape-lg."
+      "description": "TL;DR Almost always, but that might be changing . Okay, so— Let’s say you’ve got a <picture> element that includes multiple candidate sources. If you’re doing art direction , those sources are probably each going to be laid out differently. This means they’ll each need their own sizes attribute. <picture> <!-- landscape image over text --> <source media= \"(min-width: 600px)\" srcset= \"landscape-lg.",
+      "date": null
     },
     {
       "link": "https://ericportis.com/posts/2025/orcas-50k/",
       "title": "I finished a 50K",
-      "description": "In June I ran the Orcas Island 50K . When I finished the race I also finished a 2+ year journey, which I’d started, in part, because I was staring down 40-years-old and had feelings about aging and my body . I signed up for the 2024 edition of the race way back in 2023. I started training early. Then, I sprained my ankle. I rested, recovered – and sprained it again! I’d thought running uphill was"
+      "description": "In June I ran the Orcas Island 50K . When I finished the race I also finished a 2+ year journey, which I’d started, in part, because I was staring down 40-years-old and had feelings about aging and my body . I signed up for the 2024 edition of the race way back in 2023. I started training early. Then, I sprained my ankle. I rested, recovered – and sprained it again! I’d thought running uphill was",
+      "date": null
     }
   ]
 }

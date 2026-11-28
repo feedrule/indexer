@@ -4,17 +4,20 @@
     {
       "link": "https://dubeykartikay.com/posts/ai-agent-rearchitecture-lessons/",
       "title": "DeepSeek 1017 Re-architected My App in 60 Hours",
-      "description": "I gave DeepSeek 1017 a real Electron app and 60 hours of active agent time. It produced 306 commits and months of estimated engineering work on a $10 subscription, and exposed four failure modes in how we supervise autonomous agents."
+      "description": "I gave DeepSeek 1017 a real Electron app and 60 hours of active agent time. It produced 306 commits and months of estimated engineering work on a $10 subscription, and exposed four failure modes in how we supervise autonomous agents.",
+      "date": null
     },
     {
       "link": "https://dubeykartikay.com/posts/go-optimization-pprof/",
       "title": "Making a Log Viewer 12× Faster: A Go Optimization Guide",
-      "description": "A hands-on Go pprof tutorial: every command, every output, and every line of annotated source code from optimizing a real terminal log viewer."
+      "description": "A hands-on Go pprof tutorial: every command, every output, and every line of annotated source code from optimizing a real terminal log viewer.",
+      "date": null
     },
     {
       "link": "https://dubeykartikay.com/posts/install-boost-cpp/",
       "title": "How to Install Boost in Any C++ Project: CMake, vcpkg, Conan, and Manual Linking",
-      "description": "A complete guide to installing Boost in any C++ project. Covers CMake find_package, FetchContent, vcpkg manifest mode, Conan, manual g++ linking, and building from source with b2."
+      "description": "A complete guide to installing Boost in any C++ project. Covers CMake find_package, FetchContent, vcpkg manifest mode, Conan, manual g++ linking, and building from source with b2.",
+      "date": null
     }
   ]
 }

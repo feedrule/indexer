@@ -4,17 +4,20 @@
     {
       "link": "https://veitner.bearblog.dev/radix-top-k/",
       "title": "Radix Top-K",
-      "description": "Radix Top-K is an algorithm for finding the top-k elements in an array without sorting the full array. For simplicity, assume the values are unsigned integers. The same idea can be extended to other representations. Initial setup: Choose TOP_K and BITS_PER_ITER , and assume every element can be represented with NUM_BITS bits. Then iteratively apply the following procedure: Extract the next BITS_PE"
+      "description": "Radix Top-K is an algorithm for finding the top-k elements in an array without sorting the full array. For simplicity, assume the values are unsigned integers. The same idea can be extended to other representations. Initial setup: Choose TOP_K and BITS_PER_ITER , and assume every element can be represented with NUM_BITS bits. Then iteratively apply the following procedure: Extract the next BITS_PE",
+      "date": null
     },
     {
       "link": "https://veitner.bearblog.dev/tile-scheduling-cute-dsl/",
       "title": "Tile Scheduling in CuTeDSL",
-      "description": "In CuTeDSL, it is often convenient to use StaticPersistentTileScheduler when writing persistent kernels. In this blogpost I give a brief intro to how it works. Usage in Kernel Typical usage within a CuTeDSL program is that we first set up the grid and the scheduler params in a dedicated function: tile_sched_params = utils . PersistentTileSchedulerParams ( problem_shape_ntile_mnl , self . cluster_s"
+      "description": "In CuTeDSL, it is often convenient to use StaticPersistentTileScheduler when writing persistent kernels. In this blogpost I give a brief intro to how it works. Usage in Kernel Typical usage within a CuTeDSL program is that we first set up the grid and the scheduler params in a dedicated function: tile_sched_params = utils . PersistentTileSchedulerParams ( problem_shape_ntile_mnl , self . cluster_s",
+      "date": null
     },
     {
       "link": "https://veitner.bearblog.dev/sbo-and-lbo-explained-visually/",
       "title": "SBO and LBO explained visually",
-      "description": "SBO and LBO are essential to write correct Kernels on B200 GPUs that leverage Tensor Cores. That is because they need to be provided to the SMEM descriptor that the tcgen05 MMA op expects the programmer to provide as an operand. The corresponding section in the PTX docs commonly is perceived as confusing and in this blogpost I try to explain the mechanism for both K-Major and M-Major matrix operan"
+      "description": "SBO and LBO are essential to write correct Kernels on B200 GPUs that leverage Tensor Cores. That is because they need to be provided to the SMEM descriptor that the tcgen05 MMA op expects the programmer to provide as an operand. The corresponding section in the PTX docs commonly is perceived as confusing and in this blogpost I try to explain the mechanism for both K-Major and M-Major matrix operan",
+      "date": null
     }
   ]
 }

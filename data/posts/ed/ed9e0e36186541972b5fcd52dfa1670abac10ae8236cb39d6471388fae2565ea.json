@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "How I Found Myself Writing reverse-bin",
-      "description": "This is the backstory for reverse-bin: My Retro-Futuristic Successor to CGI-BIN . In the early 2000s Linux was cool, corporate types used Windows and kids were learning Linux. Linux systems were multi-user and ~/public_html was the way to publish a static website and one could do some backflips with apache config to get something similar for dynamic websites using PHP or general-purpose cgi-bin. c"
+      "description": "This is the backstory for reverse-bin: My Retro-Futuristic Successor to CGI-BIN . In the early 2000s Linux was cool, corporate types used Windows and kids were learning Linux. Linux systems were multi-user and ~/public_html was the way to publish a static website and one could do some backflips with apache config to get something similar for dynamic websites using PHP or general-purpose cgi-bin. c",
+      "date": null
     },
     {
       "link": null,
       "title": "reverse-bin: My Retro-Futuristic Successor to CGI-BIN",
-      "description": "I feel that the modern way of hosting apps is too complex and the old cgi-bin way was also suboptimal. I kept the cgi-bin subprocess model and married it with reverse proxying in https://github.com/tarasglek/caddy-reverse-bin/ . I believe this way is easier to customize, use and secure than the “modern” corporate stack. reverse-bin Imagine if our reverse-proxy corporate future took a different evo"
+      "description": "I feel that the modern way of hosting apps is too complex and the old cgi-bin way was also suboptimal. I kept the cgi-bin subprocess model and married it with reverse proxying in https://github.com/tarasglek/caddy-reverse-bin/ . I believe this way is easier to customize, use and secure than the “modern” corporate stack. reverse-bin Imagine if our reverse-proxy corporate future took a different evo",
+      "date": null
     },
     {
       "link": null,
       "title": "The Case for Secrets as Code: Stop Click-Managing Secrets",
-      "description": "We live in the age of software as a service, secret keys are everywhere. Yet somehow it is still normal to click-manage secrets. Smart people share them via signal,smarter people, share them via a password manager like Bitwarden. Super-advanced people punch them into GitHub UI and only let github actions have access to secrets. Infra-devops people spin up Vault or AWS secret manager or similar to"
+      "description": "We live in the age of software as a service, secret keys are everywhere. Yet somehow it is still normal to click-manage secrets. Smart people share them via signal,smarter people, share them via a password manager like Bitwarden. Super-advanced people punch them into GitHub UI and only let github actions have access to secrets. Infra-devops people spin up Vault or AWS secret manager or similar to",
+      "date": null
     }
   ]
 }

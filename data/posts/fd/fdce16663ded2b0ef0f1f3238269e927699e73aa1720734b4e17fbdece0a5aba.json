@@ -4,17 +4,20 @@
     {
       "link": "https://arbs09.dev/projects/pyguard/",
       "title": "pyguard",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://arbs09.dev/posts/now-playing-widget/",
       "title": "My now playing widget",
-      "description": "So I saw that some people on the IndieWeb have on their personal website a now playing or last scrobbled widget, linked to their last.fm. I find that very cool, and also wanted to have this. I looked how I could do that. There is a last.fm API, which I could directly integrate with over JavaScript. I decided against it, because it would mean that a user on my website would need to make a request t"
+      "description": "So I saw that some people on the IndieWeb have on their personal website a now playing or last scrobbled widget, linked to their last.fm. I find that very cool, and also wanted to have this. I looked how I could do that. There is a last.fm API, which I could directly integrate with over JavaScript. I decided against it, because it would mean that a user on my website would need to make a request t",
+      "date": null
     },
     {
       "link": "https://arbs09.dev/posts/hosting-git-repo/",
       "title": "simply Hosting my git repos",
-      "description": "I have some projects for which I use Git as my source control, such as this website. For this, I need a Git hosting service. For a long time, I used GitHub for this, but due to their instability and questionable policies, I don't want to host there anymore. I tried Codeberg and it's really nice, but all code needs to be open sourced (as I understand it). For some of my projects, I want to keep the"
+      "description": "I have some projects for which I use Git as my source control, such as this website. For this, I need a Git hosting service. For a long time, I used GitHub for this, but due to their instability and questionable policies, I don't want to host there anymore. I tried Codeberg and it's really nice, but all code needs to be open sourced (as I understand it). For some of my projects, I want to keep the",
+      "date": null
     }
   ]
 }

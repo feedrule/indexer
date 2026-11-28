@@ -4,17 +4,20 @@
     {
       "link": "https://fabianlindfors.se/blog/europes-bitter-lesson/",
       "title": "Europe's bitter lesson",
-      "description": "There is no doubt that Europe has fallen behind in the AI race, with the US constantly releasing new frontier models and China nipping at their heels. And yet, most talk around AI sovereignty seems focused on running open models under European jurisdiction and avoiding the feared kill switch. This should be the least of our concerns. We only have access to these models because it’s currently in Ch"
+      "description": "There is no doubt that Europe has fallen behind in the AI race, with the US constantly releasing new frontier models and China nipping at their heels. And yet, most talk around AI sovereignty seems focused on running open models under European jurisdiction and avoiding the feared kill switch. This should be the least of our concerns. We only have access to these models because it’s currently in Ch",
+      "date": null
     },
     {
       "link": "https://fabianlindfors.se/blog/making-postgres-distributed/",
       "title": "Making Postgres distributed with FoundationDB",
-      "description": "Turning the revered Postgres into a distributed database is a tall order but not a new idea. It has been done in many different ways with different characteristics. Citus requires a fair bit of manual configuration and client setup, but is open-source and distributed as an extension. CockroachDB is simpler to integrate but is not actually Postgres and not open-source. Neon is perhaps the most inte"
+      "description": "Turning the revered Postgres into a distributed database is a tall order but not a new idea. It has been done in many different ways with different characteristics. Citus requires a fair bit of manual configuration and client setup, but is open-source and distributed as an extension. CockroachDB is simpler to integrate but is not actually Postgres and not open-source. Neon is perhaps the most inte",
+      "date": null
     },
     {
       "link": "https://fabianlindfors.se/blog/complex-schema-migrations-with-reshape/",
       "title": "Complex zero-downtime schema migrations in Postgres",
-      "description": "I recently released a new version of Reshape , a tool for automating zero-downtime schema migrations in Postgres. I’m quite excited about this new version as it automates schema migrations that require changes across multiple tables, all whilst ensuring zero downtime for both your application and database. I’ll lay out an example of such a complex, multi-table migration here but you might also lik"
+      "description": "I recently released a new version of Reshape , a tool for automating zero-downtime schema migrations in Postgres. I’m quite excited about this new version as it automates schema migrations that require changes across multiple tables, all whilst ensuring zero downtime for both your application and database. I’ll lay out an example of such a complex, multi-table migration here but you might also lik",
+      "date": null
     }
   ]
 }

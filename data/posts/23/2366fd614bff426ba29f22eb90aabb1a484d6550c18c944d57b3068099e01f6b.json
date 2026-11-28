@@ -4,17 +4,20 @@
     {
       "link": "http://example.org/articles/the-next-phase-of-ai-coding-might-not-need-a-chat-window/",
       "title": "The Next Phase of AI Coding Might Not Need a Chat Window",
-      "description": "Coding agents are constantly evolving. I counted six different stages so far. Initially we had models that were only able to do autocompletion. These were already super useful, as you were able to tab your way through your code, but AI was mostly a small helper for completing the current line of code. Then we had the first chat experiences. Limited by the models of the time, both in intelligence a"
+      "description": "Coding agents are constantly evolving. I counted six different stages so far. Initially we had models that were only able to do autocompletion. These were already super useful, as you were able to tab your way through your code, but AI was mostly a small helper for completing the current line of code. Then we had the first chat experiences. Limited by the models of the time, both in intelligence a",
+      "date": null
     },
     {
       "link": "http://example.org/articles/better-architecture-diagrams-with-gpt-6-astra/",
       "title": "Better architecture diagrams with GPT-6 Astra",
-      "description": "In a recent LinkedIn post, I mentioned that GPT-6 Astra is one of those models that represents such a leap that it allows all of us to jointly explore its capabilities. This article is about exactly such a capability. I used to craft a lot of architecture diagrams. They are a great, lossy way to capture and convey one aspect of a system. I have always used draw.io for this purpose. With the popula"
+      "description": "In a recent LinkedIn post, I mentioned that GPT-6 Astra is one of those models that represents such a leap that it allows all of us to jointly explore its capabilities. This article is about exactly such a capability. I used to craft a lot of architecture diagrams. They are a great, lossy way to capture and convey one aspect of a system. I have always used draw.io for this purpose. With the popula",
+      "date": null
     },
     {
       "link": "http://example.org/articles/how-i-work-in-parallel-with-github-copilot/",
       "title": "How I Work in Parallel with GitHub Copilot",
-      "description": "I am often asked how I manage multiple sessions in parallel. Agents encounter blocking situations while they work. They may need to wait for another agent to run, a local build or even a cloud deployment to finish. These roadblocks create opportunities for us to do other work in parallel. The GitHub Copilot app is built to optimise exactly these workflows. The best type of parallel work depends on"
+      "description": "I am often asked how I manage multiple sessions in parallel. Agents encounter blocking situations while they work. They may need to wait for another agent to run, a local build or even a cloud deployment to finish. These roadblocks create opportunities for us to do other work in parallel. The GitHub Copilot app is built to optimise exactly these workflows. The best type of parallel work depends on",
+      "date": null
     }
   ]
 }

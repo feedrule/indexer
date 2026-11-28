@@ -4,17 +4,20 @@
     {
       "link": "https://blog.polybdenum.com/2026/11/17/fable-5-2-incorrectly-fixes-bug-in-3-out-of-4-trials.html",
       "title": "Fable 5.2 incorrectly fixes bug in 3 out of 4 trials",
-      "description": "Last month, I used Claude Code (Opus 5.5) to look for bugs in 1SubML, a project I wrote last winter. It found a number of bugs, but one bug was particularly notable because Claude incorrectly identified the problem."
+      "description": "Last month, I used Claude Code (Opus 5.5) to look for bugs in 1SubML, a project I wrote last winter. It found a number of bugs, but one bug was particularly notable because Claude incorrectly identified the problem.",
+      "date": null
     },
     {
       "link": "https://blog.polybdenum.com/2026/04/05/1subml-plan-vs-reality.html",
       "title": "1SubML: Plan vs Reality",
-      "description": "Last August, I wrote a series of posts outlining my ideas and plans for my then-upcoming programming language 1SubML. Now that I’ve finally released 1SubML, I decided to look back at how my original plans compare to what I actually ended up implementing."
+      "description": "Last August, I wrote a series of posts outlining my ideas and plans for my then-upcoming programming language 1SubML. Now that I’ve finally released 1SubML, I decided to look back at how my original plans compare to what I actually ended up implementing.",
+      "date": null
     },
     {
       "link": "https://blog.polybdenum.com/2025/11/13/polysubml-is-broken.html",
       "title": "PolySubML is broken",
-      "description": "In 2020, I released Cubiml, a language based on Algebraic Subtyping, and earlier this year, I followed it up with PolySubML, extending it with polymorphic types. No sooner had I released PolySubML then I started planning the design of my next programming language, which would have all the features I wanted to add but didn’t have time for with PolySubML."
+      "description": "In 2020, I released Cubiml, a language based on Algebraic Subtyping, and earlier this year, I followed it up with PolySubML, extending it with polymorphic types. No sooner had I released PolySubML then I started planning the design of my next programming language, which would have all the features I wanted to add but didn’t have time for with PolySubML.",
+      "date": null
     }
   ]
 }

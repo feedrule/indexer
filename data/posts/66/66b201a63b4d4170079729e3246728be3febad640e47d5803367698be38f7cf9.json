@@ -4,12 +4,14 @@
     {
       "link": "https://nadleer.github.io/posts/email-change-idor-zero-click-ato/",
       "title": "From an Email-Change IDOR to Zero-Click Account Takeover",
-      "description": "How a body-supplied clientId, an attacker-directed OTP, and a login-error identifier leak chained into a zero-click account takeover."
+      "description": "How a body-supplied clientId, an attacker-directed OTP, and a login-error identifier leak chained into a zero-click account takeover.",
+      "date": null
     },
     {
       "link": "https://nadleer.github.io/posts/flagging_post_bug/",
       "title": "i found moderation endpoint in JS files made me remove any post from the default feed.",
-      "description": "recon since i can’t disclose the program let’s call it target.com . the app had a lot of functionality, and reading the js files was the move to understand those functions and find hidden endpoints. while analyzing the bundles i hit a really interesting block: // POST /api/posts/{id}/moderate — community \"flag\" (the BFLA endpoint), request schema only allows reason:\"MATURE\" aq = s . z . object ({"
+      "description": "recon since i can’t disclose the program let’s call it target.com . the app had a lot of functionality, and reading the js files was the move to understand those functions and find hidden endpoints. while analyzing the bundles i hit a really interesting block: // POST /api/posts/{id}/moderate — community \"flag\" (the BFLA endpoint), request schema only allows reason:\"MATURE\" aq = s . z . object ({",
+      "date": null
     }
   ]
 }

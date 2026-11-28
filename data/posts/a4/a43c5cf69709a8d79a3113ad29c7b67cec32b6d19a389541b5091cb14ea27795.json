@@ -4,17 +4,20 @@
     {
       "link": "https://igorstechnoclub.com/field-guide-running-qwen38-locally/",
       "title": "Field Guide: Running Qwen3.8 Locally",
-      "description": "Local LLMs have quietly crossed an important threshold. Qwen3.8-27B is the model local users most often name when they say they're getting real coding work done on their own hardware — on a single consumer GPU or a well-specced Mac. And if your machine is smaller than that, the Qwen family still has something that runs. This guide gets you from zero to a running Qwen model in a few minutes, then h"
+      "description": "Local LLMs have quietly crossed an important threshold. Qwen3.8-27B is the model local users most often name when they say they're getting real coding work done on their own hardware — on a single consumer GPU or a well-specced Mac. And if your machine is smaller than that, the Qwen family still has something that runs. This guide gets you from zero to a running Qwen model in a few minutes, then h",
+      "date": null
     },
     {
       "link": "https://igorstechnoclub.com/why-llms-are-unreliable-language-detectors/",
       "title": "Why LLMs Are Unreliable Language Detectors",
-      "description": "LLMs can translate, explain grammar, and write fluently in dozens of languages — so it seems obvious they should be great at simply identifying what language a text is written in. And for long, clean text in common languages, they usually are. But things fall apart at the edges that show up constantly in real-world use: short snippets, closely related languages, rare languages, mixed-language text"
+      "description": "LLMs can translate, explain grammar, and write fluently in dozens of languages — so it seems obvious they should be great at simply identifying what language a text is written in. And for long, clean text in common languages, they usually are. But things fall apart at the edges that show up constantly in real-world use: short snippets, closely related languages, rare languages, mixed-language text",
+      "date": null
     },
     {
       "link": "https://igorstechnoclub.com/why-i-stopped-trusting-ssh-key-files/",
       "title": "Why I Stopped Trusting SSH Key Files",
-      "description": "Earlier today I added my iPhone as an authorized device to a server, and the way I did it is worth writing about — because it's quietly one of the best security upgrades you can make with zero ongoing effort. The key I used never touched a disk, can't be copied off my phone, and only works after Face ID says so. Here's why that matters, and why these keys beat almost everything else people use to"
+      "description": "Earlier today I added my iPhone as an authorized device to a server, and the way I did it is worth writing about — because it's quietly one of the best security upgrades you can make with zero ongoing effort. The key I used never touched a disk, can't be copied off my phone, and only works after Face ID says so. Here's why that matters, and why these keys beat almost everything else people use to",
+      "date": null
     }
   ]
 }

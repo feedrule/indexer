@@ -4,17 +4,20 @@
     {
       "link": "https://osandamalith.com/2026/07/17/i-thought-i-found-a-prime-pattern-that-breaks-rsa/?utm_source=rss&utm_medium=rss&utm_campaign=i-thought-i-found-a-prime-pattern-that-breaks-rsa",
       "title": "I Thought I Found a Prime Pattern That Breaks RSA",
-      "description": "I didn’t. But working out why taught me more about RSA than any tutorial ever did, because it forced me to find the exact spot where the security lives and poke it. This post builds RSA from nothing, walks up to that spot, and then documents — with real code, real timings, and a real […]"
+      "description": "I didn’t. But working out why taught me more about RSA than any tutorial ever did, because it forced me to find the exact spot where the security lives and poke it. This post builds RSA from nothing, walks up to that spot, and then documents — with real code, real timings, and a real […]",
+      "date": null
     },
     {
       "link": "https://osandamalith.com/2026/07/07/a-phishing-email-a-fake-trial-and-a-real-backdoor/?utm_source=rss&utm_medium=rss&utm_campaign=a-phishing-email-a-fake-trial-and-a-real-backdoor",
       "title": "Inside a TradingView Phishing Kill Chain: Dissecting a Self-Hosted ScreenConnect Phishing Campaign",
-      "description": "Kill chain overview The lure It started with a well-timed email: “Welcome! Your Free 1-Month Trial Has Started,” branded as TradingView, landing in my inbox with a friendly nudge to “Test Drive the Desktop App.” Given my public interest in algo trading, this wasn’t random spray, it was a targeted pretext. The email authenticated cleanly: […]"
+      "description": "Kill chain overview The lure It started with a well-timed email: “Welcome! Your Free 1-Month Trial Has Started,” branded as TradingView, landing in my inbox with a friendly nudge to “Test Drive the Desktop App.” Given my public interest in algo trading, this wasn’t random spray, it was a targeted pretext. The email authenticated cleanly: […]",
+      "date": null
     },
     {
       "link": "https://osandamalith.com/2025/10/18/rtlregisterwait-shellcode-execution-poc/?utm_source=rss&utm_medium=rss&utm_campaign=rtlregisterwait-shellcode-execution-poc",
       "title": "RtlRegisterWait Shellcode Execution PoC",
-      "description": "RtlRegisterWait is an undocumented Windows API that registers a callback function to be executed by a system managed thread pool when a specified object handle becomes signalled. [crayon-6b035d58e9b39394075215/]"
+      "description": "RtlRegisterWait is an undocumented Windows API that registers a callback function to be executed by a system managed thread pool when a specified object handle becomes signalled. [crayon-6b035d58e9b39394075215/]",
+      "date": null
     }
   ]
 }

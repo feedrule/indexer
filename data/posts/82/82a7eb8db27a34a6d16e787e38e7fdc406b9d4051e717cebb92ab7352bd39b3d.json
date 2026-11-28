@@ -4,17 +4,20 @@
     {
       "link": "https://kharekartik.dev/writing/wtf-does-it-take-to-automate-visual-explainers-part-3/",
       "title": "Automating Visual Explainers, Part 3: What Was My Agent Actually For?",
-      "description": "Moving the coding work to Codex left an awkward question about what my own harness still needed to do. Following one explainer through the workflow gave me an answer."
+      "description": "Moving the coding work to Codex left an awkward question about what my own harness still needed to do. Following one explainer through the workflow gave me an answer.",
+      "date": null
     },
     {
       "link": "https://kharekartik.dev/writing/my-qa-agent-wrote-the-right-test-on-the-wrong-data/",
       "title": "My QA Agent Wrote the Right Test on the Wrong Data",
-      "description": "A QA agent planned the right LIMIT test, but the data, answer key and system shape made it unable to catch a real wrong results bug."
+      "description": "A QA agent planned the right LIMIT test, but the data, answer key and system shape made it unable to catch a real wrong results bug.",
+      "date": null
     },
     {
       "link": "https://kharekartik.dev/writing/my-llm-query-optimizer-demoed-in-a-week-making-it-honest-took-months/",
       "title": "My LLM Query Optimizer Demoed in a Week. Making it honest however took Months",
-      "description": "Why a week-long LLM query optimizer demo needed months of evals, validators and live cluster probes before its advice became trustworthy."
+      "description": "Why a week-long LLM query optimizer demo needed months of evals, validators and live cluster probes before its advice became trustworthy.",
+      "date": null
     }
   ]
 }

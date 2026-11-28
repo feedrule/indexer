@@ -4,17 +4,20 @@
     {
       "link": "https://jfryusef.link/posts/kalaantar/",
       "title": "Setting Up Arch on an Old ThinkPad",
-      "description": "Recently, I bought a used ThinkPad X230 for around $60. It came with a 3rd-gen i7 CPU, 8GB RAM, and a 180GB SSD. Decent specs for a family laptop. The previous owner had a fresh install of Windows 10 on it, and idle RAM usage was over 2GB: While on Arch + XFCE, it dropped to under 1GB: Here is how. Hardware Bofor installing Linux, I wanted to replace the thermal paste on the CPU and also swap the"
+      "description": "Recently, I bought a used ThinkPad X230 for around $60. It came with a 3rd-gen i7 CPU, 8GB RAM, and a 180GB SSD. Decent specs for a family laptop. The previous owner had a fresh install of Windows 10 on it, and idle RAM usage was over 2GB: While on Arch + XFCE, it dropped to under 1GB: Here is how. Hardware Bofor installing Linux, I wanted to replace the thermal paste on the CPU and also swap the",
+      "date": null
     },
     {
       "link": "https://jfryusef.link/posts/jopen/",
       "title": "How I Made jopen?",
-      "description": "jopen is a blog about mostly tech-related projects I do for fun. In fact, jopen itself is one of them! I wanted to take notes on the process of my projects, and there was no reason to keep them private. So, I made this blog, To Learn In Public . I don’t like bloated CMSs. This stack is [almost] free, open-source, and lets me focus on writing in a tool I already use ( Obsidian VS Code). Plus, it’s"
+      "description": "jopen is a blog about mostly tech-related projects I do for fun. In fact, jopen itself is one of them! I wanted to take notes on the process of my projects, and there was no reason to keep them private. So, I made this blog, To Learn In Public . I don’t like bloated CMSs. This stack is [almost] free, open-source, and lets me focus on writing in a tool I already use ( Obsidian VS Code). Plus, it’s",
+      "date": null
     },
     {
       "link": "https://jfryusef.link/posts/test/",
       "title": "Hello World!",
-      "description": "Header 1 the quick brown fox jumps over the lazy dog; THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG; URL test Header 2 foo bar baz There is pee without poop , but there may not be poop without \"p\" . Header 3 Unchecked Item Checked Item { \"firstName\": \"yusef\", \"lastName\": \"jfr\", \"birthdate\": 20021215 }"
+      "description": "Header 1 the quick brown fox jumps over the lazy dog; THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG; URL test Header 2 foo bar baz There is pee without poop , but there may not be poop without \"p\" . Header 3 Unchecked Item Checked Item { \"firstName\": \"yusef\", \"lastName\": \"jfr\", \"birthdate\": 20021215 }",
+      "date": null
     }
   ]
 }

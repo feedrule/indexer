@@ -4,17 +4,20 @@
     {
       "link": "https://infrastructure-as-code.com/posts/fose-july-2026.html",
       "title": "The Argument Underneath the Arguments: What I heard at the Future of Software Development Retreat",
-      "description": "The question running through the Future of Software Development retreat: How much do we let an agent decide, and how do we stay confident in what it does?"
+      "description": "The question running through the Future of Software Development retreat: How much do we let an agent decide, and how do we stay confident in what it does?",
+      "date": null
     },
     {
       "link": "https://infrastructure-as-code.com/posts/why-i-use-infra-code-with-agents.html",
       "title": "Why I have my agents write infrastructure code",
-      "description": "I could have Claude Code directly create infrastructure for me. But I prefer to have it write infrastructure code, for consistency, confidence, and composability."
+      "description": "I could have Claude Code directly create infrastructure for me. But I prefer to have it write infrastructure code, for consistency, confidence, and composability.",
+      "date": null
     },
     {
       "link": "https://infrastructure-as-code.com/posts/humans-on-the-loop.html",
       "title": "The Humans On The Loop",
-      "description": "Agentic software engineering looks familiar to me. We'll manage systems that produce, deliver, and operate software, including infrastructure code. How do we govern how agents build a system? Do we give no guidance (\"vibe coding\")? Do humans manually inspect every line (\"humans in the loop\")? Or do we build systems that shape both outcomes and behavior (\"humans on the loop\")?"
+      "description": "Agentic software engineering looks familiar to me. We'll manage systems that produce, deliver, and operate software, including infrastructure code. How do we govern how agents build a system? Do we give no guidance (\"vibe coding\")? Do humans manually inspect every line (\"humans in the loop\")? Or do we build systems that shape both outcomes and behavior (\"humans on the loop\")?",
+      "date": null
     }
   ]
 }

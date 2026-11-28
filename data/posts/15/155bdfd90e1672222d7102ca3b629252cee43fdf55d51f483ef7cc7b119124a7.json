@@ -4,17 +4,20 @@
     {
       "link": "https://ginglis.me/encrypted-dns-pihole/",
       "title": "encrypted DNS for pihole with dnscrypt",
-      "description": "At first I wanted to set up cloudflared for my pihole a la https://pimylifeup.com/raspberry-pi-cloudflare-tunnel/ . However, I realized this requires both a cloudflare account and setup of \"tunnels\" which I don't care to learn or sign up for (yet?). I just want to encrypt DNS traffic. Let's just use DNScrypt - this guide is really all there is to it https://docs.pi-hole.net/guides/dns/dnscrypt-pro"
+      "description": "At first I wanted to set up cloudflared for my pihole a la https://pimylifeup.com/raspberry-pi-cloudflare-tunnel/ . However, I realized this requires both a cloudflare account and setup of \"tunnels\" which I don't care to learn or sign up for (yet?). I just want to encrypt DNS traffic. Let's just use DNScrypt - this guide is really all there is to it https://docs.pi-hole.net/guides/dns/dnscrypt-pro",
+      "date": null
     },
     {
       "link": "https://ginglis.me/ssh-to-portfolio/",
       "title": "ssh git.orhun.dev",
-      "description": "I found a dev named Orhun via an interesting blog post on HN about AI generated code: https://blog.orhun.dev/code-responsibly/ From checking out his GitHub, he's the maintainer of Ratatui, a massive tui library for Rust. I also found: ssh git.orhun.dev Pretty neat. I'd like to look into how this was done and perhaps set up a local copy on my own."
+      "description": "I found a dev named Orhun via an interesting blog post on HN about AI generated code: https://blog.orhun.dev/code-responsibly/ From checking out his GitHub, he's the maintainer of Ratatui, a massive tui library for Rust. I also found: ssh git.orhun.dev Pretty neat. I'd like to look into how this was done and perhaps set up a local copy on my own.",
+      "date": null
     },
     {
       "link": "https://ginglis.me/pihole/",
       "title": "pihole",
-      "description": "Update 10/16 - I've switched from xfinity (pita to configure pihole since they make it as hard as possible to do any advanced networking config on their modem/router combo) and now have my pihole configured with a static dhcp lease. I also set up encrypted DNS, which has its own dedicated small post Update 4/16 - I have an iPhone, which by default anonymizes the MAC address of the device per netwo"
+      "description": "Update 10/16 - I've switched from xfinity (pita to configure pihole since they make it as hard as possible to do any advanced networking config on their modem/router combo) and now have my pihole configured with a static dhcp lease. I also set up encrypted DNS, which has its own dedicated small post Update 4/16 - I have an iPhone, which by default anonymizes the MAC address of the device per netwo",
+      "date": null
     }
   ]
 }

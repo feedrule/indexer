@@ -4,17 +4,20 @@
     {
       "link": "https://gluer.org/blog/cloning-private-forgejo-repositories-without-nodejs/",
       "title": "Cloning private Forgejo repositories in Actions without Node.js",
-      "description": "Sometimes cloning a repository doesn't require a complex dependency tree . Plain git is enough! It's possible to leverate the forgejo context for the information needed to clone. The gotcha is that forgejo.server_url contains the protocol (ie. https:// ). You need to strip that before passing to Git: - name : Checkout run : | SERVER=\"${{ forgejo.server_url }}\" git clone --depth=1 --branch \"${{ for"
+      "description": "Sometimes cloning a repository doesn't require a complex dependency tree . Plain git is enough! It's possible to leverate the forgejo context for the information needed to clone. The gotcha is that forgejo.server_url contains the protocol (ie. https:// ). You need to strip that before passing to Git: - name : Checkout run : | SERVER=\"${{ forgejo.server_url }}\" git clone --depth=1 --branch \"${{ for",
+      "date": null
     },
     {
       "link": "https://gluer.org/blog/rethinking-perplex-systems-website/",
       "title": "Rethinking Perplex Systems website",
-      "description": "Since the inception of Perplex Systems© our website wandered the digital space in a solid but confused outfit. Rocking a black t-shirt with blue denim pants. Sometimes even risking a white t-shirt. It's a clean outfit, timeless and... souless. It might have dressed skinny ripped jeans and chunky shoes once, but not even the comically large foam of its shoe's sole held down the image to be emphasiz"
+      "description": "Since the inception of Perplex Systems© our website wandered the digital space in a solid but confused outfit. Rocking a black t-shirt with blue denim pants. Sometimes even risking a white t-shirt. It's a clean outfit, timeless and... souless. It might have dressed skinny ripped jeans and chunky shoes once, but not even the comically large foam of its shoe's sole held down the image to be emphasiz",
+      "date": null
     },
     {
       "link": "https://gluer.org/blog/structuring-standard-ml-projects/",
       "title": "Structuring Standard ML Projects",
-      "description": "Two years have passed and I still love writing Standard ML code! I've learned one thing and another about structuring the code in order to share it with ease and produce better development experiences. After trying out quite a few build systems, I decided to settle on MLBasis and Makefiles. While MLBasis is not a build system itself, you can use it to define what parts of the code should be export"
+      "description": "Two years have passed and I still love writing Standard ML code! I've learned one thing and another about structuring the code in order to share it with ease and produce better development experiences. After trying out quite a few build systems, I decided to settle on MLBasis and Makefiles. While MLBasis is not a build system itself, you can use it to define what parts of the code should be export",
+      "date": null
     }
   ]
 }

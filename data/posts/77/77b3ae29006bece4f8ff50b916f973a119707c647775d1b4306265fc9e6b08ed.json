@@ -4,17 +4,20 @@
     {
       "link": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
       "title": "Benchmarking Wild vs Mold",
-      "description": "Mold has recently updated their linker benchmarks and included Wild for the first time. These benchmarks show Wild being substantially slower than Mold in contrast to Wild’s most recently published benchmarks from our last release on August 4th. This post is an attempt to understand why there’s such a difference in the benchmark results."
+      "description": "Mold has recently updated their linker benchmarks and included Wild for the first time. These benchmarks show Wild being substantially slower than Mold in contrast to Wild’s most recently published benchmarks from our last release on August 4th. This post is an attempt to understand why there’s such a difference in the benchmark results.",
+      "date": null
     },
     {
       "link": "https://davidlattimore.github.io/posts/2026/05/24/wild-update-0.9.0.html",
       "title": "Wild Linker Update - 0.9.0",
-      "description": "We’ve just released Wild version 0.9.0. It was a bit overdue, with our last release being back in January. It’s way too tempting to try to get just one more change in before the release, but you’ve got to cut it somewhere."
+      "description": "We’ve just released Wild version 0.9.0. It was a bit overdue, with our last release being back in January. It’s way too tempting to try to get just one more change in before the release, but you’ve got to cut it somewhere.",
+      "date": null
     },
     {
       "link": "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html",
       "title": "Graph Algorithms in Rayon",
-      "description": "The Wild linker makes very extensive use of rayon for parallelism. Much of this parallelism is in the form of par_iter and friends. However, some parts of the linker don’t fit neatly because the amount of work isn’t known in advance. For example, the linker has two places where it explores a graph. When we start, we know some roots of that graph, but we don’t know all the nodes that we’ll need to"
+      "description": "The Wild linker makes very extensive use of rayon for parallelism. Much of this parallelism is in the form of par_iter and friends. However, some parts of the linker don’t fit neatly because the amount of work isn’t known in advance. For example, the linker has two places where it explores a graph. When we start, we know some roots of that graph, but we don’t know all the nodes that we’ll need to",
+      "date": null
     }
   ]
 }

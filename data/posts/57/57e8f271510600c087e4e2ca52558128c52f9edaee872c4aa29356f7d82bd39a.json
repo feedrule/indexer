@@ -4,17 +4,20 @@
     {
       "link": "https://ibnuhx.com/blog/restart-your-machines/",
       "title": "Restart your machines",
-      "description": "I left lab machines on for months, then lost an evening to a bug a reboot would have fixed. Now I reboot on purpose."
+      "description": "I left lab machines on for months, then lost an evening to a bug a reboot would have fixed. Now I reboot on purpose.",
+      "date": null
     },
     {
       "link": "https://ibnuhx.com/blog/tailscale-dns-failover-one-address/",
       "title": "Setting up failover for Tailscale DNS",
-      "description": "Tailscale does not fail over between two nameservers. This high-availability setup gives the tailnet one DNS address backed by several resolvers."
+      "description": "Tailscale does not fail over between two nameservers. This high-availability setup gives the tailnet one DNS address backed by several resolvers.",
+      "date": null
     },
     {
       "link": "https://ibnuhx.com/blog/notes-on-good-api-design/",
       "title": "Notes on good API design",
-      "description": "Habits I want on a public HTTP API: familiar paths, stable fields, keys, retries, limits, and pagination."
+      "description": "Habits I want on a public HTTP API: familiar paths, stable fields, keys, retries, limits, and pagination.",
+      "date": null
     }
   ]
 }

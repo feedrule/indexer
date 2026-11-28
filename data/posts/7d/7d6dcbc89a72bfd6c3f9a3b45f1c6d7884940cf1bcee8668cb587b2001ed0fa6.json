@@ -4,17 +4,20 @@
     {
       "link": "https://djdumpling.github.io/2026/08/09/megagem.html",
       "title": "Learning MegaGem, from self-play to price discovery",
-      "description": "We study MegaGem, a multi-player, general-sum, imperfect-information auction game developed by Jane Street, and train Qwen3-4B-Instruct to play it. SFT raises it’s elo rating from 551 to 1158, ahead of Claude Sonnet 4.6, Claude Opus 4.8, and GPT-5.5. Distilling an analytic expert raises it further to 1275, the highest rating in the benchmark and roughly equal with Gemini 3.1 Pro. ( soon! we train"
+      "description": "We study MegaGem, a multi-player, general-sum, imperfect-information auction game developed by Jane Street, and train Qwen3-4B-Instruct to play it. SFT raises it’s elo rating from 551 to 1158, ahead of Claude Sonnet 4.6, Claude Opus 4.8, and GPT-5.5. Distilling an analytic expert raises it further to 1275, the highest rating in the benchmark and roughly equal with Gemini 3.1 Pro. ( soon! we train",
+      "date": null
     },
     {
       "link": "https://djdumpling.github.io/2026/05/27/modded-nanoGPT-WR.html",
       "title": "hunting for headroom on modded-nanoGPT (WR #82)",
-      "description": "Modded-nanoGPT speedrunning is a popular benchmark that asks how fast 8xH100s can drive a 124M-parameter model to 3.28 validation loss on FineWeb. After iterating on dozens of failed experiments (mainly algorithmic including optimizers, activations, schedules), we propose a learnable per-(layer, head) $\\tanh(\\alpha)$ gate on Exclusive Self-Attention , broadened across all non-paired attention laye"
+      "description": "Modded-nanoGPT speedrunning is a popular benchmark that asks how fast 8xH100s can drive a 124M-parameter model to 3.28 validation loss on FineWeb. After iterating on dozens of failed experiments (mainly algorithmic including optimizers, activations, schedules), we propose a learnable per-(layer, head) $\\tanh(\\alpha)$ gate on Exclusive Self-Attention , broadened across all non-paired attention laye",
+      "date": null
     },
     {
       "link": "https://djdumpling.github.io/2026/01/31/frontier_training.html",
       "title": "frontier model training methodologies",
-      "description": "How do labs train a frontier, multi-billion parameter model? We look towards seven open-weight frontier models: Hugging Face’s SmolLM3 , Prime Intellect’s Intellect 3 , Nous Research’s Hermes 4 , OpenAI’s gpt-oss-120b , Moonshot’s Kimi K2 , DeepSeek’s DeepSeek-R1 , and Arcee’s Trinity series . This blog is an attempt at distilling the techniques, motivations, and considerations used to train their"
+      "description": "How do labs train a frontier, multi-billion parameter model? We look towards seven open-weight frontier models: Hugging Face’s SmolLM3 , Prime Intellect’s Intellect 3 , Nous Research’s Hermes 4 , OpenAI’s gpt-oss-120b , Moonshot’s Kimi K2 , DeepSeek’s DeepSeek-R1 , and Arcee’s Trinity series . This blog is an attempt at distilling the techniques, motivations, and considerations used to train their",
+      "date": null
     }
   ]
 }

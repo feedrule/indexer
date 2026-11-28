@@ -4,17 +4,20 @@
     {
       "link": "https://www.christianengvall.se/writing/miscellaneous/new-site-design/",
       "title": "A fresh design for the site",
-      "description": "I’ve given christianengvall.se a fresh design. The site had been running on the same WordPress-migrated theme for years. I rebuilt it from the ground up as a light, calm portfolio — new typography (Outfit for headlines, IBM Plex for everything else), a green accent, and a lot less visual noise. It’s still a static Jekyll site, so it stays fast and simple to maintain. What changed A proper portfoli"
+      "description": "I’ve given christianengvall.se a fresh design. The site had been running on the same WordPress-migrated theme for years. I rebuilt it from the ground up as a light, calm portfolio — new typography (Outfit for headlines, IBM Plex for everything else), a green accent, and a lot less visual noise. It’s still a static Jekyll site, so it stays fast and simple to maintain. What changed A proper portfoli",
+      "date": null
     },
     {
       "link": "https://www.christianengvall.se/writing/javascript/setting-up-cypress-for-a-react-application/",
       "title": "Setting up Cypress for a React application",
-      "description": "I took the lead on setting up Cypress for end-to-end testing in a React + Vite + TypeScript application. The app is a shipping logistics portal and the test suite now covers 31 test files across the application. Here is how I approached the setup. Installing Cypress pnpm add -D cypress Then add scripts to package.json : \"cy:open\" : \"cypress open\" , \"cy:open:frontend\" : \"cypress open --env CYPRESS_"
+      "description": "I took the lead on setting up Cypress for end-to-end testing in a React + Vite + TypeScript application. The app is a shipping logistics portal and the test suite now covers 31 test files across the application. Here is how I approached the setup. Installing Cypress pnpm add -D cypress Then add scripts to package.json : \"cy:open\" : \"cypress open\" , \"cy:open:frontend\" : \"cypress open --env CYPRESS_",
+      "date": null
     },
     {
       "link": "https://www.christianengvall.se/writing/miscellaneous/update-pihole-docker/",
       "title": "Update pihole running in a Docker container",
-      "description": "The Pihole web interface tells you to run pihole -up to get the latest version. But if you are running pihole as a docker container we need to do it a little bit different. To update pihole; Open a terminal and do the following: Stop the container: docker stop pihole Pull the latest Pihole docker pull pihole/pihole Remove your existing pihole container docker rm -f pihole Start container #Dependin"
+      "description": "The Pihole web interface tells you to run pihole -up to get the latest version. But if you are running pihole as a docker container we need to do it a little bit different. To update pihole; Open a terminal and do the following: Stop the container: docker stop pihole Pull the latest Pihole docker pull pihole/pihole Remove your existing pihole container docker rm -f pihole Start container #Dependin",
+      "date": null
     }
   ]
 }

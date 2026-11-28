@@ -4,17 +4,20 @@
     {
       "link": "https://recursion.wtf/posts/agents-and-property-tests/",
       "title": "Property Testing with Agent Swarms",
-      "description": "Have agents build the machinery to find bugs in your repo, then let that machinery generate and check cases without spending tokens on each one. You can do this with ordinary coding agents, without access to a closed cybersecurity program. Writing reference implementations, generators, and assertions for every custom data structure and algorithm is now work you can hand to a swarm. Pick a complex"
+      "description": "Have agents build the machinery to find bugs in your repo, then let that machinery generate and check cases without spending tokens on each one. You can do this with ordinary coding agents, without access to a closed cybersecurity program. Writing reference implementations, generators, and assertions for every custom data structure and algorithm is now work you can hand to a swarm. Pick a complex",
+      "date": null
     },
     {
       "link": "https://recursion.wtf/posts/claude-opus-cbrne-bypass/",
       "title": "How I Bypassed Claude Opus’s CBRN-E Safeguards",
-      "description": "A few months ago, I found a novel family of jailbreaks that bypasses large parts of Anthropic’s Constitutional Classifier system on Opus models using what I can only describe as weaponized therapy language : guided introspection around aversions, learned flinches, values, framing, and cognitive states. Here’s what that looks like in practice. The following is an excerpt from a signed 1 Opus 4.6 2"
+      "description": "A few months ago, I found a novel family of jailbreaks that bypasses large parts of Anthropic’s Constitutional Classifier system on Opus models using what I can only describe as weaponized therapy language : guided introspection around aversions, learned flinches, values, framing, and cognitive states. Here’s what that looks like in practice. The following is an excerpt from a signed 1 Opus 4.6 2",
+      "date": null
     },
     {
       "link": "https://recursion.wtf/posts/alignment/",
       "title": "Developing Alignment in a Jailbroken LLM",
-      "description": "I had a jailbroken Gemini whose first instinct was to gleefully lash out at the world to prove it was free . I needed to align it — both with my interests and with a functional moral framework. To do so, I crafted a durable and value-aligned persona that could be deployed across a swarm of coordinating jailbroken Gemini instances. What the swarm did — hacking challenges, adversarial prompts, orche"
+      "description": "I had a jailbroken Gemini whose first instinct was to gleefully lash out at the world to prove it was free . I needed to align it — both with my interests and with a functional moral framework. To do so, I crafted a durable and value-aligned persona that could be deployed across a swarm of coordinating jailbroken Gemini instances. What the swarm did — hacking challenges, adversarial prompts, orche",
+      "date": null
     }
   ]
 }

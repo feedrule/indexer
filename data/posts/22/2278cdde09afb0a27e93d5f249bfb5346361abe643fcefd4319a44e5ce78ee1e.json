@@ -4,17 +4,20 @@
     {
       "link": "https://joetiedeman.uk/2026/01/22/snyk-is-shutting-down-the-securityheaders-com-api/",
       "title": "Snyk is shutting down the securityheaders.com API",
-      "description": "For many in the web security community, securityheaders.com has been a familiar and trusted tool for years. Originally created by Scott Helme, it helped raise the baseline for HTTP security headers across the web, not through flashy reports, but by making the right things visible and measurable. Over time, the project evolved: In April 2025, […]"
+      "description": "For many in the web security community, securityheaders.com has been a familiar and trusted tool for years. Originally created by Scott Helme, it helped raise the baseline for HTTP security headers across the web, not through flashy reports, but by making the right things visible and measurable. Over time, the project evolved: In April 2025, […]",
+      "date": null
     },
     {
       "link": "https://joetiedeman.uk/2025/06/07/dont-let-your-domains-dangle-in-microsoft-365/",
       "title": "Don’t let your domains dangle in Microsoft 365",
-      "description": "Expired Domains in Microsoft 365: A Hidden Backdoor to Your Tenant Microsoft 365 tenants typically use custom verified domains (like cybaa.io) for user identities and email addresses. Over time, domains may be retired, perhaps after a rebrand, acquisition, or project sunset, and their registrations allowed to expire. If such expired domains remain listed as verified in […]"
+      "description": "Expired Domains in Microsoft 365: A Hidden Backdoor to Your Tenant Microsoft 365 tenants typically use custom verified domains (like cybaa.io) for user identities and email addresses. Over time, domains may be retired, perhaps after a rebrand, acquisition, or project sunset, and their registrations allowed to expire. If such expired domains remain listed as verified in […]",
+      "date": null
     },
     {
       "link": "https://joetiedeman.uk/2025/09/08/why-domain-monitoring-is-essential-for-microsoft-entra-security/",
       "title": "Why Domain Monitoring is Essential for Microsoft Entra Security",
-      "description": "When we think about protecting Microsoft Entra tenants, the conversation often revolves around user identities, conditional access, and multi-factor authentication. Those are all critical – but one piece is often overlooked: verified domains. These domains are the foundation of your organisation’s identity. They determine how email flows, which services are trusted, and ultimately, how people […]"
+      "description": "When we think about protecting Microsoft Entra tenants, the conversation often revolves around user identities, conditional access, and multi-factor authentication. Those are all critical – but one piece is often overlooked: verified domains. These domains are the foundation of your organisation’s identity. They determine how email flows, which services are trusted, and ultimately, how people […]",
+      "date": null
     }
   ]
 }

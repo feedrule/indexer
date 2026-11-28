@@ -4,17 +4,20 @@
     {
       "link": "https://carlosblanco.github.io/architecture/backend/2026/05/25/message-queues-brokers-temporal-decoupling.html",
       "title": "Message Queues and Brokers Help With Temporal Decoupling",
-      "description": "One of the more common reactions I hear when engineers first encounter a message broker in a service-to-service communication context is that it feels like overengineering. Why introduce Kafka or RabbitMQ when a plain HTTP call does the same job with less infrastructure? It’s a fair question on the surface, and the people asking it aren’t wrong that a broker adds operational complexity. What they’"
+      "description": "One of the more common reactions I hear when engineers first encounter a message broker in a service-to-service communication context is that it feels like overengineering. Why introduce Kafka or RabbitMQ when a plain HTTP call does the same job with less infrastructure? It’s a fair question on the surface, and the people asking it aren’t wrong that a broker adds operational complexity. What they’",
+      "date": null
     },
     {
       "link": "https://carlosblanco.github.io/architecture/backend/2026/05/15/event-driven-architecture-troubleshooting.html",
       "title": "Why Event-Driven Architecture With a Centralized Dead-Letter Queue Makes Distributed Systems Easily Debuggable",
-      "description": "Distributed systems earn their bad reputation for debugging mostly because of how they’re designed, not because distribution is inherently opaque. When services call each other synchronously through long chains of HTTP requests, a single failure anywhere produces symptoms everywhere — and tracing the origin means reconstructing a timeline across logs scattered across a dozen services, each with it"
+      "description": "Distributed systems earn their bad reputation for debugging mostly because of how they’re designed, not because distribution is inherently opaque. When services call each other synchronously through long chains of HTTP requests, a single failure anywhere produces symptoms everywhere — and tracing the origin means reconstructing a timeline across logs scattered across a dozen services, each with it",
+      "date": null
     },
     {
       "link": "https://carlosblanco.github.io/engineering-culture/backend/2021/06/10/the-dlq-doesnt-wait.html",
       "title": "The DLQ Doesn’t Wait: Engineering for Trust Over Deadlines",
-      "description": "There’s a line of thinking in software engineering that treats bugs as interruptions — things that pull you away from the “real work” of shipping features. At Nubank I found the opposite to be true. When something lands in the dead letter queue, that is the real work. The DLQ is a centralized queue shared across services where messages end up when processing fails. At any given moment it represent"
+      "description": "There’s a line of thinking in software engineering that treats bugs as interruptions — things that pull you away from the “real work” of shipping features. At Nubank I found the opposite to be true. When something lands in the dead letter queue, that is the real work. The DLQ is a centralized queue shared across services where messages end up when processing fails. At any given moment it represent",
+      "date": null
     }
   ]
 }

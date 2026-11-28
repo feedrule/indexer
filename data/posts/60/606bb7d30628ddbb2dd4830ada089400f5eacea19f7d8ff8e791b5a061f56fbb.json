@@ -4,17 +4,20 @@
     {
       "link": "https://www.darraghoriordan.com/2026/10/29/staff-eng-bench",
       "title": "What AI missed when planning an auth migration across ten applications",
-      "description": "I turned a recent real authentication migration into a planning eval. The strongest result scored 55% completion and missed 10 critical concerns of 19. - '#engineering'"
+      "description": "I turned a recent real authentication migration into a planning eval. The strongest result scored 55% completion and missed 10 critical concerns of 19. - '#engineering'",
+      "date": null
     },
     {
       "link": "https://www.darraghoriordan.com/2026/09/27/ai-engineering-2026",
       "title": "Notes from AI and Software Engineering in 2026",
-      "description": "AI coding got good enough in late 2025, by mid-2026 virtually all code at our org is now written by LLMs"
+      "description": "AI coding got good enough in late 2025, by mid-2026 virtually all code at our org is now written by LLMs",
+      "date": null
     },
     {
       "link": "https://www.darraghoriordan.com/2024/01/30/dynamic-state-machines-xstate-lambda",
       "title": "Dynamic state machines with AWS Lambda, SST and XState",
-      "description": "Using state machines in serverless when Step Functions won't help"
+      "description": "Using state machines in serverless when Step Functions won't help",
+      "date": null
     }
   ]
 }

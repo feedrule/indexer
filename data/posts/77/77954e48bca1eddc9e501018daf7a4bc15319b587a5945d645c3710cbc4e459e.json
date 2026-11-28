@@ -4,17 +4,20 @@
     {
       "link": "https://blog.pmhahn.de/gitlab-python-packaging/",
       "title": "Building Python packages via GitLab pipeline with type checking",
-      "description": "My main programming language is Python and I’m a huge fan of static type hinting. As of 2026 there are four type checkers: Dropbox mypy (Python) Microsoft pyright (TypeScript) Facebook pyrefly (rust) Astral ty (rust) I like to integrate them into my GitLab workflow, which includes generatin a Code Quality report. On top of this my pipeline also runs Astral ruff as a linter and code formatter and u"
+      "description": "My main programming language is Python and I’m a huge fan of static type hinting. As of 2026 there are four type checkers: Dropbox mypy (Python) Microsoft pyright (TypeScript) Facebook pyrefly (rust) Astral ty (rust) I like to integrate them into my GitLab workflow, which includes generatin a Code Quality report. On top of this my pipeline also runs Astral ruff as a linter and code formatter and u",
+      "date": null
     },
     {
       "link": "https://blog.pmhahn.de/gitlab-linter/",
       "title": "Running linters in GitLab",
-      "description": "Linters run as part of GitLab Continuous Integration pipelines to guarantee code quality. A Merge Request based workflow will start from a branch main being currently at some commit start. You normally fork a branch develop from that branch base and will create several commits c1, c2, …, cN. When you push that branch and create a Merge Request, a pipeline may start and will run several jobs."
+      "description": "Linters run as part of GitLab Continuous Integration pipelines to guarantee code quality. A Merge Request based workflow will start from a branch main being currently at some commit start. You normally fork a branch develop from that branch base and will create several commits c1, c2, …, cN. When you push that branch and create a Merge Request, a pipeline may start and will run several jobs.",
+      "date": null
     },
     {
       "link": "https://blog.pmhahn.de/linux-ntfs/",
       "title": "Linux and the Windows NT file system",
-      "description": "The Windows New Technology File System (NTFS) has a long history with Linux: Driver Type Based on Kernel Period Read-write Original Kernel Scratch 2.1.74 1995-2001 Read-only Linux-NTFS Kernel Scratch 2.5.11 2002-2024 Read-only Captive FUSE ntfs.sys 2003-2006 Read-write NTFS-3G FUSE Linux-NTFS 3.18 2006- Read-write NTFS3 Kernel Paragon 5.15 2021- Read-write NTFS Plus Kernel Linux-NTFS 7.1 2026- Rea"
+      "description": "The Windows New Technology File System (NTFS) has a long history with Linux: Driver Type Based on Kernel Period Read-write Original Kernel Scratch 2.1.74 1995-2001 Read-only Linux-NTFS Kernel Scratch 2.5.11 2002-2024 Read-only Captive FUSE ntfs.sys 2003-2006 Read-write NTFS-3G FUSE Linux-NTFS 3.18 2006- Read-write NTFS3 Kernel Paragon 5.15 2021- Read-write NTFS Plus Kernel Linux-NTFS 7.1 2026- Rea",
+      "date": null
     }
   ]
 }

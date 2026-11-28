@@ -4,17 +4,20 @@
     {
       "link": "https://anuganti.com/articles/delegated-authority-perimeter-nobody-owns/",
       "title": "We Gave AI Agents the Keys Before Building the Locks",
-      "description": "AI infrastructure excels at optimizing inference, reusing context and executing actions. But as agents take on real enterprise access and money, one critical capability remains missing: delegated authority that holds from intent to commit."
+      "description": "AI infrastructure excels at optimizing inference, reusing context and executing actions. But as agents take on real enterprise access and money, one critical capability remains missing: delegated authority that holds from intent to commit.",
+      "date": null
     },
     {
       "link": "https://anuganti.com/articles/personal-and-edge-ai-needs-consistency-model/",
       "title": "Your Personal and Edge AI Needs a Consistency Model",
-      "description": "Once your phone, laptop, car and the cloud each hold agent state, each one is a replica. Databases learned to name the consistency each operation needs. Agents have not."
+      "description": "Once your phone, laptop, car and the cloud each hold agent state, each one is a replica. Databases learned to name the consistency each operation needs. Agents have not.",
+      "date": null
     },
     {
       "link": "https://anuganti.com/articles/ai-agent-needs-transaction-manager/",
       "title": "Your AI Agent Needs a Transaction Manager",
-      "description": "Agentic AI is beginning to rediscover the transaction manager, recovery system, security model and workload governor."
+      "description": "Agentic AI is beginning to rediscover the transaction manager, recovery system, security model and workload governor.",
+      "date": null
     }
   ]
 }

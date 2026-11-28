@@ -4,17 +4,20 @@
     {
       "link": "https://eran.sandler.co.il/post/2026-11-04-your-agent-doesnt-need-another-summary-it-needs-its-history/",
       "title": "Your Agent Doesn't Need Another Summary. It Needs Its History.",
-      "description": "One thing that bothers me about long-running AI agents is context compaction. When the context window fills up, most agent harnesses ask an LLM to summarize the conversation and continue from there. It works, but summaries lose details, and after a few rounds of summarizing summaries, things can drift quite a bit. The funny thing is that we already have the entire conversation stored on disk. Why"
+      "description": "One thing that bothers me about long-running AI agents is context compaction. When the context window fills up, most agent harnesses ask an LLM to summarize the conversation and continue from there. It works, but summaries lose details, and after a few rounds of summarizing summaries, things can drift quite a bit. The funny thing is that we already have the entire conversation stored on disk. Why",
+      "date": null
     },
     {
       "link": "https://eran.sandler.co.il/post/2026-10-27-i-just-wanted-to-read-markdown-in-my-terminal/",
       "title": "I Just Wanted to Read Markdown in My Terminal",
-      "description": "I’m in the terminal, reading some documentation, and I come across a Mermaid diagram. I want to quickly understand the flow, but instead I’m staring at a bunch of arrows, brackets, and text. The table below it stretches beyond the edge of the screen, and the image is just a filename. This happens quite a bit. I spend a lot of time in the terminal, and most of my Markdown files aren’t just text any"
+      "description": "I’m in the terminal, reading some documentation, and I come across a Mermaid diagram. I want to quickly understand the flow, but instead I’m staring at a bunch of arrows, brackets, and text. The table below it stretches beyond the edge of the screen, and the image is just a filename. This happens quite a bit. I spend a lot of time in the terminal, and most of my Markdown files aren’t just text any",
+      "date": null
     },
     {
       "link": "https://eran.sandler.co.il/post/2026-10-19-the-original-open-source-dream-and-what-ai-changes/",
       "title": "The Original Open Source Dream, and What AI Changes",
-      "description": "There’s an old story about Richard Stallman and a Xerox printer at MIT that I’ve been thinking about recently. The printer kept jamming, and nobody knew until they walked over to collect their printouts. Stallman had previously modified the software of another printer to notify users when there was a paper jam, and wanted to do something similar with the new one."
+      "description": "There’s an old story about Richard Stallman and a Xerox printer at MIT that I’ve been thinking about recently. The printer kept jamming, and nobody knew until they walked over to collect their printouts. Stallman had previously modified the software of another printer to notify users when there was a paper jam, and wanted to do something similar with the new one.",
+      "date": null
     }
   ]
 }

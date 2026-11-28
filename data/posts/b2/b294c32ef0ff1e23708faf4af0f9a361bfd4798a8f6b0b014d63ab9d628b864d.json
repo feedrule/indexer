@@ -4,17 +4,20 @@
     {
       "link": "https://br0x.org/drafts/2026-brain-broadcast/",
       "title": "Catch or Crash (iuSTDP part 3)",
-      "description": "TL;DR: Part 2 gave the owl a confidence governor: when timing is noisy, stop learning. But the owl still can’t tell a catch from a miss. For that it needs a reward signal — and that signal isn’t what you think. Dopamine doesn’t flood the brain. It barely makes it past the neighbors. If we’re building a spiking neural network that spans servers, the reward signal has to work the same way: local pro"
+      "description": "TL;DR: Part 2 gave the owl a confidence governor: when timing is noisy, stop learning. But the owl still can’t tell a catch from a miss. For that it needs a reward signal — and that signal isn’t what you think. Dopamine doesn’t flood the brain. It barely makes it past the neighbors. If we’re building a spiking neural network that spans servers, the reward signal has to work the same way: local pro",
+      "date": null
     },
     {
       "link": "https://br0x.org/drafts/2026-catch-or-crash/",
       "title": "Catch or Crash (iuSTDP part 3)",
-      "description": "TL;DR: Part 2 gave the owl a plasticity governor: when timing is noisy, stop learning. But timing alone can’t tell a catch from a miss. The missing piece is reward—and in biology reward isn’t a global broadcast. Dopamine is fast because it’s local. If we’re going to build a spiking neural network that spans servers, reward has to behave the same way: local propagation, spatial decay, and a scope t"
+      "description": "TL;DR: Part 2 gave the owl a plasticity governor: when timing is noisy, stop learning. But timing alone can’t tell a catch from a miss. The missing piece is reward—and in biology reward isn’t a global broadcast. Dopamine is fast because it’s local. If we’re going to build a spiking neural network that spans servers, reward has to behave the same way: local propagation, spatial decay, and a scope t",
+      "date": null
     },
     {
       "link": "https://br0x.org/drafts/2026-deep-credit-relay/",
       "title": "Deep Credit Without Backprop: The Retrograde Relay",
-      "description": "TL;DR: Making reward local prevents interference, but it also breaks deep credit assignment: reward can’t reach early layers before eligibility traces evaporate. The fix doesn’t need backprop or a coordinator. It needs a relay. When a synapse consolidates, it emits a short-range retrograde “credit happened downstream” signal. Chain those signals and credit can walk backward through depth, one hop"
+      "description": "TL;DR: Making reward local prevents interference, but it also breaks deep credit assignment: reward can’t reach early layers before eligibility traces evaporate. The fix doesn’t need backprop or a coordinator. It needs a relay. When a synapse consolidates, it emits a short-range retrograde “credit happened downstream” signal. Chain those signals and credit can walk backward through depth, one hop",
+      "date": null
     }
   ]
 }

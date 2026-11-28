@@ -4,17 +4,20 @@
     {
       "link": "https://praveenperera.com/blog/coldcard-wave1-missing-153-search/",
       "title": "The Missing 153: What I Tried After Reconstructing Coldcard Wave 1",
-      "description": "A complete account of the derivation paths, Coldcard states, pad ranges, dice rolls, passphrases, 12-word seeds, and paper wallets tested while searching for the 153 unresolved Wave 1 addresses"
+      "description": "A complete account of the derivation paths, Coldcard states, pad ranges, dice rolls, passphrases, 12-word seeds, and paper wallets tested while searching for the 153 unresolved Wave 1 addresses",
+      "date": null
     },
     {
       "link": "https://praveenperera.com/blog/coldcard-mk3-weak-rng-wave1/",
       "title": "Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain",
-      "description": "A forensic reconstruction of the 1,082 BTC Coldcard Wave 1 drain, the weak seed path behind it, and the 153 addresses that remain unexplained"
+      "description": "A forensic reconstruction of the 1,082 BTC Coldcard Wave 1 drain, the weak seed path behind it, and the 153 addresses that remain unexplained",
+      "date": null
     },
     {
       "link": "https://praveenperera.com/blog/passkey-prf-bitcoin-wallet-backup/",
       "title": "A New Approach to Universal Bitcoin Wallet Backup with Passkeys and PRF",
-      "description": "A proposal for cross-platform Bitcoin wallet backup using WebAuthn PRF, no passwords, no server trust"
+      "description": "A proposal for cross-platform Bitcoin wallet backup using WebAuthn PRF, no passwords, no server trust",
+      "date": null
     }
   ]
 }

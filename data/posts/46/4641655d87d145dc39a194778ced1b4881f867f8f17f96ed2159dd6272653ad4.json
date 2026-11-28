@@ -4,17 +4,20 @@
     {
       "link": "https://jimmyislive.dev/posts/does-code-matter-anymore/",
       "title": "Does code matter anymore ?",
-      "description": "Code has always been considered as Craft. You could tell “well crafted” code from the alternative just by looking at it. It required time, patience, an opinionated outlook and effort, amongst other things. Developers took pride in their code. Just as an artisan would take pride in theirs. The tools and ecosystem around the craft of coding has evolved and improved making it easier for us to compreh"
+      "description": "Code has always been considered as Craft. You could tell “well crafted” code from the alternative just by looking at it. It required time, patience, an opinionated outlook and effort, amongst other things. Developers took pride in their code. Just as an artisan would take pride in theirs. The tools and ecosystem around the craft of coding has evolved and improved making it easier for us to compreh",
+      "date": null
     },
     {
       "link": "https://jimmyislive.dev/posts/session-visualization/",
       "title": "Session Visualization with Obsidian",
-      "description": "When working with coding agents such as Claude, Codex etc. we provide the prompts and context until we get to the final result. However a lot happens behind the scenes. The model constantly makes calls to tools, MCP servers, commands etc until it arrives at the output. By knowing what path it took, we can begin to understand its reasoning better. One way I have found useful is to use pre/post hook"
+      "description": "When working with coding agents such as Claude, Codex etc. we provide the prompts and context until we get to the final result. However a lot happens behind the scenes. The model constantly makes calls to tools, MCP servers, commands etc until it arrives at the output. By knowing what path it took, we can begin to understand its reasoning better. One way I have found useful is to use pre/post hook",
+      "date": null
     },
     {
       "link": "https://jimmyislive.dev/posts/ai-first-challenges/",
       "title": "Challenges in an AI First world",
-      "description": "There is an AI race going on. No one knows where or what the finish line is, but it’s a race nevertheless. Run or be left out. So everyone is running. Developers, designers. product managers, companies, countries. To be clear, there was always a race. A race to get products out first, to get features in time etc. But there were guardrails. There were rules. Now, they seem to be absent/de-prioritiz"
+      "description": "There is an AI race going on. No one knows where or what the finish line is, but it’s a race nevertheless. Run or be left out. So everyone is running. Developers, designers. product managers, companies, countries. To be clear, there was always a race. A race to get products out first, to get features in time etc. But there were guardrails. There were rules. Now, they seem to be absent/de-prioritiz",
+      "date": null
     }
   ]
 }

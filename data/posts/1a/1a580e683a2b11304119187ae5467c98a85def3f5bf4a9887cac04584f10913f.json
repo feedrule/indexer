@@ -4,17 +4,20 @@
     {
       "link": "https://kevinwebber.ca/blog/unholy-trinity-of-distributed-systems-hell/",
       "title": "The Unholy Trinity of Distributed Systems Hell",
-      "description": "Deterministic state evolution is not enough once your event broker provides at-least-once delivery. Idempotence, commutativity, and associativity are the three algebraic properties that protect state-transition functions against duplicates, reordering, and batched folds."
+      "description": "Deterministic state evolution is not enough once your event broker provides at-least-once delivery. Idempotence, commutativity, and associativity are the three algebraic properties that protect state-transition functions against duplicates, reordering, and batched folds.",
+      "date": null
     },
     {
       "link": "https://kevinwebber.ca/blog/mealy-machines-and-event-sourcing/",
       "title": "Mealy Machines, Moore Machines, and Why Event Sourcing Works",
-      "description": "Most event sourcing tutorials teach developers to store events instead of current state, and stop there. Let's go deeper. Automata theory explains why event sourcing works, what properties transitions need, and what breaks under replay."
+      "description": "Most event sourcing tutorials teach developers to store events instead of current state, and stop there. Let's go deeper. Automata theory explains why event sourcing works, what properties transitions need, and what breaks under replay.",
+      "date": null
     },
     {
       "link": "https://kevinwebber.ca/blog/onion-architecture-in-practice/",
       "title": "Onion Architecture in Practice",
-      "description": "AI-assisted development accelerates dependency coupling. Onion Architecture, enforced by a strong build system, makes the compiler a structural bodyguard that catches architectural violations at compile time."
+      "description": "AI-assisted development accelerates dependency coupling. Onion Architecture, enforced by a strong build system, makes the compiler a structural bodyguard that catches architectural violations at compile time.",
+      "date": null
     }
   ]
 }

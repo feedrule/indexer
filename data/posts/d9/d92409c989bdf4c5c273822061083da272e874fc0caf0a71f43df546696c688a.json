@@ -4,12 +4,14 @@
     {
       "link": "https://bryanthornbury.com/posts/fast-forced-alignment/",
       "title": "Fast Forced Alignment: Finding Where the Words Go",
-      "description": "A visual introduction to CTC forced alignment and the CUDA kernels that make it up to 1000× faster than the tested implementations."
+      "description": "A visual introduction to CTC forced alignment and the CUDA kernels that make it up to 1000× faster than the tested implementations.",
+      "date": null
     },
     {
       "link": "https://bryanthornbury.com/posts/intuitive-understanding-ai-diffusion-models/",
       "title": "An Intuitive Understanding of AI Diffusion Models",
-      "description": "An explanation of my personal intuitive understanding of diffusion models."
+      "description": "An explanation of my personal intuitive understanding of diffusion models.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.earth.li/~noodles/blog/2026/08/what-do-i-want-distro.html",
       "title": "What do I want in a Linux distribution?",
-      "description": "I’ve been a Debian user since 1999, and a Debian developer since 2000 . Given recent events it’s worth thinking about why that that is, and why I haven’t switched to something else in the past quarter century. My first Linux distro was Slackware , off a CD in a book, some time in the mid 90s. After starting university I ran SUSE for a while, then moved to RedHat (both back before they had commerci"
+      "description": "I’ve been a Debian user since 1999, and a Debian developer since 2000 . Given recent events it’s worth thinking about why that that is, and why I haven’t switched to something else in the past quarter century. My first Linux distro was Slackware , off a CD in a book, some time in the mid 90s. After starting university I ran SUSE for a while, then moved to RedHat (both back before they had commerci",
+      "date": null
     },
     {
       "link": "https://www.earth.li/~noodles/blog/2026/07/my-cpu-died.html",
       "title": "My CPU died",
-      "description": "I built my current house server back in 2019 . It had an upgrade from the original Ryzen 2700 to a 5700G in late 2021, but otherwise is still running with the original setup. Back in November it developed some erratic behaviour (initially manifesting as problems with the TPM, which is ironic as I’ve spent a bunch of time at my day job trying to improve TPM reliability), culminating in unreliable r"
+      "description": "I built my current house server back in 2019 . It had an upgrade from the original Ryzen 2700 to a 5700G in late 2021, but otherwise is still running with the original setup. Back in November it developed some erratic behaviour (initially manifesting as problems with the TPM, which is ironic as I’ve spent a bunch of time at my day job trying to improve TPM reliability), culminating in unreliable r",
+      "date": null
     },
     {
       "link": "https://www.earth.li/~noodles/blog/2026/06/onak-0.6.5.html",
       "title": "onak 0.6.5 released",
-      "description": "I had intended that the next release of onak, my OpenPGP keyserver, would be 0.7.0, and include OpenPGP v6 support ( RFC9580 ). However events conspired to make a 0.6.5 release a really good idea. Firstly, I threw an LLM at the code base and asked it to review it. This isn’t intended to be a post about LLMs, but there’s a considerable amount of pressure at work to be “AI native”. I’m very much an"
+      "description": "I had intended that the next release of onak, my OpenPGP keyserver, would be 0.7.0, and include OpenPGP v6 support ( RFC9580 ). However events conspired to make a 0.6.5 release a really good idea. Firstly, I threw an LLM at the code base and asked it to review it. This isn’t intended to be a post about LLMs, but there’s a considerable amount of pressure at work to be “AI native”. I’m very much an",
+      "date": null
     }
   ]
 }

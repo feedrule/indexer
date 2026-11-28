@@ -4,17 +4,20 @@
     {
       "link": "https://www.augusteo.com/blog/cathay-runbook/",
       "title": "Every Cathay Employee I Met Was Improvising, and So Is Your On-Call Rotation",
-      "description": "An 11-hour delay out of Surabaya turned into a full day of carrying my own case between eight people who had no shared process. That's a runbook problem, and it's the same one your production systems have."
+      "description": "An 11-hour delay out of Surabaya turned into a full day of carrying my own case between eight people who had no shared process. That's a runbook problem, and it's the same one your production systems have.",
+      "date": null
     },
     {
       "link": "https://www.augusteo.com/blog/preference-tuning-vision-models/",
       "title": "Preference tuning, from chatbots to 3D",
-      "description": "How preference optimization grew up in chatbots (RLHF, DPO, GRPO) and became the data engine behind Meta's SAM 3D. One human verdict, followed from an A/B click to a 3D-shape judgment."
+      "description": "How preference optimization grew up in chatbots (RLHF, DPO, GRPO) and became the data engine behind Meta's SAM 3D. One human verdict, followed from an A/B click to a 3D-shape judgment.",
+      "date": null
     },
     {
       "link": "https://www.augusteo.com/blog/split-claude-code-codex-work-personal/",
       "title": "Claude Code and Codex: Work and Personal, One Keystroke Apart",
-      "description": "How I run Claude Code and Codex against two backends at once (company Bedrock for work, my own subscription for personal) with isolated config homes and a few shell aliases."
+      "description": "How I run Claude Code and Codex against two backends at once (company Bedrock for work, my own subscription for personal) with isolated config homes and a few shell aliases.",
+      "date": null
     }
   ]
 }

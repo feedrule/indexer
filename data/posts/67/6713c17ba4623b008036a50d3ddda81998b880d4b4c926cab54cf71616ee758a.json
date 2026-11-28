@@ -4,17 +4,20 @@
     {
       "link": "https://www.albertyw.com/note/timezone-boundaries",
       "title": "Timezone Boundaries Mapped",
-      "description": "The IANA timezone database contains over 400 timezone entries mostly named as “ <continent>/<city> ”. They are meticulously cataloged to group regions of the world not only by UTC offset but also by the presence and timing of Daylight Savings as well as current and historical timezone policy changes. The github.com/albertyw/localtimezone repository maps latitude/longitude data to IANA timezone nam"
+      "description": "The IANA timezone database contains over 400 timezone entries mostly named as “ <continent>/<city> ”. They are meticulously cataloged to group regions of the world not only by UTC offset but also by the presence and timing of Daylight Savings as well as current and historical timezone policy changes. The github.com/albertyw/localtimezone repository maps latitude/longitude data to IANA timezone nam",
+      "date": null
     },
     {
       "link": "https://www.albertyw.com/note/wdio-firefox-vs-chrome",
       "title": "Comparing WebdriverIO Firefox vs Chrome",
-      "description": "Chrome recently started releasing arm64 linux builds which meant that my ubuntu-on-m1-mac can run webdriverio (wdio) builds on both firefox and chrome (it was previously stuck doing only firefox builds). I therefore compared build speed of codemancer on firefox versus chrome. wdio.conf.ts Configuration Firefox: capabilities : [{ maxInstances : 5 , browserName : 'firefox' , 'moz:firefoxOptions' : {"
+      "description": "Chrome recently started releasing arm64 linux builds which meant that my ubuntu-on-m1-mac can run webdriverio (wdio) builds on both firefox and chrome (it was previously stuck doing only firefox builds). I therefore compared build speed of codemancer on firefox versus chrome. wdio.conf.ts Configuration Firefox: capabilities : [{ maxInstances : 5 , browserName : 'firefox' , 'moz:firefoxOptions' : {",
+      "date": null
     },
     {
       "link": "https://www.albertyw.com/note/linux-memory-metrics",
       "title": "Interpreting Linux Memory Metrics",
-      "description": "note Linux memory accounting is full of metrics that look similar but measure very different things. This post is a short tour of the most useful ones and where they come from. How Linux Models Memory Linux gives every process a private virtual address space. Pages in that space may or may not be backed by physical RAM at any given moment - the kernel pages them in on demand and evicts them under"
+      "description": "note Linux memory accounting is full of metrics that look similar but measure very different things. This post is a short tour of the most useful ones and where they come from. How Linux Models Memory Linux gives every process a private virtual address space. Pages in that space may or may not be backed by physical RAM at any given moment - the kernel pages them in on demand and evicts them under",
+      "date": null
     }
   ]
 }

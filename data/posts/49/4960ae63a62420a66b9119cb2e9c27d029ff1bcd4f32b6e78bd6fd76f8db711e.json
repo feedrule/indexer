@@ -4,17 +4,20 @@
     {
       "link": "https://oussama-mater.tech/laravel-queue-gotchas/",
       "title": "A Series of Unfortunate Jobs",
-      "description": "Laravel queues are great out of the box, until they bite. Let me show you few gotchas I learned the hard way."
+      "description": "Laravel queues are great out of the box, until they bite. Let me show you few gotchas I learned the hard way.",
+      "date": null
     },
     {
       "link": "https://oussama-mater.tech/laravel-boost/",
       "title": "Boosting Laravel Boost",
-      "description": "In the era of AI, LLMs are undeniably part of our workflow. Let's make them suck less with Laravel Boost."
+      "description": "In the era of AI, LLMs are undeniably part of our workflow. Let's make them suck less with Laravel Boost.",
+      "date": null
     },
     {
       "link": "https://oussama-mater.tech/laravel-custom-query-builders/",
       "title": "Laravel Custom Query Builders Over Scopes",
-      "description": "Laravel scopes make queries much more readable, but they come with a lot of magic. Custom Query Builders fix this issue, let me show you how to use them."
+      "description": "Laravel scopes make queries much more readable, but they come with a lot of magic. Custom Query Builders fix this issue, let me show you how to use them.",
+      "date": null
     }
   ]
 }

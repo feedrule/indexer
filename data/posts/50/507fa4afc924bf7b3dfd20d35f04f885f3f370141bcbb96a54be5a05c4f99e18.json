@@ -4,7 +4,8 @@
     {
       "link": "https://brunopaz.dev/blog/undefined/",
       "title": "How do I wire Golang applications",
-      "description": "One of the first things you notice when coming to Go from a language like Java or PHP is the absence of a dependency injection framework. There is no Spring IoC container, no Symfony service container, etc. Go core philosophy favors simplicity and explicitness, over magic and hidden behavior and Dependency Injection is no exception. It might be seen as a limitation at first. No one likes writing b"
+      "description": "One of the first things you notice when coming to Go from a language like Java or PHP is the absence of a dependency injection framework. There is no Spring IoC container, no Symfony service container, etc. Go core philosophy favors simplicity and explicitness, over magic and hidden behavior and Dependency Injection is no exception. It might be seen as a limitation at first. No one likes writing b",
+      "date": null
     }
   ]
 }

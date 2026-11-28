@@ -4,17 +4,20 @@
     {
       "link": "https://jms55.github.io/posts/2026-09-18-solari-bevy-0-20/",
       "title": "Realtime Raytracing in Bevy 0.20 (Solari)",
-      "description": "Introduction Bevy 0.20 is going to release soon, so it's time to talk about all the improvements I've been working on for Solari, Bevy's realtime pathtracer. Whereas last cycle was mostly incremental improvements, this cycle was the complete opposite. Solari 0.20 features nothing less than a complete rewrite of the renderer! Lots to cover, so let's get started! Zero Day rendered in realtime via Be"
+      "description": "Introduction Bevy 0.20 is going to release soon, so it's time to talk about all the improvements I've been working on for Solari, Bevy's realtime pathtracer. Whereas last cycle was mostly incremental improvements, this cycle was the complete opposite. Solari 0.20 features nothing less than a complete rewrite of the renderer! Lots to cover, so let's get started! Zero Day rendered in realtime via Be",
+      "date": null
     },
     {
       "link": "https://jms55.github.io/posts/2026-08-29-bevy-sixth-birthday/",
       "title": "Bevy's Sixth Birthday - Lighting and Libraries",
-      "description": "Written in response to Bevy's Sixth Birthday . Introduction It's the sixth birthday of Bevy, which now makes it 4 years in total that I've been contributing! It's been a pretty packed year, so unlike past years, for this blog post I'm only going to cover what I've personally been working on this year. A Year in Review Solari - Success! 4 years into Bevy, and I'm still heavily focused on 3D renderi"
+      "description": "Written in response to Bevy's Sixth Birthday . Introduction It's the sixth birthday of Bevy, which now makes it 4 years in total that I've been contributing! It's been a pretty packed year, so unlike past years, for this blog post I'm only going to cover what I've personally been working on this year. A Year in Review Solari - Success! 4 years into Bevy, and I'm still heavily focused on 3D renderi",
+      "date": null
     },
     {
       "link": "https://jms55.github.io/posts/2026-04-12-solari-bevy-0-19/",
       "title": "Realtime Raytracing in Bevy 0.19 (Solari)",
-      "description": "Introduction Welcome back to the third installment of my series on the development of Solari, Bevy's realtime pathtraced renderer! Bevy 0.19 is fast approaching, so let's talk about what I've been working on. Compared to 0.18, this cycle was lighter on big features. Most of my time went into polishing existing aspects of the renderer, rather than writing new techniques. I spent a lot of time fixin"
+      "description": "Introduction Welcome back to the third installment of my series on the development of Solari, Bevy's realtime pathtraced renderer! Bevy 0.19 is fast approaching, so let's talk about what I've been working on. Compared to 0.18, this cycle was lighter on big features. Most of my time went into polishing existing aspects of the renderer, rather than writing new techniques. I spent a lot of time fixin",
+      "date": null
     }
   ]
 }

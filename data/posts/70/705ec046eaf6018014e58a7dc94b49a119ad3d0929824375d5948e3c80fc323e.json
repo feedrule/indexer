@@ -4,17 +4,20 @@
     {
       "link": "https://techhut.tv/ultimate-home-server-part-1-proxmox-zfs-samba",
       "title": "Ultimate Home Server Part 1: Proxmox, ZFS Pools, and Samba Shares",
-      "description": "Build the foundation of a Proxmox home server: install Proxmox VE, create mirrored and RAIDZ ZFS pools, set up an Ubuntu LXC with storage mount points, and share it across your network with Samba."
+      "description": "Build the foundation of a Proxmox home server: install Proxmox VE, create mirrored and RAIDZ ZFS pools, set up an Ubuntu LXC with storage mount points, and share it across your network with Samba.",
+      "date": null
     },
     {
       "link": "https://techhut.tv/ultimate-home-server-part-2-jellyfin",
       "title": "Ultimate Home Server Part 2: A Jellyfin Media Server VM on Proxmox",
-      "description": "Create an Ubuntu Server VM on Proxmox, pass through Intel Quick Sync, mount the Samba data share, and run Jellyfin with Docker Compose and hardware transcoding."
+      "description": "Create an Ubuntu Server VM on Proxmox, pass through Intel Quick Sync, mount the Samba data share, and run Jellyfin with Docker Compose and hardware transcoding.",
+      "date": null
     },
     {
       "link": "https://techhut.tv/ultimate-home-server-part-3-arr-stack",
       "title": "Ultimate Home Server Part 3: The Automated *arr Stack",
-      "description": "Deploy my Docker Compose media automation stack with Gluetun, qBittorrent, NZBGet, Prowlarr, Sonarr, Radarr, Bazarr, and Seerr, all wired together on static IPs and feeding Jellyfin."
+      "description": "Deploy my Docker Compose media automation stack with Gluetun, qBittorrent, NZBGet, Prowlarr, Sonarr, Radarr, Bazarr, and Seerr, all wired together on static IPs and feeding Jellyfin.",
+      "date": null
     }
   ]
 }

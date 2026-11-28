@@ -4,17 +4,20 @@
     {
       "link": "https://www.bretfisher.com/blog/silent-rebuilds",
       "title": "Silent Rebuilds: Keeping Container CVE Counts Near-Zero",
-      "description": "Starting with a slim/distroless container image is necessary today, but it isn't enough. You need daily automation to trigger rebuilds for dependencies and base image digest updates. “All that work to slim your image down and using secure base images means little for security if you’re not also auto-rebuilding it for every upstream change, including detecting upstream base image digest updates.” T"
+      "description": "Starting with a slim/distroless container image is necessary today, but it isn't enough. You need daily automation to trigger rebuilds for dependencies and base image digest updates. “All that work to slim your image down and using secure base images means little for security if you’re not also auto-rebuilding it for every upstream change, including detecting upstream base image digest updates.” T",
+      "date": null
     },
     {
       "link": "https://www.bretfisher.com/blog/shell",
       "title": "Sweet Shell 2026: With AI Agents, Oh-My-Zsh, Neovim, Starship, and Demo Mode. For macOS, Linux, and Windows",
-      "description": "My terminal emulator and shell setup for macOS, Linux, and Windows. AKA \"Ultimate Terminal Setup\" for me. I've kept this updated since 2017 , and everything has improved in the shell game! Keyboard fans are better off today than ever before. New terminals and AI Agents in 2024-2026 Ghostty 👻 is great, made by the co-founder of HashiCorp , Mitchell Hashimoto. It's pretty popular for being a young p"
+      "description": "My terminal emulator and shell setup for macOS, Linux, and Windows. AKA \"Ultimate Terminal Setup\" for me. I've kept this updated since 2017 , and everything has improved in the shell game! Keyboard fans are better off today than ever before. New terminals and AI Agents in 2024-2026 Ghostty 👻 is great, made by the co-founder of HashiCorp , Mitchell Hashimoto. It's pretty popular for being a young p",
+      "date": null
     },
     {
       "link": "https://www.bretfisher.com/blog/docker-ai-model-runner-and-mcp-toolkit",
       "title": "Docker AI, Model Runner, and MCP Toolkit",
-      "description": "Docker now has three major AI features. I'll explain what they are and how to use them together. I've been spending an increasing amount of time using Docker's various AI features lately. Here's the easy guide to each and how to get started: Note: these tools are changing fast, and I expect them to get better over time. This is written in May 2025, and if I come back to update it, I'll indicate ch"
+      "description": "Docker now has three major AI features. I'll explain what they are and how to use them together. I've been spending an increasing amount of time using Docker's various AI features lately. Here's the easy guide to each and how to get started: Note: these tools are changing fast, and I expect them to get better over time. This is written in May 2025, and if I come back to update it, I'll indicate ch",
+      "date": null
     }
   ]
 }

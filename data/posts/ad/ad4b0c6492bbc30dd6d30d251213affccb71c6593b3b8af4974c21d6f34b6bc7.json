@@ -4,17 +4,20 @@
     {
       "link": "https://www.philschmid.de/google-deepmind-roundup-nov-2026",
       "title": "Gemini 4 Carbon, Hydrogen, Decisions API, self-hosted agent sandboxes and more",
-      "description": "Last week we shipped 7 launches across models, agent infrastructure, benchmarks, and science: two Gemini 4 models, our first Decision Model and API, self-hosted agent sandboxes, a new visual knowledge benchmark, and new robotics and genomics models."
+      "description": "Last week we shipped 7 launches across models, agent infrastructure, benchmarks, and science: two Gemini 4 models, our first Decision Model and API, self-hosted agent sandboxes, a new visual knowledge benchmark, and new robotics and genomics models.",
+      "date": null
     },
     {
       "link": "https://www.philschmid.de/code-mode",
       "title": "Why Agents Are Soon Only Going to Have 1 Tool",
-      "description": "Instead of triggering tools one at a time across turns, agents are collapsing their tool catalog into a single exec(code) tool—chaining, filtering, and awaiting actions inside an isolated sandbox."
+      "description": "Instead of triggering tools one at a time across turns, agents are collapsing their tool catalog into a single exec(code) tool—chaining, filtering, and awaiting actions inside an isolated sandbox.",
+      "date": null
     },
     {
       "link": "https://www.philschmid.de/managed-agents-credentials",
       "title": "Credentials API for Gemini Managed Agents",
-      "description": "Store secrets once with the Credentials API, reference them by ID, and let the egress proxy inject them on the wire so they never enter the agent sandbox."
+      "description": "Store secrets once with the Credentials API, reference them by ID, and let the egress proxy inject them on the wire so they never enter the agent sandbox.",
+      "date": null
     }
   ]
 }

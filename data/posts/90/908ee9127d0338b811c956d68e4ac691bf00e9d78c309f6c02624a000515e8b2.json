@@ -4,17 +4,20 @@
     {
       "link": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
       "title": "Playing ATARI music on Amiga for free!",
-      "description": "How to emulate an Atari YM2149 audio chip on Amiga at litteraly 0 CPU cost, by Arnaud Carré - Audience This post is for anyone who loves the technical and historical aspects of chiptune music, as well as enthusiasts of the Amiga PAULA and Atari YM2149 audio chips. The Context In my Cycle-Op demo, I showcased a classic sin-dots effect that rendered 6405 dots at 50 FPS on the..."
+      "description": "How to emulate an Atari YM2149 audio chip on Amiga at litteraly 0 CPU cost, by Arnaud Carré - Audience This post is for anyone who loves the technical and historical aspects of chiptune music, as well as enthusiasts of the Amiga PAULA and Atari YM2149 audio chips. The Context In my Cycle-Op demo, I showcased a classic sin-dots effect that rendered 6405 dots at 50 FPS on the...",
+      "date": null
     },
     {
       "link": "https://arnaud-carre.github.io/2024-10-06-vpternlogd/",
       "title": "AVX Bitwise ternary logic instruction busted!",
-      "description": "How a modern AVX instruction shares a similar design with a 1985 blitter chip, by Arnaud Carré - Audience This post is for any enthusiastic SIMD CPU programmer curious about weird AVX instructions. But also for any veteran Amiga programmer who never quite figured out how to calculate that cursed “minterm” blitter value! AVX-512 Bitwise ternary logic instruction The idea for this post came while wa"
+      "description": "How a modern AVX instruction shares a similar design with a 1985 blitter chip, by Arnaud Carré - Audience This post is for any enthusiastic SIMD CPU programmer curious about weird AVX instructions. But also for any veteran Amiga programmer who never quite figured out how to calculate that cursed “minterm” blitter value! AVX-512 Bitwise ternary logic instruction The idea for this post came while wa",
+      "date": null
     },
     {
       "link": "https://arnaud-carre.github.io/2024-09-08-4ktribute/",
       "title": "Graphics Tricks from Boomers",
-      "description": "Technical details about a recent 4096bytes Atari-STE intro, by Arnaud Carré - Recently I released a 4096 bytes Atari intro, featuring some bandwidth impossible sprites drawing in fullscreen. I hope technical inner details could please any graphics enthusiasts, and not only boomers :) Audience This post is made for anyone interested in oldskool graphics, but also for all retro computers technical d"
+      "description": "Technical details about a recent 4096bytes Atari-STE intro, by Arnaud Carré - Recently I released a 4096 bytes Atari intro, featuring some bandwidth impossible sprites drawing in fullscreen. I hope technical inner details could please any graphics enthusiasts, and not only boomers :) Audience This post is made for anyone interested in oldskool graphics, but also for all retro computers technical d",
+      "date": null
     }
   ]
 }

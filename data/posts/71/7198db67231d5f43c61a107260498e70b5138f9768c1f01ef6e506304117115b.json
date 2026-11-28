@@ -4,17 +4,20 @@
     {
       "link": "https://martnquesada.github.io/blog/2026/01/cascading-pipelines-with-dspy-are-kind-of-good/",
       "title": "Cascading pipelines with DSPy are kind of good",
-      "description": "The global machine learning race has given us many great things: stupidly high GPU and RAM prices, a great pretext to fire workers while companies pretend that we are not in a global recession (AI is making us so productive! Also please do NOT look at my last quarter), and some truly good models. Although we are most likely not getting AGI, as seemingly every major AI company is converging on crea"
+      "description": "The global machine learning race has given us many great things: stupidly high GPU and RAM prices, a great pretext to fire workers while companies pretend that we are not in a global recession (AI is making us so productive! Also please do NOT look at my last quarter), and some truly good models. Although we are most likely not getting AGI, as seemingly every major AI company is converging on crea",
+      "date": null
     },
     {
       "link": "https://martnquesada.github.io/blog/2024/10/an-unhelpful-summary-of-pycones-2024/",
       "title": "An unhelpful summary of PyConES 2024",
-      "description": "Last week I went to Vigo to attend the Spanish PyCon, PyConES. I traveled there fully sponsored by Datamaran, the company that I work for. I attended as a speaker, since a colleague and I prepared a talk proposal that got accepted (something something ESG with clustering and LLM reformulation). Day 1 🌦 The first day had only two turns for workshop tracks. I attended: Overcoming the One Billion Row"
+      "description": "Last week I went to Vigo to attend the Spanish PyCon, PyConES. I traveled there fully sponsored by Datamaran, the company that I work for. I attended as a speaker, since a colleague and I prepared a talk proposal that got accepted (something something ESG with clustering and LLM reformulation). Day 1 🌦 The first day had only two turns for workshop tracks. I attended: Overcoming the One Billion Row",
+      "date": null
     },
     {
       "link": "https://martnquesada.github.io/blog/2023/05/taking-a-look-at-some-tokenizers/",
       "title": "Taking a look at (some) tokenizers",
-      "description": "Recently I have been working on writing a tokenizer from scratch in Rust. In the process, I wanted to really understand the implementation of some commonly used tokenizers. Fun, I know. Moses Tokenizer Webpagehttp://www2.statmt.org/ and the implementation that I’ll talk about tokenizer.perl. If you already know Moses, you know. Silent nod. For everyone else, Moses is an NLP framework written in Pe"
+      "description": "Recently I have been working on writing a tokenizer from scratch in Rust. In the process, I wanted to really understand the implementation of some commonly used tokenizers. Fun, I know. Moses Tokenizer Webpagehttp://www2.statmt.org/ and the implementation that I’ll talk about tokenizer.perl. If you already know Moses, you know. Silent nod. For everyone else, Moses is an NLP framework written in Pe",
+      "date": null
     }
   ]
 }

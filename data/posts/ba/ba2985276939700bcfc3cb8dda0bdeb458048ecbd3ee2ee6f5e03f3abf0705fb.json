@@ -4,17 +4,20 @@
     {
       "link": "https://ivanursul.com/problems-building-solar-monitoring-solo",
       "title": "So You Want to Build Your Own Solar Inverter Monitoring? Here Are the Problems You’ll Hit",
-      "description": "Every week someone tells me they’re about to wire an ESP32 to their inverter and build their own monitoring. A few registers, a Telegram bot, a dashboard. A weekend project. I thought the same thing. I started Svitgrid because the apps that came with my own inverter were painful, and I wrote about how it started earlier this year. Since then it has grown from one house to about 150, and from one i"
+      "description": "Every week someone tells me they’re about to wire an ESP32 to their inverter and build their own monitoring. A few registers, a Telegram bot, a dashboard. A weekend project. I thought the same thing. I started Svitgrid because the apps that came with my own inverter were painful, and I wrote about how it started earlier this year. Since then it has grown from one house to about 150, and from one i",
+      "date": null
     },
     {
       "link": "https://ivanursul.com/building-svitgrid-solar-monitoring",
       "title": "How I Built Monitoring for My Home Solar System — And Why You Might Need It Too",
-      "description": "Svitgrid dashboard: real-time power flow from PV to battery, home, and grid"
+      "description": "Svitgrid dashboard: real-time power flow from PV to battery, home, and grid",
+      "date": null
     },
     {
       "link": "https://ivanursul.com/crafting-custom-pcb-for-raspberry-pi-zero-2w",
       "title": "Advancing Fall Detection: Crafting a Custom PCB for the Raspberry Pi Zero 2W",
-      "description": "Your browser does not support the audio element. ** Dive into an AI-generated podcast where two virtual hosts discuss the key findings and implications of the featured article and its groundbreaking research.\" --> Schematics of the PCB module In my previous post, Developing a Fall Detection Device with Raspberry Pi , I delved into the initial steps of building a fall detection system using the Ras"
+      "description": "Your browser does not support the audio element. ** Dive into an AI-generated podcast where two virtual hosts discuss the key findings and implications of the featured article and its groundbreaking research.\" --> Schematics of the PCB module In my previous post, Developing a Fall Detection Device with Raspberry Pi , I delved into the initial steps of building a fall detection system using the Ras",
+      "date": null
     }
   ]
 }

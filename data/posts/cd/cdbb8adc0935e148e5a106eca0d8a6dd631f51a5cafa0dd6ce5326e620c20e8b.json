@@ -4,17 +4,20 @@
     {
       "link": "https://withblue.ink/2026/10/workload-identity-tailscale-tsiam",
       "title": "Give your workloads an identity too, with Tailscale",
-      "description": "tsiam is another (small) nail in the coffin of static credentials"
+      "description": "tsiam is another (small) nail in the coffin of static credentials",
+      "date": null
     },
     {
       "link": "https://withblue.ink/2026/10/francis-stable",
       "title": "Francis is now stable and already running on 10,000+ installs",
-      "description": "A distributed actor framework for Go that scales down as well as up"
+      "description": "A distributed actor framework for Go that scales down as well as up",
+      "date": null
     },
     {
       "link": "https://withblue.ink/2026/07/user-vs-app-tokens-oauth2-explained",
       "title": "Not all OAuth2 tokens are made equal: user vs app tokens explained",
-      "description": "Understanding identity principals"
+      "description": "Understanding identity principals",
+      "date": null
     }
   ]
 }

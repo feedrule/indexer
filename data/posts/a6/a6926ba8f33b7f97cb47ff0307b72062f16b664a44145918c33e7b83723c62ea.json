@@ -4,17 +4,20 @@
     {
       "link": "https://chsxf.dev/2026/09/14/19-writing-swift-macros.html",
       "title": "Writing Swift Macros",
-      "description": "Having the ability to generate code when needed by manipulating attribute-like elements in your code is almost too good to be true. However, as you'll see in this post, Swift macros are not all sunshine and roses."
+      "description": "Having the ability to generate code when needed by manipulating attribute-like elements in your code is almost too good to be true. However, as you'll see in this post, Swift macros are not all sunshine and roses.",
+      "date": null
     },
     {
       "link": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
       "title": "Google Search on Firefox Without AI",
-      "description": "Now that Google Search includes AI summaries in the EU, I've seen many people using adblockers to remove the AI slop. In my humble opinion, this is not a good enough solution and does not disable the feature and the associated resource consumption. In this post, I will explain how to set up Firefox to continue using Google without any AI summary."
+      "description": "Now that Google Search includes AI summaries in the EU, I've seen many people using adblockers to remove the AI slop. In my humble opinion, this is not a good enough solution and does not disable the feature and the associated resource consumption. In this post, I will explain how to set up Firefox to continue using Google without any AI summary.",
+      "date": null
     },
     {
       "link": "https://chsxf.dev/2026/04/04/17-building-vgtunes.html",
       "title": "Building VGTunes",
-      "description": "At the end of 2024, I was stuck in the mud with Swift's String Concurrency. After some time, I finally realized I needed a break from all that for a while. That \"while\" lasted almost 6 months and resulted in VGTunes. In this post, I will talk about the creation of my own video game music database website."
+      "description": "At the end of 2024, I was stuck in the mud with Swift's String Concurrency. After some time, I finally realized I needed a break from all that for a while. That \"while\" lasted almost 6 months and resulted in VGTunes. In this post, I will talk about the creation of my own video game music database website.",
+      "date": null
     }
   ]
 }

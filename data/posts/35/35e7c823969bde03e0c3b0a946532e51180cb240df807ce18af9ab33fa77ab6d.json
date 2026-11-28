@@ -4,17 +4,20 @@
     {
       "link": "https://blog.troid.tech/a-workaround-for-framework-agl-not-found-for-qt-on-macos/",
       "title": "A workaround for \"framework 'AGL' not found\" for Qt on macOS",
-      "description": "Non-commercial prebuilt Qt versions below 6.9 currently fail to link on macOS Tahoe (macOS 26). Two quick specific examples are Qt 6.5.3 and 6.8.3, both offered in the maintenance tool at the time of writing. Applications compile fine, but the linker dies: ld: framework 'AGL' not found AGL is Apple's old OpenGL-on-Carbon shim. It has been deprecated for years and was finally removed from the macOS"
+      "description": "Non-commercial prebuilt Qt versions below 6.9 currently fail to link on macOS Tahoe (macOS 26). Two quick specific examples are Qt 6.5.3 and 6.8.3, both offered in the maintenance tool at the time of writing. Applications compile fine, but the linker dies: ld: framework 'AGL' not found AGL is Apple's old OpenGL-on-Carbon shim. It has been deprecated for years and was finally removed from the macOS",
+      "date": null
     },
     {
       "link": "https://blog.troid.tech/giving-a-docker-container-a-static-ip-on-outbound-connections/",
       "title": "Static IPv4 address on outbound connections from a Cloud Run Job (using Tailscale)",
-      "description": "The full example for this writeup is at github.com/OmniTroid/tailscale-docker if you want to look at that first. I ran into a bit of an engineering challenge recently. A scheduled job had to access an API that is behind a strict firewall that only permits a whitelist of IPv4 addresses. Our current monitoring and infrastructure is built around Google Cloud Run for scheduled tasks. Now, the ideal so"
+      "description": "The full example for this writeup is at github.com/OmniTroid/tailscale-docker if you want to look at that first. I ran into a bit of an engineering challenge recently. A scheduled job had to access an API that is behind a strict firewall that only permits a whitelist of IPv4 addresses. Our current monitoring and infrastructure is built around Google Cloud Run for scheduled tasks. Now, the ideal so",
+      "date": null
     },
     {
       "link": "https://blog.troid.tech/flash-as-a-security-threat-was-kind-of-a-meme/",
       "title": "\"Flash as a security threat was kind of a meme\"",
-      "description": "Originally published on Newgrounds Forums on 2017-08-10. At 7/26/17 01:19 PM, TomFulp wrote: Flash as a security threat was kind of a meme. Yes, Flash had vulnerabilities that needed to be patched and it was a bummer that it was a closed system. However your OS and your web browser also have vulnerabilities that get patched, as does all software. It became a popular thing to complain about but the"
+      "description": "Originally published on Newgrounds Forums on 2017-08-10. At 7/26/17 01:19 PM, TomFulp wrote: Flash as a security threat was kind of a meme. Yes, Flash had vulnerabilities that needed to be patched and it was a bummer that it was a closed system. However your OS and your web browser also have vulnerabilities that get patched, as does all software. It became a popular thing to complain about but the",
+      "date": null
     }
   ]
 }

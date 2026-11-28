@@ -4,17 +4,20 @@
     {
       "link": "https://blog.jooq.org/simplifying-anti-join-with-jooq-syntax/",
       "title": "Simplifying ANTI JOIN with jOOQ Syntax",
-      "description": "ANTI JOIN is a very useful operator from relational algebra. Regrettably, only few dialects support it in terms of SQL syntax, as we’ve written earlier. In jOOQ, you can write it as follows: If your RDBMS supports this natively (e.g. ClickHouse, Databricks), then it is rendered as such. Otherwise, jOOQ will translate this to: But … Continue reading Simplifying ANTI JOIN with jOOQ Syntax →"
+      "description": "ANTI JOIN is a very useful operator from relational algebra. Regrettably, only few dialects support it in terms of SQL syntax, as we’ve written earlier. In jOOQ, you can write it as follows: If your RDBMS supports this natively (e.g. ClickHouse, Databricks), then it is rendered as such. Otherwise, jOOQ will translate this to: But … Continue reading Simplifying ANTI JOIN with jOOQ Syntax →",
+      "date": null
     },
     {
       "link": "https://blog.jooq.org/why-join-using-can-lead-to-errors-in-sql/",
       "title": "Why JOIN USING Can Lead to Errors in SQL",
-      "description": "Some SQL operators are as esoteric as they’re powerful. One of the oldest operator that you’ve likely hardly ever used in real world applications is NATURAL JOIN which is the default in relational algebra. We’ve covered a funky use-case for NATURAL JOIN earlier on this blog. The main reason why it’s not very useful is … Continue reading Why JOIN USING Can Lead to Errors in SQL →"
+      "description": "Some SQL operators are as esoteric as they’re powerful. One of the oldest operator that you’ve likely hardly ever used in real world applications is NATURAL JOIN which is the default in relational algebra. We’ve covered a funky use-case for NATURAL JOIN earlier on this blog. The main reason why it’s not very useful is … Continue reading Why JOIN USING Can Lead to Errors in SQL →",
+      "date": null
     },
     {
       "link": "https://blog.jooq.org/managing-sensitive-data-in-jooq-3-21-logs/",
       "title": "Managing Sensitive Data in jOOQ 3.21+ Logs",
-      "description": "One of jOOQ’s most popular feature is the out-of-the-box debug logging experience. jOOQ developers find this feature very useful when developing their applications. Assuming you run a jOOQ query and configure your logger to print DEBUG log output: When this query is executed, your log output might contain something like this: Executing query : select … Continue reading Managing Sensitive Data in j"
+      "description": "One of jOOQ’s most popular feature is the out-of-the-box debug logging experience. jOOQ developers find this feature very useful when developing their applications. Assuming you run a jOOQ query and configure your logger to print DEBUG log output: When this query is executed, your log output might contain something like this: Executing query : select … Continue reading Managing Sensitive Data in j",
+      "date": null
     }
   ]
 }

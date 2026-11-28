@@ -4,17 +4,20 @@
     {
       "link": "http://alovak.com/2026/11/19/speaking-up-on-decisions-you-do-not-own/",
       "title": "Speaking up on decisions you don't own",
-      "description": "A few rules I try to follow when I disagree with a decision that is not mine to make. Being right about something doesn’t make it your job to drive it. Say it clearly once, bring new evidence if you get it, then let the owner decide. Raising a concern"
+      "description": "A few rules I try to follow when I disagree with a decision that is not mine to make. Being right about something doesn’t make it your job to drive it. Say it clearly once, bring new evidence if you get it, then let the owner decide. Raising a concern",
+      "date": null
     },
     {
       "link": "http://alovak.com/2024/08/27/mastering-iso-8583-message-networking-with-golang/",
       "title": "Mastering ISO 8583 Message Networking with Golang",
-      "description": "In the previous post, Mastering ISO 8583 Messages, we looked at how to create specifications in Go, set data to messages, and finally, how to get binary values from them. This post will explore how messages are sent and received by card network participants"
+      "description": "In the previous post, Mastering ISO 8583 Messages, we looked at how to create specifications in Go, set data to messages, and finally, how to get binary values from them. This post will explore how messages are sent and received by card network participants",
+      "date": null
     },
     {
       "link": "http://alovak.com/2024/08/15/mastering-iso-8583-messages-with-golang/",
       "title": "Mastering ISO 8583 messages with Golang",
-      "description": "As the author and maintainer of the moov-io/iso8583 package, who has built direct integrations and passed certifications with most card networks (Visa, Mastercard, Discover and Amex), I want to share my hands-on experience with other engineers. If you"
+      "description": "As the author and maintainer of the moov-io/iso8583 package, who has built direct integrations and passed certifications with most card networks (Visa, Mastercard, Discover and Amex), I want to share my hands-on experience with other engineers. If you",
+      "date": null
     }
   ]
 }

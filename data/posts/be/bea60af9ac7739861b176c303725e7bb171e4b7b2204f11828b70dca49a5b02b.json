@@ -4,17 +4,20 @@
     {
       "link": "https://yom.iaelu.net/2026/06/2026-06-26-some-personal-zig-projects/",
       "title": "Some Personal Zig Projects",
-      "description": "Table of contents Context zplocgi zformdata Context Since the end of 2025, I’m really interested in the Zig programing language . I’m coming from a C programing language background, more than 20 years of experience. And recurrently, I’ve come to code with the Web, HTML responses, in mind. I’ve done this with multiple programing languages, and since Zig has got a lot of my attention, and having don"
+      "description": "Table of contents Context zplocgi zformdata Context Since the end of 2025, I’m really interested in the Zig programing language . I’m coming from a C programing language background, more than 20 years of experience. And recurrently, I’ve come to code with the Web, HTML responses, in mind. I’ve done this with multiple programing languages, and since Zig has got a lot of my attention, and having don",
+      "date": null
     },
     {
       "link": "https://yom.iaelu.net/2025/11/2025-11-09-freebsd-containers/",
       "title": "FreeBSD Containers using Podman",
-      "description": "Table of Content Some contextal informations /etc/pf.conf and sysctls Testing configuration… Emerged problem from the PF+sysctl configuration Some contextual informations As everytime I’m trying myself on posting on this blog, I’ll take some time to try to put some context around my writings… Some of you may known, there has been some works for now over a few years on FreeBSD to try to give “Conta"
+      "description": "Table of Content Some contextal informations /etc/pf.conf and sysctls Testing configuration… Emerged problem from the PF+sysctl configuration Some contextual informations As everytime I’m trying myself on posting on this blog, I’ll take some time to try to put some context around my writings… Some of you may known, there has been some works for now over a few years on FreeBSD to try to give “Conta",
+      "date": null
     },
     {
       "link": "https://yom.iaelu.net/2024/12/gitlab-runner-bhyve-executor/",
       "title": "Gitlab Runner VM-Bhyve Executor",
-      "description": "Some contextual informations I’ve been using self-managed Gitlab both for work and home projects, and just as anyone would, I’ve learnt to use the Gitlab CI, installing the Gitlab Runner inside various OS, as a simple shell executor on FreeBSD, and also on Docker inside a Linux virtualized guest. I like both, because the shell executor can be a really quick interface on a development server used b"
+      "description": "Some contextual informations I’ve been using self-managed Gitlab both for work and home projects, and just as anyone would, I’ve learnt to use the Gitlab CI, installing the Gitlab Runner inside various OS, as a simple shell executor on FreeBSD, and also on Docker inside a Linux virtualized guest. I like both, because the shell executor can be a really quick interface on a development server used b",
+      "date": null
     }
   ]
 }

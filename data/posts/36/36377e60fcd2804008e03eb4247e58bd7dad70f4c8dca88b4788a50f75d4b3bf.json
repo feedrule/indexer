@@ -4,17 +4,20 @@
     {
       "link": "https://tsmith.bearblog.dev/image-storage/",
       "title": "Image Storage",
-      "description": "I am still able to use RemNote for image storage. Using nekoweb.org (500 MB of free storage), I can store images at 1000 x 750 (330 kb). I can store more than a 1000 images at that size. These images can be shared using the markdown: ![TEST](https://tommy.nekoweb.org/images/IMG_20260213_174635_HDRSmall.jpg?loading=false) This is: ![name of image](location of image?loading=false)"
+      "description": "I am still able to use RemNote for image storage. Using nekoweb.org (500 MB of free storage), I can store images at 1000 x 750 (330 kb). I can store more than a 1000 images at that size. These images can be shared using the markdown: ![TEST](https://tommy.nekoweb.org/images/IMG_20260213_174635_HDRSmall.jpg?loading=false) This is: ![name of image](location of image?loading=false)",
+      "date": null
     },
     {
       "link": "https://tsmith.bearblog.dev/i-am-not-my-thoughts/",
       "title": "I Am Not My Thoughts",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://tsmith.bearblog.dev/251209_typing_test/",
       "title": "251209_Typing_Test",
-      "description": "I have created a way to use the 10 key as a keyboard using AutoKey. This is like the way the old cell phones were set up. The difference is everything is two keys for each letter. AI was very useful in the Python program I'm using on Windows at work. The mapping is: 87, 88, 89 = a, b, c 97, 98, 99 = d, e, f 44, 45, 46 = g, h, i 54, 55, 56 = j, k, l 64, 65, 66 = m, n, o 11, 12, 13, 14 = p, q, r, s"
+      "description": "I have created a way to use the 10 key as a keyboard using AutoKey. This is like the way the old cell phones were set up. The difference is everything is two keys for each letter. AI was very useful in the Python program I'm using on Windows at work. The mapping is: 87, 88, 89 = a, b, c 97, 98, 99 = d, e, f 44, 45, 46 = g, h, i 54, 55, 56 = j, k, l 64, 65, 66 = m, n, o 11, 12, 13, 14 = p, q, r, s",
+      "date": null
     }
   ]
 }

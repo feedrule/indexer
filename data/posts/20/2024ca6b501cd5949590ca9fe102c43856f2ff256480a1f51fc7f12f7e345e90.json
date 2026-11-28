@@ -4,17 +4,20 @@
     {
       "link": "https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator/",
       "title": "Why Pendulum had to write the most cursed `+` operator in all of Python",
-      "description": "Pendulum is a popular Python library for working with datetimes. Until version 3.3, its + operator was unusual, even for a datetime library: when you added a timedelta to a Pendulum DateTime, it consulted the call stack to decide which answer to give you. What? And why? The hack itself is gone now, but the design behind it still has impact on your code."
+      "description": "Pendulum is a popular Python library for working with datetimes. Until version 3.3, its + operator was unusual, even for a datetime library: when you added a timedelta to a Pendulum DateTime, it consulted the call stack to decide which answer to give you. What? And why? The hack itself is gone now, but the design behind it still has impact on your code.",
+      "date": null
     },
     {
       "link": "https://dev.arie.bovenberg.net/blog/still-use-init-py/",
       "title": "`__init__.py` files are optional. Here’s why you should still use them",
-      "description": "If you’ve ever googled the question “Why do Python packages have empty __init__.py files?”, you could get the idea that Python packages wouldn’t work without them. This is a common misconception—they’ve been optional since Python 3.3! Why then, do most Python projects still have them?"
+      "description": "If you’ve ever googled the question “Why do Python packages have empty __init__.py files?”, you could get the idea that Python packages wouldn’t work without them. This is a common misconception—they’ve been optional since Python 3.3! Why then, do most Python projects still have them?",
+      "date": null
     },
     {
       "link": "https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/",
       "title": "Ten Python datetime pitfalls, and what libraries are (not) doing about it",
-      "description": "It’s no secret that the Python datetime library has its quirks. Not only are there probably more than you think; third-party libraries don’t address most of them! I created a new library to explore what a better datetime library could look like."
+      "description": "It’s no secret that the Python datetime library has its quirks. Not only are there probably more than you think; third-party libraries don’t address most of them! I created a new library to explore what a better datetime library could look like.",
+      "date": null
     }
   ]
 }

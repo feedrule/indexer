@@ -4,17 +4,20 @@
     {
       "link": "https://techbit.ca/2026/11/changing-the-linux-console-login-timeout/",
       "title": "Changing The Linux Console Login Timeout",
-      "description": "You have a Virtual Private Server (VPS) running on some cloud service. Doesn’t matter the provider. You can’t physically sit down at the system. You don’t have physical access. No worries. You have SSH, and if all else fails the cloud provider provides a virtual console session running in your web browser right? So what’s the problem?"
+      "description": "You have a Virtual Private Server (VPS) running on some cloud service. Doesn’t matter the provider. You can’t physically sit down at the system. You don’t have physical access. No worries. You have SSH, and if all else fails the cloud provider provides a virtual console session running in your web browser right? So what’s the problem?",
+      "date": null
     },
     {
       "link": "https://techbit.ca/2026/11/cloning-disks-and-resizing-lvm-partitions/",
       "title": "Cloning Disks and Resizing LVM Partitions",
-      "description": "Given the current ridiculous prices on all things computer, I’ve been shifting some things around internally to make better use of certain components, namely SSD storage. Because storage had gotten incredibly cheap over the years, I’m very fortunate to have an abundance of 1 TB SSDs and multiple high-density spinning drives. Now that you’d need to take out a bank loan to build a desktop, if you’re"
+      "description": "Given the current ridiculous prices on all things computer, I’ve been shifting some things around internally to make better use of certain components, namely SSD storage. Because storage had gotten incredibly cheap over the years, I’m very fortunate to have an abundance of 1 TB SSDs and multiple high-density spinning drives. Now that you’d need to take out a bank loan to build a desktop, if you’re",
+      "date": null
     },
     {
       "link": "https://techbit.ca/2026/10/updating-very-outdated-proxmox-installs/",
       "title": "Updating {Very} Outdated Proxmox Installs",
-      "description": "Sometimes life gets away from you and, well, you don’t perform the maintenance on your homelab that you really should have. It’s been an… interesting few years and I had a couple of Proxmox nodes that were a tiny bit, um… outdated. To get a quick idea of what you’re in for, we’re going from Proxmox version 7 on Debian 11, to Proxmox version 8 on Debian 12, to Proxmox version 9 on Debian 13."
+      "description": "Sometimes life gets away from you and, well, you don’t perform the maintenance on your homelab that you really should have. It’s been an… interesting few years and I had a couple of Proxmox nodes that were a tiny bit, um… outdated. To get a quick idea of what you’re in for, we’re going from Proxmox version 7 on Debian 11, to Proxmox version 8 on Debian 12, to Proxmox version 9 on Debian 13.",
+      "date": null
     }
   ]
 }

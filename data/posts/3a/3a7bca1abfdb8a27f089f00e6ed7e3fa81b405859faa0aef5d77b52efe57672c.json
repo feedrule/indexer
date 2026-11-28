@@ -4,17 +4,20 @@
     {
       "link": "https://danicat.dev/posts/gemini-decisions-api-prompt-hardening/",
       "title": "Hardening Agent Defenses with Gemini Decisions API",
-      "description": "Learn how to catch Base64, ROT13, and obfuscated prompt injections in Go using the Gemini Decisions API ahead of Google Cloud Model Armor."
+      "description": "Learn how to catch Base64, ROT13, and obfuscated prompt injections in Go using the Gemini Decisions API ahead of Google Cloud Model Armor.",
+      "date": null
     },
     {
       "link": "https://danicat.dev/posts/ai-agents-from-scratch-with-google-adk/",
       "title": "AI Agents from Scratch with Google ADK",
-      "description": "A hands-on introduction to building, deploying, and securing AI agents from scratch in Python with Google ADK and Google Cloud."
+      "description": "A hands-on introduction to building, deploying, and securing AI agents from scratch in Python with Google ADK and Google Cloud.",
+      "date": null
     },
     {
       "link": "https://danicat.dev/posts/chibi-dani-architecture/",
       "title": "How to Ship a Public AI Agent Without Breaking the Budget",
-      "description": "Learn how to protect a public AI agent in Go from abuse and runaway cloud bills using tight resource limits, least-privilege access, and prompt screening."
+      "description": "Learn how to protect a public AI agent in Go from abuse and runaway cloud bills using tight resource limits, least-privilege access, and prompt screening.",
+      "date": null
     }
   ]
 }

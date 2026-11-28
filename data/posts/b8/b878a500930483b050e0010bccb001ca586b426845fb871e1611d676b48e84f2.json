@@ -4,17 +4,20 @@
     {
       "link": "https://blog.vezpi.com/en/post/provision-proxmox-vm-ansible/",
       "title": "Provisioning Proxmox VMs with Ansible and Semaphore",
-      "description": "Intro When I need a new VM in Proxmox, I already have two options. I can clone my cloud-init template from the web interface, or use my Terraform simple-vm project. Both work, but neither quite fits a disposable VM for a proof of concept. The web interface leaves me with manual configuration. Terraform manages the machine’s state afterwards, which is useful for infrastructure I want to maintain, b"
+      "description": "Intro When I need a new VM in Proxmox, I already have two options. I can clone my cloud-init template from the web interface, or use my Terraform simple-vm project. Both work, but neither quite fits a disposable VM for a proof of concept. The web interface leaves me with manual configuration. Terraform manages the machine’s state afterwards, which is useful for infrastructure I want to maintain, b",
+      "date": null
     },
     {
       "link": "https://blog.vezpi.com/en/post/documenting-homelab-obsidian-ai/",
       "title": "Creating my Homelab Inventory in Obsidian",
-      "description": "Intro My homelab brings together physical hosts, virtual machines, storage, and applications that depend on each other. When I ask an AI agent to help with a project, knowing how Proxmox or Docker works is only part of what it needs. It also needs to understand how those pieces fit together in my lab. I have been using Obsidian for about three years, after moving from Notion. My project notes and"
+      "description": "Intro My homelab brings together physical hosts, virtual machines, storage, and applications that depend on each other. When I ask an AI agent to help with a project, knowing how Proxmox or Docker works is only part of what it needs. It also needs to understand how those pieces fit together in my lab. I have been using Obsidian for about three years, after moving from Notion. My project notes and",
+      "date": null
     },
     {
       "link": "https://blog.vezpi.com/en/post/deploy-hermes-agent-homelab/",
       "title": "My Homelab AI Crew with Hermes Agent",
-      "description": "Intro I have been hearing about autonomous AI agents for a while. OpenClaw was getting a lot of attention, but I didn’t initially see what I would do with one. After experimenting a little with AI agents, I started to understand how they could help with my own projects. My homelab already gives me plenty of material to work with: infrastructure code, project notes, and technical documentation. I w"
+      "description": "Intro I have been hearing about autonomous AI agents for a while. OpenClaw was getting a lot of attention, but I didn’t initially see what I would do with one. After experimenting a little with AI agents, I started to understand how they could help with my own projects. My homelab already gives me plenty of material to work with: infrastructure code, project notes, and technical documentation. I w",
+      "date": null
     }
   ]
 }

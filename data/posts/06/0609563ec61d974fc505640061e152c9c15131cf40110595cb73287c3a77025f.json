@@ -4,17 +4,20 @@
     {
       "link": "https://www.thatprivacyguy.com/blog/optimizely-bbc-cnn-consent",
       "title": "The BBC and CNN were loading Optimizely without consent six weeks before it was turned against their visitors",
-      "description": "Signed captures show the BBC and CNN loading Optimizely without consent six weeks before it was hijacked to serve malware. Consent would have limited the harm."
+      "description": "Signed captures show the BBC and CNN loading Optimizely without consent six weeks before it was hijacked to serve malware. Consent would have limited the harm.",
+      "date": null
     },
     {
       "link": "https://www.thatprivacyguy.com/blog/capture-the-code",
       "title": "Capture the Code - visualising the scale of website surveillance",
-      "description": "A procedurally rendered film of our forensic audit of the 100 most visited English-language content websites, showing where visitors' data goes - before anyone consents."
+      "description": "A procedurally rendered film of our forensic audit of the 100 most visited English-language content websites, showing where visitors' data goes - before anyone consents.",
+      "date": null
     },
     {
       "link": "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
       "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank",
-      "description": "Shopify's code fabricates consent that was never given, its telemetry sends data it marked untrackable and its DSA filings leave the EU user count blank. I have filed two complaints."
+      "description": "Shopify's code fabricates consent that was never given, its telemetry sends data it marked untrackable and its DSA filings leave the EU user count blank. I have filed two complaints.",
+      "date": null
     }
   ]
 }

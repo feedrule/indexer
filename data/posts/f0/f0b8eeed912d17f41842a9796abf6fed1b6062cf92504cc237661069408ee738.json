@@ -4,7 +4,8 @@
     {
       "link": "https://gorokhov.dev/posts/key-transparency-self-audit/",
       "title": "How a key transparency self-audit can verify the wrong identity",
-      "description": "An encrypted email can arrive in the right inbox after someone else has already read it. The cryptography is still doing its job. The mistake happens earlier, when the client receives the wrong public key. I am building Thelemail , private email hosting for people and small teams using their own domains. Stored mail remains encrypted, and readable private-key material stays on each user’s device."
+      "description": "An encrypted email can arrive in the right inbox after someone else has already read it. The cryptography is still doing its job. The mistake happens earlier, when the client receives the wrong public key. I am building Thelemail , private email hosting for people and small teams using their own domains. Stored mail remains encrypted, and readable private-key material stays on each user’s device.",
+      "date": null
     }
   ]
 }

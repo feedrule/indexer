@@ -4,17 +4,20 @@
     {
       "link": "https://nickjanetakis.com/blog/scrape-the-word-of-the-day-on-the-command-line-with-curl",
       "title": "Scrape the Word of the Day on the Command Line with curl",
-      "description": "Sometimes I like knowing the word of the day and wanted a quick way to grab it on the command line without too many dependencies."
+      "description": "Sometimes I like knowing the word of the day and wanted a quick way to grab it on the command line without too many dependencies.",
+      "date": null
     },
     {
       "link": "https://nickjanetakis.com/blog/quickly-convert-images-on-the-command-line-with-imagemagick-and-bash",
       "title": "Quickly Convert Images on the Command Line with ImageMagick and Bash",
-      "description": "We'll go over how to convert 1 or more files to JPG, PNG and perform actions like resizing and quality adjustments."
+      "description": "We'll go over how to convert 1 or more files to JPG, PNG and perform actions like resizing and quality adjustments.",
+      "date": null
     },
     {
       "link": "https://nickjanetakis.com/blog/add-an-open-terminal-here-shortcut-menu-to-thunar",
       "title": "Add an Open Terminal Here Shortcut Menu to Thunar",
-      "description": "We'll also cover how to add it to your toolbar and set up a custom hotkey for multiple ways of easy access."
+      "description": "We'll also cover how to add it to your toolbar and set up a custom hotkey for multiple ways of easy access.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://lars.hupel.info/articles/digitisation/",
       "title": "Digitisation is process optimisation",
-      "description": "Digitisation works best when it is built on top of boring, proven technology. And when you don’t skip the actual work."
+      "description": "Digitisation works best when it is built on top of boring, proven technology. And when you don’t skip the actual work.",
+      "date": null
     },
     {
       "link": "https://lars.hupel.info/articles/arxiv-biblatex/",
       "title": "BibLaTeX incompatibility on arXiv",
-      "description": "When submitting a manuscript to arXiv, the preferred way is to upload the LaTeX source files. arXiv’s infrastructure will then build everything from source. For me, this process has been going smoothly, since typically, LaTeX packages are compatible across versions. However, while updating a draft, I stumbled–for the second time–over..."
+      "description": "When submitting a manuscript to arXiv, the preferred way is to upload the LaTeX source files. arXiv’s infrastructure will then build everything from source. For me, this process has been going smoothly, since typically, LaTeX packages are compatible across versions. However, while updating a draft, I stumbled–for the second time–over...",
+      "date": null
     },
     {
       "link": "https://lars.hupel.info/articles/jellyfin-network/",
       "title": "Running Jellyfin DLNA in Docker with isolated networking",
-      "description": "Jellyfin is a free software media system that you can host at home. It supports DLNA, which allows you to stream media files directly to a range of compatible clients, including VLC and Smart TVs. The documentation of the DLNA plugin advises that you must run Jellyfin with network_mode: host..."
+      "description": "Jellyfin is a free software media system that you can host at home. It supports DLNA, which allows you to stream media files directly to a range of compatible clients, including VLC and Smart TVs. The documentation of the DLNA plugin advises that you must run Jellyfin with network_mode: host...",
+      "date": null
     }
   ]
 }

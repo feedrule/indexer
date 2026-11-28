@@ -4,17 +4,20 @@
     {
       "link": "https://cpldcpu.com/2026/08/28/ai-image-generation-on-an-rp2350-microcontroller/",
       "title": "AI Image Generation on an RP2350 Microcontroller",
-      "description": "I finally got around completing a long pending project idea: A diffusion image generation model implemented on a microcontroller. See blog article and repo."
+      "description": "I finally got around completing a long pending project idea: A diffusion image generation model implemented on a microcontroller. See blog article and repo.",
+      "date": null
     },
     {
       "link": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
       "title": "Candle Flame Oscillations as a Clock",
-      "description": "Todays candles have been optimized for millenia not to flicker. But it turns out when we bundle three of them together, we can undo all of these optimizations and the resulting triplet will start to naturally oscillate. A fascinating fact is that the oscillation frequency is rather stable at ~9.9Hz as it mainly depends on … Continue reading \"Candle Flame Oscillations as a Clock\""
+      "description": "Todays candles have been optimized for millenia not to flicker. But it turns out when we bundle three of them together, we can undo all of these optimizations and the resulting triplet will start to naturally oscillate. A fascinating fact is that the oscillation frequency is rather stable at ~9.9Hz as it mainly depends on … Continue reading \"Candle Flame Oscillations as a Clock\"",
+      "date": null
     },
     {
       "link": "https://cpldcpu.com/2026/02/07/automatic-ws2812-characterization/",
       "title": "Automatic WS2812 Characterization",
-      "description": "Now, over the course of more than a decade, I spent quite some time manually investigating WS2812 addressable RGB LEDs and their clones. Why not automate this? The CH32V003 is ideally suited for this task, as it offers 5V compatibility and high resolution timers with DMA that can generate testing signals and evaluate the response. … Continue reading \"Automatic WS2812 Characterization\""
+      "description": "Now, over the course of more than a decade, I spent quite some time manually investigating WS2812 addressable RGB LEDs and their clones. Why not automate this? The CH32V003 is ideally suited for this task, as it offers 5V compatibility and high resolution timers with DMA that can generate testing signals and evaluate the response. … Continue reading \"Automatic WS2812 Characterization\"",
+      "date": null
     }
   ]
 }

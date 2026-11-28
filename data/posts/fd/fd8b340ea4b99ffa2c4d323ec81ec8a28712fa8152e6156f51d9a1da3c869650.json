@@ -4,17 +4,20 @@
     {
       "link": "https://hipstersmoothie.com/blog/posts/atmospheric-automated-development",
       "title": "Atmospheric Automated Development",
-      "description": "Marking a piece of feedback 'planned' kicks off an autonomous coding agent that implements it and opens a draft PR. Built with userinput.app, airglow, and GitHub Actions, without touching the app."
+      "description": "Marking a piece of feedback 'planned' kicks off an autonomous coding agent that implements it and opens a draft PR. Built with userinput.app, airglow, and GitHub Actions, without touching the app.",
+      "date": null
     },
     {
       "link": "https://hipstersmoothie.com/blog/posts/atmospheric-feedback",
       "title": "Atmospheric Feedback",
-      "description": "Two ways to collect feedback in your Atmosphere apps — bug reports and feature requests via userinput.app, and reviews via atstore.fyi — using progressive scoping to request permissions on demand without overwhelming users."
+      "description": "Two ways to collect feedback in your Atmosphere apps — bug reports and feature requests via userinput.app, and reviews via atstore.fyi — using progressive scoping to request permissions on demand without overwhelming users.",
+      "date": null
     },
     {
       "link": "https://hipstersmoothie.com/blog/posts/designing-a-login-page",
       "title": "Atmospheric Login Page",
-      "description": "The UX decisions behind my Atmosphere apps login pages — saved handles, handle autocomplete, and a 'create account' guardrail that slows people down on purpose."
+      "description": "The UX decisions behind my Atmosphere apps login pages — saved handles, handle autocomplete, and a 'create account' guardrail that slows people down on purpose.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://devlog.hexops.org/2026/announcing-pkgmirror/",
       "title": "Announcing pkgmirror: self-host your own Zig mirror",
-      "description": "pkgmirror is an open-source, self-hosted Zig toolchain and package mirror service so your builds no longer rely on third-party services or Microsoft GitHub. Mach now hosts its own pkgmirror at pkg.hexops.org . Features Zig toolchain mirroring : acts as a caching reverse proxy for Zig toolchain downloads from ziglang.org Package mirroring (optional) - instead of writing GitHub URLs in your project’"
+      "description": "pkgmirror is an open-source, self-hosted Zig toolchain and package mirror service so your builds no longer rely on third-party services or Microsoft GitHub. Mach now hosts its own pkgmirror at pkg.hexops.org . Features Zig toolchain mirroring : acts as a caching reverse proxy for Zig toolchain downloads from ziglang.org Package mirroring (optional) - instead of writing GitHub URLs in your project’",
+      "date": null
     },
     {
       "link": "https://devlog.hexops.org/2024/building-the-directx-shader-compiler-better-than-microsoft/",
       "title": "Building the DirectX shader compiler better than Microsoft?",
-      "description": "This is a story nightmare about the messy state of Microsoft’s DirectX shader compiler, and trying to wrangle it into a nicer experience for game developers. In some respects, we now build the DXC compiler better than how Microsoft does. Setting the stage For Mach engine we’ve been building an experimental graphics API called sysgpu using Zig, aiming to be a successor and descendant of WebGPU for"
+      "description": "This is a story nightmare about the messy state of Microsoft’s DirectX shader compiler, and trying to wrangle it into a nicer experience for game developers. In some respects, we now build the DXC compiler better than how Microsoft does. Setting the stage For Mach engine we’ve been building an experimental graphics API called sysgpu using Zig, aiming to be a successor and descendant of WebGPU for",
+      "date": null
     },
     {
       "link": "https://devlog.hexops.org/2024/mach-v0.3-released/",
       "title": "Mach v0.3 released - Zig game engine & graphics toolkit",
-      "description": "Mach is a Zig game engine & graphics toolkit for building high-performance & modular games, visualizations, and desktop/mobile apps. Learn more We are working towards Mach 1, and have just released v0.3 which includes 6 months of work - here are the highlights! Coming soon: intro to 2D gamedev workshop The first-ever intro to 2D gamedev workshop using Mach will be hosted at the Software You Can Lo"
+      "description": "Mach is a Zig game engine & graphics toolkit for building high-performance & modular games, visualizations, and desktop/mobile apps. Learn more We are working towards Mach 1, and have just released v0.3 which includes 6 months of work - here are the highlights! Coming soon: intro to 2D gamedev workshop The first-ever intro to 2D gamedev workshop using Mach will be hosted at the Software You Can Lo",
+      "date": null
     }
   ]
 }

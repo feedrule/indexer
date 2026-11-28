@@ -4,17 +4,20 @@
     {
       "link": "https://nohzafk.github.io/posts/2026-11-15-keep-the-helper/",
       "title": "Keep the Helper, Not the Language: A Prelude for Codemode",
-      "description": "In the codemode posts of this series, my agent acts by writing short JavaScript programs that call its tools. Each program runs in a fresh child process, and nothing it defines reaches the next one. In the fold posts , old work leaves the model’s context as one line per finished unit. Put those two facts side by side and a long session has an obvious waste. The model writes the same small function"
+      "description": "In the codemode posts of this series, my agent acts by writing short JavaScript programs that call its tools. Each program runs in a fresh child process, and nothing it defines reaches the next one. In the fold posts , old work leaves the model’s context as one line per finished unit. Put those two facts side by side and a long session has an obvious waste. The model writes the same small function",
+      "date": null
     },
     {
       "link": "https://nohzafk.github.io/posts/2026-11-15-when-to-fold/",
       "title": "When to Fold: The Model Says Done, the Cache Says When",
-      "description": "In the first post of this series the model folds a unit of work when it closes: the host replaces the unit’s turns with a short result and keeps the originals on disk. In the second the folded units become one title each, and the title list is merged as a binary counter so that it stays short. Both posts treated the moment of a fold as settled. The model calls fold_unit , and the fold takes effect"
+      "description": "In the first post of this series the model folds a unit of work when it closes: the host replaces the unit’s turns with a short result and keeps the originals on disk. In the second the folded units become one title each, and the title list is merged as a binary counter so that it stays short. Both posts treated the moment of a fold as settled. The model calls fold_unit , and the fold takes effect",
+      "date": null
     },
     {
       "link": "https://nohzafk.github.io/posts/2026-10-15-merge-the-folds/",
       "title": "Merge the Folds: A Binary Counter Over the Title List",
-      "description": "Last time I argued that an agent should not wait for the context window to fill. When a unit of work closes, the model says so, and the host replaces that unit’s turns with a short result and archives the originals to disk. I called it a fold, and I left compaction in place as the emergency path. This post is about what the prompt looks like after a few hundred folds. Each closed unit now stands i"
+      "description": "Last time I argued that an agent should not wait for the context window to fill. When a unit of work closes, the model says so, and the host replaces that unit’s turns with a short result and archives the originals to disk. I called it a fold, and I left compaction in place as the emergency path. This post is about what the prompt looks like after a few hundred folds. Each closed unit now stands i",
+      "date": null
     }
   ]
 }

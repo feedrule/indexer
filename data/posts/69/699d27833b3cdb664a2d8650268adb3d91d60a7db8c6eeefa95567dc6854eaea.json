@@ -4,17 +4,20 @@
     {
       "link": "https://tonywang.io/blog/closing-re-on-measurement",
       "title": "I Closed Two Reverse-Engineering Projects on Measurement. Much of What I Concluded Along the Way Was My Instrument Talking",
-      "description": "Two campaigns to run a mobile app's anti-abuse library on a laptop both ended without the goal. What I kept was a method: every instrument needs a positive control, a null return is not a refusal, and a retraction ledger with a checker that fails when a correction goes unindexed."
+      "description": "Two campaigns to run a mobile app's anti-abuse library on a laptop both ended without the goal. What I kept was a method: every instrument needs a positive control, a null return is not a refusal, and a retraction ledger with a checker that fails when a correction goes unindexed.",
+      "date": null
     },
     {
       "link": "https://tonywang.io/blog/concurrency-raise-passed-gate",
       "title": "I Raised My Crawler's Concurrency After It Passed Its Own Gate. By Morning It Was Slower Than Before, and the Experiment Had Grown the Backlog",
-      "description": "I wrote a runbook with explicit RAISE and LOWER rules, raised a worker's concurrency from 8 to 12 only after all five gate conditions passed, and read +53% at 15 minutes. By the next morning the breaker was cycling, throughput had collapsed below the old baseline, and the backlog was 115 thousand larger."
+      "description": "I wrote a runbook with explicit RAISE and LOWER rules, raised a worker's concurrency from 8 to 12 only after all five gate conditions passed, and read +53% at 15 minutes. By the next morning the breaker was cycling, throughput had collapsed below the old baseline, and the backlog was 115 thousand larger.",
+      "date": null
     },
     {
       "link": "https://tonywang.io/blog/etsy-429-was-the-user-agent",
       "title": "I Read a 429 as a Quota, Then as Google Play Integrity. It Was the User-Agent My HTTP Library Filled In",
-      "description": "A mobile API answered every correctly signed request with a generic 429. I blamed a per-key quota, then wrote up Play Integrity attestation as a wall I couldn't get over. One header diff showed it was the User-Agent, which my library had been filling in with its own name. Then I counted how many other places do the same."
+      "description": "A mobile API answered every correctly signed request with a generic 429. I blamed a per-key quota, then wrote up Play Integrity attestation as a wall I couldn't get over. One header diff showed it was the User-Agent, which my library had been filling in with its own name. Then I counted how many other places do the same.",
+      "date": null
     }
   ]
 }

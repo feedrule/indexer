@@ -4,17 +4,20 @@
     {
       "link": "https://prawns.dev/about/index.html",
       "title": "About Me",
-      "description": "About Me My first technical talk at HSP's FOSS Talks 3.0 ! Hi, I'm Pranav. I'm an undergraduate electronics student interested in computer architecture, memory systems, and digital hardware design. I enjoy understanding how modern systems move, store, and process data, and spend much of my time exploring memory architectures and their performance implications. I enjoy learning by building things f"
+      "description": "About Me My first technical talk at HSP's FOSS Talks 3.0 ! Hi, I'm Pranav. I'm an undergraduate electronics student interested in computer architecture, memory systems, and digital hardware design. I enjoy understanding how modern systems move, store, and process data, and spend much of my time exploring memory architectures and their performance implications. I enjoy learning by building things f",
+      "date": null
     },
     {
       "link": "https://prawns.dev/til/pnm-for-fhe.html",
       "title": "TIL: Processing Near Memory for FHE",
-      "description": "Processing Near Memory for FHE Yes I know enough about cryptography too to write this post out. So we have all heard about encryption keeping our data safe while it sits on a server or travels across the internet. But the moment a server actually needs to process that data (say, running an AI model on your medical records), it usually has to decrypt it first. But what if we could skip that step en"
+      "description": "Processing Near Memory for FHE Yes I know enough about cryptography too to write this post out. So we have all heard about encryption keeping our data safe while it sits on a server or travels across the internet. But the moment a server actually needs to process that data (say, running an AI model on your medical records), it usually has to decrypt it first. But what if we could skip that step en",
+      "date": null
     },
     {
       "link": "https://prawns.dev/index.html",
       "title": "Pranav",
-      "description": "Hi, I'm Pranav 👋 I'm an undergraduate electronics student interested in computer architecture, memory systems, and digital hardware design. My current interests include computer architecture with a deep focus on processing-in-memory architectures, memory-centric computing and understanding how modern systems move, store, and process data. Most of my work lives on GitHub , and this site is where I"
+      "description": "Hi, I'm Pranav 👋 I'm an undergraduate electronics student interested in computer architecture, memory systems, and digital hardware design. My current interests include computer architecture with a deep focus on processing-in-memory architectures, memory-centric computing and understanding how modern systems move, store, and process data. Most of my work lives on GitHub , and this site is where I",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://avris.it/projects/queermoji",
       "title": "Queermoji – a font that turns sequences of symbols into queer flags",
-      "description": "There are only two queer flags in the official standard for emojis: 🏳️ 🌈 and 🏳️ ⚧️. The Unicode Consortium has made it clear that it doesn't intend to add any more… But when has a committee ever stopped us queers from enjoying our flags? 😉 What if instead of resorting to heart emojis in the colours from a flag (like 💛🤍💜🖤), you could just say you're 🏳 ⚨ nonbinary or 🏳 ∞ ❤ polyamorous with an actual"
+      "description": "There are only two queer flags in the official standard for emojis: 🏳️ 🌈 and 🏳️ ⚧️. The Unicode Consortium has made it clear that it doesn't intend to add any more… But when has a committee ever stopped us queers from enjoying our flags? 😉 What if instead of resorting to heart emojis in the colours from a flag (like 💛🤍💜🖤), you could just say you're 🏳 ⚨ nonbinary or 🏳 ∞ ❤ polyamorous with an actual",
+      "date": null
     },
     {
       "link": "https://avris.it/projects/honker-build",
       "title": "Honker – prebuilt sqlite extensions",
-      "description": "I love Honker , I just wish they simply published prebuilt extensions to download, rather than requiring rust to build it from source… So here's a quick solution: github actions spinning up runners that build the library for all platforms on each release."
+      "description": "I love Honker , I just wish they simply published prebuilt extensions to download, rather than requiring rust to build it from source… So here's a quick solution: github actions spinning up runners that build the library for all platforms on each release.",
+      "date": null
     },
     {
       "link": "https://avris.it/projects/repo-orientation-notebook",
       "title": "Repo Orientation Notebook",
-      "description": "If you liked the post The Git Commands I Run Before Reading Any Code by Ally Piechowski , you might also like this interactive Marimo notebook that puts all those commands together and adds some nice charts."
+      "description": "If you liked the post The Git Commands I Run Before Reading Any Code by Ally Piechowski , you might also like this interactive Marimo notebook that puts all those commands together and adds some nice charts.",
+      "date": null
     }
   ]
 }

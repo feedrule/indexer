@@ -4,17 +4,20 @@
     {
       "link": "https://steveire.wordpress.com/2026/01/14/rest-api-development-with-qt-6/",
       "title": "REST API Development with Qt 6",
-      "description": "This post describes an experiment using Qt 6.7’s REST APIs to explore Stripe’s payment model, and what I learned building a small desktop developer tool. Recent Qt releases have included several conveniences for developing clients of remote REST APIs. I recently tried it out with the Stripe payments REST API to get to grips with […]"
+      "description": "This post describes an experiment using Qt 6.7’s REST APIs to explore Stripe’s payment model, and what I learned building a small desktop developer tool. Recent Qt releases have included several conveniences for developing clients of remote REST APIs. I recently tried it out with the Stripe payments REST API to get to grips with […]",
+      "date": null
     },
     {
       "link": "https://steveire.wordpress.com/2022/11/11/grantlee-version-5-3-1-now-available/",
       "title": "Grantlee version 5.3.1 now available",
-      "description": "I’ve just made a new 5.3.1 release of Grantlee. The 5.3.0 release had some build issues with Qt 6 which should now be resolved with version 5.3.1. Unlike previous releases, this release will not appear on http://www.grantlee.org/downloads/. I’ll be turning off grantlee.org soon. All previous releases have already been uploaded to https://github.com/steveire/grantlee/releases. The continuation of ["
+      "description": "I’ve just made a new 5.3.1 release of Grantlee. The 5.3.0 release had some build issues with Qt 6 which should now be resolved with version 5.3.1. Unlike previous releases, this release will not appear on http://www.grantlee.org/downloads/. I’ll be turning off grantlee.org soon. All previous releases have already been uploaded to https://github.com/steveire/grantlee/releases. The continuation of [",
+      "date": null
     },
     {
       "link": "https://steveire.wordpress.com/2022/09/10/grantlee-version-5-3-now-available/",
       "title": "Grantlee version 5.3 now available",
-      "description": "I previously announced the end of new Qt5-based Grantlee releases. The Grantlee template system is to find new life as part of KDE Frameworks 6 in the form of KTextTemplate. The Grantlee textdocument library will probably become part of another KDE library with similar scope. Meanwhile, some changes have accumulated since the last Grantlee release, […]"
+      "description": "I previously announced the end of new Qt5-based Grantlee releases. The Grantlee template system is to find new life as part of KDE Frameworks 6 in the form of KTextTemplate. The Grantlee textdocument library will probably become part of another KDE library with similar scope. Meanwhile, some changes have accumulated since the last Grantlee release, […]",
+      "date": null
     }
   ]
 }

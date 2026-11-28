@@ -4,17 +4,20 @@
     {
       "link": "https://hmijailblog.blogspot.com/2026/09/a-semantic-fuzzer-for-obsidian-sync-in.html",
       "title": "A semantic fuzzer for Obsidian Sync... in spite of Claude",
-      "description": "I guided Claude Code to build a fuzzer to find Obsidian Sync bugs. It runs Obsidian instances in containers and makes them edit notes while it cuts their network connection. And it works: it finds amusingly short sequences of operations that trigger data loss, and that you can verify yourself by running them manually on your own phone and computer.I got a functional prototype in 30h, but the"
+      "description": "I guided Claude Code to build a fuzzer to find Obsidian Sync bugs. It runs Obsidian instances in containers and makes them edit notes while it cuts their network connection. And it works: it finds amusingly short sequences of operations that trigger data loss, and that you can verify yourself by running them manually on your own phone and computer.I got a functional prototype in 30h, but the",
+      "date": null
     },
     {
       "link": "https://hmijailblog.blogspot.com/2025/12/lowest-latency-ethernet-byte-oriented.html",
       "title": "Lowest-latency Ethernet: Byte-oriented NICs? (deleted from StackOverflow...)",
-      "description": "Back in 2017 I had a kinda esoteric question about Ethernet NICs with less-than-frame latency, based on my experience with networking software and hardware, and the evidence for something \"atypical\" being in use by High Frequency Traders. So I posted my question to Stack Overflow.The question got a lot of pushback, which I found bizarre. It had to be moved across 3 SO sites... and finally it"
+      "description": "Back in 2017 I had a kinda esoteric question about Ethernet NICs with less-than-frame latency, based on my experience with networking software and hardware, and the evidence for something \"atypical\" being in use by High Frequency Traders. So I posted my question to Stack Overflow.The question got a lot of pushback, which I found bizarre. It had to be moved across 3 SO sites... and finally it",
+      "date": null
     },
     {
       "link": "https://hmijailblog.blogspot.com/2025/04/Introducing-DARUM-DAfny-Resource-Usage-Measurement.html",
       "title": "Introducing DARUM - DAfny Resource Usage Measurement",
-      "description": "Warum? Ach, darum! My team at Consensys R&D worked mostly with Dafny, the verification-friendly language. We enjoyed good success with it in our projects during the last few years; our extensive use got us a mention in Rustan Leino's Program Proofs book, and we even got a Best Paper Award in the 2022 edition of the International Conference on Formal Methods for Industrial Critical Systems!"
+      "description": "Warum? Ach, darum! My team at Consensys R&D worked mostly with Dafny, the verification-friendly language. We enjoyed good success with it in our projects during the last few years; our extensive use got us a mention in Rustan Leino's Program Proofs book, and we even got a Best Paper Award in the 2022 edition of the International Conference on Formal Methods for Industrial Critical Systems!",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.fredalix.com/p/ive-outgrown-yaml-not-the-job/",
       "title": "I've outgrown YAML, not the job",
-      "description": "I have not outgrown the job. I have only outgrown YAML."
+      "description": "I have not outgrown the job. I have only outgrown YAML.",
+      "date": null
     },
     {
       "link": "https://blog.fredalix.com/p/my-discovery-of-grok-bot-and-how-i-start-using-it-daily/",
       "title": "My discovery of Grok Bot and how I started using it daily",
-      "description": "In late September, I started using Grok Bot: eight specialized agents, and a real-life test of one idea, that applications are going headless."
+      "description": "In late September, I started using Grok Bot: eight specialized agents, and a real-life test of one idea, that applications are going headless.",
+      "date": null
     },
     {
       "link": "https://blog.fredalix.com/p/how-to-use-clever-clouds-network-groups/",
       "title": "How to use Clever Cloud's Network Groups",
-      "description": "A hands-on tutorial: deploy a Node.js app whose extra ports are reachable only through a private WireGuard mesh, a Clever Cloud Network Group, and dodge the gotchas along the way."
+      "description": "A hands-on tutorial: deploy a Node.js app whose extra ports are reachable only through a private WireGuard mesh, a Clever Cloud Network Group, and dodge the gotchas along the way.",
+      "date": null
     }
   ]
 }

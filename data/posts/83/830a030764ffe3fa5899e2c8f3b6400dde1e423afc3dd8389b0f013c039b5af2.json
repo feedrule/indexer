@@ -4,17 +4,20 @@
     {
       "link": "http://nomisrev.github.io/opinionated-ktor-services/",
       "title": "Opinionated Ktor Services",
-      "description": "Today I gave a talk at KotlinConf 2026 in Munich about “Opinionated Ktor Services”. In this talk, I shared my experience and opinions on how to build robust, maintainable, and scalable services using Ktor and the Kotlin ecosystem."
+      "description": "Today I gave a talk at KotlinConf 2026 in Munich about “Opinionated Ktor Services”. In this talk, I shared my experience and opinions on how to build robust, maintainable, and scalable services using Ktor and the Kotlin ecosystem.",
+      "date": null
     },
     {
       "link": "http://nomisrev.github.io/arrows-2-0-trajectory/",
       "title": "Arrow 2.0’s Trajectory",
-      "description": "This blog post is an improved version of the transcription of the presentation I gave at KotlinConf 2023. It discusses the 10-year history of Arrow, all the way from the first commit to the current state of the library. It also discusses the future of Functional Programming in Kotlin, and the challenges OSS projects face."
+      "description": "This blog post is an improved version of the transcription of the presentation I gave at KotlinConf 2023. It discusses the 10-year history of Arrow, all the way from the first commit to the current state of the library. It also discusses the future of Functional Programming in Kotlin, and the challenges OSS projects face.",
+      "date": null
     },
     {
       "link": "http://nomisrev.github.io/graceful-resource-handling-using-structured-concurrency-in-kotlin/",
       "title": "Zero downtime deployment with Arrow and Ktor Native",
-      "description": "Webinar with Anton Arhipov on functional microservices with Ktor and Kubernetes about zero-downtime deployments."
+      "description": "Webinar with Anton Arhipov on functional microservices with Ktor and Kubernetes about zero-downtime deployments.",
+      "date": null
     }
   ]
 }

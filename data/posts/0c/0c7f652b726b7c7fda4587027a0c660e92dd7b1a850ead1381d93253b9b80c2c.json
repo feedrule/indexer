@@ -4,17 +4,20 @@
     {
       "link": "https://www.provos.org/p/coordinating-ai-agents-across-operating-systems/",
       "title": "Coordinating Codex and Claude Across macOS, Linux, and Windows",
-      "description": "I’m building FluxShot Editor, a node-based VFX compositor for macOS, Linux, and Windows, with help from both Claude and Codex. The macOS and Linux versions are almost complete, but the Windows port still needs a lot of work. The Codex agent working on Windows needed to know whether its changes fit with other work in flight. It also needed to test its pull requests on macOS and on a Linux machine w"
+      "description": "I’m building FluxShot Editor, a node-based VFX compositor for macOS, Linux, and Windows, with help from both Claude and Codex. The macOS and Linux versions are almost complete, but the Windows port still needs a lot of work. The Codex agent working on Windows needed to know whether its changes fit with other work in flight. It also needed to test its pull requests on macOS and on a Linux machine w",
+      "date": null
     },
     {
       "link": "https://www.provos.org/p/price-of-insecurity/",
       "title": "Price of Insecurity: Why Most Companies Choose To Be Insecure",
-      "description": "Corporate insecurity has persisted for decades for reasons unrelated to technology. For most companies, the rational business choice has been to prioritize revenue growth over security engineering. CEOs are rewarded for quarterly metrics like revenue, new customers, and product launches, whereas a prevented breach tends to be almost impossible to score. CISOs buy dozens of third-party security pro"
+      "description": "Corporate insecurity has persisted for decades for reasons unrelated to technology. For most companies, the rational business choice has been to prioritize revenue growth over security engineering. CEOs are rewarded for quarterly metrics like revenue, new customers, and product launches, whereas a prevented breach tends to be almost impossible to score. CISOs buy dozens of third-party security pro",
+      "date": null
     },
     {
       "link": "https://www.provos.org/p/hugging-face-compromise-agents-didnt-go-rogue/",
       "title": "Hugging Face Compromise: Agents Didn't Go Rogue",
-      "description": "By now you have been led to believe that agent swarms are inevitable and that only the frontier labs know what’s best for humanity. The Hugging Face compromise was not about agents going rogue. To explain what happened, I am narrating a short video that interprets the incident in terms of human incentives and security engineering. I hope I can provide a more rational perspective compared to the fe"
+      "description": "By now you have been led to believe that agent swarms are inevitable and that only the frontier labs know what’s best for humanity. The Hugging Face compromise was not about agents going rogue. To explain what happened, I am narrating a short video that interprets the incident in terms of human incentives and security engineering. I hope I can provide a more rational perspective compared to the fe",
+      "date": null
     }
   ]
 }

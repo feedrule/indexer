@@ -4,17 +4,20 @@
     {
       "link": "https://jilles.me/how-to-build-a-slack-bot-with-flue/",
       "title": "How to Build a Slack Bot with Flue",
-      "description": "Learn how to create and deploy a Slack bot with Flue. We add tools, secure event handling, threaded replies, reactions, and persistent state."
+      "description": "Learn how to create and deploy a Slack bot with Flue. We add tools, secure event handling, threaded replies, reactions, and persistent state.",
+      "date": null
     },
     {
       "link": "https://jilles.me/tanstack-start-server-functions-how-they-work/",
       "title": "TanStack Start Server Functions: How They Work and When You Still Need REST",
-      "description": "Looking for API routes in TanStack Start? You probably want server functions. This article explains how server functions work under the hood, the compiler splitting, SSR vs client RPC, and when a real REST endpoint still makes sense."
+      "description": "Looking for API routes in TanStack Start? You probably want server functions. This article explains how server functions work under the hood, the compiler splitting, SSR vs client RPC, and when a real REST endpoint still makes sense.",
+      "date": null
     },
     {
       "link": "https://jilles.me/drizzle-migrations-on-cloudflare-d1-generate-sql-apply-with-wrangler/",
       "title": "Drizzle Migrations on Cloudflare D1: Generate SQL, Apply with Wrangler",
-      "description": "Use drizzle-kit to generate SQL migrations and wrangler to apply them on Cloudflare D1. No credentials, no adapter. Just SQL files in version control."
+      "description": "Use drizzle-kit to generate SQL migrations and wrangler to apply them on Cloudflare D1. No credentials, no adapter. Just SQL files in version control.",
+      "date": null
     }
   ]
 }

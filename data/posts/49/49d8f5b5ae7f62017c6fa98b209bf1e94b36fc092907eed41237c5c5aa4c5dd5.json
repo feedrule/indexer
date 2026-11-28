@@ -4,17 +4,20 @@
     {
       "link": "https://johncodes.com/archive/2026/02-11-cross-compiling-cgo/",
       "title": "Cross compiling CGO with Dagger and Zig",
-      "description": "Anyone who's built a substantial Go project that incorporates C code (like sqlite ) knows that cross compiling with CGO can be very painful. One of Go's best native features is that you can use your system's cross compiler (like XCode's bundled gcc) to easily build binaries for whatever system is supported by go tool dist list (like linux/amd64 or darwin/arm64 ). Typically all you need to do is se"
+      "description": "Anyone who's built a substantial Go project that incorporates C code (like sqlite ) knows that cross compiling with CGO can be very painful. One of Go's best native features is that you can use your system's cross compiler (like XCode's bundled gcc) to easily build binaries for whatever system is supported by go tool dist list (like linux/amd64 or darwin/arm64 ). Typically all you need to do is se",
+      "date": null
     },
     {
       "link": "https://johncodes.com/archive/2026/02-09-introducing-tapes/",
       "title": "Introducing tapes: transparent AI agent telemetry",
-      "description": "Last week, we released tapes , a new open source agentic telemetry tool for understanding the \"what\" , \"why\" , and \"how\" of your AI agents. One of the biggest problems I've noticed with the current age of AI agent tools is that they're all \"opaque\" and once you're done with a session, typically all of that context is lost: all of the learned lessons, all of the decisions, all of the errors, and al"
+      "description": "Last week, we released tapes , a new open source agentic telemetry tool for understanding the \"what\" , \"why\" , and \"how\" of your AI agents. One of the biggest problems I've noticed with the current age of AI agent tools is that they're all \"opaque\" and once you're done with a session, typically all of that context is lost: all of the learned lessons, all of the decisions, all of the errors, and al",
+      "date": null
     },
     {
       "link": "https://johncodes.com/archive/2026/01-28-there-is-no-secure-ai-enclave/",
       "title": "there is no secure ai enclave",
-      "description": "\"There is no secure AI enclave, Neo.\" Another week, another AI app everyone's talking about. This week, it seems to be Clawdbot , the \"connect with anything and do everything\" AI agent. Practically speaking, Clawdbot is interesting since the maintainers took the time and energy to go and integrate it with a vast number of services on its \"gateway\": iMessage, WhatsApp, Discord, Gmail, GitHub, Spoti"
+      "description": "\"There is no secure AI enclave, Neo.\" Another week, another AI app everyone's talking about. This week, it seems to be Clawdbot , the \"connect with anything and do everything\" AI agent. Practically speaking, Clawdbot is interesting since the maintainers took the time and energy to go and integrate it with a vast number of services on its \"gateway\": iMessage, WhatsApp, Discord, Gmail, GitHub, Spoti",
+      "date": null
     }
   ]
 }

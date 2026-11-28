@@ -4,17 +4,20 @@
     {
       "link": "https://polpiella.dev/cursor-xcode-27/",
       "title": "Using Cursor in Xcode 27",
-      "description": "import Image from '@components/Image.astro' Over the past few months, I have shifted most of the time I spend building features to Cursor when working on client projects, and only really switch back to Xcode when I am doing the last bits of polishing and writing code myself. While this workflow has been making me more productive, I have always enjoyed Xcode as an editor and was really excited to h"
+      "description": "import Image from '@components/Image.astro' Over the past few months, I have shifted most of the time I spend building features to Cursor when working on client projects, and only really switch back to Xcode when I am doing the last bits of polishing and writing code myself. While this workflow has been making me more productive, I have always enjoyed Xcode as an editor and was really excited to h",
+      "date": null
     },
     {
       "link": "https://polpiella.dev/metal-toolchain-ci-cd/",
       "title": "How to install Xcode 26's Metal Toolchain on CI/CD",
-      "description": "As of Xcode 26, the Metal toolchain is no longer included in Xcode's installation by default . This means that, if your app or one of your dependencies needs to use the toolchain, you will need to install it manually before building your app. When running your app locally using Xcode, this issue manifests itself as a build error: The fix is simple enough and, as the error message says, you just ne"
+      "description": "As of Xcode 26, the Metal toolchain is no longer included in Xcode's installation by default . This means that, if your app or one of your dependencies needs to use the toolchain, you will need to install it manually before building your app. When running your app locally using Xcode, this issue manifests itself as a build error: The fix is simple enough and, as the error message says, you just ne",
+      "date": null
     },
     {
       "link": "https://polpiella.dev/how-i-fix-bugs-in-my-apps/",
       "title": "A Peek into My Debugging Process (With Real Examples)",
-      "description": "Debugging is a skill that is often overlooked by developers. It is a skill that is not only useful for fixing bugs, but also for improving your understanding of the codebase and the language you build software in. Especially as we enter the era of AI-assisted debugging , where more often than not, we find ourselves trying to understand the code an LLM has given us or, what's worse, the bugs it has"
+      "description": "Debugging is a skill that is often overlooked by developers. It is a skill that is not only useful for fixing bugs, but also for improving your understanding of the codebase and the language you build software in. Especially as we enter the era of AI-assisted debugging , where more often than not, we find ourselves trying to understand the code an LLM has given us or, what's worse, the bugs it has",
+      "date": null
     }
   ]
 }

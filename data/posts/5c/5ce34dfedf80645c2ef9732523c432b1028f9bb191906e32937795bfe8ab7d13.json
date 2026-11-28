@@ -4,17 +4,20 @@
     {
       "link": "https://efp.asia/blog/2026/10/15/code-is-a-commodity-now/",
       "title": "Code Is a Commodity Now",
-      "description": "The numbers first"
+      "description": "The numbers first",
+      "date": null
     },
     {
       "link": "https://efp.asia/blog/2026/04/05/agentic-coding-architectures/",
       "title": "Not All Code Architectures Survive the Agent",
-      "description": "Most of the debate around agentic coding is about tooling – which IDE, which model, which CLI to use, and so on. Much less attention goes to a more interesting question: does the way we’ve been taught to structure code even make sense when the thing writing it has limited long-term memory, a finite context window, and often has to make progress without holding the whole system in view?"
+      "description": "Most of the debate around agentic coding is about tooling – which IDE, which model, which CLI to use, and so on. Much less attention goes to a more interesting question: does the way we’ve been taught to structure code even make sense when the thing writing it has limited long-term memory, a finite context window, and often has to make progress without holding the whole system in view?",
+      "date": null
     },
     {
       "link": "https://efp.asia/blog/2026/02/22/garmin-glass/",
       "title": "How Garmin Engineered Multi-Week Battery Life Into a Watch",
-      "description": "The smartwatch market is a showcase of contrasts. Most smartwatches last a day or two between charges, but with Garmin, some models display an infinity symbol where the battery percentage should be. An actual infinity symbol, meaning the watch is really gaining energy faster than it’s spending it."
+      "description": "The smartwatch market is a showcase of contrasts. Most smartwatches last a day or two between charges, but with Garmin, some models display an infinity symbol where the battery percentage should be. An actual infinity symbol, meaning the watch is really gaining energy faster than it’s spending it.",
+      "date": null
     }
   ]
 }

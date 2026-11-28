@@ -4,17 +4,20 @@
     {
       "link": "https://www.statox.fr/posts/2026/03/systemd_timers/",
       "title": "Using a systemd timer to monitor my laptop's battery",
-      "description": "I've been using i3 as my window manager for the past 7 years. It's great and you should check it out! However, one issue I have is that by default I don't get an obvious notification when my battery is low. My personal laptop is getting old and the battery significantly drains when it is put to sleep. So recently it happened several times that I woke it up, didn't check my battery, and had it die"
+      "description": "I've been using i3 as my window manager for the past 7 years. It's great and you should check it out! However, one issue I have is that by default I don't get an obvious notification when my battery is low. My personal laptop is getting old and the battery significantly drains when it is put to sleep. So recently it happened several times that I woke it up, didn't check my battery, and had it die",
+      "date": null
     },
     {
       "link": "https://www.statox.fr/posts/2025/12/wezterm_neovim_synced_colorscheme/",
       "title": "Synchronized colorscheme toggling for WezTerm and Neovim",
-      "description": "TL;DR : I wanted a keybinding to toggle between light and dark colorschemes and have the change apply immediately to all my WezTerm windows and Neovim instances across multiple running processes, using pure Lua configurations. If you want to skip the context and jump straight to the implementation, go to the solution . Recently I've been reworking my terminal setup. After years of using gnome-term"
+      "description": "TL;DR : I wanted a keybinding to toggle between light and dark colorschemes and have the change apply immediately to all my WezTerm windows and Neovim instances across multiple running processes, using pure Lua configurations. If you want to skip the context and jump straight to the implementation, go to the solution . Recently I've been reworking my terminal setup. After years of using gnome-term",
+      "date": null
     },
     {
       "link": "https://www.statox.fr/posts/2025/10/new_terminal_emulator/",
       "title": "Looking for a new terminal emulator on Linux",
-      "description": "This article is a work in progress Goal 🔗 Replace my current workflow of Gnome Terminal + tmux: Get rid of tmux (Some graphic inconsistencies, one dependency in my dotfiles) Keep my current keyboard centric workflow Ideally choose a tool which works well with Wayland based WM. Why not CPU or even GPU acceleration, NO electron based application Easy to install and update The terminal window can spa"
+      "description": "This article is a work in progress Goal 🔗 Replace my current workflow of Gnome Terminal + tmux: Get rid of tmux (Some graphic inconsistencies, one dependency in my dotfiles) Keep my current keyboard centric workflow Ideally choose a tool which works well with Wayland based WM. Why not CPU or even GPU acceleration, NO electron based application Easy to install and update The terminal window can spa",
+      "date": null
     }
   ]
 }

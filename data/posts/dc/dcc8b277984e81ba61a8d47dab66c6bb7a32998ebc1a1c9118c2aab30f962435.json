@@ -4,17 +4,20 @@
     {
       "link": "https://bacchi.org/posts/vscode-claude-sonnet-4.5-bedrock/",
       "title": "Using the VSCode Claude Code Extension with Bedrock and Claude Sonnet 4.5",
-      "description": "Lots of folks use the Claude IDE, or the Claude Code VSCode extension. Unfortunately, your prompts and completions are used (by default) to train Claude models. [0] AWS Bedrock, on the other hand, doesn’t use your prompts and completions to train any AWS models or give them to 3rd parties. [1] For these reasons (privacy, data sovereignty) I’m more inclined to use Bedrock as an LLM in my IDE. Today"
+      "description": "Lots of folks use the Claude IDE, or the Claude Code VSCode extension. Unfortunately, your prompts and completions are used (by default) to train Claude models. [0] AWS Bedrock, on the other hand, doesn’t use your prompts and completions to train any AWS models or give them to 3rd parties. [1] For these reasons (privacy, data sovereignty) I’m more inclined to use Bedrock as an LLM in my IDE. Today",
+      "date": null
     },
     {
       "link": "https://bacchi.org/posts/firecracker-overview/",
       "title": "Firecracker Virtualization Overview",
-      "description": "Firecracker is an open source virtualization technology created by Amazon Web Services (AWS) which underpins their AWS Lambda Functions as a Service (FaaS) serverless product. Firecracker was open sourced in 2018 [0] , making it possible for anyone to use this extremely fast and reliable system for their own projects and use cases. I’ve been researching the ecosystem lately and am impressed at the"
+      "description": "Firecracker is an open source virtualization technology created by Amazon Web Services (AWS) which underpins their AWS Lambda Functions as a Service (FaaS) serverless product. Firecracker was open sourced in 2018 [0] , making it possible for anyone to use this extremely fast and reliable system for their own projects and use cases. I’ve been researching the ecosystem lately and am impressed at the",
+      "date": null
     },
     {
       "link": "https://bacchi.org/posts/al2023-nvidia-dcgm/",
       "title": "Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023",
-      "description": "A short post discussing the installation of Nvidia Datacenter GPU Manager on Amazon Linux 2023. I recently had to figure this out using sketchy documentation, so I’m hoping this helps some folks out there doing similar head scratching. NOTE : This blog post does not include all steps to install Nvidia drivers. I assume you already have driver package(s) required for your application installed. Wha"
+      "description": "A short post discussing the installation of Nvidia Datacenter GPU Manager on Amazon Linux 2023. I recently had to figure this out using sketchy documentation, so I’m hoping this helps some folks out there doing similar head scratching. NOTE : This blog post does not include all steps to install Nvidia drivers. I assume you already have driver package(s) required for your application installed. Wha",
+      "date": null
     }
   ]
 }

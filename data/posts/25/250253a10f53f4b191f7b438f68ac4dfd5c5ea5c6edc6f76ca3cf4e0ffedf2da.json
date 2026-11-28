@@ -4,7 +4,8 @@
     {
       "link": "https://atoniolo76.github.io/writing/post/rdma-in-gvisor",
       "title": "RDMA in gVisor: A Deep Dive into GPU Networking",
-      "description": "How I enabled multi-node networking in gVisor sandboxes: a deep dive into RDMA internals and NVIDIA networking."
+      "description": "How I enabled multi-node networking in gVisor sandboxes: a deep dive into RDMA internals and NVIDIA networking.",
+      "date": null
     }
   ]
 }

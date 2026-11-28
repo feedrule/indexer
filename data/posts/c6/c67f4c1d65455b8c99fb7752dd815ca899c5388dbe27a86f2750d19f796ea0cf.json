@@ -4,17 +4,20 @@
     {
       "link": "https://waspdev.com/articles/2026-10-14/ai-is-not-just-a-tool-and-it-might-be-dangerous",
       "title": "AI isn't just a tool and it might be dangerous",
-      "description": "Many people say that AI is just another tool. But this is not quite true. Unlike any other tools, it doesn't just solve or automate some narrow problem, it constantly learns and adapts which allows it to compete with our cognitive abilities."
+      "description": "Many people say that AI is just another tool. But this is not quite true. Unlike any other tools, it doesn't just solve or automate some narrow problem, it constantly learns and adapts which allows it to compete with our cognitive abilities.",
+      "date": null
     },
     {
       "link": "https://waspdev.com/articles/2026-08-28/browsers-are-becoming-more-bloated",
       "title": "Browsers are becoming more bloated",
-      "description": "Modern browsers are basically operating systems disguised as applications and binary size bloat is an engineering concern. What will happen if browsers keep growing their size?"
+      "description": "Modern browsers are basically operating systems disguised as applications and binary size bloat is an engineering concern. What will happen if browsers keep growing their size?",
+      "date": null
     },
     {
       "link": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
       "title": "Avoid using \" \" in RSS",
-      "description": "\"<![CDATA[ ... ]]>\" is often used in feeds to escape XML special characters. However, it can cause issues in some edge cases."
+      "description": "\"<![CDATA[ ... ]]>\" is often used in feeds to escape XML special characters. However, it can cause issues in some edge cases.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "description": "Just by clicking a link, it’s possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones . Table of Contents Background VSCode Webview Security Model The Bug PoC and Protecting Yourself What VSCode Did Well Why Full Disclosure Timeline Background Did you know GitHub has this really cool feature called github.dev ? On any repository you have acces"
+      "description": "Just by clicking a link, it’s possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones . Table of Contents Background VSCode Webview Security Model The Bug PoC and Protecting Yourself What VSCode Did Well Why Full Disclosure Timeline Background Did you know GitHub has this really cool feature called github.dev ? On any repository you have acces",
+      "date": null
     },
     {
       "link": null,
       "title": "VSCode Remote Code Execution advisory",
-      "description": "tl;dr I found a remote code execution bug in VSCode that can be triggered from untrusted workspaces. Microsoft fixed it but marked it as moderate severity and ineligible under their bug bounty program. Scroll to the proof-of-concept section if you want to skip the details. Background Around two months ago, I was researching github.dev, a lightweight web based editor for Github that uses vscode in"
+      "description": "tl;dr I found a remote code execution bug in VSCode that can be triggered from untrusted workspaces. Microsoft fixed it but marked it as moderate severity and ineligible under their bug bounty program. Scroll to the proof-of-concept section if you want to skip the details. Background Around two months ago, I was researching github.dev, a lightweight web based editor for Github that uses vscode in",
+      "date": null
     },
     {
       "link": null,
       "title": "Hacking a Roku TV to Control Lights",
-      "description": "This is a rather large blog post consisting of multiple sections from some quick background information about the problem to an in-depth dive into the hacking process, reverse engineering and final custom application."
+      "description": "This is a rather large blog post consisting of multiple sections from some quick background information about the problem to an in-depth dive into the hacking process, reverse engineering and final custom application.",
+      "date": null
     }
   ]
 }

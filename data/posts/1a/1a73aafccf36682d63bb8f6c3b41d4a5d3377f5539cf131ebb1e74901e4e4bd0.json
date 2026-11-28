@@ -4,17 +4,20 @@
     {
       "link": "https://blog.shravanrevanna.me/i-built-my-own-ambilight-for-under-1k",
       "title": "I Built My Own Ambilight for Under ₹1k, on the Same ESP32 That Runs My AI Desk Pet",
-      "description": "102 WS2812B LEDs, one ESP32, custom firmware and HyperHDR on a Mac. How I built a monitor Ambilight for under ₹1,000 and beat a 287 ms bug."
+      "description": "102 WS2812B LEDs, one ESP32, custom firmware and HyperHDR on a Mac. How I built a monitor Ambilight for under ₹1,000 and beat a 287 ms bug.",
+      "date": null
     },
     {
       "link": "https://blog.shravanrevanna.me/reverse-engineering-a-xiaomi-camera-into-a-self-tracking-robot",
       "title": "Reverse-Engineering a Xiaomi Camera Into a Self-Tracking Robot",
-      "description": "I reverse-engineered a Xiaomi camera into a local self-tracking robot using computer vision, measured control loops, and stock firmware."
+      "description": "I reverse-engineered a Xiaomi camera into a local self-tracking robot using computer vision, measured control loops, and stock firmware.",
+      "date": null
     },
     {
       "link": "https://blog.shravanrevanna.me/chrome-dino-game-environment",
       "title": "I Built a Chrome Dino Game Environment for Humans, Bots, and LLMs",
-      "description": "Learn how I built a deterministic Chrome Dino game over WebSockets where humans, bots and LLMs share one protocol, with planning that beats latency."
+      "description": "Learn how I built a deterministic Chrome Dino game over WebSockets where humans, bots and LLMs share one protocol, with planning that beats latency.",
+      "date": null
     }
   ]
 }

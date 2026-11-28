@@ -4,17 +4,20 @@
     {
       "link": "https://gamov.io/workshops/codepocalypse-langchain4j/",
       "title": "Building Java agents with LangChain4j",
-      "description": "A companion to Codepocalypse Now: seven Java chapters covering chat, MCP tools, memory, skills, typed workflows, human approval, and observability with LangChain4j."
+      "description": "A companion to Codepocalypse Now: seven Java chapters covering chat, MCP tools, memory, skills, typed workflows, human approval, and observability with LangChain4j.",
+      "date": null
     },
     {
       "link": "https://gamov.io/posts/when-claude-is-offline/",
       "title": "When Claude Is Offline: Running a Local Coding Agent",
-      "description": "OpenCode and Pi can drive a real file-editing agent on a local Ollama model. Local models FTW"
+      "description": "OpenCode and Pi can drive a real file-editing agent on a local Ollama model. Local models FTW",
+      "date": null
     },
     {
       "link": "https://gamov.io/posts/chatgpt-35000-feet/",
       "title": "Why Pay for ChatGPT at 35,000 Feet?",
-      "description": "Rebuilt a ChatGPT tmux popup with local Ollama models. Benchmarked nine, picked a winner, and added auto-clipboard on /bye."
+      "description": "Rebuilt a ChatGPT tmux popup with local Ollama models. Benchmarked nine, picked a winner, and added auto-clipboard on /bye.",
+      "date": null
     }
   ]
 }

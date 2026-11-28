@@ -4,17 +4,20 @@
     {
       "link": "https://parnassus.co/reclaiming-macos-disk-space-from-parallels/",
       "title": "Reclaiming macOS disk space from Parallels",
-      "description": "Like many people I sometimes run out of disk space, and recently macOS kept giving disk space warnings as I installed software on a VM. Yet I was puzzled how the VM could possibly use so much space. I wanted to shrink the disk space my VM was using, and ChatGPT’s instructions were wrong. Here […] The post Reclaiming macOS disk space from Parallels appeared first on Parnassus ."
+      "description": "Like many people I sometimes run out of disk space, and recently macOS kept giving disk space warnings as I installed software on a VM. Yet I was puzzled how the VM could possibly use so much space. I wanted to shrink the disk space my VM was using, and ChatGPT’s instructions were wrong. Here […] The post Reclaiming macOS disk space from Parallels appeared first on Parnassus .",
+      "date": null
     },
     {
       "link": "https://parnassus.co/building-a-copilot-2-parsing-converting/",
       "title": "Building a Copilot #2: Parsing & Converting On The Fly",
-      "description": "Welcome back: we’re discussing how to write an AI coding / copilot service named The Owl. This is the post I have been most looking forward to writing, because it describes a logical but semi-crazy sequence of incremental streamed parsing layers. At the end of Part 1, we had a Python server that streamed text […] The post Building a Copilot #2: Parsing & Converting On The Fly appeared first on Par"
+      "description": "Welcome back: we’re discussing how to write an AI coding / copilot service named The Owl. This is the post I have been most looking forward to writing, because it describes a logical but semi-crazy sequence of incremental streamed parsing layers. At the end of Part 1, we had a Python server that streamed text […] The post Building a Copilot #2: Parsing & Converting On The Fly appeared first on Par",
+      "date": null
     },
     {
       "link": "https://parnassus.co/building-a-copilot-1-server-fundamentals/",
       "title": "Building a Copilot: #1 Servers, Streaming & Fundamentals",
-      "description": "Hi folks. Today I’d like to start blogging about a personal project I’ve been working on for many months: building a copilot, an AI coding assistant. The goal is an assistant that initially targets Delphi, but could be expanded to many other languages. It’s tentatively named The Owl. Today we’ll go on a journey through: […] The post Building a Copilot: #1 Servers, Streaming & Fundamentals appeared"
+      "description": "Hi folks. Today I’d like to start blogging about a personal project I’ve been working on for many months: building a copilot, an AI coding assistant. The goal is an assistant that initially targets Delphi, but could be expanded to many other languages. It’s tentatively named The Owl. Today we’ll go on a journey through: […] The post Building a Copilot: #1 Servers, Streaming & Fundamentals appeared",
+      "date": null
     }
   ]
 }

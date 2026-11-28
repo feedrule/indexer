@@ -4,17 +4,20 @@
     {
       "link": "https://hexaquo.at/pages/using-godots-renderingserver-for-dynamically-rendering-billboards-thumbnails-and-more/",
       "title": "Using Godot's RenderingServer for Dynamically Rendering Billboards, Thumbnails, And More",
-      "description": "Usually we think of rendering as “turning our scene into a frame on the screen”. However, as described in Rendering to Textures: Shadows, Cubemaps, and Special Effects, that’s not the only use-case for the rendering pipeline. Sometimes, we want to render something onto a texture and use that texture elsewhere. One common example is thumbnails: if you have a 3D game with an inventory, you may not w"
+      "description": "Usually we think of rendering as “turning our scene into a frame on the screen”. However, as described in Rendering to Textures: Shadows, Cubemaps, and Special Effects, that’s not the only use-case for the rendering pipeline. Sometimes, we want to render something onto a texture and use that texture elsewhere. One common example is thumbnails: if you have a 3D game with an inventory, you may not w",
+      "date": null
     },
     {
       "link": "https://hexaquo.at/pages/grass-rendering-series-part-4-level-of-detail-tricks-for-infinite-plains-of-grass-in-godot/",
       "title": "Grass Rendering Series Part 4: Level-Of-Detail Tricks for Infinite Plains of Grass in Godot",
-      "description": "This article expands on the previous parts of the grass rendering series and makes it feasible for real-world use with a level-of-detail system utilizing impostors. If you want to implement a grass effect from scratch yourself, definitely go through the previous parts first, starting at Grass Rendering Series Part 1: Theory. However, this tutorial will also be useful if you just want to learn abou"
+      "description": "This article expands on the previous parts of the grass rendering series and makes it feasible for real-world use with a level-of-detail system utilizing impostors. If you want to implement a grass effect from scratch yourself, definitely go through the previous parts first, starting at Grass Rendering Series Part 1: Theory. However, this tutorial will also be useful if you just want to learn abou",
+      "date": null
     },
     {
       "link": "https://hexaquo.at/pages/environment-and-light-in-godot-setting-up-for-photorealistic-3d-graphics/",
       "title": "Environment and Light in Godot: Setting Up For Photorealistic 3D Graphics",
-      "description": "When starting up an empty 3D scene in Godot, the editor provides a default lighting and environment setup. That way, you can start working on a scene without immediately having to figure out the lighting and background of a pitch-black scene. It looks something like this: This is a fine start as a general-purpose entry point. However, I’d argue that you’ll want to invest some time into changing th"
+      "description": "When starting up an empty 3D scene in Godot, the editor provides a default lighting and environment setup. That way, you can start working on a scene without immediately having to figure out the lighting and background of a pitch-black scene. It looks something like this: This is a fine start as a general-purpose entry point. However, I’d argue that you’ll want to invest some time into changing th",
+      "date": null
     }
   ]
 }

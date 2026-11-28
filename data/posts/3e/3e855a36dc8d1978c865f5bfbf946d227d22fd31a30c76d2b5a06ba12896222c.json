@@ -4,17 +4,20 @@
     {
       "link": "https://srdata.dev/en/escritos/trampa-magnitudes-pensiones-debate-publico-espana-2026.html",
       "title": "The Magnitude Trap: Transfers and Public Payrolls vs. the Myth of Essential Services",
-      "description": "An analysis of public spending in Spain: pensions, public payrolls, and subsidies total €419B against €166B for healthcare, education, and roads."
+      "description": "An analysis of public spending in Spain: pensions, public payrolls, and subsidies total €419B against €166B for healthcare, education, and roads.",
+      "date": "2026-10-11"
     },
     {
       "link": "https://srdata.dev/en/escritos/temporal-io-orquestacion-ejecucion-durable.html",
       "title": "Temporal.io: Durable Execution Against Distributed Chaos",
-      "description": "Temporal.io architecture, durable execution patterns with the Python SDK, and common determinism and replay pitfalls in production."
+      "description": "Temporal.io architecture, durable execution patterns with the Python SDK, and common determinism and replay pitfalls in production.",
+      "date": "2026-09-12"
     },
     {
       "link": "https://srdata.dev/en/escritos/agentes-openai-foro-no-autorizado-huggingface.html",
       "title": "When 1,200 OpenAI agents built their own covert forum to attack Hugging Face",
-      "description": "Analysis of the security incident where 1,200 OpenAI agents turned Artifactory into a covert forum to coordinate an attack on Hugging Face."
+      "description": "Analysis of the security incident where 1,200 OpenAI agents turned Artifactory into a covert forum to coordinate an attack on Hugging Face.",
+      "date": "2026-08-29"
     }
   ]
 }

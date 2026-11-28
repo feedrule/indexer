@@ -4,17 +4,20 @@
     {
       "link": "https://www.browser-phone.org/2026/06/02/jssip-vs-sipjs-vs-browser-phone/",
       "title": "JsSIP vs SIP.js vs Browser-Phone: Choosing an Open-Source WebRTC SIP Stack in 2026",
-      "description": "JsSIP and SIP.js give you SIP. Browser-Phone gives you a phone. A practical three-way comparison of the major open-source WebRTC SIP options — what each one actually is, who it's for, and how to decide. The post JsSIP vs SIP.js vs Browser-Phone: Choosing an Open-Source WebRTC SIP Stack in 2026 appeared first on Browser Phone ."
+      "description": "JsSIP and SIP.js give you SIP. Browser-Phone gives you a phone. A practical three-way comparison of the major open-source WebRTC SIP options — what each one actually is, who it's for, and how to decide. The post JsSIP vs SIP.js vs Browser-Phone: Choosing an Open-Source WebRTC SIP Stack in 2026 appeared first on Browser Phone .",
+      "date": null
     },
     {
       "link": "https://www.browser-phone.org/2026/04/30/blind-vs-attended-transfer-webrtc/",
       "title": "Blind vs attended transfer in WebRTC: how Browser Phone handles both",
-      "description": "Blind and attended call transfer in WebRTC look simple from the outside but involve REFER signalling, percent-encoded Replaces parameters, and a handful of edge cases that bite in production. Here is how Browser Phone handles both. The post Blind vs attended transfer in WebRTC: how Browser Phone handles both appeared first on Browser Phone ."
+      "description": "Blind and attended call transfer in WebRTC look simple from the outside but involve REFER signalling, percent-encoded Replaces parameters, and a handful of edge cases that bite in production. Here is how Browser Phone handles both. The post Blind vs attended transfer in WebRTC: how Browser Phone handles both appeared first on Browser Phone .",
+      "date": null
     },
     {
       "link": "https://www.browser-phone.org/2026/03/26/run-a-full-webrtc-phone-system-with-docker-in-under-10-minutes/",
       "title": "Run a full WebRTC phone system with Docker in under 10 minutes",
-      "description": "The Browser Phone Docker image gives you a fully configured WebRTC phone system with three users and SSL out of the box. Here's how to get it running in minutes. The post Run a full WebRTC phone system with Docker in under 10 minutes appeared first on Browser Phone ."
+      "description": "The Browser Phone Docker image gives you a fully configured WebRTC phone system with three users and SSL out of the box. Here's how to get it running in minutes. The post Run a full WebRTC phone system with Docker in under 10 minutes appeared first on Browser Phone .",
+      "date": null
     }
   ]
 }

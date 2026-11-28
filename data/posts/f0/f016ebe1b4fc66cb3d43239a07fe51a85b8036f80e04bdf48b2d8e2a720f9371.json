@@ -4,17 +4,20 @@
     {
       "link": "https://aboullaite.me/agentic-video-understanding-gemini-spring-boot/",
       "title": "Agentic Video Understanding with Gemini & Spring Boot!",
-      "description": "I built Fhemni, a Spring Boot app that uses Gemini's agentic video understanding to turn long YouTube interviews into structured briefings with fact-checked claims — in Arabic, Darija, French, or English."
+      "description": "I built Fhemni, a Spring Boot app that uses Gemini's agentic video understanding to turn long YouTube interviews into structured briefings with fact-checked claims — in Arabic, Darija, French, or English.",
+      "date": null
     },
     {
       "link": "https://aboullaite.me/a2ui-spring-boot-mcp/",
       "title": "A2UI & MCP: agents that send UIs, not just text!",
-      "description": "Exploring A2UI, Google's declarative protocol for agent-driven UIs, by building a Spring Boot MCP server. Includes a comparison with MCP Apps and the Generative UI landscape."
+      "description": "Exploring A2UI, Google's declarative protocol for agent-driven UIs, by building a Spring Boot MCP server. Includes a comparison with MCP Apps and the Generative UI landscape.",
+      "date": null
     },
     {
       "link": "https://aboullaite.me/java-27-features/",
       "title": "Java 27 features: Compact Object Headers by default, JFR redaction & post-quantum TLS!",
-      "description": "A JEP-by-JEP tour of JDK 27, tested on the early-access build: compact object headers by default, G1 everywhere, JFR secret redaction and post-quantum TLS."
+      "description": "A JEP-by-JEP tour of JDK 27, tested on the early-access build: compact object headers by default, G1 everywhere, JFR secret redaction and post-quantum TLS.",
+      "date": null
     }
   ]
 }

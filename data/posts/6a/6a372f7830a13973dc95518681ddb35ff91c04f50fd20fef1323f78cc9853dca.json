@@ -4,17 +4,20 @@
     {
       "link": "https://ivanpleshkov.dev/blog/turboquant/",
       "title": "TurboQuant + RaBitQ: a hybrid approach in Qdrant",
-      "description": "How I shipped a TurboQuant + RaBitQ hybrid in Qdrant 1.18."
+      "description": "How I shipped a TurboQuant + RaBitQ hybrid in Qdrant 1.18.",
+      "date": null
     },
     {
       "link": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
       "title": "Polynomial autoencoder",
-      "description": "A closed-form autoencoder: PCA encoder + quadratic Ridge decoder. On FiQA it gives 4× compression of mxbai-embed-large-v1 at -0.88 p.p. NDCG@10, +1.34 p.p. over PCA. No SGD, no neural networks."
+      "description": "A closed-form autoencoder: PCA encoder + quadratic Ridge decoder. On FiQA it gives 4× compression of mxbai-embed-large-v1 at -0.88 p.p. NDCG@10, +1.34 p.p. over PCA. No SGD, no neural networks.",
+      "date": null
     },
     {
       "link": "https://ivanpleshkov.dev/blog/game-of-life-compute-shader/",
       "title": "Game of Life on a compute shader",
-      "description": "A WGSL implementation of Conway's Game of Life that uses tiles, a halo region, and a staging buffer to keep the update in-place on a single storage buffer without cross-workgroup races. ~280 lines of WGSL, runs in the browser."
+      "description": "A WGSL implementation of Conway's Game of Life that uses tiles, a halo region, and a staging buffer to keep the update in-place on a single storage buffer without cross-workgroup races. ~280 lines of WGSL, runs in the browser.",
+      "date": null
     }
   ]
 }

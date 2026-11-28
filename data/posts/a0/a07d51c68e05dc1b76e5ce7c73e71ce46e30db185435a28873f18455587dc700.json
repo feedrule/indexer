@@ -4,17 +4,20 @@
     {
       "link": "https://cutler.sg/blog/2026-11-agent-workflow-manual-fallback",
       "title": "Can a Human Finish the Work When the Agent Stops?",
-      "description": "A manual takeover needs control of the next write, evidence of completed work and a way to resolve effects whose outcome is still unknown."
+      "description": "A manual takeover needs control of the next write, evidence of completed work and a way to resolve effects whose outcome is still unknown.",
+      "date": "2026-11-20"
     },
     {
       "link": "https://cutler.sg/blog/2026-11-parallel-agents-shared-state",
       "title": "Parallel Agents Need More Than Separate Branches",
-      "description": "Separate worktrees help with file edits; an ownership map makes shared databases, ports, contracts and integration checks explicit."
+      "description": "Separate worktrees help with file edits; an ownership map makes shared databases, ports, contracts and integration checks explicit.",
+      "date": "2026-11-13"
     },
     {
       "link": "https://cutler.sg/blog/2026-11-tested-revision-deployed-revision",
       "title": "Your Tests Passed. Which Revision Is Running?",
-      "description": "A release receipt should connect the tested candidate, built artifact, deployment and production route without pretending one smoke check proves everything."
+      "description": "A release receipt should connect the tested candidate, built artifact, deployment and production route without pretending one smoke check proves everything.",
+      "date": "2026-11-06"
     }
   ]
 }

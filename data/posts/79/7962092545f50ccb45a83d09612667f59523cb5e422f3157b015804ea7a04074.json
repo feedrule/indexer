@@ -4,17 +4,20 @@
     {
       "link": "https://oliverevans.dev/blog/blueberries-voi/",
       "title": "How Fresh Are Your Blueberries? And What Would You Do If You Knew?",
-      "description": "Investigating the value of Sunrise 2027 for data-driven produce ordering - a POMDP model of perishable inventory, particle filtering, and what richer observation data actually buys you in profit."
+      "description": "Investigating the value of Sunrise 2027 for data-driven produce ordering - a POMDP model of perishable inventory, particle filtering, and what richer observation data actually buys you in profit.",
+      "date": null
     },
     {
       "link": "https://oliverevans.dev/blog/emacs-gpg/",
       "title": "Signing git commits from emacs with magit and pinentry",
-      "description": "Why magit can hit “Inappropriate ioctl for device” with gpg-agent, and an elisp plus gpg-agent loopback approach that unlocks the key in Emacs before the git subprocess runs."
+      "description": "Why magit can hit “Inappropriate ioctl for device” with gpg-agent, and an elisp plus gpg-agent loopback approach that unlocks the key in Emacs before the git subprocess runs.",
+      "date": null
     },
     {
       "link": "https://oliverevans.dev/blog/lammps/",
       "title": "Intro to LAMMPS",
-      "description": "A beginner-friendly tour of LAMMPS molecular dynamics: input scripts, data files, pair styles, and visualization with VMD — written to lower the learning curve I wish I'd had."
+      "description": "A beginner-friendly tour of LAMMPS molecular dynamics: input scripts, data files, pair styles, and visualization with VMD — written to lower the learning curve I wish I'd had.",
+      "date": null
     }
   ]
 }

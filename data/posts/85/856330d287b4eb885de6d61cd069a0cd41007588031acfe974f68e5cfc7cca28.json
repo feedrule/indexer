@@ -4,17 +4,20 @@
     {
       "link": "https://adam.bronte.me/benchmarking-llms-using-wordle/",
       "title": "Benchmarking LLMs using Wordle",
-      "description": "LLM benchmarks are sort of an odd thing. Every time a new model is released these fancy graphs saying they are X% better in Y category and compare themselves against each other. Some times they line up to real world usage, but most of the time you should probably just ignore them. (Including this one! probably) Introducing Wordle Bench . A simple benchmark on how well a model can solve wordle. Why"
+      "description": "LLM benchmarks are sort of an odd thing. Every time a new model is released these fancy graphs saying they are X% better in Y category and compare themselves against each other. Some times they line up to real world usage, but most of the time you should probably just ignore them. (Including this one! probably) Introducing Wordle Bench . A simple benchmark on how well a model can solve wordle. Why",
+      "date": null
     },
     {
       "link": "https://adam.bronte.me/building-your-own-rag/",
       "title": "Building your own RAG",
-      "description": "I like to read and I read a good amount. When I'm reading a series and I'm waiting for the next book to come out, I often forget what happened in the previous book. This seems like a great use case to build a rag! What is needed? A book in epub An epub parser Chunker Vector store LLM to query A book in epub There are tons of public domain ebooks you can get started with at Project Gutenberg .For t"
+      "description": "I like to read and I read a good amount. When I'm reading a series and I'm waiting for the next book to come out, I often forget what happened in the previous book. This seems like a great use case to build a rag! What is needed? A book in epub An epub parser Chunker Vector store LLM to query A book in epub There are tons of public domain ebooks you can get started with at Project Gutenberg .For t",
+      "date": null
     },
     {
       "link": "https://adam.bronte.me/dogfooding-your-product-is-not-enough/",
       "title": "Dogfooding your product is not enough",
-      "description": "You should use the product you are building, yes? It seems obvious but there is a bit of nuance to this process. While building Corgea , we try to use our own product as much as possible. We use its core functionalities and its integrated into a normal flow. The other day I was using Corgea to accomplish a very specific task. There was a different intent around my usage and brought a new perspecti"
+      "description": "You should use the product you are building, yes? It seems obvious but there is a bit of nuance to this process. While building Corgea , we try to use our own product as much as possible. We use its core functionalities and its integrated into a normal flow. The other day I was using Corgea to accomplish a very specific task. There was a different intent around my usage and brought a new perspecti",
+      "date": null
     }
   ]
 }

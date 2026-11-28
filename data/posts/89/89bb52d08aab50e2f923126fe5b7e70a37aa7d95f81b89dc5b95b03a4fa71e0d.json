@@ -4,17 +4,20 @@
     {
       "link": "https://www.daveabrock.com/2025/12/14/write-cleaner-code-with-c-14s-null-conditional-assignment-operator/",
       "title": "Write cleaner code with C# 14's null-conditional assignment operator",
-      "description": "ℹ️This post was originally published on the Telerik Developer Blog. When looking at the C# 14 updates coming out soon, I discovered a feature and thought, \"how did this not already exist?\" If you've been using C#'s null-conditional operators (?. and ?[]) for years"
+      "description": "ℹ️This post was originally published on the Telerik Developer Blog. When looking at the C# 14 updates coming out soon, I discovered a feature and thought, \"how did this not already exist?\" If you've been using C#'s null-conditional operators (?. and ?[]) for years",
+      "date": null
     },
     {
       "link": "https://www.daveabrock.com/2025/12/07/parsing-santas-workshop-with-strongly-typed-data-without-the-coal/",
       "title": "Parsing Santa's workshop with strongly typed data (without the coal)",
-      "description": "This is my post for the 2025 C# Advent. Check out all the great posts! Every year, Santa's workshop runs on data: delivery manifests, elf schedules, chimney dimensions, and naughty/nice scores. And like any other legacy system, it's held together with strings, DateTime comparisons, and"
+      "description": "This is my post for the 2025 C# Advent. Check out all the great posts! Every year, Santa's workshop runs on data: delivery manifests, elf schedules, chimney dimensions, and naughty/nice scores. And like any other legacy system, it's held together with strings, DateTime comparisons, and",
+      "date": null
     },
     {
       "link": "https://www.daveabrock.com/2025/12/05/extension-properties-c-14s-game-changing-feature-for-cleaner-code/",
       "title": "Extension Properties: C# 14's Game-Changing Feature for Cleaner Code",
-      "description": "This post was originally published on the Telerik Developer Blog. Since C# 3 dropped in 2007, C# developers have been using extension methods to add functionality to types without touching their source code. Whether you're extending types from the .NET BCL, third-party libraries, or even your own"
+      "description": "This post was originally published on the Telerik Developer Blog. Since C# 3 dropped in 2007, C# developers have been using extension methods to add functionality to types without touching their source code. Whether you're extending types from the .NET BCL, third-party libraries, or even your own",
+      "date": null
     }
   ]
 }

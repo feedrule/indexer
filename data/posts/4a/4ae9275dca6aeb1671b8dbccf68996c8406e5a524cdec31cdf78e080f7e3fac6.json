@@ -4,17 +4,20 @@
     {
       "link": "https://valarmorghulis.io/tech/202604-run-stdio-mcp-with-python-in-claude-desktop/",
       "title": "Run stdio MCP server with Python in Claude Desktop",
-      "description": "Mostly, the stdio MCP servers are configurated in claude_desktop_config.json using mcp-remote via node.js . Here are a few notes if you want to run stdio MCP server with Python in Claude Desktop. run with uv Use uv run xxx or uv tool run xxx to run a stdio server, the config like 1 { 2 \"mcpServers\" : { 3 \"your-mcp\" : { 4 \"command\" : \"uv\" , 5 \"args\" : [ \"run\" , \"your-mcp-exeutable\" ] 6 } 7 } 8 } Yo"
+      "description": "Mostly, the stdio MCP servers are configurated in claude_desktop_config.json using mcp-remote via node.js . Here are a few notes if you want to run stdio MCP server with Python in Claude Desktop. run with uv Use uv run xxx or uv tool run xxx to run a stdio server, the config like 1 { 2 \"mcpServers\" : { 3 \"your-mcp\" : { 4 \"command\" : \"uv\" , 5 \"args\" : [ \"run\" , \"your-mcp-exeutable\" ] 6 } 7 } 8 } Yo",
+      "date": null
     },
     {
       "link": "https://valarmorghulis.io/tech/202603-openclaw-matrix-plugin-setup-in-docker/",
       "title": "OpenClaw matrix plugin setup in docker",
-      "description": "The OpenClaw matrix plugin has a npm dependency issue, it will cause error like 1 [plugins] matrix: crypto runtime bootstrap failed: Cannot find module '@vector-im/matrix-bot-sdk' 2 Require stack: 3 - /app/extensions/matrix/src/matrix/deps.ts Use openclaw plugins install @openclaw/matrix as mentioned if OpenClaw official document always result the docker container failed to start. I managed to use"
+      "description": "The OpenClaw matrix plugin has a npm dependency issue, it will cause error like 1 [plugins] matrix: crypto runtime bootstrap failed: Cannot find module '@vector-im/matrix-bot-sdk' 2 Require stack: 3 - /app/extensions/matrix/src/matrix/deps.ts Use openclaw plugins install @openclaw/matrix as mentioned if OpenClaw official document always result the docker container failed to start. I managed to use",
+      "date": null
     },
     {
       "link": "https://valarmorghulis.io/comic/202601-ai-glasses-and-the-eye-doctor/",
       "title": "AI Glasses and the eye doctor",
-      "description": "Don't take it serious! You can always give code yes to get it cooling down."
+      "description": "Don't take it serious! You can always give code yes to get it cooling down.",
+      "date": null
     }
   ]
 }

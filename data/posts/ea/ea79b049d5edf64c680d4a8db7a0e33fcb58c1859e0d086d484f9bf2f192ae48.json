@@ -4,17 +4,20 @@
     {
       "link": "https://alajmovic.com/game-reviews/",
       "title": "game-reviews",
-      "description": "This is a list of games I've played and a short review for each one of them."
+      "description": "This is a list of games I've played and a short review for each one of them.",
+      "date": null
     },
     {
       "link": "https://alajmovic.com/projects/",
       "title": "projects",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://alajmovic.com/projects/sake/",
       "title": "sake",
-      "description": "[sake](https://github.com/alajmo/sake) is a CLI tool that enables you to run commands on servers via ssh. Think of it like make, you define servers and tasks in a config file and then run the tasks on..."
+      "description": "[sake](https://github.com/alajmo/sake) is a CLI tool that enables you to run commands on servers via ssh. Think of it like make, you define servers and tasks in a config file and then run the tasks on...",
+      "date": null
     }
   ]
 }

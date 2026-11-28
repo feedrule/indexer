@@ -4,17 +4,20 @@
     {
       "link": "https://jamesendreshowell.com/2026-05-23-match-emacs-and-gnome-light-dark-theme.html",
       "title": "Match Emacs and GNOME light/dark theme",
-      "description": "2026 May 23 Light or dark? GNOME side I like both, depending on how much light is in the room. I much prefer to set my desktop light or dark manually than to automate with timers. On GNOME light or dark is color-scheme and you can set read and set it from the command line. You can read it from the command line (default light theme is called default ) $ gsettings get org.gnome.desktop.interface col"
+      "description": "2026 May 23 Light or dark? GNOME side I like both, depending on how much light is in the room. I much prefer to set my desktop light or dark manually than to automate with timers. On GNOME light or dark is color-scheme and you can set read and set it from the command line. You can read it from the command line (default light theme is called default ) $ gsettings get org.gnome.desktop.interface col",
+      "date": null
     },
     {
       "link": "https://jamesendreshowell.com/2026-04-15-embedding-a-mastodon-thread-as-comments-to-a-blog-post.html",
       "title": "Embedding a Mastodon thread as comments to a blog post",
-      "description": "2026 Apr 15 I wrote org-static-blog-emfed , a little Emacs package that extends org-static-blog with the ability to embed a Mastodon thread in a blog post to serve as comments . The root of the Mastodon thread also serves as an announcement of the blog post to your followers. It’s based on Adrian Sampson’s Emfed, and of course Bastian Bechtold’s org-static-blog . I had shared it before, but alas,"
+      "description": "2026 Apr 15 I wrote org-static-blog-emfed , a little Emacs package that extends org-static-blog with the ability to embed a Mastodon thread in a blog post to serve as comments . The root of the Mastodon thread also serves as an announcement of the blog post to your followers. It’s based on Adrian Sampson’s Emfed, and of course Bastian Bechtold’s org-static-blog . I had shared it before, but alas,",
+      "date": null
     },
     {
       "link": "https://jamesendreshowell.com/2026-04-04-my-first-advice-in-emacs-lisp.html",
       "title": "My first advice! (in Emacs Lisp)",
-      "description": "2026 Apr 04 It was really fun to learn about advising Lisp functions to extend functionality in Emacs. My first use case was to run a custom function every time a certain function in Bastian Bechtold ’s org-static-blog is called. Of course, I could customize that function directly in my own fork, but Lisp advice allows you to modify functions without clobbering them directly. This approach has aes"
+      "description": "2026 Apr 04 It was really fun to learn about advising Lisp functions to extend functionality in Emacs. My first use case was to run a custom function every time a certain function in Bastian Bechtold ’s org-static-blog is called. Of course, I could customize that function directly in my own fork, but Lisp advice allows you to modify functions without clobbering them directly. This approach has aes",
+      "date": null
     }
   ]
 }

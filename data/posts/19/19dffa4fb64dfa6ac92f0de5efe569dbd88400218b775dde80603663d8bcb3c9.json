@@ -4,17 +4,20 @@
     {
       "link": "http://kronosapiens.github.io/blog/2026/03/29/implementing-active-ranking.html",
       "title": "Implementing Active Ranking",
-      "description": "A core task in social choice is the allocation of fixed resources among a set of items: funding across projects, budget across priorities, prize money across submissions. The output are weights – percentages out of 100 which say how valuable each item is relative to the others. A common approach – asking people to score items on a scale, and then taking some sort of average – is fast but unreliabl"
+      "description": "A core task in social choice is the allocation of fixed resources among a set of items: funding across projects, budget across priorities, prize money across submissions. The output are weights – percentages out of 100 which say how valuable each item is relative to the others. A common approach – asking people to score items on a scale, and then taking some sort of average – is fast but unreliabl",
+      "date": null
     },
     {
       "link": "http://kronosapiens.github.io/blog/2026/02/07/reinventing-the-wheel.html",
       "title": "Reinventing the Wheel",
-      "description": "This essay describes a research process culminating in a significant overhaul of Chore Wheel’s internals. The research itself – analysis, dead ends , and eventual solution – was a collaboration between myself and Anthropic’s Claude taking place over the course of about four nighttime sessions. Afterwards, we wrote up this report based on our notes – Claude drafted, I edited. From my ChatGPT year-i"
+      "description": "This essay describes a research process culminating in a significant overhaul of Chore Wheel’s internals. The research itself – analysis, dead ends , and eventual solution – was a collaboration between myself and Anthropic’s Claude taking place over the course of about four nighttime sessions. Afterwards, we wrote up this report based on our notes – Claude drafted, I edited. From my ChatGPT year-i",
+      "date": null
     },
     {
       "link": "http://kronosapiens.github.io/blog/2025/12/14/pairwise-paradigm.html",
       "title": "The Pairwise Paradigm",
-      "description": "The Pairwise Paradigm Abstract: Pairwise methods are best thought of as composing a paradigm for turning scarce attention into robust allocation signals . With the right algorithms , interface , and audience , they can support the continuous funding of ecosystems at surprisingly low attention cost. Thanks to Carl Cervone, David Gasquez, Ori Shimony, and Dandelion Mané for feedback on earlier versi"
+      "description": "The Pairwise Paradigm Abstract: Pairwise methods are best thought of as composing a paradigm for turning scarce attention into robust allocation signals . With the right algorithms , interface , and audience , they can support the continuous funding of ecosystems at surprisingly low attention cost. Thanks to Carl Cervone, David Gasquez, Ori Shimony, and Dandelion Mané for feedback on earlier versi",
+      "date": null
     }
   ]
 }

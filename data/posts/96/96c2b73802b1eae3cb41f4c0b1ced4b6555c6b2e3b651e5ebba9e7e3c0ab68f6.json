@@ -4,17 +4,20 @@
     {
       "link": "https://andrewhathaway.net/blog/ambient-cost-display-for-octopus-energy/",
       "title": "Building an Ambient Energy Cost Display Using the Octopus Energy API",
-      "description": "I built a private TRMNL plugin powered by Octopus Energy's GraphQL API to show today's gas and electricity consumption and cost in an ambient display. Get authenticated, pull telemetry and calculate the costs to provide a HTTP endpoint that returns the summarised cost and consumption."
+      "description": "I built a private TRMNL plugin powered by Octopus Energy's GraphQL API to show today's gas and electricity consumption and cost in an ambient display. Get authenticated, pull telemetry and calculate the costs to provide a HTTP endpoint that returns the summarised cost and consumption.",
+      "date": null
     },
     {
       "link": "https://andrewhathaway.net/blog/ag-sh/",
       "title": "ag.sh",
-      "description": "Command-line ADE tooling to run multiple Claude Code/AI agents in parallel - each in its own isolated git worktree. Spawn, manage, and orchestrate AI-powered development across concurrent tasks without stepping on your own changes."
+      "description": "Command-line ADE tooling to run multiple Claude Code/AI agents in parallel - each in its own isolated git worktree. Spawn, manage, and orchestrate AI-powered development across concurrent tasks without stepping on your own changes.",
+      "date": null
     },
     {
       "link": "https://andrewhathaway.net/blog/manifest-pattern/",
       "title": "Type-Safe User Interfaces & the Manifest Pattern",
-      "description": "The Manifest Pattern offers a structured way to build fully type-safe, scalable user interfaces in TypeScript. By defining behaviour, configuration, and UI components inside clear manifest implementations - and accessing them through a registry - you gain safer builds, cleaner abstractions, and dynamic interfaces that grow without becoming fragile. Ideal for complex dashboards, configuration tools"
+      "description": "The Manifest Pattern offers a structured way to build fully type-safe, scalable user interfaces in TypeScript. By defining behaviour, configuration, and UI components inside clear manifest implementations - and accessing them through a registry - you gain safer builds, cleaner abstractions, and dynamic interfaces that grow without becoming fragile. Ideal for complex dashboards, configuration tools",
+      "date": null
     }
   ]
 }

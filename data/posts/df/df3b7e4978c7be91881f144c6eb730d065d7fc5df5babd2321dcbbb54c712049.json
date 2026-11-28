@@ -4,17 +4,20 @@
     {
       "link": "https://nrehiew.github.io/blog/sft_rl_opd/",
       "title": "SFT, RL, and On-Policy Distillation Through a Distributional Lens",
-      "description": "I have been thinking about post-training methods in terms of distributions. A language model is a distribution over sequences. When we post-train it and attempt to teach it a task, we are reshaping this distribution. Different post-training methods differ in how they reshape this distribution, what they treat as the target and how directly they define this target. This is neither a very precise st"
+      "description": "I have been thinking about post-training methods in terms of distributions. A language model is a distribution over sequences. When we post-train it and attempt to teach it a task, we are reshaping this distribution. Different post-training methods differ in how they reshape this distribution, what they treat as the target and how directly they define this target. This is neither a very precise st",
+      "date": null
     },
     {
       "link": "https://nrehiew.github.io/blog/minimal_editing/",
       "title": "Coding Models Are Doing Too Much",
-      "description": "Code for this post is available here. AI-assisted coding has become the norm and with tools like Cursor, GitHub Copilot, Claude Code, Codex, we are increasingly letting models touch our code. If you have used any of these tools in the past year, you have probably experienced something like this: you ask the model to fix a simple bug (perhaps a single off-by-one error, or maybe a wrong operator). T"
+      "description": "Code for this post is available here. AI-assisted coding has become the norm and with tools like Cursor, GitHub Copilot, Claude Code, Codex, we are increasingly letting models touch our code. If you have used any of these tools in the past year, you have probably experienced something like this: you ask the model to fix a simple bug (perhaps a single off-by-one error, or maybe a wrong operator). T",
+      "date": null
     },
     {
       "link": "https://nrehiew.github.io/blog/long_context/",
       "title": "Evaluating Long Context (Reasoning) Ability",
-      "description": "Pass@1 scores on the 128k subset of LongCodeEdit. Reasoning models and long agent trajectories are eating up valuable space in the context window. In response, models are being released with ever-increasing context windows; the latest, Grok 4 Fast, has a 2 million token window. Unfortunately, as anyone who has worked with these models knows, the number of tokens a model can accept as input is not"
+      "description": "Pass@1 scores on the 128k subset of LongCodeEdit. Reasoning models and long agent trajectories are eating up valuable space in the context window. In response, models are being released with ever-increasing context windows; the latest, Grok 4 Fast, has a 2 million token window. Unfortunately, as anyone who has worked with these models knows, the number of tokens a model can accept as input is not",
+      "date": null
     }
   ]
 }

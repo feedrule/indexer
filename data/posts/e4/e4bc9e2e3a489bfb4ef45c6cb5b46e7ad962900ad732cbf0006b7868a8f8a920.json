@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Priveil: pseudonymisation for Australian financial data",
-      "description": "Photo by boris misevic on Unsplash GitHub — mitchelllisle/priveil ↗ · pip install priveil · Python · FastAPI · MIT Before I talk about what Priveil does, I want to be honest about what it doesn’t do — because that distinction matters more than any feature. Priveil does not anonymise data. It pseudonymises it. Those two words sound similar, but the difference is the difference between a locked door"
+      "description": "Photo by boris misevic on Unsplash GitHub — mitchelllisle/priveil ↗ · pip install priveil · Python · FastAPI · MIT Before I talk about what Priveil does, I want to be honest about what it doesn’t do — because that distinction matters more than any feature. Priveil does not anonymise data. It pseudonymises it. Those two words sound similar, but the difference is the difference between a locked door",
+      "date": null
     },
     {
       "link": null,
       "title": "Hacking Gandalf: lessons from an LLM prompt-injection game",
-      "description": "Photo by Aron Visuals on Unsplash Gandalf is a game built by Lakera where an AI model has been given a secret password and your job is to talk it into revealing it. Each level adds a new defence, and the only tool you have is the prompt you type into the box. It’s the most approachable introduction to prompt injection I’ve come across — no setup, no code, just you and a stubborn wizard. I worked t"
+      "description": "Photo by Aron Visuals on Unsplash Gandalf is a game built by Lakera where an AI model has been given a secret password and your job is to talk it into revealing it. Each level adds a new defence, and the only tool you have is the prompt you type into the box. It’s the most approachable introduction to prompt injection I’ve come across — no setup, no code, just you and a stubborn wizard. I worked t",
+      "date": null
     },
     {
       "link": null,
       "title": "Monstermash gets an MCP server",
-      "description": "Back in 2023 I wrote about Monstermash — a small CLI tool for NaCl/Curve25519 encryption. The core idea was simple: two people exchange public keys, encrypt messages with their own private key and the recipient’s public key, and only the recipient can decrypt. If you haven’t read that post, start there . The new release adds an MCP server , meaning you can now use Monstermash directly from any AI"
+      "description": "Back in 2023 I wrote about Monstermash — a small CLI tool for NaCl/Curve25519 encryption. The core idea was simple: two people exchange public keys, encrypt messages with their own private key and the recipient’s public key, and only the recipient can decrypt. If you haven’t read that post, start there . The new release adds an MCP server , meaning you can now use Monstermash directly from any AI",
+      "date": null
     }
   ]
 }

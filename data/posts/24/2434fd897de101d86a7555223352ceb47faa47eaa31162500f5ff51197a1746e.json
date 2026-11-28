@@ -4,17 +4,20 @@
     {
       "link": "https://someonewho.codes/focusing-again/",
       "title": "Focusing Again",
-      "description": "Too many interesting topics, too little focus. A short note on narrowing things down again."
+      "description": "Too many interesting topics, too little focus. A short note on narrowing things down again.",
+      "date": null
     },
     {
       "link": "https://someonewho.codes/why-i-archived-burrow/",
       "title": "Why I archived Burrow",
-      "description": "In March I announced Burrow as my framework for personal web projects. In October I archived it. Here's why."
+      "description": "In March I announced Burrow as my framework for personal web projects. In October I archived it. Here's why.",
+      "date": null
     },
     {
       "link": "https://someonewho.codes/introducing-ithibati-passkey-authentication-for-elixir/",
       "title": "Introducing Ithibati: passkey authentication for Elixir",
-      "description": "Ithibati is a small Elixir library for passkey authentication: accounts, WebAuthn credentials, recovery codes and revocable sessions. It started as the login of another project of mine and grew into something I wanted to use more than once. Here's what it does and how it fits into a Phoenix app."
+      "description": "Ithibati is a small Elixir library for passkey authentication: accounts, WebAuthn credentials, recovery codes and revocable sessions. It started as the login of another project of mine and grew into something I wanted to use more than once. Here's what it does and how it fits into a Phoenix app.",
+      "date": null
     }
   ]
 }

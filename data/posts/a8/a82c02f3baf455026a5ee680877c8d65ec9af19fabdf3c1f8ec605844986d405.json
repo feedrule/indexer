@@ -4,17 +4,20 @@
     {
       "link": "https://mroczek.dev/articles/ruby-on-rails-lost-its-superpower",
       "title": "Ruby on Rails Lost Its Superpower",
-      "description": "Rails gave me a career. But the users and programmers it was designed for have changed, and other stacks now offer the same head start."
+      "description": "Rails gave me a career. But the users and programmers it was designed for have changed, and other stacks now offer the same head start.",
+      "date": null
     },
     {
       "link": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk",
       "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "description": "RTK promises dramatic token savings for coding agents, but raw terminal compression is not the same as cheaper, safer, or more accurate software engineering."
+      "description": "RTK promises dramatic token savings for coding agents, but raw terminal compression is not the same as cheaper, safer, or more accurate software engineering.",
+      "date": null
     },
     {
       "link": "https://mroczek.dev/articles/rails-dead-2026",
       "title": "Ruby on Rails is Dead (2026 Edition)",
-      "description": "Part 1 of a structural critique of Rails in 2026: the magic that made Rails dominant also became an architectural cage for the stateful, real-time web."
+      "description": "Part 1 of a structural critique of Rails in 2026: the magic that made Rails dominant also became an architectural cage for the stateful, real-time web.",
+      "date": null
     }
   ]
 }

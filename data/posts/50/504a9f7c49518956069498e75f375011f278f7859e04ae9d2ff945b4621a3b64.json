@@ -4,17 +4,20 @@
     {
       "link": "https://www.cocoawithlove.com/blog/macos-ml-frameworks.html",
       "title": "Training an LLM in Swift, Part 2: macOS built-in frameworks",
-      "description": "In this article, I’m going to look at some of the frameworks that are built into macOS for numerical algorithms. Fitting with the theme of this series, I’ll mostly be looking at frameworks that can also train an ML model. But there’s a lot of different approaches – Accelerate (BLAS), BNNS, CoreML, MPSGraph – and the real challenge is knowing which one to use – if they are even usable for training."
+      "description": "In this article, I’m going to look at some of the frameworks that are built into macOS for numerical algorithms. Fitting with the theme of this series, I’ll mostly be looking at frameworks that can also train an ML model. But there’s a lot of different approaches – Accelerate (BLAS), BNNS, CoreML, MPSGraph – and the real challenge is knowing which one to use – if they are even usable for training.",
+      "date": null
     },
     {
       "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
       "title": "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
-      "description": "In this article, I try to get my own handwritten matrix multiplication code running as fast as possible for training a Large Language Model (LLM) in Swift. The aim is to give some insight into the key steps for optimizing mathematics code in Swift. I also hope that these examples will offer a sense of scale about the capabilities of the different units on Apple Silicon – CPU, SIMD, AMX and GPU. Th"
+      "description": "In this article, I try to get my own handwritten matrix multiplication code running as fast as possible for training a Large Language Model (LLM) in Swift. The aim is to give some insight into the key steps for optimizing mathematics code in Swift. I also hope that these examples will offer a sense of scale about the capabilities of the different units on Apple Silicon – CPU, SIMD, AMX and GPU. Th",
+      "date": null
     },
     {
       "link": "https://www.cocoawithlove.com/blog/llms-twelve-months-later.html",
       "title": "Have LLMs improved for Swift coding in the last 12 months?",
-      "description": "In the previous article , I struggled through getting GitHub Copilot (at the time based on GPT 4o) to generate a small Swift/SwiftUI/AVFoundation application. The app was about 400 lines long but Copilot struggled to handle more than a hundred lines or so at a time. Essentially every line in the app required manual rewriting. Twelve months later, I wanted to check back in to see if it is finally p"
+      "description": "In the previous article , I struggled through getting GitHub Copilot (at the time based on GPT 4o) to generate a small Swift/SwiftUI/AVFoundation application. The app was about 400 lines long but Copilot struggled to handle more than a hundred lines or so at a time. Essentially every line in the app required manual rewriting. Twelve months later, I wanted to check back in to see if it is finally p",
+      "date": null
     }
   ]
 }

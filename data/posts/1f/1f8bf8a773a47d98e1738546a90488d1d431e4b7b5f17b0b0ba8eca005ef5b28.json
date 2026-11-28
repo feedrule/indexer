@@ -4,17 +4,20 @@
     {
       "link": "https://jitendra.is-a.dev/writings/goodix-blog/",
       "title": "the agents gaslit me into reverse engineering an unsupported fingerprint sensor for Linux",
-      "description": "Ever since I’ve moved to Linux, there was this one little nitpick I had that my fingerprint scanner wouldn’t work. because, well, tHe DrIvERs aNd aLL ArE PrOpRiEtArY. me being 18-year-old me, dug through the whole internet looking for workarounds and finally gave up. looking back, it was a correct decision because I, a freshman in college, wasn’t nearly qualified enough to grasp the assembly dumps"
+      "description": "Ever since I’ve moved to Linux, there was this one little nitpick I had that my fingerprint scanner wouldn’t work. because, well, tHe DrIvERs aNd aLL ArE PrOpRiEtArY. me being 18-year-old me, dug through the whole internet looking for workarounds and finally gave up. looking back, it was a correct decision because I, a freshman in college, wasn’t nearly qualified enough to grasp the assembly dumps",
+      "date": null
     },
     {
       "link": "https://jitendra.is-a.dev/writings/my-developer-workflow/",
       "title": "my developer workflow",
-      "description": "When I have no interesting problem to work on, I just create the problem. How? Just find a part in your daily workflow which is a pain in the ass and somehow make it efficient and fun. The goal is simple, while I have nothing to work on, I’ll just build the infrastructure for future. I won’t talk much about the OS, there’s only one, Linux. The distro is fedora, which was a reasonable enough choice"
+      "description": "When I have no interesting problem to work on, I just create the problem. How? Just find a part in your daily workflow which is a pain in the ass and somehow make it efficient and fun. The goal is simple, while I have nothing to work on, I’ll just build the infrastructure for future. I won’t talk much about the OS, there’s only one, Linux. The distro is fedora, which was a reasonable enough choice",
+      "date": null
     },
     {
       "link": "https://jitendra.is-a.dev/writings/today-i-learned/dsa/solving-leetcode/",
       "title": "solving LeetCode",
-      "description": "Leetcode is mostly boring and not fun. But not always. Especially, when you have solved over 400 of these problems. The most fun ones made me write the most bizarre of the solutions. 273. Integer to English Words Looks easy enough but there’re a lot of things which needs to be taken into consideration. Although, my solution here is total ass, It works. class Solution : def numberToWords (self, num"
+      "description": "Leetcode is mostly boring and not fun. But not always. Especially, when you have solved over 400 of these problems. The most fun ones made me write the most bizarre of the solutions. 273. Integer to English Words Looks easy enough but there’re a lot of things which needs to be taken into consideration. Although, my solution here is total ass, It works. class Solution : def numberToWords (self, num",
+      "date": null
     }
   ]
 }

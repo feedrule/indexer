@@ -4,17 +4,20 @@
     {
       "link": "https://nicholasarmstrong.com/grafana-for-hvac/",
       "title": "Grafana for HVAC",
-      "description": "The MarshallZehr office had wild temperature swings our HVAC contractor couldn’t solve. I built a fleet of cheap ESPHome temperature sensors and used Grafana to find the root causes."
+      "description": "The MarshallZehr office had wild temperature swings our HVAC contractor couldn’t solve. I built a fleet of cheap ESPHome temperature sensors and used Grafana to find the root causes.",
+      "date": null
     },
     {
       "link": "https://nicholasarmstrong.com/https-static-site-hugo-terraform/",
       "title": "HTTPS static site with Hugo and Terraform",
-      "description": "Using Hugo to generate a fast static website that can be hosted on Amazon S3/CloudFront; and using Terraform to configure all of the Amazon infrastructure."
+      "description": "Using Hugo to generate a fast static website that can be hosted on Amazon S3/CloudFront; and using Terraform to configure all of the Amazon infrastructure.",
+      "date": null
     },
     {
       "link": "https://nicholasarmstrong.com/network-handover-google-fi/",
       "title": "Network handover in Google Fi",
-      "description": "Google’s Project Fi represents a major shift for the cellular industry. I explore how Google’s Project Fi switches between Sprint, T-Mobile, and Wi-Fi."
+      "description": "Google’s Project Fi represents a major shift for the cellular industry. I explore how Google’s Project Fi switches between Sprint, T-Mobile, and Wi-Fi.",
+      "date": null
     }
   ]
 }

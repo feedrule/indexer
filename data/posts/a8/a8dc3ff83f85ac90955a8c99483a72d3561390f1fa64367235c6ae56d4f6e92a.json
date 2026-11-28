@@ -4,17 +4,20 @@
     {
       "link": "https://konstantinlebedev.com/hacker-holidays/",
       "title": "Hacker Holidays CTF writeup",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://konstantinlebedev.com/bypassing-automated-traffic-detection/",
       "title": "Bypassing automated traffic detection",
-      "description": "How bot detection really works — from User-Agent and header checks to TLS fingerprinting — and why your scripts get a 403 while the browser gets through."
+      "description": "How bot detection really works — from User-Agent and header checks to TLS fingerprinting — and why your scripts get a 403 while the browser gets through.",
+      "date": null
     },
     {
       "link": "https://konstantinlebedev.com/safe-chain-npmrc/",
       "title": "Staying safe in a wake of supply-chain attacks",
-      "description": "A layered defense against npm supply-chain attacks — a repo .npmrc that disables lifecycle scripts and delays installs, plus Safe Chain malware scanning."
+      "description": "A layered defense against npm supply-chain attacks — a repo .npmrc that disables lifecycle scripts and delays installs, plus Safe Chain malware scanning.",
+      "date": null
     }
   ]
 }

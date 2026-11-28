@@ -4,17 +4,20 @@
     {
       "link": "https://tillenius.me/blog/2026/05/10/writing-an-ai-agent",
       "title": "Writing an AI Agent",
-      "description": "I recently created maas-code-reviewer , which is an AI agent that reviews code for the MAAS team at Canonical. While doing so, I learned a few things that I think are worth sharing. It’s actually quite easy to write an agent. But it’s also quite easy to write an agent that eventually will expose your secrets or delete your data. If you understand how an agent works, it’s not too hard to make sure"
+      "description": "I recently created maas-code-reviewer , which is an AI agent that reviews code for the MAAS team at Canonical. While doing so, I learned a few things that I think are worth sharing. It’s actually quite easy to write an agent. But it’s also quite easy to write an agent that eventually will expose your secrets or delete your data. If you understand how an agent works, it’s not too hard to make sure",
+      "date": null
     },
     {
       "link": "https://tillenius.me/blog/2026/03/15/an-llm-wrote-100-percent-of-my-code",
       "title": "An LLM wrote 100% of my code",
-      "description": "As many of you, I often see the claim that an LLM, or rather an LLM agent framework (like Claude Code or GitHub Copilot), wrote 100% of someone’s code. I’ve always been curious whether this could be true or not. I started playing around with using LLMs in my daily work as a software engineer at the end of last summer. In the beginning it was truly a struggle. I used an LLM to write code, but I als"
+      "description": "As many of you, I often see the claim that an LLM, or rather an LLM agent framework (like Claude Code or GitHub Copilot), wrote 100% of someone’s code. I’ve always been curious whether this could be true or not. I started playing around with using LLMs in my daily work as a software engineer at the end of last summer. In the beginning it was truly a struggle. I used an LLM to write code, but I als",
+      "date": null
     },
     {
       "link": "https://tillenius.me/blog/2015/09/06/raspberry-pi-smbus-python-3",
       "title": "Using smbus with Python 3 on a Raspberry Pi",
-      "description": "A while ago I got an Orange Matchbox, which is a Raspberry Pi running Snappy Ubuntu Core together with an Ubuntu branded case and a PiGlow . The Snappy image for Raspberry Pi recently got support for I2C , so I tried to drive the PiGlow using Python 3. It turned out it wasn’t trivial, since python-smbus doesn’t support Python 3 out of the box. Further more, you can’t install .debs in Snappy, so in"
+      "description": "A while ago I got an Orange Matchbox, which is a Raspberry Pi running Snappy Ubuntu Core together with an Ubuntu branded case and a PiGlow . The Snappy image for Raspberry Pi recently got support for I2C , so I tried to drive the PiGlow using Python 3. It turned out it wasn’t trivial, since python-smbus doesn’t support Python 3 out of the box. Further more, you can’t install .debs in Snappy, so in",
+      "date": null
     }
   ]
 }

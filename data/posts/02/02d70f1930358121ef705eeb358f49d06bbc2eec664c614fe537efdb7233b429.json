@@ -4,17 +4,20 @@
     {
       "link": "https://blog.tecosaur.net/tmio/2026-11-01-previewing.html",
       "title": "November 2026",
-      "description": "Previews that look like they belong, appear almost instantly, never block Emacs, and update as you type In July 2021 I was thrilled to announce the long-awaited feature of citation syntax. Today I get to announce a feature a bit closer to my heart, a dramatic improvement to (actually a complete overhaul of) Org's system for generating LaTeX previews! In late 2021, Karthik and I discussed our mutua"
+      "description": "Previews that look like they belong, appear almost instantly, never block Emacs, and update as you type In July 2021 I was thrilled to announce the long-awaited feature of citation syntax. Today I get to announce a feature a bit closer to my heart, a dramatic improvement to (actually a complete overhaul of) Org's system for generating LaTeX previews! In late 2021, Karthik and I discussed our mutua",
+      "date": null
     },
     {
       "link": "https://blog.tecosaur.net/tmio/2021-04-30-export-plot.html",
       "title": "April 2021",
-      "description": "A discussion on contributor support Concerns were raised [fn1] about some contributors' patches languishing, and it not being made clear how long it might take to get a response from someone. In response to this , a the new role of Contributor Steward has been created to: help ensure contributors get a timely response, help out with preliminary patch feedback, and keep updates.orgmode.org up to da"
+      "description": "A discussion on contributor support Concerns were raised [fn1] about some contributors' patches languishing, and it not being made clear how long it might take to get a response from someone. In response to this , a the new role of Contributor Steward has been created to: help ensure contributors get a timely response, help out with preliminary patch feedback, and keep updates.orgmode.org up to da",
+      "date": null
     },
     {
       "link": "https://blog.tecosaur.net/tmio/2022-01-31-caching.html",
       "title": "January 2022",
-      "description": "There are less \"obvious user-facing changes\" this month, but a lot of good work has been happening 🙂. The cache continues to make strides Nine months ago, Ihor started working on the org-element cache. The cache has existed for a while now, but it used to be too buggy to be useful. This is no longer the case! We're finally confident enough to flip org-element-use-cache 's default from nil to t . I"
+      "description": "There are less \"obvious user-facing changes\" this month, but a lot of good work has been happening 🙂. The cache continues to make strides Nine months ago, Ihor started working on the org-element cache. The cache has existed for a while now, but it used to be too buggy to be useful. This is no longer the case! We're finally confident enough to flip org-element-use-cache 's default from nil to t . I",
+      "date": null
     }
   ]
 }

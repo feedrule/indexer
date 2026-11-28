@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "BeeBuzz is now Generally Available",
-      "description": "After a period in beta, BeeBuzz is now Generally Available . BeeBuzz is available for free , with all features included. The Free plan is designed to be enough both to try the product and for basic everyday usage. If you need more traffic, or simply want to support the project, you can move to the Hosted plan . If you prefer to run BeeBuzz on your own infrastructure, you can self host BeeBuzz for"
+      "description": "After a period in beta, BeeBuzz is now Generally Available . BeeBuzz is available for free , with all features included. The Free plan is designed to be enough both to try the product and for basic everyday usage. If you need more traffic, or simply want to support the project, you can move to the Hosted plan . If you prefer to run BeeBuzz on your own infrastructure, you can self host BeeBuzz for",
+      "date": null
     },
     {
       "link": null,
       "title": "Lancert V2",
-      "description": "I built Lancert to solve a small problem: getting a publicly trusted TLS certificate for a service running on a private network, without setting up your own domain or installing a local CA on every device. You can already do this with your own domain and ACME DNS-01. Some web servers can automate most of it too. Lancert is simply meant to remove those extra steps for this particular use case. The"
+      "description": "I built Lancert to solve a small problem: getting a publicly trusted TLS certificate for a service running on a private network, without setting up your own domain or installing a local CA on every device. You can already do this with your own domain and ACME DNS-01. Some web servers can automate most of it too. Lancert is simply meant to remove those extra steps for this particular use case. The",
+      "date": null
     },
     {
       "link": null,
       "title": "Making Lancert a Better ACME Client",
-      "description": "When I first introduced Lancert , it answered a fairly specific question: Can publicly trusted TLS certificates be issued for services running on private networks, without exposing those services to the public Internet? Once that part became reliable, the interesting questions changed. Lancert already knew how to issue certificates, cache them and renew them automatically. Users remained responsib"
+      "description": "When I first introduced Lancert , it answered a fairly specific question: Can publicly trusted TLS certificates be issued for services running on private networks, without exposing those services to the public Internet? Once that part became reliable, the interesting questions changed. Lancert already knew how to issue certificates, cache them and renew them automatically. Users remained responsib",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://rumcajs.dev/posts/rust-materials/",
       "title": "Rust materials: books, channels, podcasts and more",
-      "description": "This is not really a fire-once post, but rather a living document of quality resources around the Rust programming language I find useful and want to share (most likely with my future self). Books My preferred source of knowledge, especially in the era of AI slop cesspool. In general, I find O’Reilly and No Starch Press to be the best publishers for programming books. The publishers I didn’t..."
+      "description": "This is not really a fire-once post, but rather a living document of quality resources around the Rust programming language I find useful and want to share (most likely with my future self). Books My preferred source of knowledge, especially in the era of AI slop cesspool. In general, I find O’Reilly and No Starch Press to be the best publishers for programming books. The publishers I didn’t...",
+      "date": null
     },
     {
       "link": "https://rumcajs.dev/posts/cargo-script/",
       "title": "We now have cargo-script!",
-      "description": "The cargo-script is not yet stabilised, but it is already available in the nightly Rust. If you’re reading this a few months after this post’s publication, it might already be stabilised, with slightly different syntax. Best to follow the stabilisation issue in rust-lang repo. What is cargo-script? 2026 started with a very exciting feature coming to Rust: the cargo-script. It allows you to r..."
+      "description": "The cargo-script is not yet stabilised, but it is already available in the nightly Rust. If you’re reading this a few months after this post’s publication, it might already be stabilised, with slightly different syntax. Best to follow the stabilisation issue in rust-lang repo. What is cargo-script? 2026 started with a very exciting feature coming to Rust: the cargo-script. It allows you to r...",
+      "date": null
     },
     {
       "link": "https://rumcajs.dev/posts/trekking-in-himalayas/",
       "title": "Trekking in the Himalayas - Everest Base Camp",
-      "description": "Do you get tired of the unforgiving Rust’s borrow checker? Is yet another undefined behaviour in your C++ codebase making you want to drop everything and go on an adventure? Or perhaps your fingers are getting sore from generating Java boilerplate with Alt+Enter? If so, trekking in the Himalayas is what you need! The Himalayas are the home to some of the world’s highest peaks, including Mount ..."
+      "description": "Do you get tired of the unforgiving Rust’s borrow checker? Is yet another undefined behaviour in your C++ codebase making you want to drop everything and go on an adventure? Or perhaps your fingers are getting sore from generating Java boilerplate with Alt+Enter? If so, trekking in the Himalayas is what you need! The Himalayas are the home to some of the world’s highest peaks, including Mount ...",
+      "date": null
     }
   ]
 }

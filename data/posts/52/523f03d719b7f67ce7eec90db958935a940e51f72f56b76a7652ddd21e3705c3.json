@@ -4,17 +4,20 @@
     {
       "link": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
       "title": "Highlighting my Code Based on How Much I Care",
-      "description": "After failing multiple times to create a light color theme that was not distracting, I attempted to create one that was entirely grayscale. The goal was to make certain elements stand out—more or less—against the baseline of black-on-white variable references and function calls. Relatively subtle changes in text and background brightness were enough to achieve a smoother and more efficient reading"
+      "description": "After failing multiple times to create a light color theme that was not distracting, I attempted to create one that was entirely grayscale. The goal was to make certain elements stand out—more or less—against the baseline of black-on-white variable references and function calls. Relatively subtle changes in text and background brightness were enough to achieve a smoother and more efficient reading",
+      "date": null
     },
     {
       "link": "https://hank.bond/microblog/2026-08-26-nested-wait-groups-like-a-poor-mans-nursery/",
       "title": "Nested Wait Groups, Like a Poor-Man's Nursery",
-      "description": "Here’s a code sample from a project I am working on. Positional Promise.all const readAsset = ( relativePath : string ) => readFile ( join ( options . assetRoot , relativePath ), \"utf8\" ); const [ registry , launcherHtml , launcherScript , launcherStyles , workspaceHtml , workspaceScript , ] = await Promise . all ([ loadWorkspaceRegistry ( options . registryPath ), readAsset ( \"index.html\" ), read"
+      "description": "Here’s a code sample from a project I am working on. Positional Promise.all const readAsset = ( relativePath : string ) => readFile ( join ( options . assetRoot , relativePath ), \"utf8\" ); const [ registry , launcherHtml , launcherScript , launcherStyles , workspaceHtml , workspaceScript , ] = await Promise . all ([ loadWorkspaceRegistry ( options . registryPath ), readAsset ( \"index.html\" ), read",
+      "date": null
     },
     {
       "link": "https://hank.bond/microblog/2026-08-22-adventures-in-prefetching/",
       "title": "Adventures in prefetching",
-      "description": "So after reducing the Flash of Unstyled Text caused by the text re-rendering when the custom fonts load, I was still getting some flashing on the “heros” (the post banners with the abstract space images). The first attempt I originally did was to ensure that the image element was pre-sized with the dimensions of the images, that way the renderer could have the same rect size prior to it loading. T"
+      "description": "So after reducing the Flash of Unstyled Text caused by the text re-rendering when the custom fonts load, I was still getting some flashing on the “heros” (the post banners with the abstract space images). The first attempt I originally did was to ensure that the image element was pre-sized with the dimensions of the images, that way the renderer could have the same rect size prior to it loading. T",
+      "date": null
     }
   ]
 }

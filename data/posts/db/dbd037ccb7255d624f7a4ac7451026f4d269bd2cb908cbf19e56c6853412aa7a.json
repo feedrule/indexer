@@ -4,17 +4,20 @@
     {
       "link": "https://blog.mohitnagaraj.in/blog/202604/yc-startup-school-india",
       "title": "I Went to YC Startup School India and Left With More Conviction",
-      "description": "I went to YC Startup School India expecting a good event. I left with more clarity, more conviction, and better questions about what I'm building, why founder rooms still matter, and why this moment feels especially big for India."
+      "description": "I went to YC Startup School India expecting a good event. I left with more clarity, more conviction, and better questions about what I'm building, why founder rooms still matter, and why this moment feels especially big for India.",
+      "date": null
     },
     {
       "link": "https://blog.mohitnagaraj.in/blog/202604/why-i-stopped-using-npm-tokens-in-github-actions",
       "title": "Why I Stopped Using npm Tokens in GitHub Actions",
-      "description": "I recently switched the KubeOrch CLI npm release flow from long-lived npm tokens to npm Trusted Publishers. It is cleaner, safer, and honestly feels like how package publishing should have worked from the start."
+      "description": "I recently switched the KubeOrch CLI npm release flow from long-lived npm tokens to npm Trusted Publishers. It is cleaner, safer, and honestly feels like how package publishing should have worked from the start.",
+      "date": null
     },
     {
       "link": "https://blog.mohitnagaraj.in/blog/202602/Building_Multi_Agent_Systems_With_LangGraph",
       "title": "Building Multi-Agent Systems with LangGraph",
-      "description": "LangGraph sounds like just another AI framework until you have to build something that actually branches, loops, and makes decisions across multiple agents. Here's what I learned shipping it to production at Final Round AI."
+      "description": "LangGraph sounds like just another AI framework until you have to build something that actually branches, loops, and makes decisions across multiple agents. Here's what I learned shipping it to production at Final Round AI.",
+      "date": null
     }
   ]
 }

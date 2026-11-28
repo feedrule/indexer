@@ -4,17 +4,20 @@
     {
       "link": "https://blog.peterzhu.ca/zjit-gc-fastpath/",
       "title": "ZJIT 🤝 GC: Inlining GC Fastpath in ZJIT",
-      "description": "Object allocations from the garbage collector are now inlined in ZJIT."
+      "description": "Object allocations from the garbage collector are now inlined in ZJIT.",
+      "date": null
     },
     {
       "link": "https://blog.peterzhu.ca/open-source-is-the-most-fragile-and-resilient-ecosystem/",
       "title": "Open Source is the Most Fragile and Most Resilient Ecosystem",
-      "description": "Some of my thoughts on the lessons we can learn from the RubyGems situation and how we can move forward."
+      "description": "Some of my thoughts on the lessons we can learn from the RubyGems situation and how we can move forward.",
+      "date": null
     },
     {
       "link": "https://blog.peterzhu.ca/reworking-memory-management-in-cruby/",
       "title": "Reworking Memory Management in CRuby",
-      "description": "Shopify sponsors and collaborates with academia to take Ruby to new heights. In this post, we give an overview of what we've built in collaboration with the Australian National University."
+      "description": "Shopify sponsors and collaborates with academia to take Ruby to new heights. In this post, we give an overview of what we've built in collaboration with the Australian National University.",
+      "date": null
     }
   ]
 }

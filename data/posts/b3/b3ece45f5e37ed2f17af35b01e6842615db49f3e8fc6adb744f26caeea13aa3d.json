@@ -4,17 +4,20 @@
     {
       "link": "https://cefboud.com/posts/ai-inference-costs-profit/",
       "title": "How Profitable is LLM Inference? Doing the Math on Kimi K3",
-      "description": "A look at LLM inference economics (batch size, GPU count, and the Pareto frontier that sets token prices) applied to Kimi K3 with back-of-the-envelope math."
+      "description": "A look at LLM inference economics (batch size, GPU count, and the Pareto frontier that sets token prices) applied to Kimi K3 with back-of-the-envelope math.",
+      "date": null
     },
     {
       "link": "https://cefboud.com/posts/llm-d/",
       "title": "Distributed LLM Inference with llm-d",
-      "description": "An introduction to llm-d, an open-source LLM-aware router that intelligently schedules requests across inference engines like vLLM using KV cache locality and GPU utilization."
+      "description": "An introduction to llm-d, an open-source LLM-aware router that intelligently schedules requests across inference engines like vLLM using KV cache locality and GPU utilization.",
+      "date": null
     },
     {
       "link": "https://cefboud.com/posts/speculative-decoding/",
       "title": "Exploring Speculative Decoding: From Concept to Implementation",
-      "description": "In this post, we explore speculative decoding through a concrete vLLM-focused implementation, covering draft models, EAGLE, MTP, and the tradeoffs involved."
+      "description": "In this post, we explore speculative decoding through a concrete vLLM-focused implementation, covering draft models, EAGLE, MTP, and the tradeoffs involved.",
+      "date": null
     }
   ]
 }

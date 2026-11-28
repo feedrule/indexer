@@ -4,17 +4,20 @@
     {
       "link": "https://sverre.me/projects/bru/",
       "title": "Bru: Send and read SMS from the browser",
-      "description": "Short version: Bru is an Android app and web client that lets you read and send SMS messages from your browser, via your phone. It is currently available from the IzzyOnDroid app repository, but hopefully soon on F-Droid, and possibly Google Play. I used: Plain HTML, JavaScript and CSS Rust Iroh , as WASM in the browser, and via the available Kotlin bindings Kotlin Longer version Since the start o"
+      "description": "Short version: Bru is an Android app and web client that lets you read and send SMS messages from your browser, via your phone. It is currently available from the IzzyOnDroid app repository, but hopefully soon on F-Droid, and possibly Google Play. I used: Plain HTML, JavaScript and CSS Rust Iroh , as WASM in the browser, and via the available Kotlin bindings Kotlin Longer version Since the start o",
+      "date": null
     },
     {
       "link": "https://sverre.me/projects/codewallet/",
       "title": "Code Wallet: My first published android app",
-      "description": "Short version: I built a simple and small Android app for storing barcodes and QR codes on my phone. Google Playstore Long version In January this year I started using a \"dumber\" Android phone as my main phone. A Duoqin F21 Pro, running DumberOS (A lineage fork based on Android 14). I still intend to write a blog post about it and my experiences, but I have procrastinated that for more than six mo"
+      "description": "Short version: I built a simple and small Android app for storing barcodes and QR codes on my phone. Google Playstore Long version In January this year I started using a \"dumber\" Android phone as my main phone. A Duoqin F21 Pro, running DumberOS (A lineage fork based on Android 14). I still intend to write a blog post about it and my experiences, but I have procrastinated that for more than six mo",
+      "date": null
     },
     {
       "link": "https://sverre.me/blog/rust-on-kindle/",
       "title": "Rust (and Slint) on a jailbroken Kindle.",
-      "description": "I recently jailbroke my 7th generation Kindle Paperwhite. While my motivation probably should have been \"breaking free from Amazon's clammy and tightening grip\", the truth is I wanted a way to use it as a clock on my nightstand. I found this project and figured I could just make some adjustments to the code. And that worked fine . But as I now had opened the door, I started thinking about if I cou"
+      "description": "I recently jailbroke my 7th generation Kindle Paperwhite. While my motivation probably should have been \"breaking free from Amazon's clammy and tightening grip\", the truth is I wanted a way to use it as a clock on my nightstand. I found this project and figured I could just make some adjustments to the code. And that worked fine . But as I now had opened the door, I started thinking about if I cou",
+      "date": null
     }
   ]
 }

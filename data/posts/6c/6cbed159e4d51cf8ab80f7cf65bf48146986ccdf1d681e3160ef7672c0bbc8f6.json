@@ -4,17 +4,20 @@
     {
       "link": "https://ceres1.space/posts/llms-from-the-beginning/the-next-token/",
       "title": "LLMs, from the Beginning — Part 1: The Next Token",
-      "description": "See how next-token completion becomes few-shot prompting, chat, tool use, and reasoning through interactive, token-level exhibits."
+      "description": "See how next-token completion becomes few-shot prompting, chat, tool use, and reasoning through interactive, token-level exhibits.",
+      "date": null
     },
     {
       "link": "https://ceres1.space/posts/llms-from-the-beginning/remembering-the-prompt/",
       "title": "LLMs, from the Beginning — Part 2: Remembering the Prompt",
-      "description": "Open the KV cache, count what every remembered token costs, and explore how modern attention designs handle long context."
+      "description": "Open the KV cache, count what every remembered token costs, and explore how modern attention designs handle long context.",
+      "date": null
     },
     {
       "link": "https://ceres1.space/posts/llms-from-the-beginning/breaking-the-one-token-barrier/",
       "title": "LLMs, from the Beginning — Part 3: Breaking the One-Token Barrier",
-      "description": "Connect arithmetic intensity, continuous batching, sparse experts, and speculative decoding to the latency each user feels."
+      "description": "Connect arithmetic intensity, continuous batching, sparse experts, and speculative decoding to the latency each user feels.",
+      "date": null
     }
   ]
 }

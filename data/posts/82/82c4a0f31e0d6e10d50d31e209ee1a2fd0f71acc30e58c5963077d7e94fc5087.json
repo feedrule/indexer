@@ -4,17 +4,20 @@
     {
       "link": "https://nicolo.dev/en/projects/ptx-ninja/",
       "title": "ptxNinja: decompilation for PTX (CUDA)",
-      "description": "ptxNinja is an architectural plugin that extends the functionality of Binary Ninja to support *.ptx files containing functions or kernels written in PTX. The PTX language is a low-level format used by NVIDIA for its CUDA-based GPUs. This plugin provides a lifter that translates raw instructions into the low-level instructions that Binary Ninja requires to begin analysis. This work was presented at"
+      "description": "ptxNinja is an architectural plugin that extends the functionality of Binary Ninja to support *.ptx files containing functions or kernels written in PTX. The PTX language is a low-level format used by NVIDIA for its CUDA-based GPUs. This plugin provides a lifter that translates raw instructions into the low-level instructions that Binary Ninja requires to begin analysis. This work was presented at",
+      "date": null
     },
     {
       "link": "https://nicolo.dev/en/projects/obfuscation-analysis/",
       "title": "Obfuscation Analysis: A BinaryNinja plugin",
-      "description": "Obfuscation Analysis is a Binary Ninja plugin designed to improve the readability of protected binaries once the relevant code regions have been identified. It offers focused utilities to address common reverse-engineering obstacles, including MBA simplification directly within the decompiler view, detection and elimination of corrupted functions that disrupt disassembly, and recursive function in"
+      "description": "Obfuscation Analysis is a Binary Ninja plugin designed to improve the readability of protected binaries once the relevant code regions have been identified. It offers focused utilities to address common reverse-engineering obstacles, including MBA simplification directly within the decompiler view, detection and elimination of corrupted functions that disrupt disassembly, and recursive function in",
+      "date": null
     },
     {
       "link": "https://nicolo.dev/en/blog/disassembling-binary-linear-recursive/",
       "title": "Disassembling a binary: linear sweep and recursive traversal",
-      "description": "Building your own set of analysis tools is a great exercise for those who already have some basics in static analysis. It even allows you to later move on to implement more complex analyses in reverse engineering. Even just seeing how the different algorithms can be implemented provides an interesting framework that may help when reverse engineering more difficult-to-analyse binaries, i.e. obfusca"
+      "description": "Building your own set of analysis tools is a great exercise for those who already have some basics in static analysis. It even allows you to later move on to implement more complex analyses in reverse engineering. Even just seeing how the different algorithms can be implemented provides an interesting framework that may help when reverse engineering more difficult-to-analyse binaries, i.e. obfusca",
+      "date": null
     }
   ]
 }

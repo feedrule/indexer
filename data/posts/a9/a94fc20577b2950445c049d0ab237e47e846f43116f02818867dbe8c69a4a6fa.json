@@ -4,17 +4,20 @@
     {
       "link": "https://blog.bitside.pl/posts/interview/",
       "title": "Love letter to future me",
-      "description": "For a while now, I’ve had the unique chance to interview candidates for senior engineering roles at a company I work for. After speaking with dozens of people, I started noticing the same patterns coming up again and again - the ones that make interviews go sideways. And knowing that I’ll be on the other side of the table one day, I decided to write these down for future me. Some of them are obvio"
+      "description": "For a while now, I’ve had the unique chance to interview candidates for senior engineering roles at a company I work for. After speaking with dozens of people, I started noticing the same patterns coming up again and again - the ones that make interviews go sideways. And knowing that I’ll be on the other side of the table one day, I decided to write these down for future me. Some of them are obvio",
+      "date": null
     },
     {
       "link": "https://blog.bitside.pl/posts/hugsqlx/",
       "title": "HugSQLx - SQL queries turned into Rust functions",
-      "description": "The Clojure community is fortunate to have HugSQL - a brilliant library that simplifies working with SQL. HugSQL separates queries from the code, preventing them from cluttering .clj files and transforming them into plain Clojure functions within a namespace. These functions are quite intelligent; the underlying magic connects to PostgreSQL, SQLite, or any supported database via JDBC, executing de"
+      "description": "The Clojure community is fortunate to have HugSQL - a brilliant library that simplifies working with SQL. HugSQL separates queries from the code, preventing them from cluttering .clj files and transforming them into plain Clojure functions within a namespace. These functions are quite intelligent; the underlying magic connects to PostgreSQL, SQLite, or any supported database via JDBC, executing de",
+      "date": null
     },
     {
       "link": "https://blog.bitside.pl/posts/focus-mode/",
       "title": "Focus Mode",
-      "description": "Focus is a remarkable addition that enhances the Emacs experience, bringing joy to programmers."
+      "description": "Focus is a remarkable addition that enhances the Emacs experience, bringing joy to programmers.",
+      "date": null
     }
   ]
 }

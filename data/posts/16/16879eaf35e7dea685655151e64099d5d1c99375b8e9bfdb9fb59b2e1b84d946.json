@@ -4,17 +4,20 @@
     {
       "link": "https://popovicu.com/posts/build-like-a-google-engineer-modern-bazel/",
       "title": "Build like a Google engineer: modern Bazel with modules, Go and Typst",
-      "description": "A hands-on guide to modern Bazel with the module system: pinned toolchains, third-party Go libraries, images rendered with Typst, a custom rule backed by a Go tool, and a Go server with everything embedded, all built with one command."
+      "description": "A hands-on guide to modern Bazel with the module system: pinned toolchains, third-party Go libraries, images rendered with Typst, a custom rule backed by a Go tool, and a Go server with everything embedded, all built with one command.",
+      "date": null
     },
     {
       "link": "https://popovicu.com/posts/static-website-with-bazel-pageforge/",
       "title": "Building a static website with Bazel",
-      "description": "Build a complete static website with a single Bazel command using Pageforge: templates, Markdown posts, listings, tags, static files, a local dev server, and a zip ready for Cloudflare Pages."
+      "description": "Build a complete static website with a single Bazel command using Pageforge: templates, Markdown posts, listings, tags, static files, a local dev server, and a zip ready for Cloudflare Pages.",
+      "date": null
     },
     {
       "link": "https://popovicu.com/posts/writing-your-first-compiler/",
       "title": "Writing your first compiler",
-      "description": "Build your first compiler with minimal, high-level, modern code. With only a few files of Go and C code, we can set up a workflow that dynamically fetches everything needed, including the LLVM library itself, and builds a portable compiler. This is a modern stack, it's reproducible, and you do not need to read dozens of pages to get started."
+      "description": "Build your first compiler with minimal, high-level, modern code. With only a few files of Go and C code, we can set up a workflow that dynamically fetches everything needed, including the LLVM library itself, and builds a portable compiler. This is a modern stack, it's reproducible, and you do not need to read dozens of pages to get started.",
+      "date": null
     }
   ]
 }

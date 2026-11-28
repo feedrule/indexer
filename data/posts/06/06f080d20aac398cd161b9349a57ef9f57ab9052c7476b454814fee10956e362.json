@@ -4,17 +4,20 @@
     {
       "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter",
       "title": "Linux is an interpreter",
-      "description": "This is a standalone addendum to an earlier four-part series. Reading the previous parts is not required. Links to previous parts, if you are interested: Part 0: curl > /dev/sda Part 1: Swap out the root before boot Part 2: How to pass secrets between reboots The 3rd and final part: The little chicken shed that could Part 5: you are here In a previous article , I left you with this mysterious comm"
+      "description": "This is a standalone addendum to an earlier four-part series. Reading the previous parts is not required. Links to previous parts, if you are interested: Part 0: curl > /dev/sda Part 1: Swap out the root before boot Part 2: How to pass secrets between reboots The 3rd and final part: The little chicken shed that could Part 5: you are here In a previous article , I left you with this mysterious comm",
+      "date": null
     },
     {
       "link": "https://astrid.tech/2026/03/24/3/chicken-shed",
       "title": "The little chicken shed that could",
-      "description": "This is the third and final part of a four-part article series about how to reimage a disk in-place, how to do weird things in initrd, and… well, now I guess it’s about how to build your own Linux distro. Part 0 is located here. Some of you are about to angrily comment or email something like “grrrr! NixOS Anywhere already does that kexec technique you were describing in part 2 and you STOLE it fr"
+      "description": "This is the third and final part of a four-part article series about how to reimage a disk in-place, how to do weird things in initrd, and… well, now I guess it’s about how to build your own Linux distro. Part 0 is located here. Some of you are about to angrily comment or email something like “grrrr! NixOS Anywhere already does that kexec technique you were describing in part 2 and you STOLE it fr",
+      "date": null
     },
     {
       "link": "https://astrid.tech/2026/03/24/2/how-to-pass-secrets-between-reboots",
       "title": "How to pass secrets in RAM between reboots",
-      "description": "This is part 2 of a four-part article series about how to reimage a disk in-place, and how to do weird things in initrd. Part 0 is located here . At a high level, when a Linux machine reboots, the following things end up happening: Init process shuts down all other processes and all writes are flushed to disk The init process requests that the kernel reboot, so the kernel sends an ACPI reset to th"
+      "description": "This is part 2 of a four-part article series about how to reimage a disk in-place, and how to do weird things in initrd. Part 0 is located here . At a high level, when a Linux machine reboots, the following things end up happening: Init process shuts down all other processes and all writes are flushed to disk The init process requests that the kernel reboot, so the kernel sends an ACPI reset to th",
+      "date": null
     }
   ]
 }

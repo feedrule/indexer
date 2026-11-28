@@ -4,17 +4,20 @@
     {
       "link": "https://iheanyi.com/journal/how-i-learned-to-stop-worrying-and-love-claude/",
       "title": "How I Learned to Stop Worrying and Love Claude",
-      "description": "On AI agents, side projects, and shipping"
+      "description": "On AI agents, side projects, and shipping",
+      "date": null
     },
     {
       "link": "https://iheanyi.com/journal/on-strabismus-surgery/",
       "title": "On Strabismus Surgery",
-      "description": "How one surgery changed my life."
+      "description": "How one surgery changed my life.",
+      "date": null
     },
     {
       "link": "https://iheanyi.com/journal/versioning-user-agent-headers-in-go/",
       "title": "Versioning User-Agent Headers in Go",
-      "description": "In order to get an idea of usage of our client library, it's common for client libraries to define a custom User-Agent header to identify what versions of the library are making network requests. While the header can be defined as a constant string with the version getting changed on each release, this is error-prone because it requires manual changes to keep the version up-to-date. For example, f"
+      "description": "In order to get an idea of usage of our client library, it's common for client libraries to define a custom User-Agent header to identify what versions of the library are making network requests. While the header can be defined as a constant string with the version getting changed on each release, this is error-prone because it requires manual changes to keep the version up-to-date. For example, f",
+      "date": null
     }
   ]
 }

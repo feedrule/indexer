@@ -4,17 +4,20 @@
     {
       "link": "https://weatherlinguist.bearblog.dev/from-weather-analogs-to-diffusion-models/",
       "title": "From weather analogs to diffusion models",
-      "description": "At the end of 2022 you could count the machine learning weather models on the fingers of one hand: FourCastNet, Keisler's graph network, Pangu-Weather and GraphCast. They had a lot in common. All of them were global, all were trained on ERA5 (ECMWF's reconstruction of the weather since 1940), all were deterministic (one input, one forecast), and all borrowed their architecture from computer vision"
+      "description": "At the end of 2022 you could count the machine learning weather models on the fingers of one hand: FourCastNet, Keisler's graph network, Pangu-Weather and GraphCast. They had a lot in common. All of them were global, all were trained on ERA5 (ECMWF's reconstruction of the weather since 1940), all were deterministic (one input, one forecast), and all borrowed their architecture from computer vision",
+      "date": null
     },
     {
       "link": "https://weatherlinguist.bearblog.dev/dunkelflaute-the-weather-pattern-behind-two-dark-still-weeks-in-europe/",
       "title": "Dunkelflaute: the weather pattern behind two dark, still weeks in Europe",
-      "description": "German has a word for the weather much of northern Europe has had since the end of October: dunkelflaute . Dunkel is dark, and Flaute is the sailor's word for a dead calm, the kind of day when a sailing ship goes nowhere. Put together it means a spell of grey skies, short days and hardly any wind, so that solar panels and wind turbines give very little power at the time of year when we need the mo"
+      "description": "German has a word for the weather much of northern Europe has had since the end of October: dunkelflaute . Dunkel is dark, and Flaute is the sailor's word for a dead calm, the kind of day when a sailing ship goes nowhere. Put together it means a spell of grey skies, short days and hardly any wind, so that solar panels and wind turbines give very little power at the time of year when we need the mo",
+      "date": null
     },
     {
       "link": "https://weatherlinguist.bearblog.dev/is-the-polar-vortex-breaking-up-in-november/",
       "title": "Is the polar vortex breaking up in november?",
-      "description": "My feeds have been full of the polar vortex this week. Weather accounts post maps of a swirl over the Arctic tearing in two, with captions about the \"earliest sudden stratospheric warming on record\". Scientists post more careful versions of the same maps. Then the question comes from friends and family: does this mean a cold winter? I work on short-range forecasting, so the stratosphere is not my"
+      "description": "My feeds have been full of the polar vortex this week. Weather accounts post maps of a swirl over the Arctic tearing in two, with captions about the \"earliest sudden stratospheric warming on record\". Scientists post more careful versions of the same maps. Then the question comes from friends and family: does this mean a cold winter? I work on short-range forecasting, so the stratosphere is not my",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://xeon.me/posts/ras-size/",
       "title": "Measuring the return stack size on Alder Lake's P and E cores",
-      "description": "I wanted to know how big the return address stack (RAS, Intel calls it the RSB) is on my laptop. It’s an i7-12700H, so it has two kinds of cores: Golden Cove P-cores (cpus 0-11) and Gracemont E-cores (cpus 12-19). Intel doesn’t really publish these numbers anymore for newer cores, so the only way is to measure it. The RAS is a small stack inside the branch predictor. Every call pushes the return a"
+      "description": "I wanted to know how big the return address stack (RAS, Intel calls it the RSB) is on my laptop. It’s an i7-12700H, so it has two kinds of cores: Golden Cove P-cores (cpus 0-11) and Gracemont E-cores (cpus 12-19). Intel doesn’t really publish these numbers anymore for newer cores, so the only way is to measure it. The RAS is a small stack inside the branch predictor. Every call pushes the return a",
+      "date": null
     },
     {
       "link": "https://xeon.me/posts/bpf-exception/",
       "title": "Getting BPF exceptions RISC-V JIT support",
-      "description": "Ok, so I recently landed this: damn das a patch I did this because I saw this and I then wanted to add arm64 support to it. But Puranjay added it so fast that my dumb head had no time at all to add this out. Then, I tried to add riscv support for it, but once I got testing ready, I realised that the selftests did not work at all because exceptions, which were present in the tests I was running wer"
+      "description": "Ok, so I recently landed this: damn das a patch I did this because I saw this and I then wanted to add arm64 support to it. But Puranjay added it so fast that my dumb head had no time at all to add this out. Then, I tried to add riscv support for it, but once I got testing ready, I realised that the selftests did not work at all because exceptions, which were present in the tests I was running wer",
+      "date": null
     },
     {
       "link": "https://xeon.me/posts/bpf_stack/",
       "title": "Learning how the BPF stack works.",
-      "description": null
+      "description": null,
+      "date": null
     }
   ]
 }

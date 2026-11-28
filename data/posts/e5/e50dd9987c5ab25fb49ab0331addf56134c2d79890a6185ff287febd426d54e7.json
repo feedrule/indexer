@@ -4,17 +4,20 @@
     {
       "link": "https://joaoabbottgribben.bearblog.dev/looms-agents/",
       "title": "Looms & Agents",
-      "description": "I was coding with Claude the other day, and like many engineers, I experienced the magical surge of productivity, and awe, watching it produce options for solutions, with reasoned pros and cons and then implement whichever one I thought best (I’m not full vibe coding…yet). I thought that it was like having an enchanted loom, that could produce the patterns that I wanted, but sometimes struggled to"
+      "description": "I was coding with Claude the other day, and like many engineers, I experienced the magical surge of productivity, and awe, watching it produce options for solutions, with reasoned pros and cons and then implement whichever one I thought best (I’m not full vibe coding…yet). I thought that it was like having an enchanted loom, that could produce the patterns that I wanted, but sometimes struggled to",
+      "date": null
     },
     {
       "link": "https://joaoabbottgribben.bearblog.dev/whats-in-an-ampersand/",
       "title": "What's in an ampersand? How learning Rust references first can make learning Go pointers harder",
-      "description": "Contents Introduction Creating indirection with the ampersand Validity Mutability Declaring indirection Summary Introduction Was Rust the first language you learnt where you had to deal with pointers (and references)? Are you about to start writing some Go? Will you be dealing with pointers in Go? If yes to all these, this article might be for you! I’m currently on a Go project and was finding a l"
+      "description": "Contents Introduction Creating indirection with the ampersand Validity Mutability Declaring indirection Summary Introduction Was Rust the first language you learnt where you had to deal with pointers (and references)? Are you about to start writing some Go? Will you be dealing with pointers in Go? If yes to all these, this article might be for you! I’m currently on a Go project and was finding a l",
+      "date": null
     },
     {
       "link": "https://joaoabbottgribben.bearblog.dev/co-ordinates/",
       "title": "Co-ordinates",
-      "description": "Intro This post looks at a fun maths-y problem I had transferring my maze display function from ASCII-art in the terminal to pixels and points in Nannou's window . My starting point, displaying a maze using ASCII characters and the terminal: Where I wanted to get to, displaying a maze using pixels and Nannou: (To more clearly illustrate the problem, I'm using a small, hardcoded, sidewinder maze (w"
+      "description": "Intro This post looks at a fun maths-y problem I had transferring my maze display function from ASCII-art in the terminal to pixels and points in Nannou's window . My starting point, displaying a maze using ASCII characters and the terminal: Where I wanted to get to, displaying a maze using pixels and Nannou: (To more clearly illustrate the problem, I'm using a small, hardcoded, sidewinder maze (w",
+      "date": null
     }
   ]
 }

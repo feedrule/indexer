@@ -4,12 +4,14 @@
     {
       "link": "https://lucascarlson.net/2026/09/09/a-lease-with-a-timeout-is-not-a-lock/",
       "title": "A lease with a timeout is not a lock",
-      "description": "Four fixes for one duplicate email. Each one closed a real gap. None of them was a lock, because none of them ran inside the write."
+      "description": "Four fixes for one duplicate email. Each one closed a real gap. None of them was a lock, because none of them ran inside the write.",
+      "date": null
     },
     {
       "link": "https://lucascarlson.net/2026/08/24/introducing-open-source-durable-objects/",
       "title": "Durable Objects without Cloudflare, on the database you already run",
-      "description": "The Durable Objects programming model as a plain library on the SQL database you already run. And as of this week, the whole runtime runs in a browser tab on SQLite WASM."
+      "description": "The Durable Objects programming model as a plain library on the SQL database you already run. And as of this week, the whole runtime runs in a browser tab on SQLite WASM.",
+      "date": null
     }
   ]
 }

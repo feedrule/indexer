@@ -4,17 +4,20 @@
     {
       "link": "https://lilting.ch/en/articles/anima-turbo-smoothie-mix-m1-max/",
       "title": "Inspecting Anima Turbo Smoothie Mix 1.0 Weights and Testing It Against One obsession v5.0 on M1 Max",
-      "description": "Inspected the safetensors merge history and weight deltas of [Anima Turbo] Smoothie Mix 1.0, revealing One obsession v5.0 with three private LoRAs merged in. Tested it on an M1 Max 64GB in ComfyUI against v5.0, official Turbo v1.1, and Base v1.0 using identical prompts and seeds, along with the optional HDR VAE."
+      "description": "Inspected the safetensors merge history and weight deltas of [Anima Turbo] Smoothie Mix 1.0, revealing One obsession v5.0 with three private LoRAs merged in. Tested it on an M1 Max 64GB in ComfyUI against v5.0, official Turbo v1.1, and Base v1.0 using identical prompts and seeds, along with the optional HDR VAE.",
+      "date": null
     },
     {
       "link": "https://lilting.ch/en/articles/vp-vnp-valiant-conjecture-claude-lean/",
       "title": "Checking Anthropic's VP≠VNP Lean Proof, Its Difference From P≠NP, and CI Verification Scope",
-      "description": "A walkthrough of Anthropic's vp-vnp repository and 70-page PDF claiming VP≠VNP over every field via an internal Claude model, covering the quasi-polynomial lower bound, why it does not resolve P≠NP, Comparator and nanoda CI logs, and what human mathematicians have not yet verified."
+      "description": "A walkthrough of Anthropic's vp-vnp repository and 70-page PDF claiming VP≠VNP over every field via an internal Claude model, covering the quasi-polynomial lower bound, why it does not resolve P≠NP, Comparator and nanoda CI logs, and what human mathematicians have not yet verified.",
+      "date": null
     },
     {
       "link": "https://lilting.ch/en/articles/nvidia-board-reinstates-jensen-huang/",
       "title": "NVIDIA Board Reinstates Jensen Huang as CEO 11 Days After Resignation",
-      "description": "On November 23, 2026, NVIDIA's board unanimously reinstated Jensen Huang as President, CEO, and Director. Timeline from his November 12 resignation to the new national security committee."
+      "description": "On November 23, 2026, NVIDIA's board unanimously reinstated Jensen Huang as President, CEO, and Director. Timeline from his November 12 resignation to the new national security committee.",
+      "date": null
     }
   ]
 }

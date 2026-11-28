@@ -4,17 +4,20 @@
     {
       "link": "https://gebir.ge/blog/gradient-descent-into-madness/",
       "title": "Gradient Descent Into Madness",
-      "description": "Augment your workflow with AI and let agentic AI agentically augment the AI workflow until the workflow itself becomes AI which makes working at AI-native agentic scale feasible. Coding is solved! Vulnerability research is cooked! 10x! 100x! Workflow! AI! I hate hype and I hate hyperbole. It puts me immediately into a wary state and makes it highly unlikely that I’ll engage with a topic. Artificia"
+      "description": "Augment your workflow with AI and let agentic AI agentically augment the AI workflow until the workflow itself becomes AI which makes working at AI-native agentic scale feasible. Coding is solved! Vulnerability research is cooked! 10x! 100x! Workflow! AI! I hate hype and I hate hyperbole. It puts me immediately into a wary state and makes it highly unlikely that I’ll engage with a topic. Artificia",
+      "date": null
     },
     {
       "link": "https://gebir.ge/blog/its-not-mine-cve-2025-64113/",
       "title": "It's Not Mine: CVE-2025-64113",
-      "description": "Welcome to “It’s not mine!”, a series of articles where I go over vulnerabilities found by other people. Recently the media server Emby was on my mind again because an old vulnerability I’ve reported more than two years ago finally got assigned a CVE (CVE-2025-64325). In the meantime, a much more interesting API vulnerability was disclosed (CVE-2025-64113): This vulnerability affects all Emby Serv"
+      "description": "Welcome to “It’s not mine!”, a series of articles where I go over vulnerabilities found by other people. Recently the media server Emby was on my mind again because an old vulnerability I’ve reported more than two years ago finally got assigned a CVE (CVE-2025-64325). In the meantime, a much more interesting API vulnerability was disclosed (CVE-2025-64113): This vulnerability affects all Emby Serv",
+      "date": null
     },
     {
       "link": "https://gebir.ge/blog/denos-getting-digged-down-12/",
       "title": "Denos Getting Digged Down 12",
-      "description": "My first couple of articles all deal with low-level binary shenanigans. To this day, I think the allure of binary exploitation is very strong . Still, I’ve shifted more towards application and web security in the following years. In this article, both things come together. Sort of. We’re looking at the JavaScript runtime Deno , specifically at its ability to produce stand-alone binaries. The artic"
+      "description": "My first couple of articles all deal with low-level binary shenanigans. To this day, I think the allure of binary exploitation is very strong . Still, I’ve shifted more towards application and web security in the following years. In this article, both things come together. Sort of. We’re looking at the JavaScript runtime Deno , specifically at its ability to produce stand-alone binaries. The artic",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://izzy.sh/posts/low-level-trinity/",
       "title": "The Trinity of Low-Level Security: Malware, Exploits, and Reversing",
-      "description": "A practitioner's guide to the interconnected disciplines that define offensive and defensive security."
+      "description": "A practitioner's guide to the interconnected disciplines that define offensive and defensive security.",
+      "date": null
     },
     {
       "link": "https://izzy.sh/posts/pwners-roadmap/",
       "title": "The Pwner's Roadmap: A Practical Guide to Binary Exploitation",
-      "description": "A comprehensive guide to learning binary exploitation, from first buffer overflow to kernel pwn. Covers wargames, tools, books, CTFs, and realistic timelines for each stage."
+      "description": "A comprehensive guide to learning binary exploitation, from first buffer overflow to kernel pwn. Covers wargames, tools, books, CTFs, and realistic timelines for each stage.",
+      "date": null
     },
     {
       "link": "https://izzy.sh/posts/c-io-exploitation-draft/",
       "title": "Why C I/O Functions Are Your First Exploitation Target",
-      "description": "Understanding C input/output functions is the foundation of binary exploitation. Learn why I/O mechanisms are your primary attack vector and how different functions enable different vulnerabilities."
+      "description": "Understanding C input/output functions is the foundation of binary exploitation. Learn why I/O mechanisms are your primary attack vector and how different functions enable different vulnerabilities.",
+      "date": null
     }
   ]
 }

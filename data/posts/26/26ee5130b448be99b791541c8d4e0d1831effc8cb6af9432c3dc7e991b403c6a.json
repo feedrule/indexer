@@ -4,17 +4,20 @@
     {
       "link": "https://ahelwer.ca/post/2026-09-26-reachability/",
       "title": "Can we have reachability properties in TLA⁺?",
-      "description": "I was reading Hillel Wayne’s new post TLA+ Won’t Solve Everything and became fixated on one of the things he says cannot be expressed in TLA⁺: Possibility and reachability properties: that it’s always possible to make P true, even if you don’t actually decide to. Things like “I can always shut down the computer” or “A user can always change their password”. These can’t be expressed with <>P becaus"
+      "description": "I was reading Hillel Wayne’s new post TLA+ Won’t Solve Everything and became fixated on one of the things he says cannot be expressed in TLA⁺: Possibility and reachability properties: that it’s always possible to make P true, even if you don’t actually decide to. Things like “I can always shut down the computer” or “A user can always change their password”. These can’t be expressed with <>P becaus",
+      "date": null
     },
     {
       "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
       "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
-      "description": "Here are my thoughts on the free online textbook Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney, author of the Linux kernel’s RCU synchronization mechanism . I read a lot of this textbook, got my fill, and probably won’t read more of it in the near future so wanted to write this review while it is all still fresh. Set & Setting Here I’ll talk about the mind"
+      "description": "Here are my thoughts on the free online textbook Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney, author of the Linux kernel’s RCU synchronization mechanism . I read a lot of this textbook, got my fill, and probably won’t read more of it in the near future so wanted to write this review while it is all still fresh. Set & Setting Here I’ll talk about the mind",
+      "date": null
     },
     {
       "link": "https://ahelwer.ca/post/2026-08-24-finite-state-future/",
       "title": "The changing role of finite-state model checking",
-      "description": "This post stems from a recent conversation with Heidi Howard where we talked about the changing role of TLA⁺ & finite-state model checking in both research and industry. For a long time, users of TLA⁺ (or other formal specification languages like Quint) had a classic 80/20 payoff/effort choice available to them: they could either put in a large amount of effort to formally prove their system prope"
+      "description": "This post stems from a recent conversation with Heidi Howard where we talked about the changing role of TLA⁺ & finite-state model checking in both research and industry. For a long time, users of TLA⁺ (or other formal specification languages like Quint) had a classic 80/20 payoff/effort choice available to them: they could either put in a large amount of effort to formally prove their system prope",
+      "date": null
     }
   ]
 }

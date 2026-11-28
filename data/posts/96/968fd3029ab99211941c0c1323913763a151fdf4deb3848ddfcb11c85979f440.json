@@ -4,17 +4,20 @@
     {
       "link": "https://briancaffey.github.io/2026/11/22/hermes-agent-on-azure-with-opentelemetry",
       "title": "Hermes Agent on Azure: traces, logs and metrics in Azure Monitor with OpenTelemetry",
-      "description": "Running the open-source Hermes Agent on Azure Container Apps and sending its telemetry to Application Insights and an Azure Monitor workspace with the hermes-otel plugin: what the setup is, what Azure shows, and what broke on the way"
+      "description": "Running the open-source Hermes Agent on Azure Container Apps and sending its telemetry to Application Insights and an Azure Monitor workspace with the hermes-otel plugin: what the setup is, what Azure shows, and what broke on the way",
+      "date": null
     },
     {
       "link": "https://briancaffey.github.io/2026/11/13/hnfm-a-year-on",
       "title": "hn.fm, a year on: Hacker News as episodes, digests, a radio station and directed video",
-      "description": "A 2025 hackathon project that turned Hacker News stories into narrated video kept growing. This is what it does now, how each part works, and a set of things it made from one day's front page, all on models running at home."
+      "description": "A 2025 hackathon project that turned Hacker News stories into narrated video kept growing. This is what it does now, how each part works, and a set of things it made from one day's front page, all on models running at home.",
+      "date": null
     },
     {
       "link": "https://briancaffey.github.io/2026/11/12/pokedex-to-3d-models",
       "title": "From Pokédex artwork to 3D models: every Pokémon, in clay, glass and chrome",
-      "description": "A 2025 side project turned 1,017 flat Pokédex drawings into 3D models and then sat on a hard drive. This is how it worked, what it took to bring it back, and what a restyle step, a review studio and a virtual film set add to it."
+      "description": "A 2025 side project turned 1,017 flat Pokédex drawings into 3D models and then sat on a hard drive. This is how it worked, what it took to bring it back, and what a restyle step, a review studio and a virtual film set add to it.",
+      "date": null
     }
   ]
 }

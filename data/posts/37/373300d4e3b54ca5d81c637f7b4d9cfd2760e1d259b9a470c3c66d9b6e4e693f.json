@@ -4,17 +4,20 @@
     {
       "link": "https://orgnizedmess.net/php-json-rust.html",
       "title": "Deserializing quirky JSON in Rust",
-      "description": "I wrote an API Client in Rust recently for EVE-NG , a network emulator. Some of its API endpoints (that represent lists of things) return different JSON representations for the same endpoint depending on the state of the instance. As Rust is strict about types, I had to figure out how to deserialize these quirks while ensuring consistency in my program. An example of this quirk is the list of node"
+      "description": "I wrote an API Client in Rust recently for EVE-NG , a network emulator. Some of its API endpoints (that represent lists of things) return different JSON representations for the same endpoint depending on the state of the instance. As Rust is strict about types, I had to figure out how to deserialize these quirks while ensuring consistency in my program. An example of this quirk is the list of node",
+      "date": null
     },
     {
       "link": "https://orgnizedmess.net/email-spam-attack.html",
       "title": "Discovering an email spam attack by mistake",
-      "description": "On 14th May 2026, I logged onto my server to clear some disk space, only to find out that my mail server was under attack: an attacker got access to a mail account with weak credentials and sent spam from my domain. My mail server was configured to use Linux system accounts instead of the commonly recommend virtual mailboxes. I created a user a while back called test with the password test for tes"
+      "description": "On 14th May 2026, I logged onto my server to clear some disk space, only to find out that my mail server was under attack: an attacker got access to a mail account with weak credentials and sent spam from my domain. My mail server was configured to use Linux system accounts instead of the commonly recommend virtual mailboxes. I created a user a while back called test with the password test for tes",
+      "date": null
     },
     {
       "link": "https://orgnizedmess.net/mail-server-notes.html",
       "title": "Notes on setting up a mail server",
-      "description": "As part of my public homelab setup, one of the services I configured was a mail server! I got started with around a month ago, and have been running a bare minimum setup for a week. Here are some notes about the configuration process. Finding the right infrastructure Most providers and ISPs block port 25 traffic due to it being an easy target for spam. It makes sense to do so, as even one machine"
+      "description": "As part of my public homelab setup, one of the services I configured was a mail server! I got started with around a month ago, and have been running a bare minimum setup for a week. Here are some notes about the configuration process. Finding the right infrastructure Most providers and ISPs block port 25 traffic due to it being an easy target for spam. It makes sense to do so, as even one machine",
+      "date": null
     }
   ]
 }

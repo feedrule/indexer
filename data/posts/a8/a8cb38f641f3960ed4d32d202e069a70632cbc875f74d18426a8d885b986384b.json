@@ -4,17 +4,20 @@
     {
       "link": "https://thinhdanggroup.github.io/ralph-to-goal/",
       "title": "Ralph to /goal: How a Bash One-Liner Became a Product Feature",
-      "description": "Huntley's while-true agent loop became Claude Code's /goal and Codex Goals. What survived the trip, what got lost, and how to put the hard check back."
+      "description": "Huntley's while-true agent loop became Claude Code's /goal and Codex Goals. What survived the trip, what got lost, and how to put the hard check back.",
+      "date": null
     },
     {
       "link": "https://thinhdanggroup.github.io/agent-separation-of-duties/",
       "title": "Agent Separation of Duties: The Architecture That Dropped Attack Success from 98% to 7%",
-      "description": "A preprint moves four roles — planner, policy gate, executor, auditor — outside the model, cutting prompt-injection attack success from 98.3% to 7.7%. Here is how to build it."
+      "description": "A preprint moves four roles — planner, policy gate, executor, auditor — outside the model, cutting prompt-injection attack success from 98.3% to 7.7%. Here is how to build it.",
+      "date": null
     },
     {
       "link": "https://thinhdanggroup.github.io/vietnamese-voicebot-cpu-only/",
       "title": "A Vietnamese Phone Receptionist on a Laptop CPU: Rules First, LLM Last",
-      "description": "How a local, CPU-only Vietnamese voicebot books tables in 0.3 s: deterministic skills own correctness, and the small LLM is only called on a warm prompt cache."
+      "description": "How a local, CPU-only Vietnamese voicebot books tables in 0.3 s: deterministic skills own correctness, and the small LLM is only called on a warm prompt cache.",
+      "date": null
     }
   ]
 }

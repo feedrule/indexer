@@ -4,17 +4,20 @@
     {
       "link": "https://amongbytes.com/posts/rejection-rate-of-mldsa-signing/",
       "title": "On the Expected Number of Iterations in ML-DSA Signing",
-      "description": "Introduction FIPS 204 [1] Table 1 gives the expected number of iterations of the ML-DSA signing loop, and Appendix C uses those figures to derive a loop bound for implementations that choose to impose one. The discrepancy is small but systematic. NIST’s errata [2] corrects the numbers without a derivation. The figures in Table 1 of [1] account for one of the two rejection points in the signing loo"
+      "description": "Introduction FIPS 204 [1] Table 1 gives the expected number of iterations of the ML-DSA signing loop, and Appendix C uses those figures to derive a loop bound for implementations that choose to impose one. The discrepancy is small but systematic. NIST’s errata [2] corrects the numbers without a derivation. The figures in Table 1 of [1] account for one of the two rejection points in the signing loo",
+      "date": null
     },
     {
       "link": "https://amongbytes.com/posts/rfc-10024-negotiating-pq-tls-handshakes/",
       "title": "RFC 10024: Negotiating Post-Quantum TLS handshakes",
-      "description": "I co-authored RFC 10024 and ran the server side of the 2019 Cloudflare-Google post-quantum experiment. RFC 10024 is nine pages long. If you strip the boilerplate, the actual specification - three code points for PQ/T hybrid key agreements - fits on about four of them. It says things like: concatenate the ML-KEM-768 encapsulation key and the X25519 share; the result is 1216 bytes. That is roughly t"
+      "description": "I co-authored RFC 10024 and ran the server side of the 2019 Cloudflare-Google post-quantum experiment. RFC 10024 is nine pages long. If you strip the boilerplate, the actual specification - three code points for PQ/T hybrid key agreements - fits on about four of them. It says things like: concatenate the ML-KEM-768 encapsulation key and the X25519 share; the result is 1216 bytes. That is roughly t",
+      "date": null
     },
     {
       "link": "https://amongbytes.com/posts/20260516-parallel-mldsa.html",
       "title": "Speculative Parallel Rejection Sampling in ML-DSA Signing",
-      "description": "Speculative Parallel Rejection Sampling in ML-DSA Signing ML-DSA signing uses the Fiat-Shamir with Aborts construction. The signer picks a random masking vector y , computes a candidate signature, checks norm bounds, and either accepts or discards and retries. The acceptance probability per attempt is roughly 19.6% for ML-DSA-65, meaning the signer needs about 5.1 iterations on average. The distri"
+      "description": "Speculative Parallel Rejection Sampling in ML-DSA Signing ML-DSA signing uses the Fiat-Shamir with Aborts construction. The signer picks a random masking vector y , computes a candidate signature, checks norm bounds, and either accepts or discards and retries. The acceptance probability per attempt is roughly 19.6% for ML-DSA-65, meaning the signer needs about 5.1 iterations on average. The distri",
+      "date": null
     }
   ]
 }

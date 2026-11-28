@@ -4,17 +4,20 @@
     {
       "link": "https://gsilvapt.me/posts/php2shell-honeypot/",
       "title": "I put a fake PHP website online. Here's what scanners are trying",
-      "description": "After the PHP2Shell outburst and craze, I felt like I found the perfect excuse to finally lay my hands on a couple of tools while conducting some research/investigation work on top of that: RunReveal’s reveald A topic of interest An excuse to handwrite code The first application, reveald , is a shameless self-plug because I work for the company that built it. It’s a log forwarder natively integrat"
+      "description": "After the PHP2Shell outburst and craze, I felt like I found the perfect excuse to finally lay my hands on a couple of tools while conducting some research/investigation work on top of that: RunReveal’s reveald A topic of interest An excuse to handwrite code The first application, reveald , is a shameless self-plug because I work for the company that built it. It’s a log forwarder natively integrat",
+      "date": null
     },
     {
       "link": "https://gsilvapt.me/posts/reversing-ax1500/",
       "title": "Reversing a Router for the First Time",
-      "description": "After having the privilege of working on two protocol reverse engineering projects earlier in the year, I wanted to continue practicing. I enjoyed the experience thoroughly—it was fun and rewarding. Admittedly I felt inspired by LowLevel’s Temu Router 1 YouTube video when it came out, although I knew that unless I picked some cheap device like that, it wouldn’t be as easy. Even on a name-brand rou"
+      "description": "After having the privilege of working on two protocol reverse engineering projects earlier in the year, I wanted to continue practicing. I enjoyed the experience thoroughly—it was fun and rewarding. Admittedly I felt inspired by LowLevel’s Temu Router 1 YouTube video when it came out, although I knew that unless I picked some cheap device like that, it wouldn’t be as easy. Even on a name-brand rou",
+      "date": null
     },
     {
       "link": "https://gsilvapt.me/posts/the-future-is-cli-not-mcps/",
       "title": "The future is CLI, not MCPs",
-      "description": "For the past couple of months, I have changed jobs and in this current gig we use LLMs - like, a lot. We’ve seen great things come out of these tools, but also a lot of slop. We’ve learned where LLMs can help us become more productive and deliver more, while also seeing their limits and where we need to tread carefully. We also run our own MCP server to help integrate our platform with LLMs and AI"
+      "description": "For the past couple of months, I have changed jobs and in this current gig we use LLMs - like, a lot. We’ve seen great things come out of these tools, but also a lot of slop. We’ve learned where LLMs can help us become more productive and deliver more, while also seeing their limits and where we need to tread carefully. We also run our own MCP server to help integrate our platform with LLMs and AI",
+      "date": null
     }
   ]
 }

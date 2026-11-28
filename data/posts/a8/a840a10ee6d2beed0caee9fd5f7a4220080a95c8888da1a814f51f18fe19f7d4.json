@@ -4,17 +4,20 @@
     {
       "link": "https://dunkels.com/adam/claude-mistakes-embedded/",
       "title": "Mistakes Claude Code Makes on Embedded Code",
-      "description": "At Groundrun we have run a bunch of Claude Code on embedded projects and we found a bunch of interesting patterns: full write-up here."
+      "description": "At Groundrun we have run a bunch of Claude Code on embedded projects and we found a bunch of interesting patterns: full write-up here.",
+      "date": null
     },
     {
       "link": "https://dunkels.com/adam/llm-6502-emulator/",
       "title": "This 6502 Emulator Executes 1-3 Instructions Per Second (Written in Markdown, Running in an LLM)",
-      "description": "In previous posts we explored what happens if we treat LLMs as processors that run Markdown as their machine code: a user-space IP stack written in Markdown and a BASIC interpreter written in Markdown. Today we are going to look at an emulator for a 6502 microprocessor written in Markdown and executed with OpenCode and the GLM 5.1 model running on Grunden.ai."
+      "description": "In previous posts we explored what happens if we treat LLMs as processors that run Markdown as their machine code: a user-space IP stack written in Markdown and a BASIC interpreter written in Markdown. Today we are going to look at an emulator for a 6502 microprocessor written in Markdown and executed with OpenCode and the GLM 5.1 model running on Grunden.ai.",
+      "date": null
     },
     {
       "link": "https://dunkels.com/adam/city-scale-iot-asset-tracking-simulator/",
       "title": "Tracking 100k Assets Before Having 100k Assets to Track: A Complex IoT System Built with AI Coding Agents",
-      "description": "How AI coding agents built a city-scale IoT asset tracking simulator in weeks, testing 100k+ Bluetooth assets across Birmingham before hardware arrived."
+      "description": "How AI coding agents built a city-scale IoT asset tracking simulator in weeks, testing 100k+ Bluetooth assets across Birmingham before hardware arrived.",
+      "date": null
     }
   ]
 }

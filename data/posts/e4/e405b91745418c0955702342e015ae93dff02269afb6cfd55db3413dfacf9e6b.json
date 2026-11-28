@@ -4,17 +4,20 @@
     {
       "link": "https://brianschiller.com/blog/2026/10/05/gitlab-ci-linter/",
       "title": "GitLab CI Linter",
-      "description": "How gitlab-ci-linter flattens GitLab CI config files and catches common pipeline problems."
+      "description": "How gitlab-ci-linter flattens GitLab CI config files and catches common pipeline problems.",
+      "date": null
     },
     {
       "link": "https://brianschiller.com/blog/2026/08/19/claudes-smoking-gun/",
       "title": "Claude's Smoking Gun",
-      "description": "Why does Claude keep finding \"The Smoking Gun\" and being wrong about it?"
+      "description": "Why does Claude keep finding \"The Smoking Gun\" and being wrong about it?",
+      "date": null
     },
     {
       "link": "https://brianschiller.com/blog/2026/05/12/prq-tmux-worktrees/",
       "title": "prq: A tool for recycling worktrees",
-      "description": "prq is a PR queue with warm worktrees and tmux notifications"
+      "description": "prq is a PR queue with warm worktrees and tmux notifications",
+      "date": null
     }
   ]
 }

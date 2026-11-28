@@ -4,17 +4,20 @@
     {
       "link": "https://deploymentfromscratch.com/blog/op-cache",
       "title": "Cache 1Password entries with op-cache",
-      "description": "op-cache is a fast caching proxy specifically designed for enhancing the performance of 1Password CLI's op read command line utility. Here's how it works and why it's secure."
+      "description": "op-cache is a fast caching proxy specifically designed for enhancing the performance of 1Password CLI's op read command line utility. Here's how it works and why it's secure.",
+      "date": null
     },
     {
       "link": "https://deploymentfromscratch.com/blog/vercel-alternatives",
       "title": "Vercel alternatives",
-      "description": "Most popular Vercel alternatives in 2025. A big comparison of PaaS solutions and self-hosting options."
+      "description": "Most popular Vercel alternatives in 2025. A big comparison of PaaS solutions and self-hosting options.",
+      "date": null
     },
     {
       "link": "https://deploymentfromscratch.com/blog/local-docker-registry-kamal",
       "title": "How to use local Docker registry in Kamal",
-      "description": "Understanding local Docker registry What is a local Docker registry? A local Docker registry is a repository that allows you to store and manage your Docker ima"
+      "description": "Understanding local Docker registry What is a local Docker registry? A local Docker registry is a repository that allows you to store and manage your Docker ima",
+      "date": null
     }
   ]
 }

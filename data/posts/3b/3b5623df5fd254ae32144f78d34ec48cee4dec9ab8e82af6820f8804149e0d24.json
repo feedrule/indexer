@@ -4,17 +4,20 @@
     {
       "link": "https://hadi.timachi.com/posts/my_distro_of_choice_2026",
       "title": "My GNU/Linux distributions of choice in 2026",
-      "description": "A review of LLM-free and systemd-free distros"
+      "description": "A review of LLM-free and systemd-free distros",
+      "date": null
     },
     {
       "link": "https://hadi.timachi.com/projects/silence_pwm_fan/silence_pwm_computer_fan",
       "title": "Silence a computer fan based on PWM input",
-      "description": "Turn off the computer fan if input PWM is below a threshold to override min fan PWM set by hardware"
+      "description": "Turn off the computer fan if input PWM is below a threshold to override min fan PWM set by hardware",
+      "date": null
     },
     {
       "link": "https://hadi.timachi.com/posts/new_website_pandoc_python_nginx",
       "title": "New website",
-      "description": "A rewrite of my website, moving from FastAPI to static generation and NGINX"
+      "description": "A rewrite of my website, moving from FastAPI to static generation and NGINX",
+      "date": null
     }
   ]
 }

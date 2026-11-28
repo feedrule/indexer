@@ -4,17 +4,20 @@
     {
       "link": "https://blog.mphomphego.co.za/blog/2026/10/23/a-0-1-second-tool-call-filled-my-agents-context-window.html",
       "title": "How a 0.1-Second Tool Call Flooded My AI Agent With 180,000 Tokens: Handling Large Tool Responses at Scale",
-      "description": "Disclaimer: AI-assisted editing and structure. The incident, technical decisions, analysis, and opinions are mine. The domain, tables, SQL and code below are invented (an online store) so nothing here points at a real system. The measurements from the incident are real. A user opened a chat with our AI agent,..."
+      "description": "Disclaimer: AI-assisted editing and structure. The incident, technical decisions, analysis, and opinions are mine. The domain, tables, SQL and code below are invented (an online store) so nothing here points at a real system. The measurements from the incident are real. A user opened a chat with our AI agent,...",
+      "date": null
     },
     {
       "link": "https://blog.mphomphego.co.za/blog/2026/09/16/how-a-single-query-inside-an-ai-agent-took-down-a-client-facing-app.html",
       "title": "How a Single Query Inside an AI Agent Took Down a Client-Facing App",
-      "description": "Disclaimer: AI-assisted editing and structure. The incident, technical decisions, analysis, and opinions are mine. One ::varchar cast. That’s it. That’s the whole blast radius of what you’re about to read. I needed one of our AI agent’s tools to return a record plus its latest history entry and its latest..."
+      "description": "Disclaimer: AI-assisted editing and structure. The incident, technical decisions, analysis, and opinions are mine. One ::varchar cast. That’s it. That’s the whole blast radius of what you’re about to read. I needed one of our AI agent’s tools to return a record plus its latest history entry and its latest...",
+      "date": null
     },
     {
       "link": "https://blog.mphomphego.co.za/blog/2026/04/18/harness-engineering-building-maestro-v2-an-autonomous-github-agent-orchestrator.html",
       "title": "Harness Engineering in Practice: Building Maestro v2, an Autonomous GitHub Agent Orchestrator using Claude Code",
-      "description": "Listen to this article: Your browser does not support the audio element. Disclaimer: AI-assisted post. Structure and phrasing are Claude’s. The decisions, war stories, and 2am tequila are mine. It was a Saturday afternoon, after driving to & from Langebaan for my daughter’s sports match (#PresentDads), everyone was on devices..."
+      "description": "Listen to this article: Your browser does not support the audio element. Disclaimer: AI-assisted post. Structure and phrasing are Claude’s. The decisions, war stories, and 2am tequila are mine. It was a Saturday afternoon, after driving to & from Langebaan for my daughter’s sports match (#PresentDads), everyone was on devices...",
+      "date": null
     }
   ]
 }

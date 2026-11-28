@@ -4,17 +4,20 @@
     {
       "link": "https://wasi0013.com/2026/09/14/are-generative-models-the-next-paintbrush/",
       "title": "Engineering spatial control in generative AI with micro-composition and stacking iterative line-art",
-      "description": "Is it possible to draw a deterministic abstract piece of ‘artwork’ from scratch without an expensive generative AI image model, relying entirely on a chat window? If you feed a complex conceptual prompt into Gemini, ChatGPT, or Claude, the output is almost always a chaotic, non-deterministic mashup that ignores spatial logic. I discovered that by abandoning complex one-shot prompts and instead usi"
+      "description": "Is it possible to draw a deterministic abstract piece of ‘artwork’ from scratch without an expensive generative AI image model, relying entirely on a chat window? If you feed a complex conceptual prompt into Gemini, ChatGPT, or Claude, the output is almost always a chaotic, non-deterministic mashup that ignores spatial logic. I discovered that by abandoning complex one-shot prompts and instead usi",
+      "date": null
     },
     {
       "link": "https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/",
       "title": "Data Visualization Challenge: The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It",
-      "description": "When I started taking Zettelkasten notes in Obsidian, I never thought about scale. I just kept writing, linking, and letting the ideas grow. I initially kept all my work and personal notes together. All the notes on parenting, hobbies, personal projects, study, client projects, document on small nuances, design decisions, fragments of architectural studies, and reflections on engineering problems"
+      "description": "When I started taking Zettelkasten notes in Obsidian, I never thought about scale. I just kept writing, linking, and letting the ideas grow. I initially kept all my work and personal notes together. All the notes on parenting, hobbies, personal projects, study, client projects, document on small nuances, design decisions, fragments of architectural studies, and reflections on engineering problems",
+      "date": null
     },
     {
       "link": "https://wasi0013.com/2025/09/21/detecting-and-fixing-data-quality-problems-in-data-pipelines-and-ml-systems/",
       "title": "Detecting and Fixing Data Quality Problems in Data Pipelines and ML Systems",
-      "description": "Early in my career, I built many web scrapers, some of these early scrapy scrapers used to aggregate product pricing data from multiple e-commerce websites. The initial dataset looked complete, and basic analysis suggested reliable trends. Once I integrated the data into a dashboard for decision-making, inconsistencies appeared due to slight differences in HTML structure across sites. These hidden"
+      "description": "Early in my career, I built many web scrapers, some of these early scrapy scrapers used to aggregate product pricing data from multiple e-commerce websites. The initial dataset looked complete, and basic analysis suggested reliable trends. Once I integrated the data into a dashboard for decision-making, inconsistencies appeared due to slight differences in HTML structure across sites. These hidden",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.cazzulino.com/ndx.html",
       "title": "How to run .NET tools without the SDK",
-      "description": "I have renamed ndnx to ndx. .NET 10 shipped dnx (dotnet tool exec): one-shot nuget tools, npx-style. You don’t install them. You just run dnx stop and it downloads into the nuget cache and starts. NOTE: I’m using stop as the sample Native AOT tool. It sends SIGINT (Ctrl+C) to a process in a cross-platform way — same as hitting Ctrl+C, not Stop-Process / kill -9. The RID-specific packages are nativ"
+      "description": "I have renamed ndnx to ndx. .NET 10 shipped dnx (dotnet tool exec): one-shot nuget tools, npx-style. You don’t install them. You just run dnx stop and it downloads into the nuget cache and starts. NOTE: I’m using stop as the sample Native AOT tool. It sends SIGINT (Ctrl+C) to a process in a cross-platform way — same as hitting Ctrl+C, not Stop-Process / kill -9. The RID-specific packages are nativ",
+      "date": null
     },
     {
       "link": "https://www.cazzulino.com/bitcent.html",
       "title": "Bitcent: The 10⁻¹⁰ Dollar Unit for AI Pricing",
-      "description": "I’ve been playing with the xAI API recently, and noticed something interesting about their pricing model. The API returns usage costs as integers, but the numbers didn’t immediately make sense. UPDATE: we now know what they call this unit of measure: the USD tick. See https://github.com/xai-org/xai-proto/pull/48 For example, a Grok Imagine generation costs 330,000,000. On their pricing page, that"
+      "description": "I’ve been playing with the xAI API recently, and noticed something interesting about their pricing model. The API returns usage costs as integers, but the numbers didn’t immediately make sense. UPDATE: we now know what they call this unit of measure: the USD tick. See https://github.com/xai-org/xai-proto/pull/48 For example, a Grok Imagine generation costs 330,000,000. On their pricing page, that",
+      "date": null
     },
     {
       "link": "https://www.cazzulino.com/running-remote-csharp-scripts.html",
       "title": "Streamlining Remote C# Scripts with .NET 10 runfile",
-      "description": "TL;DR: Run remote scripts instantly with the ref format [host/]owner/repo[@ref][:path]. dnx runfile kzu/run:clean.cs With .NET 10, we are seeing continued improvements in how we can run C# code directly. The new runfile feature allows for a more streamlined execution of local C# files, making it easier than ever to treat C# as a scripting language. The Problem: Sharing Scripts However, what if you"
+      "description": "TL;DR: Run remote scripts instantly with the ref format [host/]owner/repo[@ref][:path]. dnx runfile kzu/run:clean.cs With .NET 10, we are seeing continued improvements in how we can run C# code directly. The new runfile feature allows for a more streamlined execution of local C# files, making it easier than ever to treat C# as a scripting language. The Problem: Sharing Scripts However, what if you",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.bradcypert.com/gleam-resources/",
       "title": "Gleam Resources",
-      "description": "A friendly language for building type-safe systems on the Erlang VM. I'm currently using it to learn networking from the TCP layer up. Gleam is the first language in a while that made me want to write a network service for the joy of it. The type system is small. The syntax is calm. You still get BEAM concurrency underneath, which is the whole point if you're building something that has to stay up"
+      "description": "A friendly language for building type-safe systems on the Erlang VM. I'm currently using it to learn networking from the TCP layer up. Gleam is the first language in a while that made me want to write a network service for the joy of it. The type system is small. The syntax is calm. You still get BEAM concurrency underneath, which is the whole point if you're building something that has to stay up",
+      "date": null
     },
     {
       "link": "https://www.bradcypert.com/retro-building-an-smtp-server-in-gleam/",
       "title": "Retro: Building an SMTP Server in Gleam - Part 1",
-      "description": "I've been building an SMTP server in Gleam lately. I won't say \"From scratch\" as I'm using Rawhat's wonderful Glisten library, which provides the TCP transport layer, but outside of that, I'm not (currently) using any other libraries. What I've actually implemented so far is rather small. I haven't touched IMAP or POP and have just focused on reading TCP packets, parsing them as SMTP payloads, and"
+      "description": "I've been building an SMTP server in Gleam lately. I won't say \"From scratch\" as I'm using Rawhat's wonderful Glisten library, which provides the TCP transport layer, but outside of that, I'm not (currently) using any other libraries. What I've actually implemented so far is rather small. I haven't touched IMAP or POP and have just focused on reading TCP packets, parsing them as SMTP payloads, and",
+      "date": null
     },
     {
       "link": "https://www.bradcypert.com/interfaces-in-zig/",
       "title": "Interfaces in Zig",
-      "description": "Zig does not have an interface keyword — and that’s a feature, not a bug. Zig’s design deliberately avoids baking object-oriented abstractions into the language. Instead, it gives you a small set of powerful primitives — structs, pointers, comptime, and function pointers — and lets you decide when abstraction is worth the cost. Yet if you look closely at Zig’s standard library, you’ll quickly noti"
+      "description": "Zig does not have an interface keyword — and that’s a feature, not a bug. Zig’s design deliberately avoids baking object-oriented abstractions into the language. Instead, it gives you a small set of powerful primitives — structs, pointers, comptime, and function pointers — and lets you decide when abstraction is worth the cost. Yet if you look closely at Zig’s standard library, you’ll quickly noti",
+      "date": null
     }
   ]
 }

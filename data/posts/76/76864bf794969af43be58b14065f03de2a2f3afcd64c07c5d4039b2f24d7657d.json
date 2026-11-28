@@ -4,17 +4,20 @@
     {
       "link": "https://b10c.me/projects/028-bip110-monitoring-livestream/",
       "title": "BIP-110 monitoring stream: mandatory signaling start",
-      "description": "On August 8th, 2026, Bitcoin block 961632 was mined. This marked the start of the “mandatory signaling” for BIP-110 , which meant all blocks not signaling on version bit 4 would be rejected by a node implementing BIP-110. This resulted in a fork, which I livestreamed by showing a modified version of my fork.observer . While it wasn’t clear if there would be blocks found on the BIP-110 side of the"
+      "description": "On August 8th, 2026, Bitcoin block 961632 was mined. This marked the start of the “mandatory signaling” for BIP-110 , which meant all blocks not signaling on version bit 4 would be rejected by a node implementing BIP-110. This resulted in a fork, which I livestreamed by showing a modified version of my fork.observer . While it wasn’t clear if there would be blocks found on the BIP-110 side of the",
+      "date": null
     },
     {
       "link": "https://b10c.me/funding/2026-opensats-report-10/",
       "title": "OpenSats Work-Log 10",
-      "description": "This is a copy of the 10th work-log I sent to OpenSats for my LTS grant . Disclaimer : Some information that is not (or not yet) meant to be published may have been redacted. What did you work on? In May, June, July of 2026 I’ve worked on peer-observer and it’s infrastructure to collect more data that will be helpful in analyzing network problems in the future. This includes, for example, the peer"
+      "description": "This is a copy of the 10th work-log I sent to OpenSats for my LTS grant . Disclaimer : Some information that is not (or not yet) meant to be published may have been redacted. What did you work on? In May, June, July of 2026 I’ve worked on peer-observer and it’s infrastructure to collect more data that will be helpful in analyzing network problems in the future. This includes, for example, the peer",
+      "date": null
     },
     {
       "link": "https://b10c.me/projects/027-bitcoind-gunix-match/",
       "title": "Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix",
-      "description": "Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system? Update 2026-06-15: While I said"
+      "description": "Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system? Update 2026-06-15: While I said",
+      "date": null
     }
   ]
 }

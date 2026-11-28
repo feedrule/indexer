@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Know Thy Neighbour in PostgreSQL: Full Symmetric ZCA Whitening, 1,304-Byte Zero-TOAST BioVecInt8G128, Kabsch/PAINS Hygiene & Stage-2.5 EnzRef/STORM Re-Rankers in pg_bio",
-      "description": "Why raw 1280-D ESM-2 protein embeddings collapse into fewer than 15 effective dimensions—and how merging PR #15 in pg_bio fixes anisotropy via full symmetric ZCA matrix whitening (f32/f16 SIMD GEMV, lifting SCOPe/ASTRAL-40 2.08 family-held-out superfamily retrieval from 58.55% to 88.32% and dropping L2 centroid posting-list variance by 185.87x), keeps 1280-D vectors 100% inline on the Postgres hea"
+      "description": "Why raw 1280-D ESM-2 protein embeddings collapse into fewer than 15 effective dimensions—and how merging PR #15 in pg_bio fixes anisotropy via full symmetric ZCA matrix whitening (f32/f16 SIMD GEMV, lifting SCOPe/ASTRAL-40 2.08 family-held-out superfamily retrieval from 58.55% to 88.32% and dropping L2 centroid posting-list variance by 185.87x), keeps 1280-D vectors 100% inline on the Postgres hea",
+      "date": null
     },
     {
       "link": null,
       "title": "How Removing a Single Microprotein Rewires a Whole Proteome: In-Silico CETSA/TPP, Ideal Bioreactor Temperatures (T_opt), and the 20-Clamp Hardware Catalog in pg_bio",
-      "description": "Why a 50-amino-acid microprotein is not a substring of a larger protein, but a standalone physical clamp engineered by evolution—and how we built register-direct CETSA/TPP thermal unfolding kernels (tpp_predict_microprotein_ko_shift & tpp_optimal_bioreactor_window) in Rust (pgrx) to map 555,515+ microprotein knockout cascades across 103.3 million edges, raising 48h RK4 bioreactor ideal operating t"
+      "description": "Why a 50-amino-acid microprotein is not a substring of a larger protein, but a standalone physical clamp engineered by evolution—and how we built register-direct CETSA/TPP thermal unfolding kernels (tpp_predict_microprotein_ko_shift & tpp_optimal_bioreactor_window) in Rust (pgrx) to map 555,515+ microprotein knockout cascades across 103.3 million edges, raising 48h RK4 bioreactor ideal operating t",
+      "date": null
     },
     {
       "link": null,
       "title": "Adopting pg_vectorsearch’s Best Ideas for 3D Atoms, Molecules & Active Sites: 100% Lossless Layered Centroids and Register-Direct Fastscan in pg_bio",
-      "description": "How we extracted four core C23 systems-engineering patterns from Tiger Data's pg_vectorsearch (Hierarchical Centroid Routing, SOAR spill-orthogonal secondary assignment, RaBitQ-style theoretical error bounds, and register-direct Fastscan) and applied them in Rust (pgrx) to pg_bio's three other indices—achieving 10.25x faster 3D Morton octree atomic search, 31.19x faster 1024-bit ECFP4 Tanimoto sea"
+      "description": "How we extracted four core C23 systems-engineering patterns from Tiger Data's pg_vectorsearch (Hierarchical Centroid Routing, SOAR spill-orthogonal secondary assignment, RaBitQ-style theoretical error bounds, and register-direct Fastscan) and applied them in Rust (pgrx) to pg_bio's three other indices—achieving 10.25x faster 3D Morton octree atomic search, 31.19x faster 1024-bit ECFP4 Tanimoto sea",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.tuxed.net/fkooman/blog/openvpn-dco.html",
       "title": "OpenVPN and DCO on Upcoming Linux Distributions",
-      "description": "UPDATE : Issues (1,2) below are fixed in the upcoming Ubuntu 26.04 release. No action on (3) yet. OpenVPN since version 2.7, together with the Linux kernel >= 6.16, support OpenVPN with DCO (Data Channel Offloading). This will perform encryption/decryption in kernel space resulting in improved performance and hopefully reduce battery use. Let's look at support for it in the upcoming Linux distribu"
+      "description": "UPDATE : Issues (1,2) below are fixed in the upcoming Ubuntu 26.04 release. No action on (3) yet. OpenVPN since version 2.7, together with the Linux kernel >= 6.16, support OpenVPN with DCO (Data Channel Offloading). This will perform encryption/decryption in kernel space resulting in improved performance and hopefully reduce battery use. Let's look at support for it in the upcoming Linux distribu",
+      "date": null
     },
     {
       "link": "https://www.tuxed.net/fkooman/blog/go-without-modules.html",
       "title": "Building Go Applications without Go Modules",
-      "description": "Recently I found out that go.mod is used for more than just specifying the name of the module and its dependencies. The Go version specified in it is also used to determine which Go \"feature\" flags are enabled by default when building the software. So, when Go modules are disabled, as is done when building packages for Debian/Ubuntu or Fedora/EL, this information is not available. This means that"
+      "description": "Recently I found out that go.mod is used for more than just specifying the name of the module and its dependencies. The Go version specified in it is also used to determine which Go \"feature\" flags are enabled by default when building the software. So, when Go modules are disabled, as is done when building packages for Debian/Ubuntu or Fedora/EL, this information is not available. This means that",
+      "date": null
     },
     {
       "link": "https://www.tuxed.net/fkooman/blog/yubikey-otp-validation.html",
       "title": "YubiKey OTP Validation",
-      "description": "Yes, I do realize it is 2024, and that we, well, at least some of us, have \"State Of The Art\" Multi Factor Authentication (MFA) using WebAuthn , using hardware tokens, or in some cases integrated directly in the OS with passkeys . That being said, let's figure out how YubiKey OTPs work, and whether or not they can still offer any value in 2024. Note that this article is not an endorsement for usin"
+      "description": "Yes, I do realize it is 2024, and that we, well, at least some of us, have \"State Of The Art\" Multi Factor Authentication (MFA) using WebAuthn , using hardware tokens, or in some cases integrated directly in the OS with passkeys . That being said, let's figure out how YubiKey OTPs work, and whether or not they can still offer any value in 2024. Note that this article is not an endorsement for usin",
+      "date": null
     }
   ]
 }

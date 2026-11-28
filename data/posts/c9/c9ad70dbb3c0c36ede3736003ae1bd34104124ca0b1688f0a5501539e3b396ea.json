@@ -4,17 +4,20 @@
     {
       "link": "https://www.gregoryalexander.com/blog/2026/11/23/a-missing-slash-let-a-bot-fetch-every-page-in-every-theme",
       "title": "A Missing Slash Let a Bot Fetch Every Page in Every Theme",
-      "description": "An empty base URL turned my theme menu’s links into one for every page in every theme, and a bot that ignored robots.txt fetched them all. How I traced it from a JDBC error."
+      "description": "An empty base URL turned my theme menu’s links into one for every page in every theme, and a bot that ignored robots.txt fetched them all. How I traced it from a JDBC error.",
+      "date": null
     },
     {
       "link": "https://www.gregoryalexander.com/blog/2026/11/20/why-my-tinymce-menu-kept-opening-behind-its-window",
       "title": "Why My TinyMCE Menu Kept Opening Behind Its Window",
-      "description": "A TinyMCE menu kept opening behind its Kendo window. It took me six tries to fix, and five of them logged success. What finally worked, and what I missed."
+      "description": "A TinyMCE menu kept opening behind its Kendo window. It took me six tries to fix, and five of them logged success. What finally worked, and what I missed.",
+      "date": null
     },
     {
       "link": "https://www.gregoryalexander.com/blog/2026/11/18/why-my-checkboxes-never-saved-flushatrequestend-and-an-entitysave-outside-the-transaction",
       "title": "Why My Checkboxes Never Saved: flushAtRequestEnd and an entitySave Outside the Transaction",
-      "description": "With flushAtRequestEnd turned off, an entitySave() outside a transaction never reaches the database, and you don’t get an error. Here’s how it quietly broke every Enable checkbox in Galaxie Blog’s theme settings, the wrong guess I made first, and what to look for in your own ColdFusion or Lucee code."
+      "description": "With flushAtRequestEnd turned off, an entitySave() outside a transaction never reaches the database, and you don’t get an error. Here’s how it quietly broke every Enable checkbox in Galaxie Blog’s theme settings, the wrong guess I made first, and what to look for in your own ColdFusion or Lucee code.",
+      "date": null
     }
   ]
 }

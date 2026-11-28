@@ -4,17 +4,20 @@
     {
       "link": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
       "title": "Saying goodbye to asm.js",
-      "description": "Disabling asm.js optimizations in SpiderMonkey"
+      "description": "Disabling asm.js optimizations in SpiderMonkey",
+      "date": null
     },
     {
       "link": "https://spidermonkey.dev/blog/2026/04/13/benchmark-mode.html",
       "title": "Benchmark Mode in SpiderMonkey",
-      "description": "Measuring performance without shooting youself in the foot (as badly)"
+      "description": "Measuring performance without shooting youself in the foot (as badly)",
+      "date": null
     },
     {
       "link": "https://spidermonkey.dev/blog/2026/01/15/job-responsibility.html",
       "title": "Flipping Responsibility for Jobs in SpiderMonkey",
-      "description": "Changes are coming to job handling in SpiderMonkey"
+      "description": "Changes are coming to job handling in SpiderMonkey",
+      "date": null
     }
   ]
 }

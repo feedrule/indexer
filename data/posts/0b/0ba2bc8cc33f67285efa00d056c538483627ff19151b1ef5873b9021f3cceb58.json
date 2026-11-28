@@ -4,17 +4,20 @@
     {
       "link": "https://dnedic.github.io/blog/firmware-linker-script-generation/",
       "title": "Linker Script Generation for Firmware Projects: A Primer",
-      "description": "If you've worked on firmware for any length of time, chances are you had to modify or write a linker script at some point. The core principles are pretty straightforward - define memory regions, place sections inside, respect alignment requirements, define a few symbols and you're good to go. While this is enough initially, projects can grow unpredictably. At some point you might need to add suppo"
+      "description": "If you've worked on firmware for any length of time, chances are you had to modify or write a linker script at some point. The core principles are pretty straightforward - define memory regions, place sections inside, respect alignment requirements, define a few symbols and you're good to go. While this is enough initially, projects can grow unpredictably. At some point you might need to add suppo",
+      "date": null
     },
     {
       "link": "https://dnedic.github.io/blog/nix-shell-embedded-development-environment/",
       "title": "Using nix-shell to create and share reproducible embedded development environments",
-      "description": "Historically, working on embedded software meant using proprietary manufacturer-provided IDEs with tools like the toolchain, build system and debugger all integrated. As open source tooling eventually caught up and even surpassed closed source solutions in many regards we often no longer have to rely on closed solutions and can adopt traditional software development tools and practices. Unfortunat"
+      "description": "Historically, working on embedded software meant using proprietary manufacturer-provided IDEs with tools like the toolchain, build system and debugger all integrated. As open source tooling eventually caught up and even surpassed closed source solutions in many regards we often no longer have to rely on closed solutions and can adopt traditional software development tools and practices. Unfortunat",
+      "date": null
     },
     {
       "link": "https://dnedic.github.io/blog/the-most-thoroughly-commented-embedded-cmakelists/",
       "title": "The most thoroughly commented embedded CMakeLists file",
-      "description": "Many embedded software engineers have had to deal with build systems that are either non cross-platform or a part of the IDE they are using, don't offer easy composability or per-library configuration, provide no testing support or ways to generate or package files without using a third party scripting language. CMake is a build system that offers solutions to many of those problems and is already"
+      "description": "Many embedded software engineers have had to deal with build systems that are either non cross-platform or a part of the IDE they are using, don't offer easy composability or per-library configuration, provide no testing support or ways to generate or package files without using a third party scripting language. CMake is a build system that offers solutions to many of those problems and is already",
+      "date": null
     }
   ]
 }

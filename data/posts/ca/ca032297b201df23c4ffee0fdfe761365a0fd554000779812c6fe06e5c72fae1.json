@@ -4,17 +4,20 @@
     {
       "link": "https://bugs.fish/post/the_appraisal_service_and_its_vectors/",
       "title": "The appraisal service and its vectors of Files",
-      "description": "Preface The Inventory and Compatibility appraisal service ( InventorySvc ) on Windows is interesting. As its name suggests, this service (let’s call it “the appraisal service” hereinafter) has something to do with the compatibility workarounds that Microsoft maintains for old applications ( this article on MSDN is probably relevant). Unfortunately, the appraisal service is also a big player when i"
+      "description": "Preface The Inventory and Compatibility appraisal service ( InventorySvc ) on Windows is interesting. As its name suggests, this service (let’s call it “the appraisal service” hereinafter) has something to do with the compatibility workarounds that Microsoft maintains for old applications ( this article on MSDN is probably relevant). Unfortunately, the appraisal service is also a big player when i",
+      "date": null
     },
     {
       "link": "https://bugs.fish/post/explorer_handle_leak_getcommand/",
       "title": "Debugging a registry key handle leak in File Explorer (explorer.exe)",
-      "description": "On Windows 11, every time I open and close a File Explorer window, it leaks about 140 Key handles to HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CommandStore and some registry keys under CommandStore\\shell , like HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CommandStore\\shell\\Windows.properties . I noticed this issue at the end of last year and reproduced it on both Windows"
+      "description": "On Windows 11, every time I open and close a File Explorer window, it leaks about 140 Key handles to HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CommandStore and some registry keys under CommandStore\\shell , like HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CommandStore\\shell\\Windows.properties . I noticed this issue at the end of last year and reproduced it on both Windows",
+      "date": null
     },
     {
       "link": "https://bugs.fish/pages/about/",
       "title": null,
-      "description": "About This blog records how I debug and (sometimes) fix weird software issues. Opinions expressed on this blog are solely my own and do not express the views or opinions of my employers or my collaborators. Email: fishw <at> asu <dot> edu"
+      "description": "About This blog records how I debug and (sometimes) fix weird software issues. Opinions expressed on this blog are solely my own and do not express the views or opinions of my employers or my collaborators. Email: fishw <at> asu <dot> edu",
+      "date": null
     }
   ]
 }

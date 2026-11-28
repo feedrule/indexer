@@ -4,17 +4,20 @@
     {
       "link": "https://theappsscriptlab.com/google-apps-script-cacheservice-what-it-is-and-how-to-use-it/",
       "title": "Google Apps Script CacheService: What It Is and How to Use It",
-      "description": "I love Apps Script. But if you use it regularly, you are probably familiar with slow execution times, especially when your script repeatedly calls APIs, BigQuery, or other external services. When an Apps Script application repeatedly needs the same data, fetching or computing that data again every time can be wasteful. This is where caching…"
+      "description": "I love Apps Script. But if you use it regularly, you are probably familiar with slow execution times, especially when your script repeatedly calls APIs, BigQuery, or other external services. When an Apps Script application repeatedly needs the same data, fetching or computing that data again every time can be wasteful. This is where caching…",
+      "date": null
     },
     {
       "link": "https://theappsscriptlab.com/workaround-for-apps-script-urlfetchapp-bandwidth-quota-exceeded-errors-using-cloud-run/",
       "title": "Workaround for Apps Script UrlFetchApp “Bandwidth quota exceeded” errors using Cloud Run",
-      "description": "We are currently experiencing intermittent UrlFetchApp errors in Apps Script: Exception: Bandwidth quota exceeded: <url>. Try reducing the rate of data transfer. This started suddenly around April 2026 and matches the public issue reported here: https://issuetracker.google.com/issues/505172128 The problem is that the error happens even with low usage, small payloads, and previously stable scripts."
+      "description": "We are currently experiencing intermittent UrlFetchApp errors in Apps Script: Exception: Bandwidth quota exceeded: <url>. Try reducing the rate of data transfer. This started suddenly around April 2026 and matches the public issue reported here: https://issuetracker.google.com/issues/505172128 The problem is that the error happens even with low usage, small payloads, and previously stable scripts.",
+      "date": null
     },
     {
       "link": "https://theappsscriptlab.com/apps-script-logging-best-practices-console-logger-cloud-logging-and-a-production-ready-logging-system/",
       "title": "Apps Script Logging Best Practices: console, Logger, Cloud Logging, and a Production-Ready Logging System",
-      "description": "Logging in Google Apps Script is easy when you are testing a small script in the editor. It becomes much more important when the project turns into a real web app used by other people. At that stage, logs are no longer just for debugging. They help you understand what happened, where a request failed,…"
+      "description": "Logging in Google Apps Script is easy when you are testing a small script in the editor. It becomes much more important when the project turns into a real web app used by other people. At that stage, logs are no longer just for debugging. They help you understand what happened, where a request failed,…",
+      "date": null
     }
   ]
 }

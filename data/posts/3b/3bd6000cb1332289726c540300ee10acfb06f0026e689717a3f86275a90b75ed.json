@@ -4,17 +4,20 @@
     {
       "link": "https://rootknecht.net/blog/markdown-writing-app-comparison/",
       "title": "Comparing Markdown Writing Apps",
-      "description": "A requirements-driven comparison of iA Writer, Typora, Calmly Writer, and MarkText for writing Hugo blog posts."
+      "description": "A requirements-driven comparison of iA Writer, Typora, Calmly Writer, and MarkText for writing Hugo blog posts.",
+      "date": null
     },
     {
       "link": "https://rootknecht.net/blog/git-fixup/",
       "title": "Keep your Git history tidy and clean",
-      "description": "A hands-on demo of fixup commits that lets you attach a forgotten change to an earlier commit instead of piling up “oops” commits."
+      "description": "A hands-on demo of fixup commits that lets you attach a forgotten change to an earlier commit instead of piling up “oops” commits.",
+      "date": null
     },
     {
       "link": "https://rootknecht.net/blog/using-pi-agent/",
       "title": "Reducing the blast radius of running pi.dev",
-      "description": "A practical look at making Pi safer to use: isolating each project in a Tart-based virtual machine, sharing only the required directories, and using Pi extensions to block risky access patterns and destructive Git commands."
+      "description": "A practical look at making Pi safer to use: isolating each project in a Tart-based virtual machine, sharing only the required directories, and using Pi extensions to block risky access patterns and destructive Git commands.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://sourcediver.org/posts/261119_free_hackers",
       "title": "Free Hackers",
-      "description": "How the gospel of the Free Software Movement finally came true - at least for now."
+      "description": "How the gospel of the Free Software Movement finally came true - at least for now.",
+      "date": null
     },
     {
       "link": "https://sourcediver.org/posts/260713_attention_is_all_they_want",
       "title": "Attention is all they want",
-      "description": "Reading the news can be annoying when the front page features things you just do not want to hear about. I prototyped a browser extension that censors content based on natural language. The content is matched against rules using compact local LLMs and never leaves the machine."
+      "description": "Reading the news can be annoying when the front page features things you just do not want to hear about. I prototyped a browser extension that censors content based on natural language. The content is matched against rules using compact local LLMs and never leaves the machine.",
+      "date": null
     },
     {
       "link": "https://sourcediver.org/posts/260214_development_sandboxes",
       "title": "Development Sandboxes: A wishlist",
-      "description": "With the advent of agentic coding tools such as OpenCode, Claude Code, Antigravity and Copilot, the security and the lack of it on even modern operating systems has come back into focus or at least should have been for every responsible and informed user of such tools. This post describes an abstract, yet to be built, system that protects users and their data as best as possible."
+      "description": "With the advent of agentic coding tools such as OpenCode, Claude Code, Antigravity and Copilot, the security and the lack of it on even modern operating systems has come back into focus or at least should have been for every responsible and informed user of such tools. This post describes an abstract, yet to be built, system that protects users and their data as best as possible.",
+      "date": null
     }
   ]
 }

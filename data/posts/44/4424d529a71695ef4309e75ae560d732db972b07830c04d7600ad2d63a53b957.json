@@ -4,17 +4,20 @@
     {
       "link": "https://nisshi-blog-123.netlify.app/articles/broker-aws-free-tier",
       "title": "Small Kafka: Nisshi + SQLite on a free t3.micro (AWS Free Tier)",
-      "description": "Achieving 7000 msg/s (~6.7MB/s) with just 27MB of memory on a free t3.micro EC2 in AWS"
+      "description": "Achieving 7000 msg/s (~6.7MB/s) with just 27MB of memory on a free t3.micro EC2 in AWS",
+      "date": null
     },
     {
       "link": "https://nisshi-blog-123.netlify.app/articles/performance-tuning-ii-sqlite",
       "title": "Nisshi SQLite: 48MB/sec, 114ms max latency with 20MB RSS",
-      "description": "Using flame graphs to remove a hot path, stop copying data and switching to a fast CRC32"
+      "description": "Using flame graphs to remove a hot path, stop copying data and switching to a fast CRC32",
+      "date": null
     },
     {
       "link": "https://nisshi-blog-123.netlify.app/articles/performance-tuning-i",
       "title": "Tuning Nisshi: 600,000 record/s with 13MB of RAM",
-      "description": "Writing 585 MB/s with just 13MB of memory usage."
+      "description": "Writing 585 MB/s with just 13MB of memory usage.",
+      "date": null
     }
   ]
 }

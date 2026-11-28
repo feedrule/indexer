@@ -4,17 +4,20 @@
     {
       "link": "https://rpadovani.com/handling-escalations",
       "title": "Handling high-stakes escalations when every option is bad",
-      "description": "Engineering blogs love to pretend that executive escalations are just a communication problem: summarize the bug in a clean one-pager, present three balanced options, and everyone in the room will find an agreement and pick a sensible option."
+      "description": "Engineering blogs love to pretend that executive escalations are just a communication problem: summarize the bug in a clean one-pager, present three balanced options, and everyone in the room will find an agreement and pick a sensible option.",
+      "date": null
     },
     {
       "link": "https://rpadovani.com/large-scale-changes",
       "title": "Moving dozens of teams without a mandate",
-      "description": "Most cross-org initiatives die because the author writes a design doc, files tickets in other teams' backlogs, and complains to leadership when nobody prioritizes them."
+      "description": "Most cross-org initiatives die because the author writes a design doc, files tickets in other teams' backlogs, and complains to leadership when nobody prioritizes them.",
+      "date": null
     },
     {
       "link": "https://rpadovani.com/k8s-doesnt-care-about-uptime",
       "title": "Kubernetes doesn't care about your uptime",
-      "description": "It's 3:00 AM. A node in your production cluster has gone dark. You wait for the Kubernetes scheduler to do its magic: to recognize the loss and spin up your database elsewhere. But nothing happens. Why?"
+      "description": "It's 3:00 AM. A node in your production cluster has gone dark. You wait for the Kubernetes scheduler to do its magic: to recognize the loss and spin up your database elsewhere. But nothing happens. Why?",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "baby's first decrypted firmware analysis: stack(smashing) open the w2250a v2.2",
-      "description": "Welcome to my first little foray into reverse engineering an AES ECB-128 decryption key found within an earlier version (v1.1) of the desired firmware (v2.2) for the W2250A serial-to-wifi device server. This was ascertained by analysing the entropy of both the versions, which (upon comparison) shows that v2.2. is likely encrypted (high level of entropy) whereas v1.1 contains a readable/extractable"
+      "description": "Welcome to my first little foray into reverse engineering an AES ECB-128 decryption key found within an earlier version (v1.1) of the desired firmware (v2.2) for the W2250A serial-to-wifi device server. This was ascertained by analysing the entropy of both the versions, which (upon comparison) shows that v2.2. is likely encrypted (high level of entropy) whereas v1.1 contains a readable/extractable",
+      "date": null
     },
     {
       "link": null,
       "title": "The rooting, firmware analysis and hardcoded, reset-persistent credentials of the TP-Link TL-841N!",
-      "description": "Now, let me just preface this with a disclaimer: … and get used to this puppo, as you may see this a few more times in this post :’). In light of continuing my bumbling foray into the hardware hacking landscape, I bought a bottom-of-the-line $10 TP-Link TL-841N(EU) router off a random fellow on Facebook Marketplace, in a thrilling , high-stakes deal conducted in the middle of… a nearby mall."
+      "description": "Now, let me just preface this with a disclaimer: … and get used to this puppo, as you may see this a few more times in this post :’). In light of continuing my bumbling foray into the hardware hacking landscape, I bought a bottom-of-the-line $10 TP-Link TL-841N(EU) router off a random fellow on Facebook Marketplace, in a thrilling , high-stakes deal conducted in the middle of… a nearby mall.",
+      "date": null
     },
     {
       "link": null,
       "title": "baby's first UART root shell; the Technicolour DJA0231 (Gen2 Smart Modem)",
-      "description": "recently i’ve been diving into the rather intimidating but endlessly fascinating world of hardware hacking, and after a few aliexpress orders and bad financial decisions, I now have some of the tools required to start to poke around under the physical and digital hoods of electronic devices. and why not start with my battle-tested, age-old Telstra Gen 2 “Smart Modem”? the white box that watched ov"
+      "description": "recently i’ve been diving into the rather intimidating but endlessly fascinating world of hardware hacking, and after a few aliexpress orders and bad financial decisions, I now have some of the tools required to start to poke around under the physical and digital hoods of electronic devices. and why not start with my battle-tested, age-old Telstra Gen 2 “Smart Modem”? the white box that watched ov",
+      "date": null
     }
   ]
 }

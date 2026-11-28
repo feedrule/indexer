@@ -4,17 +4,20 @@
     {
       "link": "https://www.viblo.se/posts/kubectl-debug-memdump/",
       "title": "Memory dump in Kubernetes with kubectl debug and dotnet-dump",
-      "description": "One of the classic bugs is the memory leak. Even garbage collected languages like C# can leak memory, even if all the code is safe/managed. Sometimes such issues are easy to find and fix. Other times its difficult, for example when the memory leak only happens in production, only sometimes, in a containerized .NET service running in Kubernetes. This difficult case is the one I will cover in this p"
+      "description": "One of the classic bugs is the memory leak. Even garbage collected languages like C# can leak memory, even if all the code is safe/managed. Sometimes such issues are easy to find and fix. Other times its difficult, for example when the memory leak only happens in production, only sometimes, in a containerized .NET service running in Kubernetes. This difficult case is the one I will cover in this p",
+      "date": null
     },
     {
       "link": "https://www.viblo.se/posts/scheduled-gh-actions/",
       "title": "Scheduled GitHub Actions are now useless",
-      "description": "Scheduled GitHub Actions are now (in May 2026) so delayed that they are more or less useless. Here I have two graphs I collected from my work GitHub account, one from a daily job we have, and another from a job that runs hourly during office hours. Both jobs run on our own runners. The daily job is now runs more than 3½ hour late per day. And our hourly job is so delayed that it only runs 30% of t"
+      "description": "Scheduled GitHub Actions are now (in May 2026) so delayed that they are more or less useless. Here I have two graphs I collected from my work GitHub account, one from a daily job we have, and another from a job that runs hourly during office hours. Both jobs run on our own runners. The daily job is now runs more than 3½ hour late per day. And our hourly job is so delayed that it only runs 30% of t",
+      "date": null
     },
     {
       "link": "https://www.viblo.se/posts/oss-releases-ai/",
       "title": "Packages release more often than ever. Or do they?",
-      "description": "The other day my colleague noted that it feels like our Renovate bot triggers much more often in the repos he manages than before. This should mean that his (mainly Python) dependencies release more frequently. But I can't really say I've noticed anything myself. While I do code Python , most of my professional work is in the .NET ecosystem, which might be different, of course. We chatted and came"
+      "description": "The other day my colleague noted that it feels like our Renovate bot triggers much more often in the repos he manages than before. This should mean that his (mainly Python) dependencies release more frequently. But I can't really say I've noticed anything myself. While I do code Python , most of my professional work is in the .NET ecosystem, which might be different, of course. We chatted and came",
+      "date": null
     }
   ]
 }

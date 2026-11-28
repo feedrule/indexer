@@ -4,17 +4,20 @@
     {
       "link": "https://allanatrix.bearblog.dev/my-local-setup-worklog/",
       "title": "My local setup Worklog",
-      "description": "Local AI System: Sovereign ML Stack (Personal Architecture) I'll be documenting my local AI setup as a ongoing process but here's what I have now What I’ve built is not just a “local AI setup” in the typical sense. It is a tightly integrated system where local compute, cloud execution, and storage are deliberately separated but deeply interconnected , so that I can move from idea to large-scale ex"
+      "description": "Local AI System: Sovereign ML Stack (Personal Architecture) I'll be documenting my local AI setup as a ongoing process but here's what I have now What I’ve built is not just a “local AI setup” in the typical sense. It is a tightly integrated system where local compute, cloud execution, and storage are deliberately separated but deeply interconnected , so that I can move from idea to large-scale ex",
+      "date": null
     },
     {
       "link": "https://allanatrix.bearblog.dev/some-things-ive-learned-in-hpc-so-far/",
       "title": "A Deep Dive into Building a Modern AI Toolchain",
-      "description": "If you're like me, you're probably always trying to squeeze as much performance out of your systems and make each GPU hour count. It's a constant battle against bottlenecks, inefficiencies, and the sheer complexity of modern hardware. For a while, I've been working on a project called PyC , a toolchain of technologies with some experimental methods I'm trying to run and see if they have meaningful"
+      "description": "If you're like me, you're probably always trying to squeeze as much performance out of your systems and make each GPU hour count. It's a constant battle against bottlenecks, inefficiencies, and the sheer complexity of modern hardware. For a while, I've been working on a project called PyC , a toolchain of technologies with some experimental methods I'm trying to run and see if they have meaningful",
+      "date": null
     },
     {
       "link": "https://allanatrix.bearblog.dev/running-ml-infrastructure-without-losing-your-mind/",
       "title": "Running ML Infrastructure Without Losing Your Mind",
-      "description": "Notes from Building and Operating NexaCompute One thing I didn’t fully appreciate early in my ML career is how much infrastructure shapes thinking . Not in an abstract sense, but very concretely: what experiments you try, how often you iterate, how confident you are in results, and how much mental energy you burn just keeping things alive. A lot of ML today works because engineers are smart and wi"
+      "description": "Notes from Building and Operating NexaCompute One thing I didn’t fully appreciate early in my ML career is how much infrastructure shapes thinking . Not in an abstract sense, but very concretely: what experiments you try, how often you iterate, how confident you are in results, and how much mental energy you burn just keeping things alive. A lot of ML today works because engineers are smart and wi",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.nathanosman.com/2026/03/28/bluetooth-in-snapcast.html",
       "title": "Bluetooth in Snapcast",
-      "description": "One of the things I’ve been experimenting with when building out my smart home is multi-room audio (the ability to play perfectly synchronized audio from multiple devices). Thankfully there is already a mature solution for routing and synchronizing audio: Snapcast . The only tricky part is getting audio from various sources and feeding it into the Snapcast server. In this article, we will take a look at Bluetooth audio via A2DP ."
+      "description": "One of the things I’ve been experimenting with when building out my smart home is multi-room audio (the ability to play perfectly synchronized audio from multiple devices). Thankfully there is already a mature solution for routing and synchronizing audio: Snapcast . The only tricky part is getting audio from various sources and feeding it into the Snapcast server. In this article, we will take a look at Bluetooth audio via A2DP .",
+      "date": "2026-03-28"
     },
     {
       "link": "https://blog.nathanosman.com/2025/02/01/an-exhaustive-look-at-the-portable-executable-format-part-2.html",
       "title": "An Exhaustive Look at the Portable Executable Format — Part 2 (Imports)",
-      "description": "Note: if you haven’t already read part 1 of the series, I encourage you to quickly read through it before diving into this one. We will be expanding on the example from the article so it helps if you’re at least a little bit familiar with it."
+      "description": "Note: if you haven’t already read part 1 of the series, I encourage you to quickly read through it before diving into this one. We will be expanding on the example from the article so it helps if you’re at least a little bit familiar with it.",
+      "date": "2025-02-01"
     },
     {
       "link": "https://blog.nathanosman.com/2024/09/15/an-exhaustive-look-at-the-portable-executable-format-part-1.html",
       "title": "An Exhaustive Look at the Portable Executable Format — Part 1 (Introduction)",
-      "description": "Today, I’m going to be starting a new series exploring the portable executable format. I’ve been working a lot with the format lately, so I decided to document my journey in a series of articles. The series will begin with a fairly broad overview of the format and then subsequent articles will begin a deeper dive into the more complex topics — like imports, exports, debug data, exception handling, etc."
+      "description": "Today, I’m going to be starting a new series exploring the portable executable format. I’ve been working a lot with the format lately, so I decided to document my journey in a series of articles. The series will begin with a fairly broad overview of the format and then subsequent articles will begin a deeper dive into the more complex topics — like imports, exports, debug data, exception handling, etc.",
+      "date": "2024-09-15"
     }
   ]
 }

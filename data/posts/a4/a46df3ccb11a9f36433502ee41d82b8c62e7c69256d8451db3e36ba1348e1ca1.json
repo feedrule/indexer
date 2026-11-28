@@ -4,17 +4,20 @@
     {
       "link": "https://subjunct.bearblog.dev/projects-is-a-new-harness-pattern-and-it-is-very-effective/",
       "title": "\"Projects\" is a new harness pattern, and it is very effective.",
-      "description": "Claude and Cursor now have a \"Projects\" feature, with a few key attributes: You primarily talk to one coordinator thread, which manages other threads to do the actual work. The coordinator and all the worker threads run on their own cloud machines There is a shared filesystem mounted on every machine, where notes, rules, status, etc. can be shared between threads. Any thread can message any other"
+      "description": "Claude and Cursor now have a \"Projects\" feature, with a few key attributes: You primarily talk to one coordinator thread, which manages other threads to do the actual work. The coordinator and all the worker threads run on their own cloud machines There is a shared filesystem mounted on every machine, where notes, rules, status, etc. can be shared between threads. Any thread can message any other",
+      "date": null
     },
     {
       "link": "https://subjunct.bearblog.dev/bringing-exedevs-shelley-into-mid-2026/",
       "title": "Bringing exe.dev's Shelley into mid-2026",
-      "description": "I have been using exe.dev more and more over the past few weeks. So much of work today is summoning experimental software, and exe makes experimentation and sharing so seamless. I wind up using the built in shelley coding agent quite a bit because it is machine scoped, installed by default, and easy to drive through the mobile app. I can quickly fire off directives while waiting at the doctor's of"
+      "description": "I have been using exe.dev more and more over the past few weeks. So much of work today is summoning experimental software, and exe makes experimentation and sharing so seamless. I wind up using the built in shelley coding agent quite a bit because it is machine scoped, installed by default, and easy to drive through the mobile app. I can quickly fire off directives while waiting at the doctor's of",
+      "date": null
     },
     {
       "link": "https://subjunct.bearblog.dev/these-models-are-smart-but-they-are-not-wise/",
       "title": "These models are smart as heck but they are not wise",
-      "description": "Although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is – for he knows nothing, and thinks he knows. I neither know nor think I know. RLed LLMs can do incredible feats but they are so annoying to work with. I was thinking about how I wish they worked and I think what I want is: They stop and check in when they hit an obstacle that was not fo"
+      "description": "Although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is – for he knows nothing, and thinks he knows. I neither know nor think I know. RLed LLMs can do incredible feats but they are so annoying to work with. I was thinking about how I wish they worked and I think what I want is: They stop and check in when they hit an obstacle that was not fo",
+      "date": null
     }
   ]
 }

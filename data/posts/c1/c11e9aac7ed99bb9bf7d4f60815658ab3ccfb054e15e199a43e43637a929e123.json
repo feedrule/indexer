@@ -4,17 +4,20 @@
     {
       "link": "https://telliott.me/posts/pipelines-the-forgotten-slo/",
       "title": "Pipelines: The Forgotten SLO",
-      "description": "When talking about SLOs, uptime and latency get all the attention. But there are many other kinds of SLI that we don't pay enough attention to."
+      "description": "When talking about SLOs, uptime and latency get all the attention. But there are many other kinds of SLI that we don't pay enough attention to.",
+      "date": null
     },
     {
       "link": "https://telliott.me/posts/why-merge-queues/",
       "title": "Why merge queues?",
-      "description": "You might have heard of merge queues. You might even have used one at work. If so, you might even hate them. But if you've never used them before, how do you decide if your engineering team would benefit from a merge queue?"
+      "description": "You might have heard of merge queues. You might even have used one at work. If so, you might even hate them. But if you've never used them before, how do you decide if your engineering team would benefit from a merge queue?",
+      "date": null
     },
     {
       "link": "https://telliott.me/posts/how-friendly-are-your-rate-limits/",
       "title": "How friendly are your rate limits?",
-      "description": "Comparing two rate limiting strategies, one that's (almost) pleasant to work with, another that is very much not."
+      "description": "Comparing two rate limiting strategies, one that's (almost) pleasant to work with, another that is very much not.",
+      "date": null
     }
   ]
 }

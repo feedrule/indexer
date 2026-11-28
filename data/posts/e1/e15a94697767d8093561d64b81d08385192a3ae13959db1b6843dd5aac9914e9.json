@@ -4,17 +4,20 @@
     {
       "link": "https://p99log.com/reading-cvss-scores/",
       "title": "Reading a CVSS score",
-      "description": "A CVSS score measures severity, not risk. How to read the vector behind the number, why the same CVE gets different scores, and how to use EPSS, KEV and your own environment to decide what to patch first."
+      "description": "A CVSS score measures severity, not risk. How to read the vector behind the number, why the same CVE gets different scores, and how to use EPSS, KEV and your own environment to decide what to patch first.",
+      "date": null
     },
     {
       "link": "https://p99log.com/metastable-failures/",
       "title": "Metastable failures in production systems",
-      "description": "A metastable failure keeps a system down after the trigger is gone. What it is, how retries, failover and restarts sustain it, what the AWS and Microsoft 365 outages show, and how to design systems that recover."
+      "description": "A metastable failure keeps a system down after the trigger is gone. What it is, how retries, failover and restarts sustain it, what the AWS and Microsoft 365 outages show, and how to design systems that recover.",
+      "date": null
     },
     {
       "link": "https://p99log.com/designing-tools-for-ai-agents/",
       "title": "Writing effective tools for agents",
-      "description": "Tools decide what an AI agent can see and do. What OpenAI, Anthropic, Google and the MCP spec recommend for tool design, how to scale past 20 tools, and the architecture that keeps tool calls safe in production."
+      "description": "Tools decide what an AI agent can see and do. What OpenAI, Anthropic, Google and the MCP spec recommend for tool design, how to scale past 20 tools, and the architecture that keeps tool calls safe in production.",
+      "date": null
     }
   ]
 }

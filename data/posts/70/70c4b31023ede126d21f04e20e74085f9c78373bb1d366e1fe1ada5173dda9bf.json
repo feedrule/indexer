@@ -4,17 +4,20 @@
     {
       "link": "https://swiftunwrap.com/article/binding-side-effect",
       "title": "The unexpected @Binding side effect",
-      "description": "How switching from a get-only Binding to a let variable might not be as innocent as you think"
+      "description": "How switching from a get-only Binding to a let variable might not be as innocent as you think",
+      "date": null
     },
     {
       "link": "https://swiftunwrap.com/article/running-package-from-xcode-build-phase",
       "title": "Running a package from Xcode Build phase",
-      "description": "You’ve been using a SPM package in Xcode and desperately wonder how to do swift run package with it? Then here’s the answer!"
+      "description": "You’ve been using a SPM package in Xcode and desperately wonder how to do swift run package with it? Then here’s the answer!",
+      "date": null
     },
     {
       "link": "https://swiftunwrap.com/article/dangerswift",
       "title": "DangerSwift",
-      "description": "A very brief introduction to DangerSwift and how to use it to automate repetitive tasks for your merge requests."
+      "description": "A very brief introduction to DangerSwift and how to use it to automate repetitive tasks for your merge requests.",
+      "date": null
     }
   ]
 }

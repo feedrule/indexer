@@ -4,17 +4,20 @@
     {
       "link": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
       "title": "Learning Regular Languages with the TTT Algorithm",
-      "description": "TLDR; This tutorial is a complete implementation of the TTT algorithm for active automata learning in Python. TTT combines the discrimination tree of Kearns and Vazirani with binary search counterexample analysis from Rivest and Schapire, and adds prefix transformation and discriminator finalization to eliminate all redundant membership queries. The Python interpreter is embedded so that you can w"
+      "description": "TLDR; This tutorial is a complete implementation of the TTT algorithm for active automata learning in Python. TTT combines the discrimination tree of Kearns and Vazirani with binary search counterexample analysis from Rivest and Schapire, and adds prefix transformation and discriminator finalization to eliminate all redundant membership queries. The Python interpreter is embedded so that you can w",
+      "date": null
     },
     {
       "link": "https://rahul.gopinath.org/post/2026/05/09/simple-invariant-miner/",
       "title": "A Simple Runtime Invariant Miner",
-      "description": "TLDR; This tutorial is a complete implementation of a Daikon-like runtime invariant miner in Python. It implements basic instrumentation, collection of execution traces, invariant checking, and suppression of redundandant invariants. The Oracle Problem in Software Testing One of the key challenges in software testing is the Oracle Problem : That is, how do we determine if the output of a test is c"
+      "description": "TLDR; This tutorial is a complete implementation of a Daikon-like runtime invariant miner in Python. It implements basic instrumentation, collection of execution traces, invariant checking, and suppression of redundandant invariants. The Oracle Problem in Software Testing One of the key challenges in software testing is the Oracle Problem : That is, how do we determine if the output of a test is c",
+      "date": null
     },
     {
       "link": "https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/",
       "title": "Learning Regular Languages with RPNI Algorithm",
-      "description": "TLDR; This tutorial is a complete implementation of RPNI algorithm which infers the input specification from positive and negative samples. Such grammars can be useful for identifying the specification of blackbox programs when it is impossible to query the program directly, and only its behaviour on a limited set of samples is known. The Python interpreter is embedded so that you can work through"
+      "description": "TLDR; This tutorial is a complete implementation of RPNI algorithm which infers the input specification from positive and negative samples. Such grammars can be useful for identifying the specification of blackbox programs when it is impossible to query the program directly, and only its behaviour on a limited set of samples is known. The Python interpreter is embedded so that you can work through",
+      "date": null
     }
   ]
 }

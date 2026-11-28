@@ -4,17 +4,20 @@
     {
       "link": "https://www.linickx.com/home-detector-intrusion-detections-for-home-assistant-v01x",
       "title": "Home Detector, Intrusion Detections for Home Assistant - v.0.1.x",
-      "description": "It's been over a year since I've had a chance to make some real improvements to this project; there was one minor feature update back in Sept for Open Canary support , but since then most releases have been maintenance releases to keep the container fresh. But all that changed at the end of May! The Version 0.1.x series This major update was all about tacking some user experience issues that I sim"
+      "description": "It's been over a year since I've had a chance to make some real improvements to this project; there was one minor feature update back in Sept for Open Canary support , but since then most releases have been maintenance releases to keep the container fresh. But all that changed at the end of May! The Version 0.1.x series This major update was all about tacking some user experience issues that I sim",
+      "date": null
     },
     {
       "link": "https://www.linickx.com/wi-fi-broadcom-bcm4331-for-an-old-imac-imac131-in-2026",
       "title": "Wi-Fi (Broadcom BCM4331) for an old iMac (iMac13,1) in 2026",
-      "description": "My Christmas project this year was to make my old 2012 iMac work; previously I have used OpenCore Legacy Patcher to keep MacOS going but that was become less useable -- Enter Linux! This note is specifically geared towards OpenSUSE Tumbleweed, but is hopefully helpful for anyone trying similar with any other distro. TLDR; Install b43-fwcutter Download broadcom-wl-6.30.163.46.tar.bz2 sudo b43-fwcut"
+      "description": "My Christmas project this year was to make my old 2012 iMac work; previously I have used OpenCore Legacy Patcher to keep MacOS going but that was become less useable -- Enter Linux! This note is specifically geared towards OpenSUSE Tumbleweed, but is hopefully helpful for anyone trying similar with any other distro. TLDR; Install b43-fwcutter Download broadcom-wl-6.30.163.46.tar.bz2 sudo b43-fwcut",
+      "date": null
     },
     {
       "link": "https://www.linickx.com/dnscrypt-proxy-on-home-assistant",
       "title": "DNSCrypt Proxy on Home Assistant",
-      "description": "I have published a Home Assistant Addon for DNSCrypt Proxy. TLDR: In the HA Addon-store add my repository 👉🏻 https://github.com/linickx/ha-addons Install DNSCrypt Proxy ( and Start the addon ) Edit /addon_configs/ba53f40c-dnscrypt-proxy/dnscrypt-proxy.toml to suit your needs ( restart addon to take effect ) Profit?! What is DNSCrypt Proxy? By default DNS traffic ( TCP & UDP 53 ) is not encrypted,"
+      "description": "I have published a Home Assistant Addon for DNSCrypt Proxy. TLDR: In the HA Addon-store add my repository 👉🏻 https://github.com/linickx/ha-addons Install DNSCrypt Proxy ( and Start the addon ) Edit /addon_configs/ba53f40c-dnscrypt-proxy/dnscrypt-proxy.toml to suit your needs ( restart addon to take effect ) Profit?! What is DNSCrypt Proxy? By default DNS traffic ( TCP & UDP 53 ) is not encrypted,",
+      "date": null
     }
   ]
 }

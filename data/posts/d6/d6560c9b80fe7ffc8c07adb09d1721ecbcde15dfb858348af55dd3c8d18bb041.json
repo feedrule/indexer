@@ -4,17 +4,20 @@
     {
       "link": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/",
       "title": "Reverse-Engineering the Wetware: Spiking Networks, TD Errors, and the End of Matrix Math",
-      "description": "An engineer-friendly deep dive into how the human brain truly processes information, learns without backpropagation, and uses spiking neural networks, predictive coding, and dopamine-driven TD errors—challenging our notions of AI and matrix math."
+      "description": "An engineer-friendly deep dive into how the human brain truly processes information, learns without backpropagation, and uses spiking neural networks, predictive coding, and dopamine-driven TD errors—challenging our notions of AI and matrix math.",
+      "date": "2026-03-01"
     },
     {
       "link": "https://metaduck.com/real-time-ai-streaming-in-production/",
       "title": "Real-Time AI Streaming in Production: What We Built at Helpmaton",
-      "description": "How we evolved our Lambda-based real-time AI streaming stack for SaaS: integrating streaming, credit management, and subscription-based throttling. Patterns, challenges, and lessons from Helpmaton’s production deployment."
+      "description": "How we evolved our Lambda-based real-time AI streaming stack for SaaS: integrating streaming, credit management, and subscription-based throttling. Patterns, challenges, and lessons from Helpmaton’s production deployment.",
+      "date": "2026-02-13"
     },
     {
       "link": "https://metaduck.com/subscription-based-api-throttling-without-client-api-keys/",
       "title": "Subscription-Based API Throttling Without Client API Keys",
-      "description": "How to implement tiered API throttling in AWS API Gateway using subscriptions, without requiring clients to send or manage API keys. Learn how to map subscriptions to usage plans with a custom Lambda authorizer for seamless and secure rate limiting."
+      "description": "How to implement tiered API throttling in AWS API Gateway using subscriptions, without requiring clients to send or manage API keys. Learn how to map subscriptions to usage plans with a custom Lambda authorizer for seamless and secure rate limiting.",
+      "date": "2026-02-12"
     }
   ]
 }

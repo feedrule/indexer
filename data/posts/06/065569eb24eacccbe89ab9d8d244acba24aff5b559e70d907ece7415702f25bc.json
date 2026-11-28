@@ -4,12 +4,14 @@
     {
       "link": "https://tmtabor.io/blog/genepattern-copilot/",
       "title": "A hallucinated module, a backfiring RAG pipeline and the MCP server that fixed it",
-      "description": "How an eval suite exposed a RAG pipeline that hurt GenePattern Copilot more than it helped, and what finally fixed it."
+      "description": "How an eval suite exposed a RAG pipeline that hurt GenePattern Copilot more than it helped, and what finally fixed it.",
+      "date": null
     },
     {
       "link": "https://tmtabor.io/blog/genepattern-module-toolkit/",
       "title": "Orchestrator, planner, six specialists: a multi-agent pipeline that survived production",
-      "description": "How a hierarchical multi-agent pipeline increased GenePattern module production fivefold."
+      "description": "How a hierarchical multi-agent pipeline increased GenePattern module production fivefold.",
+      "date": null
     }
   ]
 }

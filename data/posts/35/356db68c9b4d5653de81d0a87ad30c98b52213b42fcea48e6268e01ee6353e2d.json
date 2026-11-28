@@ -4,17 +4,20 @@
     {
       "link": "https://jordivillar.com/blog/building-a-serverless-clickhouse/",
       "title": "Building a Serverless ClickHouse",
-      "description": "Building a managed ClickHouse offering has always been hard. On top of the day-to-day problems of running a complex technology at scale, the company behind it runs its own cloud, and some pieces only exist there. One of the biggest changes I’ve seen in ClickHouse is SharedMergeTree, a table engine that stores data in S3 and keeps its metadata in ClickHouse Keeper, which gives the compute and stora"
+      "description": "Building a managed ClickHouse offering has always been hard. On top of the day-to-day problems of running a complex technology at scale, the company behind it runs its own cloud, and some pieces only exist there. One of the biggest changes I’ve seen in ClickHouse is SharedMergeTree, a table engine that stores data in S3 and keeps its metadata in ClickHouse Keeper, which gives the compute and stora",
+      "date": null
     },
     {
       "link": "https://jordivillar.com/reads/2026w39/",
       "title": "2026W39",
-      "description": "Obituary for a Quiet Life — THE BITTER SOUTHERNER — The idea I keep turning over is that contentment with a small life is actually subversive, a quiet refusal of the American reflex to keep climbing. Jones writes his grandfather Ray as a man who got fired from mills for refusing unsafe work and organizing, then spent decades on biscuits and trash runs and “Hey thar, pretty girl,” and the essay ins"
+      "description": "Obituary for a Quiet Life — THE BITTER SOUTHERNER — The idea I keep turning over is that contentment with a small life is actually subversive, a quiet refusal of the American reflex to keep climbing. Jones writes his grandfather Ray as a man who got fired from mills for refusing unsafe work and organizing, then spent decades on biscuits and trash runs and “Hey thar, pretty girl,” and the essay ins",
+      "date": null
     },
     {
       "link": "https://jordivillar.com/reads/2026w38/",
       "title": "2026W38",
-      "description": "Semantic Search Without Embeddings — The insight that reframed this for me is that embeddings nail representation and similarity but are weak at the third piece, deciding what’s actually in or out. Doug’s point that there’s no magic 0.8 threshold where something stops being a match is the crack in the whole vector-search story. His alternative, a path hierarchy tokenizer plus BM25 over a managed t"
+      "description": "Semantic Search Without Embeddings — The insight that reframed this for me is that embeddings nail representation and similarity but are weak at the third piece, deciding what’s actually in or out. Doug’s point that there’s no magic 0.8 threshold where something stops being a match is the crack in the whole vector-search story. His alternative, a path hierarchy tokenizer plus BM25 over a managed t",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.greenroots.info/a-deep-dive-into-ssr-streaming-with-react",
       "title": "Goodbye, Slow-Motion Tortoise: A Deep Dive into SSR Streaming",
-      "description": "Traditional SSR is great, but it has a massive buffering problem. Let's look into the SSR Streaming and learn how it could be a game changer."
+      "description": "Traditional SSR is great, but it has a massive buffering problem. Let's look into the SSR Streaming and learn how it could be a game changer.",
+      "date": null
     },
     {
       "link": "https://blog.greenroots.info/react-design-patterns-for-building-maintainable-forms",
       "title": "Mastering React Design Patterns for Building Maintainable Forms",
-      "description": "Learn how to build maintainable, reusable forms in React using design patterns like custom hooks, compound components, and context for scalable CRUD"
+      "description": "Learn how to build maintainable, reusable forms in React using design patterns like custom hooks, compound components, and context for scalable CRUD",
+      "date": null
     },
     {
       "link": "https://blog.greenroots.info/javascript-variables-explained-values-references",
       "title": "JavaScript Variables Explained Clearly: Values, Types, and How Data Really Works",
-      "description": "Learn how JavaScript variables work, including let vs const, primitive and reference types, pass by value, and how JavaScript stores data in memory."
+      "description": "Learn how JavaScript variables work, including let vs const, primitive and reference types, pass by value, and how JavaScript stores data in memory.",
+      "date": null
     }
   ]
 }

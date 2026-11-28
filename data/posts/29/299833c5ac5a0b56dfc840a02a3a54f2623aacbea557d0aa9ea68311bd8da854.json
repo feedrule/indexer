@@ -4,17 +4,20 @@
     {
       "link": "https://andrewbaker.ninja/2026/11/22/aws-security-group-hardening-using-vpc-flow-log-analysis-introducing-sg-tightener/",
       "title": "AWS Security Group Hardening Using VPC Flow Log Analysis: sg-tightener Finds Over Provisioning and Tightens It on a Timeline",
-      "description": "A free, open source tool that takes every AWS security group in an account (or a whole OU) into a local database, reads months of VPC flow logs, shows how many addresses each rule lets in that never connected, and pulls those rules back by source type and attribution. It reports first, applies only when […]"
+      "description": "A free, open source tool that takes every AWS security group in an account (or a whole OU) into a local database, reads months of VPC flow logs, shows how many addresses each rule lets in that never connected, and pulls those rules back by source type and attribution. It reports first, applies only when […]",
+      "date": null
     },
     {
       "link": "https://andrewbaker.ninja/2026/11/17/colima-vs-rancher-desktop-on-a-macbook-measured-and-the-gaps-filled/",
       "title": "Colima vs Rancher Desktop on a MacBook: Measured, and the Gaps Filled",
-      "description": "I ran Rancher Desktop on my MacBook for a long time, and it did the job: Docker, Kubernetes and a window with buttons. Then I looked at what it was costing me. A 1.5 GB app, a Kubernetes cluster I never asked for starting every morning, a stop button that takes over half a minute, […]"
+      "description": "I ran Rancher Desktop on my MacBook for a long time, and it did the job: Docker, Kubernetes and a window with buttons. Then I looked at what it was costing me. A 1.5 GB app, a Kubernetes cluster I never asked for starting every morning, a stop button that takes over half a minute, […]",
+      "date": null
     },
     {
       "link": "https://andrewbaker.ninja/2026/11/21/south-africas-cyber-hack-wave-ai-attackers-move-in-minutes-defenders-take-weeks/",
       "title": "South Africa’s Cyber Hack Wave: AI Attackers Move in Minutes, Defenders Take Weeks",
-      "description": "If you have five minutes, read the introduction, the short version for executives, section 6, section 13 and section 14. The rest is the evidence and the engineering detail behind them. This morning MyBroadband reported that a major South African financial technology company had suffered a data breach involving personal information, and within hours a […]"
+      "description": "If you have five minutes, read the introduction, the short version for executives, section 6, section 13 and section 14. The rest is the evidence and the engineering detail behind them. This morning MyBroadband reported that a major South African financial technology company had suffered a data breach involving personal information, and within hours a […]",
+      "date": null
     }
   ]
 }

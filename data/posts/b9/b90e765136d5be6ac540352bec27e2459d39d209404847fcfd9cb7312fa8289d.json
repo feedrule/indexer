@@ -4,17 +4,20 @@
     {
       "link": "https://sjp.co.nz/posts/claude-code-in-devcontainers/",
       "title": "Using Claude Code in devcontainers",
-      "description": "I run Claude Code inside a development container , for the simple reason that the container is a sandbox. I can let Claude Code loose on a project and know that whatever it does, it does not escape the sandbox. Devcontainers are a good fit for this. They’re declarative, repeatable, and Visual Studio Code picks them up automatically through the Dev Containers extension . This post isn’t intended to"
+      "description": "I run Claude Code inside a development container , for the simple reason that the container is a sandbox. I can let Claude Code loose on a project and know that whatever it does, it does not escape the sandbox. Devcontainers are a good fit for this. They’re declarative, repeatable, and Visual Studio Code picks them up automatically through the Dev Containers extension . This post isn’t intended to",
+      "date": null
     },
     {
       "link": "https://sjp.co.nz/posts/most-string-operations-arent-safe/",
       "title": "Most string operations aren't safe",
-      "description": "I have been doing common string operations incorrectly for most of my career, and I suspect you have too. Take this truncation function: public static string Truncate ( string value , int maxLength ) { return value . Length > maxLength ? value . Substring ( 0 , maxLength ) : value ; } Looks fine. Here’s what it does with a string containing an emoji: var hello = \"hello! 👋 nice to meet you\" ; Conso"
+      "description": "I have been doing common string operations incorrectly for most of my career, and I suspect you have too. Take this truncation function: public static string Truncate ( string value , int maxLength ) { return value . Length > maxLength ? value . Substring ( 0 , maxLength ) : value ; } Looks fine. Here’s what it does with a string containing an emoji: var hello = \"hello! 👋 nice to meet you\" ; Conso",
+      "date": null
     },
     {
       "link": "https://sjp.co.nz/projects/avrotools/",
       "title": "AvroTools",
-      "description": "AvroTools is a collection of tools, written in C# to work effectively with the Avro schema and serialization file formats. Features AvroTools supports the following features that are improvements upon the largely Java-based implementation provided by Apache. Compile Avro IDL to an Avro Protocol . Compile Avro IDL to Avro Schema . Generate C# classes for protocols and schemas. The generated code is"
+      "description": "AvroTools is a collection of tools, written in C# to work effectively with the Avro schema and serialization file formats. Features AvroTools supports the following features that are improvements upon the largely Java-based implementation provided by Apache. Compile Avro IDL to an Avro Protocol . Compile Avro IDL to Avro Schema . Generate C# classes for protocols and schemas. The generated code is",
+      "date": null
     }
   ]
 }

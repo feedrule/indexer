@@ -4,17 +4,20 @@
     {
       "link": "https://cafbit.com/post/game_of_zones/",
       "title": "A game of zones: A cartographic exploration of Colorado's strangest city limits",
-      "description": "Part of a 1996 Rand McNally map of the Denver area, showing how different municipalities were shaded in different colors. One thing I always appreciated about the old Rand McNally street maps was how each municipality was shaded in a different color with clear boundaries, making it easy to see where one stopped and another began. This allowed readers to know at a glance where city limits were, and"
+      "description": "Part of a 1996 Rand McNally map of the Denver area, showing how different municipalities were shaded in different colors. One thing I always appreciated about the old Rand McNally street maps was how each municipality was shaded in a different color with clear boundaries, making it easy to see where one stopped and another began. This allowed readers to know at a glance where city limits were, and",
+      "date": null
     },
     {
       "link": "https://cafbit.com/post/rust_webrtc_data_channels/",
       "title": "Implementing SCTP to support WebRTC data channels in pure Rust",
-      "description": "I recently talked at the Denver Rust Meetup about my side project to implement WebRTC data channels in Rust. I'll probably blog about this project in more detail in the future, but in the meantime here are the slides and a short demo video. Presentation slides (PDF, 1.7MB) A quick video of the demo (MP4, 5.3MB) I also made the following informal \"studio\" video of the talk. The live version was pro"
+      "description": "I recently talked at the Denver Rust Meetup about my side project to implement WebRTC data channels in Rust. I'll probably blog about this project in more detail in the future, but in the meantime here are the slides and a short demo video. Presentation slides (PDF, 1.7MB) A quick video of the demo (MP4, 5.3MB) I also made the following informal \"studio\" video of the talk. The live version was pro",
+      "date": null
     },
     {
       "link": "https://cafbit.com/post/tokio_internals/",
       "title": "Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up",
-      "description": "Tokio is a Rust framework for developing applications which perform asynchronous I/O — an event-driven approach that can often achieve better scalability, performance, and resource usage than conventional synchronous I/O. Unfortunately, Tokio is notoriously difficult to learn due to its sophisticated abstractions. Even after reading the tutorials, I didn't feel that I had internalized the abstract"
+      "description": "Tokio is a Rust framework for developing applications which perform asynchronous I/O — an event-driven approach that can often achieve better scalability, performance, and resource usage than conventional synchronous I/O. Unfortunately, Tokio is notoriously difficult to learn due to its sophisticated abstractions. Even after reading the tutorials, I didn't feel that I had internalized the abstract",
+      "date": null
     }
   ]
 }

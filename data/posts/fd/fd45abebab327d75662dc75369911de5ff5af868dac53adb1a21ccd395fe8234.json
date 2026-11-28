@@ -4,17 +4,20 @@
     {
       "link": "https://www.jonaharagon.com/video/why-flock-is-a-fourth-amendment-nightmare/",
       "title": "Why Flock Is A Fourth Amendment Nightmare",
-      "description": "Transcript Recording a car on a public road generally isn’t a Fourth Amendment search. But turning sightings from an entire camera network into a searchable history of where people travel may be. That is what Flock gives police the power to do, and I’m going to"
+      "description": "Transcript Recording a car on a public road generally isn’t a Fourth Amendment search. But turning sightings from an entire camera network into a searchable history of where people travel may be. That is what Flock gives police the power to do, and I’m going to",
+      "date": null
     },
     {
       "link": "https://www.jonaharagon.com/video/will-cape-be-my-new-favorite-carrier/",
       "title": "Will Cape be my new favorite carrier?",
-      "description": "This is a first impressions video. I want to talk about some of Cape's features and why I think they are actually neat and not snake oil, but I haven't been using Cape nearly long enough to speak to network coverage/performance, real-world testing, etc."
+      "description": "This is a first impressions video. I want to talk about some of Cape's features and why I think they are actually neat and not snake oil, but I haven't been using Cape nearly long enough to speak to network coverage/performance, real-world testing, etc.",
+      "date": null
     },
     {
       "link": "https://www.jonaharagon.com/notes/increase-mastodons-character-limit/",
       "title": "Increase Mastodon's Character Limit",
-      "description": "Create a file config/initializers/zzz_local_patches.rb : require Rails.root.join('app/validators/status_length_validator.rb') if ENV.has_key?('MAX_POST_CHARS') && ENV['MAX_POST_CHARS'].to_i > 0 && ENV['MAX_POST_CHARS'"
+      "description": "Create a file config/initializers/zzz_local_patches.rb : require Rails.root.join('app/validators/status_length_validator.rb') if ENV.has_key?('MAX_POST_CHARS') && ENV['MAX_POST_CHARS'].to_i > 0 && ENV['MAX_POST_CHARS'",
+      "date": null
     }
   ]
 }

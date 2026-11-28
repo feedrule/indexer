@@ -4,17 +4,20 @@
     {
       "link": "https://h4x0r.org/a-date-with-claude/",
       "title": "Claude and I have a proper first date",
-      "description": "The larger h4x0r clan has a range of opinions on AI, from “How could you be interested in an AI who hates the environment while gaslighting people into thinking it’s making their life better? That’s like dating the AI in the Matrix” all the way to “My pet name for it is Skynet, because I’m in heaven!” I try to stay open-minded and curious. So, over the objections of my poor wife, I spent a full 24"
+      "description": "The larger h4x0r clan has a range of opinions on AI, from “How could you be interested in an AI who hates the environment while gaslighting people into thinking it’s making their life better? That’s like dating the AI in the Matrix” all the way to “My pet name for it is Skynet, because I’m in heaven!” I try to stay open-minded and curious. So, over the objections of my poor wife, I spent a full 24",
+      "date": null
     },
     {
       "link": "https://h4x0r.org/funreliable/",
       "title": "Fun-reliable side-channels for cross-container communication",
-      "description": "Introduction While exploring the Linux kernel we discovered a fun side-channel that allows for cross-container communication in the most common, default container deployment scenarios on modern kernels. This is cool because it doesn’t require sharing volume mounts, nor does it involve modifying any of the default namespaces ( NET , PID , IPC , etc.), or adding special privileges (no new CAP_ -abil"
+      "description": "Introduction While exploring the Linux kernel we discovered a fun side-channel that allows for cross-container communication in the most common, default container deployment scenarios on modern kernels. This is cool because it doesn’t require sharing volume mounts, nor does it involve modifying any of the default namespaces ( NET , PID , IPC , etc.), or adding special privileges (no new CAP_ -abil",
+      "date": null
     },
     {
       "link": "https://h4x0r.org/big-mac-ro-attack/",
       "title": "Recursive macros in C, demystified (once the ugly crying stops 😭)",
-      "description": "In which it becomes clear, the C Preprocessor was designed by a Kafka fan So you have heard rumors whispered between peers, that a rare few people somehow manage to make compile-time recursion work in C? And you want to have some insight into how that might be possible?? I should warn you, you’re risking your sanity… but I’ll indulge you. Wait, did I really just say that? I must be a glutton for p"
+      "description": "In which it becomes clear, the C Preprocessor was designed by a Kafka fan So you have heard rumors whispered between peers, that a rare few people somehow manage to make compile-time recursion work in C? And you want to have some insight into how that might be possible?? I should warn you, you’re risking your sanity… but I’ll indulge you. Wait, did I really just say that? I must be a glutton for p",
+      "date": null
     }
   ]
 }

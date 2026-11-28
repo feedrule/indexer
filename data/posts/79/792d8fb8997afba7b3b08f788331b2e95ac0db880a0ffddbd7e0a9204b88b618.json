@@ -4,17 +4,20 @@
     {
       "link": "https://kingposs.com",
       "title": "The Den: revert RSS XSL styling and strip leftover stylesheet PI",
-      "description": "Chrome is deprecating XSLT so the styled-feed experiment is being rolled back. The download/strip/re-upload in this commit removes the PI from the live rss.xml."
+      "description": "Chrome is deprecating XSLT so the styled-feed experiment is being rolled back. The download/strip/re-upload in this commit removes the PI from the live rss.xml.",
+      "date": null
     },
     {
       "link": "https://blog.kingposs.com/Journal/The-Road-Ahead-03-05-26",
       "title": "Blog: TIme to Unmask 03-05-26",
-      "description": "Hello again Well a lot has happened in this last month."
+      "description": "Hello again Well a lot has happened in this last month.",
+      "date": null
     },
     {
       "link": "https://blog.kingposs.com/Journal/Finding-Solid-Ground-02-08-26",
       "title": "Blog: Finding Solid Ground 02-08-26",
-      "description": "Life sure moves fast Hello."
+      "description": "Life sure moves fast Hello.",
+      "date": null
     }
   ]
 }

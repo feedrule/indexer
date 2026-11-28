@@ -4,17 +4,20 @@
     {
       "link": "https://navendu.me/posts/tinygo-3477/",
       "title": "machine.PinInputPullup Does Not Work on Some GPIO Pins",
-      "description": "How I fixed a tiny issue in TinyGo."
+      "description": "How I fixed a tiny issue in TinyGo.",
+      "date": null
     },
     {
       "link": "https://navendu.me/posts/the-crown/",
       "title": "Heavy Is the Crown",
-      "description": "Shakespeare’s protagonists have deeply human flaws that lead to their downfall, but in Kireedam, it is the burden of the metaphorical crown, forced on an innocent man, that fuels the tragedy."
+      "description": "Shakespeare’s protagonists have deeply human flaws that lead to their downfall, but in Kireedam, it is the burden of the metaphorical crown, forced on an innocent man, that fuels the tragedy.",
+      "date": null
     },
     {
       "link": "https://navendu.me/posts/durable-agents/",
       "title": "Building Durable Agents",
-      "description": "A practical guide to prevent transient model provider errors, tool call failures, or good old network hiccups from breaking your agents."
+      "description": "A practical guide to prevent transient model provider errors, tool call failures, or good old network hiccups from breaking your agents.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://harrycresswell.com/writing/designing-morpho-album-artwork/",
       "title": "Designing the Morpho album artwork",
-      "description": "Matt and I have been creating artwork for his music for almost 12 years now. It’s a collaboration I’m immensely proud of, and one that offers a welcome change of scene from my day-to-day job of designing and building websites. Morpho , released on Sound Records in November last year, is our most recent project. Our 12th vinyl release and the 1st Matt is releasing using his last name, Benyayer, ins"
+      "description": "Matt and I have been creating artwork for his music for almost 12 years now. It’s a collaboration I’m immensely proud of, and one that offers a welcome change of scene from my day-to-day job of designing and building websites. Morpho , released on Sound Records in November last year, is our most recent project. Our 12th vinyl release and the 1st Matt is releasing using his last name, Benyayer, ins",
+      "date": null
     },
     {
       "link": "https://harrycresswell.com/writing/html-elements-vs-tags/",
       "title": "HTML elements vs tags",
-      "description": "Last week I received an email from a Practical Hugo student who was struggling to understand my instructions in one of the episodes. As a result, code was added in the wrong place, which subsequently broke their template. It appears the confusion came from a misunderstanding between the terms element and tag . An easy mistake to make, given we often talk about these two constructs as if they’re in"
+      "description": "Last week I received an email from a Practical Hugo student who was struggling to understand my instructions in one of the episodes. As a result, code was added in the wrong place, which subsequently broke their template. It appears the confusion came from a misunderstanding between the terms element and tag . An easy mistake to make, given we often talk about these two constructs as if they’re in",
+      "date": null
     },
     {
       "link": "https://harrycresswell.com/writing/config-directory/",
       "title": "The config directory",
-      "description": "For simple Hugo sites, a single configuration file is usually all you’ll need. However, for bigger projects, with large configurations, it’s often a good idea to split your hugo.toml file into multiple files using the configuration directory . The config directory is helpful for managing how your config behaves across different environments, as well as for organising multilingual menus, params, mo"
+      "description": "For simple Hugo sites, a single configuration file is usually all you’ll need. However, for bigger projects, with large configurations, it’s often a good idea to split your hugo.toml file into multiple files using the configuration directory . The config directory is helpful for managing how your config behaves across different environments, as well as for organising multilingual menus, params, mo",
+      "date": null
     }
   ]
 }

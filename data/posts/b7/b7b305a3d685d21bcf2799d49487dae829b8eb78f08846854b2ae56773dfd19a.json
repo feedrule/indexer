@@ -4,17 +4,20 @@
     {
       "link": "https://blog.mei-home.net/posts/mariadb-operator/",
       "title": "Setting Up the MariaDB k8s Operator",
-      "description": "I finally want to run something which doesn't support Postgres databases"
+      "description": "I finally want to run something which doesn't support Postgres databases",
+      "date": null
     },
     {
       "link": "https://blog.mei-home.net/posts/ubuntu-26.04-1/",
       "title": "The Ubuntu 26.04 Upgrade, Part 1",
-      "description": "Well, this could have gone better"
+      "description": "Well, this could have gone better",
+      "date": null
     },
     {
       "link": "https://blog.mei-home.net/posts/bahn-2026-10-23/",
       "title": "Bahn Journey Nr 11 & 12: Eh, alright",
-      "description": "Could have been better, could definitely have been worse"
+      "description": "Could have been better, could definitely have been worse",
+      "date": null
     }
   ]
 }

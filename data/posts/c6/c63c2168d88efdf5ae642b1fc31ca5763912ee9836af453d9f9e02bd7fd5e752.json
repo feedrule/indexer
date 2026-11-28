@@ -4,17 +4,20 @@
     {
       "link": "http://churchofbsd.blogspot.com/2026/08/can-verified-microkernel-actually.html",
       "title": "Can a verified microkernel actually secure a car?",
-      "description": "Can a verified microkernel actually secure a car? In July 2015, two security researchers took control of a Jeep Cherokee while a journalist was driving it on a St. Louis highway. They reached it over the cellular network, through the entertainment system. From there they got onto the vehicle's internal bus and started sending commands to things that steer and stop the car. Chrysler recalled 1.4 mi"
+      "description": "Can a verified microkernel actually secure a car? In July 2015, two security researchers took control of a Jeep Cherokee while a journalist was driving it on a St. Louis highway. They reached it over the cellular network, through the entertainment system. From there they got onto the vehicle's internal bus and started sending commands to things that steer and stop the car. Chrysler recalled 1.4 mi",
+      "date": null
     },
     {
       "link": "http://churchofbsd.blogspot.com/2026/08/a-history-of-microkernels.html",
       "title": "A history of microkernels",
-      "description": "A history of microkernels Most operating systems people use are monolithic. The kernel is a single large program running with full authority over the hardware, containing the scheduler, the memory manager, the file systems, the network stack, and the device drivers all in one address space. Linux is monolithic. So was classic Unix, and so is Windows in most respects that matter. The microkernel is"
+      "description": "A history of microkernels Most operating systems people use are monolithic. The kernel is a single large program running with full authority over the hardware, containing the scheduler, the memory manager, the file systems, the network stack, and the device drivers all in one address space. Linux is monolithic. So was classic Unix, and so is Windows in most respects that matter. The microkernel is",
+      "date": null
     },
     {
       "link": "http://churchofbsd.blogspot.com/2026/08/the-history-of-microkernels.html",
       "title": "Microkernels: a thirty-five year argument",
-      "description": "Microkernels: a thirty-five year argument In January 1992, Andrew Tanenbaum told a Usenet newsgroup that among people who actually design operating systems, the debate was over and microkernels had won. He was wrong for about thirty years. Linux ate the world. Mach became a punchline. The GNU Hurd never really shipped. Then, in October 2024, Huawei put a capability-based microkernel underneath a m"
+      "description": "Microkernels: a thirty-five year argument In January 1992, Andrew Tanenbaum told a Usenet newsgroup that among people who actually design operating systems, the debate was over and microkernels had won. He was wrong for about thirty years. Linux ate the world. Mach became a punchline. The GNU Hurd never really shipped. Then, in October 2024, Huawei put a capability-based microkernel underneath a m",
+      "date": null
     }
   ]
 }

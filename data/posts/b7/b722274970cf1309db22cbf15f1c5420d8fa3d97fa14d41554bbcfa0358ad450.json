@@ -4,17 +4,20 @@
     {
       "link": "https://residuals.bearblog.dev/bces-20-now-with-weighted-least-squares/",
       "title": "BCES 2.0: Now with weighted least squares",
-      "description": "I just released a major new version of BCES , the Python package for linear regression with measurement errors. In version 2.0, the big addition is weighted least squares (WLS) regression. What's new BCES has handled the case where both X and Y have measurement errors since version 1.0, using the bivariate correlated errors and intrinsic scatter method from Akritas & Bershady (1996) . But there's"
+      "description": "I just released a major new version of BCES , the Python package for linear regression with measurement errors. In version 2.0, the big addition is weighted least squares (WLS) regression. What's new BCES has handled the case where both X and Y have measurement errors since version 1.0, using the bivariate correlated errors and intrinsic scatter method from Akritas & Bershady (1996) . But there's",
+      "date": null
     },
     {
       "link": "https://residuals.bearblog.dev/you-are-probably-overpaying-for-intelligence/",
       "title": "You are probably overpaying for intelligence",
-      "description": "Abstract The leading AI models keep getting more expensive, but are they worth it? I benchmarked dozens of LLMs across coding and general reasoning tasks, then mapped their performance against API pricing. The results are striking: a handful of models—most notably DeepSeek V3.2 and Minimax 2.5—deliver 85–95% of frontier performance at a fraction of the cost. Meanwhile, premium models like Claude 4"
+      "description": "Abstract The leading AI models keep getting more expensive, but are they worth it? I benchmarked dozens of LLMs across coding and general reasoning tasks, then mapped their performance against API pricing. The results are striking: a handful of models—most notably DeepSeek V3.2 and Minimax 2.5—deliver 85–95% of frontier performance at a fraction of the cost. Meanwhile, premium models like Claude 4",
+      "date": null
     },
     {
       "link": "https://residuals.bearblog.dev/pip-select-an-interactive-tool-for-updating-pip-installed-python-packages-conda-friendly/",
       "title": "pip-select, an interactive tool for updating pip-installed python packages (conda-friendly)",
-      "description": "I was tired of manually figuring out which of my pip-installed packages need to be updated while excluding the conda ones, so I just created a tool that takes care of this. You fire pip-select , and it will check which of your pip packages can be updated while excluding the ones managed by conda, with a nice progress bar: Conda environment detected at: /home/user/miniconda3/envs/myenv Detected 84"
+      "description": "I was tired of manually figuring out which of my pip-installed packages need to be updated while excluding the conda ones, so I just created a tool that takes care of this. You fire pip-select , and it will check which of your pip packages can be updated while excluding the ones managed by conda, with a nice progress bar: Conda environment detected at: /home/user/miniconda3/envs/myenv Detected 84",
+      "date": null
     }
   ]
 }

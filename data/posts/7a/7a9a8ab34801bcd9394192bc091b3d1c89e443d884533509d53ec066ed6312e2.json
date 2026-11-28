@@ -4,17 +4,20 @@
     {
       "link": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
       "title": "Porting Match Morphosis To WASM",
-      "description": "I wrote a game in plain C with a custom engine (bgfx, SDL2, miniaudio, cimgui) and recently ported it to web via Emscripten. Its live on itchio now. Here’s everything non-obvious that I ran into, hopefully saves someone some pain. 0. Had to go back to Visual Studio. Ugh. I use RemedyBG as my daily debugger and its great, but it doesnt support 32-bit processes. Since WASM is 32-bit, I needed a 32-b"
+      "description": "I wrote a game in plain C with a custom engine (bgfx, SDL2, miniaudio, cimgui) and recently ported it to web via Emscripten. Its live on itchio now. Here’s everything non-obvious that I ran into, hopefully saves someone some pain. 0. Had to go back to Visual Studio. Ugh. I use RemedyBG as my daily debugger and its great, but it doesnt support 32-bit processes. Since WASM is 32-bit, I needed a 32-b",
+      "date": null
     },
     {
       "link": "http://ernesernesto.github.io/writes/everythingisathing/",
       "title": "Everything is a Thing: How I Built Match Morphosis in Pure C",
-      "description": "I’ve been building Match Morphosis solo in plain C. No engine, no framework, just C and a handful of carefully chosen libraries. This post is about two decisions that ended up shaping everything else in the codebase: the entity model and the memory model. Both of these came from the same instinct — keep things explicit, keep things visible, don’t let the runtime surprise you. If you’ve watched Ant"
+      "description": "I’ve been building Match Morphosis solo in plain C. No engine, no framework, just C and a handful of carefully chosen libraries. This post is about two decisions that ended up shaping everything else in the codebase: the entity model and the memory model. Both of these came from the same instinct — keep things explicit, keep things visible, don’t let the runtime surprise you. If you’ve watched Ant",
+      "date": null
     },
     {
       "link": "http://ernesernesto.github.io/writes/howispend1000onredditads/",
       "title": "How I Spend 1000$ On Reddit Ads",
-      "description": "This post will document my experience of spending $1000 on Reddit ads. While I worked in the mobile games industry in the past, I never actually ran a marketing campaign, setting all the budget, ad groups, targeting, etc. All of that was done by our publisher, so my job was solely to make a great game. Currently while working on my own game, I got $1000 that I could spend from Gimersia (a governme"
+      "description": "This post will document my experience of spending $1000 on Reddit ads. While I worked in the mobile games industry in the past, I never actually ran a marketing campaign, setting all the budget, ad groups, targeting, etc. All of that was done by our publisher, so my job was solely to make a great game. Currently while working on my own game, I got $1000 that I could spend from Gimersia (a governme",
+      "date": null
     }
   ]
 }

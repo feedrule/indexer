@@ -4,17 +4,20 @@
     {
       "link": "https://thebeach.dev/posts/self-improving-personal-ai-agents/",
       "title": "The Agents File Their Own Tickets Now",
-      "description": "A few months ago I wrote about building an agent in 100 lines of Lisp. It had one tool, lisp-eval, and the fun of it was that the model could write any capability it needed straight into the running program. When I gave it a search key, it wrote its own search function. Asked it to make the CLI better and it would create the most unnecessarily elaborate CLI it could."
+      "description": "A few months ago I wrote about building an agent in 100 lines of Lisp. It had one tool, lisp-eval, and the fun of it was that the model could write any capability it needed straight into the running program. When I gave it a search key, it wrote its own search function. Asked it to make the CLI better and it would create the most unnecessarily elaborate CLI it could.",
+      "date": null
     },
     {
       "link": "https://thebeach.dev/posts/thinking-fast-and-slow/",
       "title": "Thinking Fast and Slow",
-      "description": "Those of us who spend any time thinking about AI agents tend to think about them as loops around a language model. Something wakes the agent, like a message. The agent sends that message, plus whatever context it has assembled, to a model. The model returns. Maybe it requests a tool, and the tool executes, and the result goes back, and so on. The loop continues until the model decides it is finish"
+      "description": "Those of us who spend any time thinking about AI agents tend to think about them as loops around a language model. Something wakes the agent, like a message. The agent sends that message, plus whatever context it has assembled, to a model. The model returns. Maybe it requests a tool, and the tool executes, and the result goes back, and so on. The loop continues until the model decides it is finish",
+      "date": null
     },
     {
       "link": "https://thebeach.dev/posts/the-agent-landscape-september-2026/",
       "title": "The AI Agent Landscape: A Field Guide for September 2026",
-      "description": "Fair warning: this one is long. I kept finding things I couldn’t leave out. Pour a coffee. If you’d like to go straight to the infographic, head to the bottom of the article below. As I mentioned in my last post, around the year 2000 I took an AI course at the University of Guelph, and the thing I remember most is Lisp. Lots of Lisp, in the dark CIS lab."
+      "description": "Fair warning: this one is long. I kept finding things I couldn’t leave out. Pour a coffee. If you’d like to go straight to the infographic, head to the bottom of the article below. As I mentioned in my last post, around the year 2000 I took an AI course at the University of Guelph, and the thing I remember most is Lisp. Lots of Lisp, in the dark CIS lab.",
+      "date": null
     }
   ]
 }

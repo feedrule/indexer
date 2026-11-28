@@ -4,17 +4,20 @@
     {
       "link": "https://emergent.unpythonic.net/01794842303",
       "title": "PC Shadow Model PCT 5000 Video Terminal",
-      "description": "Through an unlikely series of events, I scored a huge stack of 8\" floppy disks (SS/SD) and a green screen CRT terminal in reasonably good shape except for some dead & dying RIFA caps. It also included a paper manual (now preserved on archive.org) ! Due to the sad state of search engines today, I don't know whether anybody's written down anything about this terminal in the intenet age. Here's what"
+      "description": "Through an unlikely series of events, I scored a huge stack of 8\" floppy disks (SS/SD) and a green screen CRT terminal in reasonably good shape except for some dead & dying RIFA caps. It also included a paper manual (now preserved on archive.org) ! Due to the sad state of search engines today, I don't know whether anybody's written down anything about this terminal in the intenet age. Here's what",
+      "date": null
     },
     {
       "link": "https://emergent.unpythonic.net/01793193912",
       "title": "Reproducible gzip output, Python 3.11-3.15",
-      "description": "I noticed that in a project of mine a gzip output was not reproducible. Initially I saw that it was larger in Python 3.15 than earlier versions, but it turns out that there were other differences as well. Based on the very good list of changes in the python.org documentation for gzip.compress , I could reverse engineer what was necessary to get a reproducible gzip output across all versions of int"
+      "description": "I noticed that in a project of mine a gzip output was not reproducible. Initially I saw that it was larger in Python 3.15 than earlier versions, but it turns out that there were other differences as well. Based on the very good list of changes in the python.org documentation for gzip.compress , I could reverse engineer what was necessary to get a reproducible gzip output across all versions of int",
+      "date": null
     },
     {
       "link": "https://emergent.unpythonic.net/01791985832",
       "title": "A one-liner to copy an image to clipboard on Linux",
-      "description": "This uses the standard xclip program (debian package: xclip) and graphicsmagic (debian package: graphicsmagick-imagemagick-compat) to convert most any kind of image to one that can be pasted into programs that accept images. #!/bin/sh convert \"$1\" png:- | xclip -selection clipboard -t image/png -i"
+      "description": "This uses the standard xclip program (debian package: xclip) and graphicsmagic (debian package: graphicsmagick-imagemagick-compat) to convert most any kind of image to one that can be pasted into programs that accept images. #!/bin/sh convert \"$1\" png:- | xclip -selection clipboard -t image/png -i",
+      "date": null
     }
   ]
 }

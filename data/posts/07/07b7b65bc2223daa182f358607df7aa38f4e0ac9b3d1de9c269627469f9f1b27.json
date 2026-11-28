@@ -4,17 +4,20 @@
     {
       "link": "https://blog.davidv.dev/posts/mobile-translator-video/",
       "title": "Live image/video translation",
-      "description": "Lens who?"
+      "description": "Lens who?",
+      "date": null
     },
     {
       "link": "https://blog.davidv.dev/posts/mobile-translator-ppocr/",
       "title": "Improving OCR quality on the translator",
-      "description": "signs and menus in shambles"
+      "description": "signs and menus in shambles",
+      "date": null
     },
     {
       "link": "https://blog.davidv.dev/posts/postgres-extensions/",
       "title": "Building extensions into libpostgres",
-      "description": "the dynamic linker is for the weak"
+      "description": "the dynamic linker is for the weak",
+      "date": null
     }
   ]
 }

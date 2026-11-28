@@ -4,17 +4,20 @@
     {
       "link": "https://alikhil.dev/posts/mikrotik-workaround-laliga-cloudflare-blocks/",
       "title": "My MikroTik workaround for LaLiga Cloudflare blocks",
-      "description": "I got tired of manually sending Cloudflare traffic through a VPN whenever LaLiga blocks shared IP addresses during a match. So I taught my MikroTik to do it for me."
+      "description": "I got tired of manually sending Cloudflare traffic through a VPN whenever LaLiga blocks shared IP addresses during a match. So I taught my MikroTik to do it for me.",
+      "date": null
     },
     {
       "link": "https://alikhil.dev/posts/what-stops-me-from-posting-publicly/",
       "title": "What Stops Me from Posting Publicly",
-      "description": "Why familiar ideas can still be worth writing about, and how the search for novelty makes us discard potentially useful posts."
+      "description": "Why familiar ideas can still be worth writing about, and how the search for novelty makes us discard potentially useful posts.",
+      "date": null
     },
     {
       "link": "https://alikhil.dev/posts/oauth2-proxy-gateway-api-traefik/",
       "title": "Protect Kubernetes Services with OAuth2 Proxy, Gateway API, Traefik, and Pocket ID",
-      "description": "A practical Gateway API replacement for ingress-nginx auth annotations: protect Kubernetes services with Traefik ForwardAuth, OAuth2 Proxy, and Pocket ID."
+      "description": "A practical Gateway API replacement for ingress-nginx auth annotations: protect Kubernetes services with Traefik ForwardAuth, OAuth2 Proxy, and Pocket ID.",
+      "date": null
     }
   ]
 }

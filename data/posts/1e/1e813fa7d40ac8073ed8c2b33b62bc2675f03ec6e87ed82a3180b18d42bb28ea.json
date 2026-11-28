@@ -4,17 +4,20 @@
     {
       "link": "https://bitfieldconsulting.com/posts/useless-computer",
       "title": "The useless computer",
-      "description": "A computer that does nothing is more fun. Let’s build one together."
+      "description": "A computer that does nothing is more fun. Let’s build one together.",
+      "date": null
     },
     {
       "link": "https://bitfieldconsulting.com/posts/go-subcommands",
       "title": "Code Safari: Go subcommands",
-      "description": "Gwyn James and I explore some Go code."
+      "description": "Gwyn James and I explore some Go code.",
+      "date": null
     },
     {
       "link": "https://bitfieldconsulting.com/posts/heat-is-on",
       "title": "The heat is on: handling units in Rust",
-      "description": "If it’s forty degrees out, should you wrap up, or strip off? Let’s see how Rust’s type system can help us manage quantities, units, and conversions in our programs."
+      "description": "If it’s forty degrees out, should you wrap up, or strip off? Let’s see how Rust’s type system can help us manage quantities, units, and conversions in our programs.",
+      "date": null
     }
   ]
 }

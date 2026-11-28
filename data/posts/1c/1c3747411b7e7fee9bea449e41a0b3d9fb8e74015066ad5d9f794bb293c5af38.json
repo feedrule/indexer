@@ -4,17 +4,20 @@
     {
       "link": "https://daniel-bethell.co.uk/posts/visualising-embeddings/",
       "title": "Visualising How Neural Networks Learn",
-      "description": "Neural networks learn complex internal representations of their inputs, but these representations are usually difficult to inspect directly. In this post, I constrain an image classifier to a two-dimensional embedding space and interactively visualise how different training objectives organise that space over time."
+      "description": "Neural networks learn complex internal representations of their inputs, but these representations are usually difficult to inspect directly. In this post, I constrain an image classifier to a two-dimensional embedding space and interactively visualise how different training objectives organise that space over time.",
+      "date": null
     },
     {
       "link": "https://daniel-bethell.co.uk/posts/cedl/",
       "title": "Robust Adversarial Quantification via Conflict-Aware Evidential Deep Learning",
-      "description": "Quantifying uncertainty to reject out-of-distribution/adversarially attacked inputs in crucial for deploying deep learning models in the real-world. Our proposed method, C-EDL, boosts robustness in Evidential Deep Learning by detecting conflict from input transformations, improving OOD and adversarial detection without retraining, while keeping high accuracy and low overhead."
+      "description": "Quantifying uncertainty to reject out-of-distribution/adversarially attacked inputs in crucial for deploying deep learning models in the real-world. Our proposed method, C-EDL, boosts robustness in Evidential Deep Learning by detecting conflict from input transformations, improving OOD and adversarial detection without retraining, while keeping high accuracy and low overhead.",
+      "date": null
     },
     {
       "link": "https://daniel-bethell.co.uk/posts/coppol/",
       "title": "Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning",
-      "description": "Robots cannot navigate safely if their perception misses hazards. COPPOL solves this by conformalising segmentation outputs to give distribution-free guarantees on hazard coverage, then using these calibrated hazard maps to guide reinforcement learning. The result is safer navigation under imperfect perception, with higher hazard coverage, fewer unsafe violations, greater clearance, and strong rob"
+      "description": "Robots cannot navigate safely if their perception misses hazards. COPPOL solves this by conformalising segmentation outputs to give distribution-free guarantees on hazard coverage, then using these calibrated hazard maps to guide reinforcement learning. The result is safer navigation under imperfect perception, with higher hazard coverage, fewer unsafe violations, greater clearance, and strong rob",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.edwardloveall.com/reject-llms",
       "title": "You Are Allowed to Reject LLMs",
-      "description": "A lot of people are uncomfortable using LLMs, maybe including you. Or maybe a colleague, relative, or friend has expressed some reservations. That discomfort is amplified when LLMs are increasingly normalized; so much of existing in the world today is “AI this” and “chatbot that” and “agentic everything”. But something being commonplace, or even popular, does not mean adoption is a requirement. Ev"
+      "description": "A lot of people are uncomfortable using LLMs, maybe including you. Or maybe a colleague, relative, or friend has expressed some reservations. That discomfort is amplified when LLMs are increasingly normalized; so much of existing in the world today is “AI this” and “chatbot that” and “agentic everything”. But something being commonplace, or even popular, does not mean adoption is a requirement. Ev",
+      "date": null
     },
     {
       "link": "https://blog.edwardloveall.com/printing-zig-structs",
       "title": "Printing Zig Structs",
-      "description": "I recently found a new way to print formatted strings in Zig. If you’ve spent much time with the language, you’ve probably tried to print something to a console or other output. Here’s an example of what that can look like in Zig 0.16.0: const std = @import ( \"std\" ); pub fn main ( init : std . process . Init ) ! void { const io = init . io ; const stdout_handle = std . Io . File . stdout (); var"
+      "description": "I recently found a new way to print formatted strings in Zig. If you’ve spent much time with the language, you’ve probably tried to print something to a console or other output. Here’s an example of what that can look like in Zig 0.16.0: const std = @import ( \"std\" ); pub fn main ( init : std . process . Init ) ! void { const io = init . io ; const stdout_handle = std . Io . File . stdout (); var",
+      "date": null
     },
     {
       "link": "https://blog.edwardloveall.com/ten-years-of-hotline-webring",
       "title": "Ten Years of Hotline Webring",
-      "description": "About ten years ago, in early December 2015, I co-created a webring . I’ve been wanting to write a post about Hotline Webring for years now, and the reminder that it’s been a decade gave me the motivation. Origins I don’t remember why Gabe and I had this idea, but we do have a penchant for silly projects and puns . Gabe probably came up with some wordplay about Drake’s Hotline Bling song lyrics so"
+      "description": "About ten years ago, in early December 2015, I co-created a webring . I’ve been wanting to write a post about Hotline Webring for years now, and the reminder that it’s been a decade gave me the motivation. Origins I don’t remember why Gabe and I had this idea, but we do have a penchant for silly projects and puns . Gabe probably came up with some wordplay about Drake’s Hotline Bling song lyrics so",
+      "date": null
     }
   ]
 }

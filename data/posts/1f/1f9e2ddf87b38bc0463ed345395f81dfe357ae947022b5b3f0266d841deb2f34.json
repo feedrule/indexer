@@ -4,17 +4,20 @@
     {
       "link": "https://stanko.io/katami-sxj77rR0FDZf",
       "title": "Katami",
-      "description": "Over the last few months I've built a couple of tools to help me work with our new AI friends. My favorite one so far is katami (Japanese かたみ for \"keepsake\"). The best way to explain what katami does is with an example: $ mkdir hey2 $ cd hey2 $ cargo init $ katami claude > Can you set this..."
+      "description": "Over the last few months I've built a couple of tools to help me work with our new AI friends. My favorite one so far is katami (Japanese かたみ for \"keepsake\"). The best way to explain what katami does is with an example: $ mkdir hey2 $ cd hey2 $ cargo init $ katami claude > Can you set this...",
+      "date": null
     },
     {
       "link": "https://stanko.io/building-twice-a-clone-of-once-gJKxLYCe26Ak",
       "title": "Building Twice: A clone of Once",
-      "description": "When Campfire - the first Once product - came out, a few of us at Ruby Zagreb pitched in to buy a copy. Prometheus had brought fire from Mount Olympus, and we came to see the blaze. We were finally seeing how the people at 37signals - the birthplace of Rails - build Rails apps. And as a bonus,..."
+      "description": "When Campfire - the first Once product - came out, a few of us at Ruby Zagreb pitched in to buy a copy. Prometheus had brought fire from Mount Olympus, and we came to see the blaze. We were finally seeing how the people at 37signals - the birthplace of Rails - build Rails apps. And as a bonus,...",
+      "date": null
     },
     {
       "link": "https://stanko.io/adding-mcp-to-a-rails-app-NG9zkX3dyPq1",
       "title": "Adding MCP to a Rails app",
-      "description": "Last week we had an AI hackathon at work during which we added an MCP server to our Rails app. This was much easier than I expected, the result was both impressive and scary, and I learned a few things about MCP that I didn't expect. Goal My team wanted to help our support team by automating..."
+      "description": "Last week we had an AI hackathon at work during which we added an MCP server to our Rails app. This was much easier than I expected, the result was both impressive and scary, and I learned a few things about MCP that I didn't expect. Goal My team wanted to help our support team by automating...",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://xark.es/b/mythos-firefox-150",
       "title": "A quick look at Mythos run on Firefox: too much hype?",
-      "description": "When Anthropic published its Mythos announcement , it really seemed impressive at first, almost worrying. But when reading thoroughly, the public evidence is less clean than the headline effect. The often-cited \"under $20,000\" figure does not mean Mythos casually found one devastating bug for that price; in Anthropic's own writeup, that budget covered a large search process with roughly a thousand"
+      "description": "When Anthropic published its Mythos announcement , it really seemed impressive at first, almost worrying. But when reading thoroughly, the public evidence is less clean than the headline effect. The often-cited \"under $20,000\" figure does not mean Mythos casually found one devastating bug for that price; in Anthropic's own writeup, that budget covered a large search process with roughly a thousand",
+      "date": null
     },
     {
       "link": "https://xark.es/b/compiling-V8-on-linux-arm64",
       "title": "Compiling V8 on Linux Arm64",
-      "description": "As you may or may not know, developping software from an aarch64 Linux machine is not that common - and that is no exception for the V8 JavaScript engine . It does officially support building from an Apple Silicon MacOS, but not from Linux aarch64. As my current setup involves compiling from a Linux aarch64 VM, here's how I did it in this context. TL;DR Get LLVM from https://github.com/llvm/llvm-p"
+      "description": "As you may or may not know, developping software from an aarch64 Linux machine is not that common - and that is no exception for the V8 JavaScript engine . It does officially support building from an Apple Silicon MacOS, but not from Linux aarch64. As my current setup involves compiling from a Linux aarch64 VM, here's how I did it in this context. TL;DR Get LLVM from https://github.com/llvm/llvm-p",
+      "date": null
     },
     {
       "link": "https://xark.es/b/switching-my-blog-to-nextjs",
       "title": "Switching my blog to Next.js",
-      "description": "Before anything I want to say that I am not a web developer. In my IT life and experiments I always tried to stay as far as possible to anything that would be running with Node.js. Now, I am aiming to post more on this blog, and hopefully I will, if I take the time to do so and do things that are worth sharing. This post describes my discovery of Next.js and the Node environment (and it is disappo"
+      "description": "Before anything I want to say that I am not a web developer. In my IT life and experiments I always tried to stay as far as possible to anything that would be running with Node.js. Now, I am aiming to post more on this blog, and hopefully I will, if I take the time to do so and do things that are worth sharing. This post describes my discovery of Next.js and the Node environment (and it is disappo",
+      "date": null
     }
   ]
 }

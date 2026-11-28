@@ -4,17 +4,20 @@
     {
       "link": "https://rtnpro.com/post/2026-09-08-introducing-suparship-0-1/",
       "title": "Introducing suparship 0.1: The Missing Middle, Shipped",
-      "description": "Overview Nine weeks ago this series opened with a sentence I’ve been waiting to cash: “I’m building something in this gap. It isn’t ready to show you yet, and I’d rather earn the argument first.” Six posts later the argument is on the table — the missing middle , the PaaS bill at scale , golden paths over headcount , Argo CD and Kargo instead of a homegrown CD , secrets that never touch Git , and"
+      "description": "Overview Nine weeks ago this series opened with a sentence I’ve been waiting to cash: “I’m building something in this gap. It isn’t ready to show you yet, and I’d rather earn the argument first.” Six posts later the argument is on the table — the missing middle , the PaaS bill at scale , golden paths over headcount , Argo CD and Kargo instead of a homegrown CD , secrets that never touch Git , and",
+      "date": null
     },
     {
       "link": "https://rtnpro.com/post/2026-08-26-preview-environments-promote-to-prod/",
       "title": "Preview Environments That Actually Promote to Prod",
-      "description": "Overview Last week’s post closed with a promise that was really four promises: preview environments per change, release trains where stable and canary share a namespace, weighted traffic splitting on Gateway API HTTPRoute s, and promotion gates between all of it. Honesty being the house rule of this series: two of those four are running in anger, and two are still designs. This post is about the r"
+      "description": "Overview Last week’s post closed with a promise that was really four promises: preview environments per change, release trains where stable and canary share a namespace, weighted traffic splitting on Gateway API HTTPRoute s, and promotion gates between all of it. Honesty being the house rule of this series: two of those four are running in anger, and two are still designs. This post is about the r",
+      "date": null
     },
     {
       "link": "https://rtnpro.com/post/2026-08-07-gitops-secrets-never-a-value-in-git/",
       "title": "Secrets in a GitOps World: Scopes, an External Store, and Never a Value in Git",
-      "description": "Overview Last week I walked through the Argo CD and Kargo objects a golden-path layer generates, and closed on the thing that wasn’t there: not a single secret anywhere in those manifests. That wasn’t tidy example hygiene. It’s a design position, and this post defends it. The tension is familiar. The GitOps pitch is everything in Git — desired state, reviewable, revertible, reconciled. The securit"
+      "description": "Overview Last week I walked through the Argo CD and Kargo objects a golden-path layer generates, and closed on the thing that wasn’t there: not a single secret anywhere in those manifests. That wasn’t tidy example hygiene. It’s a design position, and this post defends it. The tension is familiar. The GitOps pitch is everything in Git — desired state, reviewable, revertible, reconciled. The securit",
+      "date": null
     }
   ]
 }

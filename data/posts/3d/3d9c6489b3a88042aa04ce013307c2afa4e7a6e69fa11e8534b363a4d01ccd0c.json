@@ -4,17 +4,20 @@
     {
       "link": "https://papervault.xyz/blog/choosing-your-keyholders",
       "title": "Choosing your keyholders",
-      "description": "Threshold cryptography is a math problem until the moment of recovery, when it becomes a social one. A short field guide to picking, briefing, and rotating the people who hold your shares."
+      "description": "Threshold cryptography is a math problem until the moment of recovery, when it becomes a social one. A short field guide to picking, briefing, and rotating the people who hold your shares.",
+      "date": null
     },
     {
       "link": "https://papervault.xyz/blog/choosing-your-threshold",
       "title": "Choosing your m-of-n threshold",
-      "description": "Threshold cryptography gives you two dials, and choosing them well is most of the work. A short tour of the failure modes, the standard configurations, and the heuristics that keep them working."
+      "description": "Threshold cryptography gives you two dials, and choosing them well is most of the work. A short tour of the failure modes, the standard configurations, and the heuristics that keep them working.",
+      "date": null
     },
     {
       "link": "https://papervault.xyz/blog/cyclic-dependencies-in-personal-security",
       "title": "Cyclic Dependencies in Personal Security",
-      "description": "Almost everyone's recovery plan contains a hidden loop. The cycles stay invisible in normal use, and become unrecoverable the moment something breaks."
+      "description": "Almost everyone's recovery plan contains a hidden loop. The cycles stay invisible in normal use, and become unrecoverable the moment something breaks.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.kutil.org/2026/07/developing-apps-script-with-antigravity-and-managed-agents-api.html",
       "title": "Developing Google Apps Script with serverless Antigravity harness engine in Managed Agents API",
-      "description": "Do you also hate doing the same manual tasks in Google Workspace over and over again? Imagine just describing what you need in plain English, and boom - your spreadsheet automates itself like magic. With Antigravity, you can orchestrate automations directly, or let the agent write Google Apps Script for you. The real beauty of Apps Script is that it has built-in OAuth for Google services and runs"
+      "description": "Do you also hate doing the same manual tasks in Google Workspace over and over again? Imagine just describing what you need in plain English, and boom - your spreadsheet automates itself like magic. With Antigravity, you can orchestrate automations directly, or let the agent write Google Apps Script for you. The real beauty of Apps Script is that it has built-in OAuth for Google services and runs",
+      "date": null
     },
     {
       "link": "https://www.kutil.org/2025/12/building-google-workspace-security.html",
       "title": "Building a Google Workspace Security Agent with ADK and Policy API",
-      "description": "You might have Google Workspace configured perfectly for your startup or enterprise today. But configuration is not a one-time event; it's a neverending lifecycle. You need to verify if 2-Step Verification is truly enforced for everyone, or check which context-aware access levels are active. Clicking through the Google Admin Console to verify hundreds of settings is manual labor. How to create an"
+      "description": "You might have Google Workspace configured perfectly for your startup or enterprise today. But configuration is not a one-time event; it's a neverending lifecycle. You need to verify if 2-Step Verification is truly enforced for everyone, or check which context-aware access levels are active. Clicking through the Google Admin Console to verify hundreds of settings is manual labor. How to create an",
+      "date": null
     },
     {
       "link": "https://www.kutil.org/2025/06/vibe-scraping-with-google-apps-script.html",
       "title": "Vibe Scraping with Google Apps Script and Gemini's URL Context",
-      "description": "Nine years ago, I wrote an article describing how to scrape data from the internet in about five minutes. It featured a Google Apps Script library that allowed you to specify what to download from a webpage by identifying the text surrounding your target information. This became one of my most-read articles, and the library itself saved me a significant amount of time. With the advent of large lan"
+      "description": "Nine years ago, I wrote an article describing how to scrape data from the internet in about five minutes. It featured a Google Apps Script library that allowed you to specify what to download from a webpage by identifying the text surrounding your target information. This became one of my most-read articles, and the library itself saved me a significant amount of time. With the advent of large lan",
+      "date": null
     }
   ]
 }

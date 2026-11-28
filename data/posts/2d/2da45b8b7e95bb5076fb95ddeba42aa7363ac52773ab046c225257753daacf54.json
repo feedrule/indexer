@@ -4,17 +4,20 @@
     {
       "link": "https://brottsie.bearblog.dev/the-arch-user-repository-is-not-a-problem/",
       "title": "The Arch User Repository is not a problem",
-      "description": "Anyone can make a package for the Arch User Repository and others can install it. There's no verification, otherwise it would be pointless, and you need to trust the person who packages it. You'll review the scripts and files and make sure it comes from a trusted source, and if the package updates you review the changes. Has the package added new dependencies that make no sense? Don't install it a"
+      "description": "Anyone can make a package for the Arch User Repository and others can install it. There's no verification, otherwise it would be pointless, and you need to trust the person who packages it. You'll review the scripts and files and make sure it comes from a trusted source, and if the package updates you review the changes. Has the package added new dependencies that make no sense? Don't install it a",
+      "date": null
     },
     {
       "link": "https://brottsie.bearblog.dev/my-customised-desktop/",
       "title": "My customised desktop",
-      "description": "I have always customised my computer to how I like it and it has changed over the years, but I think I finally settled into something that I like the most. I like when things are simple, and I like the old school look. Programs Everyone uses them, and you most likely use GTK and Qt programs. Maybe one or the other depending on if you use GNOME or KDE. I use a stand-alone window manager, and I tend"
+      "description": "I have always customised my computer to how I like it and it has changed over the years, but I think I finally settled into something that I like the most. I like when things are simple, and I like the old school look. Programs Everyone uses them, and you most likely use GTK and Qt programs. Maybe one or the other depending on if you use GNOME or KDE. I use a stand-alone window manager, and I tend",
+      "date": null
     },
     {
       "link": "https://brottsie.bearblog.dev/switching-to-the-nvidia-580xx-driver/",
       "title": "Switching to the nvidia-580xx driver",
-      "description": "Today Archlinux posted a news article about Nvidia dropping support for the Pascal arcitecture. This means users of such graphics cards, like me with my GTX 1050 Ti, need to replace the nvidia driver with the nvidia-580xx driver. According to the news post, I need to install nvidia-580xx-dkms . I cloned the nvidia-580xx-utils repo which will build both nvidia-580xx-dkms and nvidia-580xx-utils and"
+      "description": "Today Archlinux posted a news article about Nvidia dropping support for the Pascal arcitecture. This means users of such graphics cards, like me with my GTX 1050 Ti, need to replace the nvidia driver with the nvidia-580xx driver. According to the news post, I need to install nvidia-580xx-dkms . I cloned the nvidia-580xx-utils repo which will build both nvidia-580xx-dkms and nvidia-580xx-utils and",
+      "date": null
     }
   ]
 }

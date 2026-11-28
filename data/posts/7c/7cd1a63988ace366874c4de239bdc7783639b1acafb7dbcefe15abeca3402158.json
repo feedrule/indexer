@@ -4,17 +4,20 @@
     {
       "link": "https://yulingyao.com/blog/2026/outcome-weight/",
       "title": "outcome-dependent weighting in randomized experiments",
-      "description": "In causal inference, we usually think of inverse-probability weighting (IPW) as using weights that are functions of treatment assignment $z$ and pretreatment variables $x$. But mathematically there is nothing preventting us from considering weights that are functions of the observed outcome $y$."
+      "description": "In causal inference, we usually think of inverse-probability weighting (IPW) as using weights that are functions of treatment assignment $z$ and pretreatment variables $x$. But mathematically there is nothing preventting us from considering weights that are functions of the observed outcome $y$.",
+      "date": null
     },
     {
       "link": "https://yulingyao.com/blog/2024/newweb/",
       "title": "My website was hacked!",
-      "description": "This week I received a shocking email from Jinlin, that my personal website was hacked—It was redirected to some scam webpage and all my blogs were missing. No joking, website-being-hacked can still happen in 2024."
+      "description": "This week I received a shocking email from Jinlin, that my personal website was hacked—It was redirected to some scam webpage and all my blogs were missing. No joking, website-being-hacked can still happen in 2024.",
+      "date": null
     },
     {
       "link": "https://yulingyao.com/blog/2024/predictive-lik-copy/",
       "title": "Bayesian prediction and the likelihood principle",
-      "description": "Bertrand and I have recently finished our review paper on Bayesian prediction. One of my favorite part there is the distinction between inferential and predictive Bayes."
+      "description": "Bertrand and I have recently finished our review paper on Bayesian prediction. One of my favorite part there is the distinction between inferential and predictive Bayes.",
+      "date": null
     }
   ]
 }

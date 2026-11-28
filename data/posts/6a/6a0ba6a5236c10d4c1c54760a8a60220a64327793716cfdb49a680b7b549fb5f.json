@@ -4,17 +4,20 @@
     {
       "link": "https://barthalion.blog/flathub-internals-cdn-and-deltas/",
       "title": "Why are Flathub downloads so slow sometimes?",
-      "description": "It's probably not your fault. On a cache miss, there are two things a reverse proxy (which Fastly is to us) can do. It can make the client wait until the proxy itself fetches the requested content and then serve it, with subsequent requests being served from the cache. From a user's perspective, it means staring at \"hung\" process, and people tend not to be understanding when a program is stuck see"
+      "description": "It's probably not your fault. On a cache miss, there are two things a reverse proxy (which Fastly is to us) can do. It can make the client wait until the proxy itself fetches the requested content and then serve it, with subsequent requests being served from the cache. From a user's perspective, it means staring at \"hung\" process, and people tend not to be understanding when a program is stuck see",
+      "date": null
     },
     {
       "link": "https://barthalion.blog/flathub-internals-cdn/",
       "title": "How does Flathub even work? The CDN and caching layer",
-      "description": "There is one specific way in which the non-corporate open source projects typically document how their infrastructure work: not at all, and Flathub is no different. The full picture likely lives only in my brain, and while it could be sorted out by anyone (especially in this LLM age, yay or nay), why should it only be me thinking at night about all the single points of failure? Like any system tha"
+      "description": "There is one specific way in which the non-corporate open source projects typically document how their infrastructure work: not at all, and Flathub is no different. The full picture likely lives only in my brain, and while it could be sorted out by anyone (especially in this LLM age, yay or nay), why should it only be me thinking at night about all the single points of failure? Like any system tha",
+      "date": null
     },
     {
       "link": "https://barthalion.blog/turbocharging-gnome-nightly-and-gnome-os-infrastructure/",
       "title": "Turbocharging GNOME Nightly and GNOME OS infrastructure",
-      "description": "Mistakes were made¹, and after recent maintenance , Jordan asked Infrastructure Team if there is a chance GNOME Nightly (and its younger sibling GNOME OS) could be moved somewhere with faster network and more storage. After short discussion, we decided to move it to AWS (thanks to promotional credits for open source projects ). The new server has three times more space, uses SSD instead of HDD, an"
+      "description": "Mistakes were made¹, and after recent maintenance , Jordan asked Infrastructure Team if there is a chance GNOME Nightly (and its younger sibling GNOME OS) could be moved somewhere with faster network and more storage. After short discussion, we decided to move it to AWS (thanks to promotional credits for open source projects ). The new server has three times more space, uses SSD instead of HDD, an",
+      "date": null
     }
   ]
 }

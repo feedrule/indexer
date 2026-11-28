@@ -4,17 +4,20 @@
     {
       "link": "https://asp.net-hacker.rocks/2026/07/28/ai-breaking-agents.html",
       "title": "Where Autonomous AI Agents Break: A Field Guide",
-      "description": "Back in my last post , I walked through a planner/specialist pattern for LLM tool-calling in .NET, and I ended it with a short list of the things that make the clean version of that pattern harder in practice: ambiguous results, timeouts, non-determinism. I said I'd come back to those with real solutions instead of just naming them. This post is that follow-through - a field guide to where these s"
+      "description": "Back in my last post , I walked through a planner/specialist pattern for LLM tool-calling in .NET, and I ended it with a short list of the things that make the clean version of that pattern harder in practice: ambiguous results, timeouts, non-determinism. I said I'd come back to those with real solutions instead of just naming them. This post is that follow-through - a field guide to where these s",
+      "date": null
     },
     {
       "link": "https://asp.net-hacker.rocks/2026/07/15/ai-planner-orchestrator-pattern.html",
       "title": "Designing a AI Planner for AI Sub Agents in .NET",
-      "description": "For a while now, I spend my evenings and spare time on systems where an LLM doesn't only answer a question — it decides what to do next, acts on that decision, and reacts to whatever comes back. That's a different engineering problem than the usual \"send a prompt, render the response\" work most of us started with, and it breaks in different places. In this post, I'd like to walk through the patter"
+      "description": "For a while now, I spend my evenings and spare time on systems where an LLM doesn't only answer a question — it decides what to do next, acts on that decision, and reacts to whatever comes back. That's a different engineering problem than the usual \"send a prompt, render the response\" work most of us started with, and it breaks in different places. In this post, I'd like to walk through the patter",
+      "date": null
     },
     {
       "link": "https://asp.net-hacker.rocks/2025/07/23/web-api-headers.html",
       "title": "Hardening ASP.NET Core: HTTP Headers for Security",
-      "description": "This is yet another security post, also for my own reminder. Actually, it happens pretty often that I'm searching the internet for a solution, and the results show me that I already wrote about it. So this post is also for me the next time I search for solving security header issues with ASP.NET Core. Web security is not just a feature; it is a must. We focus on authentication, authorization, and"
+      "description": "This is yet another security post, also for my own reminder. Actually, it happens pretty often that I'm searching the internet for a solution, and the results show me that I already wrote about it. So this post is also for me the next time I search for solving security header issues with ASP.NET Core. Web security is not just a feature; it is a must. We focus on authentication, authorization, and",
+      "date": null
     }
   ]
 }

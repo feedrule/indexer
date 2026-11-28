@@ -4,17 +4,20 @@
     {
       "link": "https://geektechstuff.com/2026/11/15/grafana-a-github-dashboard/",
       "title": "Grafana – A GitHub Dashboard",
-      "description": "GitHub maintains a lot of data on activity taking place on GitHub, which means its data rich for a dashboard. Want to know how often a repository sees commits? How long pull requests stay open for? Who the top contributor is? or how long a GitHub Action is taking to run? Then a dashboard can […]"
+      "description": "GitHub maintains a lot of data on activity taking place on GitHub, which means its data rich for a dashboard. Want to know how often a repository sees commits? How long pull requests stay open for? Who the top contributor is? or how long a GitHub Action is taking to run? Then a dashboard can […]",
+      "date": null
     },
     {
       "link": "https://geektechstuff.com/2026/11/13/grafana-adding-a-service-account/",
       "title": "Grafana – Adding a Service Account",
-      "description": "With a Grafana environment up and running, it’s time to get a service account active via some Terraform so that Python can be used to interacting with Grafana. Why A Service Account ? Grafana has a User Interface (UI) that is not too hard to get to grips with, but sometimes you may want to […]"
+      "description": "With a Grafana environment up and running, it’s time to get a service account active via some Terraform so that Python can be used to interacting with Grafana. Why A Service Account ? Grafana has a User Interface (UI) that is not too hard to get to grips with, but sometimes you may want to […]",
+      "date": null
     },
     {
       "link": "https://geektechstuff.com/2026/11/10/creating-a-grafana-playground/",
       "title": "Creating a Grafana Playground",
-      "description": "Grafana is a great visualisation tool to help display logs, metrics, and traces, a.k.a the bits observability needs. It has a variety of plugins, data sources, and lots of potential when creating dashboards. Grafana has an open source version, an enterprise version, and a cloud version (with a free tier). A playground for learning With […]"
+      "description": "Grafana is a great visualisation tool to help display logs, metrics, and traces, a.k.a the bits observability needs. It has a variety of plugins, data sources, and lots of potential when creating dashboards. Grafana has an open source version, an enterprise version, and a cloud version (with a free tier). A playground for learning With […]",
+      "date": null
     }
   ]
 }

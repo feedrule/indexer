@@ -4,17 +4,20 @@
     {
       "link": "https://sinankprn.com/posts/codethecountdown/",
       "title": "Vibe Code the Countdown",
-      "description": "A 10-second countdown timer inspired by cellular automata, vibe-coded with Claude Code using skills, plan mode, and the AskUserQuestion tool."
+      "description": "A 10-second countdown timer inspired by cellular automata, vibe-coded with Claude Code using skills, plan mode, and the AskUserQuestion tool.",
+      "date": null
     },
     {
       "link": "https://sinankprn.com/posts/how-chatbots-actually-work/",
       "title": "How Chatbots Actually Work (Simple Technical Explanation)",
-      "description": "A visual tour of what happens inside a chatbot: tokens, the context window, hidden instructions, compaction, memory, and reasoning tokens."
+      "description": "A visual tour of what happens inside a chatbot: tokens, the context window, hidden instructions, compaction, memory, and reasoning tokens.",
+      "date": null
     },
     {
       "link": "https://sinankprn.com/posts/gemini-document-understanding-for-meta-science-extraction/",
       "title": "A Roadmap for Gemini-Powered Meta-Science Extraction Tasks",
-      "description": "A research roadmap for using Gemini native vision, derendering, and agentic vision to automate reliable extraction from full journal articles."
+      "description": "A research roadmap for using Gemini native vision, derendering, and agentic vision to automate reliable extraction from full journal articles.",
+      "date": null
     }
   ]
 }

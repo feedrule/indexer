@@ -4,17 +4,20 @@
     {
       "link": "https://iceworks.cc/blog/pidl/",
       "title": "Prolog: An Idea of a Language",
-      "description": "Prolog is an old programming language from some AI winters ago—the idea was a combination of proving math theorems and writing “expert systems.” This is done by first creating a whole database of facts which assert some things are true about other things. Then you have “rules” which create new facts as long as some predicates argue about existing facts. So you have facts like “article(this).” whic"
+      "description": "Prolog is an old programming language from some AI winters ago—the idea was a combination of proving math theorems and writing “expert systems.” This is done by first creating a whole database of facts which assert some things are true about other things. Then you have “rules” which create new facts as long as some predicates argue about existing facts. So you have facts like “article(this).” whic",
+      "date": null
     },
     {
       "link": "https://iceworks.cc/blog/tnfr/",
       "title": "A Need for Realness",
-      "description": "Marketplaces sell finished goods. You go to a stall or a shop and you see neatly wrapped boxes of goods to peruse. These goods are ready to pick up and take home–just pay the price and be on your way. Seems like a great life. These goods are, of course, the result of hundreds of thousands of man-hours of scheming, focus group tests, production, bikeshedding, and all the things that companies do to"
+      "description": "Marketplaces sell finished goods. You go to a stall or a shop and you see neatly wrapped boxes of goods to peruse. These goods are ready to pick up and take home–just pay the price and be on your way. Seems like a great life. These goods are, of course, the result of hundreds of thousands of man-hours of scheming, focus group tests, production, bikeshedding, and all the things that companies do to",
+      "date": null
     },
     {
       "link": "https://iceworks.cc/blog/bwgf/",
       "title": "Plaintext & a Metadata Problem",
-      "description": "Markdown (and refinements like Djot) are a nice way to get prose out and formatted in to annoying markups like HTML. You have to do this so that web browsers make them look pretty. Blog engines increasingly like to turn a bag of Markdown in to a website. And there’s some note-taking program named after a shiny volcano rock that has especially popularized “huge bag of Markdown files” as a notebook."
+      "description": "Markdown (and refinements like Djot) are a nice way to get prose out and formatted in to annoying markups like HTML. You have to do this so that web browsers make them look pretty. Blog engines increasingly like to turn a bag of Markdown in to a website. And there’s some note-taking program named after a shiny volcano rock that has especially popularized “huge bag of Markdown files” as a notebook.",
+      "date": null
     }
   ]
 }

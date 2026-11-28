@@ -4,17 +4,20 @@
     {
       "link": "http://qtandeverything.blogspot.com/2026/07/qtmultimedia-612-for-webassembly.html",
       "title": "QtMultimedia 6.12 for WebAssembly",
-      "description": "QtMultimedia for WebAssembly QtMultimedia for WebAssembly adds the ability for Qt based apps to use audio, camera and play videos in a web app. Deploy once, run everywhere that has a web browser that supports javascript and WebAssembly. There have been some improvements in QtMultimedia for WebAssembly lately. Specifically for the Qt 6.12 release and beyond. Probably the biggest one is that it now"
+      "description": "QtMultimedia for WebAssembly QtMultimedia for WebAssembly adds the ability for Qt based apps to use audio, camera and play videos in a web app. Deploy once, run everywhere that has a web browser that supports javascript and WebAssembly. There have been some improvements in QtMultimedia for WebAssembly lately. Specifically for the Qt 6.12 release and beyond. Probably the biggest one is that it now",
+      "date": null
     },
     {
       "link": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
       "title": "Debugging Qt WebAssembly - DWARF",
-      "description": "One of the most tedious tasks a developer will do is debugging a nagging bug. It's worse when it's a web app, and even worse when its a webassembly web app. The easiest way to debug Qt Webassembly is by configuring using the -g argument, or CMAKE_BUILD_TYPE=Debug . Emscripten embeds DWARF symbols in the wasm binaries. NOTE: Debugging wasm files with DWARF works only in the Chrome browser with the"
+      "description": "One of the most tedious tasks a developer will do is debugging a nagging bug. It's worse when it's a web app, and even worse when its a webassembly web app. The easiest way to debug Qt Webassembly is by configuring using the -g argument, or CMAKE_BUILD_TYPE=Debug . Emscripten embeds DWARF symbols in the wasm binaries. NOTE: Debugging wasm files with DWARF works only in the Chrome browser with the",
+      "date": null
     },
     {
       "link": "http://qtandeverything.blogspot.com/2023/07/qt6-webassembly-qtmultimedia-or-how-to.html",
       "title": "Qt6 Webassembly: QtMultimedia or, How to play a video in a web browser using Qt",
-      "description": "QtMultimedia in WebAssembly Since Qt 6.5.0, QtMultimedia has support for playing video in a QGraphicsVideoItem and QGraphicsScene , as well as recording from a camera. You can use Qt to play video, access the camera from a web browser, thus simplifying deployment. With anything WebAssembly, there are a few things that work differently from the desktop applications. The javascript function that is"
+      "description": "QtMultimedia in WebAssembly Since Qt 6.5.0, QtMultimedia has support for playing video in a QGraphicsVideoItem and QGraphicsScene , as well as recording from a camera. You can use Qt to play video, access the camera from a web browser, thus simplifying deployment. With anything WebAssembly, there are a few things that work differently from the desktop applications. The javascript function that is",
+      "date": null
     }
   ]
 }

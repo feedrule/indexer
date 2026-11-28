@@ -4,17 +4,20 @@
     {
       "link": "https://emschwartz.me/scour-october-upate-2026/",
       "title": "Scour - October Update",
-      "description": "Hi friends, In October, Scour scoured 1.5 million articles from 34,703 feeds . 164 new users signed up since the last product update email, so welcome to you all! Here's what's changed in the product: 🧠 Smarter Topic Matching I rebuilt the way Scour determines which content is relevant from the ground up so you'll see more relevant posts and fewer off-topic ones in your feed. During the rebuild, I"
+      "description": "Hi friends, In October, Scour scoured 1.5 million articles from 34,703 feeds . 164 new users signed up since the last product update email, so welcome to you all! Here's what's changed in the product: 🧠 Smarter Topic Matching I rebuilt the way Scour determines which content is relevant from the ground up so you'll see more relevant posts and fewer off-topic ones in your feed. During the rebuild, I",
+      "date": null
     },
     {
       "link": "https://emschwartz.me/scour-september-update-2026/",
       "title": "Scour - September Update",
-      "description": "Hi friends, In September, Scour scoured 1.2 million articles (up from ~880,000 in August) from 28,568 feeds . Also, welcome to the 116 new users who signed up since my last product update email! Here's what's new in the product: 📚 Library and Article Tabs You can now find all of your saved, loved, and liked posts, as well as your full reading history, in the Library section. Also, if you click Rea"
+      "description": "Hi friends, In September, Scour scoured 1.2 million articles (up from ~880,000 in August) from 28,568 feeds . Also, welcome to the 116 new users who signed up since my last product update email! Here's what's new in the product: 📚 Library and Article Tabs You can now find all of your saved, loved, and liked posts, as well as your full reading history, in the Library section. Also, if you click Rea",
+      "date": null
     },
     {
       "link": "https://emschwartz.me/please-add-prompt-caching-to-jev-style-models/",
       "title": "Please add prompt caching to Jev-style models",
-      "description": "If you're building a Jev-style \"System One\" model, please add prompt caching or reusable question sets to your API 🙏. This would make batch use cases even more efficient, so you could amortize the cost of many questions asked over the same input. (This was also proposed in typesafe-ai/typesafe-sdk-js#10 .) TL;DR: after a week of tweaking my Jev calls, my questions are ~88% of the input tokens. I'm"
+      "description": "If you're building a Jev-style \"System One\" model, please add prompt caching or reusable question sets to your API 🙏. This would make batch use cases even more efficient, so you could amortize the cost of many questions asked over the same input. (This was also proposed in typesafe-ai/typesafe-sdk-js#10 .) TL;DR: after a week of tweaking my Jev calls, my questions are ~88% of the input tokens. I'm",
+      "date": null
     }
   ]
 }

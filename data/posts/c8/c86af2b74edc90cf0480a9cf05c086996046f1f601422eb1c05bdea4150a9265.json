@@ -4,17 +4,20 @@
     {
       "link": "http://jacob.jkrall.net/phev",
       "title": "Plug-in your hybrid",
-      "description": "After four years of driving it, I traded in my Volvo XC90 Recharge plug-in hybrid-electric vehicle (PHEV), for the fully electric equivalent, Volvo EX90. Here are some thoughts I’ve had about the PHEV driving experience. Drive train types Plug-in hybrids exist on a spectrum of electrification: In my mind, the points on the spectrum are: Internal combustion a small, high-amperage automotive battery"
+      "description": "After four years of driving it, I traded in my Volvo XC90 Recharge plug-in hybrid-electric vehicle (PHEV), for the fully electric equivalent, Volvo EX90. Here are some thoughts I’ve had about the PHEV driving experience. Drive train types Plug-in hybrids exist on a spectrum of electrification: In my mind, the points on the spectrum are: Internal combustion a small, high-amperage automotive battery",
+      "date": null
     },
     {
       "link": "http://jacob.jkrall.net/bracket-city",
       "title": "Bracket City",
-      "description": "In today’s Bracket City puzzle , one of the first clues available is “ [first year it made sense to make new year's glasses 🤓🎉] ”. Now, I know what answer they wanted, and I got Rank: 🔮 (Puppet Master) as I desired, but I still have several objections — and I found a few more while researching for this article: First, Richard E. Sclafani and Peter S. Cicero’s patent, USD335134S Novelty eyeglass fr"
+      "description": "In today’s Bracket City puzzle , one of the first clues available is “ [first year it made sense to make new year's glasses 🤓🎉] ”. Now, I know what answer they wanted, and I got Rank: 🔮 (Puppet Master) as I desired, but I still have several objections — and I found a few more while researching for this article: First, Richard E. Sclafani and Peter S. Cicero’s patent, USD335134S Novelty eyeglass fr",
+      "date": null
     },
     {
       "link": "http://jacob.jkrall.net/set-length-isnt-equality",
       "title": "Equal set length doesn't imply set equality",
-      "description": "On one of my projects, I happened to glance at a legacy function that was supposed to check if the user had permission to add or remove some Doohickeys from a Widget . But it wasn’t actually doing that: record Doohickey ( string Id , string Name ); record Widget ( string Id , string Name , ImmutableHashSet < Doohickey > Doohickeys ); class WidgetPermissionCheck : UserPermissionCheck { public void"
+      "description": "On one of my projects, I happened to glance at a legacy function that was supposed to check if the user had permission to add or remove some Doohickeys from a Widget . But it wasn’t actually doing that: record Doohickey ( string Id , string Name ); record Widget ( string Id , string Name , ImmutableHashSet < Doohickey > Doohickeys ); class WidgetPermissionCheck : UserPermissionCheck { public void",
+      "date": null
     }
   ]
 }

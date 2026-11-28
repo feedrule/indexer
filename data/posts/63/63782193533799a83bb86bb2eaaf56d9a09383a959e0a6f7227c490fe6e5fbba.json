@@ -4,17 +4,20 @@
     {
       "link": "https://ralphmao.github.io/seed-assistant/",
       "title": "Codex as an assistant - the power and pitfalls",
-      "description": "Over the past three months, every time I felt ready to write about coding agents and personal assistants, something new came out and my views needed updating. Things are changing constantly. Any practical guide in this space may be outdated in 3–6 months, so I want to write down my thoughts on more fundamental problems."
+      "description": "Over the past three months, every time I felt ready to write about coding agents and personal assistants, something new came out and my views needed updating. Things are changing constantly. Any practical guide in this space may be outdated in 3–6 months, so I want to write down my thoughts on more fundamental problems.",
+      "date": null
     },
     {
       "link": "https://ralphmao.github.io/token-cost/",
       "title": "The Next 1000x Cost Saving of LLM",
-      "description": "LLM inference costs have dropped a lot over the past three years. At a comparable quality to early ChatGPT, average per-token prices are ~1000x lower, as observed in an a16z blog. That drop has been driven by advances across the stack: better GPUs, quantization, software optimizations, better models and training methods, and open-source competition driving down profit margins."
+      "description": "LLM inference costs have dropped a lot over the past three years. At a comparable quality to early ChatGPT, average per-token prices are ~1000x lower, as observed in an a16z blog. That drop has been driven by advances across the stack: better GPUs, quantization, software optimizations, better models and training methods, and open-source competition driving down profit margins.",
+      "date": null
     },
     {
       "link": "https://ralphmao.github.io/quantization/",
       "title": "A Dive into LLM Quantization",
-      "description": "Quantization has been adopted by many model providers to reduce inference cost. In my previous LLM system blog, I briefly covered quantization. This article is a more detailed review of modern quantization formats and methods, plus an informal analysis of how quantization is done by leading AI labs."
+      "description": "Quantization has been adopted by many model providers to reduce inference cost. In my previous LLM system blog, I briefly covered quantization. This article is a more detailed review of modern quantization formats and methods, plus an informal analysis of how quantization is done by leading AI labs.",
+      "date": null
     }
   ]
 }

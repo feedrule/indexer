@@ -4,17 +4,20 @@
     {
       "link": "https://karla.io/2026/09/23/inference-provider-fallbacks.html",
       "title": "Staying up when inference providers go down",
-      "description": "At Lorikeet, we rely heavily on inference providers – OpenAI, Anthropic and open-weight model providers. They often offer lower reliability guarantees than we want, so our product needs to stay up when one goes down."
+      "description": "At Lorikeet, we rely heavily on inference providers – OpenAI, Anthropic and open-weight model providers. They often offer lower reliability guarantees than we want, so our product needs to stay up when one goes down.",
+      "date": null
     },
     {
       "link": "https://karla.io/2026/08/28/postgres-timestamp-typecast.html",
       "title": "Speeding up Postgres queries 1000x with a single typecast",
-      "description": "People like to talk about how AI is making software engineers think less, but I’ve been finding exactly the opposite at Lorikeet. When I find an unusual problem, AI often teaches me something I would never have had time to learn otherwise."
+      "description": "People like to talk about how AI is making software engineers think less, but I’ve been finding exactly the opposite at Lorikeet. When I find an unusual problem, AI often teaches me something I would never have had time to learn otherwise.",
+      "date": null
     },
     {
       "link": "https://karla.io/2021/04/26/putting-it-all-together.html",
       "title": "Equity taxes: Putting it all together",
-      "description": "Now that we’ve covered source taxation, US taxation, and Australian taxation, we can finally talk about all the exciting edge cases you hit when trying to file equity-related taxes after moving internationally. Some of these problems are from lack of clarity in one or the other of the domestic tax systems, but most come about from the quirks of how domestic tax systems interact with international"
+      "description": "Now that we’ve covered source taxation, US taxation, and Australian taxation, we can finally talk about all the exciting edge cases you hit when trying to file equity-related taxes after moving internationally. Some of these problems are from lack of clarity in one or the other of the domestic tax systems, but most come about from the quirks of how domestic tax systems interact with international",
+      "date": null
     }
   ]
 }

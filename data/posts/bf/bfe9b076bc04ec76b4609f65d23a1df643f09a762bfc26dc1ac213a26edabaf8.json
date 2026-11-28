@@ -4,17 +4,20 @@
     {
       "link": "https://bogoyavlensky.com/blog/clj-pulse/",
       "title": "clj-pulse: a fast Clojure language server",
-      "description": "clj-pulse is a Clojure language server that makes a large project navigable in under three seconds using a fraction of the memory. Here is what it does and how it works."
+      "description": "clj-pulse is a Clojure language server that makes a large project navigable in under three seconds using a fraction of the memory. Here is what it does and how it works.",
+      "date": null
     },
     {
       "link": "https://bogoyavlensky.com/blog/sandboxing-ai-coding-agents-with-lima/",
       "title": "Sandboxing AI coding agents with Lima",
-      "description": "Learn how to sandbox AI coding agents using Lima, a tool that allows you to create lightweight virtual machines on your local machine, providing a safe and isolated environment for testing and development."
+      "description": "Learn how to sandbox AI coding agents using Lima, a tool that allows you to create lightweight virtual machines on your local machine, providing a safe and isolated environment for testing and development.",
+      "date": null
     },
     {
       "link": "https://bogoyavlensky.com/blog/announcing-getuuid/",
       "title": "Announcing GetUUID: a simple UUID, ULID and Nano ID generator",
-      "description": "GetUUID is a free online UUID, ULID and Nano ID generator. It is simple, fast and easy to use."
+      "description": "GetUUID is a free online UUID, ULID and Nano ID generator. It is simple, fast and easy to use.",
+      "date": null
     }
   ]
 }

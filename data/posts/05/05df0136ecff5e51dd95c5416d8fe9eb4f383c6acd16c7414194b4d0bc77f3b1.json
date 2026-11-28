@@ -4,17 +4,20 @@
     {
       "link": "https://blog.nelhage.com/post/concurrent-error-handling/",
       "title": "From error-handling to structured concurrency",
-      "description": "How should we think about error-handling in concurrent programs? In single-threaded programs, we’ve mostly converged on a standard pattern, with a diverse zoo of implementations and concrete patterns. When an error occurs, it is propagated up the stack until we find a stack frame which is prepared to handle it. As we do so, we unwind the stack frames in-order, giving each frame the opportunity to"
+      "description": "How should we think about error-handling in concurrent programs? In single-threaded programs, we’ve mostly converged on a standard pattern, with a diverse zoo of implementations and concrete patterns. When an error occurs, it is propagated up the stack until we find a stack frame which is prepared to handle it. As we do so, we unwind the stack frames in-order, giving each frame the opportunity to",
+      "date": null
     },
     {
       "link": "https://blog.nelhage.com/post/regex-crosswords-z3/",
       "title": "Solving regex crosswords with Z3",
-      "description": "For a while now, I’ve been fascinated by Z3 and by SMT solving more broadly. While on pat leave recently, I was reminded of the existence of regular-expression crossword puzzles, and allowed myself to get nerdsniped by writing a Z3-backed solver. I expected to spend perhaps an afternoon cranking out a quick solver; I ended up getting sucked into understanding and debugging Z3 performance, and lear"
+      "description": "For a while now, I’ve been fascinated by Z3 and by SMT solving more broadly. While on pat leave recently, I was reminded of the existence of regular-expression crossword puzzles, and allowed myself to get nerdsniped by writing a Z3-backed solver. I expected to spend perhaps an afternoon cranking out a quick solver; I ended up getting sucked into understanding and debugging Z3 performance, and lear",
+      "date": null
     },
     {
       "link": "https://blog.nelhage.com/post/ittage-branch-predictor/",
       "title": "The ITTAGE indirect branch predictor",
-      "description": "While investigating the performance of the new Python 3.14 tail-calling interpreter, I learned (via this very informative comment from Sam Gross) new (to me) piece of performance trivia: Modern CPUs mostly no longer struggle to predict the bytecode-dispatch indirect jump inside a “conventional” bytecode interpreter loop. In steady-state, assuming the bytecode itself is reasonable stable, modern CP"
+      "description": "While investigating the performance of the new Python 3.14 tail-calling interpreter, I learned (via this very informative comment from Sam Gross) new (to me) piece of performance trivia: Modern CPUs mostly no longer struggle to predict the bytecode-dispatch indirect jump inside a “conventional” bytecode interpreter loop. In steady-state, assuming the bytecode itself is reasonable stable, modern CP",
+      "date": null
     }
   ]
 }

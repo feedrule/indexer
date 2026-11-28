@@ -4,17 +4,20 @@
     {
       "link": "https://damienbod.com/2026/11/11/migrate-github-repository-to-github-enterprise/",
       "title": "Migrate a GitHub repository to GitHub Enterprise",
-      "description": "This posts shows how to migrate a repository from GitHub.com to GitHub Enterprise Cloud (GHE.com). The migration transfers the repository and its associated data to the GitHub Enterprise environment while preserving project continuity and maintaining access for authorized users. Step 1: Install required tools for the GitHub migration. Install the required tools for the GitHub […]"
+      "description": "This posts shows how to migrate a repository from GitHub.com to GitHub Enterprise Cloud (GHE.com). The migration transfers the repository and its associated data to the GitHub Enterprise environment while preserving project continuity and maintaining access for authorized users. Step 1: Install required tools for the GitHub migration. Install the required tools for the GitHub […]",
+      "date": null
     },
     {
       "link": "https://damienbod.com/2026/11/02/use-open-identityserver-for-openid-connect-in-an-aspire-setup/",
       "title": "Use Open.IdentityServer for OpenID Connect in an Aspire setup",
-      "description": "This article demonstrates how to build an OpenID Connect server using Open.IdentityServer (Rock Solid Knowledge) integrated with ASP.NET Core Identity to provide identity and access management (IAM). The solution is built with Aspire and includes an ASP.NET Core web application and a protected Web API for validating and testing OpenID Connect and OAuth 2.0 standards, […]"
+      "description": "This article demonstrates how to build an OpenID Connect server using Open.IdentityServer (Rock Solid Knowledge) integrated with ASP.NET Core Identity to provide identity and access management (IAM). The solution is built with Aspire and includes an ASP.NET Core web application and a protected Web API for validating and testing OpenID Connect and OAuth 2.0 standards, […]",
+      "date": null
     },
     {
       "link": "https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/",
       "title": "Use multiple schemes in an ASP.NET Core Web application",
-      "description": "This article looks at using multiple authentication schemes in an ASP.NET Core web application. I required something like this when migrating a large application to a new identity provider and reducing the used OIDC servers down to one. Instead of migrating the multiple authentication schemes to a single cookie default scheme, it was quicker to […]"
+      "description": "This article looks at using multiple authentication schemes in an ASP.NET Core web application. I required something like this when migrating a large application to a new identity provider and reducing the used OIDC servers down to one. Instead of migrating the multiple authentication schemes to a single cookie default scheme, it was quicker to […]",
+      "date": null
     }
   ]
 }

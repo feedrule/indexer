@@ -4,12 +4,14 @@
     {
       "link": "https://stratts.au/posts/vendoring-zig/",
       "title": "Vendoring the Zig compiler",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://stratts.au/posts/browser-based-ssg/",
       "title": "My browser-based static site generator",
-      "description": "A site generator that runs entirely in the browser, with Liquid templating, Markdown rendering, image processing, and live preview."
+      "description": "A site generator that runs entirely in the browser, with Liquid templating, Markdown rendering, image processing, and live preview.",
+      "date": null
     }
   ]
 }

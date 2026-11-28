@@ -4,17 +4,20 @@
     {
       "link": "https://eddmann.com/posts/taking-mario-kart-64-to-silverstone/",
       "title": "Taking Mario Kart 64 to Silverstone",
-      "description": "I built Silverstone as a Mario Kart 64 course with GPT 6.1 Sol in Codex cloud environments, then used Max Verstappen’s pole lap onboard to shape the scenery, corner by corner."
+      "description": "I built Silverstone as a Mario Kart 64 course with GPT 6.1 Sol in Codex cloud environments, then used Max Verstappen’s pole lap onboard to shape the scenery, corner by corner.",
+      "date": null
     },
     {
       "link": "https://eddmann.com/posts/mario-kart-64-on-my-phone/",
       "title": "Mario Kart 64 on My Phone: Giving the Agent a Test Drive",
-      "description": "I brought Mario Kart 64 to my phone with WebAssembly, lighter textures and Tour-inspired controls, then gave the coding agent a way to test its changes before I played them myself."
+      "description": "I brought Mario Kart 64 to my phone with WebAssembly, lighter textures and Tour-inspired controls, then gave the coding agent a way to test its changes before I played them myself.",
+      "date": null
     },
     {
       "link": "https://eddmann.com/about/",
       "title": "About",
-      "description": "Hey there! I’m Edd 👋🏻, a Lead Software Engineer with 15+ years of experience. I build reliable, evolvable systems in TypeScript, PHP, and Python - leaning on DDD, event sourcing, the AWS Serverless stack (Lambda, CDK, Fargate, EventBridge), and Terraform. Currently building end-to-end systems for the UK railway signalling sector - from ESP32 telemetry firmware over cellular GPRS through to AWS-nat"
+      "description": "Hey there! I’m Edd 👋🏻, a Lead Software Engineer with 15+ years of experience. I build reliable, evolvable systems in TypeScript, PHP, and Python - leaning on DDD, event sourcing, the AWS Serverless stack (Lambda, CDK, Fargate, EventBridge), and Terraform. Currently building end-to-end systems for the UK railway signalling sector - from ESP32 telemetry firmware over cellular GPRS through to AWS-nat",
+      "date": null
     }
   ]
 }

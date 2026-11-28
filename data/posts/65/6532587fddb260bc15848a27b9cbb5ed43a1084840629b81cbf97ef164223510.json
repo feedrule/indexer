@@ -4,17 +4,20 @@
     {
       "link": "https://launchbylunch.com/posts/2026/Jul/29/introducing-pg-java/",
       "title": "Introducing pg-java, a new PostgreSQL driver for the JVM",
-      "description": "A brand new PostgreSQL driver for Java, built PostgreSQL-first with JDBC as a layer on top, written commit-by-commit by an AI in a loop against a very large regression suite."
+      "description": "A brand new PostgreSQL driver for Java, built PostgreSQL-first with JDBC as a layer on top, written commit-by-commit by an AI in a loop against a very large regression suite.",
+      "date": null
     },
     {
       "link": "https://launchbylunch.com/posts/2024/Jan/16/postgres-password-encryption/",
       "title": "Postgres password encryption without leaking credentials",
-      "description": "How to encrypt PostgreSQL passwords for CREATE and ALTER USER commands without leaking credentials in plaintext."
+      "description": "How to encrypt PostgreSQL passwords for CREATE and ALTER USER commands without leaking credentials in plaintext.",
+      "date": null
     },
     {
       "link": "https://launchbylunch.com/posts/2018/Apr/23/ansi-schmansi-postgresconf-2018-slides/",
       "title": "\"ANSI? Schmansi!\" at PostgresConf 2018",
-      "description": "Summary and slides from my talk at PostgresConf 2018"
+      "description": "Summary and slides from my talk at PostgresConf 2018",
+      "date": null
     }
   ]
 }

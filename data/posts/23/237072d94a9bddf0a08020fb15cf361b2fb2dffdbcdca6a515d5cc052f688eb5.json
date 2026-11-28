@@ -4,17 +4,20 @@
     {
       "link": "https://excipio.tech/blog/extending-hugo-with-a-microservice/",
       "title": "Extending Hugo with a microservice",
-      "description": "I love Hugo , and it serves as the basis of both my blogs. It’s quite an incredible static site generator, which gives a ton of flexibility and is very lightweight to run, as on a modern machine, serving static HTML files is pretty much free. But, of course, not everything is perfect. For a while now, I’ve been looking for a way to host a bunch of loose thoughts that I’ve been having. “Create a tw"
+      "description": "I love Hugo , and it serves as the basis of both my blogs. It’s quite an incredible static site generator, which gives a ton of flexibility and is very lightweight to run, as on a modern machine, serving static HTML files is pretty much free. But, of course, not everything is perfect. For a while now, I’ve been looking for a way to host a bunch of loose thoughts that I’ve been having. “Create a tw",
+      "date": null
     },
     {
       "link": "https://excipio.tech/blog/a-bare-metal-monitoring-stack/",
       "title": "A bare metal monitoring stack",
-      "description": "For a while now, I had this growing feeling that something was wrong with my main server. This is where I host most of my public services: a mail server, a bunch of websites behind nginx, PostgreSQL and MariaDB, my git forge, and a few other things. These are all services that I use for myself, which wouldn’t be a problem, but I’ve also started selling some of them to friends, family, and small bu"
+      "description": "For a while now, I had this growing feeling that something was wrong with my main server. This is where I host most of my public services: a mail server, a bunch of websites behind nginx, PostgreSQL and MariaDB, my git forge, and a few other things. These are all services that I use for myself, which wouldn’t be a problem, but I’ve also started selling some of them to friends, family, and small bu",
+      "date": null
     },
     {
       "link": "https://excipio.tech/blog/basic-computer-literacy/",
       "title": "Basic computer literacy",
-      "description": "I was lucky to have been born in the early 90s. I was also lucky that my parents had some disposable income. Even luckier that things like the Raspberry Pi Foundation existed while I was alive and young. I shouldn’t take these things for granted. I lived through the rise of the personal computer, the introduction of internet to the masses, and then high speed internet, then high speed mobile inter"
+      "description": "I was lucky to have been born in the early 90s. I was also lucky that my parents had some disposable income. Even luckier that things like the Raspberry Pi Foundation existed while I was alive and young. I shouldn’t take these things for granted. I lived through the rise of the personal computer, the introduction of internet to the masses, and then high speed internet, then high speed mobile inter",
+      "date": null
     }
   ]
 }

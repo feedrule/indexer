@@ -4,17 +4,20 @@
     {
       "link": "https://blog.sebastianwick.net/posts/systemd-varlinkctl-monitor/",
       "title": "Varlink observability",
-      "description": "A few days ago systemd gained tools which allow you to monitor Varlink traffic. A new Varlink service ( io.systemd.VarlinkMonitor ) allows you to set up a ring buffer which will get filled with packets containing the traffic which matches the filters you provide. This provides the functionality that org.freedesktop.DBus.Monitoring provides for D-Bus. A new varlinkctl monitor verb allows you to use"
+      "description": "A few days ago systemd gained tools which allow you to monitor Varlink traffic. A new Varlink service ( io.systemd.VarlinkMonitor ) allows you to set up a ring buffer which will get filled with packets containing the traffic which matches the filters you provide. This provides the functionality that org.freedesktop.DBus.Monitoring provides for D-Bus. A new varlinkctl monitor verb allows you to use",
+      "date": null
     },
     {
       "link": "https://blog.sebastianwick.net/posts/sta-investment-flatpak/",
       "title": "Announcing Sovereign Tech Agency Investment in Flatpak",
-      "description": "Together with Modal , I’m happy to announce that the Sovereign Tech Agency is investing nearly €510k into Flatpak development. The focus is on closing gaps in Flatpak’s sandboxing story: new portals for audio, networking, VPNs, and spell checking, plus infrastructure work on entitlements and intents. I’ll be leading the technical side alongside Adrian, with organizational support from Kateryna and"
+      "description": "Together with Modal , I’m happy to announce that the Sovereign Tech Agency is investing nearly €510k into Flatpak development. The focus is on closing gaps in Flatpak’s sandboxing story: new portals for audio, networking, VPNs, and spell checking, plus infrastructure work on entitlements and intents. I’ll be leading the technical side alongside Adrian, with organizational support from Kateryna and",
+      "date": null
     },
     {
       "link": "https://blog.sebastianwick.net/posts/display-next-hackfest-2026/",
       "title": "Display Next Hackfest 2026",
-      "description": "This year was the fourth year in a row that a bunch of display driver and compositor developers met for the Display Next Hackfest , to discuss, present, and tackle issues related to displays, GPUs, and compositors. Thanks to Collabora (Robert Mader and Mark Fillion specifically) for continuing this tradition! (Check out the 2025 edition ) This time we met in Nice, France, after Embedded Recipes an"
+      "description": "This year was the fourth year in a row that a bunch of display driver and compositor developers met for the Display Next Hackfest , to discuss, present, and tackle issues related to displays, GPUs, and compositors. Thanks to Collabora (Robert Mader and Mark Fillion specifically) for continuing this tradition! (Check out the 2025 edition ) This time we met in Nice, France, after Embedded Recipes an",
+      "date": null
     }
   ]
 }

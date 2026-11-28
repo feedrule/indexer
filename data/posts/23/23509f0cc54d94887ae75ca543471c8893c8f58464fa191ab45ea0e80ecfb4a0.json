@@ -4,17 +4,20 @@
     {
       "link": "https://koaning.io/posts/widget-dag",
       "title": "widget dag",
-      "description": "A marimo notebook that wires a live Paint canvas, kernels and a slider into a WidgetDAG that convolves a hand-drawn digit."
+      "description": "A marimo notebook that wires a live Paint canvas, kernels and a slider into a WidgetDAG that convolves a hand-drawn digit.",
+      "date": null
     },
     {
       "link": "https://koaning.io/posts/scrape-permissions",
       "title": "scrape permissions",
-      "description": "git-scraping is awesome. It let's you re-use CI as a pattern to scrape data from the internet and store it publicly in your repository."
+      "description": "git-scraping is awesome. It let's you re-use CI as a pattern to scrape data from the internet and store it publicly in your repository.",
+      "date": null
     },
     {
       "link": "https://koaning.io/posts/worthy-of-study",
       "title": "worthy of study",
-      "description": "I was working with an agent to produce a new widget. I gave it a research task, gave it a direction, and when it came back I immediately stopped prompting it further to investigate what it did."
+      "description": "I was working with an agent to produce a new widget. I gave it a research task, gave it a direction, and when it came back I immediately stopped prompting it further to investigate what it did.",
+      "date": null
     }
   ]
 }

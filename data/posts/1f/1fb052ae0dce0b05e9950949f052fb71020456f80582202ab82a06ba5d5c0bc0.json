@@ -4,17 +4,20 @@
     {
       "link": "https://blog.goodman.dev/blog/continuous-conversations-through-conversation-epochs/",
       "title": "Continuous conversations with bounded context",
-      "description": "How a conversation accepts new work and shortens old history without changing the model call already in progress."
+      "description": "How a conversation accepts new work and shortens old history without changing the model call already in progress.",
+      "date": null
     },
     {
       "link": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
       "title": "The octopus architecture for AI agents",
-      "description": "Why TorkBot uses one foreground conversation and sends slower work to semi-autonomous lanes."
+      "description": "Why TorkBot uses one foreground conversation and sends slower work to semi-autonomous lanes.",
+      "date": null
     },
     {
       "link": "https://blog.goodman.dev/blog/building-a-continuous-durable-personal-agent/",
       "title": "Building a continuous, durable personal agent",
-      "description": "How I got nerd sniped by continuous personal agents and started building TorkBot."
+      "description": "How I got nerd sniped by continuous personal agents and started building TorkBot.",
+      "date": null
     }
   ]
 }

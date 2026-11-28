@@ -4,17 +4,20 @@
     {
       "link": "https://zolutal.github.io/two-shot-kernel-shellcode/",
       "title": "Revisiting Two-Shot Kernel Shellcode Execution From Control Flow Hijacking",
-      "description": "One of the inspirations for my work on the System Register Hijacking paper was this blog post by Project Zero written by Andrey Konovalov. In the blog post he describes a method of bypassing SMEP/SMAP by using the native_write_cr4 function of the kernel, which at the time effectively did mov cr4, rdi; ret;. He redirects control flow to native_write_cr4 once to disable SMEP/SMAP then triggers contr"
+      "description": "One of the inspirations for my work on the System Register Hijacking paper was this blog post by Project Zero written by Andrey Konovalov. In the blog post he describes a method of bypassing SMEP/SMAP by using the native_write_cr4 function of the kernel, which at the time effectively did mov cr4, rdi; ret;. He redirects control flow to native_write_cr4 once to disable SMEP/SMAP then triggers contr",
+      "date": null
     },
     {
       "link": "https://zolutal.github.io/securinets-sukunahikona/",
       "title": "Securinets Quals 2025: Sukunahikona (v8 Exploitation)",
-      "description": "I played Securinets Quals this weekend with Shellphish; we ended up placing 7th, qualifying us for finals! When I logged on to play, all of the released pwn was already solved or close to solved by @vy, except for the v8 challenge. Despite having never touched v8 pwn before, I decided to give it a go, and I managed to solve it. This is my writeup for that challenge :)"
+      "description": "I played Securinets Quals this weekend with Shellphish; we ended up placing 7th, qualifying us for finals! When I logged on to play, all of the released pwn was already solved or close to solved by @vy, except for the v8 challenge. Despite having never touched v8 pwn before, I decided to give it a go, and I managed to solve it. This is my writeup for that challenge :)",
+      "date": null
     },
     {
       "link": "https://zolutal.github.io/joys-of-kernel-rop/",
       "title": "The Joys of Linux Kernel ROP Gadget Scanning",
-      "description": "Linux Kernel ROP gadget scanning is one of those things that seems easy in theory – just run ROPgadget --binary vmlinux on it! In practice, however, anyone who has used that method has likely had to sift through a large amount of false positives and likely missed some gadgets due to false negatives. This is a result of a few quirks of Linux kernel images, some of which make solving the false posit"
+      "description": "Linux Kernel ROP gadget scanning is one of those things that seems easy in theory – just run ROPgadget --binary vmlinux on it! In practice, however, anyone who has used that method has likely had to sift through a large amount of false positives and likely missed some gadgets due to false negatives. This is a result of a few quirks of Linux kernel images, some of which make solving the false posit",
+      "date": null
     }
   ]
 }

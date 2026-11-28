@@ -4,17 +4,20 @@
     {
       "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
       "title": "What objective is reasoning solving?",
-      "description": "There’s an intuitive but simplified picture of reasoning: let a model think for longer, and it’ll be more likely to be correct. This aligns well with our human intuition: spend more time and effort on thinking and it’s more likely that we’ll arrive at a correct answer. But this picture doesn’t seem to explain everything. During RL training, models learn to write longer chains of thought, and they"
+      "description": "There’s an intuitive but simplified picture of reasoning: let a model think for longer, and it’ll be more likely to be correct. This aligns well with our human intuition: spend more time and effort on thinking and it’s more likely that we’ll arrive at a correct answer. But this picture doesn’t seem to explain everything. During RL training, models learn to write longer chains of thought, and they",
+      "date": null
     },
     {
       "link": "https://alexwang.ai/posts/associative-memory/",
       "title": "You could have invented transformers from memory",
-      "description": "Large language models today can recall obscure facts from every corner of the world. Most recently, I was running late for a friend’s board game night, so I asked Astra to remind me the rules to Dune: Imperium. It gladly narrated them to me as I drove over and helped me remember the rules well enough for me to play again. We’re so used to asking models about anything that we take their vast knowle"
+      "description": "Large language models today can recall obscure facts from every corner of the world. Most recently, I was running late for a friend’s board game night, so I asked Astra to remind me the rules to Dune: Imperium. It gladly narrated them to me as I drove over and helped me remember the rules well enough for me to play again. We’re so used to asking models about anything that we take their vast knowle",
+      "date": null
     },
     {
       "link": "https://alexwang.ai/posts/derivatives-and-gradients/",
       "title": "Matrix gradients, without the pain",
-      "description": "In this post I want to share a simple trick to make computing gradients and backward passes mechanical, without drowning in indices and ruining your eyesight. To start with, let’s remember how we all first learned to compute gradients. Suppose we have a linear layer $Y = XW$, where $X$ is an $N\\times D$ batch of inputs and $W$ is a $D\\times F$ weight matrix, followed by some scalar loss $L(Y) \\in"
+      "description": "In this post I want to share a simple trick to make computing gradients and backward passes mechanical, without drowning in indices and ruining your eyesight. To start with, let’s remember how we all first learned to compute gradients. Suppose we have a linear layer $Y = XW$, where $X$ is an $N\\times D$ batch of inputs and $W$ is a $D\\times F$ weight matrix, followed by some scalar loss $L(Y) \\in",
+      "date": null
     }
   ]
 }

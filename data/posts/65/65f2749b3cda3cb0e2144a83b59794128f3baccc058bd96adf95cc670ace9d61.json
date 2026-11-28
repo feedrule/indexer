@@ -4,17 +4,20 @@
     {
       "link": "https://adamsimpson.net/writing/another-reason-to-love-nixos",
       "title": "Another reason to love NixOS",
-      "description": "Nix is a great fit for LLMs and humans."
+      "description": "Nix is a great fit for LLMs and humans.",
+      "date": null
     },
     {
       "link": "https://adamsimpson.net/writing/my-typical-shell-nix-file",
       "title": "My typical shell.nix file",
-      "description": "I use nix to manage packages on macOS and on Linux (nixOS). This is for my future self more than anything to document my \"ideal\" `shell.nix` file."
+      "description": "I use nix to manage packages on macOS and on Linux (nixOS). This is for my future self more than anything to document my \"ideal\" `shell.nix` file.",
+      "date": null
     },
     {
       "link": "https://adamsimpson.net/writing/macbook-neo",
       "title": "MacBook Neo",
-      "description": "Any iPad + a keyboard case makes zero sense compared to the Neo."
+      "description": "Any iPad + a keyboard case makes zero sense compared to the Neo.",
+      "date": null
     }
   ]
 }

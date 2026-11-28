@@ -4,17 +4,20 @@
     {
       "link": "https://prakhargurunani.com/blog/building-claude-observability/",
       "title": "Building an Observability Dashboard for a Claude Subscription",
-      "description": "Where does a Claude subscription’s usage actually go? A Claude Max subscription gives you a lot of Claude Code. It does not tell you much about how you used it. /usage shows a percentage of the current window and when it resets. That’s the whole report: no history, no sessions or models, and nothing across machines. API customers get an Admin API with usage and cost reports. Subscribers get nothin"
+      "description": "Where does a Claude subscription’s usage actually go? A Claude Max subscription gives you a lot of Claude Code. It does not tell you much about how you used it. /usage shows a percentage of the current window and when it resets. That’s the whole report: no history, no sessions or models, and nothing across machines. API customers get an Admin API with usage and cost reports. Subscribers get nothin",
+      "date": null
     },
     {
       "link": "https://prakhargurunani.com/blog/building-an-agentic-coding-server-in-go/",
       "title": "Building an Agentic Coding Server in Go",
-      "description": "What if the agent loop lived behind the API instead of in your client? Every coding agent you’ve used — Claude Code, Cursor, Aider — is the same shape underneath. The model asks to read a file. Something reads it. The result goes back. The model asks to edit. Repeat until it stops asking. That loop is where most of the engineering lives, and it almost always lives in a client on your laptop."
+      "description": "What if the agent loop lived behind the API instead of in your client? Every coding agent you’ve used — Claude Code, Cursor, Aider — is the same shape underneath. The model asks to read a file. Something reads it. The result goes back. The model asks to edit. Repeat until it stops asking. That loop is where most of the engineering lives, and it almost always lives in a client on your laptop.",
+      "date": null
     },
     {
       "link": "https://prakhargurunani.com/blog/detecting-spam-emails-using-n8n/",
       "title": "Automated Email Spam Detection Using N8N",
-      "description": "How I Built an AI-Powered Spam Filter That Actually Works I was drowning in spam emails. Every morning, I’d wake up to dozens of “You’ve won a prize!” messages, sketchy invoices, and promotional garbage that somehow slipped past Gmail’s filters. I spent way too much time manually cleaning my inbox, and I knew there had to be a better way. That’s when I decided to build my own AI-powered spam clean"
+      "description": "How I Built an AI-Powered Spam Filter That Actually Works I was drowning in spam emails. Every morning, I’d wake up to dozens of “You’ve won a prize!” messages, sketchy invoices, and promotional garbage that somehow slipped past Gmail’s filters. I spent way too much time manually cleaning my inbox, and I knew there had to be a better way. That’s when I decided to build my own AI-powered spam clean",
+      "date": null
     }
   ]
 }

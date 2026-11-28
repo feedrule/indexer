@@ -4,17 +4,20 @@
     {
       "link": "https://blog.vicentereyes.org/deploying-cookiecutter-django-on-a-digitalocean-droplet-ubuntu-24-04-lts",
       "title": "Deploying Cookiecutter Django on a DigitalOcean Droplet (Ubuntu 24.04 LTS)",
-      "description": "A no-fluff deployment runbook for getting a Cookiecutter Django project live on DigitalOcean using Docker and Traefik."
+      "description": "A no-fluff deployment runbook for getting a Cookiecutter Django project live on DigitalOcean using Docker and Traefik.",
+      "date": null
     },
     {
       "link": "https://blog.vicentereyes.org/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide",
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
-      "description": "If you’re switching between networks with different trust levels—home, café, coworking space—you probably don’t want your VPN behavior to be static. This…"
+      "description": "If you’re switching between networks with different trust levels—home, café, coworking space—you probably don’t want your VPN behavior to be static. This…",
+      "date": null
     },
     {
       "link": "https://blog.vicentereyes.org/hunting-disk-hogs-on-ubuntu-a-shell-script-for-finding-the-largest-files",
       "title": "Hunting Disk Hogs on Ubuntu: A Shell Script for Finding the Largest Files",
-      "description": "If you've ever watched your free disk space quietly shrink over a few weeks of active development, you know the feeling: yesterday you had plenty of…"
+      "description": "If you've ever watched your free disk space quietly shrink over a few weeks of active development, you know the feeling: yesterday you had plenty of…",
+      "date": null
     }
   ]
 }

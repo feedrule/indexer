@@ -4,17 +4,20 @@
     {
       "link": "https://blog.techdecline.dev/when-to-throw-the-party-a-platform-engineering-problem/",
       "title": "When to Throw the Party - A Platform Engineering Problem",
-      "description": "It's obvious that the DevOps movement destroyed the cultural phenomenon of Release Parties, where Engineering and Product finally came together after a stressful season of crunch, blame and broken promises to get drunk together after the first successful yet random build. At the same time the Ops guys shaved an ever-growing herd of yaks to deploy that particular build in production before daylight"
+      "description": "It's obvious that the DevOps movement destroyed the cultural phenomenon of Release Parties, where Engineering and Product finally came together after a stressful season of crunch, blame and broken promises to get drunk together after the first successful yet random build. At the same time the Ops guys shaved an ever-growing herd of yaks to deploy that particular build in production before daylight",
+      "date": null
     },
     {
       "link": "https://blog.techdecline.dev/meeting-guidelines-are-institutional-theater/",
       "title": "Meeting Guidelines are institutional Theater",
-      "description": "Back in 2007 when I started in IT, receiving a meeting invite was a highlight. Somebody took notice of me and, maybe, even considered me valuable in one way or another. Turns out, most invites we receive in the workplace are actually pretty much the contrary. I) Your boss (or/and his boss) will never read nor care for your organization's meeting guidelines. II) In most cases, that's no big deal. S"
+      "description": "Back in 2007 when I started in IT, receiving a meeting invite was a highlight. Somebody took notice of me and, maybe, even considered me valuable in one way or another. Turns out, most invites we receive in the workplace are actually pretty much the contrary. I) Your boss (or/and his boss) will never read nor care for your organization's meeting guidelines. II) In most cases, that's no big deal. S",
+      "date": null
     },
     {
       "link": "https://blog.techdecline.dev/fail-fast-refactor-often-escaping-the-defensive-terraform-trap/",
       "title": "Fail Fast, Refactor Often - Escaping the Defensive Terraform Trap",
-      "description": "Scenario Your Terraform apply just failed. Again. For the third time this week, and you're not even sure why. Was it the Azure DevOps provider timing out? That managed identity that existed yesterday but returns 404 today? Or just one of the 247 API calls in your 40-minute deployment hitting a rate limit? Most cloud platforms rely on multiple services running in integration to deliver value. Those"
+      "description": "Scenario Your Terraform apply just failed. Again. For the third time this week, and you're not even sure why. Was it the Azure DevOps provider timing out? That managed identity that existed yesterday but returns 404 today? Or just one of the 247 API calls in your 40-minute deployment hitting a rate limit? Most cloud platforms rely on multiple services running in integration to deliver value. Those",
+      "date": null
     }
   ]
 }

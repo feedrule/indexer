@@ -4,17 +4,20 @@
     {
       "link": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
       "title": "What reverse engineering and modernising an old war game tells us about the economic impact of the transformer",
-      "description": "Some observations from my [War of the Lance](https://en.wikipedia.org/wiki/War_of_the_Lance_%28video_game%29) (1989) Code Harness assisted modernisation (WIP)"
+      "description": "Some observations from my [War of the Lance](https://en.wikipedia.org/wiki/War_of_the_Lance_%28video_game%29) (1989) Code Harness assisted modernisation (WIP)",
+      "date": null
     },
     {
       "link": "https://this.os.isfine.org/blog/posts/chinese-flash-models-are-the-coup-de-gr-ce-for-us-ai-lab-investor-fantasies/",
       "title": "Chinese Flash models are the Coup de grâce for US AI Lab investor fantasies",
-      "description": "Chinese Flash models are the Coup de grâce for US AI Lab investor fantasies, or ==“Just because something you invented is valuable doesn’t mean you are going to extract the value”=="
+      "description": "Chinese Flash models are the Coup de grâce for US AI Lab investor fantasies, or ==“Just because something you invented is valuable doesn’t mean you are going to extract the value”==",
+      "date": null
     },
     {
       "link": "https://this.os.isfine.org/blog/posts/qwen-3-8-flash-next-is-a-big-deal-and-a-herald-of-things-to-come/",
       "title": "Qwen-3.8-Flash-Next is a big deal and a herald of things to come.",
-      "description": "Flash models are models distilled down from full size models, in this case from Qwen-3.8-Max, a 2.4T model requiring some 8 datacenters GPUs to run. The Flash model instead features 125B parameters, roughly 5% of the original model of which again only 6B are active per token (4%)."
+      "description": "Flash models are models distilled down from full size models, in this case from Qwen-3.8-Max, a 2.4T model requiring some 8 datacenters GPUs to run. The Flash model instead features 125B parameters, roughly 5% of the original model of which again only 6B are active per token (4%).",
+      "date": null
     }
   ]
 }

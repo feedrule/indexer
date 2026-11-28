@@ -4,17 +4,20 @@
     {
       "link": "https://loke.dev/writing/how-i-made-loke-dev-easier-for-ai-agents-to-use",
       "title": "How I made loke.dev easier for AI agents to use",
-      "description": "A practical look at the routes, APIs, DNS, and checks I added so AI agents can find and use loke.dev without guessing."
+      "description": "A practical look at the routes, APIs, DNS, and checks I added so AI agents can find and use loke.dev without guessing.",
+      "date": null
     },
     {
       "link": "https://loke.dev/writing/dont-be-a-meat-proxy",
       "title": "Don't be a meat proxy",
-      "description": "AI can help you investigate, draft, and review. The useful part starts when you turn its output into a short, checked answer you can stand behind."
+      "description": "AI can help you investigate, draft, and review. The useful part starts when you turn its output into a short, checked answer you can stand behind.",
+      "date": null
     },
     {
       "link": "https://loke.dev/writing/fix-slow-nextjs-server-actions-data-fetching",
       "title": "Fix Slow Next.js Server Actions and Data Fetching",
-      "description": "Find why a Next.js App Router page or Server Action feels slow, then fix waterfalls, duplicate queries, uncached fetches, and slow post-action refreshes."
+      "description": "Find why a Next.js App Router page or Server Action feels slow, then fix waterfalls, duplicate queries, uncached fetches, and slow post-action refreshes.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.pipes.digital/blog/12/404",
       "title": "New data blocks and updates to Pipes CE",
-      "description": "Both the version of Pipes running on this server and the FOSS version available on Github have seen a bigger update. New Data block! First, we have some exciting new blocks. The block sidebar in the editor now contains a second tab, with so far four new blocks. Those are aimed at working directly with XML and JSON data, instead of like the existing blocks being built around RSS and Atom. This is a"
+      "description": "Both the version of Pipes running on this server and the FOSS version available on Github have seen a bigger update. New Data block! First, we have some exciting new blocks. The block sidebar in the editor now contains a second tab, with so far four new blocks. Those are aimed at working directly with XML and JSON data, instead of like the existing blocks being built around RSS and Atom. This is a",
+      "date": null
     },
     {
       "link": "https://www.pipes.digital/blog/11/404",
       "title": "Why Pipes has new Timeouts and a new Pricing Plan, Incident Report",
-      "description": "Summary: Among other optimizations, Pipes had to introduce a limit on how long each free pipe can run to keep the server from falling over. A new cheaper paid plan is meant as an option for those needing a longer execution time back and not being covered by an enterprise. The following will describe in detail what happened. The incident On december 23, Pipes went offline. During the last year this"
+      "description": "Summary: Among other optimizations, Pipes had to introduce a limit on how long each free pipe can run to keep the server from falling over. A new cheaper paid plan is meant as an option for those needing a longer execution time back and not being covered by an enterprise. The following will describe in detail what happened. The incident On december 23, Pipes went offline. During the last year this",
+      "date": null
     },
     {
       "link": "https://www.pipes.digital/blog/10/404",
       "title": "Pipes got a new block for Reddit",
-      "description": "Summary: Since Reddit did not work well with our RSS feed block, despite its slow request limit and a new improved detection of 429 responses, Pipes now got a dedicated block to access subreddit feeds. That new block uses an rss-bridge instance to solve the problem. As far as social media sites go Reddit is one of the accessible ones. Not only is the activity on the site visible without an account"
+      "description": "Summary: Since Reddit did not work well with our RSS feed block, despite its slow request limit and a new improved detection of 429 responses, Pipes now got a dedicated block to access subreddit feeds. That new block uses an rss-bridge instance to solve the problem. As far as social media sites go Reddit is one of the accessible ones. Not only is the activity on the site visible without an account",
+      "date": null
     }
   ]
 }

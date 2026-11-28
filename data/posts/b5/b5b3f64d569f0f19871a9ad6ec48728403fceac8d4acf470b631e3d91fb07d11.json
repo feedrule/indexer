@@ -4,7 +4,8 @@
     {
       "link": "https://warrenparad.net/articles/exceeding-the-aws-rate-limiting-cloudfront-usage-plans",
       "title": "Making rate limiting in AWS less terrible",
-      "description": "APIGW Usage Plans won't get you the per-user rate limiting you need. And using a WAF is an incomplete solution. But rolling your own is of course fraught with the usual challenges."
+      "description": "APIGW Usage Plans won't get you the per-user rate limiting you need. And using a WAF is an incomplete solution. But rolling your own is of course fraught with the usual challenges.",
+      "date": null
     }
   ]
 }

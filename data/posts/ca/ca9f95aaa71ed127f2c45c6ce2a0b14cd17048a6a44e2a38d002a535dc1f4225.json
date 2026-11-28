@@ -4,17 +4,20 @@
     {
       "link": "https://vorushin.github.io/blog/research-engineers-ai-labs",
       "title": "Research Engineers in AI labs",
-      "description": "I often get asked what kind of work research engineers in AI labs like Google DeepMind do. Mostly in the context of software engineers considering getting a job in one of the frontier/neo AI labs. System engineering Designing, writing, maintaining systems running on a classical stack: RPC servers, data storages, queues, caching. Storing/updating/serving training and eval data. Storing and querying"
+      "description": "I often get asked what kind of work research engineers in AI labs like Google DeepMind do. Mostly in the context of software engineers considering getting a job in one of the frontier/neo AI labs. System engineering Designing, writing, maintaining systems running on a classical stack: RPC servers, data storages, queues, caching. Storing/updating/serving training and eval data. Storing and querying",
+      "date": null
     },
     {
       "link": "https://vorushin.github.io/blog/best-explanations-llms",
       "title": "Best explanations of how LLMs work",
-      "description": "I maintain a set of best explanations1 of how LLMs train and work. “LLMs” here is a broad term for the frontier models that create value in 2026. They have more components than just a language model, but powerful language models are their necessary core. Universal explainers Considering: humans are universal explainers (Deutsch) - they use creativity to explain the world. Conjecture: LLMs are univ"
+      "description": "I maintain a set of best explanations1 of how LLMs train and work. “LLMs” here is a broad term for the frontier models that create value in 2026. They have more components than just a language model, but powerful language models are their necessary core. Universal explainers Considering: humans are universal explainers (Deutsch) - they use creativity to explain the world. Conjecture: LLMs are univ",
+      "date": null
     },
     {
       "link": "https://vorushin.github.io/blog/intro",
       "title": "About me",
-      "description": "My name is Roman Vorushin. I am a Research Engineer at Google DeepMind, working on Gemini. I fell in love with ML and AI back in 2011, thanks to the legendary MOOCs ai-class.org (Peter Norvig, Sebastian Thrun) and ml-class.org (Andrew Ng). Before Google I was an early Grammarly employee, had my own startup, and worked in Kazkommertsbank. Here is my resume. I used to have a technical blog in Russia"
+      "description": "My name is Roman Vorushin. I am a Research Engineer at Google DeepMind, working on Gemini. I fell in love with ML and AI back in 2011, thanks to the legendary MOOCs ai-class.org (Peter Norvig, Sebastian Thrun) and ml-class.org (Andrew Ng). Before Google I was an early Grammarly employee, had my own startup, and worked in Kazkommertsbank. Here is my resume. I used to have a technical blog in Russia",
+      "date": null
     }
   ]
 }

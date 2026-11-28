@@ -4,17 +4,20 @@
     {
       "link": "https://gziolo.pl/2026/08/05/the-abilities-api-in-wordpress-7-1-lifecycle-schemas-and-discovery/",
       "title": "The Abilities API in WordPress 7.1: Lifecycle, Schemas, and Discovery",
-      "description": "The Abilities API gives WordPress plugins a common language for describing and executing units of functionality. An ability has a stable name, human-readable metadata, input and output contracts, a permission check, and an execution callback. Other PHP code can discover it without knowing which plugin registered it, while REST, WP-CLI, JavaScript, MCP, and AI integrations […]"
+      "description": "The Abilities API gives WordPress plugins a common language for describing and executing units of functionality. An ability has a stable name, human-readable metadata, input and output contracts, a permission check, and an execution callback. Other PHP code can discover it without knowing which plugin registered it, while REST, WP-CLI, JavaScript, MCP, and AI integrations […]",
+      "date": null
     },
     {
       "link": "https://gziolo.pl/2026/05/30/research-workspace-boundary-agent-memory/",
       "title": "Research: The Workspace Boundary for Agent Memory",
-      "description": "A clear pattern is emerging in how major AI and workspace platforms handle long-term agent memory. The core idea is simple: store memory in the smallest durable workspace that users already recognize, such as a project, repository, document, workspace, namespace, or site. Then, rely on the platform’s existing permission system to decide who can access […]"
+      "description": "A clear pattern is emerging in how major AI and workspace platforms handle long-term agent memory. The core idea is simple: store memory in the smallest durable workspace that users already recognize, such as a project, repository, document, workspace, namespace, or site. Then, rely on the platform’s existing permission system to decide who can access […]",
+      "date": null
     },
     {
       "link": "https://gziolo.pl/2026/05/19/memory-in-wordpress-core-building-on-guidelines/",
       "title": "Memory in WordPress Core: Building on Guidelines",
-      "description": "When I wrote about WordPress Core AI 7.1 planning a few weeks ago, I called Guidelines my top personal priority and mentioned memories and skills as future primitives this work would unlock. This post explains what I mean by memory in this context, why I think it belongs in core rather than in a plugin, […]"
+      "description": "When I wrote about WordPress Core AI 7.1 planning a few weeks ago, I called Guidelines my top personal priority and mentioned memories and skills as future primitives this work would unlock. This post explains what I mean by memory in this context, why I think it belongs in core rather than in a plugin, […]",
+      "date": null
     }
   ]
 }

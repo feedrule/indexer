@@ -4,17 +4,20 @@
     {
       "link": "https://wpewebkit.org/security/WSA-2026-0007.html",
       "title": "WebKitGTK and WPE WebKit Security Advisory WSA-2026-0007",
-      "description": "Date Reported: November 18, 2026 Advisory ID: WSA-2026-0007 CVE identifiers: CVE-2026-112599 , CVE-2026-112615 , CVE-2026-112623 , CVE-2026-112626 , CVE-2026-112637 , CVE-2026-112639 , CVE-2026-112640 , CVE-2026-112651 , CVE-2026-112653 , CVE-2026-112654 , CVE-2026-112655 , CVE-2026-112666 , CVE-2026-112673 , CVE-2026-112684 , CVE-2026-112686 , CVE-2026-112693 , CVE-2026-112695 , CVE-2026-113897 ,"
+      "description": "Date Reported: November 18, 2026 Advisory ID: WSA-2026-0007 CVE identifiers: CVE-2026-112599 , CVE-2026-112615 , CVE-2026-112623 , CVE-2026-112626 , CVE-2026-112637 , CVE-2026-112639 , CVE-2026-112640 , CVE-2026-112651 , CVE-2026-112653 , CVE-2026-112654 , CVE-2026-112655 , CVE-2026-112666 , CVE-2026-112673 , CVE-2026-112684 , CVE-2026-112686 , CVE-2026-112693 , CVE-2026-112695 , CVE-2026-113897 ,",
+      "date": null
     },
     {
       "link": "https://wpewebkit.org/release/wpewebkit-2.54.3.html",
       "title": "WPE WebKit 2.54.3 released",
-      "description": "This is a bug fix release in the stable 2.54 series. What’s new in WPE WebKit 2.54.3? Add User-Agent quirk for XBox Play. Add support for WebXR static layers. Add support for WebXR layer deletion. Support pressure-sensitive reporting for gamepad buttons. Reduce video format conversions when using the DMA-BUF video sink. Improve WebAudio graph rendering performance. Improve Web content process star"
+      "description": "This is a bug fix release in the stable 2.54 series. What’s new in WPE WebKit 2.54.3? Add User-Agent quirk for XBox Play. Add support for WebXR static layers. Add support for WebXR layer deletion. Support pressure-sensitive reporting for gamepad buttons. Reduce video format conversions when using the DMA-BUF video sink. Improve WebAudio graph rendering performance. Improve Web content process star",
+      "date": null
     },
     {
       "link": "https://wpewebkit.org/release/wpewebkit-2.54.2.html",
       "title": "WPE WebKit 2.54.2 released",
-      "description": "This is a bug fix release in the stable 2.54 series. What’s new in WPE WebKit 2.54.2? Fix performance when compositing layers with backdrop filters. Fix pre-warmed web process leak when they are rejected due to sandboxing. Release suspended pages and idle processes on memory pressure. Bind /dev/dxg in the Bubblewrap sandbox. Notify input method about cursor area or surrounding text after a re-focu"
+      "description": "This is a bug fix release in the stable 2.54 series. What’s new in WPE WebKit 2.54.2? Fix performance when compositing layers with backdrop filters. Fix pre-warmed web process leak when they are rejected due to sandboxing. Release suspended pages and idle processes on memory pressure. Bind /dev/dxg in the Bubblewrap sandbox. Notify input method about cursor area or surrounding text after a re-focu",
+      "date": null
     }
   ]
 }

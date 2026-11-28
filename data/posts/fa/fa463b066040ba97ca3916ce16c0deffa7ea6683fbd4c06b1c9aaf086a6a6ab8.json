@@ -4,17 +4,20 @@
     {
       "link": "https://wljs.io/blog/shaders-1",
       "title": "24K Gold, Lavender Pearls, and inked custom materials in your 3D plots",
-      "description": "Blender, ZBrush, SculptGL, or other programs are the way to go if you want to create sophisticated 3D figures for a presentation, paper, or blog post. However, if you already generate your shapes programmatically or derive them from external data sources, it is convenient to render them using the same set of tools."
+      "description": "Blender, ZBrush, SculptGL, or other programs are the way to go if you want to create sophisticated 3D figures for a presentation, paper, or blog post. However, if you already generate your shapes programmatically or derive them from external data sources, it is convenient to render them using the same set of tools.",
+      "date": null
     },
     {
       "link": "https://wljs.io/blog/pong",
       "title": "Coding Pong from Scratch ● Live Stream Transcription",
-      "description": "A hands-on guide to building the classic Pong game in Wolfram Language. Originally recorded as a live session on October 29, it was later adapted into this blog post. It covers ball physics, Verlet integration, collisions, paddle controls, sound effects, scoring, momentum transfer, and a CPU opponent."
+      "description": "A hands-on guide to building the classic Pong game in Wolfram Language. Originally recorded as a live session on October 29, it was later adapted into this blog post. It covers ball physics, Verlet integration, collisions, paddle controls, sound effects, scoring, momentum transfer, and a CPU opponent.",
+      "date": null
     },
     {
       "link": "https://wljs.io/blog/scan-1",
       "title": "From a Photo to a Scanned Document",
-      "description": "Let’s make something practical. You have a bunch of document photos, and you want to make them look like scans - ideally in a batch. Why use online services when your fellow Wolfram/WLJS can do the job?"
+      "description": "Let’s make something practical. You have a bunch of document photos, and you want to make them look like scans - ideally in a batch. Why use online services when your fellow Wolfram/WLJS can do the job?",
+      "date": null
     }
   ]
 }

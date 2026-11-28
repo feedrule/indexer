@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": null,
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": null,
       "title": "Grokking DelBrag: Out-of-Band On-Chain Fraud Proofs through Circuit Garbling @ Bitcoin++ Austin",
-      "description": "My talk at Bitcoin++ on how DelBrag protocols work, including detailed schematics and timing analysis. Also introduces new concepts of optimistic circuit consistency checks. Get the Slides Here"
+      "description": "My talk at Bitcoin++ on how DelBrag protocols work, including detailed schematics and timing analysis. Also introduces new concepts of optimistic circuit consistency checks. Get the Slides Here",
+      "date": null
     },
     {
       "link": null,
       "title": "Delbrag",
-      "description": "Delbrag is a paper explaining how garbled circuits can be applied to make BitVM style constructs fraud proofs substantially more efficient, at the cost of increased out-of-band information exchange. Delbrag was originally authored in November, 2024, but wasn’t published sooner as the author procrastinated. Read the full paper."
+      "description": "Delbrag is a paper explaining how garbled circuits can be applied to make BitVM style constructs fraud proofs substantially more efficient, at the cost of increased out-of-band information exchange. Delbrag was originally authored in November, 2024, but wasn’t published sooner as the author procrastinated. Read the full paper.",
+      "date": null
     }
   ]
 }

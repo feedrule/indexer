@@ -4,17 +4,20 @@
     {
       "link": "https://shopify.engineering/secure-agentic-apps",
       "title": "Building secure mobile apps in the agentic era",
-      "description": "How we scale our security with attack surface maps, focused AI reviews, and checks that improve with every vulnerability fixed."
+      "description": "How we scale our security with attack surface maps, focused AI reviews, and checks that improve with every vulnerability fixed.",
+      "date": null
     },
     {
       "link": "https://shopify.engineering/cyber-chaos-monkey",
       "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents",
-      "description": "How we pair AI agents with our knowledge of Shopify’s systems to safely attack our production infrastructure, find bugs, and reduce risks."
+      "description": "How we pair AI agents with our knowledge of Shopify’s systems to safely attack our production infrastructure, find bugs, and reduce risks.",
+      "date": null
     },
     {
       "link": "https://shopify.engineering/generative-discovery",
       "title": "Shopify’s generative discovery model",
-      "description": "How we train and serve a shared generative model for personalized search and recommendation at Shopify scale."
+      "description": "How we train and serve a shared generative model for personalized search and recommendation at Shopify scale.",
+      "date": null
     }
   ]
 }

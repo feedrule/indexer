@@ -4,12 +4,14 @@
     {
       "link": "https://hkalbasi.github.io/blog/cpp-rust-interop/",
       "title": "Interop",
-      "description": "Why doing C/C++/Rust interop at all? C and C++ are not memory safe. You can do one-shot rewrites (probably with an LLM) but in many cases, it is not feasible without sacrificing quality (will expand it later ), so we need incremental rewrites, or in some cases not rewriting some parts of code at all. So C/C++ code needs to interop with the Rust code. Not all C/C++/Rust interop users are equal Diff"
+      "description": "Why doing C/C++/Rust interop at all? C and C++ are not memory safe. You can do one-shot rewrites (probably with an LLM) but in many cases, it is not feasible without sacrificing quality (will expand it later ), so we need incremental rewrites, or in some cases not rewriting some parts of code at all. So C/C++ code needs to interop with the Rust code. Not all C/C++/Rust interop users are equal Diff",
+      "date": null
     },
     {
       "link": "https://hkalbasi.github.io/blog/hello-world/",
       "title": "Hello, world",
-      "description": "This blog is built with Zola and deployed to GitHub Pages with GitHub Actions. More posts soon."
+      "description": "This blog is built with Zola and deployed to GitHub Pages with GitHub Actions. More posts soon.",
+      "date": null
     }
   ]
 }

@@ -4,12 +4,14 @@
     {
       "link": "https://maccarita.com/posts/idesaster2/",
       "title": "IDEsaster 2.0: Language Servers as an Attack Surface",
-      "description": "If you haven’t the first time, you should definitely follow me on X or connect on LinkedIn (or both) Summary In December 2025, I published IDEsaster which introduced a novel vulnerability class affecting AI Integrated Development Environments (IDEs): chaining prompt injection through auto-approved agent tools into base IDE features (settings files, multi-root workspaces, remote JSON schemas) to ac"
+      "description": "If you haven’t the first time, you should definitely follow me on X or connect on LinkedIn (or both) Summary In December 2025, I published IDEsaster which introduced a novel vulnerability class affecting AI Integrated Development Environments (IDEs): chaining prompt injection through auto-approved agent tools into base IDE features (settings files, multi-root workspaces, remote JSON schemas) to ac",
+      "date": null
     },
     {
       "link": "https://maccarita.com/posts/idesaster/",
       "title": "IDEsaster: A Novel Vulnerability Class in AI IDEs",
-      "description": "Don’t want to miss my next post? Follow me on X or connect on LinkedIn Summary We all know AI reshaped how we build software. Autocomplete evolved into AI agents that can autonomously act on behalf of the user. As vendors compete on “productivity” they add additional capabilities that significantly affect the security posture of their products. Around 6 months ago, I decided to dig into the world"
+      "description": "Don’t want to miss my next post? Follow me on X or connect on LinkedIn Summary We all know AI reshaped how we build software. Autocomplete evolved into AI agents that can autonomously act on behalf of the user. As vendors compete on “productivity” they add additional capabilities that significantly affect the security posture of their products. Around 6 months ago, I decided to dig into the world",
+      "date": null
     }
   ]
 }

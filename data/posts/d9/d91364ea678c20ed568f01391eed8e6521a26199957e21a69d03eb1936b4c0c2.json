@@ -4,17 +4,20 @@
     {
       "link": "https://0xbaas.com/posts/airflow-secrets-masking/",
       "title": "The private key Apache Airflow didn't hide",
-      "description": "How I discovered CVE-2026-111452 in Apache Airflow: a secrets-masking bug that could expose private keys, database passwords and webhook tokens."
+      "description": "How I discovered CVE-2026-111452 in Apache Airflow: a secrets-masking bug that could expose private keys, database passwords and webhook tokens.",
+      "date": null
     },
     {
       "link": "https://0xbaas.com/posts/bulletproof-azure-storage-account/",
       "title": "How to Make Your Azure Storage Accounts Bulletproof",
-      "description": "During an Azure security assessment, I anonymously accessed approximately 1.4 million items in an Azure Storage Account containing almost 170 GB of exposed data, without using a single credential or leaving a trace in the customer’s data-plane logs. In this blog, I explain how this happened and provide a practical guide to making your own Storage Accounts bulletproof. 1 of the 20 Storage Accou..."
+      "description": "During an Azure security assessment, I anonymously accessed approximately 1.4 million items in an Azure Storage Account containing almost 170 GB of exposed data, without using a single credential or leaving a trace in the customer’s data-plane logs. In this blog, I explain how this happened and provide a practical guide to making your own Storage Accounts bulletproof. 1 of the 20 Storage Accou...",
+      "date": null
     },
     {
       "link": "https://0xbaas.com/posts/osep-vs-cape/",
       "title": "OSEP vs HTB CAPE: My honest take after passing both",
-      "description": "After passing HTB CAPE and OSEP, I compare the pros and cons of each certification and which one you should choose depending on your goals."
+      "description": "After passing HTB CAPE and OSEP, I compare the pros and cons of each certification and which one you should choose depending on your goals.",
+      "date": null
     }
   ]
 }

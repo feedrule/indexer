@@ -4,17 +4,20 @@
     {
       "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
       "title": "Bend 2 and the Vibe-Coding Trap",
-      "description": "Bend just serves as a useful example of my general point regarding vibe-coding as it is recent, high-profile, and has aspects that make it easy to use as an example. I don’t know anything about the author’s history with designing languages or if they actually did consider the tradeoffs below and made what I think is a poor choice. Feel free to replace “the author” below with “a hypothetical author"
+      "description": "Bend just serves as a useful example of my general point regarding vibe-coding as it is recent, high-profile, and has aspects that make it easy to use as an example. I don’t know anything about the author’s history with designing languages or if they actually did consider the tradeoffs below and made what I think is a poor choice. Feel free to replace “the author” below with “a hypothetical author",
+      "date": null
     },
     {
       "link": "https://blog.liampwll.com/posts/firefox_password_security/",
       "title": "Firefox's password \"security\" is mind-numbingly stupid",
-      "description": "Let me start with a deliberately simplified description of how Firefox protects your saved passwords. It stores them in your Firefox profile, in plain text. If someone gets read-only access to the right files in that profile, they can take your saved passwords with them. They don’t need to modify Firefox. They don’t need administrator access to the machine. They don’t need to exploit a memory-corr"
+      "description": "Let me start with a deliberately simplified description of how Firefox protects your saved passwords. It stores them in your Firefox profile, in plain text. If someone gets read-only access to the right files in that profile, they can take your saved passwords with them. They don’t need to modify Firefox. They don’t need administrator access to the machine. They don’t need to exploit a memory-corr",
+      "date": null
     },
     {
       "link": "https://blog.liampwll.com/posts/ada_record_representation_protocols/",
       "title": "Better Communication Protocols with Ada's Record Representation Clauses",
-      "description": "Efficient data transmission to microcontrollers often requires making a choice between simple code and extra overhead. Common serialization libraries such as Nanopb keep code simple but impose processing and memory costs to deserialise data in to language-native types, while manual binary packing introduces extra complexity and risks of errors. Ada provides a mechanism called representation clause"
+      "description": "Efficient data transmission to microcontrollers often requires making a choice between simple code and extra overhead. Common serialization libraries such as Nanopb keep code simple but impose processing and memory costs to deserialise data in to language-native types, while manual binary packing introduces extra complexity and risks of errors. Ada provides a mechanism called representation clause",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://rsx11.blogspot.com/2026/02/tracing-execution-of-program-without.html",
       "title": "Tracing execution of a program without sources on RSX11M-Plus",
-      "description": "Recently, a colleague, Mark Matlock, has been working to correct some issues in a program that runs under RSX11M-Plus. No sources are avai lable for that program, which presents some challenges. If this was being done under VAX/VMS , it would be trivial. There, you can RUN/DEBUG any program, whether it was linked /DEBUG or not. and get control of it, set breakpoints, examine data and instructions,"
+      "description": "Recently, a colleague, Mark Matlock, has been working to correct some issues in a program that runs under RSX11M-Plus. No sources are avai lable for that program, which presents some challenges. If this was being done under VAX/VMS , it would be trivial. There, you can RUN/DEBUG any program, whether it was linked /DEBUG or not. and get control of it, set breakpoints, examine data and instructions,",
+      "date": null
     },
     {
       "link": "https://rsx11.blogspot.com/2026/10/field-maintenance-print-set-for-pdt.html",
       "title": "FIeld Maintenance Print Set for the PDT-11/150",
-      "description": "Not much to say on this one. I've wanted the drawings for the PDT-11/150 for a long time, to make troubleshooting and modifications easier. I saw a set for sale on Ebay recently, but the price was...high. Thanks to contributions by VCF users Pbirkel, The Physicist, SMJ, and czunit I was able to buy the set and get it scanned in. Thank to you four again for helping me make this available to the PDT"
+      "description": "Not much to say on this one. I've wanted the drawings for the PDT-11/150 for a long time, to make troubleshooting and modifications easier. I saw a set for sale on Ebay recently, but the price was...high. Thanks to contributions by VCF users Pbirkel, The Physicist, SMJ, and czunit I was able to buy the set and get it scanned in. Thank to you four again for helping me make this available to the PDT",
+      "date": null
     },
     {
       "link": "https://rsx11.blogspot.com/2026/07/multiuser-multinode-chat-program-for.html",
       "title": "Multiuser, multinode \"chat\" program for RSX11 and DECnet",
-      "description": "So, I have a node on HECnet, named NICHTS. HECnet is a world wide DECnet network, made possible and managed by Johnny Billquist. I connected my PiDP-11/70 to it and it's been handy for sharing files with other DEC enthusuaists. I'd like to see it take more advantage of being connected to HECnet, rather than just sharing files. I used to write lots of what I'll call, for want of a better term, clie"
+      "description": "So, I have a node on HECnet, named NICHTS. HECnet is a world wide DECnet network, made possible and managed by Johnny Billquist. I connected my PiDP-11/70 to it and it's been handy for sharing files with other DEC enthusuaists. I'd like to see it take more advantage of being connected to HECnet, rather than just sharing files. I used to write lots of what I'll call, for want of a better term, clie",
+      "date": null
     }
   ]
 }

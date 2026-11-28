@@ -4,17 +4,20 @@
     {
       "link": "https://medium.com/@addyosmani/practical-loop-engineering-ef207454e523?source=rss-2508e4c7a8ec------2",
       "title": "Practical Loop Engineering",
-      "description": "Goals, loops, and the discipline of not delegating your judgment The way that I typically work is I have anywhere between five and ten agents working at the same time in parallel. There are going to be some tasks that I’m very happy to delegate fully to agents, as long as I have a very clear idea of the stopping conditions and the constraints around them. And then there are going to be some tasks"
+      "description": "Goals, loops, and the discipline of not delegating your judgment The way that I typically work is I have anywhere between five and ten agents working at the same time in parallel. There are going to be some tasks that I’m very happy to delegate fully to agents, as long as I have a very clear idea of the stopping conditions and the constraints around them. And then there are going to be some tasks",
+      "date": null
     },
     {
       "link": "https://medium.com/@addyosmani/stop-using-init-for-agents-md-3086a333f380?source=rss-2508e4c7a8ec------2",
       "title": "Stop Using /init for AGENTS.md",
-      "description": "TL;DR: A good mental model is to treat AGENTS.md as a living list of codebase smells you haven’t fixed yet, not a permanent configuration. Auto-generated AGENTS.md files hurt agent performance and inflate costs by 20%+ because they duplicate what agents can already discover. Human-written files help only when they contain non-discoverable information — tooling gotchas, non-obvious conventions, lan"
+      "description": "TL;DR: A good mental model is to treat AGENTS.md as a living list of codebase smells you haven’t fixed yet, not a permanent configuration. Auto-generated AGENTS.md files hurt agent performance and inflate costs by 20%+ because they duplicate what agents can already discover. Human-written files help only when they contain non-discoverable information — tooling gotchas, non-obvious conventions, lan",
+      "date": null
     },
     {
       "link": "https://medium.com/@addyosmani/comprehension-debt-the-hidden-cost-of-ai-generated-code-285a25dac57e?source=rss-2508e4c7a8ec------2",
       "title": "Comprehension Debt — the hidden cost of AI generated code.",
-      "description": "Comprehension debt is the hidden cost to human intelligence and memory resulting from excessive reliance on AI and automation. For engineers, it applies most to agentic engineering. There’s a cost that doesn’t show up in your velocity metrics when teams go deep on AI coding tools. Especially when its tedious to review all the code the AI generates. This cost accumulates steadily, and eventually it"
+      "description": "Comprehension debt is the hidden cost to human intelligence and memory resulting from excessive reliance on AI and automation. For engineers, it applies most to agentic engineering. There’s a cost that doesn’t show up in your velocity metrics when teams go deep on AI coding tools. Especially when its tedious to review all the code the AI generates. This cost accumulates steadily, and eventually it",
+      "date": null
     }
   ]
 }

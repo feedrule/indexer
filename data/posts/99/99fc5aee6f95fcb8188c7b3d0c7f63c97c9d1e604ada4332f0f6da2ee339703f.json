@@ -4,17 +4,20 @@
     {
       "link": "https://ldomaradzki.com/blog/3d-printing-real-objects-with-swift",
       "title": "3D Printing Real Objects with Swift",
-      "description": "I started describing broken things around my apartment to an AI agent, letting it write the parametric Swift, and printing the result. My house has a git history now."
+      "description": "I started describing broken things around my apartment to an AI agent, letting it write the parametric Swift, and printing the result. My house has a git history now.",
+      "date": null
     },
     {
       "link": "https://ldomaradzki.com/blog/xctree-accessibility-cli",
       "title": "iOS Accessibility Inspector in Your Terminal",
-      "description": "A command-line tool that extracts the accessibility tree from iOS Simulator apps, making it easier to check WCAG compliance and enabling coding agents to understand your UI structure."
+      "description": "A command-line tool that extracts the accessibility tree from iOS Simulator apps, making it easier to check WCAG compliance and enabling coding agents to understand your UI structure.",
+      "date": null
     },
     {
       "link": "https://ldomaradzki.com/blog/swift-containers-aws-vapor-blog",
       "title": "Swift, Containers, and AWS: Building a Personal Website and Blog with Vapor",
-      "description": "Building a simple blog with enterprise-scale tools is like using a Formula 1 car for grocery shopping. Excessive? Absolutely. Worth it for the learning experience? Every single line of code."
+      "description": "Building a simple blog with enterprise-scale tools is like using a Formula 1 car for grocery shopping. Excessive? Absolutely. Worth it for the learning experience? Every single line of code.",
+      "date": null
     }
   ]
 }

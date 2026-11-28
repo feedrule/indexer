@@ -4,17 +4,20 @@
     {
       "link": "https://serebrov.github.io/html/2026-11-15-turtle-animations.html",
       "title": "Turtle Graphics Animations",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://serebrov.github.io/html/2026-11-14-agents-communication.html",
       "title": "Some ways for multiple agents to communicate",
-      "description": "Some ways for multiple agents to communicate when working on the same project."
+      "description": "Some ways for multiple agents to communicate when working on the same project.",
+      "date": null
     },
     {
       "link": "https://serebrov.github.io/html/2026-11-14-emacs-and-claude-code.html",
       "title": "Different ways to integrate Claude Code in Emacs",
-      "description": "agent-shell? gptel? claude-code-ide? let's see..."
+      "description": "agent-shell? gptel? claude-code-ide? let's see...",
+      "date": null
     }
   ]
 }

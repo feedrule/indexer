@@ -4,17 +4,20 @@
     {
       "link": "https://djellalmohamedaniss.github.io/posts/wazn-2b-release/",
       "title": "Introducing Wazn-2B: weighing hundreds of runtime labels without generating a token",
-      "description": "A Jev-like decision model with relational scoring, a NONE gate, invariance post-training, and scalable tournament inference."
+      "description": "A Jev-like decision model with relational scoring, a NONE gate, invariance post-training, and scalable tournament inference.",
+      "date": null
     },
     {
       "link": "https://djellalmohamedaniss.github.io/posts/100-random-chors-how-many-intersections/",
       "title": "Finding the number of intersections between 100 random chords on a circle",
-      "description": "A solution for the 3blue1brown's june 2026 puzzle"
+      "description": "A solution for the 3blue1brown's june 2026 puzzle",
+      "date": null
     },
     {
       "link": "https://djellalmohamedaniss.github.io/posts/stop-using-embeddings-for-everything-in-rag/",
       "title": "Stop Using Embeddings for Everything in RAG",
-      "description": "Why deterministic query translation should often come before embeddings in enterprise RAG systems, and how to combine both in a hybrid approach."
+      "description": "Why deterministic query translation should often come before embeddings in enterprise RAG systems, and how to combine both in a hybrid approach.",
+      "date": null
     }
   ]
 }

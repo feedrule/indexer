@@ -4,17 +4,20 @@
     {
       "link": "https://tr3s.ma/posts/2026-10/hot-updates/",
       "title": "A PostgreSQL Hot Update study on small tables. Fillfactor and Hash Partitioning Strategies.",
-      "description": "Can reserving more space for updates make a small, frequently updated PostgreSQL table faster? I compared the default schema, a lower fillfactor, and hash partitioning on a table of approximately 500 MB. The workload focused on updates, with particular interest in heap-only tuple (HOT) updates. My initial expectation was that leaving more room on each heap page would encourage HOT updates and impr"
+      "description": "Can reserving more space for updates make a small, frequently updated PostgreSQL table faster? I compared the default schema, a lower fillfactor, and hash partitioning on a table of approximately 500 MB. The workload focused on updates, with particular interest in heap-only tuple (HOT) updates. My initial expectation was that leaving more room on each heap page would encourage HOT updates and impr",
+      "date": null
     },
     {
       "link": "https://tr3s.ma/contact/",
       "title": "Contact",
-      "description": "Your email: Reason for contacting: Select a reason... Service Request Offering Services General contact Message: Send"
+      "description": "Your email: Reason for contacting: Select a reason... Service Request Offering Services General contact Message: Send",
+      "date": null
     },
     {
       "link": "https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/",
       "title": "Upgrading Postgres Major, and Django model with Logical Replication.",
-      "description": "The story A customer needed to upgrade their Aurora RDS Postgres from v13 to v16 due to v13’s EOL . This is a common requirement, and so far, a straightforward process. The complexity arose when they needed to upgrade their application model, which was taking a long time to run due that most of the tables required a full rewrite. The Django migration was taking several hours to run, which made a b"
+      "description": "The story A customer needed to upgrade their Aurora RDS Postgres from v13 to v16 due to v13’s EOL . This is a common requirement, and so far, a straightforward process. The complexity arose when they needed to upgrade their application model, which was taking a long time to run due that most of the tables required a full rewrite. The Django migration was taking several hours to run, which made a b",
+      "date": null
     }
   ]
 }

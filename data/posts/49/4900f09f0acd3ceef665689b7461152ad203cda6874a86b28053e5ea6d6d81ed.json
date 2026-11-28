@@ -4,12 +4,14 @@
     {
       "link": "http://localhost:3000/posts/a-critique-of-gpui",
       "title": "A Critique of GPUI",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "http://localhost:3000/posts/the-ui-is-a-function-you-cannot-afford-to-call",
       "title": "UI Is a Function You Cannot Afford to Call",
-      "description": "From Sketchpad to self-adjusting computation: a model of what UI frameworks retain, invalidate, recompute, and preserve after an edit."
+      "description": "From Sketchpad to self-adjusting computation: a model of what UI frameworks retain, invalidate, recompute, and preserve after an edit.",
+      "date": null
     }
   ]
 }

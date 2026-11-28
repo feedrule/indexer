@@ -4,17 +4,20 @@
     {
       "link": "https://blog.rectalogic.com/2026/02/projects.html",
       "title": "Projects",
-      "description": "Side projects I’ve been working on over the past couple of years in somewhat reverse chronological order. 2024/04-present Asbury Park happy hours Static website listing happy hours in Asbury Park, NJ. Used to be jekyll, rewrote in Rust using minininja . The “database” is a RON file. 2026/02 ntsc frei0r video filter plugin that uses ntsc.rs to emulate analog TV and VHS artifacts. 2026/01-2026/02 cy"
+      "description": "Side projects I’ve been working on over the past couple of years in somewhat reverse chronological order. 2024/04-present Asbury Park happy hours Static website listing happy hours in Asbury Park, NJ. Used to be jekyll, rewrote in Rust using minininja . The “database” is a RON file. 2026/02 ntsc frei0r video filter plugin that uses ntsc.rs to emulate analog TV and VHS artifacts. 2026/01-2026/02 cy",
+      "date": null
     },
     {
       "link": "https://blog.rectalogic.com/2023/02/tethering.html",
       "title": "Tethering",
-      "description": "In iOS when you enable the Personal Hotspot, it creates a separate bridge100 interface. So your tethered traffic goes out over this interface instead of the one your device traffic uses. So it counts against your tethered traffic instead of device traffic. There is a way to make the tethered traffic use the same outbound interface that device traffic uses. This is a walk-through of how to do that."
+      "description": "In iOS when you enable the Personal Hotspot, it creates a separate bridge100 interface. So your tethered traffic goes out over this interface instead of the one your device traffic uses. So it counts against your tethered traffic instead of device traffic. There is a way to make the tethered traffic use the same outbound interface that device traffic uses. This is a walk-through of how to do that.",
+      "date": null
     },
     {
       "link": "https://blog.rectalogic.com/2021/01/why-rectalogic.html",
       "title": "Why rectalogic?",
-      "description": "Years ago I found a company called analogic . I thought it was brave that they put anal front and center in their name. Even their logo kind of looks like a techno-stylized puckered hole So I figured if an international corporation can choose this name, I can do something similar. Other words that make me laugh: analyze , therapist , banal , the ASS file format I turn 12 in February."
+      "description": "Years ago I found a company called analogic . I thought it was brave that they put anal front and center in their name. Even their logo kind of looks like a techno-stylized puckered hole So I figured if an international corporation can choose this name, I can do something similar. Other words that make me laugh: analyze , therapist , banal , the ASS file format I turn 12 in February.",
+      "date": null
     }
   ]
 }

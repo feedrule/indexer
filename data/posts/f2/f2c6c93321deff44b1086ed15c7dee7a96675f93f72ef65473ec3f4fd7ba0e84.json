@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "It’s 2026. What’s on your iPhone home screen and which Discord servers are you on?",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": null,
       "title": "Debugging flaky browser specs in a Github Action (Flaky Specs part 5)",
-      "description": "The most “fun” flaky spec to debug is a flaky browser spec that only fails intermittently in CI. What now? To debug these effectively: Force your Github Action container to stay alive Provide a way to SSH in Provide a way to see the actual browser and interact with it Capybara running over VNC in the Github Action container: The above was setup using my “ci_vnc” scripts that are designed to setup"
+      "description": "The most “fun” flaky spec to debug is a flaky browser spec that only fails intermittently in CI. What now? To debug these effectively: Force your Github Action container to stay alive Provide a way to SSH in Provide a way to see the actual browser and interact with it Capybara running over VNC in the Github Action container: The above was setup using my “ci_vnc” scripts that are designed to setup",
+      "date": null
     },
     {
       "link": null,
       "title": "Debugging flaky specs in a Github Action (Flaky Specs, Part 4)",
-      "description": "Run your spec directly in CI / Github Action If you are unable to reproduce the error locally - try running your spec directly in CI. Github Actions and CI in general aren’t designed to allow you to SSH into them, but you can still do that with a couple of changes: Force it to stay “alive” Allow it to accept incoming connection with upterm or ngrok 1 Upterm Github Action The Upterm Github Action d"
+      "description": "Run your spec directly in CI / Github Action If you are unable to reproduce the error locally - try running your spec directly in CI. Github Actions and CI in general aren’t designed to allow you to SSH into them, but you can still do that with a couple of changes: Force it to stay “alive” Allow it to accept incoming connection with upterm or ngrok 1 Upterm Github Action The Upterm Github Action d",
+      "date": null
     }
   ]
 }

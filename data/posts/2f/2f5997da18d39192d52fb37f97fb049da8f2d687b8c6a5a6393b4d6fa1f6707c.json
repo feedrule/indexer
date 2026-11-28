@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "The Case for an AI Programming Model",
-      "description": "TLDR: AI coding agents are tools, not people. Just because we can communicate with them in natural language doesn’t mean we should anthropomorphize them. Instead, programmers need a clear mental model of their behavior, which requires a programming model with constraints and guarantees. Many people ask me how I come up with research ideas, and while it’s different for everyone, my favorite approac"
+      "description": "TLDR: AI coding agents are tools, not people. Just because we can communicate with them in natural language doesn’t mean we should anthropomorphize them. Instead, programmers need a clear mental model of their behavior, which requires a programming model with constraints and guarantees. Many people ask me how I come up with research ideas, and while it’s different for everyone, my favorite approac",
+      "date": null
     },
     {
       "link": null,
       "title": "Slow Software: The Case for High-latency Systems Development",
-      "description": "Systems research prizes efficiency and performance. For the last decade, I’ve worked on ultra-low-latency systems: the goal of Demikernel and its related nanosecond-scale systems (e.g., Cornflakes, Capybara) is to do more with fewer cycles. AI coding has brought the same level of efficiency to building systems, letting fewer programmers write more code. However, it has also decoupled the speed of"
+      "description": "Systems research prizes efficiency and performance. For the last decade, I’ve worked on ultra-low-latency systems: the goal of Demikernel and its related nanosecond-scale systems (e.g., Cornflakes, Capybara) is to do more with fewer cycles. AI coding has brought the same level of efficiency to building systems, letting fewer programmers write more code. However, it has also decoupled the speed of",
+      "date": null
     },
     {
       "link": null,
       "title": "Capybara",
-      "description": "The Capybara system for microsecond load-balancing with programmable switches has been accepted to SIGCOMM! Congrats to Inho Choi and the entire Capybara team."
+      "description": "The Capybara system for microsecond load-balancing with programmable switches has been accepted to SIGCOMM! Congrats to Inho Choi and the entire Capybara team.",
+      "date": null
     }
   ]
 }

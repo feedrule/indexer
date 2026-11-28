@@ -4,17 +4,20 @@
     {
       "link": "https://www.rohitsalecha.com/post/security-consulting-to-security-engineering/",
       "title": "What I Learned Moving from Security Consulting to Security Engineering",
-      "description": "Sixteen Years In, Still Learning Over sixteen years in IT I have changed roles more than once, but one move stands out as the hardest and most instructive: from security consulting to security engineering . The two look adjacent from the outside. They are not — they are two different crafts, breaking and building, aimed at the same goal from opposite sides. Here is the idea this whole post rests o"
+      "description": "Sixteen Years In, Still Learning Over sixteen years in IT I have changed roles more than once, but one move stands out as the hardest and most instructive: from security consulting to security engineering . The two look adjacent from the outside. They are not — they are two different crafts, breaking and building, aimed at the same goal from opposite sides. Here is the idea this whole post rests o",
+      "date": null
     },
     {
       "link": "https://www.rohitsalecha.com/project/semhound/",
       "title": "semhound",
-      "description": "Motivation Security teams often need the same answer across many repositories: “Where else does this pattern show up?” That might be a bug-bounty SQLi variant, a zero-day in a dependency, or a custom policy you encode as Semgrep rules. Running Semgrep repo-by-repo means scripting discovery, cloning, execution, and reporting yourself. semhound automates that loop at GitHub org (or user) scale: you"
+      "description": "Motivation Security teams often need the same answer across many repositories: “Where else does this pattern show up?” That might be a bug-bounty SQLi variant, a zero-day in a dependency, or a custom policy you encode as Semgrep rules. Running Semgrep repo-by-repo means scripting discovery, cloning, execution, and reporting yourself. semhound automates that loop at GitHub org (or user) scale: you",
+      "date": null
     },
     {
       "link": "https://www.rohitsalecha.com/project/s4cp/",
       "title": "Securing 4 C's of a Software Product - AWS Edition",
-      "description": "👋 Introduction Following a successful MVP demonstration, a startup recently obtained significant funding. The next step involves a soft launch where security poses a crucial challenge. The initial PoC lacks basic security standards needed for customer trust and compliance for ex: secrets are strewn all across the code, everyone is having admin privileges to AWS and Kubernetes, Compute infrastructu"
+      "description": "👋 Introduction Following a successful MVP demonstration, a startup recently obtained significant funding. The next step involves a soft launch where security poses a crucial challenge. The initial PoC lacks basic security standards needed for customer trust and compliance for ex: secrets are strewn all across the code, everyone is having admin privileges to AWS and Kubernetes, Compute infrastructu",
+      "date": null
     }
   ]
 }

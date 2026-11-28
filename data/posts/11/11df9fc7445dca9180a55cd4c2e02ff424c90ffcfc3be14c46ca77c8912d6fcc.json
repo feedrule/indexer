@@ -4,17 +4,20 @@
     {
       "link": "https://tomsitcafe.com/2026/11/13/when-sudo-is-too-heavy-doas/",
       "title": "When Sudo Is Too Heavy – Doas",
-      "description": "You already know that su requires a password for the target user.sudo is a great tool for elevated privileges, but it’s heavy sometimes. What would you use in a small, flexible environment? doas is a smaller, lightweight tool for the same task.Originally developed for OpenBSD, then opendoas is available on other BSD and Linux systems.…"
+      "description": "You already know that su requires a password for the target user.sudo is a great tool for elevated privileges, but it’s heavy sometimes. What would you use in a small, flexible environment? doas is a smaller, lightweight tool for the same task.Originally developed for OpenBSD, then opendoas is available on other BSD and Linux systems.…",
+      "date": null
     },
     {
       "link": "https://tomsitcafe.com/2026/11/06/systemd-configure-your-network-with-networkd/",
       "title": "Systemd – Configure Your Network With Networkd",
-      "description": "Systemd-networkd is a network configuration manager in systemd.It can manage the networks of a Linux system, and configure network devices.Its configuration is based on INI-style configuration files. Systemd-networkd can be managed at runtime using the networkctl tool. In this example you create a network bridge device. You have to change this information for your own…"
+      "description": "Systemd-networkd is a network configuration manager in systemd.It can manage the networks of a Linux system, and configure network devices.Its configuration is based on INI-style configuration files. Systemd-networkd can be managed at runtime using the networkctl tool. In this example you create a network bridge device. You have to change this information for your own…",
+      "date": null
     },
     {
       "link": "https://tomsitcafe.com/2026/10/30/automation-when-comfort-turns-to-a-burden/",
       "title": "Automation – When Comfort Turns To A Burden",
-      "description": "When you do it once: do it.When you do it multiple times: automate it. Similar comments are choking the sysadmin threads. Automation is a standard. The more we rely on automation, the easier it becomes to overlook a hidden cost. The abstraction hides the operational complexity. The tool that makes infrastructure easier to operate can…"
+      "description": "When you do it once: do it.When you do it multiple times: automate it. Similar comments are choking the sysadmin threads. Automation is a standard. The more we rely on automation, the easier it becomes to overlook a hidden cost. The abstraction hides the operational complexity. The tool that makes infrastructure easier to operate can…",
+      "date": null
     }
   ]
 }

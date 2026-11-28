@@ -4,17 +4,20 @@
     {
       "link": "http://willspeak.me/2026/03/11/scrubbing-up.html",
       "title": "Scrubbing Up",
-      "description": "One of the key features that makes Scheme such a powerful language is the support for powerful macro transformations. A Scheme program goes through a stage of syntax expansion before the program is bound. Many syntax constructs in Scheme programs are in fact macros. So far in Feersum our macro support has been lacking a core concept however: hygiene. In this post I aim to outline the shape of the"
+      "description": "One of the key features that makes Scheme such a powerful language is the support for powerful macro transformations. A Scheme program goes through a stage of syntax expansion before the program is bound. Many syntax constructs in Scheme programs are in fact macros. So far in Feersum our macro support has been lacking a core concept however: hygiene. In this post I aim to outline the shape of the",
+      "date": null
     },
     {
       "link": "http://willspeak.me/2022/06/28/on-the-same-page.html",
       "title": "On the Same Page",
-      "description": "At the end of 2021 GitHub pages deployments moved to using GitHub actions . When a site is deployed you can see the jobs running to generate your site, package it up ready to be deployed, and push it to the GitHub Pages service. Lets try using these actions in a custom GitHub Actions workflow to build and deploy a site without using Jekyll. There are two main steps in the deployment of a site to G"
+      "description": "At the end of 2021 GitHub pages deployments moved to using GitHub actions . When a site is deployed you can see the jobs running to generate your site, package it up ready to be deployed, and push it to the GitHub Pages service. Lets try using these actions in a custom GitHub Actions workflow to build and deploy a site without using Jekyll. There are two main steps in the deployment of a site to G",
+      "date": null
     },
     {
       "link": "http://willspeak.me/2022/06/26/into-the-dark.html",
       "title": "Into the Dark",
-      "description": "I’ve finally dragged this blog into the 21st century with the addition of Dark Mode . In this post I’ll walk through some of the main tasks, and dig into the approach I took. The first step was to get rid of colours hard-coded into the CSS. The old style-sheet was full of #FFF s and #222 s along with more esoteric tints, tones, and shades. I worked colour by colour to pull them into a single block"
+      "description": "I’ve finally dragged this blog into the 21st century with the addition of Dark Mode . In this post I’ll walk through some of the main tasks, and dig into the approach I took. The first step was to get rid of colours hard-coded into the CSS. The old style-sheet was full of #FFF s and #222 s along with more esoteric tints, tones, and shades. I worked colour by colour to pull them into a single block",
+      "date": null
     }
   ]
 }

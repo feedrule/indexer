@@ -4,17 +4,20 @@
     {
       "link": "https://javatask.dev/blog/the-streaming-lakehouse-part-5-freshness-per-plant-question/",
       "title": "The Streaming Lakehouse, Part 5: Freshness per Plant Question",
-      "description": "Questions about a telemetry stream assume different freshness. This part places four invented monitoring and analytics questions against what each of the three designs documents about freshness: a commit trigger, compaction and publication rules, and a tiering interval."
+      "description": "Questions about a telemetry stream assume different freshness. This part places four invented monitoring and analytics questions against what each of the three designs documents about freshness: a commit trigger, compaction and publication rules, and a tiering interval.",
+      "date": null
     },
     {
       "link": "https://javatask.dev/blog/the-streaming-lakehouse-part-4-the-tier-in-front-of-the-lake/",
       "title": "The Streaming Lakehouse, Part 4: Fluss: The Tier in Front of the Lake",
-      "description": "Apache Fluss keeps recent rows in its own tables and a tiering service commits them to the lake on a set interval. Union read, documented for Flink and Spark, queries both. What the v1.0.0 documentation says, and where it is silent."
+      "description": "Apache Fluss keeps recent rows in its own tables and a tiering service commits them to the lake on a set interval. Union read, documented for Flink and Spark, queries both. What the v1.0.0 documentation says, and where it is silent.",
+      "date": null
     },
     {
       "link": "https://javatask.dev/blog/the-streaming-lakehouse-part-3-paimons-lsm-tables/",
       "title": "The Streaming Lakehouse, Part 3: Paimon's LSM Tables and Their Iceberg View",
-      "description": "In Apache Paimon each bucket of a primary-key table holds a log-structured merge tree. Frequent commits add sorted runs that compaction merges, and an Iceberg reader sees what compaction and publication have promoted."
+      "description": "In Apache Paimon each bucket of a primary-key table holds a log-structured merge tree. Frequent commits add sorted runs that compaction merges, and an Iceberg reader sees what compaction and publication have promoted.",
+      "date": null
     }
   ]
 }

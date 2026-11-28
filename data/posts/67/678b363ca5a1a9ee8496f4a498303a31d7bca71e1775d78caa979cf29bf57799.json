@@ -4,17 +4,20 @@
     {
       "link": "https://knutaf.com/blog/posts/20261115-wunge-and-the-debugger/",
       "title": "Wunge and the Debugger",
-      "description": "At this point I am basically feature complete with wunge , my binary data multitool. The last feature I added, which I am writing about now, is rendering in the debugger, specifically in the Windows debugging engine using WinDbg syntax. Here's how you would use this kind of feature normally, without wunge. Say you made a C++ program with a struct definition like this: struct MyFancyType { int a; i"
+      "description": "At this point I am basically feature complete with wunge , my binary data multitool. The last feature I added, which I am writing about now, is rendering in the debugger, specifically in the Windows debugging engine using WinDbg syntax. Here's how you would use this kind of feature normally, without wunge. Say you made a C++ program with a struct definition like this: struct MyFancyType { int a; i",
+      "date": null
     },
     {
       "link": "https://knutaf.com/blog/posts/20260803-improving-wunge-evaluation-errors/",
       "title": "Improving Wunge Evaluation Errors",
-      "description": "In the last post I went over improving parsing errors in wunge, my binary data multitool. The other type of error a user can encounter is an evaluation error . This is when an expression is syntactically correct but can't be evaluated because it doesn't make sense. Here's an example of that: >wunge rand_incl(4, 13 + 5 days) Error resolving expression: can't translate time diff to i64 What the user"
+      "description": "In the last post I went over improving parsing errors in wunge, my binary data multitool. The other type of error a user can encounter is an evaluation error . This is when an expression is syntactically correct but can't be evaluated because it doesn't make sense. Here's an example of that: >wunge rand_incl(4, 13 + 5 days) Error resolving expression: can't translate time diff to i64 What the user",
+      "date": null
     },
     {
       "link": "https://knutaf.com/blog/posts/20260731-improving-wunge-parsing-errors/",
       "title": "Improving Wunge Parsing Errors",
-      "description": "I recently released my binary data multitool program called wunge . At its core, it's an expression evaluator, so it does lexing, parsing, and evaluation. This is such well-worn ground that I based this program off of a toy C compiler I made by following a book called Writing a C Compiler , by Nora Sandler. I want to focus on one specific aspect I wanted to improve over the earlier code from my to"
+      "description": "I recently released my binary data multitool program called wunge . At its core, it's an expression evaluator, so it does lexing, parsing, and evaluation. This is such well-worn ground that I based this program off of a toy C compiler I made by following a book called Writing a C Compiler , by Nora Sandler. I want to focus on one specific aspect I wanted to improve over the earlier code from my to",
+      "date": null
     }
   ]
 }

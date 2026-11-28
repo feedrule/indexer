@@ -4,17 +4,20 @@
     {
       "link": "https://rivit.dev/posts/heroes-of-might-and-magic-3-online-lobby-adventures/",
       "title": "Heroes of Might and Magic 3 online lobby adventures",
-      "description": "I’ve played Heroes of Might and Magic 3 with the HD and HOTA mods for years and always wondered how its online lobby actually works - how accounts, rooms, and chat go over the wire. So I loaded HD_HOTA.dll (the DLL implementing the whole lobby client) into IDA and dug in. A good chunk of the analysis was done with the help of AI. This post is a short, security-focused summary of what came out of i"
+      "description": "I’ve played Heroes of Might and Magic 3 with the HD and HOTA mods for years and always wondered how its online lobby actually works - how accounts, rooms, and chat go over the wire. So I loaded HD_HOTA.dll (the DLL implementing the whole lobby client) into IDA and dug in. A good chunk of the analysis was done with the help of AI. This post is a short, security-focused summary of what came out of i",
+      "date": null
     },
     {
       "link": "https://rivit.dev/posts/open-sourcing-community-ctf-challenges/",
       "title": "Open-sourcing community CTF challenges",
-      "description": "I open-sourced a set of community CTF challenges I created for CTFlearn . The collection is intentionally pragmatic: small, self-contained puzzles you can run locally (Docker is provided), iterate on, and learn from. What is in the repository The repository contains 20+ challenges across four categories: pwn: the largest category — small networked binaries and local pwn problems covering memory co"
+      "description": "I open-sourced a set of community CTF challenges I created for CTFlearn . The collection is intentionally pragmatic: small, self-contained puzzles you can run locally (Docker is provided), iterate on, and learn from. What is in the repository The repository contains 20+ challenges across four categories: pwn: the largest category — small networked binaries and local pwn problems covering memory co",
+      "date": null
     },
     {
       "link": "https://rivit.dev/posts/fuzzing-libfyaml/",
       "title": "Fuzzing libfyaml",
-      "description": "I spent some time fuzzing libfyaml , a feature-rich YAML parser/emitter written in C. The first campaign ended with 68 reported bugs, all of which were fixed by the maintainer. I kept going after that, and the approach changed a lot - see the update at the end of the article. Target libfyaml is a YAML library that supports YAML 1.2. It provides a pretty extensive API - parsing, emitting, path expr"
+      "description": "I spent some time fuzzing libfyaml , a feature-rich YAML parser/emitter written in C. The first campaign ended with 68 reported bugs, all of which were fixed by the maintainer. I kept going after that, and the approach changed a lot - see the update at the end of the article. Target libfyaml is a YAML library that supports YAML 1.2. It provides a pretty extensive API - parsing, emitting, path expr",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
       "title": "One month without AI",
-      "description": "Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to avoid future drama and have a position against AI."
+      "description": "Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to avoid future drama and have a position against AI.",
+      "date": "2026-09-25"
     },
     {
       "link": "https://blog.bustikiller.com/2026/09/15/migrating-to-codeberg-pages.html",
       "title": "Migrating to Codeberg Pages",
-      "description": "When this blog started, it was in the shape of a Medium page. Back in the days when I was not a FOSS activist, I didn’t pay much attention to whether the blogging platform was proprietary or not. It had some numbers (useful to feed my ego back then), and the layout was pretty attractive."
+      "description": "When this blog started, it was in the shape of a Medium page. Back in the days when I was not a FOSS activist, I didn’t pay much attention to whether the blogging platform was proprietary or not. It had some numbers (useful to feed my ego back then), and the layout was pretty attractive.",
+      "date": "2026-09-15"
     },
     {
       "link": "https://blog.bustikiller.com/2026/08/22/freeing-rvm-space.html",
       "title": "Freeing RVM space",
-      "description": "Today I was running a ZAP session, and it stopped halfway through because I had run out of disk space. When I started to analyze where space was being used, I found around 20 GB that were used by RVM. I like to keep the ruby version of my projects as up-to-date as possible, so it’s very common that I install new versions as soon as they are released."
+      "description": "Today I was running a ZAP session, and it stopped halfway through because I had run out of disk space. When I started to analyze where space was being used, I found around 20 GB that were used by RVM. I like to keep the ruby version of my projects as up-to-date as possible, so it’s very common that I install new versions as soon as they are released.",
+      "date": "2026-08-22"
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://gian.cool/2026/nov/03/fax-history-video-hyperframes/",
       "title": "Making a 5-minute history of the fax with Claude Code, HyperFrames and Gemini TTS",
-      "description": "The bare steps: research, story, scenes, voice and render, from one Claude Code session."
+      "description": "The bare steps: research, story, scenes, voice and render, from one Claude Code session.",
+      "date": null
     },
     {
       "link": "https://gian.cool/2026/nov/02/mini-home-lab-on-demand-cloud-server-wakebridge/",
       "title": "Your mini home lab as an on-demand cloud server - WakeBridge",
-      "description": "How I turned a €970 second-hand RTX PC into an on-demand dev server and GitHub runner that wakes from an Android widget and sleeps automatically."
+      "description": "How I turned a €970 second-hand RTX PC into an on-demand dev server and GitHub runner that wakes from an Android widget and sleeps automatically.",
+      "date": null
     },
     {
       "link": "https://gian.cool/2026/jun/16/streaming-waveform-wavesurfer/",
       "title": "A live, growing waveform for streaming audio with wavesurfer.js",
-      "description": "Render a live waveform as PCM chunks arrive: pad peaks toward an estimated duration, colour playback progress, and hand off to a seekable Blob."
+      "description": "Render a live waveform as PCM chunks arrive: pad peaks toward an estimated duration, colour playback progress, and hand off to a seekable Blob.",
+      "date": null
     }
   ]
 }

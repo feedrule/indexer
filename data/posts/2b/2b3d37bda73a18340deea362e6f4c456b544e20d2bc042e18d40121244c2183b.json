@@ -4,17 +4,20 @@
     {
       "link": "https://snehankekre.com/posts/perdix-2-into-subsurface/",
       "title": "Three ways to get my Perdix 2 into Subsurface. Two of them are broken.",
-      "description": "Subsurface can read a Shearwater Perdix 2 three ways. Opening a current Shearwater Cloud database imports zero dives, importing Cloud's XML export dates every dive 1 January 1970 and makes a 101 minute dive last 1,694 hours, and a Bluetooth download fails on Subsurface builds from before late June 2025. Here's why each one breaks, and the one that works."
+      "description": "Subsurface can read a Shearwater Perdix 2 three ways. Opening a current Shearwater Cloud database imports zero dives, importing Cloud's XML export dates every dive 1 January 1970 and makes a 101 minute dive last 1,694 hours, and a Bluetooth download fails on Subsurface builds from before late June 2025. Here's why each one breaks, and the one that works.",
+      "date": null
     },
     {
       "link": "https://snehankekre.com/posts/shearwater-tissue-snapshots/",
       "title": "My Perdix writes its tissue loadings into every dive log",
-      "description": "Every four minutes, my Shearwater Perdix 2 writes the nitrogen and helium loading of all 16 Bühlmann compartments into its dive log. Shearwater Cloud doesn't read them, and neither does libdivecomputer. Starting from one snapshot, a textbook ZHL-16C model predicts the next to within a thousandth of a bar. Eight more numbers in each snapshot look like a second decompression model."
+      "description": "Every four minutes, my Shearwater Perdix 2 writes the nitrogen and helium loading of all 16 Bühlmann compartments into its dive log. Shearwater Cloud doesn't read them, and neither does libdivecomputer. Starting from one snapshot, a textbook ZHL-16C model predicts the next to within a thousandth of a bar. Eight more numbers in each snapshot look like a second decompression model.",
+      "date": null
     },
     {
       "link": "https://snehankekre.com/posts/debian-10-to-13/",
       "title": "Upgrading my Tor bridge from Debian 10 to 13 after 21 months of not logging in",
-      "description": "The Tor Project emailed to say my bridge was running an obsolete Tor and would soon be cut from the network. The VPS under it was still on Debian 10, and I had not run apt on it since November 2024. This is everything I did on 21 August 2026, from the log files: getting back in with two YubiKeys I had mislabelled, three release upgrades in 55 minutes, the Tor config mistake that took the bridge do"
+      "description": "The Tor Project emailed to say my bridge was running an obsolete Tor and would soon be cut from the network. The VPS under it was still on Debian 10, and I had not run apt on it since November 2024. This is everything I did on 21 August 2026, from the log files: getting back in with two YubiKeys I had mislabelled, three release upgrades in 55 minutes, the Tor config mistake that took the bridge do",
+      "date": null
     }
   ]
 }

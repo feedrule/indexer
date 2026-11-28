@@ -4,17 +4,20 @@
     {
       "link": "https://kurtmckee.org/2026/06/upcoming-site-changes/",
       "title": "Upcoming site changes",
-      "description": "The site will be changing hosts soon. I expect feed URLs to break."
+      "description": "The site will be changing hosts soon. I expect feed URLs to break.",
+      "date": null
     },
     {
       "link": "https://kurtmckee.org/2023/08/revitalizing-stalled-open-source-projects/",
       "title": "Revitalizing stalled open source projects",
-      "description": "Has development of your favorite open source project stalled? Triage is sometimes a great way to get things moving again!"
+      "description": "Has development of your favorite open source project stalled? Triage is sometimes a great way to get things moving again!",
+      "date": null
     },
     {
       "link": "https://kurtmckee.org/2023/05/build-wheels-to-go-faster/",
       "title": "Test suite performance: Build wheels to go faster",
-      "description": "Configure tox to package your project as a wheel during testing; this avoids pip repackaging a .tar.gz file to a wheel for each test environment."
+      "description": "Configure tox to package your project as a wheel during testing; this avoids pip repackaging a .tar.gz file to a wheel for each test environment.",
+      "date": null
     }
   ]
 }

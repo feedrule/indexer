@@ -4,17 +4,20 @@
     {
       "link": "https://kyle.au/projects/short-temper",
       "title": "Short Temper",
-      "description": "A 36-key wireless split keyboard, and a holster I designed for wearing it on my legs."
+      "description": "A 36-key wireless split keyboard, and a holster I designed for wearing it on my legs.",
+      "date": null
     },
     {
       "link": "https://kyle.au/projects/kyles-sofle",
       "title": "Kyles Sofle",
-      "description": "My wireless split keyboard. Its left screen shows my Claude Code usage, CI results and next meeting, sent from the Mac through the keyboard's indicator lights."
+      "description": "My wireless split keyboard. Its left screen shows my Claude Code usage, CI results and next meeting, sent from the Mac through the keyboard's indicator lights.",
+      "date": null
     },
     {
       "link": "https://kyle.au/projects/nylonite",
       "title": "Nylonite",
-      "description": "An open base for warehouse management systems, written in Rust. Every scan is an event, and the events are the stock record."
+      "description": "An open base for warehouse management systems, written in Rust. Every scan is an event, and the events are the stock record.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.huijo.xyz/how-i-make-hard-decisions/",
       "title": "How I Make Hard Decisions",
-      "description": "What dropping a feature at hexafarms, rethinking an agent product at VOIDS, and reading Decisive taught me about making hard decisions."
+      "description": "What dropping a feature at hexafarms, rethinking an agent product at VOIDS, and reading Decisive taught me about making hard decisions.",
+      "date": null
     },
     {
       "link": "https://www.huijo.xyz/HappenToWork/",
       "title": "AI Coding: Programming by Coincidence at Scale",
-      "description": "AI lets us pile up code we don't understand faster than ever. Working code is not correct code."
+      "description": "AI lets us pile up code we don't understand faster than ever. Working code is not correct code.",
+      "date": null
     },
     {
       "link": "https://www.huijo.xyz/PairedTestForLLMRelease/",
       "title": "Is V2 actually better? Paired testing for LLM releases",
-      "description": "How I'd check whether a new prompt really beats production, using 200 pass/fail questions, a paired standard error, and McNemar's test."
+      "description": "How I'd check whether a new prompt really beats production, using 200 pass/fail questions, a paired standard error, and McNemar's test.",
+      "date": null
     }
   ]
 }

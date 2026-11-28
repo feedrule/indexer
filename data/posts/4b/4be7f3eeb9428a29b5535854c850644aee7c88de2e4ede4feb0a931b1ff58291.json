@@ -4,17 +4,20 @@
     {
       "link": "https://mbonnin.net/2026-08-26-use-git-for-dns-and-mailing-lists",
       "title": "Use git for your DNS and mailing lists",
-      "description": "Distributed and versioned infrastructure for your organization"
+      "description": "Distributed and versioned infrastructure for your organization",
+      "date": null
     },
     {
       "link": "https://mbonnin.net/2026-02-22-kotlin-versions",
       "title": "Multiple versions of Kotlin",
-      "description": "What does it mean to update Kotlin"
+      "description": "What does it mean to update Kotlin",
+      "date": null
     },
     {
       "link": "https://mbonnin.net/2026-01-16-semver-is-great-for-your-kotlin-libraries",
       "title": "SemVer is a great versioning scheme for Kotlin libraries",
-      "description": "Both Maven and Gradle support strict SemVer"
+      "description": "Both Maven and Gradle support strict SemVer",
+      "date": null
     }
   ]
 }

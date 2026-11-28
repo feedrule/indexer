@@ -4,17 +4,20 @@
     {
       "link": "https://manuelfedele.github.io/posts/from-requirements-agent-to-dark-factory/",
       "title": "Engineering a Semi-Deterministic AI Dark Factory",
-      "description": "What if a business requirement could inspect the system it is about, challenge its own ambiguities, become an executable specification, and then move through implementation, review, deployment, and acceptance testing without losing human control? This is how we built a semi-deterministic production line around probabilistic coding agents. Most discussions about AI-assisted development start too la"
+      "description": "What if a business requirement could inspect the system it is about, challenge its own ambiguities, become an executable specification, and then move through implementation, review, deployment, and acceptance testing without losing human control? This is how we built a semi-deterministic production line around probabilistic coding agents. Most discussions about AI-assisted development start too la",
+      "date": null
     },
     {
       "link": "https://manuelfedele.github.io/posts/running-claude-code-in-a-network-sandbox/",
       "title": "Running Claude Code in a Corporate Network Sandbox",
-      "description": "Most Claude Code setup guides assume a developer laptop with direct internet access. This is not that guide. I spent a session getting Claude Code to run inside a fully network-isolated corporate sandbox – no direct internet, all traffic through a controlled gateway, per-binary egress policies enforced at the proxy level. What started as “remove sudo from this installer” turned into a deep dive in"
+      "description": "Most Claude Code setup guides assume a developer laptop with direct internet access. This is not that guide. I spent a session getting Claude Code to run inside a fully network-isolated corporate sandbox – no direct internet, all traffic through a controlled gateway, per-binary egress policies enforced at the proxy level. What started as “remove sudo from this installer” turned into a deep dive in",
+      "date": null
     },
     {
       "link": "https://manuelfedele.github.io/posts/xz-utils-backdoor-the-git-tarball-gap/",
       "title": "The XZ Utils Backdoor: How a Supply Chain Attack Hid Outside Git",
-      "description": "CVE-2024-3094 was not just a backdoor. It was a two-year infiltration campaign that exploited a structural blind spot in how open source software is actually distributed. The malicious code was never committed to git at all. In March 2024, Andres Freund, a Microsoft engineer, noticed that SSH logins on his Debian testing machine were taking about 500ms longer than expected and consuming anomalous"
+      "description": "CVE-2024-3094 was not just a backdoor. It was a two-year infiltration campaign that exploited a structural blind spot in how open source software is actually distributed. The malicious code was never committed to git at all. In March 2024, Andres Freund, a Microsoft engineer, noticed that SSH logins on his Debian testing machine were taking about 500ms longer than expected and consuming anomalous",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://dan-webnotes.com/posts/2026-07-14-joy-extending-tailwind/",
       "title": "The joy of extending Tailwind",
-      "description": "2026-07-14 The joy of extending Tailwind One of the biggest upgrade that came with Tailwind 4 has been the new CSS-based configuration and extensibility system. The CSS configuration came with a new simple syntax, which is very close to the way regular CSS is written. This makes it really easy to integrate Tailwind into a project's design system. Let's consider a regular CSS class. .my-class { dis"
+      "description": "2026-07-14 The joy of extending Tailwind One of the biggest upgrade that came with Tailwind 4 has been the new CSS-based configuration and extensibility system. The CSS configuration came with a new simple syntax, which is very close to the way regular CSS is written. This makes it really easy to integrate Tailwind into a project's design system. Let's consider a regular CSS class. .my-class { dis",
+      "date": null
     },
     {
       "link": "https://dan-webnotes.com/posts/2026-07-01-self-maintaining-filesystem-static-blogs/",
       "title": "A Self-maintaining filesystem for static blogs",
-      "description": "2026-07-01 A Self-maintaining filesystem for static blogs I've just finished revamping the folder structure of this blog's content to include the date in the file name as in yyyy-mm-dd-post-title.md This finally made opening the posts folder manageable as scanning the ever-growing list of titles, was causing me to dreading opening it at all. Recently, my guiding principle has been to remove any fr"
+      "description": "2026-07-01 A Self-maintaining filesystem for static blogs I've just finished revamping the folder structure of this blog's content to include the date in the file name as in yyyy-mm-dd-post-title.md This finally made opening the posts folder manageable as scanning the ever-growing list of titles, was causing me to dreading opening it at all. Recently, my guiding principle has been to remove any fr",
+      "date": null
     },
     {
       "link": "https://dan-webnotes.com/posts/2026-06-28-css-tricks-markdown-blogs/",
       "title": "CSS tricks for markdown blogs",
-      "description": "2026-06-28 CSS tricks for markdown blogs All the post content you are reading here comes from a single markdown file converted into HTML and stylized with CSS. Reducing what is rendered via template will limit what's possible in terms of layout and interactivity. But it guarantees that, if I move my site to a different setup, the plain text files will carry most of the content with them. Also it's"
+      "description": "2026-06-28 CSS tricks for markdown blogs All the post content you are reading here comes from a single markdown file converted into HTML and stylized with CSS. Reducing what is rendered via template will limit what's possible in terms of layout and interactivity. But it guarantees that, if I move my site to a different setup, the plain text files will carry most of the content with them. Also it's",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://rgoswami.me/posts/f2py-inheritance-operators/",
       "title": "Inheritance and Operator Overloading",
-      "description": "One might expect a ChargedParticle to be a Particle. One might also expect + to add two of them. Fortran agrees on both counts. The argument starts in the wrapper. Background # The parameterized types post is the one that went out before this. Finalizers and generic bindings are further back, in that post . This one is the inheritance piece I had sitting behind them: type extension ( extends() , F"
+      "description": "One might expect a ChargedParticle to be a Particle. One might also expect + to add two of them. Fortran agrees on both counts. The argument starts in the wrapper. Background # The parameterized types post is the one that went out before this. Finalizers and generic bindings are further back, in that post . This one is the inheritance piece I had sitting behind them: type extension ( extends() , F",
+      "date": null
     },
     {
       "link": "https://rgoswami.me/tools/",
       "title": "Tools I Use",
-      "description": "Stuff I actually send people, and a few things I just live in."
+      "description": "Stuff I actually send people, and a few things I just live in.",
+      "date": null
     },
     {
       "link": "https://rgoswami.me/posts/f2py-parameterized-types/",
       "title": "Parameterized Types and MSVC Complex Portability",
-      "description": "Precision is not a number. It is a contract between the programmer and the hardware. Fortran encodes this contract in the type system. C and Python do not. Bridging both gaps at once is what this post covers. Background # Previous posts covered the three-layer architecture for wrapping non- bind(c) Fortran types. That pipeline assumed fixed types. So what happens when the Fortran type itself carri"
+      "description": "Precision is not a number. It is a contract between the programmer and the hardware. Fortran encodes this contract in the type system. C and Python do not. Bridging both gaps at once is what this post covers. Background # Previous posts covered the three-layer architecture for wrapping non- bind(c) Fortran types. That pipeline assumed fixed types. So what happens when the Fortran type itself carri",
+      "date": null
     }
   ]
 }

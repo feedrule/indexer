@@ -4,17 +4,20 @@
     {
       "link": "https://will-keleher.com/posts/reviewing-llm-generated-code.html",
       "title": "How I Code Review LLM-generated Code",
-      "description": "Code review is more important than it used to be, which makes trunk-based development, a good diff viewer, LLM review, and opening code locally crucial"
+      "description": "Code review is more important than it used to be, which makes trunk-based development, a good diff viewer, LLM review, and opening code locally crucial",
+      "date": null
     },
     {
       "link": "https://will-keleher.com/posts/leery-of-using-ai-to-generate-code.html",
       "title": "It's 2026, and I'm still leery of using LLMs to generate code",
-      "description": "LLMs are great at generating code, but writing code helps me think and understand the system I'm building."
+      "description": "LLMs are great at generating code, but writing code helps me think and understand the system I'm building.",
+      "date": null
     },
     {
       "link": "https://will-keleher.com/posts/you-probably-dont-need-find.html",
       "title": "You probably don't need `find`",
-      "description": "Between zsh's globbing, Bash's `shopt -s globstar`, and `fd`, you probably can avoid ever using `find`."
+      "description": "Between zsh's globbing, Bash's `shopt -s globstar`, and `fd`, you probably can avoid ever using `find`.",
+      "date": null
     }
   ]
 }

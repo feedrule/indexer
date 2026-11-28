@@ -4,17 +4,20 @@
     {
       "link": "https://leviculum.network/posts/how-i-learned-to-stop-worrying-and-love-the-llm",
       "title": "How I Learned to Stop Worrying and Love the LLM",
-      "description": "In the world of free software, there are huge controversies around the use of LLMs, especially generative AI, for producing program code. Big emotions, holy wars. I don't want to take part in that, because everything has already been said. For me, the point of a debate is that everyone walks away having learned something, not in a foul mood (I know, crazy idea). And the odds of a foul mood are hig"
+      "description": "In the world of free software, there are huge controversies around the use of LLMs, especially generative AI, for producing program code. Big emotions, holy wars. I don't want to take part in that, because everything has already been said. For me, the point of a debate is that everyone walks away having learned something, not in a foul mood (I know, crazy idea). And the odds of a foul mood are hig",
+      "date": null
     },
     {
       "link": "https://leviculum.network/posts/united-frequencies-of-europe",
       "title": "United Frequencies of Europe",
-      "description": "With Reticulum (and Leviculum, of course) we can build specialized, ad-hoc private mesh networks. We also build a public mesh for all , connecting strangers, building many-hop LoRa links over long distances, even connecting two cities. But there is one problem: there is no consensus about the radio settings. Everybody in Europe comes up with their own settings, and none of these devices can intero"
+      "description": "With Reticulum (and Leviculum, of course) we can build specialized, ad-hoc private mesh networks. We also build a public mesh for all , connecting strangers, building many-hop LoRa links over long distances, even connecting two cities. But there is one problem: there is no consensus about the radio settings. Everybody in Europe comes up with their own settings, and none of these devices can intero",
+      "date": null
     },
     {
       "link": "https://leviculum.network/posts/killing-reticulum-to-save-it",
       "title": "Killing Reticulum to Save It",
-      "description": "Mark Qvist put 10 years of hard work into the creation of Reticulum, the only fully-featured stack that empowers us simple mortals to build big-tech-free computer networks, grassroots style. The code is well-thought-out and carefully written. I want to replace it all with Leviculum; that's not a port, but a completely compatible network stack, library, ecosystem, server and toolset. But what the f"
+      "description": "Mark Qvist put 10 years of hard work into the creation of Reticulum, the only fully-featured stack that empowers us simple mortals to build big-tech-free computer networks, grassroots style. The code is well-thought-out and carefully written. I want to replace it all with Leviculum; that's not a port, but a completely compatible network stack, library, ecosystem, server and toolset. But what the f",
+      "date": null
     }
   ]
 }

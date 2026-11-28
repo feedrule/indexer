@@ -4,17 +4,20 @@
     {
       "link": "https://dashaun.com/posts/self-hosting-kev-systemone/",
       "title": "Self-Hosting Kev: A TypeSafe-SystemOne Decision Model on My Own GPU",
-      "description": "Self-Hosting Kev: A TypeSafe-SystemOne Decision Model on My Own GPU Link to heading I was really interested in Jev when it came out . A “System One” model that answers typed questions with calibrated probabilities instead of generating text — no chat, no prose, just decisions. The Spring team added support for Jev within a week of it being released: Spring AI: TypeSafe structured judgment But I li"
+      "description": "Self-Hosting Kev: A TypeSafe-SystemOne Decision Model on My Own GPU Link to heading I was really interested in Jev when it came out . A “System One” model that answers typed questions with calibrated probabilities instead of generating text — no chat, no prose, just decisions. The Spring team added support for Jev within a week of it being released: Spring AI: TypeSafe structured judgment But I li",
+      "date": null
     },
     {
       "link": "https://dashaun.com/posts/ollama-to-vllm-on-rtx-5090/",
       "title": "From Ollama to vLLM on an RTX 5090",
-      "description": "From Ollama to vLLM on an RTX 5090 Link to heading I run a couple of DGX Sparks with DeepSeek via vLLM and Ray. The RTX 5090 box (kintsugi) was still on Ollama. That split stopped making sense once my agent workflows outgrew what Ollama does well. Why I left Ollama Link to heading Ollama is fine for one user and one chat. My multi-agent workflows fire dozens of concurrent requests, and Ollama seri"
+      "description": "From Ollama to vLLM on an RTX 5090 Link to heading I run a couple of DGX Sparks with DeepSeek via vLLM and Ray. The RTX 5090 box (kintsugi) was still on Ollama. That split stopped making sense once my agent workflows outgrew what Ollama does well. Why I left Ollama Link to heading Ollama is fine for one user and one chat. My multi-agent workflows fire dozens of concurrent requests, and Ollama seri",
+      "date": null
     },
     {
       "link": "https://dashaun.com/posts/deepseek-v4-flash-2x-dgx-spark/",
       "title": "Two DGX Sparks, One Model: DeepSeek-V4-Flash with a 1M-Token Context",
-      "description": "I got some new hardware. Two NVIDIA DGX Sparks. I connected them to each other with two QSFP cables, and put both of them on my Tailscale network. A single Spark has 128 GB of memory, shared between the CPU and the GPU. That is a lot of memory. It is also not the point. I did not buy two of them to run two copies of the same small model. I wanted to run something that needed both nodes . NVIDIA ev"
+      "description": "I got some new hardware. Two NVIDIA DGX Sparks. I connected them to each other with two QSFP cables, and put both of them on my Tailscale network. A single Spark has 128 GB of memory, shared between the CPU and the GPU. That is a lot of memory. It is also not the point. I did not buy two of them to run two copies of the same small model. I wanted to run something that needed both nodes . NVIDIA ev",
+      "date": null
     }
   ]
 }

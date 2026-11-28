@@ -4,17 +4,20 @@
     {
       "link": "https://www.systanddeploy.com/2026/10/getting-onedrive-size-and-real-size-on.html",
       "title": "Getting OneDrive size and real size on disk using PowerShell",
-      "description": "In this post I will show you a way to get OneDrive size, and OneDrive real size on disk using PowerShell. Context When you use OneDrive, your files have two size properties: - Full size - Real size used on your disk You can get both by doing a right-click on your OneDrive folder, as below: Size: the full size of your OneDrive. Size on disk: size that a file takes on your local drive. When you go i"
+      "description": "In this post I will show you a way to get OneDrive size, and OneDrive real size on disk using PowerShell. Context When you use OneDrive, your files have two size properties: - Full size - Real size used on your disk You can get both by doing a right-click on your OneDrive folder, as below: Size: the full size of your OneDrive. Size on disk: size that a file takes on your local drive. When you go i",
+      "date": null
     },
     {
       "link": "https://www.systanddeploy.com/2026/10/securing-sharepoint-access-with-managed.html",
       "title": "Securing SharePoint access with Managed Identities and Sites.Selected permission",
-      "description": "In this post we will see how to secure your SharePoint authentication through PowerShell and Azure Automation with a managed identity and Sites.Selected permission in order to download or upload files. The solution 1. Use Azure Automation account 2. Configure it with system managed identity 3. Add Sites.Selected SP permission 4. Give access to a specific site 5. Add a Runbook (script) Sources to d"
+      "description": "In this post we will see how to secure your SharePoint authentication through PowerShell and Azure Automation with a managed identity and Sites.Selected permission in order to download or upload files. The solution 1. Use Azure Automation account 2. Configure it with system managed identity 3. Add Sites.Selected SP permission 4. Give access to a specific site 5. Add a Runbook (script) Sources to d",
+      "date": null
     },
     {
       "link": "https://www.systanddeploy.com/2026/06/monitor-intune-devices-with-old-bios.html",
       "title": "Monitor Intune devices with old BIOS versions using Intune device query",
-      "description": "In this post I will share some KQL queries allowing you to monitor BIOS versions status on your Intune device through the Intune device queries feature. Context Microsoft implemented a really cool feature allowing you to gather details about your Intune devices. You can access it as below: You have a table about BIOS called BiosInfo . This table will give you insight about BIOS version and release"
+      "description": "In this post I will share some KQL queries allowing you to monitor BIOS versions status on your Intune device through the Intune device queries feature. Context Microsoft implemented a really cool feature allowing you to gather details about your Intune devices. You can access it as below: You have a table about BIOS called BiosInfo . This table will give you insight about BIOS version and release",
+      "date": null
     }
   ]
 }

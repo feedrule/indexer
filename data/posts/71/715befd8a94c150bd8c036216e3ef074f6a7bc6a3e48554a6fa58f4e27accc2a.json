@@ -4,17 +4,20 @@
     {
       "link": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
       "title": "I deleted all my SSH keys",
-      "description": "I’ve been using ed25519-sk keys with YubiKeys since practically the moment they were available. But because of some specific use-cases (and because, frankly, YubiKeys are expensive) I’ve had a few traditional on-disk keys hanging around for a while just waiting for me to finally decide to get rid of them. This post documents how I’m using various secure enclaves (YubiKey, TPM, Apple Secure Enclave"
+      "description": "I’ve been using ed25519-sk keys with YubiKeys since practically the moment they were available. But because of some specific use-cases (and because, frankly, YubiKeys are expensive) I’ve had a few traditional on-disk keys hanging around for a while just waiting for me to finally decide to get rid of them. This post documents how I’m using various secure enclaves (YubiKey, TPM, Apple Secure Enclave",
+      "date": null
     },
     {
       "link": "https://blog.infected.systems/posts/2026-07-17-this-blog-is-hosted-on-a-nintendo-wii-in-a-field/",
       "title": "This blog is hosted on a Nintendo Wii... in a field",
-      "description": "Back in 2024, I rescued a Wii from the tech swap shop at EMF Camp. After spending a while under my TV playing only the finest Wii games, I repurposed it last year to host this blog. You can read last year’s post here . This year, I brought it back to its EMF Camp homeland to continue its job hosting the site: Assuming you’re reading this between Friday 17th July and Sunday 19th July 2026, this Wii"
+      "description": "Back in 2024, I rescued a Wii from the tech swap shop at EMF Camp. After spending a while under my TV playing only the finest Wii games, I repurposed it last year to host this blog. You can read last year’s post here . This year, I brought it back to its EMF Camp homeland to continue its job hosting the site: Assuming you’re reading this between Friday 17th July and Sunday 19th July 2026, this Wii",
+      "date": null
     },
     {
       "link": "https://blog.infected.systems/posts/2026-06-18-static-ipv6-config-with-cloud-init-on-raspberry-pi-os/",
       "title": "Static IPv6 config with cloud-init on Raspberry Pi OS",
-      "description": "I recently had some issues with quirks relating to my IPv6-only network when trying to set up an AirPlay sink on Raspberry Pi OS. I struggled to find info relating to the IPv6-only bit specifically, so I’ve tried to collate some of the issues I had here in the hope they’re helpful. All of the below was done using Raspberry Pi OS Lite Trixie (Debian 13). Issues I faced New hotness Raspberry Pi OS n"
+      "description": "I recently had some issues with quirks relating to my IPv6-only network when trying to set up an AirPlay sink on Raspberry Pi OS. I struggled to find info relating to the IPv6-only bit specifically, so I’ve tried to collate some of the issues I had here in the hope they’re helpful. All of the below was done using Raspberry Pi OS Lite Trixie (Debian 13). Issues I faced New hotness Raspberry Pi OS n",
+      "date": null
     }
   ]
 }

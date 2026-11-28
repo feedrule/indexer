@@ -4,17 +4,20 @@
     {
       "link": "https://ohhfishal.net/",
       "title": "Home",
-      "description": "Welcome to my digital garden!"
+      "description": "Welcome to my digital garden!",
+      "date": null
     },
     {
       "link": "https://ohhfishal.net/Posts/Letter-to-the-Non-Programmer",
       "title": "Letter to the Non-Programmer",
-      "description": "People in my life aren’t programmers. They don’t know the problems we solve and how we go about solving them."
+      "description": "People in my life aren’t programmers. They don’t know the problems we solve and how we go about solving them.",
+      "date": null
     },
     {
       "link": "https://ohhfishal.net/Posts/claude",
       "title": "Claude Says....",
-      "description": "I don’t care. If I wanted the feedback of an AI, I would have prompted it myself."
+      "description": "I don’t care. If I wanted the feedback of an AI, I would have prompted it myself.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.cryptomilk.org/2026/07/20/self-hosting-voice-services-tts-asr-wake-word/",
       "title": "Self-Hosting voice services (TTS, ASR, Wake Word)",
-      "description": "TL;DR https://codeberg.org/cryptomilk/crane-wyoming Where I started I use Home Assistant, and for text-to-speech (TTS) I’ve been running Piper through Wyoming Piper. Piper is a fast, local neural TTS engine originally built for the Rhasspy project and now maintained by the Open Home Foundation. It’s designed to run entirely offline, even on modest hardware like a Raspberry Pi. Wyoming is the open"
+      "description": "TL;DR https://codeberg.org/cryptomilk/crane-wyoming Where I started I use Home Assistant, and for text-to-speech (TTS) I’ve been running Piper through Wyoming Piper. Piper is a fast, local neural TTS engine originally built for the Rhasspy project and now maintained by the Open Home Foundation. It’s designed to run entirely offline, even on modest hardware like a Raspberry Pi. Wyoming is the open",
+      "date": null
     },
     {
       "link": "https://blog.cryptomilk.org/2026/04/27/announcing-sigrun/",
       "title": "Announcing Sigrún (Run a command)",
-      "description": "Some time ago I used a feature in KDE called “Run a command” when an event triggered. It triggered for me when a calendar event fired and used Piper TTS to read the event to me out loud. A small popup and a pling don’t work for me. I tried to get the feature back into KDE, but since the merge request isn’t going anywhere..."
+      "description": "Some time ago I used a feature in KDE called “Run a command” when an event triggered. It triggered for me when a calendar event fired and used Piper TTS to read the event to me out loud. A small popup and a pling don’t work for me. I tried to get the feature back into KDE, but since the merge request isn’t going anywhere...",
+      "date": null
     },
     {
       "link": "https://blog.cryptomilk.org/2026/01/20/some-tree-love-for-rpm-spec/",
       "title": "Some 🌳💞 for RPM Spec",
-      "description": "Two years ago, I started to look into writing a tree-sitter parser as part of the “Day of Learning” at my employer. As I write and edit many RPM Spec files (also at work), I wanted better highlighting in my text editor, which is Neovim. I had attempted to start the project the year before but was lost. The next year, the tree-sitter documentation improved,..."
+      "description": "Two years ago, I started to look into writing a tree-sitter parser as part of the “Day of Learning” at my employer. As I write and edit many RPM Spec files (also at work), I wanted better highlighting in my text editor, which is Neovim. I had attempted to start the project the year before but was lost. The next year, the tree-sitter documentation improved,...",
+      "date": null
     }
   ]
 }

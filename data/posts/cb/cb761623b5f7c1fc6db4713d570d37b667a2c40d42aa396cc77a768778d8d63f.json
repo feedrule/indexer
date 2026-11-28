@@ -4,17 +4,20 @@
     {
       "link": "https://www.rustyelectrons.com/posts/10-embassy-bootloader-version/",
       "title": "Reading bootloader versions in embedded Rust",
-      "description": "Introduction It’s been well over a year (perhaps almost two even) since I implemented this, so unfortunately I’ve already forgotton most of the story around it. However, I remember it was a huge struggle so I’ve been meaning to write it up for a while in the hope that it might help others in the future. It’s also just a nice reference for my future self :) Anyway, we’ve recently starting shipping"
+      "description": "Introduction It’s been well over a year (perhaps almost two even) since I implemented this, so unfortunately I’ve already forgotton most of the story around it. However, I remember it was a huge struggle so I’ve been meaning to write it up for a while in the hope that it might help others in the future. It’s also just a nice reference for my future self :) Anyway, we’ve recently starting shipping",
+      "date": null
     },
     {
       "link": "https://www.rustyelectrons.com/posts/9-pytorch-rocm-litterbox/",
       "title": "PyTorch on ROCm inside a Litterbox",
-      "description": "Introduction I’ve become very weary about the risk of supply chain attacks and/or rogue “coding agents” compromising my development system. Hence, I am currently doing all my development inside a Litterbox to minimise this risk. Since plenty of my work is in the embedded space, I’ve already had plenty of uhm “fun” figuring out how to get various things working inside a container. One challenge I r"
+      "description": "Introduction I’ve become very weary about the risk of supply chain attacks and/or rogue “coding agents” compromising my development system. Hence, I am currently doing all my development inside a Litterbox to minimise this risk. Since plenty of my work is in the embedded space, I’ve already had plenty of uhm “fun” figuring out how to get various things working inside a container. One challenge I r",
+      "date": null
     },
     {
       "link": "https://www.rustyelectrons.com/posts/8-its-alive/",
       "title": "It's Alive (Merus Speaker Built)",
-      "description": "Introduction It has been a very long time since I followed up on my previous speaker post . The truth is that I actually finished this build over two years ago and just have not gotten around to making a post about it until now (my life got very busy right after the build). This means that I have unfortunately forgotten many of details involved by now. Nonetheless, below is a summary of what I can"
+      "description": "Introduction It has been a very long time since I followed up on my previous speaker post . The truth is that I actually finished this build over two years ago and just have not gotten around to making a post about it until now (my life got very busy right after the build). This means that I have unfortunately forgotten many of details involved by now. Nonetheless, below is a summary of what I can",
+      "date": null
     }
   ]
 }

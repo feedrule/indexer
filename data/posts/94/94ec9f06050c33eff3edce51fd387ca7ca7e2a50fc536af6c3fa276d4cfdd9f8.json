@@ -4,17 +4,20 @@
     {
       "link": "https://wassimans.com/blog/autographe/",
       "title": "Autographe",
-      "description": "I’m starting a new project: Autographe . It’s a desktop app for prose writers. Why yet another desktop app for writers, isn’t there enough of them? The software development industry has gone absolutely crazy with AI. Developers of all levels are using LLMs to produce code to the detriment of their hard-won skills. Not long before, we were arguing about, and almost shy talking about the myth of the"
+      "description": "I’m starting a new project: Autographe . It’s a desktop app for prose writers. Why yet another desktop app for writers, isn’t there enough of them? The software development industry has gone absolutely crazy with AI. Developers of all levels are using LLMs to produce code to the detriment of their hard-won skills. Not long before, we were arguing about, and almost shy talking about the myth of the",
+      "date": null
     },
     {
       "link": "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/",
       "title": "Building IOS Apps With Doom Emacs",
-      "description": "I shipped SPEEM , my latest iOS app, from Doom Emacs. Not from Xcode. I don’t mean I just edited a few files in Emacs and switched back when it was time to build. I mean the whole loop: write Swift, build, boot a simulator, install the app, launch it, stream logs, restart LSP, scaffold new projects. All from inside Emacs, all driven by SPC i keybindings I wrote myself. This post is about how, and"
+      "description": "I shipped SPEEM , my latest iOS app, from Doom Emacs. Not from Xcode. I don’t mean I just edited a few files in Emacs and switched back when it was time to build. I mean the whole loop: write Swift, build, boot a simulator, install the app, launch it, stream logs, restart LSP, scaffold new projects. All from inside Emacs, all driven by SPC i keybindings I wrote myself. This post is about how, and",
+      "date": null
     },
     {
       "link": "https://wassimans.com/blog/the-build-log-moves-to-speem-app/",
       "title": "The build log moves to speem.app",
-      "description": "For the past year I’ve been building SPEEM mostly in private. Now that it’s shipping publicly and I’m trying to make a living from it, I want to write about it more openly: what I’m working on, what I’m learning, what’s working, what isn’t. But I’d rather keep that conversation in one place, with the people who actually use the app, students, parents, other indie devs interested in study tools. So"
+      "description": "For the past year I’ve been building SPEEM mostly in private. Now that it’s shipping publicly and I’m trying to make a living from it, I want to write about it more openly: what I’m working on, what I’m learning, what’s working, what isn’t. But I’d rather keep that conversation in one place, with the people who actually use the app, students, parents, other indie devs interested in study tools. So",
+      "date": null
     }
   ]
 }

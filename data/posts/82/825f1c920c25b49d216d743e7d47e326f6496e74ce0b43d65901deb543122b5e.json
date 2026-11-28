@@ -4,17 +4,20 @@
     {
       "link": "https://hyeomans.com/posts/github-app-authentication-go/",
       "title": "GitHub App Authentication in Go: JWTs and Installation Tokens",
-      "description": "Build a GitHub App in Go that authenticates independently of users, mints short-lived installation tokens, and displays app, organization, and repository data."
+      "description": "Build a GitHub App in Go that authenticates independently of users, mints short-lived installation tokens, and displays app, organization, and repository data.",
+      "date": null
     },
     {
       "link": "https://hyeomans.com/posts/passkeys-only-authentication/",
       "title": "Build Passkey Authentication in Go: A Complete Workshop",
-      "description": "A step-by-step Go workshop: create a passkey, sign in, create a server session, and protect cookie-authenticated requests with a CSRF token."
+      "description": "A step-by-step Go workshop: create a passkey, sign in, create a server session, and protect cookie-authenticated requests with a CSRF token.",
+      "date": null
     },
     {
       "link": "https://hyeomans.com/posts/ssf-implementing-a-basic-ssf-transmiter-in-golang/",
       "title": "Shared Signals Framework: A Basic Transmitter in Go",
-      "description": "Learn what the Shared Signals Framework is, why security events matter, and how to build a small Go transmitter with signed SETs and a SQLite delivery queue."
+      "description": "Learn what the Shared Signals Framework is, why security events matter, and how to build a small Go transmitter with signed SETs and a SQLite delivery queue.",
+      "date": null
     }
   ]
 }

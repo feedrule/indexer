@@ -4,17 +4,20 @@
     {
       "link": "http://ravital.github.io/blog/2026/09/23/pqc",
       "title": "Inside the grey box of post-quantum cryptography standards",
-      "description": "Note: None of this article is AI written. If you follow ePrint , ZK Podcast , or one of the many other sources covering cryptography research, you’ll notice there are new cryptographic schemes being proposed on a monthly (if not weekly) basis. Many of these works improve on efficiency and appear in major academic venues like Eurocrypt . As a cryptographer, I often get asked about the process of go"
+      "description": "Note: None of this article is AI written. If you follow ePrint , ZK Podcast , or one of the many other sources covering cryptography research, you’ll notice there are new cryptographic schemes being proposed on a monthly (if not weekly) basis. Many of these works improve on efficiency and appear in major academic venues like Eurocrypt . As a cryptographer, I often get asked about the process of go",
+      "date": null
     },
     {
       "link": "http://ravital.github.io/blog/2020/07/06/fully-homomorphic-encryption-for-engineers",
       "title": "Fully Homomorphic Encryption for Engineers",
-      "description": "Note: This article was originally written for NuCypher. Fully homomorphic encryption is a fabled technology (at least in the cryptography community) that allows for arbitrary computation over encrypted data. With privacy as a major focus across tech, fully homomorphic encryption (FHE) fits perfectly into this new narrative. FHE is relevant to public distributed ledgers (such as blockchain) and mac"
+      "description": "Note: This article was originally written for NuCypher. Fully homomorphic encryption is a fabled technology (at least in the cryptography community) that allows for arbitrary computation over encrypted data. With privacy as a major focus across tech, fully homomorphic encryption (FHE) fits perfectly into this new narrative. FHE is relevant to public distributed ledgers (such as blockchain) and mac",
+      "date": null
     },
     {
       "link": "http://ravital.github.io/blog/2020/06/19/resources",
       "title": "Resources for Lattice Cryptography, Fully Homomorphic Encryption, and Zero-knowledge Proofs",
-      "description": "I’ve collected some resources if you’re interested in learning more about lattice-based cryptography, fully homomorphic encryption (FHE), or zero-knowledge proofs (ZKP). Wikipedia is a great place to start before diving into anything listed below. Lattice-based Cryptography Lattice-based cryptography is a type of post-quantum crytography (i.e. cryptography that is resistant to attacks from a quant"
+      "description": "I’ve collected some resources if you’re interested in learning more about lattice-based cryptography, fully homomorphic encryption (FHE), or zero-knowledge proofs (ZKP). Wikipedia is a great place to start before diving into anything listed below. Lattice-based Cryptography Lattice-based cryptography is a type of post-quantum crytography (i.e. cryptography that is resistant to attacks from a quant",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.basicinputoutput.com/2026/11/hello-world-with-stuart-build-tool.html",
       "title": "\"Hello World\" with the stuart Build Tool",
-      "description": "Historically, preparing the edk2 source for building has been quite an involved affair. So much so that I've written several articles to document all the steps required just to get your system prepared to build an edk2 driver/application. E.g.: Quick-Start Guide to UDK2014 “Hello World” Quick-Start with UDK2015 “Hello World” Quick-Start with edk2-stable201908 Specifically, one would have to unzip"
+      "description": "Historically, preparing the edk2 source for building has been quite an involved affair. So much so that I've written several articles to document all the steps required just to get your system prepared to build an edk2 driver/application. E.g.: Quick-Start Guide to UDK2014 “Hello World” Quick-Start with UDK2015 “Hello World” Quick-Start with edk2-stable201908 Specifically, one would have to unzip",
+      "date": null
     },
     {
       "link": "https://www.basicinputoutput.com/2026/10/introduction-to-seabios.html",
       "title": "Introduction to SeaBIOS",
-      "description": "SeaBIOS is an open-source implementation of a 16-bit x86 BIOS. The name is a pun: it is a BIOS written in C (instead of the traditional assembly). It is the firmware that QEMU and KVM run by default, and it is the payload coreboot uses when the next piece of software still expects a classic PC BIOS rather than UEFI. This post covers where SeaBIOS came from, what job it actually does, where it is a"
+      "description": "SeaBIOS is an open-source implementation of a 16-bit x86 BIOS. The name is a pun: it is a BIOS written in C (instead of the traditional assembly). It is the firmware that QEMU and KVM run by default, and it is the payload coreboot uses when the next piece of software still expects a classic PC BIOS rather than UEFI. This post covers where SeaBIOS came from, what job it actually does, where it is a",
+      "date": null
     },
     {
       "link": "https://www.basicinputoutput.com/2026/09/introduction-to-uefi-conformance.html",
       "title": "Introduction to UEFI Conformance Profiles",
-      "description": "The UEFI Specification v2.11 is well over two thousand pages, and even the short list of “required elements” in §2.6 assumes a general-purpose computer: consoles, a configuration UI, standard buses, and runtime services that keep working after the operating system takes over from BIOS. UEFI was originally designed for such machines, not really for embedded systems or small single-board computers ("
+      "description": "The UEFI Specification v2.11 is well over two thousand pages, and even the short list of “required elements” in §2.6 assumes a general-purpose computer: consoles, a configuration UI, standard buses, and runtime services that keep working after the operating system takes over from BIOS. UEFI was originally designed for such machines, not really for embedded systems or small single-board computers (",
+      "date": null
     }
   ]
 }

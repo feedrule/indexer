@@ -4,17 +4,20 @@
     {
       "link": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
       "title": "Avoid Public Functions Calling Other Public Functions",
-      "description": "A small-scale rule of thumb. This article will land much better with a concrete example, but I am drawing a blank here, so you gotta just blindly trust my say so!"
+      "description": "A small-scale rule of thumb. This article will land much better with a concrete example, but I am drawing a blank here, so you gotta just blindly trust my say so!",
+      "date": null
     },
     {
       "link": "https://matklad.github.io/2026/10/07/git-ref.html",
       "title": "On Git Refs",
-      "description": "I have recently improved my mental model of Git. Consider these two git commands:"
+      "description": "I have recently improved my mental model of Git. Consider these two git commands:",
+      "date": null
     },
     {
       "link": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
       "title": "Benchmark In Milliseconds",
-      "description": "How long should a micro benchmark run? My rule of thumb is to tweak the input size until the benchmark takes about 300ms, for the following reasons:"
+      "description": "How long should a micro benchmark run? My rule of thumb is to tweak the input size until the benchmark takes about 300ms, for the following reasons:",
+      "date": null
     }
   ]
 }

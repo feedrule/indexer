@@ -4,17 +4,20 @@
     {
       "link": "https://www.jtrive.com/posts/time-lapse-video-creation/timelapse-wildflowers-with-opencv-final.html",
       "title": "Creating Time Lapse Videos with OpenCV",
-      "description": "This spring, my daughter Liv and I created a time-lapse video documenting the growth cycle of the wildflowers we planted in the backyard. We built a weatherproof enclosure for a Raspberry Pi-powered camera and configured it to take a photograph every 30 minutes, from 5 a.m. to 10 p.m. each day, May 10th thru September 2. We used Picamera2 to capture the images, and the code to take the pictures wa"
+      "description": "This spring, my daughter Liv and I created a time-lapse video documenting the growth cycle of the wildflowers we planted in the backyard. We built a weatherproof enclosure for a Raspberry Pi-powered camera and configured it to take a photograph every 30 minutes, from 5 a.m. to 10 p.m. each day, May 10th thru September 2. We used Picamera2 to capture the images, and the code to take the pictures wa",
+      "date": null
     },
     {
       "link": "https://www.jtrive.com/posts/practical-nlp-for-risk-modeling-supplement/mean-pooling-attention-mask.html",
       "title": "Practical NLP for Risk Modeling Supplement - Mean Pooling With an Attention Mask",
-      "description": "In Part I of the Practical NLP for Risk Modeling series, we used mean pooling to turn the token-level output of a pre-trained transformer into a single vector representing an a single text sample. In this supplement, we’ll walkthrough how any padding tokens added to a sample are excluded from the mean pooling operation. The basic idea is: where is the transformer embedding for token , and is the c"
+      "description": "In Part I of the Practical NLP for Risk Modeling series, we used mean pooling to turn the token-level output of a pre-trained transformer into a single vector representing an a single text sample. In this supplement, we’ll walkthrough how any padding tokens added to a sample are excluded from the mean pooling operation. The basic idea is: where is the transformer embedding for token , and is the c",
+      "date": null
     },
     {
       "link": "https://www.jtrive.com/posts/mat-fact-lin-reg/mat-fact-lin-reg.html",
       "title": "Why Numerical Solvers Use Matrix Decompositions for Linear Regression",
-      "description": "This post is an attempt to shed light on why the familiar closed-form solution for least-squares coefficients is avoided in statistical software, and how matrix decompositions provide more numerically stable alternatives. We begin by deriving the normal equations for the standard multiple linear regression model, then use that result as a foundation for exploring more reliable computational approa"
+      "description": "This post is an attempt to shed light on why the familiar closed-form solution for least-squares coefficients is avoided in statistical software, and how matrix decompositions provide more numerically stable alternatives. We begin by deriving the normal equations for the standard multiple linear regression model, then use that result as a foundation for exploring more reliable computational approa",
+      "date": null
     }
   ]
 }

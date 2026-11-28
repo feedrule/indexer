@@ -4,17 +4,20 @@
     {
       "link": "https://nowhereman999.wordpress.com/2026/10/18/asteroids-6502-transcode-to-6809-is-complete/",
       "title": "Asteroids 6502 transcode to 6809 is complete",
-      "description": "Ever since I was a young I loved Asteroids and I used to play it a lot in the arcade. I always wanted it for my CoCo. I did buy Microbes, which was a nice Asteroidish game for the CoCo that Radio Shack released on cartridge. But it still wasn’t the same as the real […]"
+      "description": "Ever since I was a young I loved Asteroids and I used to play it a lot in the arcade. I always wanted it for my CoCo. I did buy Microbes, which was a nice Asteroidish game for the CoCo that Radio Shack released on cartridge. But it still wasn’t the same as the real […]",
+      "date": null
     },
     {
       "link": "https://nowhereman999.wordpress.com/2026/08/20/coco-decb-stand-alone-assembly-library/",
       "title": "CoCo DECB stand alone assembly library",
-      "description": "While working on my BASIC to 6809 compiler which already supports LOADM, I wanted to improve it to support SAVEM and reading and writing bytes from a sequential file. There are times when I’m working on my own assembly projects that I could use these features, so I made a stand alone library that anyone […]"
+      "description": "While working on my BASIC to 6809 compiler which already supports LOADM, I wanted to improve it to support SAVEM and reading and writing bytes from a sequential file. There are times when I’m working on my own assembly projects that I could use these features, so I made a stand alone library that anyone […]",
+      "date": null
     },
     {
       "link": "https://nowhereman999.wordpress.com/2026/08/08/rick-dangerous-for-the-coco-3/",
       "title": "Rick Dangerous for the CoCo 3",
-      "description": "I finished a CoCo 3 version of the game Rick Dangerous For the TRS-80 Colour Computer 3, it requires 2 Megs of RAM and a 6309 CPU I originally planned to do a transcode from the Amiga version of the game which uses a 68000 CPU. I did start by slowly disassembling the Amiga version […]"
+      "description": "I finished a CoCo 3 version of the game Rick Dangerous For the TRS-80 Colour Computer 3, it requires 2 Megs of RAM and a 6309 CPU I originally planned to do a transcode from the Amiga version of the game which uses a 68000 CPU. I did start by slowly disassembling the Amiga version […]",
+      "date": null
     }
   ]
 }

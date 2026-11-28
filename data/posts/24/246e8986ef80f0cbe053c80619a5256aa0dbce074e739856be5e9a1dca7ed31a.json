@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "cgit as an Unintentional Honeypot",
-      "description": "On a whim, I recently migrated all of my Git repositories to a cgit instance on WIREDNET . It's caused some headaches because the server-side rendering can be quite resource intensive. Mere minutes after setting it up, the fans on my server spun up because the repos were being scraped by ClaudeBot and friends. I hadn't linked to it from anywhere, so it's likely they found it from LetsEncrypt's iss"
+      "description": "On a whim, I recently migrated all of my Git repositories to a cgit instance on WIREDNET . It's caused some headaches because the server-side rendering can be quite resource intensive. Mere minutes after setting it up, the fans on my server spun up because the repos were being scraped by ClaudeBot and friends. I hadn't linked to it from anywhere, so it's likely they found it from LetsEncrypt's iss",
+      "date": null
     },
     {
       "link": null,
       "title": "Eschewing An Established Convention Because We Can",
-      "description": "Nearly every programming language has some flavor of \"structure\" declaration , where the programmer can conjure a new type representing the composition of other primitive types or structures, neatly organized into named fields. While the concept is practically universal, the way the programmer defines and interacts with these types can vary dramatically between languages. In Scheme, such structure"
+      "description": "Nearly every programming language has some flavor of \"structure\" declaration , where the programmer can conjure a new type representing the composition of other primitive types or structures, neatly organized into named fields. While the concept is practically universal, the way the programmer defines and interacts with these types can vary dramatically between languages. In Scheme, such structure",
+      "date": null
     },
     {
       "link": null,
       "title": "USB-PD Is Pretty Cool",
-      "description": "Packed lunches are a great way to save money, but being limited to foods palatable at room temperature (or colder) can be a little discouraging. In most American workplaces, a microwave oven is readily available in the breakroom, making it easy to reheat a home-cooked meal. However, after leaving a desk-bound white-collar job for one that often takes me into the field, that's only occasionally an"
+      "description": "Packed lunches are a great way to save money, but being limited to foods palatable at room temperature (or colder) can be a little discouraging. In most American workplaces, a microwave oven is readily available in the breakroom, making it easy to reheat a home-cooked meal. However, after leaving a desk-bound white-collar job for one that often takes me into the field, that's only occasionally an",
+      "date": null
     }
   ]
 }

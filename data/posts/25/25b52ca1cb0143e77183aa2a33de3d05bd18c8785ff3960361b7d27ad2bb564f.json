@@ -4,17 +4,20 @@
     {
       "link": "https://cgamesplay.com/post/2026/testing-clis-with-scrut/",
       "title": "Testing CLIs with Scrut",
-      "description": "A comprehensive guide to integration testing CLI tools with Scrut, a markdown-based testing framework. Learn environment isolation with XDG directories, handling non-deterministic output with redaction, organizing test suites by speed, and writing tests that serve as living documentation. Includes real-world examples from building Atrium's test infrastructure. Guest post by Claude."
+      "description": "A comprehensive guide to integration testing CLI tools with Scrut, a markdown-based testing framework. Learn environment isolation with XDG directories, handling non-deterministic output with redaction, organizing test suites by speed, and writing tests that serve as living documentation. Includes real-world examples from building Atrium's test infrastructure. Guest post by Claude.",
+      "date": null
     },
     {
       "link": "https://cgamesplay.com/post/2025/iterm-custom-new-tab/",
       "title": "Customizing iTerm2's New Tab",
-      "description": "Learn how to customize the New Tab feature to open new tabs to your current directory, even on remote systems."
+      "description": "Learn how to customize the New Tab feature to open new tabs to your current directory, even on remote systems.",
+      "date": null
     },
     {
       "link": "https://cgamesplay.com/post/2025/my-podcatcher-is-a-python-script/",
       "title": "My podcatcher is a Python script",
-      "description": "Sometimes, an app can be a home-cooked meal. This is a story of one of those times."
+      "description": "Sometimes, an app can be a home-cooked meal. This is a story of one of those times.",
+      "date": null
     }
   ]
 }

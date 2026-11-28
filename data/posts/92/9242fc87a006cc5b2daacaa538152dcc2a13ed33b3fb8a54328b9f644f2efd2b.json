@@ -4,17 +4,20 @@
     {
       "link": "https://ryan.freumh.org/dependency-resolution-natural-join.html",
       "title": "Dependency Resolution via Natural Join",
-      "description": "Package managers generally use SAT solvers 1 for dependency resolution, walking the solution space, backtracking on conflicts, to find a resolution. This article will explain how a dependency resolution algorithm to find the whole solution space can be defined as a sequence of natural joins, and discuss the feasibility of implementing such an algorithm. It’s based on conversations with Gershom Baz"
+      "description": "Package managers generally use SAT solvers 1 for dependency resolution, walking the solution space, backtracking on conflicts, to find a resolution. This article will explain how a dependency resolution algorithm to find the whole solution space can be defined as a sequence of natural joins, and discuss the feasibility of implementing such an algorithm. It’s based on conversations with Gershom Baz",
+      "date": null
     },
     {
       "link": "https://ryan.freumh.org/package-calculus.html",
       "title": "The Package Calculus",
-      "description": "Package managers are numerous and diverse, yet all fundamentally solve the same problem, while remaining ad hoc and non-interoperable. This fragmentation prevents multilingual projects from expressing precise dependencies across language ecosystems; it leaves external system and hardware dependencies implicit and unversioned; it obscures security vulnerabilities that lie in the full dependency gra"
+      "description": "Package managers are numerous and diverse, yet all fundamentally solve the same problem, while remaining ad hoc and non-interoperable. This fragmentation prevents multilingual projects from expressing precise dependencies across language ecosystems; it leaves external system and hardware dependencies implicit and unversioned; it obscures security vulnerabilities that lie in the full dependency gra",
+      "date": null
     },
     {
       "link": "https://ryan.freumh.org/papers/2026-package-calculus.html",
       "title": "Package Managers à la Carte",
-      "description": "A Formal Model of Dependency Resolution"
+      "description": "A Formal Model of Dependency Resolution",
+      "date": null
     }
   ]
 }

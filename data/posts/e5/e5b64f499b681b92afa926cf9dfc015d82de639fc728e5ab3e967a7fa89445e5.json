@@ -4,17 +4,20 @@
     {
       "link": "https://oxal.org/blog/testing-my-sn7100-4tb-ssd/",
       "title": "Testing my WD SN7100 4TB SSD",
-      "description": "~ sudo f3probe --destructive --time-ops /dev/sde F3 probe 9.0 Copyright (C) 2010 Digirati Internet LTDA. This is free software; see the source for copying conditions. WARNING: Probing normally takes f..."
+      "description": "~ sudo f3probe --destructive --time-ops /dev/sde F3 probe 9.0 Copyright (C) 2010 Digirati Internet LTDA. This is free software; see the source for copying conditions. WARNING: Probing normally takes f...",
+      "date": null
     },
     {
       "link": "https://oxal.org/blog/discord-screen-share-broken-kde-wayland/",
       "title": "Discord Screen Share Broken on KDE Wayland? Here's the fix",
-      "description": "So I’m in a call, someone asks me to share my screen, I click the button and… nothing. No error, no dialog, no nothing. Just Discord pretending I never clicked anything. Cool cool cool. I..."
+      "description": "So I’m in a call, someone asks me to share my screen, I click the button and… nothing. No error, no dialog, no nothing. Just Discord pretending I never clicked anything. Cool cool cool. I...",
+      "date": null
     },
     {
       "link": "https://oxal.org/blog/handcrafted-mascot-on-my-blog-like-its-2007/",
       "title": "Handcrafted Mascot On My Blog Like Its 2007 (feat. VanillaJS)",
-      "description": "You know those cute little mascots that follow your cursor like needy pets? I wanted one. So I built it. No frameworks, no libraries, no npm, no bs. Just pure VanillaJS and some emotional support from..."
+      "description": "You know those cute little mascots that follow your cursor like needy pets? I wanted one. So I built it. No frameworks, no libraries, no npm, no bs. Just pure VanillaJS and some emotional support from...",
+      "date": null
     }
   ]
 }

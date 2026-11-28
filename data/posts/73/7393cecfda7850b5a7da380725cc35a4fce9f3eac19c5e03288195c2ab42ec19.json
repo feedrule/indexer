@@ -4,17 +4,20 @@
     {
       "link": "http://j23n.com/public/posts/2026/localios",
       "title": "LocaliOS",
-      "description": "why I try not to use the cloud for my personal files - and I really like to have information as files, as opposed to opaque databases. Files are great! I know exactly where they are, I can inspect them, back them up, and open them with any tool I choose ten years from now. Cloud services are convenient, yes, but they lock you in and cost money. .vcf , .mp3 , .jpeg and .png files - these will still"
+      "description": "why I try not to use the cloud for my personal files - and I really like to have information as files, as opposed to opaque databases. Files are great! I know exactly where they are, I can inspect them, back them up, and open them with any tool I choose ten years from now. Cloud services are convenient, yes, but they lock you in and cost money. .vcf , .mp3 , .jpeg and .png files - these will still",
+      "date": null
     },
     {
       "link": "http://j23n.com/public/posts/2026/letting-claude-into-my-devices-safely",
       "title": "Untrusted Claude Code and radicle.xyz setup",
-      "description": "Claude confinement I don't trust Claude Code, and especially myself, to not inadvertently upload any or all of my private data to Anthropic's servers and thus be immortalized in logs. That's why Claude lives in a dedicated lxc container on my machine. If need be, I can mount shared volumes, or forward ports to/from the host, but I find that's rarely necessary. Here's how I've set things up. j23n@h"
+      "description": "Claude confinement I don't trust Claude Code, and especially myself, to not inadvertently upload any or all of my private data to Anthropic's servers and thus be immortalized in logs. That's why Claude lives in a dedicated lxc container on my machine. If need be, I can mount shared volumes, or forward ports to/from the host, but I find that's rarely necessary. Here's how I've set things up. j23n@h",
+      "date": null
     },
     {
       "link": "http://j23n.com/public/posts/2026/my-ai-policy",
       "title": "My AI policy",
-      "description": "After a lot of back and forth with agentic coding, I've landed on a system that works for me, and it's based on dividing my workload into things that interest me and those I offload to (the ever increasingly capable) AI agents. Right off the bat, all content on this site is written by me, edited by me and reflect my own thoughts and my own journey. In projects I'm working on, I try to make the dec"
+      "description": "After a lot of back and forth with agentic coding, I've landed on a system that works for me, and it's based on dividing my workload into things that interest me and those I offload to (the ever increasingly capable) AI agents. Right off the bat, all content on this site is written by me, edited by me and reflect my own thoughts and my own journey. In projects I'm working on, I try to make the dec",
+      "date": null
     }
   ]
 }

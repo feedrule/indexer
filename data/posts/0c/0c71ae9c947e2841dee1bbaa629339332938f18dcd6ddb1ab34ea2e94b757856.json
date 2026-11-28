@@ -4,17 +4,20 @@
     {
       "link": "https://davidegerosa.com/posts/2026-11-25-sep-oct-nov-graduations",
       "title": "Sep-Oct-Nov graduations…",
-      "description": "We’ve had three graduation sessions recently (September, October, November), with students from the group graduating in all of them. Here’s a quick update (with congrats to all the new graduates, and thanks for working with me and my group!)."
+      "description": "We’ve had three graduation sessions recently (September, October, November), with students from the group graduating in all of them. Here’s a quick update (with congrats to all the new graduates, and thanks for working with me and my group!).",
+      "date": null
     },
     {
       "link": "https://davidegerosa.com/posts/2026-11-16-gravitational-wave-hierarchical-inference-from-population-samples",
       "title": "Gravitational-wave hierarchical inference from population samples",
-      "description": "When doing gravitational-wave population fits (the notorious Bayesian hierarchical analyses), one typically relies on models that can be evaluated. That means I have the PDF of the model. This seems fair—what’s wrong with that? But in practice, it prevents a lot of applications. My stellar physics friends who run state-of-the-art simulations don’t really have a PDF, but rather a numerical generati"
+      "description": "When doing gravitational-wave population fits (the notorious Bayesian hierarchical analyses), one typically relies on models that can be evaluated. That means I have the PDF of the model. This seems fair—what’s wrong with that? But in practice, it prevents a lot of applications. My stellar physics friends who run state-of-the-art simulations don’t really have a PDF, but rather a numerical generati",
+      "date": null
     },
     {
       "link": "https://davidegerosa.com/posts/2026-11-13-population-inference-of-eccentric-binary-black-holes-using-asymptotic-constants-of-motion",
       "title": "Population inference of eccentric binary black holes using asymptotic constants of motion",
-      "description": "This problem is actually more general than gravitational-wave astronomy (but we apply it to GWs here, sorry), namely that of sources that evolve while being observed. If their properties are quoted at some reference epoch (time or frequency, or any other signpost), then inferring their collective properties becomes challenging (or at least the interpretation becomes challenging), because I’m left"
+      "description": "This problem is actually more general than gravitational-wave astronomy (but we apply it to GWs here, sorry), namely that of sources that evolve while being observed. If their properties are quoted at some reference epoch (time or frequency, or any other signpost), then inferring their collective properties becomes challenging (or at least the interpretation becomes challenging), because I’m left",
+      "date": null
     }
   ]
 }

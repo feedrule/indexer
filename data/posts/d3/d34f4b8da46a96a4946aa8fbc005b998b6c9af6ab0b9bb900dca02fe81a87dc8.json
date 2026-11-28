@@ -4,17 +4,20 @@
     {
       "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
       "title": "JPEG XL vs AVIF for web use-cases",
-      "description": "JPEG XL has landed, but how does it compare?"
+      "description": "JPEG XL has landed, but how does it compare?",
+      "date": null
     },
     {
       "link": "https://jakearchibald.com/2026/css-custom-property-compute-time/",
       "title": "Controlling when CSS custom property values are computed",
-      "description": "The default might not be what you expect, and it has a big impact on your styles."
+      "description": "The default might not be what you expect, and it has a big impact on your styles.",
+      "date": null
     },
     {
       "link": "https://jakearchibald.com/2026/my-tooltip-a11y-mistake/",
       "title": "Fixing my tooltip accessibility mistake",
-      "description": "aria-describedby isn't always enough."
+      "description": "aria-describedby isn't always enough.",
+      "date": null
     }
   ]
 }

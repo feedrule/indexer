@@ -4,17 +4,20 @@
     {
       "link": "https://aslihan.live/posts/darkside-of-efficiency/",
       "title": "The Dark Side of Efficiency",
-      "description": "I like efficiency. I like understanding a problem, finding the shortest way to deal with it and moving on. The problem is, after doing this for long enough, you start expecting everything else to work at the same speed. A meeting feels too long. Someone is explaining something and you already know where it is going. A question feels obvious, a mistake looks avoidable, and at some point you start thinking, how are we still here?"
+      "description": "I like efficiency. I like understanding a problem, finding the shortest way to deal with it and moving on. The problem is, after doing this for long enough, you start expecting everything else to work at the same speed. A meeting feels too long. Someone is explaining something and you already know where it is going. A question feels obvious, a mistake looks avoidable, and at some point you start thinking, how are we still here?",
+      "date": "2026-09-21"
     },
     {
       "link": "https://aslihan.live/posts/ownership/",
       "title": "The OT Security Problem Nobody Patches: Ownership",
-      "description": "When it comes to cybersecurity, we usually look for technical vulnerabilities. Missing patches. Weak configurations. Exposed services. CVEs. But in OT, sometimes the real vulnerability is much simpler: Nobody is fully sure who owns the system. Who owns the hardware? Who patches the OS? Who manages the application? Who follows the vendor? Who takes the backup? And if something actually goes wrong, who owns the recovery? Having different teams involved is not the problem."
+      "description": "When it comes to cybersecurity, we usually look for technical vulnerabilities. Missing patches. Weak configurations. Exposed services. CVEs. But in OT, sometimes the real vulnerability is much simpler: Nobody is fully sure who owns the system. Who owns the hardware? Who patches the OS? Who manages the application? Who follows the vendor? Who takes the backup? And if something actually goes wrong, who owns the recovery? Having different teams involved is not the problem.",
+      "date": "2026-09-06"
     },
     {
       "link": "https://aslihan.live/posts/takeaways-from-aws-outage/",
       "title": "My Takeaways from the AWS Outage",
-      "description": "It’s always DNS. That’s the joke. But this time, it wasn’t funny because half of the internet went dark, and the punchline cost billions. When AWS went down, it wasn’t a “server crash.” It was automation turning against itself. Two systems; one to plan DNS changes, another to execute them. Started racing. The result: Empty DNS records. No IPs, no routing, no service discovery. Essentially, the cloud forgot where it lived."
+      "description": "It’s always DNS. That’s the joke. But this time, it wasn’t funny because half of the internet went dark, and the punchline cost billions. When AWS went down, it wasn’t a “server crash.” It was automation turning against itself. Two systems; one to plan DNS changes, another to execute them. Started racing. The result: Empty DNS records. No IPs, no routing, no service discovery. Essentially, the cloud forgot where it lived.",
+      "date": "2025-10-27"
     }
   ]
 }

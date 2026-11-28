@@ -4,17 +4,20 @@
     {
       "link": "https://shadowhand.bearblog.dev/aws-lambda-is-still-my-platform-of-choice/",
       "title": "AWS Lambda is still my platform of choice",
-      "description": "With the recent security patches that PHP underwent, as well as the *sshole bug in SSH on musl-based Linux, I have been re-evaluating my desire to transition services away from AWS Lambda. Some months ago, I proposed to our company that we move our (public) API services written in PHP to AWS Fargate, using RoadRunner as the server. My thinking was: PHP is not a natively supported runtime on AWS La"
+      "description": "With the recent security patches that PHP underwent, as well as the *sshole bug in SSH on musl-based Linux, I have been re-evaluating my desire to transition services away from AWS Lambda. Some months ago, I proposed to our company that we move our (public) API services written in PHP to AWS Fargate, using RoadRunner as the server. My thinking was: PHP is not a natively supported runtime on AWS La",
+      "date": null
     },
     {
       "link": "https://shadowhand.bearblog.dev/errata-an-api-problem-document-and-middleware-package/",
       "title": "Errata - an API Problem document and middleware package",
-      "description": "Today, I released Errata , a package for the RFC 9457 API Problem specification. While there are several other packages that support this specification, most of them are outdated and using legacy PHP style instead of modern features. Errata requires PHP 8.4 for property hooks . By using property hooks, we can avoid dealing with getters and setters and just use properties, but with safety checks. E"
+      "description": "Today, I released Errata , a package for the RFC 9457 API Problem specification. While there are several other packages that support this specification, most of them are outdated and using legacy PHP style instead of modern features. Errata requires PHP 8.4 for property hooks . By using property hooks, we can avoid dealing with getters and setters and just use properties, but with safety checks. E",
+      "date": null
     },
     {
       "link": "https://shadowhand.bearblog.dev/supply-chain-attacks-and-dependabot/",
       "title": "Supply Chain Attacks and Dependabot",
-      "description": "Due to recent supply chain attacks, I am starting to take a much more conservative approach to automatic dependency updates. At minimum, my dependabot.yml files will now have the following configuration: cooldown : default-days : 3 The goal is to allow for any compromised supply chain to be repaired, before Dependabot gives me an infected package. This buffer might not even be enough. Seven days m"
+      "description": "Due to recent supply chain attacks, I am starting to take a much more conservative approach to automatic dependency updates. At minimum, my dependabot.yml files will now have the following configuration: cooldown : default-days : 3 The goal is to allow for any compromised supply chain to be repaired, before Dependabot gives me an infected package. This buffer might not even be enough. Seven days m",
+      "date": null
     }
   ]
 }

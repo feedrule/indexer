@@ -4,17 +4,20 @@
     {
       "link": "https://blogfarts.blogspot.com/2026/09/shed-skin-restricted-python-to-c.html",
       "title": "Shed Skin restricted-Python-to-C++ transpiler 0.9.13",
-      "description": "I have just released version 0.9.13 of Shed Skin , a restricted-python to C++ transpiler. Shed Skin allows one to effectively convert (or transpile) pure Python code to highly optimized machine code. This comes at the cost though of having to conform to a seriously restricted subset of Python features/libraries. Programs currently also cannot be too large, although it is possible to generate exten"
+      "description": "I have just released version 0.9.13 of Shed Skin , a restricted-python to C++ transpiler. Shed Skin allows one to effectively convert (or transpile) pure Python code to highly optimized machine code. This comes at the cost though of having to conform to a seriously restricted subset of Python features/libraries. Programs currently also cannot be too large, although it is possible to generate exten",
+      "date": null
     },
     {
       "link": "https://blogfarts.blogspot.com/2025/12/shed-skin-restricted-python-to-c.html",
       "title": "Shed Skin restricted-Python-to-C++ compiler v0.9.11 released",
-      "description": "I have just released version 0.9.11 of Shed Skin, a restricted-Python-to-C++ compiler. Most importantly, it adds support for Python 3.14. It also adds support for many 3.x features that were not yet implemented, in addition to basic support for the base64 module. It also optimizes a few more common code patterns. Paul Boddie was able to add support for libpcre2, and in the process updated conan to"
+      "description": "I have just released version 0.9.11 of Shed Skin, a restricted-Python-to-C++ compiler. Most importantly, it adds support for Python 3.14. It also adds support for many 3.x features that were not yet implemented, in addition to basic support for the base64 module. It also optimizes a few more common code patterns. Paul Boddie was able to add support for libpcre2, and in the process updated conan to",
+      "date": null
     },
     {
       "link": "https://blogfarts.blogspot.com/2024/06/shed-skin-restricted-python-to-c.html",
       "title": "Shed Skin restricted-Python-to-C++ compiler 0.9.9",
-      "description": "I have just released version 0.9.9 of Shed Skin, a restricted-Python-to-C++ compiler. It comes with many changes under the hood to improve the code base. For example, Shakeeb has started adding type annotations to Shed Skin itself, whereas I have fixed many C++ compiler warnings. We have also replaced the old CPython-based dict and set implementations with STL unordered_map and unordered_set. Whil"
+      "description": "I have just released version 0.9.9 of Shed Skin, a restricted-Python-to-C++ compiler. It comes with many changes under the hood to improve the code base. For example, Shakeeb has started adding type annotations to Shed Skin itself, whereas I have fixed many C++ compiler warnings. We have also replaced the old CPython-based dict and set implementations with STL unordered_map and unordered_set. Whil",
+      "date": null
     }
   ]
 }

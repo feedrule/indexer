@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "MikroTik hEX S (2025) AAISP Configuration",
-      "description": "In my never-ending quest to screw up my Internet connection, I bought a MikroTik hEX S (2025) , otherwise known by the slightly less catchy “E60iUGS”. I used to have a RB2011UiAS-2HnD-IN which generally served me well, except the WiFi on it was well past its prime, so I bought some TP-Link Deco X55s. When they work, they’re alright; the trouble is they don’t work a lot more often than I’d like. th"
+      "description": "In my never-ending quest to screw up my Internet connection, I bought a MikroTik hEX S (2025) , otherwise known by the slightly less catchy “E60iUGS”. I used to have a RB2011UiAS-2HnD-IN which generally served me well, except the WiFi on it was well past its prime, so I bought some TP-Link Deco X55s. When they work, they’re alright; the trouble is they don’t work a lot more often than I’d like. th",
+      "date": null
     },
     {
       "link": null,
       "title": "Goodbye Aquiss",
-      "description": "By my reckoning I’ve been using Aquiss as my ISP for over 10 years. Needless to say, I’ve been pretty happy with them. I like small ISPs because I like to think they give a shit about their customers. At the other end of the spectrum, you have Big Tech™ companies like Google and Cloudflare whose only motivation seems to be to get as rich and powerful as possible by exploiting their customers and u"
+      "description": "By my reckoning I’ve been using Aquiss as my ISP for over 10 years. Needless to say, I’ve been pretty happy with them. I like small ISPs because I like to think they give a shit about their customers. At the other end of the spectrum, you have Big Tech™ companies like Google and Cloudflare whose only motivation seems to be to get as rich and powerful as possible by exploiting their customers and u",
+      "date": null
     },
     {
       "link": null,
       "title": "Diagnosing DbContext disposed InvalidOperationException",
-      "description": "While working on a large project that uses the unit of work pattern (and other things that generally make it harder to debug), I was getting an InvalidOperationException with an error about the DbContext being disposed. It wasn’t obvious where this was happening, so I came up with the following: using System.Diagnostics; namespace My.Cool.Project { internal class CustomDbContext : MyActualDbContex"
+      "description": "While working on a large project that uses the unit of work pattern (and other things that generally make it harder to debug), I was getting an InvalidOperationException with an error about the DbContext being disposed. It wasn’t obvious where this was happening, so I came up with the following: using System.Diagnostics; namespace My.Cool.Project { internal class CustomDbContext : MyActualDbContex",
+      "date": null
     }
   ]
 }

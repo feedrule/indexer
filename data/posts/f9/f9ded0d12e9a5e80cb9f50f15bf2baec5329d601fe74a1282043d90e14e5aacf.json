@@ -4,17 +4,20 @@
     {
       "link": "https://fred.glass/tool-design/",
       "title": "Tool Design",
-      "description": "I’ve spent the last few months building a conversational agent focused on improving discovery and reducing the support burden. I know what you’re thinking… another chatbot is exactly what the world needed. You’re welcome. In any case, it has been fun operating at the cutting edge of this AI summer , though development has been a rollercoaster, with traditional software engineering and all its rigo"
+      "description": "I’ve spent the last few months building a conversational agent focused on improving discovery and reducing the support burden. I know what you’re thinking… another chatbot is exactly what the world needed. You’re welcome. In any case, it has been fun operating at the cutting edge of this AI summer , though development has been a rollercoaster, with traditional software engineering and all its rigo",
+      "date": null
     },
     {
       "link": "https://fred.glass/slow-agents/",
       "title": "Slow Agents",
-      "description": "We recently upgraded from a RAG workflow to a fully agentic system. We saw significant gains in quality, but unfortunately there is no such thing as a free lunch and our median response time dropped from 3.5s to 14s. This degradation came from tool usage and a model swap from Gemini Flash 2.0 to Claude Sonnet 4 (slower but significantly stronger agentic capabilities). The response time was deemed"
+      "description": "We recently upgraded from a RAG workflow to a fully agentic system. We saw significant gains in quality, but unfortunately there is no such thing as a free lunch and our median response time dropped from 3.5s to 14s. This degradation came from tool usage and a model swap from Gemini Flash 2.0 to Claude Sonnet 4 (slower but significantly stronger agentic capabilities). The response time was deemed",
+      "date": null
     },
     {
       "link": "https://fred.glass/imperfect-network-calls/",
       "title": "Imperfect Network Calls",
-      "description": "I recently audited our estate and noticed many inconsistencies in how we make service calls. Who knew there could be such variation for a commonplace task? Some pitfalls include... No Logging No Metrics No Retry Strategy No Response Validation Inconsistent Error Handling No Correlation ID Propagation No Logging In particular, pre-request and post-response logging. Many times I have been debugging"
+      "description": "I recently audited our estate and noticed many inconsistencies in how we make service calls. Who knew there could be such variation for a commonplace task? Some pitfalls include... No Logging No Metrics No Retry Strategy No Response Validation Inconsistent Error Handling No Correlation ID Propagation No Logging In particular, pre-request and post-response logging. Many times I have been debugging",
+      "date": null
     }
   ]
 }

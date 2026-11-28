@@ -4,17 +4,20 @@
     {
       "link": "http://blog.boreddev.nl/posts/boredos/",
       "title": "BoredOS: Three years of building an OS from scratch (And loving every minute of it)",
-      "description": "The story of how a bad tutorial turned into a three-year (and ongoing) obsession."
+      "description": "The story of how a bad tutorial turned into a three-year (and ongoing) obsession.",
+      "date": null
     },
     {
       "link": "http://blog.boreddev.nl/posts/boredfind/",
       "title": "Introducing BoredFind: Browsing the Modern Web from a Scratch-Built OS",
-      "description": "If you’ve been following my work on boredOS , you know that I’ve been building the operating system entirely from scratch. Recently, that journey led me down the rabbit hole of creating my own custom network stack and even a bespoke web browser. But once you have a scratch-built browser, you quickly run into a massive problem: the modern internet is incredibly heavily bloated. Loading today’s Java"
+      "description": "If you’ve been following my work on boredOS , you know that I’ve been building the operating system entirely from scratch. Recently, that journey led me down the rabbit hole of creating my own custom network stack and even a bespoke web browser. But once you have a scratch-built browser, you quickly run into a massive problem: the modern internet is incredibly heavily bloated. Loading today’s Java",
+      "date": null
     },
     {
       "link": "http://blog.boreddev.nl/posts/arduinofun/",
       "title": "Arduino Fun",
-      "description": "A computer science Arduino Project. Read on to see how everything suddenly went wrong!"
+      "description": "A computer science Arduino Project. Read on to see how everything suddenly went wrong!",
+      "date": null
     }
   ]
 }

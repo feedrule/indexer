@@ -4,17 +4,20 @@
     {
       "link": "https://xana.scru.org/posts/bamamba/lekkerderworst.html",
       "title": "N.K. Jemisin is doing a worldbuilding workshop at the Bronx Library Center tomorrow afternoon",
-      "description": "Normally, I do not read book reviews. Either I haven't read the book, in which case there's spoiler potential, or I have, in which case it's unlikely to be useful or enjoyable for me to read a thing about a thing I've already read. But Review: Radiant Star caught my eye, and I thought, “Hmm, I've read all those books” and was curious. Of course, because I am old and senile and have no understandin"
+      "description": "Normally, I do not read book reviews. Either I haven't read the book, in which case there's spoiler potential, or I have, in which case it's unlikely to be useful or enjoyable for me to read a thing about a thing I've already read. But Review: Radiant Star caught my eye, and I thought, “Hmm, I've read all those books” and was curious. Of course, because I am old and senile and have no understandin",
+      "date": null
     },
     {
       "link": "https://xana.scru.org/posts/mintings/mergetooling.html",
       "title": "not ninpo",
-      "description": "The UX of jj 's builtin merge editor finally became too much for me. So, I looked at the list of merge tool options, saw vimdiff , and thought, “Oh, cool, I know how to use vimdiff.” So, I launched jj config edit --user , added a ui section, and set merge-editor to vimdiff . With the new config, I ran jj resolve again. It was at that point that I realized that I do not, in fact, know how to use vi"
+      "description": "The UX of jj 's builtin merge editor finally became too much for me. So, I looked at the list of merge tool options, saw vimdiff , and thought, “Oh, cool, I know how to use vimdiff.” So, I launched jj config edit --user , added a ui section, and set merge-editor to vimdiff . With the new config, I ran jj resolve again. It was at that point that I realized that I do not, in fact, know how to use vi",
+      "date": null
     },
     {
       "link": "https://xana.scru.org/posts/quanks/sqnetworkkeyserversearch.html",
       "title": "Holger says",
-      "description": "sq network keyserver search $id ; sq cert export --cert=$id > $id.asc Posted on 2026-02-18 Tags: quanks"
+      "description": "sq network keyserver search $id ; sq cert export --cert=$id > $id.asc Posted on 2026-02-18 Tags: quanks",
+      "date": null
     }
   ]
 }

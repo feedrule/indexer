@@ -4,17 +4,20 @@
     {
       "link": "https://www.joshwcomeau.com/css/interop-2027/",
       "title": "The Future of CSS ✨",
-      "description": "Every year, browser vendors collaborate via the Interop project to synchronize their efforts on new HTML/CSS/JS features. This year, there’s a ton of super exciting features being considered! In this blog post, we’ll explore the CSS of the future, to get a glimpse of what we’ll soon be able to do."
+      "description": "Every year, browser vendors collaborate via the Interop project to synchronize their efforts on new HTML/CSS/JS features. This year, there’s a ton of super exciting features being considered! In this blog post, we’ll explore the CSS of the future, to get a glimpse of what we’ll soon be able to do.",
+      "date": null
     },
     {
       "link": "https://www.joshwcomeau.com/css/anchor-positioning/",
       "title": "Getting Started with Anchor Positioning",
-      "description": "For decades, one of the most notoriously-challenging problems on the web has been sticking one element to another element, for things like tooltips and nested menus. The CSSWG has decided to provide a first-class solution to this problem, and it’s pretty friggin’ cool! In this tutorial, I’ll share the most useful parts I’ve found from this modern CSS feature."
+      "description": "For decades, one of the most notoriously-challenging problems on the web has been sticking one element to another element, for things like tooltips and nested menus. The CSSWG has decided to provide a first-class solution to this problem, and it’s pretty friggin’ cool! In this tutorial, I’ll share the most useful parts I’ve found from this modern CSS feature.",
+      "date": null
     },
     {
       "link": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
       "title": "CSS vs. JavaScript",
-      "description": "There are a bunch of JavaScript animation libraries out there, and you might have wondered whether there’s a performance cost compared to traditional CSS transitions and keyframe animations. In this blog post, we’ll compare the same animation across several different strategies and see the differences firsthand. There’s some interesting nuance here!"
+      "description": "There are a bunch of JavaScript animation libraries out there, and you might have wondered whether there’s a performance cost compared to traditional CSS transitions and keyframe animations. In this blog post, we’ll compare the same animation across several different strategies and see the differences firsthand. There’s some interesting nuance here!",
+      "date": null
     }
   ]
 }

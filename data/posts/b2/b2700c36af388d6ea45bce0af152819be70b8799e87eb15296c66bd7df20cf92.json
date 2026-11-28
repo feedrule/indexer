@@ -4,17 +4,20 @@
     {
       "link": "https://jdranpariya.com/projects/multimodal-imitation-learning/",
       "title": "Multimodal Imitation Learning via Hardware-Native Proprioception for Contact-Rich Manipulation",
-      "description": "My master's thesis at Fraunhofer IIS, testing whether raw servo-bus signals improve imitation-learning policies for contact-rich SO-101 manipulation."
+      "description": "My master's thesis at Fraunhofer IIS, testing whether raw servo-bus signals improve imitation-learning policies for contact-rich SO-101 manipulation.",
+      "date": null
     },
     {
       "link": "https://jdranpariya.com/projects/ball-balancing-on-arc/",
       "title": "Ball Balancing on Arc",
-      "description": "A 13-controller benchmark on real ball-on-arc hardware: 650 trials across classical control, RL, offline RL, and world models."
+      "description": "A 13-controller benchmark on real ball-on-arc hardware: 650 trials across classical control, RL, offline RL, and world models.",
+      "date": null
     },
     {
       "link": "https://jdranpariya.com/writings/building-different-box-of-tools/",
       "title": "building different box of tools",
-      "description": "Having different tools matters more than having superior ones."
+      "description": "Having different tools matters more than having superior ones.",
+      "date": null
     }
   ]
 }

@@ -4,12 +4,14 @@
     {
       "link": "https://blog.bluebyday.com/posts/good-llm-dev-and-usage/",
       "title": "Good LLM Dev and Usage Patterns",
-      "description": "Introduction This is a list of patterns regarding usage of LLMs (Large Language Models) that I’ve observed result in positive outcomes. I’ve split them into two categories: Usage, for patterns used in systems that are partly agentic, i.e. the system utilizes LLMs during its operation. The examples given are focused on coding agents, but they are generally applicable. Development, for patterns used"
+      "description": "Introduction This is a list of patterns regarding usage of LLMs (Large Language Models) that I’ve observed result in positive outcomes. I’ve split them into two categories: Usage, for patterns used in systems that are partly agentic, i.e. the system utilizes LLMs during its operation. The examples given are focused on coding agents, but they are generally applicable. Development, for patterns used",
+      "date": null
     },
     {
       "link": "https://blog.bluebyday.com/about/",
       "title": "About",
-      "description": "Blog details This blog uses Hugo with the default version of the Nightfall theme . I have not gotten around to tweaking the aesthetics yet. The web server used is Caddy . The blog is hosted on a Hetzner cloud server, behind Bunny CDN . Behind the scenes, I have a Forgejo instance that hosts the code I write, including this blog. An action deploys new versions on the blog on merge to main. I have u"
+      "description": "Blog details This blog uses Hugo with the default version of the Nightfall theme . I have not gotten around to tweaking the aesthetics yet. The web server used is Caddy . The blog is hosted on a Hetzner cloud server, behind Bunny CDN . Behind the scenes, I have a Forgejo instance that hosts the code I write, including this blog. An action deploys new versions on the blog on merge to main. I have u",
+      "date": null
     }
   ]
 }

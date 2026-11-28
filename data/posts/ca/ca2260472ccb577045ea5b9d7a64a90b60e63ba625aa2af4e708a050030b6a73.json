@@ -4,17 +4,20 @@
     {
       "link": "https://www.markusdosch.com/random/disneyland-paris-mit-kindern/",
       "title": "Disneyland Paris: Mit Kindern unter ~8 Jahren nicht wirklich zu empfehlen",
-      "description": "Wir waren ein paar Tage mit unseren Kindern (~5 und ~2) im Disneyland Paris. Vorweg: Der Park ist wirklich sehr cool gestaltet, die Fahrgeschäfte machen Spaß und die Shows sind super! Trotzdem würde ich es Familien mit kleineren Kindern (so grob unter ~8 Jahren) nicht vorbehaltlos weiterempfehlen. Hier mein gemischtes Fazit. Das ständige Hetzen & Anstehen Wartezeiten sind ein großer Faktor gewesen"
+      "description": "Wir waren ein paar Tage mit unseren Kindern (~5 und ~2) im Disneyland Paris. Vorweg: Der Park ist wirklich sehr cool gestaltet, die Fahrgeschäfte machen Spaß und die Shows sind super! Trotzdem würde ich es Familien mit kleineren Kindern (so grob unter ~8 Jahren) nicht vorbehaltlos weiterempfehlen. Hier mein gemischtes Fazit. Das ständige Hetzen & Anstehen Wartezeiten sind ein großer Faktor gewesen",
+      "date": null
     },
     {
       "link": "https://www.markusdosch.com/2026/06/dokku-fixing-413-request-entity-too-large-on-file-uploads/",
       "title": "Dokku: Fixing 413 \"Request Entity Too Large\" on File Uploads",
-      "description": "My Node.js app accepted an 8 MB image upload just fine locally, but the same upload failed with a 413 Content Too Large HTTP error on my Dokku-hosted instance. The reason: Dokku puts an nginx reverse proxy in front of your app, and nginx’s default client_max_body_size is just 1 MB. Anything larger gets rejected by nginx itself. The fix is a per-app nginx setting: 1 2 dokku nginx:set <app-name> cli"
+      "description": "My Node.js app accepted an 8 MB image upload just fine locally, but the same upload failed with a 413 Content Too Large HTTP error on my Dokku-hosted instance. The reason: Dokku puts an nginx reverse proxy in front of your app, and nginx’s default client_max_body_size is just 1 MB. Anything larger gets rejected by nginx itself. The fix is a per-app nginx setting: 1 2 dokku nginx:set <app-name> cli",
+      "date": null
     },
     {
       "link": "https://www.markusdosch.com/2026/06/macos-keyboard-based-shutdown-via-spotlight/",
       "title": "macOS: Keyboard-Based Shutdown - via Spotlight",
-      "description": "Alfred has a built-in feature to trigger system actions like shutdown, restart or lock directly from its search bar. Spotlight didn’t have this out of the box – now, with the recently revamped Spotlight & with a small AppleScript trick, you can add it yourself. Open the Shortcuts app and create a new shortcut. Add a “Run AppleScript” action and enter the following script: 1 2 3 tell application \"F"
+      "description": "Alfred has a built-in feature to trigger system actions like shutdown, restart or lock directly from its search bar. Spotlight didn’t have this out of the box – now, with the recently revamped Spotlight & with a small AppleScript trick, you can add it yourself. Open the Shortcuts app and create a new shortcut. Add a “Run AppleScript” action and enter the following script: 1 2 3 tell application \"F",
+      "date": null
     }
   ]
 }

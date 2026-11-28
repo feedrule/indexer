@@ -4,17 +4,20 @@
     {
       "link": "https://adamcrussell.livejournal.com/67457.html",
       "title": "2025 Advent of Code Day 12 Part 1",
-      "description": "Prolog. Developed and tested with GNU Prolog 1.5.0. :- dynamic ( shape / 2 ). read_line_codes ( Stream , Codes ):- get_code ( Stream , C ), ( C == - 1 -> Codes = end_of_file ; C == 10 -> Codes = [] ; read_line_codes ( Stream , Cs ), Codes = [ C | Cs ] ). read_all_lines ( Stream , Lines ):- read_line_codes ( Stream , Line ), ( Line == end_of_file -> Lines = [] ; Lines = [ Line | Rest ], read_all_li"
+      "description": "Prolog. Developed and tested with GNU Prolog 1.5.0. :- dynamic ( shape / 2 ). read_line_codes ( Stream , Codes ):- get_code ( Stream , C ), ( C == - 1 -> Codes = end_of_file ; C == 10 -> Codes = [] ; read_line_codes ( Stream , Cs ), Codes = [ C | Cs ] ). read_all_lines ( Stream , Lines ):- read_line_codes ( Stream , Line ), ( Line == end_of_file -> Lines = [] ; Lines = [ Line | Rest ], read_all_li",
+      "date": null
     },
     {
       "link": "https://adamcrussell.livejournal.com/67142.html",
       "title": "2025 Advent of Code Day 11 Part 2",
-      "description": "Prolog. Developed and tested with GNU Prolog 1.5.0. :- dynamic ([ connected / 2 , memoized_paths / 3 ]). check_and_read ( 10 , [] , _ ):- !. check_and_read ( Char , [ Char | Chars ], Stream ):- get_code ( Stream , NextChar ), check_and_read ( NextChar , Chars , Stream ). read_data ( Stream , []):- at_end_of_stream ( Stream ). read_data ( Stream , [ X | L ]):- \\+ at_end_of_stream ( Stream ), get_co"
+      "description": "Prolog. Developed and tested with GNU Prolog 1.5.0. :- dynamic ([ connected / 2 , memoized_paths / 3 ]). check_and_read ( 10 , [] , _ ):- !. check_and_read ( Char , [ Char | Chars ], Stream ):- get_code ( Stream , NextChar ), check_and_read ( NextChar , Chars , Stream ). read_data ( Stream , []):- at_end_of_stream ( Stream ). read_data ( Stream , [ X | L ]):- \\+ at_end_of_stream ( Stream ), get_co",
+      "date": null
     },
     {
       "link": "https://adamcrussell.livejournal.com/67024.html",
       "title": "2025 Advent of Code Day 11 Part 1",
-      "description": "Prolog. Developed and tested with GNU Prolog 1.5.0. :- dynamic ([ connected / 2 , memoized_paths / 2 ]). check_and_read ( 10 , [] , _ ):- !. check_and_read ( Char , [ Char | Chars ], Stream ):- get_code ( Stream , NextChar ), check_and_read ( NextChar , Chars , Stream ). read_data ( Stream , []):- at_end_of_stream ( Stream ). read_data ( Stream , [ X | L ]):- \\+ at_end_of_stream ( Stream ), get_co"
+      "description": "Prolog. Developed and tested with GNU Prolog 1.5.0. :- dynamic ([ connected / 2 , memoized_paths / 2 ]). check_and_read ( 10 , [] , _ ):- !. check_and_read ( Char , [ Char | Chars ], Stream ):- get_code ( Stream , NextChar ), check_and_read ( NextChar , Chars , Stream ). read_data ( Stream , []):- at_end_of_stream ( Stream ). read_data ( Stream , [ X | L ]):- \\+ at_end_of_stream ( Stream ), get_co",
+      "date": null
     }
   ]
 }

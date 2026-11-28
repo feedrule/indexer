@@ -4,17 +4,20 @@
     {
       "link": "https://kevinlynagh.com/newsletter/2026_10_29_llm_programming_and_theory_building/",
       "title": "LLM programming and theory building",
-      "description": "LLM programming and theory building Last newsletter I was unhappy with my Tasktron workflow harness: The explicit state machine and reified effect design worked , but it obscured the core workflow, the harness’s raison d'être . I embarked on a rewrite, hoping to find a more concise and self-evident design based on durable effects (memoized steps) instead — something that would let the code express"
+      "description": "LLM programming and theory building Last newsletter I was unhappy with my Tasktron workflow harness: The explicit state machine and reified effect design worked , but it obscured the core workflow, the harness’s raison d'être . I embarked on a rewrite, hoping to find a more concise and self-evident design based on durable effects (memoized steps) instead — something that would let the code express",
+      "date": null
     },
     {
       "link": "https://kevinlynagh.com/newsletter/2026_09_task_workflow/",
       "title": "Multitouch UI, remote microcontroller flashing, LLM task workflow",
-      "description": "Hi friends, I’ve been focused on a few projects I’m not quite ready to discuss yet, so this issue is a bit of a smorgasbord of thoughts and vibe-coded tool releases: Musings on multi-touch: After 20 years, why is it still just zooming/scrolling? Probetron: Turning a Raspberry Pi 4b into a network-accessible microcontroller programmer/debugger LLM task workflow harness Also, I’ll be in: New York Ci"
+      "description": "Hi friends, I’ve been focused on a few projects I’m not quite ready to discuss yet, so this issue is a bit of a smorgasbord of thoughts and vibe-coded tool releases: Musings on multi-touch: After 20 years, why is it still just zooming/scrolling? Probetron: Turning a Raspberry Pi 4b into a network-accessible microcontroller programmer/debugger LLM task workflow harness Also, I’ll be in: New York Ci",
+      "date": null
     },
     {
       "link": "https://kevinlynagh.com/newsletter/2026_07_kevins_kicad_helpers/",
       "title": "KiCad helpers and caliper improvements",
-      "description": "Hi friends, This newsletter we’re streamlining the process of creating circuit boards and revisiting the DIY electronic calipers project from two years ago. Kevin’s KiCad Helpers I first started playing around with electronics via Arduino back in 2010, and I designed my first circuit board back in 2015 for my walnut and leather cell phone . Since then, I’ve made around a dozen PCBs, with a notable"
+      "description": "Hi friends, This newsletter we’re streamlining the process of creating circuit boards and revisiting the DIY electronic calipers project from two years ago. Kevin’s KiCad Helpers I first started playing around with electronics via Arduino back in 2010, and I designed my first circuit board back in 2015 for my walnut and leather cell phone . Since then, I’ve made around a dozen PCBs, with a notable",
+      "date": null
     }
   ]
 }

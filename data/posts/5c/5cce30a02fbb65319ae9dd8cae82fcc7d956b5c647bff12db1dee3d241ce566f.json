@@ -4,17 +4,20 @@
     {
       "link": "http://theprogrammersparadox.blogspot.com/2026/11/analysis.html",
       "title": "Analysis",
-      "description": "Analysis for software projects is the act of gathering, curating, and collating enough detailed information about a set of given problems that people would like to use software to solve. If it is complete enough, then it can be used as the sole reference for people creating designs for these solutions. It has all of the answers to all of the questions that a designer will have. All software system"
+      "description": "Analysis for software projects is the act of gathering, curating, and collating enough detailed information about a set of given problems that people would like to use software to solve. If it is complete enough, then it can be used as the sole reference for people creating designs for these solutions. It has all of the answers to all of the questions that a designer will have. All software system",
+      "date": null
     },
     {
       "link": "http://theprogrammersparadox.blogspot.com/2026/11/unbounded-loops.html",
       "title": "Unbounded Loops",
-      "description": "[ Editor's note: I wrote this because I forgot, again :-( ] I’ve written this before, but it is always worth repeating. Unbounded loops are bad. If there is a bounded loop that can be used instead, use that instead. Code really has two major flow-of-control constructs. One is conditional execution. You execute the code “sometimes”. We see that as ‘if’ statements, but there are all sorts of variati"
+      "description": "[ Editor's note: I wrote this because I forgot, again :-( ] I’ve written this before, but it is always worth repeating. Unbounded loops are bad. If there is a bounded loop that can be used instead, use that instead. Code really has two major flow-of-control constructs. One is conditional execution. You execute the code “sometimes”. We see that as ‘if’ statements, but there are all sorts of variati",
+      "date": null
     },
     {
       "link": "http://theprogrammersparadox.blogspot.com/2026/11/difficult-problems.html",
       "title": "Difficult Problems",
-      "description": "In software, these days, if there is a fleet of existing interoperating systems, it is most likely that when they were developed, they focused on solving the majority of the easy problems. Often, it is also the case that, in doing that specific work, they made any related difficult problems far more difficult. What this usually means is that if things are not working smoothly, then there are proba"
+      "description": "In software, these days, if there is a fleet of existing interoperating systems, it is most likely that when they were developed, they focused on solving the majority of the easy problems. Often, it is also the case that, in doing that specific work, they made any related difficult problems far more difficult. What this usually means is that if things are not working smoothly, then there are proba",
+      "date": null
     }
   ]
 }

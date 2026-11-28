@@ -4,17 +4,20 @@
     {
       "link": "https://obnam.org/blog/2026/refactor-unlocked/",
       "title": "Refactor UnlockedClient type (failed)",
-      "description": "Goal My goal for today is to refactor the UnlockedClient type so that command like backup and restore easy to implememnt. Plan Run tests. Refactor. Notes Unfortunately, I have been lax in keeping up the subplot for Obnam and the try.sh script I wrote to compensate doesn't work today. Before I figure out that, I'm going to fix the logging at startup, because it irritates me. To make sure I can manu"
+      "description": "Goal My goal for today is to refactor the UnlockedClient type so that command like backup and restore easy to implememnt. Plan Run tests. Refactor. Notes Unfortunately, I have been lax in keeping up the subplot for Obnam and the try.sh script I wrote to compensate doesn't work today. Before I figure out that, I'm going to fix the logging at startup, because it irritates me. To make sure I can manu",
+      "date": null
     },
     {
       "link": "https://obnam.org/blog/2026/community/",
       "title": "Obnam community",
-      "description": "Obnam is going to be an encrypting, de-duplicating, secure, and fast backup software implementation that's easy and convenient to use. I've been developing a new generation of Obnam for a couple of years now. So far I have mostly been exploring architectural and implementation design choices on my own. Obnam is now getting close to actually being able to make and restore backups. In a sense, it's"
+      "description": "Obnam is going to be an encrypting, de-duplicating, secure, and fast backup software implementation that's easy and convenient to use. I've been developing a new generation of Obnam for a couple of years now. So far I have mostly been exploring architectural and implementation design choices on my own. Obnam is now getting close to actually being able to make and restore backups. In a sense, it's",
+      "date": null
     },
     {
       "link": "https://obnam.org/blog/2026/chunks-again/",
       "title": "Rethinking chunks",
-      "description": "Goal Today I want to start addressing the mess of how chunks are implemented in Obnam. They're not entirely consistent, and using them is hard. Plan Write down what I actually want from chunks, and sketch Rust types to support that. Then start implementing. Notes I'm going to first think about chunks from first principles. This is going to repeat much of what I've written previously, but writing i"
+      "description": "Goal Today I want to start addressing the mess of how chunks are implemented in Obnam. They're not entirely consistent, and using them is hard. Plan Write down what I actually want from chunks, and sketch Rust types to support that. Then start implementing. Notes I'm going to first think about chunks from first principles. This is going to repeat much of what I've written previously, but writing i",
+      "date": null
     }
   ]
 }

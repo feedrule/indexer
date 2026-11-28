@@ -4,17 +4,20 @@
     {
       "link": "https://1033144.bearblog.dev/fix-the-autofocus-on-the-samsung-gx10/",
       "title": "Fix the autofocus on the Samsung GX10",
-      "description": "This procedure allows you to correct front-focus or back-focus problems using the camera's hidden debug menu. Tested on Samsung GX-10 firmware 1.30. 1. Create the debug file Create a plain-text file named MODSET.TXT containing exactly: [OPEN_DEBUG_MENU] Important: The file must use Windows-style CRLF line endings, including a final newline. Otherwise, the debug menu might not appear. Copy MODSET.T"
+      "description": "This procedure allows you to correct front-focus or back-focus problems using the camera's hidden debug menu. Tested on Samsung GX-10 firmware 1.30. 1. Create the debug file Create a plain-text file named MODSET.TXT containing exactly: [OPEN_DEBUG_MENU] Important: The file must use Windows-style CRLF line endings, including a final newline. Otherwise, the debug menu might not appear. Copy MODSET.T",
+      "date": null
     },
     {
       "link": "https://1033144.bearblog.dev/let-game-dev-teams-die/",
       "title": "Let game dev teams die",
-      "description": "I like games that have a soul. I like games made by a small group of creatives which can put their own ideas without feeling too limited. I don't see the point in the \"industry\", unless your point is wasting your life in front of a screen. So why oh why do people who share this view get so angry when studio xyz gets shut down or dissolves? \"they could have made this and that, what a pity! they had"
+      "description": "I like games that have a soul. I like games made by a small group of creatives which can put their own ideas without feeling too limited. I don't see the point in the \"industry\", unless your point is wasting your life in front of a screen. So why oh why do people who share this view get so angry when studio xyz gets shut down or dissolves? \"they could have made this and that, what a pity! they had",
+      "date": null
     },
     {
       "link": "https://1033144.bearblog.dev/in-the-age-of-dishonest-reviews-piracy-is-the-consumers-last-weapon/",
       "title": "In the age of dishonest reviews, piracy is the consumer's last weapon",
-      "description": "The critics who were supposed to help us filter out the noise have become an integral part of the noise itself. Just like everyone can now make and publish a book, an album, a movie, a videogame, so can anyone become an influential figure capable of swaying consumer sentiments. Just when we needed them the most, critics became as diluted and appeasing as the art itself. I will not live to 1000 yea"
+      "description": "The critics who were supposed to help us filter out the noise have become an integral part of the noise itself. Just like everyone can now make and publish a book, an album, a movie, a videogame, so can anyone become an influential figure capable of swaying consumer sentiments. Just when we needed them the most, critics became as diluted and appeasing as the art itself. I will not live to 1000 yea",
+      "date": null
     }
   ]
 }

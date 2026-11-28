@@ -4,17 +4,20 @@
     {
       "link": "https://incolumitas.com/2026/11/10/the-machine-behind-the-browser/",
       "title": "The Machine Behind the Browser: New Chrome Automation Signals and Timing Side Channels on botstop.io",
-      "description": "botstop.io now shows every signal it uses. This article documents the two newest groups: 19 ways to recognize an automated or headless Chrome, nearly all traced to a DevTools protocol command, a launch switch or a headless build, and three probes that measure the hardware under the browser instead of asking it. Then I measure all of them on eleven days of real sign-ins, and half of what I had buil"
+      "description": "botstop.io now shows every signal it uses. This article documents the two newest groups: 19 ways to recognize an automated or headless Chrome, nearly all traced to a DevTools protocol command, a launch switch or a headless build, and three probes that measure the hardware under the browser instead of asking it. Then I measure all of them on eleven days of real sign-ins, and half of what I had buil",
+      "date": null
     },
     {
       "link": "https://incolumitas.com/2026/08/11/botstop-io/",
       "title": "botstop.io - Does your Browser look like a Bot?",
-      "description": "I launched a new little project called botstop.io. You open the page and it instantly tells you whether your browser looks like a bot, then refines the verdict a moment later. No CAPTCHA, no puzzles, just passive signals."
+      "description": "I launched a new little project called botstop.io. You open the page and it instantly tells you whether your browser looks like a bot, then refines the verdict a moment later. No CAPTCHA, no puzzles, just passive signals.",
+      "date": null
     },
     {
       "link": "https://incolumitas.com/2026/09/17/mathematicans-need-to-grow-up/",
       "title": "Mathematicans need to grow up",
-      "description": "In November 2025, AI utterly changed software engineering. Now AI is writing better and more beautiful code than any human ever could, at dramatic speed. Why was there no letter by 25 Turing Award winners that AI \"NEEDS TO STOP WRITING CODE\" similar as Fields medallist wrote a letter when it became clear that AI is better at math than them?"
+      "description": "In November 2025, AI utterly changed software engineering. Now AI is writing better and more beautiful code than any human ever could, at dramatic speed. Why was there no letter by 25 Turing Award winners that AI \"NEEDS TO STOP WRITING CODE\" similar as Fields medallist wrote a letter when it became clear that AI is better at math than them?",
+      "date": null
     }
   ]
 }

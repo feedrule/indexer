@@ -4,17 +4,20 @@
     {
       "link": "https://blog.get-map.org/index.php/2026/11/22/upgrade-maintenance-complete/",
       "title": "Upgrade / maintenance complete",
-      "description": "The machine has been upgraded from Debian 12 to 13; MapOSMatic is up to date, the Mapnik renderer has been upgraded from version 3.1 to the latest 4.4 release built from upstream source. The Mapnik upgrade is the most important part here, not only did the 4.3 and 4.4 releases improve performance quite a bit; … Continue reading \"Upgrade / maintenance complete\""
+      "description": "The machine has been upgraded from Debian 12 to 13; MapOSMatic is up to date, the Mapnik renderer has been upgraded from version 3.1 to the latest 4.4 release built from upstream source. The Mapnik upgrade is the most important part here, not only did the 4.3 and 4.4 releases improve performance quite a bit; … Continue reading \"Upgrade / maintenance complete\"",
+      "date": null
     },
     {
       "link": "https://blog.get-map.org/index.php/2026/11/10/upcoming-maintenance-outage-nov-20-22/",
       "title": "Upcoming maintenance outage Nov. 20-22.",
-      "description": "I will have to take the service offline for a day or two again, starting ca. Friday, Nov. 20th 18:00 UTC, for two reasons: * Database size creep – I’m starting to get close to disk size alert limits again as OSM diff imports let the database size grow ever so slightly not only due … Continue reading \"Upcoming maintenance outage Nov. 20-22.\""
+      "description": "I will have to take the service offline for a day or two again, starting ca. Friday, Nov. 20th 18:00 UTC, for two reasons: * Database size creep – I’m starting to get close to disk size alert limits again as OSM diff imports let the database size grow ever so slightly not only due … Continue reading \"Upcoming maintenance outage Nov. 20-22.\"",
+      "date": null
     },
     {
       "link": "https://blog.get-map.org/index.php/2026/10/31/experimental-sea-map-overlay/",
       "title": "Experimental Sea Map Overlay",
-      "description": "After way too many years in the making the Mapnik renderer is now finally able to draw circle arcs, with and without radius lines and textual labels. I had been trying to implement this several times over the years, but always got stuck on details like how to use the agg render backend — who’s … Continue reading \"Experimental Sea Map Overlay\""
+      "description": "After way too many years in the making the Mapnik renderer is now finally able to draw circle arcs, with and without radius lines and textual labels. I had been trying to implement this several times over the years, but always got stuck on details like how to use the agg render backend — who’s … Continue reading \"Experimental Sea Map Overlay\"",
+      "date": null
     }
   ]
 }

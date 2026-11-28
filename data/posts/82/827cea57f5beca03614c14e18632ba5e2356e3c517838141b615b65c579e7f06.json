@@ -4,17 +4,20 @@
     {
       "link": "https://tapoueh.org/blog/2026/11/distributed-primary-keys/",
       "title": "Distributed primary keys",
-      "description": "On a single Postgres server, primary keys stay unique because only one sequence hands out the numbers: a bigint identity column asks it for the next one, and no two rows ever get the same. Now put writers in several regions, each of them accepting inserts while the links between them are slow or down. Two regions that each ask their own sequence for “the next number” will hand out the same one, an"
+      "description": "On a single Postgres server, primary keys stay unique because only one sequence hands out the numbers: a bigint identity column asks it for the next one, and no two rows ever get the same. Now put writers in several regions, each of them accepting inserts while the links between them are slow or down. Two regions that each ask their own sequence for “the next number” will hand out the same one, an",
+      "date": null
     },
     {
       "link": "https://tapoueh.org/blog/2026/11/postgres-logical-replication-beyond-one-writer/",
       "title": "Postgres logical replication beyond one writer",
-      "description": "In 2014, if you wanted Postgres servers on several continents, each of them accepting writes and all of them sharing their rows, there was one serious open source answer: BDR, from 2ndQuadrant. It needed a patched PostgreSQL 9.4 and a plugin, which means it needed a server that was not Postgres. Ten years of work on logical replication have since moved most of what BDR needed into the stock server"
+      "description": "In 2014, if you wanted Postgres servers on several continents, each of them accepting writes and all of them sharing their rows, there was one serious open source answer: BDR, from 2ndQuadrant. It needed a patched PostgreSQL 9.4 and a plugin, which means it needed a server that was not Postgres. Ten years of work on logical replication have since moved most of what BDR needed into the stock server",
+      "date": null
     },
     {
       "link": "https://tapoueh.org/blog/2026/10/zero-downtime-postgres-upgrades-with-logical-replication/",
       "title": "Zero-downtime Postgres upgrades with logical replication",
-      "description": "This is part 3 of a series about Postgres logical replication use-cases, and about how the feature set has evolved over the past ten years and ten releases (Postgres 10 through the Postgres 19 beta), one architecture at a time. Part 1 built a hub-and-workers system for write scalability and has the table of what each release added, which this post assumes. Part 2 consolidated several application d"
+      "description": "This is part 3 of a series about Postgres logical replication use-cases, and about how the feature set has evolved over the past ten years and ten releases (Postgres 10 through the Postgres 19 beta), one architecture at a time. Part 1 built a hub-and-workers system for write scalability and has the table of what each release added, which this post assumes. Part 2 consolidated several application d",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "The Hidden Contract in Every API Call",
-      "description": "Web apps are distributed systems. The client's observed world state should be an explicit input to every API call."
+      "description": "Web apps are distributed systems. The client's observed world state should be an explicit input to every API call.",
+      "date": null
     },
     {
       "link": null,
       "title": "Django Deployment Goals for Beginners",
-      "description": "What are we actually doing when deploying Django applications"
+      "description": "What are we actually doing when deploying Django applications",
+      "date": null
     },
     {
       "link": null,
       "title": "Seamlessly integrate hashids with Django",
-      "description": "What is hashids, why it's useful, the challenges I had when using it in django and how I solved them."
+      "description": "What is hashids, why it's useful, the challenges I had when using it in django and how I solved them.",
+      "date": null
     }
   ]
 }

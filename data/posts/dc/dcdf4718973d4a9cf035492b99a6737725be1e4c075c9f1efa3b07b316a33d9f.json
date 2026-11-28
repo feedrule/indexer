@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "OxiSH: a modern, memory-safe SSH server",
-      "description": "I'm happy to announce OxiSH , a modern, memory-safe SSH server that I've been working on for 20 months. OxiSH is written in Rust, with a safe sans-I/O protocol core and an abstraction for the underlying cryptography primitives. Why? Many large organizations have shown that up to 70% of security …"
+      "description": "I'm happy to announce OxiSH , a modern, memory-safe SSH server that I've been working on for 20 months. OxiSH is written in Rust, with a safe sans-I/O protocol core and an abstraction for the underlying cryptography primitives. Why? Many large organizations have shown that up to 70% of security …",
+      "date": null
     },
     {
       "link": null,
       "title": "Rust maintenance in 2025",
-      "description": "It has been 15 months since I left my job at a startup and decided to work on improving open source Rust software going forward. I started out trying to write monthly updates , but that proved too time-consuming. Instead, here's a summary of what I worked on in 2025, and …"
+      "description": "It has been 15 months since I left my job at a startup and decided to work on improving open source Rust software going forward. I started out trying to write monthly updates , but that proved too time-consuming. Instead, here's a summary of what I worked on in 2025, and …",
+      "date": null
     },
     {
       "link": null,
       "title": "October on GitHub (2024)",
-      "description": "Since leaving my job at the end of August, I figured I would try to write up a report of most of the open source stuff I worked on (see previous month ). Turns out writing these is a lot of work, so it took me a while to write up …"
+      "description": "Since leaving my job at the end of August, I figured I would try to write up a report of most of the open source stuff I worked on (see previous month ). Turns out writing these is a lot of work, so it took me a while to write up …",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://danischnider.wordpress.com/2026/10/14/how-to-find-and-avoid-duplicates-in-data-integration-joelkallmanday/",
       "title": "How to Find and Avoid Duplicates in Data Integration #JoelKallmanDay",
-      "description": "Duplicate rows are the enemy of every data integration developer. They can cause job failures and – even worse – wrong results. Somtimes it is more complex than expected to avoid them. In this blog post, let’s compare different approaches. … Continue reading →"
+      "description": "Duplicate rows are the enemy of every data integration developer. They can cause job failures and – even worse – wrong results. Somtimes it is more complex than expected to avoid them. In this blog post, let’s compare different approaches. … Continue reading →",
+      "date": null
     },
     {
       "link": "https://danischnider.wordpress.com/2026/09/20/aggregation-filters-in-oracle-26ai/",
       "title": "Aggregation Filters in Oracle 26ai",
-      "description": "The FILTER clause in SQL allows an easy way of adding WHERE conditions to aggregation functions. There were other ways to implement this before, but this syntax extension is easier to understand. In Oracle databases, it is available since version … Continue reading →"
+      "description": "The FILTER clause in SQL allows an easy way of adding WHERE conditions to aggregation functions. There were other ways to implement this before, but this syntax extension is easier to understand. In Oracle databases, it is available since version … Continue reading →",
+      "date": null
     },
     {
       "link": "https://danischnider.wordpress.com/2026/07/18/join-to-one-and-star-schemas/",
       "title": "JOIN TO ONE and Star Schemas",
-      "description": "Oracle’s new JOIN TO ONE syntax offers several benefits for queries in star schemas. Let’s take a look at some typical use cases involving facts and dimensions, and see how the new join option can help reduce complexity and avoid … Continue reading →"
+      "description": "Oracle’s new JOIN TO ONE syntax offers several benefits for queries in star schemas. Let’s take a look at some typical use cases involving facts and dimensions, and see how the new join option can help reduce complexity and avoid … Continue reading →",
+      "date": null
     }
   ]
 }

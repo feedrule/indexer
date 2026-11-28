@@ -4,17 +4,20 @@
     {
       "link": "https://cloudpresser.com/writing/why-coherence-doesnt-scale-with-capability",
       "title": "Why Coherence Doesn't Scale with Capability",
-      "description": "There's a quiet assumption underneath most AI discussions: if capability keeps improving, coherence will eventually follow. Gödel's incompleteness theorems suggest otherwise. The supervision layer isn't a temporary workaround — it's part of the design."
+      "description": "There's a quiet assumption underneath most AI discussions: if capability keeps improving, coherence will eventually follow. Gödel's incompleteness theorems suggest otherwise. The supervision layer isn't a temporary workaround — it's part of the design.",
+      "date": null
     },
     {
       "link": "https://cloudpresser.com/writing/why-ai-needs-control-surfaces",
       "title": "Why AI Needs Control Surfaces, Not Just Chat",
-      "description": "Once you can see what the system is doing, the next problem is interacting with it. Chat interfaces for AI agents are like flying a drone through a text terminal. The industry needs purpose-built control surfaces."
+      "description": "Once you can see what the system is doing, the next problem is interacting with it. Chat interfaces for AI agents are like flying a drone through a text terminal. The industry needs purpose-built control surfaces.",
+      "date": null
     },
     {
       "link": "https://cloudpresser.com/writing/observability-for-ai-agents",
       "title": "Observability for AI Agents",
-      "description": "AI systems fail in ways that look like success. You can't find these failures in a chat log. You need traces. AI agent systems need the same observability infrastructure that distributed systems built over the past decade."
+      "description": "AI systems fail in ways that look like success. You can't find these failures in a chat log. You need traces. AI agent systems need the same observability infrastructure that distributed systems built over the past decade.",
+      "date": null
     }
   ]
 }

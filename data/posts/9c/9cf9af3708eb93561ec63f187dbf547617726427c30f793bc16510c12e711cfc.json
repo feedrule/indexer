@@ -4,17 +4,20 @@
     {
       "link": "https://rlindsgaard.github.io/software%20engineering/devops/2026/09/27/your-mainline-is-not-supposed-to-be-pristine.html",
       "title": "Your Mainline is not Supposed to be Pristine",
-      "description": "A common fallacy is the belief that the mainline is supposed to be pristine in a Continuous Delivery/Trunk Based Development environment – that we pursue a deployment pipeline that we should eliminate all failures before integration. Not only is this untrue, I will argue that the pursuit of this implicitly assumed requirement is even hurtful to the flow and creation of value. This does not mean we"
+      "description": "A common fallacy is the belief that the mainline is supposed to be pristine in a Continuous Delivery/Trunk Based Development environment – that we pursue a deployment pipeline that we should eliminate all failures before integration. Not only is this untrue, I will argue that the pursuit of this implicitly assumed requirement is even hurtful to the flow and creation of value. This does not mean we",
+      "date": null
     },
     {
       "link": "https://rlindsgaard.github.io/software%20engineering/2026/05/25/shipshowask-the-flowchart.html",
       "title": "Ship/Show/Ask - The Flowchart",
-      "description": "Ship/show/ask branching strategy originally devised at Thoughtworks it is explained in full at Martin Fowler’s blog - it is designed to combine and leverage the benefits of both Trunk Based Development (TBD) and a Merge Request (MR) based development practice."
+      "description": "Ship/show/ask branching strategy originally devised at Thoughtworks it is explained in full at Martin Fowler’s blog - it is designed to combine and leverage the benefits of both Trunk Based Development (TBD) and a Merge Request (MR) based development practice.",
+      "date": null
     },
     {
       "link": "https://rlindsgaard.github.io/software%20engineering/2026/03/23/post-deployment-validation-concepts.html",
       "title": "Post-Deployment Validation Concepts",
-      "description": "Post-Deployment Validation Concepts"
+      "description": "Post-Deployment Validation Concepts",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://stt.kibuika.com/blog/back-at-it",
       "title": "back at it",
-      "description": "i'm back at it"
+      "description": "i'm back at it",
+      "date": null
     },
     {
       "link": "https://stt.kibuika.com/blog/shopify-grow-trade-platform",
       "title": "How to Build a Trade Platform on Shopify Grow (Without Shopify B2B)",
-      "description": "A guide to implementing a trade program for interior designers, architects, and other trade professionals using Shopify Grow and theme-native Liquid — no Shopify Plus B2B required."
+      "description": "A guide to implementing a trade program for interior designers, architects, and other trade professionals using Shopify Grow and theme-native Liquid — no Shopify Plus B2B required.",
+      "date": null
     },
     {
       "link": "https://stt.kibuika.com/blog/section-rendering",
       "title": "Shopify Sections Rendering API: Dynamic Updates Without Page Reloads",
-      "description": "Shopify’s Sections Rendering API allows you to dynamically update parts of a page (like a cart drawer, product grid, or promotional banner) without a full page reload. This improves performance and creates a smoother user experience."
+      "description": "Shopify’s Sections Rendering API allows you to dynamically update parts of a page (like a cart drawer, product grid, or promotional banner) without a full page reload. This improves performance and creates a smoother user experience.",
+      "date": null
     }
   ]
 }

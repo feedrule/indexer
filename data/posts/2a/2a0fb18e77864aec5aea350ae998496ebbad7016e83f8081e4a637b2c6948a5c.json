@@ -4,17 +4,20 @@
     {
       "link": "https://egbert.net/blog/articles/att-bgw320-505-ip-passthrough-mode.html",
       "title": "AT&T BGW320-505 IP Passthrough Mode",
-      "description": "Convert your AT&T Internet BGW-320-505 modem into an IP Passthrough"
+      "description": "Convert your AT&T Internet BGW-320-505 modem into an IP Passthrough",
+      "date": "2026-09-13"
     },
     {
       "link": "https://egbert.net/blog/articles/radxa-rock-3a.html",
       "title": "Radxa ROCK 3A",
-      "description": "This embedded board fell on my lap: Radxa ROCK 3A CPU: ARM5 Quad Cortex-A55, up to 2GHz Video: Mali-G32 GPU HDMI, 4k video decode RAM: LPDDR4 Buses: PCIe 3.0, SATA 3.0 sockets: eMMC, M.2, USB 3.0 x2, USB 2.? x2, Ethernet RJ-45 Radxa.com doc shows the following: Model Radxa ROCK 3A SoC Rockchip rk3568 CPU Quad-core Cortex-A55, up to 2GHz GPU Arm MaliTM G52 2EE, Supports Arm MaliTM G52 2EE, OpenGL ES1.1/2.0/3.2, Vulkan 1.1, OpenCLTM 2.0 Memory 1/2/4/8 GB LPDDR4 Storage On-board eMMC module: 0/8/16/32/64 GB MicroSD Memory Card Show Micro HDMI interface: Supports 4K@60fps output 1x2 lane MIPI DSI Ethernet Gigabit Ethernet with Power over Ethernet (PoE) support PoE requires additional optional HAT Wireless communication M.2 E Key supports external Radxa Wireless Module A8 (Wi-Fi 6 & BT 5.2) USB 2x USB 2.0 HOST ports 1x USB 3.0 HOST port 1x USB 3.0 OTG/HOST port camera 1x2 lane MIPI CSI Other 40-pin expansion seat Power supply Requires 5V/2A power adapter Dimensions 65mm x 30mm"
+      "description": "This embedded board fell on my lap: Radxa ROCK 3A CPU: ARM5 Quad Cortex-A55, up to 2GHz Video: Mali-G32 GPU HDMI, 4k video decode RAM: LPDDR4 Buses: PCIe 3.0, SATA 3.0 sockets: eMMC, M.2, USB 3.0 x2, USB 2.? x2, Ethernet RJ-45 Radxa.com doc shows the following: Model Radxa ROCK 3A SoC Rockchip rk3568 CPU Quad-core Cortex-A55, up to 2GHz GPU Arm MaliTM G52 2EE, Supports Arm MaliTM G52 2EE, OpenGL ES1.1/2.0/3.2, Vulkan 1.1, OpenCLTM 2.0 Memory 1/2/4/8 GB LPDDR4 Storage On-board eMMC module: 0/8/16/32/64 GB MicroSD Memory Card Show Micro HDMI interface: Supports 4K@60fps output 1x2 lane MIPI DSI Ethernet Gigabit Ethernet with Power over Ethernet (PoE) support PoE requires additional optional HAT Wireless communication M.2 E Key supports external Radxa Wireless Module A8 (Wi-Fi 6 & BT 5.2) USB 2x USB 2.0 HOST ports 1x USB 3.0 HOST port 1x USB 3.0 OTG/HOST port camera 1x2 lane MIPI CSI Other 40-pin expansion seat Power supply Requires 5V/2A power adapter Dimensions 65mm x 30mm",
+      "date": "2026-02-12"
     },
     {
       "link": "https://egbert.net/blog/articles/humax-bgw320-500.html",
       "title": "HUMAX BGW320-500",
-      "description": "PCB breakout of AT&T HUMAX BGW320-500 ONT modem (AT&T Fiber-to-the-Home)."
+      "description": "PCB breakout of AT&T HUMAX BGW320-500 ONT modem (AT&T Fiber-to-the-Home).",
+      "date": "2026-02-06"
     }
   ]
 }

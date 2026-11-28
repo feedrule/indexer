@@ -4,17 +4,20 @@
     {
       "link": "https://deadlovelll.github.io/2026-11-16-failed-eager-task-breaks-event-loop/",
       "title": "The task that failed to start and left asyncio stuck",
-      "description": "Failed context entry during eager start left the child recorded as the current task - I found this bug while fuzzing parts of asyncio. A failed task constructor could leave the event loop stuck, even if the caller caught the exception. This program catches the error, then hangs at its next await: import asyncio import contextvars async def child(): pass async def main(): loop =..."
+      "description": "Failed context entry during eager start left the child recorded as the current task - I found this bug while fuzzing parts of asyncio. A failed task constructor could leave the event loop stuck, even if the caller caught the exception. This program catches the error, then hangs at its next await: import asyncio import contextvars async def child(): pass async def main(): loop =...",
+      "date": null
     },
     {
       "link": "https://deadlovelll.github.io/2026-09-05-reading-dict-deoptimizes-attribute-access/",
       "title": "Reading __dict__ once permanently deoptimizes attribute access",
-      "description": "Since 3.11 attribute access has not been a dict lookup, and reading __dict__ once takes the specialized path away for good - Start with the oldest performance tip in Python. Pull the attribute out of the loop: class Attr: def process(self): self.value = 0 for i in range(1_000_000): self.value += i class Hoisted: def process(self): value = 0 for i in range(1_000_000): value += i self.value = value"
+      "description": "Since 3.11 attribute access has not been a dict lookup, and reading __dict__ once takes the specialized path away for good - Start with the oldest performance tip in Python. Pull the attribute out of the loop: class Attr: def process(self): self.value = 0 for i in range(1_000_000): self.value += i class Hoisted: def process(self): value = 0 for i in range(1_000_000): value += i self.value = value",
+      "date": null
     },
     {
       "link": "https://deadlovelll.github.io/2026-08-23-taskgroup-swallows-outside-cancellation/",
       "title": "The TaskGroup that ate your timeout",
-      "description": "Cancellation in asyncio is a counter, not a flag — and TaskGroup only knew how to check it for zero - Here is a program that wraps a task group in a half-second timeout, and then does not time out: import asyncio async def worker(): try: await asyncio.sleep(3600) finally: await asyncio.sleep(1) async def main(): async with asyncio.timeout(0.5): async with asyncio.TaskGroup() as tg: tg.create_task("
+      "description": "Cancellation in asyncio is a counter, not a flag — and TaskGroup only knew how to check it for zero - Here is a program that wraps a task group in a half-second timeout, and then does not time out: import asyncio async def worker(): try: await asyncio.sleep(3600) finally: await asyncio.sleep(1) async def main(): async with asyncio.timeout(0.5): async with asyncio.TaskGroup() as tg: tg.create_task(",
+      "date": null
     }
   ]
 }

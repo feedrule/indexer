@@ -4,17 +4,20 @@
     {
       "link": "https://www.nray.dev/blog/senior-engineers-first-month-with-codex/",
       "title": "A Senior Engineer's First Month With Codex",
-      "description": "I spent a month using Codex at my job. Here's what I learned."
+      "description": "I spent a month using Codex at my job. Here's what I learned.",
+      "date": null
     },
     {
       "link": "https://www.nray.dev/blog/using-dataloader-without-graphql/",
       "title": "How DataLoader Simplifies Deep JSON Hydration",
-      "description": "Stop N+1 queries in deep JSON. Use DataLoader to batch id lookups, even without GraphQL"
+      "description": "Stop N+1 queries in deep JSON. Use DataLoader to batch id lookups, even without GraphQL",
+      "date": null
     },
     {
       "link": "https://www.nray.dev/blog/how-to-automatically-switch-images-for-dark-and-light-mode/",
       "title": "How to Automatically Switch Images for Dark and Light Mode",
-      "description": "Learn how to display the correct image for dark and light mode on your website"
+      "description": "Learn how to display the correct image for dark and light mode on your website",
+      "date": null
     }
   ]
 }

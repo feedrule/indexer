@@ -4,17 +4,20 @@
     {
       "link": "http://localhost:1313/posts/2026/2026-04-09-chatting-with-schematic-evaluation-of-llms-know-how-in-electronics/",
       "title": "Chatting with Schematic: Evaluation of LLMs' Know-How in Electronics",
-      "description": "This article evaluates the proficiency of 11 contemporary Large Language Models (LLMs) in performing electronic circuit analysis. Utilizing OpenCode , an open-source agentic framework, the LLMs are tasked with analyzing a clock generator’s resistor-capacitor (RC) network defined in a KiCad 9.0 schematic. To facilitate LLMs’ comprehension, an efficient preprocessing methodology is introduced to con"
+      "description": "This article evaluates the proficiency of 11 contemporary Large Language Models (LLMs) in performing electronic circuit analysis. Utilizing OpenCode , an open-source agentic framework, the LLMs are tasked with analyzing a clock generator’s resistor-capacitor (RC) network defined in a KiCad 9.0 schematic. To facilitate LLMs’ comprehension, an efficient preprocessing methodology is introduced to con",
+      "date": null
     },
     {
       "link": "http://localhost:1313/posts/2026/2026-02-20-test-board-from-pcbway-has-arrived/",
       "title": "Test-Board from PCBWAY has Arrived!",
-      "description": "Some days ago I ordered a testing PCB from PCBWAY , and today the package has arrived! FRONT : BACK : As discussed in the previous article, this is a test-board for the future PCIe card with Agilex 3 FPGA. But presently - no FPGA. The board combines several power supplies (dc/dc converters), clock generator with level shifters, reset, and USB-JTAG:"
+      "description": "Some days ago I ordered a testing PCB from PCBWAY , and today the package has arrived! FRONT : BACK : As discussed in the previous article, this is a test-board for the future PCIe card with Agilex 3 FPGA. But presently - no FPGA. The board combines several power supplies (dc/dc converters), clock generator with level shifters, reset, and USB-JTAG:",
+      "date": null
     },
     {
       "link": "http://localhost:1313/posts/2026/2026-02-14-ai-llm-in-hw-development-importin-bga-pad-to-die-lengths-from-excel-to-kicad-footprint/",
       "title": "Practical AI in HW Development: Importing BGA Pad-to-Die Lengths from Excel to Kicad Footprint",
-      "description": "In hardware design, tedious manual data entry is a common bottleneck. I recently explored how the ‘AI revolution’ - specifically LLMs and GitHub Copilot - could automate a specific, repetitive task: importing BGA pad-to-die lengths into KiCad 9. The input Excel table, downloaded from Altera site, has around 270 rows, so the motivation to not do the import by manually entering numbers into software"
+      "description": "In hardware design, tedious manual data entry is a common bottleneck. I recently explored how the ‘AI revolution’ - specifically LLMs and GitHub Copilot - could automate a specific, repetitive task: importing BGA pad-to-die lengths into KiCad 9. The input Excel table, downloaded from Altera site, has around 270 rows, so the motivation to not do the import by manually entering numbers into software",
+      "date": null
     }
   ]
 }

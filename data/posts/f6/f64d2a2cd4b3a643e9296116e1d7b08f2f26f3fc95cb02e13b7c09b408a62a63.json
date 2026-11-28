@@ -4,17 +4,20 @@
     {
       "link": "https://eavan.blog/posts/multi-window-burn-rate-sucks.html",
       "title": "Why Multi Window Multi Burn Rate SLO Alerting Sucks!",
-      "description": "Service Level Objectives (SLOs) are great! Alerts based on SLOs are great! Alerts based on SLOs promise to reduce noise by only alerting on true service degradations, reducing noise and alert fatigue. Everyone uses the multi-window multi-burn-rate (MWMB) method for defining SLO alerts, because Google recommends it. But now that I've seen how this alert behaves in the real world, I think it's an ov"
+      "description": "Service Level Objectives (SLOs) are great! Alerts based on SLOs are great! Alerts based on SLOs promise to reduce noise by only alerting on true service degradations, reducing noise and alert fatigue. Everyone uses the multi-window multi-burn-rate (MWMB) method for defining SLO alerts, because Google recommends it. But now that I've seen how this alert behaves in the real world, I think it's an ov",
+      "date": null
     },
     {
       "link": "https://eavan.blog/posts/big-identity-sandpiles.html",
       "title": "The Biggest Identity Sandpiles and How to Compute Them",
-      "description": "When I wrote Beautiful Abelian Sandpiles I wanted to show off some nice images of large identity sandpiles. But the simple algorithm I used was horrendously slow. Showing a sandpile identity that was larger than 100 by 100 took multiple seconds! That's not good enough! I became obsessed with trying to find a faster way, all in an effort to compute bigger and bigger sandpile identities, bigger than"
+      "description": "When I wrote Beautiful Abelian Sandpiles I wanted to show off some nice images of large identity sandpiles. But the simple algorithm I used was horrendously slow. Showing a sandpile identity that was larger than 100 by 100 took multiple seconds! That's not good enough! I became obsessed with trying to find a faster way, all in an effort to compute bigger and bigger sandpile identities, bigger than",
+      "date": null
     },
     {
       "link": "https://eavan.blog/posts/learn-c-compiler-p3.html",
       "title": "Should I learn C by writing a C compiler in C? (Part 3)",
-      "description": "The Pareto Principle states that 80% of results come from 20% of the effort. The mistake is then to look at your impressive results (from part 2) and conclude that you are 80% done. The last 20% take the remaining 80% of your effort. You're not even halfway to the halfway point."
+      "description": "The Pareto Principle states that 80% of results come from 20% of the effort. The mistake is then to look at your impressive results (from part 2) and conclude that you are 80% done. The last 20% take the remaining 80% of your effort. You're not even halfway to the halfway point.",
+      "date": null
     }
   ]
 }

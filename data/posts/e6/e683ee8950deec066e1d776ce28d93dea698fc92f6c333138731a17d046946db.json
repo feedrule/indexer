@@ -4,17 +4,20 @@
     {
       "link": "https://halecraft.org/software-engineering-is-the-new-manufacturing-engineering/",
       "title": "Software Engineering is the new Manufacturing Engineering",
-      "description": "LLMs are regression-to-the-mean machines--they pull junior developers up, and drag senior developers down. Taming them requires trading the romance of 'code as craft' for the physics of manufacturing."
+      "description": "LLMs are regression-to-the-mean machines--they pull junior developers up, and drag senior developers down. Taming them requires trading the romance of 'code as craft' for the physics of manufacturing.",
+      "date": null
     },
     {
       "link": "https://halecraft.org/plans-as-version-control-artifacts/",
       "title": "Plans as Version Control Artifacts",
-      "description": "TL;DR : In plan-oriented programming, the plan is the primary artifact--reviewed, debated, and validated by humans, AI agents, designers, and PMs before any code is written . By storing plans as Jujutsu change descriptions (note: jj is a VCS, like git ), they become permanent, addressable nodes in version history."
+      "description": "TL;DR : In plan-oriented programming, the plan is the primary artifact--reviewed, debated, and validated by humans, AI agents, designers, and PMs before any code is written . By storing plans as Jujutsu change descriptions (note: jj is a VCS, like git ), they become permanent, addressable nodes in version history.",
+      "date": null
     },
     {
       "link": "https://halecraft.org/loro-extended-or-why-i-get-excited-about-crdts/",
       "title": "Loro Extended, or, Why I get excited about CRDTs",
-      "description": "Author's Update: Since this post, I've dedicated my time to a successor project that improves upon Loro Extended called Kyneta . A deep dive into distributed systems, local-first software, and the future of collaborative applications. A mock interview about Loro Extended , the state sync typescript library."
+      "description": "Author's Update: Since this post, I've dedicated my time to a successor project that improves upon Loro Extended called Kyneta . A deep dive into distributed systems, local-first software, and the future of collaborative applications. A mock interview about Loro Extended , the state sync typescript library.",
+      "date": null
     }
   ]
 }

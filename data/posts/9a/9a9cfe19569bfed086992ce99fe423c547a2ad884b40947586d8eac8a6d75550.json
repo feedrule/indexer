@@ -4,17 +4,20 @@
     {
       "link": "https://ssenthilnathan3.github.io/blog/sonic/",
       "title": "sonic: the cost of sounds nobody hears",
-      "description": "say there are 10,000 sounds on an RPG battlefield and room to mix 64. what happens to the other 9,936? a footstep might be over before anyone gets near it. a generator is different. if i walk up to it a second later, i want to hear a generator that’s already running, not one that starts because i showed up. so i built Sonic, a small Rust engine, to see if i could get that behavior without ticking"
+      "description": "say there are 10,000 sounds on an RPG battlefield and room to mix 64. what happens to the other 9,936? a footstep might be over before anyone gets near it. a generator is different. if i walk up to it a second later, i want to hear a generator that’s already running, not one that starts because i showed up. so i built Sonic, a small Rust engine, to see if i could get that behavior without ticking",
+      "date": null
     },
     {
       "link": "https://ssenthilnathan3.github.io/blog/cellular-automata-language-model/",
       "title": "i built a language model out of cellular automata",
-      "description": "the first thing my language model wrote that looked like a sentence was: the little red fox ran home.o..ittle red fox ran home.o..ittle red fox r i was happy about the first part. less happy about the rest. there was no attention in this model. no transformer blocks. just a grid of cells, each holding a vector, repeatedly talking to its eight neighbours. i wanted to know if a next-character predic"
+      "description": "the first thing my language model wrote that looked like a sentence was: the little red fox ran home.o..ittle red fox ran home.o..ittle red fox r i was happy about the first part. less happy about the rest. there was no attention in this model. no transformer blocks. just a grid of cells, each holding a vector, repeatedly talking to its eight neighbours. i wanted to know if a next-character predic",
+      "date": null
     },
     {
       "link": "https://ssenthilnathan3.github.io/blog/kutty-vllm/",
       "title": "how LLMs remember, schedule, and stream tokens",
-      "description": "when i started this, i thought inference was basically this: while True: logits = model(tokens) token = logits[-1].argmax() tokens.append(token) which is correct. technically. but, this tells us nothing about what happens when two people use the model at the same time. or where the model keeps all the previous tokens. or how ChatGPT starts printing before the complete response is ready. the transf"
+      "description": "when i started this, i thought inference was basically this: while True: logits = model(tokens) token = logits[-1].argmax() tokens.append(token) which is correct. technically. but, this tells us nothing about what happens when two people use the model at the same time. or where the model keeps all the previous tokens. or how ChatGPT starts printing before the complete response is ready. the transf",
+      "date": null
     }
   ]
 }

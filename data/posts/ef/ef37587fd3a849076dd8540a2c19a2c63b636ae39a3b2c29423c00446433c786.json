@@ -4,17 +4,20 @@
     {
       "link": "https://weberblog.net/modern-overlay-protocols-vxlan-geneve/?utm_source=rss&utm_medium=rss&utm_campaign=modern-overlay-protocols-vxlan-geneve",
       "title": "Modern Overlay Protocols: VXLAN & Geneve",
-      "description": "Modern multi-tenant data centres and cloud infrastructures present network challenges that traditional Layer 2 technologies were never designed to handle. Today’s networks must provide a large number of isolated, segregated networks that nevertheless share parts of the infrastructure (e.g., Internet access, storage environments). Traditionally, networks accomplish this using VLANs according to IEE"
+      "description": "Modern multi-tenant data centres and cloud infrastructures present network challenges that traditional Layer 2 technologies were never designed to handle. Today’s networks must provide a large number of isolated, segregated networks that nevertheless share parts of the infrastructure (e.g., Internet access, storage environments). Traditionally, networks accomplish this using VLANs according to IEE",
+      "date": null
     },
     {
       "link": "https://weberblog.net/is-a-registered-domain-really-unavailable/?utm_source=rss&utm_medium=rss&utm_campaign=is-a-registered-domain-really-unavailable",
       "title": "Is a registered Domain really Unavailable?",
-      "description": "There is a small but surprisingly important piece of information that the DNS does not normally tell you. You query a domain name and discover that it is already registered. From the perspective of a registrar’s availability checker, that is usually the end of the story. But it may not be. The domain may be … Continue reading Is a registered Domain really Unavailable? →"
+      "description": "There is a small but surprisingly important piece of information that the DNS does not normally tell you. You query a domain name and discover that it is already registered. From the perspective of a registrar’s availability checker, that is usually the end of the story. But it may not be. The domain may be … Continue reading Is a registered Domain really Unavailable? →",
+      "date": null
     },
     {
       "link": "https://weberblog.net/october-2026-another-leap-second-coming/?utm_source=rss&utm_medium=rss&utm_campaign=october-2026-another-leap-second-coming",
       "title": "October 2026: Another leap second coming???",
-      "description": "An unknown number of NTP servers may mistakenly announce an upcoming leap second during October 2026. If this occurs some NTP clients’ time could briefly be in error by one second. The atomic second used in coordinated universal time (UTC) is defined by a specified atomic transition in cesium (caesium) atoms is constant. The solar … Continue reading October 2026: Another leap second coming??? →"
+      "description": "An unknown number of NTP servers may mistakenly announce an upcoming leap second during October 2026. If this occurs some NTP clients’ time could briefly be in error by one second. The atomic second used in coordinated universal time (UTC) is defined by a specified atomic transition in cesium (caesium) atoms is constant. The solar … Continue reading October 2026: Another leap second coming??? →",
+      "date": null
     }
   ]
 }

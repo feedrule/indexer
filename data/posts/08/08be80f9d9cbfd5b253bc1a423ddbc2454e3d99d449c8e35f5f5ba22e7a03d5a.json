@@ -4,17 +4,20 @@
     {
       "link": "https://www.coryd.dev/posts/2026/what-to-do-now-that-lastfm-is-going-to-charge-for-api-access",
       "title": "What to do now that Last.fm is going to charge for API access",
-      "description": "Last.fm has announced that API keys for the platform will require a Pro subscription starting December 1st. Their reasons for doing this are valid—they're seeing a surge in requests largely attributable to scraping, and it's putting an unmanageable burden on the platform. ...the public API receives a significant volume of traffic and it is taking up a large amount of Last.fm's resources, which is"
+      "description": "Last.fm has announced that API keys for the platform will require a Pro subscription starting December 1st. Their reasons for doing this are valid—they're seeing a surge in requests largely attributable to scraping, and it's putting an unmanageable burden on the platform. ...the public API receives a significant volume of traffic and it is taking up a large amount of Last.fm's resources, which is",
+      "date": null
     },
     {
       "link": "https://www.coryd.dev/posts/2026/putting-music-data-to-work",
       "title": "Putting music data to work",
-      "description": "I had someone ask me the other day why I collect all the music data that I do and I wasn't sure how to answer. Some of it's an interest in my own listening patterns, and another part of it is nostalgia for the last.fm I used heavily during its heyday. I guess I like quantifying those things. It's become a bit more than that too — I curate artist bios, I pull in genre descriptions from Wikipedia, a"
+      "description": "I had someone ask me the other day why I collect all the music data that I do and I wasn't sure how to answer. Some of it's an interest in my own listening patterns, and another part of it is nostalgia for the last.fm I used heavily during its heyday. I guess I like quantifying those things. It's become a bit more than that too — I curate artist bios, I pull in genre descriptions from Wikipedia, a",
+      "date": null
     },
     {
       "link": "https://www.coryd.dev/posts/2026/caching-bot-defense-and-a-cdn",
       "title": "Caching, bot defense and a CDN",
-      "description": "I've been wary of and interested in putting a CDN in front of my site. I had tools in place to block bots ( and several countries ), but they were fragmented and it was an ongoing rock fight. I had a Go job that banned IPs after too many 404s , a crawler denylist that mirrored my robots.txt, and an SQL-injection probe filter (regex). I also wanted the improved load times and other niceties that co"
+      "description": "I've been wary of and interested in putting a CDN in front of my site. I had tools in place to block bots ( and several countries ), but they were fragmented and it was an ongoing rock fight. I had a Go job that banned IPs after too many 404s , a crawler denylist that mirrored my robots.txt, and an SQL-injection probe filter (regex). I also wanted the improved load times and other niceties that co",
+      "date": null
     }
   ]
 }

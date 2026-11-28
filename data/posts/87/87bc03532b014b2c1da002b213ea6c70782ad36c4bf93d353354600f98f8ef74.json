@@ -4,17 +4,20 @@
     {
       "link": "https://clownacy.wordpress.com/2026/11/18/refining-my-embedded-friendly-c-pool-container/",
       "title": "Refining My Embedded-Friendly C++ ‘Pool’ Container",
-      "description": "What have I been doing lately? Aside from my job (Cave Story+, check it out), I’ve been revisiting my Pool allocator. I originally developed it for my game engine, but I later adapted it for my ‘Tofu’ Mega Drive homebrew. This allocator resembles the object allocator from the old Mega Drive Sonic the Hedgehog games, Continue reading \"Refining My Embedded-Friendly C++ ‘Pool’ Container\""
+      "description": "What have I been doing lately? Aside from my job (Cave Story+, check it out), I’ve been revisiting my Pool allocator. I originally developed it for my game engine, but I later adapted it for my ‘Tofu’ Mega Drive homebrew. This allocator resembles the object allocator from the old Mega Drive Sonic the Hedgehog games, Continue reading \"Refining My Embedded-Friendly C++ ‘Pool’ Container\"",
+      "date": null
     },
     {
       "link": "https://clownacy.wordpress.com/2026/11/03/ps1-style-games-look-nothing-like-ps1-games/",
       "title": "“PS1-Style” Games Look Nothing Like PS1 Games",
-      "description": "Not a day goes by where I don’t want to turn this blog into a glorified Twitter feed; I just see the dumbest shite and feel the need to go on an unhinged rant about it. Case in point: every generic wannabe-retro horror game that crops up nowadays; always made with some lazy game engine, Continue reading \"“PS1-Style” Games Look Nothing Like PS1 Games\""
+      "description": "Not a day goes by where I don’t want to turn this blog into a glorified Twitter feed; I just see the dumbest shite and feel the need to go on an unhinged rant about it. Case in point: every generic wannabe-retro horror game that crops up nowadays; always made with some lazy game engine, Continue reading \"“PS1-Style” Games Look Nothing Like PS1 Games\"",
+      "date": null
     },
     {
       "link": "https://clownacy.wordpress.com/2026/09/28/linux-on-the-ayn-odin-2-mini-part-2/",
       "title": "Linux on the Ayn Odin 2 Mini – Part 2",
-      "description": "Ubuntu Being unhappy with how outdated Debian’s packages were, I switched back to Armbian Ubuntu. Previously, this resulted in broken Vulkan support due to the newer Mesa, but this was remedied by using a newer Linux kernel. My custom 7.1 kernel from the previous post worked perfectly, allowing Vulkan to finally work correctly on Ubuntu. Continue reading \"Linux on the Ayn Odin 2 Mini – Part 2\""
+      "description": "Ubuntu Being unhappy with how outdated Debian’s packages were, I switched back to Armbian Ubuntu. Previously, this resulted in broken Vulkan support due to the newer Mesa, but this was remedied by using a newer Linux kernel. My custom 7.1 kernel from the previous post worked perfectly, allowing Vulkan to finally work correctly on Ubuntu. Continue reading \"Linux on the Ayn Odin 2 Mini – Part 2\"",
+      "date": null
     }
   ]
 }

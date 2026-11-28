@@ -4,17 +4,20 @@
     {
       "link": "https://projectgoldscript.com/development/becoming-a-time-mage/",
       "title": "Becoming a Time Mage to make the engine testable",
-      "description": "Before I dared to bring my engine 10 years into the future, I built a safety net out of two things, a game clock I could freeze and step by hand and a visual-regression suite that catches a single shifted pixel. This is how it works."
+      "description": "Before I dared to bring my engine 10 years into the future, I built a safety net out of two things, a game clock I could freeze and step by hand and a visual-regression suite that catches a single shifted pixel. This is how it works.",
+      "date": null
     },
     {
       "link": "https://projectgoldscript.com/thoughts/modernising-project-goldscript-for-2026/",
       "title": "Modernising Project GoldScript for 2026",
-      "description": "After more than a decade as a passion project, I spent 2026 rebuilding GoldScript from the ground up, out of separate repos and aging tooling and into one modern monorepo with the tests to prove nothing broke along the way."
+      "description": "After more than a decade as a passion project, I spent 2026 rebuilding GoldScript from the ground up, out of separate repos and aging tooling and into one modern monorepo with the tests to prove nothing broke along the way.",
+      "date": null
     },
     {
       "link": "https://projectgoldscript.com/development/ai-overhaul-a-turn-based-interpretation-of-ffxiis-gambit-system/",
       "title": "AI Overhaul – A Turn Based Interpretation of FFXII’s Gambit System",
-      "description": "Inspired by FFXII’s gambit system, I’ve overhauled the engine’s AI system for combat encounters"
+      "description": "Inspired by FFXII’s gambit system, I’ve overhauled the engine’s AI system for combat encounters",
+      "date": null
     }
   ]
 }

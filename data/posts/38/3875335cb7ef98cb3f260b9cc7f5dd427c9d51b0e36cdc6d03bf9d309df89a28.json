@@ -4,17 +4,20 @@
     {
       "link": "https://sibellavia.lol/posts/2026/10/the-renaissance-of-gaming/",
       "title": "The Renaissance of Gaming",
-      "description": "Over the past few days I’ve been collecting tweets about people using AI to reverse-engineer games, build ports, and get them running on different hardware. I wanted to understand how much of this was real, and the more I looked into it, the more interesting it became. I started thinking, “this is a new Renaissance for Gaming”. I can feel that there’s a lot of excitement and the movement is gainin"
+      "description": "Over the past few days I’ve been collecting tweets about people using AI to reverse-engineer games, build ports, and get them running on different hardware. I wanted to understand how much of this was real, and the more I looked into it, the more interesting it became. I started thinking, “this is a new Renaissance for Gaming”. I can feel that there’s a lot of excitement and the movement is gainin",
+      "date": null
     },
     {
       "link": "https://sibellavia.lol/posts/2025/09/about-deepseek-sparse-attention/",
       "title": "About DeepSeek Sparse Attention",
-      "description": "DeepSeek Sparse Attention , some considerations about it after reading the paper. DeepSeek-V3.2-Exp is defined as an experimental sparse-attention model . Its architecture is the same as DeepSeek-V3.1-Terminus, except for the introduction of DeepSeek Sparse Attention (DSA). The core idea is to reduce the number of key-value pairs each query token looks at, instead of attending to all tokens. Spars"
+      "description": "DeepSeek Sparse Attention , some considerations about it after reading the paper. DeepSeek-V3.2-Exp is defined as an experimental sparse-attention model . Its architecture is the same as DeepSeek-V3.1-Terminus, except for the introduction of DeepSeek Sparse Attention (DSA). The core idea is to reduce the number of key-value pairs each query token looks at, instead of attending to all tokens. Spars",
+      "date": null
     },
     {
       "link": "https://sibellavia.lol/posts/2025/09/qwen3-max-and-other-qwen-releases/",
       "title": "Qwen3-Max and other Qwen releases",
-      "description": "Qwen3-Max has been released from Qwen team. It’s their largest and most advanced large language model to date. It competes against GPT-5 and Grok 4. The base model has over 1 trillion parameters and was pretrained on 36 trillion tokens . Its architecture seems to follow the same of other models from Qwen3 series: it provides a highly optimized MoE design, which activates only a subset of parameter"
+      "description": "Qwen3-Max has been released from Qwen team. It’s their largest and most advanced large language model to date. It competes against GPT-5 and Grok 4. The base model has over 1 trillion parameters and was pretrained on 36 trillion tokens . Its architecture seems to follow the same of other models from Qwen3 series: it provides a highly optimized MoE design, which activates only a subset of parameter",
+      "date": null
     }
   ]
 }

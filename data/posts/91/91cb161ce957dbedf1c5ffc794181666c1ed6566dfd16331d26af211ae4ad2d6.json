@@ -4,17 +4,20 @@
     {
       "link": "https://jeremarc.com/posts/intellectual-obesity/",
       "title": "Intellectual Obesity",
-      "description": "Intellectual Obesity is overconsumption without Action. Organizing your information is digestion. Retrieving your knowledge is absorption. Acting on your knowledge is growth. If you never Organize nor Retrieve, you may be full of shit without knowing it."
+      "description": "Intellectual Obesity is overconsumption without Action. Organizing your information is digestion. Retrieving your knowledge is absorption. Acting on your knowledge is growth. If you never Organize nor Retrieve, you may be full of shit without knowing it.",
+      "date": null
     },
     {
       "link": "https://jeremarc.com/posts/the-same-river/",
       "title": "The Same River",
-      "description": "import SameRiverPoem from '../../components/SameRiverPoem.astro'; <SameRiverPoem />"
+      "description": "import SameRiverPoem from '../../components/SameRiverPoem.astro'; <SameRiverPoem />",
+      "date": null
     },
     {
       "link": "https://jeremarc.com/posts/be-brave/",
       "title": "Be Brave!",
-      "description": "import Poem from '../../components/Poem.astro'; <Poem slug=\"Be Brave!\" lines={[ 'Up! from that comfortable chair', 'And take control of your life in despair!', '', 'You claim to be brave but barely brave-to-be', 'No amount of waiting will ever set you free', '', 'You need to act and choose your path', 'For Life is not waiting and chances will pass', '', 'The possibilities are not yours and never w"
+      "description": "import Poem from '../../components/Poem.astro'; <Poem slug=\"Be Brave!\" lines={[ 'Up! from that comfortable chair', 'And take control of your life in despair!', '', 'You claim to be brave but barely brave-to-be', 'No amount of waiting will ever set you free', '', 'You need to act and choose your path', 'For Life is not waiting and chances will pass', '', 'The possibilities are not yours and never w",
+      "date": null
     }
   ]
 }

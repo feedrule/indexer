@@ -4,17 +4,20 @@
     {
       "link": "https://train-it.eu/blog/cpp26-contracts-after-buzios/?utm_source=rss",
       "title": "C++26 contracts after the Búzios meeting",
-      "description": "WG 21 met in Búzios after the failed C++26 DIS ballot. A poll to remove contracts didn't reach consensus, an always-enforced label was added to the draft, and a revised DIS goes to a new ballot. What was decided, what was argued, and what it means for your code."
+      "description": "WG 21 met in Búzios after the failed C++26 DIS ballot. A poll to remove contracts didn't reach consensus, an always-enforced label was added to the draft, and a revised DIS goes to a new ballot. What was decided, what was argued, and what it means for your code.",
+      "date": null
     },
     {
       "link": "https://train-it.eu/blog/how-argument-dependent-lookup-finds-a-function/?utm_source=rss",
       "title": "How argument-dependent lookup finds a function",
-      "description": "An unqualified function call also searches the namespaces of its argument types. That is why `std::cout << x` finds your `operator<<`, and why a function template finds a `convert` overload declared after it for your own type, but not for an alias of `long`."
+      "description": "An unqualified function call also searches the namespaces of its argument types. That is why `std::cout << x` finds your `operator<<`, and why a function template finds a `convert` overload declared after it for your own type, but not for an alias of `long`.",
+      "date": null
     },
     {
       "link": "https://train-it.eu/blog/undefined-behavior-travels-back-in-time/?utm_source=rss",
       "title": "How undefined behavior reaches back in time, and what C++26 does about it",
-      "description": "A function that reads one element past the end of an array can lose the checks it made before the bad read. This post shows GCC doing it, explains which rule allows it, and what C++26's observable checkpoints change."
+      "description": "A function that reads one element past the end of an array can lose the checks it made before the bad read. This post shows GCC doing it, explains which rule allows it, and what C++26's observable checkpoints change.",
+      "date": null
     }
   ]
 }

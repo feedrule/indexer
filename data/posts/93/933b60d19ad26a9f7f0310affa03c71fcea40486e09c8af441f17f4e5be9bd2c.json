@@ -4,17 +4,20 @@
     {
       "link": "https://clairenord.com/do-we-have-ai-sre-yet.html",
       "title": "Do we have AI SRE yet?",
-      "description": "I miss being an SRE in the Old Days. Here's how we do release management with agents now"
+      "description": "I miss being an SRE in the Old Days. Here's how we do release management with agents now",
+      "date": null
     },
     {
       "link": "https://clairenord.com/whoport.html",
       "title": "whoport - who is using my port?",
-      "description": "Small bash script to identify which coding agent is taking your `localhost:3000`"
+      "description": "Small bash script to identify which coding agent is taking your `localhost:3000`",
+      "date": null
     },
     {
       "link": "https://clairenord.com/jep.html",
       "title": "Jep! - play Jeopardy! with friends online",
-      "description": "Announcing Jep! and how I built it"
+      "description": "Announcing Jep! and how I built it",
+      "date": null
     }
   ]
 }

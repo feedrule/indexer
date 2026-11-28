@@ -4,17 +4,20 @@
     {
       "link": "https://alex.smola.org/posts/51-decide-slowly-act-fast/",
       "title": "Decide slowly, act fast: why we picked 160ms for our agents",
-      "description": "Pick any place where machines meet people and you will find a number between 100 and 200 ms. In 2009 Jake Brutlag at Google added artificial delays to search results : 50 ms made no measurable difference, 100 ms already cost 0.2% of searches per user, 400 ms cost 0.6%, and the damage lingered for weeks after the delay was removed. Robert Miller argued in 1968 that the response to a keypress should"
+      "description": "Pick any place where machines meet people and you will find a number between 100 and 200 ms. In 2009 Jake Brutlag at Google added artificial delays to search results : 50 ms made no measurable difference, 100 ms already cost 0.2% of searches per user, 400 ms cost 0.6%, and the damage lingered for weeks after the delay was removed. Robert Miller argued in 1968 that the response to a keypress should",
+      "date": null
     },
     {
       "link": "https://alex.smola.org/posts/50-talking-while-thinking/",
       "title": "Talking while thinking",
-      "description": "Think of the last time you had a real conversation while driving. You merged, checked a mirror, glanced at the navigation, maybe decided to skip the next exit, and the conversation never stalled. Nobody calls this multitasking. It’s just what people do. Now think of every voice assistant you have used: you talk, it waits for you to stop, it thinks, it talks. Say something while it’s talking and it"
+      "description": "Think of the last time you had a real conversation while driving. You merged, checked a mirror, glanced at the navigation, maybe decided to skip the next exit, and the conversation never stalled. Nobody calls this multitasking. It’s just what people do. Now think of every voice assistant you have used: you talk, it waits for you to stop, it thinks, it talks. Say something while it’s talking and it",
+      "date": null
     },
     {
       "link": "https://alex.smola.org/posts/49-ai-for-humans/",
       "title": "AI for humans",
-      "description": "Tomorrow I am giving one of the invited talks in the Applied Data Science track at KDD 2026 in Jeju, Korea. It’s a builder’s tour of some of the audio stack at Boson AI in three parts: how we train models that can hold a conversation, how we design benchmarks that tell us whether the next model is actually better, and how we decide which benchmarks are worth running at all. There’ll be a show and"
+      "description": "Tomorrow I am giving one of the invited talks in the Applied Data Science track at KDD 2026 in Jeju, Korea. It’s a builder’s tour of some of the audio stack at Boson AI in three parts: how we train models that can hold a conversation, how we design benchmarks that tell us whether the next model is actually better, and how we decide which benchmarks are worth running at all. There’ll be a show and",
+      "date": null
     }
   ]
 }

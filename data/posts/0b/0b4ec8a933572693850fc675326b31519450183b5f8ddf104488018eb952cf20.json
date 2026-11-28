@@ -4,17 +4,20 @@
     {
       "link": "https://smattme.com/posts/2026-05-04-k8s-zero-downtime-deployment-with-spring-boot/",
       "title": "Deploy Spring Boot Applications with Zero Downtime on Kubernetes",
-      "description": "Deploy your Spring Boot application to a Kubernetes cluster with zero downtime using a combination of termination grace period and context closed listener. Safely release changes to production at any time of the day without degrading user experience."
+      "description": "Deploy your Spring Boot application to a Kubernetes cluster with zero downtime using a combination of termination grace period and context closed listener. Safely release changes to production at any time of the day without degrading user experience.",
+      "date": null
     },
     {
       "link": "https://smattme.com/posts/2025-12-15-three-years-at-cellulant/",
       "title": "Three Years at Cellulant - My 2025 Career Recap",
-      "description": "If 2025 were to be a movie, the classic, Shoot ‘Em Up, captures my career experience. It started as planned and then got interrupted by high-stake projects. I recorded some career milestones, major technical achievements, and learnt some lessons"
+      "description": "If 2025 were to be a movie, the classic, Shoot ‘Em Up, captures my career experience. It started as planned and then got interrupted by high-stake projects. I recorded some career milestones, major technical achievements, and learnt some lessons",
+      "date": null
     },
     {
       "link": "https://smattme.com/posts/2025-05-11-do-these-to-become-a-senior-software-engineer/",
       "title": "Want to Become a Senior Software Engineer? Do These Things",
-      "description": "Let’s discuss practical, day-to-day steps you can take as a professional aspiring to become a Senior Software Engineer or higher. Starting with the basics, deepening your knowledge, proactivity and taking responsibility, you’ll be setup for a better offer"
+      "description": "Let’s discuss practical, day-to-day steps you can take as a professional aspiring to become a Senior Software Engineer or higher. Starting with the basics, deepening your knowledge, proactivity and taking responsibility, you’ll be setup for a better offer",
+      "date": null
     }
   ]
 }

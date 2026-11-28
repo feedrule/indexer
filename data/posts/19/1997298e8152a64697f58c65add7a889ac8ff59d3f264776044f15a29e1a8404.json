@@ -4,17 +4,20 @@
     {
       "link": "https://faraazahmad.github.io/blog/posts/filesystem-is-lying-to-you/",
       "title": "Your filesystem is lying to you",
-      "description": "What fsync really guarantees, how delayed writeback errors escape transaction boundaries, and why durable local state is not an atomic external side effect."
+      "description": "What fsync really guarantees, how delayed writeback errors escape transaction boundaries, and why durable local state is not an atomic external side effect.",
+      "date": null
     },
     {
       "link": "https://faraazahmad.github.io/blog/posts/more-efficient-coding-agent/",
       "title": "I made AI coding agents more efficient",
-      "description": "Using static analysis to improve token efficiency of AI coding agents"
+      "description": "Using static analysis to improve token efficiency of AI coding agents",
+      "date": null
     },
     {
       "link": "https://faraazahmad.github.io/blog/posts/knowledge-assistant-ai/",
       "title": "There's too much content, so I built an AI knowledge assistant.",
-      "description": "How and why I built an AI assistant that lets me consume or discard content much quicker."
+      "description": "How and why I built an AI assistant that lets me consume or discard content much quicker.",
+      "date": null
     }
   ]
 }

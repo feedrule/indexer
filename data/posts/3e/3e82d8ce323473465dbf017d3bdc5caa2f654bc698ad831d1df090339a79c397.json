@@ -4,17 +4,20 @@
     {
       "link": "https://smarimccarthy.is/posts/2026-10-21-libc-bad/",
       "title": "Every language should talk to the kernel itself",
-      "description": "Almost every program running on any given Linux box today, regardless of what language it was written in, talks to the kernel by way of the same few megabytes of C. Python, Ruby, Rust, PHP, Java, Node, Perl – all of them hand their file descriptors, DNS lookups, memory allocations and character set conversions to glibc, and to a large degree glibc hands them to the kernel. That is a monoculture, and monocultures fail."
+      "description": "Almost every program running on any given Linux box today, regardless of what language it was written in, talks to the kernel by way of the same few megabytes of C. Python, Ruby, Rust, PHP, Java, Node, Perl – all of them hand their file descriptors, DNS lookups, memory allocations and character set conversions to glibc, and to a large degree glibc hands them to the kernel. That is a monoculture, and monocultures fail.",
+      "date": "2026-10-21"
     },
     {
       "link": "https://smarimccarthy.is/posts/2026-08-22-responding-to-bala-again/",
       "title": "Responding to Bala, again",
-      "description": "Bala responded to my previous critique of his post over on Startup Iceland. In the same response, he responded to an article I posted on Vísir yesterday, where I responded to Carl Baudenbacher’s article in Vísir yesterday, which contained some conceptual and rhetorical errors. Now, when I say “Bala responded”, I should emphasize: an AI responded on his behalf. The response had such strong “you’re absolutely right” energy that I’m not sure it’s worth responding at all, but in the spirit of healthy debate, I’ll do so, even though Bala essentially admitted on Facebook that he hadn’t read his own article, by responding to my comment saying, “slop or not there is no sense in anything you have to say”, when his article specifically concedes I’m right on almost all my points."
+      "description": "Bala responded to my previous critique of his post over on Startup Iceland. In the same response, he responded to an article I posted on Vísir yesterday, where I responded to Carl Baudenbacher’s article in Vísir yesterday, which contained some conceptual and rhetorical errors. Now, when I say “Bala responded”, I should emphasize: an AI responded on his behalf. The response had such strong “you’re absolutely right” energy that I’m not sure it’s worth responding at all, but in the spirit of healthy debate, I’ll do so, even though Bala essentially admitted on Facebook that he hadn’t read his own article, by responding to my comment saying, “slop or not there is no sense in anything you have to say”, when his article specifically concedes I’m right on almost all my points.",
+      "date": "2026-08-22"
     },
     {
       "link": "https://smarimccarthy.is/posts/2026-08-10-the-ledger-actually-open/",
       "title": "The ledger, actually open",
-      "description": "TL;DR: Bala Kamallakharan’s most recent article is rhetorical nonsense that’s riddled with internal contradictions, and structured in a way that looks like it’s steelmanning the “Yes” argument, but is actually playing a nasty little game by having the arguments for yes have wrong numbers, and the arguments for no having inscrutible adjectives. Almost everything in it is wrong in some way, often even contradicting the sources it claims to cite."
+      "description": "TL;DR: Bala Kamallakharan’s most recent article is rhetorical nonsense that’s riddled with internal contradictions, and structured in a way that looks like it’s steelmanning the “Yes” argument, but is actually playing a nasty little game by having the arguments for yes have wrong numbers, and the arguments for no having inscrutible adjectives. Almost everything in it is wrong in some way, often even contradicting the sources it claims to cite.",
+      "date": "2026-08-11"
     }
   ]
 }

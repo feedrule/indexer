@@ -4,17 +4,20 @@
     {
       "link": "http://www.jackfranklin.co.uk/blog/who-pays-for-the-tokens/",
       "title": "AI loops: who pays for the tokens?",
-      "description": "A recent trend in AI has become this idea of \"loops\". Rather than you doing prompting and working with the AI to design and implement, you instead give it a higher level goal and let it roll. You build a system to let the AI make decisions, build and verify its work, all with the aim of completing your goal. As Addy Osmani puts it : A loop here can be thought of a recursive goal where you define a"
+      "description": "A recent trend in AI has become this idea of \"loops\". Rather than you doing prompting and working with the AI to design and implement, you instead give it a higher level goal and let it roll. You build a system to let the AI make decisions, build and verify its work, all with the aim of completing your goal. As Addy Osmani puts it : A loop here can be thought of a recursive goal where you define a",
+      "date": null
     },
     {
       "link": "http://www.jackfranklin.co.uk/blog/ai-review-plan/",
       "title": "ai-review: reviewing AI code before it lands",
-      "description": "Over the years I have become very comfortable as a developer who spends most of his time in the terminal. I've spent far too long tweaking my dotfiles to make things just how I like, and I have been a Vim/Neovim user for the best part of fifteen years. This trend has continued into the AI era. I've tried various IDEs and UI tools, but I always come back to Claude Code, Gemini CLI, and others. The"
+      "description": "Over the years I have become very comfortable as a developer who spends most of his time in the terminal. I've spent far too long tweaking my dotfiles to make things just how I like, and I have been a Vim/Neovim user for the best part of fifteen years. This trend has continued into the AI era. I've tried various IDEs and UI tools, but I always come back to Claude Code, Gemini CLI, and others. The",
+      "date": null
     },
     {
       "link": "http://www.jackfranklin.co.uk/blog/claude-code-ai-feedback-skill/",
       "title": "Tracking feedback with Claude Code",
-      "description": "I've been using Claude Code as a pair programmer, debugger, and feedback collector while I playtest my game, OnTrack . The setup has worked so well that I ended up building a small custom skill to make it scale and in this post I'll take you through how it works. (That last DevBlog was in 2024 (!), but I have continued to work on the game — with AI my pace and progress has quickened, even if overa"
+      "description": "I've been using Claude Code as a pair programmer, debugger, and feedback collector while I playtest my game, OnTrack . The setup has worked so well that I ended up building a small custom skill to make it scale and in this post I'll take you through how it works. (That last DevBlog was in 2024 (!), but I have continued to work on the game — with AI my pace and progress has quickened, even if overa",
+      "date": null
     }
   ]
 }

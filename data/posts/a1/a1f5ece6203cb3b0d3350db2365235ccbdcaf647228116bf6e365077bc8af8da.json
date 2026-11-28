@@ -4,17 +4,20 @@
     {
       "link": "https://lowlevel.fun/transparency/",
       "title": "Reporting Transparency",
-      "description": "Active Reports Reference Reported to Product Severity Date Reported Bounty Awarded - Google First Party App - 2026-JUL-28 5500$ - Google AOSP HIGH 2026-AUG-28 - - Google AOSP HIGH 2026-AUG-28 - Ratings are based on the initial severity assessment of the Vendor security team Fixed Vulnerabilities CVE Reported to Product Date Fixed Fix Time (Days) Severity Bounty Awarded CVE-2026-0056 Google AOSP 20"
+      "description": "Active Reports Reference Reported to Product Severity Date Reported Bounty Awarded - Google First Party App - 2026-JUL-28 5500$ - Google AOSP HIGH 2026-AUG-28 - - Google AOSP HIGH 2026-AUG-28 - Ratings are based on the initial severity assessment of the Vendor security team Fixed Vulnerabilities CVE Reported to Product Date Fixed Fix Time (Days) Severity Bounty Awarded CVE-2026-0056 Google AOSP 20",
+      "date": null
     },
     {
       "link": "https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/",
       "title": "The Tiny UDP Cannon: An Android VPN Bypass",
-      "description": "On Android 16, a regular app with no special permissions can leak the user’s real IP, even with “Always-On VPN” + “Block connections without VPN” turned on. Those two settings are supposed to be the hard guarantee that nothing leaves the device outside the tunnel. They don’t hold here. The trick is that the app doesn’t send the packet itself. It hands the bytes and a destination to system_server ("
+      "description": "On Android 16, a regular app with no special permissions can leak the user’s real IP, even with “Always-On VPN” + “Block connections without VPN” turned on. Those two settings are supposed to be the hard guarantee that nothing leaves the device outside the tunnel. They don’t hold here. The trick is that the app doesn’t send the packet itself. It hands the bytes and a destination to system_server (",
+      "date": null
     },
     {
       "link": "https://lowlevel.fun/posts/low-severity-findings/",
       "title": "Low Severity Findings",
-      "description": "A collection of low severity and “won’t fix” vulnerabilities from my recent security research. These didn’t meet the bar for a formal advisory but are documented here for transparency. Table of Contents ADB Fastdeploy Command Injection ADB Public Key Newline Injection Recovery System Argument Injection ADB Fastdeploy Command Injection When adb install is called with --fastdeploy, the ADB client ru"
+      "description": "A collection of low severity and “won’t fix” vulnerabilities from my recent security research. These didn’t meet the bar for a formal advisory but are documented here for transparency. Table of Contents ADB Fastdeploy Command Injection ADB Public Key Newline Injection Recovery System Argument Injection ADB Fastdeploy Command Injection When adb install is called with --fastdeploy, the ADB client ru",
+      "date": null
     }
   ]
 }

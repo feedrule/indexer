@@ -4,17 +4,20 @@
     {
       "link": "https://sarat.dev/blog/mullvad-tailscale/",
       "title": "Using Mullvad VPN with Tailscale",
-      "description": "I wanted to use Mullvad VPN and Tailscale together on my Android phone. The problem is Android only allows one active VPN at a time. Tailscale does have a built-in option to purchase Mullvad through them, but that's not available in India. So I built a small tool to work around this: mullvad-tailscale . It's a Docker container that takes a Mullvad WireGuard tunnel and exposes it as a Tailscale exi"
+      "description": "I wanted to use Mullvad VPN and Tailscale together on my Android phone. The problem is Android only allows one active VPN at a time. Tailscale does have a built-in option to purchase Mullvad through them, but that's not available in India. So I built a small tool to work around this: mullvad-tailscale . It's a Docker container that takes a Mullvad WireGuard tunnel and exposes it as a Tailscale exi",
+      "date": null
     },
     {
       "link": "https://sarat.dev/blog/waitgroup-leaky-abstractions/",
       "title": "Using WaitGroups in Go without Leaky Abstractions",
-      "description": "In many Go codebases, I come across patterns like this: func main () { var wg sync . WaitGroup wg. Add ( 1 ) go func1 ( & wg) wg. Wait () } In this pattern, the goal is to let a function call the Done() method once it is finished, synchronizing multiple goroutines with a sync.WaitGroup . However, there's a disadvantage: now the function needs to take a WaitGroup as one of its arguments. Consequent"
+      "description": "In many Go codebases, I come across patterns like this: func main () { var wg sync . WaitGroup wg. Add ( 1 ) go func1 ( & wg) wg. Wait () } In this pattern, the goal is to let a function call the Done() method once it is finished, synchronizing multiple goroutines with a sync.WaitGroup . However, there's a disadvantage: now the function needs to take a WaitGroup as one of its arguments. Consequent",
+      "date": null
     },
     {
       "link": "https://sarat.dev/blog/fuzzy-search-fzf/",
       "title": "Fuzzy Search with fzf",
-      "description": "fzf is a powerful tool for fuzzy searching, and can greatly enhance your workflow. Here are some ways that I use fzf : 1. Changing directories with ease To quickly change directories, I use a bash alias that combines the speed of fd (an alternative to find ) and the convenience of fzf . cdh () { cd $( fd --type d . \" /home/sarat \" | fzf ) } This command lists all directories under the /home/sarat"
+      "description": "fzf is a powerful tool for fuzzy searching, and can greatly enhance your workflow. Here are some ways that I use fzf : 1. Changing directories with ease To quickly change directories, I use a bash alias that combines the speed of fd (an alternative to find ) and the convenience of fzf . cdh () { cd $( fd --type d . \" /home/sarat \" | fzf ) } This command lists all directories under the /home/sarat",
+      "date": null
     }
   ]
 }

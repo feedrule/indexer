@@ -4,17 +4,20 @@
     {
       "link": "https://purplesyringa.moe/blog/./superoptimizing-an-fpu-emulator/",
       "title": "Superoptimizing an FPU emulator",
-      "description": "Superoptimization is the process where a compiler automatically finds the optimal sequence for a loop-free sequence of instructions. – Wikipedia Compilers are good at making mechanical transformations that make code faster. Unfortunately, most of them are not as good at non-trivial reasoning, so they can’t invent a completely novel approach to solving your problem. When designing a library for flo"
+      "description": "Superoptimization is the process where a compiler automatically finds the optimal sequence for a loop-free sequence of instructions. – Wikipedia Compilers are good at making mechanical transformations that make code faster. Unfortunately, most of them are not as good at non-trivial reasoning, so they can’t invent a completely novel approach to solving your problem. When designing a library for flo",
+      "date": null
     },
     {
       "link": "https://purplesyringa.moe/blog/./things-i-wish-i-knew-before-starting-speedrunning/",
       "title": "Things I wish I knew before starting speedrunning",
-      "description": "I started speedrunning Minecraft a while ago. It’s an interesting niche with many tutorials and a helpful community, so all the information you need is freely available. But I used to struggle a lot, because it wasn’t clear to me how to learn to execute this stuff – partially because my hand-eye coordination and reaction time suck, but also because most of the advice on improving mechanics is lite"
+      "description": "I started speedrunning Minecraft a while ago. It’s an interesting niche with many tutorials and a helpful community, so all the information you need is freely available. But I used to struggle a lot, because it wasn’t clear to me how to learn to execute this stuff – partially because my hand-eye coordination and reaction time suck, but also because most of the advice on improving mechanics is lite",
+      "date": null
     },
     {
       "link": "https://purplesyringa.moe/blog/./who-is-vfmaddrnd231pd/",
       "title": "Who is vfmaddrnd231pd??",
-      "description": "vfmaddrnd231pd is a unique instruction from the FMA instruction set. Most instructions in that set have mnemonics like vfmadd231pd , but here rnd means something very specific. The Intel Software Development Manual documents it as: VFMADDRND231PD – Fused Multiply-Add of Packed Double-Precision Floating-Point Values with rounding control […] The immediate byte defines several bit fields that contro"
+      "description": "vfmaddrnd231pd is a unique instruction from the FMA instruction set. Most instructions in that set have mnemonics like vfmadd231pd , but here rnd means something very specific. The Intel Software Development Manual documents it as: VFMADDRND231PD – Fused Multiply-Add of Packed Double-Precision Floating-Point Values with rounding control […] The immediate byte defines several bit fields that contro",
+      "date": null
     }
   ]
 }

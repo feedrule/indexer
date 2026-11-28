@@ -4,17 +4,20 @@
     {
       "link": "https://jguer.space/blog/2026-06-15-yay-v13",
       "title": "yay v13 and the AURpocalypse",
-      "description": "A deep dive into yay v13 for Arch Linux: Lua hook support, PKGBUILD last-update visibility, and practical automation patterns after the AUR security incident."
+      "description": "A deep dive into yay v13 for Arch Linux: Lua hook support, PKGBUILD last-update visibility, and practical automation patterns after the AUR security incident.",
+      "date": null
     },
     {
       "link": "https://jguer.space/blog/stop-copying-githubs-user-account-model-check-what-you-need-first",
       "title": "Stop copying GitHub's user account model for your B2B. Here's how to get it right",
-      "description": "Maybe you don't need Global users and ten types of social login"
+      "description": "Maybe you don't need Global users and ten types of social login",
+      "date": null
     },
     {
       "link": "https://jguer.space/blog/migrating-legacy-access-control-to-openfga",
       "title": "Migrating Legacy Access Control to OpenFGA: Strategies, Challenges, and Lessons Learned",
-      "description": "A practical guide to migrating legacy access control systems to OpenFGA, covering key strategies, challenges, and lessons learned for achieving scalable, fine-grained authorization in modern applications."
+      "description": "A practical guide to migrating legacy access control systems to OpenFGA, covering key strategies, challenges, and lessons learned for achieving scalable, fine-grained authorization in modern applications.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://xopla.net/posts/a-print-project-for-artemis-ii-mission-posters/",
       "title": "This is Cosmic Plates, a print project for Artemis II footage",
-      "description": "Cosmic Plates is a little site I made to host print-ready poster layouts of space footage in the public domain. Starting with the Artemis II mission."
+      "description": "Cosmic Plates is a little site I made to host print-ready poster layouts of space footage in the public domain. Starting with the Artemis II mission.",
+      "date": null
     },
     {
       "link": "https://xopla.net/posts/i-build-a-3d-gaussian-splat-viewer-generator-with-apples-new-code/",
       "title": "I build a 3D Gaussian Splat viewer and generator with Apple's new code",
-      "description": "In December, Apple published Sharp, a technique for generating 3D Gaussian Splats from a single photograph. With that, I've built a set of tools to generate 3D Gaussian Splats on the fly for my blog posts using hosted ML systems, custom frontend renderer and CMS widgets."
+      "description": "In December, Apple published Sharp, a technique for generating 3D Gaussian Splats from a single photograph. With that, I've built a set of tools to generate 3D Gaussian Splats on the fly for my blog posts using hosted ML systems, custom frontend renderer and CMS widgets.",
+      "date": null
     },
     {
       "link": "https://xopla.net/posts/breaking-mindar-out-of-its-cage-and-sharing-it-with-you/",
       "title": "Breaking MindAR out of its cage (and sharing it with you)",
-      "description": "Why I revamped a popular, but complex, AR image tracking library to be a better performing and decoupled, free alternative to 8th Walls now de-funded engine."
+      "description": "Why I revamped a popular, but complex, AR image tracking library to be a better performing and decoupled, free alternative to 8th Walls now de-funded engine.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://sourcery.zone/articles/2026/11/ai-detectors-are-not-prefect-but-they-still-worth-using/",
       "title": "AI detectors are not prefect, but they still worth using",
-      "description": "Five years ago, I couldn’t imagine myself getting so excited reading a sentence of praise on human intelligence vs machine. Yet, it happened for real when I was reading Ju! Ju! Tsu! : In praise of human beings This book was written by a human (hello, I’m Arialdo), not AI, because I respect your intelligence. I know for sure that I’m not alone. Martin Fowler, has a nice article where he discusses a"
+      "description": "Five years ago, I couldn’t imagine myself getting so excited reading a sentence of praise on human intelligence vs machine. Yet, it happened for real when I was reading Ju! Ju! Tsu! : In praise of human beings This book was written by a human (hello, I’m Arialdo), not AI, because I respect your intelligence. I know for sure that I’m not alone. Martin Fowler, has a nice article where he discusses a",
+      "date": null
     },
     {
       "link": "https://sourcery.zone/articles/2026/08/10-diy-yubikey-alternative-which-actually-works/",
       "title": "€10 DIY Yubikey alternative which actually works",
-      "description": "For the reasons that I’ll describe in another article, I dropped Bitwarden as my password manager of choice for many years, and I found myself in the need of a security key. I own a Yubikey from work, and was quite fund of its idea, however didn’t really use it in action much due to two main reasons: The firmware is closed and not upgrade-able. If someone finds a bug, only a new release of the key"
+      "description": "For the reasons that I’ll describe in another article, I dropped Bitwarden as my password manager of choice for many years, and I found myself in the need of a security key. I own a Yubikey from work, and was quite fund of its idea, however didn’t really use it in action much due to two main reasons: The firmware is closed and not upgrade-able. If someone finds a bug, only a new release of the key",
+      "date": null
     },
     {
       "link": "https://sourcery.zone/projects/pico-fido2-flake/",
       "title": "Pico FIDO2 Flake",
-      "description": "A Nix Flake to build a pinned version Pico FIDO2 in a sandbox for the Waveshare RP2350-one 1 . The project also provides some convenient tooling to flash the boards. No code modification is applied to the upstream repository. They are referenced as non-flake repositories inside the flake , and pinned in flake.lock . The following listing contains all useful outputs: nix build .#firmware # hermetic"
+      "description": "A Nix Flake to build a pinned version Pico FIDO2 in a sandbox for the Waveshare RP2350-one 1 . The project also provides some convenient tooling to flash the boards. No code modification is applied to the upstream repository. They are referenced as non-flake repositories inside the flake , and pinned in flake.lock . The following listing contains all useful outputs: nix build .#firmware # hermetic",
+      "date": null
     }
   ]
 }

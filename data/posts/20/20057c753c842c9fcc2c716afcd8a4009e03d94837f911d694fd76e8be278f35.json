@@ -4,17 +4,20 @@
     {
       "link": "https://codepunkt.de/writing/blazing-fast-prisma-and-postgres-tests-in-vitest",
       "title": "Blazing fast Prisma and Postgres tests in Vitest",
-      "description": "Learn how to speed up real API integration tests without mocking your database or redefining test data in every test."
+      "description": "Learn how to speed up real API integration tests without mocking your database or redefining test data in every test.",
+      "date": null
     },
     {
       "link": "https://codepunkt.de/writing/open-source-license-compliance-break-the-build-not-the-law",
       "title": "OSS License Compliance: Break Your Build, Not the Law",
-      "description": "How to successfully navigate Open Source License Compliance in the JavaScript Ecosystem"
+      "description": "How to successfully navigate Open Source License Compliance in the JavaScript Ecosystem",
+      "date": null
     },
     {
       "link": "https://codepunkt.de/writing/abandoning-wilson-and-migrating-codepunktde-to-astro",
       "title": "Abandoning Wilson and migrating codepunkt.de to Astro",
-      "description": "Why I almost finished my own static site generator, Wilson, then abandoned it, and later decided to migrate codepunkt.de to Astro."
+      "description": "Why I almost finished my own static site generator, Wilson, then abandoned it, and later decided to migrate codepunkt.de to Astro.",
+      "date": null
     }
   ]
 }

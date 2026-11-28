@@ -4,17 +4,20 @@
     {
       "link": "https://veelenga.github.io/the-ai-inbox/",
       "title": "The AI inbox: save now, organize later",
-      "description": "A save now, organize later pattern for notes: anything goes into a Notion inbox, and an AI agent sorts it on a schedule using rules written once."
+      "description": "A save now, organize later pattern for notes: anything goes into a Notion inbox, and an AI agent sorts it on a schedule using rules written once.",
+      "date": null
     },
     {
       "link": "https://veelenga.github.io/autonomous-agents-that-sleep/",
       "title": "Autonomous agents that sleep",
-      "description": "Why autonomous AI agents should not loop while they wait, and how a controller running short turns with the Claude Agent SDK handles CI and reviews."
+      "description": "Why autonomous AI agents should not loop while they wait, and how a controller running short turns with the Claude Agent SDK handles CI and reviews.",
+      "date": null
     },
     {
       "link": "https://veelenga.github.io/scripting-crystal-with-lua/",
       "title": "Embedding Lua in Crystal with lua.cr",
-      "description": "How Crystal and Lua call each other through the Lua C API stack, shown step by step with lua.cr, a Crystal shard for embedding Lua scripts."
+      "description": "How Crystal and Lua call each other through the Lua C API stack, shown step by step with lua.cr, a Crystal shard for embedding Lua scripts.",
+      "date": null
     }
   ]
 }

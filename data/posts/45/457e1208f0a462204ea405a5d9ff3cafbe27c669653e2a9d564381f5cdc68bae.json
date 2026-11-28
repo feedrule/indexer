@@ -4,17 +4,20 @@
     {
       "link": "https://avneeshk.me/blog/opencode-refusal-mid-incident/",
       "title": "Why did the models stop helping halfway through OpenCode’s incident?",
-      "description": "During the October 2026 OpenCode Console breach, the frontier models helping the team investigate started refusing partway through. The team got OpenAI's Daybreak Blue access and carried on. Vetted access and an open-weight model you run yourself both solve the refusal problem; only one of them is ready before an incident starts."
+      "description": "During the October 2026 OpenCode Console breach, the frontier models helping the team investigate started refusing partway through. The team got OpenAI's Daybreak Blue access and carried on. Vetted access and an open-weight model you run yourself both solve the refusal problem; only one of them is ready before an incident starts.",
+      "date": null
     },
     {
       "link": "https://avneeshk.me/blog/two-logins-two-identities/",
       "title": "The user signed in twice. Was it the same user both times?",
-      "description": "The two-leg auth pattern (your identity provider for who the user is, OAuth for the downstream API) only describes one person when the downstream's SSO is federated to that identity provider. Without federation the two logins are to two unrelated accounts, and the audit log can name the wrong person. How to check, and what to build when federation isn't there."
+      "description": "The two-leg auth pattern (your identity provider for who the user is, OAuth for the downstream API) only describes one person when the downstream's SSO is federated to that identity provider. Without federation the two logins are to two unrelated accounts, and the audit log can name the wrong person. How to check, and what to build when federation isn't there.",
+      "date": null
     },
     {
       "link": "https://avneeshk.me/blog/oauth-providers-disagree/",
       "title": "Why does the OAuth flow that worked in my demo fail against a real provider?",
-      "description": "Three OAuth assumptions that pass in a demo and fail in production when an MCP server connects to a downstream API: PKCE does not replace a confidential client's secret, loopback redirect matching is exact for some providers and any-port for others, and endpoints are gated by plan tier. Check each against the provider's own reference, not the spec."
+      "description": "Three OAuth assumptions that pass in a demo and fail in production when an MCP server connects to a downstream API: PKCE does not replace a confidential client's secret, loopback redirect matching is exact for some providers and any-port for others, and endpoints are gated by plan tier. Check each against the provider's own reference, not the spec.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://jngiam.bearblog.dev/mcps-clis-and-skills-when-to-use-what/",
       "title": "MCPs, CLIs, and skills: when to use what?",
-      "description": "If someone tells you \"MCPs are dead\" or \"CLIs are overhyped,\" they're missing bigger picture. I use Skills, CLIs, and MCPs, and the mix is completely different between my personal and work setups. My personal and work AI setups use the same three primitives: skills, CLIs, and MCPs, but the mix is completely different. Personal: 12 skills, a handful of CLIs, direct API integrations, 4 MCP servers."
+      "description": "If someone tells you \"MCPs are dead\" or \"CLIs are overhyped,\" they're missing bigger picture. I use Skills, CLIs, and MCPs, and the mix is completely different between my personal and work setups. My personal and work AI setups use the same three primitives: skills, CLIs, and MCPs, but the mix is completely different. Personal: 12 skills, a handful of CLIs, direct API integrations, 4 MCP servers.",
+      "date": null
     },
     {
       "link": "https://jngiam.bearblog.dev/latex-is-a-great-hack-for-generating-pdfs-with-claude-code/",
       "title": "LaTeX is a great hack for generating PDFs with Claude Code",
-      "description": "TL;DR: I made a Skill that reliably gets Claude to generate PDFs using LaTeX. Professional bar charts, vector graphics, proper typography. Works on mobile too: LLMs are really good at LaTeX. Now when I ask Claude to \"create a PDF of my solar production data\", it produces professional bar charts comparing monthly production vs consumption, a net grid exchange chart, summary tables, seasonal analysi"
+      "description": "TL;DR: I made a Skill that reliably gets Claude to generate PDFs using LaTeX. Professional bar charts, vector graphics, proper typography. Works on mobile too: LLMs are really good at LaTeX. Now when I ask Claude to \"create a PDF of my solar production data\", it produces professional bar charts comparing monthly production vs consumption, a net grid exchange chart, summary tables, seasonal analysi",
+      "date": null
     },
     {
       "link": "https://jngiam.bearblog.dev/syncing-apple-health-data-to-claude-code/",
       "title": "Syncing Apple Health data to my AI (Claude Code)",
-      "description": "TL;DR: iOS Shortcuts + Cloudflare Worker + GitHub Actions = automatic Apple health data sync. No third-party apps, full control over your data. When I ask Claude \"how's my recovery?\" it actually knows: HRV trending up at 53ms, sleep has been short at 6.7 hours, haven't run in 2 days. This comes from Apple Health data synced automatically to my git repo. Getting here was harder than expected. Apple"
+      "description": "TL;DR: iOS Shortcuts + Cloudflare Worker + GitHub Actions = automatic Apple health data sync. No third-party apps, full control over your data. When I ask Claude \"how's my recovery?\" it actually knows: HRV trending up at 53ms, sleep has been short at 6.7 hours, haven't run in 2 days. This comes from Apple Health data synced automatically to my git repo. Getting here was harder than expected. Apple",
+      "date": null
     }
   ]
 }

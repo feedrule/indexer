@@ -4,17 +4,20 @@
     {
       "link": "https://trebor.bearblog.dev/chapter-19-the-super-crew/",
       "title": "Chapter 19: The Super Crew",
-      "description": "Today we're continuing research regarding reading RAM to determine the state of monsters during combat. This is so that we can use RAM monitoring (\"RSD\") during combat instead of OCR, which is extremely fragile. One thing we'll do is give me full control of the game while Moose monitors the RAM. I will record monster states as I navigate the maze, and then give those recordings to Moose, and he wi"
+      "description": "Today we're continuing research regarding reading RAM to determine the state of monsters during combat. This is so that we can use RAM monitoring (\"RSD\") during combat instead of OCR, which is extremely fragile. One thing we'll do is give me full control of the game while Moose monitors the RAM. I will record monster states as I navigate the maze, and then give those recordings to Moose, and he wi",
+      "date": null
     },
     {
       "link": "https://trebor.bearblog.dev/wizardry018_a_fighting_we_will_go/",
       "title": "Chapter 18: A-fighting we will go",
-      "description": "We are spending time doing various housekeeping activities, code cleanup, minor feature implementation - but the main goal is researching combat and RSD. During combat, I record what I see on the screen during each round of each encounter, like this: first encounter R1:3(3) slimes, 5(5) small humanoids R2:1(1) bubbly slime, 5(5) orcs R3:5(5) orcs R4:2(2) orcs R5: all monsters killed Then I upload"
+      "description": "We are spending time doing various housekeeping activities, code cleanup, minor feature implementation - but the main goal is researching combat and RSD. During combat, I record what I see on the screen during each round of each encounter, like this: first encounter R1:3(3) slimes, 5(5) small humanoids R2:1(1) bubbly slime, 5(5) orcs R3:5(5) orcs R4:2(2) orcs R5: all monsters killed Then I upload",
+      "date": null
     },
     {
       "link": "https://trebor.bearblog.dev/chapter17-human-ocr-computer-ocr/",
       "title": "Chapter17: Human OCR > Computer OCR",
-      "description": "We continue to have problems in combat because of OCR. On the discovery of the static RAM layout, we're going to go all-in on RSD. I've made Moose an offer so that we can identify the combat area of RAM: Moose, I have excellent OCR skills as a human and can help. I will take notes with each combat so that I can tell you the count and (active) values for monsters at each round of combat. Deal? ;-)"
+      "description": "We continue to have problems in combat because of OCR. On the discovery of the static RAM layout, we're going to go all-in on RSD. I've made Moose an offer so that we can identify the combat area of RAM: Moose, I have excellent OCR skills as a human and can help. I will take notes with each combat so that I can tell you the count and (active) values for monsters at each round of combat. Deal? ;-)",
+      "date": null
     }
   ]
 }

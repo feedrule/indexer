@@ -4,17 +4,20 @@
     {
       "link": "https://philna.sh/blog/2026/07/23/build-contact-form-astro-resend/",
       "title": "Build a contact form with Astro and Resend",
-      "description": "I try to keep my email address from appearing on public websites to avoid spam. But I do like people to be able to contact me if they have something I might be interested in. The solution for this? A contact form! This site is mostly statically generated, but as it is currently built with Astro and hosted on Cloudflare Workers , I can designate an endpoint as dynamic, use it to accept a form submi"
+      "description": "I try to keep my email address from appearing on public websites to avoid spam. But I do like people to be able to contact me if they have something I might be interested in. The solution for this? A contact form! This site is mostly statically generated, but as it is currently built with Astro and hosted on Cloudflare Workers , I can designate an endpoint as dynamic, use it to accept a form submi",
+      "date": null
     },
     {
       "link": "https://philna.sh/blog/2026/06/22/ai-powered-related-content-astro-site/",
       "title": "Generate AI-powered related links for your Astro content",
-      "description": "Showing related posts beneath a blog post is a great way to give your visitors more to read and encourage them to spend more time on your site. Existing methods of showing related content include matching posts by tags or by manually adding related posts to your frontmatter . Both of these work, and I used to use tag-based related posts myself, but I wanted something a bit less manual. It’s a perf"
+      "description": "Showing related posts beneath a blog post is a great way to give your visitors more to read and encourage them to spend more time on your site. Existing methods of showing related content include matching posts by tags or by manually adding related posts to your frontmatter . Both of these work, and I used to use tag-based related posts myself, but I wanted something a bit less manual. It’s a perf",
+      "date": null
     },
     {
       "link": "https://philna.sh/blog/2026/05/25/i-built-a-new-app-and-i-dont-know-how-i-feel-about-it/",
       "title": "I built a new app and I don't know how I feel about it",
-      "description": "Much like almost every other developer on the planet, I have been trying to work out my relationship with coding agents. I have been using AI-assisted coding since the GitHub Copilot beta came out in 2021 (yes, that long ago) and have seen them evolve from being a fancy autocomplete to sidebar assistants to full-blown applications that don’t even show you the code (unless you want to see it). I’ve"
+      "description": "Much like almost every other developer on the planet, I have been trying to work out my relationship with coding agents. I have been using AI-assisted coding since the GitHub Copilot beta came out in 2021 (yes, that long ago) and have seen them evolve from being a fancy autocomplete to sidebar assistants to full-blown applications that don’t even show you the code (unless you want to see it). I’ve",
+      "date": null
     }
   ]
 }

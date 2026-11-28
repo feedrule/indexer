@@ -4,17 +4,20 @@
     {
       "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
       "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "description": "I recently asked AI to help me look through the latest Windows binaries for undocumented features and functionality. Among the leads it turned up, one list immediately caught my attention: coding agents such as codex.exe , claude.exe , copilot.exe , and cursor.exe , alongside familiar developer tools such as python.exe , dotnet.exe , gcc.exe , and code.exe . Why would a Windows system DLL need a l"
+      "description": "I recently asked AI to help me look through the latest Windows binaries for undocumented features and functionality. Among the leads it turned up, one list immediately caught my attention: coding agents such as codex.exe , claude.exe , copilot.exe , and cursor.exe , alongside familiar developer tools such as python.exe , dotnet.exe , gcc.exe , and code.exe . Why would a Windows system DLL need a l",
+      "date": null
     },
     {
       "link": "https://xusheng.dev/posts/reversing/lg_monitor_app_manager_update/readme/",
       "title": "LG Updated Its “Adware”",
-      "description": "LG has been under fire for what its devices do after people buy them. Gamers Nexus found that some LG monitors caused Windows to install an LG app that promoted more software, including McAfee. More recently, its investigation 216,000,000 Spy TVs: The LG Smart TV Problem examined LG’s Automatic Content Recognition and other privacy concerns. Different products, same question: who decides what a de"
+      "description": "LG has been under fire for what its devices do after people buy them. Gamers Nexus found that some LG monitors caused Windows to install an LG app that promoted more software, including McAfee. More recently, its investigation 216,000,000 Spy TVs: The LG Smart TV Problem examined LG’s Automatic Content Recognition and other privacy concerns. Different products, same question: who decides what a de",
+      "date": null
     },
     {
       "link": "https://xusheng.dev/posts/reversing/detecting_insecure_software_updates_at_scale/main/",
       "title": "Detecting Insecure Software Updates at Scale with LLM Agents",
-      "description": "TL;DR I used a hierarchy of low-cost source-reading agents, stronger review agents, and manual verification to trace how 3,006 open-source projects handle software updates. I found 624 with an updater that could download and then install, load, or execute code: 134 used a pinned signing key, 109 enforced a publisher identity, 332 relied only on HTTPS, and 49 used broken transport security . The ot"
+      "description": "TL;DR I used a hierarchy of low-cost source-reading agents, stronger review agents, and manual verification to trace how 3,006 open-source projects handle software updates. I found 624 with an updater that could download and then install, load, or execute code: 134 used a pinned signing key, 109 enforced a publisher identity, 332 relied only on HTTPS, and 49 used broken transport security . The ot",
+      "date": null
     }
   ]
 }

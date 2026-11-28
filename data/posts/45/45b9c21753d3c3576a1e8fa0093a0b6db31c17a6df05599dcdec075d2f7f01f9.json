@@ -4,17 +4,20 @@
     {
       "link": "https://arif.sh/articles/i-built-a-cad-editor-then-taught-an-llm-to-use-it",
       "title": "i built a cad editor in the browser, then taught an llm to use it",
-      "description": "parsing autocad dwg, reconstructing walls and rooms from anonymous line segments, building a canvas cad editor from scratch, and handing the whole thing to claude as tools it can call"
+      "description": "parsing autocad dwg, reconstructing walls and rooms from anonymous line segments, building a canvas cad editor from scratch, and handing the whole thing to claude as tools it can call",
+      "date": null
     },
     {
       "link": "https://arif.sh/articles/your-ssh-key-is-already-an-account",
       "title": "Your SSH key is already an account: building multiplayer apps over SSH",
-      "description": "Every SSH connection proves who the user is before your app runs a byte. I built a small Go framework on that, and here is what treating the key fingerprint as an account makes possible."
+      "description": "Every SSH connection proves who the user is before your app runs a byte. I built a small Go framework on that, and here is what treating the key fingerprint as an account makes possible.",
+      "date": null
     },
     {
       "link": "https://arif.sh/articles/shipping-100k-construction-pdfs-monthly",
       "title": "Shipping 100,000 construction PDFs a month: what actually breaks",
-      "description": "A year of running a document processing pipeline at scale through tender packs, permit applications, site surveys, and A0 drawings. The PDFs themselves rank third on the list of things that break."
+      "description": "A year of running a document processing pipeline at scale through tender packs, permit applications, site surveys, and A0 drawings. The PDFs themselves rank third on the list of things that break.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.zerosalarium.com/2026/10/PhantomBuffer-Effective-EDR-Evasion-Stealth-Injection.html",
       "title": "PhantomBuffer: Effective EDR Evasion Through Stealth Injection",
-      "description": "I. INTRODUCTION During red teaming or penetration testing, we often need to perform stealth injection between processes. To do so, we must avoid detection and intervention by Endpoint Detection and Response (EDR) solutions. That makes bypass EDR essential when carrying out stealth injection. In this article, I’ll introduce a new EDR evasion technique and release a proof of concept (PoC) to demonst"
+      "description": "I. INTRODUCTION During red teaming or penetration testing, we often need to perform stealth injection between processes. To do so, we must avoid detection and intervention by Endpoint Detection and Response (EDR) solutions. That makes bypass EDR essential when carrying out stealth injection. In this article, I’ll introduce a new EDR evasion technique and release a proof of concept (PoC) to demonst",
+      "date": null
     },
     {
       "link": "https://www.zerosalarium.com/2025/10/IAmAntimalware-Inject-Code-Into-Antivirus.html",
       "title": "IAmAntimalware: Inject Malicious Code Into Antivirus",
-      "description": "I. STARTER When conducting penetration testing on target machines, our actions will be ruthlessly monitored and judged by Antivirus. If deemed dangerous, our payload will be removed from the system, or worse, we may lose access to the target machine entirely. However, there are always processes considered exceptions. These are the processes of the Antivirus itself. Suppose you are an Antivirus sof"
+      "description": "I. STARTER When conducting penetration testing on target machines, our actions will be ruthlessly monitored and judged by Antivirus. If deemed dangerous, our payload will be removed from the system, or worse, we may lose access to the target machine entirely. However, there are always processes considered exceptions. These are the processes of the Antivirus itself. Suppose you are an Antivirus sof",
+      "date": null
     },
     {
       "link": "https://www.zerosalarium.com/2025/09/EDR-Freeze-Puts-EDRs-Antivirus-Into-Coma.html",
       "title": "EDR-Freeze: A Tool That Puts EDRs And Antivirus Into A Coma State",
-      "description": "I. STARTER Currently, in addition to merely focusing on avoiding scrutiny from EDR s (Endpoint Detection and Response) and Antivirus, the trend of using B YOVD (Bring Your Own Vulnerable Driver) techniques to disable the processes of EDRs and Antivirus by attackers is becoming increasingly popular. The biggest drawback of the BYOVD technique is the need to find a way to install and execute drivers"
+      "description": "I. STARTER Currently, in addition to merely focusing on avoiding scrutiny from EDR s (Endpoint Detection and Response) and Antivirus, the trend of using B YOVD (Bring Your Own Vulnerable Driver) techniques to disable the processes of EDRs and Antivirus by attackers is becoming increasingly popular. The biggest drawback of the BYOVD technique is the need to find a way to install and execute drivers",
+      "date": null
     }
   ]
 }

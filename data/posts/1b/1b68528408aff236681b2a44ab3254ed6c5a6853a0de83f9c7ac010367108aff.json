@@ -4,17 +4,20 @@
     {
       "link": "https://lukket.me/securely-storing-git-passwords-in-wsl2/",
       "title": "Bit #6: Securely storing Git passwords in WSL2",
-      "description": "Using the Windows Credential Manager to securely store Git passwords in WSL2."
+      "description": "Using the Windows Credential Manager to securely store Git passwords in WSL2.",
+      "date": null
     },
     {
       "link": "https://lukket.me/increasing-the-output-readability-of-dockers-container-list-command/",
       "title": "Bit #7: Increasing the output readability of Docker's container list command",
-      "description": "With good old aliases, we can increase the output readability of Docker's container list command easily."
+      "description": "With good old aliases, we can increase the output readability of Docker's container list command easily.",
+      "date": null
     },
     {
       "link": "https://lukket.me/using-bitwardens-ssh-agent-in-wsl2/",
       "title": "Bit #5: Using Bitwarden's SSH agent in WSL2",
-      "description": "To use Bitwarden's SSH agent in WSL2, we can forward the SSH agent from Windows to WSL2."
+      "description": "To use Bitwarden's SSH agent in WSL2, we can forward the SSH agent from Windows to WSL2.",
+      "date": null
     }
   ]
 }

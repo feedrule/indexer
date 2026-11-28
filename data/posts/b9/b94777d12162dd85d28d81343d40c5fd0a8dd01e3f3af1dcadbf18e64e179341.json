@@ -4,17 +4,20 @@
     {
       "link": "https://www.die-welt.net/2026/03/converting-dovecot-password-schemes-on-the-fly-without-too-much-cursing/",
       "title": "Converting Dovecot password schemes on the fly without (too much) cursing",
-      "description": "I finally upgraded my mail server to Debian 13 and, as expected, the Dovecot part was quite a ride. The configuration syntax changed between Dovecot 2.3 (Debian 12) and Dovecot 2.4 (Debian 13), so I started first with diffing my configuration against a vanilla Debian 12 one (this setup is slightly old) and then applied the same (logical) changes to a vanilla Debian 13 one. This mostly went well. M"
+      "description": "I finally upgraded my mail server to Debian 13 and, as expected, the Dovecot part was quite a ride. The configuration syntax changed between Dovecot 2.3 (Debian 12) and Dovecot 2.4 (Debian 13), so I started first with diffing my configuration against a vanilla Debian 12 one (this setup is slightly old) and then applied the same (logical) changes to a vanilla Debian 13 one. This mostly went well. M",
+      "date": null
     },
     {
       "link": "https://www.die-welt.net/2026/01/validating-cloud-init-configs-without-being-root/",
       "title": "Validating cloud-init configs without being root",
-      "description": "Somehow this whole DevOps thing is all about generating the wildest things from some (usually equally wild) template. And today we're gonna generate YAML from ERB , what could possibly go wrong?! Well, actually, quite a lot , so one wants to validate the generated result before using it to break systems at scale. The YAML we generate is a cloud-init cloud-config , and while checking that we genera"
+      "description": "Somehow this whole DevOps thing is all about generating the wildest things from some (usually equally wild) template. And today we're gonna generate YAML from ERB , what could possibly go wrong?! Well, actually, quite a lot , so one wants to validate the generated result before using it to break systems at scale. The YAML we generate is a cloud-init cloud-config , and while checking that we genera",
+      "date": null
     },
     {
       "link": "https://www.die-welt.net/2025/12/home-assistant-govee-lights-local-vlans-oh-my/",
       "title": "Home Assistant, Govee Lights Local, VLANs, Oh my!",
-      "description": "We recently bought some Govee Glide Hexa Light Panels , because they have a local LAN API that is well integrated into Home Assistant . Or so we thought. Our network is not that complicated, but there is a dedicated VLAN for IOT devices. Home Assistant runs in a container (with network=host ) on a box in the basement, and that box has a NIC in the IOT VLAN so it can reach devices there easily. So"
+      "description": "We recently bought some Govee Glide Hexa Light Panels , because they have a local LAN API that is well integrated into Home Assistant . Or so we thought. Our network is not that complicated, but there is a dedicated VLAN for IOT devices. Home Assistant runs in a container (with network=host ) on a box in the basement, and that box has a NIC in the IOT VLAN so it can reach devices there easily. So",
+      "date": null
     }
   ]
 }

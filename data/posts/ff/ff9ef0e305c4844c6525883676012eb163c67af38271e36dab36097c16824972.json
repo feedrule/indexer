@@ -4,17 +4,20 @@
     {
       "link": "https://blog.carlosnunez.me/post/using-lima-and-bash-dotfiles-to-go-fast-with-claude-code/",
       "title": "Using Lima and Bash dotfiles to go fast with Claude Code",
-      "description": "I’ve been using Lima for years to run Docker and Podman on the Mac. This setup has given me a lot of control over how I set up my VMs that the “Desktop” tools often obscure. I also like being able to store my VMs in my eternally-growing dotfiles repo. Though I started messing with Claude Code last year, between not being happy with how purely vibe-coding my Status tool was going and, as usual, Lif"
+      "description": "I’ve been using Lima for years to run Docker and Podman on the Mac. This setup has given me a lot of control over how I set up my VMs that the “Desktop” tools often obscure. I also like being able to store my VMs in my eternally-growing dotfiles repo. Though I started messing with Claude Code last year, between not being happy with how purely vibe-coding my Status tool was going and, as usual, Lif",
+      "date": null
     },
     {
       "link": "https://blog.carlosnunez.me/post/cncf-weekly-1-flux/",
       "title": "CNCF Weekly #1: Flux",
-      "description": "I’m starting off CNCF Weekly with Flux, a useful and well-known tool in the cloud-native community. Key Info Project Name Flux CNCF Status Graduated Docs Link GitHub Link In a nutshell… Flux enables Kubernetes clusters and their apps to be configured with Git. Time to retire your Jenkins pipelines. Who’s This For? Platform engineers and developers interested in maintaining clusters and their apps"
+      "description": "I’m starting off CNCF Weekly with Flux, a useful and well-known tool in the cloud-native community. Key Info Project Name Flux CNCF Status Graduated Docs Link GitHub Link In a nutshell… Flux enables Kubernetes clusters and their apps to be configured with Git. Time to retire your Jenkins pipelines. Who’s This For? Platform engineers and developers interested in maintaining clusters and their apps",
+      "date": null
     },
     {
       "link": "https://blog.carlosnunez.me/post/cncf-weekly-init/",
       "title": "CNCF Weekly",
-      "description": "I was thinking about the projects in the CNCF the other day. I’ve shown some variant of this image countless times in customer calls, demos, and presentations, but never really stopped to think about how hilariously vast this landscape is. As anyone who’s used Kubernetes for more than two weeks will tell you, you don’t keep up — you just pick the same five tools that everyone else did and make a c"
+      "description": "I was thinking about the projects in the CNCF the other day. I’ve shown some variant of this image countless times in customer calls, demos, and presentations, but never really stopped to think about how hilariously vast this landscape is. As anyone who’s used Kubernetes for more than two weeks will tell you, you don’t keep up — you just pick the same five tools that everyone else did and make a c",
+      "date": null
     }
   ]
 }

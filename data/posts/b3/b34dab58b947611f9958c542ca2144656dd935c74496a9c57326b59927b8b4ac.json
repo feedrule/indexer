@@ -4,17 +4,20 @@
     {
       "link": "https://www.sagarunagar.com/blog/swiftui-state-macro-xcode-27/",
       "title": "SwiftUI @State Is Now a Macro in Xcode 27 - Lazy Initialization and Migration",
-      "description": "Learn how the SwiftUI State macro in Xcode 27 initializes state lazily, why observable models are now created only once, and how to fix the source incompatibilities it introduces."
+      "description": "Learn how the SwiftUI State macro in Xcode 27 initializes state lazily, why observable models are now created only once, and how to fix the source incompatibilities it introduces.",
+      "date": null
     },
     {
       "link": "https://www.sagarunagar.com/blog/swift-file-vs-filepath-tests/",
       "title": "#file vs #filePath in Swift Tests - Cleaner, Cacheable Builds",
-      "description": "Learn when to use #file, #fileID, and #filePath in Swift tests. Keep absolute paths out of your build artifacts and get more cache hits on CI."
+      "description": "Learn when to use #file, #fileID, and #filePath in Swift tests. Keep absolute paths out of your build artifacts and get more cache hits on CI.",
+      "date": null
     },
     {
       "link": "https://www.sagarunagar.com/blog/xctunwrap-swift-unit-tests/",
       "title": "XCTUnwrap in Swift - Stop Force Unwrapping in Unit Tests",
-      "description": "Learn how XCTUnwrap replaces force unwrapping in Swift unit tests, reporting a clear failure when an optional is nil instead of crashing your test suite."
+      "description": "Learn how XCTUnwrap replaces force unwrapping in Swift unit tests, reporting a clear failure when an optional is nil instead of crashing your test suite.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://kgptalkie.com/tutorials/transformers/day-30-scaling-laws",
       "title": "Scaling Laws From Kaplan to Chinchilla: How Big Should Your Model Be?",
-      "description": "Understand the training trade-off among model parameters, data tokens, and compute, from early scaling laws to Chinchilla-style compute-optimal training."
+      "description": "Understand the training trade-off among model parameters, data tokens, and compute, from early scaling laws to Chinchilla-style compute-optimal training.",
+      "date": null
     },
     {
       "link": "https://kgptalkie.com/tutorials/transformers/day-29-rope",
       "title": "RoPE: Rotary Position Embeddings and Long Context",
-      "description": "Learn how Rotary Position Embeddings rotate query and key pairs so attention scores can use relative token distance."
+      "description": "Learn how Rotary Position Embeddings rotate query and key pairs so attention scores can use relative token distance.",
+      "date": null
     },
     {
       "link": "https://kgptalkie.com/tutorials/machine-learning-data-science/build-support-ticket-app-scikit-llm",
       "title": "Build a Support-Ticket App with Scikit-LLM",
-      "description": "Build a small local support-ticket app that suggests a category and summary while sending uncertain cases to a person."
+      "description": "Build a small local support-ticket app that suggests a category and summary while sending uncertain cases to a person.",
+      "date": null
     }
   ]
 }

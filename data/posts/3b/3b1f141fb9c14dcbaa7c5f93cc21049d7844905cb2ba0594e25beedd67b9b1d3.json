@@ -4,17 +4,20 @@
     {
       "link": "https://0xdf.gitlab.io/2026/11/21/htb-pingpong.html",
       "title": "HTB: PingPong",
-      "description": "PingPong is an assume breach Active Directory box with two forests joined by a bidirectional trust. I’ll abuse ESC13 to get a certificate whose issuance policy maps to a group with WinRM access, and get a shell on the first DC. From there, I’ll tunnel to the second forest, convert a global group to domain local so I can add my user from across the trust, and read a gMSA password. That gMSA account"
+      "description": "PingPong is an assume breach Active Directory box with two forests joined by a bidirectional trust. I’ll abuse ESC13 to get a certificate whose issuance policy maps to a group with WinRM access, and get a shell on the first DC. From there, I’ll tunnel to the second forest, convert a global group to domain local so I can add my user from across the trust, and read a gMSA password. That gMSA account",
+      "date": null
     },
     {
       "link": "https://0xdf.gitlab.io/2026/11/14/htb-nimbus.html",
       "title": "HTB: Nimbus",
-      "description": "Nimbus is a Linux box hosting a job scheduler website backed by an emulated AWS environment. I’ll abuse a server-side request forgery in the job submission form, bypassing a string block list with a decimal IP address to reach the instance metadata service and steal AWS credentials. Those credentials can send messages to an SQS queue, where a worker deserializes them with PyYAML, giving a shell in"
+      "description": "Nimbus is a Linux box hosting a job scheduler website backed by an emulated AWS environment. I’ll abuse a server-side request forgery in the job submission form, bypassing a string block list with a decimal IP address to reach the instance metadata service and steal AWS credentials. Those credentials can send messages to an SQS queue, where a worker deserializes them with PyYAML, giving a shell in",
+      "date": null
     },
     {
       "link": "https://0xdf.gitlab.io/2026/11/07/htb-garfield.html",
       "title": "HTB: Garfield",
-      "description": "Garfield is an assume breach Active Directory box with a read-only domain controller hidden on an internal network behind the main DC. I’ll find I can write the logon script path for other users as well as files in the SYSVOL scripts folder, and use that to get a shell as the next user. That user can reset the password on their admin account, which has control over the RODC’s computer object. I’ll"
+      "description": "Garfield is an assume breach Active Directory box with a read-only domain controller hidden on an internal network behind the main DC. I’ll find I can write the logon script path for other users as well as files in the SYSVOL scripts folder, and use that to get a shell as the next user. That user can reset the password on their admin account, which has control over the RODC’s computer object. I’ll",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://kirillplatonov.com/posts/protect-shopify-theme-app-extensions/",
       "title": "Protect your Shopify theme app extensions from script injection",
-      "description": "How attackers can inject scripts through Shopify theme app extensions, and how to protect yours with app-reserved metafields, escaping and stricter custom code handling."
+      "description": "How attackers can inject scripts through Shopify theme app extensions, and how to protect yours with app-reserved metafields, escaping and stricter custom code handling.",
+      "date": null
     },
     {
       "link": "https://kirillplatonov.com/posts/comparison-trap/",
       "title": "The comparison trap of social media",
-      "description": "What I really don’t like about social media is the constant stream of measurement that they generate. I spend a lot of the time on Twitter inside small bubble of Shopify app developers and bootstrappers. And it’s a constant stream of data for comparison. People share their MRR, new features, new products, and new businesses. And I keep comparing myself with them."
+      "description": "What I really don’t like about social media is the constant stream of measurement that they generate. I spend a lot of the time on Twitter inside small bubble of Shopify app developers and bootstrappers. And it’s a constant stream of data for comparison. People share their MRR, new features, new products, and new businesses. And I keep comparing myself with them.",
+      "date": null
     },
     {
       "link": "https://kirillplatonov.com/posts/shopify-api-rate-limits/",
       "title": "4 strategies to deal with Shopify API rate limits",
-      "description": "Learn effective strategies to handle Shopify API rate limits, and improve app performance using retries, backoff, Sidekiq limiters and bulk operations."
+      "description": "Learn effective strategies to handle Shopify API rate limits, and improve app performance using retries, backoff, Sidekiq limiters and bulk operations.",
+      "date": null
     }
   ]
 }

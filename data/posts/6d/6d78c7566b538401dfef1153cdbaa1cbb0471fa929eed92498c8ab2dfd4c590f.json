@@ -4,17 +4,20 @@
     {
       "link": "https://shambu.bearblog.dev/extract-samsung-health-data/",
       "title": "Building a Personal Health Dashboard from Samsung Health",
-      "description": "Samsung Health has no public API, so I built an Android app that pulls Health Connect data to a server and a static dashboard I can share."
+      "description": "Samsung Health has no public API, so I built an Android app that pulls Health Connect data to a server and a static dashboard I can share.",
+      "date": null
     },
     {
       "link": "https://shambu.bearblog.dev/no-inbound-ssm-bastion-rds/",
       "title": "I built a database bastion with no inbound ports. Is that actually secure?",
-      "description": "I built a no-inbound SSM bastion to reach a private RDS, then asked whether closing the ports actually made it secure. The real surface is IAM, not the network."
+      "description": "I built a no-inbound SSM bastion to reach a private RDS, then asked whether closing the ports actually made it secure. The real surface is IAM, not the network.",
+      "date": null
     },
     {
       "link": "https://shambu.bearblog.dev/share-gpus-with-genv-and-docker/",
       "title": "How to share Nvidia GPUs that don’t support MIG and when vGPU isn’t an option",
-      "description": "How I used genv and Docker to soft partition Nvidia L40S GPUs without MIG or vGPU. A practical guide to sharing GPUs safely for small research groups."
+      "description": "How I used genv and Docker to soft partition Nvidia L40S GPUs without MIG or vGPU. A practical guide to sharing GPUs safely for small research groups.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://uchenml.tech/mlir-step-through",
       "title": "Stepping through an MLIR pass pipeline in the browser",
-      "description": "--mlir-print-ir-after-all prints every pass into one log. MLIR step-through runs upstream mlir-opt in a browser tab and shows each pass as a diff."
+      "description": "--mlir-print-ir-after-all prints every pass into one log. MLIR step-through runs upstream mlir-opt in a browser tab and shows each pass as a diff.",
+      "date": null
     },
     {
       "link": "https://uchenml.tech/uchenml-optimizations",
       "title": "Optimizing UchenML inference for a browser tab",
-      "description": "A browser tab is a constrained place to run a neural net: one thread, 32-bit floats, four-wide SIMD, no GPU. This article goes into the specific optimizations that made running Dots there practical."
+      "description": "A browser tab is a constrained place to run a neural net: one thread, 32-bit floats, four-wide SIMD, no GPU. This article goes into the specific optimizations that made running Dots there practical.",
+      "date": null
     },
     {
       "link": "https://uchenml.tech/simd-softmax-google-highway",
       "title": "SIMD Softmax, NEON to WASM, with Google Highway",
-      "description": "One Highway kernel source compiles to NEON, AVX2, AVX-512 and WASM SIMD. Softmax as the worked example — tags, tails, and the build flags that quietly hand you a narrower target than you asked for."
+      "description": "One Highway kernel source compiles to NEON, AVX2, AVX-512 and WASM SIMD. Softmax as the worked example — tags, tails, and the build flags that quietly hand you a narrower target than you asked for.",
+      "date": null
     }
   ]
 }

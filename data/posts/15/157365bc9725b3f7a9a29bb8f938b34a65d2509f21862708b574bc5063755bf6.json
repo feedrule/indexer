@@ -4,17 +4,20 @@
     {
       "link": "https://blog.mayer.tv/2026/07/23/Update-ZED-X20P-with-Debian-on-piHAT.html",
       "title": "Update ZED-X20P with Debian on piHAT",
-      "description": "Here I want to show you how to update a ZED-X20P without u-center2. This scenario is typically used if the X20P is mounted on a piHAT sitting on a Raspberry Pi running Linux like Debian. In my case, I’m use the pHAT from sparkfun. It is mounted on a Raspberry Pi5 with Debian 13 trixie. And of course there is no easy way to run u-center2 directly. I found information to connect the Linux box and th"
+      "description": "Here I want to show you how to update a ZED-X20P without u-center2. This scenario is typically used if the X20P is mounted on a piHAT sitting on a Raspberry Pi running Linux like Debian. In my case, I’m use the pHAT from sparkfun. It is mounted on a Raspberry Pi5 with Debian 13 trixie. And of course there is no easy way to run u-center2 directly. I found information to connect the Linux box and th",
+      "date": null
     },
     {
       "link": "https://blog.mayer.tv/2026/05/31/u-blox-ZED-X20P-initialization-and-GPSD.html",
       "title": "u-blox ZED-X20P initialization and GPSD",
-      "description": "I use the gpsd tool set since a while. In Debian it is available as package or you can find it here: gpsd Several programs from the gpsd tool set worked as expected when I use it with a ZED-F9P. Not so with the newer ZED-X20P. The reason is simple. When starting the gpsd process it initialize the F9P and others u-blox devices with several messages, but not so with the X20P. The X20P stays in the f"
+      "description": "I use the gpsd tool set since a while. In Debian it is available as package or you can find it here: gpsd Several programs from the gpsd tool set worked as expected when I use it with a ZED-F9P. Not so with the newer ZED-X20P. The reason is simple. When starting the gpsd process it initialize the F9P and others u-blox devices with several messages, but not so with the X20P. The X20P stays in the f",
+      "date": null
     },
     {
       "link": "https://blog.mayer.tv/2026/05/28/the-austrian-cloud.html",
       "title": "The Austrian Cloud",
-      "description": "Tap on the image to see details. Aufgenommen in der Friedensstraße, Wien Mauer Im Zentrum unten die Sternbauten von Atzgersdorf, rechts die Tilgnergasse “Kreuz und Quer” Nicht alle Bilder sind mit KI manipuliert. Aufgenommen in der Taglieberstraße"
+      "description": "Tap on the image to see details. Aufgenommen in der Friedensstraße, Wien Mauer Im Zentrum unten die Sternbauten von Atzgersdorf, rechts die Tilgnergasse “Kreuz und Quer” Nicht alle Bilder sind mit KI manipuliert. Aufgenommen in der Taglieberstraße",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://jonathanyeong.com/writing/npmx-and-the-open-source-mindset/",
       "title": "npmx and the open source mindset",
-      "description": "Thoughts on my journey contributing to npmx over the past month. The future of open source is bright."
+      "description": "Thoughts on my journey contributing to npmx over the past month. The future of open source is bright.",
+      "date": null
     },
     {
       "link": "https://jonathanyeong.com/writing/using-val-town-as-a-webhook-middleware/",
       "title": "Using Val.town as a webhook middleware",
-      "description": "My latest obsession has been optimising webhook events from Ghost to Netlify. I needed a way to filter out large payloads sent to Netlify. Using Val.town as a webhook middleware, I can strip payloads and skip triggering builds for certain posts."
+      "description": "My latest obsession has been optimising webhook events from Ghost to Netlify. I needed a way to filter out large payloads sent to Netlify. Using Val.town as a webhook middleware, I can strip payloads and skip triggering builds for certain posts.",
+      "date": null
     },
     {
       "link": "https://jonathanyeong.com/writing/year-in-review-2025/",
       "title": "Year in Review: 2025",
-      "description": "My 2025 year in review. This was a year of peaks and valleys. I touch on what I've accomplished, my favourite lists this year, and my theme for next year."
+      "description": "My 2025 year in review. This was a year of peaks and valleys. I touch on what I've accomplished, my favourite lists this year, and my theme for next year.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Moving to NixOS",
-      "description": "I switched to NixOS two weeks ago, after about five years of being too scared of the learning curve. With Claude alongside me that curve has basically gone, and I can honestly say it’s the best computing decision I have ever made. I’ve never enjoyed my PC like this. It feels rock solid, and it feels 100% mine . Building it up in layers I didn’t do it all at once. Each layer took something I used t"
+      "description": "I switched to NixOS two weeks ago, after about five years of being too scared of the learning curve. With Claude alongside me that curve has basically gone, and I can honestly say it’s the best computing decision I have ever made. I’ve never enjoyed my PC like this. It feels rock solid, and it feels 100% mine . Building it up in layers I didn’t do it all at once. Each layer took something I used t",
+      "date": null
     },
     {
       "link": null,
       "title": "Picking a Language for Agents",
-      "description": "This is the final part of a 5-part series on agentic engineering. Part 4 laid out architectural principles for choosing languages and runtimes. This post puts a handful of worked examples through those principles, just to show what the analysis looks like in practice. This isn’t a list of “the languages I use”, and it isn’t exhaustive. It’s a deliberate move away from personal taste — what I happe"
+      "description": "This is the final part of a 5-part series on agentic engineering. Part 4 laid out architectural principles for choosing languages and runtimes. This post puts a handful of worked examples through those principles, just to show what the analysis looks like in practice. This isn’t a list of “the languages I use”, and it isn’t exhaustive. It’s a deliberate move away from personal taste — what I happe",
+      "date": null
     },
     {
       "link": null,
       "title": "Agentic Architecture",
-      "description": "This is part 4 of a 5-part series on agentic engineering. Part 1 set the values-vs-mechanisms frame. Part 2 covered pairing and learning. Part 3 made the case for harness engineering. This one is about the architecture underneath the harness — the language, runtime, deployment, and version-control choices that make agents safe. Part 5 gets concrete about specific languages. Why architecture change"
+      "description": "This is part 4 of a 5-part series on agentic engineering. Part 1 set the values-vs-mechanisms frame. Part 2 covered pairing and learning. Part 3 made the case for harness engineering. This one is about the architecture underneath the harness — the language, runtime, deployment, and version-control choices that make agents safe. Part 5 gets concrete about specific languages. Why architecture change",
+      "date": null
     }
   ]
 }

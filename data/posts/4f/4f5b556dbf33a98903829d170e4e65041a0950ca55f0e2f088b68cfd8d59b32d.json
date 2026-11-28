@@ -4,17 +4,20 @@
     {
       "link": "https://micahwalter.com/posts/working-in-public",
       "title": "You do not need an audience",
-      "description": "Working in public is usually sold as a growth strategy. For me it is something quieter and more useful: a way to keep ideas moving, keep the builder muscle warm, and leave a trail I can come back to. This site is the experiment."
+      "description": "Working in public is usually sold as a growth strategy. For me it is something quieter and more useful: a way to keep ideas moving, keep the builder muscle warm, and leave a trail I can come back to. This site is the experiment.",
+      "date": null
     },
     {
       "link": "https://micahwalter.com/posts/photos-without-the-deploy",
       "title": "Photos without the deploy",
-      "description": "Uploading a photo from my phone worked, but publishing it still meant a full static rebuild. Moving photo metadata to DynamoDB and serving it from an API turned a four minute wait into a few seconds, and taught me a couple of lessons about EXIF data along the way."
+      "description": "Uploading a photo from my phone worked, but publishing it still meant a full static rebuild. Moving photo metadata to DynamoDB and serving it from an API turned a four minute wait into a few seconds, and taught me a couple of lessons about EXIF data along the way.",
+      "date": null
     },
     {
       "link": "https://micahwalter.com/posts/faster-deploys-moving-redirects-to-cloudfront",
       "title": "Faster deploys by moving legacy redirects to CloudFront",
-      "description": "GitHub Actions deploys were taking three to five minutes. The site was pre-rendering more than two thousand static pages, and most of them existed only to redirect. Here is how issue #90 cut the page count in half and got deploys under two minutes."
+      "description": "GitHub Actions deploys were taking three to five minutes. The site was pre-rendering more than two thousand static pages, and most of them existed only to redirect. Here is how issue #90 cut the page count in half and got deploys under two minutes.",
+      "date": null
     }
   ]
 }

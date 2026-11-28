@@ -4,17 +4,20 @@
     {
       "link": "https://nyanpasu64.gitlab.io/blog/8bitdo-game-controller/",
       "title": "An 8BitDo Switch controller adventure",
-      "description": "Recently I wanted to play Splatoon on PC using a gyro-based game controller rather than the large and awkward Wii U gamepad. Additionally I needed a replacement for my assortment of controllers in various states of jank and wear. After asking around on Fedi, I ended up ordering an 8BitDo Ultimate 2C BT controller. This decision set me down a rabbit hole of firmware research and hardware modding."
+      "description": "Recently I wanted to play Splatoon on PC using a gyro-based game controller rather than the large and awkward Wii U gamepad. Additionally I needed a replacement for my assortment of controllers in various states of jank and wear. After asking around on Fedi, I ended up ordering an 8BitDo Ultimate 2C BT controller. This decision set me down a rabbit hole of firmware research and hardware modding.",
+      "date": null
     },
     {
       "link": "https://nyanpasu64.gitlab.io/blog/qt-creator-pico/",
       "title": "Setting up Qt Creator for Pi Pico RP2040 development",
-      "description": "Qt Creator is tricky to set up for RP2040/Pi Pico development, but fairly quick once you know the steps. I was unable to make Pico projects run correctly under VS Code using Raspberry's suggested editor extension. Note: These are personal notes from setting up Qt Creator for Raspberry Pi Pico 1 development on a new machine, organized into an article after the fact. They are specific to my machine"
+      "description": "Qt Creator is tricky to set up for RP2040/Pi Pico development, but fairly quick once you know the steps. I was unable to make Pico projects run correctly under VS Code using Raspberry's suggested editor extension. Note: These are personal notes from setting up Qt Creator for Raspberry Pi Pico 1 development on a new machine, organized into an article after the fact. They are specific to my machine",
+      "date": null
     },
     {
       "link": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
       "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
-      "description": "I recently purchased an ultra-cheap HDMI-to-VGA DAC to hook up my Nintendo Switch to my CRT monitor and external speakers. Unfortunately its audio out jack produced serious noise problems on my audio mixer, as well as my PC's mic jack. I spent several days diagnosing impedance issues, prototyping filtering for the delta-sigma audio DAC, and reworking PCB components to produce the best quality audi"
+      "description": "I recently purchased an ultra-cheap HDMI-to-VGA DAC to hook up my Nintendo Switch to my CRT monitor and external speakers. Unfortunately its audio out jack produced serious noise problems on my audio mixer, as well as my PC's mic jack. I spent several days diagnosing impedance issues, prototyping filtering for the delta-sigma audio DAC, and reworking PCB components to produce the best quality audi",
+      "date": null
     }
   ]
 }

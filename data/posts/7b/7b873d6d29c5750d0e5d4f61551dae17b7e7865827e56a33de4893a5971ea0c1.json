@@ -4,17 +4,20 @@
     {
       "link": "https://docsgoblin.com/blog/26-10-29-panslopticon.html",
       "title": "build yourself a panslopticon",
-      "description": "Since LavaCon, I've been thinking about how I keep AI agents from producing slop, and how to scale from just my little team and well-controlled outputs to a whole company. I don't want to just detect bad output after the fact, but I want to build systems that make it harder for bad output to escape in the first place. This has led me to a concept I call the Panslopticon , because apparently starti"
+      "description": "Since LavaCon, I've been thinking about how I keep AI agents from producing slop, and how to scale from just my little team and well-controlled outputs to a whole company. I don't want to just detect bad output after the fact, but I want to build systems that make it harder for bad output to escape in the first place. This has led me to a concept I call the Panslopticon , because apparently starti",
+      "date": null
     },
     {
       "link": "https://docsgoblin.com/blog/26-10-17-jev-and-embeddings.html",
       "title": "CT's eldritch horror search and chat design",
-      "description": "I've written about benchmarking Voyage and Cohere embeddings and about using Jev in my authoring agent , but I never wrote down how the search and chat in Shoalrun actually fit together, or why I built them this way. The short version: I designed it so that no single piece has to be trusted, cause I don't trust AI . Keyword search works out of the box, with nothing else turned on -- no round trips"
+      "description": "I've written about benchmarking Voyage and Cohere embeddings and about using Jev in my authoring agent , but I never wrote down how the search and chat in Shoalrun actually fit together, or why I built them this way. The short version: I designed it so that no single piece has to be trusted, cause I don't trust AI . Keyword search works out of the box, with nothing else turned on -- no round trips",
+      "date": null
     },
     {
       "link": "https://docsgoblin.com/blog/26-10-07-authoring-agent.html",
       "title": "building my own authoring sidekick",
-      "description": "I'm building a doc compiler called Shoalrun . Right now it's just a functional art project I'm using to blow off steam, but everything present on the site actually works like it says it does. It's complete enough that I'd be comfortable standing up my next doc project with Shoalrun. I've been thinking about how I can make it a great tool for running docs using AI, and I've also been learning LangG"
+      "description": "I'm building a doc compiler called Shoalrun . Right now it's just a functional art project I'm using to blow off steam, but everything present on the site actually works like it says it does. It's complete enough that I'd be comfortable standing up my next doc project with Shoalrun. I've been thinking about how I can make it a great tool for running docs using AI, and I've also been learning LangG",
+      "date": null
     }
   ]
 }

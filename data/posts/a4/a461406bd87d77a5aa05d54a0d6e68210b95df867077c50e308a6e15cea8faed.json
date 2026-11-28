@@ -4,17 +4,20 @@
     {
       "link": "https://utdream.org/a-comprehensive-review-of-hdmi-cec-and-the-cec-ctl-command/",
       "title": "A Comprehensive Review of HDMI-CEC and the cec-ctl Command",
-      "description": "Recently I was part of a project that required me to control media devices using the HDMI-CEC protocol and there is precious little comprehensive information on this topic, so I figured the world could use a good review. Introducing HDMI-CEC HDMI-CEC (CEC) is short for ‘Consumer Electronics Control’ and is part of the HDMI standard spec. CEC operates using a one-wire bus (pin 13 on Type A & E conn"
+      "description": "Recently I was part of a project that required me to control media devices using the HDMI-CEC protocol and there is precious little comprehensive information on this topic, so I figured the world could use a good review. Introducing HDMI-CEC HDMI-CEC (CEC) is short for ‘Consumer Electronics Control’ and is part of the HDMI standard spec. CEC operates using a one-wire bus (pin 13 on Type A & E conn",
+      "date": null
     },
     {
       "link": "https://utdream.org/introducing-mail-hermit/",
       "title": "Introducing Mail Hermit",
-      "description": "Mail Hermit is an open-source local-only email message transfer program. If you want to change your email address from one provider to another (ie: gmail or yahoo to a more private email server – like Modoboa) and take your email messages with you, then Mail Hermit was made especially for you. Mail Hermit was named after the Hermit Crab, that regularly trades out it’s old shell for a new shell whe"
+      "description": "Mail Hermit is an open-source local-only email message transfer program. If you want to change your email address from one provider to another (ie: gmail or yahoo to a more private email server – like Modoboa) and take your email messages with you, then Mail Hermit was made especially for you. Mail Hermit was named after the Hermit Crab, that regularly trades out it’s old shell for a new shell whe",
+      "date": null
     },
     {
       "link": "https://utdream.org/raspberry-pi-with-ubuntu-server-24-04-lts-x11-and-xfce/",
       "title": "Raspberry Pi with Ubuntu Server 24.04 LTS, X11, and XFCE",
-      "description": "Recently I was tasked with a project using a Raspberry Pi 5 running Raspberry Pi OS specifically using the X11 graphics server with the XFCE desktop. For those that are unfamiliar, a Linux graphics server is a bit like DirectX if you’re still silly enough to be using Windows. The software we were using used tooling that required X11, and since X11 has been around since the late 80’s, there’s a lot"
+      "description": "Recently I was tasked with a project using a Raspberry Pi 5 running Raspberry Pi OS specifically using the X11 graphics server with the XFCE desktop. For those that are unfamiliar, a Linux graphics server is a bit like DirectX if you’re still silly enough to be using Windows. The software we were using used tooling that required X11, and since X11 has been around since the late 80’s, there’s a lot",
+      "date": null
     }
   ]
 }

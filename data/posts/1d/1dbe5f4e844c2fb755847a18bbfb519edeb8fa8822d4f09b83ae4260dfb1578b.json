@@ -4,17 +4,20 @@
     {
       "link": "https://log.pfad.fr/2026/self-calling-executable/",
       "title": "Self-calling executables",
-      "description": "I call the \"self-calling executable\" an inception technique, by which a currently running executable starts another version of itself (directly or indirectly). This technique can be quite useful in testing scenarios as well as in command-line tools (such as TUIs). Testing the main of an executable Ideally, an executable is correctly structured to allow for isolated testing. However, it is quite ea"
+      "description": "I call the \"self-calling executable\" an inception technique, by which a currently running executable starts another version of itself (directly or indirectly). This technique can be quite useful in testing scenarios as well as in command-line tools (such as TUIs). Testing the main of an executable Ideally, an executable is correctly structured to allow for isolated testing. However, it is quite ea",
+      "date": null
     },
     {
       "link": "https://log.pfad.fr/2026/software-patching-in-nixos/",
       "title": "Software patches in NixOS for fun and productivity",
-      "description": "After using NixOS for more than a year, one aspect that I didn't expect to enjoy was software patching. In previous systems, my patches usually became stale (since I never manually pulled the latest release to re-apply my patch). With NixOS, I \"just\" have to integrate the patches into my config, to ensure that the patch is re-applied to every upgrade. I hope that this shortlist of patching techniq"
+      "description": "After using NixOS for more than a year, one aspect that I didn't expect to enjoy was software patching. In previous systems, my patches usually became stale (since I never manually pulled the latest release to re-apply my patch). With NixOS, I \"just\" have to integrate the patches into my config, to ensure that the patch is re-applied to every upgrade. I hope that this shortlist of patching techniq",
+      "date": null
     },
     {
       "link": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
       "title": "Optimi-Zi(n)g Sudoku-Solving",
-      "description": "One of the first program that I wrote in Zig (in September 2023) was a Sudoku-Solver, implementing the dancing-links (DLX) algorithm. I decided to revisit this program recently to experiment with benchmarking and try to increase its speed. Dancing-Links (DLX) algorithm applied to sudoku The Dancing-Links algorithm is an efficient backtracking algorithm to solve \"exact-cover\" problems, by using a m"
+      "description": "One of the first program that I wrote in Zig (in September 2023) was a Sudoku-Solver, implementing the dancing-links (DLX) algorithm. I decided to revisit this program recently to experiment with benchmarking and try to increase its speed. Dancing-Links (DLX) algorithm applied to sudoku The Dancing-Links algorithm is an efficient backtracking algorithm to solve \"exact-cover\" problems, by using a m",
+      "date": null
     }
   ]
 }

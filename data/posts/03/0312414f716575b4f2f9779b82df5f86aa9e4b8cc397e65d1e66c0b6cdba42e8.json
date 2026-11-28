@@ -4,17 +4,20 @@
     {
       "link": "https://cdharrison.com/2026/08/25/breaking-wp/",
       "title": "Breaking WP",
-      "description": "Ignoring this site for as long as I have has led to it being broken for a couple of months. If you’re seeing this post, great! It works again. What happened? Well, my site’s been running WordPress since 1.6, I think. And I’ve changed hosts. And database prefixes. And then merged prefixes. And have had […]"
+      "description": "Ignoring this site for as long as I have has led to it being broken for a couple of months. If you’re seeing this post, great! It works again. What happened? Well, my site’s been running WordPress since 1.6, I think. And I’ve changed hosts. And database prefixes. And then merged prefixes. And have had […]",
+      "date": null
     },
     {
       "link": "https://cdharrison.com/2025/09/13/testing/",
       "title": "Testing",
-      "description": "My site’s been broken for a while. And now, after three(?)+ years I think I’ve finally got it working correctly again. Part of my issue was my previous host — (mediatemple)/GoDaddy — had broken my posts, postmeta, etc. into two different sets of tables. When I moved the site to where it currently resides, whatever […]"
+      "description": "My site’s been broken for a while. And now, after three(?)+ years I think I’ve finally got it working correctly again. Part of my issue was my previous host — (mediatemple)/GoDaddy — had broken my posts, postmeta, etc. into two different sets of tables. When I moved the site to where it currently resides, whatever […]",
+      "date": null
     },
     {
       "link": "https://cdharrison.com/2022/02/14/worldle/",
       "title": "Worldle",
-      "description": "Inspired by Wordle, the game Worldle gives you a map of a country/territory and six chances to guess what it is. If you get it wrong, it will tell you how close you are and give you the direction and distance from the right answer."
+      "description": "Inspired by Wordle, the game Worldle gives you a map of a country/territory and six chances to guess what it is. If you get it wrong, it will tell you how close you are and give you the direction and distance from the right answer.",
+      "date": null
     }
   ]
 }

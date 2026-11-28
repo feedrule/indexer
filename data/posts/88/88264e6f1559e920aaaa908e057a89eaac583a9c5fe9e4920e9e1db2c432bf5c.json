@@ -4,17 +4,20 @@
     {
       "link": "https://ardentperf.com/2026/11/13/postgres-18-7-debian-and-redhat-packagers-protect-you/",
       "title": "Postgres 18.7 Debian and Redhat Packagers Protect You",
-      "description": "Just a short & quick follow-up to [yesterdays blog] before I run out the door. I hadn’t been paying attention, and yesterday’s postgres release had a few surprises for me. I’m catching up now. First: read [Devrim’s blog] and [Lukas’ 5-minutes-of-postgres] for the TLDR. Second: I had this in yesterday’s blog – “RPM packaging now … Continue reading →"
+      "description": "Just a short & quick follow-up to [yesterdays blog] before I run out the door. I hadn’t been paying attention, and yesterday’s postgres release had a few surprises for me. I’m catching up now. First: read [Devrim’s blog] and [Lukas’ 5-minutes-of-postgres] for the TLDR. Second: I had this in yesterday’s blog – “RPM packaging now … Continue reading →",
+      "date": null
     },
     {
       "link": "https://ardentperf.com/2026/11/12/postgres-18-7-minor-breaks-abi-compatibility-again/",
       "title": "Postgres 18.7 minor breaks ABI compatibility again",
-      "description": "Edit Fri Nov 13 at 8:32am Pacific Time: short & quick follow up [Postgres 18.7 Debian and Redhat Packagers Protect You] Edit 11:54am Pacific Time: just realized Devrim Gunduz published a blog this morning on the same topic. [His blog is better than mine and more thorough]… just start there :) Postgres API and ABI … Continue reading →"
+      "description": "Edit Fri Nov 13 at 8:32am Pacific Time: short & quick follow up [Postgres 18.7 Debian and Redhat Packagers Protect You] Edit 11:54am Pacific Time: just realized Devrim Gunduz published a blog this morning on the same topic. [His blog is better than mine and more thorough]… just start there :) Postgres API and ABI … Continue reading →",
+      "date": null
     },
     {
       "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
       "title": "Postgres recovery_prefetch Considered Harmful and Causing Outages",
-      "description": "Another story of something I saw in the field which surprised me. Turns out recovery_prefetch can cause outages. Something which has been happening quietly in the background all the time, but we didn’t notice until we looked close enough to see it. After a lot of work I discovered this was partly a case where … Continue reading →"
+      "description": "Another story of something I saw in the field which surprised me. Turns out recovery_prefetch can cause outages. Something which has been happening quietly in the background all the time, but we didn’t notice until we looked close enough to see it. After a lot of work I discovered this was partly a case where … Continue reading →",
+      "date": null
     }
   ]
 }

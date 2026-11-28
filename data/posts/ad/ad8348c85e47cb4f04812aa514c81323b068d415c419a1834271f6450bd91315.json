@@ -4,7 +4,8 @@
     {
       "link": "https://taisho.design/en/blog/accessible-color-palette-from-one-color",
       "title": "How to generate an accessible color palette from a single color",
-      "description": "The method TaishoDS Core uses: set the contrast for every step of the scale, then compute the color that meets it. Plus the mistake that got me there and the cases it doesn't cover."
+      "description": "The method TaishoDS Core uses: set the contrast for every step of the scale, then compute the color that meets it. Plus the mistake that got me there and the cases it doesn't cover.",
+      "date": null
     }
   ]
 }

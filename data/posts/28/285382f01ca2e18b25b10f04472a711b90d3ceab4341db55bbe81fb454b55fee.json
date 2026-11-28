@@ -4,17 +4,20 @@
     {
       "link": "https://yamad.jp/en/writings/java/hack-the-jvm/01-initial.htm",
       "title": "[Learn the JVM by Writing Bytecode] Part 1: Getting Started with Jaspera",
-      "description": "Write JVM bytecode by hand with Jaspera, a new web IDE for JVM assembly. Giving the JVM instructions yourself offers a closer look at how Java works. In this first installment, we cover the basics of using Jaspera."
+      "description": "Write JVM bytecode by hand with Jaspera, a new web IDE for JVM assembly. Giving the JVM instructions yourself offers a closer look at how Java works. In this first installment, we cover the basics of using Jaspera.",
+      "date": null
     },
     {
       "link": "https://yamad.jp/en/notes/java/cc-patcher/",
       "title": "A Patch for Reading OpenJDK with CLion on Windows",
-      "description": "About Patch.java, which helps CLion read OpenJDK code on Windows."
+      "description": "About Patch.java, which helps CLion read OpenJDK code on Windows.",
+      "date": null
     },
     {
       "link": "https://yamad.jp/en/writings/java/reading-openjdk-with-clion/",
       "title": "Reading OpenJDK Code Correctly with CLion",
-      "description": "How to handle errors that occur when trying to read OpenJDK code in CLion"
+      "description": "How to handle errors that occur when trying to read OpenJDK code in CLion",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://piranna.github.io/2026/08/30/chatgpt-zero-width-space-in-copied-commands/",
       "title": "Chatgpt Zero Width Space In Copied Commands",
-      "description": "What ChatGPT shows: git add caree ros scripts reports tests git commit -m \"Complete ChatGPT export inspection\" What actually gets copied in the clipboard and executed in the terminal: piranna@Rawr CareerOS % git add caree<200b><200b>ros scripts reports tests git commit -m \"Complete ChatGPT export inspection\" U+200B, ZERO WIDTH SPACE… something looks phishy. Is ChatGPT also adding watermarks to its"
+      "description": "What ChatGPT shows: git add caree ros scripts reports tests git commit -m \"Complete ChatGPT export inspection\" What actually gets copied in the clipboard and executed in the terminal: piranna@Rawr CareerOS % git add caree<200b><200b>ros scripts reports tests git commit -m \"Complete ChatGPT export inspection\" U+200B, ZERO WIDTH SPACE… something looks phishy. Is ChatGPT also adding watermarks to its",
+      "date": null
     },
     {
       "link": "https://piranna.github.io/2026/08/18/Beyond-the-Browser-Running-mediasoup-client-in-Node.js-as-a-Headless-WebRTC-Endpoint/",
       "title": "Beyond the Browser: Running mediasoup-client in Node.js as a Headless WebRTC Endpoint",
-      "description": "How mediasoup-client-wrtc turns Node.js into a first-class programmable mediasoup endpoint"
+      "description": "How mediasoup-client-wrtc turns Node.js into a first-class programmable mediasoup endpoint",
+      "date": null
     },
     {
       "link": "https://piranna.github.io/2026/08/05/Understanding-npm-Lifecycle-Scripts-(Once-and-For-All)/",
       "title": "Understanding npm Lifecycle Scripts (Once and For All)",
-      "description": "Or: how a simple question about prepare vs prepublishOnly turned into a full-blown reverse-engineering of npm."
+      "description": "Or: how a simple question about prepare vs prepublishOnly turned into a full-blown reverse-engineering of npm.",
+      "date": null
     }
   ]
 }

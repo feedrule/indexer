@@ -4,17 +4,20 @@
     {
       "link": "https://olex.biz/2026/04/balcony-solar/",
       "title": "Balcony solar on the garden shed",
-      "description": "I’ve been thinking about getting some solar for a while. In Germany, “balcony solar” has gotten very popular in recent years - for a good reason: you can offset a ton of your power use with reasonably priced hardware, and grid power is expensive here, so a setup re-pays the investment after only a year or two in many cases. And within certain limitations it’s all DIY doable, with no permits or ele"
+      "description": "I’ve been thinking about getting some solar for a while. In Germany, “balcony solar” has gotten very popular in recent years - for a good reason: you can offset a ton of your power use with reasonably priced hardware, and grid power is expensive here, so a setup re-pays the investment after only a year or two in many cases. And within certain limitations it’s all DIY doable, with no permits or ele",
+      "date": null
     },
     {
       "link": "https://olex.biz/2025/04/gitlab-ci-prevent-cache-reupload-without-changes/",
       "title": "GitLab CI: Prevent cache reuploads without changes",
-      "description": "In several projects now, I had an issue with the way Gitlab CI cache policies are implemented. The spec allows you to configure a given job to only pull , only push , or pull-push a given cache. This makes it possible to configure some jobs in your pipeline to push downloaded or built data into a cache without pulling a previous cached state first (useful when the job always re-creates the cache c"
+      "description": "In several projects now, I had an issue with the way Gitlab CI cache policies are implemented. The spec allows you to configure a given job to only pull , only push , or pull-push a given cache. This makes it possible to configure some jobs in your pipeline to push downloaded or built data into a cache without pulling a previous cached state first (useful when the job always re-creates the cache c",
+      "date": null
     },
     {
       "link": "https://olex.biz/2023/02/model-3-frunk-light/",
       "title": "2023 Tesla Model 3 - frunk light install",
-      "description": "Let there be light! Had an issue some days ago, getting out the charger cable out of the frunk in the dark. No light source apart from the headlights, no chance to see inside the frunk whatsoever. So I decided to do something about it. One 22€ kit from AliExpress and 15 minutes of work later, see above. Originally posted on FinalGear Forums"
+      "description": "Let there be light! Had an issue some days ago, getting out the charger cable out of the frunk in the dark. No light source apart from the headlights, no chance to see inside the frunk whatsoever. So I decided to do something about it. One 22€ kit from AliExpress and 15 minutes of work later, see above. Originally posted on FinalGear Forums",
+      "date": null
     }
   ]
 }

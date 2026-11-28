@@ -4,17 +4,20 @@
     {
       "link": "https://www.perbang.dk/esp32-ble-detection-system/",
       "title": "Project: ESP32 BLE Presence, Device Learning & Location System",
-      "description": "1. Project purpose Build a distributed Bluetooth Low Energy (BLE) detection system integrated with Home Assistant. The system will use one or more ESP32 devices running ESPHome as BLE scanners. Each ESP32 is assigned a physical location, such as: The ESP32 devices detect nearby BLE devices and report observations to Home Assistant. Home Assistant is […]"
+      "description": "1. Project purpose Build a distributed Bluetooth Low Energy (BLE) detection system integrated with Home Assistant. The system will use one or more ESP32 devices running ESPHome as BLE scanners. Each ESP32 is assigned a physical location, such as: The ESP32 devices detect nearby BLE devices and report observations to Home Assistant. Home Assistant is […]",
+      "date": null
     },
     {
       "link": "https://www.perbang.dk/setup-a-vinyl-cutter-in-linux/",
       "title": "Howto: Setup a vinyl cutter / plotter in Linux using Inkscape",
-      "description": "This Linux setup guide is tested with a Redsail RS720C on Ubuntu and Linux Mint. Note on Inkscape extensions (Inkcut / others) No additional Inkscape extensions were required for this setup. Some guides recommend installing tools like Inkcut for sending jobs to vinyl cutters or plotters. However, in this setup with the Redsail RS720C, this […]"
+      "description": "This Linux setup guide is tested with a Redsail RS720C on Ubuntu and Linux Mint. Note on Inkscape extensions (Inkcut / others) No additional Inkscape extensions were required for this setup. Some guides recommend installing tools like Inkcut for sending jobs to vinyl cutters or plotters. However, in this setup with the Redsail RS720C, this […]",
+      "date": null
     },
     {
       "link": "https://www.perbang.dk/exploring-the-clc-color-space-in-3d/",
       "title": "Exploring the CLC Color Space in 3D",
-      "description": "The CLC (Chroma–Luma Cone) Color Space is a geometric, RGB-derived model designed to make color visualization more intuitive. Unlike traditional 2D representations like HSV or HSL, CLC maps colors into a 3D double-cone structure, allowing you to explore relationships between hue, chroma, and brightness in a visually meaningful way. How CLC Works 1. InputsCLC starts […]"
+      "description": "The CLC (Chroma–Luma Cone) Color Space is a geometric, RGB-derived model designed to make color visualization more intuitive. Unlike traditional 2D representations like HSV or HSL, CLC maps colors into a 3D double-cone structure, allowing you to explore relationships between hue, chroma, and brightness in a visually meaningful way. How CLC Works 1. InputsCLC starts […]",
+      "date": null
     }
   ]
 }

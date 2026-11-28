@@ -4,17 +4,20 @@
     {
       "link": "https://blog.radix63.dk/posts/how-i-ai/",
       "title": "How I AI: Mental Models, Failure Modes, Long Horizon Workflows",
-      "description": "Get a man-year's amount of work done overnight."
+      "description": "Get a man-year's amount of work done overnight.",
+      "date": null
     },
     {
       "link": "https://blog.radix63.dk/posts/router-out-of-memory/",
       "title": "The router that ran out of memory without leaking buffers",
-      "description": "A Linksys MX4200 bled 12-16 MB of RAM per minute and it looked exactly like an ath11k buffer leak. It wasn't. The receive rings never grew. The bug was page-frag lifetime mixing: a bounded set of buffers pinning an expanding pile of physical pages. Here is how I found the bytes, why my first traces lied, and the source fix that stopped it."
+      "description": "A Linksys MX4200 bled 12-16 MB of RAM per minute and it looked exactly like an ath11k buffer leak. It wasn't. The receive rings never grew. The bug was page-frag lifetime mixing: a bounded set of buffers pinning an expanding pile of physical pages. Here is how I found the bytes, why my first traces lied, and the source fix that stopped it.",
+      "date": null
     },
     {
       "link": "https://blog.radix63.dk/posts/dev-environment/",
       "title": "My dev environment: Nix, git, just, backlog, Claude Code",
-      "description": "The development half of my stack: Nix for reproducible software on any distro, git as the decentralized transport, just as the one command surface humans, AI agents, and CI all share, and backlog to keep tasks in git instead of racing to a server. Claude Code drives it: no MCPs, no giant third-party stacks, just context engineering over low-friction local tools. Local-first, and no containers for"
+      "description": "The development half of my stack: Nix for reproducible software on any distro, git as the decentralized transport, just as the one command surface humans, AI agents, and CI all share, and backlog to keep tasks in git instead of racing to a server. Claude Code drives it: no MCPs, no giant third-party stacks, just context engineering over low-friction local tools. Local-first, and no containers for",
+      "date": null
     }
   ]
 }

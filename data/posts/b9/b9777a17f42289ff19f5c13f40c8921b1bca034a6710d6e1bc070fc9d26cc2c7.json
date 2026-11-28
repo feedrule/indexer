@@ -4,17 +4,20 @@
     {
       "link": "https://www.shincbm.com/agentic-code/2026/06/26/building-a-workflow.html",
       "title": "What I'm working on: Building a Workflow",
-      "description": "This is a working summary of things I’ve been working on to build a workflow for agentic development over the last 6 months. Agentic development will scale up all software development. I see two directions: further along a bad scale (big, clumsy teams that make poor software) or back toward a good scale of smaller, more capable teams. I feel the two paths map onto a split: bad open-loop workflows"
+      "description": "This is a working summary of things I’ve been working on to build a workflow for agentic development over the last 6 months. Agentic development will scale up all software development. I see two directions: further along a bad scale (big, clumsy teams that make poor software) or back toward a good scale of smaller, more capable teams. I feel the two paths map onto a split: bad open-loop workflows",
+      "date": null
     },
     {
       "link": "https://www.shincbm.com/agentic-code/2026/02/15/claude-skill-document-review.html",
       "title": "Claude Beyond Code: Intent Expression and Agent Skills",
-      "description": "I feel like productive developers have often resisted documentation: it interrupts the flow of getting code out of your head and into the editor. Interestingly, my recent experience of agentic coding is flipping this. When an agent writes the code , the bottleneck moves upstream to: “how clearly can I express the idea ?” Documentation isn’t the interruption anymore, it’s leverage over the agent. T"
+      "description": "I feel like productive developers have often resisted documentation: it interrupts the flow of getting code out of your head and into the editor. Interestingly, my recent experience of agentic coding is flipping this. When an agent writes the code , the bottleneck moves upstream to: “how clearly can I express the idea ?” Documentation isn’t the interruption anymore, it’s leverage over the agent. T",
+      "date": null
     },
     {
       "link": "https://www.shincbm.com/restore_old_code/2026/01/11/opencl-test-prog.html",
       "title": "OpenCL Learning Exercise — Image Transform",
-      "description": "This is an old tool written to play with OpenCL (Open Computing Language) on x86_64 and aarch64 machines. https://github.com/nakane1chome/opencl-learn/tree/master ImageXform is a command-line tool for learning and experimenting with OpenCL by applying GPU-accelerated kernels to images. It provides a visual, hands-on way to understand OpenCL programming by transforming PNG or JPG images through cus"
+      "description": "This is an old tool written to play with OpenCL (Open Computing Language) on x86_64 and aarch64 machines. https://github.com/nakane1chome/opencl-learn/tree/master ImageXform is a command-line tool for learning and experimenting with OpenCL by applying GPU-accelerated kernels to images. It provides a visual, hands-on way to understand OpenCL programming by transforming PNG or JPG images through cus",
+      "date": null
     }
   ]
 }

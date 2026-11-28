@@ -4,17 +4,20 @@
     {
       "link": "https://www.vitavonni.de/blog/202602/20260213dogfood-the-AI.html",
       "title": "Dogfood Generative AI",
-      "description": "Current AI companies ignore licenses such as the GPL, and often train on anything they can scrape. This is not acceptable. The AI companies ignore web conventions , e.g., they deep link images from your web sites (even adding ?utm_source=chatgpt.com to image URIs, I suggest that you return 403 on these requests), but do not direct visitors to your site. You do not get a reliable way of opting out"
+      "description": "Current AI companies ignore licenses such as the GPL, and often train on anything they can scrape. This is not acceptable. The AI companies ignore web conventions , e.g., they deep link images from your web sites (even adding ?utm_source=chatgpt.com to image URIs, I suggest that you return 403 on these requests), but do not direct visitors to your site. You do not get a reliable way of opting out",
+      "date": null
     },
     {
       "link": "https://www.vitavonni.de/blog/202502/20250208azul-state-of-java-report.html",
       "title": "Azul’s State-of-Java report is nonsense",
-      "description": "Azul’s State-of-Java report is full of nonsense, and no worth looking at. The report claims various stuff about the adoption of AI in the Java ecosystem. But its results do not make any sense when looked at in detail. For example (in the AI section): Figure 21 (“which programming languages to code AI”) has more bars in the chart than labels. Figure 22 (“which Java AI libraries”) clearly is nonsens"
+      "description": "Azul’s State-of-Java report is full of nonsense, and no worth looking at. The report claims various stuff about the adoption of AI in the Java ecosystem. But its results do not make any sense when looked at in detail. For example (in the AI section): Figure 21 (“which programming languages to code AI”) has more bars in the chart than labels. Figure 22 (“which Java AI libraries”) clearly is nonsens",
+      "date": null
     },
     {
       "link": "https://www.vitavonni.de/blog/202403/20240323amazon-kids-has-no-whitelist.html",
       "title": "Do not get Amazon Kids+ or a Fire HD Kids",
-      "description": "The Amazon Kids “parental controls” are extremely insufficient , and I strongly advise against getting any of the Amazon Kids series. The initial permise (and some older reviews) look okay: you can set some time limits, and you can disable anything that requires buying. With the hardware you get one year of the “Amazon Kids+” subscription, which includes a lot of interesting content such as books"
+      "description": "The Amazon Kids “parental controls” are extremely insufficient , and I strongly advise against getting any of the Amazon Kids series. The initial permise (and some older reviews) look okay: you can set some time limits, and you can disable anything that requires buying. With the hardware you get one year of the “Amazon Kids+” subscription, which includes a lot of interesting content such as books",
+      "date": null
     }
   ]
 }

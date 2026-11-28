@@ -4,17 +4,20 @@
     {
       "link": "https://pwnosaur.com/2025/12/15/sms_cp_part2/",
       "title": "Serious Memory Series : Walking through pages [0][2]",
-      "description": "Is your memory actually isolated, or is the OS just lying to you? In this part, we tear down the Virtual Memory illusion. We’ll walk page tables by hand, dissect the hardware mechanics, and see exactly what happens when your pointer hits the metal"
+      "description": "Is your memory actually isolated, or is the OS just lying to you? In this part, we tear down the Virtual Memory illusion. We’ll walk page tables by hand, dissect the hardware mechanics, and see exactly what happens when your pointer hits the metal",
+      "date": null
     },
     {
       "link": "https://pwnosaur.com/2025/12/01/sms_hc_p0/",
       "title": "Serious Memory Series : Hacker’s corner [0]",
-      "description": "Having established the fundamentals, we now step into the Hacker’s Corner. In this chapter, we dig into the specific architectural details and design choices that transform standard memory management into a fascinating—and critical—landscape for security researchers."
+      "description": "Having established the fundamentals, we now step into the Hacker’s Corner. In this chapter, we dig into the specific architectural details and design choices that transform standard memory management into a fascinating—and critical—landscape for security researchers.",
+      "date": null
     },
     {
       "link": "https://pwnosaur.com/2025/11/24/sms_cp_part1/",
       "title": "Serious Memory Series : Segmentation and beyond [0][1]",
-      "description": "In this part we dig into the hardware mechanics that power x86 memory management. We explore the evolution from Real to Protected Mode and dissect the translation process from Logical to Linear addresses. You’ll learn how the Global Descriptor Table (GDT), Segment Selectors, and the Flat Memory Model function under the hood. This post builds the essential hardware foundation required to understand"
+      "description": "In this part we dig into the hardware mechanics that power x86 memory management. We explore the evolution from Real to Protected Mode and dissect the translation process from Logical to Linear addresses. You’ll learn how the Global Descriptor Table (GDT), Segment Selectors, and the Flat Memory Model function under the hood. This post builds the essential hardware foundation required to understand",
+      "date": null
     }
   ]
 }

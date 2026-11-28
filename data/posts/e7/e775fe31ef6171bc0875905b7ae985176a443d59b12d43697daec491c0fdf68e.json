@@ -4,17 +4,20 @@
     {
       "link": "https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry",
       "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "description": "Parseable is a brand new observability tool, compatible with OpenTelemetry , for storing and querying observability data. Datasette 1.0a41 added support for OpenTelemetry tracing, contributed by Alex Garcia . Here's how I ran the two together, giving me neat local visualizations of traces of Datasette responses. Installing Parseable I used the open source release of Parseable from their GitHub rel"
+      "description": "Parseable is a brand new observability tool, compatible with OpenTelemetry , for storing and querying observability data. Datasette 1.0a41 added support for OpenTelemetry tracing, contributed by Alex Garcia . Here's how I ran the two together, giving me neat local visualizations of traces of Datasette responses. Installing Parseable I used the open source release of Parseable from their GitHub rel",
+      "date": null
     },
     {
       "link": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
       "title": "Using Blender with coding agents on macOS",
-      "description": "Modern frontier models have got really good at using Blender. I've been having a lot of fun trying this out recently - models can produce .blend files you can edit in Blender itself, and can also render images and even movies (by rendering a sequence of images and combining them with ffmpeg ). Setting this up, at least on macOS, is really easy . Install the Blender desktop app from blender.org and"
+      "description": "Modern frontier models have got really good at using Blender. I've been having a lot of fun trying this out recently - models can produce .blend files you can edit in Blender itself, and can also render images and even movies (by rendering a sequence of images and combining them with ffmpeg ). Setting this up, at least on macOS, is really easy . Install the Blender desktop app from blender.org and",
+      "date": null
     },
     {
       "link": "https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt",
       "title": "Adding a custom MCP server to Claude and ChatGPT",
-      "description": "I've started exploring MCP in more detail. The web chat UIs for both Claude and ChatGPT can access MCP servers but it's not obvious how to set them up. Here's what I figured out. I'm using my new unauthenticated MCP for my blog - https://datasette.simonwillison.net/-/mcp - which uses https://github.com/datasette/datasette-mcp to allow the execution of read-only SQL queries against a copy of my sit"
+      "description": "I've started exploring MCP in more detail. The web chat UIs for both Claude and ChatGPT can access MCP servers but it's not obvious how to set them up. Here's what I figured out. I'm using my new unauthenticated MCP for my blog - https://datasette.simonwillison.net/-/mcp - which uses https://github.com/datasette/datasette-mcp to allow the execution of read-only SQL queries against a copy of my sit",
+      "date": null
     }
   ]
 }

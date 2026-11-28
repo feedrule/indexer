@@ -4,17 +4,20 @@
     {
       "link": "https://timothyjohnsonsci.com/writing/2026-11-15-smashpad/",
       "title": "Smashpad: A Toddler-Proof Notepad for Emacs",
-      "description": "A small Emacs minor mode that turns my editor into a fullscreen rainbow notepad for a toddler to bash - and locks everything else down, including C-x C-c."
+      "description": "A small Emacs minor mode that turns my editor into a fullscreen rainbow notepad for a toddler to bash - and locks everything else down, including C-x C-c.",
+      "date": null
     },
     {
       "link": "https://timothyjohnsonsci.com/writing/2026-11-06-family-planner/",
       "title": "Building a Private Family Planner",
-      "description": "A small private website for our household - calendar, shopping, to-dos, meals, recipes and chores - built in a week with Claude Code and running on Azure's free tiers."
+      "description": "A small private website for our household - calendar, shopping, to-dos, meals, recipes and chores - built in a week with Claude Code and running on Azure's free tiers.",
+      "date": null
     },
     {
       "link": "https://timothyjohnsonsci.com/writing/2026-11-06-photo-frame-wall-display/",
       "title": "Turning a Cheap Photo Frame into a Family Wall Display (Without Trusting It)",
-      "description": "A £50 Android photo frame shipped with root ADB, a setuid su and a vendor app that accepts remote root commands. How I cleaned it up, locked it to our family planner, and kept it off the home network."
+      "description": "A £50 Android photo frame shipped with root ADB, a setuid su and a vendor app that accepts remote root commands. How I cleaned it up, locked it to our family planner, and kept it off the home network.",
+      "date": null
     }
   ]
 }

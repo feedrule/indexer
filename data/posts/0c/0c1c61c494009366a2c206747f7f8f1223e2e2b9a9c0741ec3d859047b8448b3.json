@@ -4,17 +4,20 @@
     {
       "link": "https://robotchinwag.com/posts/jensen-shannon-divergence-visualisation/",
       "title": "Interactive Jensen–Shannon Divergence Visualisation",
-      "description": "An interactive visualisation of Jensen–Shannon divergence - the symmetric, always-finite cousin of KL. Shape two distributions and watch JSD, its ceiling of one bit, and the per-point contribution respond in real time."
+      "description": "An interactive visualisation of Jensen–Shannon divergence - the symmetric, always-finite cousin of KL. Shape two distributions and watch JSD, its ceiling of one bit, and the per-point contribution respond in real time.",
+      "date": null
     },
     {
       "link": "https://robotchinwag.com/posts/kl-divergence-visualisation/",
       "title": "Interactive KL Divergence Visualisation",
-      "description": "An interactive visualisation of Kullback–Leibler divergence. Shape two distributions and watch forward vs reverse KL, the pointwise integrand, and the effects of asymmetry, support mismatch and discretisation."
+      "description": "An interactive visualisation of Kullback–Leibler divergence. Shape two distributions and watch forward vs reverse KL, the pointwise integrand, and the effects of asymmetry, support mismatch and discretisation.",
+      "date": null
     },
     {
       "link": "https://robotchinwag.com/posts/crossentropy-loss-gradient/",
       "title": "Cross-Entropy Loss (Softmax) Gradient Used In Deep Learning",
-      "description": "Obtaining the gradient of the Cross-entropy loss (softmax and negative log-likelihood loss function"
+      "description": "Obtaining the gradient of the Cross-entropy loss (softmax and negative log-likelihood loss function",
+      "date": null
     }
   ]
 }

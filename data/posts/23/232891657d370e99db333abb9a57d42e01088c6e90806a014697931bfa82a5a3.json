@@ -4,17 +4,20 @@
     {
       "link": "https://adiyatmubarak.wordpress.com/2026/06/19/eq-setup-bass-cover/",
       "title": "EQ Setup Bass Cover",
-      "description": "3 tahun terakhir banyak mulai belajar hal musikal, terutama untuk instrumen gitar dan bass elektrik. Tapi khusus bass sendiri, untuk melakukan recording sedikit lebih kompleks dibanding recording gitar elektrik. Karena bass ini instrumen dengan frekuensi low, maka perlu dilakukan sedikit tweaking EQ, agar suara bass bisa muncul di permukaan, dan tidak tenggelam di suara backing […]"
+      "description": "3 tahun terakhir banyak mulai belajar hal musikal, terutama untuk instrumen gitar dan bass elektrik. Tapi khusus bass sendiri, untuk melakukan recording sedikit lebih kompleks dibanding recording gitar elektrik. Karena bass ini instrumen dengan frekuensi low, maka perlu dilakukan sedikit tweaking EQ, agar suara bass bisa muncul di permukaan, dan tidak tenggelam di suara backing […]",
+      "date": null
     },
     {
       "link": "https://adiyatmubarak.wordpress.com/2025/05/19/wsl-port-forwarding-windows-host/",
       "title": "WSL Port Forwarding Windows Host",
-      "description": "Ketika menjalankan container dengan exposed port dengan harapan bisa diakses melalui host, namun ternyata cara ini tidak bisa dilakukan ketika container kita berjalan di WSL. Contohnya seperti PostgreSQL saya yang dijalankan diatas Podman di WSL Windows. Port 5432 sudah di expose namun belum bisa diakses melalui Windows Host. Ternyata kita perlu melakukan konfigurasi tambahan untuk […]"
+      "description": "Ketika menjalankan container dengan exposed port dengan harapan bisa diakses melalui host, namun ternyata cara ini tidak bisa dilakukan ketika container kita berjalan di WSL. Contohnya seperti PostgreSQL saya yang dijalankan diatas Podman di WSL Windows. Port 5432 sudah di expose namun belum bisa diakses melalui Windows Host. Ternyata kita perlu melakukan konfigurasi tambahan untuk […]",
+      "date": null
     },
     {
       "link": "https://adiyatmubarak.wordpress.com/2025/05/18/fix-podman-error-netavark-nftables-error-nft-did-not-return-successfully-while-applying-ruleset-in-wsl/",
       "title": "Fix: Podman error netavark: nftables error: “nft” did not return successfully while applying ruleset in WSL",
-      "description": "Reference: https://github.com/containers/podman/issues/25201"
+      "description": "Reference: https://github.com/containers/podman/issues/25201",
+      "date": null
     }
   ]
 }

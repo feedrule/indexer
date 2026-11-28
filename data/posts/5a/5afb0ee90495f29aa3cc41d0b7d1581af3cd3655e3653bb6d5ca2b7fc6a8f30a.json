@@ -4,17 +4,20 @@
     {
       "link": "https://wirelesspi.com/demodulating-p25-cqpsk-signals-using-a-c4fm-receiver/",
       "title": "Demodulating P25 CQPSK Signals Using a C4FM Receiver",
-      "description": "Usually a modulation of one species can only be demodulated with the radio signal processing chain of the same species. But P25 has a very interesting and unusual concept of demodulating a signal from one modulation species using the receiver of another species. APCO Project 25, commonly known as P25, is a suite of digital radio standards designed for public safety and first responder communicatio"
+      "description": "Usually a modulation of one species can only be demodulated with the radio signal processing chain of the same species. But P25 has a very interesting and unusual concept of demodulating a signal from one modulation species using the receiver of another species. APCO Project 25, commonly known as P25, is a suite of digital radio standards designed for public safety and first responder communicatio",
+      "date": null
     },
     {
       "link": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-2/",
       "title": "Two Birds with One Tone: I/Q Signals and Fourier Transform – Part 2",
-      "description": "In Part 1 on I/Q fundamentals series, we saw the implications of orthogonality in amplitude and phase shift. This led to our treatment of signals as two dimensional complex numbers in time I/Q plane. Now we talk about orthogonality in frequency, how it gives rise to a different I/Q plane and see its implications in signal processing applications. Let us start with a new perspective that will lift"
+      "description": "In Part 1 on I/Q fundamentals series, we saw the implications of orthogonality in amplitude and phase shift. This led to our treatment of signals as two dimensional complex numbers in time I/Q plane. Now we talk about orthogonality in frequency, how it gives rise to a different I/Q plane and see its implications in signal processing applications. Let us start with a new perspective that will lift",
+      "date": null
     },
     {
       "link": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
       "title": "Two Birds with One Tone: I/Q Signals and Fourier Transform – Part 1",
-      "description": "This article is a deep and highly intuitive breakdown of the fundamental concept behind I/Q signals. If you want to see how these concepts function inside actual communication receivers and hardware, you can see read about I/Q signals from a communication systems perspective. When a new member arrives at the Signal Processing Club, this is what they find at the club gate: I/Q signals. Perhaps a se"
+      "description": "This article is a deep and highly intuitive breakdown of the fundamental concept behind I/Q signals. If you want to see how these concepts function inside actual communication receivers and hardware, you can see read about I/Q signals from a communication systems perspective. When a new member arrives at the Signal Processing Club, this is what they find at the club gate: I/Q signals. Perhaps a se",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://federicobruzzone.github.io/posts/see-you-at-the-2026-us-llvm-developers-meeting.html",
       "title": "See You at the 2026 US LLVM Developers' Meeting",
-      "description": "My first LLVM Dev Meeting (October 26-28, Santa Clara). I will present a poster on the per-pass empirical study of the LLVM optimization pipeline, look forward to participating in the MLIR round table, and will attend part of the MLIR Meetup. Come say hi!"
+      "description": "My first LLVM Dev Meeting (October 26-28, Santa Clara). I will present a poster on the per-pass empirical study of the LLVM optimization pipeline, look forward to participating in the MLIR round table, and will attend part of the MLIR Meetup. Come say hi!",
+      "date": null
     },
     {
       "link": "https://federicobruzzone.github.io/posts/inside-a-linalg-matmul-a-deep-dive-into-IREEs-compilation-pipeline.html",
       "title": "Inside a linalg.matmul: A Deep Dive into IREE's Compilation Pipeline",
-      "description": "A step-by-step walk through the IREE compilation pipeline for a 500x500 f32 matmul on Apple M4: from linalg.matmul to dispatch regions, data tiling, vectorization, LLVM, an ELF library and the virtual machine module, following the real IR dump pass by pass."
+      "description": "A step-by-step walk through the IREE compilation pipeline for a 500x500 f32 matmul on Apple M4: from linalg.matmul to dispatch regions, data tiling, vectorization, LLVM, an ELF library and the virtual machine module, following the real IR dump pass by pass.",
+      "date": null
     },
     {
       "link": "https://federicobruzzone.github.io/posts/a-multi-dimensional-per-pass-empirical-study-of-the-llvm-optimization-pipeline.html",
       "title": "A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline",
-      "description": "We ran every cumulative prefix of the LLVM -O3 pipeline on 30 PolyBench/C kernels (84,750 measurements). The pipeline is non-monotone (36% of significant changes are slowdowns) and back-loaded, and most of the speedup comes from a small core of passes. A per-pass look at runtime, binary size, hardware counters, and energy."
+      "description": "We ran every cumulative prefix of the LLVM -O3 pipeline on 30 PolyBench/C kernels (84,750 measurements). The pipeline is non-monotone (36% of significant changes are slowdowns) and back-loaded, and most of the speedup comes from a small core of passes. A per-pass look at runtime, binary size, hardware counters, and energy.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://aahlenst.dev/blog/autoscaling-forgejo-runner/",
       "title": "Autoscaling Forgejo Runner",
-      "description": "Over the last months, the Forgejo community equipped Forgejo and Forgejo Runner with the necessary building blocks for autoscaling Forgejo Runner. These building blocks should enable developers of workload managers and autoscalers to build reliable and secure integrations for Forgejo Actions. This post aims to provide an overview of the new capabilities, explain how they fit together, and highligh"
+      "description": "Over the last months, the Forgejo community equipped Forgejo and Forgejo Runner with the necessary building blocks for autoscaling Forgejo Runner. These building blocks should enable developers of workload managers and autoscalers to build reliable and secure integrations for Forgejo Actions. This post aims to provide an overview of the new capabilities, explain how they fit together, and highligh",
+      "date": null
     },
     {
       "link": "https://aahlenst.dev/blog/systemd-credentials-in-spring-boot/",
       "title": "systemd Credentials in Spring Boot",
-      "description": "systemd , Linux’s most widely used system and service manager, introduced system and service credentials with version 247. They allow for securely passing passwords and keys to applications, thereby solving a longstanding problem. Let’s find out how we can access them in Spring Boot . Introducing systemd Credentials In their simplest form, systemd credentials are straightforward:"
+      "description": "systemd , Linux’s most widely used system and service manager, introduced system and service credentials with version 247. They allow for securely passing passwords and keys to applications, thereby solving a longstanding problem. Let’s find out how we can access them in Spring Boot . Introducing systemd Credentials In their simplest form, systemd credentials are straightforward:",
+      "date": null
     },
     {
       "link": "https://aahlenst.dev/blog/finding-efi-firmware-that-is-compatible/",
       "title": "Finding EFI Firmware That Is Compatible",
-      "description": "I run some QEMU/KVM virtual machines as part of one of my GitHub Actions workflows. To reduce the workflow’s runtime and to help make it reproducible, it uses pre-built disk images and pre-defined XML domain configurations for libvirt . That worked well until I changed the workflow to use the new Ubuntu 24.04 images . Afterwards, libvirt rejected the domain configuration with an error I had not en"
+      "description": "I run some QEMU/KVM virtual machines as part of one of my GitHub Actions workflows. To reduce the workflow’s runtime and to help make it reproducible, it uses pre-built disk images and pre-defined XML domain configurations for libvirt . That worked well until I changed the workflow to use the new Ubuntu 24.04 images . Afterwards, libvirt rejected the domain configuration with an error I had not en",
+      "date": null
     }
   ]
 }

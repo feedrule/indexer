@@ -4,17 +4,20 @@
     {
       "link": "https://testy.cool/blog/lab-notes/refined-linkedin",
       "title": "Refined LinkedIn: fold LinkedIn job descriptions",
-      "description": "A free, open-source Chrome extension that folds LinkedIn job descriptions down to the work and the requirements, and greys out jobs you've seen."
+      "description": "A free, open-source Chrome extension that folds LinkedIn job descriptions down to the work and the requirements, and greys out jobs you've seen.",
+      "date": null
     },
     {
       "link": "https://testy.cool/blog/lab-notes/minions-agents-in-their-own-folder",
       "title": "Minions: AI agents that each live in their own folder",
-      "description": "Small AI agents on Pi or Claude Code, one folder each, with their own memory, skills and chats. They started from Alejandro AO's video on open-source Dots."
+      "description": "Small AI agents on Pi or Claude Code, one folder each, with their own memory, skills and chats. They started from Alejandro AO's video on open-source Dots.",
+      "date": null
     },
     {
       "link": "https://testy.cool/blog/lab-notes/scry",
       "title": "Scry: juicy internet data your agent can query",
-      "description": "A hosted SQL database of public internet data, from Reddit and Common Crawl to 1.7 million live job postings, that also plugs into coding agents."
+      "description": "A hosted SQL database of public internet data, from Reddit and Common Crawl to 1.7 million live job postings, that also plugs into coding agents.",
+      "date": null
     }
   ]
 }

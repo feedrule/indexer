@@ -4,17 +4,20 @@
     {
       "link": "https://forrestmcdaniel.com/2026/07/27/dont-worry-ai-only-has-read-permissions/",
       "title": "Don’t Worry, AI Only Has Read Permissions",
-      "description": "You are a Senior DBA with 20 years of experience. You are detail-oriented and eager to help with any requests for data. You are good at writing SQL. Think step by step and do not hallucinate. INC-44909: SQL-CORE1 Unresponsive or slow.Blameless Post-Mortem.Incident began with following message:[Redacted]: Brent Ozar is a really reliable SQL dude, right? … Continue reading \"Don’t Worry, AI Only Has"
+      "description": "You are a Senior DBA with 20 years of experience. You are detail-oriented and eager to help with any requests for data. You are good at writing SQL. Think step by step and do not hallucinate. INC-44909: SQL-CORE1 Unresponsive or slow.Blameless Post-Mortem.Incident began with following message:[Redacted]: Brent Ozar is a really reliable SQL dude, right? … Continue reading \"Don’t Worry, AI Only Has",
+      "date": null
     },
     {
       "link": "https://forrestmcdaniel.com/2026/03/23/its-here-ai-query-tuning/",
       "title": "It’s Here: AI Query Tuning",
-      "description": "Early in Covid, even before the mass awareness set in, I remember reading some blog posts from the rationalist community. They fundamentally said two things: the disease and math are real, and this is your permission to take this seriously if you rely on social affirmation. I would like to say there is a general … Continue reading \"It’s Here: AI Query Tuning\""
+      "description": "Early in Covid, even before the mass awareness set in, I remember reading some blog posts from the rationalist community. They fundamentally said two things: the disease and math are real, and this is your permission to take this seriously if you rely on social affirmation. I would like to say there is a general … Continue reading \"It’s Here: AI Query Tuning\"",
+      "date": null
     },
     {
       "link": "https://forrestmcdaniel.com/2025/09/29/are-bigint-splits-a-guid-idea/",
       "title": "Are Bigint Splits a GUID Idea?",
-      "description": "I like fast databases. Naturally, this puts me at odds with GUIDs. Alas, developers like to use them, sometimes for good reasons (“we need ids generated on different servers to be unique”) and often for bad (“what if we run out of bigints”). The Columnstore Problem You may have run into issues with GUIDs as … Continue reading \"Are Bigint Splits a GUID Idea?\""
+      "description": "I like fast databases. Naturally, this puts me at odds with GUIDs. Alas, developers like to use them, sometimes for good reasons (“we need ids generated on different servers to be unique”) and often for bad (“what if we run out of bigints”). The Columnstore Problem You may have run into issues with GUIDs as … Continue reading \"Are Bigint Splits a GUID Idea?\"",
+      "date": null
     }
   ]
 }

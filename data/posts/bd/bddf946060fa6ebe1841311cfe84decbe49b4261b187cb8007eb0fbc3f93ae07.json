@@ -4,17 +4,20 @@
     {
       "link": "https://ritoghosh.com/posts/hamiltonian_nn/",
       "title": "Training a Hamiltonian Neural Network",
-      "description": "Training a Hamiltonian Neural Network: Using an NN for Simulating the Phase Space of a Harmonic Oscillator Introduction We can use Neural Networks not only for predicting the class of an image, completing sentences, or classifying sentiment of a paragraph of text. We can also use Neural Networks for solving scientific problems. In this article, you will learn about using a trained Neural Network t"
+      "description": "Training a Hamiltonian Neural Network: Using an NN for Simulating the Phase Space of a Harmonic Oscillator Introduction We can use Neural Networks not only for predicting the class of an image, completing sentences, or classifying sentiment of a paragraph of text. We can also use Neural Networks for solving scientific problems. In this article, you will learn about using a trained Neural Network t",
+      "date": null
     },
     {
       "link": "https://ritoghosh.com/posts/implicit_euler/",
       "title": "Modelling a Spring System in Hamiltonian Mechanics",
-      "description": "Modelling a Spring System in Hamiltonian Mechanics: Using Euler Method for Trajectory Introduction Hamiltonian Mechanics provides us with ways to deal with dynamical systems computationally. We can simulate a system of a weighted spring using Hamiltonian mechanics. We can plot trajectories using the simulation. We will use Euler’s method and Semi-Implicit Euler’s method to plot phase spaces, and c"
+      "description": "Modelling a Spring System in Hamiltonian Mechanics: Using Euler Method for Trajectory Introduction Hamiltonian Mechanics provides us with ways to deal with dynamical systems computationally. We can simulate a system of a weighted spring using Hamiltonian mechanics. We can plot trajectories using the simulation. We will use Euler’s method and Semi-Implicit Euler’s method to plot phase spaces, and c",
+      "date": null
     },
     {
       "link": "https://ritoghosh.com/posts/1st-order-DE-julia/1st_order_DE_julia.html",
       "title": "Solving First Order Differential Equations with Julia",
-      "description": "Solving First Order Differential Equations with Julia Image by Pete Linforth from Pixabay Introduction In this tutorial, we will learn about solving Differential Equations with Julia. Differential Equations are everywhere in Science and Engineering problems. And, being able to solve Differential Equations using computers is very convenient. We will use the DifferentialEquations.jl package for solv"
+      "description": "Solving First Order Differential Equations with Julia Image by Pete Linforth from Pixabay Introduction In this tutorial, we will learn about solving Differential Equations with Julia. Differential Equations are everywhere in Science and Engineering problems. And, being able to solve Differential Equations using computers is very convenient. We will use the DifferentialEquations.jl package for solv",
+      "date": null
     }
   ]
 }

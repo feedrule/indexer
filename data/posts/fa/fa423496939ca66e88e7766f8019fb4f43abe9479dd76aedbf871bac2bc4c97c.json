@@ -4,17 +4,20 @@
     {
       "link": "https://davidhamann.de/2026/08/14/fmproxy-tunneling-dashboard-updates/",
       "title": "FMProxy – Tunneling support, session dashboard and some more",
-      "description": "A few months back I wrote about the first FMProxy release, giving an overview about past research and the idea of the proxy as a product. We used the time since to add features, fix bugs and improve stability of the proxy. Here are a few of the new things worth mentioning: Support for HTTP tunneling A few beta testers reached out asking how the proxy would affect the “HTTP tunneling” feature of Pr"
+      "description": "A few months back I wrote about the first FMProxy release, giving an overview about past research and the idea of the proxy as a product. We used the time since to add features, fix bugs and improve stability of the proxy. Here are a few of the new things worth mentioning: Support for HTTP tunneling A few beta testers reached out asking how the proxy would affect the “HTTP tunneling” feature of Pr",
+      "date": null
     },
     {
       "link": "https://davidhamann.de/2026/06/29/injecting-accounts-filemaker-fmupgradetool/",
       "title": "Injecting Accounts into fmp12 files via FMUpgradeTool v26",
-      "description": "Claris has extended the FMUpgradeTool in the recent release , providing support for adding/replacing/deleting more object types, and also added the ability to generate completely new fmp12 files. Next to the new features, there have also been some undocumented breaking changes, though. I used the FMUpgradeTool in version 22.0.2 to inject accounts into fmp12 files as part of a deployment process. I"
+      "description": "Claris has extended the FMUpgradeTool in the recent release , providing support for adding/replacing/deleting more object types, and also added the ability to generate completely new fmp12 files. Next to the new features, there have also been some undocumented breaking changes, though. I used the FMUpgradeTool in version 22.0.2 to inject accounts into fmp12 files as part of a deployment process. I",
+      "date": null
     },
     {
       "link": "https://davidhamann.de/2026/05/30/fmproxy-security-proxy-for-filemaker-server/",
       "title": "FMProxy – A Security Proxy for FileMaker Server",
-      "description": "TL;DR Alex Dubov and I just released the first public version of FMProxy, a security proxy for FileMaker Server. We are currently looking for beta testers. Want to try it out? Get your copy for Ubuntu Server x86_64 or arm_64 . Make sure to read the trial docs (pdf) . Introduction and Research background In the last few years, Alex Dubov and I have independently been researching the security of the"
+      "description": "TL;DR Alex Dubov and I just released the first public version of FMProxy, a security proxy for FileMaker Server. We are currently looking for beta testers. Want to try it out? Get your copy for Ubuntu Server x86_64 or arm_64 . Make sure to read the trial docs (pdf) . Introduction and Research background In the last few years, Alex Dubov and I have independently been researching the security of the",
+      "date": null
     }
   ]
 }

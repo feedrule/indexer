@@ -4,17 +4,20 @@
     {
       "link": "https://www.christianschleifer.com/posts/dependency-injection-without-the-bloat/",
       "title": "Dependency Injection Without the Bloat: Why I Skip Java Dependency Injection Frameworks",
-      "description": "My personal take on why I think the Dependency Injection Pattern helps me write better code while Dependency Injection Frameworks only add complexity."
+      "description": "My personal take on why I think the Dependency Injection Pattern helps me write better code while Dependency Injection Frameworks only add complexity.",
+      "date": null
     },
     {
       "link": "https://www.christianschleifer.com/posts/bitmap-in-rust/",
       "title": "Bitmap in Rust",
-      "description": "Walk-through implementation of a simple bitmap in Rust."
+      "description": "Walk-through implementation of a simple bitmap in Rust.",
+      "date": null
     },
     {
       "link": "https://www.christianschleifer.com/posts/indices-and-bitmaps/",
       "title": "Indices and Bitmaps",
-      "description": "Database indices and how to implement them using bitmaps."
+      "description": "Database indices and how to implement them using bitmaps.",
+      "date": null
     }
   ]
 }

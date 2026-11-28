@@ -4,17 +4,20 @@
     {
       "link": "https://pierre-couy.dev/tinkering/2026/02/training-reinforcement-learning-mario-bros.html",
       "title": "AI learns to play Mario : Deep Reinforcement Learning applied to Super Mario Bros",
-      "description": "I reimplemented Deep Reinforcement learning research papers and training an AI to beat Super Mario Bros"
+      "description": "I reimplemented Deep Reinforcement learning research papers and training an AI to beat Super Mario Bros",
+      "date": null
     },
     {
       "link": "https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html",
       "title": "Mitosis in the Gray-Scott model : writing shader-based chemical simulations",
-      "description": "Use the parallel processing power of your GPU to simulate a simple chemical system that exhibits emergent behaviors"
+      "description": "Use the parallel processing power of your GPU to simulate a simple chemical system that exhibits emergent behaviors",
+      "date": null
     },
     {
       "link": "https://pierre-couy.dev/server-admin/2024/08/proxying-a-map-tile-server-for-increased-privacy.html",
       "title": "Increase privacy by using nginx as a caching proxy in front of a map tile server",
-      "description": "A tutorial featuring two examples showing how you can increase your privacy using nginx to proxy third-party services."
+      "description": "A tutorial featuring two examples showing how you can increase your privacy using nginx to proxy third-party services.",
+      "date": null
     }
   ]
 }

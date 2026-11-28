@@ -4,17 +4,20 @@
     {
       "link": "https://vxlang.org/blog/how-main-got-its-parameters.html",
       "title": "How main got its parameters",
-      "description": "In Vx, main is where a program gets its rights to use the operating system. A library can open a file only when its caller gives it the right to, and at the start only main has the rights. In six months, main went from returning any type, to returning an i32 exit code, to main(root : Root), and then to main(root : Root, args : Vec ). For two months the code generator ignored the return of main, an"
+      "description": "In Vx, main is where a program gets its rights to use the operating system. A library can open a file only when its caller gives it the right to, and at the start only main has the rights. In six months, main went from returning any type, to returning an i32 exit code, to main(root : Root), and then to main(root : Root, args : Vec ). For two months the code generator ignored the return of main, an",
+      "date": null
     },
     {
       "link": "https://vxlang.org/blog/let-vx-handle-lean-proofs-for-you.html",
       "title": "Let Vx handle Lean proofs for you",
-      "description": "A Lean proof has two parts: the theorem, which says what you want to be true, and the proof steps, which tell Lean why it is true. A programmer cares about the theorem. In Vx you write only that part, as a contract on the function that you compile, and the compiler asks the z3 solver for the proof on every build. A loop that counts the entries above zero needs five lines of proof steps in Lean, an"
+      "description": "A Lean proof has two parts: the theorem, which says what you want to be true, and the proof steps, which tell Lean why it is true. A programmer cares about the theorem. In Vx you write only that part, as a contract on the function that you compile, and the compiler asks the z3 solver for the proof on every build. A loop that counts the entries above zero needs five lines of proof steps in Lean, an",
+      "date": null
     },
     {
       "link": "https://vxlang.org/blog/handing-the-ptx-back-to-the-compiler.html",
       "title": "Handing the PTX back to the compiler",
-      "description": "glm-vx runs GLM models with GPU kernels written in Vx, and its kernels had 99 pieces of hand-written PTX inside mlir! blocks. To LLVM, inline PTX is a black box: it cannot remove, merge or move an instruction in it. We moved most of it to NVVM and LLVM ops. A test pins each instruction form of the old PTX with its exact count, and the registers and spills from ptxas. 14 of the 20 kernels kept ever"
+      "description": "glm-vx runs GLM models with GPU kernels written in Vx, and its kernels had 99 pieces of hand-written PTX inside mlir! blocks. To LLVM, inline PTX is a black box: it cannot remove, merge or move an instruction in it. We moved most of it to NVVM and LLVM ops. A test pins each instruction form of the old PTX with its exact count, and the registers and spills from ptxas. 14 of the 20 kernels kept ever",
+      "date": null
     }
   ]
 }

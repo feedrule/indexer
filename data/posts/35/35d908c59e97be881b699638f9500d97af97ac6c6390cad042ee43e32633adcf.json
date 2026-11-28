@@ -4,17 +4,20 @@
     {
       "link": "https://sakimyto.com/en/blog/codex-exec-untrusted-trust-flag",
       "title": "codex exec Skips MCP? 0.169 Untrusted Projects and --trust",
-      "description": "Tested Codex CLI 0.169.0 in 21 isolated, unauthenticated cases: project MCP, config trust, persistent --trust, explicit untrusted, and CI decisions."
+      "description": "Tested Codex CLI 0.169.0 in 21 isolated, unauthenticated cases: project MCP, config trust, persistent --trust, explicit untrusted, and CI decisions.",
+      "date": null
     },
     {
       "link": "https://sakimyto.com/en/blog/claude-code-sandbox-bash-prompt-unattended",
       "title": "Claude Code 2.1.325: Sandboxed Bash Prompts and Skill Approval",
-      "description": "Review sandbox autoAllow, scoped ask and deny rules, and scheduled Skill approval. Read-only audit with 729 synthetic cases; CLI comparison unverified."
+      "description": "Review sandbox autoAllow, scoped ask and deny rules, and scheduled Skill approval. Read-only audit with 729 synthetic cases; CLI comparison unverified.",
+      "date": null
     },
     {
       "link": "https://sakimyto.com/en/blog/claude-code-permission-wildcard-audit",
       "title": "Claude Code Permission Wildcards: What * Allows and How to Audit",
-      "description": "Compare Claude Code 2.1.322 and 2.1.323 in isolated tests: broad Bash wildcards, spaces, variable warnings, and a read-only settings audit."
+      "description": "Compare Claude Code 2.1.322 and 2.1.323 in isolated tests: broad Bash wildcards, spaces, variable warnings, and a read-only settings audit.",
+      "date": null
     }
   ]
 }

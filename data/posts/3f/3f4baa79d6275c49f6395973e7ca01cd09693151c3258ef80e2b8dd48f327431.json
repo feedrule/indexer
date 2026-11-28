@@ -4,17 +4,20 @@
     {
       "link": "https://emacs.dyerdwelling.family/emacs/20261126120000-emacs--two-kinds-of-auto-save-in-emacs/",
       "title": "Two Kinds of Auto-Save in Emacs: Giving Up on the Perfect Save Key!",
-      "description": "For someone who spends as much time in Emacs as I do, it is faintly ridiculous how much of my configuration time goes on the save keybinding. I have tried the stock chord, a shorter prefix, function keys, and spare keys; each one feels right for a day, and then the search starts again. So I am going to stop optimizing the key and let Emacs save the buffer for me. This post is the setup, not the ve"
+      "description": "For someone who spends as much time in Emacs as I do, it is faintly ridiculous how much of my configuration time goes on the save keybinding. I have tried the stock chord, a shorter prefix, function keys, and spare keys; each one feels right for a day, and then the search starts again. So I am going to stop optimizing the key and let Emacs save the buffer for me. This post is the setup, not the ve",
+      "date": null
     },
     {
       "link": "https://emacs.dyerdwelling.family/emacs/20261024120000-emacs--making-git-changes-obvious-in-the-mode-line/",
       "title": "Making Git Changes Obvious in the Emacs Mode Line",
-      "description": "Emacs already tells you when a version-controlled file has local changes, but it does it with a punctuation mark: a clean file shows Git-master in the mode line, and a modified file shows Git:master . The only difference is the separator, and if the theme leaves the VC state faces unspecified there is not even a colour change. I wanted something I could see without stopping to parse the mode line,"
+      "description": "Emacs already tells you when a version-controlled file has local changes, but it does it with a punctuation mark: a clean file shows Git-master in the mode line, and a modified file shows Git:master . The only difference is the separator, and if the theme leaves the VC state faces unspecified there is not even a colour change. I wanted something I could see without stopping to parse the mode line,",
+      "date": null
     },
     {
       "link": "https://emacs.dyerdwelling.family/emacs/20261025153614-emacs--stop-going-to-the-top-isearch-allow-motion/",
       "title": "Stop Going to the Top: isearch-allow-motion in Emacs",
-      "description": "I have a small ritual when I need to find something in a file: jump to the top with M-< , start C-s , and type the search string. It works, but it is a little fiddly. The top of the buffer is not where I am, and most of the time I do not actually need to start there. I just want the first match in the file, or I want to search forward from wherever point happens to be. The built-in isearch-allow-m"
+      "description": "I have a small ritual when I need to find something in a file: jump to the top with M-< , start C-s , and type the search string. It works, but it is a little fiddly. The top of the buffer is not where I am, and most of the time I do not actually need to start there. I just want the first match in the file, or I want to search forward from wherever point happens to be. The built-in isearch-allow-m",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/",
       "title": "How Node.js and V8 keep each other working - workflows, challenges and tips",
-      "description": "Recently I’ve found myself repeating the same explanations to different people about how to test a V8 patch in Node.js, how to patch the Node.js fork run in V8’s integration CI, or how to get these patches into their repositories/CIs"
+      "description": "Recently I’ve found myself repeating the same explanations to different people about how to test a V8 patch in Node.js, how to patch the Node.js fork run in V8’s integration CI, or how to get these patches into their repositories/CIs",
+      "date": null
     },
     {
       "link": "https://joyeecheung.github.io/blog/2026/01/31/tinkering-with-nodejs-core-on-arm64-windows/",
       "title": "Tinkering with Node.js Core on ARM64 Windows",
-      "description": "A while back, I wrote about Building Node.js on Windows using the new ClangCL support , which was done on an actual x64 Windows machine"
+      "description": "A while back, I wrote about Building Node.js on Windows using the new ClangCL support , which was done on an actual x64 Windows machine",
+      "date": null
     },
     {
       "link": "https://joyeecheung.github.io/blog/2026/03/24/teaching-gdb-to-unwind-v8-jit-frames-on-x64/",
       "title": "Teaching gdb to Unwind V8 JIT Frames on x64",
-      "description": "Recently I landed a custom Python gdb unwinder in V8 that allows gdb to unwind through V8’s JIT-compiled frames on x64"
+      "description": "Recently I landed a custom Python gdb unwinder in V8 that allows gdb to unwind through V8’s JIT-compiled frames on x64",
+      "date": null
     }
   ]
 }

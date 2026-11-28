@@ -4,17 +4,20 @@
     {
       "link": "https://davepedu.com/blog/2026/08/06/john-henry-in-the-age-of-ai/",
       "title": "John Henry in the age of AI",
-      "description": "There is an American folk tale about a man named John Henry. It dates to the mid 19th century, a time during which America was rapidly industrializing and the use of steam power was picking up… Well, steam. Being a folklore tale, there are many different variations of it, though, most examples describe him as a man employed on the construction of railroads. His specific role is often described as"
+      "description": "There is an American folk tale about a man named John Henry. It dates to the mid 19th century, a time during which America was rapidly industrializing and the use of steam power was picking up… Well, steam. Being a folklore tale, there are many different variations of it, though, most examples describe him as a man employed on the construction of railroads. His specific role is often described as",
+      "date": null
     },
     {
       "link": "https://davepedu.com/blog/2026/07/10/modernizing-this-blog/",
       "title": "modernizing this blog",
-      "description": "My personal website has existed in some form since the late 2000s, and like many hobby projects, it has been rebuilt far more times than strictly necessary. My taste in tech stacks has changed over time, and each version reflects whatever I was experimenting with at the time. These are some of thee iterations it has gone through over the years, and what is to come: 2011 - WordPress Early 2012 - A"
+      "description": "My personal website has existed in some form since the late 2000s, and like many hobby projects, it has been rebuilt far more times than strictly necessary. My taste in tech stacks has changed over time, and each version reflects whatever I was experimenting with at the time. These are some of thee iterations it has gone through over the years, and what is to come: 2011 - WordPress Early 2012 - A",
+      "date": null
     },
     {
       "link": "https://davepedu.com/projects/2020/03/05/redis-sentinel-proxy/",
       "title": "highly available redis with redis-sentinel-proxy",
-      "description": "Redis is a widely used and extremely fast cache server. Redis supports high availability out-of-the-box, but requires a cluster-aware client library to accomplish it. In this project, I explore making cluster-unaware clients compatible with highly available Redis. High availability What is high availability? First, let’s cover a few basic concepts. Computer hardware and software are not perfect. S"
+      "description": "Redis is a widely used and extremely fast cache server. Redis supports high availability out-of-the-box, but requires a cluster-aware client library to accomplish it. In this project, I explore making cluster-unaware clients compatible with highly available Redis. High availability What is high availability? First, let’s cover a few basic concepts. Computer hardware and software are not perfect. S",
+      "date": null
     }
   ]
 }

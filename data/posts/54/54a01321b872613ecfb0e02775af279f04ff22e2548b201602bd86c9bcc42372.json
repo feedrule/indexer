@@ -4,17 +4,20 @@
     {
       "link": "https://matteosonoio.it/docker-swarm/",
       "title": "Docker Swarm is abandoned",
-      "description": "Docker Swarm is a simple alternative to Kubernetes for container orchestration, but I argue it’s no longer usable for real-world workloads."
+      "description": "Docker Swarm is a simple alternative to Kubernetes for container orchestration, but I argue it’s no longer usable for real-world workloads.",
+      "date": null
     },
     {
       "link": "https://matteosonoio.it/code-bug-llms/",
       "title": "A code bug that most LLMs don't catch",
-      "description": "A few months ago I spotted a (critical) software bug that could produce loss of data in one of my projects. Suprisingly, most LLMs are unable to detect this bug."
+      "description": "A few months ago I spotted a (critical) software bug that could produce loss of data in one of my projects. Suprisingly, most LLMs are unable to detect this bug.",
+      "date": null
     },
     {
       "link": "https://matteosonoio.it/snowflake/",
       "title": "Using Snowflakes for database IDs",
-      "description": "A practical example of using Snowflake for database keys without a centralized service, with .NET and Entity Framework Core."
+      "description": "A practical example of using Snowflake for database keys without a centralized service, with .NET and Entity Framework Core.",
+      "date": null
     }
   ]
 }

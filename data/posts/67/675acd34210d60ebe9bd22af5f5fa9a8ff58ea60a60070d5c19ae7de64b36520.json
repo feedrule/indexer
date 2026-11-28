@@ -4,17 +4,20 @@
     {
       "link": "https://karmanivero.us/welcome-to-devops-hell/",
       "title": "Welcome to DevOps Hell. Here’s Your Map.",
-      "description": "Which version of which repo is running on which stage? I built fooboard to answer that from the browser, with no backend. Then I taught it to let your AI assistant set it up for you without ever seeing your keys."
+      "description": "Which version of which repo is running on which stage? I built fooboard to answer that from the browser, with no backend. Then I taught it to let your AI assistant set it up for you without ever seeing your keys.",
+      "date": null
     },
     {
       "link": "https://karmanivero.us/semantic-back-propagation-in-the-wild/",
       "title": "Semantic Back-Propagation: In The Wild",
-      "description": "The academic term describes optimizing LLM call chains in memory. We built something different: a closed-loop knowledge system where synthesis output feeds back into the search space that drives future synthesis. Here's how it works in production."
+      "description": "The academic term describes optimizing LLM call chains in memory. We built something different: a closed-loop knowledge system where synthesis output feeds back into the search space that drives future synthesis. Here's how it works in production.",
+      "date": null
     },
     {
       "link": "https://karmanivero.us/win-link-router/",
       "title": "Windows Broke My TEL → WhatsApp Links (So I Built a Router)",
-      "description": "A Windows update quietly killed my favorite productivity shortcut. Here’s what changed, how I fixed it, and the tiny app (and toolchain) that made it possible."
+      "description": "A Windows update quietly killed my favorite productivity shortcut. Here’s what changed, how I fixed it, and the tiny app (and toolchain) that made it possible.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.dumky.net/shorts/history-leakage/",
       "title": "History leakage: The product explaining its own edit history",
-      "description": "Ask an agent to change a scoring model in your dashboard and you’ll find “New score: 50 (was 35)”. Ask it to rename a function and you get scoreV2 sitting next to the legacy_weights it didn’t dare to delete. Ask for a docs edit and the page says “now supports Parquet”. None of that is what you asked for, but the agent loves to prove it did the work, inside the product, even though no user ever saw"
+      "description": "Ask an agent to change a scoring model in your dashboard and you’ll find “New score: 50 (was 35)”. Ask it to rename a function and you get scoreV2 sitting next to the legacy_weights it didn’t dare to delete. Ask for a docs edit and the page says “now supports Parquet”. None of that is what you asked for, but the agent loves to prove it did the work, inside the product, even though no user ever saw",
+      "date": null
     },
     {
       "link": "https://www.dumky.net/posts/they-all-write-store-and-read-data-how-to-pick-the-right-database/",
       "title": "They all write, store and read data: how to pick the right database",
-      "description": "A database in essence does three things: write, store and read data. A text file can do the same thing, so why do we need 20 different types of databases? Graph, document, vector, OLAP, OLTP, real-time, they all serve a purpose once you reach a certain scale and your requirements change. Some people will tell you to always use Postgres and to be fair, that’s solid advice. Until you hit a wall that"
+      "description": "A database in essence does three things: write, store and read data. A text file can do the same thing, so why do we need 20 different types of databases? Graph, document, vector, OLAP, OLTP, real-time, they all serve a purpose once you reach a certain scale and your requirements change. Some people will tell you to always use Postgres and to be fair, that’s solid advice. Until you hit a wall that",
+      "date": null
     },
     {
       "link": "https://www.dumky.net/posts/querying-the-entire-internet-with-duckdb-and-common-crawl/",
       "title": "Querying the entire internet with DuckDB and Common Crawl",
-      "description": "DuckDB is small. The data it queries doesn’t have to be. So let’s try something big. Common Crawl has been crawling and publishing web pages since 2008, and every crawl lands on S3 for anyone to read. Coding agents have turned a lot of people into web developers, so here is the internet-sized question for today: how much has personal, platform-hosted publishing actually grown?"
+      "description": "DuckDB is small. The data it queries doesn’t have to be. So let’s try something big. Common Crawl has been crawling and publishing web pages since 2008, and every crawl lands on S3 for anyone to read. Coding agents have turned a lot of people into web developers, so here is the internet-sized question for today: how much has personal, platform-hosted publishing actually grown?",
+      "date": null
     }
   ]
 }

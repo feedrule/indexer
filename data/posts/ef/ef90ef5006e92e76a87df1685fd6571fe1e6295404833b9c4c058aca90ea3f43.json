@@ -4,17 +4,20 @@
     {
       "link": "https://www.matheusmoreira.com/articles/code-reviewing-lone-lisp-with-sol-and-fable",
       "title": "Code reviewing lone lisp with Sol and Fable",
-      "description": "Comparative code review of the lone lisp interpreter source code by Sol and Fable."
+      "description": "Comparative code review of the lone lisp interpreter source code by Sol and Fable.",
+      "date": null
     },
     {
       "link": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
       "title": "The lone lisp heap",
-      "description": "The heap implementation of lone lisp."
+      "description": "The heap implementation of lone lisp.",
+      "date": null
     },
     {
       "link": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
       "title": "Baby’s Second Garbage Collector",
-      "description": "Implementation of the conservative garbage collector in lone lisp."
+      "description": "Implementation of the conservative garbage collector in lone lisp.",
+      "date": null
     }
   ]
 }

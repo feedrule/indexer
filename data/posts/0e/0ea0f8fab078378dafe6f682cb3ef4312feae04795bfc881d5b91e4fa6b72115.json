@@ -4,17 +4,20 @@
     {
       "link": "https://www.securitynik.com/2026/09/hyperparameter-tuning-with-hyperband.html",
       "title": "Hyperparameter tuning with Hyperband Tensorflow and PyTorch, along with KerasTuner and Ray Tune",
-      "description": "This post has been a long time coming. Realistically it should have been as part of my Machine Learning with Zeek series . Guess I got sloppy and not included it or was just too lazy. Whatever the reason it is here now. Another more important reason, is when teaching the SANS SEC595: Machine Learning and AI for Cyber Security Professionals course, the question always arise - before we get to that"
+      "description": "This post has been a long time coming. Realistically it should have been as part of my Machine Learning with Zeek series . Guess I got sloppy and not included it or was just too lazy. Whatever the reason it is here now. Another more important reason, is when teaching the SANS SEC595: Machine Learning and AI for Cyber Security Professionals course, the question always arise - before we get to that",
+      "date": null
     },
     {
       "link": "https://www.securitynik.com/2026/04/beginning-message-context-protocol-mcp_8.html",
       "title": "Beginning Message Context Protocol (MCP): MCP Security",
-      "description": "MCP was designed for convenience not security. Since its introduction in November 2024, researchers have put a lot of effort into understanding this protocol and its vulnerabilities. These vulnerabilities come in different flavours. Some of these are: OAuth vulnerabilities, the ability to execute arbitrary commands via command injection, unrestricted network access, file system exposure, tool pois"
+      "description": "MCP was designed for convenience not security. Since its introduction in November 2024, researchers have put a lot of effort into understanding this protocol and its vulnerabilities. These vulnerabilities come in different flavours. Some of these are: OAuth vulnerabilities, the ability to execute arbitrary commands via command injection, unrestricted network access, file system exposure, tool pois",
+      "date": null
     },
     {
       "link": "https://www.securitynik.com/2026/04/beginning-message-context-protocol-mcp_79.html",
       "title": "Beginning Message Context Protocol (MCP): Attacking and Defending MCP",
-      "description": "As mentioned earlier, the goal of MCP is to streamline AI integration by using one protocol to reach any tool **Protocol level abuse** - MCP Naming confusion (name spoofing) Threat actor registers a MCP server with a name almost identical to the legitimate one. When the AI assistant performs a name-based resolution, rather than resolving the legit name, it resolves the malicious name, possibly lea"
+      "description": "As mentioned earlier, the goal of MCP is to streamline AI integration by using one protocol to reach any tool **Protocol level abuse** - MCP Naming confusion (name spoofing) Threat actor registers a MCP server with a name almost identical to the legitimate one. When the AI assistant performs a name-based resolution, rather than resolving the legit name, it resolves the malicious name, possibly lea",
+      "date": null
     }
   ]
 }

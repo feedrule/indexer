@@ -4,17 +4,20 @@
     {
       "link": "https://alexwlchan.net/notes/2026/exclude-backblaze-dirs/",
       "title": "Using bzCLI to exclude directories from Backblaze",
-      "description": "Create a JSON file with the `bzdirfilter_add` setting, then pass that to `bzcli`."
+      "description": "Create a JSON file with the `bzdirfilter_add` setting, then pass that to `bzcli`.",
+      "date": null
     },
     {
       "link": "https://alexwlchan.net/notes/2026/check-url-redirects/",
       "title": "Finding the target of an HTTP redirect with the Python standard library",
-      "description": "Create an `HTTPRedirectHandler` that doesn't follow redirects, then inspect the headers of the \"error\" you receive from a redirect."
+      "description": "Create an `HTTPRedirectHandler` that doesn't follow redirects, then inspect the headers of the \"error\" you receive from a redirect.",
+      "date": null
     },
     {
       "link": "https://alexwlchan.net/notes/2026/battery-full/",
       "title": "Remember to use “Charge to Full Now” before going out",
-      "description": "On the default settings, modern Macs will only charge to 80% unless you tell them otherwise."
+      "description": "On the default settings, modern Macs will only charge to 80% unless you tell them otherwise.",
+      "date": null
     }
   ]
 }

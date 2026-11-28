@@ -4,17 +4,20 @@
     {
       "link": "https://benword.com/discourse-to-markdown-serve-your-forum-to-ai-agents",
       "title": "Discourse to Markdown: Serve Your Forum to AI Agents",
-      "description": "A Discourse plugin that serves topics, categories, tags, and list pages as Markdown via Accept header or .md URL suffix — content negotiation for LLMs."
+      "description": "A Discourse plugin that serves topics, categories, tags, and list pages as Markdown via Accept header or .md URL suffix — content negotiation for LLMs.",
+      "date": null
     },
     {
       "link": "https://benword.com/the-free-data-sitting-in-common-crawl",
       "title": "The Free Data Sitting in Common Crawl",
-      "description": "Backlink tools, domain authority scores, historical web archives. All sold as subscriptions, all derivable from Common Crawl's free quarterly release."
+      "description": "Backlink tools, domain authority scores, historical web archives. All sold as subscriptions, all derivable from Common Crawl's free quarterly release.",
+      "date": null
     },
     {
       "link": "https://benword.com/serving-markdown-to-ai-agents-via-accept-headers",
       "title": "Serving Markdown to AI Agents via Accept Headers",
-      "description": "Serving Markdown to LLMs via the Accept header — a 10× reduction in tokens, on the same URL a human hits."
+      "description": "Serving Markdown to LLMs via the Accept header — a 10× reduction in tokens, on the same URL a human hits.",
+      "date": null
     }
   ]
 }

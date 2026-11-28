@@ -4,12 +4,14 @@
     {
       "link": "https://www.allddd.onl/blog/what-systemd-time-leaves-out/",
       "title": "What systemd.time(7) leaves out",
-      "description": "Timers, journalctl --since and many unit settings use the same time syntax, and its only documentation is systemd.time(7) . Writing a Go implementation of it for a separate project showed that the man page leaves out a lot of cases and isn’t always right, so the closest thing to a spec is the C code, which (luckily) has comments for many of the odd parts. The output below comes from systemd 262, with faketime -f '2027-01-01 00:00:00' from libfaketime in front of every systemd-analyze ."
+      "description": "Timers, journalctl --since and many unit settings use the same time syntax, and its only documentation is systemd.time(7) . Writing a Go implementation of it for a separate project showed that the man page leaves out a lot of cases and isn’t always right, so the closest thing to a spec is the C code, which (luckily) has comments for many of the odd parts. The output below comes from systemd 262, with faketime -f '2027-01-01 00:00:00' from libfaketime in front of every systemd-analyze .",
+      "date": "2026-11-17"
     },
     {
       "link": "https://www.allddd.onl/blog/do-not-iptables-translate/",
       "title": "Do not iptables-translate",
-      "description": "Many users, including some large projects, migrate to nftables by running their existing iptables rules through iptables-translate and leaving it at that. It works, sure, but it only changes the syntax, and the syntax was never the point. nftables can keep data in the ruleset, and rules can look things up in it and change it as needed, so a lot of what used to need a daemon/script next to the firewall can now be done by the firewall itself."
+      "description": "Many users, including some large projects, migrate to nftables by running their existing iptables rules through iptables-translate and leaving it at that. It works, sure, but it only changes the syntax, and the syntax was never the point. nftables can keep data in the ruleset, and rules can look things up in it and change it as needed, so a lot of what used to need a daemon/script next to the firewall can now be done by the firewall itself.",
+      "date": "2026-10-20"
     }
   ]
 }

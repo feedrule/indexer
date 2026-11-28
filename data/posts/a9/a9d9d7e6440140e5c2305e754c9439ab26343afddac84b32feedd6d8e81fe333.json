@@ -4,17 +4,20 @@
     {
       "link": "https://erikdarling.com/how-to-parse-and-insert-blobs-fast/",
       "title": "How to Parse and Insert Blobs… Fast",
-      "description": "How to Parse and Insert Blobs… Fast Chapters 00:00:00 – Introduction: The Blob Problem 00:05:05 – Temp Tables and Logging Setup 00:05:23 – Values Clause Approaches 00:06:03 – UNION ALL and XML 00:06:48 – OPENJSON 00:07:11 – Testing Every Method With a Cursor 00:08:43 – Results: Singleton, Values, and UNION ALL 00:09:44 – Results: XML […] The post How to Parse and Insert Blobs… Fast appeared first"
+      "description": "How to Parse and Insert Blobs… Fast Chapters 00:00:00 – Introduction: The Blob Problem 00:05:05 – Temp Tables and Logging Setup 00:05:23 – Values Clause Approaches 00:06:03 – UNION ALL and XML 00:06:48 – OPENJSON 00:07:11 – Testing Every Method With a Cursor 00:08:43 – Results: Singleton, Values, and UNION ALL 00:09:44 – Results: XML […] The post How to Parse and Insert Blobs… Fast appeared first",
+      "date": null
     },
     {
       "link": "https://erikdarling.com/off-histogram-cardinality-estimates-in-sql-server/",
       "title": "Off-histogram Cardinality Estimates in SQL Server",
-      "description": "Off-histogram Cardinality Estimates in SQL Server To vote for the feedback item, head over here. Chapters 00:00:00 – Introduction 00:04:36 – The Feedback Item and a Birthday Wish 00:05:37 – Demo Setup: Stored Procedure and Hints 00:06:12 – Control Set: Values Inside the Histogram 00:07:57 – Rows Past the Histogram and Their Stats 00:10:05 – […] The post Off-histogram Cardinality Estimates in SQL S"
+      "description": "Off-histogram Cardinality Estimates in SQL Server To vote for the feedback item, head over here. Chapters 00:00:00 – Introduction 00:04:36 – The Feedback Item and a Birthday Wish 00:05:37 – Demo Setup: Stored Procedure and Hints 00:06:12 – Control Set: Values Inside the Histogram 00:07:57 – Rows Past the Histogram and Their Stats 00:10:05 – […] The post Off-histogram Cardinality Estimates in SQL S",
+      "date": null
     },
     {
       "link": "https://erikdarling.com/sql-server-performance-office-hours-episode-96/",
       "title": "SQL Server Performance Office Hours Episode 96",
-      "description": "SQL Server Performance Office Hours Episode 96 To ask your questions, head over here. Chapters 00:00:00 – Introduction 00:06:46 – Replacing EXISTS Semi-Joins With CROSS APPLY 00:07:58 – The Last Time I Used sp_tableoption 00:08:37 – Indexing Strategies That Scale as Data Grows 00:11:34 – Why SQL Server Behaves Irrationally Under Pressure 00:13:04 – The […] The post SQL Server Performance Office Ho"
+      "description": "SQL Server Performance Office Hours Episode 96 To ask your questions, head over here. Chapters 00:00:00 – Introduction 00:06:46 – Replacing EXISTS Semi-Joins With CROSS APPLY 00:07:58 – The Last Time I Used sp_tableoption 00:08:37 – Indexing Strategies That Scale as Data Grows 00:11:34 – Why SQL Server Behaves Irrationally Under Pressure 00:13:04 – The […] The post SQL Server Performance Office Ho",
+      "date": null
     }
   ]
 }

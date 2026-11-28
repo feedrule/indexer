@@ -4,17 +4,20 @@
     {
       "link": "http://radbrt.com/posts/agent-centric-topologies/",
       "title": "Agent Centric Topologies",
-      "description": "This post started as an idea, and ended as a thought experiment. I don’t think is a sensible end-goal, and I will provide some reasons at the end. But I found a thread to pull, and I wanted to see how far it took me. I am a big fan of the Team Topologies book, so it was the obvious framework for thinking about taking AI beyond simply using Claude in your IDE. I have no idea if AI will steal our jo"
+      "description": "This post started as an idea, and ended as a thought experiment. I don’t think is a sensible end-goal, and I will provide some reasons at the end. But I found a thread to pull, and I wanted to see how far it took me. I am a big fan of the Team Topologies book, so it was the obvious framework for thinking about taking AI beyond simply using Claude in your IDE. I have no idea if AI will steal our jo",
+      "date": null
     },
     {
       "link": "http://radbrt.com/posts/how-to-stop-worrying-and-love-medallion/",
       "title": "How to Stop Worrying and Love Medallion",
-      "description": "The inherent uselessness of Medallion 🔗 Let’s get this out of the way first: I don’t like Medallion. I am able to formulate 3 reasons for why: It implies something about data quality. That data gets refined and quality somehow objectively improves on its way from Bronze to Gold, due to the magic power of IT people who have no idea what they are doing. It is inherently meaningless. Bronze/Silver/Go"
+      "description": "The inherent uselessness of Medallion 🔗 Let’s get this out of the way first: I don’t like Medallion. I am able to formulate 3 reasons for why: It implies something about data quality. That data gets refined and quality somehow objectively improves on its way from Bronze to Gold, due to the magic power of IT people who have no idea what they are doing. It is inherently meaningless. Bronze/Silver/Go",
+      "date": null
     },
     {
       "link": "http://radbrt.com/posts/github-actions-oidc/",
       "title": "Github Actions OIDC",
-      "description": "GPT came very close to giving a complete working tutorial on setting up OpenID Connect federated credentials that lets your Github Actions authenticate to Azure. This means no passwords, exceptionally granular permissions and a happy security team. After a bit of debugging I figured out the missing piece, I updated the instructions a little because Azure has updated its UI, but other than that thi"
+      "description": "GPT came very close to giving a complete working tutorial on setting up OpenID Connect federated credentials that lets your Github Actions authenticate to Azure. This means no passwords, exceptionally granular permissions and a happy security team. After a bit of debugging I figured out the missing piece, I updated the instructions a little because Azure has updated its UI, but other than that thi",
+      "date": null
     }
   ]
 }

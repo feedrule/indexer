@@ -4,17 +4,20 @@
     {
       "link": "https://tty4.dev/development/2026-11-15-claude-md-setup/",
       "title": "Setting up a CLAUDE.md",
-      "description": "The CLAUDE.md should contain only what Claude can’t figure out by reading the code: the decisions, commands, and context that never made it into the repo and codebase. This post walks through this in detail. This heavily uses the Claude Code documentation, but it should fit most of the harnesses out there and AGENTS.md , as well. The code is the documentation Describing the architecture and file l"
+      "description": "The CLAUDE.md should contain only what Claude can’t figure out by reading the code: the decisions, commands, and context that never made it into the repo and codebase. This post walks through this in detail. This heavily uses the Claude Code documentation, but it should fit most of the harnesses out there and AGENTS.md , as well. The code is the documentation Describing the architecture and file l",
+      "date": null
     },
     {
       "link": "https://tty4.dev/development/2026-11-12-about-reading-tech-books/",
       "title": "About reading tech books",
-      "description": "One of my bigger hobbies I spend time on is reading: books, blogs, newspapers: I like all of them. Reading as a habit After my university degree I established a habit of having at least one computer science/work-related book on my reading list. What matters is that I have one on my desk which I know I want to read. This can be a book about software engineering, a programming language or other work"
+      "description": "One of my bigger hobbies I spend time on is reading: books, blogs, newspapers: I like all of them. Reading as a habit After my university degree I established a habit of having at least one computer science/work-related book on my reading list. What matters is that I have one on my desk which I know I want to read. This can be a book about software engineering, a programming language or other work",
+      "date": null
     },
     {
       "link": "https://tty4.dev/development/2026-11-06-claude-code-loops-and-goals/",
       "title": "Loops and Goals in Claude Code",
-      "description": "Two commands not mentioned in the Claude Code Commands Cheatsheet are /loop and /goal . They deserve a closer look as they can keep Claude working without prompting every turn and enable the creation of personal automations. /loop runs on a schedule and /goal runs until a condition is met. /goal : run until it is done The /goal command can be used to set a goal for Claude. Claude runs immediately"
+      "description": "Two commands not mentioned in the Claude Code Commands Cheatsheet are /loop and /goal . They deserve a closer look as they can keep Claude working without prompting every turn and enable the creation of personal automations. /loop runs on a schedule and /goal runs until a condition is met. /goal : run until it is done The /goal command can be used to set a goal for Claude. Claude runs immediately",
+      "date": null
     }
   ]
 }

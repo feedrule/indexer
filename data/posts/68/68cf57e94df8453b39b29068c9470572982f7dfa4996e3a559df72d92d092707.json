@@ -4,17 +4,20 @@
     {
       "link": "https://fundor333.com/post/2026/proxmox-homelab-base-stack-adguard-dns-nginx-proxy-manager-and-https-domains-for-every-service/",
       "title": "Proxmox Homelab Base Stack: AdGuard DNS, Nginx Proxy Manager, and HTTPS Domains for Every Service",
-      "description": "And after some searching and some buying (and some exchange with sombody I know) I built my HomeLab core/main server. 1 “It” is ZimaBoard2 2 2 WD Red Plus Internal NAS HDD 3.5 4 TB 3 I set the HDD in Raid1 for replication and I install ProxMox VE as OS 4 . The installation software for the distro make the RAID1 for my HDDs. After some problem (I only have the TV as monitor and I don’t have very lo"
+      "description": "And after some searching and some buying (and some exchange with sombody I know) I built my HomeLab core/main server. 1 “It” is ZimaBoard2 2 2 WD Red Plus Internal NAS HDD 3.5 4 TB 3 I set the HDD in Raid1 for replication and I install ProxMox VE as OS 4 . The installation software for the distro make the RAID1 for my HDDs. After some problem (I only have the TV as monitor and I don’t have very lo",
+      "date": null
     },
     {
       "link": "https://fundor333.com/post/2026/how-i-m-building-my-first-home-lab-from-scratch-/",
       "title": "How I Am Building My First Home Lab From Scratch",
-      "description": "It is some time I am tinking of selfhosting some stuff and more and more time I read post/see video about HomeLabs. So I start thinking about making one. So what is a HomeLab? A homelab is a self-contained IT environment that you design and control. It usually includes basic infrastructure like compute, storage, and networking, along with a hypervisor or virtualization layer (container). Some setu"
+      "description": "It is some time I am tinking of selfhosting some stuff and more and more time I read post/see video about HomeLabs. So I start thinking about making one. So what is a HomeLab? A homelab is a self-contained IT environment that you design and control. It usually includes basic infrastructure like compute, storage, and networking, along with a hypervisor or virtualization layer (container). Some setu",
+      "date": null
     },
     {
       "link": "https://fundor333.com/post/2026/moving-to-django-6-x/",
       "title": "Moving to Django 6.X",
-      "description": "A long time ago I start my personal server in Django (a lot of the stuff from Django tricks were coded for my personal Django stuff) and some days ago I decide to upgrade to 6.1 or more. Why? New things in 6.0 and 6.1 ¶ The main thing in Django 6.0 is the Django Tasks Frameworks ↗ . Having a unique framework for the async task is a beautifull thing and made me clean a lot of code and make it more"
+      "description": "A long time ago I start my personal server in Django (a lot of the stuff from Django tricks were coded for my personal Django stuff) and some days ago I decide to upgrade to 6.1 or more. Why? New things in 6.0 and 6.1 ¶ The main thing in Django 6.0 is the Django Tasks Frameworks ↗ . Having a unique framework for the async task is a beautifull thing and made me clean a lot of code and make it more",
+      "date": null
     }
   ]
 }

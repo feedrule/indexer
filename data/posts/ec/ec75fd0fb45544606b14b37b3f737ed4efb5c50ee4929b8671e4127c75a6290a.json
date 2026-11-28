@@ -4,17 +4,20 @@
     {
       "link": "https://blog.elmo.sg/posts/cddc-2026-post-mortem-and-ai/",
       "title": "Reflections of CDDC 2026 and my thoughts on AI in CTFs",
-      "description": "This year marks my fifth year playing in Cyber Defender’s Discovery Camp (CDDC), the largest-scale jeopardy CTF in Singapore, organized by DSTA. CDDC over the years Allow me to reminisce 2021 was the year when I first stepped into anything tech and cyber related, to be greeted by this mess of a CDDC to set my expectations for my first CDDC ever. That set the bar pretty low. 2023 was when I ..."
+      "description": "This year marks my fifth year playing in Cyber Defender’s Discovery Camp (CDDC), the largest-scale jeopardy CTF in Singapore, organized by DSTA. CDDC over the years Allow me to reminisce 2021 was the year when I first stepped into anything tech and cyber related, to be greeted by this mess of a CDDC to set my expectations for my first CDDC ever. That set the bar pretty low. 2023 was when I ...",
+      "date": null
     },
     {
       "link": "https://blog.elmo.sg/posts/why-zsteg-doesnt-work-on-jpeg-files/",
       "title": "Why does zsteg not work on JPEG files?",
-      "description": "If you’ve been playing CTFs for some time like me, you would be somewhat familiar with what Steganography is (or at least know what hail mary stego tools to throw image files at to hopefully obtain a flag). Yesterday, when I was trying to write a simple steganography challenge for a beginner CTF, I faced some problems where I tried to encode LSB data into a JPEG image file but did not get the ..."
+      "description": "If you’ve been playing CTFs for some time like me, you would be somewhat familiar with what Steganography is (or at least know what hail mary stego tools to throw image files at to hopefully obtain a flag). Yesterday, when I was trying to write a simple steganography challenge for a beginner CTF, I faced some problems where I tried to encode LSB data into a JPEG image file but did not get the ...",
+      "date": null
     },
     {
       "link": "https://blog.elmo.sg/posts/flare-on-12-challenge-8/",
       "title": "Flare-On 12 — Uncovering Key Functionalities within Obfuscated Binaries using WinDBG 🌀",
-      "description": "The annual Flare-On has just concluded recently and I did not manage to find enough time to finish the final challenge. Regardless, here is a brief writeup for challenge 8 FlareAuthentiactor to showcase how I used Time Travel Debugging and WinDBG to solve the challenge quickly without much de-obfuscation. Overview We are given a program FlareAuthenticator.exe that is using Qt6 for the interfa..."
+      "description": "The annual Flare-On has just concluded recently and I did not manage to find enough time to finish the final challenge. Regardless, here is a brief writeup for challenge 8 FlareAuthentiactor to showcase how I used Time Travel Debugging and WinDBG to solve the challenge quickly without much de-obfuscation. Overview We are given a program FlareAuthenticator.exe that is using Qt6 for the interfa...",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Are Local LLMs Ready for Production?",
-      "description": "In 2018 I recreated this blog with an SSG (Static Site Generator) in Python based on pandoc (asciidoctor for older pages), git timestamps and Jinja2 templates. Even though it cached pandoc invocations, building still took too long for my taste and lately I didn’t really feel at ease with modifying…"
+      "description": "In 2018 I recreated this blog with an SSG (Static Site Generator) in Python based on pandoc (asciidoctor for older pages), git timestamps and Jinja2 templates. Even though it cached pandoc invocations, building still took too long for my taste and lately I didn’t really feel at ease with modifying…",
+      "date": null
     },
     {
       "link": null,
       "title": "Imagewmark 0.6.0 Release",
-      "description": "What Is Imagewmark? How do you embed a secret message into an image that survives cropping, scaling, and compression without needing the original source to decode it? Imagewmark is a Free Software tool that does exactly this. It embeds encrypted invisible digital watermarks (128 bits) into images…"
+      "description": "What Is Imagewmark? How do you embed a secret message into an image that survives cropping, scaling, and compression without needing the original source to decode it? Imagewmark is a Free Software tool that does exactly this. It embeds encrypted invisible digital watermarks (128 bits) into images…",
+      "date": null
     },
     {
       "link": null,
       "title": "JJ-FZF 0.38.0 Release",
-      "description": "What Is jj-fzf? The Jujutsu VCS has flexible expressions for specifying revision sets and allows non-linear editing of (ancestry) commits. jj-fzf is an interactive TUI that turns the jj log output into a fast keyboard driven control panel. Based on fzf, it allows live revset editing, instant diff…"
+      "description": "What Is jj-fzf? The Jujutsu VCS has flexible expressions for specifying revision sets and allows non-linear editing of (ancestry) commits. jj-fzf is an interactive TUI that turns the jj log output into a fast keyboard driven control panel. Based on fzf, it allows live revset editing, instant diff…",
+      "date": null
     }
   ]
 }

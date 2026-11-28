@@ -4,17 +4,20 @@
     {
       "link": "https://rishabkumar.com/blog/ai-agent-blast-radius/",
       "title": "Your AI Agent Doesn't Need Less Power. It Needs a Smaller Blast Radius.",
-      "description": "Imagine giving an AI coding agent root access, Docker, and permission to run privileged containers, then telling it to destroy everything it can reach. That is exactly what I did live on stage at WeAreDevelopers World Congress North America. The agent succeeded. It deleted every container, image, volume, network, and build cache it could find. My host machine was fine. That result captures the mai"
+      "description": "Imagine giving an AI coding agent root access, Docker, and permission to run privileged containers, then telling it to destroy everything it can reach. That is exactly what I did live on stage at WeAreDevelopers World Congress North America. The agent succeeded. It deleted every container, image, volume, network, and build cache it could find. My host machine was fine. That result captures the mai",
+      "date": null
     },
     {
       "link": "https://rishabkumar.com/notes/azure-ai-apps-and-agents-developer-associate/",
       "title": "Azure AI Apps and Agents Developer Associate (AI-103)",
-      "description": "Index Exam overview Exam domains If you are coming from AWS Exam day tips Plan and manage an Azure AI solution Foundry object model Choosing a model Deployment types Quotas, scale and cost Monitoring Security Responsible AI Generative AI and agentic solutions RAG Agent building blocks Agent tools Multi-agent orchestration Code shape to recognize Evaluations Optimize and operationalize Computer vis"
+      "description": "Index Exam overview Exam domains If you are coming from AWS Exam day tips Plan and manage an Azure AI solution Foundry object model Choosing a model Deployment types Quotas, scale and cost Monitoring Security Responsible AI Generative AI and agentic solutions RAG Agent building blocks Agent tools Multi-agent orchestration Code shape to recognize Evaluations Optimize and operationalize Computer vis",
+      "date": null
     },
     {
       "link": "https://rishabkumar.com/blog/migrating-my-blog-from-hashnode-with-codex/",
       "title": "I Finally Migrated My Blog From Hashnode With Codex",
-      "description": "I have wanted to move my blog into my personal site for a while. Actually, I wanted to do this last year, but like a lot of side projects, it kept sitting on the list. I would think about it, open the repo, look at the amount of work, and then convince myself that Hashnode was fine for now. And honestly, Hashnode was fine. The issue was not that Hashnode was bad."
+      "description": "I have wanted to move my blog into my personal site for a while. Actually, I wanted to do this last year, but like a lot of side projects, it kept sitting on the list. I would think about it, open the repo, look at the amount of work, and then convince myself that Hashnode was fine for now. And honestly, Hashnode was fine. The issue was not that Hashnode was bad.",
+      "date": null
     }
   ]
 }

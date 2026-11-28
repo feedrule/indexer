@@ -4,17 +4,20 @@
     {
       "link": "https://blog.mansueli.com/automating-sign-in-with-apple-secret-rotation-on-supabase",
       "title": "Automating Sign in with Apple Secret Rotation on Supabase",
-      "description": "Apple caps Sign in with Apple client secrets at 6 months. Learn how to configure it on Supabase and auto-rotate the JWT with Edge Functions and pgcron"
+      "description": "Apple caps Sign in with Apple client secrets at 6 months. Learn how to configure it on Supabase and auto-rotate the JWT with Edge Functions and pgcron",
+      "date": null
     },
     {
       "link": "https://blog.mansueli.com/building-a-persistent-ai-game-master-with-a-react-spa-supabase-and-typescript",
       "title": "Building a Persistent AI Game Master with a React SPA, Supabase, and TypeScript",
-      "description": "A deep technical guide to building a persistent AI Game Master: memory tiers, NPC learning loops, Supabase-centric state, setting an SPA for SEO/GEO."
+      "description": "A deep technical guide to building a persistent AI Game Master: memory tiers, NPC learning loops, Supabase-centric state, setting an SPA for SEO/GEO.",
+      "date": null
     },
     {
       "link": "https://blog.mansueli.com/building-resumable-websockets-with-supabase-edge-functions-and-postgres",
       "title": "Building Resumable WebSockets with Supabase Edge Functions and Postgres",
-      "description": "Supabase makes it easy to build realtime applications with Postgres and Edge Functions. But building reliable WebSockets in serverless environments can…"
+      "description": "Supabase makes it easy to build realtime applications with Postgres and Edge Functions. But building reliable WebSockets in serverless environments can…",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://ood.dev/posts/doom/",
       "title": "Doom, compiled into a transformer",
-      "description": "No training anywhere: a compiler sets the weights of a stock Phi-3-architecture checkpoint so autoregressive generation executes Doom's classic renderer."
+      "description": "No training anywhere: a compiler sets the weights of a stock Phi-3-architecture checkpoint so autoregressive generation executes Doom's classic renderer.",
+      "date": null
     },
     {
       "link": "https://ood.dev/posts/calculator/",
       "title": "A calculator, compiled into a transformer",
-      "description": "Setting a transformer's weights by hand -- no training -- to build four exact calculators and compare how they use layers, parameters, and generated tokens."
+      "description": "Setting a transformer's weights by hand -- no training -- to build four exact calculators and compare how they use layers, parameters, and generated tokens.",
+      "date": null
     },
     {
       "link": "https://ood.dev/posts/torchwright-intro/",
       "title": "Introducing torchwright",
-      "description": "A compiler that turns computation graphs into the weights of a stock transformer -- no training anywhere. Where it came from and how it works."
+      "description": "A compiler that turns computation graphs into the weights of a stock transformer -- no training anywhere. Where it came from and how it works.",
+      "date": null
     }
   ]
 }

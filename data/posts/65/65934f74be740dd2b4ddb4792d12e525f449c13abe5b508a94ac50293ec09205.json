@@ -4,12 +4,14 @@
     {
       "link": "https://jasonkena.github.io/blog/posts/does_self_distillation_improve_reasoning/",
       "title": "A critical look at self-distillation for reasoning",
-      "description": "This blog post summarizes our paper which will appear at the Transitioning from Pre-Training to Post-Training workshop at NeurIPS 2026. This is joint work with Ashutosh Sharma, Avinash Balakrishnan, and Rameswar Panda at the MIT-IBM Computing Research Lab ; along with Polina Golland and Yoon Kim at MIT CSAIL . This post focuses on the main results; the paper covers detailed ablations and results a"
+      "description": "This blog post summarizes our paper which will appear at the Transitioning from Pre-Training to Post-Training workshop at NeurIPS 2026. This is joint work with Ashutosh Sharma, Avinash Balakrishnan, and Rameswar Panda at the MIT-IBM Computing Research Lab ; along with Polina Golland and Yoon Kim at MIT CSAIL . This post focuses on the main results; the paper covers detailed ablations and results a",
+      "date": null
     },
     {
       "link": "https://jasonkena.github.io/blog/posts/good_teachers_dont_cheat/",
       "title": "Good teachers don’t cheat",
-      "description": "TL;DR: Policy gradient RL, self-distillation techniques like SDFT , and Pedagogical RL can all be viewed as optimizing the same objective , just with slightly different optimization procedures. The privileged information that some of these methods feed in context is simply a tool to make the optimization of easier. The punchline is that, at optimality, the teacher’s use of has to vanish: good teac"
+      "description": "TL;DR: Policy gradient RL, self-distillation techniques like SDFT , and Pedagogical RL can all be viewed as optimizing the same objective , just with slightly different optimization procedures. The privileged information that some of these methods feed in context is simply a tool to make the optimization of easier. The punchline is that, at optimality, the teacher’s use of has to vanish: good teac",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://jdx.dev/posts/2026-09-07-dotfiles-that-save-themselves/",
       "title": "Dotfiles That Save Themselves",
-      "description": "mise bootstrap already supported two common ways of managing dotfiles: keep them in a repository and symlink them into place, as GNU Stow does, or generate the live files from stored sources and templates, as chezmoi normally does. I wanted to add a third model: automatic bidirectional syncing of the files I already edit, without symlinks . Change .zshrc on my laptop and mise saves it, shares it,"
+      "description": "mise bootstrap already supported two common ways of managing dotfiles: keep them in a repository and symlink them into place, as GNU Stow does, or generate the live files from stored sources and templates, as chezmoi normally does. I wanted to add a third model: automatic bidirectional syncing of the files I already edit, without symlinks . Change .zshrc on my laptop and mise saves it, shares it,",
+      "date": null
     },
     {
       "link": "https://jdx.dev/posts/2026-09-05-introducing-mr-boxington/",
       "title": "Introducing mr-boxington: fix target/",
-      "description": "Note Updated October 3, 2026 for mbx 1.21. Since this post first went up, the install command changed, existing target/ directories are adopted instead of replaced, cargo check and cargo clippy run beside builds without a second target directory, and mbx analyze explains where a build’s time went. The sections below describe the current release. I’m introducing mr-boxington , a build cache for Rus"
+      "description": "Note Updated October 3, 2026 for mbx 1.21. Since this post first went up, the install command changed, existing target/ directories are adopted instead of replaced, cargo check and cargo clippy run beside builds without a second target directory, and mbx analyze explains where a build’s time went. The sections below describe the current release. I’m introducing mr-boxington , a build cache for Rus",
+      "date": null
     },
     {
       "link": "https://jdx.dev/posts/2026-09-05-introducing-packslip/",
       "title": "Introducing packslip",
-      "description": "I’m introducing packslip , a signed manifest vendors publish alongside their releases. It tells package managers which binaries to download, how to verify and install them, and where to find matching shell completions and agent skills. mise supports packslip as a tier 1 backend, preferred over the github and aqua backends for new tools. Completions follow the tool version active in your project, a"
+      "description": "I’m introducing packslip , a signed manifest vendors publish alongside their releases. It tells package managers which binaries to download, how to verify and install them, and where to find matching shell completions and agent skills. mise supports packslip as a tier 1 backend, preferred over the github and aqua backends for new tools. Completions follow the tool version active in your project, a",
+      "date": null
     }
   ]
 }

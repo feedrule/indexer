@@ -4,17 +4,20 @@
     {
       "link": "https://dylancastillo.co/posts/matryoshka-vs-pca.html",
       "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
-      "description": "As people began using LLMs with their own documents, a new problem emerged: how do you store and search all that information efficiently? Vector databases quickly became the standard solution. But vectors can contain thousands of dimensions, and storing millions of them can make retrieval slow and expensive. AI labs responded with a technique called Matryoshka Representation Learning (MRL) , which"
+      "description": "As people began using LLMs with their own documents, a new problem emerged: how do you store and search all that information efficiently? Vector databases quickly became the standard solution. But vectors can contain thousands of dimensions, and storing millions of them can make retrieval slow and expensive. AI labs responded with a technique called Matryoshka Representation Learning (MRL) , which",
+      "date": null
     },
     {
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "title": "Are AI labs pelicanmaxxing?",
-      "description": "For the past few years, Simon Willison has tested every major LLM release with the same prompt: “Generate an SVG of a pelican riding a bicycle”. What began as a tongue-in-cheek benchmark has become one of the most famous informal benchmarks in AI. Simon’s pelican-on-a-bicycle results are often among the most upvoted comments on Hacker News threads announcing new releases from AI labs. The benchmar"
+      "description": "For the past few years, Simon Willison has tested every major LLM release with the same prompt: “Generate an SVG of a pelican riding a bicycle”. What began as a tongue-in-cheek benchmark has become one of the most famous informal benchmarks in AI. Simon’s pelican-on-a-bicycle results are often among the most upvoted comments on Hacker News threads announcing new releases from AI labs. The benchmar",
+      "date": null
     },
     {
       "link": "https://dylancastillo.co/posts/5-years-freelancing-in-europe.html",
       "title": "Five Years of Freelancing",
-      "description": "Five years ago, freelancing felt like arbitrage: same work, better pay, without leaving Spain. So I left my full-time job in the middle of the pandemic and gave it a shot. It worked. I made more money, had more freedom, and worked with all sorts of companies on projects across data science, machine learning, and AI products. But that was also the problem. Freelancing rewarded my flexibility and ne"
+      "description": "Five years ago, freelancing felt like arbitrage: same work, better pay, without leaving Spain. So I left my full-time job in the middle of the pandemic and gave it a shot. It worked. I made more money, had more freedom, and worked with all sorts of companies on projects across data science, machine learning, and AI products. But that was also the problem. Freelancing rewarded my flexibility and ne",
+      "date": null
     }
   ]
 }

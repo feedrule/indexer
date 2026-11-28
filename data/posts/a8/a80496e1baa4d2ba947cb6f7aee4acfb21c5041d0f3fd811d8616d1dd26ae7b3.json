@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "The Gauss-Bonnet Theorem with geomstats",
-      "description": "The Atiyah-Singer Index Theorem is my favorite theorem in mathematics. It is a deep result that relates the topology of a manifold to the geometry of its curvature, through the index of a differential operator. This theorem is the reason I decided to do a PhD in this area (see The \\(S^q\\) -Equivariant Signature for Semi-free Actions as an Index Formula ). The first version of this theorem that I l"
+      "description": "The Atiyah-Singer Index Theorem is my favorite theorem in mathematics. It is a deep result that relates the topology of a manifold to the geometry of its curvature, through the index of a differential operator. This theorem is the reason I decided to do a PhD in this area (see The \\(S^q\\) -Equivariant Signature for Semi-free Actions as an Index Formula ). The first version of this theorem that I l",
+      "date": null
     },
     {
       "link": null,
       "title": "From Forecasts to Decisions: Cannibalization and Shared Capacity",
-      "description": "This notebook is a continuation of the first post “From Forecasts to Decisions: Inventory Planning with Probabilistic Programming” . In that first post we worked out a simple inventory planning problem with a single product in a single store, that is, just one independent time series. We treated this problem beyond a simple forecasting problem. We worked out the decision problem and the loss funct"
+      "description": "This notebook is a continuation of the first post “From Forecasts to Decisions: Inventory Planning with Probabilistic Programming” . In that first post we worked out a simple inventory planning problem with a single product in a single store, that is, just one independent time series. We treated this problem beyond a simple forecasting problem. We worked out the decision problem and the loss funct",
+      "date": null
     },
     {
       "link": null,
       "title": "From Forecasts to Decisions: Inventory Planning with Probabilistic Programming",
-      "description": "Suppose that we sell one product and that we have to decide today how many units to order for each of the next \\(15\\) days. This problem has two layers of uncertainty. The first one is the future demand, which we do not know. The second one follows from the first: since we do not know the demand, we do not know the best order quantities either. The number of units to order is the decision that we"
+      "description": "Suppose that we sell one product and that we have to decide today how many units to order for each of the next \\(15\\) days. This problem has two layers of uncertainty. The first one is the future demand, which we do not know. The second one follows from the first: since we do not know the demand, we do not know the best order quantities either. The number of units to order is the decision that we",
+      "date": null
     }
   ]
 }

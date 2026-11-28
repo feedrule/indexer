@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "AI-assisted data validation",
-      "description": "Validating sanity configs with an AI agent: methodology notes Context. CoRE Stack's data sanity framework ( computing/sanity/ ) checks pipeline outputs against YAML rule configs: 34 configs, one per pipeline. Each config checks the pipeline's output in two forms, the vector layer and the stats Excel sheet. I did this work with Claude Code: first by hand on two pipelines, then by having agents repe"
+      "description": "Validating sanity configs with an AI agent: methodology notes Context. CoRE Stack's data sanity framework ( computing/sanity/ ) checks pipeline outputs against YAML rule configs: 34 configs, one per pipeline. Each config checks the pipeline's output in two forms, the vector layer and the stats Excel sheet. I did this work with Claude Code: first by hand on two pipelines, then by having agents repe",
+      "date": null
     },
     {
       "link": null,
       "title": "Reflections from IndiaFOSS 2026",
-      "description": "I attended IndiaFOSS 2026 this weekend (and Friday). I have been attending this festival (not a conference) since IndiaFOSS 2.0 in 2022. Every year the event keeps getting bigger. It's my favorite tech event of the year because of the people this event is able to bring together. It's always a joy reconnecting with old friends and meeting new FOSS hackers in the hallway. This year felt a lot bigger"
+      "description": "I attended IndiaFOSS 2026 this weekend (and Friday). I have been attending this festival (not a conference) since IndiaFOSS 2.0 in 2022. Every year the event keeps getting bigger. It's my favorite tech event of the year because of the people this event is able to bring together. It's always a joy reconnecting with old friends and meeting new FOSS hackers in the hallway. This year felt a lot bigger",
+      "date": null
     },
     {
       "link": null,
       "title": "Healing Earth Workshop 2026 at Ashoka",
-      "description": "I recently got to attend the Healing Earth Workshop 2026 along with my colleagues Smayan and Naveen from FPLaunchpad . As someone coming primarily from a computer science background, this was useful in understanding the domain knowledge that we need as part of the ESG (environment, social, and governance) applications research group in our lab. Day 1 Day 1 was the workshop on the science of climat"
+      "description": "I recently got to attend the Healing Earth Workshop 2026 along with my colleagues Smayan and Naveen from FPLaunchpad . As someone coming primarily from a computer science background, this was useful in understanding the domain knowledge that we need as part of the ESG (environment, social, and governance) applications research group in our lab. Day 1 Day 1 was the workshop on the science of climat",
+      "date": null
     }
   ]
 }

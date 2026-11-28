@@ -4,17 +4,20 @@
     {
       "link": "https://jsgroth.dev/blog/posts/super-cd-rom-rom-required/",
       "title": "Super CD-ROM² Required",
-      "description": "Whenever I start writing an emulator for a new system, there is always at least one game I’d really love to see running in my own emulator. If there wasn’t, I don’t think I’d be able to find the motivation to get to the point of some games kind of hopefully maybe mostly working."
+      "description": "Whenever I start writing an emulator for a new system, there is always at least one game I’d really love to see running in my own emulator. If there wasn’t, I don’t think I’d be able to find the motivation to get to the point of some games kind of hopefully maybe mostly working.",
+      "date": null
     },
     {
       "link": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
       "title": "Trying to Make a Loop Auto-Vectorize",
-      "description": "This post assumes at least a vague level of familiarity with the concept of SIMD CPU instructions (x86 SSE/AVX and ARM Neon), where the CPU can perform a single operation on multiple scalar values simultaneously. There is a lot of x86 assembly here to demonstrate what’s happening but you don’t have to be able to read it."
+      "description": "This post assumes at least a vague level of familiarity with the concept of SIMD CPU instructions (x86 SSE/AVX and ARM Neon), where the CPU can perform a single operation on multiple scalar values simultaneously. There is a lot of x86 assembly here to demonstrate what’s happening but you don’t have to be able to read it.",
+      "date": null
     },
     {
       "link": "https://jsgroth.dev/blog/posts/emulator-bugs-genesis-grab-bag/",
       "title": "Emulator Bugs: Genesis Grab Bag",
-      "description": "This post covers a few Genesis emulation bugs that I ran into at various points, that I don’t think are substantial enough to justify their own posts (barring maybe the third one). The bugs that caused these are not particularly interesting - 2 were caused by me failing to thoroughly read existing documentation, and 1 was an accuracy shortcut that worked until it didn’t - but I think it’s an inter"
+      "description": "This post covers a few Genesis emulation bugs that I ran into at various points, that I don’t think are substantial enough to justify their own posts (barring maybe the third one). The bugs that caused these are not particularly interesting - 2 were caused by me failing to thoroughly read existing documentation, and 1 was an accuracy shortcut that worked until it didn’t - but I think it’s an inter",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://ii4gsp.github.io/iterm2-rce/",
       "title": "iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection",
-      "description": "Introduction iTerm2’s Kitty image protocol implementation has an arbitrary command execution vulnerability in the file transmit error response path. An APC escape sequence embedded in any file is consumed by the VT100 parser and does not appear in the cat output itself, but the Kitty file transmit error response preserves literal newlines from a crafted file path and writes them to PTY stdin — the"
+      "description": "Introduction iTerm2’s Kitty image protocol implementation has an arbitrary command execution vulnerability in the file transmit error response path. An APC escape sequence embedded in any file is consumed by the VT100 parser and does not appear in the cat output itself, but the Kitty file transmit error response preserves literal newlines from a crafted file path and writes them to PTY stdin — the",
+      "date": null
     },
     {
       "link": "https://ii4gsp.github.io/libreoffice-rce/",
       "title": "CVE-2026-104692 / CVE-2026-104007 - LibreOffice RCE via ODF Form Datasource JDBC Code Execution",
-      "description": "Introduction This blog post describes how to exploit a remote code execution vulnerability in LibreOffice by combining two security vulnerabilities with several ODF document features to build a complete exploit chain. The exploit achieves arbitrary command execution on macOS, Windows, and Linux when a victim simply opens a crafted spreadsheet file, with no user interaction, no macro warning, and n"
+      "description": "Introduction This blog post describes how to exploit a remote code execution vulnerability in LibreOffice by combining two security vulnerabilities with several ODF document features to build a complete exploit chain. The exploit achieves arbitrary command execution on macOS, Windows, and Linux when a victim simply opens a crafted spreadsheet file, with no user interaction, no macro warning, and n",
+      "date": null
     },
     {
       "link": "https://ii4gsp.github.io/cve-2026-49413/",
       "title": "CVE-2026-49413 - FreeBSD LPE via Linuxulator AT_SECURE Logic Bug",
-      "description": "Introduction This blog post describes how to exploit a local privilege escalation vulnerability caused by a logic bug in FreeBSD’s Linuxulator subsystem. The vulnerability exists in the LINUX_AT_SECURE auxiliary vector generation during execve() of setuid Linux ELF binaries. Unlike typical kernel exploitation that requires race conditions or memory corruption, this is a deterministic logic bug — 1"
+      "description": "Introduction This blog post describes how to exploit a local privilege escalation vulnerability caused by a logic bug in FreeBSD’s Linuxulator subsystem. The vulnerability exists in the LINUX_AT_SECURE auxiliary vector generation during execve() of setuid Linux ELF binaries. Unlike typical kernel exploitation that requires race conditions or memory corruption, this is a deterministic logic bug — 1",
+      "date": null
     }
   ]
 }

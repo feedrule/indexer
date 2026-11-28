@@ -4,17 +4,20 @@
     {
       "link": "https://rewiring.bearblog.dev/finding-my-dev-env-zen/",
       "title": "Finding my dev env zen",
-      "description": "A dev container with all the development requirements, NeoVim and a bot harness - perfection Over the years I've done a few 'migrations' of my developer environment. Initially I started with Visual Studio, which was the natural choice for .NET work at the time. With .NET Core I switched to Rider , which I still recommend if you want to work on .NET with a graphical IDE. This move wasn't really lif"
+      "description": "A dev container with all the development requirements, NeoVim and a bot harness - perfection Over the years I've done a few 'migrations' of my developer environment. Initially I started with Visual Studio, which was the natural choice for .NET work at the time. With .NET Core I switched to Rider , which I still recommend if you want to work on .NET with a graphical IDE. This move wasn't really lif",
+      "date": null
     },
     {
       "link": "https://rewiring.bearblog.dev/sandboxing-a-bot/",
       "title": "Sandboxing a bot",
-      "description": "Containers can be used for easy and effective isolation of agent harnesses from your development environment Upd: If you're already using dev containers, they can be an [easy way to sandbox a harness] too. Letting agent harnesses, like Pi or Claude Code run on your machine with your credentials is convenient but also very insecure. Limiting the bots by telling them 'thou shalt not' is pretty much"
+      "description": "Containers can be used for easy and effective isolation of agent harnesses from your development environment Upd: If you're already using dev containers, they can be an [easy way to sandbox a harness] too. Letting agent harnesses, like Pi or Claude Code run on your machine with your credentials is convenient but also very insecure. Limiting the bots by telling them 'thou shalt not' is pretty much",
+      "date": null
     },
     {
       "link": "https://rewiring.bearblog.dev/sandboxing-a-bot-ii-dev-containers/",
       "title": "Sandboxing a bot II - dev containers",
-      "description": "I recently posted about how I use containers to sandbox AI harnesses like Copilot CLI. That's worked out beautifully, but as I've been looking into dev containers I put two and two together and thought, why not put the bot inside the dev container? After all, it's just a CLI that needs access to the same build/debug/dev tools I normally do and not much more. Here's the general approach for GH Copi"
+      "description": "I recently posted about how I use containers to sandbox AI harnesses like Copilot CLI. That's worked out beautifully, but as I've been looking into dev containers I put two and two together and thought, why not put the bot inside the dev container? After all, it's just a CLI that needs access to the same build/debug/dev tools I normally do and not much more. Here's the general approach for GH Copi",
+      "date": null
     }
   ]
 }

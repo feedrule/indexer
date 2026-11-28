@@ -4,17 +4,20 @@
     {
       "link": "http://paul-samuels.com/blog/2026/02/02/hacking-with-ktor/",
       "title": "Hacking with Ktor",
-      "description": "Every now and then when I’m out walking my dog I nerd snipe myself and start thinking of interesting little programming challenges to toy around with. This post explores using Ktor to build a tiny reverse proxy that forwards Snowplow events and pushes notifications over WebSockets so a debug UI can react in real time. Background The app I work on uses Snowplow for event tracking. When you send eve"
+      "description": "Every now and then when I’m out walking my dog I nerd snipe myself and start thinking of interesting little programming challenges to toy around with. This post explores using Ktor to build a tiny reverse proxy that forwards Snowplow events and pushes notifications over WebSockets so a debug UI can react in real time. Background The app I work on uses Snowplow for event tracking. When you send eve",
+      "date": null
     },
     {
       "link": "http://paul-samuels.com/blog/2026/01/30/call-once/",
       "title": "Call Once",
-      "description": "In this post I explore Swift’s @propertyWrapper s and parameter packs to implement a common behaviour. I ran into some code that captured work in a closure and ensured it was only invoked once. The pattern for this one-shot closure looked like this: class Example { private var delayedWork : (() -> Void )? func functionThatQueuesWork () { delayedWork = { print ( \"some work\" ) } } func functionThatI"
+      "description": "In this post I explore Swift’s @propertyWrapper s and parameter packs to implement a common behaviour. I ran into some code that captured work in a closure and ensured it was only invoked once. The pattern for this one-shot closure looked like this: class Example { private var delayedWork : (() -> Void )? func functionThatQueuesWork () { delayedWork = { print ( \"some work\" ) } } func functionThatI",
+      "date": null
     },
     {
       "link": "http://paul-samuels.com/blog/2026/01/15/make-nice-tools/",
       "title": "Make nice tools",
-      "description": "I spend a lot of time thinking about developer experience at all levels, from what makes a helpful error message deep in a framework to how we make people’s dev environments easy to spin up. In this post I’ll walk through how a local development tool I wrote evolved over 4.5 years and what that taught me about designing developer facing tools. This isn’t a post about Docker, SwiftUI or Compose. It"
+      "description": "I spend a lot of time thinking about developer experience at all levels, from what makes a helpful error message deep in a framework to how we make people’s dev environments easy to spin up. In this post I’ll walk through how a local development tool I wrote evolved over 4.5 years and what that taught me about designing developer facing tools. This isn’t a post about Docker, SwiftUI or Compose. It",
+      "date": null
     }
   ]
 }

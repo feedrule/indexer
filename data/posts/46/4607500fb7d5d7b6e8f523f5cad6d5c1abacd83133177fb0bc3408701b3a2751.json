@@ -4,17 +4,20 @@
     {
       "link": "https://backend.cafe/how-to-use-winston-as-the-fastify-logger",
       "title": "How to use winston as the Fastify logger",
-      "description": "Swapping pino for winston in Fastify breaks request logs, serializers and route log levels. Learn why, and fix it with a custom LogController."
+      "description": "Swapping pino for winston in Fastify breaks request logs, serializers and route log levels. Learn why, and fix it with a custom LogController.",
+      "date": null
     },
     {
       "link": "https://backend.cafe/how-we-release-fastify-packages-without-npm-tokens",
       "title": "How we release Fastify packages without npm tokens",
-      "description": "How Fastify releases 100 packages from GitHub Actions with no npm tokens: Trusted Publishers, OIDC, provenance and a required human approval."
+      "description": "How Fastify releases 100 packages from GitHub Actions with no npm tokens: Trusted Publishers, OIDC, provenance and a required human approval.",
+      "date": null
     },
     {
       "link": "https://backend.cafe/how-we-are-securing-the-fastify-organization",
       "title": "How we are securing the Fastify organization",
-      "description": "Who can publish fastify to npm tonight? Here is how we answered that question with code, and the three supply chain fixes you can copy."
+      "description": "Who can publish fastify to npm tonight? Here is how we answered that question with code, and the three supply chain fixes you can copy.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://sagi.org/posts/how-i-built-swath/",
       "title": "How I built swath: listing a billion S3 objects in 4 minutes",
-      "description": "How I built swath to list unfamiliar, billion-object S3 buckets quickly, reliably, and with bounded memory."
+      "description": "How I built swath to list unfamiliar, billion-object S3 buckets quickly, reliably, and with bounded memory.",
+      "date": null
     },
     {
       "link": "https://sagi.org/posts/how-intelligent-is-s3-intelligent-tiering/",
       "title": "How intelligent is S3 Intelligent-Tiering?",
-      "description": "Amazon S3 Intelligent-Tiering is about as smart as it can be, given what S3 actually knows. With better context, it could often do a lot better."
+      "description": "Amazon S3 Intelligent-Tiering is about as smart as it can be, given what S3 actually knows. With better context, it could often do a lot better.",
+      "date": null
     },
     {
       "link": "https://sagi.org/posts/buckets-and-objects-are-not-enough/",
       "title": "Buckets and objects are not enough",
-      "description": "S3 has buckets and objects, but no native concept of a dataset. A lot of cost and governance pain traces back to that gap."
+      "description": "S3 has buckets and objects, but no native concept of a dataset. A lot of cost and governance pain traces back to that gap.",
+      "date": null
     }
   ]
 }

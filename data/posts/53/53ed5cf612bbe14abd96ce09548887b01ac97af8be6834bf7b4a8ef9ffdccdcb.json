@@ -4,17 +4,20 @@
     {
       "link": "https://graficos.net/blog/2026-09-11-remove-secret-files-from-git-history",
       "title": "How to Remove a Committed Secret File from Git History",
-      "description": "A secret got committed and pushed. Rewrite the history with git-filter-repo or an interactive rebase, then force-push — and rotate the secret first."
+      "description": "A secret got committed and pushed. Rewrite the history with git-filter-repo or an interactive rebase, then force-push — and rotate the secret first.",
+      "date": null
     },
     {
       "link": "https://graficos.net/blog/2026-06-24-two-kinds-of-variables-in-cloudflare-workers",
       "title": "Two Kinds of Variables in Cloudflare Workers",
-      "description": "Why an environment variable can 'exist' in your Cloudflare config and still be missing at runtime — the build vs. runtime split, and the Nuxt useRuntimeConfig vs. process.env footgun."
+      "description": "Why an environment variable can 'exist' in your Cloudflare config and still be missing at runtime — the build vs. runtime split, and the Nuxt useRuntimeConfig vs. process.env footgun.",
+      "date": null
     },
     {
       "link": "https://graficos.net/blog/2026-04-29-what-minecraft-and-a-word-cloud-have-in-common",
       "title": "The Algorithm Behind Procedural Games Like Minecraft — Applied to UI Development",
-      "description": "How a grid, a seeded PRNG, and a 50-year-old bin-packing heuristic power both Minecraft's infinite worlds and a simple SVG word cloud — and why that's not a coincidence."
+      "description": "How a grid, a seeded PRNG, and a 50-year-old bin-packing heuristic power both Minecraft's infinite worlds and a simple SVG word cloud — and why that's not a coincidence.",
+      "date": null
     }
   ]
 }

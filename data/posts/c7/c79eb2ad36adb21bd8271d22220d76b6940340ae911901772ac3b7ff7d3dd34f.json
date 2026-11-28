@@ -4,17 +4,20 @@
     {
       "link": "https://vmiklos.hu/blog/sw-redline-number-portion.html",
       "title": "Better rendering of track changes and numbering portions in Collabora Online Writer",
-      "description": "Numbering portions are the special creatures that are automatically generated at the start of a paragraph for Arabic numbering or bullets. They are there before the paragraph even starts, and now the track changes rendering for them is better. This post is meant to show how this looked in the past and what we improved recently. Motivation ¶ Users expect that if they make a text selection in a Writ"
+      "description": "Numbering portions are the special creatures that are automatically generated at the start of a paragraph for Arabic numbering or bullets. They are there before the paragraph even starts, and now the track changes rendering for them is better. This post is meant to show how this looked in the past and what we improved recently. Motivation ¶ Users expect that if they make a text selection in a Writ",
+      "date": null
     },
     {
       "link": "https://vmiklos.hu/blog/sd-notes-panel-clipboard.html",
       "title": "Copy&paste for the Impress notes bottom panel in Collabora Online",
-      "description": "Szymon added a bottom panel for slide notes to Collabora Online Impress about 2 weeks ago . This post is meant to show how clipboard support was implemented for this: both via keyboard and notebookbar buttons. Motivation ¶ Users expect that whenever they make a selection on the UI, they can cut or copy that. And they can put the cursor to a position and can paste there. The notes bottom panel in I"
+      "description": "Szymon added a bottom panel for slide notes to Collabora Online Impress about 2 weeks ago . This post is meant to show how clipboard support was implemented for this: both via keyboard and notebookbar buttons. Motivation ¶ Users expect that whenever they make a selection on the UI, they can cut or copy that. And they can put the cursor to a position and can paste there. The notes bottom panel in I",
+      "date": null
     },
     {
       "link": "https://vmiklos.hu/blog/cool-markdown-copy.html",
       "title": "Markdown copy&paste on the Collabora Online UI",
-      "description": "Markdown import and export in Collabora Online was an existing filter already, see the post from last year for more details. This post is meant to show how this is now available on the end-user UI, while previously this was mostly available for batch conversion and SDK clients only. Motivation ¶ A computer's clipboard can contain data in multiple formats, so it would be logical to read and write M"
+      "description": "Markdown import and export in Collabora Online was an existing filter already, see the post from last year for more details. This post is meant to show how this is now available on the end-user UI, while previously this was mostly available for batch conversion and SDK clients only. Motivation ¶ A computer's clipboard can contain data in multiple formats, so it would be logical to read and write M",
+      "date": null
     }
   ]
 }

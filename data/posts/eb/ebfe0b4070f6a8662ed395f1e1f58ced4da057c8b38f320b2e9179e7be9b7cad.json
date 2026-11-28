@@ -4,17 +4,20 @@
     {
       "link": "http://dan-blanchard.github.io/blog/chardet-rewrite-controversy/",
       "title": "Everything Claude Saw: A Transparent Account of the Chardet v7 Rewrite",
-      "description": "Exactly what Claude accessed from the old chardet codebase during the v7 rewrite, with evidence from the raw conversation transcripts."
+      "description": "Exactly what Claude accessed from the old chardet codebase during the v7 rewrite, with evidence from the raw conversation transcripts.",
+      "date": null
     },
     {
       "link": "http://dan-blanchard.github.io/blog/hello-world/",
       "title": "Hello, World",
-      "description": "Is this thing on?"
+      "description": "Is this thing on?",
+      "date": null
     },
     {
       "link": "http://dan-blanchard.github.io/chardet-architecture-regurgitation/",
       "title": "chardet: Architecture and Data Flow (From Claude's Training Data)",
-      "description": "Claude’s description of chardet’s internal architecture, written entirely from training data memory with no source code access. Referenced in the chardet transparency post."
+      "description": "Claude’s description of chardet’s internal architecture, written entirely from training data memory with no source code access. Referenced in the chardet transparency post.",
+      "date": null
     }
   ]
 }

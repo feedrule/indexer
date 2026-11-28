@@ -4,17 +4,20 @@
     {
       "link": "https://rajivshah.com/blog/gitnexus-openhands-vscode.html",
       "title": "GitNexus for GraphRAG",
-      "description": "I have been skeptical of Graph RAG. I made a short video about that skepticism , and my issue was not that graphs are useless. The issue was the plumbing. For a lot of business problems, you have to decide what the nodes are, what the edges are, how to keep the graph updated, and how the agent is supposed to query it. By the time that is working, it is easy to wonder whether you built infrastructu"
+      "description": "I have been skeptical of Graph RAG. I made a short video about that skepticism , and my issue was not that graphs are useless. The issue was the plumbing. For a lot of business problems, you have to decide what the nodes are, what the edges are, how to keep the graph updated, and how the agent is supposed to query it. By the time that is working, it is easy to wonder whether you built infrastructu",
+      "date": null
     },
     {
       "link": "https://rajivshah.com/blog/system-prompts-dont-get-shorter.html",
       "title": "System Prompts Don’t Get Shorter. They Shift.",
-      "description": "I keep hearing the model labs tell a story that as models get better, you need to give the model less direction, and the coding agent harnesses around them should get simpler. I like that story, it sounds so intuitive. But like a good engineer, I also do not quite trust it. So I pulled together a small visual experiment around Claude’s published system prompts. The original version looked at Opus"
+      "description": "I keep hearing the model labs tell a story that as models get better, you need to give the model less direction, and the coding agent harnesses around them should get simpler. I like that story, it sounds so intuitive. But like a good engineer, I also do not quite trust it. So I pulled together a small visual experiment around Claude’s published system prompts. The original version looked at Opus",
+      "date": null
     },
     {
       "link": "https://rajivshah.com/blog/ai-engineer-worlds-fair-2026-talks.html",
       "title": "AI Engineer World’s Fair 2026: Talks Worth Watching",
-      "description": "I sit in the middle of corn fields and watch the live stream. Thanks @aiDotEngineer and @swyx. Here are some talks from AI Engineer World’s Fair 2026 that I found particularly interesting, in order of presentation, not quality. AI Engineer World’s Fair 2026 keynotes Day 1 Microsoft Foundry: Knowledge Management for AI Agents Watch the talk URL: https://www.youtube.com/watch?v=htM02KMNZnk&t=1800s T"
+      "description": "I sit in the middle of corn fields and watch the live stream. Thanks @aiDotEngineer and @swyx. Here are some talks from AI Engineer World’s Fair 2026 that I found particularly interesting, in order of presentation, not quality. AI Engineer World’s Fair 2026 keynotes Day 1 Microsoft Foundry: Knowledge Management for AI Agents Watch the talk URL: https://www.youtube.com/watch?v=htM02KMNZnk&t=1800s T",
+      "date": null
     }
   ]
 }

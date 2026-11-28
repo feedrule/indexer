@@ -4,17 +4,20 @@
     {
       "link": "https://agileotter.dev/posts/2026-11-15-knowledge-in-code.html",
       "title": "Code as Knowledge",
-      "description": "How is Source Code the Truth? Code is the truth I’ve often repeated that line. I credit it to Ron Jeffries, though the very first use may be lost to time. I’ve heard it also from Bob Martin who was one of my key tech mentors in the late 1990s and early 2000s. When I mention it in social media, I’m often greeted with “helpful corrections” by various people, who usually are strangers to me. They tel"
+      "description": "How is Source Code the Truth? Code is the truth I’ve often repeated that line. I credit it to Ron Jeffries, though the very first use may be lost to time. I’ve heard it also from Bob Martin who was one of my key tech mentors in the late 1990s and early 2000s. When I mention it in social media, I’m often greeted with “helpful corrections” by various people, who usually are strangers to me. They tel",
+      "date": null
     },
     {
       "link": "https://agileotter.dev/posts/2026-11-14-disguising-and-unmasking-antipattern.html",
       "title": "Disguising and Unmasking Antipattern",
-      "description": "x = get_something() if x is none: return [] elif isinstance (x, Item): return [x] elif isinstance (x, List): return x else : raise \"Unknown type\" This made-up example is based on some actual agentically-written code. The get_something() method returns Any , essentially (it’s not that obvious, but the type union might as well be Any ). There are a few things going wrong here - one being the sloppy"
+      "description": "x = get_something() if x is none: return [] elif isinstance (x, Item): return [x] elif isinstance (x, List): return x else : raise \"Unknown type\" This made-up example is based on some actual agentically-written code. The get_something() method returns Any , essentially (it’s not that obvious, but the type union might as well be Any ). There are a few things going wrong here - one being the sloppy",
+      "date": null
     },
     {
       "link": "https://agileotter.dev/posts/2026-11-11-why-not-waterfall.html",
       "title": "Why Not Waterfall",
-      "description": "Stage-gated delivery, PRINCE2 included, moves work through signed-off phases, with change control and tolerances as its brake. It suits work where requirements genuinely do not move: contractual, regulated, or tied to hardware. The awkward part for agile purists: a detailed specification written up front is exactly what an AI agent works best from. The heavy documentation agile criticised is now t"
+      "description": "Stage-gated delivery, PRINCE2 included, moves work through signed-off phases, with change control and tolerances as its brake. It suits work where requirements genuinely do not move: contractual, regulated, or tied to hardware. The awkward part for agile purists: a detailed specification written up front is exactly what an AI agent works best from. The heavy documentation agile criticised is now t",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.tset.de/projects/2026/04/27/new-project-grmpf.html",
       "title": "A package manager for unpackaged software",
-      "description": "A lot of software is available from github or similar sources, but not (yet) from my systems’ repositories, or only in a version that is too old for what I need. Installing from those sources is tedious and also requires active checking for updates and such. Also, removing such software may also be a little more involved than necessary."
+      "description": "A lot of software is available from github or similar sources, but not (yet) from my systems’ repositories, or only in a version that is too old for what I need. Installing from those sources is tedious and also requires active checking for updates and such. Also, removing such software may also be a little more involved than necessary.",
+      "date": null
     },
     {
       "link": "https://www.tset.de/misc/2023/11/13/welcome-to-the-new-tset.de.html",
       "title": "Welcome to tset.de!",
-      "description": "Welcome to the rebuild of tset.de. I’ve switched to a static site builder. The content is basically the same as before, with some things still in the pipeline."
+      "description": "Welcome to the rebuild of tset.de. I’ve switched to a static site builder. The content is basically the same as before, with some things still in the pipeline.",
+      "date": null
     },
     {
       "link": "https://www.tset.de/projects/2023/11/08/new-project-shortcut.html",
       "title": "Command shortcuts for linux",
-      "description": "Shell aliases are nice, but very shell specific. On my personal computers, I use the fish shell, but for work I use bash, so this is not really portable. As the need arose to simplify some of my command line one-liners, I opted for door two, which is a small program that implements command shortcuts."
+      "description": "Shell aliases are nice, but very shell specific. On my personal computers, I use the fish shell, but for work I use bash, so this is not really portable. As the need arose to simplify some of my command line one-liners, I opted for door two, which is a small program that implements command shortcuts.",
+      "date": null
     }
   ]
 }

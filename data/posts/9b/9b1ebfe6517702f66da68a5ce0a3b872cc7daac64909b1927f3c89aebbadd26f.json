@@ -4,17 +4,20 @@
     {
       "link": "https://alternativebit.fr/posts/nix-and-guix-offline-hacking/",
       "title": "Nar-klepto: Guix and Nix Offline Cache",
-      "description": "TL;DR: introducing nar-klepto , the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a bit frustrated that I could only discuss computer-related things via online video meetings. After the 2024 FOSDEM, I realized that if there’s no nerds"
+      "description": "TL;DR: introducing nar-klepto , the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a bit frustrated that I could only discuss computer-related things via online video meetings. After the 2024 FOSDEM, I realized that if there’s no nerds",
+      "date": null
     },
     {
       "link": "https://alternativebit.fr/posts/nixos/nsncd-some-updates/",
       "title": "Nsncd, Anniversary Updates",
-      "description": "Last year, flokli and I worked towards re-using TwoSigma’s Nsncd as the main NixOS Nscd daemon. What is that even about? Well, Nscd is a Glibc daemon that was originally meant to cache the host/user resolution requests. It’s mostly obsolete by now, but on NixOS and Guix, we abuse this daemon to get a stable ABI to load the host NSS modules from a potentially different glibc version. If you have no"
+      "description": "Last year, flokli and I worked towards re-using TwoSigma’s Nsncd as the main NixOS Nscd daemon. What is that even about? Well, Nscd is a Glibc daemon that was originally meant to cache the host/user resolution requests. It’s mostly obsolete by now, but on NixOS and Guix, we abuse this daemon to get a stable ABI to load the host NSS modules from a potentially different glibc version. If you have no",
+      "date": null
     },
     {
       "link": "https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/",
       "title": "The Nix, OpenGL and Ubuntu Integration Nightmare",
-      "description": "In this article, we’re about to dive into the uncharted OpenGL on Linux waters. After briefly explaining how the OpenGL calls are routed from your application to the GPU, we’ll look at the NixOS special case. We’ll then explore how we can run the OpenGL programs built by Nix on a foreign distribution, such as Ubuntu or Fedora. Finally, we’ll introduce NixGLHost a new approach to solve this problem"
+      "description": "In this article, we’re about to dive into the uncharted OpenGL on Linux waters. After briefly explaining how the OpenGL calls are routed from your application to the GPU, we’ll look at the NixOS special case. We’ll then explore how we can run the OpenGL programs built by Nix on a foreign distribution, such as Ubuntu or Fedora. Finally, we’ll introduce NixGLHost a new approach to solve this problem",
+      "date": null
     }
   ]
 }

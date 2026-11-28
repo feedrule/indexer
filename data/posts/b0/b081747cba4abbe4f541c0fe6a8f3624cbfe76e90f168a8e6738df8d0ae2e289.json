@@ -4,17 +4,20 @@
     {
       "link": "https://www.theozimmermann.net/2026/05/maintenance-md/",
       "title": "Are your dependencies dead? And how maintainers can help (and get help)",
-      "description": "This weekend, I read \"Weekend at Bernie's\", a recent blog post from Andrew Nesbitt, in which he tries to quantify how many of the critical dependencies of various ecosystems are effectively \"dead\". The post was very interesting, and I like the methodology he used. But what I noticed (besides the relatively high percentage of \"dead\" critical dependencies) was the large number of dependencies that a"
+      "description": "This weekend, I read \"Weekend at Bernie's\", a recent blog post from Andrew Nesbitt, in which he tries to quantify how many of the critical dependencies of various ecosystems are effectively \"dead\". The post was very interesting, and I like the methodology he used. But what I noticed (besides the relatively high percentage of \"dead\" critical dependencies) was the large number of dependencies that a",
+      "date": null
     },
     {
       "link": "https://www.theozimmermann.net/2022/03/prix-science-ouverte/",
       "title": "Le projet Coq reçoit le prix Science Ouverte du Logiciel Libre de Recherche",
-      "description": "Le 5 février 2022, à l'occasion des Journées européennes de la science ouverte, les prix Science Ouverte du Logiciel Libre de Recherche ont été annoncés. Dans la catégorie Scientifique et Technique, le logiciel récompensé était Coq, dont j'ai représenté l'équipe de développement à cette occasion."
+      "description": "Le 5 février 2022, à l'occasion des Journées européennes de la science ouverte, les prix Science Ouverte du Logiciel Libre de Recherche ont été annoncés. Dans la catégorie Scientifique et Technique, le logiciel récompensé était Coq, dont j'ai représenté l'équipe de développement à cette occasion.",
+      "date": null
     },
     {
       "link": "https://www.theozimmermann.net/2021/11/known-issues/",
       "title": "Managing known issues: a refinement of the stale bot approach",
-      "description": "There are a few universal problems that maintainers of successful open source projects end up facing. One of them is coping with a large number of open issues. This problem is often unavoidable because the available manpower to fix bugs and limitations rarely scales as fast as the manpower to report them. Therefore, the number of open bugs in the issue tracker of popular projects can end up growin"
+      "description": "There are a few universal problems that maintainers of successful open source projects end up facing. One of them is coping with a large number of open issues. This problem is often unavoidable because the available manpower to fix bugs and limitations rarely scales as fast as the manpower to report them. Therefore, the number of open bugs in the issue tracker of popular projects can end up growin",
+      "date": null
     }
   ]
 }

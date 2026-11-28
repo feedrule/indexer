@@ -4,17 +4,20 @@
     {
       "link": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
       "title": "I connected my Withings Body+ to Home Assistant with an ESP32",
-      "description": "My Withings scale now sends weight and body composition data directly to Home Assistant through an ESP32, without going through the Withings cloud."
+      "description": "My Withings scale now sends weight and body composition data directly to Home Assistant through an ESP32, without going through the Withings cloud.",
+      "date": null
     },
     {
       "link": "https://didac.dev/blog/the-app-blocker-i-made-because-i-kept-cheating-on-screen-time",
       "title": "The app blocker I made because I kept cheating on Screen Time",
-      "description": "I kept skipping my Screen Time limits and did not want to spend €50 on an NFC blocker, so I made my own."
+      "description": "I kept skipping my Screen Time limits and did not want to spend €50 on an NFC blocker, so I made my own.",
+      "date": null
     },
     {
       "link": "https://didac.dev/blog/building-a-festival-companion-at-bbk-live",
       "title": "How a bus queue became a BBK Live festival app",
-      "description": "I messaged Hermes from a Telegram group while waiting for the bus. By the end of BBK Live, the timetable had become a PWA with Spotify, a map, and an estimated wristband balance."
+      "description": "I messaged Hermes from a Telegram group while waiting for the bus. By the end of BBK Live, the timetable had become a PWA with Spotify, a map, and an estimated wristband balance.",
+      "date": null
     }
   ]
 }

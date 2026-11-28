@@ -4,17 +4,20 @@
     {
       "link": "https://geekembly.com/posts/poligons/",
       "title": "Polygon Spirals",
-      "description": "I had a concept in mind about polygons repeating within each other infinitely. I call these spiral polygons. This is a made-up name; I don’t know if these shapes are actually called this. I took some time and implemented the idea below. The implementation is also explained afterward. Number of sides: Interpolation factor: The idea is to create a new vertex along each edge of the polygon at a fixed"
+      "description": "I had a concept in mind about polygons repeating within each other infinitely. I call these spiral polygons. This is a made-up name; I don’t know if these shapes are actually called this. I took some time and implemented the idea below. The implementation is also explained afterward. Number of sides: Interpolation factor: The idea is to create a new vertex along each edge of the polygon at a fixed",
+      "date": null
     },
     {
       "link": "https://geekembly.com/posts/turtle/",
       "title": "Turtle Robot",
-      "description": "Animation made by rotating and scaling polygons, inspired by Turtle ! Number of sides: Scale Multiplier:"
+      "description": "Animation made by rotating and scaling polygons, inspired by Turtle ! Number of sides: Scale Multiplier:",
+      "date": null
     },
     {
       "link": "https://geekembly.com/posts/webgl-01/",
       "title": "WebGL hello world",
-      "description": "This might look like a simple triangle, but it’s a special one. It’s rendered in WEBGL!"
+      "description": "This might look like a simple triangle, but it’s a special one. It’s rendered in WEBGL!",
+      "date": null
     }
   ]
 }

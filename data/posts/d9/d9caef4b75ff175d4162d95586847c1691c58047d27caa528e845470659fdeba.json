@@ -4,17 +4,20 @@
     {
       "link": "https://blog.sulami.xyz/posts/llm-commit-attribution/",
       "title": "About LLM Commit Attribution",
-      "description": "Most software places require at least one person other than the author complete a code review prior to shipping code changes to production, the idea being two pairs of eyes have a higher chance to catch issues than one. There’s also an undercurrent of not allowing any single actor to alter production code for security reasons, especially once you get into certifications like PCI-DSS or SOC 2. It i"
+      "description": "Most software places require at least one person other than the author complete a code review prior to shipping code changes to production, the idea being two pairs of eyes have a higher chance to catch issues than one. There’s also an undercurrent of not allowing any single actor to alter production code for security reasons, especially once you get into certifications like PCI-DSS or SOC 2. It i",
+      "date": null
     },
     {
       "link": "https://blog.sulami.xyz/posts/double-buffering-for-event-consumers/",
       "title": "Double Buffering for Event Consumers",
-      "description": "Imagine a logging system where we have many threads producing log events, and we have a single thread that consumes those log events and outputs them somewhere. A simple implementation for this would use a Mutex<VecDeQueue> , or perhaps a ring buffer if you are feeling fancy, so that producers can append events at one end and the consumer can pop them off the other, preserving the order. In many c"
+      "description": "Imagine a logging system where we have many threads producing log events, and we have a single thread that consumes those log events and outputs them somewhere. A simple implementation for this would use a Mutex<VecDeQueue> , or perhaps a ring buffer if you are feeling fancy, so that producers can append events at one end and the consumer can pop them off the other, preserving the order. In many c",
+      "date": null
     },
     {
       "link": "https://blog.sulami.xyz/posts/jujutsu/",
       "title": "jj is the better Git CLI",
-      "description": "I first tried Jujutsu earlier this year, but could not get it to stick. One of the main pain points was the lack of accurate documentation. Since then, the documentation has got a lot better, and I have adopted Jujutsu for most of my daily work, and I think it is the best Git interface currently available. This might come as a surprise, as Jujutsu is generally a distinct VCS from Git. The key here"
+      "description": "I first tried Jujutsu earlier this year, but could not get it to stick. One of the main pain points was the lack of accurate documentation. Since then, the documentation has got a lot better, and I have adopted Jujutsu for most of my daily work, and I think it is the best Git interface currently available. This might come as a surprise, as Jujutsu is generally a distinct VCS from Git. The key here",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.karvalho.com.br/implementing-mouse-look-in-godot-4/",
       "title": "Implementing Mouse Look in Godot 4",
-      "description": "Once we have mouse movement, we can turn it into camera rotation. Our controller uses two separate rotations: rotate_y ( - event . relative . x * mouse_sensitivity ) camera . rotate_x ( - event . relative . y * mouse_sensitivity ) The first line rotates the player around the Y axis. rotate_y ( ... ) This controls looking left and right. The second line rotates the camera around its X axis: camera"
+      "description": "Once we have mouse movement, we can turn it into camera rotation. Our controller uses two separate rotations: rotate_y ( - event . relative . x * mouse_sensitivity ) camera . rotate_x ( - event . relative . y * mouse_sensitivity ) The first line rotates the player around the Y axis. rotate_y ( ... ) This controls looking left and right. The second line rotates the camera around its X axis: camera",
+      "date": null
     },
     {
       "link": "https://www.karvalho.com.br/capturing-the-mouse-for-a-first-person-controller/",
       "title": "Capturing the Mouse for a First-Person Controller",
-      "description": "A first-person game needs a slightly different approach to mouse input than a typical desktop application. Normally, the mouse cursor moves around the screen. In a first-person game, however, we don't really care about the cursor's position. We care about how much the mouse moved . Godot provides a convenient way to handle this: func _ready () -> void : Input . set_mouse_mode ( Input . MOUSE_MODE_"
+      "description": "A first-person game needs a slightly different approach to mouse input than a typical desktop application. Normally, the mouse cursor moves around the screen. In a first-person game, however, we don't really care about the cursor's position. We care about how much the mouse moved . Godot provides a convenient way to handle this: func _ready () -> void : Input . set_mouse_mode ( Input . MOUSE_MODE_",
+      "date": null
     },
     {
       "link": "https://www.karvalho.com.br/first-person-player-in-godot-4/",
       "title": "First-Person Player in Godot 4",
-      "description": "A first-person controller is one of those systems that looks complicated at first, but the core idea is surprisingly simple. In Godot, our player can inherit from CharacterBody3D : class_name Player extends CharacterBody3D CharacterBody3D is designed for characters that need to move through a 3D environment while interacting with the physics system. By giving the class a name with class_name Playe"
+      "description": "A first-person controller is one of those systems that looks complicated at first, but the core idea is surprisingly simple. In Godot, our player can inherit from CharacterBody3D : class_name Player extends CharacterBody3D CharacterBody3D is designed for characters that need to move through a 3D environment while interacting with the physics system. By giving the class a name with class_name Playe",
+      "date": null
     }
   ]
 }

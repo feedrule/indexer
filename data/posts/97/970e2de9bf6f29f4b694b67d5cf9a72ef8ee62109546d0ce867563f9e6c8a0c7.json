@@ -4,17 +4,20 @@
     {
       "link": "https://brimtech.co/notes/the-agent-that-doesnt-need-a-rewrite/",
       "title": "The Agent that doesn't need a rewrite",
-      "description": "The agent that survives its first year in production is usually a thin layer over the system you already have. Your ten-year-old codebase is not the obstacle. It is the asset."
+      "description": "The agent that survives its first year in production is usually a thin layer over the system you already have. Your ten-year-old codebase is not the obstacle. It is the asset.",
+      "date": null
     },
     {
       "link": "https://brimtech.co/notes/evals-are-the-tests-you-should-have-written-first/",
       "title": "Evals Are the Tests You Should Have Written First",
-      "description": "Renaming tests to evals did not create a new discipline. It created permission to skip an old one - the obligation to define what correct means before shipping."
+      "description": "Renaming tests to evals did not create a new discipline. It created permission to skip an old one - the obligation to define what correct means before shipping.",
+      "date": null
     },
     {
       "link": "https://brimtech.co/notes/why-agents-get-canceled/",
       "title": "Why Agents Get Canceled",
-      "description": "An agent is a production system that happens to be probabilistic, and it has to be operated like one - the surviving minority are not the teams with a better model, they are the ones operating better."
+      "description": "An agent is a production system that happens to be probabilistic, and it has to be operated like one - the surviving minority are not the teams with a better model, they are the ones operating better.",
+      "date": null
     }
   ]
 }

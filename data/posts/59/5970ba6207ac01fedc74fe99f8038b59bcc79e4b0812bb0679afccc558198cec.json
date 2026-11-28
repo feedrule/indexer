@@ -4,17 +4,20 @@
     {
       "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "title": "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
-      "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game. The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wo"
+      "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game. The avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wo",
+      "date": null
     },
     {
       "link": "https://momo5502.com/posts/2025-10-03-reverse-engineering-denuvo-in-hogwarts-legacy/",
       "title": "Reverse Engineering Denuvo in Hogwarts Legacy",
-      "description": "Talk at Navaja Negra 2025 This technical presentation explores the inner workings of Denuvo Anti-Tamper, one of the gaming industry’s most widely deployed DRM solutions. Through detailed reverse engineering analysis, we’ll examine Denuvo’s protection mechanisms, obfuscation techniques, and architectural design choices. The talk covers the methodology used to analyze the system, key findings about"
+      "description": "Talk at Navaja Negra 2025 This technical presentation explores the inner workings of Denuvo Anti-Tamper, one of the gaming industry’s most widely deployed DRM solutions. Through detailed reverse engineering analysis, we’ll examine Denuvo’s protection mechanisms, obfuscation techniques, and architectural design choices. The talk covers the methodology used to analyze the system, key findings about",
+      "date": null
     },
     {
       "link": "https://momo5502.com/posts/2024-10-04-the-art-of-windows-user-space-emulation/",
       "title": "Fake It ‘til We Make It: The Art of Windows User Space Emulation",
-      "description": "Talk at Navaja Negra 2024 Modern software systems are becoming increasingly complex, making thorough analysis a daunting task. Add advanced DRM and obfuscation technologies into the mix, and the challenge grows exponentially. In this presentation, we’ll explore the development of a Windows user-space emulation framework designed to tackle these complexities head-on. We’ll discuss how emulation can"
+      "description": "Talk at Navaja Negra 2024 Modern software systems are becoming increasingly complex, making thorough analysis a daunting task. Add advanced DRM and obfuscation technologies into the mix, and the challenge grows exponentially. In this presentation, we’ll explore the development of a Windows user-space emulation framework designed to tackle these complexities head-on. We’ll discuss how emulation can",
+      "date": null
     }
   ]
 }

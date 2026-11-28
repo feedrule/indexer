@@ -4,17 +4,20 @@
     {
       "link": "https://8a03e7a6.c-b-io.pages.dev/cases/ransoming-your-cloud-infra-pt1/",
       "title": "Cloudy With A Chance Of Compromise: How A Skid Ransoms Your Buckets",
-      "description": "Preface If you spend any amount of time in infosec circles, you’ll notice that the vast majority of offensive research is still centered around endpoint malware, Active Directory abuse, EDR evasion and auth-provider shenanigans. That makes sense though! That’s where the industry mostly grew up. The tooling ecosystem around AD alone is absurd; BloodHound, Mimikatz, Rubeus, Impacket, CrackMapExec, t"
+      "description": "Preface If you spend any amount of time in infosec circles, you’ll notice that the vast majority of offensive research is still centered around endpoint malware, Active Directory abuse, EDR evasion and auth-provider shenanigans. That makes sense though! That’s where the industry mostly grew up. The tooling ecosystem around AD alone is absurd; BloodHound, Mimikatz, Rubeus, Impacket, CrackMapExec, t",
+      "date": null
     },
     {
       "link": "https://8a03e7a6.c-b-io.pages.dev/cases/s3-squatting/",
       "title": "does-not-exist-bucket exists now and it's mine",
-      "description": "As someone who’s got the great misfortune of working very closely with Cloud providers (namely AWS, Azure & GCP, the unholy trinity) I’m well aware that there’s a bunch of stuff that’s vulnerable out there for various reasons. AWS, as a whole, is an unfathomably complex ecosystem. They offer an absolutely insane amount of flexibility and ways to quite literally shoot yourself in the foot. It often"
+      "description": "As someone who’s got the great misfortune of working very closely with Cloud providers (namely AWS, Azure & GCP, the unholy trinity) I’m well aware that there’s a bunch of stuff that’s vulnerable out there for various reasons. AWS, as a whole, is an unfathomably complex ecosystem. They offer an absolutely insane amount of flexibility and ways to quite literally shoot yourself in the foot. It often",
+      "date": null
     },
     {
       "link": "https://8a03e7a6.c-b-io.pages.dev/cases/getting-saasy-with-siems/",
       "title": "Getting SaaSy with SIEMs — Introduction",
-      "description": "Welcome! It's so good to finally have a SOC analyst, we've got so much work to do! I know this will be a lot for you as a junior since it's all we could afford but I'm sure you can figure it out. Anyways, you're probably wondering where our logs are eh? Well for compliance reasons we've essentially been dumping everything into an ELK stack (whatever that is) but have never actually made sense of a"
+      "description": "Welcome! It's so good to finally have a SOC analyst, we've got so much work to do! I know this will be a lot for you as a junior since it's all we could afford but I'm sure you can figure it out. Anyways, you're probably wondering where our logs are eh? Well for compliance reasons we've essentially been dumping everything into an ELK stack (whatever that is) but have never actually made sense of a",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://mveg.es/posts/fizzbuzz-in-fortran-1/",
       "title": "FizzBuzz in FORTRAN 1",
-      "description": "Fortran is the first high-level programming language. Its latest iteration, Fortran 2023 is a modern language by today’s standards. However, its very first version, released in 1956, is rather simple, containing only a small set of commands. To get a feel for what it was like, I'll walk through a FizzBuzz implementation in this post. Let's start with the code: c FizzBuzz program in FORTRAN 1 1 FOR"
+      "description": "Fortran is the first high-level programming language. Its latest iteration, Fortran 2023 is a modern language by today’s standards. However, its very first version, released in 1956, is rather simple, containing only a small set of commands. To get a feel for what it was like, I'll walk through a FizzBuzz implementation in this post. Let's start with the code: c FizzBuzz program in FORTRAN 1 1 FOR",
+      "date": null
     },
     {
       "link": "https://mveg.es/posts/optimizing-pytorch-docker-images-cut-size-by-60percent/",
       "title": "Optimizing PyTorch Docker images: how to cut size by 60%",
-      "description": "When training neural networks on a cluster, using Docker containers is one of the easiest ways to package up all the dependencies. However, PyTorch and CUDA are both large libraries, which can make your Docker images quite hefty. For example, we might have the following dockerfile: FROM nvidia/cuda : 11.8.0 - cudnn8 - runtime - ubuntu22.04 RUN apt - get update && apt - get install - - no - install"
+      "description": "When training neural networks on a cluster, using Docker containers is one of the easiest ways to package up all the dependencies. However, PyTorch and CUDA are both large libraries, which can make your Docker images quite hefty. For example, we might have the following dockerfile: FROM nvidia/cuda : 11.8.0 - cudnn8 - runtime - ubuntu22.04 RUN apt - get update && apt - get install - - no - install",
+      "date": null
     },
     {
       "link": "https://mveg.es/posts/eigenvalues-as-the-magnitude-of-the-matrix/",
       "title": "Eigenvalues as the magnitude of the matrix",
-      "description": "Eigenvalues are a notoriously hard topic to understand. Their definition can be unintuitive, making it difficult to understand their usefulness. Recently, I've started explaining eigenvalues as the magnitude of a matrix, that generalizes the notion of \"big\" and \"small\" numbers. Magnitude of real numbers Take an arbitrary real number $x$. What is $x^n$ if $n$ is large? If $x=0$ or $1$ the answer is"
+      "description": "Eigenvalues are a notoriously hard topic to understand. Their definition can be unintuitive, making it difficult to understand their usefulness. Recently, I've started explaining eigenvalues as the magnitude of a matrix, that generalizes the notion of \"big\" and \"small\" numbers. Magnitude of real numbers Take an arbitrary real number $x$. What is $x^n$ if $n$ is large? If $x=0$ or $1$ the answer is",
+      "date": null
     }
   ]
 }

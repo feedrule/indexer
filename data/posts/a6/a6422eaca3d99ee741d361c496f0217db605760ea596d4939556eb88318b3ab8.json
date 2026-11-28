@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Beyond naive RAG: Make it contextual and Hybrid",
-      "description": "In the past I’ve written about simple RAG strategies. However, this does not always work. Let’s break down how naive RAG works."
+      "description": "In the past I’ve written about simple RAG strategies. However, this does not always work. Let’s break down how naive RAG works.",
+      "date": null
     },
     {
       "link": null,
       "title": "Token economics in AI",
-      "description": "As Agentic AI applications transition from experimental prototypes to production scale, finance and engineering teams are colliding over a new reality: the cost of autonomous operations. This has given rise to the concept of Tokenomics—the microeconomics of autonomous AI execution. Unlike traditional Generative AI applications where a user inputs a single prompt and receives a single response, aut"
+      "description": "As Agentic AI applications transition from experimental prototypes to production scale, finance and engineering teams are colliding over a new reality: the cost of autonomous operations. This has given rise to the concept of Tokenomics—the microeconomics of autonomous AI execution. Unlike traditional Generative AI applications where a user inputs a single prompt and receives a single response, aut",
+      "date": null
     },
     {
       "link": null,
       "title": "From breaking systems to behavioral gradients in AI",
-      "description": "In an earlier article in 2024 I wrote about red teaming AI systems through an adversarial lens- how inputs can be crafted to expose weaknesses, and how thinking like an attacker reveals hidden failure modes. That framing still holds, though it needs to be extended now with advent of more powerful reasoning models and agentic systems. These systems don’t result necessarily in binary outcomes - safe"
+      "description": "In an earlier article in 2024 I wrote about red teaming AI systems through an adversarial lens- how inputs can be crafted to expose weaknesses, and how thinking like an attacker reveals hidden failure modes. That framing still holds, though it needs to be extended now with advent of more powerful reasoning models and agentic systems. These systems don’t result necessarily in binary outcomes - safe",
+      "date": null
     }
   ]
 }

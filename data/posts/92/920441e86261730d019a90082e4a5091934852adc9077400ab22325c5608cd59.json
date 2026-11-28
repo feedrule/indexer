@@ -4,17 +4,20 @@
     {
       "link": "https://dfir.ru/2026/09/09/two-conference-talks-slides/",
       "title": "Two conference talks (slides)",
-      "description": "Vulnerabilities in Full-Disk Encryption Systems (PDF) Plaintext disclosure (re)discovered in BestCrypt Volume Encryption (NotCVE-2026-0004, not fixed). Multiple BitLocker bypasses (CVE-2024-43513 dubbed “bitlockpick”, CVE-2025-21202 dubbed “bitlockpick 2”, CVE-2026-20928 dubbed “cold boot attack without cold and boot”, CVE-2025-21210 dubbed “CrashXTS”, CVE-2025-21214 – a bug from the 90’s). CVE-20"
+      "description": "Vulnerabilities in Full-Disk Encryption Systems (PDF) Plaintext disclosure (re)discovered in BestCrypt Volume Encryption (NotCVE-2026-0004, not fixed). Multiple BitLocker bypasses (CVE-2024-43513 dubbed “bitlockpick”, CVE-2025-21202 dubbed “bitlockpick 2”, CVE-2026-20928 dubbed “cold boot attack without cold and boot”, CVE-2025-21210 dubbed “CrashXTS”, CVE-2025-21214 – a bug from the 90’s). CVE-20",
+      "date": null
     },
     {
       "link": "https://dfir.ru/2026/06/29/mark-of-the-web-the-rules-changed-the-tools-didnt/",
       "title": "Mark-of-the-Web: the rules changed, the tools didn’t",
-      "description": "There are many CVE IDs assigned for various issues resulting in missing or improper Mark-of-the-Web (MOTW) propagation when extracting files from archives (#1, #2, #3, #4, #5, #6, and so on). Some of these issues are disputed using the same template (inserted by MITRE): Mark-of-the-Web propagation can increase risk via security-warning habituation – in other … Continue reading Mark-of-the-Web: the"
+      "description": "There are many CVE IDs assigned for various issues resulting in missing or improper Mark-of-the-Web (MOTW) propagation when extracting files from archives (#1, #2, #3, #4, #5, #6, and so on). Some of these issues are disputed using the same template (inserted by MITRE): Mark-of-the-Web propagation can increase risk via security-warning habituation – in other … Continue reading Mark-of-the-Web: the",
+      "date": null
     },
     {
       "link": "https://dfir.ru/2026/01/26/windows-event-logs-were-cleared-but-resurrected-in-another-file/",
       "title": "Windows event logs were cleared, but resurrected in another file!",
-      "description": "TL;DR: The Windows Event Logging Service contains a bug (use of uninitialized memory) that sometimes results in recently deleted (cleared) log entries being stored in other (unrelated) *.evtx journal files. This happens once a rarely-updated *.evtx journal file is cleared: it’s newly allocated and empty (i.e., containing zero log entries) ElfChnk area is filled with … Continue reading Windows even"
+      "description": "TL;DR: The Windows Event Logging Service contains a bug (use of uninitialized memory) that sometimes results in recently deleted (cleared) log entries being stored in other (unrelated) *.evtx journal files. This happens once a rarely-updated *.evtx journal file is cleared: it’s newly allocated and empty (i.e., containing zero log entries) ElfChnk area is filled with … Continue reading Windows even",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "http://dshieble.github.io/2026-03-22-ensemble-llm/",
       "title": "Agents That Disagree - Adversarial Multi-Agent Architecture for AI-Driven Detection and Investigation",
-      "description": "From One Agent to Many The math behind multi-agent ensembles is simpler than you think – and it tells you exactly when adding agents helps. You’ve built an AI agent that investigates anomalies. A detection rule fires – unusual login location, impossible travel, a service account calling an API it’s..."
+      "description": "From One Agent to Many The math behind multi-agent ensembles is simpler than you think – and it tells you exactly when adding agents helps. You’ve built an AI agent that investigates anomalies. A detection rule fires – unusual login location, impossible travel, a service account calling an API it’s...",
+      "date": null
     },
     {
       "link": "http://dshieble.github.io/2025-09-30-bayesian-detection/",
       "title": "Bayesian Attack Detection for Smarter SOCs",
-      "description": "No generative AI here - just good old-fashioned statistics. This post introduces Bayesian networks: visual models that connect the clues you see to the threats you care about. Instead of drowning in isolated alerts, a Bayesian network lets your SOC update its belief about an attack as new evidence arrives...."
+      "description": "No generative AI here - just good old-fashioned statistics. This post introduces Bayesian networks: visual models that connect the clues you see to the threats you care about. Instead of drowning in isolated alerts, a Bayesian network lets your SOC update its belief about an attack as new evidence arrives....",
+      "date": null
     },
     {
       "link": "http://dshieble.github.io/2025-07-21-efficacy-engineering/",
       "title": "Efficacy Engineering",
-      "description": "Every system has properties that define its usefulness. We talk about efficiency when we care about speed and resource usage. We talk about stability when we care about consistency under load. We talk about usability when we care about how easy it is for a human to interact with the..."
+      "description": "Every system has properties that define its usefulness. We talk about efficiency when we care about speed and resource usage. We talk about stability when we care about consistency under load. We talk about usability when we care about how easy it is for a human to interact with the...",
+      "date": null
     }
   ]
 }

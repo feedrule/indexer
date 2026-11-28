@@ -4,17 +4,20 @@
     {
       "link": "https://viviersoft.com/blog/go-binary-reads-its-own-name/",
       "title": "My Go binary decides what it is by reading its own name",
-      "description": "stamusctl ships one source tree as two programs, a CLI and a daemon, and the process picks its role by looking at os.Args[0]. Why I keep building things that way, what breaks under go run, go test and hot reload, and what I would change."
+      "description": "stamusctl ships one source tree as two programs, a CLI and a daemon, and the process picks its role by looking at os.Args[0]. Why I keep building things that way, what breaks under go run, go test and hot reload, and what I would change.",
+      "date": null
     },
     {
       "link": "https://viviersoft.com/blog/ddd-go-2-four-ways-to-pay-an-order/",
       "title": "Four ways to pay an order in Go",
-      "description": "The same feature written four times, each rewrite moving the business rules further from the database, until they are two pure functions you can test with no infrastructure at all. What each step buys, and what it costs."
+      "description": "The same feature written four times, each rewrite moving the business rules further from the database, until they are two pure functions you can test with no infrastructure at all. What each step buys, and what it costs.",
+      "date": null
     },
     {
       "link": "https://viviersoft.com/blog/ddd-go-1-sum-types/",
       "title": "Sum types in Go, or how to model events the compiler can check",
-      "description": "Go has no sum types, and event sourcing really wants them. The sealed interface pattern, why type switches lie to you about exhaustiveness, and how to get the missing compiler checks back with a linter or a visitor."
+      "description": "Go has no sum types, and event sourcing really wants them. The sealed interface pattern, why type switches lie to you about exhaustiveness, and how to get the missing compiler checks back with a linter or a visitor.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+      "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "date": null
     },
     {
       "link": "https://openai.com/index/inside-the-codex-sandbox",
       "title": "Inside the Codex sandbox",
-      "description": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+      "description": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "date": null
     },
     {
       "link": "https://openai.com/index/scaling-git-at-openai",
       "title": "Scaling Git at OpenAI",
-      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "date": null
     }
   ]
 }

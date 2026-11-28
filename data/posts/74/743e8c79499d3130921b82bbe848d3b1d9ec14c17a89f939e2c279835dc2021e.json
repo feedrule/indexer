@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Learn Kubernetes Part 1: Development with kind Using Docker Registry",
-      "description": "Learn Kubernetes Part 1: Development with kind Using Docker Registry This blog walks through deploying and scaling a small NGINX-based application in Kubernetes using kind. It covers Pod replication, Services, load balancing, Ingress routing, autoscaling, and a few debugging scenarios including how to identify which Pod actually served a given request. Kind is a tool for running local Kubernetes c"
+      "description": "Learn Kubernetes Part 1: Development with kind Using Docker Registry This blog walks through deploying and scaling a small NGINX-based application in Kubernetes using kind. It covers Pod replication, Services, load balancing, Ingress routing, autoscaling, and a few debugging scenarios including how to identify which Pod actually served a given request. Kind is a tool for running local Kubernetes c",
+      "date": null
     },
     {
       "link": null,
       "title": "Peer-to-Peer Networking: Build a VPN Tunnel with Wintun on Windows - Part 2",
-      "description": "This is a continuation of my previous post . The goal of this part is to understand in a simple way how Tailscale works behind the scenes on Windows using a L3 adapter called Wintun . How Tailscale Peer-to-Peer Works Majority of Tailscale’s code is open source, including DERP server which acts as a relay for peers when direct connection fails. Since Tailscale’s codebase is pretty large, I won’t go"
+      "description": "This is a continuation of my previous post . The goal of this part is to understand in a simple way how Tailscale works behind the scenes on Windows using a L3 adapter called Wintun . How Tailscale Peer-to-Peer Works Majority of Tailscale’s code is open source, including DERP server which acts as a relay for peers when direct connection fails. Since Tailscale’s codebase is pretty large, I won’t go",
+      "date": null
     },
     {
       "link": null,
       "title": "Building DNS-Based Service Discovery in Go Using SRV Records (Inspired by Kubernetes)",
-      "description": "Understanding Kubernetes DNS and SRV-Based Service Discovery I have been reading about Kubernetes DNS and going through its official specification available on GitHub Kubernetes DNS specification After studying the documentation, I understood how Kubernetes performs internal service discovery using DNS. This led me to an interesting idea. Can I build my own client-server application where the clie"
+      "description": "Understanding Kubernetes DNS and SRV-Based Service Discovery I have been reading about Kubernetes DNS and going through its official specification available on GitHub Kubernetes DNS specification After studying the documentation, I understood how Kubernetes performs internal service discovery using DNS. This led me to an interesting idea. Can I build my own client-server application where the clie",
+      "date": null
     }
   ]
 }

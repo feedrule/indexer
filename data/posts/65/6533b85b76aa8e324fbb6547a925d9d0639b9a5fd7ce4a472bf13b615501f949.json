@@ -4,17 +4,20 @@
     {
       "link": "https://webmonch.dev/blog/fixing-ipod-nano-3g-sound-quality",
       "title": "Fixing iPod nano 3G sound quality issues",
-      "description": "After purchasing a used iPod Nano 3G - a glorious little player I used to have in high school - I notied it sounded absolutely *horrible*. First thought - I got scammed. But it was much more interesting than that."
+      "description": "After purchasing a used iPod Nano 3G - a glorious little player I used to have in high school - I notied it sounded absolutely *horrible*. First thought - I got scammed. But it was much more interesting than that.",
+      "date": null
     },
     {
       "link": "https://webmonch.dev/blog/building-prompt-to-video-remotion-template",
       "title": "My journey to top 14 contributors to Remotion",
-      "description": "What started as fixing some Python types turned into shipping an entire AI video template. Here's how a few PRs snowballed into becoming a top contributor to a 34k-star project."
+      "description": "What started as fixing some Python types turned into shipping an entire AI video template. Here's how a few PRs snowballed into becoming a top contributor to a 34k-star project.",
+      "date": null
     },
     {
       "link": "https://webmonch.dev/blog/how-to-set-up-dev-staging-pages-in-next-js",
       "title": "How to set up dev/staging-only pages in NextJS",
-      "description": "This simple NextJS config will allow you to create pages that are visible only in non-production environments on Vercel."
+      "description": "This simple NextJS config will allow you to create pages that are visible only in non-production environments on Vercel.",
+      "date": null
     }
   ]
 }

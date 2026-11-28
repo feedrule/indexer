@@ -4,17 +4,20 @@
     {
       "link": "https://fredchan.org/blog/small-model-for-big-articulators/",
       "title": "A Small Model for Big Articulators: Sign Language Detection With a Tiny Machine Learning Model",
-      "description": "I'm putting up this page for LREC attendees to download the paper I'm presenting at sign-lang@LREC 2026."
+      "description": "I'm putting up this page for LREC attendees to download the paper I'm presenting at sign-lang@LREC 2026.",
+      "date": null
     },
     {
       "link": "https://fredchan.org/blog/locality-domains-guide/",
       "title": "Setting up a free *.city.state.us locality domain",
-      "description": "In the US, you can get a domain name like `somename.city.state.us` for free. If your town has its own domain, you can get nameservers from Amazon Lightsail, send the *Interim .US Domain Template* to the delegated manager for your locality, then point DNS entries at your webhost."
+      "description": "In the US, you can get a domain name like `somename.city.state.us` for free. If your town has its own domain, you can get nameservers from Amazon Lightsail, send the *Interim .US Domain Template* to the delegated manager for your locality, then point DNS entries at your webhost.",
+      "date": null
     },
     {
       "link": "https://fredchan.org/blog/direct-inverse-alignment/",
       "title": "Linguistics explainer: direct-inverse morphosyntactic alignment",
-      "description": "Direct-inverse alignment is where transitive verb's agent and object NPs are not marked, and instead which NP is the agent is determined by where they fall on a hierarchy. This article explains what that means and how that works."
+      "description": "Direct-inverse alignment is where transitive verb's agent and object NPs are not marked, and instead which NP is the agent is determined by where they fall on a hierarchy. This article explains what that means and how that works.",
+      "date": null
     }
   ]
 }

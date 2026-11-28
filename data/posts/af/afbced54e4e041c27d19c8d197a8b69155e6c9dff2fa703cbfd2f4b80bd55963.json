@@ -4,17 +4,20 @@
     {
       "link": "https://christopherwolfram.com/essays/mental-states-of-language-models/",
       "title": "The Problem with Mental States of Language Models",
-      "description": "Asking whether language models have human mental states is the wrong question."
+      "description": "Asking whether language models have human mental states is the wrong question.",
+      "date": null
     },
     {
       "link": "https://christopherwolfram.com/essays/llm-heuristics/",
       "title": "Interesting LLM behaviors are exactly those for which there is no \"robust algorithm\"",
-      "description": "LLMs are useful and interesting precisely because they can perform tasks for which robust algorithms are elusive."
+      "description": "LLMs are useful and interesting precisely because they can perform tasks for which robust algorithms are elusive.",
+      "date": null
     },
     {
       "link": "https://christopherwolfram.com/projects/llm-consistency/",
       "title": "World Models and Consistent Mistakes in LLMs",
-      "description": "LLMs make consistent mistakes when given prompts that are rephrased or in another language. However, when given a substantially different prompt that relies on the same information, LLMs often give inconsistent answers."
+      "description": "LLMs make consistent mistakes when given prompts that are rephrased or in another language. However, when given a substantially different prompt that relies on the same information, LLMs often give inconsistent answers.",
+      "date": null
     }
   ]
 }

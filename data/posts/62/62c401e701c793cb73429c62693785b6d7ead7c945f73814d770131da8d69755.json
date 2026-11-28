@@ -4,17 +4,20 @@
     {
       "link": "https://sunweavers.net/blog/node/162",
       "title": "Debian Edu 13 - Call for Testing",
-      "description": "The upcoming Debian 13.8 point release will be the foundation of the first release of Debian Edu 13. This is a call for testing, we are interested in your feedback. How To Prepare Download the Debian Edu 13.7.0 BD ISO Image (beware, ~17GiB) [1] Tweak the BD ISO image [2] and add support for packages in trixie-proposed-updates [3] How To Test Use virt-manager Prepare an internal 'edu' network and a"
+      "description": "The upcoming Debian 13.8 point release will be the foundation of the first release of Debian Edu 13. This is a call for testing, we are interested in your feedback. How To Prepare Download the Debian Edu 13.7.0 BD ISO Image (beware, ~17GiB) [1] Tweak the BD ISO image [2] and add support for packages in trixie-proposed-updates [3] How To Test Use virt-manager Prepare an internal 'edu' network and a",
+      "date": null
     },
     {
       "link": "https://sunweavers.net/blog/node/161",
       "title": "OpenAGPS - The New Kid on the Block",
-      "description": "There is a new project coming to Open Source Software land these days: OpenAGPS . It is not yet 100% functional, but we are working on it. It is not fully operational, yet, but we are on it. Let me introduce OpenAGPS to you... The Situation Today The domain of assisted geo location services has been left to a few big tech providers. When using GPS on mobile devices, most of us send info on our app"
+      "description": "There is a new project coming to Open Source Software land these days: OpenAGPS . It is not yet 100% functional, but we are working on it. It is not fully operational, yet, but we are on it. Let me introduce OpenAGPS to you... The Situation Today The domain of assisted geo location services has been left to a few big tech providers. When using GPS on mobile devices, most of us send info on our app",
+      "date": null
     },
     {
       "link": "https://sunweavers.net/blog/node/160",
       "title": "Looking for Golang + Fullstack Developer with interest in Civic Tech",
-      "description": "Who? Fre(i)e Software GmbH is looking for a senior Golang + fullstack developer who can handwrite code and act as meticulous code review partner for another senior developer in the company. What? Most of your work would result in Open Source contributions to the Voxit project [1], an online civic tech tool for digital participation. How and Where? The work can either be delivered on project agreem"
+      "description": "Who? Fre(i)e Software GmbH is looking for a senior Golang + fullstack developer who can handwrite code and act as meticulous code review partner for another senior developer in the company. What? Most of your work would result in Open Source contributions to the Voxit project [1], an online civic tech tool for digital participation. How and Where? The work can either be delivered on project agreem",
+      "date": null
     }
   ]
 }

@@ -4,12 +4,14 @@
     {
       "link": "https://mwalterskirchen.dev/blog/piloting-agentic-engineering",
       "title": "Piloting Agentic Engineering - What Software Engineers Can Learn From The Aviation Industry",
-      "description": "AI coding agents are amazing, but lean on them too hard and your engineering skills atrophy. Aviation already lived through this. Here's what we can steal from how they fixed it."
+      "description": "AI coding agents are amazing, but lean on them too hard and your engineering skills atrophy. Aviation already lived through this. Here's what we can steal from how they fixed it.",
+      "date": null
     },
     {
       "link": "https://mwalterskirchen.dev/blog/racing-promises-and-aborting-fetch-requests-in-javascript",
       "title": "Racing Promises and Aborting Fetch Requests in JavaScript",
-      "description": "Learn how to use Promise.race and AbortController to handle slow fetch requests and improve user experience in JavaScript."
+      "description": "Learn how to use Promise.race and AbortController to handle slow fetch requests and improve user experience in JavaScript.",
+      "date": null
     }
   ]
 }

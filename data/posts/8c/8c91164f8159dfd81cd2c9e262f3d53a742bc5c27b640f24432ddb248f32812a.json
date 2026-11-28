@@ -4,17 +4,20 @@
     {
       "link": "https://andycroll.com/uses/hardware/#insta360-link-2-pro",
       "title": "New in Hardware: Insta360 Link 2 Pro",
-      "description": "The answer to which webcam works really well with a Mac. No terrible, required software to install, so it doesn’t ruin the predictability of your video sources on macOS. Recommended by Jamie Lawrence ."
+      "description": "The answer to which webcam works really well with a Mac. No terrible, required software to install, so it doesn’t ruin the predictability of your video sources on macOS. Recommended by Jamie Lawrence .",
+      "date": null
     },
     {
       "link": "https://andycroll.com/other/homebridge-and-pi-hole-on-a-raspberry-pi-4/",
       "title": "Homebridge and Pi-hole on a Raspberry Pi 4",
-      "description": "I had a Raspberry Pi 4B I thought might be dead. It wasn’t. I’m having a bunch of building work done and of course, the thermostats do not work with Apple HomeKit. So the Pi now runs Homebridge , which puts our underfloor heating thermostats (and also now Samsung TVs ) in Apple Home. For good measure it also runs Pi-hole , which blocks ads and trackers for every device in the house. Gear required"
+      "description": "I had a Raspberry Pi 4B I thought might be dead. It wasn’t. I’m having a bunch of building work done and of course, the thermostats do not work with Apple HomeKit. So the Pi now runs Homebridge , which puts our underfloor heating thermostats (and also now Samsung TVs ) in Apple Home. For good measure it also runs Pi-hole , which blocks ads and trackers for every device in the house. Gear required",
+      "date": null
     },
     {
       "link": "https://andycroll.com/ruby/escape-like-wildcards-with-sanitize-sql-like/",
       "title": "Escape LIKE Wildcards with sanitize_sql_like",
-      "description": "When you add a search box backed by a LIKE or ILIKE query, user input can change the pattern. A search for 100% returns every row containing 100 . A bare % returns the whole table. Active Record’s sanitize_sql_like fixes this. Instead of… …dropping the user’s term straight into the pattern: class Article < ApplicationRecord scope :containing_text , -> ( query ) { where ( \"articles.title ILIKE :q\""
+      "description": "When you add a search box backed by a LIKE or ILIKE query, user input can change the pattern. A search for 100% returns every row containing 100 . A bare % returns the whole table. Active Record’s sanitize_sql_like fixes this. Instead of… …dropping the user’s term straight into the pattern: class Article < ApplicationRecord scope :containing_text , -> ( query ) { where ( \"articles.title ILIKE :q\"",
+      "date": null
     }
   ]
 }

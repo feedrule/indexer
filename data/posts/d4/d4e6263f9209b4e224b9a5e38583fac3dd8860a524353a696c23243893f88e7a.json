@@ -4,17 +4,20 @@
     {
       "link": "https://distantprovince.by/posts/what-do-we-do-with-logging-in-libraries/",
       "title": "What do we do with logging in libraries?",
-      "description": "What do we do with logging in libraries? Logging has been a major headache for library authors for a long time. Library code is dropped into highly opinionated application environments, and whatever choices you make as a maintainer, you simply cannot satisfy everybody. You use info logs? More like debug. Debug logs? Very noisy. No logs at all? Ugh, zero observability. There is simply no universall"
+      "description": "What do we do with logging in libraries? Logging has been a major headache for library authors for a long time. Library code is dropped into highly opinionated application environments, and whatever choices you make as a maintainer, you simply cannot satisfy everybody. You use info logs? More like debug. Debug logs? Very noisy. No logs at all? Ugh, zero observability. There is simply no universall",
+      "date": null
     },
     {
       "link": "https://distantprovince.by/posts/teaching-llms-new-ui-tricks/",
       "title": "Teaching LLMs new UI tricks",
-      "description": "Teaching LLMs new UI tricks Chat interfaces are by far the most popular way of interacting with LLMs today. And they're fairly simple to build: all you need is a page with a single input to accept user messages and a place to render the LLM's response. Once this is done, the next bit of complexity you usually want to introduce is streaming responses and rendering Markdown. And then you basically h"
+      "description": "Teaching LLMs new UI tricks Chat interfaces are by far the most popular way of interacting with LLMs today. And they're fairly simple to build: all you need is a page with a single input to accept user messages and a place to render the LLM's response. Once this is done, the next bit of complexity you usually want to introduce is streaming responses and rendering Markdown. And then you basically h",
+      "date": null
     },
     {
       "link": "https://distantprovince.by/posts/concurrent-reads-serialized-writes-with-genserver-and-registry/",
       "title": "Concurrent Reads, Serialized Writes with GenServer and Registry",
-      "description": "Concurrent Reads, Serialized Writes with GenServer and Registry Of all the OTP abstractions, GenServer is the most iconic one. As a result, it is usually the first thing newcomers learn to use, and they inevitably run into some common pitfalls. Let's talk about one of them. GenServers are commonly used whenever there is a need for a stateful process that will store some data and make it available"
+      "description": "Concurrent Reads, Serialized Writes with GenServer and Registry Of all the OTP abstractions, GenServer is the most iconic one. As a result, it is usually the first thing newcomers learn to use, and they inevitably run into some common pitfalls. Let's talk about one of them. GenServers are commonly used whenever there is a need for a stateful process that will store some data and make it available",
+      "date": null
     }
   ]
 }

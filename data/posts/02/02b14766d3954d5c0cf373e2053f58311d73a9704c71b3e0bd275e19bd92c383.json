@@ -4,17 +4,20 @@
     {
       "link": "https://bknyaz.github.io//blog/2026/meta-merge/",
       "title": "MetaMerge: Model Merging with Meta Networks",
-      "description": "Merging ViTs and LLMs using a pretrained (graph) neural net."
+      "description": "Merging ViTs and LLMs using a pretrained (graph) neural net.",
+      "date": null
     },
     {
       "link": "https://bknyaz.github.io//blog/2026/moe/",
       "title": "REAM: Compressing Mixture-of-Experts LLMs",
-      "description": "Merging experts in Mixture-of-Experts (MoE) LLMs to compress a 235B LLM."
+      "description": "Merging experts in Mixture-of-Experts (MoE) LLMs to compress a 235B LLM.",
+      "date": null
     },
     {
       "link": "https://bknyaz.github.io//blog/2025/nino/",
       "title": "NiNo: Learning to Accelerate Training of Neural Networks",
-      "description": "Explaining our ICLR 2025 paper and visualizing neuron permutation symmetry."
+      "description": "Explaining our ICLR 2025 paper and visualizing neuron permutation symmetry.",
+      "date": null
     }
   ]
 }

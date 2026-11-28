@@ -4,17 +4,20 @@
     {
       "link": "https://www.jeffquast.com/post/a-perfect-simcity/",
       "title": "A Perfect SimCity",
-      "description": "After 35 years of playing SimCity, I still could not say what makes a \"Perfect\" city. An evaluation screen displays a Score of 0 to 1000, and I struggled to reach 900 and never understood its factors. Discovering these factors by play is the fun of a simulation game, and this one has the advantage that the source code is also available. Don Hopkins has been maintaining FOSS ports of SimCity (1989)"
+      "description": "After 35 years of playing SimCity, I still could not say what makes a \"Perfect\" city. An evaluation screen displays a Score of 0 to 1000, and I struggled to reach 900 and never understood its factors. Discovering these factors by play is the fun of a simulation game, and this one has the advantage that the source code is also available. Don Hopkins has been maintaining FOSS ports of SimCity (1989)",
+      "date": null
     },
     {
       "link": "https://www.jeffquast.com/post/perfecting-terminal-character-width-using-correction-tables/",
       "title": "Perfecting Terminal Character Width Using Correction Tables",
-      "description": "Measuring terminal Unicode width has always been a difficult problem. Per-terminal correction tables make near-perfect accuracy possible. In past years, I have published a specification of Python wcwidth, and Kovid Goyal has published \"The algorithm for splitting text into cells\" as part of the Kitty Text Sizing protocol. Terminal emulator authors have agreed to disagree on many broad interpretati"
+      "description": "Measuring terminal Unicode width has always been a difficult problem. Per-terminal correction tables make near-perfect accuracy possible. In past years, I have published a specification of Python wcwidth, and Kovid Goyal has published \"The algorithm for splitting text into cells\" as part of the Kitty Text Sizing protocol. Terminal emulator authors have agreed to disagree on many broad interpretati",
+      "date": null
     },
     {
       "link": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
       "title": "State of Terminal Emulators in 2025: The Errant Champions",
-      "description": "This is a follow-up to my previous article, Terminal Emulators Battle Royale – Unicode Edition! from 2023, in which I documented Unicode support across terminal emulators. Since then, the ucs-detect tool and its supporting blessed library have been extended to automatically detect support of DEC Private Modes, sixel graphics, pixel size, and software version. The ucs-detect program tests terminal"
+      "description": "This is a follow-up to my previous article, Terminal Emulators Battle Royale – Unicode Edition! from 2023, in which I documented Unicode support across terminal emulators. Since then, the ucs-detect tool and its supporting blessed library have been extended to automatically detect support of DEC Private Modes, sixel graphics, pixel size, and software version. The ucs-detect program tests terminal",
+      "date": null
     }
   ]
 }

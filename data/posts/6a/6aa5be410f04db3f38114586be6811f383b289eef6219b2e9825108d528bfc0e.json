@@ -4,17 +4,20 @@
     {
       "link": "https://blog.bullgare.com/2026/03/telegram-proxy-mtproto/",
       "title": "Telegram proxy (mtproto)",
-      "description": "Using https://github.com/telemt/telemt. You would need a docker installed on your VPS. We want to start a proxy on :3443. mkdir telemt cd telemt vi ./docker-compose.yml docker-compose.yml services: telemt: image: whn0thacked/telemt-docker:latest container_name: telemt restart: unless-stopped environment: - RUST_LOG=info volumes: - ./telemt.toml:/etc/telemt.toml:ro ports: - \"3443:3443/tcp\" - \"9191:"
+      "description": "Using https://github.com/telemt/telemt. You would need a docker installed on your VPS. We want to start a proxy on :3443. mkdir telemt cd telemt vi ./docker-compose.yml docker-compose.yml services: telemt: image: whn0thacked/telemt-docker:latest container_name: telemt restart: unless-stopped environment: - RUST_LOG=info volumes: - ./telemt.toml:/etc/telemt.toml:ro ports: - \"3443:3443/tcp\" - \"9191:",
+      "date": null
     },
     {
       "link": "https://blog.bullgare.com/2025/07/golang-banchmarks-with-benchstat/",
       "title": "golang banchmarks with benchstat",
-      "description": "Here I will show how to run a benchmark in go1.24 and compare 2 implementations. Imagine we have 2 files with 2 implementations we want to compare. bu_hash_test.go (old implementation) package main import ( \"hash/fnv\" \"testing\" ) func BenchmarkUserHash(b *testing.B) { str := \"user_id=72001002582\" for b.Loop() { h := fnv.New64a() _, _ = h.Write([]byte(str)) _ ... Read more"
+      "description": "Here I will show how to run a benchmark in go1.24 and compare 2 implementations. Imagine we have 2 files with 2 implementations we want to compare. bu_hash_test.go (old implementation) package main import ( \"hash/fnv\" \"testing\" ) func BenchmarkUserHash(b *testing.B) { str := \"user_id=72001002582\" for b.Loop() { h := fnv.New64a() _, _ = h.Write([]byte(str)) _ ... Read more",
+      "date": null
     },
     {
       "link": "https://blog.bullgare.com/2025/05/cheapest-vps-hostings-could-be-suitable-for-vpn/",
       "title": "Cheapest VPS hostings (could be suitable for VPN)",
-      "description": "https://lowendbox.com/blog/1-vps-1-usd-vps-per-month/"
+      "description": "https://lowendbox.com/blog/1-vps-1-usd-vps-per-month/",
+      "date": null
     }
   ]
 }

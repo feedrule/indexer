@@ -4,17 +4,20 @@
     {
       "link": "https://paper.wf/binarycat/23-years-to-ruin-one-line-of-the-http-specification",
       "title": "23 years to ruin one line of the HTTP specification",
-      "description": "Let's compare an excerpt from RFC 2616 section 13.3.3 to the equivalent one in RFC 9110 section 8.8.2 . RFC 2616, from 1999, has the following to say: The validator is being compared by an intermediate cache to the validator stored in its cache entry for the entity, and That cache entry includes a Date value, which gives the time when the origin server sent the original response, and The presented"
+      "description": "Let's compare an excerpt from RFC 2616 section 13.3.3 to the equivalent one in RFC 9110 section 8.8.2 . RFC 2616, from 1999, has the following to say: The validator is being compared by an intermediate cache to the validator stored in its cache entry for the entity, and That cache entry includes a Date value, which gives the time when the origin server sent the original response, and The presented",
+      "date": null
     },
     {
       "link": "https://paper.wf/binarycat/git-how-to-fetch-a-remote-branch",
       "title": "git: How to fetch a remote branch",
-      "description": "Yet Another Guide because existing ones don't work with shallow clones. To fetch a specific remote branch and associate it with a local branch, use git fetch REMOTE_NAME REMOTE_BRANCH:LOCAL_BRANCH . This should work with all repos, including shallow repos. # git # tutorial You can follow this blog via its RSS feed or by searching for @ binarycat@paper.wf on your Mastodon/ActivityPub instance."
+      "description": "Yet Another Guide because existing ones don't work with shallow clones. To fetch a specific remote branch and associate it with a local branch, use git fetch REMOTE_NAME REMOTE_BRANCH:LOCAL_BRANCH . This should work with all repos, including shallow repos. # git # tutorial You can follow this blog via its RSS feed or by searching for @ binarycat@paper.wf on your Mastodon/ActivityPub instance.",
+      "date": null
     },
     {
       "link": "https://paper.wf/binarycat/safe-delayed-initialization-for-lifetime-extension",
       "title": "Safe Delayed Initialization for Lifetime Extension",
-      "description": "A niche programming pattern to satisfy the borrow checker. Many Rust programmers don't know the exact semantics of let : A variable in let must be assigned at least once in each control-flow path it is used in (exactly once if it is not declared mut ). This means we don't have to initialize variables if we don't use them: fn main() { let _x: u8; // never assigned a value } On its own, this isn't v"
+      "description": "A niche programming pattern to satisfy the borrow checker. Many Rust programmers don't know the exact semantics of let : A variable in let must be assigned at least once in each control-flow path it is used in (exactly once if it is not declared mut ). This means we don't have to initialize variables if we don't use them: fn main() { let _x: u8; // never assigned a value } On its own, this isn't v",
+      "date": null
     }
   ]
 }

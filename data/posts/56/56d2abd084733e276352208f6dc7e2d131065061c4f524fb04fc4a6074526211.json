@@ -4,17 +4,20 @@
     {
       "link": "https://wendelladriel.com/blog/go-for-php-developers-your-first-program-and-a-different-workflow",
       "title": "Go for PHP Developers: Your First Program and a Different Workflow",
-      "description": "Start learning Go through familiar PHP concepts. Write and test your first program, understand packages and modules, and compare running source code with building an executable."
+      "description": "Start learning Go through familiar PHP concepts. Write and test your first program, understand packages and modules, and compare running source code with building an executable.",
+      "date": null
     },
     {
       "link": "https://wendelladriel.com/blog/building-a-link-checker-in-go-without-overwhelming-the-network",
       "title": "Building a Link Checker in Go Without Overwhelming the Network",
-      "description": "Build a runnable Go link checker with a shared HTTP client, bounded workers, paced requests, cancellation, and local tests. Learn to distinguish broken links from failures that need another look."
+      "description": "Build a runnable Go link checker with a shared HTTP client, bounded workers, paced requests, cancellation, and local tests. Learn to distinguish broken links from failures that need another look.",
+      "date": null
     },
     {
       "link": "https://wendelladriel.com/blog/when-retries-make-things-worse-protecting-your-system-from-overload",
       "title": "When Retries Make Things Worse: Protecting Your System From Overload",
-      "description": "How a slow dependency becomes an outage, and how deadlines, concurrency limits, retry budgets, and jitter protect useful work. A practical deep dive with PHP examples and a controlled overload test design."
+      "description": "How a slow dependency becomes an outage, and how deadlines, concurrency limits, retry budgets, and jitter protect useful work. A practical deep dive with PHP examples and a controlled overload test design.",
+      "date": null
     }
   ]
 }

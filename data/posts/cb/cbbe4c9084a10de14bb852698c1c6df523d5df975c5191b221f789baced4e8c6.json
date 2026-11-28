@@ -4,17 +4,20 @@
     {
       "link": "https://julienvincent.io/posts/on-learning-and-llms",
       "title": "On Learning And LLMs",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://julienvincent.io/projects/internet-enabling-intercom/",
       "title": "Internet-Enabling My Apartment Intercom",
-      "description": "Connecting my apartment intercom to the internet with a home-made MITM device"
+      "description": "Connecting my apartment intercom to the internet with a home-made MITM device",
+      "date": null
     },
     {
       "link": "https://julienvincent.io/posts/extending-clojure-test-with-functions",
       "title": "Extending clojure.test with functions, not multimethods",
-      "description": null
+      "description": null,
+      "date": null
     }
   ]
 }

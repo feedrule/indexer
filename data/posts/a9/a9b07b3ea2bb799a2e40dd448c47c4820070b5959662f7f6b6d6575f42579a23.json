@@ -4,17 +4,20 @@
     {
       "link": "https://ananthakumaran.in/2026/08/30/pimacs.html",
       "title": "Pimacs - An Emacs UI for Pi",
-      "description": "When GitHub Copilot first came out, I got free access; I used it for some time, and eventually I gave up. It was nice when the suggestion worked, but it was too tiring and distracting to continuously review the multi-line suggestions, and I figured it wasn’t worth the added mental effort. Fast-forward a few years. We are now at a stage where most LLMs are good at following directions and making ch"
+      "description": "When GitHub Copilot first came out, I got free access; I used it for some time, and eventually I gave up. It was nice when the suggestion worked, but it was too tiring and distracting to continuously review the multi-line suggestions, and I figured it wasn’t worth the added mental effort. Fast-forward a few years. We are now at a stage where most LLMs are good at following directions and making ch",
+      "date": null
     },
     {
       "link": "https://ananthakumaran.in/2026/06/10/uses-this.html",
       "title": "Uses This",
-      "description": "I used to read articles on usesthis.com when I was fresh out of college, and some of them influenced the choices I made. I thought it was about time to write down what I use. Who knows, maybe it might help someone. Hardware I usually get a MacBook from my employer. At home, I have built my own desktop computer. I have a dual 4K monitor setup and a Microsoft Sculpt keyboard. I am very particular ab"
+      "description": "I used to read articles on usesthis.com when I was fresh out of college, and some of them influenced the choices I made. I thought it was about time to write down what I use. Who knows, maybe it might help someone. Hardware I usually get a MacBook from my employer. At home, I have built my own desktop computer. I have a dual 4K monitor setup and a Microsoft Sculpt keyboard. I am very particular ab",
+      "date": null
     },
     {
       "link": "https://ananthakumaran.in/2026/06/02/clickhouse-table-per-tenant-in-production.html",
       "title": "Clickhouse table per tenant in production",
-      "description": "At work, we made a decision to go with a table per tenant approach and we have been running that setup for a couple of years now. I thought this would be the right time to share what we have learned and what works well. Why? The first question is why do you want to create a table per tenant? In our case, we allow users to define their own event attributes with their own types. There are 2 main way"
+      "description": "At work, we made a decision to go with a table per tenant approach and we have been running that setup for a couple of years now. I thought this would be the right time to share what we have learned and what works well. Why? The first question is why do you want to create a table per tenant? In our case, we allow users to define their own event attributes with their own types. There are 2 main way",
+      "date": null
     }
   ]
 }

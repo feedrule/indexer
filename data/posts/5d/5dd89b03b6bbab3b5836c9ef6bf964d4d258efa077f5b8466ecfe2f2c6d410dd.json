@@ -4,17 +4,20 @@
     {
       "link": "https://zietlow.io/posts/2026/go-json-unmarshaling/",
       "title": "Go JSON Unmarshaling",
-      "description": "TL;DR When working with an API that returned json with inconsistent types, json.Unmarshal would fail because it was mapped to a matching Go type via tags in the struct. The solution was to create a new type to support any permutation of data the API might return, and have that type implement Unmarshaler or UnmarshalerFrom interfaces to add the logic to decode this correctly. Problem When working w"
+      "description": "TL;DR When working with an API that returned json with inconsistent types, json.Unmarshal would fail because it was mapped to a matching Go type via tags in the struct. The solution was to create a new type to support any permutation of data the API might return, and have that type implement Unmarshaler or UnmarshalerFrom interfaces to add the logic to decode this correctly. Problem When working w",
+      "date": null
     },
     {
       "link": "https://zietlow.io/books/time-of-contempt/",
       "title": "Time of Contempt",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://zietlow.io/books/blood-of-elves/",
       "title": "Blood of Elves",
-      "description": null
+      "description": null,
+      "date": null
     }
   ]
 }

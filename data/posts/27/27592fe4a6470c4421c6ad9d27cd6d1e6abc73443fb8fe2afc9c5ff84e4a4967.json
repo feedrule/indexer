@@ -4,7 +4,8 @@
     {
       "link": "https://ipotrick.github.io/site/blogs/practical-efficient-rendergraphs/",
       "title": "Practical, efficient render graphs",
-      "description": "Render graphs automatically optimize the whole frame. They can generate synchronization, find a better pass order and alias transient memory, better than you would by hand. This post builds a render graph from the bottom up. It starts with the actual problems, synchronization with barriers and memory use, and then improves the render graph step by step. The design is the one I use in Timberdoodle"
+      "description": "Render graphs automatically optimize the whole frame. They can generate synchronization, find a better pass order and alias transient memory, better than you would by hand. This post builds a render graph from the bottom up. It starts with the actual problems, synchronization with barriers and memory use, and then improves the render graph step by step. The design is the one I use in Timberdoodle",
+      "date": null
     }
   ]
 }

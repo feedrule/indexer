@@ -4,17 +4,20 @@
     {
       "link": "https://agentproto.sh/blog/get-your-agent-to-react-when-a-pr-merges",
       "title": "Get your agent to react when a PR merges, not wait for you",
-      "description": "Your agent only moves when you type. How to let a merged pull request, or any event, tell it instead, and seven ways it stays silent."
+      "description": "Your agent only moves when you type. How to let a merged pull request, or any event, tell it instead, and seven ways it stays silent.",
+      "date": null
     },
     {
       "link": "https://agentproto.sh/blog/your-tests-are-green-three-ways-the-code-is-still-wrong",
       "title": "Your tests are green. Here are three ways the code is still wrong",
-      "description": "Agents write my code and an AI reviewer reads every push. In 13 days it blocked 32 of 315 changes, most of them bugs green tests could not see."
+      "description": "Agents write my code and an AI reviewer reads every push. In 13 days it blocked 32 of 315 changes, most of them bugs green tests could not see.",
+      "date": null
     },
     {
       "link": "https://agentproto.sh/blog/why-your-agent-subscription-runs-out",
       "title": "Why your agent subscription runs out so fast",
-      "description": "Your coding agent re-reads the whole conversation at every step. Where your allowance really goes, and four rules to pay less."
+      "description": "Your coding agent re-reads the whole conversation at every step. Where your allowance really goes, and four rules to pay less.",
+      "date": null
     }
   ]
 }

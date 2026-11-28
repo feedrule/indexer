@@ -4,17 +4,20 @@
     {
       "link": "https://e-mats.org/2026/03/only-applying-wtforms-validations-if-another-field-has-a-specific-value/",
       "title": "Only applying WTForms validations if another field has a specific value",
-      "description": "When you have a WTForms field that have a radio button that can change between different field types, you might want to only apply certain validators if the field has a specific value (for example to swap between types of users, types of cars, etc.). This is a custom validator that stops validation if a … Continue reading Only applying WTForms validations if another field has a specific value"
+      "description": "When you have a WTForms field that have a radio button that can change between different field types, you might want to only apply certain validators if the field has a specific value (for example to swap between types of users, types of cars, etc.). This is a custom validator that stops validation if a … Continue reading Only applying WTForms validations if another field has a specific value",
+      "date": null
     },
     {
       "link": "https://e-mats.org/2026/02/checking-out-a-private-submodule-in-a-github-action-pipeline-with-a-limited-deploy-key/",
       "title": "Checking out a private submodule in a GitHub Action pipeline with a limited deploy key",
-      "description": "I prefer to have any authentication identifiers be as narrow as possible when they’re defined in a pipeline or similar, and this proved to be a challenge when it comes to private git submodules inside a GitHub Action pipeline. A common way to solve this is by defining a personal access token (a PAT), but … Continue reading Checking out a private submodule in a GitHub Action pipeline with a limited"
+      "description": "I prefer to have any authentication identifiers be as narrow as possible when they’re defined in a pipeline or similar, and this proved to be a challenge when it comes to private git submodules inside a GitHub Action pipeline. A common way to solve this is by defining a personal access token (a PAT), but … Continue reading Checking out a private submodule in a GitHub Action pipeline with a limited",
+      "date": null
     },
     {
       "link": "https://e-mats.org/2025/11/django-initial-or-submitted-values-in-manual-form-rendering/",
       "title": "django: initial or submitted values in manual Form rendering",
-      "description": "After defining a form with initial values, we want the values to be shown to the user – but we don’t want to use Django’s built-in form rendering (.. for various reasons) – when using django templates. So if no data has been submitted, we want to get the initial value defined for the form … Continue reading django: initial or submitted values in manual Form rendering"
+      "description": "After defining a form with initial values, we want the values to be shown to the user – but we don’t want to use Django’s built-in form rendering (.. for various reasons) – when using django templates. So if no data has been submitted, we want to get the initial value defined for the form … Continue reading django: initial or submitted values in manual Form rendering",
+      "date": null
     }
   ]
 }

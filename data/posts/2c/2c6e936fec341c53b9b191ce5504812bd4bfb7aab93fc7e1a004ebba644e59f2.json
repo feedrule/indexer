@@ -4,17 +4,20 @@
     {
       "link": "https://irfanali.org/blog/opencont",
       "title": "Open and Continuous Maps in Topology",
-      "description": "Open and Continuous Maps in Topology I think it would be fair to say that many students in the starting lessons of general topology get a bit puzzled by the definition of continuous functions when they first encounter it: Any function $f : X \\rightarrow Y $ is continuous if the pre-image $f^{-1}(A)$ of every open set $A$ in $Y$ is open in $X$. Doesn't it feel like the definition is backward? Shoul"
+      "description": "Open and Continuous Maps in Topology I think it would be fair to say that many students in the starting lessons of general topology get a bit puzzled by the definition of continuous functions when they first encounter it: Any function $f : X \\rightarrow Y $ is continuous if the pre-image $f^{-1}(A)$ of every open set $A$ in $Y$ is open in $X$. Doesn't it feel like the definition is backward? Shoul",
+      "date": null
     },
     {
       "link": "https://irfanali.org/blog/repmin",
       "title": "Poor Man's Time Machine",
-      "description": "Poor Man's Time Machine Here is a simpler version of the famous repmin puzzle from Richard Bird's arsenal of functional tricks: Given a non-empty array of numbers a , you have to find the smallest number m and replace every element of a with m in a single traversal . Naive Non-Solution It is straightforward to build a naive non-solution which calculates the minimum value of a in one pass and then"
+      "description": "Poor Man's Time Machine Here is a simpler version of the famous repmin puzzle from Richard Bird's arsenal of functional tricks: Given a non-empty array of numbers a , you have to find the smallest number m and replace every element of a with m in a single traversal . Naive Non-Solution It is straightforward to build a naive non-solution which calculates the minimum value of a in one pass and then",
+      "date": null
     },
     {
       "link": "https://irfanali.org/blog/zcom",
       "title": "A Gentler Introduction to Y and Z Combinators",
-      "description": "A Gentler Introduction to Y and Z Combinators Let's try to solve a simple enough puzzle in JavaScript: You have to write a function fact(n) which calculates the factorial of a number n , but you cannot use loops ( for , while , etc.), recursion, or even declarations ( let , const , etc.). Non-Solution: Direct Recursion We start with a canonical recursive non-solution to know what we're aiming for,"
+      "description": "A Gentler Introduction to Y and Z Combinators Let's try to solve a simple enough puzzle in JavaScript: You have to write a function fact(n) which calculates the factorial of a number n , but you cannot use loops ( for , while , etc.), recursion, or even declarations ( let , const , etc.). Non-Solution: Direct Recursion We start with a canonical recursive non-solution to know what we're aiming for,",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://av.codes/blog/personal-trace-intelligence/",
       "title": "Your diffs are your weights",
-      "description": "What you ask an agent first is mostly noise. Your judgment lives in what you reject, rewrite, and revert, and someone is already training on that record."
+      "description": "What you ask an agent first is mostly noise. Your judgment lives in what you reject, rewrite, and revert, and someone is already training on that record.",
+      "date": null
     },
     {
       "link": "https://av.codes/blog/agentic-setup/",
       "title": "Four years of coding with AI",
-      "description": "In 2022 every line of code I shipped went through my own hands. By 2026 most of it is written by agents on machines I rarely touch. One diagram, one change at a time."
+      "description": "In 2022 every line of code I shipped went through my own hands. By 2026 most of it is written by agents on machines I rarely touch. One diagram, one change at a time.",
+      "date": null
     },
     {
       "link": "https://av.codes/blog/on-agent-swarms/",
       "title": "On agent swarms",
-      "description": "Human attention limits how many agents a team can run. Scaling further requires agents that supervise other agents and software they can operate themselves."
+      "description": "Human attention limits how many agents a team can run. Scaling further requires agents that supervise other agents and software they can operate themselves.",
+      "date": null
     }
   ]
 }

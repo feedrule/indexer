@@ -4,17 +4,20 @@
     {
       "link": "https://www.jamessturtevant.com/posts/Practical-ways-AI-can-help-you-today-with-minimal-setup/",
       "title": "Practical Ways AI Can Help You Today with Minimal Setup",
-      "description": "There is a lot of hype around AI right now, and I was a skeptic for a long time as many close friends know. In the past it required precise prompts that were long-winded, and even then you didn’t always get the result you wanted. During my early attempts I found that I could often just do the task manually faster than I could with AI. But I have been periodically trying new techniques and watching"
+      "description": "There is a lot of hype around AI right now, and I was a skeptic for a long time as many close friends know. In the past it required precise prompts that were long-winded, and even then you didn’t always get the result you wanted. During my early attempts I found that I could often just do the task manually faster than I could with AI. But I have been periodically trying new techniques and watching",
+      "date": null
     },
     {
       "link": "https://www.jamessturtevant.com/posts/attaching-a-debugger-to-windows-containerd-shim/",
       "title": "Attaching a debugger to a Windows Containerd shim",
-      "description": "Containerd provides a mechanism that allows runtime authors to integrate with containerd via the shim api . The general way this works is that containerd invokes a binary on the host then communicates via an IPC channel that works for a the operating system (namedpipes on windows). There is a lot of details in the readme but that is the gist. It can be tricky to debugging the runtime is that since"
+      "description": "Containerd provides a mechanism that allows runtime authors to integrate with containerd via the shim api . The general way this works is that containerd invokes a binary on the host then communicates via an IPC channel that works for a the operating system (namedpipes on windows). There is a lot of details in the readme but that is the gist. It can be tricky to debugging the runtime is that since",
+      "date": null
     },
     {
       "link": "https://www.jamessturtevant.com/posts/setting-up-rust-debugger-with-vscode/",
       "title": "Setting up the Rust debugger with VS Code on Windows and Linux",
-      "description": "When setting up the Debugger for Rust in VS Code you have two options depending on which operating system you are running on. The rust analyzer extension doesn’t support debugging out of the box you must install one of the following: C/C++ for Visual Studio Code - use with Windows CodeLLDB - use with Linux Once you have those installed, running tests and console applications are easy to get starte"
+      "description": "When setting up the Debugger for Rust in VS Code you have two options depending on which operating system you are running on. The rust analyzer extension doesn’t support debugging out of the box you must install one of the following: C/C++ for Visual Studio Code - use with Windows CodeLLDB - use with Linux Once you have those installed, running tests and console applications are easy to get starte",
+      "date": null
     }
   ]
 }

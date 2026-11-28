@@ -4,17 +4,20 @@
     {
       "link": "https://www.wisellama.rocks/posts/2026-08-09-emacs-packages/",
       "title": "Emacs Packages",
-      "description": "In my previous post , I wrote up how I use Emacs. I left out one important thing: how I install packages in Emacs. Packages are ways to install extra functionality similar to plugins or extensions in other editors. It’s rather simple to add a few config lines to enable downloading packages from Melpa . However, I prefer to install software from my local network in a way that would work air-gapped"
+      "description": "In my previous post , I wrote up how I use Emacs. I left out one important thing: how I install packages in Emacs. Packages are ways to install extra functionality similar to plugins or extensions in other editors. It’s rather simple to add a few config lines to enable downloading packages from Melpa . However, I prefer to install software from my local network in a way that would work air-gapped",
+      "date": null
     },
     {
       "link": "https://www.wisellama.rocks/posts/2026-08-08-emacs/",
       "title": "Emacs",
-      "description": "I use Emacs as my primary text editor. I used it to write these words for my website, and I use it at work as my primary IDE for writing code. I started using Emacs simply because my professor in college said “you guys should use Emacs” as he proceeded to pull up Vim =). But it stuck, and I like it. I also seem to use it in a way that most people don’t, so I thought I should write up how I use Ema"
+      "description": "I use Emacs as my primary text editor. I used it to write these words for my website, and I use it at work as my primary IDE for writing code. I started using Emacs simply because my professor in college said “you guys should use Emacs” as he proceeded to pull up Vim =). But it stuck, and I like it. I also seem to use it in a way that most people don’t, so I thought I should write up how I use Ema",
+      "date": null
     },
     {
       "link": "https://www.wisellama.rocks/posts/2025-09-23-updating-pkgsrc/",
       "title": "Updating pkgsrc",
-      "description": "I’ve previously written a bit about how I use pkgsrc . I’ve been using pkgsrc regularly for a few years now, so I wanted to write down some tips about updating pkgsrc. I use the quarterly release branches (currently pkgsrc-2025Q3 ), so every 3-months or so, I end up updating everything to the new quarterly version. I’m using the git mirror (or rather, my mirror of the git mirror ), so switching to"
+      "description": "I’ve previously written a bit about how I use pkgsrc . I’ve been using pkgsrc regularly for a few years now, so I wanted to write down some tips about updating pkgsrc. I use the quarterly release branches (currently pkgsrc-2025Q3 ), so every 3-months or so, I end up updating everything to the new quarterly version. I’m using the git mirror (or rather, my mirror of the git mirror ), so switching to",
+      "date": null
     }
   ]
 }

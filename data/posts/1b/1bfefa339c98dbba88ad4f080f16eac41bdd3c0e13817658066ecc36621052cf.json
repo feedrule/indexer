@@ -4,17 +4,20 @@
     {
       "link": "https://collinsmuriuki.xyz/how-the-odnelazm-ingest-pipeline-works/",
       "title": "How the odnelazm-ingest pipeline works",
-      "description": "A technical walkthrough of the data pipeline that powers Bunge Hub. Covers scraping, extraction, speaker linking, and AI enrichment."
+      "description": "A technical walkthrough of the data pipeline that powers Bunge Hub. Covers scraping, extraction, speaker linking, and AI enrichment.",
+      "date": null
     },
     {
       "link": "https://collinsmuriuki.xyz/from-bunge-bits-to-bunge-hub/",
       "title": "From Bunge Bits to Bunge Hub: building Kenya’s parliamentary data layer",
-      "description": "A year-long journey from an AI transcription pipeline that shut down due to cost, to a sustainable open-source platform for Kenya's parliamentary record built on the Hansard itself."
+      "description": "A year-long journey from an AI transcription pipeline that shut down due to cost, to a sustainable open-source platform for Kenya's parliamentary record built on the Hansard itself.",
+      "date": null
     },
     {
       "link": "https://collinsmuriuki.xyz/building-the-library-of-babel-in-go/",
       "title": "Building the Library of Babel in Go",
-      "description": "A deep dive into building a Go implementation of the Library of Babel, exploring deterministic randomness, base29 encoding, and what it taught me about Go's concurrency model."
+      "description": "A deep dive into building a Go implementation of the Library of Babel, exploring deterministic randomness, base29 encoding, and what it taught me about Go's concurrency model.",
+      "date": null
     }
   ]
 }

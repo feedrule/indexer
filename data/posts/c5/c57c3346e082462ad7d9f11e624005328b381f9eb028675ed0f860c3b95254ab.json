@@ -4,17 +4,20 @@
     {
       "link": "https://eiln.github.io/ai-chip.html",
       "title": "Agents for IC Physical Design",
-      "description": "This is E. Yoon's submission for the Chips and AI Hackathon . Introduction We demonstrate an LLM agent autonomously realizing the physical layout for complex analog, mixed-signal, and digital integrated circuits, starting from schematics to a DRC-clean GDS ready for tapeout."
+      "description": "This is E. Yoon's submission for the Chips and AI Hackathon . Introduction We demonstrate an LLM agent autonomously realizing the physical layout for complex analog, mixed-signal, and digital integrated circuits, starting from schematics to a DRC-clean GDS ready for tapeout.",
+      "date": null
     },
     {
       "link": "https://eiln.github.io/posts/ane-dma.html",
       "title": "Getting 50 GB/s Back Out of the ANE",
-      "description": "Introduction An RTL performance erratum in the Apple M3 Neural Engine throttles DRAM weight streaming throughput down to 17–19 GB/s from the nominal 45–60 GB/s, whenever the total weight size is an integer multiple of 1 MiB, which currently affects 7 of ANEMLL ’s 15 models. Avoiding the problematic path in the kernel DMA engine's speculative prefetch ring increased Llama 3.2 1B token throughput fr"
+      "description": "Introduction An RTL performance erratum in the Apple M3 Neural Engine throttles DRAM weight streaming throughput down to 17–19 GB/s from the nominal 45–60 GB/s, whenever the total weight size is an integer multiple of 1 MiB, which currently affects 7 of ANEMLL ’s 15 models. Avoiding the problematic path in the kernel DMA engine's speculative prefetch ring increased Llama 3.2 1B token throughput fr",
+      "date": null
     },
     {
       "link": "https://eiln.github.io/posts/ane.html",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "description": "I stopped working on the reverse-engineered Apple Neural Engine (ANE) driver three years ago, upon a sad mini realization that the ANE block is just not that useful, and I could be doing more useful things, and moved onto upstreaming other, more useful, blocks. The ANE's architecture was too opinionated to build a general-purpose accelerator platform around it, and a linux driver effectively openi"
+      "description": "I stopped working on the reverse-engineered Apple Neural Engine (ANE) driver three years ago, upon a sad mini realization that the ANE block is just not that useful, and I could be doing more useful things, and moved onto upstreaming other, more useful, blocks. The ANE's architecture was too opinionated to build a general-purpose accelerator platform around it, and a linux driver effectively openi",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://stefano-garzarella.github.io/posts/2026-02-11-vsock-netns/",
       "title": "AF_VSOCK: network namespace support is here",
-      "description": "A missing piece for AF_VSOCK in the Linux kernel has been network namespace support. We discussed it as a future challenge during the KVM Forum 2019 talk and it was mentioned in several conference discussions since then. I started working on namespace support back in 2019 , but never had the chance to complete it. Last year, Bobby Eshleman (Meta) restarted the effort and drove it through 16 revisi"
+      "description": "A missing piece for AF_VSOCK in the Linux kernel has been network namespace support. We discussed it as a future challenge during the KVM Forum 2019 talk and it was mentioned in several conference discussions since then. I started working on namespace support back in 2019 , but never had the chance to complete it. Last year, Bobby Eshleman (Meta) restarted the effort and drove it through 16 revisi",
+      "date": null
     },
     {
       "link": "https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/",
       "title": "vDPA: support for block devices in Linux and QEMU",
-      "description": "A vDPA device is a type of device that follows the virtio specification for its datapath but has a vendor-specific control path . vDPA devices can be both physically located on the hardware or emulated by software. A small vDPA parent driver in the host kernel is required only for the control path. The main advantage is the unified software stack for all vDPA devices: vhost interface (vhost-vdpa)"
+      "description": "A vDPA device is a type of device that follows the virtio specification for its datapath but has a vendor-specific control path . vDPA devices can be both physically located on the hardware or emulated by software. A small vDPA parent driver in the host kernel is required only for the control path. The main advantage is the unified software stack for all vDPA devices: vhost interface (vhost-vdpa)",
+      "date": null
     },
     {
       "link": "https://stefano-garzarella.github.io/posts/2021-01-22-socat-vsock/",
       "title": "SOCAT now supports AF_VSOCK",
-      "description": "SOCAT is a CLI utility which enables the concatenation of two sockets together. It establishes two bidirectional byte streams and transfers data between them. socat supports several address types (e.g. TCP, UDP, UNIX domain sockets, etc.) to construct the streams. The latest version 1.7.4 , released earlier this year [2021-01-04], supports also AF_VSOCK addresses: VSOCK-LISTEN : <port> Listen on p"
+      "description": "SOCAT is a CLI utility which enables the concatenation of two sockets together. It establishes two bidirectional byte streams and transfers data between them. socat supports several address types (e.g. TCP, UDP, UNIX domain sockets, etc.) to construct the streams. The latest version 1.7.4 , released earlier this year [2021-01-04], supports also AF_VSOCK addresses: VSOCK-LISTEN : <port> Listen on p",
+      "date": null
     }
   ]
 }

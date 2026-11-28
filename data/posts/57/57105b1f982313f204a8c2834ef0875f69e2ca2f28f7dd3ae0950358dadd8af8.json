@@ -4,17 +4,20 @@
     {
       "link": "https://blog.lvmbdv.dev/posts/the-smartest-man-on-the-cinder/",
       "title": "The smartest man on the cinder",
-      "description": "There’s a scene in Watchmen where the Comedian sets fire to a map of the United States and tells the room that none of it matters, the nukes are coming, we’ll all be dust. Then he points at Adrian Veidt, who has just told the room they can save the world, and says Ozymandias here will be the smartest man on the cinder. Best line in the film. It has almost nothing to do with nuclear war."
+      "description": "There’s a scene in Watchmen where the Comedian sets fire to a map of the United States and tells the room that none of it matters, the nukes are coming, we’ll all be dust. Then he points at Adrian Veidt, who has just told the room they can save the world, and says Ozymandias here will be the smartest man on the cinder. Best line in the film. It has almost nothing to do with nuclear war.",
+      "date": null
     },
     {
       "link": "https://blog.lvmbdv.dev/posts/sixty-days-of-dailyprog/",
       "title": "Sixty days of dailyprog",
-      "description": "dailyprog has published a puzzle every day since 19 June. Sixty days, sixty puzzles, no gaps. Eleven more are already written and sitting in the catalogue, with the safety net to catch any gaps. That’s long enough that the analytics say something. Not all of it is flattering. The numbers Visitors 1,589 Visits 2,522 Pageviews 8,357 Solve submissions 739 Passing 470 (63.6%) Puzzles shipped 60 Langua"
+      "description": "dailyprog has published a puzzle every day since 19 June. Sixty days, sixty puzzles, no gaps. Eleven more are already written and sitting in the catalogue, with the safety net to catch any gaps. That’s long enough that the analytics say something. Not all of it is flattering. The numbers Visitors 1,589 Visits 2,522 Pageviews 8,357 Solve submissions 739 Passing 470 (63.6%) Puzzles shipped 60 Langua",
+      "date": null
     },
     {
       "link": "https://blog.lvmbdv.dev/posts/open-sourcing-a-puzzle-site-without-leaking-the-puzzles/",
       "title": "Open-sourcing a puzzle site without leaking the puzzles",
-      "description": "I made dailyprog public. The code is on Codeberg now, under AGPL-3.0 . The license was the easy decision. The problem was everything the code needs to run. A puzzle site’s whole point is the puzzles, and the puzzle files carry the hidden tests, the ones you only get graded against after you submit. Publish the catalogue and you’ve published every answer, plus every puzzle I haven’t shipped yet. So"
+      "description": "I made dailyprog public. The code is on Codeberg now, under AGPL-3.0 . The license was the easy decision. The problem was everything the code needs to run. A puzzle site’s whole point is the puzzles, and the puzzle files carry the hidden tests, the ones you only get graded against after you submit. Publish the catalogue and you’ve published every answer, plus every puzzle I haven’t shipped yet. So",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://ziraph.com/blog/apple-fm-odd-runner.html",
       "title": "Apple fm: the odd runner",
-      "description": "Apple fm is the newest runner I added to ziraph, and the odd one out: it hides its token count, runs on the Neural Engine instead of the GPU, and quietly trades speed for power. Notes from wiring it in."
+      "description": "Apple fm is the newest runner I added to ziraph, and the odd one out: it hides its token count, runs on the Neural Engine instead of the GPU, and quietly trades speed for power. Notes from wiring it in.",
+      "date": null
     },
     {
       "link": "https://ziraph.com/blog/on-device-ai-margin-decision.html",
       "title": "On-device AI is a margin decision",
-      "description": "Where your inference runs is a margin, privacy, and battery decision, and every upside hinges on whether your model actually works on the user's hardware - the aspects an engineering leader should weigh before betting on on-device AI."
+      "description": "Where your inference runs is a margin, privacy, and battery decision, and every upside hinges on whether your model actually works on the user's hardware - the aspects an engineering leader should weigh before betting on on-device AI.",
+      "date": null
     },
     {
       "link": "https://ziraph.com/blog/apple-on-device-ai-wwdc-2026.html",
       "title": "Apple rebuilt its on-device AI stack at WWDC 2026",
-      "description": "No new chips at WWDC 2026 - but a structural rebuild of Apple's on-device AI: Core AI replaces Core ML, the matmul moved into the GPU, and the flagship cloud model runs on NVIDIA GPUs in Google Cloud."
+      "description": "No new chips at WWDC 2026 - but a structural rebuild of Apple's on-device AI: Core AI replaces Core ML, the matmul moved into the GPU, and the flagship cloud model runs on NVIDIA GPUs in Google Cloud.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://electrovir.com/post/2026-11-01-hide-slack-menu-bar-item",
       "title": "Hide the Slack Menu Bar Item on macOS",
-      "description": "How to remove Slack's new, useless menu bar item on macOS: Run this in your Terminal: defaults write com.tinyspeck.slackmacgap \"NSStatusItem Visible Item-0\" -bool false Restart Slack."
+      "description": "How to remove Slack's new, useless menu bar item on macOS: Run this in your Terminal: defaults write com.tinyspeck.slackmacgap \"NSStatusItem Visible Item-0\" -bool false Restart Slack.",
+      "date": null
     },
     {
       "link": "https://electrovir.com/post/2026-10-28-github-mentions-only-notifications",
       "title": "GitHub Notifications for Mentions and Replies Only",
-      "description": "How to get GitHub notifications only when someone mentions you or replies in one of your pull request threads, delivered to Slack instead of your email inbox. This is for anyone on a busy repo whose GitHub emails have become noise."
+      "description": "How to get GitHub notifications only when someone mentions you or replies in one of your pull request threads, delivered to Slack instead of your email inbox. This is for anyone on a busy repo whose GitHub emails have become noise.",
+      "date": null
     },
     {
       "link": "https://electrovir.com/post/2026-10-24-antha-multiplayer-server",
       "title": "How to Run Your Own Antha Multiplayer Server",
-      "description": "How to run a very simple p2p multiplayer signal server for the Antha game engine using @antha/multiplayer-server ."
+      "description": "How to run a very simple p2p multiplayer signal server for the Antha game engine using @antha/multiplayer-server .",
+      "date": null
     }
   ]
 }

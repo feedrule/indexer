@@ -4,17 +4,20 @@
     {
       "link": "https://ugvx.dev/article/evaluate-your-threat-model",
       "title": "Developers, It's a good time to evaluate your threat model",
-      "description": "AI-driven vulnerability discovery has changed the calculus of what constitutes an acceptable risk. Evaluate your threat model with practical suggestions for sandboxing, disposability, network segmentation, and reducing your attack surface as a developer."
+      "description": "AI-driven vulnerability discovery has changed the calculus of what constitutes an acceptable risk. Evaluate your threat model with practical suggestions for sandboxing, disposability, network segmentation, and reducing your attack surface as a developer.",
+      "date": null
     },
     {
       "link": "https://ugvx.dev/article/2026",
       "title": "Small Update for 2026",
-      "description": "A quick update for 2026. New projects in the works including blog improvements, a homelab write-up, and an upcoming FOSS AI tool focused on solving my real-world problems effectively."
+      "description": "A quick update for 2026. New projects in the works including blog improvements, a homelab write-up, and an upcoming FOSS AI tool focused on solving my real-world problems effectively.",
+      "date": null
     },
     {
       "link": "https://ugvx.dev/article/advent-2024",
       "title": "A Quick Blog Update and Advent of Code 2024 with a Twist",
-      "description": "Explore Ugvx's latest blog updates with a transition to Leptos for hybrid rendering (including SSR and CSR) and new Advent of Code 2024 features. Learn about the challenges, benefits, and motivations behind creating a dynamic web experience using Rust."
+      "description": "Explore Ugvx's latest blog updates with a transition to Leptos for hybrid rendering (including SSR and CSR) and new Advent of Code 2024 features. Learn about the challenges, benefits, and motivations behind creating a dynamic web experience using Rust.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.cs.unb.ca/~bremner//blog/posts/org-repro/",
       "title": "Reproducing Org mode configuration",
-      "description": "Context Recently I was trying to reproduce a bug with citeproc.el and org-mode in emacs. I thought I could use package-vc-install to install a set of upstream emacs packages at fixed versions, and thereby let citeproc upstream test in the same environment as I have. It turns out that getting emacs to load the non-builtin version of org via package-vc-install did not work because org-mode needs to"
+      "description": "Context Recently I was trying to reproduce a bug with citeproc.el and org-mode in emacs. I thought I could use package-vc-install to install a set of upstream emacs packages at fixed versions, and thereby let citeproc upstream test in the same environment as I have. It turns out that getting emacs to load the non-builtin version of org via package-vc-install did not work because org-mode needs to",
+      "date": null
     },
     {
       "link": "https://www.cs.unb.ca/~bremner//blog/posts/hibernate-pocket-13/",
       "title": "Hibernate on the pocket reform 13/n",
-      "description": "Context See hibernate-pocket , hibernate-pocket-2 , hibernate-pocket-3 , hibernate-pocket-4 , hibernate-pocket-5 , hibernate-pocket-6 , hibernate-pocket-7 , hibernate-pocket-8 , hibernate-pocket-9 hibernate-pocket-10 hibernate-pocket-11 hibernate-pocket-12 Some progress upstream Recently Sebastian Reichel at Collabora [1] has made a few related commits, apparently inspired in part by my kvetching"
+      "description": "Context See hibernate-pocket , hibernate-pocket-2 , hibernate-pocket-3 , hibernate-pocket-4 , hibernate-pocket-5 , hibernate-pocket-6 , hibernate-pocket-7 , hibernate-pocket-8 , hibernate-pocket-9 hibernate-pocket-10 hibernate-pocket-11 hibernate-pocket-12 Some progress upstream Recently Sebastian Reichel at Collabora [1] has made a few related commits, apparently inspired in part by my kvetching",
+      "date": null
     },
     {
       "link": "https://www.cs.unb.ca/~bremner//blog/posts/hibernate-pocket-12/",
       "title": "Hibernate on the pocket reform 12/n",
-      "description": "Context See hibernate-pocket , hibernate-pocket-2 , hibernate-pocket-3 , hibernate-pocket-4 , hibernate-pocket-5 , hibernate-pocket-6 , hibernate-pocket-7 , hibernate-pocket-8 , hibernate-pocket-9 hibernate-pocket-10 hibernate-pocket-11 Update to latest rockchip-devel For some reason I decided to try re-applying the PCI series. Good news: the pci series finally applies cleanly. $ git fetch collabo"
+      "description": "Context See hibernate-pocket , hibernate-pocket-2 , hibernate-pocket-3 , hibernate-pocket-4 , hibernate-pocket-5 , hibernate-pocket-6 , hibernate-pocket-7 , hibernate-pocket-8 , hibernate-pocket-9 hibernate-pocket-10 hibernate-pocket-11 Update to latest rockchip-devel For some reason I decided to try re-applying the PCI series. Good news: the pci series finally applies cleanly. $ git fetch collabo",
+      "date": null
     }
   ]
 }

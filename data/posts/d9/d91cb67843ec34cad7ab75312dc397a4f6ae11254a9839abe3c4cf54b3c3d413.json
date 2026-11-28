@@ -4,17 +4,20 @@
     {
       "link": "https://example.com/blog/fifth_blog/",
       "title": "Tiling",
-      "description": "Here in this blog we will go through tiling and how it can be used to optimize performance for GEMM"
+      "description": "Here in this blog we will go through tiling and how it can be used to optimize performance for GEMM",
+      "date": null
     },
     {
       "link": "https://example.com/blog/fourth_blog/",
       "title": "Basic Linear Algebra Subprograms (BLAS)",
-      "description": "Here in this blog we will go through what BLAS is and inside it what is GEMM and how we observe and measure low-level optimizations for performance for various subroutines"
+      "description": "Here in this blog we will go through what BLAS is and inside it what is GEMM and how we observe and measure low-level optimizations for performance for various subroutines",
+      "date": null
     },
     {
       "link": "https://example.com/blog/third_blog/",
       "title": "Handling Instruction Branching in Modern Processors",
-      "description": "Here we together go through what instruction branching is, how it is handled and how you never knew your processor was this locked in so that you can play mario cart"
+      "description": "Here we together go through what instruction branching is, how it is handled and how you never knew your processor was this locked in so that you can play mario cart",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://kyju.org/blog/tokioconf-2026/",
       "title": "The Edge of Safe Rust",
-      "description": "Talk slides are here! Errata : The talk slides and this blog post have had a lot of typos and minor code errors, more than I think I usually let slip through. I blame my complete lack of sleep! I'm fixing those as I find them to make sure they don't interfere with the points I'm trying to make. If you notice a discrepancy between the slides linked here and the slides in a video version (whenever t"
+      "description": "Talk slides are here! Errata : The talk slides and this blog post have had a lot of typos and minor code errors, more than I think I usually let slip through. I blame my complete lack of sleep! I'm fixing those as I find them to make sure they don't interfere with the points I'm trying to make. If you notice a discrepancy between the slides linked here and the slides in a video version (whenever t",
+      "date": null
     },
     {
       "link": "https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/",
       "title": "Piccolo - A Stackless Lua Interpreter",
-      "description": "piccolo is an interpreter for the Lua language written in pure, mostly safe Rust with an eye towards safe sandboxing and resiliency. It uses gc-arena for its garbage collection system, and in fact gc-arena was originally created as part of piccolo . You can try it out below in an the interactive REPL. I'm not much of a web developer, and this is a little homegrown web terminal thingy, so hopefully"
+      "description": "piccolo is an interpreter for the Lua language written in pure, mostly safe Rust with an eye towards safe sandboxing and resiliency. It uses gc-arena for its garbage collection system, and in fact gc-arena was originally created as part of piccolo . You can try it out below in an the interactive REPL. I'm not much of a web developer, and this is a little homegrown web terminal thingy, so hopefully",
+      "date": null
     },
     {
       "link": "https://kyju.org/blog/rust-safe-garbage-collection/",
       "title": "Techniques for Safe Garbage Collection in Rust",
-      "description": "This will be the first in a series of posts describing different design decisions made writing two Rust crates: gc-arena - A system for safely fitting Rust with incremental garbage collection, used by Ruffle . piccolo - A stackless Lua runtime written in safe Rust with a focus on safe sandboxing. The goal of this series of posts is not really to sell anyone on these crates, or even the ideas that"
+      "description": "This will be the first in a series of posts describing different design decisions made writing two Rust crates: gc-arena - A system for safely fitting Rust with incremental garbage collection, used by Ruffle . piccolo - A stackless Lua runtime written in safe Rust with a focus on safe sandboxing. The goal of this series of posts is not really to sell anyone on these crates, or even the ideas that",
+      "date": null
     }
   ]
 }

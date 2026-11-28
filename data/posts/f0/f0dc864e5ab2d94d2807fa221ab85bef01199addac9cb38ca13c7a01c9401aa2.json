@@ -4,17 +4,20 @@
     {
       "link": "https://asadjb.com/blog/2026-07-19-production-deployments-to-exe-dev",
       "title": "Production deployments to exe.dev",
-      "description": "Recently I’ve been doing most of my personal development work on VMs from https://exe.dev. More on why in a future post, but in summary; these long lived VMs offer a safe way to run agentic coding tools like Claude Code in --dangerously-skip-permissions mode, which makes the models really shine."
+      "description": "Recently I’ve been doing most of my personal development work on VMs from https://exe.dev. More on why in a future post, but in summary; these long lived VMs offer a safe way to run agentic coding tools like Claude Code in --dangerously-skip-permissions mode, which makes the models really shine.",
+      "date": null
     },
     {
       "link": "https://asadjb.com/blog/2026-02-08-i-keep-coming-back-to-amp",
       "title": "I keep coming back to Amp Code",
-      "description": "My first thread in Amp is from 7 months ago, July 2025. Back then, Claude Sonnet 4 was the model used by Amp’s smart mode. Today that is Claude Opus 4.6. Much has changed in that time - the models have become smarter, and I’ve leaned into AI assisted software development more."
+      "description": "My first thread in Amp is from 7 months ago, July 2025. Back then, Claude Sonnet 4 was the model used by Amp’s smart mode. Today that is Claude Opus 4.6. Much has changed in that time - the models have become smarter, and I’ve leaned into AI assisted software development more.",
+      "date": null
     },
     {
       "link": "https://asadjb.com/blog/2026-02-06-the-codex-app-feature-i-really-like",
       "title": "The 1 feature I’m really liking in the OpenAI Codex App",
-      "description": "For the past few months I’ve been using AI coding agents heavily. So far I’ve used: AmpCode - I started out mostly with their VSCode extension & then moved exclusively to the CLI Claude Code - CLI Codex - CLI OpenCode - CLI Codex - App"
+      "description": "For the past few months I’ve been using AI coding agents heavily. So far I’ve used: AmpCode - I started out mostly with their VSCode extension & then moved exclusively to the CLI Claude Code - CLI Codex - CLI OpenCode - CLI Codex - App",
+      "date": null
     }
   ]
 }

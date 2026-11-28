@@ -4,17 +4,20 @@
     {
       "link": "https://blog.prizrak.me/post/ima/",
       "title": "Build a crappy ring-0 toy antivirus in eBPF with the IMA LSM",
-      "description": "Build a crappy ring-0 toy antivirus in eBPF with the IMA LSM In significant boredom, I wandered into the eBPF documentation and stumbled across this sick function: long bpf_ima_file_hash ( struct file * file, void * dst, u32 size) Searching for references in github code search returns only a few results, besides the man pages and the gazillion forks of “torvalds/linux” , but after digging into wha"
+      "description": "Build a crappy ring-0 toy antivirus in eBPF with the IMA LSM In significant boredom, I wandered into the eBPF documentation and stumbled across this sick function: long bpf_ima_file_hash ( struct file * file, void * dst, u32 size) Searching for references in github code search returns only a few results, besides the man pages and the gazillion forks of “torvalds/linux” , but after digging into wha",
+      "date": null
     },
     {
       "link": "https://blog.prizrak.me/post/pam_tpm/",
       "title": "Greasing Linux Auth",
-      "description": "Hardware-Backed Auth with PAM + TPM2 You might be interested in this post if you are curious about Linux authentication, don’t know what a TPM actually does, or are interested in the security / UX of Linux desktops. Or if you wanna use a TPM2-backed PIN to unlock your desktop for some reason. I’ll talk about PAM generally, explain my motivation for making new PAM modules, and explain some details"
+      "description": "Hardware-Backed Auth with PAM + TPM2 You might be interested in this post if you are curious about Linux authentication, don’t know what a TPM actually does, or are interested in the security / UX of Linux desktops. Or if you wanna use a TPM2-backed PIN to unlock your desktop for some reason. I’ll talk about PAM generally, explain my motivation for making new PAM modules, and explain some details",
+      "date": null
     },
     {
       "link": "https://blog.prizrak.me/post/landlock/",
       "title": "Landlock-ing Linux",
-      "description": "Landlock: What Is It? Landlock is a Linux API that lets applications explicitly declare which resources they are allowed to access. Its philosophy is similar to OpenBSD’s unveil() and (less so) pledge() : programs can make a contract with the kernel stating, “I only need these files or resources — deny me everything else if I’m compromised.” It provides a simple, developer-friendly way to add defe"
+      "description": "Landlock: What Is It? Landlock is a Linux API that lets applications explicitly declare which resources they are allowed to access. Its philosophy is similar to OpenBSD’s unveil() and (less so) pledge() : programs can make a contract with the kernel stating, “I only need these files or resources — deny me everything else if I’m compromised.” It provides a simple, developer-friendly way to add defe",
+      "date": null
     }
   ]
 }

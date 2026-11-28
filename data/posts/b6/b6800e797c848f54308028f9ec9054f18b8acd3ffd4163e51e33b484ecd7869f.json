@@ -4,17 +4,20 @@
     {
       "link": "https://blog.ronaldoussoren.net/2026/11/24/ive-uploaded-pyobjc-the-primary.html",
       "title": null,
-      "description": "I’ve uploaded #PyObjC 13.1. The primary reason for the release is a fix for a reference leak in CGEvent callbacks."
+      "description": "I’ve uploaded #PyObjC 13.1. The primary reason for the release is a fix for a reference leak in CGEvent callbacks.",
+      "date": null
     },
     {
       "link": "https://blog.ronaldoussoren.net/2026/10/30/ive-uploaded-pyobjc-to-pypi.html",
       "title": null,
-      "description": "I’ve uploaded #PyObjC 13.0 to PyPI. This release adds support for changes in the macOS 27.2 SDK. Other highlights in this release are: Python 3.10 is no longer supported Objective-C protocols are no present as attributes in framework bindings, and can be used as additional base classes Cleaned up lots of stale meta data in framework bindings See the release notes for a detailed list of changes."
+      "description": "I’ve uploaded #PyObjC 13.0 to PyPI. This release adds support for changes in the macOS 27.2 SDK. Other highlights in this release are: Python 3.10 is no longer supported Objective-C protocols are no present as attributes in framework bindings, and can be used as additional base classes Cleaned up lots of stale meta data in framework bindings See the release notes for a detailed list of changes.",
+      "date": null
     },
     {
       "link": "https://blog.ronaldoussoren.net/2026/08/11/ive-released-pyobjc-this-release.html",
       "title": null,
-      "description": "I’ve released #PyObjC 12.2.2. This release can be build with Xcode 27 and the Python 3.15 wheels where build with 3.15rc1."
+      "description": "I’ve released #PyObjC 12.2.2. This release can be build with Xcode 27 and the Python 3.15 wheels where build with 3.15rc1.",
+      "date": null
     }
   ]
 }

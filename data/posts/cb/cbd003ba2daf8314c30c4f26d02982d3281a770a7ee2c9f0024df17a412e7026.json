@@ -4,17 +4,20 @@
     {
       "link": "https://blog.taylorwood.io/2026/06/19/social-norms-and-low-doers.html",
       "title": "Cartels of Mediocrity",
-      "description": "Reproducing a sociology simulation paper about social norms and the tendency towards low-quality exchanges and suboptimal outcomes. The Unaccountability Machine 1 by Dan Davies is broadly about how and why dysfunctional systems produce outcomes nobody seems to want. It also contains a tidy introduction to Cybernetics 2 and ideas like the viable system model 3 and requisite variety 4 . Reading that"
+      "description": "Reproducing a sociology simulation paper about social norms and the tendency towards low-quality exchanges and suboptimal outcomes. The Unaccountability Machine 1 by Dan Davies is broadly about how and why dysfunctional systems produce outcomes nobody seems to want. It also contains a tidy introduction to Cybernetics 2 and ideas like the viable system model 3 and requisite variety 4 . Reading that",
+      "date": null
     },
     {
       "link": "https://blog.taylorwood.io/2019/02/24/aws-api.html",
       "title": "Using Cognitect's aws-api with AWS Transcribe",
-      "description": "Using Cognitect’s aws-api library to work with AWS is nice and easy (and simple). This post shows how to use it with AWS Transcribe for speech-to-text. aws-api is an idiomatic, data-oriented Clojure library for invoking AWS APIs. Comparisons Previously I’d used Amazonica for working with general AWS services, or more focused libraries like Faraday for working with DynamoDB. Amazonica takes a conce"
+      "description": "Using Cognitect’s aws-api library to work with AWS is nice and easy (and simple). This post shows how to use it with AWS Transcribe for speech-to-text. aws-api is an idiomatic, data-oriented Clojure library for invoking AWS APIs. Comparisons Previously I’d used Amazonica for working with general AWS services, or more focused libraries like Faraday for working with DynamoDB. Amazonica takes a conce",
+      "date": null
     },
     {
       "link": "https://blog.taylorwood.io/2018/11/26/graal-polyglot.html",
       "title": "GraalVM Polyglot with Clojure and JavaScript",
-      "description": "GraalVM enables interesting new interop scenarios between its hosted languages. This post demonstrates some polyglot interop between Clojure as a host language and JavaScript as the hosted language. You’ll need to run this Clojure code on a GraalVM SDK, and we’ll want to import some org.graalvm.polyglot types: ( ns polydact.core ( :import ( org.graalvm.polyglot Context Value ) ( org.graalvm.polygl"
+      "description": "GraalVM enables interesting new interop scenarios between its hosted languages. This post demonstrates some polyglot interop between Clojure as a host language and JavaScript as the hosted language. You’ll need to run this Clojure code on a GraalVM SDK, and we’ll want to import some org.graalvm.polyglot types: ( ns polydact.core ( :import ( org.graalvm.polyglot Context Value ) ( org.graalvm.polygl",
+      "date": null
     }
   ]
 }

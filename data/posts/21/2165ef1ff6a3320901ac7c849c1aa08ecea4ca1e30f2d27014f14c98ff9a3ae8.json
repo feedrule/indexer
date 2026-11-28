@@ -4,17 +4,20 @@
     {
       "link": "https://www.henryschmale.org/2026/10/16/raci-dns.html",
       "title": "Permission Management For DNS",
-      "description": "DNS is a cross cutting concern in organizations. It's an old service, and as we know it's always DNS. Presented to DC215 on Oct 7, 2026."
+      "description": "DNS is a cross cutting concern in organizations. It's an old service, and as we know it's always DNS. Presented to DC215 on Oct 7, 2026.",
+      "date": null
     },
     {
       "link": "https://www.henryschmale.org/2026/09/09/denver.html",
       "title": "Denver 2026 - Trip Journal",
-      "description": "I visited Denver and Glenwood Springs with some friends. This is what we did. I landed on Wednesday and leave on Monday for Chicago. I have a friend that moved out to Denver from Columbus, so myself and some other friends decided to visit her. We did a lot of outdoor activities, and explored a decent amount of downtown Denver."
+      "description": "I visited Denver and Glenwood Springs with some friends. This is what we did. I landed on Wednesday and leave on Monday for Chicago. I have a friend that moved out to Denver from Columbus, so myself and some other friends decided to visit her. We did a lot of outdoor activities, and explored a decent amount of downtown Denver.",
+      "date": null
     },
     {
       "link": "https://www.henryschmale.org/2026/05/05/agent-browser.html",
       "title": "Agent Browser, Port Forwarding and ZeroClaw",
-      "description": "I have been continuing my experiments with ZeroClaw and its browser integration. Most of my goals with AI are explainable AI. I want to be able to see the tool calls that it makes to answer my questions. I want to know if the query was properly grounded. To answer some of these questions I enabled otel so I can see the tool calls in grafana, I also encourage the agent to use tools in the prompts."
+      "description": "I have been continuing my experiments with ZeroClaw and its browser integration. Most of my goals with AI are explainable AI. I want to be able to see the tool calls that it makes to answer my questions. I want to know if the query was properly grounded. To answer some of these questions I enabled otel so I can see the tool calls in grafana, I also encourage the agent to use tools in the prompts.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.victorbona.dev/blog/benchmarks-in-the-age-of-agents-the-memory-bandwidth-sanity-check",
       "title": "Benchmarks in the Age of Agents: The Memory-Bandwidth Sanity Check",
-      "description": "Give an AI agent a benchmark and it will optimize the number, sometimes past what the hardware allows. A two-line division, bytes touched over memory bandwidth, tells you which speedups to question. I ran it on a 22x database claim and on my own Ferrite numbers."
+      "description": "Give an AI agent a benchmark and it will optimize the number, sometimes past what the hardware allows. A two-line division, bytes touched over memory bandwidth, tells you which speedups to question. I ran it on a 22x database claim and on my own Ferrite numbers.",
+      "date": null
     },
     {
       "link": "https://blog.victorbona.dev/blog/io-uring-vs-epoll-measured",
       "title": "io_uring vs epoll, Measured: What Completion I/O Actually Buys an HTTP Server",
-      "description": "Same Rust HTTP server, same binary, two kernel I/O backends. I ran the campaigns on my homelab, caught my own machine lying by 2.7x, and found out what thread-per-core and completion I/O really cost and really pay."
+      "description": "Same Rust HTTP server, same binary, two kernel I/O backends. I ran the campaigns on my homelab, caught my own machine lying by 2.7x, and found out what thread-per-core and completion I/O really cost and really pay.",
+      "date": null
     },
     {
       "link": "https://blog.victorbona.dev/articles/bfs-avoidance-frontier",
       "title": "Rigidity of Pattern-Avoiding Breadth-First Reading Words of Increasing Trees",
-      "description": "We study permutations obtained by reading increasing ordered trees in breadth-first order. For every integer k >= 2, a 312-avoiding permutation is realizable on a tree of maximum outdegree k if and only if it is realizable on the complete k-ary heap shape. A 231-avoiding permutation of length congruent to 1 modulo k is realizable with maximum outdegree k if and only if it is realizable on a full k"
+      "description": "We study permutations obtained by reading increasing ordered trees in breadth-first order. For every integer k >= 2, a 312-avoiding permutation is realizable on a tree of maximum outdegree k if and only if it is realizable on the complete k-ary heap shape. A 231-avoiding permutation of length congruent to 1 modulo k is realizable with maximum outdegree k if and only if it is realizable on a full k",
+      "date": null
     }
   ]
 }

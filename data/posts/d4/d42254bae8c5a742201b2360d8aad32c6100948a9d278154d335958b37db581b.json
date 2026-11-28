@@ -4,17 +4,20 @@
     {
       "link": "https://elegantchaos.com/2026/04/30/agents-idealism-and-capitalism.html",
       "title": "Agents, Idealism, And Capitalism",
-      "description": "My timeline is full of discussion about AI, and agentic coding. It makes me sad how culture-wars a lot of it is. Very strident. Very “you’re either with us, or you’re against us!”. For what it’s worth, I’ve been playing with agents, and I think that there are some great things about them. As a solo developer, having an agent pair-programmer has revolutionised my work. That doesn’t mean I’m blind t"
+      "description": "My timeline is full of discussion about AI, and agentic coding. It makes me sad how culture-wars a lot of it is. Very strident. Very “you’re either with us, or you’re against us!”. For what it’s worth, I’ve been playing with agents, and I think that there are some great things about them. As a solo developer, having an agent pair-programmer has revolutionised my work. That doesn’t mean I’m blind t",
+      "date": null
     },
     {
       "link": "https://elegantchaos.com/2026/02/27/actionbuilderplugin-deadlock.html",
       "title": "Fixing The ActionBuilder Plugin",
-      "description": "In a previous post , I mentioned a command line tool that I built which you can point at a Swift package, and which will generate a GitHub Actions workflow file for it. I also built a SwiftPM plugin which invokes the tool, but at some point it stopped working. Instead of running, it would just hang, for reasons unknown. The Deadlock The root cause turned out to be nested SwiftPM invocations. The p"
+      "description": "In a previous post , I mentioned a command line tool that I built which you can point at a Swift package, and which will generate a GitHub Actions workflow file for it. I also built a SwiftPM plugin which invokes the tool, but at some point it stopped working. Instead of running, it would just hang, for reasons unknown. The Deadlock The root cause turned out to be nested SwiftPM invocations. The p",
+      "date": null
     },
     {
       "link": "https://elegantchaos.com/2026/02/12/string-catalogues.html",
       "title": "Localizable String Catalogues in Swift Packages",
-      "description": "I’ve been slowly splitting The Stack up into small internal Swift packages. Unfortunately, if you use localizable string catalogues in Xcode, there are a few wrinkles. Lots Of Small Targets I’ve been splitting Xcode app projects into multiple packages for a few years now. Mihaela Mihaljevic wrote about something similar a while ago . Some of the details in that post are different, but the basic id"
+      "description": "I’ve been slowly splitting The Stack up into small internal Swift packages. Unfortunately, if you use localizable string catalogues in Xcode, there are a few wrinkles. Lots Of Small Targets I’ve been splitting Xcode app projects into multiple packages for a few years now. Mihaela Mihaljevic wrote about something similar a while ago . Some of the details in that post are different, but the basic id",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://haseebeqx.com/posts/ai-coding-agents-ruby-on-rails/",
       "title": "AI Coding Agents for Ruby on Rails: Benchmarks and Best Practices",
-      "description": "AI coding agents can inspect a Rails repository, edit several files, run tests, interpret failures, and revise their work. That makes them more useful than autocomplete, but it also makes their mistakes harder to see. A generated method can look reasonable while missing a migration, using the wrong Rails abstraction, introducing an N+1 query, or implementing only the visible part of a feature. The"
+      "description": "AI coding agents can inspect a Rails repository, edit several files, run tests, interpret failures, and revise their work. That makes them more useful than autocomplete, but it also makes their mistakes harder to see. A generated method can look reasonable while missing a migration, using the wrong Rails abstraction, introducing an N+1 query, or implementing only the visible part of a feature. The",
+      "date": null
     },
     {
       "link": "https://haseebeqx.com/posts/benchmarking-rails-performance-changes/",
       "title": "How to Benchmark a Rails Performance Fix",
-      "description": "When I optimize a slow Rails endpoint, I create a small profile_compare script for that specific workload. The script does six things: runs the slow request against a known baseline revision; warms the application before collecting results; records request duration and the metrics related to the suspected problem; runs the same workload against the proposed fix; verifies that both responses still"
+      "description": "When I optimize a slow Rails endpoint, I create a small profile_compare script for that specific workload. The script does six things: runs the slow request against a known baseline revision; warms the application before collecting results; records request duration and the metrics related to the suspected problem; runs the same workload against the proposed fix; verifies that both responses still",
+      "date": null
     },
     {
       "link": "https://haseebeqx.com/posts/using-speedscope-to-profile-ruby-and-rails/",
       "title": "Using speedscope.app to Profile Ruby and Rails",
-      "description": "A request that takes 900 ms tells us that something is slow, but not where the time went. A call-stack profiler supplies the missing data, and speedscope turns that data into an interactive flamegraph. This guide is for Rails developers and progresses through three levels: Quick diagnosis: profile one Rails request with rack-mini-profiler. Focused investigation: profile a service, script, or job w"
+      "description": "A request that takes 900 ms tells us that something is slow, but not where the time went. A call-stack profiler supplies the missing data, and speedscope turns that data into an interactive flamegraph. This guide is for Rails developers and progresses through three levels: Quick diagnosis: profile one Rails request with rack-mini-profiler. Focused investigation: profile a service, script, or job w",
+      "date": null
     }
   ]
 }

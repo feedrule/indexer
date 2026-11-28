@@ -4,17 +4,20 @@
     {
       "link": "https://tanin.nanakorn.com/setting-the-health-check-command-on-dokploy/",
       "title": "Setting the health check command on Dokploy",
-      "description": "The doc is a bit light on how to set the health check command. I've tried many combinations and found that each component has to be its own line like below: Also, your Docker image must have curl installed. Some JDK images e.g. eclipse-temurin:25-jdk-"
+      "description": "The doc is a bit light on how to set the health check command. I've tried many combinations and found that each component has to be its own line like below: Also, your Docker image must have curl installed. Some JDK images e.g. eclipse-temurin:25-jdk-",
+      "date": null
     },
     {
       "link": "https://tanin.nanakorn.com/input-type-password-maxlength-20-is-considered-harmful-and-why-i-couldnt-login-into-vanguard/",
       "title": "prevents me from logging into Vanguard",
-      "description": "Hacker News discussion · Reddit discussion For the longest time, I couldn't login to my Vanguard account through web. I reset the password maybe 3 times during the past year, and it still didn't work. I didn't have time to think about it more,"
+      "description": "Hacker News discussion · Reddit discussion For the longest time, I couldn't login to my Vanguard account through web. I reset the password maybe 3 times during the past year, and it still didn't work. I didn't have time to think about it more,",
+      "date": null
     },
     {
       "link": "https://tanin.nanakorn.com/my-experience-using-jooq-in-scala/",
       "title": "My experience using JOOQ with Scala and Postgres",
-      "description": "I've recently picked up JOOQ for building complex queries in Book of Revenue . I previously constructed raw SQLs using Slick . Slick is nice enough to support binding values and concatenating portions of SQL safely. Still, writing raw SQLs is friable. Reusing a subquery of SQLs in multiple queries"
+      "description": "I've recently picked up JOOQ for building complex queries in Book of Revenue . I previously constructed raw SQLs using Slick . Slick is nice enough to support binding values and concatenating portions of SQL safely. Still, writing raw SQLs is friable. Reusing a subquery of SQLs in multiple queries",
+      "date": null
     }
   ]
 }

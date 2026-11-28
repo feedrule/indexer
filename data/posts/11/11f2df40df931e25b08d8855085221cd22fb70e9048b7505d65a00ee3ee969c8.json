@@ -4,17 +4,20 @@
     {
       "link": "https://anupjoseph.bearblog.dev/100-days-of-code/",
       "title": "100 days of Code",
-      "description": "I am not the best at coding. Particulary w.r.t code for interviews. SO I've decided to make a concious effort to become better and do Unstop's 100 days of code challenge . On each of the 100 days, I'll update this table with the challenges I've solved. If anyone is particulary interesting I',ll write a separate post and link it Problem Topics Notes Chessboard Arrays Nothing much"
+      "description": "I am not the best at coding. Particulary w.r.t code for interviews. SO I've decided to make a concious effort to become better and do Unstop's 100 days of code challenge . On each of the 100 days, I'll update this table with the challenges I've solved. If anyone is particulary interesting I',ll write a separate post and link it Problem Topics Notes Chessboard Arrays Nothing much",
+      "date": null
     },
     {
       "link": "https://anupjoseph.bearblog.dev/maps-with-d3-and-svelte/",
       "title": "Maps with D3 and Svelte",
-      "description": "This blog is fourth in a series of (unofficial) course notes for the Data Visualization with React and D3 series by Curran Kelleher. Read the introductory blog post here . The next chart in the series is a simple map of the world. In this chart Curran actually uses a Topojson file, then converts it into Geojson and then plots it. I am not planning to do that as it seems complicated and also for so"
+      "description": "This blog is fourth in a series of (unofficial) course notes for the Data Visualization with React and D3 series by Curran Kelleher. Read the introductory blog post here . The next chart in the series is a simple map of the world. In this chart Curran actually uses a Topojson file, then converts it into Geojson and then plots it. I am not planning to do that as it seems complicated and also for so",
+      "date": null
     },
     {
       "link": "https://anupjoseph.bearblog.dev/line-chart-with-svelte-and-d3/",
       "title": "Line Chart with Svelte and D3",
-      "description": "This blog is second in a series of (unofficial) course notes for the Data Visualization with React and D3 series by Curran Kelleher. Read the introductory blog post here . The next chart type in the course is a line-chart based on San Francisco temperature data, available here . We will use the scatter plot code from the last chart here . Some interesting things about the dataset , its temporal in"
+      "description": "This blog is second in a series of (unofficial) course notes for the Data Visualization with React and D3 series by Curran Kelleher. Read the introductory blog post here . The next chart type in the course is a line-chart based on San Francisco temperature data, available here . We will use the scatter plot code from the last chart here . Some interesting things about the dataset , its temporal in",
+      "date": null
     }
   ]
 }

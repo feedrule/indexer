@@ -4,17 +4,20 @@
     {
       "link": "https://arkanis.de/weblog/2026-11-22-thoughts-on-ai-fracturing-communities/",
       "title": "Thoughts on AI: Fracturing communities",
-      "description": "This post is about the impact of LLMs on programming as a hobby. I'll not talk about the commercial side of things because that is a whole other can of worms. Of course there's some (or a lot) of mixing here and there. Like people being payed to work on the same projects as hobbyists (e.g. Linux). Or people techniques and tools from their work for their hobby projects. But for now lets focus on pr"
+      "description": "This post is about the impact of LLMs on programming as a hobby. I'll not talk about the commercial side of things because that is a whole other can of worms. Of course there's some (or a lot) of mixing here and there. Like people being payed to work on the same projects as hobbyists (e.g. Linux). Or people techniques and tools from their work for their hobby projects. But for now lets focus on pr",
+      "date": null
     },
     {
       "link": "https://arkanis.de/weblog/2026-04-26-lots-of-gambling-all-around/",
       "title": "Lots of gambling all around",
-      "description": "I'm sure many people have noticed this already: Gambling with investor money (very fashionable), loot boxes and other gambling mechanics in games, dark patterns in UIs like endless scrolling, likes in social media, prediction markets, what will the next output of some LLM do, the list goes on and on. There sure are a lot of ways to get your dopamine fix. For me it's most obvious in games. Call it"
+      "description": "I'm sure many people have noticed this already: Gambling with investor money (very fashionable), loot boxes and other gambling mechanics in games, dark patterns in UIs like endless scrolling, likes in social media, prediction markets, what will the next output of some LLM do, the list goes on and on. There sure are a lot of ways to get your dopamine fix. For me it's most obvious in games. Call it",
+      "date": null
     },
     {
       "link": "https://arkanis.de/weblog/2025-11-27-javascript-plotting-tool-for-interactive-plots/",
       "title": "JavaScript plotting tool for interactive plots",
-      "description": "I wrote another function plotter where you can write your function in simple JavaScript code. Something like func ( \"f\" , x => sin (x)) . No new special math-like syntax you have to learn, just JavaScript. Features: Plot updates each time you change the code Multiple plots Non-function objects like points, lines, rects and circles. Draggable objects (set draggable: true then shift+click to drag) S"
+      "description": "I wrote another function plotter where you can write your function in simple JavaScript code. Something like func ( \"f\" , x => sin (x)) . No new special math-like syntax you have to learn, just JavaScript. Features: Plot updates each time you change the code Multiple plots Non-function objects like points, lines, rects and circles. Draggable objects (set draggable: true then shift+click to drag) S",
+      "date": null
     }
   ]
 }

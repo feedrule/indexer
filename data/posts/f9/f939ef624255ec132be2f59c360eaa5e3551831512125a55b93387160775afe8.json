@@ -4,17 +4,20 @@
     {
       "link": "https://michaelscodingspot.com/windows-dotnet-to-linux-python-neovim/",
       "title": "Moving from Windows, .NET, and Visual Studio to Linux, Python, and Neovim",
-      "description": "A year ago I was celebrating 15 years in the .NET ecosystem and 30 years as a Windows user. Fast forward to today, I am using Linux, Neovim, Python, Rust, and mostly live in the terminal. I’m a solo developer, building a greenfield project, so I could have chosen any technology. Since I’m most experienced in Windows with C#, that would have been the more natural choice. Here’s my experience of why I decided to make different choices and whether it was the right call in hindsight."
+      "description": "A year ago I was celebrating 15 years in the .NET ecosystem and 30 years as a Windows user. Fast forward to today, I am using Linux, Neovim, Python, Rust, and mostly live in the terminal. I’m a solo developer, building a greenfield project, so I could have chosen any technology. Since I’m most experienced in Windows with C#, that would have been the more natural choice. Here’s my experience of why I decided to make different choices and whether it was the right call in hindsight.",
+      "date": "2026-09-07"
     },
     {
       "link": "https://michaelscodingspot.com/full-terminal-jira/",
       "title": "Going Full-Terminal on Jira",
-      "description": "I’ve spent countless hours using some issue tracking software or another in my career, especially when in leadership roles. While apps like Jira or Azure DevOps are good, there is a lot of repetitiveness and potential for automation. LLMs and coding agents open the door to implement automations, but also connecting all sorts of agentic workflows to that software. For context, I’m a solo developer working on a SaaS project in the area of observability."
+      "description": "I’ve spent countless hours using some issue tracking software or another in my career, especially when in leadership roles. While apps like Jira or Azure DevOps are good, there is a lot of repetitiveness and potential for automation. LLMs and coding agents open the door to implement automations, but also connecting all sorts of agentic workflows to that software. For context, I’m a solo developer working on a SaaS project in the area of observability.",
+      "date": "2026-09-01"
     },
     {
       "link": "https://michaelscodingspot.com/observability-cost-saving-strategies/",
       "title": "7 Cost-Saving Strategies Observability Vendors Don't Want You to Know",
-      "description": "Originally posted in Obics.io Observability vendors have been billing companies per data volume or per node count for many years. Both of those have exploded in the last decade and the vendors have been enjoying a rapid rise in income. But that also created frustration from the customers. The issue of cost is on everyone’s mind when it comes to observability and the #1 reason for switching vendors, even if you are perfectly happy with everything else."
+      "description": "Originally posted in Obics.io Observability vendors have been billing companies per data volume or per node count for many years. Both of those have exploded in the last decade and the vendors have been enjoying a rapid rise in income. But that also created frustration from the customers. The issue of cost is on everyone’s mind when it comes to observability and the #1 reason for switching vendors, even if you are perfectly happy with everything else.",
+      "date": "2026-08-23"
     }
   ]
 }

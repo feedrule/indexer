@@ -4,17 +4,20 @@
     {
       "link": "https://botsinproduction.com/blog/dropdown-validation-for-ai-written-rows/",
       "title": "Dropdowns Are the Schema: Letting an AI Write Rows Into Google Sheets",
-      "description": "Three guards that keep an AI bot inside a sheet's dropdown lists, a read-only check of 2,000 live rows, and the 17 words the bot still cannot pick."
+      "description": "Three guards that keep an AI bot inside a sheet's dropdown lists, a read-only check of 2,000 live rows, and the 17 words the bot still cannot pick.",
+      "date": null
     },
     {
       "link": "https://botsinproduction.com/blog/claude-md-7-lines-35-lines-490-lines/",
       "title": "CLAUDE.md in Practice: 7 Lines, 35 Lines and 490 Lines, Measured",
-      "description": "Three real CLAUDE.md files, measured: what each adds to every Claude Code call, a rule broken four times, and a file that became a diary."
+      "description": "Three real CLAUDE.md files, measured: what each adds to every Claude Code call, a rule broken four times, and a file that became a diary.",
+      "date": null
     },
     {
       "link": "https://botsinproduction.com/blog/claude-p-headless-mode-in-production/",
       "title": "claude -p in Production: Flags, Failures and Numbers From 3 Bots",
-      "description": "A field guide to Claude Code headless mode: the five flags our bots pass, what they save per call, the JSON envelope, and four failures reproduced."
+      "description": "A field guide to Claude Code headless mode: the five flags our bots pass, what they save per call, the JSON envelope, and four failures reproduced.",
+      "date": null
     }
   ]
 }

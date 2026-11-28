@@ -4,17 +4,20 @@
     {
       "link": "https://girishjoshi.io/post/still-looking-out-the-window/",
       "title": "Still Looking Out the Window: Two and a Half Months of Showing Up",
-      "description": "Over the last two and a half months I’ve been a bit more regular about the backyard birds. Not a new project exactly. Same house, same trees, same regular visitors. The difference is the loop. Click, sit with the file for a bit, postprocess it, and put it up, mostly as Instagram stories. That’s it. I already wrote about the last six years here. That post was a collection. This one is more about what changed when I stopped treating the photos as something I only keep."
+      "description": "Over the last two and a half months I’ve been a bit more regular about the backyard birds. Not a new project exactly. Same house, same trees, same regular visitors. The difference is the loop. Click, sit with the file for a bit, postprocess it, and put it up, mostly as Instagram stories. That’s it. I already wrote about the last six years here. That post was a collection. This one is more about what changed when I stopped treating the photos as something I only keep.",
+      "date": "2026-09-13"
     },
     {
       "link": "https://girishjoshi.io/post/birds-in-my-backyard-six-years-of-local-photography/",
       "title": "Birds in My Backyard: Six Years of Local Photography",
-      "description": "Over the past six years, I’ve been quietly clicking photos of birds that visit my backyard. No fancy trips to sanctuaries or national parks; just whatever shows up right outside my window or in the trees around the house. All local birds. All regular visitors. It started almost by accident. I’d notice a new bird, grab the camera (or sometimes just the phone), and try to capture it before it flew away."
+      "description": "Over the past six years, I’ve been quietly clicking photos of birds that visit my backyard. No fancy trips to sanctuaries or national parks; just whatever shows up right outside my window or in the trees around the house. All local birds. All regular visitors. It started almost by accident. I’d notice a new bird, grab the camera (or sometimes just the phone), and try to capture it before it flew away.",
+      "date": "2026-07-03"
     },
     {
       "link": "https://girishjoshi.io/post/tauri-2.0-appimage-egl-issue-on-wayland/",
       "title": "Tauri 2.0 AppImage EGL Issue on wayland",
-      "description": "I recently moved one of my Tauri apps (called lithographer) from v1 to Tauri 2.0. The app builds fine locally and in CI, but the AppImage refused to start properly on Arch Linux running Hyprland. This post is about the issue I ran into and the fix I ended up with. The Problem After building the AppImage in GitHub Actions (on Ubuntu), it would not start cleanly on my Arch machine under Wayland."
+      "description": "I recently moved one of my Tauri apps (called lithographer) from v1 to Tauri 2.0. The app builds fine locally and in CI, but the AppImage refused to start properly on Arch Linux running Hyprland. This post is about the issue I ran into and the fix I ended up with. The Problem After building the AppImage in GitHub Actions (on Ubuntu), it would not start cleanly on my Arch machine under Wayland.",
+      "date": "2026-06-21"
     }
   ]
 }

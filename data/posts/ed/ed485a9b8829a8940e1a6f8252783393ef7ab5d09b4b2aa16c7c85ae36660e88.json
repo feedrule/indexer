@@ -4,12 +4,14 @@
     {
       "link": "https://example.com/blog/record-location/",
       "title": "Recording Location",
-      "description": "Simple webpage for recording location"
+      "description": "Simple webpage for recording location",
+      "date": null
     },
     {
       "link": "https://example.com/blog/selecting-text/",
       "title": "Selecting Text",
-      "description": "How to force webpages to let you select text"
+      "description": "How to force webpages to let you select text",
+      "date": null
     }
   ]
 }

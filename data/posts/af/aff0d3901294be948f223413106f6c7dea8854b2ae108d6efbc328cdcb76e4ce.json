@@ -4,17 +4,20 @@
     {
       "link": "https://yurisk.info/2026/10/06/windows-network-troubleshooting-commands-cheat-sheet/",
       "title": "Windows network troubleshooting commands cheat sheet",
-      "description": "Table of Contents Piping the Output to Search Ping an IP Address (by default 4 pings are sent) Set packet size larger than default 32 bytes Send n number of pings Send pings non-stop Network MTU maximum size path discovery (PMTU) testing with ping Sweep Ping All Hosts in a …"
+      "description": "Table of Contents Piping the Output to Search Ping an IP Address (by default 4 pings are sent) Set packet size larger than default 32 bytes Send n number of pings Send pings non-stop Network MTU maximum size path discovery (PMTU) testing with ping Sweep Ping All Hosts in a …",
+      "date": null
     },
     {
       "link": "https://yurisk.info/2026/08/28/fortigate-opsec-monitor-your-fortigate-for-critical-events/",
       "title": "Fortigate OPSEC - monitor your Fortigate for critical events",
-      "description": "Your Fortigate protects your networks day in/day out, but who protects the Fortigate ? Here is the list of Fortigate automation stitches or Fortianalyzer Alerts I set up in any Fortigate I manage. All of them are also available in my repo: https://github.com/yuriskinfo/Fortinet-tools Alert on specific …"
+      "description": "Your Fortigate protects your networks day in/day out, but who protects the Fortigate ? Here is the list of Fortigate automation stitches or Fortianalyzer Alerts I set up in any Fortigate I manage. All of them are also available in my repo: https://github.com/yuriskinfo/Fortinet-tools Alert on specific …",
+      "date": null
     },
     {
       "link": "https://yurisk.info/2026/06/03/dates-of-end-of-support-and-service-extension-per-fortigate-model/",
       "title": "Dates of End of Support and Service Extension per Fortigate Model",
-      "description": "Compiled by me, Yuri Slobodyanyuk , from source: https://support.fortinet.com , updated at 03.06.2026 Model End of Order Last Service Ext End of Support 1000D 2023-04-16 2027-04-16 2028-04-16 1000D-LENC 2025-06-29 2029-06-29 2030-06-29 1000D-USG 2023-07-15 2027-07-15 2028-07-15 100E 2021-08-17 2025-08-17 2026-08-17 100F 2026-04-16 2030-04-16 2031-04-16 100F-LENC 2026-04-16 2030-04-16 2031-04-16 …"
+      "description": "Compiled by me, Yuri Slobodyanyuk , from source: https://support.fortinet.com , updated at 03.06.2026 Model End of Order Last Service Ext End of Support 1000D 2023-04-16 2027-04-16 2028-04-16 1000D-LENC 2025-06-29 2029-06-29 2030-06-29 1000D-USG 2023-07-15 2027-07-15 2028-07-15 100E 2021-08-17 2025-08-17 2026-08-17 100F 2026-04-16 2030-04-16 2031-04-16 100F-LENC 2026-04-16 2030-04-16 2031-04-16 …",
+      "date": null
     }
   ]
 }

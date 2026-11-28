@@ -4,17 +4,20 @@
     {
       "link": "https://www.mariusb.net/blog/2026/10/curl-works-reqwest-fails-cloudflare/",
       "title": "Why curl Works but Rust’s reqwest Gets Blocked by Cloudflare",
-      "description": "Same URL, same API key, different result. A walkthrough of why Cloudflare treats curl and reqwest differently, and how to fix it."
+      "description": "Same URL, same API key, different result. A walkthrough of why Cloudflare treats curl and reqwest differently, and how to fix it.",
+      "date": null
     },
     {
       "link": "https://www.mariusb.net/blog/2026/07/ai-agent-comparison-rust-leap-year/",
       "title": "AI Agent Comparison",
-      "description": "The exercise involved five AI models responding to a prompt to create a Rust function for determining leap years. Performance varied, with Kilo Code models demonstrating detailed explanations and accuracy. ChatGPT and Claude excelled in using the Rust test harness, while Qwen asked clarifying questions. Overall, the models were effective but had differing strengths."
+      "description": "The exercise involved five AI models responding to a prompt to create a Rust function for determining leap years. Performance varied, with Kilo Code models demonstrating detailed explanations and accuracy. ChatGPT and Claude excelled in using the Rust test harness, while Qwen asked clarifying questions. Overall, the models were effective but had differing strengths.",
+      "date": null
     },
     {
       "link": "https://www.mariusb.net/blog/2026/07/ai-api-cheat-sheet/",
       "title": "API Cheat Sheet",
-      "description": "When unsure about using an API, leverage an AI client to generate the correct endpoint and parameters. Describe the usage and desired data, stating the provider. This method simplifies obtaining accurate curl commands or code samples, reducing reliance on documentation while maintaining security regarding sensitive information like API keys."
+      "description": "When unsure about using an API, leverage an AI client to generate the correct endpoint and parameters. Describe the usage and desired data, stating the provider. This method simplifies obtaining accurate curl commands or code samples, reducing reliance on documentation while maintaining security regarding sensitive information like API keys.",
+      "date": null
     }
   ]
 }

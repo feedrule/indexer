@@ -4,17 +4,20 @@
     {
       "link": "https://blog.iamjkahn.com/posts/2026/09/gatekeeper-worker-for-governed-tenant-ai",
       "title": "The gatekeeper pattern for multi-tenant workloads",
-      "description": "I wanted tenant applications to use AI inference without giving them unlimited access. A Gatekeeper Worker enforces quotas, and platform-controlled bindings tell it which tenant is calling. No application-managed credentials required."
+      "description": "I wanted tenant applications to use AI inference without giving them unlimited access. A Gatekeeper Worker enforces quotas, and platform-controlled bindings tell it which tenant is calling. No application-managed credentials required.",
+      "date": null
     },
     {
       "link": "https://blog.iamjkahn.com/posts/2026/11/josh-mode-teaching-agents-how-i-like-to-work",
       "title": "josh-mode: Teaching agents how I like to work",
-      "description": "Coding agents and the current generation of AI models have changed the way I work. But my preferences and how I solve problems have not changed. I built `josh-mode` to teach agents how I like to work and it has led to better outcomes. In this post, I share my approach and how you can build your own personal working mode."
+      "description": "Coding agents and the current generation of AI models have changed the way I work. But my preferences and how I solve problems have not changed. I built `josh-mode` to teach agents how I like to work and it has led to better outcomes. In this post, I share my approach and how you can build your own personal working mode.",
+      "date": null
     },
     {
       "link": "https://blog.iamjkahn.com/posts/2026/09/an-ode-to-customizability-and-trmnl",
       "title": "An ode to customizability and TRMNL",
-      "description": "How we replaced an over-worked kitchen whiteboard with a customizable TRMNL display powered by Apple calendars, Liquid templates, and a little help from GPT."
+      "description": "How we replaced an over-worked kitchen whiteboard with a customizable TRMNL display powered by Apple calendars, Liquid templates, and a little help from GPT.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.tbone.se/2026/11/13/autopatch-gets-granular-approvals-and-your-old-gpos-are-officially-ghosted/",
       "title": "Autopatch Gets Granular Approvals, and Your Old GPOs Are Officially Ghosted",
-      "description": "Remember BIOS_passwords_FINAL_v3.xlsx from my DFCI post? It has a cousin in Active Directory. It is a GPO called something like WSUS Settings – DO NOT TOUCH, it is linked to the root of the domain, and the person who created it left the company long before anyone had heard of Windows Autopatch. Then we move […] The post Autopatch Gets Granular Approvals, and Your Old GPOs Are Officially Ghosted ap"
+      "description": "Remember BIOS_passwords_FINAL_v3.xlsx from my DFCI post? It has a cousin in Active Directory. It is a GPO called something like WSUS Settings – DO NOT TOUCH, it is linked to the root of the domain, and the person who created it left the company long before anyone had heard of Windows Autopatch. Then we move […] The post Autopatch Gets Granular Approvals, and Your Old GPOs Are Officially Ghosted ap",
+      "date": null
     },
     {
       "link": "https://www.tbone.se/2026/10/16/secure-boot-take-3-the-last-2011-certificate-expires-on-monday/",
       "title": "Secure Boot, Take 3: The Last 2011 Certificate Expires on Monday",
-      "description": "In January I wrote the blog “Update Secure Boot Certificate by using Intune Remediation“. Four weeks later I had to publish “Update Secure Boot Certificate by using intune remediation Take 2“, because I had written the wrong status values and the wrong registry value, both in the blog and in the script. As I put […] The post Secure Boot, Take 3: The Last 2011 Certificate Expires on Monday appeared"
+      "description": "In January I wrote the blog “Update Secure Boot Certificate by using Intune Remediation“. Four weeks later I had to publish “Update Secure Boot Certificate by using intune remediation Take 2“, because I had written the wrong status values and the wrong registry value, both in the blog and in the script. As I put […] The post Secure Boot, Take 3: The Last 2011 Certificate Expires on Monday appeared",
+      "date": null
     },
     {
       "link": "https://www.tbone.se/2026/10/08/windows-got-hybrid-intelligence-and-i-neeeed-a-surface-ultra/",
       "title": "Windows Got Hybrid Intelligence and I neeeed a Surface Ultra",
-      "description": "Six months ago I wrote a post called My NPU was mostly idle until I realized I could use it for real work by building an app myself (https://www.tbone.se/2026/03/27/my-npu-was-mostly-idle-until-i-realized-i-could-use-it-for-real-work-by-building-an-app-myself/). I was proud of that little app. It ran a small local model on my Surface Laptop 7 and helped me make sense of troubleshooting signals […]"
+      "description": "Six months ago I wrote a post called My NPU was mostly idle until I realized I could use it for real work by building an app myself (https://www.tbone.se/2026/03/27/my-npu-was-mostly-idle-until-i-realized-i-could-use-it-for-real-work-by-building-an-app-myself/). I was proud of that little app. It ran a small local model on my Surface Laptop 7 and helped me make sense of troubleshooting signals […]",
+      "date": null
     }
   ]
 }

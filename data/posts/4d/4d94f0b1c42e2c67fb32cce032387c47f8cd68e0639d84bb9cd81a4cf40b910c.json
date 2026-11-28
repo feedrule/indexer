@@ -4,17 +4,20 @@
     {
       "link": "https://carlosvin.github.io/building-ai-promptable-fullstack-apps/",
       "title": "Building AI-Promptable Full-Stack Apps with TanStack Start",
-      "description": "Every time our team started a new full-stack React app, we faced the same problem: rebuild the same architecture from scratch. JWT authentication, database access, UI shell, TanStack AI integration, observability, and server boundaries — all the plumbing that has nothing to do with the actual business logic. It started with internal tools at MongoDB , but the patterns apply to any full-stack web a"
+      "description": "Every time our team started a new full-stack React app, we faced the same problem: rebuild the same architecture from scratch. JWT authentication, database access, UI shell, TanStack AI integration, observability, and server boundaries — all the plumbing that has nothing to do with the actual business logic. It started with internal tools at MongoDB , but the patterns apply to any full-stack web a",
+      "date": null
     },
     {
       "link": "https://carlosvin.github.io/pytest-scenarios-isolated-integration-tests/",
       "title": "Isolated Integration Tests with pytest-scenarios",
-      "description": "Integration tests are essential for catching bugs that unit tests miss—but they come with a notorious problem: shared state . When tests share a database, they become flaky, order-dependent, and painful to debug. What if each test could start with a clean slate, with exactly the data it needs, without manual cleanup or complex fixtures? That's what pytest-scenarios does. The Problem Consider testi"
+      "description": "Integration tests are essential for catching bugs that unit tests miss—but they come with a notorious problem: shared state . When tests share a database, they become flaky, order-dependent, and painful to debug. What if each test could start with a clean slate, with exactly the data it needs, without manual cleanup or complex fixtures? That's what pytest-scenarios does. The Problem Consider testi",
+      "date": null
     },
     {
       "link": "https://carlosvin.github.io/tanstack-router-opinionated-conventions-production-react-apps/",
       "title": "TanStack Router: Opinionated Guidelines for Production React Apps",
-      "description": "This post captures a practical way to implement a React application using TanStack Router. It focuses on maintainability, predictable data flows, and ergonomics for both reading and writing code. 🔗 GitHub Repository 🚀 Live Preview Note: The guidelines and recommendations in this guide are based on our real-world experience building a new internal application as the Sales Apps Team at MongoDB . The"
+      "description": "This post captures a practical way to implement a React application using TanStack Router. It focuses on maintainability, predictable data flows, and ergonomics for both reading and writing code. 🔗 GitHub Repository 🚀 Live Preview Note: The guidelines and recommendations in this guide are based on our real-world experience building a new internal application as the Sales Apps Team at MongoDB . The",
+      "date": null
     }
   ]
 }

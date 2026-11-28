@@ -4,17 +4,20 @@
     {
       "link": "https://allthingsembedded.blogspot.com/2026/11/allwinner-a733-mainline-camera-cedrus.html",
       "title": "Allwinner A733 Mainline Camera & Cedrus VPU: 1% CPU 1080p30 H.264/H.265 + libcamera ISP Pipeline",
-      "description": "Big progress on mainline Linux 7.1 ( PREEMPT_RT ) for the Radxa Cubie A7A (Allwinner A733): we now have a working, zero-copy camera-to-encoder pipeline running on mainline drivers without any vendor 5.10 BSP blobs. Highlights: Hardware H.264 & H.265 (HEVC) encoding via Cedrus VE at 1080p30 using ~0.89%–1.55% of one CPU core , hardware ISP 602 ( sun60i-isp ) with AE/AWB/CCM/Gamma/BLC, and a dedicat"
+      "description": "Big progress on mainline Linux 7.1 ( PREEMPT_RT ) for the Radxa Cubie A7A (Allwinner A733): we now have a working, zero-copy camera-to-encoder pipeline running on mainline drivers without any vendor 5.10 BSP blobs. Highlights: Hardware H.264 & H.265 (HEVC) encoding via Cedrus VE at 1080p30 using ~0.89%–1.55% of one CPU core , hardware ISP 602 ( sun60i-isp ) with AE/AWB/CCM/Gamma/BLC, and a dedicat",
+      "date": null
     },
     {
       "link": "https://allthingsembedded.blogspot.com/2026/10/micropython-on-e906.html",
       "title": "Micropython on E906",
-      "description": "Experiment First, Compile Later: Python on Both Processors of the Allwinner T527 Part 5 of Bringing Up Heterogeneous RISC-V on Allwinner SoCs (Radxa Cubie A5E) One Cubie A5E, two kinds of processor, Python on both: check out new hardware and run experiments in seconds, with no compile in the loop. The Radxa Cubie A5E is a small board with a surprise inside. Its Allwinner T527 runs Linux on eight A"
+      "description": "Experiment First, Compile Later: Python on Both Processors of the Allwinner T527 Part 5 of Bringing Up Heterogeneous RISC-V on Allwinner SoCs (Radxa Cubie A5E) One Cubie A5E, two kinds of processor, Python on both: check out new hardware and run experiments in seconds, with no compile in the loop. The Radxa Cubie A5E is a small board with a surprise inside. Its Allwinner T527 runs Linux on eight A",
+      "date": null
     },
     {
       "link": "https://allthingsembedded.blogspot.com/2026/10/heterogeneous-risc-v-remoteproc-across.html",
       "title": "Heterogeneous RISC-V RemoteProc Across Allwinner Silicon: Cubie A7A (E902) vs. Cubie A5E (E906)",
-      "description": "Heterogeneous RISC-V RemoteProc Across Allwinner Silicon: Cubie A7A (E902) vs. Cubie A5E (E906) Part 5: Multi-Core Architecture, SRAM Topology, and Silicon Bring-Up Heterogeneous multi-core SoCs—combining high-performance 64-bit ARM Cortex-A application cores with deterministic auxiliary microcontrollers—have become standard in modern avionics, robotics, and edge compute. While our earlier article"
+      "description": "Heterogeneous RISC-V RemoteProc Across Allwinner Silicon: Cubie A7A (E902) vs. Cubie A5E (E906) Part 5: Multi-Core Architecture, SRAM Topology, and Silicon Bring-Up Heterogeneous multi-core SoCs—combining high-performance 64-bit ARM Cortex-A application cores with deterministic auxiliary microcontrollers—have become standard in modern avionics, robotics, and edge compute. While our earlier article",
+      "date": null
     }
   ]
 }

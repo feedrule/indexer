@@ -4,17 +4,20 @@
     {
       "link": "https://jan.alphadev.net/blog/2026/docker-wrapper/",
       "title": "docker-wrapper",
-      "description": "After my switch from Docker.app to Apple’s Container I was pretty happy with its performance but kept running into usability issues. Docker CLI always had a pretty weird command syntax, that I oftentimes had to look up or wrap into little helper shell scripts."
+      "description": "After my switch from Docker.app to Apple’s Container I was pretty happy with its performance but kept running into usability issues. Docker CLI always had a pretty weird command syntax, that I oftentimes had to look up or wrap into little helper shell scripts.",
+      "date": null
     },
     {
       "link": "https://jan.alphadev.net/blog/2026/federmappe/",
       "title": "Firestore Object Mapping made easy",
-      "description": "At work we needed to read data from the Firestore into our Mobile app."
+      "description": "At work we needed to read data from the Firestore into our Mobile app.",
+      "date": null
     },
     {
       "link": "https://jan.alphadev.net/blog/2026/kotlin-tooling/",
       "title": "Kotlin Tooling",
-      "description": "The past few months I have been writing/vibe coding small tools and helpers. Naturally in Kotlin my language of choice."
+      "description": "The past few months I have been writing/vibe coding small tools and helpers. Naturally in Kotlin my language of choice.",
+      "date": null
     }
   ]
 }

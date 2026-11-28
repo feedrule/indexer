@@ -4,12 +4,14 @@
     {
       "link": null,
       "title": "Switching production traffic to Apache Traffic Server",
-      "description": "The plan to replace Varnish as the on-disk HTTP cache component of our CDN with Apache Traffic Server is starting to take shape. On March 13th we have served the very first production requests via Apache Traffic Server (ATS). The test, which lasted about one hour, consisted in sending a little less than 10% of the frontend cache misses served by the Dallas (USA) data center through ATS instead of"
+      "description": "The plan to replace Varnish as the on-disk HTTP cache component of our CDN with Apache Traffic Server is starting to take shape. On March 13th we have served the very first production requests via Apache Traffic Server (ATS). The test, which lasted about one hour, consisted in sending a little less than 10% of the frontend cache misses served by the Dallas (USA) data center through ATS instead of",
+      "date": null
     },
     {
       "link": null,
       "title": "Wikipedia goes 100% Forward Secret",
-      "description": "On August 1st, we finished up a 6 week transition process which eliminated the last non-forward-secret cipher supported by our TLS termination, which was bare AES128-SHA. This change guarantees that all TLS connections to Wikipedia and its sister projects use cipher suites that provide forward secrecy. Wikipedia is the first major high-traffic site to take this step. From now on, it won’t be possi"
+      "description": "On August 1st, we finished up a 6 week transition process which eliminated the last non-forward-secret cipher supported by our TLS termination, which was bare AES128-SHA. This change guarantees that all TLS connections to Wikipedia and its sister projects use cipher suites that provide forward secrecy. Wikipedia is the first major high-traffic site to take this step. From now on, it won’t be possi",
+      "date": null
     }
   ]
 }

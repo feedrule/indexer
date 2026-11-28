@@ -4,17 +4,20 @@
     {
       "link": "http://serge-sans-paille.github.io/pythran-stories/pros-and-cons-of-unified-build.html",
       "title": "Pros and Cons of Unified Build",
-      "description": "Some thoughts on unified build, based on the experience gathered on Firefox codebase."
+      "description": "Some thoughts on unified build, based on the experience gathered on Firefox codebase.",
+      "date": null
     },
     {
       "link": "http://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html",
       "title": "A Hidden Weakness",
-      "description": "A surprising combination of symbol qualifiers that lead to a long bug hunt."
+      "description": "A surprising combination of symbol qualifiers that lead to a long bug hunt.",
+      "date": null
     },
     {
       "link": "http://serge-sans-paille.github.io/pythran-stories/trivial-auto-var-init-experiments.html",
       "title": "Trivial Auto Var Init Experiments",
-      "description": "exploring the impact of -ftrivial-auto-var-init on Firefox codebase"
+      "description": "exploring the impact of -ftrivial-auto-var-init on Firefox codebase",
+      "date": null
     }
   ]
 }

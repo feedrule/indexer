@@ -4,17 +4,20 @@
     {
       "link": "https://vaclav.synacek.com/blog/2026/06/28/sail-starseeker/",
       "title": "Sail Starseeker 2026",
-      "description": "8.-17.5.2026 Biograd na Moru, marina Kornati Rodinný katamarán Bali Catsmart 031 délka 11,34 m šířka 6,46 m ponor 1,11 m air draft 17,06 m stěžeň 14 m váha 9,3 t motory 2x30 HP, každý s 200l nádrží hlavní plachta 46 m2 2x 300l nádrže na pitnou vodu Posádka: 9 lidí Auto 1: Josef, Monika, Tereza, Vašek, Oskar Auto 2: Míša a Petr (vyjíždí stejně jako 1. auto, ale jedou napřímo) Auto 3: Kiki a Zdeněk"
+      "description": "8.-17.5.2026 Biograd na Moru, marina Kornati Rodinný katamarán Bali Catsmart 031 délka 11,34 m šířka 6,46 m ponor 1,11 m air draft 17,06 m stěžeň 14 m váha 9,3 t motory 2x30 HP, každý s 200l nádrží hlavní plachta 46 m2 2x 300l nádrže na pitnou vodu Posádka: 9 lidí Auto 1: Josef, Monika, Tereza, Vašek, Oskar Auto 2: Míša a Petr (vyjíždí stejně jako 1. auto, ale jedou napřímo) Auto 3: Kiki a Zdeněk",
+      "date": null
     },
     {
       "link": "https://vaclav.synacek.com/blog/2026/02/04/migrace-core-nailing-systemu/",
       "title": "Migrace core nailing systému",
-      "description": "V nehtovém studiu Záděra jsme potřebovali vyměnit hlavní systém na rezervace. Systém, který musí běžet pokud možno pořád a podle nějž ve studii všechno běží - budoucí objednávky, statistiky minulosti, rozůčtování atd. Navíc, když o Míše někde nepíšou, tak objednávek přichází i docela hodně najednou. Rozsahem je to malá migrace, ale i tak bylo potřeba ji udělat pořádně. Takže jsme udělali takovou m"
+      "description": "V nehtovém studiu Záděra jsme potřebovali vyměnit hlavní systém na rezervace. Systém, který musí běžet pokud možno pořád a podle nějž ve studii všechno běží - budoucí objednávky, statistiky minulosti, rozůčtování atd. Navíc, když o Míše někde nepíšou, tak objednávek přichází i docela hodně najednou. Rozsahem je to malá migrace, ale i tak bylo potřeba ji udělat pořádně. Takže jsme udělali takovou m",
+      "date": null
     },
     {
       "link": "https://vaclav.synacek.com/blog/2026/01/18/coding-agent-on-phone/",
       "title": "Coding agent on a phone",
-      "description": "Update 2026-02-03: Since v0.51.0 the upstream supports termux directly . So after about 20x propmting termux port of pi to rebase master on new upstream and publish update of itself to npm, this is finally not needed. Use the upstream pi-coding-agent directly. But it has been a fun excercise anyway. TLDR: not many coding agents can run on a phone as a true coding agent. So I set up pi-coding-agent"
+      "description": "Update 2026-02-03: Since v0.51.0 the upstream supports termux directly . So after about 20x propmting termux port of pi to rebase master on new upstream and publish update of itself to npm, this is finally not needed. Use the upstream pi-coding-agent directly. But it has been a fun excercise anyway. TLDR: not many coding agents can run on a phone as a true coding agent. So I set up pi-coding-agent",
+      "date": null
     }
   ]
 }

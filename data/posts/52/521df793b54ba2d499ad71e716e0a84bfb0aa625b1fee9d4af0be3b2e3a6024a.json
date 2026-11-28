@@ -4,17 +4,20 @@
     {
       "link": "https://blog.benwinding.com/preferring-public-method-isolation/",
       "title": "Preferring public method isolation",
-      "description": "Things become complicated when public methods of a class call each other. This can be demonstrated fairly easily with some examples..."
+      "description": "Things become complicated when public methods of a class call each other. This can be demonstrated fairly easily with some examples...",
+      "date": null
     },
     {
       "link": "https://blog.benwinding.com/maybe-functions/",
       "title": "Maybe Functions",
-      "description": "A coding anti-pattern that spreads it's tentacles across the codebase"
+      "description": "A coding anti-pattern that spreads it's tentacles across the codebase",
+      "date": null
     },
     {
       "link": "https://blog.benwinding.com/the-history-of-writing-tech/",
       "title": "The history of writing tech!",
-      "description": "There's been many recent revolutions in writing technologies, and I thought it would be interesting to compare them and the way they affect the author's ideas."
+      "description": "There's been many recent revolutions in writing technologies, and I thought it would be interesting to compare them and the way they affect the author's ideas.",
+      "date": null
     }
   ]
 }

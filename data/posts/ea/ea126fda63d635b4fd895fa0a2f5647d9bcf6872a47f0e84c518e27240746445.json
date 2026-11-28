@@ -4,17 +4,20 @@
     {
       "link": "https://colin-fraser.net/posts/2026-10-20-frankenchat/",
       "title": "FrankenChat",
-      "description": "I’ve been doing some simple experiments probing what kind of persistent identities we get out of language models. Here, I’ve put together a small harness that carries on a conversation with multiple models taking turns playing the assistant role. This is a transcript of a chat I had through this harness with six models: Gemini 4 Argon, Claude Opus 5.5, GPT 6.1 Sol, Grok 4.7, Kimi K3 and DeepSeek V"
+      "description": "I’ve been doing some simple experiments probing what kind of persistent identities we get out of language models. Here, I’ve put together a small harness that carries on a conversation with multiple models taking turns playing the assistant role. This is a transcript of a chat I had through this harness with six models: Gemini 4 Argon, Claude Opus 5.5, GPT 6.1 Sol, Grok 4.7, Kimi K3 and DeepSeek V",
+      "date": null
     },
     {
       "link": "https://colin-fraser.net/posts/fibonacci/",
       "title": "Computing big Fibonacci numbers using the Golden Ratio, abstract algebra, and S3 classes in R",
-      "description": "This post is a bit interdisciplinary. It stems from a back and forth that I had on X about ways of computing the Fibonacci numbers. I learned something new in that interaction, and I thought that it would be a wonderful opportunity to demonstrate some cool math and some cool R programming. If you already know the math, you might learn something about R. If you already know about R, you might learn"
+      "description": "This post is a bit interdisciplinary. It stems from a back and forth that I had on X about ways of computing the Fibonacci numbers. I learned something new in that interaction, and I thought that it would be a wonderful opportunity to demonstrate some cool math and some cool R programming. If you already know the math, you might learn something about R. If you already know about R, you might learn",
+      "date": null
     },
     {
       "link": "https://colin-fraser.net/posts/2024-11-19-wrapify-declarative-api-wrappers/",
       "title": "Wrapify",
-      "description": "I often find myself needing to write functions to make API calls in R. This tends to involve a lot of boilerplate and repetition. The {wrapify} package is an attempt to abstract as much as possible of that boilerplate away in a declarative way. The package code is available on Github , and the package can be installed with devtools::install_github(\"colin-fraser/wrapify\") . First example: OpenAI AP"
+      "description": "I often find myself needing to write functions to make API calls in R. This tends to involve a lot of boilerplate and repetition. The {wrapify} package is an attempt to abstract as much as possible of that boilerplate away in a declarative way. The package code is available on Github , and the package can be installed with devtools::install_github(\"colin-fraser/wrapify\") . First example: OpenAI AP",
+      "date": null
     }
   ]
 }

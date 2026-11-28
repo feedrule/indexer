@@ -4,17 +4,20 @@
     {
       "link": "https://scottspence.com/posts/understanding-code-mode-by-building-with-it/",
       "title": "Understanding Code Mode by building with it",
-      "description": "I think I first heard about Code Mode from Luigi (Manufact) in passing in a conversation around February this year. Then I saw it in use in Pi and my-pi by proxy then again on The Next Token podcast (this week) about its 1 year anniversary. I’ve..."
+      "description": "I think I first heard about Code Mode from Luigi (Manufact) in passing in a conversation around February this year. Then I saw it in use in Pi and my-pi by proxy then again on The Next Token podcast (this week) about its 1 year anniversary. I’ve...",
+      "date": null
     },
     {
       "link": "https://scottspence.com/posts/coolify-app-port-on-tailnet-with-tailscale-serve/",
       "title": "Put a Coolify App Port on Your Tailnet with Tailscale Serve",
-      "description": "This site has an endpoint. It’s how I run tasks on the production server from my machine: update posts, rebuild embeddings, take a database backup. It’s protected with a bearer token, but it’s on the public internet, and I’d rather it wasn’t. So I..."
+      "description": "This site has an endpoint. It’s how I run tasks on the production server from my machine: update posts, rebuild embeddings, take a database backup. It’s protected with a bearer token, but it’s on the public internet, and I’d rather it wasn’t. So I...",
+      "date": null
     },
     {
       "link": "https://scottspence.com/posts/coolify-dashboard-broken-after-upgrade-cloudflare-cache/",
       "title": "Coolify Dashboard Broken After Upgrade? Purge Two Files in Cloudflare",
-      "description": "I’ve upgraded Coolify twice this week, on two different servers, and both times the dashboard was unusable afterwards. The fix both times was purging two JavaScript files from the Cloudflare cache. This is a note for future me, and for anyone else..."
+      "description": "I’ve upgraded Coolify twice this week, on two different servers, and both times the dashboard was unusable afterwards. The fix both times was purging two JavaScript files from the Cloudflare cache. This is a note for future me, and for anyone else...",
+      "date": null
     }
   ]
 }

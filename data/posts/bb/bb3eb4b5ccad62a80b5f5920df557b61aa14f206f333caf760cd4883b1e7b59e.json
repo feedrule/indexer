@@ -4,17 +4,20 @@
     {
       "link": "https://aaddrick.com/blog/testing-clef-decision-models-as-a-content-filter",
       "title": "Testing Clef Decision Models as a Content Filter",
-      "description": "I spent four days running Cloudflare's Clef-Flash decision model on a laptop GPU to filter sensitive questions out of a four-million-row dataset. I compared serving engines and ways of asking, and about 650,000 requests showed how much a decision model's answers depend on wording and on the questions asked alongside them."
+      "description": "I spent four days running Cloudflare's Clef-Flash decision model on a laptop GPU to filter sensitive questions out of a four-million-row dataset. I compared serving engines and ways of asking, and about 650,000 requests showed how much a decision model's answers depend on wording and on the questions asked alongside them.",
+      "date": null
     },
     {
       "link": "https://aaddrick.com/blog/testing-blender-scenes-built-by-llm-agents",
       "title": "Testing Blender Scenes Built by LLM Agents",
-      "description": "An agent building a Blender scene can't see the viewport, so every claim it makes about clipping, contact, scale or motion has to be measured. These are the twelve families of checks from a 640-frame mech film a team of Claude agents built in bpy, plus the three times the checks themselves were wrong."
+      "description": "An agent building a Blender scene can't see the viewport, so every claim it makes about clipping, contact, scale or motion has to be measured. These are the twelve families of checks from a 640-frame mech film a team of Claude agents built in bpy, plus the three times the checks themselves were wrong.",
+      "date": null
     },
     {
       "link": "https://aaddrick.com/blog/claude-code-projects-beta-under-the-hood",
       "title": "How Claude Code's Projects Beta Works Under the Hood",
-      "description": "A project is a channel, a thread is a message, and the Claude doing work on your machine is a child of a cloud session you never see. A full walkthrough of the Projects beta, from the channels API down to the process the desktop app spawns in your folder."
+      "description": "A project is a channel, a thread is a message, and the Claude doing work on your machine is a child of a cloud session you never see. A full walkthrough of the Projects beta, from the channels API down to the process the desktop app spawns in your folder.",
+      "date": null
     }
   ]
 }

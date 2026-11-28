@@ -4,17 +4,20 @@
     {
       "link": "http://toranbillups.com/blog/archive/2026/04/19/less-magic-more-engineering/",
       "title": "Less Magic More Engineering",
-      "description": "Early in my career, I followed a Python programmer named Gary Bernhardt. Some of you might know him from the popular WAT talk that made data structures look like an afterthought in JavaScript. I had the pleasure of watching Gary live code as part of \"birds of a feather\" one night at Pycon 2012 and I was never the same. As most early career programmers do I put Gary on a pedestal. If I'm honest, I"
+      "description": "Early in my career, I followed a Python programmer named Gary Bernhardt. Some of you might know him from the popular WAT talk that made data structures look like an afterthought in JavaScript. I had the pleasure of watching Gary live code as part of \"birds of a feather\" one night at Pycon 2012 and I was never the same. As most early career programmers do I put Gary on a pedestal. If I'm honest, I",
+      "date": null
     },
     {
       "link": "http://toranbillups.com/blog/archive/2025/10/04/embracing-disagreement/",
       "title": "Embracing Disagreement",
-      "description": "For years, I was that engineer who obsessed over the perfect abstraction, the cleanest architecture, the most elegant solution. I'd spend hours refactoring code and building features that were interesting but not valuable. I was optimizing for everything except what mattered most: building products that people actually wanted. This shift from code-centric to impact-centric thinking doesn't happen"
+      "description": "For years, I was that engineer who obsessed over the perfect abstraction, the cleanest architecture, the most elegant solution. I'd spend hours refactoring code and building features that were interesting but not valuable. I was optimizing for everything except what mattered most: building products that people actually wanted. This shift from code-centric to impact-centric thinking doesn't happen",
+      "date": null
     },
     {
       "link": "http://toranbillups.com/blog/archive/2025/08/16/building-keyword-search-in-postgres/",
       "title": "Building BM25 Keyword Search In Postgres",
-      "description": "It turns out, you can build a surprisingly powerful keyword search, known as BM25, with just a handful of SQL functions. What follows is my journey including what I've learned, how this algorithm works in simple terms, and how I implemented it without any external dependencies. The Foundation: From TF-IDF to BM25 Before diving into BM25, it's helpful to understand TF-IDF (Term Frequency-Inverse Do"
+      "description": "It turns out, you can build a surprisingly powerful keyword search, known as BM25, with just a handful of SQL functions. What follows is my journey including what I've learned, how this algorithm works in simple terms, and how I implemented it without any external dependencies. The Foundation: From TF-IDF to BM25 Before diving into BM25, it's helpful to understand TF-IDF (Term Frequency-Inverse Do",
+      "date": null
     }
   ]
 }

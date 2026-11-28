@@ -4,17 +4,20 @@
     {
       "link": "https://www.neilhenning.dev/posts/using-ai-in-my-libraries/",
       "title": "I'm Allowing AI Use in my Libraries",
-      "description": "I’ve taken the decision to allow AI use for PRs to my libraries. I personally believe these tools can be a net add (with lots of straight jackets and caveats), but I also think we’ve reached a point where I can’t really be sure whether the incoming PR requests are from people using AI tooling to help them, or just free roaming OpenClaw instances that are masking their AI nature very well, and so i"
+      "description": "I’ve taken the decision to allow AI use for PRs to my libraries. I personally believe these tools can be a net add (with lots of straight jackets and caveats), but I also think we’ve reached a point where I can’t really be sure whether the incoming PR requests are from people using AI tooling to help them, or just free roaming OpenClaw instances that are masking their AI nature very well, and so i",
+      "date": null
     },
     {
       "link": "https://www.neilhenning.dev/posts/five-stages-grief/",
       "title": "Five Stages of Grief With the Rise of AI",
-      "description": "I tried copilot in VS Code sometime in 2025 and was thoroughly disappointed with its ability. It felt like a really bad auto-complete at best, making plenty of mistakes and generally being utterly irritating to actually use with its need to constantly pop in as I was typing with long form coding suggestions that were often wrong. I was already predisposed to being negative about AI due to the usua"
+      "description": "I tried copilot in VS Code sometime in 2025 and was thoroughly disappointed with its ability. It felt like a really bad auto-complete at best, making plenty of mistakes and generally being utterly irritating to actually use with its need to constantly pop in as I was typing with long form coding suggestions that were often wrong. I was already predisposed to being negative about AI due to the usua",
+      "date": null
     },
     {
       "link": "https://www.neilhenning.dev/posts/musttail_you_about_a_tokenizer/",
       "title": "I [[musttail]] You About a Tokenizer",
-      "description": "One thing I’ve never really messed with before is the [[clang::musttail]] compiler attribute. Tail calls are when you exit a function by calling another function as the final thing within the function. For example: int foo(float x); int bar(float x) { x += 42.0f; return foo(x); } In the above example, foo is a tail call within the function bar . Compilers can take advantage of this by doing someth"
+      "description": "One thing I’ve never really messed with before is the [[clang::musttail]] compiler attribute. Tail calls are when you exit a function by calling another function as the final thing within the function. For example: int foo(float x); int bar(float x) { x += 42.0f; return foo(x); } In the above example, foo is a tail call within the function bar . Compilers can take advantage of this by doing someth",
+      "date": null
     }
   ]
 }

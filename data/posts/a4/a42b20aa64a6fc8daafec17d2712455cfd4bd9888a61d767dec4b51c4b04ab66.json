@@ -4,17 +4,20 @@
     {
       "link": "https://blog.eyas.sh/2025/12/algorithmic-crosswords/",
       "title": "Algorithmically Generated Crosswords: Building something 'good enough' for an NP-Complete problem",
-      "description": "Building an efficient crossword generator algorithm. Learn how lazy sets, constraint propagation, and domain splitting solve this NP-Complete problem."
+      "description": "Building an efficient crossword generator algorithm. Learn how lazy sets, constraint propagation, and domain splitting solve this NP-Complete problem.",
+      "date": null
     },
     {
       "link": "https://blog.eyas.sh/2023/02/server-environments/",
       "title": "Server Environments",
-      "description": "What is a deployment server environment? Learn the principles of isolation and best practices for Dev, Staging, and Prod setups."
+      "description": "What is a deployment server environment? Learn the principles of isolation and best practices for Dev, Staging, and Prod setups.",
+      "date": null
     },
     {
       "link": "https://blog.eyas.sh/2022/03/react-toc/",
       "title": "Writing a React Table of Contents Component",
-      "description": "Last year, I wrote about migrating this blog to Next.js. It ended up being a huge post, so I wrote a React component to make it more navigable."
+      "description": "Last year, I wrote about migrating this blog to Next.js. It ended up being a huge post, so I wrote a React component to make it more navigable.",
+      "date": null
     }
   ]
 }

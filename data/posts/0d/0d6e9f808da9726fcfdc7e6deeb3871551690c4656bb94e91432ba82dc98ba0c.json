@@ -4,17 +4,20 @@
     {
       "link": "https://bengribaudo.com/blog/2026/05/22/7767/deep-dive-into-joins-part-2-not-so-common-but-real-world-useful",
       "title": "Deep Dive Into Joins (Part 2): Not So Common, But Real-World Useful",
-      "description": "If you’ve defined joins for any length of time, you’re likely familiar with left, inner and full joins, and perhaps even right joins (opposite of a left join). But these aren’t the only kinds of joins out there. There are several others which, while their names may not be as familiar, still have practical applications […]"
+      "description": "If you’ve defined joins for any length of time, you’re likely familiar with left, inner and full joins, and perhaps even right joins (opposite of a left join). But these aren’t the only kinds of joins out there. There are several others which, while their names may not be as familiar, still have practical applications […]",
+      "date": null
     },
     {
       "link": "https://bengribaudo.com/blog/2026/05/05/7714/deep-dive-into-joins-part-1-join-vs-nested-join",
       "title": "Deep Dive Into Joins (Part 1): Join vs. Nested Join",
-      "description": "If you’ve used Power Query for any length of time, you almost certainly have joined tables together. Joins are a common operation—and one with various details and options to be explored. Let’s take a few posts to look into some of these interesting areas! Our focus will be topics specific to how Power Query implements […]"
+      "description": "If you’ve used Power Query for any length of time, you almost certainly have joined tables together. Joins are a common operation—and one with various details and options to be explored. Let’s take a few posts to look into some of these interesting areas! Our focus will be topics specific to how Power Query implements […]",
+      "date": null
     },
     {
       "link": "https://bengribaudo.com/blog/2026/04/16/7698/goodbye-dataflows-for-some",
       "title": "Goodbye Dataflows, For Some?",
-      "description": "Earlier this month, Microsoft announced the future retirement of gen1 dataflows. Microsoft left unstated whether dataflows would remain, or be removed from, what is included in Microsoft Power BI Pro and Premium Per User (PPU) licenses. This uncertainty has raised serious concerns in the community. Update: On April 20, Microsoft revised their announcement post, stating […]"
+      "description": "Earlier this month, Microsoft announced the future retirement of gen1 dataflows. Microsoft left unstated whether dataflows would remain, or be removed from, what is included in Microsoft Power BI Pro and Premium Per User (PPU) licenses. This uncertainty has raised serious concerns in the community. Update: On April 20, Microsoft revised their announcement post, stating […]",
+      "date": null
     }
   ]
 }

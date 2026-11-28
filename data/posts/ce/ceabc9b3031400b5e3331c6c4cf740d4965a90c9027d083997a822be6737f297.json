@@ -4,17 +4,20 @@
     {
       "link": "http://thomasvanderberg.nl/blog/hao-christmas-kitty/",
       "title": "Christmas Kitty",
-      "description": "Merry Christmas and happy new year! Thanks Hao Tian (田好) for making this Christmas Kitty:"
+      "description": "Merry Christmas and happy new year! Thanks Hao Tian (田好) for making this Christmas Kitty:",
+      "date": null
     },
     {
       "link": "http://thomasvanderberg.nl/blog/pentesting-firefox-containers/",
       "title": "Web pentesting with Firefox Containers and Container Proxy",
-      "description": "I thought I’d share my workflow for web pentesting with Firefox containers. It has advantages by allowing you to be logged in to multiple accounts at the same time, which helps with authorization testing, and also makes it easy to separate traffic sent to the intercepting proxy and other traffic without configuring Foxyproxy patterns. I’ve been using it for years but I haven’t really seen it used"
+      "description": "I thought I’d share my workflow for web pentesting with Firefox containers. It has advantages by allowing you to be logged in to multiple accounts at the same time, which helps with authorization testing, and also makes it easy to separate traffic sent to the intercepting proxy and other traffic without configuring Foxyproxy patterns. I’ve been using it for years but I haven’t really seen it used",
+      "date": null
     },
     {
       "link": "http://thomasvanderberg.nl/blog/fix-cjk-font-order-linux/",
       "title": "Fix CJK font order on Linux (Ubuntu)",
-      "description": "A short post for something I’ll probably need to remember in the future. In Unicode, Chinese simplified, traditional, and Japanese style characters all use the same glyphs. Font rendering is used to turn the glyph into a simplified, traditional, or Japanese style character. Today I found my Ubuntu system was using Japanese style characters while I wanted it to use Chinese simplified (since I’m lea"
+      "description": "A short post for something I’ll probably need to remember in the future. In Unicode, Chinese simplified, traditional, and Japanese style characters all use the same glyphs. Font rendering is used to turn the glyph into a simplified, traditional, or Japanese style character. Today I found my Ubuntu system was using Japanese style characters while I wanted it to use Chinese simplified (since I’m lea",
+      "date": null
     }
   ]
 }

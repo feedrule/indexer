@@ -4,17 +4,20 @@
     {
       "link": "https://aaron-ang.github.io/approximate-lru-in-kvm-evaluation/",
       "title": "KVM Page Eviction, Part 2: Tracking Page Use",
-      "description": "In Part 1 , we replaced FIFO with CLOCK in KVM’s legacy memory management unit (MMU) for a UCSD class project. KVM caches address mappings in shadow pages . Evicting a shadow page discards those mappings while leaving guest memory intact. If the guest accesses that memory again, a page fault lets KVM rebuild the missing mapping. FIFO evicts the oldest shadow pages first. CLOCK skips a shadow page"
+      "description": "In Part 1 , we replaced FIFO with CLOCK in KVM’s legacy memory management unit (MMU) for a UCSD class project. KVM caches address mappings in shadow pages . Evicting a shadow page discards those mappings while leaving guest memory intact. If the guest accesses that memory again, a page fault lets KVM rebuild the missing mapping. FIFO evicts the oldest shadow pages first. CLOCK skips a shadow page",
+      "date": null
     },
     {
       "link": "https://aaron-ang.github.io/optimizing-cuda-sgemm-gb10/",
       "title": "Optimizing Matrix Multiply on CUDA, Part 2",
-      "description": "In late summer 2026, I returned to the SGEMM (single-precision matrix multiply) kernel from Part 1 . Almost two years had passed since the course project, and although I no longer had access to its T4 GPU, I now had an NVIDIA GB10 to experiment with. The course kernel reached about 60% of cuBLAS ’s throughput on the new GPU, leaving room to continue the optimizations we had stopped short of implem"
+      "description": "In late summer 2026, I returned to the SGEMM (single-precision matrix multiply) kernel from Part 1 . Almost two years had passed since the course project, and although I no longer had access to its T4 GPU, I now had an NVIDIA GB10 to experiment with. The course kernel reached about 60% of cuBLAS ’s throughput on the new GPU, leaving room to continue the optimizations we had stopped short of implem",
+      "date": null
     },
     {
       "link": "https://aaron-ang.github.io/building-opthash/",
       "title": "opthash: Bridging Theory with Hardware",
-      "description": "Earlier this year, a Quanta video on 2025’s biggest breakthroughs in computer science showcased a result about hash tables that motivated me to implement it. The paper, Optimal Bounds for Open Addressing Without Reordering , presents Elastic Hashing and Funnel Hashing: two ways to keep insertion and successful lookup cheap even when a table is nearly full, without moving entries after placing them"
+      "description": "Earlier this year, a Quanta video on 2025’s biggest breakthroughs in computer science showcased a result about hash tables that motivated me to implement it. The paper, Optimal Bounds for Open Addressing Without Reordering , presents Elastic Hashing and Funnel Hashing: two ways to keep insertion and successful lookup cheap even when a table is nearly full, without moving entries after placing them",
+      "date": null
     }
   ]
 }

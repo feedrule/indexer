@@ -4,17 +4,20 @@
     {
       "link": "https://djoerdhiemstra.com/2026/blinder-it-kin-wier-net/",
       "title": "Blinder, it kin wier net!",
-      "description": "Language Identification on the Web for Low-Resource Languages Language identification is the task of assigning a language code (e.g. “English”) to an unknown piece of text. While language identification may seem like a solved problem on clean text, its performance degrades substantially on noisy web data. We analyze the quality of four open source language … Continue reading \"Blinder, it kin wier"
+      "description": "Language Identification on the Web for Low-Resource Languages Language identification is the task of assigning a language code (e.g. “English”) to an unknown piece of text. While language identification may seem like a solved problem on clean text, its performance degrades substantially on noisy web data. We analyze the quality of four open source language … Continue reading \"Blinder, it kin wier",
+      "date": null
     },
     {
       "link": "https://djoerdhiemstra.com/2026/norman-knyazev-defends-phd-thesis-on-estimation-methods-for-ranking-and-recommendation/",
       "title": "Norman Knyazev defends PhD thesis on Estimation Methods for Ranking and Recommendation",
-      "description": "Estimation Methods for Ranking and Recommendation: Addressing Bias, Variance and Efficiency by Norman Knyazev Evaluation and optimization of ranking and recommendation systems involves estimating various quantities such as relevance, gradients or probabilities. Importantly, different estimation procedures may vary in terms of their statistical and computational properties, which can in turn signif"
+      "description": "Estimation Methods for Ranking and Recommendation: Addressing Bias, Variance and Efficiency by Norman Knyazev Evaluation and optimization of ranking and recommendation systems involves estimating various quantities such as relevance, gradients or probabilities. Importantly, different estimation procedures may vary in terms of their statistical and computational properties, which can in turn signif",
+      "date": null
     },
     {
       "link": "https://djoerdhiemstra.com/2026/geese-belong-in-data-lakes-an-index-lake-for-anserini/",
       "title": "Geese Belong in (Data) Lakes",
-      "description": "An Index Lake for Anserini by Gijs Hendriksen, Djoerd Hiemstra, Jimmy Lin, and Arjen de Vries We present an index lake for Anserini: a remote index representation of all inverted indexes from Anserini’s reproducibility suite. Each index is represented as a set of Parquet files on remote object storage, and retrieval is performed through SQL … Continue reading \"Geese Belong in (Data) Lakes\""
+      "description": "An Index Lake for Anserini by Gijs Hendriksen, Djoerd Hiemstra, Jimmy Lin, and Arjen de Vries We present an index lake for Anserini: a remote index representation of all inverted indexes from Anserini’s reproducibility suite. Each index is represented as a set of Parquet files on remote object storage, and retrieval is performed through SQL … Continue reading \"Geese Belong in (Data) Lakes\"",
+      "date": null
     }
   ]
 }

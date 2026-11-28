@@ -4,17 +4,20 @@
     {
       "link": "https://karanpratapsingh.com/blog/docker-sandboxes-introduction",
       "title": "Introduction to Docker Sandboxes with Go",
-      "description": "Running AI agents in isolated microVMs, from the sbx CLI and Go"
+      "description": "Running AI agents in isolated microVMs, from the sbx CLI and Go",
+      "date": null
     },
     {
       "link": "https://karanpratapsingh.com/blog/webrtc-at-scale",
       "title": "WebRTC at Scale",
-      "description": "How WebRTC scales: signaling, NAT traversal, and the Mesh/SFU/MCU tradeoff"
+      "description": "How WebRTC scales: signaling, NAT traversal, and the Mesh/SFU/MCU tradeoff",
+      "date": null
     },
     {
       "link": "https://karanpratapsingh.com/blog/kubernetes-operators",
       "title": "Building Kubernetes Operators",
-      "description": "A hands-on guide to how Kubernetes operators work, and how to build one from scratch"
+      "description": "A hands-on guide to how Kubernetes operators work, and how to build one from scratch",
+      "date": null
     }
   ]
 }

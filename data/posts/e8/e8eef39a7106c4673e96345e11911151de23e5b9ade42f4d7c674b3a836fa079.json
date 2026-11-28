@@ -4,17 +4,20 @@
     {
       "link": "https://blogs.igalia.com/compilers/2026/05/25/five-years-of-javascript-on-webassembly/",
       "title": "Five years of JavaScript on WebAssembly",
-      "description": "This is a cross-post from my personal blog Five years of JavaScript on WebAssembly . This post summarizes my talk at Wasm I/O 2026: Five Years of JavaScript on WebAssembly. The recording will be uploaded to the 2026 playlist . By the end, you should have a clear picture of how JavaScript on WebAssembly evolved from an experiment into a production toolchain, the design decisions that shaped it, and"
+      "description": "This is a cross-post from my personal blog Five years of JavaScript on WebAssembly . This post summarizes my talk at Wasm I/O 2026: Five Years of JavaScript on WebAssembly. The recording will be uploaded to the 2026 playlist . By the end, you should have a clear picture of how JavaScript on WebAssembly evolved from an experiment into a production toolchain, the design decisions that shaped it, and",
+      "date": null
     },
     {
       "link": "https://blogs.igalia.com/compilers/2026/02/06/igalia-s-compilers-team-a-2025-retrospective/",
       "title": "Igalia’s Compilers Team - A 2025 Retrospective",
-      "description": "Hey, hey, it’s the beginning of a new year and before we sprint too far into 2026, let’s take a quick breather, zoom out, and celebrate what Igalia’s awesome compilers team got up to in 2025. Over the past year we’ve been deeply involved in shaping and shipping key Web and JavaScript standards, which includes not just participating in committees but also chairing and actively moving the proposals"
+      "description": "Hey, hey, it’s the beginning of a new year and before we sprint too far into 2026, let’s take a quick breather, zoom out, and celebrate what Igalia’s awesome compilers team got up to in 2025. Over the past year we’ve been deeply involved in shaping and shipping key Web and JavaScript standards, which includes not just participating in committees but also chairing and actively moving the proposals",
+      "date": null
     },
     {
       "link": "https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/",
       "title": "Implementing the Temporal proposal in JavaScriptCore",
-      "description": "Image source For the past year, I've been working on implementing the Temporal proposal for date and time handling in JavaScript, in JavaScriptCore (JSC). JavaScriptCore is the JavaScript engine that's part of the WebKit browser engine. When I started, Temporal was partially implemented, with support for the Duration , PlainDate , PlainDateTime , and Instant types. However, many test262 tests rela"
+      "description": "Image source For the past year, I've been working on implementing the Temporal proposal for date and time handling in JavaScript, in JavaScriptCore (JSC). JavaScriptCore is the JavaScript engine that's part of the WebKit browser engine. When I started, Temporal was partially implemented, with support for the Duration , PlainDate , PlainDateTime , and Instant types. However, many test262 tests rela",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://niklasmtj.de/blog/nono-profiler-wizard/",
       "title": "Build your `nono` profiles with a Wizard 🧙🏼 ♂️",
-      "description": "I talked about sandboxing my agents with [`nono`](https://nono.sh) in the last blog post already (check it out here: [Use `nono` AI agent sandboxes in Zed Agent Servers](https://niklasmtj.de/blog/nono-agent-sandboxes-in-zed/)). After chatting with friends while setting up my own custom profile(s), I realised that it would take more than 5 minutes. One mistake I made when starting out with my custo"
+      "description": "I talked about sandboxing my agents with [`nono`](https://nono.sh) in the last blog post already (check it out here: [Use `nono` AI agent sandboxes in Zed Agent Servers](https://niklasmtj.de/blog/nono-agent-sandboxes-in-zed/)). After chatting with friends while setting up my own custom profile(s), I realised that it would take more than 5 minutes. One mistake I made when starting out with my custo",
+      "date": null
     },
     {
       "link": "https://niklasmtj.de/blog/nono-agent-sandboxes-in-zed/",
       "title": "Use `nono` AI agent sandboxes in Zed Agent Servers",
-      "description": "I recently set up [nono](nono.sh) sandboxes on my Mac to put my Claude Code sessions into a more restricted playground. Having Claude live unrestricted on my whole filesystem did not feel right, especially knowing that it could (potentially) request pretty much any website out there as well. No one wants to experience prompt injection or random deletions of your database or even your file system r"
+      "description": "I recently set up [nono](nono.sh) sandboxes on my Mac to put my Claude Code sessions into a more restricted playground. Having Claude live unrestricted on my whole filesystem did not feel right, especially knowing that it could (potentially) request pretty much any website out there as well. No one wants to experience prompt injection or random deletions of your database or even your file system r",
+      "date": null
     },
     {
       "link": "https://niklasmtj.de/blog/build-a-serverless-platform/",
       "title": "I'm building a European serverless hosting platform",
-      "description": "(Or at least I will try to build it) There is no hosting provider like AWS. Period. Their services are so advancement that European Hosters are faaaaar away from providing similar managed solutions. With the current advancements in politics, the need for such services increasing instead of decreasing."
+      "description": "(Or at least I will try to build it) There is no hosting provider like AWS. Period. Their services are so advancement that European Hosters are faaaaar away from providing similar managed solutions. With the current advancements in politics, the need for such services increasing instead of decreasing.",
+      "date": null
     }
   ]
 }

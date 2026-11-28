@@ -4,17 +4,20 @@
     {
       "link": "https://jthor.eth.link/blog/2026/10/02/double-spend-problem-in-identity",
       "title": "The Double-Spend Problem in Identity",
-      "description": "A rotating public-key identity has a hidden double-spend problem. Signatures can prove that a key authorized a transition, but without a trusted order or finality mechanism they cannot tell a new peer which of several valid histories is canonical. This matters most for organizations, where former stakeholders retain historical authority by default."
+      "description": "A rotating public-key identity has a hidden double-spend problem. Signatures can prove that a key authorized a transition, but without a trusted order or finality mechanism they cannot tell a new peer which of several valid histories is canonical. This matters most for organizations, where former stakeholders retain historical authority by default.",
+      "date": null
     },
     {
       "link": "https://jthor.eth.link/blog/2026/06/01/new-funding-model-for-open-source",
       "title": "A New Funding Model for Open Source",
-      "description": "Open source software does not have to choose between user freedom and sustainable funding. By combining GPL licensing with paid entitlements to the official service path, projects can keep the code forkable while making it rational for serious users to fund the shared infrastructure they depend on."
+      "description": "Open source software does not have to choose between user freedom and sustainable funding. By combining GPL licensing with paid entitlements to the official service path, projects can keep the code forkable while making it rational for serious users to fund the shared infrastructure they depend on.",
+      "date": null
     },
     {
       "link": "https://jthor.eth.link/blog/2026/04/13/web3-means-freedom-software",
       "title": "Web3 means Freedom Software",
-      "description": "Web3's promise of user sovereignty remains unfulfilled—corrupted by venture-driven growth pressures that have strayed far from its original vision. True web3 must embody censorship resistance, open source freedom, privacy, and security, principles"
+      "description": "Web3's promise of user sovereignty remains unfulfilled—corrupted by venture-driven growth pressures that have strayed far from its original vision. True web3 must embody censorship resistance, open source freedom, privacy, and security, principles",
+      "date": null
     }
   ]
 }

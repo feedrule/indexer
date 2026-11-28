@@ -4,17 +4,20 @@
     {
       "link": "https://federicocarrone.com/series/one-path/ergodicity-explained/",
       "title": "Ergodicity, Explained: Why the Average Outcome Is Not Your Outcome",
-      "description": "A process is ergodic when the average over time, for one participant, equals the average across many participants at a single moment. Wealth is not ergodic. The average wealth of a group can grow while almost every person in it gets poorer. That is why the expected value of a bet is the wrong guide for decisions you repeat with the same money."
+      "description": "A process is ergodic when the average over time, for one participant, equals the average across many participants at a single moment. Wealth is not ergodic. The average wealth of a group can grow while almost every person in it gets poorer. That is why the expected value of a bet is the wrong guide for decisions you repeat with the same money.",
+      "date": null
     },
     {
       "link": "https://federicocarrone.com/series/one-path/insurance/",
       "title": "Why Insurance Makes Both Sides Richer",
-      "description": "Measured in expected wealth, insurance is zero-sum . The buyer pays a fee larger than the expected loss, the insurer keeps the difference, and whatever one side gains on average the other loses. Measured in the growth rate each side actually lives through over time, it is not. There is a range of fees at which both the buyer and the insurer grow faster than they would without the contract."
+      "description": "Measured in expected wealth, insurance is zero-sum . The buyer pays a fee larger than the expected loss, the insurer keeps the difference, and whatever one side gains on average the other loses. Measured in the growth rate each side actually lives through over time, it is not. There is a range of fees at which both the buyer and the insurer grow faster than they would without the contract.",
+      "date": null
     },
     {
       "link": "https://federicocarrone.com/series/one-path/kelly-criterion/",
       "title": "The Kelly Criterion: How Much to Bet When You Have an Edge",
-      "description": "The Kelly criterion tells you how much of your wealth to put on a bet you expect to win. It picks the fraction that maximizes the growth rate of your wealth over time, the rate you actually live through when you bet again and again with the same money. For a bet that pays $b$ times your stake with probability $p$ and loses the stake otherwise, the Kelly fraction is $f^* = p - (1-p)/b$."
+      "description": "The Kelly criterion tells you how much of your wealth to put on a bet you expect to win. It picks the fraction that maximizes the growth rate of your wealth over time, the rate you actually live through when you bet again and again with the same money. For a bet that pays $b$ times your stake with probability $p$ and loses the stake otherwise, the Kelly fraction is $f^* = p - (1-p)/b$.",
+      "date": null
     }
   ]
 }

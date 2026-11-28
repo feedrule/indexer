@@ -4,17 +4,20 @@
     {
       "link": "https://robinroy.xyz/blog/frappe-document-follow-vulnerability/",
       "title": "Entry, Escalation, Persistence: Taking Apart Frappe's Document Follow",
-      "description": "Frappe is an open-source framework used to build software like ERPNext , a widely deployed open-source ERP. My job is mostly working with apps built on this framework. During one session in May I noticed some peculiarities with how frappe’s document follow feature is implemented. Curious, I dug deep to find a chain of three authorization failures - one at the object level, one at the field level,"
+      "description": "Frappe is an open-source framework used to build software like ERPNext , a widely deployed open-source ERP. My job is mostly working with apps built on this framework. During one session in May I noticed some peculiarities with how frappe’s document follow feature is implemented. Curious, I dug deep to find a chain of three authorization failures - one at the object level, one at the field level,",
+      "date": null
     },
     {
       "link": "https://robinroy.xyz/projects/",
       "title": "Projects",
-      "description": "Some selected projects. The rest are on my GitHub ."
+      "description": "Some selected projects. The rest are on my GitHub .",
+      "date": null
     },
     {
       "link": "https://robinroy.xyz/cves/",
       "title": "CVEs",
-      "description": "Security vulnerabilities I’ve found and reported."
+      "description": "Security vulnerabilities I’ve found and reported.",
+      "date": null
     }
   ]
 }

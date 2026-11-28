@@ -4,17 +4,20 @@
     {
       "link": "https://www.geekytidbits.com/switchboard-a-minimal-macos-wrapper-for-web-apps/",
       "title": "Switchboard: A Minimal macOS Wrapper for Web Apps",
-      "description": "For a long time I used Ferdium as one of my main work apps to keep “things that need my attention” in one place. It was very helpful to have an app that would show badge notifications when I had something new to read, something new to respond to, or something that needed my attention. I had Gmail, Slack, Calendar, Asana, GitHub and a few more set up there. Keeping this in a dedicated app separate"
+      "description": "For a long time I used Ferdium as one of my main work apps to keep “things that need my attention” in one place. It was very helpful to have an app that would show badge notifications when I had something new to read, something new to respond to, or something that needed my attention. I had Gmail, Slack, Calendar, Asana, GitHub and a few more set up there. Keeping this in a dedicated app separate",
+      "date": null
     },
     {
       "link": "https://www.geekytidbits.com/guest-garage-control-page-for-home-assistant/",
       "title": "Guest Garage Control Page for Home Assistant",
-      "description": "Every so often someone needs to get into our house while we’re away, like a family member dropping something off or a repair person showing up early. I didn’t want to hand out a garage remote or set up a Home Assistant account for someone who only needs in once. So I built a simple guest page. I copy a link from my Home Assistant dashboard and text it to them. They tap it, get one big button that"
+      "description": "Every so often someone needs to get into our house while we’re away, like a family member dropping something off or a repair person showing up early. I didn’t want to hand out a garage remote or set up a Home Assistant account for someone who only needs in once. So I built a simple guest page. I copy a link from my Home Assistant dashboard and text it to them. They tap it, get one big button that",
+      "date": null
     },
     {
       "link": "https://www.geekytidbits.com/sql-join-strategies-and-performance/",
       "title": "SQL Join Strategies and Performance in PostgreSQL",
-      "description": "When you write a SQL query that joins two or more tables, PostgreSQL has to decide how to execute that join. The strategy it chooses can have a big impact on performance. Understanding the different join strategies can help you write more efficient queries and optimize your database. Let’s take an example. We have two tables: users and posts . We want to find all posts made by a user with the user"
+      "description": "When you write a SQL query that joins two or more tables, PostgreSQL has to decide how to execute that join. The strategy it chooses can have a big impact on performance. Understanding the different join strategies can help you write more efficient queries and optimize your database. Let’s take an example. We have two tables: users and posts . We want to find all posts made by a user with the user",
+      "date": null
     }
   ]
 }

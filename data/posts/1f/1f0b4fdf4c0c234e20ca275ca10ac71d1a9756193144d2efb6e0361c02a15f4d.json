@@ -4,17 +4,20 @@
     {
       "link": "https://blog.al4.co.nz/2026/10/maintenance-last-night/",
       "title": "Maintenance last night",
-      "description": "Last night if you visited this site (NZ time) you would have seen this: This was because PHP gave advance warning of a critical security vulnerability, with the fix landing at 2am NZDT, when I was asleep. Setting this up was fortunately very easy – I simply replaced the WordPress Docker container with an nginx […]"
+      "description": "Last night if you visited this site (NZ time) you would have seen this: This was because PHP gave advance warning of a critical security vulnerability, with the fix landing at 2am NZDT, when I was asleep. Setting this up was fortunately very easy – I simply replaced the WordPress Docker container with an nginx […]",
+      "date": null
     },
     {
       "link": "https://blog.al4.co.nz/2026/01/homelab-learnings/",
       "title": "Homelab Learnings",
-      "description": "My experience running IT infrastructure at home, with some recommendations foranyone starting out on their Homelab journey. I’ve been running a home server of some kind for more than 20 years. It started when I was at university, hosting a website on an old PC to share party photos (this was in the days before […]"
+      "description": "My experience running IT infrastructure at home, with some recommendations foranyone starting out on their Homelab journey. I’ve been running a home server of some kind for more than 20 years. It started when I was at university, hosting a website on an old PC to share party photos (this was in the days before […]",
+      "date": null
     },
     {
       "link": "https://blog.al4.co.nz/2024/07/compressing-a-pdf-file-on-macos/",
       "title": "Compressing a PDF file on macOS",
-      "description": "Sometimes people create PDF files with large images, resulting in files that are too large to email or sometimes even upload on web forms. A quick and dirty way to compress such files is using ghostscript in a terminal, which you can install on macOS using homebrew (brew install ghostscript): Replace “myfile.pdf” with the file […]"
+      "description": "Sometimes people create PDF files with large images, resulting in files that are too large to email or sometimes even upload on web forms. A quick and dirty way to compress such files is using ghostscript in a terminal, which you can install on macOS using homebrew (brew install ghostscript): Replace “myfile.pdf” with the file […]",
+      "date": null
     }
   ]
 }

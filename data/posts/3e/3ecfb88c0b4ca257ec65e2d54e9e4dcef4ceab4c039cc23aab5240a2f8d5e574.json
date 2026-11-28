@@ -4,17 +4,20 @@
     {
       "link": "https://blog.lenot.re/a/nvme",
       "title": "Non-Volatile Memory Express (NVMe)",
-      "description": "An overview of NVMe and its support on Maestro"
+      "description": "An overview of NVMe and its support on Maestro",
+      "date": null
     },
     {
       "link": "https://blog.lenot.re/a/2025-retrospective",
       "title": "Maestro: 2025 retrospective",
-      "description": "A look back on Maestro's progress throughout 2025"
+      "description": "A look back on Maestro's progress throughout 2025",
+      "date": null
     },
     {
       "link": "https://blog.lenot.re/a/smp",
       "title": "Symmetric MultiProcessing, Hyper-Threading and scheduling on Maestro",
-      "description": "A dive into the PIC, PIT, ACPI, APIC, HPET, SMP, TLB and other confusing acronyms!"
+      "description": "A dive into the PIC, PIT, ACPI, APIC, HPET, SMP, TLB and other confusing acronyms!",
+      "date": null
     }
   ]
 }

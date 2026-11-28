@@ -4,17 +4,20 @@
     {
       "link": "https://projects.rocks/license.html",
       "title": "Switched to EUPL v1.2 License and Improved Smolweb Compliance",
-      "description": "The project has switched from GPL v3.0 to EUPL v1.2 (European Union Public Licence). CSS has been updated to Grade A smolweb compliance by removing Grade B/C properties. All external links no longer use target=\"_blank\"."
+      "description": "The project has switched from GPL v3.0 to EUPL v1.2 (European Union Public Licence). CSS has been updated to Grade A smolweb compliance by removing Grade B/C properties. All external links no longer use target=\"_blank\".",
+      "date": null
     },
     {
       "link": "https://projects.rocks/blog/webcalendar-docker.html",
       "title": "A Proper Docker Image for WebCalendar: SQLite-Backed, Multi-Arch, Nothing Hanging Outside the Container",
-      "description": "A self-contained, SQLite-backed, multi-arch Docker image for WebCalendar, built from git to sidestep an upstream packaging bug."
+      "description": "A self-contained, SQLite-backed, multi-arch Docker image for WebCalendar, built from git to sidestep an upstream packaging bug.",
+      "date": null
     },
     {
       "link": "https://projects.rocks/index.html",
       "title": "Website improvements: accessibility, SEO, and 404 page",
-      "description": "Added skip-to-content navigation, Open Graph tags, favicon, sitemap, and a custom 404 page."
+      "description": "Added skip-to-content navigation, Open Graph tags, favicon, sitemap, and a custom 404 page.",
+      "date": null
     }
   ]
 }

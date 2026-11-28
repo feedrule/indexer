@@ -4,17 +4,20 @@
     {
       "link": "https://samuelmullen.com/articles/asynchronous-tasks-and-streaming-uis-in-phoenix-liveview",
       "title": "Asynchronous Tasks and Streaming UIs in Phoenix Liveview",
-      "description": "A guide to the native asynchronous suite in Phoenix LiveView. Master assign_async/4, stream_async/4, and start_async/4/handle_async/3 to make working with streaming and background tasks easy."
+      "description": "A guide to the native asynchronous suite in Phoenix LiveView. Master assign_async/4, stream_async/4, and start_async/4/handle_async/3 to make working with streaming and background tasks easy.",
+      "date": null
     },
     {
       "link": "https://samuelmullen.com/articles/differences-between-elixirs-protocols-and-behaviours",
       "title": "Differences Between Elixir’s Protocols and Behaviours",
-      "description": "I kept mixing up Elixir Protocols and Behaviours—until I finally figured out the real difference. One is for data types, the other for modules. Here’s the explanation I wish I’d had years ago."
+      "description": "I kept mixing up Elixir Protocols and Behaviours—until I finally figured out the real difference. One is for data types, the other for modules. Here’s the explanation I wish I’d had years ago.",
+      "date": null
     },
     {
       "link": "https://samuelmullen.com/articles/crawling-the-web-with-elixirs-broadway-and-wallaby",
       "title": "Crawling the Web with Elixir’s Broadway and Wallaby",
-      "description": "Discover how to combine Broadway’s powerful pipelines with Wallaby’s browser automation to create a scalable, concurrent Elixir web crawler."
+      "description": "Discover how to combine Broadway’s powerful pipelines with Wallaby’s browser automation to create a scalable, concurrent Elixir web crawler.",
+      "date": null
     }
   ]
 }

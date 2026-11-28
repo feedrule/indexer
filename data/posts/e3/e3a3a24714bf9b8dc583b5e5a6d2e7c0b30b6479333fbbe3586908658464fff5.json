@@ -4,17 +4,20 @@
     {
       "link": "https://boothlabs.bearblog.dev/added-dice-roll-tracker-for-board-game-night/",
       "title": "Added Dice Roll Tracker for Board Game Night",
-      "description": "Roll Tracker is a single-page web application designed to log and visualize the rolls of two 6-sided dice during a game session. It has a rolling log of each number rolled as well as a bar graph displaying the number of times each number was rolled. The app uses local browser memory to keep game data persistent across sessions, but can be reset for a new game. The app is responsive and works on mo"
+      "description": "Roll Tracker is a single-page web application designed to log and visualize the rolls of two 6-sided dice during a game session. It has a rolling log of each number rolled as well as a bar graph displaying the number of times each number was rolled. The app uses local browser memory to keep game data persistent across sessions, but can be reset for a new game. The app is responsive and works on mo",
+      "date": null
     },
     {
       "link": "https://boothlabs.bearblog.dev/river-of-news-rss-feed/",
       "title": "Client Side River of News RSS Feed",
-      "description": "This RSS news feed is updated client-side in the browser via javascript. It sorts multiple news sources by timestamp. River of News"
+      "description": "This RSS news feed is updated client-side in the browser via javascript. It sorts multiple news sources by timestamp. River of News",
+      "date": null
     },
     {
       "link": "https://boothlabs.bearblog.dev/bonnaroo-2026-artist-biographies/",
       "title": "Bonnaroo 2026 Artist Biographies",
-      "description": "I created a searchable list of artist biographies for the 2026 Bonnaroo lineup. The list can also be filtered by genre. The biographies were generated with Gemini 3, and should be a good overview of each act."
+      "description": "I created a searchable list of artist biographies for the 2026 Bonnaroo lineup. The list can also be filtered by genre. The biographies were generated with Gemini 3, and should be a good overview of each act.",
+      "date": null
     }
   ]
 }

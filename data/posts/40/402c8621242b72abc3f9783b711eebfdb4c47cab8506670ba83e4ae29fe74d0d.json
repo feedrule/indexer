@@ -4,17 +4,20 @@
     {
       "link": "https://codechimp.org/blog/2026-10-14-ways-with-labels/",
       "title": "Ways with Labels",
-      "description": "A few ways to use labels in Home Assistant."
+      "description": "A few ways to use labels in Home Assistant.",
+      "date": null
     },
     {
       "link": "https://codechimp.org/blog/2026-09-27-modify-and-run-core-integrations/",
       "title": "Modify and run Home Assistant core integrations",
-      "description": "How to temporarily replace a Home Assistant core integration with your own modified version."
+      "description": "How to temporarily replace a Home Assistant core integration with your own modified version.",
+      "date": null
     },
     {
       "link": "https://codechimp.org/blog/2026-09-16-home-assistant-version-checking-for-custom-integrations/",
       "title": "Home Assistant version checking for custom integrations",
-      "description": "Ensuring that your custom integrations are running on a supported Home Assistant version."
+      "description": "Ensuring that your custom integrations are running on a supported Home Assistant version.",
+      "date": null
     }
   ]
 }

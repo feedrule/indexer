@@ -4,12 +4,14 @@
     {
       "link": "https://anomitra.me/blog/designing-a-unified-audit-trail-system-across-multiple-microservices/",
       "title": "Designing a Unified Audit Trail System Across Multiple Microservices",
-      "description": "How we turned audit trails into platform infrastructure with Spring Boot and Javers."
+      "description": "How we turned audit trails into platform infrastructure with Spring Boot and Javers.",
+      "date": null
     },
     {
       "link": "https://anomitra.me/blog/multi-tenancy-in-spring-boot-a-practical-guide/",
       "title": "Multi-Tenancy in Spring Boot: A Practical Guide",
-      "description": "The clean way to support true data isolation."
+      "description": "The clean way to support true data isolation.",
+      "date": null
     }
   ]
 }

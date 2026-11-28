@@ -4,17 +4,20 @@
     {
       "link": "https://vladimirzdrazil.com/posts/designing-apis-for-stateful-flows/",
       "title": "Designing APIs for stateful flows: Don't make clients guess or obey",
-      "description": "In many stateful systems, API failures aren’t caused by missing endpoints, incorrect schemas, or misinterpretations. They come up because the system doesn’t clearly define who’s responsible for coordination. These problems often appear in multi-step flows, where progress unfolds over time and across devices. Users may leave and return later. Steps may complete out of order. Some actions may be tem"
+      "description": "In many stateful systems, API failures aren’t caused by missing endpoints, incorrect schemas, or misinterpretations. They come up because the system doesn’t clearly define who’s responsible for coordination. These problems often appear in multi-step flows, where progress unfolds over time and across devices. Users may leave and return later. Steps may complete out of order. Some actions may be tem",
+      "date": null
     },
     {
       "link": "https://vladimirzdrazil.com/posts/current-llm-tooling-makes-understanding-optional/",
       "title": "Current LLM tooling makes understanding optional",
-      "description": "Updates 2026-08-27 Since writing this, harness engineering has become a clearer part of working with coding agents . Better harnesses, including tests, constraints, guides, and feedback loops, can externalize more of what would otherwise live in a developer’s head and make agents safer to run for longer. But they don’t necessarily solve the problem described here. The harness itself can also be ge"
+      "description": "Updates 2026-08-27 Since writing this, harness engineering has become a clearer part of working with coding agents . Better harnesses, including tests, constraints, guides, and feedback loops, can externalize more of what would otherwise live in a developer’s head and make agents safer to run for longer. But they don’t necessarily solve the problem described here. The harness itself can also be ge",
+      "date": null
     },
     {
       "link": "https://vladimirzdrazil.com/posts/you-dont-need-that-complexity/",
       "title": "You don’t need that complexity: A fresh look at your project",
-      "description": "When you’re working on a project for a long time, you might start to believe that a lot of complexity is needed when it really isn’t. Sometimes, you might even stop noticing it. How can you stop assuming things have to be complex and start finding ways to make your work easier? Definitions First, here are definitions of some terms I’ll be using. Feel free to skip them if you’re already familiar wi"
+      "description": "When you’re working on a project for a long time, you might start to believe that a lot of complexity is needed when it really isn’t. Sometimes, you might even stop noticing it. How can you stop assuming things have to be complex and start finding ways to make your work easier? Definitions First, here are definitions of some terms I’ll be using. Feel free to skip them if you’re already familiar wi",
+      "date": null
     }
   ]
 }

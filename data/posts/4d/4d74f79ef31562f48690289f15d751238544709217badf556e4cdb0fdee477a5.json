@@ -4,17 +4,20 @@
     {
       "link": "https://dropbear.xyz/2026/11/06/retiring-enc-com-au/",
       "title": "Retiring enc.com.au",
-      "description": "TLDR: If you see something from enc.com.au after September 2026, it’s not me. In 2002 I decided I needed a more catchy domain name. While the previous one, eye-net.com.au more directly connected with my-then consulting company Eye-Net Consulting, I thought about having a three letter com.au domain? Sure. And so enc.com.au was born. The Wayback […]"
+      "description": "TLDR: If you see something from enc.com.au after September 2026, it’s not me. In 2002 I decided I needed a more catchy domain name. While the previous one, eye-net.com.au more directly connected with my-then consulting company Eye-Net Consulting, I thought about having a three letter com.au domain? Sure. And so enc.com.au was born. The Wayback […]",
+      "date": null
     },
     {
       "link": "https://dropbear.xyz/2026/07/21/wordpress-7-0-2-for-debian/",
       "title": "WordPress 7.0.2 for Debian",
-      "description": "I have just uploaded WordPress version 7.0.2 for Debian. This fixes two serious security bugs CVE-2026-60137 and CVE-2026-63030. Chained together, this gives a RCE and is in active exploitation, so update as soon as its available. These two bugs are also in WordPress 6.9.x below 6.9.5 and the SQLi one (CVE-2026-60137) only is in 6.8.x […]"
+      "description": "I have just uploaded WordPress version 7.0.2 for Debian. This fixes two serious security bugs CVE-2026-60137 and CVE-2026-63030. Chained together, this gives a RCE and is in active exploitation, so update as soon as its available. These two bugs are also in WordPress 6.9.x below 6.9.5 and the SQLi one (CVE-2026-60137) only is in 6.8.x […]",
+      "date": null
     },
     {
       "link": "https://dropbear.xyz/2026/01/19/wordpress-6-9-for-debian/",
       "title": "WordPress 6.9 for Debian",
-      "description": "The Debian packages for WordPress version 6.9 were uploaded today. The upstream website says you can add notes and move graphics around, making for an easier and nicer editing experience. I’m not personally sure about that, generally if things change to much people get annoyed but it seems at least the initial simple stuff has […]"
+      "description": "The Debian packages for WordPress version 6.9 were uploaded today. The upstream website says you can add notes and move graphics around, making for an easier and nicer editing experience. I’m not personally sure about that, generally if things change to much people get annoyed but it seems at least the initial simple stuff has […]",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://petertodd.org/2026/bip-110-code-review",
       "title": "BIP-110 Code Review",
-      "description": "In a similar spirit to my now decade old segwit consensus code review , I (and one of my clients) thought it would be worthwhile to do a code review of the consensus parts of the Knots BIP-110 implementation, to ensure there are no surprises when it activates. Unlike my segwit consensus code review, this review is done from the point of view of user/miner of the existing Bitcoin chain, with unmodi"
+      "description": "In a similar spirit to my now decade old segwit consensus code review , I (and one of my clients) thought it would be worthwhile to do a code review of the consensus parts of the Knots BIP-110 implementation, to ensure there are no surprises when it activates. Unlike my segwit consensus code review, this review is done from the point of view of user/miner of the existing Bitcoin chain, with unmodi",
+      "date": null
     },
     {
       "link": "https://petertodd.org/2025/opentimestamps-and-knots-ocean",
       "title": "OpenTimestamps and Knots/OCEAN",
-      "description": "Is OpenTimestamps incompatible with or threatened by the Bitcoin Knots fork of Bitcoin Core and/or the OCEAN mining pool? I’m told this question has come up a few times from investors and potential users of OpenTimestamps, so I thought it would be worth answering in a blog post. This post isn’t going to get into the politics of Bitcoin Knot’s transaction relaying policy, or OCEAN’s transaction min"
+      "description": "Is OpenTimestamps incompatible with or threatened by the Bitcoin Knots fork of Bitcoin Core and/or the OCEAN mining pool? I’m told this question has come up a few times from investors and potential users of OpenTimestamps, so I thought it would be worth answering in a blog post. This post isn’t going to get into the politics of Bitcoin Knot’s transaction relaying policy, or OCEAN’s transaction min",
+      "date": null
     },
     {
       "link": "https://petertodd.org/2025/coinjoin-comparison",
       "title": "How Good Are The Widely Used Coinjoin Implementations?",
-      "description": "I was asked by Kruw to analyze and respond to Yuval “nothingmuch” Kogman’s post 1 on centralized, coordinator-based, deanonymization attacks. In particular 2 , attacks on the WabiSabi protocol used by Wasabi wallet; Kogman was involved in the design of WabiSabi, but “left in protest before its release” 1 . Kogman claims that the “this software is not fit for purpose and should not be used unless u"
+      "description": "I was asked by Kruw to analyze and respond to Yuval “nothingmuch” Kogman’s post 1 on centralized, coordinator-based, deanonymization attacks. In particular 2 , attacks on the WabiSabi protocol used by Wasabi wallet; Kogman was involved in the design of WabiSabi, but “left in protest before its release” 1 . Kogman claims that the “this software is not fit for purpose and should not be used unless u",
+      "date": null
     }
   ]
 }

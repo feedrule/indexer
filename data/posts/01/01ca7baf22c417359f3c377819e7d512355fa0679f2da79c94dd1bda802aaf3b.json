@@ -4,17 +4,20 @@
     {
       "link": "https://blog.otterpwn.com/research/Extracting-credentials-from-mRemoteNG",
       "title": "Extracting credentials from mRemoteNG",
-      "description": "Dumping the mRemoteNG master key from process memory to decrypt saved credentials offline."
+      "description": "Dumping the mRemoteNG master key from process memory to decrypt saved credentials offline.",
+      "date": null
     },
     {
       "link": "https://blog.otterpwn.com/research/Windows-of-Opportunity",
       "title": "Windows of Opportunity",
-      "description": "Exploiting race conditions in Seclogon to bypass PPL protections dump LSASS."
+      "description": "Exploiting race conditions in Seclogon to bypass PPL protections dump LSASS.",
+      "date": null
     },
     {
       "link": "https://blog.otterpwn.com/research/Intro-to-Hypervisor-Implants",
       "title": "Intro to Hypervisor Implants",
-      "description": "How CPU virtualization extensions can be weaponized to build implants invisible to the host OS."
+      "description": "How CPU virtualization extensions can be weaponized to build implants invisible to the host OS.",
+      "date": null
     }
   ]
 }

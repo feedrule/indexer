@@ -4,17 +4,20 @@
     {
       "link": "https://seemann.io/posts/2026-06-08---fips140/",
       "title": "quic-go is ready for FIPS 140-3",
-      "description": "How quic-go became ready for FIPS 140-3"
+      "description": "How quic-go became ready for FIPS 140-3",
+      "date": null
     },
     {
       "link": "https://seemann.io/posts/2026-04-08---nftables-quic-load-balancing/",
       "title": "Using nftables for QUIC load balancing",
-      "description": "Using nftables to load balance QUIC connections"
+      "description": "Using nftables to load balance QUIC connections",
+      "date": null
     },
     {
       "link": "https://seemann.io/posts/2025-09-14---quic-go-test-suite/",
       "title": "Rewriting quic-go's test suite",
-      "description": "Rewriting quic-go's test suite"
+      "description": "Rewriting quic-go's test suite",
+      "date": null
     }
   ]
 }

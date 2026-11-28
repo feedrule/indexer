@@ -4,17 +4,20 @@
     {
       "link": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
       "title": "Let's Meet in the Middle",
-      "description": "I like making little tools that do one thing well and thing finding clever ways to combine them. It's the ethos behind a lot of the little software projects I have over at Less Software . One of the first ones I made was a tool called whereami . Tongue-in-cheekly, I wanted to pitch it as the natural compliment to whoami . For that tool, the thinking was nearly every modern OS provides some kind of"
+      "description": "I like making little tools that do one thing well and thing finding clever ways to combine them. It's the ethos behind a lot of the little software projects I have over at Less Software . One of the first ones I made was a tool called whereami . Tongue-in-cheekly, I wanted to pitch it as the natural compliment to whoami . For that tool, the thinking was nearly every modern OS provides some kind of",
+      "date": null
     },
     {
       "link": "https://george.mand.is/2026/11/the-tokenizer-font/",
       "title": "Tokenizer Mono",
-      "description": "There are many tools out there that help you visualize tokens and better understand how tokenization works with large language models. OpenAI has a pretty nice one , and there are a half-dozen other ones that are also great. They generally work by passing text through an actual tokenizer, retrieving the resulting token boundaries, and highlighting them in the browser. It's a fast, accurate and per"
+      "description": "There are many tools out there that help you visualize tokens and better understand how tokenization works with large language models. OpenAI has a pretty nice one , and there are a half-dozen other ones that are also great. They generally work by passing text through an actual tokenizer, retrieving the resulting token boundaries, and highlighting them in the browser. It's a fast, accurate and per",
+      "date": null
     },
     {
       "link": "https://george.mand.is/2026/10/you-already-dont-understand-your-code/",
       "title": "You Already Don't Understand Your Code",
-      "description": "The title is intentionally provocative :) You probably do understand your code. Or at least, I'm sure you think you do. I like to think I do too! But before we go any deeper into the premise behind the title, let's play a fun little game. Do you think you understand the code below? Python nums = [5, 3, 10, 1, 9] words = [\"pear\", \"Apple\", \"fig\", \"banana\"] print(sorted(nums)) # [1, 3, 5, 9, 10] prin"
+      "description": "The title is intentionally provocative :) You probably do understand your code. Or at least, I'm sure you think you do. I like to think I do too! But before we go any deeper into the premise behind the title, let's play a fun little game. Do you think you understand the code below? Python nums = [5, 3, 10, 1, 9] words = [\"pear\", \"Apple\", \"fig\", \"banana\"] print(sorted(nums)) # [1, 3, 5, 9, 10] prin",
+      "date": null
     }
   ]
 }

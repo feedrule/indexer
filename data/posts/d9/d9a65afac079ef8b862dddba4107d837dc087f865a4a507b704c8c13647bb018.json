@@ -4,17 +4,20 @@
     {
       "link": "https://stephenkrings.com/posts/seven-local-llms-rtx-5070/",
       "title": "Seven Local LLMs, One 12GB RTX 5070",
-      "description": "My RTX 5070 has 12GB of VRAM, which is enough for smaller local models but not enough to hold every model I wanted to try. The Windows PC with the 5070 attached also has 64GB of system RAM, so a practical solution is to let llama.cpp put as much as possible on the GPU and offload the remainder to RAM. The result is a private local-model server with seven selectable models:"
+      "description": "My RTX 5070 has 12GB of VRAM, which is enough for smaller local models but not enough to hold every model I wanted to try. The Windows PC with the 5070 attached also has 64GB of system RAM, so a practical solution is to let llama.cpp put as much as possible on the GPU and offload the remainder to RAM. The result is a private local-model server with seven selectable models:",
+      "date": null
     },
     {
       "link": "https://stephenkrings.com/posts/hugging-face-image-generation-rtx-5070-cpu-offload/",
       "title": "Making Hugging Face Image Generation Fit on a 12GB RTX 5070",
-      "description": "Goal: wiring Hugging Face models into my local llm (Ollama) app, testing prompt-following, and seeing how far I can push a 12GB RTX 5070 before the system starts leaning hard on the CPU. The short version: it works, but only because the stack is allowed to spill parts of the model back to system memory. The current setup The image UI lives on my web server, but the GPU does not. The request path l"
+      "description": "Goal: wiring Hugging Face models into my local llm (Ollama) app, testing prompt-following, and seeing how far I can push a 12GB RTX 5070 before the system starts leaning hard on the CPU. The short version: it works, but only because the stack is allowed to spill parts of the model back to system memory. The current setup The image UI lives on my web server, but the GPU does not. The request path l",
+      "date": null
     },
     {
       "link": "https://stephenkrings.com/posts/home-vpn-iphone-homelab/",
       "title": "A Home VPN Is Still One of the Best Homelab Tools",
-      "description": "Running a VPN at home is one of the easiest homelab upgrades. If you have a static IP, setting up WireGuard or OpenVPN on an iPhone is straightforward. Create a client profile, import it into the app, and turn it on when you are away. Your phone then connects through your home network. That lets you SSH into a home server or open a website restricted to your home IP without making it public."
+      "description": "Running a VPN at home is one of the easiest homelab upgrades. If you have a static IP, setting up WireGuard or OpenVPN on an iPhone is straightforward. Create a client profile, import it into the app, and turn it on when you are away. Your phone then connects through your home network. That lets you SSH into a home server or open a website restricted to your home IP without making it public.",
+      "date": null
     }
   ]
 }

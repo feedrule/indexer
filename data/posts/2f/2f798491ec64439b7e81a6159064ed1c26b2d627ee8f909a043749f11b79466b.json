@@ -4,17 +4,20 @@
     {
       "link": "https://www.fratepietro.com/2026/lasa-jailbreak-transfer-fine-tuned-llms/",
       "title": "Do Jailbreaks Transfer to Fine-Tuned LLMs? Building a Lineage Attack Surface Analyzer",
-      "description": "LASA (Lineage Attack Surface Analyzer) tests whether jailbreaks found on an open-weight base model carry over to its fine-tunes, and the bugs it caught."
+      "description": "LASA (Lineage Attack Surface Analyzer) tests whether jailbreaks found on an open-weight base model carry over to its fine-tunes, and the bugs it caught.",
+      "date": null
     },
     {
       "link": "https://www.fratepietro.com/2026/moe-layout-megatron-pipeline-planner-mtp/",
       "title": "One Stage Sets the Pace: Planning Megatron Pipeline Layouts for MoE Models with MTP",
-      "description": "moe-layout picks a Megatron-LM pipeline layout for MoE models with multi-token prediction from two short profiling runs. On 8x H200 it ran 1.39x faster than Megatron's default split."
+      "description": "moe-layout picks a Megatron-LM pipeline layout for MoE models with multi-token prediction from two short profiling runs. On 8x H200 it ran 1.39x faster than Megatron's default split.",
+      "date": null
     },
     {
       "link": "https://www.fratepietro.com/2026/rust-inference-engine/",
       "title": "Rust Inference Engine: How to Run AI Models in Rust",
-      "description": "What a Rust inference engine does, when to use one, and how ort, Candle, mistral.rs, llama.cpp bindings and Frink compare for LLM, RAG and embedding work."
+      "description": "What a Rust inference engine does, when to use one, and how ort, Candle, mistral.rs, llama.cpp bindings and Frink compare for LLM, RAG and embedding work.",
+      "date": null
     }
   ]
 }

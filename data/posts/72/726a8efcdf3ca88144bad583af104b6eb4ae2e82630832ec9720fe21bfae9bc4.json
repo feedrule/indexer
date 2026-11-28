@@ -4,17 +4,20 @@
     {
       "link": "https://tkareine.org/articles/estimating-probability-of-faults-causing-inconsistent-state.html",
       "title": "Estimating the probability of faults causing inconsistent state",
-      "description": "How likely are faults leading to bad states in a distributed system? Specifically, I am interested in faults causing the constituent components of the system to enter states that are inconsistent with each other. I have sometimes estimated the likelihood of such faults with a variation of the Drake equation , which was originally invented for estimating the number of active and communicative civil"
+      "description": "How likely are faults leading to bad states in a distributed system? Specifically, I am interested in faults causing the constituent components of the system to enter states that are inconsistent with each other. I have sometimes estimated the likelihood of such faults with a variation of the Drake equation , which was originally invented for estimating the number of active and communicative civil",
+      "date": null
     },
     {
       "link": "https://tkareine.org/articles/exclusive-scheduled-jobs-using-db-locks.html",
       "title": "Exclusive scheduled jobs using database locks",
-      "description": "Using locks implemented as rows in an SQL database enables running scheduled background jobs in an application, providing a best-effort guarantee that only one application instance at a time runs a particular job. This is one possible solution, and it’s an appealing one because an SQL database usually serves as the primary database for the application – you don’t need any additional infrastructure"
+      "description": "Using locks implemented as rows in an SQL database enables running scheduled background jobs in an application, providing a best-effort guarantee that only one application instance at a time runs a particular job. This is one possible solution, and it’s an appealing one because an SQL database usually serves as the primary database for the application – you don’t need any additional infrastructure",
+      "date": null
     },
     {
       "link": "https://tkareine.org/articles/suppressing-duplicate-requests-in-web-services.html",
       "title": "Suppressing duplicate requests in web services",
-      "description": "Suppressing duplicate request processing prevents some forms of data corruption, such as data duplication and lost data. Achieving suppression together with client retries effectively establishes exactly-once request processing semantics in the system. 1 In this article, I present an imaginary web service built on the microservice style design, inspect that and its clients together as a system, de"
+      "description": "Suppressing duplicate request processing prevents some forms of data corruption, such as data duplication and lost data. Achieving suppression together with client retries effectively establishes exactly-once request processing semantics in the system. 1 In this article, I present an imaginary web service built on the microservice style design, inspect that and its clients together as a system, de",
+      "date": null
     }
   ]
 }

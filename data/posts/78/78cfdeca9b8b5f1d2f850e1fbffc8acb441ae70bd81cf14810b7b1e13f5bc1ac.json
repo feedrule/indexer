@@ -4,17 +4,20 @@
     {
       "link": "https://blog.vladzahorodnii.com/2026/07/16/server-side-drop-shadows/",
       "title": "Server-side Drop Shadows",
-      "description": "Update: Automatic server-side drop shadows were reverted because that regressed the visuals of a reasonable number of apps. It appears like applications use normal toplevel windows to implement popups instead of relying on more appropriate window types. The window rule is still there. We’d like to revisit automatic SSD drop shadows, but at the moment, … Continue reading Server-side Drop Shadows"
+      "description": "Update: Automatic server-side drop shadows were reverted because that regressed the visuals of a reasonable number of apps. It appears like applications use normal toplevel windows to implement popups instead of relying on more appropriate window types. The window rule is still there. We’d like to revisit automatic SSD drop shadows, but at the moment, … Continue reading Server-side Drop Shadows",
+      "date": null
     },
     {
       "link": "https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/",
       "title": "Addressing global removal race in Wayland",
-      "description": "Global objects are one of the core abstractions in Wayland. They are used to announce supported protocols or announce semi-transient objects, for example available outputs. The compositor can add and remove global objects on the fly. For example, an output global object can be created when a new monitor becomes available, and be removed when … Continue reading Addressing global removal race in Way"
+      "description": "Global objects are one of the core abstractions in Wayland. They are used to announce supported protocols or announce semi-transient objects, for example available outputs. The compositor can add and remove global objects on the fly. For example, an output global object can be created when a new monitor becomes available, and be removed when … Continue reading Addressing global removal race in Way",
+      "date": null
     },
     {
       "link": "https://blog.vladzahorodnii.com/2026/03/22/improving-animations/",
       "title": "Improving animations",
-      "description": "Animations… Everybody loves animations. They make your desktop look more eye candy, and they also help with guiding or drawing the user’s attention towards certain elements on the screen, for example a new window or a popup or a button, etc. An animation is a just quick series of images to simulate the movement of … Continue reading Improving animations"
+      "description": "Animations… Everybody loves animations. They make your desktop look more eye candy, and they also help with guiding or drawing the user’s attention towards certain elements on the screen, for example a new window or a popup or a button, etc. An animation is a just quick series of images to simulate the movement of … Continue reading Improving animations",
+      "date": null
     }
   ]
 }

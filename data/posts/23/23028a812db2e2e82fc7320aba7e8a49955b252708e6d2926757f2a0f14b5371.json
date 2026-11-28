@@ -4,17 +4,20 @@
     {
       "link": "https://kulikowski.me/blog/bring-your-agent-into-the-browser",
       "title": "What if you could bring your agent into the browser?",
-      "description": "An experiment: a Chrome side panel that lets the coding agent already on your computer - Claude Code, Codex or Antigravity CLI - co-browse with you, using the page's WebMCP tools first."
+      "description": "An experiment: a Chrome side panel that lets the coding agent already on your computer - Claude Code, Codex or Antigravity CLI - co-browse with you, using the page's WebMCP tools first.",
+      "date": null
     },
     {
       "link": "https://kulikowski.me/blog/when-a-webmcp-tool-returns-an-mcp-app",
       "title": "When a WebMCP tool returns an MCP App",
-      "description": "WebMCP lets a website hand tools to the agent. MCP Apps lets a server hand UI to the human. We built an experiment where one hands off to the other."
+      "description": "WebMCP lets a website hand tools to the agent. MCP Apps lets a server hand UI to the human. We built an experiment where one hands off to the other.",
+      "date": null
     },
     {
       "link": "https://kulikowski.me/blog/trying-jev-with-webmcp",
       "title": "Trying Jev with WebMCP",
-      "description": "Jev makes structured decisions instead of generating text. I built a small Chrome extension to see how far that model can go when calling WebMCP tools."
+      "description": "Jev makes structured decisions instead of generating text. I built a small Chrome extension to see how far that model can go when calling WebMCP tools.",
+      "date": null
     }
   ]
 }

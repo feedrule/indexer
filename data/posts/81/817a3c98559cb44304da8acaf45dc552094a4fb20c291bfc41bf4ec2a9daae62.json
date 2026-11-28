@@ -4,17 +4,20 @@
     {
       "link": "https://tim-schipper.nl/en/blog/claude-code-keeps-asking-permission",
       "title": "Claude Code keeps asking for permission: every mode, measured",
-      "description": "I had Claude Code do the same jobs 101 times across seven setups and counted every permission prompt. How often it asks depends less on how much the agent does than on how it bundles the work and which paths it touches. And three traps stay silent until you hit them."
+      "description": "I had Claude Code do the same jobs 101 times across seven setups and counted every permission prompt. How often it asks depends less on how much the agent does than on how it bundles the work and which paths it touches. And three traps stay silent until you hit them.",
+      "date": null
     },
     {
       "link": "https://tim-schipper.nl/en/blog/who-owns-ai-generated-code",
       "title": "Who owns AI-generated code? Mostly nobody, until you change it",
-      "description": "A post arguing that all AI-generated code should be open source drew 612 comments on Hacker News on Sunday. Half of the proposal is already law: code with no human input gets no copyright. What does belong to you follows the same line as the code you understand."
+      "description": "A post arguing that all AI-generated code should be open source drew 612 comments on Hacker News on Sunday. Half of the proposal is already law: code with no human input gets no copyright. What does belong to you follows the same line as the code you understand.",
+      "date": null
     },
     {
       "link": "https://tim-schipper.nl/en/blog/mutation-testing-vitest-stryker",
       "title": "Mutation testing with Vitest: a Stryker setup that stays useful",
-      "description": "A StrykerJS config for Vitest, and the three choices that decide whether the score means anything: which files you mutate, what you do with static mutants, and which score your threshold checks. With the numbers from the code behind this site."
+      "description": "A StrykerJS config for Vitest, and the three choices that decide whether the score means anything: which files you mutate, what you do with static mutants, and which score your threshold checks. With the numbers from the code behind this site.",
+      "date": null
     }
   ]
 }

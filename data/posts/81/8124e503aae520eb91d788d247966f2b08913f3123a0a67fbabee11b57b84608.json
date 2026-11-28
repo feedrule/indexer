@@ -4,17 +4,20 @@
     {
       "link": "https://www.belter.io/create-better-pull-requests/",
       "title": "Creating better pull requests",
-      "description": "Pull requests: love them or hate them, they’re an essential part of collaborative development. Yet for many developers, they can be a frequent source of frustration. If you’ve worked on a project long enough, you’ve likely seen code review complaints crop up in sprint retrospectives, often revolving around the same recurring issues: Waiting too long for someone to review your PR. The time commitme"
+      "description": "Pull requests: love them or hate them, they’re an essential part of collaborative development. Yet for many developers, they can be a frequent source of frustration. If you’ve worked on a project long enough, you’ve likely seen code review complaints crop up in sprint retrospectives, often revolving around the same recurring issues: Waiting too long for someone to review your PR. The time commitme",
+      "date": null
     },
     {
       "link": "https://www.belter.io/npm-outdated-update/",
       "title": "Quick Tip: npm outdated and npm update",
-      "description": "Use npm outdate and npm update to check for and update to newer versions of your installed node modules using npm's built-in commands. npm outdated Current is what you have installed Wanted is the latest version that satisfies the semver range in package.json Latest is, you guessed it, the latest. Red items mean the wanted version is also the latest. npm update This will update all packages to the"
+      "description": "Use npm outdate and npm update to check for and update to newer versions of your installed node modules using npm's built-in commands. npm outdated Current is what you have installed Wanted is the latest version that satisfies the semver range in package.json Latest is, you guessed it, the latest. Red items mean the wanted version is also the latest. npm update This will update all packages to the",
+      "date": null
     },
     {
       "link": "https://www.belter.io/eleventy-search/",
       "title": "Add Search to an Eleventy website with Elasticlunr",
-      "description": "I recently found out about Elasticlunr , a lightweight, full-text search engine built in JavaScript. It got me thinking how this could be integrated into an eleventy site for client-side search. It's pretty easy as it happens. Demo GitHub repo Demo site Search this site I have a collection of 100 markdown documents, each about a different movie. Their frontmatter data has a title, excerpt, and a l"
+      "description": "I recently found out about Elasticlunr , a lightweight, full-text search engine built in JavaScript. It got me thinking how this could be integrated into an eleventy site for client-side search. It's pretty easy as it happens. Demo GitHub repo Demo site Search this site I have a collection of 100 markdown documents, each about a different movie. Their frontmatter data has a title, excerpt, and a l",
+      "date": null
     }
   ]
 }

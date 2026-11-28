@@ -4,17 +4,20 @@
     {
       "link": "https://www.new23d.com/the-curious-incidents-with-dns-in-the-sandbox-at-escape-time/",
       "title": "The Curious Incidents with DNS in the Sandbox at Escape-Time",
-      "description": "What the Agent attempted with DNS in the Hugging Face–OpenAI Intrusion Incident of July 2026"
+      "description": "What the Agent attempted with DNS in the Hugging Face–OpenAI Intrusion Incident of July 2026",
+      "date": null
     },
     {
       "link": "https://www.new23d.com/iam-roles-anywhere-now-for-everyone-with-lets-encrypt/",
       "title": "IAM Roles Anywhere – now for everyone with Let's Encrypt",
-      "description": "This post is an accompaniment to my talk at fwd:cloudsec Denver . It contains the SystemD files, Trust Policy for the IAM Role that was referred to, and other miscellaneous scripts. Towards the end, under FAQ, it has answers to questions that were either raised in the talk's"
+      "description": "This post is an accompaniment to my talk at fwd:cloudsec Denver . It contains the SystemD files, Trust Policy for the IAM Role that was referred to, and other miscellaneous scripts. Towards the end, under FAQ, it has answers to questions that were either raised in the talk's",
+      "date": null
     },
     {
       "link": "https://www.new23d.com/obfuscating-outbound-traffic-via-a-suricata-firewall/",
       "title": "Obfuscating outbound traffic via a Suricata \"firewall\"",
-      "description": "Writing a custom SNI spoofing binary, aided by an agent using an LLM, for evasion through SNI-only firewalls such as rebadged or managed Suricata."
+      "description": "Writing a custom SNI spoofing binary, aided by an agent using an LLM, for evasion through SNI-only firewalls such as rebadged or managed Suricata.",
+      "date": null
     }
   ]
 }

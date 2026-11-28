@@ -4,17 +4,20 @@
     {
       "link": "https://selvamsubbiah.com/google-adk-custom-tools/",
       "title": "Building Custom Tools for Google ADK Agents",
-      "description": "Give your AI agent superpowers with custom tools Series Navigation: This is Post 3 of the Google ADK Tutorial Series. ← Previous: LiteLLM Integration: Making Your ADK Agents Model-Agnostic What You’ll Learn By the end of this post, you’ll understand the three types of tools in ADK: Built-in Tools - Pre-built tools like Google Search that provide instant capabilities Custom Function Tools - Your ow"
+      "description": "Give your AI agent superpowers with custom tools Series Navigation: This is Post 3 of the Google ADK Tutorial Series. ← Previous: LiteLLM Integration: Making Your ADK Agents Model-Agnostic What You’ll Learn By the end of this post, you’ll understand the three types of tools in ADK: Built-in Tools - Pre-built tools like Google Search that provide instant capabilities Custom Function Tools - Your ow",
+      "date": null
     },
     {
       "link": "https://selvamsubbiah.com/google-adk-litellm-model-agnostic-agents/",
       "title": "Google ADK + LiteLLM: Build Model-Agnostic Agents (Gemini, OpenAI, Claude)",
-      "description": "Switch between OpenAI, Claude, and Gemini with one line of code 📚 Series Navigation: This is Post 2 of the Google ADK Tutorial Series. ← Previous: Introduction to Google ADK What You’ll Learn By the end of this post, you’ll: Understand how LiteLLM works with ADK Configure multiple LLM providers Switch between models without changing code Implement fallback strategies for reliability Optimize costs"
+      "description": "Switch between OpenAI, Claude, and Gemini with one line of code 📚 Series Navigation: This is Post 2 of the Google ADK Tutorial Series. ← Previous: Introduction to Google ADK What You’ll Learn By the end of this post, you’ll: Understand how LiteLLM works with ADK Configure multiple LLM providers Switch between models without changing code Implement fallback strategies for reliability Optimize costs",
+      "date": null
     },
     {
       "link": "https://selvamsubbiah.com/introduction-to-google-adk/",
       "title": "Introduction to Google Agent Development Kit (ADK): Building Your First AI Agent",
-      "description": "What You’ll Learn By the end of this post, you’ll: Understand what Google ADK is Build a working AI agent from scratch Understand ADK’s core architecture (App, Agent, Tools) Prerequisites : Python 3.10+, basic Python knowledge, an API key for an LLM provider (Google, OpenAI, or Anthropic) What is Google ADK? Google ADK (Agent Development Kit) is an open-source, code-first toolkit for building AI a"
+      "description": "What You’ll Learn By the end of this post, you’ll: Understand what Google ADK is Build a working AI agent from scratch Understand ADK’s core architecture (App, Agent, Tools) Prerequisites : Python 3.10+, basic Python knowledge, an API key for an LLM provider (Google, OpenAI, or Anthropic) What is Google ADK? Google ADK (Agent Development Kit) is an open-source, code-first toolkit for building AI a",
+      "date": null
     }
   ]
 }

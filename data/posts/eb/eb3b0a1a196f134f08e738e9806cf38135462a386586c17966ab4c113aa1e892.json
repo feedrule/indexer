@@ -4,17 +4,20 @@
     {
       "link": "https://topicpartition.io/kafka/kafka",
       "title": "Kafka",
-      "description": "Kafka is a good thing."
+      "description": "Kafka is a good thing.",
+      "date": null
     },
     {
       "link": "https://topicpartition.io/kafka/community/",
       "title": "Kafka Community Spotlight 🔦",
-      "description": "Kafka Community Spotlight is an initiative to bring more life, depth, and visibility to the Kafka community by regularly highlighting the people involved in Kafka ..."
+      "description": "Kafka Community Spotlight is an initiative to bring more life, depth, and visibility to the Kafka community by regularly highlighting the people involved in Kafka ...",
+      "date": null
     },
     {
       "link": "https://topicpartition.io/definitions/the-log",
       "title": "The Log Data Structure",
-      "description": "The Log is the data structure that Kafka is based on. It’s very simple. It’s an ordered structure of bytes that only supports appends — you can’t edit or delete records in place."
+      "description": "The Log is the data structure that Kafka is based on. It’s very simple. It’s an ordered structure of bytes that only supports appends — you can’t edit or delete records in place.",
+      "date": null
     }
   ]
 }

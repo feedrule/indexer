@@ -4,17 +4,20 @@
     {
       "link": "https://databaseblog.myname.nl/2026/02/some-sql-history-with-oracle-v2.html",
       "title": "SQL history lesson with Oracle V2",
-      "description": "I recently stubmbled upon this website that hosts a publicly available Oracle RDBMS instance running Oracle v2.3.2, which according to this Wikipedia article is the first commercially available version of Oracle. This version is not written in C, but in PDP-11 assembly. The website also has the manuals available. At this time the company was called Relational Software Incorporated or RSI for short"
+      "description": "I recently stubmbled upon this website that hosts a publicly available Oracle RDBMS instance running Oracle v2.3.2, which according to this Wikipedia article is the first commercially available version of Oracle. This version is not written in C, but in PDP-11 assembly. The website also has the manuals available. At this time the company was called Relational Software Incorporated or RSI for short",
+      "date": null
     },
     {
       "link": "https://databaseblog.myname.nl/2026/02/wireshark-now-can-decode-mysql-x.html",
       "title": "Wireshark now can decode MySQL X Protocol",
-      "description": "The new protocol dissector for X Protocol in MySQL was just merged to the master branch in Wireshark. To get it build Wireshark from the master branch or wait for the next release. This protocol is using Google Protobuf, which makes it much easier to work with than the regular MySQL protocol. See also: https://dev.mysql.com/doc/dev/mysql-server/latest/page_mysqlx_protocol.html If you like what Wir"
+      "description": "The new protocol dissector for X Protocol in MySQL was just merged to the master branch in Wireshark. To get it build Wireshark from the master branch or wait for the next release. This protocol is using Google Protobuf, which makes it much easier to work with than the regular MySQL protocol. See also: https://dev.mysql.com/doc/dev/mysql-server/latest/page_mysqlx_protocol.html If you like what Wir",
+      "date": null
     },
     {
       "link": "https://databaseblog.myname.nl/2025/02/why-tls-for-mysql-is-difficult.html",
       "title": "Why TLS for MySQL is difficult",
-      "description": "The internet has changed to a place where most protocols like HTTP etc now use secure connections with TLS by default. While both HTTP and the MySQL Protocol use TLS for secure connections there are still many differences which make it difficult for MySQL to benefit from the same advancements as HTTP has seen in the last so many years. What is TLS? TLS stands for Transport Layer Security and is th"
+      "description": "The internet has changed to a place where most protocols like HTTP etc now use secure connections with TLS by default. While both HTTP and the MySQL Protocol use TLS for secure connections there are still many differences which make it difficult for MySQL to benefit from the same advancements as HTTP has seen in the last so many years. What is TLS? TLS stands for Transport Layer Security and is th",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.ludovicocaldara.net/blog/two-step-switchover-syntax-deprecation/",
       "title": "Deprecation of Legacy Oracle Data Guard Switchover SQL Syntax in 26ai",
-      "description": "In case you still use manual Data Guard configurations, beware of the old switchover syntax deprecation."
+      "description": "In case you still use manual Data Guard configurations, beware of the old switchover syntax deprecation.",
+      "date": "2026-09-09"
     },
     {
       "link": "https://www.ludovicocaldara.net/blog/mvcc-oracle-postgres/",
       "title": "MVCC: not all trade-offs are equal",
-      "description": "An OLTP-focused comparison of Oracle undo-based MVCC and PostgreSQL tuple versioning, showing how concurrency changes the cost of read and writes paths."
+      "description": "An OLTP-focused comparison of Oracle undo-based MVCC and PostgreSQL tuple versioning, showing how concurrency changes the cost of read and writes paths.",
+      "date": "2026-08-25"
     },
     {
       "link": "https://www.ludovicocaldara.net/blog/dg26ai-auto-redo-prioritization/",
       "title": "Data Guard 26ai – #33: Auto Redo Prioritization",
-      "description": "Oracle AI Database 26ai Auto Redo Prioritization helps contain ASYNC Data Guard transport lag during redo spikes while preserving OLTP response time."
+      "description": "Oracle AI Database 26ai Auto Redo Prioritization helps contain ASYNC Data Guard transport lag during redo spikes while preserving OLTP response time.",
+      "date": "2026-08-07"
     }
   ]
 }

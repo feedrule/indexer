@@ -4,17 +4,20 @@
     {
       "link": "https://msg.samsonov.io/2026-09-30-when-a-database-restore-signs-you-in-as-someone-else/",
       "title": "Rails’ Default Authentication Has a Database Restore Problem",
-      "description": "If you used Rails’ authentication generator, a database restore can make an old session cookie sign you in as another user."
+      "description": "If you used Rails’ authentication generator, a database restore can make an old session cookie sign you in as another user.",
+      "date": null
     },
     {
       "link": "https://msg.samsonov.io/2026-09-26-ruby-llm-modes/",
       "title": "Chat Modes: Configuring the LLM for Each Turn",
-      "description": "A real job for Jev: routing every chat turn to a mode with its own instructions, tools, model, and thinking."
+      "description": "A real job for Jev: routing every chat turn to a mode with its own instructions, tools, model, and thinking.",
+      "date": null
     },
     {
       "link": "https://msg.samsonov.io/2026-07-28-sequence-is-not-structure/",
       "title": "Sequence Is Not Structure: Getting Lost in Long LLM Conversations",
-      "description": "Long LLM conversations preserve sequence, not structure. I want a way to see where ideas branch, drift, and remain unfinished."
+      "description": "Long LLM conversations preserve sequence, not structure. I want a way to see where ideas branch, drift, and remain unfinished.",
+      "date": null
     }
   ]
 }

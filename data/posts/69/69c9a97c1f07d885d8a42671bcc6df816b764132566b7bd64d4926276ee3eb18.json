@@ -4,17 +4,20 @@
     {
       "link": "https://www.fpaynter.com/2026/10/porting-lidar-based-find-best-direction-to-vision-enhanced-robot/",
       "title": "Porting LIDAR-based ‘Find Best Direction’ to Vision-Enhanced Robot",
-      "description": "Posted 13 October 2026 While working on my new ‘vision-enhanced’ robot project, it became apparent the the OAK-D Lite camera was not the best tool for handling a ‘stuck’ condition where the robot has nosed into something and needs to find a better movement direction. The camera After some experimentation, I found that by moving […]"
+      "description": "Posted 13 October 2026 While working on my new ‘vision-enhanced’ robot project, it became apparent the the OAK-D Lite camera was not the best tool for handling a ‘stuck’ condition where the robot has nosed into something and needs to find a better movement direction. The camera After some experimentation, I found that by moving […]",
+      "date": null
     },
     {
       "link": "https://www.fpaynter.com/2026/10/vision-enhanced-robot-find-best-direction-issue/",
       "title": "Vision-enhanced Robot ‘Find Best Direction’ Issue",
-      "description": "Posted 14 October 2026 WallE, my autonomous wall-following robot had a nominal capability called “run to daylight”. The idea was to use this as a last resort when all the other ‘find a wall and follow it’ tricks failed. Unfortunately, I never could get this to work and never figured out why. Fast forward to […]"
+      "description": "Posted 14 October 2026 WallE, my autonomous wall-following robot had a nominal capability called “run to daylight”. The idea was to use this as a last resort when all the other ‘find a wall and follow it’ tricks failed. Unfortunately, I never could get this to work and never figured out why. Fast forward to […]",
+      "date": null
     },
     {
       "link": "https://www.fpaynter.com/2026/09/moving-vision-processing-to-my-4-wheel-robot-part-3/",
       "title": "Moving Vision Processing to My 4-Wheel Robot, Part 3",
-      "description": "Posted 08 September 2026, This post is a follow up to Moving Vision Processing to My 4-Wheel Robot, Part 2 | Paynter’s Palace. I WallE now has a very crude ability to navigate using only vision processing from the onboard OAKD-Lite camera. Here’s a not-so-short video showing the first real trial."
+      "description": "Posted 08 September 2026, This post is a follow up to Moving Vision Processing to My 4-Wheel Robot, Part 2 | Paynter’s Palace. I WallE now has a very crude ability to navigate using only vision processing from the onboard OAKD-Lite camera. Here’s a not-so-short video showing the first real trial.",
+      "date": null
     }
   ]
 }

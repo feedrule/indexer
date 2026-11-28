@@ -4,17 +4,20 @@
     {
       "link": "https://www.omerdavidson.dev/blog/graceful-degradation-under-server-overload/",
       "title": "Graceful Degradation Under Server Overload",
-      "description": "A system design walkthrough - from a server with no limits to one that fails small when it can't keep up"
+      "description": "A system design walkthrough - from a server with no limits to one that fails small when it can't keep up",
+      "date": null
     },
     {
       "link": "https://www.omerdavidson.dev/blog/lets-design-google-docs/",
       "title": "Let's Design Google Docs",
-      "description": "A system design walkthrough - from a single websocket server to a fleet that survives real users"
+      "description": "A system design walkthrough - from a single websocket server to a fleet that survives real users",
+      "date": null
     },
     {
       "link": "https://www.omerdavidson.dev/blog/modular-monorepo/",
       "title": "You Probably Don't Need Microservices — Modular Monorepo",
-      "description": "How to simplify your architecture and speed up DX"
+      "description": "How to simplify your architecture and speed up DX",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://vlad.website/nvim-treesitter-burnout/",
       "title": "Open Source Burnout Claims Another Project",
-      "description": "Yet another OSS maintainer quits because of burnout. To fix this, we need better mental health resources for maintainers."
+      "description": "Yet another OSS maintainer quits because of burnout. To fix this, we need better mental health resources for maintainers.",
+      "date": null
     },
     {
       "link": "https://vlad.website/npmx-a-lesson-in-open-source-collaboration-feedback-loops/",
       "title": "npmx: A Lesson in Open Source's Collaboration Feedback Loops",
-      "description": "npmx launched today , and witnessing its incredible development journey has taught me a lot about what I’m calling the collaboration feedback loops of successful Open Source projects — patterns where every contribution to a project makes future contributions easier, creating a virtuous cycle of collaboration, enabled by trust and collective governance. Let’s start with some details about npmx . Ja"
+      "description": "npmx launched today , and witnessing its incredible development journey has taught me a lot about what I’m calling the collaboration feedback loops of successful Open Source projects — patterns where every contribution to a project makes future contributions easier, creating a virtuous cycle of collaboration, enabled by trust and collective governance. Let’s start with some details about npmx . Ja",
+      "date": null
     },
     {
       "link": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
       "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
-      "description": "We need better tools for uncovering phantom binary dependencies. Not having these tools makes our global tech infrastructure less secure, and puts a strain on the Open Source maintainers we rely on."
+      "description": "We need better tools for uncovering phantom binary dependencies. Not having these tools makes our global tech infrastructure less secure, and puts a strain on the Open Source maintainers we rely on.",
+      "date": null
     }
   ]
 }

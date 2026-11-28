@@ -4,17 +4,20 @@
     {
       "link": "https://lalitm.com/post/buildprof/",
       "title": "I made a build visualizer to understand Bun’s compile times",
-      "description": "I built buildprof (Github), an open-source tracing tool that shows where the time goes when you compile software on Linux. Here’s a realtime video of it profiling a clean build of ripgrep: Watch the buildprof demo Sometimes, builds are slow because there is simply a lot of code to compile. But more often than not, there are fixable problems: poor parallelism, repeated work, dependency downloads or"
+      "description": "I built buildprof (Github), an open-source tracing tool that shows where the time goes when you compile software on Linux. Here’s a realtime video of it profiling a clean build of ripgrep: Watch the buildprof demo Sometimes, builds are slow because there is simply a lot of code to compile. But more often than not, there are fixable problems: poor parallelism, repeated work, dependency downloads or",
+      "date": null
     },
     {
       "link": "https://lalitm.com/responsibility-is-taken-before-it-is-given/",
       "title": "Responsibility Is Taken Before It Is Given",
-      "description": "To get promoted as a software engineer in Big Tech, you generally need to show “ownership” of a product or area. This means being responsible for it and deciding what should happen over time. I often hear more junior engineers ask: “How can I demonstrate ownership when my manager hasn’t given me anything to own?” This way of thinking is a trap: an easy one to fall into, but a trap nonetheless. The"
+      "description": "To get promoted as a software engineer in Big Tech, you generally need to show “ownership” of a product or area. This means being responsible for it and deciding what should happen over time. I often hear more junior engineers ask: “How can I demonstrate ownership when my manager hasn’t given me anything to own?” This way of thinking is a trap: an easy one to fall into, but a trap nonetheless. The",
+      "date": null
     },
     {
       "link": "https://lalitm.com/post/changing-devtools-is-cheap-owning-them-isnt/",
       "title": "Changing Devtools Is Cheap. Owning Them Isn’t.",
-      "description": "In Devtools must be open source1 (via), David Crawshaw makes the case that, because of coding agents, we’re now in an era where devtools will be personalized by individual users. Specifically, agents’ ability to jump into new codebases and build whatever we want means we’ll be hacking on the source of the devtools we use day to day (even those without extension APIs) adding features and automatica"
+      "description": "In Devtools must be open source1 (via), David Crawshaw makes the case that, because of coding agents, we’re now in an era where devtools will be personalized by individual users. Specifically, agents’ ability to jump into new codebases and build whatever we want means we’ll be hacking on the source of the devtools we use day to day (even those without extension APIs) adding features and automatica",
+      "date": null
     }
   ]
 }

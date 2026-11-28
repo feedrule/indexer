@@ -4,17 +4,20 @@
     {
       "link": "https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/",
       "title": "Hot-wiring the Lisp machine",
-      "description": "Ripping the guts out of Emacs to build a static site generator that doesn't suck. No external dependencies, no string-templating garbage. Just a 40-year-old Lisp machine masquerading as a text editor, redlining a CPU core to beat modern web-dev at its own game. This is a story of stubborn engineering, a total refusal to compromise, and a slow, deliberate descent into madness."
+      "description": "Ripping the guts out of Emacs to build a static site generator that doesn't suck. No external dependencies, no string-templating garbage. Just a 40-year-old Lisp machine masquerading as a text editor, redlining a CPU core to beat modern web-dev at its own game. This is a story of stubborn engineering, a total refusal to compromise, and a slow, deliberate descent into madness.",
+      "date": null
     },
     {
       "link": "https://scheatkode.com/lore/019d702b-d2ff-787b-a42d-05e1045ec027/xkcd-style-latex/",
       "title": "XKCD-style LaTeX",
-      "description": "Hand-drawn TikZ effect"
+      "description": "Hand-drawn TikZ effect",
+      "date": null
     },
     {
       "link": "https://scheatkode.com/lore/019d9688-6761-7498-a316-e250d0f14e6b/git-index/",
       "title": "Git (index)",
-      "description": "The stupid information manager from hell"
+      "description": "The stupid information manager from hell",
+      "date": null
     }
   ]
 }

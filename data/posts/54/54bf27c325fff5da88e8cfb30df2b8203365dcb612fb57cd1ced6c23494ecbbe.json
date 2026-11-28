@@ -4,12 +4,14 @@
     {
       "link": "https://tairasim.com/blog/inside-a-coding-agent-run/",
       "title": "Inside a coding agent run",
-      "description": "I built trce, a local trace recorder that turns Claude Code and Codex sessions into structured traces you can inspect, share, and analyze."
+      "description": "I built trce, a local trace recorder that turns Claude Code and Codex sessions into structured traces you can inspect, share, and analyze.",
+      "date": null
     },
     {
       "link": "https://tairasim.com/blog/build-agent-harness-from-scratch/",
       "title": "How to build an agent harness from scratch",
-      "description": "A step-by-step walkthrough of a tiny coding agent harness: tools, loop, permissions, feedback, and traces."
+      "description": "A step-by-step walkthrough of a tiny coding agent harness: tools, loop, permissions, feedback, and traces.",
+      "date": null
     }
   ]
 }

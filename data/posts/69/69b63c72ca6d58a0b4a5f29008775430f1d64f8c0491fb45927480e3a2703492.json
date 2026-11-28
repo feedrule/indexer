@@ -4,17 +4,20 @@
     {
       "link": "https://gem.bearblog.dev/books/",
       "title": "Book List",
-      "description": "Recent Readings & Recommendations"
+      "description": "Recent Readings & Recommendations",
+      "date": null
     },
     {
       "link": "https://gem.bearblog.dev/music-2025/",
       "title": "Best Music of 2025",
-      "description": "Notable albums released each month this year."
+      "description": "Notable albums released each month this year.",
+      "date": null
     },
     {
       "link": "https://gem.bearblog.dev/music-2026/",
       "title": "New Music of 2026",
-      "description": "Notable albums released each month this year."
+      "description": "Notable albums released each month this year.",
+      "date": null
     }
   ]
 }

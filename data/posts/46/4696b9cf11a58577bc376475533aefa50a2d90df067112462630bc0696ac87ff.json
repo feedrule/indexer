@@ -4,17 +4,20 @@
     {
       "link": "https://progrium.xyz/articles/2026/single-binary-postgres",
       "title": "How I Got Postgres into a Single Binary",
-      "description": "What if we had full PostgreSQL but in the shape of SQLite?"
+      "description": "What if we had full PostgreSQL but in the shape of SQLite?",
+      "date": null
     },
     {
       "link": "https://progrium.xyz/articles/2026/proposals",
       "title": "Proposals, Not Milestones",
-      "description": "I've started a new primitive called hyper9 , initially as an experiment to see how far I could push working with coding agents. It's ambitious and exciting, and right now it's in a pretty good place. Though, maybe halfway to a real v0.1 release. Getting to this point with it forced me to finally solve a problem I've had with projects like this for a long time. For day-to-day work we have todos, mi"
+      "description": "I've started a new primitive called hyper9 , initially as an experiment to see how far I could push working with coding agents. It's ambitious and exciting, and right now it's in a pretty good place. Though, maybe halfway to a real v0.1 release. Getting to this point with it forced me to finally solve a problem I've had with projects like this for a long time. For day-to-day work we have todos, mi",
+      "date": null
     },
     {
       "link": "https://progrium.xyz/articles/2025/vscode-as-product-framework",
       "title": "Turning VS Code into a Product Framework",
-      "description": "Visual Studio Code is no longer just a developer tool. It’s now a highly malleable and embeddable product platform. Looking at it beyond a code editor, it's actually a general-purpose application shell with a familiar UI, plugin system, command framework, and cross-platform runtime. Recently it's been used as the platform for several major AI products, but more quietly it's also been used for much"
+      "description": "Visual Studio Code is no longer just a developer tool. It’s now a highly malleable and embeddable product platform. Looking at it beyond a code editor, it's actually a general-purpose application shell with a familiar UI, plugin system, command framework, and cross-platform runtime. Recently it's been used as the platform for several major AI products, but more quietly it's also been used for much",
+      "date": null
     }
   ]
 }

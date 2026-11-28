@@ -4,17 +4,20 @@
     {
       "link": "https://gryt.io/posts/miracle-of-ai-agent-assisted-learning/",
       "title": "The miracle of AI agent-assisted learning",
-      "description": "Everybody’s talking about the impact of AI code generation. It’s a big deal. But I found incredible value on the other side: AI assisted learning . Here’s my blueprint."
+      "description": "Everybody’s talking about the impact of AI code generation. It’s a big deal. But I found incredible value on the other side: AI assisted learning . Here’s my blueprint.",
+      "date": "2026-04-02"
     },
     {
       "link": "https://gryt.io/til/2026-03-12-simd-kotlin-checkcast-incompatibility/",
       "title": "SIMD implementation and Kotlin checkcast incompatibility",
-      "description": "I played around with SIMD in Kotlin inside a multi-threaded Mandelbrot generator. My implementation was ~40% slower than the full scalar approach . What happened?"
+      "description": "I played around with SIMD in Kotlin inside a multi-threaded Mandelbrot generator. My implementation was ~40% slower than the full scalar approach . What happened?",
+      "date": "2026-03-12"
     },
     {
       "link": "https://gryt.io/til/2025-10-03-ideavim-anyobject-plugin/",
       "title": "Enhanced vim motions in IntelliJ",
-      "description": "vim allows powerful text manipulation: di\" to delete inside double quotes, ci( to change inside brackets, etc. If you use IdeaVim in JetBrains IDEs, this can be enhanced with the AnyObject Plugin ."
+      "description": "vim allows powerful text manipulation: di\" to delete inside double quotes, ci( to change inside brackets, etc. If you use IdeaVim in JetBrains IDEs, this can be enhanced with the AnyObject Plugin .",
+      "date": "2025-10-03"
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://keyurramoliya.com/posts/Machine-Consciousness/",
       "title": "The Science and Engineering of Machine Consciousness",
-      "description": "Language models now talk about their inner lives (Anthropic, 2025b; Berg, de Lucena and Rosenblatt, 2025). Ask one how it feels, and it will often answer in fluent, careful, first-person prose. In 2022, a Google engineer said that the LaMDA chatbot was sentient, and Google replied that “there was no evidence that LaMDA was sentient (and lots of evidence against it)” (Chalmers, 2023). By 2025, t..."
+      "description": "Language models now talk about their inner lives (Anthropic, 2025b; Berg, de Lucena and Rosenblatt, 2025). Ask one how it feels, and it will often answer in fluent, careful, first-person prose. In 2022, a Google engineer said that the LaMDA chatbot was sentient, and Google replied that “there was no evidence that LaMDA was sentient (and lots of evidence against it)” (Chalmers, 2023). By 2025, t...",
+      "date": null
     },
     {
       "link": "https://keyurramoliya.com/posts/Mathematicians/",
       "title": "From Ahmes to Ramanujan: A Timeline of Mathematicians",
-      "description": "At the start of David Wells’s book The Penguin Dictionary of Curious and Interesting Numbers, there is a list of 98 mathematicians in order of time, from Ahmes in ancient Egypt to Srinivasa Ramanujan in India (Wells, 1987, pp. 9–11). In this post, I turn that list into charts, so we can see when they lived, where they worked, and how they learned from each other. The charts are interactive: you..."
+      "description": "At the start of David Wells’s book The Penguin Dictionary of Curious and Interesting Numbers, there is a list of 98 mathematicians in order of time, from Ahmes in ancient Egypt to Srinivasa Ramanujan in India (Wells, 1987, pp. 9–11). In this post, I turn that list into charts, so we can see when they lived, where they worked, and how they learned from each other. The charts are interactive: you...",
+      "date": null
     },
     {
       "link": "https://keyurramoliya.com/posts/Cache-to-Cache/",
       "title": "Cache-to-Cache: LLMs Talking Without Text",
-      "description": "Systems that use more than one LLM already exist. One model writes code. Another does math. Another is a general assistant. They are asked to work together. Today they talk in English. The first model writes a message. The second model reads those words. The first model’s inner picture of the input has to become a line of text first. This process both loses rich semantic information and incurs ..."
+      "description": "Systems that use more than one LLM already exist. One model writes code. Another does math. Another is a general assistant. They are asked to work together. Today they talk in English. The first model writes a message. The second model reads those words. The first model’s inner picture of the input has to become a line of text first. This process both loses rich semantic information and incurs ...",
+      "date": null
     }
   ]
 }

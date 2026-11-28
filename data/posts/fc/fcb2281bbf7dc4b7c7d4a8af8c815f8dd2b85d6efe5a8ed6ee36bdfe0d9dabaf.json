@@ -4,17 +4,20 @@
     {
       "link": "https://itsnas.me/writing/ui-copy-in-one-place",
       "title": "Keep Your UI Copy in One Place",
-      "description": "All of the site's copy moves out of components into one central file, and components read it through `t('key')`. The keys are typed against that file, so they autocomplete, and a typo or a deleted line fails the type-check instead of shipping blank."
+      "description": "All of the site's copy moves out of components into one central file, and components read it through `t('key')`. The keys are typed against that file, so they autocomplete, and a typo or a deleted line fails the type-check instead of shipping blank.",
+      "date": null
     },
     {
       "link": "https://itsnas.me/writing/use-collapsible",
       "title": "Don't Drop Focus When the Button Disappears",
-      "description": "Click \"Show all\" on a collapsed block and the button unmounts, taking keyboard focus with it: the next Tab starts from the top of the page. `useCollapsible` moves focus to whatever replaced the button."
+      "description": "Click \"Show all\" on a collapsed block and the button unmounts, taking keyboard focus with it: the next Tab starts from the top of the page. `useCollapsible` moves focus to whatever replaced the button.",
+      "date": null
     },
     {
       "link": "https://itsnas.me/writing/use-overflow",
       "title": "Show More Only When It's Cut Off",
-      "description": "`line-clamp` cuts text off, but it can't tell your JavaScript whether it did, so every short description gets a pointless \"Show more\". `useOverflow` measures the element and answers that one question."
+      "description": "`line-clamp` cuts text off, but it can't tell your JavaScript whether it did, so every short description gets a pointless \"Show more\". `useOverflow` measures the element and answers that one question.",
+      "date": null
     }
   ]
 }

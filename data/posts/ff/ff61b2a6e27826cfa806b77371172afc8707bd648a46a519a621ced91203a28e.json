@@ -4,17 +4,20 @@
     {
       "link": "https://muensterer.tech/design",
       "title": "Design library",
-      "description": "Added the DESIGN.md specification and /design library with interactive component and typography examples, a Markdown preview, copyable Svelte snippets, and a light/dark theme token explorer."
+      "description": "Added the DESIGN.md specification and /design library with interactive component and typography examples, a Markdown preview, copyable Svelte snippets, and a light/dark theme token explorer.",
+      "date": null
     },
     {
       "link": "https://muensterer.tech/micro",
       "title": "Micrographics",
-      "description": "Editor for designing SVG micrographics - templates, marks, text blocks and colors, with SVG and PNG export."
+      "description": "Editor for designing SVG micrographics - templates, marks, text blocks and colors, with SVG and PNG export.",
+      "date": null
     },
     {
       "link": "https://muensterer.tech/notes",
       "title": "Notes App",
-      "description": "Integrated my Zettelkasten notes directly into the website with markdown rendering and wikilink support."
+      "description": "Integrated my Zettelkasten notes directly into the website with markdown rendering and wikilink support.",
+      "date": null
     }
   ]
 }

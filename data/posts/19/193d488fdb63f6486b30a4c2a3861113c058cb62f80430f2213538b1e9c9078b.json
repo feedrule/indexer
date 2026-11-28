@@ -4,17 +4,20 @@
     {
       "link": "https://www.ypsidanger.com/thanks-microsoft-you-solved-my-homelab-problem/",
       "title": "Thanks Microsoft, you solved my homelab problem!",
-      "description": "Thanks to Github's generous gift of Copilot for CNCF Contributors, I made a little UI that slaps a UX on the ignition config system into a homelab friendly installer for Flatcar Linux. Which was donated to the CNCF by ... Microsoft. And I helped them do it!"
+      "description": "Thanks to Github's generous gift of Copilot for CNCF Contributors, I made a little UI that slaps a UX on the ignition config system into a homelab friendly installer for Flatcar Linux. Which was donated to the CNCF by ... Microsoft. And I helped them do it!",
+      "date": null
     },
     {
       "link": "https://www.ypsidanger.com/please-have-a-working-email-address/",
       "title": "Please have a working email address.",
-      "description": "Dude I get it. You're in your FREEDOM arc and you feel like hosting mail-in-a-box to learn Nix is a good use of your time. Those of you looking for jobs: I am tired of seeing the next generation of open source contributors shooting themselves"
+      "description": "Dude I get it. You're in your FREEDOM arc and you feel like hosting mail-in-a-box to learn Nix is a good use of your time. Those of you looking for jobs: I am tired of seeing the next generation of open source contributors shooting themselves",
+      "date": null
     },
     {
       "link": "https://www.ypsidanger.com/homebrew-is-great-on-linux/",
       "title": "Homebrew is great on Linux",
-      "description": "(Originally from October 2023, updated August 2025) I'm a strong believer in the next generation Linux desktop model - which splits what is typically one monolithic system into different layers. This has been great for us at Universal Blue because it allows us to reuse Fedora's OCI"
+      "description": "(Originally from October 2023, updated August 2025) I'm a strong believer in the next generation Linux desktop model - which splits what is typically one monolithic system into different layers. This has been great for us at Universal Blue because it allows us to reuse Fedora's OCI",
+      "date": null
     }
   ]
 }

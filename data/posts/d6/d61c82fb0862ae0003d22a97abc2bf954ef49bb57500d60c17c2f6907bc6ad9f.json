@@ -4,12 +4,14 @@
     {
       "link": "https://hoodie-cat.dev/dont-save-resources/",
       "title": "Don't save Resources to user://",
-      "description": "I don't save stuff in Godot very often. That's how I ended up on Saving games page of the docs. In the end of the page, there was a heated discussion about using ResourceSaver instead of saving to JSON, as the article suggests. I knew about ResourceSaver , I used it for my jam project when I was desperate for any way to save progress with minimal amount of code. It worked, but even then I felt unc"
+      "description": "I don't save stuff in Godot very often. That's how I ended up on Saving games page of the docs. In the end of the page, there was a heated discussion about using ResourceSaver instead of saving to JSON, as the article suggests. I knew about ResourceSaver , I used it for my jam project when I was desperate for any way to save progress with minimal amount of code. It worked, but even then I felt unc",
+      "date": null
     },
     {
       "link": "https://hoodie-cat.dev/godot-pluralization/",
       "title": "The hidden feature of pluralization in CSV in Godot",
-      "description": "During the development of Tens! (out now on Poki, check it out!), we decided that it would be cool to localize our game to languages we expect to be popular. We knew that Godot has a built-in i18n API (i18n is short for internationalization) and it was a perfect opportunity to learn how to use it. Godot supports 2 formats of localization files: gettext (also known as PO files) and CSV (also known"
+      "description": "During the development of Tens! (out now on Poki, check it out!), we decided that it would be cool to localize our game to languages we expect to be popular. We knew that Godot has a built-in i18n API (i18n is short for internationalization) and it was a perfect opportunity to learn how to use it. Godot supports 2 formats of localization files: gettext (also known as PO files) and CSV (also known",
+      "date": null
     }
   ]
 }

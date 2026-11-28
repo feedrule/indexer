@@ -4,17 +4,20 @@
     {
       "link": "https://kolemannix.com/blog/software-is-art/",
       "title": "Creating software is an artistic activity",
-      "description": "ART, n. “The disposition or modification of things by human skill, to answer the purpose intended. In this sense art stands opposed to nature .” Forgive me a fake quote: “I know how I want the score to sound, and put it in this PRD. Now I just need an individual contributor to write the notes” - Hans Zimmer. This is funny, because we know that music isn’t made this way. The composer obviously writ"
+      "description": "ART, n. “The disposition or modification of things by human skill, to answer the purpose intended. In this sense art stands opposed to nature .” Forgive me a fake quote: “I know how I want the score to sound, and put it in this PRD. Now I just need an individual contributor to write the notes” - Hans Zimmer. This is funny, because we know that music isn’t made this way. The composer obviously writ",
+      "date": null
     },
     {
       "link": "https://kolemannix.com/blog/better-code-than-claude/",
       "title": "Writing better code than Claude",
-      "description": "I find small, concrete examples really valuable when it comes to talking about ‘code quality’. Let’s get to it. Today I was tasked with fixing a bug in one of our internal expression languages. RecordTypes have fields. Fields have names and types. Some fields are arrays of ids of other records. And these other records can of course themselves have these ‘reference’ type fields. Cycles are allowed."
+      "description": "I find small, concrete examples really valuable when it comes to talking about ‘code quality’. Let’s get to it. Today I was tasked with fixing a bug in one of our internal expression languages. RecordTypes have fields. Fields have names and types. Some fields are arrays of ids of other records. And these other records can of course themselves have these ‘reference’ type fields. Cycles are allowed.",
+      "date": null
     },
     {
       "link": "https://kolemannix.com/blog/how-to-name-things/",
       "title": "How to name things",
-      "description": "Naming is one of the most fundamental skills in software engineering, and in knowledge work generally. Clear language almost always entails clear thinking. When someone’s language is vague, it’s relatively likely that there is lacking internal clarity. Every time we name something, we are communicating: a local variable, a function, a field on a struct, an API endpoint, an application page, a data"
+      "description": "Naming is one of the most fundamental skills in software engineering, and in knowledge work generally. Clear language almost always entails clear thinking. When someone’s language is vague, it’s relatively likely that there is lacking internal clarity. Every time we name something, we are communicating: a local variable, a function, a field on a struct, an API endpoint, an application page, a data",
+      "date": null
     }
   ]
 }

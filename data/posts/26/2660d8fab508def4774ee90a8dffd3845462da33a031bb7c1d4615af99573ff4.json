@@ -4,17 +4,20 @@
     {
       "link": "https://op111.net/posts/2026/11/png-and-modern-formats-lossless-image-compression-2026-update/",
       "title": "PNG and modern image formats: A comparison of lossless image compression, 2026 update",
-      "description": "A benchmark of lossless image compression comparing PNG with AVIF, HEIF, JPEG XL, and WebP for fourteen graphics images"
+      "description": "A benchmark of lossless image compression comparing PNG with AVIF, HEIF, JPEG XL, and WebP for fourteen graphics images",
+      "date": null
     },
     {
       "link": "https://op111.net/posts/2026/02/nobot-detection-system-for-low-effort-bots/",
       "title": "I released nobot, a detection system for low-effort bots",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://op111.net/posts/2025/11/block-googlebot-impersonators/",
       "title": "How to block Googlebot impersonators",
-      "description": "Apache snippets to block fake Googlebots"
+      "description": "Apache snippets to block fake Googlebots",
+      "date": null
     }
   ]
 }

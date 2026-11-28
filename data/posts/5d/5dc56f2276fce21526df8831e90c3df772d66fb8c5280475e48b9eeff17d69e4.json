@@ -4,17 +4,20 @@
     {
       "link": "https://blog.plover.com/tech/bug-reports.html",
       "title": "Google Chrome dev team declares bug report bankruptcy",
-      "description": "[ I wrote this in August 2012 and then forgot about it. ] About 18 months ago I filed a report for a bug in Google Chrome. It wasn't a very important bug. I reported that when Chrome was asked to inline an image, and the image turned out to be in the obscure and seldom-used X-bitmap format, it came up as a \"broken image\" icon (which isn't a bug) and failed to display the alt text from the img tag"
+      "description": "[ I wrote this in August 2012 and then forgot about it. ] About 18 months ago I filed a report for a bug in Google Chrome. It wasn't a very important bug. I reported that when Chrome was asked to inline an image, and the image turned out to be in the obscure and seldom-used X-bitmap format, it came up as a \"broken image\" icon (which isn't a bug) and failed to display the alt text from the img tag",
+      "date": null
     },
     {
       "link": "https://blog.plover.com/prog/git/history-proposal.html",
       "title": "Maybe a better way to track the release history of a Git repo",
-      "description": "While I was still at ZipRecruiter, our Git monorepo was developing an annoying problem: it had too many refs. Whenever there was a deployment of any of the applications in the repo, to staging or to production, the deployment tool would create a tag object with a name like this: refs/release/stg.www.our-app-2019-09-06T114410.954-0700-treesha-179dab6fd11bee5195f0f8e31cea3edfb86ae23b The tag contain"
+      "description": "While I was still at ZipRecruiter, our Git monorepo was developing an annoying problem: it had too many refs. Whenever there was a deployment of any of the applications in the repo, to staging or to production, the deployment tool would create a tag object with a name like this: refs/release/stg.www.our-app-2019-09-06T114410.954-0700-treesha-179dab6fd11bee5195f0f8e31cea3edfb86ae23b The tag contain",
+      "date": null
     },
     {
       "link": "https://blog.plover.com/addenda/202609.html",
       "title": "Recent addenda to articles 202609: Errors, omissions, and retractions",
-      "description": "I was going to start with “it has been a while since we had one of these” but then I saw that the previous one started with “Wow, has it really been 7 months since I did one of these?” and that was in December 2023. Maybe I can make it a more regular thing. Anyway blogging itself has become a more regular thing of late so there is quite a lot to report just from last month. In 2007 I described Nao"
+      "description": "I was going to start with “it has been a while since we had one of these” but then I saw that the previous one started with “Wow, has it really been 7 months since I did one of these?” and that was in December 2023. Maybe I can make it a more regular thing. Anyway blogging itself has become a more regular thing of late so there is quite a lot to report just from last month. In 2007 I described Nao",
+      "date": null
     }
   ]
 }

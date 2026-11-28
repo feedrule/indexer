@@ -4,17 +4,20 @@
     {
       "link": "https://swaranga.dev/posts/who-are-we-actually-promoting/",
       "title": "GenAI is Erasing the Mid-Level Engineer Promo Signal",
-      "description": "AI can do much of the exploration behind a technical design. What does that mean for the way we evaluate engineers for promotion?"
+      "description": "AI can do much of the exploration behind a technical design. What does that mean for the way we evaluate engineers for promotion?",
+      "date": null
     },
     {
       "link": "https://swaranga.dev/posts/on-lombok/",
       "title": "Lombok is Still Relevant in the Age of Java Records",
-      "description": "Every six months, like clockwork, a new JDK drops—and right on cue, the Java community’s ideological purity tests begin. The usual suspects crawl out to complain about Project Lombok. They argue that it does “weird hacks” to the javac compiler, that it slows down upgrades, and that we don’t need it anymore because we have Records. I am a little tired of this constant principled stance against its"
+      "description": "Every six months, like clockwork, a new JDK drops—and right on cue, the Java community’s ideological purity tests begin. The usual suspects crawl out to complain about Project Lombok. They argue that it does “weird hacks” to the javac compiler, that it slows down upgrades, and that we don’t need it anymore because we have Records. I am a little tired of this constant principled stance against its",
+      "date": null
     },
     {
       "link": "https://swaranga.dev/posts/dloom-the-dotfile-manager-i-wanted/",
       "title": "dloom: the dotfile manager I wanted",
-      "description": "Why I built dloom, a CLI for managing dotfiles with file-level symlinks, conditional linking, and an adopt workflow."
+      "description": "Why I built dloom, a CLI for managing dotfiles with file-level symlinks, conditional linking, and an adopt workflow.",
+      "date": null
     }
   ]
 }

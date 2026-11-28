@@ -4,17 +4,20 @@
     {
       "link": "https://www.philosophicalhacker.com/post/anthropic-error/",
       "title": "Anthropic's Argument for Mythos SWE-bench improvement contains a fatal error",
-      "description": "Mythos’ system card contains the following graph to support its argument that Mythos performs better on SWE-bench: Anthropic and others are worried LLMs are memorizing SWE-bench, so they asked an LLM to estimate the probability that a solution is memorized. Next, they calculated the pass rate if they only included solutions an LLM judged to be memorized with less than 5% confidence, 10% confidence"
+      "description": "Mythos’ system card contains the following graph to support its argument that Mythos performs better on SWE-bench: Anthropic and others are worried LLMs are memorizing SWE-bench, so they asked an LLM to estimate the probability that a solution is memorized. Next, they calculated the pass rate if they only included solutions an LLM judged to be memorized with less than 5% confidence, 10% confidence",
+      "date": null
     },
     {
       "link": "https://www.philosophicalhacker.com/post/llms-russellian-inversion/",
       "title": "LLMs and the Russellian Inversion",
-      "description": "Bertrand Russell, the 20th century philosohper and mathematician, once said: The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt. LLMs are introducing something like this dynamic into programming. The programming version of the statement is: The fundamental cause of the trouble is that in the modern world the less experie"
+      "description": "Bertrand Russell, the 20th century philosohper and mathematician, once said: The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt. LLMs are introducing something like this dynamic into programming. The programming version of the statement is: The fundamental cause of the trouble is that in the modern world the less experie",
+      "date": null
     },
     {
       "link": "https://www.philosophicalhacker.com/post/libraries-llms/",
       "title": "Libraries are under-used. LLMs make this problem worse.",
-      "description": "Libraries are under-used. Why? Briefly: Writing code is more fun than reading documentation. We tend to understimate the complexity of problems we don’t understand well, so we undervalue libraries that solve these poorly understood problems. Perverse incentives: libraries compete with big internal engineering projects that look good in a promo packet. LLMs make this problem worse. Why? Less briefl"
+      "description": "Libraries are under-used. Why? Briefly: Writing code is more fun than reading documentation. We tend to understimate the complexity of problems we don’t understand well, so we undervalue libraries that solve these poorly understood problems. Perverse incentives: libraries compete with big internal engineering projects that look good in a promo packet. LLMs make this problem worse. Why? Less briefl",
+      "date": null
     }
   ]
 }

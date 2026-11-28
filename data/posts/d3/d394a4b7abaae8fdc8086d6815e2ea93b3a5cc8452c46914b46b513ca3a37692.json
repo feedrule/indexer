@@ -4,17 +4,20 @@
     {
       "link": "https://softwarefordays.com/post/github-actions-auto-retry/",
       "title": "Making GitHub Actions Suck a Little Less",
-      "description": "Do you find yourself babysitting your CI environment because of transients failures like ETIMEDOUT . ECONNRESET . npm ERR! network . 502 Bad Gateway ? Yeah us too. Our problem has gotten even worse lately because of all the AI coding agents under our command. Great throughput requires great responsibility. The Solution: A Simple Auto-Retry Workflow # This retry loop: name : Auto - Retry Failed Wor"
+      "description": "Do you find yourself babysitting your CI environment because of transients failures like ETIMEDOUT . ECONNRESET . npm ERR! network . 502 Bad Gateway ? Yeah us too. Our problem has gotten even worse lately because of all the AI coding agents under our command. Great throughput requires great responsibility. The Solution: A Simple Auto-Retry Workflow # This retry loop: name : Auto - Retry Failed Wor",
+      "date": null
     },
     {
       "link": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
       "title": "Software is Mostly All You Need",
-      "description": "Over the last 6 months and the last 6 weeks in particular, AI coding agents have shown to be incredibly capable at writing software. Tasks that traditionally required weeks of human labor can now be done in days if not hours. Even more incredibly, software systems that are designed from the start to harness AI coding agents exhibit many of the characteristics of the neural nets that were integral"
+      "description": "Over the last 6 months and the last 6 weeks in particular, AI coding agents have shown to be incredibly capable at writing software. Tasks that traditionally required weeks of human labor can now be done in days if not hours. Even more incredibly, software systems that are designed from the start to harness AI coding agents exhibit many of the characteristics of the neural nets that were integral",
+      "date": null
     },
     {
       "link": "https://softwarefordays.com/post/fp-advantages-synopsis/",
       "title": "Paradigmatic Advantages of Functional Programming",
-      "description": "Excerpted from Functional Programming and the Semantics of Change, State & Time because sometimes 100 words are worth a 1000. There are many advantages to functional programming. Programs that deal with mutation are “drastically more difficult” to reason about than ones that do not. Referential transparency is violated when we include set! [i.e. assignment operations] in our computer language. Thi"
+      "description": "Excerpted from Functional Programming and the Semantics of Change, State & Time because sometimes 100 words are worth a 1000. There are many advantages to functional programming. Programs that deal with mutation are “drastically more difficult” to reason about than ones that do not. Referential transparency is violated when we include set! [i.e. assignment operations] in our computer language. Thi",
+      "date": null
     }
   ]
 }

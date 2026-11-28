@@ -4,17 +4,20 @@
     {
       "link": "https://baltazarstudios.com/calculator-conclusion/",
       "title": "A Calculator (10): It Works!",
-      "description": "The final post tallies everything: a working scientific calculator in 1,593 logic cells: 35% of a small, cheap FPGA with honest reflections on what the project taught and what it didn't quite nail. The keypad still isn't as satisfying as a vintage HP's, the TQFP-144 soldering was nerve-wracking, and the jump from \"works on the bench\" to \"fits in a bag\" was larger than expected. The joy, as always,"
+      "description": "The final post tallies everything: a working scientific calculator in 1,593 logic cells: 35% of a small, cheap FPGA with honest reflections on what the project taught and what it didn't quite nail. The keypad still isn't as satisfying as a vintage HP's, the TQFP-144 soldering was nerve-wracking, and the jump from \"works on the bench\" to \"fits in a bag\" was larger than expected. The joy, as always,",
+      "date": null
     },
     {
       "link": "https://baltazarstudios.com/calculator-precision/",
       "title": "A Calculator (9): Chasing the Last Digit",
-      "description": "The 2021 implementation worked, but \"most results correct to around 12 digits\" is not the same as what a 16-digit BCD machine should deliver. This post covers the 2025 rewrite: a ground-up redo of the arithmetic engine with proper guard digit and sticky bit tracking, banker's rounding, a full trig suite, ten STO/RCL memory registers, and a hardware LFSR random number generator validated throughout"
+      "description": "The 2021 implementation worked, but \"most results correct to around 12 digits\" is not the same as what a 16-digit BCD machine should deliver. This post covers the 2025 rewrite: a ground-up redo of the arithmetic engine with proper guard digit and sticky bit tracking, banker's rounding, a full trig suite, ten STO/RCL memory registers, and a hardware LFSR random number generator validated throughout",
+      "date": null
     },
     {
       "link": "https://baltazarstudios.com/calculator-device/",
       "title": "A Calculator (8): From Dev Board to a Real Device",
-      "description": "This post covers the hardware journey from a $5 EP2C5 dev board tethered to a ribbon cable to a single custom PCB with the FPGA soldered directly, a 3D-printed enclosure, and keycaps color-coded in HP's own yellow-and-red convention. Two programming connectors: JTAG for fast iteration during development, Active Serial for persistent flash, meant the edit-synthesize-test loop stayed quick right thr"
+      "description": "This post covers the hardware journey from a $5 EP2C5 dev board tethered to a ribbon cable to a single custom PCB with the FPGA soldered directly, a 3D-printed enclosure, and keycaps color-coded in HP's own yellow-and-red convention. Two programming connectors: JTAG for fast iteration during development, Active Serial for persistent flash, meant the edit-synthesize-test loop stayed quick right thr",
+      "date": null
     }
   ]
 }

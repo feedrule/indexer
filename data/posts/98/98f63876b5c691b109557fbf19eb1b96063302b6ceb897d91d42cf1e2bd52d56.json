@@ -4,17 +4,20 @@
     {
       "link": "https://arvindgaba.com/2026/11/19/aidrad-why-early-validation-eliminates-late-stage-rework/",
       "title": "AIDRAD: Why Early Validation Eliminates Late-Stage Rework",
-      "description": "In traditional enterprise software delivery, finding an architectural mismatch during UAT carries a 10x-50x rework penalty. In this AIDRAD deep dive, we show how continuous automated invariant validation locks in business intent and data contracts before backend code is written."
+      "description": "In traditional enterprise software delivery, finding an architectural mismatch during UAT carries a 10x-50x rework penalty. In this AIDRAD deep dive, we show how continuous automated invariant validation locks in business intent and data contracts before backend code is written.",
+      "date": null
     },
     {
       "link": "https://arvindgaba.com/2026/11/17/migrating-wordpress-with-ai-agents-proxmox/",
       "title": "How I Migrated My Aging WordPress Blog with AI Agents – and Kept Control of the Decisions",
-      "description": "An outdated PHP warning became a clean WordPress rebuild. Here is how AI agents handled the technical work, where I retained control, and what the migration taught me."
+      "description": "An outdated PHP warning became a clean WordPress rebuild. Here is how AI agents handled the technical work, where I retained control, and what the migration taught me.",
+      "date": null
     },
     {
       "link": "https://arvindgaba.com/2026/11/12/aidrad-demo-driven-validation-beats-document-approval/",
       "title": "AIDRAD: Why Demo-Driven Validation Beats Document-Driven Approval",
-      "description": "For decades, enterprise IT relied on ceremonial sign-offs on 100-page Business Requirement Documents (BRDs)—a ritual that produced rubber-stamped approvals and catastrophic reality shocks six months later. In this AIDRAD essay, we examine why interactive, Day-3 working prototypes replace speculative documentation with empirical truth."
+      "description": "For decades, enterprise IT relied on ceremonial sign-offs on 100-page Business Requirement Documents (BRDs)—a ritual that produced rubber-stamped approvals and catastrophic reality shocks six months later. In this AIDRAD essay, we examine why interactive, Day-3 working prototypes replace speculative documentation with empirical truth.",
+      "date": null
     }
   ]
 }

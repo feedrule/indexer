@@ -4,17 +4,20 @@
     {
       "link": "https://noahgolmant.com/blog/stable-regions-residual-stream/",
       "title": "The local shape of LLM stable regions",
-      "description": "Most of the time at inference, the Fisher pullback through the unembedding tells you exactly how far you can perturb the residual stream before the predictive distribution moves — and it's literally the second-order Taylor expansion of KL."
+      "description": "Most of the time at inference, the Fisher pullback through the unembedding tells you exactly how far you can perturb the residual stream before the predictive distribution moves — and it's literally the second-order Taylor expansion of KL.",
+      "date": null
     },
     {
       "link": "https://noahgolmant.com/blog/hessian-eigenthings-v1/",
       "title": "Revisiting pytorch-hessian-eigenthings, eight years later",
-      "description": "A v1.0 rewrite of my old curvature analysis library: new operators, new algorithms, and a lot of numerical validation I should have written the first time."
+      "description": "A v1.0 rewrite of my old curvature analysis library: new operators, new algorithms, and a lot of numerical validation I should have written the first time.",
+      "date": null
     },
     {
       "link": "https://noahgolmant.com/blog/diving-into-attention/",
       "title": "Dynamical systems and an abstract view of autoregressive transformers",
-      "description": "Understanding how attention can express logical propositions about correlations between tokens and other fun tips and tricks"
+      "description": "Understanding how attention can express logical propositions about correlations between tokens and other fun tips and tricks",
+      "date": null
     }
   ]
 }

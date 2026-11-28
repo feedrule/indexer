@@ -4,17 +4,20 @@
     {
       "link": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
       "title": "Surfel-based global illumination on the web",
-      "description": "Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this journey and let's find out!"
+      "description": "Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this journey and let's find out!",
+      "date": null
     },
     {
       "link": "https://juretriglav.si/projects/webgiya/",
       "title": "Webgiya",
-      "description": "Surfel-based global illumination on the web using a fully compute-driven WebGPU pipeline."
+      "description": "Surfel-based global illumination on the web using a fully compute-driven WebGPU pipeline.",
+      "date": null
     },
     {
       "link": "https://juretriglav.si/projects/poezije/",
       "title": "Poezije app (poetry)",
-      "description": "The largest collection of Slovenian public domain poetry."
+      "description": "The largest collection of Slovenian public domain poetry.",
+      "date": null
     }
   ]
 }

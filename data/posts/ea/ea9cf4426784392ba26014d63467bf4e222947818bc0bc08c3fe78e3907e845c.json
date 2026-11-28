@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "About",
-      "description": "Hi! I’m Shawn Tan. Born, raised, served and studied in Singapore. Worked as a data janitor engineer at Semantics3 in San Francisco, and then as a research minion assistant at the National University of Singapore (NUS). I did my PhD at the Montreal Institute of Learning Algorithms (MILA) under Aaron Courville, then did pretraining for the Granite models at MIT-IBM Watson AI Lab. Here’s my CV. Socia"
+      "description": "Hi! I’m Shawn Tan. Born, raised, served and studied in Singapore. Worked as a data janitor engineer at Semantics3 in San Francisco, and then as a research minion assistant at the National University of Singapore (NUS). I did my PhD at the Montreal Institute of Learning Algorithms (MILA) under Aaron Courville, then did pretraining for the Granite models at MIT-IBM Watson AI Lab. Here’s my CV. Socia",
+      "date": null
     },
     {
       "link": null,
       "title": "Yes it's just doing compression. No it's not the diss you think it is.",
-      "description": "In Ted Chiang’s New Yorker article, he likened language models to “a blurry JPEG”. JPEG is a lossless lossy (Edit: I meant to quote Ted Chiang, but slipped up) compression method for images. And some people absolutely hated this comparison. I’m going to attempt to convince you that the objective of maximising log-likelihood is optimising for compression. And then I’m going to cover something perha"
+      "description": "In Ted Chiang’s New Yorker article, he likened language models to “a blurry JPEG”. JPEG is a lossless lossy (Edit: I meant to quote Ted Chiang, but slipped up) compression method for images. And some people absolutely hated this comparison. I’m going to attempt to convince you that the objective of maximising log-likelihood is optimising for compression. And then I’m going to cover something perha",
+      "date": null
     },
     {
       "link": null,
       "title": "The New XOR Problem",
-      "description": "In 1969, Marvin Minsky and Seymour Papert published Perceptrons: An Introduction to Computational Geometry. In it, they showed that a single-layer perceptron cannot compute the XOR function. The main argument relies on linear separability: Perceptrons are linear classifiers, which essentially means drawing a line to separate input that would result in 1 versus 0. You can do it in the OR and AND ca"
+      "description": "In 1969, Marvin Minsky and Seymour Papert published Perceptrons: An Introduction to Computational Geometry. In it, they showed that a single-layer perceptron cannot compute the XOR function. The main argument relies on linear separability: Perceptrons are linear classifiers, which essentially means drawing a line to separate input that would result in 1 versus 0. You can do it in the OR and AND ca",
+      "date": null
     }
   ]
 }

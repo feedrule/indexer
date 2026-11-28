@@ -4,17 +4,20 @@
     {
       "link": "https://navigatone.com/2026/03/21/asahi-linux-for-daily-usage/",
       "title": "Asahi Linux For Daily Usage?",
-      "description": "After the 2nd hardware breakdown of a Lenovo Thinkpad in just 5 years I was ready to try something I never thought I would do … I bought an Apple device, a used MacBook Pro M2. Installing Asahi Linux on it was a very smooth ride and I was able to be one of the […]"
+      "description": "After the 2nd hardware breakdown of a Lenovo Thinkpad in just 5 years I was ready to try something I never thought I would do … I bought an Apple device, a used MacBook Pro M2. Installing Asahi Linux on it was a very smooth ride and I was able to be one of the […]",
+      "date": null
     },
     {
       "link": "https://navigatone.com/2025/10/25/flysky-fs005-fs-st8-binding-multiple-receivers/",
       "title": "Flysky FS005 FS-ST8 – Binding Multiple Receivers",
-      "description": "There are few use cases for connecting a transmitter to multiple receivers. One use case is “failover”, which ensures that a malfunctioning receiver won’t crash your model. For this use case the channels of the transmitter are all mapped to the same channels for all receivers, i.e. some kind of a “parallel” binding type: (Of […]"
+      "description": "There are few use cases for connecting a transmitter to multiple receivers. One use case is “failover”, which ensures that a malfunctioning receiver won’t crash your model. For this use case the channels of the transmitter are all mapped to the same channels for all receivers, i.e. some kind of a “parallel” binding type: (Of […]",
+      "date": null
     },
     {
       "link": "https://navigatone.com/2024/04/29/four-ways-to-convert-a-byte-array-to-an-integer/",
       "title": "Convert a Byte Array to an Integer in Java",
-      "description": "In Java there are several ways to convert a byte array into an integer. Let’s assume little endian order for all examples. If you need big endian order you can use can use Integer.reverseBytes. 1. ByteBuffer byte[] byteArray = new byte[] {1, 2, 3, 4}; int intValue = ByteBuffer.allocate(4).put(byteArray).getInt(0); System.out.println(intValue); System.out.println(Integer.toBinaryString(intValue));"
+      "description": "In Java there are several ways to convert a byte array into an integer. Let’s assume little endian order for all examples. If you need big endian order you can use can use Integer.reverseBytes. 1. ByteBuffer byte[] byteArray = new byte[] {1, 2, 3, 4}; int intValue = ByteBuffer.allocate(4).put(byteArray).getInt(0); System.out.println(intValue); System.out.println(Integer.toBinaryString(intValue));",
+      "date": null
     }
   ]
 }

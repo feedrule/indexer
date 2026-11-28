@@ -4,17 +4,20 @@
     {
       "link": "http://thebsdbox.co.uk/2026/01/14/Adding-a-gateway-to-kube-vip/",
       "title": "Adding a gateway to kube-vip",
-      "description": "<p>So …</p> <div class=\"twitter-wrapper\"><blockquote class=\"twitter-tweet\"><a href=\"https://twitter.com/thebsdbox/status/1860044871702290553\"></a></blockquote></div><script async defer src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script> <p>That was over a year ago, and well I didn’t write a service mesh (in the traditional sense) although I did write some interesting bits and f"
+      "description": "<p>So …</p> <div class=\"twitter-wrapper\"><blockquote class=\"twitter-tweet\"><a href=\"https://twitter.com/thebsdbox/status/1860044871702290553\"></a></blockquote></div><script async defer src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script> <p>That was over a year ago, and well I didn’t write a service mesh (in the traditional sense) although I did write some interesting bits and f",
+      "date": null
     },
     {
       "link": "http://thebsdbox.co.uk/2025/07/17/egress-v2-in-kube-vip/",
       "title": "Egress v2 in kube-vip",
-      "description": "<p>I’m not sure if it was my time working for <a href=\"https://docker.io/\">Docker</a> or just the general confusion around what various companies and startups are doing around container images, <strong>but</strong> I’ve always opted to go <code>FROM scratch</code> where possible. Several years ago we (me) wanted to implement <code>egress</code> control within <a href=\"https://kube-vip.io/\">Kube-vi"
+      "description": "<p>I’m not sure if it was my time working for <a href=\"https://docker.io/\">Docker</a> or just the general confusion around what various companies and startups are doing around container images, <strong>but</strong> I’ve always opted to go <code>FROM scratch</code> where possible. Several years ago we (me) wanted to implement <code>egress</code> control within <a href=\"https://kube-vip.io/\">Kube-vi",
+      "date": null
     },
     {
       "link": "http://thebsdbox.co.uk/2024/12/02/Continuing-building-your-service-mesh/",
       "title": "Continuing building your service mesh",
-      "description": "<p>In a previous post I detailed (in my head at least) the “shopping list” of bits needed to implement a simple service mesh, you can read that here <a href=\"https://thebsdbox.co.uk/2024/11/30/Building-your-own-service-mesh/\">https://thebsdbox.co.uk/2024/11/30/Building-your-own-service-mesh/</a>. Whilst that post covered some of the theoretical bits and the eBPF 🐝 magic, my aim is to wrap up all o"
+      "description": "<p>In a previous post I detailed (in my head at least) the “shopping list” of bits needed to implement a simple service mesh, you can read that here <a href=\"https://thebsdbox.co.uk/2024/11/30/Building-your-own-service-mesh/\">https://thebsdbox.co.uk/2024/11/30/Building-your-own-service-mesh/</a>. Whilst that post covered some of the theoretical bits and the eBPF 🐝 magic, my aim is to wrap up all o",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://bytebard.software/articles/04-you-dont-need-bazel/",
       "title": "Bazel Is Not For You",
-      "description": "I know the title sounds like clickbait, but hear me out. I make a living helping people with their Bazel builds. My ability to put food on the table is directly correlated with more people using Bazel. I’ve staked my career in the fact that people need great builds, and that Bazel is a great way to get there. So please believe that I don’t say this lightly: Most organizations shouldn’t be using Ba"
+      "description": "I know the title sounds like clickbait, but hear me out. I make a living helping people with their Bazel builds. My ability to put food on the table is directly correlated with more people using Bazel. I’ve staked my career in the fact that people need great builds, and that Bazel is a great way to get there. So please believe that I don’t say this lightly: Most organizations shouldn’t be using Ba",
+      "date": null
     },
     {
       "link": "https://bytebard.software/articles/03-arbor-002-working-with-legacy-libraries/",
       "title": "ARBOR 002 - Four Strategies for Wrapping Ancient External Dependencies in Bazel, From Best to Worst",
-      "description": "The ARBOR series (short for “Approaches to Refactoring Big Old Repositories” ) covers the techniques I’ve found and implemented when working on large project repositories, typically during a migration into Bazel. I do not claim these techniques are Bazel-idiomatic, but rather “as idiomatic as possible while working with the unique constraints of individual legacy projects”. If your project has a s"
+      "description": "The ARBOR series (short for “Approaches to Refactoring Big Old Repositories” ) covers the techniques I’ve found and implemented when working on large project repositories, typically during a migration into Bazel. I do not claim these techniques are Bazel-idiomatic, but rather “as idiomatic as possible while working with the unique constraints of individual legacy projects”. If your project has a s",
+      "date": null
     },
     {
       "link": "https://bytebard.software/articles/02-arbor-001-bazel-local-repo/",
       "title": "ARBOR 001 - The Bazel Local Registry Pattern for Large Polyrepos That Want to Behave Like Monorepos",
-      "description": "The ARBOR series (short for “Approaches to Refactoring Big Old Repositories” ) covers the techniques I’ve found and implemented when working on large project repositories, typically during a migration into Bazel. I do not claim these techniques are Bazel-idiomatic, but rather “as idiomatic as possible while working with the unique constraints of individual legacy projects”. If your project has a s"
+      "description": "The ARBOR series (short for “Approaches to Refactoring Big Old Repositories” ) covers the techniques I’ve found and implemented when working on large project repositories, typically during a migration into Bazel. I do not claim these techniques are Bazel-idiomatic, but rather “as idiomatic as possible while working with the unique constraints of individual legacy projects”. If your project has a s",
+      "date": null
     }
   ]
 }

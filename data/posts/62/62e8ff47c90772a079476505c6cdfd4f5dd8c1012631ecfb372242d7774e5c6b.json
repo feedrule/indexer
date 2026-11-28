@@ -4,17 +4,20 @@
     {
       "link": "http://franck.verrot.us/blog/2026/11/11/ai-transformation/",
       "title": "The Harmonic Law of AI Transformation",
-      "description": "I’ve been hesitant to post about this topic but as I’ve been staring at AI transformation dashboards for a while now, I figured that I could share something a bit different than the traditional “we sped up our org by 2x/10x/<name the increase>”. I also started drafting this post about a month ago, and reminded myself to publish it as I used some of these arguments in real-life work conversations,"
+      "description": "I’ve been hesitant to post about this topic but as I’ve been staring at AI transformation dashboards for a while now, I figured that I could share something a bit different than the traditional “we sped up our org by 2x/10x/<name the increase>”. I also started drafting this post about a month ago, and reminded myself to publish it as I used some of these arguments in real-life work conversations,",
+      "date": null
     },
     {
       "link": "http://franck.verrot.us/blog/2026/09/26/trying-to-beat-mlx-for-lfm2-5-350m/",
       "title": "Trying to beat MLX for LFM2.5-350M",
-      "description": "I’ve blogged a few times about small language models running locally, how to run one on a phone and how to fine-tune one , and it left me wondering (it’s been a couple of months in the making, I got busy with other things in the mean time…) what it would take to run inference on an Apple GPU faster than the go-to frameworks. So I wrote an inference engine for a model I really like ( LFM2.5-350M ,)"
+      "description": "I’ve blogged a few times about small language models running locally, how to run one on a phone and how to fine-tune one , and it left me wondering (it’s been a couple of months in the making, I got busy with other things in the mean time…) what it would take to run inference on an Apple GPU faster than the go-to frameworks. So I wrote an inference engine for a model I really like ( LFM2.5-350M ,)",
+      "date": null
     },
     {
       "link": "http://franck.verrot.us/blog/2026/09/20/building-lev-on-lfm-2-5-350m/",
       "title": "Building `lev`: a Jev-clone on LFM2.5-350M",
-      "description": "You’ve probably all seen TypeSafe’s Jev , a model that answers 3 types of questions (choice, score, noul) about a document with probabilities. It’s extremely fast and the community has been wondering how it’s made. Luckily, Archer Hume seems to have worked out how Jev is most likely built and published his thoughts in Jev’s Architecture Unmasked . Jared Palmer turned that reconstruction into kev ,"
+      "description": "You’ve probably all seen TypeSafe’s Jev , a model that answers 3 types of questions (choice, score, noul) about a document with probabilities. It’s extremely fast and the community has been wondering how it’s made. Luckily, Archer Hume seems to have worked out how Jev is most likely built and published his thoughts in Jev’s Architecture Unmasked . Jared Palmer turned that reconstruction into kev ,",
+      "date": null
     }
   ]
 }

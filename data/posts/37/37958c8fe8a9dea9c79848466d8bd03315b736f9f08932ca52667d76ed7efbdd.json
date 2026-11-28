@@ -4,17 +4,20 @@
     {
       "link": "https://blog.olimorris.com/2026/09/02/multiple-cursors-in-neovim-0.13/",
       "title": "How to use multiple cursors in Neovim 0.13",
-      "description": "A practical guide to native multiple cursors in Neovim 0.13: insert mode, search matches, visual selections, follow mode and per-cursor registers."
+      "description": "A practical guide to native multiple cursors in Neovim 0.13: insert mode, search matches, visual selections, follow mode and per-cursor registers.",
+      "date": null
     },
     {
       "link": "https://blog.olimorris.com/2026/08/27/setting-up-herdr-with-ghostty-for-agentic-workflows/",
       "title": "Setting up herdr with Ghostty for Agentic Workflows",
-      "description": "herdr is a terminal multiplexer built for running many coding agents at once. My honest take on leaving tmux for it, and how I use it with Ghostty."
+      "description": "herdr is a terminal multiplexer built for running many coding agents at once. My honest take on leaving tmux for it, and how I use it with Ghostty.",
+      "date": null
     },
     {
       "link": "https://blog.olimorris.com/2026/07/14/setup-n8n-ai-assistant-on-self-hosted-server/",
       "title": "How to Set Up n8n’s AI Assistant on a Self-Hosted Server",
-      "description": "Run n8n's AI Assistant on a self-hosted server with the official sandbox service, no Daytona needed. Covers sysbox, Docker networking and the gotchas I hit."
+      "description": "Run n8n's AI Assistant on a self-hosted server with the official sandbox service, no Daytona needed. Covers sysbox, Docker networking and the gotchas I hit.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.miadowicz.com/how-to-actually-design-human-oversight-into-your-agentic-ai-product/",
       "title": "How to Actually Design Human Oversight Into Your Agentic AI Product",
-      "description": "Let me be direct with you. After years working in enterprise AI, the thing I see kill agentic products in production is not the model. It is not the prompt. It is not even the data. It is the handoff. The moment your agent needs to do something consequential - move money, deploy code, send an email to a customer - and your team has not designed a clear, deliberate boundary between \"the agent decid"
+      "description": "Let me be direct with you. After years working in enterprise AI, the thing I see kill agentic products in production is not the model. It is not the prompt. It is not even the data. It is the handoff. The moment your agent needs to do something consequential - move money, deploy code, send an email to a customer - and your team has not designed a clear, deliberate boundary between \"the agent decid",
+      "date": null
     },
     {
       "link": "https://www.miadowicz.com/mcp-vs-cli-where-the-token-bill-actually-comes-from-and-how-printing-press-cuts-it/",
       "title": "MCP vs CLI: where the token bill actually comes from (and how Printing Press cuts it)",
-      "description": "I spent some time trying to figure out why my agent's context window kept filling up before I'd asked it to do anything real. The answer turned out to be embarrassingly simple, and once I saw it I couldn't unsee it. The culprit was MCP. Specifically, the way an MCP server announces itself: the moment it connects, it dumps the full description of every tool it offers into your context. For a GitHub"
+      "description": "I spent some time trying to figure out why my agent's context window kept filling up before I'd asked it to do anything real. The answer turned out to be embarrassingly simple, and once I saw it I couldn't unsee it. The culprit was MCP. Specifically, the way an MCP server announces itself: the moment it connects, it dumps the full description of every tool it offers into your context. For a GitHub",
+      "date": null
     },
     {
       "link": "https://www.miadowicz.com/why-smart-contracts-caught-my-attention/",
       "title": "Why Smart Contracts Caught My Attention - Blockchain x AI Agents",
-      "description": "A PM’s first-principles field report on learning smart contracts in 2026, with practical guidance on Solidity, toolchains, and the AI × blockchain opportunity."
+      "description": "A PM’s first-principles field report on learning smart contracts in 2026, with practical guidance on Solidity, toolchains, and the AI × blockchain opportunity.",
+      "date": null
     }
   ]
 }

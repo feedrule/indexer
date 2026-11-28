@@ -4,17 +4,20 @@
     {
       "link": "https://jdagostino.github.io/slowly/index.html",
       "title": "How To Use AI To Write Good Code (Slowly)",
-      "description": "The new AI coding agent tools have led to the biggest change in the practice of software development since the invention of the compiler. We've all seen examples of how to use these tools to write rough, sloppy code quickly, code that runs without any human being having ever read it, and while there are plenty of legitimate uses for that (experimental prototypes, UI mockups, internal tools, one-of"
+      "description": "The new AI coding agent tools have led to the biggest change in the practice of software development since the invention of the compiler. We've all seen examples of how to use these tools to write rough, sloppy code quickly, code that runs without any human being having ever read it, and while there are plenty of legitimate uses for that (experimental prototypes, UI mockups, internal tools, one-of",
+      "date": null
     },
     {
       "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
       "title": "AI At Home Part 2: Multi-GPU Drifting",
-      "description": "In the last chapter I built a ridiculous home server out of e-waste-grade GPUs to run AI language models. Here, I'll be talking about what I needed to do to squeeze some kind of reasonable performance out of this kind of setup. (This is going to be using existing code and techniques, messing around with llama.cpp settings and so on; writing new ROCm kernels is out of scope for this chapter)."
+      "description": "In the last chapter I built a ridiculous home server out of e-waste-grade GPUs to run AI language models. Here, I'll be talking about what I needed to do to squeeze some kind of reasonable performance out of this kind of setup. (This is going to be using existing code and techniques, messing around with llama.cpp settings and so on; writing new ROCm kernels is out of scope for this chapter).",
+      "date": null
     },
     {
       "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
       "title": "AI At Home Part 1: A Box Of Scraps",
-      "description": "It's an interesting time to be a software dev; the transformer large language model is, in my opinion, the first really new and interesting technological development in the field in a long time. AI coding agents built on this have rapidly become core to working in this profession, and the feeling is kind of like going from doing woodworking with hand tools to using power tools, for better or for w"
+      "description": "It's an interesting time to be a software dev; the transformer large language model is, in my opinion, the first really new and interesting technological development in the field in a long time. AI coding agents built on this have rapidly become core to working in this profession, and the feeling is kind of like going from doing woodworking with hand tools to using power tools, for better or for w",
+      "date": null
     }
   ]
 }

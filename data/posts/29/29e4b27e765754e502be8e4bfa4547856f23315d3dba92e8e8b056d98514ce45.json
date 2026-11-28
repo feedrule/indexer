@@ -4,17 +4,20 @@
     {
       "link": "https://unfoxo.it/blog/teardown-of-a-1000-voting-machine.html",
       "title": "Teardown of a 1000$ voting machine",
-      "description": "In Italy, Lombardy spent 24 millions for thousands of voting machines, used them once, then they ended up in the grey market. What’s inside them?"
+      "description": "In Italy, Lombardy spent 24 millions for thousands of voting machines, used them once, then they ended up in the grey market. What’s inside them?",
+      "date": null
     },
     {
       "link": "https://unfoxo.it/blog/fixing-a-bit-rotten-industrial-machine.html",
       "title": "Fixing a bit-rotten industrial machine",
-      "description": "A customer’s industrial machine stopped working due to storage corruption. To get back to a working product, a mixture of pentesting, data recovery and reverse engineering was needed."
+      "description": "A customer’s industrial machine stopped working due to storage corruption. To get back to a working product, a mixture of pentesting, data recovery and reverse engineering was needed.",
+      "date": null
     },
     {
       "link": "https://unfoxo.it/blog/hosting-a-public-webcam-from-the-roof-of-my-house.html",
       "title": "Hosting a public webcam from the roof of my house",
-      "description": "The technical details behind streaming a live camera feed to hundreds of concurrent viewers without saturating a 30Mbps uplink, using ffmpeg, HLS, and an Nginx reverse proxy with a simple flag"
+      "description": "The technical details behind streaming a live camera feed to hundreds of concurrent viewers without saturating a 30Mbps uplink, using ffmpeg, HLS, and an Nginx reverse proxy with a simple flag",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://sauvikbiswas.com/posts/tales-from-a-startup-speed/",
       "title": "Tales From a Startup: Speed",
-      "description": "I joined my current startup as a founding engineer after spending years at large organisations—first at Airbus, and then at VMware (now part of Broadcom). One of the biggest mindset shifts was understanding what “speed” really means in an early-stage startup. A startup that hasn’t yet found product-market fit must constantly validate its product and assumptions with potential customers. Investors"
+      "description": "I joined my current startup as a founding engineer after spending years at large organisations—first at Airbus, and then at VMware (now part of Broadcom). One of the biggest mindset shifts was understanding what “speed” really means in an early-stage startup. A startup that hasn’t yet found product-market fit must constantly validate its product and assumptions with potential customers. Investors",
+      "date": null
     },
     {
       "link": "https://sauvikbiswas.com/posts/tales-from-a-startup-opinion/",
       "title": "Tales From a Startup: Opinions",
-      "description": "(In the voice of Internet Historian ) “Opinion? What are opinions?” I’ve seen enough engineering and product fights. You probably have too. It usually starts with a proposal and ends with it being held hostage in meeting-room limbo because two brilliant people have two diametrically opposed, deeply passionate positions. And sometimes, it gets even worse. They will discreetly coerce a junior engine"
+      "description": "(In the voice of Internet Historian ) “Opinion? What are opinions?” I’ve seen enough engineering and product fights. You probably have too. It usually starts with a proposal and ends with it being held hostage in meeting-room limbo because two brilliant people have two diametrically opposed, deeply passionate positions. And sometimes, it gets even worse. They will discreetly coerce a junior engine",
+      "date": null
     },
     {
       "link": "https://sauvikbiswas.com/posts/learning-oauth-2-10/",
       "title": "Token Exchange (On-Behalf-Of): Swapping Tokens for Downstream APIs",
-      "description": "Why resource binding alone is not enough # v09 binds each access token to a named API at mint time. The client sends resource on authorize and token; the auth server sets JWT aud (or introspection aud ) to that URI. Gated routes on the resource server reject tokens bound to the wrong API. That fixes which API may accept a given token. It does not fix who may present the token, or how a middle tier"
+      "description": "Why resource binding alone is not enough # v09 binds each access token to a named API at mint time. The client sends resource on authorize and token; the auth server sets JWT aud (or introspection aud ) to that URI. Gated routes on the resource server reject tokens bound to the wrong API. That fixes which API may accept a given token. It does not fix who may present the token, or how a middle tier",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://dennis.schmalacker.cloud/posts/homelab-update-2026/",
       "title": "New year, new me: Homelab Update 2026",
-      "description": "When I last wrote about my homelab , I was running 3 microservers with different tasks. One was running my K3s Cluster, one was updated to be a Storage Host and one was an experimental testbed for other things. After adding service after service to my K3s cluster, I began to reach the limits of my passively cooled CPU, the fact that you could either have 10GbE or a GPU and the 16GB RAM, that was the maximum that the HPE Microserver could handle."
+      "description": "When I last wrote about my homelab , I was running 3 microservers with different tasks. One was running my K3s Cluster, one was updated to be a Storage Host and one was an experimental testbed for other things. After adding service after service to my K3s cluster, I began to reach the limits of my passively cooled CPU, the fact that you could either have 10GbE or a GPU and the 16GB RAM, that was the maximum that the HPE Microserver could handle.",
+      "date": "2026-06-27"
     },
     {
       "link": "https://dennis.schmalacker.cloud/ideas/smarthome-with-homeassistant/",
       "title": "Starting a Smart Home with Home Assistant and ZigBee",
-      "description": "Intro Over a year ago I invested into an Optiplex 3050 Micro. I was always fascinated and"
+      "description": "Intro Over a year ago I invested into an Optiplex 3050 Micro. I was always fascinated and",
+      "date": "2025-07-12"
     },
     {
       "link": "https://dennis.schmalacker.cloud/posts/homelab-update-2024/",
       "title": "An update to my homelab (2024)",
-      "description": "It has been a few months since I looked at my homelab infrastructure in all it’s glory and marvel at how much fun I am having. So let me give you an overview at what happened and what is the status quo. Microservers Since May 2023 the hardware hasn’t changed much. I am still rocking my HPE Microservers Gen8 in their basic configuration."
+      "description": "It has been a few months since I looked at my homelab infrastructure in all it’s glory and marvel at how much fun I am having. So let me give you an overview at what happened and what is the status quo. Microservers Since May 2023 the hardware hasn’t changed much. I am still rocking my HPE Microservers Gen8 in their basic configuration.",
+      "date": "2024-12-01"
     }
   ]
 }

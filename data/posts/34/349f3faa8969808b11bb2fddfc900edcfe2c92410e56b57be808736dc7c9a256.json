@@ -4,17 +4,20 @@
     {
       "link": "https://boring-observability.dev/blog/laravel-cache-stampede",
       "title": "Cache Stampedes in Laravel: remember(), Locks and Cache::flexible() Under Load",
-      "description": "A value that takes a second to build, read 50 times a second, is built 51 times when its key expires. Cache::remember(), a lock and Cache::flexible() under the same load: who waits with each, when flexible() stampedes anyway, and how to combine it with a lock."
+      "description": "A value that takes a second to build, read 50 times a second, is built 51 times when its key expires. Cache::remember(), a lock and Cache::flexible() under the same load: who waits with each, when flexible() stampedes anyway, and how to combine it with a lock.",
+      "date": null
     },
     {
       "link": "https://boring-observability.dev/blog/laravel-wheredate-mysql-index",
       "title": "whereDate() and Other Eloquent Calls That Quietly Skip Your MySQL Index",
-      "description": "whereDate('created_at', $day) sends date(created_at) = ?, and MySQL reads every row to answer it. EXPLAIN for that and the other Eloquent calls that hide an index, the Laravel rewrite for each, and why whereBetween() with startOfDay() and endOfDay() can match nothing."
+      "description": "whereDate('created_at', $day) sends date(created_at) = ?, and MySQL reads every row to answer it. EXPLAIN for that and the other Eloquent calls that hide an index, the Laravel rewrite for each, and why whereBetween() with startOfDay() and endOfDay() can match nothing.",
+      "date": null
     },
     {
       "link": "https://boring-observability.dev/blog/laravel-interruptible-jobs",
       "title": "Laravel Interruptible Jobs: interrupted(), SIGALRM and horizon:terminate",
-      "description": "Does interrupted() work with horizon:terminate out of the box, or do you check for the stop signal in your own loop? Both. What SIGALRM lets a job do before the kill, why a curl call holds signals back, and how Horizon's autoscaler interrupts jobs with no deploy running."
+      "description": "Does interrupted() work with horizon:terminate out of the box, or do you check for the stop signal in your own loop? Both. What SIGALRM lets a job do before the kill, why a curl call holds signals back, and how Horizon's autoscaler interrupts jobs with no deploy running.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://blog.himanshuanand.com/2026/09/all-vulnerabilities-are-now-race-conditions/",
       "title": "all vulnerabilities are now race conditions",
-      "description": "TLDR AI made finding bugs cheap. It did nothing to make getting paid for them any easier. The same bug now gets found by ten different people inside a fortnight. One of them collects the money. The other nine collect a polite duplicate notice and a dent in their platform reputation. The programmes are drowning too. That is why curl shut down its entire bounty operation in January 2026, after fewer"
+      "description": "TLDR AI made finding bugs cheap. It did nothing to make getting paid for them any easier. The same bug now gets found by ten different people inside a fortnight. One of them collects the money. The other nine collect a polite duplicate notice and a dent in their platform reputation. The programmes are drowning too. That is why curl shut down its entire bounty operation in January 2026, after fewer",
+      "date": null
     },
     {
       "link": "https://blog.himanshuanand.com/2026/09/i-missed-one-tlb-shootdown/",
       "title": "I Missed One TLB Shootdown and Somehow Ended Up Controlling a Page Table",
-      "description": "TLDR I used a public Linux kernel bug to make one CPU keep using a memory mapping after another CPU had removed it. I then persuaded Linux to recycle the physical page behind that stale mapping as a page table. My unprivileged process could still write to the old page, while Linux now treated the same bytes as part of its memory map. That chain produced one real flag from Google’s kernelCTF servic"
+      "description": "TLDR I used a public Linux kernel bug to make one CPU keep using a memory mapping after another CPU had removed it. I then persuaded Linux to recycle the physical page behind that stale mapping as a page table. My unprivileged process could still write to the old page, while Linux now treated the same bytes as part of its memory map. That chain produced one real flag from Google’s kernelCTF servic",
+      "date": null
     },
     {
       "link": "https://blog.himanshuanand.com/2026/08/a-fake-resume-invoked-chinas-defence-tech-elite-then-installed-vshell/",
       "title": "a fake resume invoked China's defence-tech elite, then installed VShell",
-      "description": "Disclosure: this research was conducted using an ANY.RUN account provided as part of a collaboration. All analysis and conclusions are my own. I did not execute the malware locally. Local work was limited to archive extraction, parsing, disassembly and decoding traffic already captured by the sandbox. TLDR I found a Chinese-language “resume” that is actually a Windows executable. It claims to come"
+      "description": "Disclosure: this research was conducted using an ANY.RUN account provided as part of a collaboration. All analysis and conclusions are my own. I did not execute the malware locally. Local work was limited to archive extraction, parsing, disassembly and decoding traffic already captured by the sandbox. TLDR I found a Chinese-language “resume” that is actually a Windows executable. It claims to come",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://thelinuxcluster.com/2026/11/12/using-centrifyda-commands-to-enable-audit-on-dzdo-command/",
       "title": "Using Centrifyda commands to enable Audit on dzdo command",
-      "description": "Step 1: On the Client, with root access Step 2: Use vim and add to the bottom of the file Step 3: Disable NSS, which controls auditing for the entire login session Step 4: Restart the Centrifyda daemon Step 5: Log Off and Start a new session Log in and start a dzdo session. At […]"
+      "description": "Step 1: On the Client, with root access Step 2: Use vim and add to the bottom of the file Step 3: Disable NSS, which controls auditing for the entire login session Step 4: Restart the Centrifyda daemon Step 5: Log Off and Start a new session Log in and start a dzdo session. At […]",
+      "date": null
     },
     {
       "link": "https://thelinuxcluster.com/2026/04/27/db5-error11-from-dbenv-open-resource-temporarily-unavailable-when-doing-dnf-install/",
       "title": "db5 error(11) from dbenv->open: Resource temporarily unavailable when doing dnf install",
-      "description": "If you are having an issue similar to this message The issue is likely due to a locked or corrupted database caused by an interrupted dnf process Step 1: Remove RPM Database Locks: Step 2: Rebuild the Database Step 3: Clear all cache data to remove inconsistencies References: https://unix.stackexchange.com/questions/634676/criticalyum-main"
+      "description": "If you are having an issue similar to this message The issue is likely due to a locked or corrupted database caused by an interrupted dnf process Step 1: Remove RPM Database Locks: Step 2: Rebuild the Database Step 3: Clear all cache data to remove inconsistencies References: https://unix.stackexchange.com/questions/634676/criticalyum-main",
+      "date": null
     },
     {
       "link": "https://thelinuxcluster.com/2026/02/19/ansible-protecting-sensitive-data/",
       "title": "Ansible – Protecting Sensitive Data",
-      "description": "Ansible Automation routinely requires the use of sensitive values. You can use Ansible Vault to provide a way to encrypt and decrypt, and manage sensitive data such as passwords, certificates, keys, and API tokens Encrypt the File Step 1: Create the YAML file named prod.yaml Step 2: After running the command, the terminal will prompt […]"
+      "description": "Ansible Automation routinely requires the use of sensitive values. You can use Ansible Vault to provide a way to encrypt and decrypt, and manage sensitive data such as passwords, certificates, keys, and API tokens Encrypt the File Step 1: Create the YAML file named prod.yaml Step 2: After running the command, the terminal will prompt […]",
+      "date": null
     }
   ]
 }

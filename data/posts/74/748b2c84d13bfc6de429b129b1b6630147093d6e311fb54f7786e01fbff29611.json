@@ -4,17 +4,20 @@
     {
       "link": "http://jackkelly.name/blog/archives/2026/07/29/adding_optional_support_for_pthreads/index.html",
       "title": "Adding Optional Support for pthreads",
-      "description": "On one of my projects, I decided I wanted to provide optional support for pthreads, because I wanted portability to dinosaur compilers. Not only did I want pthreads, but I only wanted to use them if <stdatomic.h> was available. This took a bit of finagling to get right, so I’ve written it up here. Per the Autotools Mythbuster , the correct way to indicate optional dependencies is to check for them"
+      "description": "On one of my projects, I decided I wanted to provide optional support for pthreads, because I wanted portability to dinosaur compilers. Not only did I want pthreads, but I only wanted to use them if <stdatomic.h> was available. This took a bit of finagling to get right, so I’ve written it up here. Per the Autotools Mythbuster , the correct way to indicate optional dependencies is to check for them",
+      "date": null
     },
     {
       "link": "http://jackkelly.name/blog/archives/2026/06/24/lambda_on_lambda_serverless_haskell_on_aws/index.html",
       "title": "Lambda on Lambda: Serverless Haskell on AWS",
-      "description": "Earlier this week, I gave a talk at the Melbourne Compose Group ( mailing list ) about using Haskell to implement AWS Lambda functions. Lambda is AWS’s “function-as-a-service offering”, where your code runs in an isolated “microVM” on AWS-managed infrastructure and you pay only for the resources used while your code runs. As a mature AWS service, Lambda has a lot of features and knobs, and many of"
+      "description": "Earlier this week, I gave a talk at the Melbourne Compose Group ( mailing list ) about using Haskell to implement AWS Lambda functions. Lambda is AWS’s “function-as-a-service offering”, where your code runs in an isolated “microVM” on AWS-managed infrastructure and you pay only for the resources used while your code runs. As a mature AWS service, Lambda has a lot of features and knobs, and many of",
+      "date": null
     },
     {
       "link": "http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/index.html",
       "title": "How Copyover MUD Servers Worked",
-      "description": "When I was younger, I played a lot of MUDs (“ Multi-User Dungeons ” — the text-only predecessors of modern MMORPGs, often played over Telnet ). They were great fun, particularly during high school: a lightweight multiplayer game with no client state meant you could log in from any machine in any lab, even Windows shipped a Telnet client in those days, the Telnet protocol was light enough to run on"
+      "description": "When I was younger, I played a lot of MUDs (“ Multi-User Dungeons ” — the text-only predecessors of modern MMORPGs, often played over Telnet ). They were great fun, particularly during high school: a lightweight multiplayer game with no client state meant you could log in from any machine in any lab, even Windows shipped a Telnet client in those days, the Telnet protocol was light enough to run on",
+      "date": null
     }
   ]
 }

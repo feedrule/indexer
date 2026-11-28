@@ -4,17 +4,20 @@
     {
       "link": "https://www.sjoerdlangkemper.nl/2026/10/28/maximum-password-length-bcrypt-72-limit/",
       "title": "Passwords are always short, but bcrypt's limit can still be problematic",
-      "description": "Bcrypt’s 72 byte limit is a problem even though users don’t typically use passwords that long. Prehashing can solve that, but it not trivial to get right."
+      "description": "Bcrypt’s 72 byte limit is a problem even though users don’t typically use passwords that long. Prehashing can solve that, but it not trivial to get right.",
+      "date": null
     },
     {
       "link": "https://www.sjoerdlangkemper.nl/2026/06/10/files-post-confusion-in-laminas/",
       "title": "File and post data confusion in PHP",
-      "description": "PHP has several superglobal variables which contain values from the request or the environment. These differ in whether they contain trustworthy data or not:"
+      "description": "PHP has several superglobal variables which contain values from the request or the environment. These differ in whether they contain trustworthy data or not:",
+      "date": null
     },
     {
       "link": "https://www.sjoerdlangkemper.nl/2026/04/15/changing-the-timing-of-light-with-pir-sensor/",
       "title": "Changing the timing of light with passive infrared sensor",
-      "description": "At our scouting clubhouse we have lights in the toilet that turn on automatically when you enter. However, they only stay on for 30 seconds, which means that you have to wave around your arms while you are peeing to turn on the lights. I couldn’t find affordable small lights with either better sensors or longer timeouts, so I tried to modify the lights we did have, to increase the time."
+      "description": "At our scouting clubhouse we have lights in the toilet that turn on automatically when you enter. However, they only stay on for 30 seconds, which means that you have to wave around your arms while you are peeing to turn on the lights. I couldn’t find affordable small lights with either better sensors or longer timeouts, so I tried to modify the lights we did have, to increase the time.",
+      "date": null
     }
   ]
 }

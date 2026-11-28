@@ -4,17 +4,20 @@
     {
       "link": "https://rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
       "title": "AI Agents and the Refactoring That Never Happens",
-      "description": "Working with AI agents day to day, I've started noticing a trend that worries me. Teams — including experienced engineers who used to know better — have quietly stopped pushing to rewrite or restructure the gnarliest parts of their systems. It's not about the quality of the code the agents write. It's about a decision that used to happen almost reflexively and now rarely does: the decision to stop"
+      "description": "Working with AI agents day to day, I've started noticing a trend that worries me. Teams — including experienced engineers who used to know better — have quietly stopped pushing to rewrite or restructure the gnarliest parts of their systems. It's not about the quality of the code the agents write. It's about a decision that used to happen almost reflexively and now rarely does: the decision to stop",
+      "date": null
     },
     {
       "link": "https://rosenfeld.page/articles/ruby-rails/2026_02_27_seamless_postgres_indexing_in_rails_the_case_for_delayed_migrations/",
       "title": "Seamless Postgres Indexing in Rails: The Case for Delayed Migrations",
-      "description": "Adding an index to an existing table column might seem straightforward. However, PostgreSQL requires a SHARE lock to create a standard index. This mode conflicts with common write operations like INSERT , UPDATE , and DELETE , which use the ROW EXCLUSIVE lock mode. These articles explain the issue in depth: Postgres Schema Migration without Downtime Best Practice How to Use Postgres CREATE INDEX C"
+      "description": "Adding an index to an existing table column might seem straightforward. However, PostgreSQL requires a SHARE lock to create a standard index. This mode conflicts with common write operations like INSERT , UPDATE , and DELETE , which use the ROW EXCLUSIVE lock mode. These articles explain the issue in depth: Postgres Schema Migration without Downtime Best Practice How to Use Postgres CREATE INDEX C",
+      "date": null
     },
     {
       "link": "https://rosenfeld.page/articles/2025_11_16_upgrading_200_gb_postgres_within_10_minutes_in_heroku/",
       "title": "Upgrading 200 GB Postgres within 10 minutes in Heroku",
-      "description": "I joined a new project 4 months ago. While investigating a slow query I noticed that even after creating a new covering index the query planner would refuse to use it. We were running Postgres 15 and I decided to try Postgres 17 and confirmed it would use the covering index as expected which significantly improved the query performance. The follower database upgrade issue Next step was to push for"
+      "description": "I joined a new project 4 months ago. While investigating a slow query I noticed that even after creating a new covering index the query planner would refuse to use it. We were running Postgres 15 and I decided to try Postgres 17 and confirmed it would use the covering index as expected which significantly improved the query performance. The follower database upgrade issue Next step was to push for",
+      "date": null
     }
   ]
 }

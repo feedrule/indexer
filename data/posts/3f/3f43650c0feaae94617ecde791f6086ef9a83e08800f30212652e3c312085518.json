@@ -4,17 +4,20 @@
     {
       "link": "https://liuu.org/posts/2026-03-17-implementing-search-typewriter/",
       "title": "How to Add a Typewriter Effect to a Hugo Search Page with Vanilla JavaScript",
-      "description": "How I added a vanilla JavaScript typewriter placeholder effect to my Hugo PaperMod search page using the existing search index."
+      "description": "How I added a vanilla JavaScript typewriter placeholder effect to my Hugo PaperMod search page using the existing search index.",
+      "date": null
     },
     {
       "link": "https://liuu.org/posts/how-to-not-freeze-your-linux-server-while-generating-a-random-string/",
       "title": "How to NOT Freeze Your Linux Server While Generating a Random String",
-      "description": "I froze my Google Cloud Platform instance while installing 3x-ui. Here's how I found the 'CPU killer' in 3x-ui's source code and got my fix merged."
+      "description": "I froze my Google Cloud Platform instance while installing 3x-ui. Here's how I found the 'CPU killer' in 3x-ui's source code and got my fix merged.",
+      "date": null
     },
     {
       "link": "https://liuu.org/posts/ddos/",
       "title": "My VPS provider's entire IP range got DDoS'd. So I learned XDP",
-      "description": "A practical guide to using XDP and eBPF for high-performance DDoS mitigation at the NIC driver level — and how I built a daemon that keeps firewall rules in sync automatically using Linux Netlink Process Connector."
+      "description": "A practical guide to using XDP and eBPF for high-performance DDoS mitigation at the NIC driver level — and how I built a daemon that keeps firewall rules in sync automatically using Linux Netlink Process Connector.",
+      "date": null
     }
   ]
 }

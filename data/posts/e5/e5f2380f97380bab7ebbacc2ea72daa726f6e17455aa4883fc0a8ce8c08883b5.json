@@ -4,17 +4,20 @@
     {
       "link": "https://www.kianryan.co.uk/2026-11-07-open-hardware-is-critically-important/",
       "title": "Open Hardware is critially important in 2026",
-      "description": "It’s 2026, and Sam Altman thinks it’s a shame that you have RAM in your computer and not his data center. The leading 3d printer manufacturer by sales by default sends all the models you print to AWS. And your washing machine sends gigabytes of telemetry data to the manufacturer..."
+      "description": "It’s 2026, and Sam Altman thinks it’s a shame that you have RAM in your computer and not his data center. The leading 3d printer manufacturer by sales by default sends all the models you print to AWS. And your washing machine sends gigabytes of telemetry data to the manufacturer...",
+      "date": null
     },
     {
       "link": "https://www.kianryan.co.uk/2026-04-28-prusaslicer-on-rk3588-with-debian-sid/",
       "title": "Building PrusaSlicer on Debian Sid for OpenGL ES",
-      "description": "Lucie (from MNT) has found a better way to run PrusaSlicer on the Pocket Reform with full GL rather than using GL ES. I’m leaving this post up in case this is useful for other platforms. But for the Pocket Reform, try: LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libGLEW.so.2.2 prusa-slicer –opengl-compatibility (I found I was using..."
+      "description": "Lucie (from MNT) has found a better way to run PrusaSlicer on the Pocket Reform with full GL rather than using GL ES. I’m leaving this post up in case this is useful for other platforms. But for the Pocket Reform, try: LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libGLEW.so.2.2 prusa-slicer –opengl-compatibility (I found I was using...",
+      "date": null
     },
     {
       "link": "https://www.kianryan.co.uk/2026-04-28-plaintext-pages-in-jekyll/",
       "title": "Plaintext pages in Jekyll",
-      "description": "Terence Eden posted a collection of websites that post in both HTML and plain text, a nice clutter free way of consuming content. I started looking into providing the same here and realised that I couldn’t do that while using GitHub pages, so took the opportunity to migrate the site..."
+      "description": "Terence Eden posted a collection of websites that post in both HTML and plain text, a nice clutter free way of consuming content. I started looking into providing the same here and realised that I couldn’t do that while using GitHub pages, so took the opportunity to migrate the site...",
+      "date": null
     }
   ]
 }

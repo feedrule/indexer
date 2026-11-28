@@ -4,17 +4,20 @@
     {
       "link": "https://dankradfeist.de/blockchain/2026/05/31/passkeys-hardware-wallets.html",
       "title": "Passkeys: A hardware wallet integrated into your phone?",
-      "description": "Hardware wallets are an important tool for keeping crypto holdings safe, by isolating keys onto a separate piece of hardware that cannot be exploited to expose the key material and does not sign without an indication of user intent. Modern devices such as phones and laptops have secure enclaves that make a similar promise: holding keys securely and separate from the phone operating system, and onl"
+      "description": "Hardware wallets are an important tool for keeping crypto holdings safe, by isolating keys onto a separate piece of hardware that cannot be exploited to expose the key material and does not sign without an indication of user intent. Modern devices such as phones and laptops have secure enclaves that make a similar promise: holding keys securely and separate from the phone operating system, and onl",
+      "date": null
     },
     {
       "link": "https://dankradfeist.de/tempo/2025/12/31/minimmit-simple-fast-consensus.html",
       "title": "Minimmit: Simple and fast consensus",
-      "description": "Minimmit 1 is a recently proposed blockchain consensus algorithm by Commonware. It falls into the new class of consensus protocols that require more than 80% of participants to be honest (rather than 2/3rds as in traditional asynchronous BFT protocols); in return, you get a lower latency protocol that achieves consensus after only one round of voting (this is called 2 rounds because the block prop"
+      "description": "Minimmit 1 is a recently proposed blockchain consensus algorithm by Commonware. It falls into the new class of consensus protocols that require more than 80% of participants to be honest (rather than 2/3rds as in traditional asynchronous BFT protocols); in return, you get a lower latency protocol that achieves consensus after only one round of voting (this is called 2 rounds because the block prop",
+      "date": null
     },
     {
       "link": "https://dankradfeist.de/ethereum/2025/12/07/l1-tokens.html",
       "title": "L1 Tokens",
-      "description": "L1 Tokens"
+      "description": "L1 Tokens",
+      "date": null
     }
   ]
 }

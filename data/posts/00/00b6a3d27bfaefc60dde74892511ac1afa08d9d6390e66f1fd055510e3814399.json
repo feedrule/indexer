@@ -4,17 +4,20 @@
     {
       "link": "https://blog.arkstack.dev/en/blog/the-148-ms-was-waiting-not-work/",
       "title": "The 148 ms was waiting, not work",
-      "description": "A 148 ms closed-loop max, the samples wrk added around it, and a run beside a second JVM that read 2.4 s instead of 2 ms and still passed the gate."
+      "description": "A 148 ms closed-loop max, the samples wrk added around it, and a run beside a second JVM that read 2.4 s instead of 2 ms and still passed the gate.",
+      "date": null
     },
     {
       "link": "https://blog.arkstack.dev/en/blog/ai-output-is-an-exploratory-claim/",
       "title": "AI output is an exploratory claim until something checks it",
-      "description": "A benchmark error that an AI reviewer and I both missed for eleven weeks, and the gates I now put between AI output and my decisions."
+      "description": "A benchmark error that an AI reviewer and I both missed for eleven weeks, and the gates I now put between AI output and my decisions.",
+      "date": null
     },
     {
       "link": "https://blog.arkstack.dev/en/blog/what-i-knew-and-what-i-built/",
       "title": "What I Knew, and What I Built",
-      "description": "Two Exeris Kernel seams I retrofitted — body codec and identity provider — and why both gaps were invisible until I read the consumer's code, not the contract."
+      "description": "Two Exeris Kernel seams I retrofitted — body codec and identity provider — and why both gaps were invisible until I read the consumer's code, not the contract.",
+      "date": null
     }
   ]
 }

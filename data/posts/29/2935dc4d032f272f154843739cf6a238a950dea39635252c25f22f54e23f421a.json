@@ -4,17 +4,20 @@
     {
       "link": "https://nrennie.rbind.io/blog/interactive-charts-ggiraph/",
       "title": "How to make interactive charts you can email",
-      "description": "I’m not going to start by getting into a whole discussion about whether or not you should add interactivity to charts, because that could be several blog posts on it’s own. But I’ll at least ask you to remember that just because you can, doesn’t mean you should ! If interactivity is necessary, it creates an additional problem: how do you share the chart with someone else? You can no longer just se"
+      "description": "I’m not going to start by getting into a whole discussion about whether or not you should add interactivity to charts, because that could be several blog posts on it’s own. But I’ll at least ask you to remember that just because you can, doesn’t mean you should ! If interactivity is necessary, it creates an additional problem: how do you share the chart with someone else? You can no longer just se",
+      "date": null
     },
     {
       "link": "https://nrennie.rbind.io/blog/creativity-data-visualisation/",
       "title": "Why creativity matters in data visualisation",
-      "description": "At the end of July, I delivered one of this year’s Ihaka Lectures at the University of Auckland. All three of this year’s lectures covered the topic of data visualisation in some way, with mine focusing on the creative aspects of charts and code. The other two talks from Kieran Healy and Rob Hyndman discussed trustworthiness and finding hidden data stories, respectively. Creativity is a topic is a"
+      "description": "At the end of July, I delivered one of this year’s Ihaka Lectures at the University of Auckland. All three of this year’s lectures covered the topic of data visualisation in some way, with mine focusing on the creative aspects of charts and code. The other two talks from Kieran Healy and Rob Hyndman discussed trustworthiness and finding hidden data stories, respectively. Creativity is a topic is a",
+      "date": null
     },
     {
       "link": "https://nrennie.rbind.io/blog/chord-diagrams-ggchord2/",
       "title": "Chord diagrams in R with ggchord2",
-      "description": "Chord diagrams are a type of chart that can be used to show relationships or flows between categories. A chord diagram is a circular chart that displays connections between categories using curved ribbons drawn inside a circle. The width of each ribbon represents the size of the relationship or flow, making it easy to see which categories are most strongly connected. They’re similar to Sankey and"
+      "description": "Chord diagrams are a type of chart that can be used to show relationships or flows between categories. A chord diagram is a circular chart that displays connections between categories using curved ribbons drawn inside a circle. The width of each ribbon represents the size of the relationship or flow, making it easy to see which categories are most strongly connected. They’re similar to Sankey and",
+      "date": null
     }
   ]
 }

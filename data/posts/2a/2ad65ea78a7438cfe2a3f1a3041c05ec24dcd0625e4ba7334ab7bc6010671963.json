@@ -4,17 +4,20 @@
     {
       "link": "http://blog.ebbypeter.com/2026/03/the-architecture-review-you-actually-need-but-never-get/",
       "title": "The Architecture Review You Actually Need (But Never Get)",
-      "description": "Most architecture reviews are compliance theatre. They arrive late, check the wrong things, and produce feedback nobody acts on. Here’s what a review that actually challenges a design looks like, and why the problem is structural, not personal."
+      "description": "Most architecture reviews are compliance theatre. They arrive late, check the wrong things, and produce feedback nobody acts on. Here’s what a review that actually challenges a design looks like, and why the problem is structural, not personal.",
+      "date": null
     },
     {
       "link": "http://blog.ebbypeter.com/2026/03/everyone-owns-cloud-security-thats-why-nobody-does/",
       "title": "Everyone Owns Cloud Security. That's Why Nobody Does.",
-      "description": "165 organisations got hit in the Snowflake breach using no novel attack — just stolen credentials, no MFA, and nobody watching. The shared responsibility model didn’t fail technically. It failed organisationally. Security wrote the policy. Engineering assumed someone reviewed it. The platform team figured ‘managed’ meant secured. Procurement filed the SOC 2 and called it done. Nobody lied. Nobody"
+      "description": "165 organisations got hit in the Snowflake breach using no novel attack — just stolen credentials, no MFA, and nobody watching. The shared responsibility model didn’t fail technically. It failed organisationally. Security wrote the policy. Engineering assumed someone reviewed it. The platform team figured ‘managed’ meant secured. Procurement filed the SOC 2 and called it done. Nobody lied. Nobody",
+      "date": null
     },
     {
       "link": "http://blog.ebbypeter.com/2026/03/kql-for-adults-writing-queries-that-dont-lie-to-you/",
       "title": "KQL for Adults: Writing Queries That Don't Lie to You",
-      "description": "Most KQL running in production is subtly wrong. Wrong operators, unscoped subqueries, and alert rules that silently miss events due to ingestion latency. Here’s how to write queries you can actually defend."
+      "description": "Most KQL running in production is subtly wrong. Wrong operators, unscoped subqueries, and alert rules that silently miss events due to ingestion latency. Here’s how to write queries you can actually defend.",
+      "date": null
     }
   ]
 }

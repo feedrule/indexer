@@ -4,17 +4,20 @@
     {
       "link": "https://blog.jak-linux.org/2026/07/03/openssl-pandemic/",
       "title": "The pandemic of incomplete OpenSSL error handling",
-      "description": "Recently a person reported a bug in APT saying that TLS is failing on FIPS systems with MD5 errors, and suggested we call ERR_clear_error() around TLS operations. Like any serious software engineer would do, I said No. Just because one component failed to handle its errors does not mean I can go around and discard all errors in another place - the program should have failed earlier (or discarded t"
+      "description": "Recently a person reported a bug in APT saying that TLS is failing on FIPS systems with MD5 errors, and suggested we call ERR_clear_error() around TLS operations. Like any serious software engineer would do, I said No. Just because one component failed to handle its errors does not mean I can go around and discard all errors in another place - the program should have failed earlier (or discarded t",
+      "date": null
     },
     {
       "link": "https://blog.jak-linux.org/2025/10/18/sound-removals/",
       "title": "Sound Removals",
-      "description": "Problem statement Currently if you have an automatically installed package A (= 1) where A (= 1) Depends B (= 1) A (= 2) Depends B (= 2) and you upgrade B from 1 to 2; then you can: Remove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by Recommends (say X Rec Y, Y Depends A), the solver sometimes preferred removing A (and anything depending on it until it got)."
+      "description": "Problem statement Currently if you have an automatically installed package A (= 1) where A (= 1) Depends B (= 1) A (= 2) Depends B (= 2) and you upgrade B from 1 to 2; then you can: Remove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by Recommends (say X Rec Y, Y Depends A), the solver sometimes preferred removing A (and anything depending on it until it got).",
+      "date": null
     },
     {
       "link": "https://blog.jak-linux.org/2025/09/27/dependency-tries/",
       "title": "Dependency Tries",
-      "description": "As I was shopping groceries I had a shocking realization: The active dependencies of packages in a solver actually form a trie (a dependency A|B - “A or B” - of a package X is considered active if we marked X for install). Consider the dependencies A|B|C , A|B , B|X . In most package managers these just express alternatives, that is, the “or” relationship, but in Debian packages, it also expresses"
+      "description": "As I was shopping groceries I had a shocking realization: The active dependencies of packages in a solver actually form a trie (a dependency A|B - “A or B” - of a package X is considered active if we marked X for install). Consider the dependencies A|B|C , A|B , B|X . In most package managers these just express alternatives, that is, the “or” relationship, but in Debian packages, it also expresses",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://maratryndin.wordpress.com/2026/11/15/agentic-weekly-november-15-2026/",
       "title": "Agentic Weekly – November 15, 2026",
-      "description": "This week’s theme is the plumbing behind production agents: Amazon: the next-generation Bedrock AgentCore runtime is now the default, restoring sessions from snapshots and scaling idle agents to zero. LangGraph: per-interrupt IDs and a strict resume mode reject stale approvals. Google Workspace: MCP servers now require agentic OAuth clients. MCP: a twice-yearly release calendar, with […]"
+      "description": "This week’s theme is the plumbing behind production agents: Amazon: the next-generation Bedrock AgentCore runtime is now the default, restoring sessions from snapshots and scaling idle agents to zero. LangGraph: per-interrupt IDs and a strict resume mode reject stale approvals. Google Workspace: MCP servers now require agentic OAuth clients. MCP: a twice-yearly release calendar, with […]",
+      "date": null
     },
     {
       "link": "https://maratryndin.wordpress.com/2026/11/09/agentic-weekly-november-8-2026/",
       "title": "Agentic Weekly – November 8, 2026",
-      "description": "This week on Agentic Weekly, Maeve and James look at control: how you connect agents, watch them, and stop them. The Model Context Protocol’s latest spec reaches SDKs, with stateless HTTP servers by default. CrowdStrike announces an AI Kill Switch that can terminate a rogue agent, block it from relaunching, and cut its network access. […]"
+      "description": "This week on Agentic Weekly, Maeve and James look at control: how you connect agents, watch them, and stop them. The Model Context Protocol’s latest spec reaches SDKs, with stateless HTTP servers by default. CrowdStrike announces an AI Kill Switch that can terminate a rogue agent, block it from relaunching, and cut its network access. […]",
+      "date": null
     },
     {
       "link": "https://maratryndin.wordpress.com/2026/11/02/agentic-weekly-november-1-2026/",
       "title": "Agentic Weekly – November 1, 2026",
-      "description": "Maeve and James cover a week about the plumbing that makes AI agents safe enough to ship. OpenAI releases GPT-6.1 Terra, a model built for computer use, and the hosts explain how the computer-use loop works and why per-task budgeting matters. Microsoft Agent Framework adds a default approval mode for local MCP tools, with a […]"
+      "description": "Maeve and James cover a week about the plumbing that makes AI agents safe enough to ship. OpenAI releases GPT-6.1 Terra, a model built for computer use, and the hosts explain how the computer-use loop works and why per-task budgeting matters. Microsoft Agent Framework adds a default approval mode for local MCP tools, with a […]",
+      "date": null
     }
   ]
 }

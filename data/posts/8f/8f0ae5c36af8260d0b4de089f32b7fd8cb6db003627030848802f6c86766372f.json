@@ -4,17 +4,20 @@
     {
       "link": "https://eduwass.com/lifelog/",
       "title": "lifelog: Cron, Files and SQL as Memory for My Agents",
-      "description": "Every agent session starts with amnesia. lifelog pulls my calendar, mail, Slack, Linear, GitHub, journal and agent sessions into raw JSONL, projects them with DuckDB at read time, and hands any agent a deterministic brief of what happened lately."
+      "description": "Every agent session starts with amnesia. lifelog pulls my calendar, mail, Slack, Linear, GitHub, journal and agent sessions into raw JSONL, projects them with DuckDB at read time, and hands any agent a deterministic brief of what happened lately.",
+      "date": null
     },
     {
       "link": "https://eduwass.com/edge-language-tools/",
       "title": "Building a Language Server for EdgeJS in Three Days",
-      "description": "How an itch about {{ user.nmae }} became Edge Language Tools: type-checked EdgeJS templates, a Volar language server, and the lessons I stole from Rails, Twig, Glint and Svelte."
+      "description": "How an itch about {{ user.nmae }} became Edge Language Tools: type-checked EdgeJS templates, a Volar language server, and the lessons I stole from Rails, Twig, Glint and Svelte.",
+      "date": null
     },
     {
       "link": "https://eduwass.com/building-monotheme/",
       "title": "One Theme, Every Tool: monotheme",
-      "description": "I change color themes the way other people change desktop wallpapers. The problem: my \"environment\" isn't one app, it's twenty. Ghostty, tmux, Neovim, VSCode,…"
+      "description": "I change color themes the way other people change desktop wallpapers. The problem: my \"environment\" isn't one app, it's twenty. Ghostty, tmux, Neovim, VSCode,…",
+      "date": null
     }
   ]
 }

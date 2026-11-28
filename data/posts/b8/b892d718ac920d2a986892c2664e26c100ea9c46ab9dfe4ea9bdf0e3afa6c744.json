@@ -4,17 +4,20 @@
     {
       "link": "https://seri.tools/blog/rust9x-1-93/",
       "title": "Rust9x update: Rust 1.93.0-beta",
-      "description": "You know the drill by now: Another year and 8-9 Rust versions later, it's time for a new Rust9x update! Rust9x provides Windows downlevel support for the Rust standard library, bringing it to Windows 95, 98, ME, and most NT-based Windows versions. See the project wiki on Github: rust9x/rust . What's new? # Rebased and partially reimplemented all fallback code on-top of Rust 1.93-beta . target_vend"
+      "description": "You know the drill by now: Another year and 8-9 Rust versions later, it's time for a new Rust9x update! Rust9x provides Windows downlevel support for the Rust standard library, bringing it to Windows 95, 98, ME, and most NT-based Windows versions. See the project wiki on Github: rust9x/rust . What's new? # Rebased and partially reimplemented all fallback code on-top of Rust 1.93-beta . target_vend",
+      "date": null
     },
     {
       "link": "https://seri.tools/blog/castrol-honda-superbike/",
       "title": "Why Castrol Honda Superbike crashes on (most) modern systems",
-      "description": "A friend cleaned up and gave me a copy of a game I've not heard about before: Castrol Honda Superbike World Champions , a motorbike racing game for PC, released 1998 by Interactive Entertainment Ltd. and Midas Interactive Entertainment. Given the age of the game (and looking at the system requirements) it's clear that the game comes from the tricky era of early 3D-accelerated PC gaming. For contex"
+      "description": "A friend cleaned up and gave me a copy of a game I've not heard about before: Castrol Honda Superbike World Champions , a motorbike racing game for PC, released 1998 by Interactive Entertainment Ltd. and Midas Interactive Entertainment. Given the age of the game (and looking at the system requirements) it's clear that the game comes from the tricky era of early 3D-accelerated PC gaming. For contex",
+      "date": null
     },
     {
       "link": "https://seri.tools/blog/rust9x-1-84/",
       "title": "Rust9x update: Rust 1.84.0-beta",
-      "description": "Another year has passed, oh how the time flies! Time for some Tier 4 target action once again! Rust9x adds support for Windows 9x and older NT-based Windows versions to Rust. See the project wiki on Github: rust9x/rust . What's new? # Rebased and reimplemented all fallback code ontop of the ~29600 commits of progress from Rust 1.76 to Rust 1.84-beta The thread parker now only conditionally falls b"
+      "description": "Another year has passed, oh how the time flies! Time for some Tier 4 target action once again! Rust9x adds support for Windows 9x and older NT-based Windows versions to Rust. See the project wiki on Github: rust9x/rust . What's new? # Rebased and reimplemented all fallback code ontop of the ~29600 commits of progress from Rust 1.76 to Rust 1.84-beta The thread parker now only conditionally falls b",
+      "date": null
     }
   ]
 }

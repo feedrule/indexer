@@ -4,17 +4,20 @@
     {
       "link": "https://mccaulay.co.uk/go2shell-rooting-home-assistant-through-ssdp/",
       "title": "go2shell: Rooting Home Assistant through SSDP",
-      "description": "Home Assistant Green, a popular open-source home automation platform, was targeted at Pwn2Own Ireland 2025, resulting in a chain of vulnerabilities. I exploited an SSDP LOCATION SSRF to achieve unauthenticated remote code execution on the device. This vulnerability allowed the execution of commands by leveraging the go2rtc service."
+      "description": "Home Assistant Green, a popular open-source home automation platform, was targeted at Pwn2Own Ireland 2025, resulting in a chain of vulnerabilities. I exploited an SSDP LOCATION SSRF to achieve unauthenticated remote code execution on the device. This vulnerability allowed the execution of commands by leveraging the go2rtc service.",
+      "date": null
     },
     {
       "link": "https://mccaulay.co.uk/rcelitellm-litellm-1-83-14-chaining-an-environment-variable-leak-with-jinja2-ssti-for-remote-code-execution/",
       "title": "RCEliteLLM – LiteLLM 1.83.14: Chaining an Environment Variable Leak with Jinja2 SSTI for Remote Code Execution",
-      "description": "LiteLLM, an open-source proxy server for language model APIs, had two vulnerabilities allowing remote code execution via a standard API key. These exploits stemmed from environment variable disclosure and a Jinja2 server-side template injection. Both vulnerabilities were addressed in the v1.84.0-rc.1 patch, implementing multiple security measures."
+      "description": "LiteLLM, an open-source proxy server for language model APIs, had two vulnerabilities allowing remote code execution via a standard API key. These exploits stemmed from environment variable disclosure and a Jinja2 server-side template injection. Both vulnerabilities were addressed in the v1.84.0-rc.1 patch, implementing multiple security measures.",
+      "date": null
     },
     {
       "link": "https://mccaulay.co.uk/no-tokens-required-a-movie-power-virtual-reality-breakout-exploit/",
       "title": "No Tokens Required: A Movie Power Virtual Reality Breakout Exploit",
-      "description": "During summer 2024, I went on holiday and encountered multiple virtual reality (VR) arcades containing a vulnerability which allowed me to breakout and pop a Windows command prompt on the arcade machine."
+      "description": "During summer 2024, I went on holiday and encountered multiple virtual reality (VR) arcades containing a vulnerability which allowed me to breakout and pop a Windows command prompt on the arcade machine.",
+      "date": null
     }
   ]
 }

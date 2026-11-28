@@ -4,17 +4,20 @@
     {
       "link": "https://igoro.com/archive/bug-fixing-software-factory/",
       "title": "Why bug fixing is the least important part of a bug-fixing software factory",
-      "description": "In my previous post, I talked about software factories, but there is much more to cover. Let’s talk about bug-fixing software factories. As a real-world example, let’s focus on the software factory built at Cloudflare’s web framework, Astro. There is something to it: the factory helped bring the number of open GitHub issues from more ... Read more"
+      "description": "In my previous post, I talked about software factories, but there is much more to cover. Let’s talk about bug-fixing software factories. As a real-world example, let’s focus on the software factory built at Cloudflare’s web framework, Astro. There is something to it: the factory helped bring the number of open GitHub issues from more ... Read more",
+      "date": null
     },
     {
       "link": "https://igoro.com/archive/software-factories/",
       "title": "Software Factories in September 2026",
-      "description": "In August, LaunchDarkly, Cloudflare, Vercel, and Uber each published a detailed account of a software factory they built. Let’s see how software factories work today and where the approach may lead. A personal note It’s been twelve years since my last post! My most popular posts have always been related to whatever I was working ... Read more"
+      "description": "In August, LaunchDarkly, Cloudflare, Vercel, and Uber each published a detailed account of a software factory they built. Let’s see how software factories work today and where the approach may lead. A personal note It’s been twelve years since my last post! My most popular posts have always been related to whatever I was working ... Read more",
+      "date": null
     },
     {
       "link": "https://igoro.com/archive/how-raid-6-dual-parity-calculation-works/",
       "title": "How RAID-6 dual parity calculation works",
-      "description": "Parity protection is a common technique for reliable data storage on mediums that may fail (HDDs, SSDs, storage servers, etc.) Calculation of parity uses tools from algebra in very interesting ways, in particular in the dual parity case. This article is for computer engineers who would like to have a high-level understanding of how the ... Read more"
+      "description": "Parity protection is a common technique for reliable data storage on mediums that may fail (HDDs, SSDs, storage servers, etc.) Calculation of parity uses tools from algebra in very interesting ways, in particular in the dual parity case. This article is for computer engineers who would like to have a high-level understanding of how the ... Read more",
+      "date": null
     }
   ]
 }

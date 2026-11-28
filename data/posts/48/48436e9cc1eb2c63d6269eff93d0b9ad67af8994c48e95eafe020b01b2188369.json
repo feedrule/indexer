@@ -4,17 +4,20 @@
     {
       "link": "https://felix-knorr.net/posts/2026-08-04-how-to-make-ai-writer-maintainable-code.html",
       "title": "Using Coding Agents Without Producing Slop",
-      "description": "This article was first release in the german IT-magazine Golem . When it comes to AI coding, I see the following two sentiments almost exclusively online: AI is useless, and generates nothing but unmaintainable slop AI is going to replace all developers by the end of 2026 The truth is typically somewhere in between. For the last 6 months, I've been spending a lot of time with AI agents, and have l"
+      "description": "This article was first release in the german IT-magazine Golem . When it comes to AI coding, I see the following two sentiments almost exclusively online: AI is useless, and generates nothing but unmaintainable slop AI is going to replace all developers by the end of 2026 The truth is typically somewhere in between. For the last 6 months, I've been spending a lot of time with AI agents, and have l",
+      "date": null
     },
     {
       "link": "https://felix-knorr.net/posts/2026-07-31-lsp-config.html",
       "title": "Project-Specific clangd Configuration with a Temporary Shell",
-      "description": "I've been writing C and some C++ in terminal-based editors for the past five years. By default, clangd searches the current file's parent directories for a compile_commands.json . This becomes annoying when a repository contains several independently built firmware projects that share code and have a common repository root. Each project needs its own compilation database. Replacing a single reposi"
+      "description": "I've been writing C and some C++ in terminal-based editors for the past five years. By default, clangd searches the current file's parent directories for a compile_commands.json . This becomes annoying when a repository contains several independently built firmware projects that share code and have a common repository root. Each project needs its own compilation database. Replacing a single reposi",
+      "date": null
     },
     {
       "link": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
       "title": "On Error Handling in Rust",
-      "description": "The current standard for error handling, when writing a crate, is to define one error enum per module, or one for the whole crate that covers all error cases that the module or crate can possibly produce, and each public function that returns a Result will use said error enum."
+      "description": "The current standard for error handling, when writing a crate, is to define one error enum per module, or one for the whole crate that covers all error cases that the module or crate can possibly produce, and each public function that returns a Result will use said error enum.",
+      "date": null
     }
   ]
 }

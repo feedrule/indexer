@@ -4,17 +4,20 @@
     {
       "link": "https://blog.duy.dev/configuration-changes-rollout-protocol/",
       "title": "Configuration Changes Need a Rollout Protocol",
-      "description": "Publish validated immutable snapshots, preserve one version within each request, and treat fleet adoption and rollback as observable state transitions."
+      "description": "Publish validated immutable snapshots, preserve one version within each request, and treat fleet adoption and rollback as observable state transitions.",
+      "date": null
     },
     {
       "link": "https://blog.duy.dev/circuit-breakers-recovery-probe/",
       "title": "Circuit Breakers Need a Recovery Probe",
-      "description": "Limit calls to a failing dependency while making recovery bounded, observable, and resistant to late results from earlier attempts."
+      "description": "Limit calls to a failing dependency while making recovery bounded, observable, and resistant to late results from earlier attempts.",
+      "date": null
     },
     {
       "link": "https://blog.duy.dev/pagination-consistency-contract/",
       "title": "Pagination Needs a Consistency Contract",
-      "description": "Use a stable keyset cursor for traversal, then choose explicitly whether clients are reading a moving feed or a reproducible snapshot."
+      "description": "Use a stable keyset cursor for traversal, then choose explicitly whether clients are reading a moving feed or a reproducible snapshot.",
+      "date": null
     }
   ]
 }

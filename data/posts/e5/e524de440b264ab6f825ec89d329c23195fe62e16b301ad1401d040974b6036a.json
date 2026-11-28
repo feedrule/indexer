@@ -4,17 +4,20 @@
     {
       "link": "https://blog.joeware.net/2026/11/21/6283/",
       "title": "More AdFind64 News",
-      "description": "The excitement grows. 🙂 I have been pecking away at the AdFind code with Claude Code looking for efficiency gains here there and everywhere, styling and profiling. Mostly focused on large order ops like dumping data for tens or hundreds of thousands of objects. Optimizing things as simple as lowercasing of strings for comparison, etc. […]"
+      "description": "The excitement grows. 🙂 I have been pecking away at the AdFind code with Claude Code looking for efficiency gains here there and everywhere, styling and profiling. Mostly focused on large order ops like dumping data for tens or hundreds of thousands of objects. Optimizing things as simple as lowercasing of strings for comparison, etc. […]",
+      "date": null
     },
     {
       "link": "https://blog.joeware.net/2026/11/15/6281/",
       "title": "Validation Testing of AdFind x86 vs x64",
-      "description": "ROFL while testing… So yeah, the x64 is a bit faster. Claude Code: The domain partition dump is still running in the background, and I’ll be notified when it finishes. The x64 run is well ahead: it had written 234 MB when x86 gold had written 69 MB. I’ll compare the domain partition and write […]"
+      "description": "ROFL while testing… So yeah, the x64 is a bit faster. Claude Code: The domain partition dump is still running in the background, and I’ll be notified when it finishes. The x64 run is well ahead: it had written 234 MB when x86 gold had written 69 MB. I’ll compare the domain partition and write […]",
+      "date": null
     },
     {
       "link": "https://blog.joeware.net/2026/11/11/6279/",
       "title": "AI != Intelligence",
-      "description": "Since I have switched (was switched) to working in the AI space earlier this year, I get a lot of people now asking me if AI is actually intelligent. No. No it isn’t. Period. AI is not intelligent, it is definitely not super intelligent. AI is Aggressively Iterative. Where it seems to be intelligent in […]"
+      "description": "Since I have switched (was switched) to working in the AI space earlier this year, I get a lot of people now asking me if AI is actually intelligent. No. No it isn’t. Period. AI is not intelligent, it is definitely not super intelligent. AI is Aggressively Iterative. Where it seems to be intelligent in […]",
+      "date": null
     }
   ]
 }

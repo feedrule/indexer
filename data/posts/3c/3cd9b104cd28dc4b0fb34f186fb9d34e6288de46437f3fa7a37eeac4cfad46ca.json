@@ -4,17 +4,20 @@
     {
       "link": "https://blog.yfzhou.fyi/posts/prompt/",
       "title": "Don't Let LLMs Play Telephone With Your Ideas",
-      "description": "A prompt is for communicating an idea to an LLM. If you tell your idea to an AI agent and ask it to write down in its own words, say, a “skill” document which is meant to be a reusable piece of prompt to attach to another LLM session, it becomes a classic game of telephone. The model inevitably misinterprets your unspoken context or invent its own rules that you never intended. So the process is g"
+      "description": "A prompt is for communicating an idea to an LLM. If you tell your idea to an AI agent and ask it to write down in its own words, say, a “skill” document which is meant to be a reusable piece of prompt to attach to another LLM session, it becomes a classic game of telephone. The model inevitably misinterprets your unspoken context or invent its own rules that you never intended. So the process is g",
+      "date": null
     },
     {
       "link": "https://blog.yfzhou.fyi/posts/doc-sandbox/",
       "title": "What we learned building sandbox for document agents",
-      "description": "Cross-posted from the Raycaster blog ; I’ve spent the last several months building this, and here is my take. 2025 brought us the new idiom for building AI (beginning with Manus and Claude Code): give it tools to operate a computer. This is a break from the past default approach represented by ChatGPT, which is LLM + a menu of bespoke API connections to plug in to various systems of record. The li"
+      "description": "Cross-posted from the Raycaster blog ; I’ve spent the last several months building this, and here is my take. 2025 brought us the new idiom for building AI (beginning with Manus and Claude Code): give it tools to operate a computer. This is a break from the past default approach represented by ChatGPT, which is LLM + a menu of bespoke API connections to plug in to various systems of record. The li",
+      "date": null
     },
     {
       "link": "https://blog.yfzhou.fyi/posts/tdd-llm/",
       "title": "Test-Driven Development with an LLM for Fun and Profit",
-      "description": "Welcome to the very first post in a new blog! Here I will discuss software development, SRE work, and other fun stuff. Sometimes an idea is just too good to pass up. I hope this blog will motivate me to turn sparks and little pieces into general knowledge in writing the words down. The other day I was discussing Tabby with a coworker. We talked about whether we should consider AI-autocompleted cod"
+      "description": "Welcome to the very first post in a new blog! Here I will discuss software development, SRE work, and other fun stuff. Sometimes an idea is just too good to pass up. I hope this blog will motivate me to turn sparks and little pieces into general knowledge in writing the words down. The other day I was discussing Tabby with a coworker. We talked about whether we should consider AI-autocompleted cod",
+      "date": null
     }
   ]
 }

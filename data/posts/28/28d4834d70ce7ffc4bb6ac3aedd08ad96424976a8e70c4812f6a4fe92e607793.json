@@ -4,17 +4,20 @@
     {
       "link": "https://www.lisenet.com/2026/allow-windows-11-to-access-samba-guest-shares-on-rocky-linux/",
       "title": "Allow Windows 11 to Access Samba Guest Shares on Rocky Linux",
-      "description": "We need Windows 11 to be able to connect to Samba shares hosted on Rocky Linux that do not require a username and password. The Problem Windows 11 may refuse to connect to Samba guest shares because newer SMB client defaults restrict guest access and SMB signing behaviour. The Solution Allow guest SMB logons and […]"
+      "description": "We need Windows 11 to be able to connect to Samba shares hosted on Rocky Linux that do not require a username and password. The Problem Windows 11 may refuse to connect to Samba guest shares because newer SMB client defaults restrict guest access and SMB signing behaviour. The Solution Allow guest SMB logons and […]",
+      "date": null
     },
     {
       "link": "https://www.lisenet.com/2026/how-to-bypass-microsoft-account-sign-in-in-windows-11-25h2-setup/",
       "title": "How to Bypass Microsoft Account Sign-In in Windows 11 25H2 Setup",
-      "description": "During setup, Windows 11 25H2 normally requires Microsoft account sign-in, especially on Home and Pro editions. To install Windows 11 with a local account instead, press Shift + Fn + F10 at the Out-of-Box Experience (OOBE) sign-in screen and run: start ms-cxh:localonly This launches the local account creation flow from the OOBE screen. You can […]"
+      "description": "During setup, Windows 11 25H2 normally requires Microsoft account sign-in, especially on Home and Pro editions. To install Windows 11 with a local account instead, press Shift + Fn + F10 at the Out-of-Box Experience (OOBE) sign-in screen and run: start ms-cxh:localonly This launches the local account creation flow from the OOBE screen. You can […]",
+      "date": null
     },
     {
       "link": "https://www.lisenet.com/2026/passed-lpic-3-305-exam/",
       "title": "Passed LPIC-3 305 Exam",
-      "description": "I recently passed the LPIC-3 305 Virtualisation and Containerisation exam, which made me think again about the value of renewing certifications. To Renew or Not to Renew For someone already working in IT and using the relevant technology daily, recertification is usually more about credential maintenance than learning. The learning curve happened the first time, […]"
+      "description": "I recently passed the LPIC-3 305 Virtualisation and Containerisation exam, which made me think again about the value of renewing certifications. To Renew or Not to Renew For someone already working in IT and using the relevant technology daily, recertification is usually more about credential maintenance than learning. The learning curve happened the first time, […]",
+      "date": null
     }
   ]
 }

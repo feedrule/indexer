@@ -4,17 +4,20 @@
     {
       "link": "https://tylerrussell.dev/2026/05/19/maintenance-is-more-than-bugs/?utm_source=rss&utm_medium=rss&utm_campaign=maintenance-is-more-than-bugs",
       "title": "Maintenance is more than bugs",
-      "description": "Replacing business SaaS applications with vibe-coded equivalents has been a topic of conversations for a long time now. But it feels like the build-vs-buy pendulum has truly swung to the “buy” apex in the last few months. Improvements in frontier models over the last six months combined with general-public adoption of AI-coding tools has led […]"
+      "description": "Replacing business SaaS applications with vibe-coded equivalents has been a topic of conversations for a long time now. But it feels like the build-vs-buy pendulum has truly swung to the “buy” apex in the last few months. Improvements in frontier models over the last six months combined with general-public adoption of AI-coding tools has led […]",
+      "date": null
     },
     {
       "link": "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/?utm_source=rss&utm_medium=rss&utm_campaign=cross-account-and-region-backups-with-aws-backup-and-friends",
       "title": "Cross-Account and Cross-Region Backups with AWS Backup (and friends)",
-      "description": "In today’s edition of “don’t trust LLMs”, we learn that despite what AI tells you, AWS Backup doesn’t support Cross-Account and Cross-Region backups. It supports Cross-Account copying and Cross-Region copying, but apparently not together. As part of Masset’s Data Protection and Disaster Recovery policies, we determined that having backups separated by both region and OU […]"
+      "description": "In today’s edition of “don’t trust LLMs”, we learn that despite what AI tells you, AWS Backup doesn’t support Cross-Account and Cross-Region backups. It supports Cross-Account copying and Cross-Region copying, but apparently not together. As part of Masset’s Data Protection and Disaster Recovery policies, we determined that having backups separated by both region and OU […]",
+      "date": null
     },
     {
       "link": "https://tylerrussell.dev/2025/06/02/save-yourself-time-set-the-jvm-ttl-for-dns-name-lookups-in-aws/?utm_source=rss&utm_medium=rss&utm_campaign=save-yourself-time-set-the-jvm-ttl-for-dns-name-lookups-in-aws",
       "title": "Save yourself time: Set the JVM TTL for DNS name lookups in AWS",
-      "description": "I like to keep track of times I’m one of the lucky 10,000. Had such an instance today with the JDK and DNS behavior. Apparently most versions of the JDK cache DNS lookups indefinitely. If that’s not surprising to you, I’m guessing you’ve had a weekend debugging session similar to mine. I can’t be the […]"
+      "description": "I like to keep track of times I’m one of the lucky 10,000. Had such an instance today with the JDK and DNS behavior. Apparently most versions of the JDK cache DNS lookups indefinitely. If that’s not surprising to you, I’m guessing you’ve had a weekend debugging session similar to mine. I can’t be the […]",
+      "date": null
     }
   ]
 }

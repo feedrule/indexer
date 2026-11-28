@@ -4,17 +4,20 @@
     {
       "link": "https://ilmanzo.github.io/curriculum/",
       "title": "Curriculum Vitae",
-      "description": "Curriculum Vitae of Andrea Manzini - QE Automation Engineer & Systems Specialist"
+      "description": "Curriculum Vitae of Andrea Manzini - QE Automation Engineer & Systems Specialist",
+      "date": null
     },
     {
       "link": "https://ilmanzo.github.io/post/linux_day_milano_2026/",
       "title": "Linux Day Milano 2026 recap",
-      "description": "Recap of my talk 'A scatola chiusa: Test Coverage di binari nativi con eBPF' at Linux Day Milano 2026"
+      "description": "Recap of my talk 'A scatola chiusa: Test Coverage di binari nativi con eBPF' at Linux Day Milano 2026",
+      "date": null
     },
     {
       "link": "https://ilmanzo.github.io/post/your-first-plasma-6-widget/",
       "title": "Your first Plasma 6 widget: C++, QML and the Observer pattern",
-      "description": "A birthday present for KDE's 30th: build, install and test a small Plasma 6 widget with a C++ model and a QML view, and learn what signals, slots, Observer and MVC mean."
+      "description": "A birthday present for KDE's 30th: build, install and test a small Plasma 6 widget with a C++ model and a QML view, and learn what signals, slots, Observer and MVC mean.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi",
       "title": "Practical guide on out of tree mitigations on Linux",
-      "description": "My previous blog post was a quick one and a reader from Gemini sent me an email asking what exactly I did for implementing the mitigations. Thanks for asking and sorry for making you ask. This article should explain what is done and how to tweak the recipe. The core principle can be found in my muc..."
+      "description": "My previous blog post was a quick one and a reader from Gemini sent me an email asking what exactly I did for implementing the mitigations. Thanks for asking and sorry for making you ask. This article should explain what is done and how to tweak the recipe. The core principle can be found in my muc...",
+      "date": null
     },
     {
       "link": "https://clehaxze.tw/gemlog/2026/11-01-openbsd-is-right-on-mitigations-in-light-on-recent-wave-of-serious-vulnerabilities.gmi",
       "title": "OpenBSD is right on mitigations (in light of recent wave of serious vulnerabilities)",
-      "description": "(I started writing this article during the cybersec events, but only had time to finish it now.) The past week has been crazy in cybersec, with several high-severity exploits. The PHP CVE-2026-109618/CVE-2026-109619 was nuts: a very low-level system in PHP was vulnerable, leading to pop-a-shell. B..."
+      "description": "(I started writing this article during the cybersec events, but only had time to finish it now.) The past week has been crazy in cybersec, with several high-severity exploits. The PHP CVE-2026-109618/CVE-2026-109619 was nuts: a very low-level system in PHP was vulnerable, leading to pop-a-shell. B...",
+      "date": null
     },
     {
       "link": "https://clehaxze.tw/gemlog/2026/10-19-deploying-on-openbsd.gmi",
       "title": "Deploying on OpenBSD",
-      "description": "Recently with some core changes happening to TLGS (the search engine I run on Gemini), deployment also moved from Ubuntu to OpenBSD -- for many reasons. Northwire Mail still runs on standard Linux because that's where I have the infra for serious data backup. But hardening applictions on Linux is a..."
+      "description": "Recently with some core changes happening to TLGS (the search engine I run on Gemini), deployment also moved from Ubuntu to OpenBSD -- for many reasons. Northwire Mail still runs on standard Linux because that's where I have the infra for serious data backup. But hardening applictions on Linux is a...",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://command-tab.com/2026/09/02/nintendo-64-renaissance/",
       "title": "The Nintendo 64 Renaissance",
-      "description": "The Nintendo 64 marked its 30th birthday this past June, and yet despite its age, work on the platform has seen a resurgence over the last decade. The N64’s passionate fan community of software developers, hardware hackers, and reverse engineers have made improvements to many aspects of the system. They’ve added digital video output, flash-based cartridges, new and improved emulators, modern devel"
+      "description": "The Nintendo 64 marked its 30th birthday this past June, and yet despite its age, work on the platform has seen a resurgence over the last decade. The N64’s passionate fan community of software developers, hardware hackers, and reverse engineers have made improvements to many aspects of the system. They’ve added digital video output, flash-based cartridges, new and improved emulators, modern devel",
+      "date": null
     },
     {
       "link": "https://command-tab.com/2026/08/14/single-file-http-live-streaming/",
       "title": "Single File HTTP \"Live\" Streaming",
-      "description": "Playing large video files on the web, short of uploading to YouTube or some other processing and hosting service, requires some preparation. For browsers to efficiently download just the portion surrounding what visitors are playing, you’ll generally want to rewrite the MP4 so its moov atom is at the beginning of the file (usually called “fast start”), allowing the browser to grab the metadata nee"
+      "description": "Playing large video files on the web, short of uploading to YouTube or some other processing and hosting service, requires some preparation. For browsers to efficiently download just the portion surrounding what visitors are playing, you’ll generally want to rewrite the MP4 so its moov atom is at the beginning of the file (usually called “fast start”), allowing the browser to grab the metadata nee",
+      "date": null
     },
     {
       "link": "https://command-tab.com/2026/06/12/importing-certificates-into-xcode-27-device-hub/",
       "title": "Importing Certificates into Xcode 27's Device Hub",
-      "description": "Xcode 27 introduced, among other new features, a new Device Hub app for developers that takes the place of the Simulator app. Where Simulator relied on separate windows for each device, Device Hub brings them all together into a single window where each simulated device is the detail view from a source list of devices on the left. It’s a more organized approach, made necessary by the wide variety"
+      "description": "Xcode 27 introduced, among other new features, a new Device Hub app for developers that takes the place of the Simulator app. Where Simulator relied on separate windows for each device, Device Hub brings them all together into a single window where each simulated device is the detail view from a source list of devices on the left. It’s a more organized approach, made necessary by the wide variety",
+      "date": null
     }
   ]
 }

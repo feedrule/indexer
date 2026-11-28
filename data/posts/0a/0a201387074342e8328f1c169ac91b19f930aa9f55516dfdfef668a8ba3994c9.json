@@ -4,17 +4,20 @@
     {
       "link": "https://admin.brennt.net/never-add-commands-to-sudoers-without-parameters",
       "title": "Never add commands to sudoers without parameters",
-      "description": "The server of a friend got hacked. Vulnerable web application, so the attacker had a local shell as the user the webserver ran under ( www-data ). Ok, but how did the attacker get root? Well.. Let's say that this line in /etc/sudoers.d/some-tool didn't help: www-data ALL=(ALL) NOPASSWD: /usr/bin/apt-get It was for some self-crafted maintenance tool to allow updating of the package lists via a webi"
+      "description": "The server of a friend got hacked. Vulnerable web application, so the attacker had a local shell as the user the webserver ran under ( www-data ). Ok, but how did the attacker get root? Well.. Let's say that this line in /etc/sudoers.d/some-tool didn't help: www-data ALL=(ALL) NOPASSWD: /usr/bin/apt-get It was for some self-crafted maintenance tool to allow updating of the package lists via a webi",
+      "date": null
     },
     {
       "link": "https://admin.brennt.net/yt-dlp-error-no-video-formats-found-and-how-i-learned-about-dash-and-that-my-yt-dlp-filter-could-be-improved",
       "title": "yt-dlp error \"No video formats found\" and how I learned about DASH and that my yt-dlp filter could be improved",
-      "description": "I participated in an only workshop at the weekend and the organisers kindly provided the recording as an unlisted YouTube video. As I wanted to watch the video again at a later time I used my MeTube installation to download the YouTube video. Or rather: Tried to. As the download would fail. MeTube would say no requested formats could be found. The video however played nicely on YouTube!? The setup"
+      "description": "I participated in an only workshop at the weekend and the organisers kindly provided the recording as an unlisted YouTube video. As I wanted to watch the video again at a later time I used my MeTube installation to download the YouTube video. Or rather: Tried to. As the download would fail. MeTube would say no requested formats could be found. The video however played nicely on YouTube!? The setup",
+      "date": null
     },
     {
       "link": "https://admin.brennt.net/what-is-dash-dynamic-adaptive-streaming-over-http-and-why-did-it-broke-my-yt-dlp-filter",
       "title": "What is DASH (Dynamic Adaptive Streaming over HTTP) and why did it broke my yt-dlp filter?",
-      "description": "When you run yt-dlp -F on a YouTube video you will see lots of entries ending in mp4_dash , webm_dash or m4a_dash . I thought at first that this is a new format, so I started searching. As my current filter would complain: \"No video formats found!\" The short version DASH stands for D ynamic A daptive S treaming over H TTP, also known as MPEG-DASH . It is an international standard (first described"
+      "description": "When you run yt-dlp -F on a YouTube video you will see lots of entries ending in mp4_dash , webm_dash or m4a_dash . I thought at first that this is a new format, so I started searching. As my current filter would complain: \"No video formats found!\" The short version DASH stands for D ynamic A daptive S treaming over H TTP, also known as MPEG-DASH . It is an international standard (first described",
+      "date": null
     }
   ]
 }

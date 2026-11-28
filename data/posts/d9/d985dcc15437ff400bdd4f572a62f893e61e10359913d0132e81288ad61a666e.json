@@ -4,17 +4,20 @@
     {
       "link": "https://pocketarc.com/notes/2026-11-12",
       "title": "The cost of intelligence is dropping unbelievably fast.",
-      "description": "I switched my marketplace tool to GLM 5.3 Flash, which does better in my evals. Processing the same 1000+ workloads costs ~33x less than it used to just a few months ago."
+      "description": "I switched my marketplace tool to GLM 5.3 Flash, which does better in my evals. Processing the same 1000+ workloads costs ~33x less than it used to just a few months ago.",
+      "date": null
     },
     {
       "link": "https://pocketarc.com/notes/2026-10-02",
       "title": "I gave AI a cropped UI screenshot and it just built the whole thing.",
-      "description": "As I looked through some old files I found a 10+ year old screenshot of UI I liked. Well, part of the UI; it showed off enough as design inspiration for a personal website thing, but it wasn't the…"
+      "description": "As I looked through some old files I found a 10+ year old screenshot of UI I liked. Well, part of the UI; it showed off enough as design inspiration for a personal website thing, but it wasn't the…",
+      "date": null
     },
     {
       "link": "https://pocketarc.com/articles/my-iterm2-tabs-turn-red-when-claude-code-is-waiting-for-me",
       "title": "My iTerm2 tabs turn red when Claude Code is waiting for me.",
-      "description": "I run too many Claude Code sessions to know which one is waiting on me, so I wrote hooks that turn the tab red when Claude is blocked."
+      "description": "I run too many Claude Code sessions to know which one is waiting on me, so I wrote hooks that turn the tab red when Claude is blocked.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://theosoti.com/blog/css-layer-scope-bugs-tailwind-prevents/",
       "title": "Leaving Tailwind? 4 CSS Bugs It Was Protecting You From",
-      "description": "Tailwind prevents specificity fights, class collisions, and leaking styles. Reproduce each bug in a live demo, then fix it with native @layer and @scope."
+      "description": "Tailwind prevents specificity fights, class collisions, and leaking styles. Reproduce each bug in a live demo, then fix it with native @layer and @scope.",
+      "date": null
     },
     {
       "link": "https://theosoti.com/blog/css-reading-flow-reading-order-without-javascript/",
       "title": "CSS reading-flow: Fix Grid and Flexbox Tab Order Without JavaScript",
-      "description": "Use CSS reading-flow and reading-order to align keyboard navigation with responsive Grid and Flexbox layouts, without tabindex or JavaScript."
+      "description": "Use CSS reading-flow and reading-order to align keyboard navigation with responsive Grid and Flexbox layouts, without tabindex or JavaScript.",
+      "date": null
     },
     {
       "link": "https://theosoti.com/short/accessible-css-generated-images/",
       "title": "Add alternative text to CSS generated images",
-      "description": "Use the slash syntax of the CSS content property to provide replacement text for generated images while keeping meaningful content in HTML."
+      "description": "Use the slash syntax of the CSS content property to provide replacement text for generated images while keeping meaningful content in HTML.",
+      "date": null
     }
   ]
 }

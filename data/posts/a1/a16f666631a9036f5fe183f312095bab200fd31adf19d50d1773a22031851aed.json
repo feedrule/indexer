@@ -4,17 +4,20 @@
     {
       "link": "https://0xinfection.xyz/posts/xsrfprobe-v3.0-a-ground-up-rewrite/",
       "title": "XSRFProbe v3.0 — A Ground-Up Rewrite",
-      "description": "Hey everyone! It’s been a while. I’m really excited to finally push out something that’s been cooking on my machine for way too long – XSRFProbe v3.0 . For those who don’t know, XSRFProbe is a CSRF audit and exploitation toolkit I first released back in 2018. The last stable release, v2.3.1, went out in January 2020. That’s a little over six years of radio silence on the release front. I’ve just r"
+      "description": "Hey everyone! It’s been a while. I’m really excited to finally push out something that’s been cooking on my machine for way too long – XSRFProbe v3.0 . For those who don’t know, XSRFProbe is a CSRF audit and exploitation toolkit I first released back in 2018. The last stable release, v2.3.1, went out in January 2020. That’s a little over six years of radio silence on the release front. I’ve just r",
+      "date": null
     },
     {
       "link": "https://0xinfection.xyz/posts/breaking-the-waf-wall-modsecurity-crs/",
       "title": "Breaking the WAF Wall: ModSecurity CRS",
-      "description": "Hey everyone! I’m so stoked to finally share this blog post that’s been sitting in my drafts since 2023. Life got busy and I lost my writing mojo for a bit, but I’ve finally gathered enough energy to finish this one up! Today’s post explores the bypasses I discovered for the OWASP CRS (Core Rule Set) Project during 1337UP0522 live hacking event hosted by The Paranoids team at Yahoo in collaboratio"
+      "description": "Hey everyone! I’m so stoked to finally share this blog post that’s been sitting in my drafts since 2023. Life got busy and I lost my writing mojo for a bit, but I’ve finally gathered enough energy to finish this one up! Today’s post explores the bypasses I discovered for the OWASP CRS (Core Rule Set) Project during 1337UP0522 live hacking event hosted by The Paranoids team at Yahoo in collaboratio",
+      "date": null
     },
     {
       "link": "https://0xinfection.xyz/posts/analyzing-two-freeswitch-vulnerabilities-cve-2021-41157-cve-2021-37624/",
       "title": "Analyzing two FreeSWITCH vulnerabilities — CVE-2021-41157 & CVE-2021-37624",
-      "description": "This post is about two vulnerabilities that I researched on a year back in the FreeSWITCH VoIP server that were fixed and disclosed publicly a few weeks ago. Both of the vulnerabilities were issues that affected the SIP functionality in all versions below v1.10.7 and were categorized under CWE-287 . Background The story dates to a year ago, back when I was still learning about RTC (real-time commu"
+      "description": "This post is about two vulnerabilities that I researched on a year back in the FreeSWITCH VoIP server that were fixed and disclosed publicly a few weeks ago. Both of the vulnerabilities were issues that affected the SIP functionality in all versions below v1.10.7 and were categorized under CWE-287 . Background The story dates to a year ago, back when I was still learning about RTC (real-time commu",
+      "date": null
     }
   ]
 }

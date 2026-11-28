@@ -4,17 +4,20 @@
     {
       "link": "https://alessiodevoto.github.io/2023-05-12-Customer-churning-for-telecom/",
       "title": null,
-      "description": "In this short tutorial, we will use our company’s dataset to predict whether a customer will churn or not. For a better experience, open in Colab:"
+      "description": "In this short tutorial, we will use our company’s dataset to predict whether a customer will churn or not. For a better experience, open in Colab:",
+      "date": null
     },
     {
       "link": "https://alessiodevoto.github.io/agent-context-where/",
       "title": "Agents and Context: Where We Stand",
-      "description": "Why agent context windows fail in practice, how current systems compact context, and why context management may become part of the agent action space."
+      "description": "Why agent context windows fail in practice, how current systems compact context, and why context management may become part of the agent action space.",
+      "date": null
     },
     {
       "link": "https://alessiodevoto.github.io/Diffusion-Language-Models-Inner-Workings/",
       "title": "Peeking Inside Diffusion Language Models with LogitLens",
-      "description": "Lately, diffusion-based language models like LLaDA and MMaDA have been gaining traction. These aren’t your standard left-to-right text generators - they’re bidirectional models trained to fill in missing tokens, more akin to BERT but on steroids. During training, Diffusion Language Models (DLMs) learn to predict <mask> tokens given context, effectively learning a denoising task."
+      "description": "Lately, diffusion-based language models like LLaDA and MMaDA have been gaining traction. These aren’t your standard left-to-right text generators - they’re bidirectional models trained to fill in missing tokens, more akin to BERT but on steroids. During training, Diffusion Language Models (DLMs) learn to predict <mask> tokens given context, effectively learning a denoising task.",
+      "date": null
     }
   ]
 }

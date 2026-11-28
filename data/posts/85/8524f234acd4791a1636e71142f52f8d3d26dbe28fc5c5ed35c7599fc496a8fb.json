@@ -4,17 +4,20 @@
     {
       "link": "http://stack.int.mov/reversing-idas-lumina-protocol/",
       "title": "Reversing IDA's Lumina Protocol",
-      "description": "Complete specification from reverse engineering libida.so and the Lumina server Table of Contents Background Architecture Overview Wire Protocol Varint Encoding CalcRel Hash Metadata Format Delta Encoding Tag Reference Implementation Notes Reference Tables Appendices A: Complete Packet Structures B: Memory Layouts (from RE) C: Dazhbog Implementation References D: Test Vectors"
+      "description": "Complete specification from reverse engineering libida.so and the Lumina server Table of Contents Background Architecture Overview Wire Protocol Varint Encoding CalcRel Hash Metadata Format Delta Encoding Tag Reference Implementation Notes Reference Tables Appendices A: Complete Packet Structures B: Memory Layouts (from RE) C: Dazhbog Implementation References D: Test Vectors",
+      "date": null
     },
     {
       "link": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
       "title": "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
-      "description": "1.0 The Silicon Root of Trust: Pre-Boot & Hardware Primitives The security of the macOS platform on Apple Silicon is not defined by the kernel; it is defined by the physics of the die. Before the first instruction of kernelcache is fetched, a complex, cryptographic ballet has already concluded"
+      "description": "1.0 The Silicon Root of Trust: Pre-Boot & Hardware Primitives The security of the macOS platform on Apple Silicon is not defined by the kernel; it is defined by the physics of the die. Before the first instruction of kernelcache is fetched, a complex, cryptographic ballet has already concluded",
+      "date": null
     },
     {
       "link": "http://stack.int.mov/ida-interr/",
       "title": "Hex-Rays Decompiler Internal Error (INTERR) Codes",
-      "description": "This document lists the Internal Error codes found in the Decompiler SDK verification modules. These errors generally indicate corruption in the internal representations (Microcode or C-tree) or logic errors in the decompilation pipeline. Bitset Operations Code Function Condition / Meaning 50311 bitset_t::add Received negative bit number. Can occur with"
+      "description": "This document lists the Internal Error codes found in the Decompiler SDK verification modules. These errors generally indicate corruption in the internal representations (Microcode or C-tree) or logic errors in the decompilation pipeline. Bitset Operations Code Function Condition / Meaning 50311 bitset_t::add Received negative bit number. Can occur with",
+      "date": null
     }
   ]
 }

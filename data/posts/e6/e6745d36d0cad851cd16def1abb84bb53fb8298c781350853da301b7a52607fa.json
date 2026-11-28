@@ -4,17 +4,20 @@
     {
       "link": "https://www.kvr.at/posts/radxa-orion-o6-finally-an-arm64-board-im-happy-with/",
       "title": "Radxa Orion O6 - finally an arm64 board I'm happy with",
-      "description": "The Radxa Orion O6 seems to be the arm64 device I've always wanted. Finally! Because it supports UEFI boot, Debian can be installed with the vanilla installation media. Neither custom images, nor additional firmware, nor any other tricks were required on my end. In fact, the entire process was indistinguishable from the amd64 installations I've been accustomed to for two decades: just plug in a US"
+      "description": "The Radxa Orion O6 seems to be the arm64 device I've always wanted. Finally! Because it supports UEFI boot, Debian can be installed with the vanilla installation media. Neither custom images, nor additional firmware, nor any other tricks were required on my end. In fact, the entire process was indistinguishable from the amd64 installations I've been accustomed to for two decades: just plug in a US",
+      "date": null
     },
     {
       "link": "https://www.kvr.at/posts/simple-ppa-a-minimalistic-ppa-implementation/",
       "title": "Simple-PPA, a minimalistic PPA implementation",
-      "description": "Today, the Debusine developers launched Debusine repositories , a beta implementation of PPAs. In the announcement, Colin remarks that \"[d]iscussions about this have been happening for long enough that people started referring to PPAs for Debian as 'bikesheds'\" ; a characterization that I'm sure most will agree with. So it is with great amusement that on this same day, I launch a second PPA implem"
+      "description": "Today, the Debusine developers launched Debusine repositories , a beta implementation of PPAs. In the announcement, Colin remarks that \"[d]iscussions about this have been happening for long enough that people started referring to PPAs for Debian as 'bikesheds'\" ; a characterization that I'm sure most will agree with. So it is with great amusement that on this same day, I launch a second PPA implem",
+      "date": null
     },
     {
       "link": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
       "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
-      "description": "TL;DR With GLIBC 2.33+, you can build a shared library multiple times targeting various optimization levels, and the dynamic linker/loader will pick the highest version supported by the current CPU. For example, with the layout below, on a Ryzen 9 5900X, x86-64-v3/libfoo0.so would be loaded: /usr/lib/glibc-hwcaps/x86-64-v4/libfoo0.so /usr/lib/glibc-hwcaps/x86-64-v3/libfoo0.so /usr/lib/glibc-hwcaps"
+      "description": "TL;DR With GLIBC 2.33+, you can build a shared library multiple times targeting various optimization levels, and the dynamic linker/loader will pick the highest version supported by the current CPU. For example, with the layout below, on a Ryzen 9 5900X, x86-64-v3/libfoo0.so would be loaded: /usr/lib/glibc-hwcaps/x86-64-v4/libfoo0.so /usr/lib/glibc-hwcaps/x86-64-v3/libfoo0.so /usr/lib/glibc-hwcaps",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.ottorask.com/blog/human-json",
       "title": "human.json",
-      "description": "Beto Dealmeida has been working on a thing called human.json , which lets website authors declare that their site and content are human-made, without “AI”. human.json also sets up a sort of a trust mechanism, where authors can vouch for other websites to also be human-made and “AI” free, which optimally would result in a web of trust within which people could easily verify whether a blog post, a p"
+      "description": "Beto Dealmeida has been working on a thing called human.json , which lets website authors declare that their site and content are human-made, without “AI”. human.json also sets up a sort of a trust mechanism, where authors can vouch for other websites to also be human-made and “AI” free, which optimally would result in a web of trust within which people could easily verify whether a blog post, a p",
+      "date": null
     },
     {
       "link": "https://www.ottorask.com/blog/pull-requests-quality-theater-with-questionable-results",
       "title": "Pull requests: quality theater with questionable results",
-      "description": "Does your organization prefer or maybe even force pull requests for reviewing and validating changes before integrating to a mainline? I have news for you: you’re engaged in quality theater and the only thing the PRs are doing for you is add cognitive load and delays while preventing you from finding better ways to ensure you’re shipping a quality product without delays."
+      "description": "Does your organization prefer or maybe even force pull requests for reviewing and validating changes before integrating to a mainline? I have news for you: you’re engaged in quality theater and the only thing the PRs are doing for you is add cognitive load and delays while preventing you from finding better ways to ensure you’re shipping a quality product without delays.",
+      "date": null
     },
     {
       "link": "https://www.ottorask.com/blog/quality-by-a-thousand-cuts",
       "title": "Quality by a thousand cuts",
-      "description": "Refactoring a codebase should be a continuous activity, even outside “regular feature development”. It should be painless, swift, and as automated as possible to refactor a single line of code and ship that change into production on its own. This approach requires continuous integration and continuous delivery, and will become nearly impossible with a pull request based workflow. Being able to shi"
+      "description": "Refactoring a codebase should be a continuous activity, even outside “regular feature development”. It should be painless, swift, and as automated as possible to refactor a single line of code and ship that change into production on its own. This approach requires continuous integration and continuous delivery, and will become nearly impossible with a pull request based workflow. Being able to shi",
+      "date": null
     }
   ]
 }

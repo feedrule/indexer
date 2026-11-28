@@ -4,17 +4,20 @@
     {
       "link": "https://oscar.forner.es/blog/2026-06-04-unit-test-with-http-client-in-golang/",
       "title": "Unit test with HTTP client in Go",
-      "description": "Introduction In this post we will explore an example of how to test code with unit test that uses an HTTP client. Code with HTTP Client The following code is a typical example of a function that uses an HTTP client to do some requests. package main import ( \"context\" \"errors\" \"fmt\" \"io\" \"log\" \"net/http\" \"strings\" ) var ( ErrFailedToCreateRequest = errors . New ( \"failed to create request\" ) ErrFai"
+      "description": "Introduction In this post we will explore an example of how to test code with unit test that uses an HTTP client. Code with HTTP Client The following code is a typical example of a function that uses an HTTP client to do some requests. package main import ( \"context\" \"errors\" \"fmt\" \"io\" \"log\" \"net/http\" \"strings\" ) var ( ErrFailedToCreateRequest = errors . New ( \"failed to create request\" ) ErrFai",
+      "date": null
     },
     {
       "link": "https://oscar.forner.es/blog/2023-10-10-go-embed-for-migrations/",
       "title": "Go embed for migrations",
-      "description": "Introduction In this post we will explore an example of a Go binary that combines features such as Go Embed and Go-Migrate to have a self-contained binary that runs the appropriate migrations before starting any actual work. What is embed? Go Embed was introduced in Go 1.16 as a core library that allows binaries to contain external files embedded and they are accessible from inside the binary. The"
+      "description": "Introduction In this post we will explore an example of a Go binary that combines features such as Go Embed and Go-Migrate to have a self-contained binary that runs the appropriate migrations before starting any actual work. What is embed? Go Embed was introduced in Go 1.16 as a core library that allows binaries to contain external files embedded and they are accessible from inside the binary. The",
+      "date": null
     },
     {
       "link": "https://oscar.forner.es/blog/2021-04-03-image-manipulation-in-terminal/",
       "title": "Image manipulation in the terminal",
-      "description": "Introduction Lately I have been in need of cropping some images, the easy thing to do would have been to install Gimp and do it there, but that is not fun. I end up using ImageMagick to do some basic image manipulations. Since it took me few searches to find what I needed I decided to write a post in my blog so whenever I need it again, I know where I can find it easily. Crop Images The most impor"
+      "description": "Introduction Lately I have been in need of cropping some images, the easy thing to do would have been to install Gimp and do it there, but that is not fun. I end up using ImageMagick to do some basic image manipulations. Since it took me few searches to find what I needed I decided to write a post in my blog so whenever I need it again, I know where I can find it easily. Crop Images The most impor",
+      "date": null
     }
   ]
 }

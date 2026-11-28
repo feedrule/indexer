@@ -4,17 +4,20 @@
     {
       "link": "https://bay41.com/posts/liberating-pura-diffusers/",
       "title": "Your Smart Diffuser Is an ESP32 With the Cloud Keys in Plaintext",
-      "description": "Disclosure: English is my third language and I can’t write for shit in any of them. I used AI to help me write this post. The research, teardown, reverse-engineering, and every technical finding here are entirely mine. The AI helped me say it without making your eyes bleed. If you’d rather argue about prose than NFC antenna multiplexing, this isn’t the post for you. I bought into the Pura ecosyste"
+      "description": "Disclosure: English is my third language and I can’t write for shit in any of them. I used AI to help me write this post. The research, teardown, reverse-engineering, and every technical finding here are entirely mine. The AI helped me say it without making your eyes bleed. If you’d rather argue about prose than NFC antenna multiplexing, this isn’t the post for you. I bought into the Pura ecosyste",
+      "date": null
     },
     {
       "link": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
       "title": "I Reverse-Engineered the TiinyAI Pocket Lab From Marketing Photos. Here's Why Your $1,400 Is Probably Gone.",
-      "description": "Disclosure: English is my third language and I can’t write for shit in any of them. I used AI to help me write this post. The research, hardware identification, bandwidth math, OSINT, and conclusions are entirely mine. The AI helped me say it without making your eyes bleed. If you’d rather argue about prose than PCIe bottlenecks, this isn’t the post for you. Update (March 24): TiinyAI Responded. I"
+      "description": "Disclosure: English is my third language and I can’t write for shit in any of them. I used AI to help me write this post. The research, hardware identification, bandwidth math, OSINT, and conclusions are entirely mine. The AI helped me say it without making your eyes bleed. If you’d rather argue about prose than PCIe bottlenecks, this isn’t the post for you. Update (March 24): TiinyAI Responded. I",
+      "date": null
     },
     {
       "link": "https://bay41.com/posts/cubetto-teardown/",
       "title": "I Bought a $450 Coding Toy for My Kids. Then I Opened It Up.",
-      "description": "Update: 2026-03-28 Primo Toys support got back to me and sent replacement boards, which confirmed what the empty footprints were already hinting at: this is a different board revision with different silicon. The firmware situation was worse than expected. The code they publish doesn’t target this hardware at all, and the version that actually runs was sitting in a separate GitHub org like a bad se"
+      "description": "Update: 2026-03-28 Primo Toys support got back to me and sent replacement boards, which confirmed what the empty footprints were already hinting at: this is a different board revision with different silicon. The firmware situation was worse than expected. The code they publish doesn’t target this hardware at all, and the version that actually runs was sitting in a separate GitHub org like a bad se",
+      "date": null
     }
   ]
 }

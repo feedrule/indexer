@@ -4,17 +4,20 @@
     {
       "link": "https://pentest.party/posts/2026/building-vm-images-with-podman/",
       "title": "Building VM Images with Podman",
-      "description": "Are you annoyed by Packer and Ansible? In this blog post I will show how easily a Dockerfile can be turned into a bootable disk image. Most of the overhead of Packer and Ansible is suddenly gone. And ..."
+      "description": "Are you annoyed by Packer and Ansible? In this blog post I will show how easily a Dockerfile can be turned into a bootable disk image. Most of the overhead of Packer and Ansible is suddenly gone. And ...",
+      "date": null
     },
     {
       "link": "https://pentest.party/posts/2025/checkmk/",
       "title": "Lateral Movement via Checkmk",
-      "description": "During a pentest a few weeks ago, I had the opportunity to take a closer look at Checkmk. Checkmk is an agent-based monitoring system in which the server pulls monitoring data from its agents via TCP ..."
+      "description": "During a pentest a few weeks ago, I had the opportunity to take a closer look at Checkmk. Checkmk is an agent-based monitoring system in which the server pulls monitoring data from its agents via TCP ...",
+      "date": null
     },
     {
       "link": "https://pentest.party/posts/2025/tls-reverse-shells/",
       "title": "TLS Reverse Shells",
-      "description": "In a recent pentest I had code execution on an internal system, but was too lazy to deploy a full C2. Instead, I wanted to go for a classic reverse shell. Of course, the trusty old bash -i >& / ..."
+      "description": "In a recent pentest I had code execution on an internal system, but was too lazy to deploy a full C2. Instead, I wanted to go for a classic reverse shell. Of course, the trusty old bash -i >& / ...",
+      "date": null
     }
   ]
 }

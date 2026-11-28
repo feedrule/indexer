@@ -4,17 +4,20 @@
     {
       "link": "https://ka7oei.blogspot.com/2026/11/protecting-qmxs-finals-from-clock-stall.html",
       "title": "Protecting the QMX's finals from \"clock stall\" while improving RF drive and efficiency",
-      "description": "One of the easiest ways to drive an RF output transistor in a simple, low-power transmitter is by driving the final transistor - typically a MOSFET - directly with a logic gate. There are a number of logic devices out there that are capable of doing so, having the necessary speed, slew rate and current sinking/sourcing ability to effectively overcome the gate capacitance of the typical FET devices"
+      "description": "One of the easiest ways to drive an RF output transistor in a simple, low-power transmitter is by driving the final transistor - typically a MOSFET - directly with a logic gate. There are a number of logic devices out there that are capable of doing so, having the necessary speed, slew rate and current sinking/sourcing ability to effectively overcome the gate capacitance of the typical FET devices",
+      "date": null
     },
     {
       "link": "https://ka7oei.blogspot.com/2025/11/adding-alc-and-overdrive-protection-to.html",
       "title": "Adding an ALC and overdrive protection to the MFJ ALS-500M \"500 watt\" amplifier",
-      "description": "Figure 1: The ALS-500M front panel. Because this this unit is equipped with the 10 meter low-pass filter, the \"AUX\" position on the front panel switch is used to select 10/12 meters. Click on the image for a larger version. The MFJ ALS-500M is a (nominally) 500 watt amplifier that was produced by MFJ, capable of covering from 160 meters through 15 meters - and 12/10 meters if so-equipped. If you o"
+      "description": "Figure 1: The ALS-500M front panel. Because this this unit is equipped with the 10 meter low-pass filter, the \"AUX\" position on the front panel switch is used to select 10/12 meters. Click on the image for a larger version. The MFJ ALS-500M is a (nominally) 500 watt amplifier that was produced by MFJ, capable of covering from 160 meters through 15 meters - and 12/10 meters if so-equipped. If you o",
+      "date": null
     },
     {
       "link": "https://ka7oei.blogspot.com/2026/09/the-comcraft-ctr-144-fm-transceiver.html",
       "title": "The Comcraft CTR-144 FM transceiver - A \"multi-mode\" solid state 2 Meter transceiver from the early 1970s.",
-      "description": "Comcraft Logo Back in 1972 an ad appeared in the Ham magazines for something that probably seemed amazing at the time: A solid state transceiver that covered the entire 2 meter amateur band (144-148 MHz - plus adjacent MARS and CAP frequencies) and did not need crystals! This was the Comcraft CTR-144. This radio cost $389.95 according to an advertisement in the January, 1972 issue of 73 magazine a"
+      "description": "Comcraft Logo Back in 1972 an ad appeared in the Ham magazines for something that probably seemed amazing at the time: A solid state transceiver that covered the entire 2 meter amateur band (144-148 MHz - plus adjacent MARS and CAP frequencies) and did not need crystals! This was the Comcraft CTR-144. This radio cost $389.95 according to an advertisement in the January, 1972 issue of 73 magazine a",
+      "date": null
     }
   ]
 }

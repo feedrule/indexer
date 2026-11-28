@@ -4,17 +4,20 @@
     {
       "link": "https://www.joa-ebert.com/posts/2026-10-06-phobos-inference/",
       "title": "Filling in the blanks: Inference using Phobos",
-      "description": "My toy kernel language now runs LLMs, every kernel compiled at runtime from Phobos. On a seven-year-old RTX 2080 SUPER it decodes as fast as llama.cpp or faster on all but two models I tried, including a 35B mixture of experts. Most of the speed came from fighting memory, not writing kernels. And there’s a first release."
+      "description": "My toy kernel language now runs LLMs, every kernel compiled at runtime from Phobos. On a seven-year-old RTX 2080 SUPER it decodes as fast as llama.cpp or faster on all but two models I tried, including a 35B mixture of experts. Most of the speed came from fighting memory, not writing kernels. And there’s a first release.",
+      "date": null
     },
     {
       "link": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/",
       "title": "Phobos: A tiny scale-free kernel language",
-      "description": "I built a tiny GPU kernel language from scratch to learn the stack: hand-written PTX, then MLIR down to NVPTX, reaching 76% of cuBLAS SGEMM on an old RTX 2080 SUPER. First-class tiles then let the same kernel compile to a multi-node tile-DAG (a design I’ve only run on one machine)."
+      "description": "I built a tiny GPU kernel language from scratch to learn the stack: hand-written PTX, then MLIR down to NVPTX, reaching 76% of cuBLAS SGEMM on an old RTX 2080 SUPER. First-class tiles then let the same kernel compile to a multi-node tile-DAG (a design I’ve only run on one machine).",
+      "date": null
     },
     {
       "link": "https://www.joa-ebert.com/posts/2026-06-04-google-photos-20k/",
       "title": "Google Photos: In Search of the 20,000 Photos per Album Limit",
-      "description": "I hit Google Photos’ 20,000-photos-per-album limit and couldn’t let the question go: why 20,000? It’s at no bit boundary and no data structure degenerates there, so I went digging — through media identifiers, Spanner, secondary indices and mutation-per-commit budgets. My best bet is that the limit is a fossil of Spanner’s old 20,000-mutation cap that nobody has bumped since."
+      "description": "I hit Google Photos’ 20,000-photos-per-album limit and couldn’t let the question go: why 20,000? It’s at no bit boundary and no data structure degenerates there, so I went digging — through media identifiers, Spanner, secondary indices and mutation-per-commit budgets. My best bet is that the limit is a fossil of Spanner’s old 20,000-mutation cap that nobody has bumped since.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://cjd8.github.io/kernel/2026/10/21/7.3-kernel-stats.html",
       "title": "My dev statistics in Linux 7.3",
-      "description": "Another couple of weeks, another new kernel release. Not many interesting things from me, just some Kconfig cleanups, IIO patches and a syzbot fix in the NILFS filesystem. What is odd is that the number of Reviewed-by tags from me is higher than the number of patches…"
+      "description": "Another couple of weeks, another new kernel release. Not many interesting things from me, just some Kconfig cleanups, IIO patches and a syzbot fix in the NILFS filesystem. What is odd is that the number of Reviewed-by tags from me is higher than the number of patches…",
+      "date": null
     },
     {
       "link": "https://cjd8.github.io/kernel/kbeginner/2026/08/19/7.2-kernel-stats.html",
       "title": "My dev statistics in Linux 7.2",
-      "description": "Linus Torvalds released Linux 7.2 as expected on August 16th, which means a lot of my changes and reviews will hit a lot of machines around the world (and hopefully won’t cause any serious bugs!)."
+      "description": "Linus Torvalds released Linux 7.2 as expected on August 16th, which means a lot of my changes and reviews will hit a lot of machines around the world (and hopefully won’t cause any serious bugs!).",
+      "date": null
     },
     {
       "link": "https://cjd8.github.io/kernel/iio/2026/08/01/veml3328-work.html",
       "title": "New driver: Vishay VEML3328 RGBCIR Light Sensor",
-      "description": "In June, my new (and first ever) driver for the Vishay VEML3328 light sensor has been merged into mainline and will be released as part of Linux 7.2, which I’m genuinely grateful for. If you told me in January 2026 that I’ll have a driver merged in the kernel I wouldn’t believe you - I didn’t even know that kernel development happened on mailing lists! Anyhow - what is the VEML3328 and how does it"
+      "description": "In June, my new (and first ever) driver for the Vishay VEML3328 light sensor has been merged into mainline and will be released as part of Linux 7.2, which I’m genuinely grateful for. If you told me in January 2026 that I’ll have a driver merged in the kernel I wouldn’t believe you - I didn’t even know that kernel development happened on mailing lists! Anyhow - what is the VEML3328 and how does it",
+      "date": null
     }
   ]
 }

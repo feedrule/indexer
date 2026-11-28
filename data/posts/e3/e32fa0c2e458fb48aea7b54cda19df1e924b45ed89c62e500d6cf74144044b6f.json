@@ -4,17 +4,20 @@
     {
       "link": "http://pyjamacafe.com/posts/sunsetting-library-access/",
       "title": "Sunsetting - The Library Access",
-      "description": "The Library Access is a collection of courses focused on lowering the barrier to learning and mastering Embedded Systems software engineering. While everything is already available for free on the internet, it is scattered. With Library Access, our intention was to explain that information through a practical lens and offer it all organized under a single platform. We first started offering the Li"
+      "description": "The Library Access is a collection of courses focused on lowering the barrier to learning and mastering Embedded Systems software engineering. While everything is already available for free on the internet, it is scattered. With Library Access, our intention was to explain that information through a practical lens and offer it all organized under a single platform. We first started offering the Li",
+      "date": null
     },
     {
       "link": "http://pyjamacafe.com/posts/arm-tfa-day5-bl2-loading/",
       "title": "ARM TF-A Day 5: BL2 Deep Dive - Image Loading Framework",
-      "description": "Hey there, welcome back! In Day 4, BL2 successfully initialized the DRAM and the UART console. The platform is stable. Now, BL2 must execute its primary mission: loading the remaining firmware stages into memory and passing the baton to the Secure Monitor."
+      "description": "Hey there, welcome back! In Day 4, BL2 successfully initialized the DRAM and the UART console. The platform is stable. Now, BL2 must execute its primary mission: loading the remaining firmware stages into memory and passing the baton to the Secure Monitor.",
+      "date": null
     },
     {
       "link": "http://pyjamacafe.com/posts/arm-tfa-day4-bl2-platform/",
       "title": "ARM TF-A Day 4: BL2 Deep Dive - Platform Initialization",
-      "description": "With BL1 having done the heavy lifting of raw architectural setup, we have arrived at BL2 (Trusted Boot Firmware) . BL1 was executing out of ROM; BL2 is executing out of Secure SRAM. The environment is a little less hostile now, but we are still in the dark. It’s time for BL2 to turn on the lights, initialize the broader platform, and prepare the system memory. Let’s see how it’s done."
+      "description": "With BL1 having done the heavy lifting of raw architectural setup, we have arrived at BL2 (Trusted Boot Firmware) . BL1 was executing out of ROM; BL2 is executing out of Secure SRAM. The environment is a little less hostile now, but we are still in the dark. It’s time for BL2 to turn on the lights, initialize the broader platform, and prepare the system memory. Let’s see how it’s done.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://codebase.zone/techdoc/network/wireshark/display-filter/",
       "title": "display filter",
-      "description": "a list of display filters expressions for wireshark"
+      "description": "a list of display filters expressions for wireshark",
+      "date": null
     },
     {
       "link": "https://codebase.zone/techdoc/dev-tools/git/commit-message/",
       "title": "commit messages",
-      "description": "I’ve had discussions with teammates about Git commit messages once in a while and there are discussions about it on the web. This article summarizes the general approach, and when and how to deviate from it (if you feel like doing so)."
+      "description": "I’ve had discussions with teammates about Git commit messages once in a while and there are discussions about it on the web. This article summarizes the general approach, and when and how to deviate from it (if you feel like doing so).",
+      "date": null
     },
     {
       "link": "https://codebase.zone/techdoc/security/password-hashes/",
       "title": "password hashes",
-      "description": "the structure of password hashes A hash has three or four components delimited by special characters like $ :"
+      "description": "the structure of password hashes A hash has three or four components delimited by special characters like $ :",
+      "date": null
     }
   ]
 }

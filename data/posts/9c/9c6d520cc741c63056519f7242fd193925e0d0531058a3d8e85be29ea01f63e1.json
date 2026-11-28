@@ -4,17 +4,20 @@
     {
       "link": "https://blog.gbraad.nl/how-borg-came-about.html",
       "title": "How borg came about",
-      "description": "... and why you should never trust custom code in a privileged process This short article will explain how borg can exist as a non-invasive extension framework, and what could have been done to prevent it. But also shortly goes into the ethical side of the discussion; should you prevent this …"
+      "description": "... and why you should never trust custom code in a privileged process This short article will explain how borg can exist as a non-invasive extension framework, and what could have been done to prevent it. But also shortly goes into the ethical side of the discussion; should you prevent this …",
+      "date": null
     },
     {
       "link": "https://blog.gbraad.nl/betamax-machinefile-and-a-roll-of-ducttape.html",
       "title": "Betamax, Machinefile and a roll of Ducttape",
-      "description": "Choosing Convenience over the \"Best\" Standard In infrastructure-as-code, the best technical solution does not always win. Take machine provisioning. Fedora CoreOS's Ignition is engineered better than cloud-init. Ignition runs early in the initramfs before the root filesystem even mounts. It parses strict JSON and fails instantly if a configuration error …"
+      "description": "Choosing Convenience over the \"Best\" Standard In infrastructure-as-code, the best technical solution does not always win. Take machine provisioning. Fedora CoreOS's Ignition is engineered better than cloud-init. Ignition runs early in the initramfs before the root filesystem even mounts. It parses strict JSON and fails instantly if a configuration error …",
+      "date": null
     },
     {
       "link": "https://blog.gbraad.nl/patreon-busy-days.html",
       "title": "Patreon: Busy days ...",
-      "description": "... but not for the reasons I expected. Have not been able to make the video I wanted, as I forgot to realize I normally edited on Windows using OpenShot, which started to fail often. Tried DaVinci, but then realized after returning that machine that I was not able to use …"
+      "description": "... but not for the reasons I expected. Have not been able to make the video I wanted, as I forgot to realize I normally edited on Windows using OpenShot, which started to fail often. Tried DaVinci, but then realized after returning that machine that I was not able to use …",
+      "date": null
     }
   ]
 }

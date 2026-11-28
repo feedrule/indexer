@@ -4,17 +4,20 @@
     {
       "link": "https://jeffchen.dev/posts/The-Fastest-Indoor-Track-In-America",
       "title": "\"No true science\"—altitude, venue effects, and the fastest indoor track in America",
-      "description": "This summer, NCAA Division I voted to remove altitude and track-size conversions, which had been in place since 1981, claiming that \"there is no true science being applied.\" Division II is poised to follow in 2027–28, endorsing a letter from the president of the coaches' association claiming that \"the data behind altitude conversions are rife with inaccuracies, and were not developed based on scie"
+      "description": "This summer, NCAA Division I voted to remove altitude and track-size conversions, which had been in place since 1981, claiming that \"there is no true science being applied.\" Division II is poised to follow in 2027–28, endorsing a letter from the president of the coaches' association claiming that \"the data behind altitude conversions are rife with inaccuracies, and were not developed based on scie",
+      "date": null
     },
     {
       "link": "https://jeffchen.dev/posts/Instant-DB-Tanstack-Router-Loaders",
       "title": "InstantDB & Tanstack Router Loaders",
-      "description": "I've been playing with InstantDB and Tanstack Router recently. InstantDB exposes a hook useQuery to fetch data, with a fairly typical { data, error, isLoading } return value. Using useQuery directly in page components means that the component has to handle loading and error states directly, instead of using pendingComponent and errorComponent in the router. One naive approach is to use db.queryOnc"
+      "description": "I've been playing with InstantDB and Tanstack Router recently. InstantDB exposes a hook useQuery to fetch data, with a fairly typical { data, error, isLoading } return value. Using useQuery directly in page components means that the component has to handle loading and error states directly, instead of using pendingComponent and errorComponent in the router. One naive approach is to use db.queryOnc",
+      "date": null
     },
     {
       "link": "https://jeffchen.dev/posts/Volume-Is-All-You-Need-24-25-Recap",
       "title": "Volume Is All You Need: 2024-25 Season Recap and Technical Notes",
-      "description": "Despite turning 30 last November, I ran my fastest times ever this year: 6.78 in the 60m, 10.55 in the 100m, and 21.26 in the 200m. Indoors, I missed qualifying for USATF nationals by just 0.03s. Outdoors, these were my first PRs since 2022, and my first time cracking 1000 points on the WA scoring tables. The main change? I nearly doubled my sprint volume. From 2022-2024, I averaged about 300 mete"
+      "description": "Despite turning 30 last November, I ran my fastest times ever this year: 6.78 in the 60m, 10.55 in the 100m, and 21.26 in the 200m. Indoors, I missed qualifying for USATF nationals by just 0.03s. Outdoors, these were my first PRs since 2022, and my first time cracking 1000 points on the WA scoring tables. The main change? I nearly doubled my sprint volume. From 2022-2024, I averaged about 300 mete",
+      "date": null
     }
   ]
 }

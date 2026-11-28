@@ -4,17 +4,20 @@
     {
       "link": "https://emanueleferonato.com/2026/11/12/rebuilding-the-little-wizard-of-solomons-key-step-by-step-with-phaser-4-and-arcade-physics/",
       "title": "Rebuilding the little wizard of Solomon’s Key step by step with Phaser 4 and Arcade Physics",
-      "description": "Let's rebuild the gameplay of the little wizard from Tecmo’s Solomon’s Key in four playable Phaser 4 steps: a tile room, a wizard measured on the NES original, blocks he creates and destroys, and a key that opens the door. Full commented source code available for free."
+      "description": "Let's rebuild the gameplay of the little wizard from Tecmo’s Solomon’s Key in four playable Phaser 4 steps: a tile room, a wizard measured on the NES original, blocks he creates and destroys, and a key that opens the door. Full commented source code available for free.",
+      "date": null
     },
     {
       "link": "https://emanueleferonato.com/2026/11/06/porting-a-puzzlescript-game-to-the-commodore-64-heroes-of-sokoban-in-c-with-oscar64/",
       "title": "Porting a PuzzleScript game to the Commodore 64: Heroes of Sokoban in C with Oscar64",
-      "description": "Did you play Heroes of Sokoban? I ported Jonah Ostroff’s PuzzleScript game to the Commodore 64, writing every rule by hand in C with Oscar64 and checking it move by move against the official engine. Here is how the rules, the hires graphics, the two-color sprite heroes and the undo fit in a few KB, allowing room for customization."
+      "description": "Did you play Heroes of Sokoban? I ported Jonah Ostroff’s PuzzleScript game to the Commodore 64, writing every rule by hand in C with Oscar64 and checking it move by move against the official engine. Here is how the rules, the hires graphics, the two-color sprite heroes and the undo fit in a few KB, allowing room for customization.",
+      "date": null
     },
     {
       "link": "https://emanueleferonato.com/2026/10/26/build-a-html5-gravity-flipping-platformer-like-gravity-duck-with-phaser-4-and-typescript/",
       "title": "Build a HTML5 gravity-flipping platformer like “Gravity Duck” with Phaser 4 and TypeScript",
-      "description": "Rebuild the classic Flash game Gravity Duck in HTML5 with Phaser 4 and TypeScript, in eleven steps. You start from an array of numbers and end with a complete 40-level platformer with gravity flipping, gravity wells, spikes, moving blocks, crawlers, cannons, homing turrets and pistons."
+      "description": "Rebuild the classic Flash game Gravity Duck in HTML5 with Phaser 4 and TypeScript, in eleven steps. You start from an array of numbers and end with a complete 40-level platformer with gravity flipping, gravity wells, spikes, moving blocks, crawlers, cannons, homing turrets and pistons.",
+      "date": null
     }
   ]
 }

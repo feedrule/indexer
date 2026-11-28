@@ -4,17 +4,20 @@
     {
       "link": "https://haironthecircuits.net/wiki/jrl/CNRS-AIST%20Joint%20Robotics%20Laboratory.html",
       "title": "JRL photos I took",
-      "description": "if you want to see what i actually worked on, click here."
+      "description": "if you want to see what i actually worked on, click here.",
+      "date": null
     },
     {
       "link": "https://haironthecircuits.net/brain/warp-jax-1.html",
       "title": "Warp for the jax mind (and a bit of mujoco)",
-      "description": "Personal notes I took when learning to use NVIDIA's Warp."
+      "description": "Personal notes I took when learning to use NVIDIA's Warp.",
+      "date": null
     },
     {
       "link": "https://haironthecircuits.net/wiki/differentiable_policies/differentiable%20policies%20in%20mjx.html",
       "title": "differentiable policies in mjx",
-      "description": "reimplementing Schwarke et al. in MuJoCo MJX, so the environment, the physics and the training are one JAX program. first ANYmal, then a 29-dof humanoid."
+      "description": "reimplementing Schwarke et al. in MuJoCo MJX, so the environment, the physics and the training are one JAX program. first ANYmal, then a 29-dof humanoid.",
+      "date": null
     }
   ]
 }

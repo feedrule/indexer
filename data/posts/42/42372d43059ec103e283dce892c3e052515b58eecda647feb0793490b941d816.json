@@ -4,17 +4,20 @@
     {
       "link": "https://srinathshrestha.xyz/blogs/swapvram",
       "title": "Is it in Swap or RAM",
-      "description": "In the last piece I talked about how, upon a page fault, the kernel first asks two questions: does this address belong to you, and is this kind of access allowed? If both answers are yes, it grabs the page…"
+      "description": "In the last piece I talked about how, upon a page fault, the kernel first asks two questions: does this address belong to you, and is this kind of access allowed? If both answers are yes, it grabs the page…",
+      "date": null
     },
     {
       "link": "https://srinathshrestha.xyz/blogs/page-fault",
       "title": "The Fault That Isn't ?",
-      "description": "Last time: the MMU reads a PTE, and the valid bit is 0. The hardware cannot proceed, so it stops and hands the whole mess to the kernel. That's a page fault. (The TLB) The name ? A page fault…"
+      "description": "Last time: the MMU reads a PTE, and the valid bit is 0. The hardware cannot proceed, so it stops and hands the whole mess to the kernel. That's a page fault. (The TLB) The name ? A page fault…",
+      "date": null
     },
     {
       "link": "https://srinathshrestha.xyz/blogs/tlb",
       "title": "The TLB",
-      "description": "Last time we translated 0x03d4 with a table lookup and a concatenate. That has to run on every load and store, so it has to be nearly free. Except the table lives in memory. To read one byte you first…"
+      "description": "Last time we translated 0x03d4 with a table lookup and a concatenate. That has to run on every load and store, so it has to be nearly free. Except the table lives in memory. To read one byte you first…",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://vikramsg.github.io/open-source-in-the-age-of-ai/",
       "title": "Open Source in the age of AI",
-      "description": "If I go through the halls of X, I would probably come back with a very confused opinion on the state of open source today. On the one hand there are examples like opencode with tons and tons of open PRs with seemingly no moderation mechanism. On the other hand there is ghostty which has introduced a Vouch system meaning only approved contributors can submit PRs. But overall the feeling I get is th"
+      "description": "If I go through the halls of X, I would probably come back with a very confused opinion on the state of open source today. On the one hand there are examples like opencode with tons and tons of open PRs with seemingly no moderation mechanism. On the other hand there is ghostty which has introduced a Vouch system meaning only approved contributors can submit PRs. But overall the feeling I get is th",
+      "date": null
     },
     {
       "link": "https://vikramsg.github.io/an-introduction-to-react-next-from-a-backend-engineer/",
       "title": "A Backend Engineer’s Guide to Understanding React and Next.js",
-      "description": "I am not completely new to React. A couple of years ago I spent a few weeks struggling with frontend tools to create 49travel . I learnt a lot about tooling, especially Vercel, a little bit about React but I can hardly say I really understood it. Now it is part of my job, so I do want to understand it better. And what better way to understand it than by trying to write a blog post about it. A side"
+      "description": "I am not completely new to React. A couple of years ago I spent a few weeks struggling with frontend tools to create 49travel . I learnt a lot about tooling, especially Vercel, a little bit about React but I can hardly say I really understood it. Now it is part of my job, so I do want to understand it better. And what better way to understand it than by trying to write a blog post about it. A side",
+      "date": null
     },
     {
       "link": "https://vikramsg.github.io/introduction-to-formal-methods-part-2/",
       "title": "Introduction to Formal Methods (Part 2): From Spec to Code",
-      "description": "In Part 1, we talked about the “Why”. Why write a spec? Because English is ambiguous, and debugging design flaws in code is expensive. We looked at Quint and modeled a simple TCP Handshake. We verified that our logic was sound (no safety violations)."
+      "description": "In Part 1, we talked about the “Why”. Why write a spec? Because English is ambiguous, and debugging design flaws in code is expensive. We looked at Quint and modeled a simple TCP Handshake. We verified that our logic was sound (no safety violations).",
+      "date": null
     }
   ]
 }

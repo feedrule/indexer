@@ -4,17 +4,20 @@
     {
       "link": "https://mikaelronstrom.blogspot.com/2026/11/git-commits-on-mysql-tree-impact-by-ai.html",
       "title": "Git commits on MySQL tree, impact by AI",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://mikaelronstrom.blogspot.com/2026/11/releasing-iclaustron-api-new-rust-ndb.html",
       "title": "Releasing iClaustron API, a new Rust NDB API with a C and a Rust API towards RonDB 26.10.0",
-      "description": "We have released version 1.0.0 of the iClaustron API. The github tree is at https://github.com/logicalclocks/iclaustron Training material for Rust is available here Training material for C is available here Extensive training material on RonDB is available here Some takeaways: 1. MIT licensed 2. Receiver thread only routing messages => Scales to 3x more CPUs 3. Capable of doing 9M key lookups per"
+      "description": "We have released version 1.0.0 of the iClaustron API. The github tree is at https://github.com/logicalclocks/iclaustron Training material for Rust is available here Training material for C is available here Extensive training material on RonDB is available here Some takeaways: 1. MIT licensed 2. Receiver thread only routing messages => Scales to 3x more CPUs 3. Capable of doing 9M key lookups per",
+      "date": null
     },
     {
       "link": "https://mikaelronstrom.blogspot.com/2026/09/peakaio-contributes-support-of-8k-api.html",
       "title": "PeakAIO contributes support of 8k API nodes to RonDB 26.02.11",
-      "description": "PeakAIO develops pNFS Lattice, a new parallel file system using RonDB as a metadata server. To support larger clusters they needed more API nodes. RonDB 25.10 added support for 2039 API nodes, now 26.02.11 when released will support 8191 API nodes. Since originally RonDB supported 255 API nodes, changing to 8191 API nodes caused a number of memory segments to grow significantly. So part of the wor"
+      "description": "PeakAIO develops pNFS Lattice, a new parallel file system using RonDB as a metadata server. To support larger clusters they needed more API nodes. RonDB 25.10 added support for 2039 API nodes, now 26.02.11 when released will support 8191 API nodes. Since originally RonDB supported 255 API nodes, changing to 8191 API nodes caused a number of memory segments to grow significantly. So part of the wor",
+      "date": null
     }
   ]
 }

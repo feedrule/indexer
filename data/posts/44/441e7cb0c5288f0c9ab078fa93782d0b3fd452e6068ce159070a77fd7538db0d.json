@@ -4,17 +4,20 @@
     {
       "link": "https://terokarvinen.com/nvidia-driver-and-cuda-on-debian/",
       "title": "NVidia Driver and CUDA on Debian",
-      "description": "Install NVidia driver to play games. Install CUDA to run local AI and crack passwords. In just 4 commands. Debian Wiki now recommends the approach used here: install NVidia drivers from NVidia. Updated for Debian 13-Trixie. Install NVidia driver # ↑ Make sure you have non-free and contrib in your sources.list . Add NVidia repository, creates a new trust relationship. $ wget https://developer.downl"
+      "description": "Install NVidia driver to play games. Install CUDA to run local AI and crack passwords. In just 4 commands. Debian Wiki now recommends the approach used here: install NVidia drivers from NVidia. Updated for Debian 13-Trixie. Install NVidia driver # ↑ Make sure you have non-free and contrib in your sources.list . Add NVidia repository, creates a new trust relationship. $ wget https://developer.downl",
+      "date": null
     },
     {
       "link": "https://terokarvinen.com/nvidia-and-cuda-tricks-on-debian/",
       "title": "Tricks for NVidia and CUDA on Debian",
-      "description": "Moved some NVidia and CUDA tricks here, to keep the install instructions to basics. You need to install the drivers first. See NVidia Driver and CUDA on Debian . Coding with CUDA # ↑ You just installed CUDA. 'sudo apt-get install cuda-toolkit'. If you actually want to code with it, you might need additional packages. $ sudo apt-get install g++ freeglut3-dev build-essential libx11-dev libxmu-dev li"
+      "description": "Moved some NVidia and CUDA tricks here, to keep the install instructions to basics. You need to install the drivers first. See NVidia Driver and CUDA on Debian . Coding with CUDA # ↑ You just installed CUDA. 'sudo apt-get install cuda-toolkit'. If you actually want to code with it, you might need additional packages. $ sudo apt-get install g++ freeglut3-dev build-essential libx11-dev libxmu-dev li",
+      "date": null
     },
     {
       "link": "https://terokarvinen.com/palvelinten-hallinta/",
       "title": "Palvelinten Hallinta",
-      "description": "Control 10 , 100 , 1000 many computers. Or control 2071 computers, like Jussi did on a earlier course. Or handle 7 different operating systems and OS versions with a single master, like Matias. Best instance got 5.0 / 5 feedback - all respondents gave the best grade 5. Course, both instances Course name and code Palvelinten hallinta ICI001AS3A - 3015 and -3017 Timing 2026 period 2, late autumn , w"
+      "description": "Control 10 , 100 , 1000 many computers. Or control 2071 computers, like Jussi did on a earlier course. Or handle 7 different operating systems and OS versions with a single master, like Matias. Best instance got 5.0 / 5 feedback - all respondents gave the best grade 5. Course, both instances Course name and code Palvelinten hallinta ICI001AS3A - 3015 and -3017 Timing 2026 period 2, late autumn , w",
+      "date": null
     }
   ]
 }

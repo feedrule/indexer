@@ -4,17 +4,20 @@
     {
       "link": "https://www.otoh.org/post/2026/10/2026-november-us-election-guide/",
       "title": "2026 November US Election Guide",
-      "description": "Overview and Research This guide is ordered from most general to most specific. I’ll start with Federal and work my way down to County so you can stop reading once it’s no longer relevant to you. I vote in Washington State. Yes, I’ve read most of the details of the propositions and would recommend that you do too as the summaries often hide the important aspects of any given proposition."
+      "description": "Overview and Research This guide is ordered from most general to most specific. I’ll start with Federal and work my way down to County so you can stop reading once it’s no longer relevant to you. I vote in Washington State. Yes, I’ve read most of the details of the propositions and would recommend that you do too as the summaries often hide the important aspects of any given proposition.",
+      "date": null
     },
     {
       "link": "https://www.otoh.org/post/2026/10/upgrade-freebsd-14.5-to-15.1/",
       "title": "Upgrade FreeBSD 14.5 to 15.1",
-      "description": "With the long list of security advisories posted this week, it seemed sensible to upgrade over the weekend. I’d previously updated my 14.5 system to use pkgbase so I was expecting a fairly straightforward upgrade. Unfortunately, there were a few issues to trip over along the way. The best way to upgrade, is using bectl . This gives you the ability to do the upgrade in an easy to backout manner. It"
+      "description": "With the long list of security advisories posted this week, it seemed sensible to upgrade over the weekend. I’d previously updated my 14.5 system to use pkgbase so I was expecting a fairly straightforward upgrade. Unfortunately, there were a few issues to trip over along the way. The best way to upgrade, is using bectl . This gives you the ability to do the upgrade in an easy to backout manner. It",
+      "date": null
     },
     {
       "link": "https://www.otoh.org/post/2026/08/setting-up-kanidm-on-freebsd/",
       "title": "Setting Up Kanidm on FreeBSD",
-      "description": "While at PyCon AU 2026 I ran into one of the Kanidm core contributors (thanks Firstyear!) and queried about the availability of Kanidm Server on FreeBSD. Turns out, that the port got completed while I wasn’t looking! Many thanks to the Kanidm team, I’ve been looking forward to spinning this up on FreeBSD for a while. Install is the usual straightforward pkg install -y kanidm-client kanidm-server I"
+      "description": "While at PyCon AU 2026 I ran into one of the Kanidm core contributors (thanks Firstyear!) and queried about the availability of Kanidm Server on FreeBSD. Turns out, that the port got completed while I wasn’t looking! Many thanks to the Kanidm team, I’ve been looking forward to spinning this up on FreeBSD for a while. Install is the usual straightforward pkg install -y kanidm-client kanidm-server I",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://komar.blog/posts/tid-treesitter-parsers-in-neovim/",
       "title": "Today I Declared: treesitter parsers in neovim",
-      "description": "I don't install and uninstall things. I declare things installed. My treesitter parsers in neovim should be no different!"
+      "description": "I don't install and uninstall things. I declare things installed. My treesitter parsers in neovim should be no different!",
+      "date": null
     },
     {
       "link": "https://komar.blog/projects/cargo-lock-fetch/",
       "title": "cargo lock-fetch",
-      "description": "cargo-lock-fetch is a cargo plugin I wrote to solve a build issue at https://www.adbglobal.com/ which would otherwise require manually specifying multiple source files from a rust microservice to be copied into a docker layer for dependency prefetch. Prefetching dependencies to a docker layer is crucial in reducing build times in docker-based environments. It allows the service to be rebuilt witho"
+      "description": "cargo-lock-fetch is a cargo plugin I wrote to solve a build issue at https://www.adbglobal.com/ which would otherwise require manually specifying multiple source files from a rust microservice to be copied into a docker layer for dependency prefetch. Prefetching dependencies to a docker layer is crucial in reducing build times in docker-based environments. It allows the service to be rebuilt witho",
+      "date": null
     },
     {
       "link": "https://komar.blog/posts/keep-the-git-conflict-side-under-cursor-in-neo-vim/",
       "title": "Keep the git conflict \"side\" under cursor in (neo)vim",
-      "description": "tl;dr mc?^\\([=><\\|]\\)\\1\\{6\\}<CR>d?^<<<<<<<?0<CR>/^\\([=><\\|]\\)\\1\\{6\\}<CR>d/^>>>>>>>/0<CR>`c"
+      "description": "tl;dr mc?^\\([=><\\|]\\)\\1\\{6\\}<CR>d?^<<<<<<<?0<CR>/^\\([=><\\|]\\)\\1\\{6\\}<CR>d/^>>>>>>>/0<CR>`c",
+      "date": null
     }
   ]
 }

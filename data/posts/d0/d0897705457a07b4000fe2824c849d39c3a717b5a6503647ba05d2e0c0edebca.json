@@ -4,17 +4,20 @@
     {
       "link": "https://kaimac.org/w/blog/update",
       "title": "blog/Update and some links",
-      "description": "Just a wee update on a few things. I've been playing around with NetBSD recently and that led me to getting it running on the BeagleBoard I found at the EMF swap shop this year. That board is now the latest bit of e-waste that this site is being hosted on. The ESP32 badge served me well, but it's time for a slight upgrade. I'm still very much interested in ideas around permacomputing and simple, l"
+      "description": "Just a wee update on a few things. I've been playing around with NetBSD recently and that led me to getting it running on the BeagleBoard I found at the EMF swap shop this year. That board is now the latest bit of e-waste that this site is being hosted on. The ESP32 badge served me well, but it's time for a slight upgrade. I'm still very much interested in ideas around permacomputing and simple, l",
+      "date": null
     },
     {
       "link": "https://kaimac.org/w/site/reader",
       "title": "site/A tiny feed reader",
-      "description": "I've got a very minimal RSS/Atom feed reader running on the badge . It's about 150 lines of micropython, excluding this tiny XML tokeniser called xmltok . It's not even a parser, but feeds are simple enough that it works fine. The feed list is just a text file on the server with one URL per line, that I can already edit in the browser. I was inspired by the minimalism of vore.website which I was p"
+      "description": "I've got a very minimal RSS/Atom feed reader running on the badge . It's about 150 lines of micropython, excluding this tiny XML tokeniser called xmltok . It's not even a parser, but feeds are simple enough that it works fine. The feed list is just a text file on the server with one URL per line, that I can already edit in the browser. I was inspired by the minimalism of vore.website which I was p",
+      "date": null
     },
     {
       "link": "https://kaimac.org/w/weaver",
       "title": "The Weaver web browser",
-      "description": "I think the world needs more web browsers, so I'm making one. It's an experiment - I want to see if you can take a really simple approach to rendering pages. To set your expectations, this is a browser for the \"document-based\" web - no javascript, and so no web apps. Latest screenshot from codeberg The idea We all know the web is in a bit of a state right now. As it has morphed into a web app deli"
+      "description": "I think the world needs more web browsers, so I'm making one. It's an experiment - I want to see if you can take a really simple approach to rendering pages. To set your expectations, this is a browser for the \"document-based\" web - no javascript, and so no web apps. Latest screenshot from codeberg The idea We all know the web is in a bit of a state right now. As it has morphed into a web app deli",
+      "date": null
     }
   ]
 }

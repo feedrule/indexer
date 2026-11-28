@@ -4,17 +4,20 @@
     {
       "link": "https://gctaylor.com/posts/squarespace-to-astro-script/",
       "title": "Squarespace to Astro script",
-      "description": "A quick and dirty script to convert Squarespace blog exports to Astro markdown files."
+      "description": "A quick and dirty script to convert Squarespace blog exports to Astro markdown files.",
+      "date": null
     },
     {
       "link": "https://gctaylor.com/posts/my-home-lab/",
       "title": "My home lab",
-      "description": "A look at my ratty home lab."
+      "description": "A look at my ratty home lab.",
+      "date": null
     },
     {
       "link": "https://gctaylor.com/posts/recordings-slides-from-kubernetes-at-reddit-tales-from-production-at-kubecon-na-2019/",
       "title": "Recordings + Slides from \"Kubernetes at Reddit: Tales from Production\" at KubeCon NA 2019",
-      "description": "Recordings from my presentation at KubeCon 2019, covering Reddit's trials and tribulations with Kubernetes in production."
+      "description": "Recordings from my presentation at KubeCon 2019, covering Reddit's trials and tribulations with Kubernetes in production.",
+      "date": null
     }
   ]
 }

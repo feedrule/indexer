@@ -4,17 +4,20 @@
     {
       "link": "https://muhammadraza.me/2026/building-agent-sandbox-python/",
       "title": "Building an Agent Sandbox from Scratch in Python",
-      "description": "Two years ago I built a container runtime in Python . That post ended with a list of what the runtime lacked: no user namespaces, no seccomp, no capability dropping. Back then the list was a footnote. Now coding agents run shell commands on my laptop, and the list is the whole job. This post finishes that list. I add six layers to the runtime, one at a time. After each layer I run the same set of"
+      "description": "Two years ago I built a container runtime in Python . That post ended with a list of what the runtime lacked: no user namespaces, no seccomp, no capability dropping. Back then the list was a footnote. Now coding agents run shell commands on my laptop, and the list is the whole job. This post finishes that list. I add six layers to the runtime, one at a time. After each layer I run the same set of",
+      "date": null
     },
     {
       "link": "https://muhammadraza.me/2026/stop-motion-explainer-claude-opus/",
       "title": "How Claude Opus 5.5 Made a Stop-Motion Docker Explainer in 38 Minutes",
-      "description": "Someone on Reddit shared a prompt for making animated explainer videos with Claude. I tried it with a topic I know well, Docker containers. I pasted it into Claude Code, put in an API key for the voice and music models, and left my desk. When I came back, there was a finished 57-second film. Claude Opus 5.5 had written the script, drawn every frame in code, directed the narration, edited the music"
+      "description": "Someone on Reddit shared a prompt for making animated explainer videos with Claude. I tried it with a topic I know well, Docker containers. I pasted it into Claude Code, put in an API key for the voice and music models, and left my desk. When I came back, there was a finished 57-second film. Claude Opus 5.5 had written the script, drawn every frame in code, directed the narration, edited the music",
+      "date": null
     },
     {
       "link": "https://muhammadraza.me/2026/what-happens-inside-an-llm-server/",
       "title": "What Happens Inside an LLM Server When 10 People Send a Prompt",
-      "description": "I have been running models on my own machine for a while. Then I gave a few friends the URL, and a question came up that I could not answer: what does the server do when all of them press send at once? My guess was simple. One person gets about 60 tokens per second. Ten people split that, so each one gets 6. That guess is wrong. These are my notes on why. Short answer: A GPU running an LLM spends"
+      "description": "I have been running models on my own machine for a while. Then I gave a few friends the URL, and a question came up that I could not answer: what does the server do when all of them press send at once? My guess was simple. One person gets about 60 tokens per second. Ten people split that, so each one gets 6. That guess is wrong. These are my notes on why. Short answer: A GPU running an LLM spends",
+      "date": null
     }
   ]
 }

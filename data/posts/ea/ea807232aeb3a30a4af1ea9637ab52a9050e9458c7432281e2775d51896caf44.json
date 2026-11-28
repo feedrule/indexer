@@ -4,17 +4,20 @@
     {
       "link": "https://http503.gvatas.in/2026/04/21/fixing-webkit-unified-source-build-failures/",
       "title": "Fixing WebKit Unified Source Build Failures",
-      "description": "TL;DR: Some times, usually when you are not using the default build flags you can easily fall in the situation were you got fails to link the WebKit libs with undefined reference errors caused by missing #include directives in .cpp files. This post describes how I manage the situation to identify the missing headers in […]"
+      "description": "TL;DR: Some times, usually when you are not using the default build flags you can easily fall in the situation were you got fails to link the WebKit libs with undefined reference errors caused by missing #include directives in .cpp files. This post describes how I manage the situation to identify the missing headers in […]",
+      "date": null
     },
     {
       "link": "https://http503.gvatas.in/2025/12/16/verifying-arm-vs-thumb2-instruction-sets-in-elf-binaries/",
       "title": "Verifying ARM vs THUMB2 Instruction Sets in ELF Binaries",
-      "description": "When working with embedded Linux systems, in ARM-based boards, sometimes you need to determine whether a binary was compiled with ARM or THUMB2 instruction sets. This is a quick reference guide for checking this without relying on heavy tools like readelf or objdump. The Core Concept ARM uses a clever trick to distinguish between ARM […]"
+      "description": "When working with embedded Linux systems, in ARM-based boards, sometimes you need to determine whether a binary was compiled with ARM or THUMB2 instruction sets. This is a quick reference guide for checking this without relying on heavy tools like readelf or objdump. The Core Concept ARM uses a clever trick to distinguish between ARM […]",
+      "date": null
     },
     {
       "link": "https://http503.gvatas.in/2024/12/06/building-a-rack-for-embedded-boards-management-part-iii-poe-management/",
       "title": "Building a Rack for Embedded Boards Management, Part III: PoE Management",
-      "description": "In previous posts, I detailed the construction of a rack for managing embedded boards: Building a Sustainable Rack for Embedded Boards Management Building a Rack for Embedded Boards Management. Part II. A critical aspect of this setup is the ability to remotely control the power cycling of the boards. To achieve this, I utilized the […]"
+      "description": "In previous posts, I detailed the construction of a rack for managing embedded boards: Building a Sustainable Rack for Embedded Boards Management Building a Rack for Embedded Boards Management. Part II. A critical aspect of this setup is the ability to remotely control the power cycling of the boards. To achieve this, I utilized the […]",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://nhaehnle.blogspot.com/2026/05/ai-and-me.html",
       "title": "AI and Me",
-      "description": "Lots is being written about AI these days, specifically LLM-based AI. I am not going to add anything novel here, but I thought it'd be interesting to document some of what I think about these tools and how I use them today so that I will be able to look back and compare in the future. LLMs and the systems built around them are clearly impressive. They can also be really dumb in some ways; what som"
+      "description": "Lots is being written about AI these days, specifically LLM-based AI. I am not going to add anything novel here, but I thought it'd be interesting to document some of what I think about these tools and how I use them today so that I will be able to look back and compare in the future. LLMs and the systems built around them are clearly impressive. They can also be really dumb in some ways; what som",
+      "date": null
     },
     {
       "link": "https://nhaehnle.blogspot.com/2025/11/an-alias-analysis-shower-thought.html",
       "title": "An alias analysis shower thought",
-      "description": "Alias analysis allows a compiler to understand whether two memory accesses may conflict in the sense that they both touch the same memory location and at least one of them is a write. This in turn enables certain compiler optimizations. For example, memory accesses that do not conflict can be rearranged as part of instruction scheduling. Using this freedom where it exists is especially important i"
+      "description": "Alias analysis allows a compiler to understand whether two memory accesses may conflict in the sense that they both touch the same memory location and at least one of them is a write. This in turn enables certain compiler optimizations. For example, memory accesses that do not conflict can be rearranged as part of instruction scheduling. Using this freedom where it exists is especially important i",
+      "date": null
     },
     {
       "link": "https://nhaehnle.blogspot.com/2024/05/a-new-kind-of-git-history.html",
       "title": "A new kind of git history",
-      "description": "Discussions about rebase vs. merge are familiar territory for anybody with an interest in version control in general and git in particular. I want to finally give a more permanent home to an idea that I have expressed in the past and that I've occasionally seen others hint at in those discussions as well. There are multiple camps in these discussions that have slightly different ideas about how an"
+      "description": "Discussions about rebase vs. merge are familiar territory for anybody with an interest in version control in general and git in particular. I want to finally give a more permanent home to an idea that I have expressed in the past and that I've occasionally seen others hint at in those discussions as well. There are multiple camps in these discussions that have slightly different ideas about how an",
+      "date": null
     }
   ]
 }

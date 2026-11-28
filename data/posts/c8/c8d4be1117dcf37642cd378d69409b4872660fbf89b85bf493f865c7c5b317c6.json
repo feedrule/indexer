@@ -4,17 +4,20 @@
     {
       "link": "https://nickvahalik.com/2026-01-10-debugging-csp-headers",
       "title": "Debugging Oauth shenanigans: the curse of the production headers",
-      "description": "Last week, I had the privilege of dealing with a particularly fun problem where our Oauth flow for our new application wasn’t working correctly."
+      "description": "Last week, I had the privilege of dealing with a particularly fun problem where our Oauth flow for our new application wasn’t working correctly.",
+      "date": null
     },
     {
       "link": "https://nickvahalik.com/",
       "title": "The Online Blog of Nick Vahalik",
-      "description": "Most of the old content is gone. If you’re interested, there is always the Wayback."
+      "description": "Most of the old content is gone. If you’re interested, there is always the Wayback.",
+      "date": null
     },
     {
       "link": "https://nickvahalik.com/benchmarks-dont-tell-the-whole-story",
       "title": "Benchmarks don't tell the whole story",
-      "description": "Phalcon & Laravel (continued) I have (slowly) continued working on my Laravel Phalcon adapter."
+      "description": "Phalcon & Laravel (continued) I have (slowly) continued working on my Laravel Phalcon adapter.",
+      "date": null
     }
   ]
 }

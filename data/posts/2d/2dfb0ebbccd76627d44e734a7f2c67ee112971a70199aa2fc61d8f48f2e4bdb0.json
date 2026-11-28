@@ -4,17 +4,20 @@
     {
       "link": "https://hafiz.dev/blog/laravel-health-check-beyond-up",
       "title": "What /up Cannot See: The Daily Health Check Behind My Laravel App, and the 3 Bugs It Had First",
-      "description": "A root-owned log file made my queued jobs fail for a day while the homepage answered 200. The daily check I built for it, and its three bugs."
+      "description": "A root-owned log file made my queued jobs fail for a day while the homepage answered 200. The daily check I built for it, and its three bugs.",
+      "date": null
     },
     {
       "link": "https://hafiz.dev/blog/laravel-migrationfailed-half-applied-migrations",
       "title": "I Broke One Laravel Migration on MySQL, PostgreSQL and SQLite. What MigrationFailed in 13.42 Changes",
-      "description": "The same failing migration on MySQL, PostgreSQL and SQLite, and what each one left behind. Plus what the new MigrationFailed event can tell you."
+      "description": "The same failing migration on MySQL, PostgreSQL and SQLite, and what each one left behind. Plus what the new MigrationFailed event can tell you.",
+      "date": null
     },
     {
       "link": "https://hafiz.dev/blog/laravel-slow-job-alerts",
       "title": "Slow Job Alerts in Laravel 13.40: What whenJobRunsLongerThan Catches and What It Misses",
-      "description": "I ran Laravel 13.40's new slow job alerts against fast, slow, failed, released and timed out jobs. One of them never triggered an alert."
+      "description": "I ran Laravel 13.40's new slow job alerts against fast, slow, failed, released and timed out jobs. One of them never triggered an alert.",
+      "date": null
     }
   ]
 }

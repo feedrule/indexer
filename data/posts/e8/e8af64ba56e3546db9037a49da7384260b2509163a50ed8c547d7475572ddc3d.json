@@ -4,17 +4,20 @@
     {
       "link": "https://cri.dev/posts/2026-06-24-nodejs-syntax-checker-bug-private-fields-shadowing/?utm_medium=rss&utm_source=rss&utm_campaign=rss",
       "title": "node.js syntax checker bug about shadowing in private fields",
-      "description": "node.js syntax checker bug about shadowing in private fields 2026-06-24 · Chris Finally understood an issue I was encountering, that in my opinion is a bug and super confusing and deceptive. SyntaxError: Private field must be declared in an enclosing class The gist is the following: let's say you declared a class and have a private field ( #somePrivateMethod ) there. class Example { #somePrivateMe"
+      "description": "node.js syntax checker bug about shadowing in private fields 2026-06-24 · Chris Finally understood an issue I was encountering, that in my opinion is a bug and super confusing and deceptive. SyntaxError: Private field must be declared in an enclosing class The gist is the following: let's say you declared a class and have a private field ( #somePrivateMethod ) there. class Example { #somePrivateMe",
+      "date": null
     },
     {
       "link": "https://cri.dev/posts/2026-06-13-ai-hype/?utm_medium=rss&utm_source=rss&utm_campaign=rss",
       "title": "AI hype",
-      "description": "AI hype 2026-06-13 · Chris Loosely inspired by Prime's video about I Think They Are Lying To You and more personal opinions that were occupying my mind for last few months. Purely personal observations, do not take anything seriously, read it with a smile/smirk on your face. It's a hastily written down stream of consciousness and thoughts (you know, like the next-token prediction in response.choic"
+      "description": "AI hype 2026-06-13 · Chris Loosely inspired by Prime's video about I Think They Are Lying To You and more personal opinions that were occupying my mind for last few months. Purely personal observations, do not take anything seriously, read it with a smile/smirk on your face. It's a hastily written down stream of consciousness and thoughts (you know, like the next-token prediction in response.choic",
+      "date": null
     },
     {
       "link": "https://cri.dev/posts/2025-08-20-how-to-fix-node-js-mock-timers-enable-setinterval-tests-hanging-pending/?utm_medium=rss&utm_source=rss&utm_campaign=rss",
       "title": "How to fix hanging tests in Node.js",
-      "description": "How to fix hanging tests in Node.js 2025-08-20 · Chris Some context: you might want to test your node.js application in an integration test and your code might have a setInterval call to repeatedly perform an action. In this case I found that my tests would hang and timeout after some time. The solution in my case was to include the following line in my test suite (note: I'm using node:test built-"
+      "description": "How to fix hanging tests in Node.js 2025-08-20 · Chris Some context: you might want to test your node.js application in an integration test and your code might have a setInterval call to repeatedly perform an action. In this case I found that my tests would hang and timeout after some time. The solution in my case was to include the following line in my test suite (note: I'm using node:test built-",
+      "date": null
     }
   ]
 }

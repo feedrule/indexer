@@ -4,17 +4,20 @@
     {
       "link": "https://cloudalbania.com/2026-10-linux-performance-troubleshooting/",
       "title": "Linux performance troubleshooting: a quick checklist",
-      "description": "Why this list A server is slow, someone is waiting, and you have just logged in. It is tempting to start guessing. What I do instead is run a fixed set of commands that, in about a minute, tells me whether the problem is CPU, memory, disk or network, and where to look next. This is the checklist I use, written for the junior and medior sysadmins I work with: what each command is for and the one or"
+      "description": "Why this list A server is slow, someone is waiting, and you have just logged in. It is tempting to start guessing. What I do instead is run a fixed set of commands that, in about a minute, tells me whether the problem is CPU, memory, disk or network, and where to look next. This is the checklist I use, written for the junior and medior sysadmins I work with: what each command is for and the one or",
+      "date": null
     },
     {
       "link": "https://cloudalbania.com/2026-10-technitium-dns-deb-rpm-packages/",
       "title": "Technitium DNS Server as deb and rpm packages (amd64 and arm64)",
-      "description": "Why Technitium DNS Server is my DNS server of choice at home. The official way to install it on Linux is a shell script that downloads the .NET runtime and a tarball, creates the user and writes the systemd unit. It works well, but it sits outside the package manager: apt and dnf know nothing about it, so there is no clean uninstall, no dependency tracking and no inventory of what is installed whe"
+      "description": "Why Technitium DNS Server is my DNS server of choice at home. The official way to install it on Linux is a shell script that downloads the .NET runtime and a tarball, creates the user and writes the systemd unit. It works well, but it sits outside the package manager: apt and dnf know nothing about it, so there is no clean uninstall, no dependency tracking and no inventory of what is installed whe",
+      "date": null
     },
     {
       "link": "https://cloudalbania.com/2026-10-claude-code-cheap-models/",
       "title": "Making a $20 Claude Code plan last: Haiku subagents and a DeepSeek side tool",
-      "description": "The problem I use Claude Code on the $20 per month plan. For the kind of work I do with it (Kubernetes manifests, CI pipelines, a FastAPI backend, docs) it is very good, and that is exactly the problem: I use it a lot, and the quota runs out long before the day does. Then I sit and wait for the usage window to reset. When I looked at where the usage went, most of it was not the hard part."
+      "description": "The problem I use Claude Code on the $20 per month plan. For the kind of work I do with it (Kubernetes manifests, CI pipelines, a FastAPI backend, docs) it is very good, and that is exactly the problem: I use it a lot, and the quota runs out long before the day does. Then I sit and wait for the usage window to reset. When I looked at where the usage went, most of it was not the hard part.",
+      "date": null
     }
   ]
 }

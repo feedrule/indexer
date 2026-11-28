@@ -4,17 +4,20 @@
     {
       "link": "https://teiolass.gitlab.io/posts/metaprogramming_cards_2/",
       "title": "Examples of Metaprogramming - Part 2",
-      "description": "This is the second part of a series of post. The previous and first post was Examples of Metaprogramming - Part 1. I wrote about a “card editor”, where I had multiple types of cards and i wanted to manipulated them sometimes uniformely (for example when I want to spawn a new card or move it) sometimes in a way specific to the type (for example when deciding what to render)."
+      "description": "This is the second part of a series of post. The previous and first post was Examples of Metaprogramming - Part 1. I wrote about a “card editor”, where I had multiple types of cards and i wanted to manipulated them sometimes uniformely (for example when I want to spawn a new card or move it) sometimes in a way specific to the type (for example when deciding what to render).",
+      "date": null
     },
     {
       "link": "https://teiolass.gitlab.io/posts/metaprogramming_cards_1/",
       "title": "Examples of Metaprogramming - Part 1",
-      "description": "I’m developing a puzzle/strategy game using a custom engine, a project I work on for fun in my free time. For this, I’m using Jai, the programming language created by Jonathan Blow. It’s been a great opportunity to explore Jai’s features, and I particularly appreciate its lack of bloat and fast compile times. Its metaprogramming system is the most comprehensive I’ve ever used – and likely the most"
+      "description": "I’m developing a puzzle/strategy game using a custom engine, a project I work on for fun in my free time. For this, I’m using Jai, the programming language created by Jonathan Blow. It’s been a great opportunity to explore Jai’s features, and I particularly appreciate its lack of bloat and fast compile times. Its metaprogramming system is the most comprehensive I’ve ever used – and likely the most",
+      "date": null
     },
     {
       "link": "https://teiolass.gitlab.io/posts/zig_stack/",
       "title": "Run Functions in Another Stack with Zig",
-      "description": "This blogpost is the result of an hour of funny mess-around that took place a few days ago just before starting the work day. I am no way an expert in this field, this is just couple of things that I found working when thinking about the concept of “why can’t I change the location of the stack in a program?”. I hope this post can encourage some people to experiment with low level code, not for any"
+      "description": "This blogpost is the result of an hour of funny mess-around that took place a few days ago just before starting the work day. I am no way an expert in this field, this is just couple of things that I found working when thinking about the concept of “why can’t I change the location of the stack in a program?”. I hope this post can encourage some people to experiment with low level code, not for any",
+      "date": null
     }
   ]
 }

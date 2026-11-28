@@ -4,17 +4,20 @@
     {
       "link": "https://github.com/ohler55/slip",
       "title": "SLIP is public",
-      "description": "After years in development SLIP is now public. It is an almost complete Common LISP implementation written in Go. Why is that interesting, SLIP supports Go plugins which allow it to be extended with Go code."
+      "description": "After years in development SLIP is now public. It is an almost complete Common LISP implementation written in Go. Why is that interesting, SLIP supports Go plugins which allow it to be extended with Go code.",
+      "date": null
     },
     {
       "link": "https://github.com/ohler55/oj/blob/master/pages/Parser.md",
       "title": "How Oj Just Got Faster",
-      "description": "The original Oj parser is a performant parser that supports several modes. As of this writing Oj is almost 10 years old. A dinosaur by coding standards. It was time for an upgrade. Oj::Parser is that upgrade. It's faster and has a cleaner option API."
+      "description": "The original Oj parser is a performant parser that supports several modes. As of this writing Oj is almost 10 years old. A dinosaur by coding standards. It was time for an upgrade. Oj::Parser is that upgrade. It's faster and has a cleaner option API.",
+      "date": null
     },
     {
       "link": "https://github.com/ohler55/ojg",
       "title": "OjG v1.12.0 Release",
-      "description": "MongoDB output can now be parsed by the SEN parser. Just pipe output from mongosh to the oj application with the -mongo option."
+      "description": "MongoDB output can now be parsed by the SEN parser. Just pipe output from mongosh to the oj application with the -mongo option.",
+      "date": null
     }
   ]
 }

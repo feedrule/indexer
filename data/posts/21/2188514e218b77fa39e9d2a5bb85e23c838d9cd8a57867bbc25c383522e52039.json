@@ -4,17 +4,20 @@
     {
       "link": "https://blog.liw.fi/posts/2026/minidebconf/",
       "title": "Debian Cambridge mini-conference 2026",
-      "description": "I participated in the 2026 Mini-debconf in Cambridge a couple of weeks ago. It's a time and place where I get to meet many of my British friends. This year I gave three full talks: Ambient CI: building untrusted software Early days of Linux Obnam backup software, tranquillo The talks were recorded. I repeated the \"early days of Linux\" talk a couple of days later at an event in London co-organized"
+      "description": "I participated in the 2026 Mini-debconf in Cambridge a couple of weeks ago. It's a time and place where I get to meet many of my British friends. This year I gave three full talks: Ambient CI: building untrusted software Early days of Linux Obnam backup software, tranquillo The talks were recorded. I repeated the \"early days of Linux\" talk a couple of days later at an event in London co-organized",
+      "date": null
     },
     {
       "link": "https://blog.liw.fi/posts/2026/radicle-status-quo-10/",
       "title": "This month in Radicle CI, October 2026",
-      "description": "This is a monthly newsletter about the current state of Radicle CI, what has happened recently, and near future plans. Current status Radicle CI is in production use. There are several CI nodes, and Lars runs a public one for open source projects at callisto.liw.fi . It is now open to all open source projects, not just Rust projects. CI node leaderboard (Unfortunately, the node that collects CI ru"
+      "description": "This is a monthly newsletter about the current state of Radicle CI, what has happened recently, and near future plans. Current status Radicle CI is in production use. There are several CI nodes, and Lars runs a public one for open source projects at callisto.liw.fi . It is now open to all open source projects, not just Rust projects. CI node leaderboard (Unfortunately, the node that collects CI ru",
+      "date": null
     },
     {
       "link": "https://blog.liw.fi/posts/2026/obnam-community/",
       "title": "Obnam community",
-      "description": "Obnam is going to be an encrypting, de-duplicating, secure, and fast backup software implementation that's easy and convenient to use. I've been developing a new generation of Obnam for a couple of years now. So far I have mostly been exploring architectural and implementation design choices on my own. Obnam is now getting close to actually being able to make and restore backups. In a sense, it's"
+      "description": "Obnam is going to be an encrypting, de-duplicating, secure, and fast backup software implementation that's easy and convenient to use. I've been developing a new generation of Obnam for a couple of years now. So far I have mostly been exploring architectural and implementation design choices on my own. Obnam is now getting close to actually being able to make and restore backups. In a sense, it's",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://notes.cg505.com/claude-code-not-thinking/",
       "title": "claude code not thinking",
-      "description": "I noticed Claude Code was no longer omitting any thinking transcript, and thinking was completely missing from the jsonl transcript (which you can check using tools like simonw/claude-code-transcripts . Turns out Claude was still thinking just fine, but by default, the thinking is no longer returned from the API. Add \"showThinkingSummaries\": true to ~/.claude/settings.json to get them back. Source"
+      "description": "I noticed Claude Code was no longer omitting any thinking transcript, and thinking was completely missing from the jsonl transcript (which you can check using tools like simonw/claude-code-transcripts . Turns out Claude was still thinking just fine, but by default, the thinking is no longer returned from the API. Add \"showThinkingSummaries\": true to ~/.claude/settings.json to get them back. Source",
+      "date": null
     },
     {
       "link": "https://notes.cg505.com/new-website-design/",
       "title": "new website design",
-      "description": "I created and designed my personal site nearly a decade ago, while I was in high school. Though I've tweaked, added, and removed, I have never wholly redesigned it. I was playing with the design for a while - I knew I wanted to strip things back, keep it simple. One idea I had was to remove most design elements and just have content in a soft humanist serif against a plain background. One inspirat"
+      "description": "I created and designed my personal site nearly a decade ago, while I was in high school. Though I've tweaked, added, and removed, I have never wholly redesigned it. I was playing with the design for a while - I knew I wanted to strip things back, keep it simple. One idea I had was to remove most design elements and just have content in a soft humanist serif against a plain background. One inspirat",
+      "date": null
     },
     {
       "link": "https://notes.cg505.com/fish-ai/",
       "title": "fish-ai",
-      "description": "This plugin for fish is great: github.com/Realiserad/fish-ai I frequently now will just type something like # diff file1 and file2 disregarding whitespace or # set mtime for old-file to 2025-12-02 hit the keybind to translate to an actual command, and the result is correct like 90% of the time. If you post a reply on another blog or social media, or just want to chat, email me! christopher@cg505.c"
+      "description": "This plugin for fish is great: github.com/Realiserad/fish-ai I frequently now will just type something like # diff file1 and file2 disregarding whitespace or # set mtime for old-file to 2025-12-02 hit the keybind to translate to an actual command, and the result is correct like 90% of the time. If you post a reply on another blog or social media, or just want to chat, email me! christopher@cg505.c",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://strandnerd.com/blog/flames-part-2-api-server/",
       "title": "Building a Firecracker VM Orchestrator in Go - Part 2: API Server",
-      "description": "Designing a transport-agnostic API server for Flames, how steering AI on architecture decisions around service layers, idempotency, and persistence tiers shaped the final design."
+      "description": "Designing a transport-agnostic API server for Flames, how steering AI on architecture decisions around service layers, idempotency, and persistence tiers shaped the final design.",
+      "date": null
     },
     {
       "link": "https://strandnerd.com/blog/flames-part-1-provider-interfaces/",
       "title": "Building a Firecracker VM Orchestrator in Go - Part 1: Provider Interfaces",
-      "description": "The first post in a series documenting the build-out of Flames, an open-source Firecracker + Jailer VM orchestrator, using Spec-Driven Development with ContextPin and Claude Code."
+      "description": "The first post in a series documenting the build-out of Flames, an open-source Firecracker + Jailer VM orchestrator, using Spec-Driven Development with ContextPin and Claude Code.",
+      "date": null
     },
     {
       "link": "https://strandnerd.com/blog/spec-driven-development/",
       "title": "What is Spec-Driven Development?",
-      "description": "AI can handle scope. The real challenge is how that scope is defined, structured, and kept aligned as the project grows. That is where spec-driven development comes in."
+      "description": "AI can handle scope. The real challenge is how that scope is defined, structured, and kept aligned as the project grows. That is where spec-driven development comes in.",
+      "date": null
     }
   ]
 }

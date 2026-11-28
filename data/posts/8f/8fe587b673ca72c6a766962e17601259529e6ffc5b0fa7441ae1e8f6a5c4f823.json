@@ -4,17 +4,20 @@
     {
       "link": "https://flufftech.net/posts/updated-thoughts-on-zola/",
       "title": "My updated thoughts on Zola – version 0.23",
-      "description": "I really feel like writing some words about my experience managing this website after Zola release 0.23 and the next steps from here. This blog is mostly going to be a critique of Zola static site generator and how my opinion has changed in over a year of using. As you may or may not know, since May 2025 this website has been made with Zola , a static site generator written in Rust. In general, I’"
+      "description": "I really feel like writing some words about my experience managing this website after Zola release 0.23 and the next steps from here. This blog is mostly going to be a critique of Zola static site generator and how my opinion has changed in over a year of using. As you may or may not know, since May 2025 this website has been made with Zola , a static site generator written in Rust. In general, I’",
+      "date": null
     },
     {
       "link": "https://flufftech.net/posts/this-website-now-uses-zola/",
       "title": "This website is now using Zola",
-      "description": "Note: See this post from August 2026 where I talk about my opinion after version 0.23.0 released. After writing the last blog post it became obvious to me that migrating to a proper static site generator with templates and all the fancy stuff is necessary, so that’s what I’ve been working on for the past few days. Historically this website has always been just raw HTML with a bunch of CSS thrown a"
+      "description": "Note: See this post from August 2026 where I talk about my opinion after version 0.23.0 released. After writing the last blog post it became obvious to me that migrating to a proper static site generator with templates and all the fancy stuff is necessary, so that’s what I’ve been working on for the past few days. Historically this website has always been just raw HTML with a bunch of CSS thrown a",
+      "date": null
     },
     {
       "link": "https://flufftech.net/posts/configuring-security-key-for-pgp-and-ssh/",
       "title": "Configuring Token2 security key for PGP and SSH",
-      "description": "Note: I’m not an expert in cryptography and while I believe this blog post shouldn’t contain any gross factual errors, I do not give you any warranty that described procedure is secure. Please do your own research for real-life security-sensitive situations. A while ago I bought myself a pair of Token2 FIDO2 security keys – honestly I can recommend them, they’re great. They offer most of the same"
+      "description": "Note: I’m not an expert in cryptography and while I believe this blog post shouldn’t contain any gross factual errors, I do not give you any warranty that described procedure is secure. Please do your own research for real-life security-sensitive situations. A while ago I bought myself a pair of Token2 FIDO2 security keys – honestly I can recommend them, they’re great. They offer most of the same",
+      "date": null
     }
   ]
 }

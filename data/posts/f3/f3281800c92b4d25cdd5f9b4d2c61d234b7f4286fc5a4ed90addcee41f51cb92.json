@@ -4,17 +4,20 @@
     {
       "link": "https://jammarcade.net/cave-guwange-repair/",
       "title": "Cave Guwange Repair",
-      "description": "In for repair was a clean Cave Guwange board with faulty graphics. These boards use a powerful sprite engine consisting of four SMD ROM chips feeding into a large custom chip labeled 013. The rendered sprite data passes from 013 into two 512kb SRAM chips functioning as a frame buffer – the two SRAM chips [...]"
+      "description": "In for repair was a clean Cave Guwange board with faulty graphics. These boards use a powerful sprite engine consisting of four SMD ROM chips feeding into a large custom chip labeled 013. The rendered sprite data passes from 013 into two 512kb SRAM chips functioning as a frame buffer – the two SRAM chips [...]",
+      "date": null
     },
     {
       "link": "https://jammarcade.net/cave-cv1000-board-repair/",
       "title": "Cave CV1000 Board Repair",
-      "description": "In for repair is a Cave CV-1000 PCB where the colors are displaying dim with a yellow tinge. As per the PCB Encyclopedia, it is common for the three (U14=Red, U15=Green, U16=Blue) color amplifiers to fail on these boards. Testing the amplified output line of each amp on the oscilloscope quickly revealed a faulty Blue [...]"
+      "description": "In for repair is a Cave CV-1000 PCB where the colors are displaying dim with a yellow tinge. As per the PCB Encyclopedia, it is common for the three (U14=Red, U15=Green, U16=Blue) color amplifiers to fail on these boards. Testing the amplified output line of each amp on the oscilloscope quickly revealed a faulty Blue [...]",
+      "date": null
     },
     {
       "link": "https://jammarcade.net/fighting-layer-namco-system-12-repair/",
       "title": "Fighting Layer – Namco System 12 Repair",
-      "description": "Kudos to Hammy for his expert advice of all things Namco System 11/12 for tutoring me on diagnosing this board. In for repair is a Namco System 12 boardset with the Arika game Fighting Layer. At startup, the board would display the error “FIRST POWER ON – DATA ERROR ffff/ffff/ffff/ffff:4933”.However, after displaying that error, the [...]"
+      "description": "Kudos to Hammy for his expert advice of all things Namco System 11/12 for tutoring me on diagnosing this board. In for repair is a Namco System 12 boardset with the Arika game Fighting Layer. At startup, the board would display the error “FIRST POWER ON – DATA ERROR ffff/ffff/ffff/ffff:4933”.However, after displaying that error, the [...]",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://brutecat.com/articles/hacking-google-with-ai",
       "title": "Hacking Google with A.I. for $500,000",
-      "description": "What happens when you unleash an AI across all of Google's infrastructure? 1,500 APIs, 3,600 keys, and $500,000 in bounties later, here's what I found."
+      "description": "What happens when you unleash an AI across all of Google's infrastructure? 1,500 APIs, 3,600 keys, and $500,000 in bounties later, here's what I found.",
+      "date": null
     },
     {
       "link": "https://brutecat.com/articles/google-cloud-rce",
       "title": "StubZero: $148,337 RCE in Google Cloud Production",
-      "description": "A chance Discord message, two missing pieces, and one hour before the window closed: From info leak to RCE on Google Cloud. Three months later, it happened again."
+      "description": "A chance Discord message, two missing pieces, and one hour before the window closed: From info leak to RCE on Google Cloud. Three months later, it happened again.",
+      "date": null
     },
     {
       "link": "https://brutecat.com/articles/leaking-google-phones",
       "title": "Leaking the phone number of any Google user",
-      "description": "From rate limits to no limits: How IPv6's massive address space and a crafty botguard bypass left every Google user's phone number vulnerable"
+      "description": "From rate limits to no limits: How IPv6's massive address space and a crafty botguard bypass left every Google user's phone number vulnerable",
+      "date": null
     }
   ]
 }

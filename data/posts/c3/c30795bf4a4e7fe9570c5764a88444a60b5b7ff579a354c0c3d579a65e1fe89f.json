@@ -4,17 +4,20 @@
     {
       "link": "https://rb.ax/blog/rooting-the-eight-sleep-pod-3/",
       "title": "Rooting the Eight Sleep Pod 3",
-      "description": "The Eight Sleep Pod 3 control board with the daughter board and SD card removed. The Eight Sleep hardware team was very generous with the amount of thermal paste between the boards. I’ve been meaning to root my Eight Sleep Pod 3 since the large AWS outage in late 2025. 1 During the incident, myself and all other Eight Sleep users were unable to control a simple machine sitting at their bedside due"
+      "description": "The Eight Sleep Pod 3 control board with the daughter board and SD card removed. The Eight Sleep hardware team was very generous with the amount of thermal paste between the boards. I’ve been meaning to root my Eight Sleep Pod 3 since the large AWS outage in late 2025. 1 During the incident, myself and all other Eight Sleep users were unable to control a simple machine sitting at their bedside due",
+      "date": null
     },
     {
       "link": "https://rb.ax/blog/iran-openly-threatening-the-hormuz-subsea-cables/",
       "title": "Iran Openly Threatening the Hormuz Subsea Cables",
-      "description": "Iranian officials spent October openly threatening the subsea internet cables under the Strait of Hormuz. On October 12, Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said Gulf cables, data centers, and artificial intelligence facilities could get hit if the US and Israel restart the war. 1 A week later, Revolutionary Guard spokesman Hossein Mohebbi pointed out the seven ma"
+      "description": "Iranian officials spent October openly threatening the subsea internet cables under the Strait of Hormuz. On October 12, Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said Gulf cables, data centers, and artificial intelligence facilities could get hit if the US and Israel restart the war. 1 A week later, Revolutionary Guard spokesman Hossein Mohebbi pointed out the seven ma",
+      "date": null
     },
     {
       "link": "https://rb.ax/blog/css-only-footnote-tooltips-in-hugo/",
       "title": "CSS-Only Footnote Tooltips in Hugo",
-      "description": "Update on October 31, 2026 : A reader pointed out that Goldmark renders each page as its own document and numbers its footnote IDs from fn:1 every time. So any page that prints several full posts together, such as a home page, a list page, or a feed reader, ends up with duplicate IDs, and a citation in the second post jumps to the first post’s note. I didn’t really think about this situation becau"
+      "description": "Update on October 31, 2026 : A reader pointed out that Goldmark renders each page as its own document and numbers its footnote IDs from fn:1 every time. So any page that prints several full posts together, such as a home page, a list page, or a feed reader, ends up with duplicate IDs, and a citation in the second post jumps to the first post’s note. I didn’t really think about this situation becau",
+      "date": null
     }
   ]
 }

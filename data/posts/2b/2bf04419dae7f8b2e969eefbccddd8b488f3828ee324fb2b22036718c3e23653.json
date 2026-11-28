@@ -4,17 +4,20 @@
     {
       "link": "https://wingedpig.com/2026/02/26/if-ai-is-doing-the-investigation-version-the-investigation/",
       "title": "If AI Is Doing the Investigation, Version the Investigation",
-      "description": "I was looking at a bug report about calendar feed generation in Groups.io. ICS is one of those specs where interoperability with other calendar systems is a constant source of complexity - the spec is opaque and every client interprets it a little differently. I’d fixed a similar bug a month earlier, so I went back to the commit. The diff was there, but the Claude Code session that had helped me f"
+      "description": "I was looking at a bug report about calendar feed generation in Groups.io. ICS is one of those specs where interoperability with other calendar systems is a constant source of complexity - the spec is opaque and every client interprets it a little differently. I’d fixed a similar bug a month earlier, so I went back to the commit. The diff was there, but the Claude Code session that had helped me f",
+      "date": null
     },
     {
       "link": "https://wingedpig.com/2026/01/27/why-i-built-trellis/",
       "title": "Why I Built Trellis",
-      "description": "I’ve been running Groups.io for over a decade. It’s not a weekend project — it has millions of users and a lot of moving parts. I write the code, run the dev environment, deploy to production, and get woken up when something breaks. The neat “dev vs ops” distinction doesn’t really apply. It’s just me switching hats all day. For years, I glued things together with shell scripts, tmux sessions, and"
+      "description": "I’ve been running Groups.io for over a decade. It’s not a weekend project — it has millions of users and a lot of moving parts. I write the code, run the dev environment, deploy to production, and get woken up when something breaks. The neat “dev vs ops” distinction doesn’t really apply. It’s just me switching hats all day. For years, I glued things together with shell scripts, tmux sessions, and",
+      "date": null
     },
     {
       "link": "https://wingedpig.com/2025/01/14/why-you-shouldnt-wait-for-at-protocol-build-on-bluesky-now/",
       "title": "Why You Shouldn't Wait for AT Protocol: Build on Bluesky Now",
-      "description": "In the heart of the night In the cool southern rain There's a full moon in sight Shining down on the Pontchartrain - Heart of the Night , Poco I saw the freeourfeeds.com announcement yesterday, which proposes raising $30M to build out the AT Protocol - the protocol that would allow Bluesky to be federated. The goal is to foster an ecosystem of federated and interconnected apps. However, I don’t th"
+      "description": "In the heart of the night In the cool southern rain There's a full moon in sight Shining down on the Pontchartrain - Heart of the Night , Poco I saw the freeourfeeds.com announcement yesterday, which proposes raising $30M to build out the AT Protocol - the protocol that would allow Bluesky to be federated. The goal is to foster an ecosystem of federated and interconnected apps. However, I don’t th",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://stenbrinke.nl/blog/build-only-what-changed-in-your-dotnet-monorepo/",
       "title": "Build only what changed in your .NET monorepo with dotnet-affected",
-      "description": "Table Of Contents Introduction Why Path Filters Aren’t Enough What dotnet-affected Does What Do We Consider Affected? Let’s Build it! Pull Requests Compare Against Their Target Branch Wait, Why Are We Doing An API Call To Azure DevOps? The Always-Build List The Results Finishing up Introduction Link to heading At my current client, all applications that belong to a project live in a monorepo, whic"
+      "description": "Table Of Contents Introduction Why Path Filters Aren’t Enough What dotnet-affected Does What Do We Consider Affected? Let’s Build it! Pull Requests Compare Against Their Target Branch Wait, Why Are We Doing An API Call To Azure DevOps? The Always-Build List The Results Finishing up Introduction Link to heading At my current client, all applications that belong to a project live in a monorepo, whic",
+      "date": null
     },
     {
       "link": "https://stenbrinke.nl/blog/introducing-cloud-code-oost/",
       "title": "Introducing Cloud & Code Oost, a new Microsoft meetup in the east of the Netherlands",
-      "description": "In my MVP renewal post I mentioned that I was making plans to start a meetup of my own. Well, here it is! Together with Hans Muns I’m starting Cloud & Code Oost, a meetup for developers in the east of the Netherlands who work with .NET, Azure and AI. If you live in the east and want to go to a meetup, you usually end up in the car to Utrecht or Amsterdam."
+      "description": "In my MVP renewal post I mentioned that I was making plans to start a meetup of my own. Well, here it is! Together with Hans Muns I’m starting Cloud & Code Oost, a meetup for developers in the east of the Netherlands who work with .NET, Azure and AI. If you live in the east and want to go to a meetup, you usually end up in the car to Utrecht or Amsterdam.",
+      "date": null
     },
     {
       "link": "https://stenbrinke.nl/blog/microsoft-mvp-renewal-2026/",
       "title": "I've been renewed as a Microsoft MVP in 2026 🥳!",
-      "description": "I’m writing this post with a lot of excitement, once again! I’ve received the notification that I’ve been renewed as a Microsoft MVP for the Developer Technologies category! This is already my third renewal, and I’m still just as grateful and excited as the first time! I forgot to write a blog post about this last year, but I did want to take a moment to reflect on the past year and share some of"
+      "description": "I’m writing this post with a lot of excitement, once again! I’ve received the notification that I’ve been renewed as a Microsoft MVP for the Developer Technologies category! This is already my third renewal, and I’m still just as grateful and excited as the first time! I forgot to write a blog post about this last year, but I did want to take a moment to reflect on the past year and share some of",
+      "date": null
     }
   ]
 }

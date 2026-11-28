@@ -4,17 +4,20 @@
     {
       "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
       "title": "How Smartsheet built a remote MCP server on AWS",
-      "description": "As enterprise teams adopt AI agents, those agents need structured access to the data inside systems like Smartsheet. How Smartsheet built a remote Model Context Protocol server on AWS to give AI clients that access."
+      "description": "As enterprise teams adopt AI agents, those agents need structured access to the data inside systems like Smartsheet. How Smartsheet built a remote Model Context Protocol server on AWS to give AI clients that access.",
+      "date": null
     },
     {
       "link": "https://vkontech.com/multi-agent-trading-guardrails-traceability/",
       "title": "Generation Got Cheap, Trust Didn’t: A Multi-Agent Trading System with Guardrails and Traceability",
-      "description": "Generation got cheap, trust didn’t. How a 4-trader multi-agent system uses output guardrails and per-run audit trails to close the verification gap."
+      "description": "Generation got cheap, trust didn’t. How a 4-trader multi-agent system uses output guardrails and per-run audit trails to close the verification gap.",
+      "date": null
     },
     {
       "link": "https://vkontech.com/distributed-tracing-demo-with-opentelemetry-and-grafana-cloud/",
       "title": "Distributed Tracing Demo with OpenTelemetry and Grafana Cloud",
-      "description": "Discover how to set up end-to-end distributed tracing in a microservices architecture using OpenTelemetry and Grafana Cloud. This hands-on guide walks you through instrumenting Java and Go services, visualizing traces, and gaining deep insights into your system’s behavior."
+      "description": "Discover how to set up end-to-end distributed tracing in a microservices architecture using OpenTelemetry and Grafana Cloud. This hands-on guide walks you through instrumenting Java and Go services, visualizing traces, and gaining deep insights into your system’s behavior.",
+      "date": null
     }
   ]
 }

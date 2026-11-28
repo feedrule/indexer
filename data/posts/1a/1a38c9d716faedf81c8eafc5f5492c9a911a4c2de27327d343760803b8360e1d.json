@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "Hi, I'm Sunny",
-      "description": "It is not uncommon to meet people in real life who know this blog. Just the other day I got to talking to someone who had overheard me discussing some compiler thing with a colleague and asked if they knew mcyoung.xyz , and when they said the recent Go articles were pretty cool, I mentioned it was my blog. I also know I have a pretty big audience because I see some of my more popular articles ment"
+      "description": "It is not uncommon to meet people in real life who know this blog. Just the other day I got to talking to someone who had overheard me discussing some compiler thing with a colleague and asked if they knew mcyoung.xyz , and when they said the recent Go articles were pretty cool, I mentioned it was my blog. I also know I have a pretty big audience because I see some of my more popular articles ment",
+      "date": null
     },
     {
       "link": null,
       "title": "Breaking the Warranty with go:linkname",
-      "description": "Let’s talk about linker symbols. In C, when you write out a function signature, like this, you are informing the compiler that a symbol of appropriate ABI will exist at link time. void * malloc ( size_t bytes ); C You can prefix this with extern , but that’s technically not necessary and it irks me a little when people do it. You can also do this with globals, and in this case extern is required:"
+      "description": "Let’s talk about linker symbols. In C, when you write out a function signature, like this, you are informing the compiler that a symbol of appropriate ABI will exist at link time. void * malloc ( size_t bytes ); C You can prefix this with extern , but that’s technically not necessary and it irks me a little when people do it. You can also do this with globals, and in this case extern is required:",
+      "date": null
     },
     {
       "link": null,
       "title": "Optimization Countermeasures",
-      "description": "Silicon designers are bad at designing secure hardware. Embarrassingly so , sometimes. This means that low-level cryptography, as well as code which directly handles key material, often needs to be written in a particularly delicate style called “constant-time”. “Constant-time” is a bit of a misnomer. It does not mean that the code’s time complexity is O ( 1 ) (although this is a closely related p"
+      "description": "Silicon designers are bad at designing secure hardware. Embarrassingly so , sometimes. This means that low-level cryptography, as well as code which directly handles key material, often needs to be written in a particularly delicate style called “constant-time”. “Constant-time” is a bit of a misnomer. It does not mean that the code’s time complexity is O ( 1 ) (although this is a closely related p",
+      "date": null
     }
   ]
 }

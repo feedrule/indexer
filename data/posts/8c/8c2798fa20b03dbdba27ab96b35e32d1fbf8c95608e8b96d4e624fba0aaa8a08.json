@@ -4,17 +4,20 @@
     {
       "link": "https://alexhwoods.com/blog/what-is-rendering-on-the-web/",
       "title": "What is rendering on the web?",
-      "description": "Rendering means different things in different contexts. In the browser, it's the pipeline that takes us from HTML to pixels on the screen; in React it's the process of calling your components."
+      "description": "Rendering means different things in different contexts. In the browser, it's the pipeline that takes us from HTML to pixels on the screen; in React it's the process of calling your components.",
+      "date": null
     },
     {
       "link": "https://alexhwoods.com/blog/dont-let-ai-write-for-you/",
       "title": "Don't Let AI Write For You",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://alexhwoods.com/blog/go-does-not-allow-truthiness/",
       "title": "Go does not allow truthiness",
-      "description": "Unlike TypeScript, Go doesn't allow truthiness in conditional statements. You must explicitly compare values like strings and numbers instead of using them directly as booleans."
+      "description": "Unlike TypeScript, Go doesn't allow truthiness in conditional statements. You must explicitly compare values like strings and numbers instead of using them directly as booleans.",
+      "date": null
     }
   ]
 }

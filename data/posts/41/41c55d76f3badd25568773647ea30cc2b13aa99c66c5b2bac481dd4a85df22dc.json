@@ -4,17 +4,20 @@
     {
       "link": "https://bounded-regret.ghost.io/foundation-models-for-oversight/",
       "title": "Foundation Models for Oversight",
-      "description": "Cross-posted from the Transluce blog . To oversee an AI model, we'd ideally like to ask questions such as: What are important situations where the model sandbags? Does the model have an objective it wouldn't admit to if asked directly? Does the model treat a user"
+      "description": "Cross-posted from the Transluce blog . To oversee an AI model, we'd ideally like to ask questions such as: What are important situations where the model sandbags? Does the model have an objective it wouldn't admit to if asked directly? Does the model treat a user",
+      "date": null
     },
     {
       "link": "https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/",
       "title": "Building Technology to Drive AI Governance",
-      "description": "Technically skilled people who care about AI going well often ask me: how should I spend my time if I think AI governance is important? By governance, I mean the constraints, incentives, and oversight that govern how AI is developed. One option is to focus on technical work that solves"
+      "description": "Technically skilled people who care about AI going well often ask me: how should I spend my time if I think AI governance is important? By governance, I mean the constraints, incentives, and oversight that govern how AI is developed. One option is to focus on technical work that solves",
+      "date": null
     },
     {
       "link": "https://bounded-regret.ghost.io/oversight-assiturning-compute-into-understanding/",
       "title": "Oversight Assistants: Turning Compute into Understanding",
-      "description": "Currently, we primarily oversee AI with human supervision and human-run experiments, possibly augmented by off-the-shelf AI assistants like ChatGPT or Claude. At training time, we run RLHF , where humans (and/or chat assistants ) label behaviors with whether they are good or not. Afterwards, human researchers do additional"
+      "description": "Currently, we primarily oversee AI with human supervision and human-run experiments, possibly augmented by off-the-shelf AI assistants like ChatGPT or Claude. At training time, we run RLHF , where humans (and/or chat assistants ) label behaviors with whether they are good or not. Afterwards, human researchers do additional",
+      "date": null
     }
   ]
 }

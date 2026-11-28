@@ -4,17 +4,20 @@
     {
       "link": "https://www.r-econometrics.com/timeseries/favarintro/",
       "title": "An Introduction to Factor-Augmented Vector Autoregression (FAVAR)",
-      "description": "Introduction As we saw in the post on vector autoregressive (VAR) models , traditional VAR models suffer from a so-called curse of dimensionality . Each additional variable adds a further equation and a further lag polynomial to every other equation, so the number of coefficients grows with the square of the number of variables. With the few decades of quarterly data that are usually available thi"
+      "description": "Introduction As we saw in the post on vector autoregressive (VAR) models , traditional VAR models suffer from a so-called curse of dimensionality . Each additional variable adds a further equation and a further lag polynomial to every other equation, so the number of coefficients grows with the square of the number of variables. With the few decades of quarterly data that are usually available thi",
+      "date": null
     },
     {
       "link": "https://www.r-econometrics.com/timeseries/bayes-svar-intro/",
       "title": "Bayesian Inference of Structural Vector Autoregressions (SVAR) with the `bvartools` package",
-      "description": "The bvartools allows to perform Bayesian inference of Vector autoregressive (VAR) models , including structural VARs . This post guides through the Bayesian inference of SVAR models in R using the bvartools package. Data For this illustration we generate an artificial data set with three endogenous variables, which follows the data generating process \\[y_t = A_1 y_{t - 1} + B \\epsilon_t,\\] where \\"
+      "description": "The bvartools allows to perform Bayesian inference of Vector autoregressive (VAR) models , including structural VARs . This post guides through the Bayesian inference of SVAR models in R using the bvartools package. Data For this illustration we generate an artificial data set with three endogenous variables, which follows the data generating process \\[y_t = A_1 y_{t - 1} + B \\epsilon_t,\\] where \\",
+      "date": null
     },
     {
       "link": "https://www.r-econometrics.com/timeseries/dynamicfactorintro/",
       "title": "An Introduction to Dynamic Factor Models",
-      "description": "Introduction For some macroeconomic applications it might be interesting to see whether a set of observable variables depends on common drivers. The estimation of such common factors can be done using so-called factor analytical models , which have the form \\[x_t = \\lambda f_t + u_t,\\] where \\(x_t\\) is an \\(M\\) -dimensional vector of observable variables, \\(f_t\\) is an \\(N \\times 1\\) vector of uno"
+      "description": "Introduction For some macroeconomic applications it might be interesting to see whether a set of observable variables depends on common drivers. The estimation of such common factors can be done using so-called factor analytical models , which have the form \\[x_t = \\lambda f_t + u_t,\\] where \\(x_t\\) is an \\(M\\) -dimensional vector of observable variables, \\(f_t\\) is an \\(N \\times 1\\) vector of uno",
+      "date": null
     }
   ]
 }

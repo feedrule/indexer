@@ -4,17 +4,20 @@
     {
       "link": "http://dragan.rocks/articles/25/Gemma-3-AI-model-in-Clojure",
       "title": "Gemma 3 AI model in Clojure",
-      "description": "Recently I've been working on the ONNX runtime integration into Deep Diamond, backed by the grant sponsored by the Clojurists Together Foundation. In the past few articles, we've seen how ONNX models are integrated into Deep Diamond, using only a single function onnx , with almost no need for additional configuration (which is available). I used a simple MNIST model in the demonstration. But, can"
+      "description": "Recently I've been working on the ONNX runtime integration into Deep Diamond, backed by the grant sponsored by the Clojurists Together Foundation. In the past few articles, we've seen how ONNX models are integrated into Deep Diamond, using only a single function onnx , with almost no need for additional configuration (which is available). I used a simple MNIST model in the demonstration. But, can",
+      "date": null
     },
     {
       "link": "http://dragan.rocks/articles/25/Clojure-AI-ML-high-performance-Uncomplicate",
       "title": "Plan for Clojure AI, ML, and high-performance Uncomplicate ecosystem in 2026",
-      "description": "I've applied for Clojurists Together yearly funding in 2026. Here's my application. If you are a Clojurists Together member, and would like to see continued development in this area, your vote can help me keep working on this :) My goal with this funding in 2026 is to continuously develop Clojure AI, ML, and high-performance ecosystem of Uncomplicate libraries (Neanderhal and many more), on Nvidia"
+      "description": "I've applied for Clojurists Together yearly funding in 2026. Here's my application. If you are a Clojurists Together member, and would like to see continued development in this area, your vote can help me keep working on this :) My goal with this funding in 2026 is to continuously develop Clojure AI, ML, and high-performance ecosystem of Uncomplicate libraries (Neanderhal and many more), on Nvidia",
+      "date": null
     },
     {
       "link": "http://dragan.rocks/articles/25/Four-Ways-to-ONNX-on-GPU-in-Clojure-and-CUDA",
       "title": "Not One, Not Two, Not Even Three, but Four Ways to Run an ONNX AI Model on GPU with CUDA",
-      "description": "Two weeks ago, I announced a new Clojure ML library, Diamond ONNX RT , which integrates ONNX Runtime into Deep Diamond. In that post, we explored the classic Hello World example of Neural Networks, MNIST handwritten image recognition, step-by-step. We run that example on the CPU, from main memory. The next logical step is to execute this stuff on the GPU. You'll see that with a little help of Cloj"
+      "description": "Two weeks ago, I announced a new Clojure ML library, Diamond ONNX RT , which integrates ONNX Runtime into Deep Diamond. In that post, we explored the classic Hello World example of Neural Networks, MNIST handwritten image recognition, step-by-step. We run that example on the CPU, from main memory. The next logical step is to execute this stuff on the GPU. You'll see that with a little help of Cloj",
+      "date": null
     }
   ]
 }

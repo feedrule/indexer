@@ -4,17 +4,20 @@
     {
       "link": "https://aaqa.dev/projects/dvito-cloud/",
       "title": "dvito.cloud: AI Lab",
-      "description": "dvito.cloud is an AI lab for building practical products around AI infrastructure, agents, and developer tooling. The lab owns and builds zei.sh , an ephemeral microVM sandbox platform for AI agent execution. More products are in development."
+      "description": "dvito.cloud is an AI lab for building practical products around AI infrastructure, agents, and developer tooling. The lab owns and builds zei.sh , an ephemeral microVM sandbox platform for AI agent execution. More products are in development.",
+      "date": null
     },
     {
       "link": "https://aaqa.dev/projects/zei-sh/",
       "title": "zei.sh: MicroVM Sandbox Platform",
-      "description": "zei.sh is a cloud platform providing ephemeral microVM sandboxes (Firecracker and Cloud Hypervisor) for AI agent execution. Clone, branch, and snapshot environments, built for reproducible agent runs, untrusted code execution, and evals. Currently in public beta (v0.1), with a TypeScript SDK, an HTTP API, SSH/WebSSH terminal access, and real-time metrics and logs dashboards. Highlights: 124ms VM b"
+      "description": "zei.sh is a cloud platform providing ephemeral microVM sandboxes (Firecracker and Cloud Hypervisor) for AI agent execution. Clone, branch, and snapshot environments, built for reproducible agent runs, untrusted code execution, and evals. Currently in public beta (v0.1), with a TypeScript SDK, an HTTP API, SSH/WebSSH terminal access, and real-time metrics and logs dashboards. Highlights: 124ms VM b",
+      "date": null
     },
     {
       "link": "https://aaqa.dev/projects/pstbin/",
       "title": "pstbin: Client-Side Pastebin",
-      "description": "pstbin is a client-side pastebin inspired by ix.io . Paste data lives in the URL fragment; nothing is stored in a database. curl works via a stateless encoder that compresses the body and returns a self-contained URL — that isn't storage, it's encoding. $ echo hello | curl - sF ' paste=<- ' https://paste.aaqa.dev/ https://paste.aaqa.dev/#v1/z/… Highlights: No DB, no KV, no Blob — the URL is the pa"
+      "description": "pstbin is a client-side pastebin inspired by ix.io . Paste data lives in the URL fragment; nothing is stored in a database. curl works via a stateless encoder that compresses the body and returns a self-contained URL — that isn't storage, it's encoding. $ echo hello | curl - sF ' paste=<- ' https://paste.aaqa.dev/ https://paste.aaqa.dev/#v1/z/… Highlights: No DB, no KV, no Blob — the URL is the pa",
+      "date": null
     }
   ]
 }

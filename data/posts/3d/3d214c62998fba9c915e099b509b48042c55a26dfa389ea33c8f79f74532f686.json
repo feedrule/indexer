@@ -4,17 +4,20 @@
     {
       "link": "https://scottw.com/streams/and-then-there-were-four/",
       "title": "Scott Watermasysk - November 20, 2026",
-      "description": "And then there were four."
+      "description": "And then there were four.",
+      "date": null
     },
     {
       "link": "https://scottw.com/streams/migrating-a-mysql-db-to-planetscale/",
       "title": "Scott Watermasysk - November 19, 2026",
-      "description": "Migrating a MySQL db to PlanetScale is interesting. The ability to proxy data in either direction and switch back and forth is something I did not expect. For complicated and large scale moves, the ability to back out even after a cut over is powerful. I sincerely hope I never need to use it. 😄"
+      "description": "Migrating a MySQL db to PlanetScale is interesting. The ability to proxy data in either direction and switch back and forth is something I did not expect. For complicated and large scale moves, the ability to back out even after a cut over is powerful. I sincerely hope I never need to use it. 😄",
+      "date": null
     },
     {
       "link": "https://scottw.com/streams/i-get-the-argument-that-most/",
       "title": "Scott Watermasysk - November 18, 2026",
-      "description": "I get the argument that most businesses don’t want to be in the software business. But you increasingly need smaller teams to pull this off. I think the world where businesses just build what they need is coming. We will still need software engineers, but they will need to be far more business-minded and customer-focused than before."
+      "description": "I get the argument that most businesses don’t want to be in the software business. But you increasingly need smaller teams to pull this off. I think the world where businesses just build what they need is coming. We will still need software engineers, but they will need to be far more business-minded and customer-focused than before.",
+      "date": null
     }
   ]
 }

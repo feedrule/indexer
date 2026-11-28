@@ -4,17 +4,20 @@
     {
       "link": "https://skylar.tech/home-assistant-internet-monitoring-packet-loss-latency-and-automatic-modem-reboots/",
       "title": "Home Assistant Internet Monitoring: Packet Loss, Latency, and Automatic Modem Reboots",
-      "description": "Random packet loss and internet dropouts pushed me to build an automated monitoring system with Node-RED and Home Assistant. It tracks latency and packet loss across multiple endpoints and automatically reboots my modem when conditions degrade."
+      "description": "Random packet loss and internet dropouts pushed me to build an automated monitoring system with Node-RED and Home Assistant. It tracks latency and packet loss across multiple endpoints and automatically reboots my modem when conditions degrade.",
+      "date": null
     },
     {
       "link": "https://skylar.tech/i-built-a-home-assistant-app-for-pebble-smartwatches-2/",
       "title": "I built a Home Assistant app for Pebble smartwatches",
-      "description": "Control Home Assistant smart home directly from your Pebble smartwatch! This app uses WebSockets for real-time updates and control of your Home Assistant devices and entities."
+      "description": "Control Home Assistant smart home directly from your Pebble smartwatch! This app uses WebSockets for real-time updates and control of your Home Assistant devices and entities.",
+      "date": null
     },
     {
       "link": "https://skylar.tech/age-of-time/",
       "title": "Age of Time",
-      "description": "I haven't posted in a while so figured I would start off with one of my weird side projects. There is an indie video game creator named Eric Hartman who goes by BadSpot online. He created Blockland and Age of Time . These games are special to me because"
+      "description": "I haven't posted in a while so figured I would start off with one of my weird side projects. There is an indie video game creator named Eric Hartman who goes by BadSpot online. He created Blockland and Age of Time . These games are special to me because",
+      "date": null
     }
   ]
 }

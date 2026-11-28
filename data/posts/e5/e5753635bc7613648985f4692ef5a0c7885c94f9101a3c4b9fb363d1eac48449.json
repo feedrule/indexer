@@ -4,17 +4,20 @@
     {
       "link": "https://yarlson.dev/blog/ai-agents-need-source-of-truth/",
       "title": "AI Coding Agents Need a Source of Truth",
-      "description": "Bigger prompts do not fix drifting agent plans. A good workflow starts with a small brief, human review, task sizing, and checks against real artifacts."
+      "description": "Bigger prompts do not fix drifting agent plans. A good workflow starts with a small brief, human review, task sizing, and checks against real artifacts.",
+      "date": null
     },
     {
       "link": "https://yarlson.dev/blog/good-cli-design-is-mostly-silence/",
       "title": "Good CLI Design Is Mostly Silence",
-      "description": "A CLI is both a user interface and an API for scripts. Quiet mode, stdout, stderr, colors, and exit codes need real contracts."
+      "description": "A CLI is both a user interface and an API for scripts. Quiet mode, stdout, stderr, colors, and exit codes need real contracts.",
+      "date": null
     },
     {
       "link": "https://yarlson.dev/blog/build-cache-was-not-broken/",
       "title": "The Build Cache Was Not Broken",
-      "description": "Docker cache problems are often Dockerfile problems: unstable inputs, bad COPY order, and layers that depend on too much."
+      "description": "Docker cache problems are often Dockerfile problems: unstable inputs, bad COPY order, and layers that depend on too much.",
+      "date": null
     }
   ]
 }

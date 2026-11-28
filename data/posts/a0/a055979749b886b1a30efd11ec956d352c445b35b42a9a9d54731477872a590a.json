@@ -4,17 +4,20 @@
     {
       "link": "https://thefrontierlab.ai/i-recommended-the-96-gib-vram-carveout-then-a-21-gib-model-hung-on-load/",
       "title": "I Recommended the 96 GiB VRAM Carveout. Then a 21 GiB Model Hung on Load.",
-      "description": "In May I recommended the max carveout and --no-mmap. In June a 21 GiB model hung. Upstream llama.cpp now skips mmap on ROCm and Vulkan iGPUs by default."
+      "description": "In May I recommended the max carveout and --no-mmap. In June a 21 GiB model hung. Upstream llama.cpp now skips mmap on ROCm and Vulkan iGPUs by default.",
+      "date": null
     },
     {
       "link": "https://thefrontierlab.ai/strix-halo-mtp-fleet-sweep/",
       "title": "Speculative Decoding Across My Fleet: Gains From +200% to -80%, and No Single Setting Fits Every Model",
-      "description": "Speculative decoding swept across the fleet: three draft mechanisms, per-model sweet spots from depth 3 to 5, one model that triples, and one that breaks."
+      "description": "Speculative decoding swept across the fleet: three draft mechanisms, per-model sweet spots from depth 3 to 5, one model that triples, and one that breaks.",
+      "date": null
     },
     {
       "link": "https://thefrontierlab.ai/strix-halo-nine-models-kv-cache-split/",
       "title": "Quantized KV Cache Helps Six of My Nine Models and Actively Hurts the Two Newest Ones",
-      "description": "Nine models on one pinned build, three cache types each. Where quantizing the KV cache pays, where it costs, and what runs at all on 128GB."
+      "description": "Nine models on one pinned build, three cache types each. Where quantizing the KV cache pays, where it costs, and what runs at all on 128GB.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://marekfiser.com/blog/windows-10-slow-start-menu-after-screen-sharing/",
       "title": "Windows 10 Start menu and Alt+Tab slow after screen sharing",
-      "description": "If the Start menu and Alt+Tab on your Windows 10 keep getting slower, the cause is likely window sharing via a browser. Sharing a window using Chrome/Edge/Opera leaks about 20 listeners per second inside Windows Explorer, and after a few meetings my Start menu took 8 seconds to open. This article explains the root cause, shows how to work around it, and provides a script to check your own system."
+      "description": "If the Start menu and Alt+Tab on your Windows 10 keep getting slower, the cause is likely window sharing via a browser. Sharing a window using Chrome/Edge/Opera leaks about 20 listeners per second inside Windows Explorer, and after a few meetings my Start menu took 8 seconds to open. This article explains the root cause, shows how to work around it, and provides a script to check your own system.",
+      "date": null
     },
     {
       "link": "https://marekfiser.com/blog/intel-degradation-rma/",
       "title": "Intel 13th/14th-gen CPU degradation and the painless RMA process",
-      "description": "My development machine was getting unstable and our tests kept failing with errors that should never happen. It turned out to be my Intel Core i9-13900K, degraded by the Vmin Shift Instability. This post describes how I finally caught the fault with a stress test, found out that Intel had extended the warranty to 5 years, and got the CPU replaced with surprisingly little hassle. If you own one of"
+      "description": "My development machine was getting unstable and our tests kept failing with errors that should never happen. It turned out to be my Intel Core i9-13900K, degraded by the Vmin Shift Instability. This post describes how I finally caught the fault with a stress test, found out that Intel had extended the warranty to 5 years, and got the CPU replaced with surprisingly little hassle. If you own one of",
+      "date": null
     },
     {
       "link": "https://marekfiser.com/blog/double-double-arithmetic/",
       "title": "Double-double arithmetic: 31 digits of precision from two doubles",
-      "description": "If you ever need more precision than what 15 decimal digits of the double format can offer, there is a neat trick: glue two doubles together and treat them as one number. This gives you ~31 decimal digits for roughly 9x the cost of a plain double. With no heap allocation and no dependencies, this puts it perf-wise almost exactly halfway between a double and an arbitrary-precision library. This pos"
+      "description": "If you ever need more precision than what 15 decimal digits of the double format can offer, there is a neat trick: glue two doubles together and treat them as one number. This gives you ~31 decimal digits for roughly 9x the cost of a plain double. With no heap allocation and no dependencies, this puts it perf-wise almost exactly halfway between a double and an arbitrary-precision library. This pos",
+      "date": null
     }
   ]
 }

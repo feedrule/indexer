@@ -4,17 +4,20 @@
     {
       "link": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
       "title": "Mutex poisoning is not for everyone",
-      "description": "After some recent discussion on the topic of mutex poisoning and notably a blog post that I thought was interesting, thoughtful, exhaustive, yet completely disagreed with, I wanted to comment on the debate myself. To me, poisoning-by-default is one of biggest mistakes that were made in the language, next to some others that are a story for a different time."
+      "description": "After some recent discussion on the topic of mutex poisoning and notably a blog post that I thought was interesting, thoughtful, exhaustive, yet completely disagreed with, I wanted to comment on the debate myself. To me, poisoning-by-default is one of biggest mistakes that were made in the language, next to some others that are a story for a different time.",
+      "date": "2026-11-16"
     },
     {
       "link": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
       "title": "How to review an AUR package",
-      "description": "On Friday, July 18th, 2025, the Arch Linux team was notified that three AUR packages had been uploaded that contained malware. A few maintainers including myself took care of deleting these packages, removing all traces of the malicious code, and protecting against future malicious uploads."
+      "description": "On Friday, July 18th, 2025, the Arch Linux team was notified that three AUR packages had been uploaded that contained malware. A few maintainers including myself took care of deleting these packages, removing all traces of the malicious code, and protecting against future malicious uploads.",
+      "date": "2026-01-30"
     },
     {
       "link": "https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html",
       "title": "Misunderstanding that “Dependency” comic",
-      "description": "Over the course of 2025, every single major cloud provider has failed. In June, Google Cloud had issues taking down Cloud Storage for many users. In late October, Amazon Web Services had a massive outage in their main hub, us-east-1, affecting many services as well as some people’s beds. A little over a week later Microsoft Azure had a [widespread outage][Azure outage] that managed to significantly disrupt train service in the Netherlands, and probably also things that matter. Now last week, Cloudflare takes down large swaths of the internet in a way that causes non-tech people to learn Cloudflare exists. And every single time, people share that one XKCD comic."
+      "description": "Over the course of 2025, every single major cloud provider has failed. In June, Google Cloud had issues taking down Cloud Storage for many users. In late October, Amazon Web Services had a massive outage in their main hub, us-east-1, affecting many services as well as some people’s beds. A little over a week later Microsoft Azure had a [widespread outage][Azure outage] that managed to significantly disrupt train service in the Netherlands, and probably also things that matter. Now last week, Cloudflare takes down large swaths of the internet in a way that causes non-tech people to learn Cloudflare exists. And every single time, people share that one XKCD comic.",
+      "date": "2025-11-26"
     }
   ]
 }

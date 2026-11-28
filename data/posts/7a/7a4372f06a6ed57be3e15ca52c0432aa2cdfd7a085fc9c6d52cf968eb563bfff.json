@@ -4,17 +4,20 @@
     {
       "link": "https://t-a-w.blogspot.com/2026/10/using-ai-for-french-reading.html",
       "title": "Using AI for French Reading Comprehension Practice - followup",
-      "description": "Here's a quick follow up for the Using AI for French Reading Comprehension Practice post from a year ago. The prompt I wrote was mostly working, but LLMs often went off-script in minor ways. I kept tweaking the instructions endlessly, even trying to tell it in various ways to think harder, but it didn't really make much difference. It was always at a barely good enough level. I also hoped that the"
+      "description": "Here's a quick follow up for the Using AI for French Reading Comprehension Practice post from a year ago. The prompt I wrote was mostly working, but LLMs often went off-script in minor ways. I kept tweaking the instructions endlessly, even trying to tell it in various ways to think harder, but it didn't really make much difference. It was always at a barely good enough level. I also hoped that the",
+      "date": null
     },
     {
       "link": "https://t-a-w.blogspot.com/2026/09/first-impressions-of-omarchy-linux.html",
       "title": "First impressions of Omarchy Linux",
-      "description": "For a very long time, I used Windows for gaming and OSX for everything else, but recently there's been a lot of hype around the Omarchy distro by DHH, so I decided to give it a quick try. My first impressions are awful. How to try it This part is actually very smooth. You can go to the Try Omarchy website, download a small launcher, and run it as a QEMU app. This is a much easier experience than b"
+      "description": "For a very long time, I used Windows for gaming and OSX for everything else, but recently there's been a lot of hype around the Omarchy distro by DHH, so I decided to give it a quick try. My first impressions are awful. How to try it This part is actually very smooth. You can go to the Try Omarchy website, download a small launcher, and run it as a QEMU app. This is a much easier experience than b",
+      "date": null
     },
     {
       "link": "https://t-a-w.blogspot.com/2026/08/the-ultimate-fix-for-json-format.html",
       "title": "The Ultimate Fix for JSON format",
-      "description": "I previously wrote how JSON is a fake format , which leaves important parts unspecified, so sending JSON from Python to Python, or from JavaScript to JavaScript generally works, but if you mix languages, results are largely unpredictable. So, should every programming language have its own JSON-like, expressing data types it supports faithfully? That would also be a huge mess, so here's my proposal"
+      "description": "I previously wrote how JSON is a fake format , which leaves important parts unspecified, so sending JSON from Python to Python, or from JavaScript to JavaScript generally works, but if you mix languages, results are largely unpredictable. So, should every programming language have its own JSON-like, expressing data types it supports faithfully? That would also be a huge mess, so here's my proposal",
+      "date": null
     }
   ]
 }

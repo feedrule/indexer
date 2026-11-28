@@ -4,17 +4,20 @@
     {
       "link": "https://blog.sapico.me/posts/cedardb-a-very-fast-database-explained-simply/",
       "title": "CedarDB: A Very Fast Database (Explained Simply)",
-      "description": "CedarDB is a new, very fast database that looks like PostgreSQL but is built for modern hardware and heavy analytics."
+      "description": "CedarDB is a new, very fast database that looks like PostgreSQL but is built for modern hardware and heavy analytics.",
+      "date": null
     },
     {
       "link": "https://blog.sapico.me/posts/optimize-costs-while-using-cline/",
       "title": "Optimizing Costs in Cline for Vibe Coding",
-      "description": "Learn how to effectively choose and utilize different AI models with Cline for vibe-coding, considering capabilities and costs."
+      "description": "Learn how to effectively choose and utilize different AI models with Cline for vibe-coding, considering capabilities and costs.",
+      "date": null
     },
     {
       "link": "https://blog.sapico.me/posts/specification-pattern-in-c-sharp-practical-example/",
       "title": "Specification Pattern in C# - A Practical Example",
-      "description": "A practical guide to the Specification Pattern in C# for cleaner, more testable filtering logic."
+      "description": "A practical guide to the Specification Pattern in C# for cleaner, more testable filtering logic.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.shirtpocket.com/blog/back_in_the_saddle_again",
       "title": "Back in the Saddle (Again)",
-      "description": "Little by Little It’s been about a month since the last update (it’s nice to have a little time to breathe), but it’s time to put out a bunch of little fixes and improvements. They’re pretty minor changes, but worth getting out there, so here we go! September Gurls There are some small bug fixes in the scheduler (mostly having to do with time changes with non-daily copies), but the “big” visible c"
+      "description": "Little by Little It’s been about a month since the last update (it’s nice to have a little time to breathe), but it’s time to put out a bunch of little fixes and improvements. They’re pretty minor changes, but worth getting out there, so here we go! September Gurls There are some small bug fixes in the scheduler (mostly having to do with time changes with non-daily copies), but the “big” visible c",
+      "date": null
     },
     {
       "link": "https://www.shirtpocket.com/blog/music_storage_on_a_nas",
       "title": "SuperDuper, Preview, iTunes, Network Copies, etc.",
-      "description": "I thought I’d discussed this before, but it seems I haven’t! Because my local iTunes folder is large (something on the order of 8TB), and I want it backed up offsite as well as onsite, I use an iSCSI volume as the “local” storage, and then copy that to an SMB folder on the NAS so Roon can get at the share. 1 The iSCSI volume lets Backblaze get at the data (which it won’t do for network volumes), s"
+      "description": "I thought I’d discussed this before, but it seems I haven’t! Because my local iTunes folder is large (something on the order of 8TB), and I want it backed up offsite as well as onsite, I use an iSCSI volume as the “local” storage, and then copy that to an SMB folder on the NAS so Roon can get at the share. 1 The iSCSI volume lets Backblaze get at the data (which it won’t do for network volumes), s",
+      "date": null
     },
     {
       "link": "https://www.shirtpocket.com/blog/quick_security_update",
       "title": "Quick Security Update",
-      "description": "SuperDuper 4.0.10 includes a security update that addresses a recently reported CVE (CVE-2026-107067). macOS Privacy Protection ( TCC 1 ) Normally, on your startup drive, macOS protects personal information (Contacts, Documents, and the like) behind security prompts that I’m sure you’ve seen. When an Application tries to access the data, the user is prompted to confirm that’s what they want. Snaps"
+      "description": "SuperDuper 4.0.10 includes a security update that addresses a recently reported CVE (CVE-2026-107067). macOS Privacy Protection ( TCC 1 ) Normally, on your startup drive, macOS protects personal information (Contacts, Documents, and the like) behind security prompts that I’m sure you’ve seen. When an Application tries to access the data, the user is prompted to confirm that’s what they want. Snaps",
+      "date": null
     }
   ]
 }

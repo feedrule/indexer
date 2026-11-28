@@ -4,17 +4,20 @@
     {
       "link": "https://danielsieger.com/blog/2026/08/03/pmp-mesh-analysis.html",
       "title": "New in PMP: Mesh Analysis",
-      "description": "Many mesh processing algorithms expect reasonably well-formed manifold surface meshes. The same is true for PMP , where manifold meshes are assumed throughout and algorithms may fail in the presence of defects. However, many real-world meshes violate these assumptions in one way or another, making it difficult to understand the root cause of algorithm failures. To help with this, I recently added"
+      "description": "Many mesh processing algorithms expect reasonably well-formed manifold surface meshes. The same is true for PMP , where manifold meshes are assumed throughout and algorithms may fail in the presence of defects. However, many real-world meshes violate these assumptions in one way or another, making it difficult to understand the root cause of algorithm failures. To help with this, I recently added",
+      "date": null
     },
     {
       "link": "https://danielsieger.com/blog/2026/01/01/connected-components.html",
       "title": "Connected Components of a Polygon Mesh",
-      "description": "In mesh processing, we often assume ideal 2-manifold meshes consisting of a single connected component. In practice, however, meshes can be more complex: a single object may actually consist of many disconnected components, as shown in the image above. Depending on your application, you may need to detect these components for further filtering or processing. I recently added connected component de"
+      "description": "In mesh processing, we often assume ideal 2-manifold meshes consisting of a single connected component. In practice, however, meshes can be more complex: a single object may actually consist of many disconnected components, as shown in the image above. Depending on your application, you may need to detect these components for further filtering or processing. I recently added connected component de",
+      "date": null
     },
     {
       "link": "https://danielsieger.com/blog/2025/12/31/public-drafts-with-jekyll.html",
       "title": "Public Drafts With Jekyll",
-      "description": "I’m using Jekyll , a static site generator, to build this website 1 . I always have a number of work-in-progress draft posts floating around, some being merely vague ideas, others close to being ready for publication. Jekyll natively supports working with drafts : files you keep in your _drafts folder are not built by default. They are only included in the build when you explicitly tell Jekyll to"
+      "description": "I’m using Jekyll , a static site generator, to build this website 1 . I always have a number of work-in-progress draft posts floating around, some being merely vague ideas, others close to being ready for publication. Jekyll natively supports working with drafts : files you keep in your _drafts folder are not built by default. They are only included in the build when you explicitly tell Jekyll to",
+      "date": null
     }
   ]
 }

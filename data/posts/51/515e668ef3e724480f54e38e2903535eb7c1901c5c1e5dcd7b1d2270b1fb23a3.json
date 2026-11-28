@@ -4,17 +4,20 @@
     {
       "link": "https://www.chrisportela.com/posts/multiple-ssh-configs/",
       "title": "How and Why to have multiple SSH Configs",
-      "description": "I was reading a blog post about using remote ssh from Cursor/VS Code and it mentioned, sort of offhandedly, to double-check you were not using the wrong SSH config in Cursor or VS Code. Honest first thought: you can point Remote SSH at a specific ssh-config file? Turns out yes — and that is a bigger deal than it sounds (to me…). One file, too many masters Link to heading I don’t know for you, but"
+      "description": "I was reading a blog post about using remote ssh from Cursor/VS Code and it mentioned, sort of offhandedly, to double-check you were not using the wrong SSH config in Cursor or VS Code. Honest first thought: you can point Remote SSH at a specific ssh-config file? Turns out yes — and that is a bigger deal than it sounds (to me…). One file, too many masters Link to heading I don’t know for you, but",
+      "date": null
     },
     {
       "link": "https://www.chrisportela.com/posts/getting-a-personal-domain/",
       "title": "Getting a Personal Domain",
-      "description": "If you’re considering getting a domain for yourself with your name, I have some things you may want to consider first. Having a domain you control on the internet is a huge and awesome thing. It’s what the internet is designed for. Thanks to technical challenges and on-going costs it makes sense why most don’t have one, but it’s still a really cool thing to have. That said, a lot of advice on the"
+      "description": "If you’re considering getting a domain for yourself with your name, I have some things you may want to consider first. Having a domain you control on the internet is a huge and awesome thing. It’s what the internet is designed for. Thanks to technical challenges and on-going costs it makes sense why most don’t have one, but it’s still a really cool thing to have. That said, a lot of advice on the",
+      "date": null
     },
     {
       "link": "https://www.chrisportela.com/posts/notes/setup-macos26-utm/",
       "title": "Setup macOS 26 in UTM",
-      "description": "Installing macOS 26 (developer.apple.com) on UTM requires a special package for it to work. You’ll need to install the Device Support (developer.apple.com) package which avoids needing to install the beta version of XCode simply to run the VM. But if you do need/want the beta version of XCode that also will fix trying to run macOS 26 on a VM."
+      "description": "Installing macOS 26 (developer.apple.com) on UTM requires a special package for it to work. You’ll need to install the Device Support (developer.apple.com) package which avoids needing to install the beta version of XCode simply to run the VM. But if you do need/want the beta version of XCode that also will fix trying to run macOS 26 on a VM.",
+      "date": null
     }
   ]
 }

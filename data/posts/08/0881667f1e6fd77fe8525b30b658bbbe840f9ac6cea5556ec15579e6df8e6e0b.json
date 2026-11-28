@@ -4,7 +4,8 @@
     {
       "link": "https://doi.org/10.5281/zenodo.21261469",
       "title": "CVE-2026-14440: When Cloudflare Universal SSL Makes Strict CAA Controls Disappear",
-      "description": "CVE-2026-14440: how Cloudflare Universal SSL can supersede strict RFC 8657 CAA constraints, weakening certificate-issuance controls."
+      "description": "CVE-2026-14440: how Cloudflare Universal SSL can supersede strict RFC 8657 CAA constraints, weakening certificate-issuance controls.",
+      "date": null
     }
   ]
 }

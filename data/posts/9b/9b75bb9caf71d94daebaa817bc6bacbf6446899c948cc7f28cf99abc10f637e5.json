@@ -4,17 +4,20 @@
     {
       "link": "https://aoaofox.bearblog.dev/implementing-global-illumination-to-lumina-studio/",
       "title": "Implementing Global Illumination to Lumina Studio",
-      "description": "Let's get this out of the way first: I had no valid reasons, nor the game that we are doing, in any shape or needs for the global illumination. I personally think it's just a cool addition to the rendering system and was purely done because I wanted the renderer to feel a bit complete. I am not going to blab on how GI works, why we want them, how it looks cool, how it's an engineering challenge or"
+      "description": "Let's get this out of the way first: I had no valid reasons, nor the game that we are doing, in any shape or needs for the global illumination. I personally think it's just a cool addition to the rendering system and was purely done because I wanted the renderer to feel a bit complete. I am not going to blab on how GI works, why we want them, how it looks cool, how it's an engineering challenge or",
+      "date": null
     },
     {
       "link": "https://aoaofox.bearblog.dev/is-and-will-always-be-a-salieri/",
       "title": "Is and will always be, a Salieri",
-      "description": "One of the most impactful movies that I have watched was Amadeus which surprisingly isn't really about the life of Mozart in my perspective. Antonio Salieri was a renowned composer. He had dedicated his whole life to god, and music, at least it is how it was depicted in the movie. Salieri in the movie was utterly bitter, and envious of the genius Mozart, and one of his lines that struck me the mos"
+      "description": "One of the most impactful movies that I have watched was Amadeus which surprisingly isn't really about the life of Mozart in my perspective. Antonio Salieri was a renowned composer. He had dedicated his whole life to god, and music, at least it is how it was depicted in the movie. Salieri in the movie was utterly bitter, and envious of the genius Mozart, and one of his lines that struck me the mos",
+      "date": null
     },
     {
       "link": "https://aoaofox.bearblog.dev/light-clustering/",
       "title": "Light Clustering",
-      "description": "Now that the eninge has been at the stable point, and our indie project is now entering its alpha production stages, I get to do some experiments for the rendering engine. We've been improving how Lumina handles scenes with many local lights. The dream was to allow an absurd amount of lights (which directs us to deferred rendering) and as much as I wanted to, deferred rendering is still a bit odd"
+      "description": "Now that the eninge has been at the stable point, and our indie project is now entering its alpha production stages, I get to do some experiments for the rendering engine. We've been improving how Lumina handles scenes with many local lights. The dream was to allow an absurd amount of lights (which directs us to deferred rendering) and as much as I wanted to, deferred rendering is still a bit odd",
+      "date": null
     }
   ]
 }

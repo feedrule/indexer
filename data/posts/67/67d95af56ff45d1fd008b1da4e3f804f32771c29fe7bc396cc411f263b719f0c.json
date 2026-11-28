@@ -4,12 +4,14 @@
     {
       "link": "https://triplox.xyz/blog/triplox-log-2-incremental-queries-in-triplox/",
       "title": "Triplox Log 2 - Incremental queries in Triplox",
-      "description": "The current implementation of Triplox contains two query engines. One for standard Datalog queries and one for incremental Datalog queries. The post tries to give some insight into the state of incremental queries in Triplox and the problems and issues one encounters when trying to support many incremental queries at once. Think of an incremental query as computing changes to the result set of a s"
+      "description": "The current implementation of Triplox contains two query engines. One for standard Datalog queries and one for incremental Datalog queries. The post tries to give some insight into the state of incremental queries in Triplox and the problems and issues one encounters when trying to support many incremental queries at once. Think of an incremental query as computing changes to the result set of a s",
+      "date": null
     },
     {
       "link": "https://triplox.xyz/blog/triplox-log-1-introduction/",
       "title": "Triplox Log 1 - Introduction",
-      "description": "I am working on a Datalog database engine à la Datomic on top of object storage. The system is called Triplox (a portemanteau of Triple and Blocks). In an attempt to become a better communicator I decided to start a little log to explain some concepts in Triplox. The backbone of the engine is SlateDB , a key-value store on top of object-storage. Think of SlateDB as RocksDB on top of object-storage"
+      "description": "I am working on a Datalog database engine à la Datomic on top of object storage. The system is called Triplox (a portemanteau of Triple and Blocks). In an attempt to become a better communicator I decided to start a little log to explain some concepts in Triplox. The backbone of the engine is SlateDB , a key-value store on top of object-storage. Think of SlateDB as RocksDB on top of object-storage",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://srcincite.io/blog/2026/01/28/samstung-part-2-remote-code-execution-in-magicinfo-server.html",
       "title": "Samstung Part 2 :: Remote Code Execution in MagicINFO 9 Server",
-      "description": "In part 1 I detailed my approach to following a rabbit hole that almost turned into pre-auth remote code execution with a default setup. Although I didn’t achieve my goal in the first part, on further review of the patches I was finally able to reach a full success - albeit it does take on average ~12 hours to land the shell. Let’s investigate the bug chain and determine why. Please note that in t"
+      "description": "In part 1 I detailed my approach to following a rabbit hole that almost turned into pre-auth remote code execution with a default setup. Although I didn’t achieve my goal in the first part, on further review of the patches I was finally able to reach a full success - albeit it does take on average ~12 hours to land the shell. Let’s investigate the bug chain and determine why. Please note that in t",
+      "date": null
     },
     {
       "link": "https://srcincite.io/blog/2026/01/28/samstung-part-1-remote-code-execution-in-magicinfo-server.html",
       "title": "Samstung Part 1 :: Remote Code Execution in MagicINFO 9 Server",
-      "description": "One weekend, I decided to unpack some of the patches that Samsung have been sending out for their MagicINFO 9 solution. During this process, I discovered multiple vulnerabilities that when chained, achieve pre-authenticated remote code execution. However, along the way, I hit a few failures and I wanted to share them in this blog post so that I don’t feel alone my fellow researchers don’t feel alo"
+      "description": "One weekend, I decided to unpack some of the patches that Samsung have been sending out for their MagicINFO 9 solution. During this process, I discovered multiple vulnerabilities that when chained, achieve pre-authenticated remote code execution. However, along the way, I hit a few failures and I wanted to share them in this blog post so that I don’t feel alone my fellow researchers don’t feel alo",
+      "date": null
     },
     {
       "link": "https://srcincite.io/blog/2024/11/25/remote-code-execution-with-spring-properties.html",
       "title": "Remote Code Execution with Spring Properties",
-      "description": "Recently a past student came to me with a very interesting unauthenticated vulnerability in a Spring application that they were having a hard time exploiting. I managed to spend some time on this problem last weekend and came up with a relatively clean solution, although I would have preferred a more generic solution to exploiting Spring applications via this vector. Let’s dive in, shall we? The V"
+      "description": "Recently a past student came to me with a very interesting unauthenticated vulnerability in a Spring application that they were having a hard time exploiting. I managed to spend some time on this problem last weekend and came up with a relatively clean solution, although I would have preferred a more generic solution to exploiting Spring applications via this vector. Let’s dive in, shall we? The V",
+      "date": null
     }
   ]
 }

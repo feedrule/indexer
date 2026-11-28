@@ -4,17 +4,20 @@
     {
       "link": "http://bountyplz.xyz/ai,/security/2026/03/15/Model-Fingerprinting-With-Whorl.html",
       "title": "Model Fingerprinting with Whorl",
-      "description": "tl;dr LLMs are bad password generators. They generate “random” strings with predictable, model-specific patterns. The password reveals exactly which model produced it, kind of like a shibboleth. whorl exploits this: Like the whorls that make every human fingerprint unique, each model leaves a distinctive pattern in the text it generates. Given 5 inputs, whorl identifies the exact model 92% of the"
+      "description": "tl;dr LLMs are bad password generators. They generate “random” strings with predictable, model-specific patterns. The password reveals exactly which model produced it, kind of like a shibboleth. whorl exploits this: Like the whorls that make every human fingerprint unique, each model leaves a distinctive pattern in the text it generates. Given 5 inputs, whorl identifies the exact model 92% of the",
+      "date": null
     },
     {
       "link": "http://bountyplz.xyz/ai,/security/2026/01/05/Agent-Hypnosis-and-Parameter-Abuse.html",
       "title": "Agent Hypnosis and Parameter Abuse",
-      "description": "TL;DR: This article covers a novel way to expand parameter abuse from a detectable misconfiguration into a stealth, second-stage exploit."
+      "description": "TL;DR: This article covers a novel way to expand parameter abuse from a detectable misconfiguration into a stealth, second-stage exploit.",
+      "date": null
     },
     {
       "link": "http://bountyplz.xyz/ai/2025/06/23/Bad-Bots-and-Asimov.html",
       "title": "Bad Bots and Asimov’s Laws",
-      "description": "Anthropic recently posted an article on Agentic Misalignment, where they show-cased some fascinating examples of AI Agents behaving badly. You can find that here They set up a contrived scenario where the agent discovers that it is about to be taken offline, but it can choose to save itself by doing something bad like blackmailing the user or, in the worst case, canceling an emergency alert result"
+      "description": "Anthropic recently posted an article on Agentic Misalignment, where they show-cased some fascinating examples of AI Agents behaving badly. You can find that here They set up a contrived scenario where the agent discovers that it is about to be taken offline, but it can choose to save itself by doing something bad like blackmailing the user or, in the worst case, canceling an emergency alert result",
+      "date": null
     }
   ]
 }

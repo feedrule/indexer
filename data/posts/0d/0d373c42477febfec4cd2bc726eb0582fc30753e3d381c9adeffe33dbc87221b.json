@@ -4,17 +4,20 @@
     {
       "link": "http://emanueleminotto.github.io/blog/observability-is-a-testing-strategy",
       "title": "Observability Is a Testing Strategy",
-      "description": "A test is an assertion about how a system should behave. An alert is exactly the same thing - it just runs in production, against real traffic, forever. Most teams don’t see it that way. Tests belong to developers, live in the repository and get reviewed. Alerts belong to ops or SRE, live in a dashboard and get added after an incident, without anyone reviewing them. Two worlds, two owners. In Shif"
+      "description": "A test is an assertion about how a system should behave. An alert is exactly the same thing - it just runs in production, against real traffic, forever. Most teams don’t see it that way. Tests belong to developers, live in the repository and get reviewed. Alerts belong to ops or SRE, live in a dashboard and get added after an incident, without anyone reviewing them. Two worlds, two owners. In Shif",
+      "date": null
     },
     {
       "link": "http://emanueleminotto.github.io/blog/code-review-is-a-social-technology",
       "title": "Code Review Is a Social Technology",
-      "description": "Every team I know does code review. Very few have ever asked themselves what they are actually doing when they do it. On paper it’s a simple practice: before a change lands on the main branch, somebody who didn’t write it reads it. It started as a quality control mechanism - Fagan’s formal inspections at IBM in the seventies, with assigned roles, scheduled meetings and defect logs - and over time"
+      "description": "Every team I know does code review. Very few have ever asked themselves what they are actually doing when they do it. On paper it’s a simple practice: before a change lands on the main branch, somebody who didn’t write it reads it. It started as a quality control mechanism - Fagan’s formal inspections at IBM in the seventies, with assigned roles, scheduled meetings and defect logs - and over time",
+      "date": null
     },
     {
       "link": "http://emanueleminotto.github.io/blog/how-much-is-a-bug-worth",
       "title": "How Much Is a Bug Worth?",
-      "description": "A few evenings ago I was out for dinner with a friend who works as a developer. At some point the conversation drifted to work: how do you actually bring some quality into a company that doesn’t seem to want any? Which arguments land, and which ones fall flat. And almost by reflex, one of us pulled out the classic argument - the one we all reach for sooner or later: look how much a bug costs you i"
+      "description": "A few evenings ago I was out for dinner with a friend who works as a developer. At some point the conversation drifted to work: how do you actually bring some quality into a company that doesn’t seem to want any? Which arguments land, and which ones fall flat. And almost by reflex, one of us pulled out the classic argument - the one we all reach for sooner or later: look how much a bug costs you i",
+      "date": null
     }
   ]
 }

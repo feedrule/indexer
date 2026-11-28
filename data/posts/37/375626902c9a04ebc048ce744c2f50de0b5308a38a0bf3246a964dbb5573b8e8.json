@@ -4,17 +4,20 @@
     {
       "link": "https://kimsal.com/blog/2026/03/20/a-bit-of-feedback/",
       "title": "A bit of feedback…",
-      "description": "A small bit of feedback… that’s often what a mobile user is looking for. Haptic feedback – a quick device vibration – is great. It’s subtle, quick, doesn’t interrupt, but gives an actual *feeling* that something happened. And… on iOS, it’s harder to do without building a full ‘native mobile app’. iOS Safari doesn’t support..."
+      "description": "A small bit of feedback… that’s often what a mobile user is looking for. Haptic feedback – a quick device vibration – is great. It’s subtle, quick, doesn’t interrupt, but gives an actual *feeling* that something happened. And… on iOS, it’s harder to do without building a full ‘native mobile app’. iOS Safari doesn’t support...",
+      "date": null
     },
     {
       "link": "https://kimsal.com/blog/2025/12/22/php-quality-tools-phpinsights/",
       "title": "PHP Quality Tools – phpinsights",
-      "description": "phpinsights is a tool you can use to get a nice overview of the quality state of a PHP project. The tool will analyze the code, complexity, architecture and some code style rules, then present four corresponding scores. Measuring over time will give you a sense of which areas of your code are improving, and..."
+      "description": "phpinsights is a tool you can use to get a nice overview of the quality state of a PHP project. The tool will analyze the code, complexity, architecture and some code style rules, then present four corresponding scores. Measuring over time will give you a sense of which areas of your code are improving, and...",
+      "date": null
     },
     {
       "link": "https://kimsal.com/blog/2025/12/18/php-quality-tools-phploc-lines-of-code/",
       "title": "PHP Quality Tools – phploc lines of code",
-      "description": "Need to check the lines of code in a PHP codebase? The phploc tool has you covered. This will give a summary of lines of code, separating out comments and non-comments, then gives you a whole lot more. The cyclocmatic complexity measure is possible one of the more useful tools. Understanding that you have classes..."
+      "description": "Need to check the lines of code in a PHP codebase? The phploc tool has you covered. This will give a summary of lines of code, separating out comments and non-comments, then gives you a whole lot more. The cyclocmatic complexity measure is possible one of the more useful tools. Understanding that you have classes...",
+      "date": null
     }
   ]
 }

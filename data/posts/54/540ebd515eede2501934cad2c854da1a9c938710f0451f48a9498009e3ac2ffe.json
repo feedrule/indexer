@@ -4,17 +4,20 @@
     {
       "link": "https://briandouglas.ie/mariadb-enum-fix",
       "title": "MariaDB Typescript enum fix",
-      "description": "Recently I was looking through the github issues for the MariaDB nodejs connector project for some low hanging fruit. I came across [issue 347](https://github.com/mariadb-corporation/mariadb-connector-nodejs/issues/347). This is something that is common in projects written in Javascript that are consumed via a Typescript project. The crux of the problem is the difference between a `const enum` and"
+      "description": "Recently I was looking through the github issues for the MariaDB nodejs connector project for some low hanging fruit. I came across [issue 347](https://github.com/mariadb-corporation/mariadb-connector-nodejs/issues/347). This is something that is common in projects written in Javascript that are consumed via a Typescript project. The crux of the problem is the difference between a `const enum` and",
+      "date": null
     },
     {
       "link": "https://briandouglas.ie/adapt-improvise-overcome",
       "title": "Adapt, improvise, and overcome",
-      "description": "On social media and YouTube I've been seeing a lot of influential developers complain about how LLM usage in programming has left them feeling. Mostly these complaints are along the lines of \"I feel like my skillset is no longer important\", \"I feel no satisfaction when an LLM successfully writes a bunch of code for me\", or \"I feel like my career is over, the LLM will replace me\". What a bunch of c"
+      "description": "On social media and YouTube I've been seeing a lot of influential developers complain about how LLM usage in programming has left them feeling. Mostly these complaints are along the lines of \"I feel like my skillset is no longer important\", \"I feel no satisfaction when an LLM successfully writes a bunch of code for me\", or \"I feel like my career is over, the LLM will replace me\". What a bunch of c",
+      "date": null
     },
     {
       "link": "https://briandouglas.ie/command-pattern-js-canvas",
       "title": "Command pattern for canvas games",
-      "description": "Despite popular opinion, I still belive in the use of design patterns where applicable. I've been reading through Bob Nystroms [Game Programming Patterns](https://gameprogrammingpatterns.com/command.html) from 2014. The great thing about these sort of programming books is that they hold up really well. The patterns present are just as relevant today as they were in 2014."
+      "description": "Despite popular opinion, I still belive in the use of design patterns where applicable. I've been reading through Bob Nystroms [Game Programming Patterns](https://gameprogrammingpatterns.com/command.html) from 2014. The great thing about these sort of programming books is that they hold up really well. The patterns present are just as relevant today as they were in 2014.",
+      "date": null
     }
   ]
 }

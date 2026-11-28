@@ -4,17 +4,20 @@
     {
       "link": "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra",
       "title": "Building a high-fidelity 3D real-time rendered background scene using Fable and Astra",
-      "description": "I recently attended a fantastic design workshop by Meng To and it got me thinking about how I could jazz up the Hezo homepage with something that was really eye-catching and yet elegant. I wanted something that would convey the same information as the current page and yet visually lead the reader towards the call-to-action. You can see the finished animation at the top! And see the live version at"
+      "description": "I recently attended a fantastic design workshop by Meng To and it got me thinking about how I could jazz up the Hezo homepage with something that was really eye-catching and yet elegant. I wanted something that would convey the same information as the current page and yet visually lead the reader towards the call-to-action. You can see the finished animation at the top! And see the live version at",
+      "date": null
     },
     {
       "link": "https://hiddentao.com/archives/2026/04/26/the-definitive-guide-to-writing-great-skill-files-for-ai-agents",
       "title": "The definitive guide to writing great skill files for AI agents",
-      "description": "Update (15/09/2026): This post is now packaged up as a SKILL itself, see https://github.com/hiddentao/claude-code-plugins . An agent skill file is an essential document for any web app you choose to deploy today. It tells AI agents how to use and interact with your web app. Without it an AI agent simply isn't going to be able to figure everything out about your product, especially so the more comp"
+      "description": "Update (15/09/2026): This post is now packaged up as a SKILL itself, see https://github.com/hiddentao/claude-code-plugins . An agent skill file is an essential document for any web app you choose to deploy today. It tells AI agents how to use and interact with your web app. Without it an AI agent simply isn't going to be able to figure everything out about your product, especially so the more comp",
+      "date": null
     },
     {
       "link": "https://hiddentao.com/archives/2024/11/16/bundling-your-nodejs-web-app-into-a-single-executable-using-bun",
       "title": "Bundling your Node.js web app into a single executable using Bun",
-      "description": "In my recent project, Chatfall , I successfully bundled an entire Node.js web app into a single executable using Bun . A native executable binary is generated for every supported platform that internally contains all of the following: ElysiaJS backend. ReactJS frontend web app. Drizzle ORM migration scripts. Static assets (images, JS, etc) to be served up by the Node.js web server. Bundling everyt"
+      "description": "In my recent project, Chatfall , I successfully bundled an entire Node.js web app into a single executable using Bun . A native executable binary is generated for every supported platform that internally contains all of the following: ElysiaJS backend. ReactJS frontend web app. Drizzle ORM migration scripts. Static assets (images, JS, etc) to be served up by the Node.js web server. Bundling everyt",
+      "date": null
     }
   ]
 }

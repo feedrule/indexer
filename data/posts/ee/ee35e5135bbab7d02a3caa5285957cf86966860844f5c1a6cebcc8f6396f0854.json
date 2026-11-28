@@ -4,17 +4,20 @@
     {
       "link": "https://bec-systems.com/blog/0365-build-your-own-tools/",
       "title": "🛠️ Should your team build its own tools?",
-      "description": "When do you build tools vs. buy them? In a recent meeting, someone proposed replacing Jira with a tool they had built with AI, to address some friction points we have with Jira. An experienced member of the team objected with the following points: Building our own tools that we can buy is a distraction from the team’s core purpose. What happens when the person who built the custom tool leaves? Wha"
+      "description": "When do you build tools vs. buy them? In a recent meeting, someone proposed replacing Jira with a tool they had built with AI, to address some friction points we have with Jira. An experienced member of the team objected with the following points: Building our own tools that we can buy is a distraction from the team’s core purpose. What happens when the person who built the custom tool leaves? Wha",
+      "date": null
     },
     {
       "link": "https://bec-systems.com/blog/0364-organizational-leverage/",
       "title": "🧱 Organizational leverage",
-      "description": "In a recent conversation, Yuval commented on how organizations are using AI: more and more people will become “builders” - and that will create a proliferation of small apps/skills - where organizational leverage will become an issue. its the challenge of BYO IT but amplified 10x… “Organizational leverage” — how do we achieve this? The simplest path I know of is to make sure as much of what we do"
+      "description": "In a recent conversation, Yuval commented on how organizations are using AI: more and more people will become “builders” - and that will create a proliferation of small apps/skills - where organizational leverage will become an issue. its the challenge of BYO IT but amplified 10x… “Organizational leverage” — how do we achieve this? The simplest path I know of is to make sure as much of what we do",
+      "date": null
     },
     {
       "link": "https://bec-systems.com/blog/0363-go-makes-it-easy-to-respond-to-the-emudhra-certificate-issue/",
       "title": "🔐 Go makes it easy to respond to the eMudhra certificate issue",
-      "description": "The recent eMudhra certificate issue increases the possibility of a man-in-the-middle attack on IoT devices. On a Linux-based edge device, updating the ca-certificates package fixes this, but a system update can take time to roll out. Apps written in Go have a faster option: rebuild with Go 1.26.10 or 1.27.3, which block the eight eMudhra intermediates regardless of the device’s CA bundle. Many sy"
+      "description": "The recent eMudhra certificate issue increases the possibility of a man-in-the-middle attack on IoT devices. On a Linux-based edge device, updating the ca-certificates package fixes this, but a system update can take time to roll out. Apps written in Go have a faster option: rebuild with Go 1.26.10 or 1.27.3, which block the eight eMudhra intermediates regardless of the device’s CA bundle. Many sy",
+      "date": null
     }
   ]
 }

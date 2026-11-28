@@ -4,17 +4,20 @@
     {
       "link": "https://nowigetit.us/blog/llm-post-processing.html",
       "title": "LLM post-processing",
-      "description": "Claude's response is never the final answer. Between the model's last token and the HTML that lands in S3, Now I Get It! runs a pipeline that filters, augments, and instruments the page. Here's what's in it and why each piece earned its spot."
+      "description": "Claude's response is never the final answer. Between the model's last token and the HTML that lands in S3, Now I Get It! runs a pipeline that filters, augments, and instruments the page. Here's what's in it and why each piece earned its spot.",
+      "date": null
     },
     {
       "link": "https://nowigetit.us/blog/curated-design-styles-no-deploy-required.html",
       "title": "Curated design styles, no deploy required",
-      "description": "A dropdown now lets customers pick a visual style for their generated page -- Academic Editorial, Vintage Travel Poster, Brutalist, and more. The interesting part was making the styles editable by an operator without touching code."
+      "description": "A dropdown now lets customers pick a visual style for their generated page -- Academic Editorial, Vintage Travel Poster, Brutalist, and more. The interesting part was making the styles editable by an operator without touching code.",
+      "date": null
     },
     {
       "link": "https://nowigetit.us/blog/inline-editing-now-available.html",
       "title": "Inline editing now available!",
-      "description": "Sometimes, AI-generated web pages contain small errors. These are now fixable by using the built-in HTML and KaTeX editor."
+      "description": "Sometimes, AI-generated web pages contain small errors. These are now fixable by using the built-in HTML and KaTeX editor.",
+      "date": null
     }
   ]
 }

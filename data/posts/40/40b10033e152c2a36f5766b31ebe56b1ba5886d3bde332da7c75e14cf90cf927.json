@@ -4,17 +4,20 @@
     {
       "link": "https://aalhour.com/posts/beachdb-crash-testing-part1/",
       "title": "Crash-only confidence, part 1: from random kills to exact boundaries",
-      "description": "A crash test that cannot explain itself is mostly theater."
+      "description": "A crash test that cannot explain itself is mostly theater.",
+      "date": null
     },
     {
       "link": "https://aalhour.com/posts/beachdb-sstables-v1/",
       "title": "Making the on-disk state real: Sorted-String Tables (SSTables)",
-      "description": "Files are easy; files you can trust, inspect, and recover from are the real step."
+      "description": "Files are easy; files you can trust, inspect, and recover from are the real step.",
+      "date": null
     },
     {
       "link": "https://aalhour.com/posts/beachdb-memtable-v1/",
       "title": "The Memtable: where writes go to wait",
-      "description": "Before the disk gets involved, memory has to learn the rules."
+      "description": "Before the disk gets involved, memory has to learn the rules.",
+      "date": null
     }
   ]
 }

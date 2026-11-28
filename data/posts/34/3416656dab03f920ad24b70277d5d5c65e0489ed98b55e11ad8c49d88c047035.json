@@ -4,17 +4,20 @@
     {
       "link": "https://ianduffy.ie/2026/07/01/watching-rte-player-abroad-with-a-tailscale-app-connector/",
       "title": "Watching RTE Player abroad with a Tailscale app connector",
-      "description": "RTE Player, like most Irish broadcasters, is geo locked to Ireland. When I am abroad I still want to watch it, but I have no interest in routing my entire phone through a VPN to get at it. My banking app, my email and everything else can stay on the local connection. I only want the traffic that talks to RTE to look like it is coming from home. The tidy way to do this is a Tailscale app connector."
+      "description": "RTE Player, like most Irish broadcasters, is geo locked to Ireland. When I am abroad I still want to watch it, but I have no interest in routing my entire phone through a VPN to get at it. My banking app, my email and everything else can stay on the local connection. I only want the traffic that talks to RTE to look like it is coming from home. The tidy way to do this is a Tailscale app connector.",
+      "date": null
     },
     {
       "link": "https://ianduffy.ie/2025/05/01/the-best-engineers-make-mistakes/",
       "title": "The Best Engineers Make Mistakes",
-      "description": "You’ve just pushed code that took down production. Your heart races as catastrophic scenarios flood your mind. When you realise you’ve made a significant mistake, this moment tests you like no other. The Reality of Engineering Mistakes In Engineering, we build complex systems with thousands of moving parts, often under time pressure, with incomplete information and questionable dependencies. The q"
+      "description": "You’ve just pushed code that took down production. Your heart races as catastrophic scenarios flood your mind. When you realise you’ve made a significant mistake, this moment tests you like no other. The Reality of Engineering Mistakes In Engineering, we build complex systems with thousands of moving parts, often under time pressure, with incomplete information and questionable dependencies. The q",
+      "date": null
     },
     {
       "link": "https://ianduffy.ie/2025/04/20/why-your-perfect-team-is-actually-falling-apart-communication-matters/",
       "title": "Why Your 'Perfect' Team Is Actually Falling Apart: Communication Matters",
-      "description": "You’ve sent what you thought was a clear message, only to discover it was confusing. Or perhaps you’ve misinterpreted a colleague’s tone in a Slack message and spent the day convinced they’re upset with you. We consistently underestimate how easily human communication breaks down and the emotional fallout. The Hidden Cost of Miscommunication THE INNOCENT QUESTION THAT SPARKED DEFENSIVENESS What ha"
+      "description": "You’ve sent what you thought was a clear message, only to discover it was confusing. Or perhaps you’ve misinterpreted a colleague’s tone in a Slack message and spent the day convinced they’re upset with you. We consistently underestimate how easily human communication breaks down and the emotional fallout. The Hidden Cost of Miscommunication THE INNOCENT QUESTION THAT SPARKED DEFENSIVENESS What ha",
+      "date": null
     }
   ]
 }

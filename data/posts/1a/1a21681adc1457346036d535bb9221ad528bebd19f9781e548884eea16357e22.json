@@ -4,17 +4,20 @@
     {
       "link": "https://www.petrostechchronicles.com/blog/How_I_Let_A_Prompt_Injection_Succeed",
       "title": "How I Let a Prompt Injection Succeed and Still Blocked the 50,000 Euro Discount",
-      "description": "A retrieved document made the model propose a 50,000 euro discount. The prompt injection succeeded, but the action did not. Here is the deterministic policy boundary that stopped it. Part 3 of From Prompt to Proof."
+      "description": "A retrieved document made the model propose a 50,000 euro discount. The prompt injection succeeded, but the action did not. Here is the deterministic policy boundary that stopped it. Part 3 of From Prompt to Proof.",
+      "date": null
     },
     {
       "link": "https://www.petrostechchronicles.com/blog/How_I_Built_A_Signed_Audit_Trail",
       "title": "How I Built a Signed Audit Trail for an LLM System (And Broke It With One SQL Update)",
-      "description": "Most systems already have logs. Can you prove that the logs you show today are the records the system wrote six months ago? Ed25519 signatures, a SHA 256 chain, canonical JSON, and the one SQL update that broke all of it. Part 2 of From Prompt to Proof."
+      "description": "Most systems already have logs. Can you prove that the logs you show today are the records the system wrote six months ago? Ed25519 signatures, a SHA 256 chain, canonical JSON, and the one SQL update that broke all of it. Part 2 of From Prompt to Proof.",
+      "date": null
     },
     {
       "link": "https://www.petrostechchronicles.com/blog/How_I_Measured_The_PII_Layer",
       "title": "How I Measured the PII Layer in Front of an LLM (And Version One Masked the Label, Not the Tax Number)",
-      "description": "Version one of my PII layer masked the words \"tax number\" and let the Greek AFM through. How I measured Presidio, the checksum trap, and the threshold that silently detects nothing. Part 1 of From Prompt to Proof."
+      "description": "Version one of my PII layer masked the words \"tax number\" and let the Greek AFM through. How I measured Presidio, the checksum trap, and the threshold that silently detects nothing. Part 1 of From Prompt to Proof.",
+      "date": null
     }
   ]
 }

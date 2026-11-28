@@ -4,17 +4,20 @@
     {
       "link": "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
       "title": "App stability at scale with a layered defense",
-      "description": "Introduction Artificial intelligence (AI) coding assistants have changed how fast we can ship. They have not changed how mobile users experience a crash. That gap is the pressure every mobile stability program now operates under. The Grab superapp, which millions of users across Southeast Asia use to book rides, order food, and more, operates at a large scale. On Android alone, it spans millions o"
+      "description": "Introduction Artificial intelligence (AI) coding assistants have changed how fast we can ship. They have not changed how mobile users experience a crash. That gap is the pressure every mobile stability program now operates under. The Grab superapp, which millions of users across Southeast Asia use to book rides, order food, and more, operates at a large scale. On Android alone, it spans millions o",
+      "date": null
     },
     {
       "link": "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
       "title": "GrabMart data for faster disease outbreak detection",
-      "description": "Abstract Retail purchases can supplement clinical surveillance because changes in demand for some over-the-counter (OTC) products may appear before confirmed case reports. This article describes an early-stage concept for analysing aggregated GrabMart transaction data to identify unusual changes in product demand. The concept is not a deployed system, and it would require validation by public heal"
+      "description": "Abstract Retail purchases can supplement clinical surveillance because changes in demand for some over-the-counter (OTC) products may appear before confirmed case reports. This article describes an early-stage concept for analysing aggregated GrabMart transaction data to identify unusual changes in product demand. The concept is not a deployed system, and it would require validation by public heal",
+      "date": null
     },
     {
       "link": "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
       "title": "Smarter personalization: How property data helps us understand user price sensitivity",
-      "description": "Introduction Existing systems estimate user price sensitivity primarily from spending behavior or demographic proxies. They do not systematically account for residential property values, which can indicate a user’s financial circumstances. This omission creates three limitations: Limited property insights : Existing profiles do not account for property values. One-dimensional profiles : Users with"
+      "description": "Introduction Existing systems estimate user price sensitivity primarily from spending behavior or demographic proxies. They do not systematically account for residential property values, which can indicate a user’s financial circumstances. This omission creates three limitations: Limited property insights : Existing profiles do not account for property values. One-dimensional profiles : Users with",
+      "date": null
     }
   ]
 }

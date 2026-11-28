@@ -4,17 +4,20 @@
     {
       "link": "https://www.chiply.dev/post-hyperbole-hyrolo",
       "title": "Hyperbole HyRolo: Search, Retrieve and Insert Records, Not Lines",
-      "description": "HyRolo, the full-text search layer of GNU Hyperbole, is a grep-like retrieval tool for records in your knowledge base instead of lines. Rather than retrieving single lines, it retrieves the full hiera..."
+      "description": "HyRolo, the full-text search layer of GNU Hyperbole, is a grep-like retrieval tool for records in your knowledge base instead of lines. Rather than retrieving single lines, it retrieves the full hiera...",
+      "date": null
     },
     {
       "link": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
       "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-      "description": "If you are an Emacs user with a keen eye, you will have noticed that in Emacs Lisp, code is data. After all, 'Lisp' is shorthand for 'List Processing'. One of Elisp's most beautiful features is the fo..."
+      "description": "If you are an Emacs user with a keen eye, you will have noticed that in Emacs Lisp, code is data. After all, 'Lisp' is shorthand for 'List Processing'. One of Elisp's most beautiful features is the fo...",
+      "date": null
     },
     {
       "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
       "title": "Hyperbole Implicit Buttons: Build your Hyperverse",
-      "description": "Your Emacs is full of markup-free hyperlinks embedded in your text, but you're missing a way to utilize them. Think about a file path in a README, a URL in an email, a commit 55a1f0 in a git log, or a..."
+      "description": "Your Emacs is full of markup-free hyperlinks embedded in your text, but you're missing a way to utilize them. Think about a file path in a README, a URL in an email, a commit 55a1f0 in a git log, or a...",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://kenhys.hatenablog.jp/entry/2026/10/07/214713",
       "title": "Testing Japanese IMEs on virtual desktops with virt-japanese-desktop",
-      "description": "Japanese input method editors (IMEs) such as Mozc are essential for typing Japanese (yes, skk, anthy and more, but it's out-of-scope in this article). Testing them is a surprisingly fiddly job: an IME behaves differently depending on the desktop environment (GNOME, KDE, Xfce, Budgie), the input fram…"
+      "description": "Japanese input method editors (IMEs) such as Mozc are essential for typing Japanese (yes, skk, anthy and more, but it's out-of-scope in this article). Testing them is a surprisingly fiddly job: an IME behaves differently depending on the desktop environment (GNOME, KDE, Xfce, Budgie), the input fram…",
+      "date": null
     },
     {
       "link": "https://kenhys.hatenablog.jp/entry/2026/09/19/173344",
       "title": "Building with dh-bazel, buildsystem support for debhelper experiment updates",
-      "description": "Introduction After bazel-bootstrap 7.7.1 was landed into Debian unstable, I'm working on packaging newer Mozc (Most famous Japanese input method editor) with Bazel. Here is the blog entry initial efforts to build Mozc with Bazel at that time. kenhys.hatenablog.jp Then, I've shared implementing PoC d…"
+      "description": "Introduction After bazel-bootstrap 7.7.1 was landed into Debian unstable, I'm working on packaging newer Mozc (Most famous Japanese input method editor) with Bazel. Here is the blog entry initial efforts to build Mozc with Bazel at that time. kenhys.hatenablog.jp Then, I've shared implementing PoC d…",
+      "date": null
     },
     {
       "link": "https://kenhys.hatenablog.jp/entry/2026/09/17/215331",
       "title": "Building Mozc with dh-bazel, buildsystem support for debhelper",
-      "description": "Introduction After bazel-bootstrap 7.7.1 was landed into Debian unstable, I'm working on packaging newer Mozc (Most famous Japanese input method editor) with Bazel. Here is the blog entry initial efforts to build Mozc with Bazel at that time. kenhys.hatenablog.jp Why dh-bazel? After that, newer Mozc…"
+      "description": "Introduction After bazel-bootstrap 7.7.1 was landed into Debian unstable, I'm working on packaging newer Mozc (Most famous Japanese input method editor) with Bazel. Here is the blog entry initial efforts to build Mozc with Bazel at that time. kenhys.hatenablog.jp Why dh-bazel? After that, newer Mozc…",
+      "date": null
     }
   ]
 }

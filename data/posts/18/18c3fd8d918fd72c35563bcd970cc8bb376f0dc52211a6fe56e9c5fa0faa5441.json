@@ -4,17 +4,20 @@
     {
       "link": null,
       "title": "x402 or How to Race Against the Blockchain",
-      "description": "x402 is a rising payment protocol that enables micropayments for web services. Building on top of HTTP, x402 is an extension that allows, e.g., LLM agents to pay for any requests that they make. x402 is backed by a blockchain infrastructure where payments are validated and settled. We discovered …"
+      "description": "x402 is a rising payment protocol that enables micropayments for web services. Building on top of HTTP, x402 is an extension that allows, e.g., LLM agents to pay for any requests that they make. x402 is backed by a blockchain infrastructure where payments are validated and settled. We discovered …",
+      "date": null
     },
     {
       "link": null,
       "title": "VulGenie: Mining Security Patches to Find API Violation Bugs",
-      "description": "As we move to memory safe language, pointer arithmetic no longer is the main source of bugs, instead API misuse becomes a key issue. Complex code is hidden behind API abstractions and developers may make mistakes in how they use these APIs. While API mining has been an active field …"
+      "description": "As we move to memory safe language, pointer arithmetic no longer is the main source of bugs, instead API misuse becomes a key issue. Complex code is hidden behind API abstractions and developers may make mistakes in how they use these APIs. While API mining has been an active field …",
+      "date": null
     },
     {
       "link": null,
       "title": "CrossFit: Demystifying VM Callback Bugs",
-      "description": "Scripting languages are an essential part of many software environments. Common languages like Python, Ruby, or PHP power large parts of the modern web but bugs in their runtime environments allow attackers to break memory safety and sandboxing guarantees. A common bug class is callback bugs which happen when user-defined …"
+      "description": "Scripting languages are an essential part of many software environments. Common languages like Python, Ruby, or PHP power large parts of the modern web but bugs in their runtime environments allow attackers to break memory safety and sandboxing guarantees. A common bug class is callback bugs which happen when user-defined …",
+      "date": null
     }
   ]
 }

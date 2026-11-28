@@ -4,17 +4,20 @@
     {
       "link": "http://acme.com/updates/archive/235.html",
       "title": "11oct2006 Bay Area Sandwiches",
-      "description": "If you follow me on social media you may have noticed me posting photos of sandwiches. A lot of sandwiches. I've been doing this for a long time but for the past year or so, the number has increased. This is because I've been working on a project: a combination map and blog of Bay Area sandwiches. This brings together a bunch of my various interests: Maps . Blogging. The map has an RSS feed that y"
+      "description": "If you follow me on social media you may have noticed me posting photos of sandwiches. A lot of sandwiches. I've been doing this for a long time but for the past year or so, the number has increased. This is because I've been working on a project: a combination map and blog of Bay Area sandwiches. This brings together a bunch of my various interests: Maps . Blogging. The map has an RSS feed that y",
+      "date": null
     },
     {
       "link": "http://acme.com/updates/archive/234.html",
       "title": "03Oct2026 another https outage",
-      "description": "Back in April I had to turn off https service for a month due to getting hammered by LLM scraper bots. I eventually found a software fix that lowered the impact by a lot, so I could turn https back on. Unfortunately the scraper bot traffic has continued to grow, and now even with the previous fix they are causing problems. I have turned https off again. This time fixing it might require new hardwa"
+      "description": "Back in April I had to turn off https service for a month due to getting hammered by LLM scraper bots. I eventually found a software fix that lowered the impact by a lot, so I could turn https back on. Unfortunately the scraper bot traffic has continued to grow, and now even with the previous fix they are causing problems. I have turned https off again. This time fixing it might require new hardwa",
+      "date": null
     },
     {
       "link": "http://acme.com/updates/archive/233.html",
       "title": "02Sep2026 lmin 1.00 released",
-      "description": "First release of my new small LISP interpreter lmin . It is intended to be embeddable as an extension language in other projects. Someday it may become the extension language for emin ."
+      "description": "First release of my new small LISP interpreter lmin . It is intended to be embeddable as an extension language in other projects. Someday it may become the extension language for emin .",
+      "date": null
     }
   ]
 }

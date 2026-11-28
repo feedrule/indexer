@@ -4,17 +4,20 @@
     {
       "link": "https://laedit.net/2026/10/23/migrate-webextension-repositories-to-sourcehut.html",
       "title": "Migrate webextension repositories to sourcehut",
-      "description": "Still had some webextension repos on Azure DevOps and decided to migrate them to sourcehut (and still have some on github but i will migrate them later). Disclaimer : This is in no way a precise how-to or maybe the best way to do that, i will just indicate the steps i followed for my case which is only git repositories and build pipelines. Moving the repo It's the easy part: Create a project and a"
+      "description": "Still had some webextension repos on Azure DevOps and decided to migrate them to sourcehut (and still have some on github but i will migrate them later). Disclaimer : This is in no way a precise how-to or maybe the best way to do that, i will just indicate the steps i followed for my case which is only git repositories and build pipelines. Moving the repo It's the easy part: Create a project and a",
+      "date": null
     },
     {
       "link": "https://laedit.net/2026/10/08/switching-from-pretzel-to-zola.html",
       "title": "Switching from Pretzel to Zola",
-      "description": "Since I replaced Windows by PopOS on my desktop I am in a strange situation: I use Pretzel to generate this blog and my reading list 🇫🇷 but it cannot work on Linux. So I finally decided to change it by one which does and it is Zola . Disclaimer : This is not a precise how-to but more of a note to myself of changes and some tips. Before landing with Zola I searched for a static site generator with"
+      "description": "Since I replaced Windows by PopOS on my desktop I am in a strange situation: I use Pretzel to generate this blog and my reading list 🇫🇷 but it cannot work on Linux. So I finally decided to change it by one which does and it is Zola . Disclaimer : This is not a precise how-to but more of a note to myself of changes and some tips. Before landing with Zola I searched for a static site generator with",
+      "date": null
     },
     {
       "link": "https://laedit.net/2025/08/16/using-dymo-labelwriter-450-on-linux.html",
       "title": "Using a Dymo LabelWriter 450 on Linux",
-      "description": "I am mainly writing this for future me in case I need it again. I needed to print some labels with my Dymo LabelWriter 450 and haven't done this since switching to Linux. Even on Windows it wasn't that easy so I expected some hassle on linux. But it was a breeze : First the driver installation, it appears that there is a package for that sudo apt install printer-driver-dymo Then connecting the pri"
+      "description": "I am mainly writing this for future me in case I need it again. I needed to print some labels with my Dymo LabelWriter 450 and haven't done this since switching to Linux. Even on Windows it wasn't that easy so I expected some hassle on linux. But it was a breeze : First the driver installation, it appears that there is a package for that sudo apt install printer-driver-dymo Then connecting the pri",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://sarahmhigley.com/writing/interactive-lists/",
       "title": "The web needs interactive lists",
-      "description": "One of the priciples of creating new web platform features is \"pave the cowpaths\" -- figure out what cursèd UI developers and designers are already creating with third party HTML/CSS/JS, and brainstorm how to pull it into the web platform. Maybe with an exorcism or two to fix any particularly egregious accessibility problems. When the same principle is applied to web accessibility specs, it genera"
+      "description": "One of the priciples of creating new web platform features is \"pave the cowpaths\" -- figure out what cursèd UI developers and designers are already creating with third party HTML/CSS/JS, and brainstorm how to pull it into the web platform. Maybe with an exorcism or two to fix any particularly egregious accessibility problems. When the same principle is applied to web accessibility specs, it genera",
+      "date": null
     },
     {
       "link": "https://sarahmhigley.com/writing/forced-color-adjust-none/",
       "title": "forced-color-adjust: none is an unavoidable foot gun",
-      "description": "Over the past seven (?!) years at Microsoft, high contrast styles have been a surprisingly consistent source of accessibility issues from partner teams. The surprise is because other common sources of bugs that bubble up to me tend to be either technically complex (e.g. live regions, focus management, assistive tech behavior), or theoretically complex (understanding semantics, assistive tech behav"
+      "description": "Over the past seven (?!) years at Microsoft, high contrast styles have been a surprisingly consistent source of accessibility issues from partner teams. The surprise is because other common sources of bugs that bubble up to me tend to be either technically complex (e.g. live regions, focus management, assistive tech behavior), or theoretically complex (understanding semantics, assistive tech behav",
+      "date": null
     },
     {
       "link": "https://sarahmhigley.com/writing/activedescendant/",
       "title": "Aria-activedescendant is not focus",
-      "description": "For anyone who has not found themselves wading waist-deep through the nigh-unintelligible morass of accessible combobox patterns , aria-activedescendant might seem like yet another esoteric line item in the ARIA spec, or might be wholly unfamiliar. For those unfortunate souls who have peered into the vortex of combobox accessibility long enough for their eyes to bleed and their ears to echo with t"
+      "description": "For anyone who has not found themselves wading waist-deep through the nigh-unintelligible morass of accessible combobox patterns , aria-activedescendant might seem like yet another esoteric line item in the ARIA spec, or might be wholly unfamiliar. For those unfortunate souls who have peered into the vortex of combobox accessibility long enough for their eyes to bleed and their ears to echo with t",
+      "date": null
     }
   ]
 }

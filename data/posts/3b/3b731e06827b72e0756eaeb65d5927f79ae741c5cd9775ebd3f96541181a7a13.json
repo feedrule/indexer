@@ -4,17 +4,20 @@
     {
       "link": "https://www.grokkingandroid.com/a-rough-first-sketch-of-the-compose-runtime/",
       "title": "A Rough First Sketch of the Compose Runtime",
-      "description": "In my series about the inner workings of Jetpack Compose (or Compose Multiplatform), I repeatedly will mention certain parts of the runtime. While I will cover the most relevant parts in separate posts, I provide in this post a high-level view of things. It should help you understand the overall picture while my blog post [...] Continue Reading \"A Rough First Sketch of the Compose Runtime\" The pos"
+      "description": "In my series about the inner workings of Jetpack Compose (or Compose Multiplatform), I repeatedly will mention certain parts of the runtime. While I will cover the most relevant parts in separate posts, I provide in this post a high-level view of things. It should help you understand the overall picture while my blog post [...] Continue Reading \"A Rough First Sketch of the Compose Runtime\" The pos",
+      "date": null
     },
     {
       "link": "https://www.grokkingandroid.com/the-different-node-types-in-jetpack-compose/",
       "title": "The Different Node Types in Jetpack Compose",
-      "description": "If you look at Compose it's weird. You have tons of functions that return nothing. Yet the Android documentation says: Composable functions emit UI hierarchy. What does this actually mean? Well, from a functional programming point of view your innocuous looking stateless composable functions create loads of side effects1). Among other things they create nodes. [...] Continue Reading \"The Different"
+      "description": "If you look at Compose it's weird. You have tons of functions that return nothing. Yet the Android documentation says: Composable functions emit UI hierarchy. What does this actually mean? Well, from a functional programming point of view your innocuous looking stateless composable functions create loads of side effects1). Among other things they create nodes. [...] Continue Reading \"The Different",
+      "date": null
     },
     {
       "link": "https://www.grokkingandroid.com/google-stricter-with-android-releases-due-to-us-devs/",
       "title": "Why Google Limits APIs With Every Android Release: We Devs are to Blame!",
-      "description": "Last week Android Q was released. And the first thing that came to my mind when reading the Android Q announcement was: \"Finer grained location permissions! Thats's great!\" But then, it got me thinking: \"Wait a moment! Why is this even necessary?\" Don't get me wrong, I really think this addition is necessary and it [...] Continue Reading \"Why Google Limits APIs With Every Android Release: We Devs"
+      "description": "Last week Android Q was released. And the first thing that came to my mind when reading the Android Q announcement was: \"Finer grained location permissions! Thats's great!\" But then, it got me thinking: \"Wait a moment! Why is this even necessary?\" Don't get me wrong, I really think this addition is necessary and it [...] Continue Reading \"Why Google Limits APIs With Every Android Release: We Devs",
+      "date": null
     }
   ]
 }

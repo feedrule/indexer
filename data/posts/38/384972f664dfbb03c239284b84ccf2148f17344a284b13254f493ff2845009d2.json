@@ -4,17 +4,20 @@
     {
       "link": "https://www.fbritoferreira.com/blog/axe-needs-review-is-a-to-do-list-not-a-verdict/",
       "title": "axe 'Needs Review' Is a To-Do List, Not a Verdict",
-      "description": "axe reported 1 violation and 107 nodes it would not judge on my own site. The 107 were not noise and not failures; they were unmeasured. What it took to measure them, what the one real miss looked like, and the CI rule I run now."
+      "description": "axe reported 1 violation and 107 nodes it would not judge on my own site. The 107 were not noise and not failures; they were unmeasured. What it took to measure them, what the one real miss looked like, and the CI rule I run now.",
+      "date": null
     },
     {
       "link": "https://www.fbritoferreira.com/blog/owning-the-bff-what-a-frontend-team-learns-running-a-graphql-layer/",
       "title": "Owning the BFF: What a Frontend Team Learns Running a GraphQL Layer",
-      "description": "At Sky the frontend team built and ran its own GraphQL BFF: response times halved at 99.9% uptime, and the failure modes were ours to fix. What ownership actually cost and what it bought."
+      "description": "At Sky the frontend team built and ran its own GraphQL BFF: response times halved at 99.9% uptime, and the failure modes were ours to fix. What ownership actually cost and what it bought.",
+      "date": null
     },
     {
       "link": "https://www.fbritoferreira.com/blog/consolidating-12-streaming-apps-into-2/",
       "title": "Consolidating 12 Streaming Apps Into 2: Lessons From the Frontend Platform Trenches",
-      "description": "At Sky we merged twelve European territory apps into two platforms. Notes on what we unified, what we deliberately left alone, and the parts of the job that had nothing to do with code."
+      "description": "At Sky we merged twelve European territory apps into two platforms. Notes on what we unified, what we deliberately left alone, and the parts of the job that had nothing to do with code.",
+      "date": null
     }
   ]
 }

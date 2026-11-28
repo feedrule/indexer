@@ -4,17 +4,20 @@
     {
       "link": "https://kait2en.org/blog/how-we-fixed-psr-on-t2-macs.html",
       "title": "How we fixed PSR on T2 Macs",
-      "description": "A macOS display trace revealed the sink-specific sequence needed to enable Panel Self Refresh, reduce idle power and reach package C10 on T2 Macs."
+      "description": "A macOS display trace revealed the sink-specific sequence needed to enable Panel Self Refresh, reduce idle power and reach package C10 on T2 Macs.",
+      "date": null
     },
     {
       "link": "https://kait2en.org/blog/thunderbolterella.html",
       "title": "Thunderbolterella Swallowed the Whole Apple",
-      "description": "The hunt for deep package C-states on the 15,1 MacBook Pro gets ugly"
+      "description": "The hunt for deep package C-states on the 15,1 MacBook Pro gets ugly",
+      "date": null
     },
     {
       "link": "https://kait2en.org/blog/enfant-terrible.html",
       "title": "Enfant Terrible",
-      "description": "Fedora rebuilt the initramfs, four T2 modules quietly disappeared and an encrypted MacBook was left with a passphrase prompt it could not type into."
+      "description": "Fedora rebuilt the initramfs, four T2 modules quietly disappeared and an encrypted MacBook was left with a passphrase prompt it could not type into.",
+      "date": null
     }
   ]
 }

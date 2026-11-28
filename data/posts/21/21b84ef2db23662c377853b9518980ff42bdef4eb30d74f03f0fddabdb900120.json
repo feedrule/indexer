@@ -4,17 +4,20 @@
     {
       "link": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
       "title": "Does Ruby on Rails still make sense?",
-      "description": "Someone asked me, given that LLMs exist and likely keep improving, whether I thought Ruby on Rails still made sense? The implication being of course that writing code is now extremely cheap and you can build anything you like in any language, so why not choose to rewrite everything in Rust? I thought this was a great question and obviously it's one that's on every curious developer's mind. The ans"
+      "description": "Someone asked me, given that LLMs exist and likely keep improving, whether I thought Ruby on Rails still made sense? The implication being of course that writing code is now extremely cheap and you can build anything you like in any language, so why not choose to rewrite everything in Rust? I thought this was a great question and obviously it's one that's on every curious developer's mind. The ans",
+      "date": null
     },
     {
       "link": "https://tech.dirkjonker.nl/on-using-uuids-as-primary-keys/",
       "title": "On using UUIDs",
-      "description": "I want to talk about using UUIDs (as primary keys) and why it may be a pretty decent default. Let's first quickly go over all the situations for which we would absolutely need UUIDs: You need primary keys to be generated in a decentralised manner and consolidate them later You need 128 bits and you need a standard format supported in a lot of places You need to support a system already using UUIDs"
+      "description": "I want to talk about using UUIDs (as primary keys) and why it may be a pretty decent default. Let's first quickly go over all the situations for which we would absolutely need UUIDs: You need primary keys to be generated in a decentralised manner and consolidate them later You need 128 bits and you need a standard format supported in a lot of places You need to support a system already using UUIDs",
+      "date": null
     },
     {
       "link": "https://tech.dirkjonker.nl/rails-and-the-templating-problem/",
       "title": "Using an \"ORM\" for HTML",
-      "description": "I want to splurge some words about Rails templates. A freshly generated Rails project comes with ERB-based templates for its views. This is totally fine. I've been using them for years now, and I can build nice things with it, I dare say. Rails has some good conventions and as long as you stick to the naming conventions of views, you'll have a good time. The files are mostly just HTML with some he"
+      "description": "I want to splurge some words about Rails templates. A freshly generated Rails project comes with ERB-based templates for its views. This is totally fine. I've been using them for years now, and I can build nice things with it, I dare say. Rails has some good conventions and as long as you stick to the naming conventions of views, you'll have a good time. The files are mostly just HTML with some he",
+      "date": null
     }
   ]
 }

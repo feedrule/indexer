@@ -4,17 +4,20 @@
     {
       "link": "https://kleiber.me/blog/2026/07/07/my-first-agentic-remote-system/",
       "title": "My First Agentic Remote Setup",
-      "description": "I have been working with AI – Machine Learning – and more recently, Large Language Models for quite some time now. Especially over the last couple of years, I have experimented with many different kinds of AI systems, ranging from simple chatbot interfaces to RAG systems, fully-fledged LLM-powered applications, coding assistants, and everything in between. Of course, with the advent of truly agent"
+      "description": "I have been working with AI – Machine Learning – and more recently, Large Language Models for quite some time now. Especially over the last couple of years, I have experimented with many different kinds of AI systems, ranging from simple chatbot interfaces to RAG systems, fully-fledged LLM-powered applications, coding assistants, and everything in between. Of course, with the advent of truly agent",
+      "date": null
     },
     {
       "link": "https://kleiber.me/blog/2026/03/22/custom-openclaw-skill-for-todayingolearned/",
       "title": "A Custom OpenClaw Skill for TodayIngoLearned",
-      "description": "In 2020, I developed TodayIngoLearned ( blog post ), a personal knowledge and learning management system based on the idea of storing the things I learn during the day. Since then, the project (see GitHub ) has slowly evolved – but strictly as a private project which only ever gets updated when I need or want a new feature. As one does, I have been playing around with OpenClaw a lot lately, and as"
+      "description": "In 2020, I developed TodayIngoLearned ( blog post ), a personal knowledge and learning management system based on the idea of storing the things I learn during the day. Since then, the project (see GitHub ) has slowly evolved – but strictly as a private project which only ever gets updated when I need or want a new feature. As one does, I have been playing around with OpenClaw a lot lately, and as",
+      "date": null
     },
     {
       "link": "https://kleiber.me/blog/2026/02/08/basic-example-format-based-text-watermarking/",
       "title": "A Basic Example for Format-Based Text Watermarking",
-      "description": "Have you ever wondered if (and how) a text (in the sense of a string of characters) might be watermarked to verify its authenticity or origin? The answer to this question is a set of approaches summarized under the heading of “text watermarking”. Ultimately, the goal is simple: We want to create or modify a text so that it contains an (invisible) watermark that can later be checked to verify the t"
+      "description": "Have you ever wondered if (and how) a text (in the sense of a string of characters) might be watermarked to verify its authenticity or origin? The answer to this question is a set of approaches summarized under the heading of “text watermarking”. Ultimately, the goal is simple: We want to create or modify a text so that it contains an (invisible) watermark that can later be checked to verify the t",
+      "date": null
     }
   ]
 }

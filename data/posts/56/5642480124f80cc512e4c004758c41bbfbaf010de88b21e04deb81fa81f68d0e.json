@@ -4,17 +4,20 @@
     {
       "link": "https://amund.blog/modded-nanogpt-sub-30s-record-attempt/",
       "title": "Sub-30s LLM Pretraining on 8×H100? Modded-NanoGPT World Record Attempt (29.90 s)",
-      "description": "A third Track 1 modded-nanogpt record attempt, building on @caraxesml's #404: six small, exact GPU fixes (+175 lines) cross below 30 seconds at 29.90 s across 12 runs vs 30.05 s for #404 on the same 8×H100 node. In review as PRs #406 and #407."
+      "description": "A third Track 1 modded-nanogpt record attempt, building on @caraxesml's #404: six small, exact GPU fixes (+175 lines) cross below 30 seconds at 29.90 s across 12 runs vs 30.05 s for #404 on the same 8×H100 node. In review as PRs #406 and #407.",
+      "date": null
     },
     {
       "link": "https://amund.blog/modded-nanogpt-second-record-attempt/",
       "title": "My 2nd modded-nanogpt world record attempt: 30.67 seconds?",
-      "description": "My second record attempt on modded-nanogpt: four overheads removed from the current record's training step (#393), with no change to the model, data or step count. 30.67 s over 12 runs vs 31.32 s for #393's code on the same 8×H100 node. In review as PRs #396 and #397, not an accepted record."
+      "description": "My second record attempt on modded-nanogpt: four overheads removed from the current record's training step (#393), with no change to the model, data or step count. 30.67 s over 12 runs vs 31.32 s for #393's code on the same 8×H100 node. In review as PRs #396 and #397, not an accepted record.",
+      "date": null
     },
     {
       "link": "https://amund.blog/modded-nanogpt-record-attempt/",
       "title": "My first modded-nanogpt attempt: 34.9 seconds?",
-      "description": "My first record attempt on modded-nanogpt, building on other people's work: two open PRs (#379, #375) combined, certified over 18 runs at 34.86 s vs 40.16 s for the current record's code on the same 8×H100 node, plus a small timing fix proposed separately. In review, not an accepted record."
+      "description": "My first record attempt on modded-nanogpt, building on other people's work: two open PRs (#379, #375) combined, certified over 18 runs at 34.86 s vs 40.16 s for the current record's code on the same 8×H100 node, plus a small timing fix proposed separately. In review, not an accepted record.",
+      "date": null
     }
   ]
 }

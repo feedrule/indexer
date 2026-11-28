@@ -4,7 +4,8 @@
     {
       "link": "https://snowchord.com/blog/linear-attention-visualized/",
       "title": "Linear Attention, Visualized",
-      "description": "In July 2026, Moonshot released Kimi K3 , a 2T-parameter model with a 1M-token context window. K3 uses Moonshot's linear-attention variant, Kimi Delta Attention (KDA). Moonshot reports that it trails only Claude Fable 5 and GPT-5.6 Sol across its evaluation suite. NVIDIA had already made a similar choice in Nemotron 3 , which combines softmax attention with Mamba-2 recurrent layers. KDA and Mamba-"
+      "description": "In July 2026, Moonshot released Kimi K3 , a 2T-parameter model with a 1M-token context window. K3 uses Moonshot's linear-attention variant, Kimi Delta Attention (KDA). Moonshot reports that it trails only Claude Fable 5 and GPT-5.6 Sol across its evaluation suite. NVIDIA had already made a similar choice in Nemotron 3 , which combines softmax attention with Mamba-2 recurrent layers. KDA and Mamba-",
+      "date": null
     }
   ]
 }

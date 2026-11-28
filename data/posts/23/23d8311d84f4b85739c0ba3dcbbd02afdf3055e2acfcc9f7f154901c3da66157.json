@@ -4,17 +4,20 @@
     {
       "link": "https://douglasrumbaugh.com/post/completing-the-square/",
       "title": "Completing the Square",
-      "description": "Completing the Square January 11, 2026 ~11 min It's been a very long time since I've had a chance to even think about posting something to this blog. In the interest of getting something out there, I want to share some notes that I wrote up for a precalculus class that I taught last semester on completing the square. This is a fairly common approach for solving quadratic equations and is discussed"
+      "description": "Completing the Square January 11, 2026 ~11 min It's been a very long time since I've had a chance to even think about posting something to this blog. In the interest of getting something out there, I want to share some notes that I wrote up for a precalculus class that I taught last semester on completing the square. This is a fairly common approach for solving quadratic equations and is discussed",
+      "date": null
     },
     {
       "link": "https://douglasrumbaugh.com/post/eqn-mathml/",
       "title": "Using eqn for Website Equation Formatting",
-      "description": "Using eqn for Website Equation Formatting January 14, 2025 ~17 min Last year, I began the process of writing a static site generator to replace Hugo for my personal website. One major goal of this process was to remove all Javascript [1] . This meant that I could not continue to use MathJax for rendering mathematics, and instead had to devise a way of formatting equations statically. I had the beg"
+      "description": "Using eqn for Website Equation Formatting January 14, 2025 ~17 min Last year, I began the process of writing a static site generator to replace Hugo for my personal website. One major goal of this process was to remove all Javascript [1] . This meant that I could not continue to use MathJax for rendering mathematics, and instead had to devise a way of formatting equations statically. I had the beg",
+      "date": null
     },
     {
       "link": "https://douglasrumbaugh.com/post/lists-revisited/",
       "title": "Linked Lists Revisited",
-      "description": "Linked Lists Revisited December 13, 2023 ~7 min In a previous post I discussed linked lists versus arrays, and ran a number of simple benchmarks with both structures to demonstrate that the common advice of \"use linked lists for insertion heavy workloads\" doesn't always pan out in practice. But it got me thinking about possible ways to account for some of the root causes of the poor list performan"
+      "description": "Linked Lists Revisited December 13, 2023 ~7 min In a previous post I discussed linked lists versus arrays, and ran a number of simple benchmarks with both structures to demonstrate that the common advice of \"use linked lists for insertion heavy workloads\" doesn't always pan out in practice. But it got me thinking about possible ways to account for some of the root causes of the poor list performan",
+      "date": null
     }
   ]
 }

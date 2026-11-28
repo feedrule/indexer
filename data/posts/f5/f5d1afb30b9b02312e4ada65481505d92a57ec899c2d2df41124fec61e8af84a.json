@@ -4,17 +4,20 @@
     {
       "link": "https://sundayswift.com/posts/building-symposium/",
       "title": "Symposium: Agents That Start Themselves",
-      "description": "What happens when you take the human out of the agent loop. Building an autonomous issue-to-PR pipeline in Rust with MCP, fail-open design, and filesystem IPC."
+      "description": "What happens when you take the human out of the agent loop. Building an autonomous issue-to-PR pipeline in Rust with MCP, fail-open design, and filesystem IPC.",
+      "date": null
     },
     {
       "link": "https://sundayswift.com/posts/preparing-ios-codebase-for-ai-agents/",
       "title": "Preparing Your iOS Codebase for AI Agents",
-      "description": "What I learned setting up a large-scale iOS codebase so that AI coding agents can work in it effectively, from hierarchical documentation to executable skills."
+      "description": "What I learned setting up a large-scale iOS codebase so that AI coding agents can work in it effectively, from hierarchical documentation to executable skills.",
+      "date": null
     },
     {
       "link": "https://sundayswift.com/posts/how-our-agents-test-their-own-ios-changes/",
       "title": "How Our Agents Test Their Own iOS Changes",
-      "description": "How we built a skill that lets AI coding agents verify their own iOS changes on a real simulator, with video recording and accessibility auditing."
+      "description": "How we built a skill that lets AI coding agents verify their own iOS changes on a real simulator, with video recording and accessibility auditing.",
+      "date": null
     }
   ]
 }

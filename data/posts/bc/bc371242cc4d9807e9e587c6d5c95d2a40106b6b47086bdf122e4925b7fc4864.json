@@ -4,17 +4,20 @@
     {
       "link": "https://sgnt.ai/p/jev/",
       "title": "You could have built Jev",
-      "description": "At the end of this (short, simple, illustrated) article, you should be able to reason about Jev from first principles."
+      "description": "At the end of this (short, simple, illustrated) article, you should be able to reason about Jev from first principles.",
+      "date": null
     },
     {
       "link": "https://sgnt.ai/p/the-software-i-stopped-writing/",
       "title": "Maybe Software Stops Being the Default",
-      "description": "I used to write little translators for my bank exports. Then ChatGPT wrote them. Now nobody writes them: I hand an agent the file. As agents get better at following instructions, more tasks stop needing durable, task-specific software at all."
+      "description": "I used to write little translators for my bank exports. Then ChatGPT wrote them. Now nobody writes them: I hand an agent the file. As agents get better at following instructions, more tasks stop needing durable, task-specific software at all.",
+      "date": null
     },
     {
       "link": "https://sgnt.ai/p/terrible-mistake/",
       "title": "Chat, we've made a terrible mistake...",
-      "description": "I hit enter too early on a message to Claude and it identified the fundamental design flaw in our codebase before I could describe it. Three LLMs had signed the thing off as essentially perfect. Nobody was in \"are we solving the right problem\" mode."
+      "description": "I hit enter too early on a message to Claude and it identified the fundamental design flaw in our codebase before I could describe it. Three LLMs had signed the thing off as essentially perfect. Nobody was in \"are we solving the right problem\" mode.",
+      "date": null
     }
   ]
 }

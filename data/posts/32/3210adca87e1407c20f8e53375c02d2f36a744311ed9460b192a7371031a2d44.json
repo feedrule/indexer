@@ -4,17 +4,20 @@
     {
       "link": "https://alangrow.com/blog/a-decade-of-kill-bugs?from=atom",
       "title": "A Decade of Kill Bugs",
-      "description": "On the morning of September 24th 2026, Endcrawl had a brief outage. I'd just typed: sudo kill -TERM -1490947 And instantly all services went down. Right away I blamed myself. Maybe I mistyped that number! Maybe my code had a signal handling bug. Maybe I don't understand Unix as well as I think I do. Maybe I'm an idiot! As it turned out, the outage was caused by a bug in kill(1) . This is really su"
+      "description": "On the morning of September 24th 2026, Endcrawl had a brief outage. I'd just typed: sudo kill -TERM -1490947 And instantly all services went down. Right away I blamed myself. Maybe I mistyped that number! Maybe my code had a signal handling bug. Maybe I don't understand Unix as well as I think I do. Maybe I'm an idiot! As it turned out, the outage was caused by a bug in kill(1) . This is really su",
+      "date": null
     },
     {
       "link": "https://alangrow.com/blog/rose-tinted-classes?from=atom",
       "title": "Rose Tinted Classes: An SVG Filter Function CSS Trick",
-      "description": "In this post, we'll use CSS and SVG filter functions to tint an element's content Rose Quartz, Pantone's 2016 Color of the Year . The exact hex triplet for Rose Quartz is probably a trade secret, so I'll be using and praying I don't get sued by Big Color. Here's the content we're trying to rose tint: Homesteading in Pie Town Faro and Doris Caudill, homesteaders, Pie Town, New Mexico. Faro and Dori"
+      "description": "In this post, we'll use CSS and SVG filter functions to tint an element's content Rose Quartz, Pantone's 2016 Color of the Year . The exact hex triplet for Rose Quartz is probably a trade secret, so I'll be using and praying I don't get sued by Big Color. Here's the content we're trying to rose tint: Homesteading in Pie Town Faro and Doris Caudill, homesteaders, Pie Town, New Mexico. Faro and Dori",
+      "date": null
     },
     {
       "link": "https://alangrow.com/blog/mental-models-and-potemkin-understanding-in-llms?from=atom",
       "title": "Mental Models and Potemkin Understanding in LLMs",
-      "description": "When you count \"one, two, three...\" what's actually happening in your head? Maybe you see or hear something. Does your best friend use that same mental model? Now what about an LLM? (What's that you say, your best friend is an LLM? Pardon me for assuming!) Let Me Count the Ways to Count During grad school Feynman went through an obsessive counting phase . At first, he was curious whether he could"
+      "description": "When you count \"one, two, three...\" what's actually happening in your head? Maybe you see or hear something. Does your best friend use that same mental model? Now what about an LLM? (What's that you say, your best friend is an LLM? Pardon me for assuming!) Let Me Count the Ways to Count During grad school Feynman went through an obsessive counting phase . At first, he was curious whether he could",
+      "date": null
     }
   ]
 }

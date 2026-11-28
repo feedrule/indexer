@@ -4,17 +4,20 @@
     {
       "link": "https://blog.jongallant.com/2026/10/copilot-cli-composable-statuslines/",
       "title": "Track PRs, Issues, and Agents in Copilot CLI Statuslines",
-      "description": "I built composable Copilot CLI statuslines so you can check PRs, issues, and subagents at a glance, then open GitHub links without searching your session."
+      "description": "I built composable Copilot CLI statuslines so you can check PRs, issues, and subagents at a glance, then open GitHub links without searching your session.",
+      "date": null
     },
     {
       "link": "https://blog.jongallant.com/2026/07/copilot-canvas-github-store/",
       "title": "Make a Copilot Canvas Multiplayer with a GitHub Repo",
-      "description": "githubStore backs a Copilot canvas with a JSON file in a GitHub repo, so everyone editing the same board sees each other's changes. One file, many writers."
+      "description": "githubStore backs a Copilot canvas with a JSON file in a GitHub repo, so everyone editing the same board sees each other's changes. One file, many writers.",
+      "date": null
     },
     {
       "link": "https://blog.jongallant.com/2026/07/azd-app-service-containers/",
       "title": "Deploy Containers to Azure App Service with azd",
-      "description": "azd 1.27.0 deploys container images to Azure App Service. Set language: docker with host: appservice and azd builds the image, pushes it to ACR, and updates the site."
+      "description": "azd 1.27.0 deploys container images to Azure App Service. Set language: docker with host: appservice and azd builds the image, pushes it to ACR, and updates the site.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://seld.be/notes/surfacing-public-api-changes",
       "title": "Making public API surfaces changes more visible in open source libraries",
-      "description": "While reviewing pull requests it often happened to me that I missed a new public (or even protected) method being added. A public constant slips in. A new property with a suboptimal name or type. This is in general not a huge deal in closed source......"
+      "description": "While reviewing pull requests it often happened to me that I missed a new public (or even protected) method being added. A public constant slips in. A new property with a suboptimal name or type. This is in general not a huge deal in closed source......",
+      "date": null
     },
     {
       "link": "https://seld.be/notes/narrowing-types-for-static-analysis",
       "title": "Narrowing types for static analysis",
-      "description": "I have spent the last year moving a few big old codebases, including Composer, to PHPStan's level 8. Here are a few lessons I think I have learned in the process. I was for a while skeptical about using the baseline feature as it seemed to me like......"
+      "description": "I have spent the last year moving a few big old codebases, including Composer, to PHPStan's level 8. Here are a few lessons I think I have learned in the process. I was for a while skeptical about using the baseline feature as it seemed to me like......",
+      "date": null
     },
     {
       "link": "https://seld.be/notes/a-nomenclature-of-hate",
       "title": "A nomenclature of hate",
-      "description": "(What feels like) a lifetime of maintaining open source projects has left me with some things to say about the haters. I'm not sure why. Trying to do a light take of it instead of getting mad, here is a post categorizing them. Your average online......"
+      "description": "(What feels like) a lifetime of maintaining open source projects has left me with some things to say about the haters. I'm not sure why. Trying to do a light take of it instead of getting mad, here is a post categorizing them. Your average online......",
+      "date": null
     }
   ]
 }

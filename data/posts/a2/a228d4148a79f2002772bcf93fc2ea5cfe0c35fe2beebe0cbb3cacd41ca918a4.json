@@ -4,17 +4,20 @@
     {
       "link": "https://coles.codes/posts/herdr-vs-cmux/",
       "title": "herdr vs cmux, after two months on each",
-      "description": "I left cmux for herdr at the start of June because its remote support did not fit how I work. Maybe I should have waited a little longer! cmux shipped a daemon that keeps SSH terminals alive across reconnects on 1 June, then added SSH agent forwarding on 4 June. I stayed on herdr anyway. I’ve now spent about two months with each, moving between Linux boxes and my Mac while running several coding a"
+      "description": "I left cmux for herdr at the start of June because its remote support did not fit how I work. Maybe I should have waited a little longer! cmux shipped a daemon that keeps SSH terminals alive across reconnects on 1 June, then added SSH agent forwarding on 4 June. I stayed on herdr anyway. I’ve now spent about two months with each, moving between Linux boxes and my Mac while running several coding a",
+      "date": null
     },
     {
       "link": "https://coles.codes/posts/reviewing-code-you-didnt-write/",
       "title": "Reviewing code you didn't write",
-      "description": "Most of my last couple of weeks have been spent on code reviews and planning. Everyone can write code fast and cheaply , teammates and agents both, so the wall of PRs mounts quicker than anyone can read it. Reviewing is how I stay a contributor to all that code: reading a change properly, even just its core path, means I know what’s going on in that part of the system and I can still challenge the"
+      "description": "Most of my last couple of weeks have been spent on code reviews and planning. Everyone can write code fast and cheaply , teammates and agents both, so the wall of PRs mounts quicker than anyone can read it. Reviewing is how I stay a contributor to all that code: reading a change properly, even just its core path, means I know what’s going on in that part of the system and I can still challenge the",
+      "date": null
     },
     {
       "link": "https://coles.codes/posts/where-the-agents-run/",
       "title": "Where I run my coding agents, and why it depends on the box",
-      "description": "I use Pi and Claude Code day to day, and I run them in two places. On my Mac, Claude Code’s permissions stay on because the box holds personal credentials and uncommitted work. On a pair of second-hand Dell micros, both agents run unattended with scoped project access and no irreplaceable local state. I assume an unattended agent will eventually do something I didn’t mean, so the useful safety que"
+      "description": "I use Pi and Claude Code day to day, and I run them in two places. On my Mac, Claude Code’s permissions stay on because the box holds personal credentials and uncommitted work. On a pair of second-hand Dell micros, both agents run unattended with scoped project access and no irreplaceable local state. I assume an unattended agent will eventually do something I didn’t mean, so the useful safety que",
+      "date": null
     }
   ]
 }

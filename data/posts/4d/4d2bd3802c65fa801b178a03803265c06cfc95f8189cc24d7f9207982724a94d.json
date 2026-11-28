@@ -4,17 +4,20 @@
     {
       "link": "https://paika.tech/blog/2026/01/18/llm-on-call.html",
       "title": "Trusting LLM’s with Root Access",
-      "description": "Working on the Presidential AI mentions made it obvious to me how good LLM agents (particularly Claude Code) were at doing operations. I had the LLM do it all - I just gave it root access to an AWS account, and it created the buckets, SQS queues, ECR, ECS, all the good three letter services. Stitched them all together and I just operated the system via chat (hey add more videos to transcribe, plea"
+      "description": "Working on the Presidential AI mentions made it obvious to me how good LLM agents (particularly Claude Code) were at doing operations. I had the LLM do it all - I just gave it root access to an AWS account, and it created the buckets, SQS queues, ECR, ECS, all the good three letter services. Stitched them all together and I just operated the system via chat (hey add more videos to transcribe, plea",
+      "date": null
     },
     {
       "link": "https://paika.tech/blog/2026/01/15/llm-blame.html",
       "title": "Agents - Who’s to Blame?",
-      "description": "2026 will see the industry roll out large-scale cloud agent orchestration systems at large companies. One of the biggest questions will be - how does identity (authn and authz) work? When something goes wrong, whose responsibility is it to own that failure?"
+      "description": "2026 will see the industry roll out large-scale cloud agent orchestration systems at large companies. One of the biggest questions will be - how does identity (authn and authz) work? When something goes wrong, whose responsibility is it to own that failure?",
+      "date": null
     },
     {
       "link": "https://paika.tech/blog/2026/01/12/distributed-s3-eval.html",
       "title": "Distributed S3 LLM Eval",
-      "description": "Building on my LLM eval framework, I added a much harder test - build a three node distributed S3 cluster. The eval would run the binaries, and do chaos testing - killing nodes, recovering them, etc."
+      "description": "Building on my LLM eval framework, I added a much harder test - build a three node distributed S3 cluster. The eval would run the binaries, and do chaos testing - killing nodes, recovering them, etc.",
+      "date": null
     }
   ]
 }

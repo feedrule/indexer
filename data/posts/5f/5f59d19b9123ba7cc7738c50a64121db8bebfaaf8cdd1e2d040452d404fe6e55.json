@@ -4,17 +4,20 @@
     {
       "link": "https://www.staszewski.xyz/blog/building-a-flight-controller-in-rust/",
       "title": "Building a flight controller in Rust",
-      "description": "Designing a Rust flight controller as a chain of trust"
+      "description": "Designing a Rust flight controller as a chain of trust",
+      "date": null
     },
     {
       "link": "https://www.staszewski.xyz/blog/ardupilot-gazebo-ubuntu24/",
       "title": "ArduPilot SITL + Gazebo on Ubuntu 24.04",
-      "description": "A step-by-step guide to getting ArduPilot SITL and Gazebo Harmonic working on Ubuntu 24.04"
+      "description": "A step-by-step guide to getting ArduPilot SITL and Gazebo Harmonic working on Ubuntu 24.04",
+      "date": null
     },
     {
       "link": "https://www.staszewski.xyz/blog/collision-replanning/",
       "title": "Polynomial Trajectory Optimization for Quadrotors",
-      "description": "Why quadrotors minimize snap from first principles, and why obstacle-free waypoints don't guarantee an obstacle-free trajectory."
+      "description": "Why quadrotors minimize snap from first principles, and why obstacle-free waypoints don't guarantee an obstacle-free trajectory.",
+      "date": null
     }
   ]
 }

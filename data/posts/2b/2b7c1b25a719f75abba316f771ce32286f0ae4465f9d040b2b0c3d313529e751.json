@@ -4,17 +4,20 @@
     {
       "link": "https://piljoong.dev/posts/upstream-and-downstream-are-not-directions/",
       "title": "Upstream and Downstream Are Not Directions",
-      "description": "The incident review started with a sentence that sounded ordinary. “The downstream service returned bad data.” Everyone knew what the speaker meant."
+      "description": "The incident review started with a sentence that sounded ordinary. “The downstream service returned bad data.” Everyone knew what the speaker meant.",
+      "date": null
     },
     {
       "link": "https://piljoong.dev/posts/turning-agent-work-into-a-system/",
       "title": "Turning Agent Work Into a System",
-      "description": "In the last post, I argued that prompting is not the system. The missing layer was the system that keeps work in a known, controlled state while it changes. That is what I started calling Ordo."
+      "description": "In the last post, I argued that prompting is not the system. The missing layer was the system that keeps work in a known, controlled state while it changes. That is what I started calling Ordo.",
+      "date": null
     },
     {
       "link": "https://piljoong.dev/posts/from-prompting-to-context-still-not-the-system/",
       "title": "From Prompting to Context. Still Not the System.",
-      "description": "Early on, prompting felt like the core problem. If you wrote better prompts, you got better results. That framing made sense for a while."
+      "description": "Early on, prompting felt like the core problem. If you wrote better prompts, you got better results. That framing made sense for a while.",
+      "date": null
     }
   ]
 }

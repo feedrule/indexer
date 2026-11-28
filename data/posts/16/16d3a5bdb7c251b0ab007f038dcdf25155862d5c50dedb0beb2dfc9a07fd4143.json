@@ -4,17 +4,20 @@
     {
       "link": "https://brooksmcmillin.com/blog/dead-path-persistence",
       "title": "A Coding Agent Read a File That Didn't Exist Five Times, Then Blamed the Tools",
-      "description": "A Claude Code session confabulated a nonexistent Python file, persisted against five truthful \"does not exist\" errors, then self-diagnosed as corrupted tool output. A reconstruction from the raw transcript, a corpus scan across 3,001 sessions on whether the failure is worse in Opus 4.8, and a model-independent mitigation."
+      "description": "A Claude Code session confabulated a nonexistent Python file, persisted against five truthful \"does not exist\" errors, then self-diagnosed as corrupted tool output. A reconstruction from the raw transcript, a corpus scan across 3,001 sessions on whether the failure is worse in Opus 4.8, and a model-independent mitigation.",
+      "date": null
     },
     {
       "link": "https://brooksmcmillin.com/blog/wiring-capability-warrants-autonomous-agents",
       "title": "Wiring capability warrants into autonomous agents",
-      "description": "Why OAuth scopes aren't enough for autonomous LLM agents calling MCP tools, and how we wired Tenuo capability warrants end-to-end. Scope-gated rollout, two real bugs, multi-hop delegation, and an attack the warrant catches."
+      "description": "Why OAuth scopes aren't enough for autonomous LLM agents calling MCP tools, and how we wired Tenuo capability warrants end-to-end. Scope-gated rollout, two real bugs, multi-hop delegation, and an attack the warrant catches.",
+      "date": null
     },
     {
       "link": "https://brooksmcmillin.com/blog/poisoning-the-safety-net",
       "title": "Poisoning the Safety Net: Attacking AI Code Review Pipelines",
-      "description": "Four months after writing about defense in depth for LLM-assisted development, I went back and tried to attack every layer of my own stack. The obvious attacks are caught by 2026 models. The class isn't closed; the cover stories got better."
+      "description": "Four months after writing about defense in depth for LLM-assisted development, I went back and tried to attack every layer of my own stack. The obvious attacks are caught by 2026 models. The class isn't closed; the cover stories got better.",
+      "date": null
     }
   ]
 }

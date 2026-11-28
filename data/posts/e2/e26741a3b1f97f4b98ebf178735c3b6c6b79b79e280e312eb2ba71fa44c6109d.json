@@ -4,17 +4,20 @@
     {
       "link": "https://advancedweb.hu/shorts/how-to-get-1tb-free-egress-for-amazon-s3-via-cloudfront/",
       "title": "How to get 1TB free egress for Amazon S3 via CloudFront",
-      "description": "S3 offers free egress bandwidth of 100GB per month, while CloudFront pay-as-you-go has 1TB for free. This creates an incentive to add a CloudFront distribution and route read traffic to the bucket via that. There are already a couple of valid reasons to use CloudFront with S3: hosting public files via HTTPS, taking advantage of routing to put everything under one domain, using signed cookies to co"
+      "description": "S3 offers free egress bandwidth of 100GB per month, while CloudFront pay-as-you-go has 1TB for free. This creates an incentive to add a CloudFront distribution and route read traffic to the bucket via that. There are already a couple of valid reasons to use CloudFront with S3: hosting public files via HTTPS, taking advantage of routing to put everything under one domain, using signed cookies to co",
+      "date": null
     },
     {
       "link": "https://advancedweb.hu/backups-with-restic-2-year-retrospective/",
       "title": "Backups with Restic: 2-year retrospective",
-      "description": "Around 2 years ago I started looking into how I could back up my laptop and my phone. I went with Restic and multiple backends for storage and I'm fairly happy with the result, even though I overengineered it a bit. This article is a retrospective: the thought processes behind the design, how it worked in the past 2 years, and what I'll change next when I feel like tinkering with it a bit more. Ha"
+      "description": "Around 2 years ago I started looking into how I could back up my laptop and my phone. I went with Restic and multiple backends for storage and I'm fairly happy with the result, even though I overengineered it a bit. This article is a retrospective: the thought processes behind the design, how it worked in the past 2 years, and what I'll change next when I feel like tinkering with it a bit more. Ha",
+      "date": null
     },
     {
       "link": "https://advancedweb.hu/nixos-first-impressions-writing-system-level-tests/",
       "title": "NixOS first impressions: writing system-level tests",
-      "description": "My motivation for NixOS I've been using Nix for some time now. I converted my dotfiles to mostly Nix, and I'm very happy with how useful it became. The next logical step is NixOS, that applies the same principles to the whole OS. I've been thinking about how I'll use NixOS for a while and now is the time to actually give it a go. Usually when people try out an operating system, they go the usual r"
+      "description": "My motivation for NixOS I've been using Nix for some time now. I converted my dotfiles to mostly Nix, and I'm very happy with how useful it became. The next logical step is NixOS, that applies the same principles to the whole OS. I've been thinking about how I'll use NixOS for a while and now is the time to actually give it a go. Usually when people try out an operating system, they go the usual r",
+      "date": null
     }
   ]
 }

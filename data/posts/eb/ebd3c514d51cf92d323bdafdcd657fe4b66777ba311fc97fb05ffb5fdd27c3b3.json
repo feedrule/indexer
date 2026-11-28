@@ -4,17 +4,20 @@
     {
       "link": "https://potocki.dev/posts/ai-principles-the-parts-you-still-own/",
       "title": "AI Principles — The Parts You Still Own",
-      "description": "Agents write most of our code now. That’s not a complaint — it’s the best leverage I’ve seen in my career. But it’s created a quiet failure mode: people start treating the agent as the engineer, and themselves as the person who pressed go. The output got faster; the responsibility didn’t move anywhere. These are the four principles I keep coming back to with the team. None of them are about prompt"
+      "description": "Agents write most of our code now. That’s not a complaint — it’s the best leverage I’ve seen in my career. But it’s created a quiet failure mode: people start treating the agent as the engineer, and themselves as the person who pressed go. The output got faster; the responsibility didn’t move anywhere. These are the four principles I keep coming back to with the team. None of them are about prompt",
+      "date": null
     },
     {
       "link": "https://potocki.dev/posts/agent-first-designing-for-mcp-cli-as-the-primary-surface/",
       "title": "Agent-First: Designing for MCP and CLI as the Primary Surface",
-      "description": "Most teams still design software like a human is going to click through it. They build the frontend first, treat the API as plumbing behind it, and bolt a CLI on at the end if anyone asks. That order made sense when the user was always a person. It doesn’t anymore. The fastest-growing user of any non-trivial software product right now is an agent — driving it through an API, an MCP server, or a CL"
+      "description": "Most teams still design software like a human is going to click through it. They build the frontend first, treat the API as plumbing behind it, and bolt a CLI on at the end if anyone asks. That order made sense when the user was always a person. It doesn’t anymore. The fastest-growing user of any non-trivial software product right now is an agent — driving it through an API, an MCP server, or a CL",
+      "date": null
     },
     {
       "link": "https://potocki.dev/posts/agentic-engineering-choosing-the-right-level-of-guidance/",
       "title": "Agentic Engineering — Choosing the Right Level of Guidance",
-      "description": "Most engineers on our team are using AI agents now. The question isn’t whether to use them — it’s how . And most people get this wrong. There’s a spectrum from full autonomy (“build me this”) to tight step-by-step direction (“use this exact pattern, handle this edge case, call this function”). Most engineers default to one mode and stay there. The ones producing the best work move fluidly along th"
+      "description": "Most engineers on our team are using AI agents now. The question isn’t whether to use them — it’s how . And most people get this wrong. There’s a spectrum from full autonomy (“build me this”) to tight step-by-step direction (“use this exact pattern, handle this edge case, call this function”). Most engineers default to one mode and stay there. The ones producing the best work move fluidly along th",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.zachleat.com/web/npm-audit-report/",
       "title": "Your Tools are Hiding npm Audits from You",
-      "description": "Meaningful Audits are Important Look at these two npm audit outputs generated this morning and tell me which project is more secure: $ npm audit # uh… 521 lines of vulnerability reports truncated 78 vulnerabilities ( 7 low, 23 moderate, 46 high, 2 critical ) $ npm audit found 0 vulnerabilities Which project is more secure? The one with 0 vulnerabilities, right? Not necessarily! The former was crea"
+      "description": "Meaningful Audits are Important Look at these two npm audit outputs generated this morning and tell me which project is more secure: $ npm audit # uh… 521 lines of vulnerability reports truncated 78 vulnerabilities ( 7 low, 23 moderate, 46 high, 2 critical ) $ npm audit found 0 vulnerabilities Which project is more secure? The one with 0 vulnerabilities, right? Not necessarily! The former was crea",
+      "date": null
     },
     {
       "link": "https://www.zachleat.com/web/firefox-list-all-tabs/",
       "title": "All of my 300+ browser tabs are beautiful",
-      "description": "I am a habitual tab hoarder so I created a Firefox addon to help me manage every one of my very special browser tabs. Sort tabs by oldest, unload them, find duplicates, and consolidate tabs to a single window — buncha useful stuff in there! Download from Mozilla Addons Source code on GitHub Features Go directly to a tab by clicking on it. Shows Duplicate tabs (any tab opened more than once) A spec"
+      "description": "I am a habitual tab hoarder so I created a Firefox addon to help me manage every one of my very special browser tabs. Sort tabs by oldest, unload them, find duplicates, and consolidate tabs to a single window — buncha useful stuff in there! Download from Mozilla Addons Source code on GitHub Features Go directly to a tab by clicking on it. Shows Duplicate tabs (any tab opened more than once) A spec",
+      "date": null
     },
     {
       "link": "https://www.zachleat.com/web/ai-websites/",
       "title": "“AI, make the website good”",
-      "description": "Millions of Large-Language-Model -generated words have been spilled on craftsmanship in this gilded-age of software development . We now have agents to plan how code will be written, agents to write code, agents to review code, agents to orchestrate and dispatch tasks to other more (or less) capable subagents (these heavily subsidized tokens aren’t going to pay for themselves). I’ve been in this g"
+      "description": "Millions of Large-Language-Model -generated words have been spilled on craftsmanship in this gilded-age of software development . We now have agents to plan how code will be written, agents to write code, agents to review code, agents to orchestrate and dispatch tasks to other more (or less) capable subagents (these heavily subsidized tokens aren’t going to pay for themselves). I’ve been in this g",
+      "date": null
     }
   ]
 }

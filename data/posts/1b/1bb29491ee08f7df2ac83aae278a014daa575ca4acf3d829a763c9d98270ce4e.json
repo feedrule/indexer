@@ -4,17 +4,20 @@
     {
       "link": "https://blog.jarv.dev//reverse-engineering-a-legacy-nooie-camera",
       "title": "Reverse-Engineering a Legacy Nooie Camera",
-      "description": "I bought a Nooie Cam 360 ( IPC100B ) five years ago when my son was a baby. For five years, it has been stuck behind the vendor’s Android app: useful for checking in from a phone, useless for everything else. Now that reverse engineering a proprietary protocol is fairly trivial, I finally decided to pull it into Home Assistant (and from there into Google Home and onto the TV). You spin up nooie-pr"
+      "description": "I bought a Nooie Cam 360 ( IPC100B ) five years ago when my son was a baby. For five years, it has been stuck behind the vendor’s Android app: useful for checking in from a phone, useless for everything else. Now that reverse engineering a proprietary protocol is fairly trivial, I finally decided to pull it into Home Assistant (and from there into Google Home and onto the TV). You spin up nooie-pr",
+      "date": null
     },
     {
       "link": "https://blog.jarv.dev//every-joplin-mcp-server-had-the-same-problem-so-i-wrote-one-in-rust",
       "title": "Every Joplin MCP Server Had the Same Problem, So I Wrote One in Rust",
-      "description": "You open three terminal panes to run three concurrent agent sessions. Each session boots its configured MCP servers over stdio . Two seconds later, two of them are wedged waiting on the uv cache lock while the third spends a second and a half warming up a Python interpreter just to read a note from localhost. If you run a single agent at a time, uvx is lovely. The moment you run parallel sessions"
+      "description": "You open three terminal panes to run three concurrent agent sessions. Each session boots its configured MCP servers over stdio . Two seconds later, two of them are wedged waiting on the uv cache lock while the third spends a second and a half warming up a Python interpreter just to read a note from localhost. If you run a single agent at a time, uvx is lovely. The moment you run parallel sessions",
+      "date": null
     },
     {
       "link": "https://blog.jarv.dev//the-edge-and-node-trap",
       "title": "The Edge-and-Node Trap: Why Makefiles Were Never Meant for Tasks",
-      "description": "There is a particular flavour of quiet resignation that settles over an engineering team when someone types this into CI: make -j $( nproc ) all || make -j $( nproc ) all || make -j $( nproc ) all We laugh because it’s absurd. We keep typing it because it passes the build. And we keep using Make because of sheer institutional inertia. Thibaud recently published a crisp, surgical post titled The ca"
+      "description": "There is a particular flavour of quiet resignation that settles over an engineering team when someone types this into CI: make -j $( nproc ) all || make -j $( nproc ) all || make -j $( nproc ) all We laugh because it’s absurd. We keep typing it because it passes the build. And we keep using Make because of sheer institutional inertia. Thibaud recently published a crisp, surgical post titled The ca",
+      "date": null
     }
   ]
 }

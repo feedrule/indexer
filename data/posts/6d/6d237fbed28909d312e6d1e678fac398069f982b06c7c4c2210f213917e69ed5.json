@@ -4,17 +4,20 @@
     {
       "link": "https://strebkov.dev/posts/hand-rolled-vs-libraries/",
       "title": "Do you even need to? Sharded maps vs xsync and otter",
-      "description": "Last time I hand-rolled a 256-way sharded map and crowned it the best concurrent cache in Go’s standard library. The top question back: what about the popular libraries? So I added xsync and otter to the same pinned benchmark. The answer surprised me — for reads, the library wins."
+      "description": "Last time I hand-rolled a 256-way sharded map and crowned it the best concurrent cache in Go’s standard library. The top question back: what about the popular libraries? So I added xsync and otter to the same pinned benchmark. The answer surprised me — for reads, the library wins.",
+      "date": null
     },
     {
       "link": "https://strebkov.dev/posts/shed-your-load/",
       "title": "Shed your load: how a healthy service folds under a spike",
-      "description": "A service whose throughput never drops can still see its goodput collapse to zero under a load spike — and stay collapsed. Why it happens, and three fixes, in Go."
+      "description": "A service whose throughput never drops can still see its goodput collapse to zero under a load spike — and stay collapsed. Why it happens, and three fixes, in Go.",
+      "date": null
     },
     {
       "link": "https://strebkov.dev/posts/shard-your-locks/",
       "title": "Shard your locks: benchmarking 6 Go cache designs",
-      "description": "I built the same in-memory cache six ways with the Go standard library and benchmarked them across read/write mixes and core counts. Lock striping wins by up to 8×, sync.RWMutex turns out to be a trap, and one design gets slower the more cores you add."
+      "description": "I built the same in-memory cache six ways with the Go standard library and benchmarked them across read/write mixes and core counts. Lock striping wins by up to 8×, sync.RWMutex turns out to be a trap, and one design gets slower the more cores you add.",
+      "date": null
     }
   ]
 }

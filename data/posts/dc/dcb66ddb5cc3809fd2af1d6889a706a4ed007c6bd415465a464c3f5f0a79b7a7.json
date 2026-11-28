@@ -4,17 +4,20 @@
     {
       "link": "https://dreith.com/blog/musings-on-the-future-of-ai/",
       "title": "Musings on the Future of AI",
-      "description": "Training new models is prohibitively expensive. The real secret sauce in AI code editors isn't the model—it's the instructions between each request."
+      "description": "Training new models is prohibitively expensive. The real secret sauce in AI code editors isn't the model—it's the instructions between each request.",
+      "date": null
     },
     {
       "link": "https://dreith.com/blog/scaffixer-a-vscode-plugin/",
       "title": "Scaffixer: A VSCode Plugin",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://dreith.com/blog/an-approach-to-JWT-authentication/",
       "title": "An Approach to JWT Authentication",
-      "description": null
+      "description": null,
+      "date": null
     }
   ]
 }

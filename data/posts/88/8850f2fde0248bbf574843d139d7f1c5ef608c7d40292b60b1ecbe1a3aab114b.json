@@ -4,17 +4,20 @@
     {
       "link": "https://hypirion.com/musings/use-python-for-scripting",
       "title": "Use Python for Scripting!",
-      "description": "\"Use the right tool\" is nice in theory, but not when the tool acts a bit differently from machine to machine, and isn't always installed."
+      "description": "\"Use the right tool\" is nice in theory, but not when the tool acts a bit differently from machine to machine, and isn't always installed.",
+      "date": null
     },
     {
       "link": "https://hypirion.com/musings/making-code-generators-pleasant-to-use",
       "title": "Making Code Generators Pleasant to Use",
-      "description": "I feel that code generators for communication protocols are a chore to use. Let's see why that's the case, and how we can improve them."
+      "description": "I feel that code generators for communication protocols are a chore to use. Let's see why that's the case, and how we can improve them.",
+      "date": null
     },
     {
       "link": "https://hypirion.com/musings/no-nix-for-my-ocaml-builds-yet",
       "title": "Why I'm Not Nixing My OCaml Builds (Yet)",
-      "description": "I could ensure my OCaml builds are 100% reproducible, but what's the cost?"
+      "description": "I could ensure my OCaml builds are 100% reproducible, but what's the cost?",
+      "date": null
     }
   ]
 }

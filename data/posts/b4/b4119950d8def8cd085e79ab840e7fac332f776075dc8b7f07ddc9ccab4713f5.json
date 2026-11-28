@@ -4,17 +4,20 @@
     {
       "link": "https://hauptj.com/2026/02/02/meetup-presentations/",
       "title": "Meetup Presentations",
-      "description": "My effort has shifted from writing blog posts to live online presentations. You can find my presentations announced on my LinkedIn, and I will now also be announcing them here as well. The Online Meetups will usually be on the STL Cyber Meetup group which I acquired as well as the DevSecOps Round Table group […]"
+      "description": "My effort has shifted from writing blog posts to live online presentations. You can find my presentations announced on my LinkedIn, and I will now also be announcing them here as well. The Online Meetups will usually be on the STL Cyber Meetup group which I acquired as well as the DevSecOps Round Table group […]",
+      "date": null
     },
     {
       "link": "https://hauptj.com/2025/09/10/latex-solving-missing-disabled-map-files/",
       "title": "LaTeX – Solving Missing / Disabled Map Files",
-      "description": "Perhaps you are getting this error when you are trying to compile a PDF file using pdflatex and are stuck with an error like this: mktexpk: don't know how to create bitmap font for fa5brands1. mktexpk: perhaps fa5brands1 is missing from the map file. or just The problem here is that the fontawesome5.map file that […]"
+      "description": "Perhaps you are getting this error when you are trying to compile a PDF file using pdflatex and are stuck with an error like this: mktexpk: don't know how to create bitmap font for fa5brands1. mktexpk: perhaps fa5brands1 is missing from the map file. or just The problem here is that the fontawesome5.map file that […]",
+      "date": null
     },
     {
       "link": "https://hauptj.com/2025/08/31/microsoft-mtu-mss-issue-he-ipv6-tunnel/",
       "title": "Unable to Access Microsoft Services Behind Hurricane Electric (HE) IPv6 Tunnel",
-      "description": "If you are using an Hurricane Electric IPv6 tunnel and have recently been having issues accessing accessing Microsoft web services, the issue may be due to Microsoft and their CDN provider Akamai now strictly enforcing Maximum Transmission Unit (MTU) and Maximum Segment Size (MSS) TCP/IP header size limits. The issue with tunneled IPv4 to IPv6 […]"
+      "description": "If you are using an Hurricane Electric IPv6 tunnel and have recently been having issues accessing accessing Microsoft web services, the issue may be due to Microsoft and their CDN provider Akamai now strictly enforcing Maximum Transmission Unit (MTU) and Maximum Segment Size (MSS) TCP/IP header size limits. The issue with tunneled IPv4 to IPv6 […]",
+      "date": null
     }
   ]
 }

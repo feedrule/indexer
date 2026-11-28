@@ -4,17 +4,20 @@
     {
       "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
       "title": "Lean Now Ships with Verified Kernels",
-      "description": "AI agents are very effective at finding vulnerabilities in our software. This includes the kernel (the proof checker) of the Lean proof assistant. See our two recent postmortems (August 1, August 24). We are strengthening the official kernel, adding new kernels, and building new tools that simplify rechecking your Lean developments with external kernels. Lean v4.35.0 comes with the lake check comm"
+      "description": "AI agents are very effective at finding vulnerabilities in our software. This includes the kernel (the proof checker) of the Lean proof assistant. See our two recent postmortems (August 1, August 24). We are strengthening the official kernel, adding new kernels, and building new tools that simplify rechecking your Lean developments with external kernels. Lean v4.35.0 comes with the lake check comm",
+      "date": null
     },
     {
       "link": "https://leodemoura.github.io/blog/2026-8-24-postmortem-for-the-kernel-soundness-bug-hunt/",
       "title": "Postmortem for the Kernel Soundness Bug Hunt",
-      "description": "This is a follow-up to Postmortem for Kernel Soundness Bug #14576. We describe the kernel soundness bug hunt using OpenAI internal models, the new bugs found, and the actions the Lean FRO is taking to increase trust."
+      "description": "This is a follow-up to Postmortem for Kernel Soundness Bug #14576. We describe the kernel soundness bug hunt using OpenAI internal models, the new bugs found, and the actions the Lean FRO is taking to increase trust.",
+      "date": null
     },
     {
       "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
       "title": "Postmortem for Kernel Soundness Bug #14576",
-      "description": "A soundness bug in the Lean kernel (#14576) was reported and fixed during the week of July 27. It has had visibility on Zulip and social media (e.g., X, LinkedIn, and Mastodon)."
+      "description": "A soundness bug in the Lean kernel (#14576) was reported and fixed during the week of July 27. It has had visibility on Zulip and social media (e.g., X, LinkedIn, and Mastodon).",
+      "date": null
     }
   ]
 }

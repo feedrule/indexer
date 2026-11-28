@@ -4,17 +4,20 @@
     {
       "link": "https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-44",
       "title": "Progress Report #44: rustc_codegen_gcc can now bootstrap rustc on Aarch64!",
-      "description": "What is rustc_codegen_gcc? rustc_codegen_gcc is a GCC ahead-of-time codegen for rustc, meaning that it can be loaded by the existing rustc frontend, but benefits from GCC by having more architectures supported and having access to GCC’s optimizations. It is not to..."
+      "description": "What is rustc_codegen_gcc? rustc_codegen_gcc is a GCC ahead-of-time codegen for rustc, meaning that it can be loaded by the existing rustc frontend, but benefits from GCC by having more architectures supported and having access to GCC’s optimizations. It is not to...",
+      "date": null
     },
     {
       "link": "https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-43",
       "title": "rustc_codegen_gcc: Progress Report #43",
-      "description": "What is rustc_codegen_gcc? rustc_codegen_gcc is a GCC ahead-of-time codegen for rustc, meaning that it can be loaded by the existing rustc frontend, but benefits from GCC by having more architectures supported and having access to GCC’s optimizations. It is not to..."
+      "description": "What is rustc_codegen_gcc? rustc_codegen_gcc is a GCC ahead-of-time codegen for rustc, meaning that it can be loaded by the existing rustc frontend, but benefits from GCC by having more architectures supported and having access to GCC’s optimizations. It is not to...",
+      "date": null
     },
     {
       "link": "https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-42",
       "title": "rustc_codegen_gcc: Progress Report #42",
-      "description": "What is rustc_codegen_gcc? rustc_codegen_gcc is a GCC ahead-of-time codegen for rustc, meaning that it can be loaded by the existing rustc frontend, but benefits from GCC by having more architectures supported and having access to GCC’s optimizations. It is not to..."
+      "description": "What is rustc_codegen_gcc? rustc_codegen_gcc is a GCC ahead-of-time codegen for rustc, meaning that it can be loaded by the existing rustc frontend, but benefits from GCC by having more architectures supported and having access to GCC’s optimizations. It is not to...",
+      "date": null
     }
   ]
 }

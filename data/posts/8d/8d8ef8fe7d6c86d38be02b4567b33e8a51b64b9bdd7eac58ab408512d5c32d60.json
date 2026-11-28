@@ -4,17 +4,20 @@
     {
       "link": "https://idov31.github.io/posts/paint-it-blue-reverse-win32k",
       "title": "Paint It Blue: Reversing Win32k's Callbacks",
-      "description": "A reverse-engineering tour of modern Win32k architecture, x64 syscall dispatch, GUI-thread conversion, and the session-aware callbacks behind GDI batching and other executive callouts."
+      "description": "A reverse-engineering tour of modern Win32k architecture, x64 syscall dispatch, GUI-thread conversion, and the session-aware callbacks behind GDI batching and other executive callouts.",
+      "date": null
     },
     {
       "link": "https://idov31.github.io/posts/inside-etw-with-etwsuite",
       "title": "Inside Event Tracing for Windows with EtwSuite",
-      "description": "Event Tracing for Windows is one of Windows' richest telemetry systems. This video introduces the ETW ecosystem and shows how EtwSuite can turn raw provider events into practical security research and UAC-bypass detections."
+      "description": "Event Tracing for Windows is one of Windows' richest telemetry systems. This video introduces the ETW ecosystem and shows how EtwSuite can turn raw provider events into practical security research and UAC-bypass detections.",
+      "date": null
     },
     {
       "link": "https://idov31.github.io/posts/hypervisor-based-defense",
       "title": "Hypervisor Based Defense",
-      "description": "Hey there, it has been a \"little\" while since I published my last post. After scrapping and rewriting multiple ideas, I decided to write something a bit different from my previous posts. This post contains technical information, but I also wanted to share my thoughts after working on a hypervisor project for more than a year."
+      "description": "Hey there, it has been a \"little\" while since I published my last post. After scrapping and rewriting multiple ideas, I decided to write something a bit different from my previous posts. This post contains technical information, but I also wanted to share my thoughts after working on a hypervisor project for more than a year.",
+      "date": null
     }
   ]
 }

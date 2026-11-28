@@ -4,17 +4,20 @@
     {
       "link": "https://peter0x44.github.io/posts/super-gcc/",
       "title": "Building a Host-Tuned GCC to Make GCC Compile Faster",
-      "description": "A while ago, I became interested in reducing my compile times, and examined various methods for this. This blog post is about enabling all compiler options that I believe can make gcc faster when compiling code, and measuring the gains I got as a result. How to Build It mkdir build-gcc16 cd build-gcc16 ../gcc-16.1.0/configure \\ --prefix = \" $HOME /opt/gcc16-super\" \\ --program-prefix = super- \\ --e"
+      "description": "A while ago, I became interested in reducing my compile times, and examined various methods for this. This blog post is about enabling all compiler options that I believe can make gcc faster when compiling code, and measuring the gains I got as a result. How to Build It mkdir build-gcc16 cd build-gcc16 ../gcc-16.1.0/configure \\ --prefix = \" $HOME /opt/gcc16-super\" \\ --program-prefix = super- \\ --e",
+      "date": null
     },
     {
       "link": "https://peter0x44.github.io/posts/vtables-itanium-abi/",
       "title": "How Virtual Tables Work in the Itanium C++ ABI",
-      "description": "Virtual functions are one of C++’s core features, enabling runtime polymorphism. Most C++ programmers use them regularly, yet few understand how they work in practice. What does the compiler actually generate when you declare a function virtual ? How does the program figure out which implementation to call at runtime? Where is the vtable data actually stored? This blog post is focused on answering"
+      "description": "Virtual functions are one of C++’s core features, enabling runtime polymorphism. Most C++ programmers use them regularly, yet few understand how they work in practice. What does the compiler actually generate when you declare a function virtual ? How does the program figure out which implementation to call at runtime? Where is the vtable data actually stored? This blog post is focused on answering",
+      "date": null
     },
     {
       "link": "https://peter0x44.github.io/posts/unmapping-embedded-data/",
       "title": "Unmapping Embedded Executable Data on Linux",
-      "description": "In C and C++ programs, it’s quite common to embed binary data directly in executables. Two straightforward ways are: // C23 #embed const unsigned char texture[] = { #embed \"texture.png\" }; // Or xxd codegen'd array const unsigned char texture_png[] = { 0x89 , 0x50 , 0x4e , 0x47 , /* ... */ }; unsigned int texture_png_len = 12345 ; This is quite convenient. The data is now part of the executable, a"
+      "description": "In C and C++ programs, it’s quite common to embed binary data directly in executables. Two straightforward ways are: // C23 #embed const unsigned char texture[] = { #embed \"texture.png\" }; // Or xxd codegen'd array const unsigned char texture_png[] = { 0x89 , 0x50 , 0x4e , 0x47 , /* ... */ }; unsigned int texture_png_len = 12345 ; This is quite convenient. The data is now part of the executable, a",
+      "date": null
     }
   ]
 }

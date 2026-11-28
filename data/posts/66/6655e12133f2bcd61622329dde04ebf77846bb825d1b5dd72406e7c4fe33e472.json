@@ -4,17 +4,20 @@
     {
       "link": "https://data-processing.club/catalyst/",
       "title": "User-Side Realization as a Catalyst, and the Potential of LLM Agents as Powerful Catalysts",
-      "description": "paper: https://joisino.net/papers/catalyst/ Introduction The web is home to many large platforms, including video-sharing and social networking services. These platforms keep users firmly locked in through factors such as the data users have accumulated on them and the network effects arising from the presence of large numbers of other users. This makes it difficult for better […]"
+      "description": "paper: https://joisino.net/papers/catalyst/ Introduction The web is home to many large platforms, including video-sharing and social networking services. These platforms keep users firmly locked in through factors such as the data users have accumulated on them and the network effects arising from the presence of large numbers of other users. This makes it difficult for better […]",
+      "date": null
     },
     {
       "link": "https://data-processing.club/iagent/",
       "title": "iAgent: LLM Agent as a Shield between User and Recommender Systems Overlooks the Literature on User-Side Recommender Systems",
-      "description": "iAgent [Xu et al., ACL 2025] proposes placing an agent between a provider-side recommender system and the user. The agent searches for relevant knowledge and reranks the recommendations produced by the platform, with the goal of obtaining rankings that better reflect the user’s preferences. The paper motivates this approach as follows: Traditional recommender systems usually […]"
+      "description": "iAgent [Xu et al., ACL 2025] proposes placing an agent between a provider-side recommender system and the user. The agent searches for relevant knowledge and reranks the recommendations produced by the platform, with the goal of obtaining rankings that better reflect the user’s preferences. The paper motivates this approach as follows: Traditional recommender systems usually […]",
+      "date": null
     },
     {
       "link": "https://data-processing.club/collapse/",
       "title": "Model Collapse: AI and diversity",
-      "description": "Model collapse is the phenomenon in which text or images output by AI are uploaded to the internet, those outputs become mixed into AI training data, the AI trained on that data then produces further outputs that are uploaded, and this cycle repeats until AI performance collapses. The most famous study is probably AI models […]"
+      "description": "Model collapse is the phenomenon in which text or images output by AI are uploaded to the internet, those outputs become mixed into AI training data, the AI trained on that data then produces further outputs that are uploaded, and this cycle repeats until AI performance collapses. The most famous study is probably AI models […]",
+      "date": null
     }
   ]
 }

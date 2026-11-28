@@ -4,17 +4,20 @@
     {
       "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
       "title": "Was my $48K GPU server worth it?",
-      "description": "In 2024 I quit my FAANG job to become an independent researcher. To do this I needed GPUs, so I built “grumbl”, a 6x 6000 Ada GPU server. This blog describes the build, some of the issues I faced, and answers the question “was it worth it to build the server myself, or should I […]"
+      "description": "In 2024 I quit my FAANG job to become an independent researcher. To do this I needed GPUs, so I built “grumbl”, a 6x 6000 Ada GPU server. This blog describes the build, some of the issues I faced, and answers the question “was it worth it to build the server myself, or should I […]",
+      "date": null
     },
     {
       "link": "https://rosmine.ai/2025/12/10/a-new-test-for-if-your-llm-is-subtly-manipulating-you/",
       "title": "A new test for if your LLM is subtly manipulating you",
-      "description": "Let’s say I’m a large company and I want to use my LLM to promote my other products, and not mention my competitors. For example, imagine the ML Framework wars have turned vicious and we want to suppress the existence of Pytorch, so if a user wants to implement some ML algorithm, it will give […]"
+      "description": "Let’s say I’m a large company and I want to use my LLM to promote my other products, and not mention my competitors. For example, imagine the ML Framework wars have turned vicious and we want to suppress the existence of Pytorch, so if a user wants to implement some ML algorithm, it will give […]",
+      "date": null
     },
     {
       "link": "https://rosmine.ai/2025/01/30/why-this-ai-thinks-the-xfinity-logo-is-a-hate-symbol/",
       "title": "Why this AI thinks the xfinity logo is a hate symbol",
-      "description": "I was playing around with a vision language model and it thinks this xfinity logo is a hate symbol It’s also overly careful about copyright And here’s the results on the AI logo Rorschach test The reason the model makes these predictions is because I tricked it by creating adversarial examples. If you look closely […]"
+      "description": "I was playing around with a vision language model and it thinks this xfinity logo is a hate symbol It’s also overly careful about copyright And here’s the results on the AI logo Rorschach test The reason the model makes these predictions is because I tricked it by creating adversarial examples. If you look closely […]",
+      "date": null
     }
   ]
 }

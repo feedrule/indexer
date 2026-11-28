@@ -4,17 +4,20 @@
     {
       "link": "https://bloerg.net/posts/margin-an-agent-review-tool/",
       "title": "margin: an agent review tool",
-      "description": "It’s been two years since the last post, so …, what held me back? Primarily, a wonderful daughter found her way into my life, grounding me and giving a lot of purpose to life. Who would have thought, right? But that did not mean I have been slacking. wastebin has been chugging along, binge my binary installer and weave my final zk web frontend have seen the light of day, I finished the meater read"
+      "description": "It’s been two years since the last post, so …, what held me back? Primarily, a wonderful daughter found her way into my life, grounding me and giving a lot of purpose to life. Who would have thought, right? But that did not mean I have been slacking. wastebin has been chugging along, binge my binary installer and weave my final zk web frontend have seen the light of day, I finished the meater read",
+      "date": null
     },
     {
       "link": "https://bloerg.net/posts/inspecting-streams-for-hashing-purposes/",
       "title": "Inspecting streams for hashing purposes",
-      "description": "This is a personal note on how to inspect async streams in order to hash the contents without storing and reading the stream once more. This might become the start of a a series of little code snippets that might be interesting to others as well. Code As an example fetch a URL and compute the SHA256 hash on it: use anyhow :: anyhow ; use futures :: StreamExt ; use sha2 :: Digest ; use std :: path"
+      "description": "This is a personal note on how to inspect async streams in order to hash the contents without storing and reading the stream once more. This might become the start of a a series of little code snippets that might be interesting to others as well. Code As an example fetch a URL and compute the SHA256 hash on it: use anyhow :: anyhow ; use futures :: StreamExt ; use sha2 :: Digest ; use std :: path",
+      "date": null
     },
     {
       "link": "https://bloerg.net/posts/building-rusticl/",
       "title": "Building rusticl",
-      "description": "OpenCL has been with me for more than a decade, back when we decided to use it in our research project to make it the foundation for accelerating synchrotron imaging. Now, as history has shown, OpenCL never really took off, partially because Apple (the initial sponsor) dropped it but more importantly NVIDIA being very successful in locking in people with their proprietary CUDA solution. Neverthele"
+      "description": "OpenCL has been with me for more than a decade, back when we decided to use it in our research project to make it the foundation for accelerating synchrotron imaging. Now, as history has shown, OpenCL never really took off, partially because Apple (the initial sponsor) dropped it but more importantly NVIDIA being very successful in locking in people with their proprietary CUDA solution. Neverthele",
+      "date": null
     }
   ]
 }

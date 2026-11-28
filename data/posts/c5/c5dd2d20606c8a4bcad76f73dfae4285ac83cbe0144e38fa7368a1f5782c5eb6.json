@@ -4,17 +4,20 @@
     {
       "link": "https://haulos.com/blog/firmware-engineering-with-claude/",
       "title": "Firmware Engineering With Claude",
-      "description": "How Claude rewrote the Varjo XR-4 vision processor firmware from scratch, and the engineering practices that made it work."
+      "description": "How Claude rewrote the Varjo XR-4 vision processor firmware from scratch, and the engineering practices that made it work.",
+      "date": "2026-09-27"
     },
     {
       "link": "https://haulos.com/blog/do-not-give-your-agent-github-access/",
       "title": "Why You (Probably) Should Not Give Your Agent GitHub Access",
-      "description": "GitHub's security model assumes human users, not prompt-injectable agents. Three design issues, a GraphQL exfiltration vector found by a Claude pentest, and the layered defenses needed to close them."
+      "description": "GitHub's security model assumes human users, not prompt-injectable agents. Three design issues, a GraphQL exfiltration vector found by a Claude pentest, and the layered defenses needed to close them.",
+      "date": "2026-04-15"
     },
     {
       "link": "https://haulos.com/blog/scheduled-tasks-in-airut/",
       "title": "Scheduled Tasks in Airut",
-      "description": "Airut now supports scheduled tasks -- two modes for running Claude Code on a schedule, enabling automated CI fixes, daily briefings, and pipeline refinement."
+      "description": "Airut now supports scheduled tasks -- two modes for running Claude Code on a schedule, enabling automated CI fixes, daily briefings, and pipeline refinement.",
+      "date": "2026-04-12"
     }
   ]
 }

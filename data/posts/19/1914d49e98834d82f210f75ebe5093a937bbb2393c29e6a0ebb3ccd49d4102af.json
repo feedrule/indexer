@@ -4,17 +4,20 @@
     {
       "link": "https://tenphi.me/blog/runtime-css-in-js-deserves-a-rehearing/",
       "title": "Runtime CSS-in-JS deserves a rehearing",
-      "description": "Runtime CSS-in-JS has real costs, but runtime-capable systems can solve real composition problems. Their cost should be judged against what they enable."
+      "description": "Runtime CSS-in-JS has real costs, but runtime-capable systems can solve real composition problems. Their cost should be judged against what they enable.",
+      "date": null
     },
     {
       "link": "https://tenphi.me/blog/okhst-predictable-color-generation/",
       "title": "OKHST: predictable color generation for user interfaces",
-      "description": "OKHST is a tone-based color space for generating UI palettes that behave more predictably across states, dark mode, and high contrast."
+      "description": "OKHST is a tone-based color space for generating UI palettes that behave more predictably across states, dark mode, and high contrast.",
+      "date": null
     },
     {
       "link": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
       "title": "Why I spent years trying to make CSS states predictable",
-      "description": "Why predictable CSS state resolution matters, and how Tasty approaches it with state maps and non-overlapping selectors."
+      "description": "Why predictable CSS state resolution matters, and how Tasty approaches it with state maps and non-overlapping selectors.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
       "title": "Unit tests mark territory more than squash bugs",
-      "description": "I am a programmer who has worked a lot on hardware, and from that point of view, software testing looks horrible, since software is full of bugs . And you can explain this with, well, they push programmers to ship buggy code since you can always fix the bugs later, and so the program is always full of bugs to be fixed later — whereas with hardware, bugs are often ( not always! ) catastrophic, so t"
+      "description": "I am a programmer who has worked a lot on hardware, and from that point of view, software testing looks horrible, since software is full of bugs . And you can explain this with, well, they push programmers to ship buggy code since you can always fix the bugs later, and so the program is always full of bugs to be fixed later — whereas with hardware, bugs are often ( not always! ) catastrophic, so t",
+      "date": null
     },
     {
       "link": "https://yosefk.com/blog/doing-everyone-elses-job.html",
       "title": "Doing everyone else's job",
-      "description": "I find it very useful to be able to do everyone else’s job — it helps you learn how they work and what they need, and it helps even more when you need their job done, but they won’t do it themselves. If you made something new and those you made it for can’t be bothered to start using it, go ahead and integrate it into their system. It worked for Intel back when they made their first 32-bit CPU and"
+      "description": "I find it very useful to be able to do everyone else’s job — it helps you learn how they work and what they need, and it helps even more when you need their job done, but they won’t do it themselves. If you made something new and those you made it for can’t be bothered to start using it, go ahead and integrate it into their system. It worked for Intel back when they made their first 32-bit CPU and",
+      "date": null
     },
     {
       "link": "https://yosefk.com/blog/llms-struggle-with-the-shell-too.html",
       "title": "LLMs struggle with the shell, too",
-      "description": "You used to tell people, “why are you doing all this by hand — write a script to do it!”, and then “...I meant an actual Python script, not a buggy grep | sed | crap pipeline!” This got better since some of those too lazy to write a script (or not lazy enough to avoid the harder, buggier way?) now ask an LLM for the script. But you know who doesn’t? LLMs! “Agentic LLM harnesses” seem to think it’s"
+      "description": "You used to tell people, “why are you doing all this by hand — write a script to do it!”, and then “...I meant an actual Python script, not a buggy grep | sed | crap pipeline!” This got better since some of those too lazy to write a script (or not lazy enough to avoid the harder, buggier way?) now ask an LLM for the script. But you know who doesn’t? LLMs! “Agentic LLM harnesses” seem to think it’s",
+      "date": null
     }
   ]
 }

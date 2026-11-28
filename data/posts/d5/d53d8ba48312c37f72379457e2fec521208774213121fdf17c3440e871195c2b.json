@@ -4,17 +4,20 @@
     {
       "link": "https://robertwpearce.com/the-hakyll-nix-template-tutorial.html",
       "title": "The hakyll-nix-template Tutorial",
-      "description": "If you’re looking to use hakyll with nix to build static sites, this reference article was made for you! We will be working with the hakyll-nix-template , so go ahead and pull that up in a new browser tab. Its README also contains info on all the features that are provided. Update, July 2026: I’ve given the template a solid overhaul since I first wrote this, so I’ve gone back through the article t"
+      "description": "If you’re looking to use hakyll with nix to build static sites, this reference article was made for you! We will be working with the hakyll-nix-template , so go ahead and pull that up in a new browser tab. Its README also contains info on all the features that are provided. Update, July 2026: I’ve given the template a solid overhaul since I first wrote this, so I’ve gone back through the article t",
+      "date": null
     },
     {
       "link": "https://robertwpearce.com/neovim-all-in.html",
       "title": "Neovim: All In",
-      "description": "This is an accounting of how I recently went all-in on Neovim with its Lua-based configuration ecosystem. Here is my nvim config at time of writing . This folder just needs to live in $XDG_CONFIG_HOME (typically, ~/.config ), and in my case, I symlink it from my dotfiles to there . In this short post, I’ll share about the switch, some screenshots, and list the tools I’m using at the time of writin"
+      "description": "This is an accounting of how I recently went all-in on Neovim with its Lua-based configuration ecosystem. Here is my nvim config at time of writing . This folder just needs to live in $XDG_CONFIG_HOME (typically, ~/.config ), and in my case, I symlink it from my dotfiles to there . In this short post, I’ll share about the switch, some screenshots, and list the tools I’m using at the time of writin",
+      "date": null
     },
     {
       "link": "https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html",
       "title": "Content hashing static assets to break caches with md5sum and bash",
-      "description": "The Problem When I make something for the web, I have plenty of “static assets”: CSS files, JS files, and images. In my HTML files, I reference their sources as you might expect: < link rel = \"stylesheet\" href = \"./styles.css\" /> < script async src = \"./scripts.js\" ></ script > < img src = \"./cool-image.avif\" /> But when a browser downloads these, it will note the source URLs and cache the static"
+      "description": "The Problem When I make something for the web, I have plenty of “static assets”: CSS files, JS files, and images. In my HTML files, I reference their sources as you might expect: < link rel = \"stylesheet\" href = \"./styles.css\" /> < script async src = \"./scripts.js\" ></ script > < img src = \"./cool-image.avif\" /> But when a browser downloads these, it will note the source URLs and cache the static",
+      "date": null
     }
   ]
 }

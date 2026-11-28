@@ -4,17 +4,20 @@
     {
       "link": "https://jonarcher.info/blog/k8s-part-1-proxmox-talos-k8s-opentofu/",
       "title": "Fully Automated Kubernetes Cluster: Proxmox, Talos, OpenTofu and Forgejo",
-      "description": "I’ve been running a homelab Kubernetes cluster for a while now, and kept meaning to write up how it’s all wired together. This is an overview of what will become a series of posts. I’ll be looking to cover each area of the setup, building it up as we go, including code. The main tools I’ve used in this build are Proxmox as a hypervisor running the VMs that make up the Kubernetes cluster. Talos Lin"
+      "description": "I’ve been running a homelab Kubernetes cluster for a while now, and kept meaning to write up how it’s all wired together. This is an overview of what will become a series of posts. I’ll be looking to cover each area of the setup, building it up as we go, including code. The main tools I’ve used in this build are Proxmox as a hypervisor running the VMs that make up the Kubernetes cluster. Talos Lin",
+      "date": null
     },
     {
       "link": "https://jonarcher.info/blog/2025-09-14-cycling-to-carnforth-via-the-trough-of-bowland/",
       "title": "Cycling to Carnforth via the Trough of Bowland",
-      "description": "A cycling journey to Carnforth via the scenic Trough of Bowland, one of Lancashire’s most beautiful routes."
+      "description": "A cycling journey to Carnforth via the scenic Trough of Bowland, one of Lancashire’s most beautiful routes.",
+      "date": null
     },
     {
       "link": "https://jonarcher.info/blog/2024-12-31-cycling-recap-2024/",
       "title": "2024 Cycling Recap",
-      "description": "A scenic summer evening ride along the converted railway paths from Bury to Rawtenstall, taking in the beautiful Kirklees and Irwell trails."
+      "description": "A scenic summer evening ride along the converted railway paths from Bury to Rawtenstall, taking in the beautiful Kirklees and Irwell trails.",
+      "date": null
     }
   ]
 }

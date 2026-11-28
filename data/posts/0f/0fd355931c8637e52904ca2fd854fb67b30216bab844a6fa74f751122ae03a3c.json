@@ -4,17 +4,20 @@
     {
       "link": "https://robinvdvleuten.nl/post/finding-hills-in-a-flat-country-with-phoenix-and-a-rust-nif",
       "title": "Finding hills in a flat country with Phoenix and a Rust NIF",
-      "description": "Heuvelradar finds short, steep running loops in the Netherlands on half-metre AHN heights and works out how many laps reach your climb target. Here is how the search works and why it runs as Rust inside a Phoenix app."
+      "description": "Heuvelradar finds short, steep running loops in the Netherlands on half-metre AHN heights and works out how many laps reach your climb target. Here is how the search works and why it runs as Rust inside a Phoenix app.",
+      "date": null
     },
     {
       "link": "https://robinvdvleuten.nl/post/one-report-html-pdf-and-excel-without-a-headless-browser",
       "title": "One report, rendered to HTML, PDF and Excel without a headless browser",
-      "description": "quario compiles a JSON report document once and renders it as HTML, a paginated PDF, an XLSX workbook, CSV or Word, with no Chromium in your container and no unsafe-eval."
+      "description": "quario compiles a JSON report document once and renders it as HTML, a paginated PDF, an XLSX workbook, CSV or Word, with no Chromium in your container and no unsafe-eval.",
+      "date": null
     },
     {
       "link": "https://robinvdvleuten.nl/post/a-jsonpath-engine-that-follows-the-spec-and-cant-run-code",
       "title": "A JSONPath engine that follows the spec and can't run code",
-      "description": "padvinder is a 2.75KB, zero-dependency JSONPath engine: full RFC 9535 including filters, no eval, no new Function, and safe under a strict CSP."
+      "description": "padvinder is a 2.75KB, zero-dependency JSONPath engine: full RFC 9535 including filters, no eval, no new Function, and safe under a strict CSP.",
+      "date": null
     }
   ]
 }

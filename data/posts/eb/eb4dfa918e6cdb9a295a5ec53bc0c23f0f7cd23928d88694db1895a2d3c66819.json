@@ -4,17 +4,20 @@
     {
       "link": "https://thingsilearned.com/things/charts-built-for-chat",
       "title": "Charts Built for Chat",
-      "description": "It turns out I couldn't stay away from data. For the past nine months I've been working at Fivetran/dbt to make the next generation of BI for AI. In September my team and I launched dbt Charts with a post called Charts built for Chat . It made the front page of Hacker News and kicked off a great discussion. I wanted the argument here on my own blog too, so here it is, lightly rewritten, with a few"
+      "description": "It turns out I couldn't stay away from data. For the past nine months I've been working at Fivetran/dbt to make the next generation of BI for AI. In September my team and I launched dbt Charts with a post called Charts built for Chat . It made the front page of Hacker News and kicked off a great discussion. I wanted the argument here on my own blog too, so here it is, lightly rewritten, with a few",
+      "date": null
     },
     {
       "link": "https://thingsilearned.com/things/django-riff-spa",
       "title": "TIL Making a SPA for Django",
-      "description": "I love reinventing, or atleast re-thinking the wheel. I love the challenge of digging into something and trying to see if I could do anything better or cleverer that what's already out there. Often there's not (spoiler alert - there wasn't here) but I'm left with a much deeper understanding and appreciation for having approached the problem with that curiousity, considering each part and whether i"
+      "description": "I love reinventing, or atleast re-thinking the wheel. I love the challenge of digging into something and trying to see if I could do anything better or cleverer that what's already out there. Often there's not (spoiler alert - there wasn't here) but I'm left with a much deeper understanding and appreciation for having approached the problem with that curiousity, considering each part and whether i",
+      "date": null
     },
     {
       "link": "https://thingsilearned.com/things/markdown-svg",
       "title": "Releasing markdown-svg",
-      "description": "For a recent project I needed to render markdown content inside SVGs. I was surprised to find that nothing already existed—every search led to \"convert markdown to HTML\" or \"embed HTML in SVG using foreignObject.\" Neither solved my actual problem. So I built markdown-svg , a Python library that converts Markdown directly to native SVG elements. It's now available on PyPI and I've also created a li"
+      "description": "For a recent project I needed to render markdown content inside SVGs. I was surprised to find that nothing already existed—every search led to \"convert markdown to HTML\" or \"embed HTML in SVG using foreignObject.\" Neither solved my actual problem. So I built markdown-svg , a Python library that converts Markdown directly to native SVG elements. It's now available on PyPI and I've also created a li",
+      "date": null
     }
   ]
 }

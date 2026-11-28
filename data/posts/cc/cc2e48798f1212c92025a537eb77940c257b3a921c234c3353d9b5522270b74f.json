@@ -4,17 +4,20 @@
     {
       "link": "https://memmof.dev/writing/engineering-loop-workflow",
       "title": "Engineering loop: an AI pipeline that ships PRs on its own",
-      "description": "From a Linear ticket to a reviewed PR with no human in the middle, built on git worktree, a shared CLAUDE.md and a library of skills."
+      "description": "From a Linear ticket to a reviewed PR with no human in the middle, built on git worktree, a shared CLAUDE.md and a library of skills.",
+      "date": null
     },
     {
       "link": "https://memmof.dev/writing/git-worktree-ai-agents",
       "title": "AI + Git Worktree: a multi-agent setup that actually works",
-      "description": "A practical guide to using git worktree for running multiple AI coding agents in parallel, with a bash orchestration script for multi-service architectures."
+      "description": "A practical guide to using git worktree for running multiple AI coding agents in parallel, with a bash orchestration script for multi-service architectures.",
+      "date": null
     },
     {
       "link": "https://memmof.dev/writing/ai-changed-how-i-build-software",
       "title": "How AI changed the way I build software",
-      "description": "After 15 years of shipping production software, AI coding agents brought back the excitement. Here's what actually changed and what didn't."
+      "description": "After 15 years of shipping production software, AI coding agents brought back the excitement. Here's what actually changed and what didn't.",
+      "date": null
     }
   ]
 }

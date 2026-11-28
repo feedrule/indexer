@@ -4,17 +4,20 @@
     {
       "link": "https://omid.dev/2026/11/07/aocr-org-referrer-crawler/",
       "title": "Not Traffic from aocr.org: a Forged-Referrer Crawler",
-      "description": "Matomo has been showing daily visits from www.aocr.org for about a month. The referrer is forged. Fingerprint from this site, how it fits the wider campaign, what not to do, and why I am leaving the traffic alone."
+      "description": "Matomo has been showing daily visits from www.aocr.org for about a month. The referrer is forged. Fingerprint from this site, how it fits the wider campaign, what not to do, and why I am leaving the traffic alone.",
+      "date": null
     },
     {
       "link": "https://omid.dev/2026/10/20/per-user-cloud-oauth-on-one-host/",
       "title": "Per-User Cloud OAuth on One Host",
-      "description": "App credentials are site-wide, but refresh tokens are not shared in .env. Each user connects their own Dropbox or Drive account, and CLI maps to one user."
+      "description": "App credentials are site-wide, but refresh tokens are not shared in .env. Each user connects their own Dropbox or Drive account, and CLI maps to one user.",
+      "date": null
     },
     {
       "link": "https://omid.dev/2026/10/18/webauthn-and-totp-in-frameworkless-php/",
       "title": "WebAuthn and TOTP Without a Framework",
-      "description": "Passkeys and authenticator apps in plain PHP: relying-party identity, session ceremonies, trusted-device cookies, recovery codes, and an explicit CLI exception."
+      "description": "Passkeys and authenticator apps in plain PHP: relying-party identity, session ceremonies, trusted-device cookies, recovery codes, and an explicit CLI exception.",
+      "date": null
     }
   ]
 }

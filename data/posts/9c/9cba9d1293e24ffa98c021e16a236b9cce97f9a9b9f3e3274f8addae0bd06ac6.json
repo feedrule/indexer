@@ -4,17 +4,20 @@
     {
       "link": "https://alex-jacobs.com/posts/claudemd/",
       "title": "I Am Morally Opposed to Updating My CLAUDE.md",
-      "description": "Every CLAUDE.md accumulates rules written in frustration after a single bad agent run, and never loses them. Why agent instruction files decay into a grievance archive, and what to do instead."
+      "description": "Every CLAUDE.md accumulates rules written in frustration after a single bad agent run, and never loses them. Why agent instruction files decay into a grievance archive, and what to do instead.",
+      "date": null
     },
     {
       "link": "https://alex-jacobs.com/posts/42-is-not-a-random-number/",
       "title": "42 Is Not a Random Number",
-      "description": "MCP won and agents are everywhere, but they still fail in the same dumb ways. The fix isn't a smarter model. It's deterministic tools."
+      "description": "MCP won and agents are everywhere, but they still fail in the same dumb ways. The fix isn't a smarter model. It's deterministic tools.",
+      "date": null
     },
     {
       "link": "https://alex-jacobs.com/posts/beatingbert/",
       "title": "Beating BERT? Small LLMs vs Fine-Tuned Encoders for Classification",
-      "description": "I ran 32 experiments comparing small LLMs to BERT on classification tasks. Turns out 2018-era BERT is still really good at what it does."
+      "description": "I ran 32 experiments comparing small LLMs to BERT on classification tasks. Turns out 2018-era BERT is still really good at what it does.",
+      "date": null
     }
   ]
 }

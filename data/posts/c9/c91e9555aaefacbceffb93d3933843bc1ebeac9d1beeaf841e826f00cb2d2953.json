@@ -4,17 +4,20 @@
     {
       "link": "https://samuel.karp.dev/blog/2026/11/containerd-at-kubecon-cloudnativecon-na-2026/",
       "title": "containerd at KubeCon+CloudNativeCon NA 2026",
-      "description": "I’ll be speaking at KubeCon+CloudNativeCon NA 2026 in Salt Lake City next week, talking about containerd again! I like tpo post the talks that are most interesting to me (and some of my booth schedule) in case anyone wants to find me and join me. If you do, please reach out and let me know."
+      "description": "I’ll be speaking at KubeCon+CloudNativeCon NA 2026 in Salt Lake City next week, talking about containerd again! I like tpo post the talks that are most interesting to me (and some of my booth schedule) in case anyone wants to find me and join me. If you do, please reach out and let me know.",
+      "date": null
     },
     {
       "link": "https://samuel.karp.dev/blog/2026/03/balancing-feature-velocity-and-stability-in-containerd/",
       "title": "Balancing feature velocity and stability in containerd",
-      "description": "containerd 2.3 is coming right around the corner, and with it we’ve made some changes to how we produce our releases. I won’t bury the lede here, starting with containerd 2.3, we now have: Annual LTS releases with a two-year support window (starting with 2.3) New releases every four months, aligned with Kubernetes Regular releases now get eight months of support Improved upgrade safety by limiting"
+      "description": "containerd 2.3 is coming right around the corner, and with it we’ve made some changes to how we produce our releases. I won’t bury the lede here, starting with containerd 2.3, we now have: Annual LTS releases with a two-year support window (starting with 2.3) New releases every four months, aligned with Kubernetes Regular releases now get eight months of support Improved upgrade safety by limiting",
+      "date": null
     },
     {
       "link": "https://samuel.karp.dev/blog/2025/12/cash-register-flight-tracker/",
       "title": "More Software for Myself - Cash Register Flight Tracker",
-      "description": "I’ve been interested in ambient data displays for a while. They’re pretty common in modern life: arrival/departure boards for transit or flights, traffic condition signs (“X minutes to Y” on a highway), the current floor display for an elevator, open/closed signs for businesses. Clocks are probably the oldest kind, going back to early timekeeping with sundials. My house is near-enough to an airpor"
+      "description": "I’ve been interested in ambient data displays for a while. They’re pretty common in modern life: arrival/departure boards for transit or flights, traffic condition signs (“X minutes to Y” on a highway), the current floor display for an elevator, open/closed signs for businesses. Clocks are probably the oldest kind, going back to early timekeeping with sundials. My house is near-enough to an airpor",
+      "date": null
     }
   ]
 }

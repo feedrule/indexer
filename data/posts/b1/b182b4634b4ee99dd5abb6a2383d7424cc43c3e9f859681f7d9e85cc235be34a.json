@@ -4,17 +4,20 @@
     {
       "link": "https://unknwon.io/posts/260126-gogs-digitalocean-kubernetes/",
       "title": "Managing Gogs infrastructure with DigitalOcean Kubernetes",
-      "description": "A(nother) brief history In 2024, we presented the Grand scheme of managing Gogs infrastructure on DigitalOcean with Pulumi , where we fully migrated the entire lifecycle of Gogs infrastructure onto Pulumi as the chosen Infrastructure as Code (IaC) provider. However, while all infrastructure resources are managed via IaC, we still have to hand roll every service we own, whose configuration and stat"
+      "description": "A(nother) brief history In 2024, we presented the Grand scheme of managing Gogs infrastructure on DigitalOcean with Pulumi , where we fully migrated the entire lifecycle of Gogs infrastructure onto Pulumi as the chosen Infrastructure as Code (IaC) provider. However, while all infrastructure resources are managed via IaC, we still have to hand roll every service we own, whose configuration and stat",
+      "date": null
     },
     {
       "link": "https://unknwon.io/about/",
       "title": "About",
-      "description": "Welcome! I’m a pessimistic nerd who is deep in the weeds of infrastructure, security, and dev tooling. I work at Pierre Computer Company . Outside work, I am an open source enthusiast who builds things for the poor. I am also running a newsletter Identity, Authenticity, and Security , if you like my work, please consider giving it a look! I’ve programmed with VB 6.0, VB.NET, C# from 2011 to 2013."
+      "description": "Welcome! I’m a pessimistic nerd who is deep in the weeds of infrastructure, security, and dev tooling. I work at Pierre Computer Company . Outside work, I am an open source enthusiast who builds things for the poor. I am also running a newsletter Identity, Authenticity, and Security , if you like my work, please consider giving it a look! I’ve programmed with VB 6.0, VB.NET, C# from 2011 to 2013.",
+      "date": null
     },
     {
       "link": "https://unknwon.io/posts/251029-stack-pull-requests-git-spice/",
       "title": "Managing stack pull requests with git-spice",
-      "description": "This blog post is a counterpart of my earlier post Managing stack pull requests with Graphite . Because I have quit my previous company that purchases Graphite licenses, and also because Graphite is priced ridiculously high (that I can’t afford out-of-pocket), and I don’t use its UI, for reasons, I am still more comfortable using GitHub UI, maybe because that’s more familiar to me. $20 per user/mo"
+      "description": "This blog post is a counterpart of my earlier post Managing stack pull requests with Graphite . Because I have quit my previous company that purchases Graphite licenses, and also because Graphite is priced ridiculously high (that I can’t afford out-of-pocket), and I don’t use its UI, for reasons, I am still more comfortable using GitHub UI, maybe because that’s more familiar to me. $20 per user/mo",
+      "date": null
     }
   ]
 }

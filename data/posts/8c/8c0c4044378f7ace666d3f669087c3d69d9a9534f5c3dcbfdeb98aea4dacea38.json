@@ -4,17 +4,20 @@
     {
       "link": "https://blog.revathskumar.com/2026/06/waybar-custom-module-to-help-you-refocus.html",
       "title": "waybar: custom module to help you refocus",
-      "description": "Couple of months ago when I read the post How I hacked my clock to control my focus by Marc Päpper, It quickly became a daily driver for me. This small hack using a shell script helped me to get back to work quickly when ever I get distracted. I quickly realized that I needed something comparable with waybar after moving to Hyprland. Custom Module I want the module to be dead simple and use only t"
+      "description": "Couple of months ago when I read the post How I hacked my clock to control my focus by Marc Päpper, It quickly became a daily driver for me. This small hack using a shell script helped me to get back to work quickly when ever I get distracted. I quickly realized that I needed something comparable with waybar after moving to Hyprland. Custom Module I want the module to be dead simple and use only t",
+      "date": null
     },
     {
       "link": "https://blog.revathskumar.com/2026/02/hide-your-dotenv-secrets-from-llms-using-pass.html",
       "title": "hide your dotenv secrets from LLMs using pass",
-      "description": "I have been using pass for a while to avoid credentials being saved into CLI history. AWS_SECRET = $( pass show project/dev/aws_secret ) < command > After reading about enveil project, I thought, rather than adding another tool into my arsenal, Why don’t I just use the tools I already have? TLDR: The pass extension and setup instructions can be found in the pass-env Codeberg repository. the bash s"
+      "description": "I have been using pass for a while to avoid credentials being saved into CLI history. AWS_SECRET = $( pass show project/dev/aws_secret ) < command > After reading about enveil project, I thought, rather than adding another tool into my arsenal, Why don’t I just use the tools I already have? TLDR: The pass extension and setup instructions can be found in the pass-env Codeberg repository. the bash s",
+      "date": null
     },
     {
       "link": "https://blog.revathskumar.com/2026/02/update-semantic-version-using-bash-script.html",
       "title": "update semantic version using bash script",
-      "description": "For all of my JavaScript projects, I depend on the npm version command to update the version number for generating a release. So when I wanted to release my Zig project (clipz) , I was looking for something similar to update the version number in the build.zig.zon file. Since Zig doesn’t have any command equivalent to npm version , I decided to go with a simple shell script. The bash script #!/bin"
+      "description": "For all of my JavaScript projects, I depend on the npm version command to update the version number for generating a release. So when I wanted to release my Zig project (clipz) , I was looking for something similar to update the version number in the build.zig.zon file. Since Zig doesn’t have any command equivalent to npm version , I decided to go with a simple shell script. The bash script #!/bin",
+      "date": null
     }
   ]
 }

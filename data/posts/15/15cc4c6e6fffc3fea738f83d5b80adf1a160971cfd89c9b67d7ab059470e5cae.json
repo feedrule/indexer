@@ -4,17 +4,20 @@
     {
       "link": "https://www.stormscale.io/blog/farewell-github",
       "title": "I Said Goodbye to GitHub...",
-      "description": "After 14 years, I am saying goodbye to GitHub. Part of it is Microsoft, part of it is just wanting to tinker, and part of it is wanting full ownership of my data and technology. It was pretty fun."
+      "description": "After 14 years, I am saying goodbye to GitHub. Part of it is Microsoft, part of it is just wanting to tinker, and part of it is wanting full ownership of my data and technology. It was pretty fun.",
+      "date": null
     },
     {
       "link": "https://www.stormscale.io/blog/so-I-am-writing-BUFR-decoder-part3",
       "title": "So, I decided to write a BUFR decoder... Part 3",
-      "description": "I wrote a working BUFR decoder! It's not completely spec-compliant, but it's enough to decode upperair observations. Join me in one last descent into madness tackling BUFR descriptors and tables..."
+      "description": "I wrote a working BUFR decoder! It's not completely spec-compliant, but it's enough to decode upperair observations. Join me in one last descent into madness tackling BUFR descriptors and tables...",
+      "date": null
     },
     {
       "link": "https://www.stormscale.io/blog/so-I-am-writing-BUFR-decoder-part2",
       "title": "So, I decided to write a BUFR decoder... Part 2",
-      "description": "Here in Part 2, I want to dive deep into the structure of BUFR messages, what language I chose (Zig), and compile-time reflection for BUFR decoding. Bit manipulation, byte streams, and more ahead!"
+      "description": "Here in Part 2, I want to dive deep into the structure of BUFR messages, what language I chose (Zig), and compile-time reflection for BUFR decoding. Bit manipulation, byte streams, and more ahead!",
+      "date": null
     }
   ]
 }

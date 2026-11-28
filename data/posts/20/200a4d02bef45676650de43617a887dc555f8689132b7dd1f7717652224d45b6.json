@@ -4,17 +4,20 @@
     {
       "link": "https://blog.canoozie.net/absense/",
       "title": "Absense...",
-      "description": "I only recently regained the ability to write long form. I had an accident and fractured the metacarpal bone of my left index finger, needing screws to help repair it. I promise some new content is coming, more on databases... in a couple more weeks."
+      "description": "I only recently regained the ability to write long form. I had an accident and fractured the metacarpal bone of my left index finger, needing screws to help repair it. I promise some new content is coming, more on databases... in a couple more weeks.",
+      "date": null
     },
     {
       "link": "https://blog.canoozie.net/deep-dive-predicate-pushdown/",
       "title": "Deep Dive: Predicate Pushdown",
-      "description": "What if the database had no idea what your WHERE clause clause actually meant until it had already dragged every single row off disk into memory? That used to be the default, ages ago. The storage layer was just a dumb block server handing your scan operator the pages to"
+      "description": "What if the database had no idea what your WHERE clause clause actually meant until it had already dragged every single row off disk into memory? That used to be the default, ages ago. The storage layer was just a dumb block server handing your scan operator the pages to",
+      "date": null
     },
     {
       "link": "https://blog.canoozie.net/four-integers-and-a-lot-of-wrong-assumptions/",
       "title": "Four integers, and a lot of wrong assumptions",
-      "description": "I've been thinking about what the bottom of a database should look like if we stop asking it to understand the database. That sounds a bit backwards, so let me be more specific. Most databases make an early decision about the shape of the world. Rows belong to"
+      "description": "I've been thinking about what the bottom of a database should look like if we stop asking it to understand the database. That sounds a bit backwards, so let me be more specific. Most databases make an early decision about the shape of the world. Rows belong to",
+      "date": null
     }
   ]
 }

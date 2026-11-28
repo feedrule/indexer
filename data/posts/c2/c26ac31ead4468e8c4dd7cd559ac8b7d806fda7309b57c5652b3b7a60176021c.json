@@ -4,17 +4,20 @@
     {
       "link": "https://cosarara.me/blog/entry/24",
       "title": "Server on a phone",
-      "description": "I went and set up a web server on my old android phone. The main explanation is there on the site itself http://phone.cosarara.me/ ( wayback machine link for when it inevitably stops working)."
+      "description": "I went and set up a web server on my old android phone. The main explanation is there on the site itself http://phone.cosarara.me/ ( wayback machine link for when it inevitably stops working).",
+      "date": null
     },
     {
       "link": "https://cosarara.me/blog/entry/23",
       "title": "Advent of Code Haskell",
-      "description": "It is that time of the year again, Advent of Code time. I love the puzzles by themselves, especially as they become trickier and trickier, but I also take the opportunity to explore programming languages I don’t usually use that much. If I don’t have much time that day, or I’m feeling a bit frustrated, I might solve it in python only (the language that usually comes more naturally to me), but othe"
+      "description": "It is that time of the year again, Advent of Code time. I love the puzzles by themselves, especially as they become trickier and trickier, but I also take the opportunity to explore programming languages I don’t usually use that much. If I don’t have much time that day, or I’m feeling a bit frustrated, I might solve it in python only (the language that usually comes more naturally to me), but othe",
+      "date": null
     },
     {
       "link": "https://cosarara.me/blog/entry/22",
       "title": "Setting up guix, and locales",
-      "description": "I wanted to try out Spritely Goblins to see what it is like, or to really understand what it is, since I’d been seeing it pop up on lobste.rs here and there. The guide suggests using the guix package, so I decided to install the guix package manager on top of my arch linux system. Installing asks to please run nscd, which is not even included in arch nowadays, so I did not, we’ll see what problems"
+      "description": "I wanted to try out Spritely Goblins to see what it is like, or to really understand what it is, since I’d been seeing it pop up on lobste.rs here and there. The guide suggests using the guix package, so I decided to install the guix package manager on top of my arch linux system. Installing asks to please run nscd, which is not even included in arch nowadays, so I did not, we’ll see what problems",
+      "date": null
     }
   ]
 }

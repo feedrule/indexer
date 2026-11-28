@@ -4,17 +4,20 @@
     {
       "link": "https://eki.moe/posts/shrinking-a-proxmox-ve-installation-on-zfs/",
       "title": "Shrinking a Proxmox VE Installation on ZFS",
-      "description": "eki's Home https://eki.moe/posts/shrinking-a-proxmox-ve-installation-on-zfs/ - Although I started trying to achieve what was said in the title, it seems that other actions not supported by ZFS, such as switching between mirror and RAIDZ, change RAIDZ type, or removing RAIDZ devices, can also be achieved by this process, as this essentially recreating a new ZFS pool. I was recently tasked with swap"
+      "description": "eki's Home https://eki.moe/posts/shrinking-a-proxmox-ve-installation-on-zfs/ - Although I started trying to achieve what was said in the title, it seems that other actions not supported by ZFS, such as switching between mirror and RAIDZ, change RAIDZ type, or removing RAIDZ devices, can also be achieved by this process, as this essentially recreating a new ZFS pool. I was recently tasked with swap",
+      "date": null
     },
     {
       "link": "https://eki.moe/posts/choosing-truenas-boot-drives/",
       "title": "Choosing TrueNAS Boot Drives",
-      "description": "eki's Home https://eki.moe/posts/choosing-truenas-boot-drives/ - During my adventure to minimize my hardware and reclaim some living space, my NAS was reinstalled into a new chassis that is much smaller than the old one. As a result, I had to choose some new boot drives for the system. In that process, I had to ask my self some questions. Should I mirror the drives in ZFS RAID1? Which grade of dri"
+      "description": "eki's Home https://eki.moe/posts/choosing-truenas-boot-drives/ - During my adventure to minimize my hardware and reclaim some living space, my NAS was reinstalled into a new chassis that is much smaller than the old one. As a result, I had to choose some new boot drives for the system. In that process, I had to ask my self some questions. Should I mirror the drives in ZFS RAID1? Which grade of dri",
+      "date": null
     },
     {
       "link": "https://eki.moe/posts/notes-on-apple-pay-in-the-app-store/",
       "title": "Notes on Apple Pay in the App Store",
-      "description": "eki's Home https://eki.moe/posts/notes-on-apple-pay-in-the-app-store/ - Apple Pay has existed as an payment option for the App Store and Apple Services since 2019 Source , and it became available in Japan at somewhere around April 2024. Source: Payment methods that you can use with your Apple Account , although I couldn’t find any official announcements, compare capture between 10 April 2024 and 1"
+      "description": "eki's Home https://eki.moe/posts/notes-on-apple-pay-in-the-app-store/ - Apple Pay has existed as an payment option for the App Store and Apple Services since 2019 Source , and it became available in Japan at somewhere around April 2024. Source: Payment methods that you can use with your Apple Account , although I couldn’t find any official announcements, compare capture between 10 April 2024 and 1",
+      "date": null
     }
   ]
 }

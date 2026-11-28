@@ -4,17 +4,20 @@
     {
       "link": "https://dpaletti.com/posts/life_outside_git/",
       "title": "Is there life outside of git?",
-      "description": "Is There Life Outside of Git? Yes. Much more than you think. Google, Meta, and (as of October 2026) Anthropic roll their own in-house version control . Why? Because of scale, mainly. There are so many version control systems, many of which we won’t be dealing with here (looking at you Mercurial), that JJ was born. A brand new VCS which uses git as its storage layer. JJ is built from the ground up"
+      "description": "Is There Life Outside of Git? Yes. Much more than you think. Google, Meta, and (as of October 2026) Anthropic roll their own in-house version control . Why? Because of scale, mainly. There are so many version control systems, many of which we won’t be dealing with here (looking at you Mercurial), that JJ was born. A brand new VCS which uses git as its storage layer. JJ is built from the ground up",
+      "date": null
     },
     {
       "link": "https://dpaletti.com/posts/science/",
       "title": "A definition of science",
-      "description": "A definition of science Science is the practice of the scientific community What's the scientific community, then? The scientific community is the set of all formally trained scientists Who decides what is formal education? The scientific community. Who does the bootstrapping for this whole project? State, authority, you name it (God?). Implications of this definition A scientific method is not a"
+      "description": "A definition of science Science is the practice of the scientific community What's the scientific community, then? The scientific community is the set of all formally trained scientists Who decides what is formal education? The scientific community. Who does the bootstrapping for this whole project? State, authority, you name it (God?). Implications of this definition A scientific method is not a",
+      "date": null
     },
     {
       "link": "https://dpaletti.com/posts/encoding/",
       "title": "Encoding for the 21st century",
-      "description": "Encoding for the 21st century In the last few days I have been moving pictures and music to my self-hosted setup . How do I compress my files so to get as much quality as possible without breaking the bank on storage? Encode pictures with JPEGXL and music with Opus. JPEGXL: a better, smaller JPEG First things first, JPEGXL is fully open-source with a BSD-3 license and standardised through the inte"
+      "description": "Encoding for the 21st century In the last few days I have been moving pictures and music to my self-hosted setup . How do I compress my files so to get as much quality as possible without breaking the bank on storage? Encode pictures with JPEGXL and music with Opus. JPEGXL: a better, smaller JPEG First things first, JPEGXL is fully open-source with a BSD-3 license and standardised through the inte",
+      "date": null
     }
   ]
 }

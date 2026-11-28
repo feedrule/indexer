@@ -4,17 +4,20 @@
     {
       "link": "https://nuxx.net/blog/2026/11/22/itrs-osm-and-trailmaps-app/",
       "title": "ITRS, OSM, and trailmaps.app",
-      "description": "Much earlier in the year, around the time I began the trailmaps.app revamp, I found out that some of the local trail systems may end up using the new International Trail Rating System (ITRS). This rating system wasn’t yet in OpenStreetMap (OSM), but wanting to incorporate every rating system that could be used on local…"
+      "description": "Much earlier in the year, around the time I began the trailmaps.app revamp, I found out that some of the local trail systems may end up using the new International Trail Rating System (ITRS). This rating system wasn’t yet in OpenStreetMap (OSM), but wanting to incorporate every rating system that could be used on local…",
+      "date": null
     },
     {
       "link": "https://nuxx.net/blog/2026/11/12/rediscovering-webkit-bug-322883/",
       "title": "Rediscovering WebKit Bug 322883",
-      "description": "Last night, while going through some testing of trailmaps.app-map-generator I ran into a reproducible bug when trying to load a test maps offline (in Airplane mode): some of the map tiles wouldn’t load (see the gray lower half in the image to the right). I first expected this to be another offline-mode app bug that…"
+      "description": "Last night, while going through some testing of trailmaps.app-map-generator I ran into a reproducible bug when trying to load a test maps offline (in Airplane mode): some of the map tiles wouldn’t load (see the gray lower half in the image to the right). I first expected this to be another offline-mode app bug that…",
+      "date": null
     },
     {
       "link": "https://nuxx.net/blog/2026/10/29/madtracker/",
       "title": "MadTracker",
-      "description": "Track cycling — racing bicycles on a velodrome — is pretty niche. Even more-so is software to score such events. For a few years now my friend Glenn OConner has been volunteering at Mad Track Arena in Detroit using custom Excel sheets to handling the race scoring and scoreboard display. Out for a ride one…"
+      "description": "Track cycling — racing bicycles on a velodrome — is pretty niche. Even more-so is software to score such events. For a few years now my friend Glenn OConner has been volunteering at Mad Track Arena in Detroit using custom Excel sheets to handling the race scoring and scoreboard display. Out for a ride one…",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://jesse.sh/wp-env-run-not-a-tty/",
       "title": "wp-env run not a tty",
-      "description": "I test my wordpress plugins with: wp-env run tests-cli vendor/bin/phpunit and I put this in a bin/test.sh script. If I add a .git/hooks/pre-push script: #!/bin/bash ./bin/test.sh and git push , I see this error: the input device is not a TTY ✖ Command failed with exit code 1 Command failed with exit code 1 error: failed to push some refs Docker checks whether stdin is a TTY before executing. I don"
+      "description": "I test my wordpress plugins with: wp-env run tests-cli vendor/bin/phpunit and I put this in a bin/test.sh script. If I add a .git/hooks/pre-push script: #!/bin/bash ./bin/test.sh and git push , I see this error: the input device is not a TTY ✖ Command failed with exit code 1 Command failed with exit code 1 error: failed to push some refs Docker checks whether stdin is a TTY before executing. I don",
+      "date": null
     },
     {
       "link": "https://jesse.sh/static-ssl-nim-binaries/",
       "title": "Static SSL Nim Binaries",
-      "description": "The goal: a static Nim binary that can make http requests using ssl with no dependencies or runtime configuration. This is useful for creating single-file deployables or running in minimal container environments like scratch . Static Binary Hello World nimble init and select \"binary\". nimble run will print \"Hello, World!\" To isolate the environment, build this in a docker image: FROM nimlang/nim:2"
+      "description": "The goal: a static Nim binary that can make http requests using ssl with no dependencies or runtime configuration. This is useful for creating single-file deployables or running in minimal container environments like scratch . Static Binary Hello World nimble init and select \"binary\". nimble run will print \"Hello, World!\" To isolate the environment, build this in a docker image: FROM nimlang/nim:2",
+      "date": null
     },
     {
       "link": "https://jesse.sh/dynamic-@fetchrequest-with-mapkit-and-swiftui/",
       "title": "dynamic @FetchRequest with MapKit and SwiftUI",
-      "description": "Context Hello World Logging the Visible Map Region Plotting a Polyline Using Core Data Filtering results with NSPredicate Context I had an idea for an iOS app that would display my location history in a visually interesting way and ran into this problem: How do I change the @FetchRequest 's predicate when someone pans or zooms the map? I was able to setup the location tracking, storing coordinates"
+      "description": "Context Hello World Logging the Visible Map Region Plotting a Polyline Using Core Data Filtering results with NSPredicate Context I had an idea for an iOS app that would display my location history in a visually interesting way and ran into this problem: How do I change the @FetchRequest 's predicate when someone pans or zooms the map? I was able to setup the location tracking, storing coordinates",
+      "date": null
     }
   ]
 }

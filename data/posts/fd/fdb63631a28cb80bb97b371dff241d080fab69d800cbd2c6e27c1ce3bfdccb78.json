@@ -4,17 +4,20 @@
     {
       "link": "https://jeanbza.github.io/c++/algorithms/memory/2026/10/06/moving-avg.html",
       "title": "Moving average cache locality and SIMD",
-      "description": "Can cache locality and SIMD with a simple summation over a sliding window beat Kahan summation? (no)"
+      "description": "Can cache locality and SIMD with a simple summation over a sliding window beat Kahan summation? (no)",
+      "date": null
     },
     {
       "link": "https://jeanbza.github.io/c++/memory/2026/09/24/allocator-1.html",
       "title": "An unaligned memory allocator",
-      "description": "A simple memory allocator: unaligned, no splitting, and no coalescing. But very easy to understand!"
+      "description": "A simple memory allocator: unaligned, no splitting, and no coalescing. But very easy to understand!",
+      "date": null
     },
     {
       "link": "https://jeanbza.github.io/c++/memory/2026/09/24/allocator-2.html",
       "title": "An aligned memory allocator",
-      "description": "Updating our allocator to use aligned memory addresses."
+      "description": "Updating our allocator to use aligned memory addresses.",
+      "date": null
     }
   ]
 }

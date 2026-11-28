@@ -4,17 +4,20 @@
     {
       "link": "https://pieterbakker.com/asterisk-22-lts-debian-13-install-guide/",
       "title": "How to Build and Deploy Asterisk 22 LTS on Debian 13 with PJSIP, TLS/SRTP and fail2ban",
-      "description": "A comprehensive, battle-tested guide to compiling Asterisk 22 LTS from source on Debian 13 Trixie, deploying it in an Incus container, configuring PJSIP trunks and extensions, securing with TLS/SRTP and fail2ban, and running a production PBX with music on hold, call forwarding and transfers. Covers ARM (aarch64) and x86 architectures. Asterisk version: 22 LTS (supported..."
+      "description": "A comprehensive, battle-tested guide to compiling Asterisk 22 LTS from source on Debian 13 Trixie, deploying it in an Incus container, configuring PJSIP trunks and extensions, securing with TLS/SRTP and fail2ban, and running a production PBX with music on hold, call forwarding and transfers. Covers ARM (aarch64) and x86 architectures. Asterisk version: 22 LTS (supported...",
+      "date": null
     },
     {
       "link": "https://pieterbakker.com/install-forgejo-debian-13-incus-nginx/",
       "title": "Installing Forgejo on Debian 13 in an Incus Container Behind Nginx",
-      "description": "Forgejo is the software forge I keep coming back to when a project needs its own git server. It is a single Go binary, it runs happily on modest ARM64 hardware and it does not drag Docker, Kubernetes or a JavaScript build chain into your infrastructure. For a small development team that wants its source..."
+      "description": "Forgejo is the software forge I keep coming back to when a project needs its own git server. It is a single Go binary, it runs happily on modest ARM64 hardware and it does not drag Docker, Kubernetes or a JavaScript build chain into your infrastructure. For a small development team that wants its source...",
+      "date": null
     },
     {
       "link": "https://pieterbakker.com/dolibarr-23-debian-13-nginx-php84/",
       "title": "How to Install Dolibarr 23 on Debian 13 with Nginx and PHP 8.4",
-      "description": "Dolibarr is one of the few open source ERP and CRM platforms that stays genuinely lightweight while still covering the core needs of a small business: quoting, invoicing, CRM, projects and accounting. Where Odoo or ERPNext ask for a Python stack, message queues and several gigabytes of RAM before they even boot, Dolibarr runs comfortably..."
+      "description": "Dolibarr is one of the few open source ERP and CRM platforms that stays genuinely lightweight while still covering the core needs of a small business: quoting, invoicing, CRM, projects and accounting. Where Odoo or ERPNext ask for a Python stack, message queues and several gigabytes of RAM before they even boot, Dolibarr runs comfortably...",
+      "date": null
     }
   ]
 }

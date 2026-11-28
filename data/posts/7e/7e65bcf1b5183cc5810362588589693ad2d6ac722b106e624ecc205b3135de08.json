@@ -4,17 +4,20 @@
     {
       "link": "https://soledadpenades.com/posts/2025/fix-files-that-cannot-be-deleted-in-nextcloud/",
       "title": "Fix files that cannot be deleted in Nextcloud",
-      "description": "I have been happily enjoying my self-hosted Nextcloud installation on an ancient Raspberry Pi for a few months. It's been mostly without issue, but I have noticed that sometimes it struggles with deleting files or with synchronising files that you delete locally (i.e. it somehow isn't aware of the fact that a file has been deleted). Sometimes I've fixed it with a very rudimentary technique that co"
+      "description": "I have been happily enjoying my self-hosted Nextcloud installation on an ancient Raspberry Pi for a few months. It's been mostly without issue, but I have noticed that sometimes it struggles with deleting files or with synchronising files that you delete locally (i.e. it somehow isn't aware of the fact that a file has been deleted). Sometimes I've fixed it with a very rudimentary technique that co",
+      "date": null
     },
     {
       "link": "https://soledadpenades.com/posts/2025/sudo-with-userid/",
       "title": "sudo with user id",
-      "description": "I was trying to use the Nextcloud utility script occ , but it refused to run as I invoked it: $ ./occ Console has to be executed with the user that owns the file config/config.php Current user id: 1000 Owner id of config.php: 33 Try adding 'sudo -u #33' to the beginning of the command (without the single quotes) I tried to just do as they said, so I changed my call to use the user id that owns con"
+      "description": "I was trying to use the Nextcloud utility script occ , but it refused to run as I invoked it: $ ./occ Console has to be executed with the user that owns the file config/config.php Current user id: 1000 Owner id of config.php: 33 Try adding 'sudo -u #33' to the beginning of the command (without the single quotes) I tried to just do as they said, so I changed my call to use the user id that owns con",
+      "date": null
     },
     {
       "link": "https://soledadpenades.com/posts/2025/forgejo-with-docker-on-the-raspberry-pi-3/",
       "title": "Forgejo with Docker on the Raspberry Pi 3",
-      "description": "You know the classic advice about not putting all your eggs in the same basket? The same, but applied to code repositories. It makes me a bit nervous that we somehow have centralised a lot of services in GitHub. Plus, you can reduce latency considerably by working closer to where you are, and publishing only at the end. So I have been wanting to try running Forgejo locally for a while. Since I res"
+      "description": "You know the classic advice about not putting all your eggs in the same basket? The same, but applied to code repositories. It makes me a bit nervous that we somehow have centralised a lot of services in GitHub. Plus, you can reduce latency considerably by working closer to where you are, and publishing only at the end. So I have been wanting to try running Forgejo locally for a while. Since I res",
+      "date": null
     }
   ]
 }

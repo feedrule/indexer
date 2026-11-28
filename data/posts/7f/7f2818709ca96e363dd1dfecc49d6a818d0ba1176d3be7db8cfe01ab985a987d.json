@@ -4,17 +4,20 @@
     {
       "link": "https://wojsznis.eu/blog/2026/10/19/reverse-engineer-a-private-android-api-with-mitmproxy-and-frida/",
       "title": "Reverse engineer a private Android API with mitmproxy and Frida",
-      "description": "I have been taking automating declutter to a next level as I realized with current state of LLM models I could just write a simple CLI for my agents - so I don’t have to work with clunky interfaces, annoying mobile apps in platform like vinted, olx or allegrolokalnie (local ebay, kinda). In most cases just spinning mitmweb and running your app just works . LLM are brilliant at analyzing logs and c"
+      "description": "I have been taking automating declutter to a next level as I realized with current state of LLM models I could just write a simple CLI for my agents - so I don’t have to work with clunky interfaces, annoying mobile apps in platform like vinted, olx or allegrolokalnie (local ebay, kinda). In most cases just spinning mitmweb and running your app just works . LLM are brilliant at analyzing logs and c",
+      "date": null
     },
     {
       "link": "https://wojsznis.eu/blog/2026/09/05/im-a-builder-i-can-build-anything/",
       "title": "I'm a builder, I can build anything",
-      "description": "Gordon: I wish people would just tell me exactly what they want and then I would go and build it. Joe: Like a tailor making a custom suit. Gordon: Exactly. I can build anything. Halt and catch fire , s02e04 We truly found ourselves in an unexpected era for software builders. With a snap of a finger and a few prompts “you” can create something. Tokens right now are almost free, major corporations s"
+      "description": "Gordon: I wish people would just tell me exactly what they want and then I would go and build it. Joe: Like a tailor making a custom suit. Gordon: Exactly. I can build anything. Halt and catch fire , s02e04 We truly found ourselves in an unexpected era for software builders. With a snap of a finger and a few prompts “you” can create something. Tokens right now are almost free, major corporations s",
+      "date": null
     },
     {
       "link": "https://wojsznis.eu/blog/2026/08/14/self-hosted-sentry-node-storage-for-production/",
       "title": "Self hosted sentry - node storage for production",
-      "description": "nodestorage - this is a peculiar one; the default option on self-hosted sentry was/is to use postgres which is a terrible solution due to how much it bloats the database. Sentry, even on very small instances, produces a lot of records there and you will be pretty much forced into using pg_repack to reclaim the space (which might have its own downside - a major one - which is that pg_repack cannot"
+      "description": "nodestorage - this is a peculiar one; the default option on self-hosted sentry was/is to use postgres which is a terrible solution due to how much it bloats the database. Sentry, even on very small instances, produces a lot of records there and you will be pretty much forced into using pg_repack to reclaim the space (which might have its own downside - a major one - which is that pg_repack cannot",
+      "date": null
     }
   ]
 }

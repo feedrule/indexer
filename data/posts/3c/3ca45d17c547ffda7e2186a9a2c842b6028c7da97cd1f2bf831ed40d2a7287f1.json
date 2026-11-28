@@ -4,17 +4,20 @@
     {
       "link": "https://en.liujiacai.net/2026/05/16/bun-rust-port/",
       "title": "My Thoughts on Bun's Rust Rewrite",
-      "description": "Before we discuss Rewrite Bun in Rust , there is something that needs to be said—because no one else is saying it. Bun stands where it does today because of Zig. Jarred chose Zig back then not because it was \"cool,\" but because Zig enabled a small team to rapidly prototype a high-performance JS runtime without a garbage collector or a heavy runtime. Zig's low friction, direct memory manipulation,"
+      "description": "Before we discuss Rewrite Bun in Rust , there is something that needs to be said—because no one else is saying it. Bun stands where it does today because of Zig. Jarred chose Zig back then not because it was \"cool,\" but because Zig enabled a small team to rapidly prototype a high-performance JS runtime without a garbage collector or a heavy runtime. Zig's low friction, direct memory manipulation,",
+      "date": null
     },
     {
       "link": "https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/",
       "title": "Embed git commit in Zig programs",
-      "description": "Whether you are writing a fancy database , or simple CLI program , it's always helpful to embed git commit into the binary. With it, you can know which exact lines of code is to be blamed when users throw you an unhappy backtrace. Previously I have done similar thing in Go, and it's fairly easy: 1 go build -ldflags = \"-X main.Commit= $( git rev-parse HEAD ) \" And in you main.go , you have somethin"
+      "description": "Whether you are writing a fancy database , or simple CLI program , it's always helpful to embed git commit into the binary. With it, you can know which exact lines of code is to be blamed when users throw you an unhappy backtrace. Previously I have done similar thing in Go, and it's fairly easy: 1 go build -ldflags = \"-X main.Commit= $( git rev-parse HEAD ) \" And in you main.go , you have somethin",
+      "date": null
     },
     {
       "link": "https://en.liujiacai.net/2023/06/10/troubleshoot-tramp-hang/",
       "title": "How to troubleshoot why tramp hang your Emacs",
-      "description": "When I was playing with my Emacs configs today, a tramp related message suddenly appeared in minibuffer: 1 Tramp: Opening connection nil for dev using ssh... My Emacs also hang at the same moment since the dev host is out of reach. I haven’t used tramp for sometime, so when I first saw this message, I was curious about which function trigger tramp. I have some experience in troubleshooting tramp h"
+      "description": "When I was playing with my Emacs configs today, a tramp related message suddenly appeared in minibuffer: 1 Tramp: Opening connection nil for dev using ssh... My Emacs also hang at the same moment since the dev host is out of reach. I haven’t used tramp for sometime, so when I first saw this message, I was curious about which function trigger tramp. I have some experience in troubleshooting tramp h",
+      "date": null
     }
   ]
 }

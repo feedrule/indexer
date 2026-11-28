@@ -4,17 +4,20 @@
     {
       "link": "https://tmctmt.com/posts/tampermonkey-prototype-pollution/",
       "title": "A (somewhat underwhelming) prototype pollution in Tampermonkey",
-      "description": "If you’ve used a userscript manager before you’re probably familiar with the comment metatags that denote a script’s name, author, the websites it runs on, etc. // ==UserScript== // @name Undiscord // @description Delete all messages in a Discord channel or DM (Bulk deletion) // @version 5.2.6 // @author victornpb // @homepageURL https://github.com/victornpb/undiscord // @supportURL https://github"
+      "description": "If you’ve used a userscript manager before you’re probably familiar with the comment metatags that denote a script’s name, author, the websites it runs on, etc. // ==UserScript== // @name Undiscord // @description Delete all messages in a Discord channel or DM (Bulk deletion) // @version 5.2.6 // @author victornpb // @homepageURL https://github.com/victornpb/undiscord // @supportURL https://github",
+      "date": null
     },
     {
       "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
       "title": "Mullvad exit IPs as a fingerprinting vector",
-      "description": "Update 5/29: Mullvad has begun rolling out a mitigation feature on their servers that scrambles exit IP positions, thereby fixing this issue. IPs are still deterministically selected based on the pubkey. Mullvad is one of the few VPN providers that offers multiple exit IPs for its servers. If two people connect to the same server, they will usually end up with different public IPs. With only 578 s"
+      "description": "Update 5/29: Mullvad has begun rolling out a mitigation feature on their servers that scrambles exit IP positions, thereby fixing this issue. IPs are still deterministically selected based on the pubkey. Mullvad is one of the few VPN providers that offers multiple exit IPs for its servers. If two people connect to the same server, they will usually end up with different public IPs. With only 578 s",
+      "date": null
     },
     {
       "link": "https://tmctmt.com/posts/http-desync-in-discord/",
       "title": "HTTP desync in Discord's media proxy (2022)",
-      "description": "In 2022, I came across a quirky behavior on media.discordapp.net when I miskeyed a space character into an attachment link: a 502 bad gateway. After some fiddling I realized that this was caused by a HTTP injection bug within the media proxy’s request to the upstream GCP bucket. The space character corrupted the proxied HTTP message, which caused the connection to prematurely terminate. For exampl"
+      "description": "In 2022, I came across a quirky behavior on media.discordapp.net when I miskeyed a space character into an attachment link: a 502 bad gateway. After some fiddling I realized that this was caused by a HTTP injection bug within the media proxy’s request to the upstream GCP bucket. The space character corrupted the proxied HTTP message, which caused the connection to prematurely terminate. For exampl",
+      "date": null
     }
   ]
 }

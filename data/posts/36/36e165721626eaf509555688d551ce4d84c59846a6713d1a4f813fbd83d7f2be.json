@@ -4,17 +4,20 @@
     {
       "link": "https://aaronstuyvenberg.com/posts/clawd-bought-a-car",
       "title": "Clawdbot bought me a car",
-      "description": "Outsourcing the painful aspects of a car purchase to AI was refreshingly nice, and sold me on the vision of Clawdbot (now OpenClaw)"
+      "description": "Outsourcing the painful aspects of a car purchase to AI was refreshingly nice, and sold me on the vision of Clawdbot (now OpenClaw)",
+      "date": null
     },
     {
       "link": "https://aaronstuyvenberg.com/posts/does-lambda-have-a-silent-crash",
       "title": "Does AWS Lambda have a silent crash in the runtime?",
-      "description": "Understanding what's happening in the \"AWS Lambda Silent Crash\" blog post, what went wrong, and how to fix it"
+      "description": "Understanding what's happening in the \"AWS Lambda Silent Crash\" blog post, what went wrong, and how to fix it",
+      "date": null
     },
     {
       "link": "https://aaronstuyvenberg.com/posts/lambda-timeout-doom-loop",
       "title": "Avoiding the Lambda Doom Loop",
-      "description": "Heads up serverless developers! A recent change in the Lambda sandbox environment changes how timeouts are handled, potentially causing your function to enter a permanent doom loop. This post will explain the change, how to spot it, and how to avoid the doom loop."
+      "description": "Heads up serverless developers! A recent change in the Lambda sandbox environment changes how timeouts are handled, potentially causing your function to enter a permanent doom loop. This post will explain the change, how to spot it, and how to avoid the doom loop.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://port8080.sh/posts/sdboot-to-limine/",
       "title": "Switching from Systemd-boot to Limine on CachyOS",
-      "description": "How to switch bootloaders from Systemd-boot to Limine on CachyOS"
+      "description": "How to switch bootloaders from Systemd-boot to Limine on CachyOS",
+      "date": null
     },
     {
       "link": "https://port8080.sh/posts/centralized-routing-traefik/",
       "title": "Centralized Routing for Distributed Services With Traefik",
-      "description": "Configuring a central, dynamically configured Traefik using Redis to serve distributed services"
+      "description": "Configuring a central, dynamically configured Traefik using Redis to serve distributed services",
+      "date": null
     },
     {
       "link": "https://port8080.sh/posts/vps-waf/",
       "title": "Self Hosting an Edge WAF for your Homelab",
-      "description": "Securing your public services with a self-hosted WAF"
+      "description": "Securing your public services with a self-hosted WAF",
+      "date": null
     }
   ]
 }

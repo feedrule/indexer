@@ -4,17 +4,20 @@
     {
       "link": "https://kotthoff.dev/posts/2026/github-to-codeberg-pages/",
       "title": "Moving from github pages to codeberg pages",
-      "description": "There are two code platforms I’m active on. One is run by a multi‑billion‑dollar cooperation, one is run by a small association belonging to its members, including me. Sadly I am way more active on the multi‑billion‑dollar cooperation platform. I want to change that. So with the Digital Indepenence Days I wanted to move something to the nice, community driven platform. Here’s how I moved one proje"
+      "description": "There are two code platforms I’m active on. One is run by a multi‑billion‑dollar cooperation, one is run by a small association belonging to its members, including me. Sadly I am way more active on the multi‑billion‑dollar cooperation platform. I want to change that. So with the Digital Indepenence Days I wanted to move something to the nice, community driven platform. Here’s how I moved one proje",
+      "date": null
     },
     {
       "link": "https://kotthoff.dev/posts/2025/osm-to-cim-with-linkml/",
       "title": "Transforming Power Grids from OpenStreetMaps to CIM with the help of linkml",
-      "description": "Work in Progress This text documents the work to transform power grid infrastructure data from OpenStreetMaps to the Common Information Model (CIM) using linkml. Source Data: The source data is available on zenodo . It is documented in this paper and comes in the data format from Pypsa, a power system modeling tool. The Common Information Model - CIM is a data model for all kind of data relevant t"
+      "description": "Work in Progress This text documents the work to transform power grid infrastructure data from OpenStreetMaps to the Common Information Model (CIM) using linkml. Source Data: The source data is available on zenodo . It is documented in this paper and comes in the data format from Pypsa, a power system modeling tool. The Common Information Model - CIM is a data model for all kind of data relevant t",
+      "date": null
     },
     {
       "link": "https://kotthoff.dev/posts/2025/wtf-cim/",
       "title": "WTF, CIM? My notes on the Common Information Model",
-      "description": "The Common Information Model is a data model used within the electric utility industry. Learning it is not something I would phrase beginner-friendly, hence I’m documenting my advances here. This post is an ongoing effort to document the Common Information Model. It summarizes my learnings and collects useful links. Purpose of the CIM The Idea is simple: If all the data of the electricity grid and"
+      "description": "The Common Information Model is a data model used within the electric utility industry. Learning it is not something I would phrase beginner-friendly, hence I’m documenting my advances here. This post is an ongoing effort to document the Common Information Model. It summarizes my learnings and collects useful links. Purpose of the CIM The Idea is simple: If all the data of the electricity grid and",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.albertovarela.net/blog/2026/11/claude-code-talks-too-much/",
       "title": "Claude Code Talks Too Much, So I Moved the Noise to the Side",
-      "description": "Sideline is a Claude Code mod that does two things: it removes the noise from Claude’s conversation, and it moves the details I still care about (the files Claude changes, their diffs and the commands it runs) to a pane at its side. If you don’t want to read the whole post, these two commands install it: claude plugin marketplace add artberri/claude-plugins claude plugin install sideline@artberri"
+      "description": "Sideline is a Claude Code mod that does two things: it removes the noise from Claude’s conversation, and it moves the details I still care about (the files Claude changes, their diffs and the commands it runs) to a pane at its side. If you don’t want to read the whole post, these two commands install it: claude plugin marketplace add artberri/claude-plugins claude plugin install sideline@artberri",
+      "date": null
     },
     {
       "link": "https://www.albertovarela.net/blog/2026/02/programming-with-ai/",
       "title": "Programming with AI, Without the Hype",
-      "description": "Is This Vibe Coding? Let’s start with the name. These days, every few months a new term appears to describe what is essentially the same thing: people using AI tools to write code. First it was Vibe Coding (which even became “word of the year” according to Collins ). Then we got Agentic Coding, Augmented Coding, and I’ve even seen people start calling coding without an AI agent “Trad Coding”. At t"
+      "description": "Is This Vibe Coding? Let’s start with the name. These days, every few months a new term appears to describe what is essentially the same thing: people using AI tools to write code. First it was Vibe Coding (which even became “word of the year” according to Collins ). Then we got Agentic Coding, Augmented Coding, and I’ve even seen people start calling coding without an AI agent “Trad Coding”. At t",
+      "date": null
     },
     {
       "link": "https://www.albertovarela.net/blog/2025/10/time-zone-change-break-apps/",
       "title": "How a Time Zone Change Could Break Your Apps",
-      "description": "Most people think of time zones as “offsets from UTC”, but we know they’re more than that: they also include rules, like when to switch to summer time, and the historical rules and offsets. If Europe removes the DST switch, Europe/Madrid would, for example, transition from a two-rule timezone (UTC+1 in winter, UTC+2 in summer) to a single offset. That means new data in the IANA tz database (tzdata"
+      "description": "Most people think of time zones as “offsets from UTC”, but we know they’re more than that: they also include rules, like when to switch to summer time, and the historical rules and offsets. If Europe removes the DST switch, Europe/Madrid would, for example, transition from a two-rule timezone (UTC+1 in winter, UTC+2 in summer) to a single offset. That means new data in the IANA tz database (tzdata",
+      "date": null
     }
   ]
 }

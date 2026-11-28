@@ -4,17 +4,20 @@
     {
       "link": "https://en.blog.bobh0724.net/2025/08/25/reverse-engineer-puyo20-wii/",
       "title": "Reverse engineering an Wii game for the first time",
-      "description": "Why do this? I recently watched a presentation on PSP Homebrew Developer Conference by Precise Museum. In the presentation, they talked about their new translation patch for PSP game Puyo Puyo!! 20th anniversary , and a problem they came across while making this patch: If a non full-width character (ie. a character narrower than the font grid) appears in any row other than the first row in the fon"
+      "description": "Why do this? I recently watched a presentation on PSP Homebrew Developer Conference by Precise Museum. In the presentation, they talked about their new translation patch for PSP game Puyo Puyo!! 20th anniversary , and a problem they came across while making this patch: If a non full-width character (ie. a character narrower than the font grid) appears in any row other than the first row in the fon",
+      "date": null
     },
     {
       "link": "https://en.blog.bobh0724.net/2025/02/12/rescuing-homelab/",
       "title": "Rescuing Homelab from System Drive Failure",
-      "description": "This article contains poorly-taken pictures of the screen, because I couldn't really do proper screenshots inside LiveCD. I upgraded an old computer at my home and turned it into homelab 2 years ago. It ran perfectly since then, until recently... The Beginning One day I was doing something with the server through ssh as usual, and then suddenly the commandline stopped responding for about a minute"
+      "description": "This article contains poorly-taken pictures of the screen, because I couldn't really do proper screenshots inside LiveCD. I upgraded an old computer at my home and turned it into homelab 2 years ago. It ran perfectly since then, until recently... The Beginning One day I was doing something with the server through ssh as usual, and then suddenly the commandline stopped responding for about a minute",
+      "date": null
     },
     {
       "link": "https://en.blog.bobh0724.net/2023/10/24/hello-world/",
       "title": "Hello World on my Hexo Blog",
-      "description": "This is a hello world."
+      "description": "This is a hello world.",
+      "date": null
     }
   ]
 }

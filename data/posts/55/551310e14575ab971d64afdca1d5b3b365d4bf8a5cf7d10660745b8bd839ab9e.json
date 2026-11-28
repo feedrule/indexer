@@ -4,17 +4,20 @@
     {
       "link": "https://www.bengubler.com/posts/2026-08-14-introducing-fig-ui-runtime?utm_campaign=feed&utm_source=rss",
       "title": "Introducing Fig",
-      "description": "A small TypeScript UI runtime based on React Fiber."
+      "description": "A small TypeScript UI runtime based on React Fiber.",
+      "date": null
     },
     {
       "link": "https://www.bengubler.com/posts/2026-03-05-introducing-agentpane?utm_campaign=feed&utm_source=rss",
       "title": "Introducing agentpane",
-      "description": "A local web UI for AI coding agents. Multi-pane, multi-session, streaming — run Claude Code and Codex side by side from your browser."
+      "description": "A local web UI for AI coding agents. Multi-pane, multi-session, streaming — run Claude Code and Codex side by side from your browser.",
+      "date": null
     },
     {
       "link": "https://www.bengubler.com/posts/2026-02-25-introducing-helm?utm_campaign=feed&utm_source=rss",
       "title": "Introducing helm",
-      "description": "A typed TypeScript framework for AI agents. Replace dozens of tools with two — search and execute — and sandbox LLM-generated code with granular permissions."
+      "description": "A typed TypeScript framework for AI agents. Replace dozens of tools with two — search and execute — and sandbox LLM-generated code with granular permissions.",
+      "date": null
     }
   ]
 }

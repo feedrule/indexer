@@ -4,17 +4,20 @@
     {
       "link": "http://www.lukaszielinski.de/blog/posts/2026/03/16/i-made-an-app-for-analog-photographers/",
       "title": "I Made an App For Analog Photographers",
-      "description": "This is a “scratch your own itch” app for photography. It’s called Graupe, a portmanteau of “Grain” (as in analog film grain) and “Loupe” (as in the magnifying device you can use to spot the grain). Here is the App Store link: Graupe for iOS Features: depth of field calculation (for zone focusing) light meter (because the one on my 1970s Canon is broken) GPS photo tracking (also useful for analog"
+      "description": "This is a “scratch your own itch” app for photography. It’s called Graupe, a portmanteau of “Grain” (as in analog film grain) and “Loupe” (as in the magnifying device you can use to spot the grain). Here is the App Store link: Graupe for iOS Features: depth of field calculation (for zone focusing) light meter (because the one on my 1970s Canon is broken) GPS photo tracking (also useful for analog",
+      "date": null
     },
     {
       "link": "http://www.lukaszielinski.de/blog/posts/2026/03/12/trolley-problems/",
       "title": "Trolley Problems",
-      "description": "This is great. Basically a long collection of variations on the Trolley Problem meme. (P.S. it took so many tries to generate that picture. And even then I had to crop out the errors. Perhaps artists are not out of work yet..)"
+      "description": "This is great. Basically a long collection of variations on the Trolley Problem meme. (P.S. it took so many tries to generate that picture. And even then I had to crop out the errors. Perhaps artists are not out of work yet..)",
+      "date": null
     },
     {
       "link": "http://www.lukaszielinski.de/blog/posts/2026/03/09/clustering-of-hacker-news-what-are-you-working-on-comments/",
       "title": "Clustering of Hacker News \"What Are You Working on?\" Comments",
-      "description": "I like to throw a bunch of text into my local LLM (currently a Devstral-Small-2-24B-Instruct ) and have it cluster the contents. I like to do it for polarizing topics like politics, just to get a feel for how many people on a website seem to support or oppose a thing. And here I did it for the (monthly?) “What are you working on?” thread : Notes: The quotes the LLM produces are often not verbatim,"
+      "description": "I like to throw a bunch of text into my local LLM (currently a Devstral-Small-2-24B-Instruct ) and have it cluster the contents. I like to do it for polarizing topics like politics, just to get a feel for how many people on a website seem to support or oppose a thing. And here I did it for the (monthly?) “What are you working on?” thread : Notes: The quotes the LLM produces are often not verbatim,",
+      "date": null
     }
   ]
 }

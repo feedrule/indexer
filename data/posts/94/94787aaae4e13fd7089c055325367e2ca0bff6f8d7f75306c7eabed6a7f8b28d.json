@@ -4,17 +4,20 @@
     {
       "link": "https://blog.elliotmurphy.com/can-my-agent-buy-me-coffee-beans/",
       "title": "Can my agent buy me coffee beans?",
-      "description": "I've been doing some research to try and come up to speed with UCP - Universal Commerce Protocol . UCP was created by Google earlier this year, with the intention of being a vendor-neutral protocol that facilitates safe involvement of agents in making financial transactions. UCP is supported by"
+      "description": "I've been doing some research to try and come up to speed with UCP - Universal Commerce Protocol . UCP was created by Google earlier this year, with the intention of being a vendor-neutral protocol that facilitates safe involvement of agents in making financial transactions. UCP is supported by",
+      "date": null
     },
     {
       "link": "https://blog.elliotmurphy.com/making-an-llm-gateway-is-as-cheap-as-making-an-http-server/",
       "title": "Making an LLM gateway is as cheap as making an HTTP server",
-      "description": "There was a time when a reasonably proper, performant HTTP server was a thing that required a significant investment. Apache, Lighthttpd, Nginx. To make your own was a multi-year commitment, so you needed to be confident that it was going to be worth it. That changed when Go hit"
+      "description": "There was a time when a reasonably proper, performant HTTP server was a thing that required a significant investment. Apache, Lighthttpd, Nginx. To make your own was a multi-year commitment, so you needed to be confident that it was going to be worth it. That changed when Go hit",
+      "date": null
     },
     {
       "link": "https://blog.elliotmurphy.com/producer-vs-writer-zlist-video-player/",
       "title": "Producer vs writer - zlist video player",
-      "description": "My vocation is to produce useful software. Hand writing was always a constraint, not a feature. I know all too well the necessity of finding a way to pay for the labor of producing the software, but I've long been passionate about producing software that helps people who"
+      "description": "My vocation is to produce useful software. Hand writing was always a constraint, not a feature. I know all too well the necessity of finding a way to pay for the labor of producing the software, but I've long been passionate about producing software that helps people who",
+      "date": null
     }
   ]
 }

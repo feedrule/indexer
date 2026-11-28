@@ -4,17 +4,20 @@
     {
       "link": "https://www.alexanderjunge.net/blog/stingrays-software/",
       "title": "Stingray racing and the rising bar for software",
-      "description": "This weekend, our five-year-old son really wanted us to make our own racing game and what he wanted was super clear: only stingrays (his favorite pet animal) racing each other, and they should say “oh my days” when they crash. Using a vibe coding tool, we pretty much zero-shot a working game. Amazing that you can just do this in 10min these days! You can see the result above."
+      "description": "This weekend, our five-year-old son really wanted us to make our own racing game and what he wanted was super clear: only stingrays (his favorite pet animal) racing each other, and they should say “oh my days” when they crash. Using a vibe coding tool, we pretty much zero-shot a working game. Amazing that you can just do this in 10min these days! You can see the result above.",
+      "date": null
     },
     {
       "link": "https://www.alexanderjunge.net/blog/fastapi-async-perf/",
       "title": "Basic async performance testing with FastAPI and Locust",
-      "description": "Performance optimization is a crucial aspect of web application development, especially when dealing with concurrent requests. When writing FastAPI applications in Python, you can use the async and await keywords to improve performance in many use-cases by writing asynchronous code. However, most tutorials focus on sprinkling in a bunch of asyncs and awaits and hoping for the best. Between some ve"
+      "description": "Performance optimization is a crucial aspect of web application development, especially when dealing with concurrent requests. When writing FastAPI applications in Python, you can use the async and await keywords to improve performance in many use-cases by writing asynchronous code. However, most tutorials focus on sprinkling in a bunch of asyncs and awaits and hoping for the best. Between some ve",
+      "date": null
     },
     {
       "link": "https://www.alexanderjunge.net/blog/show-me-the-prompt-pydanticai/",
       "title": "Show me the prompt: PydanticAI",
-      "description": "I am a happy user of pydantic and instructor, the latter being a well scoped tool with a well-defined surface area to use pydantic for structured outputs and validation for large language models. This week saw the release of PydanticAI that looks like a nice abstraction to build agents on top of pydantic. I think this personal preference is largely because of my preexisting bias to use pydantic an"
+      "description": "I am a happy user of pydantic and instructor, the latter being a well scoped tool with a well-defined surface area to use pydantic for structured outputs and validation for large language models. This week saw the release of PydanticAI that looks like a nice abstraction to build agents on top of pydantic. I think this personal preference is largely because of my preexisting bias to use pydantic an",
+      "date": null
     }
   ]
 }

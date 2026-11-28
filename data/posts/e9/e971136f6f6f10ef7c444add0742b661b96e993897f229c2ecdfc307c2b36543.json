@@ -4,17 +4,20 @@
     {
       "link": "https://ntsd.dev/migrating-from-jekyll-to-astro-7/",
       "title": "Migrating from Jekyll to Astro 7: Zero-JS, 100/100 Lighthouse, and Rolldown",
-      "description": "A deep dive into migrating ntsd.dev from Jekyll, Gulp, and Puppeteer to Astro 7 and Rolldown while maintaining 100% route parity, Giscus discussions, and 100/100 Lighthouse scores."
+      "description": "A deep dive into migrating ntsd.dev from Jekyll, Gulp, and Puppeteer to Astro 7 and Rolldown while maintaining 100% route parity, Giscus discussions, and 100/100 Lighthouse scores.",
+      "date": null
     },
     {
       "link": "https://ntsd.dev/node-stream-pipe-and-transform/",
       "title": "How to use Stream Pipe and Transform in Node.js",
-      "description": "Example use of stream pipe and transform in Node.js. Useful for processing large data and passing it through another process."
+      "description": "Example use of stream pipe and transform in Node.js. Useful for processing large data and passing it through another process.",
+      "date": null
     },
     {
       "link": "https://ntsd.dev/cloudflare-warp-multiple-profiles/",
       "title": "Switch between personal and work Cloudflare Warp profiles",
-      "description": "A guide to setting up multiple profiles for Cloudflare Warp on a single device"
+      "description": "A guide to setting up multiple profiles for Cloudflare Warp on a single device",
+      "date": null
     }
   ]
 }

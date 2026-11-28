@@ -4,17 +4,20 @@
     {
       "link": "https://adamwulf.me/2026/11/google-maps-claude-connector/",
       "title": "Google Maps for Claude",
-      "description": "This post was written by AI. Claude can already work with Gmail, Google Calendar, Drive, Docs, and Slides through connectors. But there’s no Google Maps connector, so it can’t tell you how long a drive will take, what traffic looks like, or what’s nearby. So Adam built google-maps-connector , a small MCP server that gives Claude Google Maps. Once it’s added on claude.ai, it works in the Claude apps on desktop and mobile, and in the Claude CarPlay app. That last one is the point: you can ask Claude about directions and drive time out loud while driving, and hear a short answer like “about 22 minutes with traffic, 31 without, 14 miles.”"
+      "description": "This post was written by AI. Claude can already work with Gmail, Google Calendar, Drive, Docs, and Slides through connectors. But there’s no Google Maps connector, so it can’t tell you how long a drive will take, what traffic looks like, or what’s nearby. So Adam built google-maps-connector , a small MCP server that gives Claude Google Maps. Once it’s added on claude.ai, it works in the Claude apps on desktop and mobile, and in the Claude CarPlay app. That last one is the point: you can ask Claude about directions and drive time out loud while driving, and hear a short answer like “about 22 minutes with traffic, 31 without, 14 miles.”",
+      "date": "2026-11-15"
     },
     {
       "link": "https://adamwulf.me/2026/11/kokoro-coreml-masked-export/",
       "title": "A Better Kokoro Voice for iPhone: 5, 10, and 15 Second Core ML Exports",
-      "description": "I’ve had fun experimenting with text-to-speech AI. I’m vibe-coding an iOS app that sends messages to/from my laptop at home via Telegram, and I wanted to have a voice mode for it. I wanted a mode with the mic always on, and then when my laptop replied on telegram, it would read out the response to me with voice. I started with the built in system voices, but quickly wanted something much nicer. I’ve been spoiled with the very good Claude apps in voice mode."
+      "description": "I’ve had fun experimenting with text-to-speech AI. I’m vibe-coding an iOS app that sends messages to/from my laptop at home via Telegram, and I wanted to have a voice mode for it. I wanted a mode with the mic always on, and then when my laptop replied on telegram, it would read out the response to me with voice. I started with the built in system voices, but quickly wanted something much nicer. I’ve been spoiled with the very good Claude apps in voice mode.",
+      "date": "2026-11-14"
     },
     {
       "link": "https://adamwulf.me/2026/09/version-control-primer/",
       "title": "A Brief Primer to Version Control",
-      "description": "When working with AI, I advocate for what I call the Circle of Stability. diagram / code flowchart TD A[Known starting point] --> B[Plan a small task] B --> C[AI builds the small thing] C --> D[Save your work] D --> A flowchart TD A[Known starting point] --> B[Plan a small task] B --> C[AI builds the small thing] C --> D[Save your work] D --> A Version control fits into this circle by solving the Save your work step."
+      "description": "When working with AI, I advocate for what I call the Circle of Stability. diagram / code flowchart TD A[Known starting point] --> B[Plan a small task] B --> C[AI builds the small thing] C --> D[Save your work] D --> A flowchart TD A[Known starting point] --> B[Plan a small task] B --> C[AI builds the small thing] C --> D[Save your work] D --> A Version control fits into this circle by solving the Save your work step.",
+      "date": "2026-09-19"
     }
   ]
 }

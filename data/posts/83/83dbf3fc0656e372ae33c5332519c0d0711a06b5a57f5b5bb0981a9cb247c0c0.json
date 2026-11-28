@@ -4,17 +4,20 @@
     {
       "link": "https://dougfenstermacher.com/project/petgraph-wasm",
       "title": "petgraph-wasm: Fast Graph Algorithms for the Browser",
-      "description": "A WebAssembly port of Rust's petgraph for JavaScript and TypeScript. It runs graph algorithms like shortest paths, centrality, max flow, and cliques on thousands of nodes in under a millisecond, fast enough to use inside an interactive UI."
+      "description": "A WebAssembly port of Rust's petgraph for JavaScript and TypeScript. It runs graph algorithms like shortest paths, centrality, max flow, and cliques on thousands of nodes in under a millisecond, fast enough to use inside an interactive UI.",
+      "date": null
     },
     {
       "link": "https://dougfenstermacher.com/blog/directed-random-walk-betweenness",
       "title": "Directed Random Walk Betweenness Centrality",
-      "description": "A random-walk betweenness centrality implementation that extends it to directed graphs using absorbing Markov chains"
+      "description": "A random-walk betweenness centrality implementation that extends it to directed graphs using absorbing Markov chains",
+      "date": null
     },
     {
       "link": "https://dougfenstermacher.com/project/epochron-stopwatch",
       "title": "Epochron Multi-Stopwatch",
-      "description": "Most stopwatches assume one runner and one clock. Epochron is built for coaches and timers tracking multiple people at once. It supports group stopwatches for relays, heats, or ranked comparisons, and get live split predictions mid-race instead of doing the math yourself. It runs entirely in the browser, works offline (built for track meets with no signal), and keeps all data on your device. No ac"
+      "description": "Most stopwatches assume one runner and one clock. Epochron is built for coaches and timers tracking multiple people at once. It supports group stopwatches for relays, heats, or ranked comparisons, and get live split predictions mid-race instead of doing the math yourself. It runs entirely in the browser, works offline (built for track meets with no signal), and keeps all data on your device. No ac",
+      "date": null
     }
   ]
 }

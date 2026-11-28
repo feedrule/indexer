@@ -4,17 +4,20 @@
     {
       "link": "https://www.simondepelchin.be/articles/laravel-without-frontend",
       "title": "Laravel without frontend",
-      "description": "How to setup Laravel without frontend scaffolding and use it as a backend API."
+      "description": "How to setup Laravel without frontend scaffolding and use it as a backend API.",
+      "date": null
     },
     {
       "link": "https://www.simondepelchin.be/articles/use-git-commit-in-your-typescript-app",
       "title": "Use git commit in your Typescript app",
-      "description": "How to use the git commit as your app version in your app."
+      "description": "How to use the git commit as your app version in your app.",
+      "date": null
     },
     {
       "link": "https://www.simondepelchin.be/articles/install-ffmpeg-on-laravel-cloud",
       "title": "Installing FFmpeg on Laravel Cloud",
-      "description": "A step-by-step guide to installing and setting up FFmpeg on serverless Laravel Cloud."
+      "description": "A step-by-step guide to installing and setting up FFmpeg on serverless Laravel Cloud.",
+      "date": null
     }
   ]
 }

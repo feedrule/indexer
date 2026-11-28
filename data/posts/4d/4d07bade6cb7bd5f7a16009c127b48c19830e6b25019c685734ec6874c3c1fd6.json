@@ -4,17 +4,20 @@
     {
       "link": "https://barryhennessy.com/writing/praytel-v0-1-0/",
       "title": "Praytel v0.1.0: Traces and logs on the command line",
-      "description": "Praytel v0.1.0 is out. Traces and logs on the command line. What’s new Run a command under praytel to see its traces as a live tree, with each log line under the span that wrote it See it in action Recording: praytel wraps a small shop app, its traces fill in as a live tree, and a search narrows to one failing order Recording: an app’s JSON logs shown raw, then under praytel with each line beneath"
+      "description": "Praytel v0.1.0 is out. Traces and logs on the command line. What’s new Run a command under praytel to see its traces as a live tree, with each log line under the span that wrote it See it in action Recording: praytel wraps a small shop app, its traces fill in as a live tree, and a search narrows to one failing order Recording: an app’s JSON logs shown raw, then under praytel with each line beneath",
+      "date": null
     },
     {
       "link": "https://barryhennessy.com/writing/the-finest-of-standups/",
       "title": "The finest of standups",
-      "description": "I have been in truly good standups. It was nice. I would like you all to have that experience too. Moreover I would like that you all can stop experiencing such limp-coffee standups. You know the ones. The perfunctory ones. The low energy ones. The norm . Have you held these beliefs? Be honest: Standups are to make sure we’re at our desks on time. Standups are to make sure nobody’s slacking off."
+      "description": "I have been in truly good standups. It was nice. I would like you all to have that experience too. Moreover I would like that you all can stop experiencing such limp-coffee standups. You know the ones. The perfunctory ones. The low energy ones. The norm . Have you held these beliefs? Be honest: Standups are to make sure we’re at our desks on time. Standups are to make sure nobody’s slacking off.",
+      "date": null
     },
     {
       "link": "https://barryhennessy.com/writing/flexibility-and-discipline/",
       "title": "Flexibility and Discipline",
-      "description": "I’ve taken a few solid swings at picking up Clojure, but something just never quite clicked. I like the idea of it. I like the pitch of it. It very much tickles my engineering fancy. But I never got to that productive, smooth place. Then a few years ago it hit me: the thing getting in the way wasn’t Clojure. It was me. Since then I’ve seen the same pattern pop up throughout programming. And now I’"
+      "description": "I’ve taken a few solid swings at picking up Clojure, but something just never quite clicked. I like the idea of it. I like the pitch of it. It very much tickles my engineering fancy. But I never got to that productive, smooth place. Then a few years ago it hit me: the thing getting in the way wasn’t Clojure. It was me. Since then I’ve seen the same pattern pop up throughout programming. And now I’",
+      "date": null
     }
   ]
 }

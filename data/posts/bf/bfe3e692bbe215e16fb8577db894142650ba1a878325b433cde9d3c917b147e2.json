@@ -4,17 +4,20 @@
     {
       "link": "https://theyhack.me/CVE-2025-67736-FreePBX-Authenticated-SQL-Injection/",
       "title": "CVE-2025-67736 FreePBX Authenticated SQL Injection leads to RCE",
-      "description": "Overview This will be fairly straight to the point since it’s another FreePBX vulnerability. It’s an authenticated SQLi, so not the end of the world as you’d need admin access, but it was a cool way to access a technique watchTowr blogged about to add a cron job to the freepbx database and get RCE."
+      "description": "Overview This will be fairly straight to the point since it’s another FreePBX vulnerability. It’s an authenticated SQLi, so not the end of the world as you’d need admin access, but it was a cool way to access a technique watchTowr blogged about to add a cron job to the freepbx database and get RCE.",
+      "date": null
     },
     {
       "link": "https://theyhack.me/Rooting-Nagios-Log-Server/",
       "title": "CVE-2025-34322 and CVE-2025-34323 - Rooting Nagios Log Server with AI! Just kidding, not really… Just an AI adjacent command injection.",
-      "description": "Overview"
+      "description": "Overview",
+      "date": null
     },
     {
       "link": "https://theyhack.me/CVE-2025-64328-FreePBX-Authenticated-Command-Injection/",
       "title": "CVE-2025-64328 FreePBX Authenticated Command Injection",
-      "description": "Overview"
+      "description": "Overview",
+      "date": null
     }
   ]
 }

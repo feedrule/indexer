@@ -4,17 +4,20 @@
     {
       "link": "https://experimentalworks.net/posts/2026-06-19-patterns/",
       "title": "Patterns",
-      "description": "I did a lot of little projects when I started programming. Small websites that explored a concept. They were simple, they were meaningless, and most importantly, they were fun. I miss that. I need to start this again. Pattern is a first step: A simple 320x320px grid, for everyone to write to by picking their favorite color. Try it. Pattern"
+      "description": "I did a lot of little projects when I started programming. Small websites that explored a concept. They were simple, they were meaningless, and most importantly, they were fun. I miss that. I need to start this again. Pattern is a first step: A simple 320x320px grid, for everyone to write to by picking their favorite color. Try it. Pattern",
+      "date": null
     },
     {
       "link": "https://experimentalworks.net/posts/2026-01-27-yubikey-k3s/",
       "title": "Fun with Yubikeys: Hardware-Backed Kubernetes Auth",
-      "description": "The private key that grants admin access to your Kubernetes cluster shouldn’t live in ~/.kube/config . It shouldn’t live on your filesystem at all. I built a proxy that keeps my k8s client credentials locked inside a YubiKey . TL;DR: If you just want the tool: yubikey-kube-proxy . Read on for how it works. The Problem: Secrets on Disk I’m running a single-node k3s cluster on a Hetzner root server,"
+      "description": "The private key that grants admin access to your Kubernetes cluster shouldn’t live in ~/.kube/config . It shouldn’t live on your filesystem at all. I built a proxy that keeps my k8s client credentials locked inside a YubiKey . TL;DR: If you just want the tool: yubikey-kube-proxy . Read on for how it works. The Problem: Secrets on Disk I’m running a single-node k3s cluster on a Hetzner root server,",
+      "date": null
     },
     {
       "link": "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/",
       "title": "A History of Source Control Systems: SCCS and RCS (Part 1)",
-      "description": "Updates April 7th, 2024 I received an email from Marc Rochkind. He recounts some details of the creation of SCCS. I attached the email at the end of the article and made corrections inside the article. Most importantly, check out Marc’s original paper . Thank you all for the kind comments and interesting discussion Hacker News and Lobste.rs. HN Thread and lobste.rs thread . A History of Source Con"
+      "description": "Updates April 7th, 2024 I received an email from Marc Rochkind. He recounts some details of the creation of SCCS. I attached the email at the end of the article and made corrections inside the article. Most importantly, check out Marc’s original paper . Thank you all for the kind comments and interesting discussion Hacker News and Lobste.rs. HN Thread and lobste.rs thread . A History of Source Con",
+      "date": null
     }
   ]
 }

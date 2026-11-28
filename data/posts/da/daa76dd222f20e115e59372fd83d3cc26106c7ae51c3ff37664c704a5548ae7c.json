@@ -4,17 +4,20 @@
     {
       "link": "https://busgraphs.com/post/2026-08-25-hierarchy/",
       "title": "Toward a Transit Hierarchy of Needs",
-      "description": "The Aaron E. Henry Community Health Services Center operates demand response transit service in the Mississippi Delta region with 45 vehicles. The city of Gadsden, Alabama runs buses on four fixed routes, but not on weekends or after 3 P.M. The Chicago Transit Authority runs some of its heavy rail lines with no worse than 15-minute frequency, all day and night, on weekdays, weekends, and holidays."
+      "description": "The Aaron E. Henry Community Health Services Center operates demand response transit service in the Mississippi Delta region with 45 vehicles. The city of Gadsden, Alabama runs buses on four fixed routes, but not on weekends or after 3 P.M. The Chicago Transit Authority runs some of its heavy rail lines with no worse than 15-minute frequency, all day and night, on weekdays, weekends, and holidays.",
+      "date": null
     },
     {
       "link": "https://busgraphs.com/post/2026-04-29-network-schedule-stop-mod/",
       "title": "Using Arf for Route Planning Experimentation",
-      "description": "Last month, I used arf’s network modification capabilities to develop a small restructure of King County Metro’s transit network in Seattle. This change to routes 3 and 11 produced an access gain, while reducing the overall amount of service time expended. To explore ways to reinvest the service time, I expanded arf’s route modification capabilities to support frequency changes and adding new stop"
+      "description": "Last month, I used arf’s network modification capabilities to develop a small restructure of King County Metro’s transit network in Seattle. This change to routes 3 and 11 produced an access gain, while reducing the overall amount of service time expended. To explore ways to reinvest the service time, I expanded arf’s route modification capabilities to support frequency changes and adding new stop",
+      "date": null
     },
     {
       "link": "https://busgraphs.com/post/2026-03-31-network-routing-mod/",
       "title": "Changing Some Bus Routes with Arf",
-      "description": "A useful access analysis tool should allow analyzing hypothetical transit networks, not just existing ones. As such, these tools can modify transit routes and their schedules. Consider Conveyal’s scenario editor, as shown in this demo, Clipped from Conveyal’s product demo . or this clip demonstrating Remix’s route editing functionality. Clipped from this video . While these tools accept modificati"
+      "description": "A useful access analysis tool should allow analyzing hypothetical transit networks, not just existing ones. As such, these tools can modify transit routes and their schedules. Consider Conveyal’s scenario editor, as shown in this demo, Clipped from Conveyal’s product demo . or this clip demonstrating Remix’s route editing functionality. Clipped from this video . While these tools accept modificati",
+      "date": null
     }
   ]
 }

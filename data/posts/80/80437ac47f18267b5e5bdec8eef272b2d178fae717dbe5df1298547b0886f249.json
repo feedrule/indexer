@@ -4,17 +4,20 @@
     {
       "link": "https://adbackstage.libsyn.com/from-android-to-quakecon-what-90s-game-engines-teach-us-about-extreme-optimization",
       "title": "From Android to QuakeCon: What 90s Game Engines Teach Us About Extreme Optimization",
-      "description": "Hear how recent rewrites of the ADB stack and Android Studio debugger directly improve developer workflows. By updating the mDNS implementation and rebuilding Windows USB drivers, you can rely on stable Wi-Fi connections and eliminate system freezing. The updated debugger agent provides accurate stepping and variable inspection for apps written in Kotlin. Watch Android Developers Backstage on YouT"
+      "description": "Hear how recent rewrites of the ADB stack and Android Studio debugger directly improve developer workflows. By updating the mDNS implementation and rebuilding Windows USB drivers, you can rely on stable Wi-Fi connections and eliminate system freezing. The updated debugger agent provides accurate stepping and variable inspection for apps written in Kotlin. Watch Android Developers Backstage on YouT",
+      "date": null
     },
     {
       "link": "https://adbackstage.libsyn.com/android-ai-tools-vibe-coding-sub-agents-and-the-android-cli",
       "title": "Android AI Tools: Vibe coding, sub-agents, and the Android CLI",
-      "description": "Learn how the latest Android Studio AI features can streamline your daily development tasks. While the original agent mode chat was helpful, we rebuilt it with a re-architected experience that supports parallel tool calls and background sub-agents. For instance, you can now have an agent analyze code in the background while you continue working on a different feature. Try out the updated Journeys"
+      "description": "Learn how the latest Android Studio AI features can streamline your daily development tasks. While the original agent mode chat was helpful, we rebuilt it with a re-architected experience that supports parallel tool calls and background sub-agents. For instance, you can now have an agent analyze code in the background while you continue working on a different feature. Try out the updated Journeys",
+      "date": null
     },
     {
       "link": "https://adbackstage.libsyn.com/the-inside-story-of-jetpack-compose",
       "title": "The inside story of Jetpack Compose",
-      "description": "Discover the origin story of Jetpack Compose and how it changed the way Android developers build applications. We discuss the original challenges of unbundling the UI toolkit from the operating system to deliver faster updates. By adopting Kotlin and a declarative approach, the team reduced the boilerplate necessary to build user interfaces. While earlier systems relied heavily on XML, Jetpack Com"
+      "description": "Discover the origin story of Jetpack Compose and how it changed the way Android developers build applications. We discuss the original challenges of unbundling the UI toolkit from the operating system to deliver faster updates. By adopting Kotlin and a declarative approach, the team reduced the boilerplate necessary to build user interfaces. While earlier systems relied heavily on XML, Jetpack Com",
+      "date": null
     }
   ]
 }

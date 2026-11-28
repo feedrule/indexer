@@ -4,17 +4,20 @@
     {
       "link": "https://daniel-azuma.com/blog/2026-11-12-ai-skeptic/",
       "title": "Confessions of an AI skeptic",
-      "description": "I was an AI skeptic, and in particular an AI _coding_ skeptic, through most of 2025. What I've learned since then from experimenting with the tools, and what it means for the future of software engineering."
+      "description": "I was an AI skeptic, and in particular an AI _coding_ skeptic, through most of 2025. What I've learned since then from experimenting with the tools, and what it means for the future of software engineering.",
+      "date": null
     },
     {
       "link": "https://daniel-azuma.com/blog/2026-05-02-ractor-wrapper/",
       "title": "Ractor::Wrapper and the Ractor improvements in Ruby 4.0",
-      "description": "I discuss issues with the original Ractor implementation in Ruby 3.0 and the improvements made in Ruby 4.0. Along the way, I introduce Ractor::Wrapper, a Ruby class that wraps legacy non-Ractor-compatible Ruby objects such as database connections so they can be accessed by multiple Ractors."
+      "description": "I discuss issues with the original Ractor implementation in Ruby 3.0 and the improvements made in Ruby 4.0. Along the way, I introduce Ractor::Wrapper, a Ruby class that wraps legacy non-Ractor-compatible Ruby objects such as database connections so they can be accessed by multiple Ractors.",
+      "date": null
     },
     {
       "link": "https://daniel-azuma.com/blog/2025-09-16-remembering-google/",
       "title": "Remembering Google",
-      "description": "I spent twelve and a half years working at Google, much of that time as the Ruby language lead for Google Cloud. As I transition out of the role, I look back on what made Google great, and what made it not-so-great."
+      "description": "I spent twelve and a half years working at Google, much of that time as the Ruby language lead for Google Cloud. As I transition out of the role, I look back on what made Google great, and what made it not-so-great.",
+      "date": null
     }
   ]
 }

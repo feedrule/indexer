@@ -4,17 +4,20 @@
     {
       "link": "https://alexschapiro.com/hack-yourself/",
       "title": "Go hack yourself.",
-      "description": "Adoption is the bottleneck. Companies can now use the same offensive agents as the people attacking them."
+      "description": "Adoption is the bottleneck. Companies can now use the same offensive agents as the people attacking them.",
+      "date": null
     },
     {
       "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure.html",
       "title": "How a Blackstone real estate company exposed Social Security digits, dates of birth, addresses, and other applicant data through a GraphQL authorization flaw",
-      "description": "Update: This post received some attention on Hacker News — see the discussion thread."
+      "description": "Update: This post received some attention on Hacker News — see the discussion thread.",
+      "date": null
     },
     {
       "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k.html",
       "title": "How I Reverse Engineered a Billion-Dollar Legal AI Tool and Found 100k+ Confidential Files",
-      "description": "Update: This post received a large amount of attention on Hacker News — see the discussion thread."
+      "description": "Update: This post received a large amount of attention on Hacker News — see the discussion thread.",
+      "date": null
     }
   ]
 }

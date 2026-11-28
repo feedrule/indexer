@@ -4,17 +4,20 @@
     {
       "link": "https://steefhegeman.com/blog/site-by-html-rewriting/",
       "title": "Static site by HTML rewriting",
-      "description": "Setting up static site generators is fun; making changes later is not. Having tried several, and always ending up hacking around other people’s code, I decided to write my own based on HTML rewriting. Elevator pitch: Write blog post content in HTML (no Markdown or whatever) Do all preprocessing with a simple, single-pass HTML rewriter Concretely: Posts are stored in ./blog/slug/index.html, at thei"
+      "description": "Setting up static site generators is fun; making changes later is not. Having tried several, and always ending up hacking around other people’s code, I decided to write my own based on HTML rewriting. Elevator pitch: Write blog post content in HTML (no Markdown or whatever) Do all preprocessing with a simple, single-pass HTML rewriter Concretely: Posts are stored in ./blog/slug/index.html, at thei",
+      "date": null
     },
     {
       "link": "https://steefhegeman.com/blog/cuda-tricks/",
       "title": "CUDA tricks",
-      "description": "Getting into CUDA, I found that the general architecture is well explained, but did not find much in the form of best practices for CUDA C++. Below are some tips and tricks that I use. Feedback most welcome! 0. Check for kernel errors You might expect errors during kernel execution to crash your program. They don't. Use some error checking wrapper as described here . 1. Use --expt-relaxed-constexp"
+      "description": "Getting into CUDA, I found that the general architecture is well explained, but did not find much in the form of best practices for CUDA C++. Below are some tips and tricks that I use. Feedback most welcome! 0. Check for kernel errors You might expect errors during kernel execution to crash your program. They don't. Use some error checking wrapper as described here . 1. Use --expt-relaxed-constexp",
+      "date": null
     },
     {
       "link": "https://steefhegeman.com/blog/future-css/",
       "title": "Features I look forward to in future CSS",
-      "description": "When writing a web page, I try to avoid JavaScript. Relying on a general-purpose programming language for layout doesn't feel right, not to mention that JavaScript can be blocked or unsupported. In a perfect world, HTML is content, and CSS takes care of the delivery. CSS has come a long way, and websites like css-tricks.com are full of brilliant examples. With the coming of variables and calc() ,"
+      "description": "When writing a web page, I try to avoid JavaScript. Relying on a general-purpose programming language for layout doesn't feel right, not to mention that JavaScript can be blocked or unsupported. In a perfect world, HTML is content, and CSS takes care of the delivery. CSS has come a long way, and websites like css-tricks.com are full of brilliant examples. With the coming of variables and calc() ,",
+      "date": null
     }
   ]
 }

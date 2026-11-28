@@ -4,7 +4,8 @@
     {
       "link": "https://www.euan-cowie.me/writing/the-timezone-bug-that-only-exists-in-production",
       "title": "The timezone bug that only exists in production",
-      "description": "My booking page worked on my laptop and broke on Vercel. The cause was my machine's timezone hiding the bug — and the popular fix for it is worse than the bug."
+      "description": "My booking page worked on my laptop and broke on Vercel. The cause was my machine's timezone hiding the bug — and the popular fix for it is worse than the bug.",
+      "date": null
     }
   ]
 }

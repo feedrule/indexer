@@ -4,17 +4,20 @@
     {
       "link": "https://blog.michal-atlas.cz/programs/hackles/",
       "title": "Hackles Viewer",
-      "description": "Hackles was an internet comic that was around from 2001-03-31 to 2004-01-15 on [hackles.org]. I am not linking to it, as sometime after 2024 the domain expired and was taken by someone else. I love the comic, many of my friends do to, and I want there to be a place to read it that doesn’t hammer archive.org. As the original authors seemed to be okay with linking ( hackles.org/promote ), even encou"
+      "description": "Hackles was an internet comic that was around from 2001-03-31 to 2004-01-15 on [hackles.org]. I am not linking to it, as sometime after 2024 the domain expired and was taken by someone else. I love the comic, many of my friends do to, and I want there to be a place to read it that doesn’t hammer archive.org. As the original authors seemed to be okay with linking ( hackles.org/promote ), even encou",
+      "date": null
     },
     {
       "link": "https://blog.michal-atlas.cz/minis/",
       "title": "Minis",
-      "description": "Random things I wanna write down 2026 🔗 2026-11 🔗 2026-11-22 🔗 Laziness makes Memoization easier not harder Sometimes I pondered how to do memoization in Haskell, always thinking that I’d need some external state which I read and write with the results. Like a map for a cache in any other language. Then I went and checked hoogle for how this is done and saw the following: memoize :: ( Word -> a )"
+      "description": "Random things I wanna write down 2026 🔗 2026-11 🔗 2026-11-22 🔗 Laziness makes Memoization easier not harder Sometimes I pondered how to do memoization in Haskell, always thinking that I’d need some external state which I read and write with the results. Like a map for a cache in any other language. Then I went and checked hoogle for how this is done and saw the following: memoize :: ( Word -> a )",
+      "date": null
     },
     {
       "link": "https://blog.michal-atlas.cz/posts/dependent-types/",
       "title": "Dependent types",
-      "description": "I’ve many times heard the following: A dependent type is a type whose definition depends on a value. Sounds simple, but I’ve never actually been able to imagine what that means in practice. It didn’t help that what is usually shown is what I now know to be “dependent function types” (Π type) rather than the much simpler “dependent pair type” (Σ type). Now what does that actually mean? Ada (Σ type)"
+      "description": "I’ve many times heard the following: A dependent type is a type whose definition depends on a value. Sounds simple, but I’ve never actually been able to imagine what that means in practice. It didn’t help that what is usually shown is what I now know to be “dependent function types” (Π type) rather than the much simpler “dependent pair type” (Σ type). Now what does that actually mean? Ada (Σ type)",
+      "date": null
     }
   ]
 }

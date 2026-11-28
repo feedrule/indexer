@@ -4,17 +4,20 @@
     {
       "link": "https://blog.thibaut-rousseau.com/blog/the-most-popular-go-dependency-is/",
       "title": "The most popular Go dependency is…",
-      "description": "… testify ! As you know, destination is not as important as the journey, so now that we got this out of the way, bear with me for the rest of this article, and I’ll give you the top 10, and many more stats 😊 You might even learn a few things along the way! Without usage statistics, finding useful and reliable dependencies can be a bit of a challenge. In the Go community, we basically have to rely"
+      "description": "… testify ! As you know, destination is not as important as the journey, so now that we got this out of the way, bear with me for the rest of this article, and I’ll give you the top 10, and many more stats 😊 You might even learn a few things along the way! Without usage statistics, finding useful and reliable dependencies can be a bit of a challenge. In the Go community, we basically have to rely",
+      "date": null
     },
     {
       "link": "https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/",
       "title": "SQL Transactions in Go: The Good Way",
-      "description": "In my last work experience, I designed what I consider a pretty cool and efficient way to manage database transactions across a Go codebase. In a nutshell, I wanted to use database transactions in my business logic without exposing database internals. After dogfooding a solution for a while, I extracted it, improved it, and enriched it, to finally release it as the transactor library. This library"
+      "description": "In my last work experience, I designed what I consider a pretty cool and efficient way to manage database transactions across a Go codebase. In a nutshell, I wanted to use database transactions in my business logic without exposing database internals. After dogfooding a solution for a while, I extracted it, improved it, and enriched it, to finally release it as the transactor library. This library",
+      "date": null
     },
     {
       "link": "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/",
       "title": "Writing & Testing a Paginated API Iterator in Go",
-      "description": "Go 1.23 , amongst other features , brought Iterators to the standard library. Iterators are basically a way to make the range operator work on functions implementing a specific interface. This lets you write code like this: for value := range myIterator () { // ... } The main difference with using range over a slice or a map is that an iterator can fetch data lazily. I doesn’t need to fetch all th"
+      "description": "Go 1.23 , amongst other features , brought Iterators to the standard library. Iterators are basically a way to make the range operator work on functions implementing a specific interface. This lets you write code like this: for value := range myIterator () { // ... } The main difference with using range over a slice or a map is that an iterator can fetch data lazily. I doesn’t need to fetch all th",
+      "date": null
     }
   ]
 }

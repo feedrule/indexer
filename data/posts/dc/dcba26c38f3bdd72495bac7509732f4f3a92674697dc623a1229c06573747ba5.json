@@ -4,17 +4,20 @@
     {
       "link": "https://alecsargent.codeberg.page/posts/choosing-linux-distros/",
       "title": "Choosing Linux Distributions",
-      "description": "Family of Gentoo penguins Before starting my Linux 1 journey I would have never thought to encounter so many shitty articles recommending the wrong Linux distribution to newcomers. I would have really liked for someone to simplify the decision making before diving head first into a sea of distributions. By the way if you actually want to dive in head first then visit Distro Sea . If you are a powe"
+      "description": "Family of Gentoo penguins Before starting my Linux 1 journey I would have never thought to encounter so many shitty articles recommending the wrong Linux distribution to newcomers. I would have really liked for someone to simplify the decision making before diving head first into a sea of distributions. By the way if you actually want to dive in head first then visit Distro Sea . If you are a powe",
+      "date": null
     },
     {
       "link": "https://alecsargent.codeberg.page/posts/fuzzy-find-everything/",
       "title": "Fuzzy Find Everything",
-      "description": "Time and time again I find out I was wrong about something, like the time I thought vim keybinds were stupid or when I thought that trackballs were stupid too. This time is the dmenu function of dmenu , wmenu , rofi and fuzzel . By default dmenu and the option like --dmenu in others menus allows one to build menus with any entries one would like to define, I though this wasn’t too useful simply be"
+      "description": "Time and time again I find out I was wrong about something, like the time I thought vim keybinds were stupid or when I thought that trackballs were stupid too. This time is the dmenu function of dmenu , wmenu , rofi and fuzzel . By default dmenu and the option like --dmenu in others menus allows one to build menus with any entries one would like to define, I though this wasn’t too useful simply be",
+      "date": null
     },
     {
       "link": "https://alecsargent.codeberg.page/posts/managing-dotfiles/",
       "title": "On Managing Dotfiles",
-      "description": "If you are a Linux user you have certainly lost your dotfiles at least once, for this reason there are many dotfile managers to backup those. As of today we have several alternatives for each use case. At first - some years ago - I manually copied dotfiles into a git repo. This is obviously such a noob mistake and makes it really hard to keep track of changes. It was better than having no backup a"
+      "description": "If you are a Linux user you have certainly lost your dotfiles at least once, for this reason there are many dotfile managers to backup those. As of today we have several alternatives for each use case. At first - some years ago - I manually copied dotfiles into a git repo. This is obviously such a noob mistake and makes it really hard to keep track of changes. It was better than having no backup a",
+      "date": null
     }
   ]
 }

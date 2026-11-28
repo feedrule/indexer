@@ -4,17 +4,20 @@
     {
       "link": "https://www.mimar.rs/blog/host-your-own-services-with-freebsd-pgadmin4",
       "title": "Host Your Own Services With FreeBSD: pgAdmin4",
-      "description": "According to their website, pgAdmin is PostgreSQL management tool which can be used for administration, development and monitoring of PostgreSQL in desktop or server mode. It is officially supported on Windows, macOS, Linux and in containers. From our experience here at Mimar it works quite fine on FreeBSD as well, but the setup is a bit more complicated than on officially supported platforms. Thi"
+      "description": "According to their website, pgAdmin is PostgreSQL management tool which can be used for administration, development and monitoring of PostgreSQL in desktop or server mode. It is officially supported on Windows, macOS, Linux and in containers. From our experience here at Mimar it works quite fine on FreeBSD as well, but the setup is a bit more complicated than on officially supported platforms. Thi",
+      "date": null
     },
     {
       "link": "https://www.mimar.rs/blog/host-your-own-services-with-freebsd-apache-basics",
       "title": "Host Your Own Services With FreeBSD: Apache Basics",
-      "description": "FreeBSD is fast, stable and reliable OS which can be used as a base for many different workloads, including hosting web applications. Although - unlike OpenBSD with their httpd - it doesn't provide http server as a part of their base system, there is quite a number of third party ports with this functionality to choose from. One of the oldest and best known http servers is Apache , described on th"
+      "description": "FreeBSD is fast, stable and reliable OS which can be used as a base for many different workloads, including hosting web applications. Although - unlike OpenBSD with their httpd - it doesn't provide http server as a part of their base system, there is quite a number of third party ports with this functionality to choose from. One of the oldest and best known http servers is Apache , described on th",
+      "date": null
     },
     {
       "link": "https://www.mimar.rs/blog/freebsd-advanced-installation-uefi-and-swap-on-gmirror-root-on-zfs-mirror",
       "title": "FreeBSD Advanced Installation: UEFI And Swap on Gmirror + Root on ZFS Mirror",
-      "description": "Hosting services is much more fun when we can be sure that malfunction of a single disk won't shut down services and cause data loss. FreeBSD Handbook has a chapter about Creating a Mirror with Two New Disks , but it suggests some outdated practices such as legacy BIOS boot and MBR partitioning scheme as opposed to UEFI boot and GPT partitoning scheme described in this article. Furthermore, contra"
+      "description": "Hosting services is much more fun when we can be sure that malfunction of a single disk won't shut down services and cause data loss. FreeBSD Handbook has a chapter about Creating a Mirror with Two New Disks , but it suggests some outdated practices such as legacy BIOS boot and MBR partitioning scheme as opposed to UEFI boot and GPT partitoning scheme described in this article. Furthermore, contra",
+      "date": null
     }
   ]
 }

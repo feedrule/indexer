@@ -4,17 +4,20 @@
     {
       "link": "http://malloc.dog/blog/2026/11/14/on-dippin/",
       "title": "On Dippin'",
-      "description": "On Dippin' Haven't written anything in ages, so I figured I'm overdue for an update. Since the last post, I've: taken a new job at Jane Street, working on virtualization gotten a dog (see pic) gone to Libya (another post to come there) biked from Pittsburgh to DC (likely another post to come) As stereotypical as it sounds, getting the dog has forced me to become more responsible in some banal ways"
+      "description": "On Dippin' Haven't written anything in ages, so I figured I'm overdue for an update. Since the last post, I've: taken a new job at Jane Street, working on virtualization gotten a dog (see pic) gone to Libya (another post to come there) biked from Pittsburgh to DC (likely another post to come) As stereotypical as it sounds, getting the dog has forced me to become more responsible in some banal ways",
+      "date": null
     },
     {
       "link": "http://malloc.dog/blog/2026/02/09/what-is-a-scheduler-anyways/",
       "title": "What is a Scheduler Anyways?",
-      "description": "What is a Scheduler Anyways? Table of Contents 1. So What Happened? 2. Lavd 3. Erlang Schedulers 4. The Problem Last year, we had an outage that got detailed in the Linux Plumbers Conference: https://www.youtube.com/watch?v=KFItEHbFEwg , where a deployment of Lavd broke the Erlang runtime that had CPU pinning enabled. As part of this, I wanted to learn more about the interplay between these two sy"
+      "description": "What is a Scheduler Anyways? Table of Contents 1. So What Happened? 2. Lavd 3. Erlang Schedulers 4. The Problem Last year, we had an outage that got detailed in the Linux Plumbers Conference: https://www.youtube.com/watch?v=KFItEHbFEwg , where a deployment of Lavd broke the Erlang runtime that had CPU pinning enabled. As part of this, I wanted to learn more about the interplay between these two sy",
+      "date": null
     },
     {
       "link": "http://malloc.dog/blog/2026/01/31/hot-reloading-code-in-erlang-how-does-it-work/",
       "title": "Hot Reloading Code in Erlang: How Does It Work?",
-      "description": "Hot Reloading Code in Erlang: How Does It Work? Table of Contents 1. How does Erlang store code? 2. Basic state migration 3. Okay, now do it with TCP 4. This sounds like a maintenance nightmare, why would you do this to yourself? Engine schematic for the Paraguay Railway. I took this back in December 2024. Hot reloading is a bit like swapping out the engine while the train is moving. A while back,"
+      "description": "Hot Reloading Code in Erlang: How Does It Work? Table of Contents 1. How does Erlang store code? 2. Basic state migration 3. Okay, now do it with TCP 4. This sounds like a maintenance nightmare, why would you do this to yourself? Engine schematic for the Paraguay Railway. I took this back in December 2024. Hot reloading is a bit like swapping out the engine while the train is moving. A while back,",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://jeffjbowie.us/posts/android-reverse-engineering-challenge-google-trellix-interview/",
       "title": "Android Reverse-Engineering Challenge (Google/Trellix Interview)",
-      "description": "Analysis apktool was used to extract package contents to CTF3-0.Extracted/ for manual inspection. “CaptureThis!” was compiled for Android SDK version 14, and includes an external library libfragment.so . A basic text search strings *.* | grep '_CTF' was conducted in the extracted contents directory to check for a statically-defined flag, yielding no results. Upon attempting to load the APK via And"
+      "description": "Analysis apktool was used to extract package contents to CTF3-0.Extracted/ for manual inspection. “CaptureThis!” was compiled for Android SDK version 14, and includes an external library libfragment.so . A basic text search strings *.* | grep '_CTF' was conducted in the extracted contents directory to check for a statically-defined flag, yielding no results. Upon attempting to load the APK via And",
+      "date": null
     },
     {
       "link": "https://jeffjbowie.us/posts/evaluating-open-weight-llms-for-phishing-simulation-and-red-teaming/",
       "title": "Evaluating Open-Weight LLMs for Phishing Simulation and Red Teaming",
-      "description": "Disclaimer : This content is for educational and authorized security testing in controlled environments only. Do not use any techniques described here against systems you do not own or lack explicit permission to test. Unauthorized use is strictly prohibited. Introduction Scenario: You’re tasked with performing an ad-hoc phishing engagement by your CISO, for a client with over 1,000+ users… It’s e"
+      "description": "Disclaimer : This content is for educational and authorized security testing in controlled environments only. Do not use any techniques described here against systems you do not own or lack explicit permission to test. Unauthorized use is strictly prohibited. Introduction Scenario: You’re tasked with performing an ad-hoc phishing engagement by your CISO, for a client with over 1,000+ users… It’s e",
+      "date": null
     },
     {
       "link": "https://jeffjbowie.us/posts/exfiltrating-credentials-while-living-off-the-land/",
       "title": "Exfiltrating Credentials while 'Living Off The Land'",
-      "description": "Gaining initial access to a network is an amazing feat, and the resulting flood of catecholamines contributing to the euphoria of your new-found access is easily dampened before the finish line if you make the slightest of mistakes – therefore, let’s not be a n00b and use Meterpreter . Please don’t. Unless your goal is to alert the SoC . To begin, we will need a place to store our bounty. A favori"
+      "description": "Gaining initial access to a network is an amazing feat, and the resulting flood of catecholamines contributing to the euphoria of your new-found access is easily dampened before the finish line if you make the slightest of mistakes – therefore, let’s not be a n00b and use Meterpreter . Please don’t. Unless your goal is to alert the SoC . To begin, we will need a place to store our bounty. A favori",
+      "date": null
     }
   ]
 }

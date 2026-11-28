@@ -4,17 +4,20 @@
     {
       "link": "https://blog.washi.dev/posts/cilfi/",
       "title": "CILFI: Automatic Function Identification in .NET Binaries",
-      "description": "There is a specific stage of grief every .NET reverse-engineer goes through when writing the next .NET deobfuscator or config extractor. It is the realization you have to write yet another ugly pattern-matching algorithm to find the exact same string decryptor, VM opcode handler, or C2 connection initializer functions to extract obfuscator configurations or IoCs. I got sick of it. I wanted ..."
+      "description": "There is a specific stage of grief every .NET reverse-engineer goes through when writing the next .NET deobfuscator or config extractor. It is the realization you have to write yet another ugly pattern-matching algorithm to find the exact same string decryptor, VM opcode handler, or C2 connection initializer functions to extract obfuscator configurations or IoCs. I got sick of it. I wanted ...",
+      "date": "2026-08-04"
     },
     {
       "link": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
       "title": "Why Custom Attributes in .NET give me Nightmares",
-      "description": "Some people may think I am a shill for .NET. With my previous post, they may be right. However, as much as I like .NET, there are some things that just really do not make any sense to me, and they frustrate me to no end. Given that I maintain a PE parsing library and thus am deeply familiar with the anatomy of .NET binaries, I feel I am qualified to complain about some of the design choices ..."
+      "description": "Some people may think I am a shill for .NET. With my previous post, they may be right. However, as much as I like .NET, there are some things that just really do not make any sense to me, and they frustrate me to no end. Given that I maintain a PE parsing library and thus am deeply familiar with the anatomy of .NET binaries, I feel I am qualified to complain about some of the design choices ...",
+      "date": "2026-05-31"
     },
     {
       "link": "https://blog.washi.dev/posts/misconceptions-about-dotnet/",
       "title": "Addressing Common Misconceptions about .NET in the InfoSec World",
-      "description": "Over the past couple years, I have come to know the .NET platform pretty well, from both a developer’s and a reverse engineer’s standpoint. I can’t always quite say the same about people in the security community. In fact, more often than not, I encounter a lot of “experts” in the scene (e.g., on Twitter, YouTube, forums, blogs, webinars, talks, chat logs…) that come up with factoids about .N..."
+      "description": "Over the past couple years, I have come to know the .NET platform pretty well, from both a developer’s and a reverse engineer’s standpoint. I can’t always quite say the same about people in the security community. In fact, more often than not, I encounter a lot of “experts” in the scene (e.g., on Twitter, YouTube, forums, blogs, webinars, talks, chat logs…) that come up with factoids about .N...",
+      "date": "2026-02-21"
     }
   ]
 }

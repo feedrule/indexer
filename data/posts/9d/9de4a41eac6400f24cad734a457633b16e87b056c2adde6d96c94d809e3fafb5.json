@@ -4,17 +4,20 @@
     {
       "link": "https://tobiasfenster.io/what-is-a-model-deployment-in-ai-runway-actually",
       "title": "What is a Model Deployment in AI Runway actually?",
-      "description": "I have blogged about AI Runway a few times now ( here and here ), but if I am honest, I never really understood what a model deployment actually is on the cluster. I click deploy in the dashboard, a model shows up and I call it through a gateway. Then I remembered Projects in AKS Desktop , which show an application with its resources, logs, metrics and access in one place. So I tried to get a mode"
+      "description": "I have blogged about AI Runway a few times now ( here and here ), but if I am honest, I never really understood what a model deployment actually is on the cluster. I click deploy in the dashboard, a model shows up and I call it through a gateway. Then I remembered Projects in AKS Desktop , which show an application with its resources, logs, metrics and access in one place. So I tried to get a mode",
+      "date": null
     },
     {
       "link": "https://tobiasfenster.io/docker-sbx-mixin-kits-v3",
       "title": "Docker sbx mixin kits v3 and how they work with Business Central, Azure DevOps and VS Code tunnels",
-      "description": "In my recent blog posts ( 1 , 2 , 3 and 4 ), I have shown how Docker Sandboxes and Kits can be used to securely let an agent work on Business Central development with the AL MCP Server and the Azure DevOps MCP Server . In the latest one, I also showed how to connect to a Sandbox from VS Code via SSH. Since then, Docker has been working on version 3 of the Sandbox Kit specification , and I took tha"
+      "description": "In my recent blog posts ( 1 , 2 , 3 and 4 ), I have shown how Docker Sandboxes and Kits can be used to securely let an agent work on Business Central development with the AL MCP Server and the Azure DevOps MCP Server . In the latest one, I also showed how to connect to a Sandbox from VS Code via SSH. Since then, Docker has been working on version 3 of the Sandbox Kit specification , and I took tha",
+      "date": null
     },
     {
       "link": "https://tobiasfenster.io/how-to-become-a-better-speaker",
       "title": "How to become a better speaker",
-      "description": "This is a short one, mainly meant to give my appreciation to the one and only Jeremy Vyska . But to explain where this is coming from: I have been publicly speaking for quite some years now. It started more or less immediately at the beginning of my career when my manager realized that (for a techie) I have some communication skills. When I really started to go into the tech community roughly 10-1"
+      "description": "This is a short one, mainly meant to give my appreciation to the one and only Jeremy Vyska . But to explain where this is coming from: I have been publicly speaking for quite some years now. It started more or less immediately at the beginning of my career when my manager realized that (for a techie) I have some communication skills. When I really started to go into the tech community roughly 10-1",
+      "date": null
     }
   ]
 }

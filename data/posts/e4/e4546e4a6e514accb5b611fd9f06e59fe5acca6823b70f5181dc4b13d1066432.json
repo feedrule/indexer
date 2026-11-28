@@ -4,17 +4,20 @@
     {
       "link": "https://hafst1.is/2026/10/09/making-an-ai-risk-series-with-ai/",
       "title": "Making a video series about AI risk, with AI",
-      "description": "How I turned seven arguments about AI risk into seven short animated films in Icelandic and English in about two days, with a cloned voice, a few hundred generated images, and a set of agents doing most of the production while I approved three things."
+      "description": "How I turned seven arguments about AI risk into seven short animated films in Icelandic and English in about two days, with a cloned voice, a few hundred generated images, and a set of agents doing most of the production while I approved three things.",
+      "date": null
     },
     {
       "link": "https://hafst1.is/2026/07/05/percolation-screensaver/",
       "title": "A percolation screensaver",
-      "description": "The bootstrap percolation animation from the front page of this site, rebuilt as a native macOS screensaver with six color themes and a proper configuration sheet."
+      "description": "The bootstrap percolation animation from the front page of this site, rebuilt as a native macOS screensaver with six color themes and a proper configuration sheet.",
+      "date": null
     },
     {
       "link": "https://hafst1.is/2026/05/14/dnd-comics/",
       "title": "Turning recorded D&D sessions into comics",
-      "description": "A small pipeline that records a session on a Zoom H1 Essential, transcribes the Icelandic audio with ElevenLabs, and renders each session as a graphic novel with gpt-image-2 and a set of reference images that keep the cast looking consistent across pages."
+      "description": "A small pipeline that records a session on a Zoom H1 Essential, transcribes the Icelandic audio with ElevenLabs, and renders each session as a graphic novel with gpt-image-2 and a set of reference images that keep the cast looking consistent across pages.",
+      "date": null
     }
   ]
 }

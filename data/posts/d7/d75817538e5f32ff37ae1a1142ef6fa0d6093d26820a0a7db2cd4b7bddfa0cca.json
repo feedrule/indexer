@@ -4,17 +4,20 @@
     {
       "link": "https://www.thecodeside.com/2026/03/08/the-senior-level-and-beyond-path-to-staff-engineer-in-a-global-organization/",
       "title": "The Senior Level and beyond: path to Staff Engineer in a global organization",
-      "description": "You’ve reached the Senior level. You write great code, your epics ship to production smoothly, and your team trusts your decisions. Then the question hits you: what’s next? In many companies, the path can seem narrow: either you go into management or you become an architect who spends most of their time drawing diagrams in […]"
+      "description": "You’ve reached the Senior level. You write great code, your epics ship to production smoothly, and your team trusts your decisions. Then the question hits you: what’s next? In many companies, the path can seem narrow: either you go into management or you become an architect who spends most of their time drawing diagrams in […]",
+      "date": null
     },
     {
       "link": "https://www.thecodeside.com/2022/02/12/git-flow-everything-that-you-need-for-your-everyday-work/",
       "title": "Git Flow – everything that you need to know for your everyday work",
-      "description": "Working with Git is one of the most important things that you could learn as a software developer. There are many different strategies for how we can work with Git and branches. I will focus here on the most popular approach for mobile projects – Git Flow. You will find here all the basic stuff […]"
+      "description": "Working with Git is one of the most important things that you could learn as a software developer. There are many different strategies for how we can work with Git and branches. I will focus here on the most popular approach for mobile projects – Git Flow. You will find here all the basic stuff […]",
+      "date": null
     },
     {
       "link": "https://www.thecodeside.com/2022/02/12/even-driven-communication-between-modules/",
       "title": "Even-driven communication between modules – draft",
-      "description": "interface FeatureModule { val observe: SharedFlow<ModuleEvent.Outgoing> suspend fun execute(action: ModuleEvent.Incoming) } sealed class ModuleEvent { sealed class Incoming : ModuleEvent() sealed class Outgoing : ModuleEvent() } object HostModule { private val _outgoingEvents = MutableSharedFlow<ModuleEvent.Incoming>() val outgoingEvents = _outgoingEvents.asSharedFlow() suspend fun initModules() {"
+      "description": "interface FeatureModule { val observe: SharedFlow<ModuleEvent.Outgoing> suspend fun execute(action: ModuleEvent.Incoming) } sealed class ModuleEvent { sealed class Incoming : ModuleEvent() sealed class Outgoing : ModuleEvent() } object HostModule { private val _outgoingEvents = MutableSharedFlow<ModuleEvent.Incoming>() val outgoingEvents = _outgoingEvents.asSharedFlow() suspend fun initModules() {",
+      "date": null
     }
   ]
 }

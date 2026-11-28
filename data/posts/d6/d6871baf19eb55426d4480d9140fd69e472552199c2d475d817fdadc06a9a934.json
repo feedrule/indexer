@@ -4,17 +4,20 @@
     {
       "link": "https://wtfleming.github.io/blog/claude-code-review-command/",
       "title": "An agentic code review command that attacks its own findings",
-      "description": "TL;DR /wtf-code-review is a Claude Code slash command that reviews code from a fresh context, so the conversation that wrote the change is not the one judging it. A cold reviewer reads the diff and runs the tests. A --deep flag adds eight additional subagents in parallel, one per dimension. Every finding that claims something breaks then faces a refuter told to kill it, so only the survivors print"
+      "description": "TL;DR /wtf-code-review is a Claude Code slash command that reviews code from a fresh context, so the conversation that wrote the change is not the one judging it. A cold reviewer reads the diff and runs the tests. A --deep flag adds eight additional subagents in parallel, one per dimension. Every finding that claims something breaks then faces a refuter told to kill it, so only the survivors print",
+      "date": null
     },
     {
       "link": "https://wtfleming.github.io/blog/rust-benchmarking/",
       "title": "Rust benchmarking with Criterion",
-      "description": "I was recently looking into benchmarking some Rust code and thought I would write up how to do so with the criterion library. Code for this post is available here at GitHub . For this toy example we'll be writing code to determine the distance between 2 points. This is relatively easy to do with the pythagorean theorem , but the downside is you will need to use a relatively slow square root calcul"
+      "description": "I was recently looking into benchmarking some Rust code and thought I would write up how to do so with the criterion library. Code for this post is available here at GitHub . For this toy example we'll be writing code to determine the distance between 2 points. This is relatively easy to do with the pythagorean theorem , but the downside is you will need to use a relatively slow square root calcul",
+      "date": null
     },
     {
       "link": "https://wtfleming.github.io/blog/billion-row-challenge-clojure/",
       "title": "Clojure Performace and the Billion Row Challenge",
-      "description": "I recently discovered The One Billion Row Challenge and thought i'd give it a shot using Clojure. TLDR: the solution I ended up with is ~41% faster than the Java baseline provided by the challenge. The problem is described as: Write a Java program for retrieving temperature measurement values from a text file and calculating the min, mean, and max temperature per weather station. There's just one"
+      "description": "I recently discovered The One Billion Row Challenge and thought i'd give it a shot using Clojure. TLDR: the solution I ended up with is ~41% faster than the Java baseline provided by the challenge. The problem is described as: Write a Java program for retrieving temperature measurement values from a text file and calculating the min, mean, and max temperature per weather station. There's just one",
+      "date": null
     }
   ]
 }

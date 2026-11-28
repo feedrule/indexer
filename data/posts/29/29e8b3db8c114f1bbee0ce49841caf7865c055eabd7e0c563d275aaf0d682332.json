@@ -4,17 +4,20 @@
     {
       "link": "https://mikedalton.co/2026/03/18/add-to-calendar-bridge-component/",
       "title": "Add to Calendar Bridge Component for Hotwire Native",
-      "description": "How to build a Hotwire Native bridge component that adds events to the device calendar using the native iOS and Android calendar APIs from a Rails view."
+      "description": "How to build a Hotwire Native bridge component that adds events to the device calendar using the native iOS and Android calendar APIs from a Rails view.",
+      "date": null
     },
     {
       "link": "https://mikedalton.co/2026/01/26/hotwire-native-oauth-bridge-component/",
       "title": "Hotwire Native OAuth with Bridge Components",
-      "description": "Learn how to implement OAuth in a Hotwire Native app using bridge components, sharing a single authentication flow across web, iOS, and Android."
+      "description": "Learn how to implement OAuth in a Hotwire Native app using bridge components, sharing a single authentication flow across web, iOS, and Android.",
+      "date": null
     },
     {
       "link": "https://mikedalton.co/2025/09/15/native-oauth-with-hotwire-native/",
       "title": "Native Apple OAuth with Hotwire Native",
-      "description": "How I implemented native Sign in with Apple for a Hotwire Native app, reusing the same Devise OmniAuth endpoint and cookie session as the web app."
+      "description": "How I implemented native Sign in with Apple for a Hotwire Native app, reusing the same Devise OmniAuth endpoint and cookie session as the web app.",
+      "date": null
     }
   ]
 }

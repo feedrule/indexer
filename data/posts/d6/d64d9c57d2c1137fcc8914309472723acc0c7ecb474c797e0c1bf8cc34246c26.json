@@ -4,17 +4,20 @@
     {
       "link": "https://everlock.sh/updates/2026-11-24-0-16-0-release",
       "title": "Everlock 0.16.0",
-      "description": "The 0.16.0 release makes IMAP checks cheap: a mail client asks for what changed, and the server answers from memory instead of reading every message. Albums can be renamed and merged in the gallery, i"
+      "description": "The 0.16.0 release makes IMAP checks cheap: a mail client asks for what changed, and the server answers from memory instead of reading every message. Albums can be renamed and merged in the gallery, i",
+      "date": "2026-11-24"
     },
     {
       "link": "https://everlock.sh/updates/2026-11-19-0-15-0-release",
       "title": "Everlock 0.15.0",
-      "description": "The 0.15.0 release teaches the photo gallery to recognise people, gives every user a home of their own in calendar, contacts and file shares, and makes shared albums travel between servers as whole, c"
+      "description": "The 0.15.0 release teaches the photo gallery to recognise people, gives every user a home of their own in calendar, contacts and file shares, and makes shared albums travel between servers as whole, c",
+      "date": "2026-11-19"
     },
     {
       "link": "https://everlock.sh/docs/vhosts",
       "title": "Virtual hosts",
-      "description": "Every HTTP backend serves on virtual hosts: the names clients put in the URL. One vhost carries several backends at once — a calendar, an address book, a file share and a website on `jens.dev`, for ex"
+      "description": "Every HTTP backend serves on virtual hosts: the names clients put in the URL. One vhost carries several backends at once — a calendar, an address book, a file share and a website on `jens.dev`, for ex",
+      "date": "2026-11-19"
     }
   ]
 }

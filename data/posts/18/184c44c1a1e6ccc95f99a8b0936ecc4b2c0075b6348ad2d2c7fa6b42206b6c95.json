@@ -4,17 +4,20 @@
     {
       "link": "https://jslvtr.com/posts/my-llm-coding-setup/",
       "title": "Our LLM coding setup at Paper Run",
-      "description": "How we're offloading context-ready tasks to agents effectively and safely."
+      "description": "How we're offloading context-ready tasks to agents effectively and safely.",
+      "date": null
     },
     {
       "link": "https://jslvtr.com/posts/how-to-mkdocs-code-documentation/",
       "title": "How to publish code docstrings in mkdocs and mkdocs-material",
-      "description": "How I autogenerate documentation for classes and functions using docstrings with mkdocs-material and mkdocstrings."
+      "description": "How I autogenerate documentation for classes and functions using docstrings with mkdocs-material and mkdocstrings.",
+      "date": null
     },
     {
       "link": "https://jslvtr.com/posts/writing-code-documentation/",
       "title": "Code documentation: comments, docstrings, and tests",
-      "description": "Part 1 of the series on documentation, covering some best practice around documenting your code."
+      "description": "Part 1 of the series on documentation, covering some best practice around documenting your code.",
+      "date": null
     }
   ]
 }

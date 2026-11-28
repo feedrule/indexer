@@ -4,17 +4,20 @@
     {
       "link": "https://dille.name/blog/2026/05/12/talk-about-kubectl-at-devops-meetup/",
       "title": "Talk about mastering #kubectl #Kubernetes @ #DevOps #Meetup #Freiburg",
-      "description": "I gave a talk at DevOps Meetup Freiburg about working with shell code. It is easily available and serves as glue code for many tasks. But shell code suffers from poor readability and maintainability. This talk demonstrates tips and tricks to write better shell code and offers advice how to avoid shell code."
+      "description": "I gave a talk at DevOps Meetup Freiburg about working with shell code. It is easily available and serves as glue code for many tasks. But shell code suffers from poor readability and maintainability. This talk demonstrates tips and tricks to write better shell code and offers advice how to avoid shell code.",
+      "date": null
     },
     {
       "link": "https://dille.name/blog/2025/12/15/talk-about-kubectl-at-devops-meetup/",
       "title": "Talk about mastering #kubectl #Kubernetes @ #DevOps #Meetup #Freiburg",
-      "description": "I gave a talk at DevOps Meetup Freiburg about mastering kubectl with a focus on little known facts and tricks."
+      "description": "I gave a talk at DevOps Meetup Freiburg about mastering kubectl with a focus on little known facts and tricks.",
+      "date": null
     },
     {
       "link": "https://dille.name/blog/2025/11/27/Two-day-workshop-about-gitlab-ci/",
       "title": "Two day workshop about #GitLab CI (German)",
-      "description": "In addition to operating GitLab for our development teams, we are also using GitLab ourselves to automate the deployment and update of our services. Based on this experience I held a two day workshop for heise Academy to demonstrate the wide range of features provided by GitLab CI."
+      "description": "In addition to operating GitLab for our development teams, we are also using GitLab ourselves to automate the deployment and update of our services. Based on this experience I held a two day workshop for heise Academy to demonstrate the wide range of features provided by GitLab CI.",
+      "date": null
     }
   ]
 }

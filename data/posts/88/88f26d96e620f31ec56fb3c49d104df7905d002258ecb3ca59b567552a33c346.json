@@ -4,17 +4,20 @@
     {
       "link": "https://www.jonaslindstrom.dk/?p=1401",
       "title": "A Lean proof of the forward difference algorithm",
-      "description": "I have formalised the correctness proof of the polynomial evaluation algorithm from an earlier post in Lean 4. The proof verifies the central invariant, namely that after preprocessing the ‘s the iteration maintains at each step where which ensures using only additions per evaluation. The theorem proved in Lean is as follows Here, P is […]"
+      "description": "I have formalised the correctness proof of the polynomial evaluation algorithm from an earlier post in Lean 4. The proof verifies the central invariant, namely that after preprocessing the ‘s the iteration maintains at each step where which ensures using only additions per evaluation. The theorem proved in Lean is as follows Here, P is […]",
+      "date": null
     },
     {
       "link": "https://www.jonaslindstrom.dk/?p=1392",
       "title": "Sampling permutations with certain cycle lengths",
-      "description": "In an earlier post I described a way to sample a uniformly random derangement, a permutation with no fixed points, in linear time and without any big-integer arithmetic. Since then I have created samplers for a couple of similar objects, like involutions, which are permutations equal to their own inverse, and perfect matchings, which are […]"
+      "description": "In an earlier post I described a way to sample a uniformly random derangement, a permutation with no fixed points, in linear time and without any big-integer arithmetic. Since then I have created samplers for a couple of similar objects, like involutions, which are permutations equal to their own inverse, and perfect matchings, which are […]",
+      "date": null
     },
     {
       "link": "https://www.jonaslindstrom.dk/?p=1347",
       "title": "Euclidean rhythms as morphic words",
-      "description": "Euclidean Rhythms is a method to generate rhythmic patterns which gives the most even way to distribute onsets over of beats with . It was first discovered in 2004 by Godfried Toussaint [1] who described how these rhythms are found in music all over the world and presented an algorithm by Björklund [2] to generate […]"
+      "description": "Euclidean Rhythms is a method to generate rhythmic patterns which gives the most even way to distribute onsets over of beats with . It was first discovered in 2004 by Godfried Toussaint [1] who described how these rhythms are found in music all over the world and presented an algorithm by Björklund [2] to generate […]",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://solrevdev.com/2026/08/11/dotnet-tools-roll-forward-major-version.html",
       "title": ".NET Tools Stop Working When You Upgrade .NET",
-      "description": "Overview ☀ I was doing some housekeeping on seedfolder , a small .NET global tool I maintain that creates a project folder and fills it with sensible dotfiles. It targets net8.0 , net9.0 and net10.0 . .NET 8 and .NET 9 both reach end of support on 10 November 2026, so the plan was simple. Wait for November, drop both, ship a .NET 10 only version. Then I asked myself a question I could not answer w"
+      "description": "Overview ☀ I was doing some housekeeping on seedfolder , a small .NET global tool I maintain that creates a project folder and fills it with sensible dotfiles. It targets net8.0 , net9.0 and net10.0 . .NET 8 and .NET 9 both reach end of support on 10 November 2026, so the plan was simple. Wait for November, drop both, ship a .NET 10 only version. Then I asked myself a question I could not answer w",
+      "date": null
     },
     {
       "link": "https://solrevdev.com/2026/08/06/why-my-ga4-explorations-only-went-back-two-months.html",
       "title": "Why My GA4 Explorations Only Went Back Two Months",
-      "description": "Overview ☀ I wanted to know what time of day people read this blog. It seemed like a question analytics should answer in about thirty seconds. It took considerably longer, because the answer I got back covered 28 days and refused to go any further. Meanwhile a report two clicks away was cheerfully showing me numbers from June 2023. The cause turned out to be a single dropdown I had never looked at"
+      "description": "Overview ☀ I wanted to know what time of day people read this blog. It seemed like a question analytics should answer in about thirty seconds. It took considerably longer, because the answer I got back covered 28 days and refused to go any further. Meanwhile a report two clicks away was cheerfully showing me numbers from June 2023. The cause turned out to be a single dropdown I had never looked at",
+      "date": null
     },
     {
       "link": "https://solrevdev.com/2026/08/04/building-orchat-a-single-file-dotnet-client-for-openrouter.html",
       "title": "Building orchat - A Single File .NET Client for OpenRouter",
-      "description": "Overview ☀ OpenRouter emailed me to say my credits were about to expire. I had bought $10 in March 2024, spent seven pence of it, and forgotten the account existed. Credits older than twelve months expire if the account sees no activity, and running any inference resets the clock. Easy enough. Send a request, keep the money. Except I could not prove it worked. The dashboard rounds every figure to"
+      "description": "Overview ☀ OpenRouter emailed me to say my credits were about to expire. I had bought $10 in March 2024, spent seven pence of it, and forgotten the account existed. Credits older than twelve months expire if the account sees no activity, and running any inference resets the clock. Easy enough. Send a request, keep the money. Except I could not prove it worked. The dashboard rounds every figure to",
+      "date": null
     }
   ]
 }

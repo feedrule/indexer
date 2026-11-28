@@ -4,17 +4,20 @@
     {
       "link": "https://nanibot.net/posts/openstack-ccm/",
       "title": "Use Cloud Controller Manager to integrate Kubernetes with OpenStack",
-      "description": "Introduction I’ve been having a lot of fun with my OpenStack cluster. If you use Kubernetes, you probably have a need for provisioning services of type LoadBalancer . On bare-metal environments (mostly the case in typical homelab setups), you would rely on a solution like MetalLB (or even a CNI like Cilium). But since Openstack already provides LoadBalancers via Octavia, we’ll use that instead. We"
+      "description": "Introduction I’ve been having a lot of fun with my OpenStack cluster. If you use Kubernetes, you probably have a need for provisioning services of type LoadBalancer . On bare-metal environments (mostly the case in typical homelab setups), you would rely on a solution like MetalLB (or even a CNI like Cilium). But since Openstack already provides LoadBalancers via Octavia, we’ll use that instead. We",
+      "date": null
     },
     {
       "link": "https://nanibot.net/posts/vault/",
       "title": "Vault on Kubernetes using OpenBao",
-      "description": "Introduction OpenBao is an open-source fork of HashiCorp’s Vault, created to ensure the project remains community-driven and permissively licensed. It provides a robust, transparent, and accessible solution for secrets management and data protection, offering a viable alternative for users who relied on Vault’s original open-source model. The default Helm installation of OpenBao is enough for a de"
+      "description": "Introduction OpenBao is an open-source fork of HashiCorp’s Vault, created to ensure the project remains community-driven and permissively licensed. It provides a robust, transparent, and accessible solution for secrets management and data protection, offering a viable alternative for users who relied on Vault’s original open-source model. The default Helm installation of OpenBao is enough for a de",
+      "date": null
     },
     {
       "link": "https://nanibot.net/posts/isolcpus/",
       "title": "Isolating CPU cores for Virtual Machines",
-      "description": "When you’re running VMs you don’t want your host scheduler to schedule processes onto the CPU cores that are being used for the VMs. Fortunately, there’s a very nice kernel parameter isolcpus which can be used to achieve this. For example, consider my machine which has 128 vCPUs - from 0 till 127. I can use isolcpus=8-127 to ensure that the host OS only uses CPUs 0-7 for the host’s processes and r"
+      "description": "When you’re running VMs you don’t want your host scheduler to schedule processes onto the CPU cores that are being used for the VMs. Fortunately, there’s a very nice kernel parameter isolcpus which can be used to achieve this. For example, consider my machine which has 128 vCPUs - from 0 till 127. I can use isolcpus=8-127 to ensure that the host OS only uses CPUs 0-7 for the host’s processes and r",
+      "date": null
     }
   ]
 }

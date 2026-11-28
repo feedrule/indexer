@@ -4,17 +4,20 @@
     {
       "link": "https://pvieito.com/2026/09/makepass-cli-automation",
       "title": "MakePass CLI: Create Apple Wallet Passes from Terminal, Scripts and AI Agents",
-      "description": "MakePass includes a command-line interface (CLI) on Mac to create and customize Apple Wallet passes, find passes in Wallet, and export them from Terminal, scripts, or AI agents. Command-line automation requires MakePass Ultra . Get Started Open “Automate with Command Line…” in the MakePass app. This section includes the tool’s path, your Automation Token , and commands ready to copy into Terminal."
+      "description": "MakePass includes a command-line interface (CLI) on Mac to create and customize Apple Wallet passes, find passes in Wallet, and export them from Terminal, scripts, or AI agents. Command-line automation requires MakePass Ultra . Get Started Open “Automate with Command Line…” in the MakePass app. This section includes the tool’s path, your Automation Token , and commands ready to copy into Terminal.",
+      "date": null
     },
     {
       "link": "https://pvieito.com/2026/09/homebot-cli-automation",
       "title": "HomeBot CLI: Control Your Home from Terminal, Scripts and AI Agents",
-      "description": "HomeBot includes a command-line interface (CLI) on Mac to read HomeKit devices and sensors, trigger scenes, and change device settings from Terminal, scripts, or AI agents. Get Started Open “Automate with Command Line…” in the HomeBot app. This section includes the tool’s path, your Automation Token , and examples using your HomeKit items. Allow HomeKit access when prompted. Set your Automation To"
+      "description": "HomeBot includes a command-line interface (CLI) on Mac to read HomeKit devices and sensors, trigger scenes, and change device settings from Terminal, scripts, or AI agents. Get Started Open “Automate with Command Line…” in the HomeBot app. This section includes the tool’s path, your Automation Token , and examples using your HomeKit items. Allow HomeKit access when prompted. Set your Automation To",
+      "date": null
     },
     {
       "link": "https://pvieito.com/2026/01/inside-claude-cowork",
       "title": "Inside Claude Cowork: How Anthropic Runs Claude Code in a Local VM on Your Mac",
-      "description": "Claude Cowork is a feature of the Claude Desktop app that allows Claude to execute code, manipulate files, and perform complex tasks autonomously. This post documents a deep investigation into how it works under the hood, covering the architecture, security layers, and interesting implementation details. TL;DR Claude Cowork runs a full Linux virtual machine locally using native virtualization. Ins"
+      "description": "Claude Cowork is a feature of the Claude Desktop app that allows Claude to execute code, manipulate files, and perform complex tasks autonomously. This post documents a deep investigation into how it works under the hood, covering the architecture, security layers, and interesting implementation details. TL;DR Claude Cowork runs a full Linux virtual machine locally using native virtualization. Ins",
+      "date": null
     }
   ]
 }

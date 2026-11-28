@@ -4,17 +4,20 @@
     {
       "link": "https://bernhardwannasek.com/the-flat-rate-ai-era-is-over-the-business-case-for-local-llms/",
       "title": "The Flat-Rate AI Era is Over: The Business Case for Local LLMs",
-      "description": "Microsoft just quietly blew up GitHub Copilot's pricing model . The sticker price is still $10 a month, which looks great until you read the fine print. They killed \"premium requests\" and moved to \"AI Credits.\" Overnight, running Anthropic's Sonnet model became"
+      "description": "Microsoft just quietly blew up GitHub Copilot's pricing model . The sticker price is still $10 a month, which looks great until you read the fine print. They killed \"premium requests\" and moved to \"AI Credits.\" Overnight, running Anthropic's Sonnet model became",
+      "date": null
     },
     {
       "link": "https://bernhardwannasek.com/using-gemma-4-for-agentic-coding/",
       "title": "Using Gemma 4 for Agentic Coding",
-      "description": "Google's Gemma 4 launched yesterday and I wanted to try it as a local coding agent. The setup: Gemma 4 26B running through Ollama on an M4 Pro MacBook with 48GB RAM, connected to OpenCode as the agent frontend. The idea is a free, private alternative to cloud"
+      "description": "Google's Gemma 4 launched yesterday and I wanted to try it as a local coding agent. The setup: Gemma 4 26B running through Ollama on an M4 Pro MacBook with 48GB RAM, connected to OpenCode as the agent frontend. The idea is a free, private alternative to cloud",
+      "date": null
     },
     {
       "link": "https://bernhardwannasek.com/the-two-industries-we-pretend-to-be/",
       "title": "The Two Industries We Pretend To Be",
-      "description": "We say \"ship\" like it means something: \"When are we shipping the new feature?\". But shipping implies a boat. A harbor. A package crossing an ocean to reach someone who opens it. What actually happens when we \"ship\" a feature? The bits don'"
+      "description": "We say \"ship\" like it means something: \"When are we shipping the new feature?\". But shipping implies a boat. A harbor. A package crossing an ocean to reach someone who opens it. What actually happens when we \"ship\" a feature? The bits don'",
+      "date": null
     }
   ]
 }

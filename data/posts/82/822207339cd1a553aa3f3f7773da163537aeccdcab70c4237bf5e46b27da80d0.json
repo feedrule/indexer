@@ -4,17 +4,20 @@
     {
       "link": "https://4cm3.dev/post/openwrt-cudyr700-failover/",
       "title": "OpenWrt on a Cudyr700, with two ISPs",
-      "description": "After my previous failure of trying openwrt on a rpi4 I switched back to my cudy r700, there’s openwrt support for that device, so I went that route. After some research I found this and was able to have it running."
+      "description": "After my previous failure of trying openwrt on a rpi4 I switched back to my cudy r700, there’s openwrt support for that device, so I went that route. After some research I found this and was able to have it running.",
+      "date": null
     },
     {
       "link": "https://4cm3.dev/post/rpi-openwrt-ax88179b/",
       "title": "Openwrt with AX88179B USB network adapters on a rpi 4b",
-      "description": "Spoiler … it didn’t work, yet. So, my current network setup is:"
+      "description": "Spoiler … it didn’t work, yet. So, my current network setup is:",
+      "date": null
     },
     {
       "link": "https://4cm3.dev/post/til_01/",
       "title": "Today I Learned - Spotify client on Linux",
-      "description": "Yeah, I know. I should not be using spotify. However I still a lot for playlists and stuff there, and I’m slowly migrating them,"
+      "description": "Yeah, I know. I should not be using spotify. However I still a lot for playlists and stuff there, and I’m slowly migrating them,",
+      "date": null
     }
   ]
 }

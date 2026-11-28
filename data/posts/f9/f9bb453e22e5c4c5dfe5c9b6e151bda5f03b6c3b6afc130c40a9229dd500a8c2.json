@@ -4,17 +4,20 @@
     {
       "link": "https://tiim.ch/blog/2026-04-12-letting-claude-improve-my-notes",
       "title": "Letting Claude Improve my Notes in Obsidian",
-      "description": "My workflow of letting Claude Code process raw files into notes and sort them into my personal wiki, while making sure all relevant notes are linked."
+      "description": "My workflow of letting Claude Code process raw files into notes and sort them into my personal wiki, while making sure all relevant notes are linked.",
+      "date": null
     },
     {
       "link": "https://tiim.ch/blog/2023-12-03-my-selfhosting-setup",
       "title": "My Selfhosting Setup",
-      "description": "A short overview on how I self-host."
+      "description": "A short overview on how I self-host.",
+      "date": null
     },
     {
       "link": "https://tiim.ch/blog/2023-09-20-ansible-absolute-path",
       "title": "Getting the Absolute Path of a Remote Directory in Ansible",
-      "description": "There is no builtin way to convert a relative path to an absolute path in ansible. However we can use the readlink command for this."
+      "description": "There is no builtin way to convert a relative path to an absolute path in ansible. However we can use the readlink command for this.",
+      "date": null
     }
   ]
 }

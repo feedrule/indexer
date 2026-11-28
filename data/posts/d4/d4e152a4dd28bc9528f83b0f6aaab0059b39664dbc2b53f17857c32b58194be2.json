@@ -4,17 +4,20 @@
     {
       "link": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
       "title": "War is not god, neither is AI",
-      "description": "Are war and intelligence fundamental forces, or shadows of real things, and where does the risk really come from?"
+      "description": "Are war and intelligence fundamental forces, or shadows of real things, and where does the risk really come from?",
+      "date": null
     },
     {
       "link": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
       "title": "Reducing Assumptions, Exploding Your Code",
-      "description": "We can all write elegant scripts, that assume a lot. And assumption is the mother of all ..."
+      "description": "We can all write elegant scripts, that assume a lot. And assumption is the mother of all ...",
+      "date": null
     },
     {
       "link": "https://ryelang.org/blog/posts/whitelist-config-with-rye/",
       "title": "Allowlisting Config Capabilities by Embedding Rye in Go",
-      "description": "We will explore how to embed the Rye language into a Go application and why its capability-based model makes it uniquely suited for configuration, despite being a general-purpose language."
+      "description": "We will explore how to embed the Rye language into a Go application and why its capability-based model makes it uniquely suited for configuration, despite being a general-purpose language.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://fertsch-roever.com/blog/your-static-site-generator-is-editing-your-code-samples/",
       "title": "Your Static Site Generator Is Editing Your Code Samples",
-      "description": "A template engine sits between your source file and the page a reader copies from, and it can rewrite the snippet without telling you."
+      "description": "A template engine sits between your source file and the page a reader copies from, and it can rewrite the snippet without telling you.",
+      "date": "2026-08-21"
     },
     {
       "link": "https://fertsch-roever.com/blog/my-gitconfig/",
       "title": "My Gitconfig",
-      "description": "The global git config I carry to every machine"
+      "description": "The global git config I carry to every machine",
+      "date": "2026-08-20"
     },
     {
       "link": "https://fertsch-roever.com/blog/why-your-llm-subagent-keeps-saying-still-waiting/",
       "title": "Why Your LLM Subagent Keeps Saying Still Waiting",
-      "description": "Shell job control does not survive an agent's stateless tool calls. Use the harness background primitive when there is one; otherwise detach the process, log to a unique file, and persist the PID and exit code to disk so a later call can poll them."
+      "description": "Shell job control does not survive an agent's stateless tool calls. Use the harness background primitive when there is one; otherwise detach the process, log to a unique file, and persist the PID and exit code to disk so a later call can poll them.",
+      "date": "2026-07-25"
     }
   ]
 }

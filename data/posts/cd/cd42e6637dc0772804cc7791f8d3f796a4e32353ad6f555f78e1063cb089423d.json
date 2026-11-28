@@ -4,17 +4,20 @@
     {
       "link": "https://reinout.vanrees.org/weblog/2026/10/15/9-keynote-sustaining-open-source.html",
       "title": "Pycon NL keynote: sustaining open source for the future - Georgi Ker",
-      "description": "(One of my summaries of the 2026 one-day Pycon NL conference in Utrecht, NL). This year is the first community-organized Pycon NL: hurray! Most of us use open source as users . It is free! But all those open source projects only exist because someone started it and because someone maintains it. \"Care became contagious\": she told the story about someone in Mumbay, India that started to clean up pla"
+      "description": "(One of my summaries of the 2026 one-day Pycon NL conference in Utrecht, NL). This year is the first community-organized Pycon NL: hurray! Most of us use open source as users . It is free! But all those open source projects only exist because someone started it and because someone maintains it. \"Care became contagious\": she told the story about someone in Mumbay, India that started to clean up pla",
+      "date": null
     },
     {
       "link": "https://reinout.vanrees.org/weblog/2026/10/15/8-asyncio-event-loop-internals.html",
       "title": "Pycon NL: what's inside an asyncio event loop? - Taras Kozlov",
-      "description": "(One of my summaries of the 2026 one-day Pycon NL conference in Utrecht, NL). An asyncio event loop is defined by asyncio.AbstractEventLoop . That's a large API with more than 50 public methods, but only three are fundamental. At the lowest useful leve, the loop manages callbacks, i/o and timers. We need a way to put events on a queue and a way to grab events from a queue and execute them. call_so"
+      "description": "(One of my summaries of the 2026 one-day Pycon NL conference in Utrecht, NL). An asyncio event loop is defined by asyncio.AbstractEventLoop . That's a large API with more than 50 public methods, but only three are fundamental. At the lowest useful leve, the loop manages callbacks, i/o and timers. We need a way to put events on a queue and a way to grab events from a queue and execute them. call_so",
+      "date": null
     },
     {
       "link": "https://reinout.vanrees.org/weblog/2026/10/15/7-pipelines.html",
       "title": "Pycon NL: building resumable Python pipelines - Yuvraj Singh Pathania",
-      "description": "(One of my summaries of the 2026 one-day Pycon NL conference in Utrecht, NL). Full title: fire, forget, regret: building resumable Python pipelines. If you run a task in an async loop, there's often no reference to the task. So it can be garbage collected! You can solve that by keeping a reference in some list. But even then, the whole process can die. What happens with your task then? Often you h"
+      "description": "(One of my summaries of the 2026 one-day Pycon NL conference in Utrecht, NL). Full title: fire, forget, regret: building resumable Python pipelines. If you run a task in an async loop, there's often no reference to the task. So it can be garbage collected! You can solve that by keeping a reference in some list. But even then, the whole process can die. What happens with your task then? Often you h",
+      "date": null
     }
   ]
 }

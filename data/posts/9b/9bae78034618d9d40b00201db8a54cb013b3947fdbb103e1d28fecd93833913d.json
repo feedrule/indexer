@@ -4,17 +4,20 @@
     {
       "link": "https://www.chrisarmstrong.dev/posts/comments-considered-harmful",
       "title": "Comments Considered Harmful",
-      "description": "Coding agents are quick to synthesise comments from context, but bad at reading and maintaining them, which makes every comment a mine waiting for the next agent to trip."
+      "description": "Coding agents are quick to synthesise comments from context, but bad at reading and maintaining them, which makes every comment a mine waiting for the next agent to trip.",
+      "date": null
     },
     {
       "link": "https://www.chrisarmstrong.dev/posts/ai-operations-is-a-mirage-2026-08-24",
       "title": "AI operations is a mirage",
-      "description": "AIs are remarkably good at putting together code, but the same problems can 10x the wreckage of your environment when applied to operations because production doesn't have the same guardrails."
+      "description": "AIs are remarkably good at putting together code, but the same problems can 10x the wreckage of your environment when applied to operations because production doesn't have the same guardrails.",
+      "date": null
     },
     {
       "link": "https://www.chrisarmstrong.dev/posts/ocgtk-development-update-2026-06-10",
       "title": "ocgtk development update: June 2026",
-      "description": "Development update for ocgtk (a set of GTK4 bindings for OCaml), including upcoming support for signals and interfaces, expanded GLib type coverage, and packaging improvements to support other operating systems."
+      "description": "Development update for ocgtk (a set of GTK4 bindings for OCaml), including upcoming support for signals and interfaces, expanded GLib type coverage, and packaging improvements to support other operating systems.",
+      "date": null
     }
   ]
 }

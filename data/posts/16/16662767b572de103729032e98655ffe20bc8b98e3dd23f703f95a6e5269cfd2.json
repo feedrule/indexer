@@ -4,17 +4,20 @@
     {
       "link": "https://kunalkushwaha.github.io/2026/11/19/ai-can-know-we-still-decide/",
       "title": "AI Can Know. We Still Decide.",
-      "description": "AI can know. We still decide. There is one question that comes up in almost every leadership conversation I’m part of: what should humans do, and what should AI do?"
+      "description": "AI can know. We still decide. There is one question that comes up in almost every leadership conversation I’m part of: what should humans do, and what should AI do?",
+      "date": null
     },
     {
       "link": "https://kunalkushwaha.github.io/2026/11/09/keep-agent-packets-out-of-host-kernel/",
       "title": "Keep the Agent's Packets Out of the Host Kernel",
-      "description": "An AI agent works inside a glass box, its own VM. Its packet travels along a blue path through Koala, a koala at a laptop beside a stack of layers, and out to the globe. A red dashed path from the agent’s box toward a large host server with a glowing core is blocked by a red X at the server’s door. An autonomous agent with a shell has superpowers. It installs packages, runs scripts, opens connecti"
+      "description": "An AI agent works inside a glass box, its own VM. Its packet travels along a blue path through Koala, a koala at a laptop beside a stack of layers, and out to the globe. A red dashed path from the agent’s box toward a large host server with a glowing core is blocked by a red X at the server’s door. An autonomous agent with a shell has superpowers. It installs packages, runs scripts, opens connecti",
+      "date": null
     },
     {
       "link": "https://kunalkushwaha.github.io/2026/11/06/before-i-trust-an-agent/",
       "title": "Before I Trust an Agent, I Try to Break Its Box",
-      "description": "Untrusted code runs inside the VM. The host stays outside the guest boundary. An AI agent reads web pages, messages, and files, and it may act on instructions hidden in any of them. Sooner or later, something untrusted will run wherever the agent runs."
+      "description": "Untrusted code runs inside the VM. The host stays outside the guest boundary. An AI agent reads web pages, messages, and files, and it may act on instructions hidden in any of them. Sooner or later, something untrusted will run wherever the agent runs.",
+      "date": null
     }
   ]
 }

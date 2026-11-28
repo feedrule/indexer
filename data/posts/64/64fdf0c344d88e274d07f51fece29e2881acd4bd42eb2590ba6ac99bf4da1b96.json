@@ -4,17 +4,20 @@
     {
       "link": "https://purpleidea.com/blog/2026/10/01/faster-dnf-updates/",
       "title": "Faster DNF updates",
-      "description": "We’ve all sat through a very slow dnf update . While in a rush to get out the door, I realized it was going much slower than it should. Let's go faster : It seems the mirrors limit the maximum speed of each single file. So I added the following under the existing [main] section in my /etc/dnf/dnf.conf : fastestmirror = True max_parallel_downloads = 16 It turns out you can even set this to 20 , but"
+      "description": "We’ve all sat through a very slow dnf update . While in a rush to get out the door, I realized it was going much slower than it should. Let's go faster : It seems the mirrors limit the maximum speed of each single file. So I added the following under the existing [main] section in my /etc/dnf/dnf.conf : fastestmirror = True max_parallel_downloads = 16 It turns out you can even set this to 20 , but",
+      "date": null
     },
     {
       "link": "https://purpleidea.com/blog/2026/06/24/perspectives-on-ai-llms/",
       "title": "My perspectives on AI/LLMs",
-      "description": "There’s a lot of talk about “AI” and “LLMs” recently. Here are my thoughts, experiences, and perspectives about all that. There seems to be a growing rift in the software industry about these tools. I’m publishing this post to make my opinions as clear as possible. Of note, I’ve provided specific git commit examples of some interesting results I’ve had when using these models. Watercolour painted"
+      "description": "There’s a lot of talk about “AI” and “LLMs” recently. Here are my thoughts, experiences, and perspectives about all that. There seems to be a growing rift in the software industry about these tools. I’m publishing this post to make my opinions as clear as possible. Of note, I’ve provided specific git commit examples of some interesting results I’ve had when using these models. Watercolour painted",
+      "date": null
     },
     {
       "link": "https://purpleidea.com/blog/2026/04/09/the-switch-as-an-ordinary-gnulinux-server/",
       "title": "The switch as an ordinary GNU/Linux server",
-      "description": "In 2014 I wrote an article about the switch as an ordinary GNU/Linux server. This had been my dream since my early days using Linux to build routers and I didn’t know why we didn’t use the same management interfaces on switches as we did on Linux. The folks at Cumulus Networks made this a reality and in 2014 they were kind enough to give me access to some hardware to test things out."
+      "description": "In 2014 I wrote an article about the switch as an ordinary GNU/Linux server. This had been my dream since my early days using Linux to build routers and I didn’t know why we didn’t use the same management interfaces on switches as we did on Linux. The folks at Cumulus Networks made this a reality and in 2014 they were kind enough to give me access to some hardware to test things out.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://sot.dev/cutting-a-rust-gpui-launcher-idle-memory.html",
       "title": "cutting a Rust GPUI launcher’s idle memory",
-      "description": "Profiling a gpui launcher's memory and cutting it roughly in half, the GPU device outlives your window, the Vulkan loader maps software ICDs and GL at startup, atlases are append-only, and glibc malloc arenas ratchet while you type."
+      "description": "Profiling a gpui launcher's memory and cutting it roughly in half, the GPU device outlives your window, the Vulkan loader maps software ICDs and GL at startup, atlases are append-only, and glibc malloc arenas ratchet while you type.",
+      "date": null
     },
     {
       "link": "https://sot.dev/learn-the-shape-of-your-data.html",
       "title": "Learn the Shape of Your Data",
-      "description": "Most programming tutorials start with syntax, but the real language starts with data layout, ownership, allocation, and what values actually look like in memory."
+      "description": "Most programming tutorials start with syntax, but the real language starts with data layout, ownership, allocation, and what values actually look like in memory.",
+      "date": null
     },
     {
       "link": "https://sot.dev/i-forked-helix-to-make-agentic-coding-feel-native.html",
       "title": "I Forked Helix to Make Agentic Coding Feel Native",
-      "description": "Installing DoomHelix, configuring ACP, and using an agent panel for explain, chat, fix, and refactor commands inside Helix."
+      "description": "Installing DoomHelix, configuring ACP, and using an agent panel for explain, chat, fix, and refactor commands inside Helix.",
+      "date": null
     }
   ]
 }

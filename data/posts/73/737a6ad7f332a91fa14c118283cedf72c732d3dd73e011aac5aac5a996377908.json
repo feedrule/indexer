@@ -4,12 +4,14 @@
     {
       "link": "https://danielalp.com/blog/xv6_cow_fork/",
       "title": "(DRAFT) Implementing Copy on Write Fork for Xv6",
-      "description": "I wanted to learn about the internals of FreeBSD and was recommended The Design and Implementation of the FreeBSD Operating System , but as I was working through that tome I realised it might make more sense to first understand a much smaller operating system. Turns out there’s Xv6, which was written for MIT’s undergraduate operating systems course , and xv6: a simple, Unix-like teaching operating"
+      "description": "I wanted to learn about the internals of FreeBSD and was recommended The Design and Implementation of the FreeBSD Operating System , but as I was working through that tome I realised it might make more sense to first understand a much smaller operating system. Turns out there’s Xv6, which was written for MIT’s undergraduate operating systems course , and xv6: a simple, Unix-like teaching operating",
+      "date": null
     },
     {
       "link": "https://danielalp.com/blog/regex_crossword/",
       "title": "Solving Regex Crosswords Without Z3",
-      "description": "Thank you Nikos and Joseph for providing feedback :) A couple of months ago, I learned about regex crosswords from the blog post Solving Regex Crosswords With Z3 , and writing my own solver joined the (already very long) list of “things I want to do, but probably never will.” Well, about a week ago I felt like wasting the weekend on some small dumb project, so I wrote a solver! I figured the way t"
+      "description": "Thank you Nikos and Joseph for providing feedback :) A couple of months ago, I learned about regex crosswords from the blog post Solving Regex Crosswords With Z3 , and writing my own solver joined the (already very long) list of “things I want to do, but probably never will.” Well, about a week ago I felt like wasting the weekend on some small dumb project, so I wrote a solver! I figured the way t",
+      "date": null
     }
   ]
 }

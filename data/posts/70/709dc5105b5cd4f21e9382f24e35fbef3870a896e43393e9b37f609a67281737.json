@@ -4,17 +4,20 @@
     {
       "link": "https://blog.schuetze.link/what-makes-uv-slow/",
       "title": "What makes uv slow?",
-      "description": "A lot has been said about uv being fast, but not about how and when uv is slow. Let's talk about both. The paragraphs are in no particular order, except the first two (overview and benchmarks) and the last one (tooling). Overview We get a lot of questions what the hidden magic for uv's performance is, or if there are shortcuts we're taking, but in practice it's mainly two things: Trying optimizati"
+      "description": "A lot has been said about uv being fast, but not about how and when uv is slow. Let's talk about both. The paragraphs are in no particular order, except the first two (overview and benchmarks) and the last one (tooling). Overview We get a lot of questions what the hidden magic for uv's performance is, or if there are shortcuts we're taking, but in practice it's mainly two things: Trying optimizati",
+      "date": null
     },
     {
       "link": "https://blog.schuetze.link/friction-in-packaging-peps/",
       "title": "Friction in the Python Packaging Standards Process",
-      "description": "This post is about shortcomings in the python packaging PEP process. With a process to make governance decisions , i'm writing this to start a discussion about how we can improve the process. This post is intentionally light on suggestions and focuses on the problems instead. Editing comes first To propose a PEP, you need to follow the template outlined in PEP 1 . Before you get to propose the PEP"
+      "description": "This post is about shortcomings in the python packaging PEP process. With a process to make governance decisions , i'm writing this to start a discussion about how we can improve the process. This post is intentionally light on suggestions and focuses on the problems instead. Editing comes first To propose a PEP, you need to follow the template outlined in PEP 1 . Before you get to propose the PEP",
+      "date": null
     },
     {
       "link": "https://blog.schuetze.link/python-ecosystem-statistics/",
       "title": "Python Ecosystem Statistics",
-      "description": "Python Ecosystem Tool and Build Backend Statistics Aggregating data on the usage of tools and build backends over time, using the grep.app search, the source distributions of the top PyPI packages, and the PyPI Linehaul BigQuery data. grep.app data through: 2026-11-06 PyPI download data through: 2026-11-02 PyPI BigQuery snapshot refreshed: 2026-11-02 Top PyPI package ranking refreshed: 2026-11-06"
+      "description": "Python Ecosystem Tool and Build Backend Statistics Aggregating data on the usage of tools and build backends over time, using the grep.app search, the source distributions of the top PyPI packages, and the PyPI Linehaul BigQuery data. grep.app data through: 2026-11-06 PyPI download data through: 2026-11-02 PyPI BigQuery snapshot refreshed: 2026-11-02 Top PyPI package ranking refreshed: 2026-11-06",
+      "date": null
     }
   ]
 }

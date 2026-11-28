@@ -4,17 +4,20 @@
     {
       "link": "https://pascalbaljet.dev/laravel-ffmpeg-9-a-reimagined-api-for-video-encoding-hls-and-dash-streaming",
       "title": "Laravel FFmpeg 9: A reimagined API for video encoding, HLS, and DASH streaming",
-      "description": "Laravel FFmpeg 9 is here! It's a complete rewrite, with a reimagined API for encoding video, processing audio, and streaming HLS and DASH in Laravel apps. And yes, that's two posts in two days, as I introduced Inertia Notifications only yesterday. I've been working on this release for the past few w..."
+      "description": "Laravel FFmpeg 9 is here! It's a complete rewrite, with a reimagined API for encoding video, processing audio, and streaming HLS and DASH in Laravel apps. And yes, that's two posts in two days, as I introduced Inertia Notifications only yesterday. I've been working on this release for the past few w...",
+      "date": "2026-11-25"
     },
     {
       "link": "https://pascalbaljet.dev/introducing-inertia-notifications-toasts-a-notification-center-and-preferences-for-laravel-and-inertiajs",
       "title": "Introducing Inertia Notifications: Toasts, a notification center, and preferences for Laravel and Inertia.js",
-      "description": "It's been more than two years since my last post here, so a new package feels like a good reason to dust off the blog! Say hello to Inertia Notifications. It brings toasts, a notification center, and notification preferences to your Laravel and Inertia.js app, with components for both Vue and React...."
+      "description": "It's been more than two years since my last post here, so a new package feels like a good reason to dust off the blog! Say hello to Inertia Notifications. It brings toasts, a notification center, and notification preferences to your Laravel and Inertia.js app, with components for both Vue and React....",
+      "date": "2026-11-24"
     },
     {
       "link": "https://pascalbaljet.dev/vue-35-released-new-features-and-improvements",
       "title": "Vue 3.5 Released: New features and improvements",
-      "description": "Vue 3.5 has just dropped this week, and it's packed with some nice features and improvements. I have been digging through the release notes and playing around with the new features, so let me glance over the highlights! Up until now, you could use toRef() to destructure props reactively. But in Vue..."
+      "description": "Vue 3.5 has just dropped this week, and it's packed with some nice features and improvements. I have been digging through the release notes and playing around with the new features, so let me glance over the highlights! Up until now, you could use toRef() to destructure props reactively. But in Vue...",
+      "date": "2024-09-06"
     }
   ]
 }

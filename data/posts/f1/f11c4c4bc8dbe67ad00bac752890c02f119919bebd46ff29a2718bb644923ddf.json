@@ -4,17 +4,20 @@
     {
       "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
       "title": "Flipper One — we need your help",
-      "description": "A call-to-action post describing the design of Flipper One hardware board. It also serves as an invitation to join the community and contribute to the open-source initiative."
+      "description": "A call-to-action post describing the design of Flipper One hardware board. It also serves as an invitation to join the community and contribute to the open-source initiative.",
+      "date": null
     },
     {
       "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
       "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
-      "description": "Intro to practical memory allocation from Microsoft. Includes a few neat tricks to make the happy path extremely fast."
+      "description": "Intro to practical memory allocation from Microsoft. Includes a few neat tricks to make the happy path extremely fast.",
+      "date": null
     },
     {
       "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
       "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-      "description": "This bug hunt detective story has a valuable lesson - porting large projects to another language is tricky, because it comes with bugs. Even when they get fixed upstream, there's no guarantee the new project's maintainers would notice. On the other hand, this particular bug inspired a very deep technical blog post, so it's a win."
+      "description": "This bug hunt detective story has a valuable lesson - porting large projects to another language is tricky, because it comes with bugs. Even when they get fixed upstream, there's no guarantee the new project's maintainers would notice. On the other hand, this particular bug inspired a very deep technical blog post, so it's a win.",
+      "date": null
     }
   ]
 }

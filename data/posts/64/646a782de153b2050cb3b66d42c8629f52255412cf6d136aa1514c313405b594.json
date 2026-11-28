@@ -4,17 +4,20 @@
     {
       "link": "https://harshalgajjar.com/blog/buried-in-the-tail",
       "title": "Buried in the tail: why generative models don't imagine",
-      "description": "A model trained on everything ever written knows everything ever written. That is a different thing from imagining what hasn't been."
+      "description": "A model trained on everything ever written knows everything ever written. That is a different thing from imagining what hasn't been.",
+      "date": null
     },
     {
       "link": "https://harshalgajjar.com/blog/pay-the-cloud-for-judgment-not-labour",
       "title": "Opus-level results at 43% of the price: pay the cloud for judgment, not labour",
-      "description": "Open-weight models on owned hardware cost nothing per call. Claude Opus is billed per token and is better at almost everything. So the point where the cloud actually earns its fee was measured: six benchmarks, fifty real GitHub issues, and twenty ways of splitting the work between the two."
+      "description": "Open-weight models on owned hardware cost nothing per call. Claude Opus is billed per token and is better at almost everything. So the point where the cloud actually earns its fee was measured: six benchmarks, fifty real GitHub issues, and twenty ways of splitting the work between the two.",
+      "date": null
     },
     {
       "link": "https://harshalgajjar.com/blog/agent-desktop-vs-applescript",
       "title": "agent-desktop vs AppleScript",
-      "description": "432 runs of an AI agent operating Mac apps, on two macOS versions and three model sizes. The accessibility tree costs more, runs slower, and takes over your screen more often than AppleScript."
+      "description": "432 runs of an AI agent operating Mac apps, on two macOS versions and three model sizes. The accessibility tree costs more, runs slower, and takes over your screen more often than AppleScript.",
+      "date": null
     }
   ]
 }

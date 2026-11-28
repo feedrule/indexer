@@ -4,17 +4,20 @@
     {
       "link": "https://blog.antosubash.com/posts/simplemodule-first-module",
       "title": "Your First SimpleModule Module: a Table, an Endpoint and a React Page",
-      "description": "Build a bookmarks module in a fresh SimpleModule app, from scaffold to migration, validated API, React page and tests."
+      "description": "Build a bookmarks module in a fresh SimpleModule app, from scaffold to migration, validated API, React page and tests.",
+      "date": null
     },
     {
       "link": "https://blog.antosubash.com/posts/introducing-simplemodule-python",
       "title": "Introducing SimpleModule: A Modular Monolith Framework for Python, Built on FastAPI and Inertia",
-      "description": "A tour of SimpleModule, where each Python feature is a self-contained module with its own tables, endpoints and React pages, shipped as one FastAPI and Inertia app."
+      "description": "A tour of SimpleModule, where each Python feature is a self-contained module with its own tables, endpoints and React pages, shipped as one FastAPI and Inertia app.",
+      "date": null
     },
     {
       "link": "https://blog.antosubash.com/posts/parallel-ai-agents-crashed-my-workstation",
       "title": "When Parallel Coding Agents Crash Your Workstation",
-      "description": "What took down a 60 GiB Linux workstation running parallel Claude Code and Codex sessions, how to find what ate the memory, and five guardrails that stopped it."
+      "description": "What took down a 60 GiB Linux workstation running parallel Claude Code and Codex sessions, how to find what ate the memory, and five guardrails that stopped it.",
+      "date": null
     }
   ]
 }

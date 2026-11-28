@@ -4,17 +4,20 @@
     {
       "link": "https://lesiw.dev/flags/",
       "title": "Flags are configuration",
-      "description": "CLI flags are the most minimal configuration system there is."
+      "description": "CLI flags are the most minimal configuration system there is.",
+      "date": null
     },
     {
       "link": "https://lesiw.dev/go/step/",
       "title": "Many-Step Sequences in Go",
-      "description": "Breaking up programs with lots of linear steps."
+      "description": "Breaking up programs with lots of linear steps.",
+      "date": null
     },
     {
       "link": "https://lesiw.dev/go/struct/",
       "title": "An overview of Go structs",
-      "description": "An overview of Go structs: fields, tags, empty structs, size optimization, anonymous declarations, and embedding."
+      "description": "An overview of Go structs: fields, tags, empty structs, size optimization, anonymous declarations, and embedding.",
+      "date": null
     }
   ]
 }

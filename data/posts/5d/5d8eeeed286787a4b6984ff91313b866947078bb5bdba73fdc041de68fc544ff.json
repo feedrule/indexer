@@ -4,17 +4,20 @@
     {
       "link": "https://cameronwestland.com/the-graph-was-the-cheap-part/",
       "title": "The Graph Was the Cheap Part",
-      "description": "Each user in our FIRE alpha talks to an investing agent we run for them. Every day at noon, a second agent I call the watcher checks on one of those users. It reads four systems: Supabase for what his agent sessions did, PostHog for what he did in the app, Knock for whether our morning briefing email reached him, Braintrust for how the agent behaved. It posts four lines into an ops thread I read:"
+      "description": "Each user in our FIRE alpha talks to an investing agent we run for them. Every day at noon, a second agent I call the watcher checks on one of those users. It reads four systems: Supabase for what his agent sessions did, PostHog for what he did in the app, Knock for whether our morning briefing email reached him, Braintrust for how the agent behaved. It posts four lines into an ops thread I read:",
+      "date": null
     },
     {
       "link": "https://cameronwestland.com/agents-are-invention-machines/",
       "title": "Agents Are Invention Machines",
-      "description": "On July 16th I recorded a ten-second screen capture of a scroll bug that had escaped to production. Our chat transcript renders interactive cards: a portfolio card you can drill into, tap a ticker, get the detail view. Tapping a ticker made the whole transcript lurch. I handed the video to Codex running GPT-5.6 Sol at extra-high reasoning, a model that had been the state of the art for exactly one"
+      "description": "On July 16th I recorded a ten-second screen capture of a scroll bug that had escaped to production. Our chat transcript renders interactive cards: a portfolio card you can drill into, tap a ticker, get the detail view. Tapping a ticker made the whole transcript lurch. I handed the video to Codex running GPT-5.6 Sol at extra-high reasoning, a model that had been the state of the art for exactly one",
+      "date": null
     },
     {
       "link": "https://cameronwestland.com/designing-loops-that-prompt-coding-agents/",
       "title": "Designing Loops That Prompt Coding Agents: The Six I Actually Run",
-      "description": "On June 7, Peter Steinberger tweeted : “Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops that prompt your agents.” Eight million views. Around the same time, Boris Cherny, the creator of Claude Code, said on Acquired Unplugged : “I don’t prompt Claude anymore. I have loops running. They’re the ones prompting Claude and figuring out w"
+      "description": "On June 7, Peter Steinberger tweeted : “Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops that prompt your agents.” Eight million views. Around the same time, Boris Cherny, the creator of Claude Code, said on Acquired Unplugged : “I don’t prompt Claude anymore. I have loops running. They’re the ones prompting Claude and figuring out w",
+      "date": null
     }
   ]
 }

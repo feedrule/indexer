@@ -4,17 +4,20 @@
     {
       "link": "https://gus-massa.blogspot.com/2026/08/linear-programing-for-square-packing.html",
       "title": "Linear Programing for Square Packing",
-      "description": "This is the second post to improve a recent result and prove that 4.5058 (?) ≤s(17), but let’s first define s(17). Quoting the old article about the topic Let s(n) be the side of the smallest square into which we can pack n unit squares. The high level and historic details are in the first post . It also has a few nice drawings of the weights that appear in the previous and new proof. Let’s go now"
+      "description": "This is the second post to improve a recent result and prove that 4.5058 (?) ≤s(17), but let’s first define s(17). Quoting the old article about the topic Let s(n) be the side of the smallest square into which we can pack n unit squares. The high level and historic details are in the first post . It also has a few nice drawings of the weights that appear in the previous and new proof. Let’s go now",
+      "date": null
     },
     {
       "link": "https://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
       "title": "Another Better Lower Bound for n=17 Square Packing",
-      "description": "The idea is to improve a recent result and prove that 4.5058 (?) ≤s(17) using these weights: But let’s first define s(17). Quoting the old article about the topic Let s(n) be the side of the smallest square into which we can pack n unit squares. For n=16, the best is obviously a 4x4 array, so s(16)=4. For n=15, the 15 unit squares can also obviously be enclosed in a 4x4 square so s(15)≤4. Proving"
+      "description": "The idea is to improve a recent result and prove that 4.5058 (?) ≤s(17) using these weights: But let’s first define s(17). Quoting the old article about the topic Let s(n) be the side of the smallest square into which we can pack n unit squares. For n=16, the best is obviously a 4x4 array, so s(16)=4. For n=15, the 15 unit squares can also obviously be enclosed in a 4x4 square so s(15)≤4. Proving",
+      "date": null
     },
     {
       "link": "https://gus-massa.blogspot.com/2026/01/un-camino-feliz-para-racket-en-el.html",
       "title": "Un camino feliz para Racket en el benchmark de Collatz",
-      "description": "► English Version El otro día estuve leyendo otro benchmark más: \" Lambda Land: Functional Languages Need Not Be Slow \". (¿Es un benchmark? Lindo artículo, de todas maneras). Compara Racket , Python , Rust , Julia y JavaScript intentando la conjetura de Collatz hasta 500.000. Antes que nada, dos advertencias: - Hay mentiras, malditas mentiras, estadísticas y benchmarks. - La mejor manera de hacer"
+      "description": "► English Version El otro día estuve leyendo otro benchmark más: \" Lambda Land: Functional Languages Need Not Be Slow \". (¿Es un benchmark? Lindo artículo, de todas maneras). Compara Racket , Python , Rust , Julia y JavaScript intentando la conjetura de Collatz hasta 500.000. Antes que nada, dos advertencias: - Hay mentiras, malditas mentiras, estadísticas y benchmarks. - La mejor manera de hacer",
+      "date": null
     }
   ]
 }

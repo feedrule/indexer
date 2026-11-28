@@ -4,17 +4,20 @@
     {
       "link": "https://elazizi.com/posts/i-taught-my-test-suite-to-speak-ais-language/",
       "title": "I Taught My Test Suite to Speak AI's Language",
-      "description": "How I built a custom Vitest reporter that compresses test output for AI coding assistants — from 40+ lines to 1 line when all tests pass."
+      "description": "How I built a custom Vitest reporter that compresses test output for AI coding assistants — from 40+ lines to 1 line when all tests pass.",
+      "date": null
     },
     {
       "link": "https://elazizi.com/posts/add-views-counter-to-your-astro-blog-posts/",
       "title": "Add Views Counter to your Astro Blog Posts",
-      "description": "A guide on how to add a beautiful views counter to your Astro blog posts using a free hit counter service"
+      "description": "A guide on how to add a beautiful views counter to your Astro blog posts using a free hit counter service",
+      "date": null
     },
     {
       "link": "https://elazizi.com/posts/how-to-create-an-astro-tabs-component/",
       "title": "How to create an Astro tabs component",
-      "description": "A complete guide on how to implement an astro tabs component"
+      "description": "A complete guide on how to implement an astro tabs component",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://tj.ie/homelab/",
       "title": "A small homelab that fixes itself (mostly)",
-      "description": "I have a little mini PC living in my office. It’s a humble box with an Intel N100 and 16 GB of RAM, running Ubuntu Server. I bought it years ago, so I don’t want to know how much it sells for today. It runs a handful of apps for the house: some media tooling, Home Assistant, a document archive, network-wide ad blocking, and a few things I’ve built myself. I’m not going to go through the apps. They"
+      "description": "I have a little mini PC living in my office. It’s a humble box with an Intel N100 and 16 GB of RAM, running Ubuntu Server. I bought it years ago, so I don’t want to know how much it sells for today. It runs a handful of apps for the house: some media tooling, Home Assistant, a document archive, network-wide ad blocking, and a few things I’ve built myself. I’m not going to go through the apps. They",
+      "date": null
     },
     {
       "link": "https://tj.ie/how-room-repaints-work-on-swatcher/",
       "title": "How room repaints work on Swatcher",
-      "description": "The room visualiser I built earlier uses stock rooms rendered in Blender and recolours them in the browser with plain colour maths. I’d ruled out generative models for it: they guess, and a paint tool that guesses is a bad paint tool. But I think people kept want their room, not mine. So I built repaints as an experiment, and spent most of the effort on the parts around the model: pinning it to a"
+      "description": "The room visualiser I built earlier uses stock rooms rendered in Blender and recolours them in the browser with plain colour maths. I’d ruled out generative models for it: they guess, and a paint tool that guesses is a bad paint tool. But I think people kept want their room, not mine. So I built repaints as an experiment, and spent most of the effort on the parts around the model: pinning it to a",
+      "date": null
     },
     {
       "link": "https://tj.ie/swatcher-refine-palettes/",
       "title": "Swatcher: Change a Palette in Your Own Words",
-      "description": "Until now, a palette on Swatcher was a one-shot thing. You described a room, got back a set of real paints, and if one of them wasn’t quite right, your options were to start again or swap colours in by hand. Now you can just say what you’d like changed. Open a palette you generated from a brief and type something like “warmer”, “lighter”, or “keep the walls, swap the accent for something green”. T"
+      "description": "Until now, a palette on Swatcher was a one-shot thing. You described a room, got back a set of real paints, and if one of them wasn’t quite right, your options were to start again or swap colours in by hand. Now you can just say what you’d like changed. Open a palette you generated from a brief and type something like “warmer”, “lighter”, or “keep the walls, swap the accent for something green”. T",
+      "date": null
     }
   ]
 }

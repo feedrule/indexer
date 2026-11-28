@@ -4,17 +4,20 @@
     {
       "link": "https://blog.can.ac/2026/08/03/the-minutiae-of-tool-calling/",
       "title": "The Minutiae of Tool-calling",
-      "description": "Two years ago I was hosting my own SMTP server and had a simple goal: receiving one-time codes + the occasional human email. But I kept running into two issues: It was a PITA to extract the number/link in a generic way It kept receiving spam, being a wild-card inbox This was around the time GPT 3 came out, but we didn’t have structured output yet, let alone tool-calls, so I came up with this beaut"
+      "description": "Two years ago I was hosting my own SMTP server and had a simple goal: receiving one-time codes + the occasional human email. But I kept running into two issues: It was a PITA to extract the number/link in a generic way It kept receiving spam, being a wild-card inbox This was around the time GPT 3 came out, but we didn’t have structured output yet, let alone tool-calls, so I came up with this beaut",
+      "date": null
     },
     {
       "link": "https://blog.can.ac/2026/06/10/snapcompact/",
       "title": "Snapcompact: SoTA Compaction — Instant, Local, Free. Pick 3",
-      "description": "A 1568×1568 PNG fits about 40,000 characters of text in a 6×10 pixel font. That’s ~10,000 tokens worth of text, billed by Anthropic’s pixel formula as 3,279 image tokens. Do you see where I’m going with this? Snapcompact : when the context window fills up, render it into dense pixel-font bitmaps and hand those back as images. “A picture is worth a thousand words” turns out to be quite literally tr"
+      "description": "A 1568×1568 PNG fits about 40,000 characters of text in a 6×10 pixel font. That’s ~10,000 tokens worth of text, billed by Anthropic’s pixel formula as 3,279 image tokens. Do you see where I’m going with this? Snapcompact : when the context window fills up, render it into dense pixel-font bitmaps and hand those back as images. “A picture is worth a thousand words” turns out to be quite literally tr",
+      "date": null
     },
     {
       "link": "https://blog.can.ac/2026/02/12/the-harness-problem/",
       "title": "I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed.",
-      "description": "Cross-posted from X / @can1357 In fact only the edit tool changed. That’s it. 0x0: The Wrong Question The conversation right now is almost entirely about which model is best at coding, GPT-5.3 or Opus. Gemini vs whatever dropped this week. This framing is increasingly misleading because it treats the model as the only variable that matters, when in reality one of the bottlenecks is something much"
+      "description": "Cross-posted from X / @can1357 In fact only the edit tool changed. That’s it. 0x0: The Wrong Question The conversation right now is almost entirely about which model is best at coding, GPT-5.3 or Opus. Gemini vs whatever dropped this week. This framing is increasingly misleading because it treats the model as the only variable that matters, when in reality one of the bottlenecks is something much",
+      "date": null
     }
   ]
 }

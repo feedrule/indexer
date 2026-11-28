@@ -4,17 +4,20 @@
     {
       "link": "https://www.romainthomas.fr/post/26-10-frida-stalker-detection/",
       "title": "Detecting Frida Stalker",
-      "description": "Frida’s Stalker spills its scratch registers after the red zone. This blog post shows how this mechanism can be used to detect if a function is stalked."
+      "description": "Frida’s Stalker spills its scratch registers after the red zone. This blog post shows how this mechanism can be used to detect if a function is stalked.",
+      "date": null
     },
     {
       "link": "https://www.romainthomas.fr/post/26-01-dexprotector/",
       "title": "A Glimpse Into DexProtector",
-      "description": "This blog post provides a high-level overview of DexProtector’s security features and their limitations"
+      "description": "This blog post provides a high-level overview of DexProtector’s security features and their limitations",
+      "date": null
     },
     {
       "link": "https://www.romainthomas.fr/post/25-04-windows-arm64-qbdi-fuzzing/",
       "title": "Fuzzing Windows ARM64 closed-source binary",
-      "description": "This blog post introduces coverage-guided fuzzing with QBDI and libFuzzer targeting Windows ARM64."
+      "description": "This blog post introduces coverage-guided fuzzing with QBDI and libFuzzer targeting Windows ARM64.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://systemreboot.net/post/blog-now-on-gemini.html",
       "title": "Blog now on gemini",
-      "description": "My blog is now mirrored on the gemini small web protocol."
+      "description": "My blog is now mirrored on the gemini small web protocol.",
+      "date": null
     },
     {
       "link": "https://systemreboot.net/post/why-i-name-my-projects-in-tamil.html",
       "title": "Why I name my projects in Tamil",
-      "description": "I often pick inscrutable Tamil names for my software projects. Maybe you've been frustrated, unable to remember or pronounce these names. Why can't I be a normal person and just pick an English name? Here's why."
+      "description": "I often pick inscrutable Tamil names for my software projects. Maybe you've been frustrated, unable to remember or pronounce these names. Why can't I be a normal person and just pick an English name? Here's why.",
+      "date": null
     },
     {
       "link": "https://systemreboot.net/post/expanding-guile-macros-one-step-at-a-time.html",
       "title": "Expanding Guile macros one step at a time",
-      "description": "When debugging Guile macros, sometimes one expansion step is all you need. Here's a small tool I wrote to scratch that itch."
+      "description": "When debugging Guile macros, sometimes one expansion step is all you need. Here's a small tool I wrote to scratch that itch.",
+      "date": null
     }
   ]
 }

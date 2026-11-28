@@ -4,17 +4,20 @@
     {
       "link": "http://www.riyas.org/2026/09/a-decade-in-making-building-homebrew.html",
       "title": "A Decade in the Making: Building a Homebrew SDR Transceiver with QSD/QSE and RP2350",
-      "description": "/* ---------- Base ---------- */ .sdr-post{max-width:900px;margin:0 auto;font-family:Arial,Helvetica,sans-serif; color:#1d2939;line-height:1.7;font-size:16px;} .sdr-post h1{font-size:40px;line-height:1.15;color:#125bc0;margin:0 0 12px;} .sdr-post h2{color:#125bc0;font-size:26px;border-bottom:2px solid #d8e6f7; padding-bottom:8px;margin:40px 0 18px;} .sdr-post"
+      "description": "/* ---------- Base ---------- */ .sdr-post{max-width:900px;margin:0 auto;font-family:Arial,Helvetica,sans-serif; color:#1d2939;line-height:1.7;font-size:16px;} .sdr-post h1{font-size:40px;line-height:1.15;color:#125bc0;margin:0 0 12px;} .sdr-post h2{color:#125bc0;font-size:26px;border-bottom:2px solid #d8e6f7; padding-bottom:8px;margin:40px 0 18px;} .sdr-post",
+      "date": null
     },
     {
       "link": "http://www.riyas.org/2026/06/the-rp2040-minimalist-hf-transceiver.html",
       "title": "The RP2040 Minimalist HF Transceiver: A Low-Cost, High-Fun Sandbox for the Radio Tinkerer",
-      "description": "After taking a break from homebrewing, seeing the incredible creativity and dedication in the ham radio community completely inspired me to dive back in. I’m taking things slow this time around, focusing on a rough prototype that is incredibly easy to build upon, swap parts, and experiment with. My latest project moves away from legacy design complexities, opting"
+      "description": "After taking a break from homebrewing, seeing the incredible creativity and dedication in the ham radio community completely inspired me to dive back in. I’m taking things slow this time around, focusing on a rough prototype that is incredibly easy to build upon, swap parts, and experiment with. My latest project moves away from legacy design complexities, opting",
+      "date": null
     },
     {
       "link": "http://www.riyas.org/2024/12/generating-true-random-numbers-with.html",
       "title": "Generating True Random Numbers with a Geiger Counter and an ATtiny13 to serial port",
-      "description": "For most cases of random number generation, systems use a pseudo-random number generator (PRNG), that is an algorithm that generates numbers that \"look\" random. But for certain applications, where true randomness is required — as in cryptography or simulations — there’s a different approach: draw on a physical process that, by its nature, is unpredictable. Radioactive decay is one such process"
+      "description": "For most cases of random number generation, systems use a pseudo-random number generator (PRNG), that is an algorithm that generates numbers that \"look\" random. But for certain applications, where true randomness is required — as in cryptography or simulations — there’s a different approach: draw on a physical process that, by its nature, is unpredictable. Radioactive decay is one such process",
+      "date": null
     }
   ]
 }

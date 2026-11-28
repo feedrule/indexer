@@ -4,17 +4,20 @@
     {
       "link": "https://snehal.ai/text-classification-history/",
       "title": "From Bag-of-Words to Jev: How Text Classification Got Here",
-      "description": "The first question I got after the Jev post was a fair one: “Isn’t this just a glorified classifier?” Yes, and that’s the interesting part. Text classification is one of the oldest problems in NLP. Spam filters were doing it in 1998. So why did a classifier with a nice API become the most talked-about model release of the month?"
+      "description": "The first question I got after the Jev post was a fair one: “Isn’t this just a glorified classifier?” Yes, and that’s the interesting part. Text classification is one of the oldest problems in NLP. Spam filters were doing it in 1998. So why did a classifier with a nice API become the most talked-about model release of the month?",
+      "date": null
     },
     {
       "link": "https://snehal.ai/jev-explained/",
       "title": "Jev and System One Models: The Decision Without the Paragraph",
-      "description": "A lot of the GenAI workflows I’ve worked on follow the same pattern: give a model some context, ask it to return JSON, parse the response, and use a field to decide what happens next. Take invoice processing. The model reads the invoice and returns something like {\"requires_review\": true}. The application parses that response and routes the invoice for review. We go through this whole process of g"
+      "description": "A lot of the GenAI workflows I’ve worked on follow the same pattern: give a model some context, ask it to return JSON, parse the response, and use a field to decide what happens next. Take invoice processing. The model reads the invoice and returns something like {\"requires_review\": true}. The application parses that response and routes the invoice for review. We go through this whole process of g",
+      "date": null
     },
     {
       "link": "https://snehal.ai/deepseek-v41-flash-explained/",
       "title": "Inside DeepSeek-V4.1-Flash: Encoder-Decoder Backbones, Sparse Attention, and FP4 Cache",
-      "description": "DeepSeek-V4.1-Flash is built around a practical problem: agents spend enormous amounts of time reading. Tool outputs, documents, code, and conversation history keep growing, making prompt processing and context storage increasingly expensive."
+      "description": "DeepSeek-V4.1-Flash is built around a practical problem: agents spend enormous amounts of time reading. Tool outputs, documents, code, and conversation history keep growing, making prompt processing and context storage increasingly expensive.",
+      "date": null
     }
   ]
 }

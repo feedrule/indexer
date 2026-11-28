@@ -4,17 +4,20 @@
     {
       "link": "https://stof.dev/blog/per-customer-software",
       "title": "Software That's Different for Every Customer",
-      "description": "Writing code is getting cheap. The next step is software whose logic differs per customer, written on demand. What stops it isn't writing the code, it's trusting it. Here's the shape that works, and where Stof fits."
+      "description": "Writing code is getting cheap. The next step is software whose logic differs per customer, written on demand. What stops it isn't writing the code, it's trusting it. Here's the shape that works, and where Stof fits.",
+      "date": null
     },
     {
       "link": "https://stof.dev/blog/stof-0-11-4",
       "title": "Stof 0.11.4: Rust, JavaScript, and Python",
-      "description": "Stof runs logic a model or a customer wrote, safely, inside your app. With 0.11.4 it's first-class in Rust, JavaScript, and Python: prebuilt Python wheels for every platform, host functions that belong to each document, faster calls, arrow functions that are real closures, and a sandbox time-limit fix."
+      "description": "Stof runs logic a model or a customer wrote, safely, inside your app. With 0.11.4 it's first-class in Rust, JavaScript, and Python: prebuilt Python wheels for every platform, host functions that belong to each document, faster calls, arrow functions that are real closures, and a sandbox time-limit fix.",
+      "date": null
     },
     {
       "link": "https://stof.dev/blog/stof-security",
       "title": "Running Logic You Didn't Write: Stof's Security Model in 0.11",
-      "description": "Stof 0.11 rounds out Stof's security model: seal the logic you trust so it can be called but not changed, confine code from somewhere else to what you give it, sign and check data with keys, a memory limit on every call, network access that stays off your private network, and stricter HTML. This post walks through the whole model, with examples."
+      "description": "Stof 0.11 rounds out Stof's security model: seal the logic you trust so it can be called but not changed, confine code from somewhere else to what you give it, sign and check data with keys, a memory limit on every call, network access that stays off your private network, and stricter HTML. This post walks through the whole model, with examples.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.laurosilva.com/garden/monorepos",
       "title": "Monorepos: shared code, explicit boundaries",
-      "description": "My earlier explanation of monorepos used a forest as a metaphor for projects sharing resources. That is a useful starting point, but it leaves out the decision that matters: which parts of the code should change…"
+      "description": "My earlier explanation of monorepos used a forest as a metaphor for projects sharing resources. That is a useful starting point, but it leaves out the decision that matters: which parts of the code should change…",
+      "date": null
     },
     {
       "link": "https://www.laurosilva.com/garden/auth-db",
       "title": "Syncing Users Between Clerk and Your Database in Next.js",
-      "description": "When Clerk handles authentication, your application still has to decide where its own user data belongs. A valid session and a row in your database are different things. Signing in does not mean that an asynchronous…"
+      "description": "When Clerk handles authentication, your application still has to decide where its own user data belongs. A valid session and a row in your database are different things. Signing in does not mean that an asynchronous…",
+      "date": null
     },
     {
       "link": "https://www.laurosilva.com/garden/software-engineering-with-ai-agents",
       "title": "A Practical Workflow for Software Engineering with AI Agents",
-      "description": "AI agents can produce code quickly. Writing code is no longer the only bottleneck. The difficult parts are defining the right work, maintaining the architecture, and reviewing the resulting volume of code. A useful…"
+      "description": "AI agents can produce code quickly. Writing code is no longer the only bottleneck. The difficult parts are defining the right work, maintaining the architecture, and reviewing the resulting volume of code. A useful…",
+      "date": null
     }
   ]
 }

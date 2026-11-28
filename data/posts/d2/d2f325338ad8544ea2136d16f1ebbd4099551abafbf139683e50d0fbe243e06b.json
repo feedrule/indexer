@@ -4,17 +4,20 @@
     {
       "link": "https://kcore.org/2026/09/09/switching-from-podman-quadlets-to-podman-compose/",
       "title": "Switching from Podman Quadlets to Podman Compose",
-      "description": "I switched from Docker to Podman in my homelab back in 2023, and settled on using Quadlets. I’ve been using this system for about three years, but it’s a bit of a hassle to have to convert any and all Docker Compose files into separate Quadlet files. If you’re starting out with Podman, you might want to go read the blog post linked above, as it does contain some things to help you get start..."
+      "description": "I switched from Docker to Podman in my homelab back in 2023, and settled on using Quadlets. I’ve been using this system for about three years, but it’s a bit of a hassle to have to convert any and all Docker Compose files into separate Quadlet files. If you’re starting out with Podman, you might want to go read the blog post linked above, as it does contain some things to help you get start...",
+      "date": null
     },
     {
       "link": "https://kcore.org/2026/07/12/the-search-for-email-hosting/",
       "title": "The search for email hosting",
-      "description": "I’ve been pondering whether to move away from Fastmail - not because it’s a bad service, but because of where the servers are hosted. I’ve weighed a bunch, but for now I’m staying with Fastmail. The beauty of email is that it’s based on open standards, and you can just move whenever you feel like it. Mail-hosting history Over the years I’ve used GMX.net, Hotmail and Gmail - the latter still e..."
+      "description": "I’ve been pondering whether to move away from Fastmail - not because it’s a bad service, but because of where the servers are hosted. I’ve weighed a bunch, but for now I’m staying with Fastmail. The beauty of email is that it’s based on open standards, and you can just move whenever you feel like it. Mail-hosting history Over the years I’ve used GMX.net, Hotmail and Gmail - the latter still e...",
+      "date": null
     },
     {
       "link": "https://kcore.org/2026/07/09/the-search-for-a-mail-client/",
       "title": "The search for an email, contacts and calendar client for Linux",
-      "description": "I’ve been searching for an email client. Well, more than an email client - a piece of software (or interconnected pieces) that can handle email, calendaring and contacts - often referred to as a Personal Information Manager (or PIM). Either natively on Linux, or as a web client. The main reason for this search is that I’m considering moving away from my current mail hoster, Fastmail. Not becau..."
+      "description": "I’ve been searching for an email client. Well, more than an email client - a piece of software (or interconnected pieces) that can handle email, calendaring and contacts - often referred to as a Personal Information Manager (or PIM). Either natively on Linux, or as a web client. The main reason for this search is that I’m considering moving away from my current mail hoster, Fastmail. Not becau...",
+      "date": null
     }
   ]
 }

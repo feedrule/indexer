@@ -4,17 +4,20 @@
     {
       "link": "https://www.abgeo.dev/projects/georgia-mcp/",
       "title": "Georgia MCP",
-      "description": "An MCP server for Georgian public data. Ask Claude, ChatGPT, or any MCP client in your own words."
+      "description": "An MCP server for Georgian public data. Ask Claude, ChatGPT, or any MCP client in your own words.",
+      "date": null
     },
     {
       "link": "https://www.abgeo.dev/blog/php2shell-critical-php-rce/",
       "title": "php2shell, Two Critical PHP Bugs Leaked Before the Patch",
-      "description": "PHP ships an emergency security release today, October 21, 2026, at 14:00 UTC. The release fixes two critical bugs in PHP core. People already call them “php2shell”. The details leaked one day before the embargo ended, so the clock started early for everybody who runs PHP. I wrote this post with what was public at 08:00 UTC on October 21. The fix is out now, so start with the next section."
+      "description": "PHP ships an emergency security release today, October 21, 2026, at 14:00 UTC. The release fixes two critical bugs in PHP core. People already call them “php2shell”. The details leaked one day before the embargo ended, so the clock started early for everybody who runs PHP. I wrote this post with what was public at 08:00 UTC on October 21. The fix is out now, so start with the next section.",
+      "date": null
     },
     {
       "link": "https://www.abgeo.dev/blog/http-query-method/",
       "title": "A New Way to Query HTTP APIs with a Body",
-      "description": "Have you done something like this? POST /api/orders/search HTTP/1.1 Host: api.example.com Content-Type: application/json { \"status\": \"shipped\", \"createdAfter\": \"2026-01-01\", \"customer\": { \"country\": \"GE\" }, \"sortBy\": \"createdAt\", \"limit\": 50 } Most backend developers have. I’ve seen it in dozens of production APIs. You need to filter, sort, and page through a resource, the filter shape is too comp"
+      "description": "Have you done something like this? POST /api/orders/search HTTP/1.1 Host: api.example.com Content-Type: application/json { \"status\": \"shipped\", \"createdAfter\": \"2026-01-01\", \"customer\": { \"country\": \"GE\" }, \"sortBy\": \"createdAt\", \"limit\": 50 } Most backend developers have. I’ve seen it in dozens of production APIs. You need to filter, sort, and page through a resource, the filter shape is too comp",
+      "date": null
     }
   ]
 }

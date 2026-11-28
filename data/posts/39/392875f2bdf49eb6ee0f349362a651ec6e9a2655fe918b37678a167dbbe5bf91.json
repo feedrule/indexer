@@ -4,17 +4,20 @@
     {
       "link": "https://tylergaw.com/blog/display-p3-background-repeat-bug/",
       "title": "P3 Color Bug with Repeating SVG Background Images",
-      "description": "Here’s a fun one. There’s a bug in Chrome and Safari where SVGs that use Display P3 colors get changed to sRGB when set as repeating background images. First, a few details: Seeing this in Chrome 150 and Safari 26 Firefox (as of 152) needs silly config changes so I didn’t test there. Assuming it has the same issue This post is about Display P3, but the same applies to other wide gamut colors like"
+      "description": "Here’s a fun one. There’s a bug in Chrome and Safari where SVGs that use Display P3 colors get changed to sRGB when set as repeating background images. First, a few details: Seeing this in Chrome 150 and Safari 26 Firefox (as of 152) needs silly config changes so I didn’t test there. Assuming it has the same issue This post is about Display P3, but the same applies to other wide gamut colors like",
+      "date": null
     },
     {
       "link": "https://tylergaw.com/blog/color-scheme-browser-native-control/",
       "title": "Browsers Should Have a Native Control for Per-Site Color Scheme",
-      "description": "Note: This is a proposal for a browser feature. All the demos are mock ups and the feature-specific code is made up. As far as I know, nothing like this is in progress by any browser. Update: Even though I thought I’d done an extensive search for existing posts on this, my searching didn’t turn up any posts on the topic. But knew there had to be already. And of course, there already is. I swear I"
+      "description": "Note: This is a proposal for a browser feature. All the demos are mock ups and the feature-specific code is made up. As far as I know, nothing like this is in progress by any browser. Update: Even though I thought I’d done an extensive search for existing posts on this, my searching didn’t turn up any posts on the topic. But knew there had to be already. And of course, there already is. I swear I",
+      "date": null
     },
     {
       "link": "https://tylergaw.com/blog/the-old-internet-is-still-here/",
       "title": "The Old Internet is Still Here",
-      "description": "There’s a frequent lament of missing the “old” Internet. It’s different for every person that thinks it, but it’s usually a feeling of loss for things like personal websites, blogs, RSS feeds, quirky sites for special interests and hobbies, forums, etc. A feeling that they don’t exist. That they’ve disappeared from the Internet. While I understand the feeling, it’s misplaced. Those things we’re mi"
+      "description": "There’s a frequent lament of missing the “old” Internet. It’s different for every person that thinks it, but it’s usually a feeling of loss for things like personal websites, blogs, RSS feeds, quirky sites for special interests and hobbies, forums, etc. A feeling that they don’t exist. That they’ve disappeared from the Internet. While I understand the feeling, it’s misplaced. Those things we’re mi",
+      "date": null
     }
   ]
 }

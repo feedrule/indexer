@@ -4,17 +4,20 @@
     {
       "link": "https://www.mauriciopoppe.com/notes/optimizing-the-inference-stack/",
       "title": "Optimizing the LLM Inference Stack",
-      "description": "An end-to-end framework for optimizing LLM inference: map hardware, kernels, host execution, runtimes, and orchestration, define service demand, rank bottlenecks with capacity and queueing, and choose experiments that improve goodput. Includes case studies from Makora and Baseten."
+      "description": "An end-to-end framework for optimizing LLM inference: map hardware, kernels, host execution, runtimes, and orchestration, define service demand, rank bottlenecks with capacity and queueing, and choose experiments that improve goodput. Includes case studies from Makora and Baseten.",
+      "date": null
     },
     {
       "link": "https://www.mauriciopoppe.com/notes/pareto-frontier-in-inference-serving/",
       "title": "The Pareto Frontier in LLM Inference Serving",
-      "description": "Why a single performance number tells only part of the story in LLM serving, and when you need the whole Pareto frontier instead. Covers the limits of scalarization on concave trade-offs, how Optuna and Google Vizier actually store trial values (the frontier is derived, not persisted), and how production tools like Prism, InferenceBench, and NVIDIA Dynamo present the frontier as the reportable art"
+      "description": "Why a single performance number tells only part of the story in LLM serving, and when you need the whole Pareto frontier instead. Covers the limits of scalarization on concave trade-offs, how Optuna and Google Vizier actually store trial values (the frontier is derived, not persisted), and how production tools like Prism, InferenceBench, and NVIDIA Dynamo present the frontier as the reportable art",
+      "date": null
     },
     {
       "link": "https://www.mauriciopoppe.com/notes/benchmarking-for-systems-engineers/",
       "title": "Benchmarking for Systems Engineers",
-      "description": "A practical guide to benchmarking: define the performance problem, characterize production workloads, measure latency distributions, avoid Coordinated Omission, choose an arrival model, and explain what the result means."
+      "description": "A practical guide to benchmarking: define the performance problem, characterize production workloads, measure latency distributions, avoid Coordinated Omission, choose an arrival model, and explain what the result means.",
+      "date": null
     }
   ]
 }

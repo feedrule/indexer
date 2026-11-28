@@ -4,17 +4,20 @@
     {
       "link": "https://harrisonsec.com/blog/my-second-iphone-lives-at-home/",
       "title": "My Second iPhone Lives at Home. I Use It From Anywhere.",
-      "description": "I have two phone numbers in two countries. For a long time that meant two phones: one in my pocket, one in a drawer or a bag, and the second one was always the wrong one. A bank sends its code to the old number. A messaging account is tied to it. Someone who only has that number calls while it is at the bottom of a backpack on silent."
+      "description": "I have two phone numbers in two countries. For a long time that meant two phones: one in my pocket, one in a drawer or a bag, and the second one was always the wrong one. A bank sends its code to the old number. A messaging account is tied to it. Someone who only has that number calls while it is at the bottom of a backpack on silent.",
+      "date": null
     },
     {
       "link": "https://harrisonsec.com/blog/hang-up-and-it-rings-once-more/",
       "title": "Hang Up, and It Rings Once More",
-      "description": "My second iPhone lives at home, and my main phone rings when it rings ( the setup ). The gateway at home sees the incoming call and sends my main phone an Apple VoIP push; the TracePort app turns that into a normal incoming-call screen with CallKit. When the call stops ringing at home, the gateway sends a second push, “ended”, and the app takes the call screen down. It worked. Then I noticed somet"
+      "description": "My second iPhone lives at home, and my main phone rings when it rings ( the setup ). The gateway at home sees the incoming call and sends my main phone an Apple VoIP push; the TracePort app turns that into a normal incoming-call screen with CallKit. When the call stops ringing at home, the gateway sends a second push, “ended”, and the app takes the call screen down. It worked. Then I noticed somet",
+      "date": null
     },
     {
       "link": "https://harrisonsec.com/blog/the-fix-that-brought-the-bug-back/",
       "title": "The Fix That Brought the Bug Back",
-      "description": "I use a second iPhone at home through a stream ( the setup ): the phone’s screen comes off USB as H.264, an old laptop’s GPU re-encodes it, and a fork of Sunshine streams it to my main phone. The bug in this post appeared twice. The second time, my fix for the first one was the cause. Round one: nothing for ten seconds Connecting to the phone was slow. Sometimes the picture took a couple of second"
+      "description": "I use a second iPhone at home through a stream ( the setup ): the phone’s screen comes off USB as H.264, an old laptop’s GPU re-encodes it, and a fork of Sunshine streams it to my main phone. The bug in this post appeared twice. The second time, my fix for the first one was the cause. Round one: nothing for ten seconds Connecting to the phone was slow. Sometimes the picture took a couple of second",
+      "date": null
     }
   ]
 }

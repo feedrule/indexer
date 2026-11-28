@@ -4,17 +4,20 @@
     {
       "link": "http://127.0.0.1:1111/blog/welcome5/",
       "title": "welcome to dkdc.net",
-      "description": "Welcome to dkdc.net ! This is the Nth iteration of my website."
+      "description": "Welcome to dkdc.net ! This is the Nth iteration of my website.",
+      "date": null
     },
     {
       "link": "http://127.0.0.1:1111/blog/themed-screenshots-with-playwright-cli/",
       "title": "themed screenshots with Playwright CLI",
-      "description": "no manual screenshots ever again."
+      "description": "no manual screenshots ever again.",
+      "date": null
     },
     {
       "link": "http://127.0.0.1:1111/blog/accidental-poetry/",
       "title": "accidental poetry",
-      "description": "an accidental poem I sent"
+      "description": "an accidental poem I sent",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://zansf-personal-blog.statichost.page/cleaup-leftover-bottles-if-something-goes-wrong.html",
       "title": "Cleaup leftover Bottles if something goes wrong",
-      "description": "After the headache of dealing with a hard drives filesystem randomly having IO errors, resulting in it being set to read only, i had to do some cleaning several times before finding a fix, due to Bottles NOT properly removing those leftover Bottles, causing problems when creating new ones. This …"
+      "description": "After the headache of dealing with a hard drives filesystem randomly having IO errors, resulting in it being set to read only, i had to do some cleaning several times before finding a fix, due to Bottles NOT properly removing those leftover Bottles, causing problems when creating new ones. This …",
+      "date": null
     },
     {
       "link": "https://zansf-personal-blog.statichost.page/converting-images-to-webp.html",
       "title": "Converting images to WebP",
-      "description": "Let's say i was looking for a way to convert images into a format, that is perfectly suited for modern webhosting. That means, good compatibility, decent enough quality and (most important) low file size. The classics are .jpg and .png , which are also the best supported, and are good enough …"
+      "description": "Let's say i was looking for a way to convert images into a format, that is perfectly suited for modern webhosting. That means, good compatibility, decent enough quality and (most important) low file size. The classics are .jpg and .png , which are also the best supported, and are good enough …",
+      "date": null
     },
     {
       "link": "https://zansf-personal-blog.statichost.page/extract-video-frame-as-image.html",
       "title": "Extract video frame as image",
-      "description": "Let's just say i was trying to learn how to better use ffmpeg , and started asking myself \"What are the things i needed when working with video content?\". And this is one of the things that came to mind. A simple way to extract one video frame from a video …"
+      "description": "Let's just say i was trying to learn how to better use ffmpeg , and started asking myself \"What are the things i needed when working with video content?\". And this is one of the things that came to mind. A simple way to extract one video frame from a video …",
+      "date": null
     }
   ]
 }

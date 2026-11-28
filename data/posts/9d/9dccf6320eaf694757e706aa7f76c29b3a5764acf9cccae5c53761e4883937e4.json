@@ -4,17 +4,20 @@
     {
       "link": "https://skatkov.com/posts/2026-07-15-snooping-on-githits",
       "title": "Snooping on GitHits.com",
-      "description": "This year I did couple of “LLM harness” corporate trainings. My unique twist on LLM training is trying to explain how LLM harnesses work. By harness I mean claude code, opencode and codex - not LLM itself. One thing made explicitly clear in those trainings is that MCP usage is highly discouraged. MCP protocol creators, Anthropic, lay out issues with MCP in their Code execution with MCP: building m"
+      "description": "This year I did couple of “LLM harness” corporate trainings. My unique twist on LLM training is trying to explain how LLM harnesses work. By harness I mean claude code, opencode and codex - not LLM itself. One thing made explicitly clear in those trainings is that MCP usage is highly discouraged. MCP protocol creators, Anthropic, lay out issues with MCP in their Code execution with MCP: building m",
+      "date": null
     },
     {
       "link": "https://skatkov.com/posts/2026-07-01-mutate-all-things",
       "title": "Mutation testing in the age of LLMs",
-      "description": "The last conference I attended was Wroclaw RB . The conference had workshops in the first part, and I was really excited about the mutation testing workshop. Google, in one of their research papers , claimed that mutation testing might have prevented 7 out of 10 production accidents if this testing practice was widely used. “Mutants are coupled with 70% of high-priority bugs, for which mutation te"
+      "description": "The last conference I attended was Wroclaw RB . The conference had workshops in the first part, and I was really excited about the mutation testing workshop. Google, in one of their research papers , claimed that mutation testing might have prevented 7 out of 10 production accidents if this testing practice was widely used. “Mutants are coupled with 70% of high-priority bugs, for which mutation te",
+      "date": null
     },
     {
       "link": "https://skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux",
       "title": "Signing and notarizing a Mac app on Linux",
-      "description": "I had to sign and notarize the Posh TUI Mac app. The problem is that our household moved away from Apple. My last MacBook (Intel-based) was converted into an Omarchy machine for my son. But all the documentation assumed access to a MacBook and Keychain.app. So what should I do? Rent a Mac in the cloud? Borrow someone’s MacBook for a couple of hours? There is nothing inherently Apple-specific about"
+      "description": "I had to sign and notarize the Posh TUI Mac app. The problem is that our household moved away from Apple. My last MacBook (Intel-based) was converted into an Omarchy machine for my son. But all the documentation assumed access to a MacBook and Keychain.app. So what should I do? Rent a Mac in the cloud? Borrow someone’s MacBook for a couple of hours? There is nothing inherently Apple-specific about",
+      "date": null
     }
   ]
 }

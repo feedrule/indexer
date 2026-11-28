@@ -4,17 +4,20 @@
     {
       "link": "https://telcokwaks.com/posts/all-roads-lead-to-the-firewall/",
       "title": "EVPN: All roads lead to the firewall",
-      "description": "Introduction In the past, I have worked with proprietary firewalls (Stormshield, Arkoon, Netasq). The experience was rather mixed: the whole thing is hard to debug, updates are gated behind licenses, prices are excessive, and there are many technical limitations. So many reasons to rule out proprietary gear for this kind of design, in favor of a Linux-based solution (FRR, BGP, nftables): open sour"
+      "description": "Introduction In the past, I have worked with proprietary firewalls (Stormshield, Arkoon, Netasq). The experience was rather mixed: the whole thing is hard to debug, updates are gated behind licenses, prices are excessive, and there are many technical limitations. So many reasons to rule out proprietary gear for this kind of design, in favor of a Linux-based solution (FRR, BGP, nftables): open sour",
+      "date": null
     },
     {
       "link": "https://telcokwaks.com/posts/satnogs/",
       "title": "SatNOGS: A Ground Station for Under €100",
-      "description": "The SatNOGS Network Project The goal of the SatNOGS project, as its “ about ” page indicates, is to have a global network of ground stations. An interface allows you to manage your station, observations, etc. The observations are freely accessible to anyone who wishes. It is possible to participate in the project by installing one or more stations, which allows access to other features, such as sc"
+      "description": "The SatNOGS Network Project The goal of the SatNOGS project, as its “ about ” page indicates, is to have a global network of ground stations. An interface allows you to manage your station, observations, etc. The observations are freely accessible to anyone who wishes. It is possible to participate in the project by installing one or more stations, which allows access to other features, such as sc",
+      "date": null
     },
     {
       "link": "https://telcokwaks.com/posts/father-michel-lost-his-shell/",
       "title": "Virtualization: Father Michel lost his shell",
-      "description": "I manage virtualization servers, and we have full control over the hypervisors. The administration of the virtual machines is handled by the clients. Ubuntu is the most commonly used operating system on our virtual machines. We deploy them using cloud images . The initial configuration is managed by cloud-init , which takes care of networking and SSH keys. It also automatically installs the qemu-g"
+      "description": "I manage virtualization servers, and we have full control over the hypervisors. The administration of the virtual machines is handled by the clients. Ubuntu is the most commonly used operating system on our virtual machines. We deploy them using cloud images . The initial configuration is managed by cloud-init , which takes care of networking and SSH keys. It also automatically installs the qemu-g",
+      "date": null
     }
   ]
 }

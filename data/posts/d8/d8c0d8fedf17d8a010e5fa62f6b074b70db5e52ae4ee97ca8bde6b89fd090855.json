@@ -4,17 +4,20 @@
     {
       "link": "https://www.svendewaerhert.com/blog/1-5-years-of-talking-to-claude",
       "title": "1.5 Years of Talking to Claude",
-      "description": "An analysis of 888 conversations with Claude over 18 months. Perform your own analysis 100% offline."
+      "description": "An analysis of 888 conversations with Claude over 18 months. Perform your own analysis 100% offline.",
+      "date": null
     },
     {
       "link": "https://www.svendewaerhert.com/blog/esp32-thermostat",
       "title": "Building a custom ESP32 thermostat",
-      "description": "A guided tour through the code of a battery-powered ESP32 thermostat with e-paper display, deep sleep, and remote control"
+      "description": "A guided tour through the code of a battery-powered ESP32 thermostat with e-paper display, deep sleep, and remote control",
+      "date": null
     },
     {
       "link": "https://www.svendewaerhert.com/blog/nearby-peer-discovery",
       "title": "Nearby peer discovery without GPS using environmental fingerprints",
-      "description": "I propose a peer discovery technique to detect nearby devices by comparing similarity in their observed environments, such as WiFi or Bluetooth networks. Using locality-sensitive hashing and private set intersection, peers can compare their environments without disclosing the full details. With sufficient similarity between environments, peers can conclude they are near each other."
+      "description": "I propose a peer discovery technique to detect nearby devices by comparing similarity in their observed environments, such as WiFi or Bluetooth networks. Using locality-sensitive hashing and private set intersection, peers can compare their environments without disclosing the full details. With sufficient similarity between environments, peers can conclude they are near each other.",
+      "date": null
     }
   ]
 }

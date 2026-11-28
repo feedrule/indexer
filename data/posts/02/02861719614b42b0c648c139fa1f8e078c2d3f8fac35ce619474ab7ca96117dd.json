@@ -4,17 +4,20 @@
     {
       "link": "http://bruxy.regnet.cz/web/8bit/CZ/nedoos",
       "title": "Víceúlohový operační systém NedoOS",
-      "description": "Tento OS pochází z Ruska a běží na počítačích kompatibilních se ZX Spectrum: ATM Turbo 2+, ATM Turbo 3, Pentagon 2.666LE a ZX Evolution, které si našly cestu i k uživatelům v ČR a na Slovensku."
+      "description": "Tento OS pochází z Ruska a běží na počítačích kompatibilních se ZX Spectrum: ATM Turbo 2+, ATM Turbo 3, Pentagon 2.666LE a ZX Evolution, které si našly cestu i k uživatelům v ČR a na Slovensku.",
+      "date": null
     },
     {
       "link": "http://bruxy.regnet.cz/web/linux/EN/nvidia-fc42-problem",
       "title": "NVIDIA proprietary drivers in Fedora 42",
-      "description": "I have just updated from 41 to 42 and found that NVIDIA drivers is going to misbehave. The main reason is that Fedora 42 is using by default GCC 15.x and the driver can only compile with version 14.x."
+      "description": "I have just updated from 41 to 42 and found that NVIDIA drivers is going to misbehave. The main reason is that Fedora 42 is using by default GCC 15.x and the driver can only compile with version 14.x.",
+      "date": null
     },
     {
       "link": "http://bruxy.regnet.cz/web/linux/CZ/new-computer",
       "title": "Nový počítač IBM PC kompatibilní",
-      "description": "Konečně jsem upgradoval domácí pícídlo."
+      "description": "Konečně jsem upgradoval domácí pícídlo.",
+      "date": null
     }
   ]
 }

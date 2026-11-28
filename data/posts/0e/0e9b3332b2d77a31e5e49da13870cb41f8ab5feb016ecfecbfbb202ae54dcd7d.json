@@ -4,17 +4,20 @@
     {
       "link": "https://joshuabellew.com/posts/discord-march-2026-voice-outage/",
       "title": "Discord's March 2026 Voice Outage: When Recovery Became the Failure",
-      "description": "A simplified breakdown of the distributed systems failure pattern behind Discord's March 2026 voice outage"
+      "description": "A simplified breakdown of the distributed systems failure pattern behind Discord's March 2026 voice outage",
+      "date": null
     },
     {
       "link": "https://joshuabellew.com/posts/railway-cdn-caching-incident-march-2026/",
       "title": "Railway CDN Caching Incident: When Opt-In Becomes Opt-Everyone-In",
-      "description": "Deep dive into Railway's March 2026 CDN caching incident: how a configuration change leaked authenticated responses across users, what went wrong, and how to prevent it"
+      "description": "Deep dive into Railway's March 2026 CDN caching incident: how a configuration change leaked authenticated responses across users, what went wrong, and how to prevent it",
+      "date": null
     },
     {
       "link": "https://joshuabellew.com/posts/why-elixir-and-the-beam-might-be-the-best-runtime-for-ai-agents/",
       "title": "Why Elixir and the BEAM Might Be the Best Runtime for AI Agents",
-      "description": "A look at Jido, an Elixir agent framework, and what TypeScript developers can learn from the BEAM's approach to concurrency, fault tolerance, and agent architecture"
+      "description": "A look at Jido, an Elixir agent framework, and what TypeScript developers can learn from the BEAM's approach to concurrency, fault tolerance, and agent architecture",
+      "date": null
     }
   ]
 }

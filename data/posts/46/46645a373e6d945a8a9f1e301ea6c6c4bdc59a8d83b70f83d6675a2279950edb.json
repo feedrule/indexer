@@ -4,17 +4,20 @@
     {
       "link": "https://susi.dev/blog/one-agent-nine-team-t3camp-berlin-26",
       "title": "One Agent Is Nice, Nine Are a Team: A Talk from TYPO3camp Berlin 2026",
-      "description": "At TYPO3camp Berlin 2026 I talked about how I run coding agents in parallel across nine repositories with herdr. It is one way of doing it, not the way, and most of what made it work were a few fairly boring rules."
+      "description": "At TYPO3camp Berlin 2026 I talked about how I run coding agents in parallel across nine repositories with herdr. It is one way of doing it, not the way, and most of what made it work were a few fairly boring rules.",
+      "date": null
     },
     {
       "link": "https://susi.dev/blog/calendar-mirror-home-assistant",
       "title": "Calendar Mirror: Getting Home Assistant Calendars Onto an Echo Show",
-      "description": "Home Assistant can read calendars from almost anywhere but has no way to push them back out to an external calendar with real create-and-delete sync. Calendar Mirror is the integration I built to close that gap - one-way, automatic, and now working with both Google Calendar and CalDAV."
+      "description": "Home Assistant can read calendars from almost anywhere but has no way to push them back out to an external calendar with real create-and-delete sync. Calendar Mirror is the integration I built to close that gap - one-way, automatic, and now working with both Google Calendar and CalDAV.",
+      "date": null
     },
     {
       "link": "https://susi.dev/blog/home-assistant-dependent-devices-labels-spook",
       "title": "Marking Dependent Devices in Home Assistant: No Native Way, So Here Is What I Built",
-      "description": "Home Assistant has no built-in way to say \"this entity is expected to go unavailable because its socket is switched off.\" Labels plus the Spook integration close that gap: disable the dependent devices when the socket goes off, and they drop out of the recorder and the UI for free."
+      "description": "Home Assistant has no built-in way to say \"this entity is expected to go unavailable because its socket is switched off.\" Labels plus the Spook integration close that gap: disable the dependent devices when the socket goes off, and they drop out of the recorder and the UI for free.",
+      "date": null
     }
   ]
 }

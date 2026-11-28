@@ -4,17 +4,20 @@
     {
       "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
       "title": "Principles for fast Tokio applications",
-      "description": "I'm on my way back from RustConf. At the Unconf, we had a productive discussion about debugging and benchmarking async applications. Many interesting insights were shared. I'm attempting to enumerate some of them here, along with some of my own experiences. This is the first draft of what I hope can become a living document of best practices. Feel free to file an issue or open a PR . I'm hoping to"
+      "description": "I'm on my way back from RustConf. At the Unconf, we had a productive discussion about debugging and benchmarking async applications. Many interesting insights were shared. I'm attempting to enumerate some of them here, along with some of my own experiences. This is the first draft of what I hope can become a living document of best practices. Feel free to file an issue or open a PR . I'm hoping to",
+      "date": null
     },
     {
       "link": "https://dial9-rs.github.io/blog/whats-new-in-dial9-0-5/",
       "title": "What's new in dial9 0.5?",
-      "description": "dial9 started as a tool to help understand Tokio. But it turns out that if you build a tool that can efficiently record as many events as you need to understand Tokio, you end up building everything you need to be a general-purpose flight recorder . dial9 0.5 makes this vision a reality. You can play around with a demo app here . Migrating from 0.3 to 0.5? See the upgrade guide . If you aren't com"
+      "description": "dial9 started as a tool to help understand Tokio. But it turns out that if you build a tool that can efficiently record as many events as you need to understand Tokio, you end up building everything you need to be a general-purpose flight recorder . dial9 0.5 makes this vision a reality. You can play around with a demo app here . Migrating from 0.3 to 0.5? See the upgrade guide . If you aren't com",
+      "date": null
     },
     {
       "link": "https://dial9-rs.github.io/blog/dial9-a-flight-recorder-for-rust/",
       "title": "dial9: A flight recorder for Rust",
-      "description": "Diagrams by Fable, text by me. Many performance and correctness problems are easy to solve with enough data. If you can see an exhaustive ordered log of everything that happened, hard problems tend to become shallow. Trying to figure out what is different about P99 requests vs. P50? If you record all spans from your application, kernel events, and have always-on profiling, it makes it possible to"
+      "description": "Diagrams by Fable, text by me. Many performance and correctness problems are easy to solve with enough data. If you can see an exhaustive ordered log of everything that happened, hard problems tend to become shallow. Trying to figure out what is different about P99 requests vs. P50? If you record all spans from your application, kernel events, and have always-on profiling, it makes it possible to",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://carlschwan.eu/2026/11/06/kirigami-addons-1.16.1/",
       "title": "Kirigami Addons 1.16.1",
-      "description": "Kirigami Addons 1.16.1 is out! Kirigami Addons is a growing collection of nice components you can use in your Kirigami and QML applications. This release mainly includes small bugfixes and two visual chances. AboutPage The about page provided by Kirigami Addons now display the release information more prominently (if any is available). Time Picker The time picker was completely redesigned. If you"
+      "description": "Kirigami Addons 1.16.1 is out! Kirigami Addons is a growing collection of nice components you can use in your Kirigami and QML applications. This release mainly includes small bugfixes and two visual chances. AboutPage The about page provided by Kirigami Addons now display the release information more prominently (if any is available). Time Picker The time picker was completely redesigned. If you",
+      "date": null
     },
     {
       "link": "https://carlschwan.eu/2026/11/06/renovate-for-kde/",
       "title": "Renovate for KDE",
-      "description": "Renovate is a helpful tool that updates your dependencies automatically. This is cool, because it means you don’t have to track updates to your dependencies manually, which let’s be honest never really work. Renovate will just create a new merge request as soon as it detects an update. This is particularly relevant now, with more and more vulnerabilities being detected in our software supply chain"
+      "description": "Renovate is a helpful tool that updates your dependencies automatically. This is cool, because it means you don’t have to track updates to your dependencies manually, which let’s be honest never really work. Renovate will just create a new merge request as soon as it detects an update. This is particularly relevant now, with more and more vulnerabilities being detected in our software supply chain",
+      "date": null
     },
     {
       "link": "https://carlschwan.eu/2026/10/29/kirigami-addons-1.16.0.-the-material-updates/",
       "title": "Kirigami Addons 1.16.0. The material updates",
-      "description": "Kirigami Addons 1.16.0 is out! Kirigami Addons is a growing collection of nice components you can use in your Kirigami and QML applications. Platform Integration A huge chunk of the development for this release was dedicated to better platform integration. Material The highlight is the support for the Qt Quick Controls Material style. This means when using Kirigami Addons components with the Mater"
+      "description": "Kirigami Addons 1.16.0 is out! Kirigami Addons is a growing collection of nice components you can use in your Kirigami and QML applications. Platform Integration A huge chunk of the development for this release was dedicated to better platform integration. Material The highlight is the support for the Qt Quick Controls Material style. This means when using Kirigami Addons components with the Mater",
+      "date": null
     }
   ]
 }

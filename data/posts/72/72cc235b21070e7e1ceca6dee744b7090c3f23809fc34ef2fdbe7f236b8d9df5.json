@@ -4,17 +4,20 @@
     {
       "link": "https://www.chael.codes/blog/2026/04/08/docker-and-devcontainers.html",
       "title": "Docker and Devcontainers for Rubyists",
-      "description": "Devcontainers give you the experience of local development with the portability of Docker! You have the freedom to run your dev environment anywhere – mac, Linux, the Cloud, or even Windows!"
+      "description": "Devcontainers give you the experience of local development with the portability of Docker! You have the freedom to run your dev environment anywhere – mac, Linux, the Cloud, or even Windows!",
+      "date": null
     },
     {
       "link": "https://www.chael.codes/blog/2025/12/30/check-docker-ruby-version.html",
       "title": "Check Docker’s Ruby version with Github Actions",
-      "description": "When you're upgrading Ruby, it's hard to remember to update your docker image too. This GitHub Action checks if they're in sync and warns you if they arent!"
+      "description": "When you're upgrading Ruby, it's hard to remember to update your docker image too. This GitHub Action checks if they're in sync and warns you if they arent!",
+      "date": null
     },
     {
       "link": "https://www.chael.codes/blog/2025/11/19/sf-ruby-conference.html",
       "title": "SF Ruby Conference 2025",
-      "description": "I had an incredible time at the 2025 San Francisco Ruby Conference - two days of fantastic talks, inspiring conversations, and Ruby community magic!"
+      "description": "I had an incredible time at the 2025 San Francisco Ruby Conference - two days of fantastic talks, inspiring conversations, and Ruby community magic!",
+      "date": null
     }
   ]
 }

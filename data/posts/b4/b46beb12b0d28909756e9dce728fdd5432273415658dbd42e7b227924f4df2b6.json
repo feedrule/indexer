@@ -4,7 +4,8 @@
     {
       "link": "https://manuelzubieta.com/blog/wiremock-http-providers/",
       "title": "Contract testing with WireMock",
-      "description": "Stub third-party APIs with WireMock in Docker, drive them from pytest, and use realistic response datasets instead of hand-wavy fixtures."
+      "description": "Stub third-party APIs with WireMock in Docker, drive them from pytest, and use realistic response datasets instead of hand-wavy fixtures.",
+      "date": null
     }
   ]
 }

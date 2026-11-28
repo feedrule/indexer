@@ -4,17 +4,20 @@
     {
       "link": "https://ryanseddon.com/hacking/agents-xbox-tailscale-stream-fix/",
       "title": "Using agents to fix Xbox cloud stream issues",
-      "description": "I’ve been an avid user of xbox cloud streaming, the service was initially flawless on my Aussie HFC connection, but I noticed that in every game session the stream would freeze and pause for up to 20s before suddenly snapping back to streaming fine. Not having extensive network experience, I thought this would be a fun excuse to throw an agent at it. This was all done with open weights models, mos"
+      "description": "I’ve been an avid user of xbox cloud streaming, the service was initially flawless on my Aussie HFC connection, but I noticed that in every game session the stream would freeze and pause for up to 20s before suddenly snapping back to streaming fine. Not having extensive network experience, I thought this would be a fun excuse to throw an agent at it. This was all done with open weights models, mos",
+      "date": null
     },
     {
       "link": "https://ryanseddon.com/ai/how-to-build-an-agent-on-device/",
       "title": "How to build an Agent, On-Device Edition",
-      "description": "This post explores how to build an agent using an on-device model such as Phi-4-mini or Gemini Nano (available in Edge or Chrome browsers respectively), all behind a simple flag. This approach lowers the barrier to entry since it requires no external API or service. You can read the original, How to Build an Agent . I urge you to follow along. The barrier is so low, it’s less than 200 lines of cod"
+      "description": "This post explores how to build an agent using an on-device model such as Phi-4-mini or Gemini Nano (available in Edge or Chrome browsers respectively), all behind a simple flag. This approach lowers the barrier to entry since it requires no external API or service. You can read the original, How to Build an Agent . I urge you to follow along. The barrier is so low, it’s less than 200 lines of cod",
+      "date": null
     },
     {
       "link": "https://ryanseddon.com/ai/the-rise-of-on-device-ai/",
       "title": "The Rise of On-Device AI: What's Next for LLMs in the Browser",
-      "description": "On June 12th, 2025 I gave a talk at Web Directions Code conference about the rise of on-device AI and how rapidly the capabilities are moving, and how capable they are today."
+      "description": "On June 12th, 2025 I gave a talk at Web Directions Code conference about the rise of on-device AI and how rapidly the capabilities are moving, and how capable they are today.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://www.papermtn.co.uk/secrets-management-part-3-storing-and-retrieving-secrets-from-macos-keychain/",
       "title": "Secrets Management Part 3 – Storing and Retrieving Secrets from macOS Keychain",
-      "description": "A lighter, lower-friction alternative to gopass for Mac users: storing secrets in Keychain and loading them with direnv"
+      "description": "A lighter, lower-friction alternative to gopass for Mac users: storing secrets in Keychain and loading them with direnv",
+      "date": null
     },
     {
       "link": "https://www.papermtn.co.uk/detecting-agentic-threats-in-claude-writing-rules-on-the-execution-layer/",
       "title": "Detecting Agentic Threats in Claude: Writing Rules on the Execution Layer",
-      "description": "Detections for Claude on the execution layer: Sigma rules and a correlation runner that catch permission bypasses, rogue MCP servers, and more."
+      "description": "Detections for Claude on the execution layer: Sigma rules and a correlation runner that catch permission bypasses, rogue MCP servers, and more.",
+      "date": null
     },
     {
       "link": "https://www.papermtn.co.uk/mind-the-gap-closing-claudes-compliance-api-blind-spots-with-opentelemetry/",
       "title": "Mind the Gap: Closing Claude's Compliance API Blind Spots with OpenTelemetry",
-      "description": "Gain visibility for Claude beyond the Compliance API. Using OpenTelemetry to get logs that include tool calls, MCP activity and file access."
+      "description": "Gain visibility for Claude beyond the Compliance API. Using OpenTelemetry to get logs that include tool calls, MCP activity and file access.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://andersdamsgaard.dk/duneweb.html",
       "title": "duneweb: Cellular automata for bedforms",
-      "description": "Educational tool for visualizing how simple rules at the grain scale give rise to dunes and ripples."
+      "description": "Educational tool for visualizing how simple rules at the grain scale give rise to dunes and ripples.",
+      "date": null
     },
     {
       "link": "https://andersdamsgaard.dk/tem-loader.html",
       "title": "QGIS plugin for TEM data",
-      "description": "A new QGIS plugin for loading TEM geophysical inversion files as 3D geospatial objects"
+      "description": "A new QGIS plugin for loading TEM geophysical inversion files as 3D geospatial objects",
+      "date": null
     },
     {
       "link": "https://andersdamsgaard.dk/golights.html",
       "title": "golights: a small Go service for Zigbee2MQTT lights",
-      "description": "Replacing Zigbee2MQTT direct bindings with a Go service that follows daylight, respects manual overrides, and skips turn-ons in bright rooms"
+      "description": "Replacing Zigbee2MQTT direct bindings with a Go service that follows daylight, respects manual overrides, and skips turn-ons in bright rooms",
+      "date": null
     }
   ]
 }

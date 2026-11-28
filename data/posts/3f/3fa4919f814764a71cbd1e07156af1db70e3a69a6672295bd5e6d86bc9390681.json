@@ -4,17 +4,20 @@
     {
       "link": "https://vectors.run/posts/text-to-dsl-engineering/",
       "title": "Engineering Text-to-Elasticsearch DSL with LLMs: Constraints, Safety, and Trust",
-      "description": "Turning user intent into validated Elasticsearch queries with guardrails. TL;DR Problem: Vectors are great at meaning, bad at hard constraints (years, owners, statuses, permissions). Approach: LLM translates text → typed IR → deterministic compilation into DSL/ES|QL, under a strict allowlist. Failure modes: Invalid syntax, invented fields, unsafe operators, expensive queries, prompt injection. Gua"
+      "description": "Turning user intent into validated Elasticsearch queries with guardrails. TL;DR Problem: Vectors are great at meaning, bad at hard constraints (years, owners, statuses, permissions). Approach: LLM translates text → typed IR → deterministic compilation into DSL/ES|QL, under a strict allowlist. Failure modes: Invalid syntax, invented fields, unsafe operators, expensive queries, prompt injection. Gua",
+      "date": null
     },
     {
       "link": "https://vectors.run/posts/a-rarity-aware-set-based-metric/",
       "title": "Redefining RAG Evaluation: A Set-Based Approach (Beyond nDCG)",
-      "description": "TL;DR The Problem: Traditional metrics like nDCG assume a human scrolling a ranked list. In RAG, the “user” is an LLM consuming a fixed, unordered set of passages. The Solution: A new metric, RA-nWG@K (Rarity-Aware Normalized Weighted Gain). It answers: “Of the best possible evidence in the entire corpus, how much did we successfully pack into the K prompt slots?” The Mechanics: It weights passage"
+      "description": "TL;DR The Problem: Traditional metrics like nDCG assume a human scrolling a ranked list. In RAG, the “user” is an LLM consuming a fixed, unordered set of passages. The Solution: A new metric, RA-nWG@K (Rarity-Aware Normalized Weighted Gain). It answers: “Of the best possible evidence in the entire corpus, how much did we successfully pack into the K prompt slots?” The Mechanics: It weights passage",
+      "date": null
     },
     {
       "link": "https://vectors.run/posts/how-proper-names-behave-in-text-embedding-space/",
       "title": "How Proper Names Behave in Text Embedding Space",
-      "description": "TL;DR The Surprise: Dense “semantic” retrievers work better on proper names than expected. In a RAG system over scientific papers, author names showed real signal—not perfect, but far from random. The Experiment: Built a diagnostic with synthetic authors (to avoid memorization) and measured name margin (how much the model prefers the right author) vs topic margin . Result: names carry ~50% of topi"
+      "description": "TL;DR The Surprise: Dense “semantic” retrievers work better on proper names than expected. In a RAG system over scientific papers, author names showed real signal—not perfect, but far from random. The Experiment: Built a diagnostic with synthetic authors (to avoid memorization) and measured name margin (how much the model prefers the right author) vs topic margin . Result: names carry ~50% of topi",
+      "date": null
     }
   ]
 }

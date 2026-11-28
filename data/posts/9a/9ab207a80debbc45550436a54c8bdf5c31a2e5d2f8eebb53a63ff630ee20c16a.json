@@ -4,17 +4,20 @@
     {
       "link": "https://stan-kondrat.github.io/thoughts/model-metadata-endpoint/",
       "title": "Model metadata: the missing /v1/models/{id}/metadata endpoint",
-      "description": "OpenAI-compatible runtimes often know what their models can do — but almost none expose it in a standardized way. A single endpoint could replace the compatibility tables frameworks like AI SDK and LiteLLM maintain by hand."
+      "description": "OpenAI-compatible runtimes often know what their models can do — but almost none expose it in a standardized way. A single endpoint could replace the compatibility tables frameworks like AI SDK and LiteLLM maintain by hand.",
+      "date": null
     },
     {
       "link": "https://stan-kondrat.github.io/projects/geoip-sqlite-ipverse/",
       "title": "GeoIP SQLite: download once, bundle freely, query offline",
-      "description": "A pre-built SQLite IP-to-country database, auto-updated from IPverse via GitHub Actions. CC0 licensed - bundle it in your app, ship it anywhere, no attribution required."
+      "description": "A pre-built SQLite IP-to-country database, auto-updated from IPverse via GitHub Actions. CC0 licensed - bundle it in your app, ship it anywhere, no attribution required.",
+      "date": null
     },
     {
       "link": "https://stan-kondrat.github.io/projects/claude-code-proxy/",
       "title": "Claude Code Proxy: coding offline on my local GPU",
-      "description": "A single-file, zero-dependency Python proxy to run Claude Code against any local or remote OpenAI API v1 compatible LLM - plus an anti-AGI license clause."
+      "description": "A single-file, zero-dependency Python proxy to run Claude Code against any local or remote OpenAI API v1 compatible LLM - plus an anti-AGI license clause.",
+      "date": null
     }
   ]
 }

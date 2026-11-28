@@ -4,17 +4,20 @@
     {
       "link": "https://blog.williammartin.dev/solo-parental-leave-diaries-making-peace-and-being-grateful/",
       "title": "Solo Parental Leave Diaries: Making Peace and Being Grateful",
-      "description": "Like many parents this past week, I’ve been watching in envy as other players scream up the levels in World of Warcraft: Forever. I began playing WoW in 2004 with three school friends, all of whom are still childless. As I jot this down, one child is in the bath, one is napping, and my friends are in-game, their sleep deprivation self-imposed. I’ve made a kind of peace with this—I think you have t"
+      "description": "Like many parents this past week, I’ve been watching in envy as other players scream up the levels in World of Warcraft: Forever. I began playing WoW in 2004 with three school friends, all of whom are still childless. As I jot this down, one child is in the bath, one is napping, and my friends are in-game, their sleep deprivation self-imposed. I’ve made a kind of peace with this—I think you have t",
+      "date": null
     },
     {
       "link": "https://blog.williammartin.dev/solo-parental-leave-diaries-day-1-nap-ambitions/",
       "title": "Solo Parental Leave Diaries, Day 1: Nap Ambitions",
-      "description": "It's been almost four years since I had solo parental leave with my first child. So as I lay there next to my second, her overtired and letting me know it, I cursed my ambition for wanting to get her onto a three-nap schedule. You see, kids reduce the number of naps they need over time. Fewer naps generally mean longer naps, and longer stretches to actually do something: exercise, cooking, World o"
+      "description": "It's been almost four years since I had solo parental leave with my first child. So as I lay there next to my second, her overtired and letting me know it, I cursed my ambition for wanting to get her onto a three-nap schedule. You see, kids reduce the number of naps they need over time. Fewer naps generally mean longer naps, and longer stretches to actually do something: exercise, cooking, World o",
+      "date": null
     },
     {
       "link": "https://blog.williammartin.dev/deferred-insight-10-years-to-understand-named-return-behaviour/",
       "title": "Deferred insight: 10 years to understand named return behaviour",
-      "description": "Despite writing Go for about 10 years, the number of times I've personally written code with named returns is probably countable on one hand. In all cases I can remember it to handle additional errors that might occur in a defer block, like in this code : func fallible () ( err error ) { defer func () { cleanupErr = fallibleCleanup () if cleanupErr != nil { err = errors . Join ( err , cleanupErr )"
+      "description": "Despite writing Go for about 10 years, the number of times I've personally written code with named returns is probably countable on one hand. In all cases I can remember it to handle additional errors that might occur in a defer block, like in this code : func fallible () ( err error ) { defer func () { cleanupErr = fallibleCleanup () if cleanupErr != nil { err = errors . Join ( err , cleanupErr )",
+      "date": null
     }
   ]
 }

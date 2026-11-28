@@ -4,17 +4,20 @@
     {
       "link": "https://retouw.nl/2026/09/01/connection-reset-by-peer-chasing-ssh-connection-issues-on-a-hardened-windows-domain/",
       "title": "Connection Reset by Peer: Chasing SSH connection issues on a Hardened Windows Domain",
-      "description": "This post was drafted with AI, based on a real production troubleshooting session but I was too lazy to write it down myself. Details have been generalized/anonymized, but the investigation, root cause, and fix are real. TL;DR SSH to a newly hardened Windows domain died with a bare Connection reset by… Continue reading"
+      "description": "This post was drafted with AI, based on a real production troubleshooting session but I was too lazy to write it down myself. Details have been generalized/anonymized, but the investigation, root cause, and fix are real. TL;DR SSH to a newly hardened Windows domain died with a bare Connection reset by… Continue reading",
+      "date": null
     },
     {
       "link": "https://retouw.nl/2026/06/18/horizon-network-editor-change-portgroup-assignments-without-touching-vcenter/",
       "title": "Horizon Network Editor — Change Portgroup Assignments Without Touching Horizon Admin",
-      "description": "If you manage VMware Horizon instant-clone pools or RDS farms, you’ve probably been in this situation: you need to move a pool to a different portgroup — maybe a VLAN change, a migration to a new segment, or just fixing a misconfiguration. The options are not great. You can either… Continue reading"
+      "description": "If you manage VMware Horizon instant-clone pools or RDS farms, you’ve probably been in this situation: you need to move a pool to a different portgroup — maybe a VLAN change, a migration to a new segment, or just fixing a misconfiguration. The options are not great. You can either… Continue reading",
+      "date": null
     },
     {
       "link": "https://retouw.nl/2026/06/18/horizon-golden-image-deployment-tool-whats-new/",
       "title": "Horizon Golden Image Deployment Tool — What’s New",
-      "description": "A while back I published the first version of the Horizon Golden Image Deployment Tool (HGIDT), a small desktop app to push golden images to VMware Horizon instant-clone pools without having to click through the Horizon Admin console. Since then the tool has grown quite a bit, so it’s time… Continue reading"
+      "description": "A while back I published the first version of the Horizon Golden Image Deployment Tool (HGIDT), a small desktop app to push golden images to VMware Horizon instant-clone pools without having to click through the Horizon Admin console. Since then the tool has grown quite a bit, so it’s time… Continue reading",
+      "date": null
     }
   ]
 }

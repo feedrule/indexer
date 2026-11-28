@@ -4,17 +4,20 @@
     {
       "link": "https://nimrod.blog/posts/cpp26-pack-indexing/",
       "title": "C++26 Pack Indexing",
-      "description": "C++26 pack indexing lets you select types and values from parameter packs directly with pack…[I], which removes a lot of tuple and index_sequence ceremony from metaprogramming utilities."
+      "description": "C++26 pack indexing lets you select types and values from parameter packs directly with pack…[I], which removes a lot of tuple and index_sequence ceremony from metaprogramming utilities.",
+      "date": null
     },
     {
       "link": "https://nimrod.blog/gallery/commonsandpiper/",
       "title": "Common Sandpiper at Nanhui",
-      "description": null
+      "description": null,
+      "date": null
     },
     {
       "link": "https://nimrod.blog/posts/virtual-function-costs/",
       "title": "Virtual Function Costs",
-      "description": "Measuring real performance cost of C++ virtual functions: vtable lookup overhead, branch misprediction, devirtualization, and when to avoid virtual dispatch."
+      "description": "Measuring real performance cost of C++ virtual functions: vtable lookup overhead, branch misprediction, devirtualization, and when to avoid virtual dispatch.",
+      "date": null
     }
   ]
 }

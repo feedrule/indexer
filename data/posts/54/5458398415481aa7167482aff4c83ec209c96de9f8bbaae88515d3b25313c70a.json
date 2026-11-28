@@ -4,17 +4,20 @@
     {
       "link": "https://eranraviv.com/smoothed-bootstrap/",
       "title": "Motivation for the Smoothed Bootstrap",
-      "description": "This post discusses the need for smoothed version of the statistical bootstrap. I start with a negative result of the standard bootstrap, and introduce smoothing as a practical, and necessary improvement. Suppose you have 100 unique values and you draw a new sample of 100 observations with replacement. How many unique values would you expect..."
+      "description": "This post discusses the need for smoothed version of the statistical bootstrap. I start with a negative result of the standard bootstrap, and introduce smoothing as a practical, and necessary improvement. Suppose you have 100 unique values and you draw a new sample of 100 observations with replacement. How many unique values would you expect...",
+      "date": null
     },
     {
       "link": "https://eranraviv.com/covariance-estimation-for-wide-data/",
       "title": "Covariance Estimation for Wide Data – published",
-      "description": "My work on covariance estimation has recently been published as an Advanced Review in WIREs Computational Statistics, a highly regarded, peer-reviewed journal in the field. It feels remarkably rewarding to see a decade of my curiosity finally bound together in one place. The writing process started about 4.5 years ago on evenings, weekends, and holidays..."
+      "description": "My work on covariance estimation has recently been published as an Advanced Review in WIREs Computational Statistics, a highly regarded, peer-reviewed journal in the field. It feels remarkably rewarding to see a decade of my curiosity finally bound together in one place. The writing process started about 4.5 years ago on evenings, weekends, and holidays...",
+      "date": null
     },
     {
       "link": "https://eranraviv.com/fairness-machine-learning-equalized-odds/",
       "title": "Fairness in machine learning: Equalized Odds",
-      "description": "I recently dipped my toes into fairness concepts in machine learning. What does being fair mean, practically? is it fair that I was not born with the physique required to qualify for the NBA? Absolutely it’s fair. In the lottery of life, my genes were decided on in the same way as they were for..."
+      "description": "I recently dipped my toes into fairness concepts in machine learning. What does being fair mean, practically? is it fair that I was not born with the physique required to qualify for the NBA? Absolutely it’s fair. In the lottery of life, my genes were decided on in the same way as they were for...",
+      "date": null
     }
   ]
 }

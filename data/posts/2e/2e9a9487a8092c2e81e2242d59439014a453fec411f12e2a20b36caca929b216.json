@@ -4,17 +4,20 @@
     {
       "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "description": "Claude Code 2.1.277 announced support for AGENTS.md . In a project with no CLAUDE.md , it is supposed to read AGENTS.md instead. I keep telemetry off in my shell, and in my repos the file never loaded. Issue #95690 explains why, and I added my own measurements to it. This post collects them in one place. Where the gate is The loader ships as a built-in plugin called agents-md . Its registration in"
+      "description": "Claude Code 2.1.277 announced support for AGENTS.md . In a project with no CLAUDE.md , it is supposed to read AGENTS.md instead. I keep telemetry off in my shell, and in my repos the file never loaded. Issue #95690 explains why, and I added my own measurements to it. This post collects them in one place. Where the gate is The loader ships as a built-in plugin called agents-md . Its registration in",
+      "date": null
     },
     {
       "link": "https://blog.szypowi.cz/p/an-on-call-pager-for-claude-code-sessions-in-tmux/",
       "title": "An on-call pager for Claude Code sessions in tmux",
-      "description": "I usually have a few Claude Code sessions running at once, one per tmux window. Without notifications I either keep cycling through the windows to check on them, or I forget about one and it sits at a permission prompt for twenty minutes while I work two windows over. macOS notifications are the obvious answer, but the easy ways of sending them stop working well once more than one session is invol"
+      "description": "I usually have a few Claude Code sessions running at once, one per tmux window. Without notifications I either keep cycling through the windows to check on them, or I forget about one and it sits at a permission prompt for twenty minutes while I work two windows over. macOS notifications are the obvious answer, but the easy ways of sending them stop working well once more than one session is invol",
+      "date": null
     },
     {
       "link": "https://blog.szypowi.cz/p/which-azure-devops-tasks-forward-sigint-when-you-cancel-a-pipeline/",
       "title": "Which Azure DevOps tasks forward SIGINT when you cancel a pipeline",
-      "description": "If you cancel an Azure DevOps pipeline mid- terraform apply , or let it hit timeoutInMinutes , you probably expect terraform to catch SIGINT, release its state lock, and exit cleanly. Whether that happens depends on the task your script runs under. Under Bash@3 or a plain script: step terraform gets the signal and shuts down cleanly. Under AzureCLI@2 it is killed without ever seeing a signal, and"
+      "description": "If you cancel an Azure DevOps pipeline mid- terraform apply , or let it hit timeoutInMinutes , you probably expect terraform to catch SIGINT, release its state lock, and exit cleanly. Whether that happens depends on the task your script runs under. Under Bash@3 or a plain script: step terraform gets the signal and shuts down cleanly. Under AzureCLI@2 it is killed without ever seeing a signal, and",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://milanjovanovic.tech/blog/csharp-union-types-vs-result-pattern",
       "title": "Can C# 15 Union Types Replace the Result Pattern?",
-      "description": "C# 15 union types can replace the Result pattern. A generic union Result (T, Error) works like the Result class, and a generic validation decorator keeps…"
+      "description": "C# 15 union types can replace the Result pattern. A generic union Result (T, Error) works like the Result class, and a generic validation decorator keeps…",
+      "date": null
     },
     {
       "link": "https://milanjovanovic.tech/blog/ef-core-11-split-query-redundant-join",
       "title": "EF 11 Drops a Redundant Join From Split Queries",
-      "description": "EF 11 stops joining reference navigations in the collection statements of a split query, and it drops their keys from ORDER BY."
+      "description": "EF 11 stops joining reference navigations in the collection statements of a split query, and it drops their keys from ORDER BY.",
+      "date": null
     },
     {
       "link": "https://milanjovanovic.tech/blog/outbox-pattern-postgres-workers-vs-wal",
       "title": "Outbox Pattern in Postgres: Concurrent Workers vs Reading the WAL",
-      "description": "An API can save an order and crash before publishing the message that tells other services about it."
+      "description": "An API can save an order and crash before publishing the message that tells other services about it.",
+      "date": null
     }
   ]
 }

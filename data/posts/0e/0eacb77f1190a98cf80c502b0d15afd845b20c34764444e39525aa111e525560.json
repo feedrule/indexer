@@ -4,17 +4,20 @@
     {
       "link": "https://yakko.dev/blog/best-harness-is-your-own-harness",
       "title": "Why your agent is better than mine",
-      "description": "Why Railcode doesn't ship an in-product AI agent at all, and why offering the choice would make the product worse."
+      "description": "Why Railcode doesn't ship an in-product AI agent at all, and why offering the choice would make the product worse.",
+      "date": null
     },
     {
       "link": "https://yakko.dev/blog/vibe-coded-website",
       "title": "How my vibe coded website looks like a designer made it",
-      "description": "How I used coding agents to design the Railcode website as a non-designer — the prompts, the forks, the playgrounds, and the dead ends."
+      "description": "How I used coding agents to design the Railcode website as a non-designer — the prompts, the forks, the playgrounds, and the dead ends.",
+      "date": null
     },
     {
       "link": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers",
       "title": "What's gonna happen to software engineers?",
-      "description": null
+      "description": null,
+      "date": null
     }
   ]
 }

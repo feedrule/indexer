@@ -4,17 +4,20 @@
     {
       "link": "https://smolka.dev/posts/coordinate-compression/",
       "title": "Coordinate Compression",
-      "description": "[out:json][timeout:3600]; area[\"ISO3166-1\"=\"DE\"][admin_level=2]; way[\"highway\"][\"surface\"~\"^(gravel|fine_gravel|compacted|pebblestone)$\"](area); out skel geom; Return all gravel roads 1 in Germany and their geometry. This innocent-looking Overpass query forced Node.js to its knees. \"Cannot create a string longer than 0x1fffffe8 characters\" , it whispered with its dying breath. Limited to an intern"
+      "description": "[out:json][timeout:3600]; area[\"ISO3166-1\"=\"DE\"][admin_level=2]; way[\"highway\"][\"surface\"~\"^(gravel|fine_gravel|compacted|pebblestone)$\"](area); out skel geom; Return all gravel roads 1 in Germany and their geometry. This innocent-looking Overpass query forced Node.js to its knees. \"Cannot create a string longer than 0x1fffffe8 characters\" , it whispered with its dying breath. Limited to an intern",
+      "date": null
     },
     {
       "link": "https://smolka.dev/posts/square-surprises/",
       "title": "Square Surprises",
-      "description": "Paris–Roubaix, also known as the Hell of the North , is one of cycling's five monuments and one of the most spectacular races of the season. Ask any professional which race they dream of winning at least once during their career, and Paris–Roubaix will be on top of that list."
+      "description": "Paris–Roubaix, also known as the Hell of the North , is one of cycling's five monuments and one of the most spectacular races of the season. Ask any professional which race they dream of winning at least once during their career, and Paris–Roubaix will be on top of that list.",
+      "date": null
     },
     {
       "link": "https://smolka.dev/posts/white-blue-silver/",
       "title": "White / Blue / Silver",
-      "description": "I went down the Japanese knife rabbit hole over Christmas. Getting into something new can feel quite overwhelming, especially for me. I tend to skip the Dunning-Kruger effect and immediately notice that I know nothing about the topic and that it is infinitely complex. Even in this post, there are some details I skip because they are too difficult for my liking 1 ."
+      "description": "I went down the Japanese knife rabbit hole over Christmas. Getting into something new can feel quite overwhelming, especially for me. I tend to skip the Dunning-Kruger effect and immediately notice that I know nothing about the topic and that it is infinitely complex. Even in this post, there are some details I skip because they are too difficult for my liking 1 .",
+      "date": null
     }
   ]
 }

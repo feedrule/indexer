@@ -4,17 +4,20 @@
     {
       "link": "https://besok.github.io/posts/formal-verification-for-the-factory-specs/",
       "title": "Formal Verification for the Factory Specs",
-      "description": "Formal Verification for the Factory Specs Summary. Technical specifications for robot-cell functions live in text documents and are re-implemented by hand in the design data, the MES, the PLC, and the robot code. This causes ambiguous readings, uncovered edge cases, contradicting rules, and out-of-sync limits. I propose writing the rules once in a typed, executable rule language, analyzing them wi"
+      "description": "Formal Verification for the Factory Specs Summary. Technical specifications for robot-cell functions live in text documents and are re-implemented by hand in the design data, the MES, the PLC, and the robot code. This causes ambiguous readings, uncovered edge cases, contradicting rules, and out-of-sync limits. I propose writing the rules once in a typed, executable rule language, analyzing them wi",
+      "date": null
     },
     {
       "link": "https://besok.github.io/posts/my-development-setup/",
       "title": "My development setup. A pivot toward terminal and dotfiles",
-      "description": "My development setup. A pivot toward terminal and dotfiles I have never been a terminal guy. I used to use it occasionally but always pivoted to the full-featured environments stuffed with all conceivable tools, themes and God knows what else. My main IDEs were ones from the Jetbrains family, such as Pycharm, Rustrover, CLion and others alongside VScode and, at the dawn of my career, Eclipse and V"
+      "description": "My development setup. A pivot toward terminal and dotfiles I have never been a terminal guy. I used to use it occasionally but always pivoted to the full-featured environments stuffed with all conceivable tools, themes and God knows what else. My main IDEs were ones from the Jetbrains family, such as Pycharm, Rustrover, CLion and others alongside VScode and, at the dawn of my career, Eclipse and V",
+      "date": null
     },
     {
       "link": "https://besok.github.io/posts/forester-virtual-commissioning-of-robotic-cells/",
       "title": "Using Forester Behavior Trees for Virtual Commissioning of Robotic Cells",
-      "description": "Using Forester Behavior Trees for Virtual Commissioning of Robotic Cells The problem In industrial automation, we have to test extensively: Simulation before development. The hardware is very expensive nowadays. Bug fixes. If something does not work as expected, we need a virtual environment to reproduce it over and over again. Delivering new features. It is better to test in advance than break so"
+      "description": "Using Forester Behavior Trees for Virtual Commissioning of Robotic Cells The problem In industrial automation, we have to test extensively: Simulation before development. The hardware is very expensive nowadays. Bug fixes. If something does not work as expected, we need a virtual environment to reproduce it over and over again. Delivering new features. It is better to test in advance than break so",
+      "date": null
     }
   ]
 }

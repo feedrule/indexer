@@ -4,17 +4,20 @@
     {
       "link": "https://mo.town/blog/posts/lilbox.html",
       "title": "An Outer Sandbox for Coding Agents",
-      "description": "This is a post about mo.town/lilbox. I use a lot of coding tools, and I like trying out new models and using them for real work. But with many of them, it's very hard for me to be sure that they're not exposing the sensitive data in my home directory or shell environment. What worries me most is a…"
+      "description": "This is a post about mo.town/lilbox. I use a lot of coding tools, and I like trying out new models and using them for real work. But with many of them, it's very hard for me to be sure that they're not exposing the sensitive data in my home directory or shell environment. What worries me most is a…",
+      "date": null
     },
     {
       "link": "https://mo.town/blog/posts/use-hardware-bound-ssh-keys.html",
       "title": "Use Hardware-bound SSH Keys",
-      "description": "If you're working with a modern Mac, you have very little excuse not to use hardware-bound SSH keys. When correctly configured, these keys are designed to keep the private key material inside the hardware, making it very difficult for attackers to steal or forge. Add biometric authentication, and…"
+      "description": "If you're working with a modern Mac, you have very little excuse not to use hardware-bound SSH keys. When correctly configured, these keys are designed to keep the private key material inside the hardware, making it very difficult for attackers to steal or forge. Add biometric authentication, and…",
+      "date": null
     },
     {
       "link": "https://mo.town/blog/posts/infinite-jungle.html",
       "title": "Infinite Jungle",
-      "description": "I've always really liked isometric pixel art. So I spent some time last week learning about it and putting together an idea I've wanted to build for a long time. It's called the Infinite Jungle: https://mo.town/jungle The basic idea is an infinite procedurally generated jungle with active…"
+      "description": "I've always really liked isometric pixel art. So I spent some time last week learning about it and putting together an idea I've wanted to build for a long time. It's called the Infinite Jungle: https://mo.town/jungle The basic idea is an infinite procedurally generated jungle with active…",
+      "date": null
     }
   ]
 }

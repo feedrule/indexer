@@ -4,17 +4,20 @@
     {
       "link": "https://seekstorm.com/blog/seekstorm-mcp-server/",
       "title": "Introducing the SeekStorm MCP server",
-      "description": "Connect AI applications to SeekStorm through the Model Context Protocol (MCP), with no separate seekstorm_server process required. AI agents are only as good as the tools they can reach, and for most agents the most important tool is search . With SeekStorm v3.4.0 we’re shipping a new SeekStorm MCP server : a local, single-binary MCP server that embeds the SeekStorm search library directly, manage"
+      "description": "Connect AI applications to SeekStorm through the Model Context Protocol (MCP), with no separate seekstorm_server process required. AI agents are only as good as the tools they can reach, and for most agents the most important tool is search . With SeekStorm v3.4.0 we’re shipping a new SeekStorm MCP server : a local, single-binary MCP server that embeds the SeekStorm search library directly, manage",
+      "date": null
     },
     {
       "link": "https://seekstorm.com/blog/symspell_rs-3x-faster-lookup-40-less-memory-11x-faster-levenshtein/",
       "title": "symspell_rs v7 - 3x faster lookup, 40% less memory consumption, 11x faster Damerau-Levenshtein edit distance",
-      "description": "symspell_rs v7 introduces both significant implementation changes to SymSpell as well as algorithmic changes to the Damerau-Levenshtein calculation between v6.8.4 vs. v7.0.1. The resulting performance improvements are measured with the new benchmark suite and discussed below. Changes Improved Damerau-Levenshtein calculation, optimal string alignment (OSA) variant Optimized SymSpell v7 damerau_leve"
+      "description": "symspell_rs v7 introduces both significant implementation changes to SymSpell as well as algorithmic changes to the Damerau-Levenshtein calculation between v6.8.4 vs. v7.0.1. The resulting performance improvements are measured with the new benchmark suite and discussed below. Changes Improved Damerau-Levenshtein calculation, optimal string alignment (OSA) variant Optimized SymSpell v7 damerau_leve",
+      "date": null
     },
     {
       "link": "https://seekstorm.com/blog/seekstorm-adds-vector_search-hybrid-search/",
       "title": "🔥SeekStorm 3.0 adds vector search & hybrid search",
-      "description": "SeekStorm uses two separate, first-class , native index architectures, under one roof. Lexical search (sparse retrieval): sharded and leveled inverted index. Vector search (dense retrieval): sharded and leveled IVF index for ANN or exhaustive search. Shared document store, shared document ID space. Both first-class engines are integrated at the query planner level. Query planner with QueryModes (L"
+      "description": "SeekStorm uses two separate, first-class , native index architectures, under one roof. Lexical search (sparse retrieval): sharded and leveled inverted index. Vector search (dense retrieval): sharded and leveled IVF index for ANN or exhaustive search. Shared document store, shared document ID space. Both first-class engines are integrated at the query planner level. Query planner with QueryModes (L",
+      "date": null
     }
   ]
 }

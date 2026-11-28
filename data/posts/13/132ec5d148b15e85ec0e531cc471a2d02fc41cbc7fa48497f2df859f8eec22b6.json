@@ -4,17 +4,20 @@
     {
       "link": "https://rootinprogress.dev/htb-jeeves/",
       "title": "Walkthrough: HackTheBox - Jeeves",
-      "description": "Step-by-step HackTheBox Jeeves Walkthrouhg. Learn how to exploit Jenkins Script Console, crack Keepass files with hashcat, and gain root access."
+      "description": "Step-by-step HackTheBox Jeeves Walkthrouhg. Learn how to exploit Jenkins Script Console, crack Keepass files with hashcat, and gain root access.",
+      "date": null
     },
     {
       "link": "https://rootinprogress.dev/htb-keeper/",
       "title": "Walkthrough: HackTheBox - Keeper",
-      "description": "Step-by-step HackTheBox Keeper walkthrough. Learn how to exploit Request Tracker default credentials, dump KeePass memory via CVE-2023-32784, and gain root access."
+      "description": "Step-by-step HackTheBox Keeper walkthrough. Learn how to exploit Request Tracker default credentials, dump KeePass memory via CVE-2023-32784, and gain root access.",
+      "date": null
     },
     {
       "link": "https://rootinprogress.dev/htb-twomillion/",
       "title": "Walkthrough: HackTheBox - TwoMillion",
-      "description": "Complete HackTheBox TwoMillion walkthrough. Learn how to generate the invite code, exploit API command injection for initial access, and use CVE-2023-0386 for root."
+      "description": "Complete HackTheBox TwoMillion walkthrough. Learn how to generate the invite code, exploit API command injection for initial access, and use CVE-2023-0386 for root.",
+      "date": null
     }
   ]
 }

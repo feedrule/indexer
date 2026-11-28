@@ -4,17 +4,20 @@
     {
       "link": "https://updown.io/blog/ruby-4-0-upgrade-faster-but-more-memory-growth",
       "title": "Ruby 4.0 upgrade: faster, but more memory growth",
-      "description": "Upgrading to Ruby 4.0 (from 3.3) made the updown.io Sidekiq workers 15% faster in my benchmark (yay 🎉) but one day after deploying it, my servers started running low on memory. Here's how I tracked it down to a change in the Ruby 4.0 garbage collector, and the \"fix\". In 2024 I upgraded from Ruby 3.1 to 3.3 (after some weird results ) and the results in production were great. Two years later, it wa"
+      "description": "Upgrading to Ruby 4.0 (from 3.3) made the updown.io Sidekiq workers 15% faster in my benchmark (yay 🎉) but one day after deploying it, my servers started running low on memory. Here's how I tracked it down to a change in the Ruby 4.0 garbage collector, and the \"fix\". In 2024 I upgraded from Ruby 3.1 to 3.3 (after some weird results ) and the results in production were great. Two years later, it wa",
+      "date": null
     },
     {
       "link": "https://updown.io/blog/asynchronous-render-but-faster-and-without-xhr-ajax-turbo",
       "title": "Asynchronous render, but faster, and without XHR/AJAX/Turbo",
-      "description": "I've been using a simple trick on updown.io since May 2015 to make pages feel faster without doing much work. And I extracted it as a gem so you can too. It's called render-later and I thought it deserved a quick write-up (better late than never). The problem You know that annoying moment when you're building a dashboard and there's one metric that takes 200ms to compute? Maybe it's a database agg"
+      "description": "I've been using a simple trick on updown.io since May 2015 to make pages feel faster without doing much work. And I extracted it as a gem so you can too. It's called render-later and I thought it deserved a quick write-up (better late than never). The problem You know that annoying moment when you're building a dashboard and there's one metric that takes 200ms to compute? Maybe it's a database agg",
+      "date": null
     },
     {
       "link": "https://updown.io/blog/goodbye-canny",
       "title": "Goodbye Canny",
-      "description": "In 2024, I migrated from UserVoice to Canny for user feedback collection. This move followed the UserVoice turn to enterprise clients and their removal of free & small plans. UserVoice still offerred me a hidden plan for a small fee after discussion with the support (something like $39 or $49/month as I recall), but who knows when they were gonna kill it, it's never a good idea to rely long-term o"
+      "description": "In 2024, I migrated from UserVoice to Canny for user feedback collection. This move followed the UserVoice turn to enterprise clients and their removal of free & small plans. UserVoice still offerred me a hidden plan for a small fee after discussion with the support (something like $39 or $49/month as I recall), but who knows when they were gonna kill it, it's never a good idea to rely long-term o",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://joshbowen.net/posts/patching-php-74-for-php2shell/",
       "title": "Patching PHP 7.4 for php2shell in a container",
-      "description": "It turns out that my legacy PHP 7.4 applications on life support are still alive, kicking, and now even more vulnerable than before. Earlier this morning, the PHP project put out a security advisory for two critical remote code execution bugs: CVE-2026-109618 , RCE via out-of-memory corruption ( GHSA-w8hw-w9fx-j79w ) CVE-2026-109619 , RCE via stale global state ( GHSA-6wmf-4rv5-p3rp ) People are c"
+      "description": "It turns out that my legacy PHP 7.4 applications on life support are still alive, kicking, and now even more vulnerable than before. Earlier this morning, the PHP project put out a security advisory for two critical remote code execution bugs: CVE-2026-109618 , RCE via out-of-memory corruption ( GHSA-w8hw-w9fx-j79w ) CVE-2026-109619 , RCE via stale global state ( GHSA-6wmf-4rv5-p3rp ) People are c",
+      "date": null
     },
     {
       "link": "https://joshbowen.net/posts/the-pocket-guide-to-building-php-74-extensions-in-docker-containers-and-also-oci8/",
       "title": "The pocket guide to building PHP 7.4 extensions in Docker containers and also OCI8",
-      "description": "For reasons I don't want to get into, I need to build a bunch of extensions for PHP 7.4 in a Docker container to keep a legacy application on life-support. I have found the process for determining what extensions need what libraries to compile frustrating, to say the least. PHP 7.4 Extensions # To determine exactly what was required I installed. FROM php:7.4 # Init ENV DEBIAN_FRONTEND=noninteracti"
+      "description": "For reasons I don't want to get into, I need to build a bunch of extensions for PHP 7.4 in a Docker container to keep a legacy application on life-support. I have found the process for determining what extensions need what libraries to compile frustrating, to say the least. PHP 7.4 Extensions # To determine exactly what was required I installed. FROM php:7.4 # Init ENV DEBIAN_FRONTEND=noninteracti",
+      "date": null
     },
     {
       "link": "https://joshbowen.net/posts/hello-world/",
       "title": "Hello World!",
-      "description": "This is my first post."
+      "description": "This is my first post.",
+      "date": null
     }
   ]
 }

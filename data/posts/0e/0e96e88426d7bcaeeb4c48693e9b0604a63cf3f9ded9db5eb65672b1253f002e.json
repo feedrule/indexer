@@ -4,17 +4,20 @@
     {
       "link": "https://elektroelch.net/bold-text-without-jumping-text-shadows-instead-of-font-weight/",
       "title": "Bold text without jumping: Text shadows instead of font-weight",
-      "description": "You have seen this effect, even if you rarely notice it consciously: you hover over a navigation menu, the item turns bold, and the whole menu twitches. The neighbours shift a few pixels to the side, a line suddenly wraps differently, a right-aligned number hops. It is only a detail, but it makes a page […] The post Bold text without jumping: Text shadows instead of font-weight appeared first on e"
+      "description": "You have seen this effect, even if you rarely notice it consciously: you hover over a navigation menu, the item turns bold, and the whole menu twitches. The neighbours shift a few pixels to the side, a line suddenly wraps differently, a right-aligned number hops. It is only a detail, but it makes a page […] The post Bold text without jumping: Text shadows instead of font-weight appeared first on e",
+      "date": null
     },
     {
       "link": "https://elektroelch.net/nodejs-async-queue-does-not-display-error-messages-by-default/",
       "title": "NodeJS: async.queue does not display error messages by default",
-      "description": "Currently, I’m creating a custom web crawler and the easiest method to implement concurrency is to use the npm package “async“. While coding, I came across the problem, that the program wasn’t working correctly, but the terminal didn’t display any errors. So I tested the queued function outside of async, and it threw an error […] The post NodeJS: async.queue does not display error messages by defa"
+      "description": "Currently, I’m creating a custom web crawler and the easiest method to implement concurrency is to use the npm package “async“. While coding, I came across the problem, that the program wasn’t working correctly, but the terminal didn’t display any errors. So I tested the queued function outside of async, and it threw an error […] The post NodeJS: async.queue does not display error messages by defa",
+      "date": null
     },
     {
       "link": "https://elektroelch.net/javascript-rounding-floating-point-numbers/",
       "title": "Javascript – Rounding floating point numbers",
-      "description": "There are six different functions in JavaScript’s Math library for rounding floating point numbers: What is the difference between these functions? abs() abs() is the absolute value of a number. Mathematically speaking, it is the distance of a number from zero. As a distance cannot be negative, the absolute value is always the positive value […] The post Javascript – Rounding floating point number"
+      "description": "There are six different functions in JavaScript’s Math library for rounding floating point numbers: What is the difference between these functions? abs() abs() is the absolute value of a number. Mathematically speaking, it is the distance of a number from zero. As a distance cannot be negative, the absolute value is always the positive value […] The post Javascript – Rounding floating point number",
+      "date": null
     }
   ]
 }

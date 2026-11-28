@@ -4,17 +4,20 @@
     {
       "link": "https://eversole.dev/blog/two-macs-and-a-router/",
       "title": "Two Macs and a Router",
-      "description": "TL;DR: my current stack Two machines. An M4 MacBook Pro (24GB) for work, and an always-on Mac mini for background automations. Local model is Gemma4-E2B-IT, run through Ollama on each machine. Cloud when I need more power: GLM 5.2 for coding, Gemini Flash for writing, DeepSeek V4 Flash for general automations, reached through OpenRouter. A custom router (slowly becoming a product called Standpipe)"
+      "description": "TL;DR: my current stack Two machines. An M4 MacBook Pro (24GB) for work, and an always-on Mac mini for background automations. Local model is Gemma4-E2B-IT, run through Ollama on each machine. Cloud when I need more power: GLM 5.2 for coding, Gemini Flash for writing, DeepSeek V4 Flash for general automations, reached through OpenRouter. A custom router (slowly becoming a product called Standpipe)",
+      "date": null
     },
     {
       "link": "https://eversole.dev/blog/go-west-nerd/",
       "title": "Go West, Nerd.",
-      "description": "I have been constantly thinking about what it means for individuals and companies to be able to independently use AI models. Especially specific ones, ones where they are extremely personalized, because they can access all your personal data, but in a safe way. When I think of the term, I come back to \"sovereign,\" but we are looking over the edge of the AI field, where \"Sovereign AI\" is only defin"
+      "description": "I have been constantly thinking about what it means for individuals and companies to be able to independently use AI models. Especially specific ones, ones where they are extremely personalized, because they can access all your personal data, but in a safe way. When I think of the term, I come back to \"sovereign,\" but we are looking over the edge of the AI field, where \"Sovereign AI\" is only defin",
+      "date": null
     },
     {
       "link": "https://eversole.dev/blog/signaling-is-the-intelligence/",
       "title": "Signaling Is the Intelligence",
-      "description": "AI agents are selfish. I use that word deliberately because I want to invoke something human, something you can feel rather than just analyze. When a little kid won't share their cookies. They're not trying to be malicious; they just don't know the importance of sharing yet. Right now, every agent stack in production resembles that kid. Each one is designed to perform a specific task for a single"
+      "description": "AI agents are selfish. I use that word deliberately because I want to invoke something human, something you can feel rather than just analyze. When a little kid won't share their cookies. They're not trying to be malicious; they just don't know the importance of sharing yet. Right now, every agent stack in production resembles that kid. Each one is designed to perform a specific task for a single",
+      "date": null
     }
   ]
 }

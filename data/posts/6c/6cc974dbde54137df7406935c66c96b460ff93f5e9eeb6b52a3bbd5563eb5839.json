@@ -4,17 +4,20 @@
     {
       "link": "https://itm4n.github.io/bitlocker-little-secrets-the-undocumented-fve-api/",
       "title": "BitLocker's Little Secrets: The Undocumented FVE API",
-      "description": "The purpose of the BitLocker check I implemented in PrivescCheck is to determine whether the system drive is protected, and if so, whether two-factor authentication is configured (typically TPM+PIN). You’d think that it’s a simple thing to do, but it is not, at least without administrator rights. Known Techniques for Getting BitLocker Status All the official or publicly documented methods for..."
+      "description": "The purpose of the BitLocker check I implemented in PrivescCheck is to determine whether the system drive is protected, and if so, whether two-factor authentication is configured (typically TPM+PIN). You’d think that it’s a simple thing to do, but it is not, at least without administrator rights. Known Techniques for Getting BitLocker Status All the official or publicly documented methods for...",
+      "date": null
     },
     {
       "link": "https://itm4n.github.io/cve-2026-20817-wersvc-eop/",
       "title": "CVE-2026-20817 - Windows Error Reporting Service EoP",
-      "description": "This vulnerability was such a gaping hole in the Windows Error Reporting service that Microsoft completely removed the affected feature. A low privilege user could simply send a specially crafted ALPC message with a reference to a command line that the service executed with SYSTEM privileges. At least that’s what I thought initially. MSRC Vulnerability Summary CVE-2026-20817 is local privileg..."
+      "description": "This vulnerability was such a gaping hole in the Windows Error Reporting service that Microsoft completely removed the affected feature. A low privilege user could simply send a specially crafted ALPC message with a reference to a command line that the service executed with SYSTEM privileges. At least that’s what I thought initially. MSRC Vulnerability Summary CVE-2026-20817 is local privileg...",
+      "date": null
     },
     {
       "link": "https://itm4n.github.io/cve-2025-59201-ncsi-eop/",
       "title": "CVE-2025-59201 - Network Connection Status Indicator (NCSI) EoP",
-      "description": "It’s been a while since I last dug into a Patch Tuesday release. With an extraordinarily high number of 177 CVEs, including 6 that were either already public or exploited in the wild, the October 2025 one seemed like a good opportunity to get back at it. The one I ended up investigating in depth was CVE-2025-59201, an elevation of privilege in the “Network Connection Status Indicator”. MSRC Vu..."
+      "description": "It’s been a while since I last dug into a Patch Tuesday release. With an extraordinarily high number of 177 CVEs, including 6 that were either already public or exploited in the wild, the October 2025 one seemed like a good opportunity to get back at it. The one I ended up investigating in depth was CVE-2025-59201, an elevation of privilege in the “Network Connection Status Indicator”. MSRC Vu...",
+      "date": null
     }
   ]
 }

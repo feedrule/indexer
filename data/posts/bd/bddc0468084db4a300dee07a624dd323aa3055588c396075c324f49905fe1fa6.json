@@ -4,17 +4,20 @@
     {
       "link": "https://yasint.dev/write-an-eval-for-your-agent/",
       "title": "How to write an eval for your agent",
-      "description": "Learn how to test an AI agent when it never gives you the same answer twice, using a small refund desk as an example."
+      "description": "Learn how to test an AI agent when it never gives you the same answer twice, using a small refund desk as an example.",
+      "date": null
     },
     {
       "link": "https://yasint.dev/agents-and-git-worktrees/",
       "title": "Your agent is probably using git worktrees",
-      "description": "Coding agents reach for git worktrees as the unit of parallel work. The mental model and four commands to stay in control."
+      "description": "Coding agents reach for git worktrees as the unit of parallel work. The mental model and four commands to stay in control.",
+      "date": null
     },
     {
       "link": "https://yasint.dev/hash-maps-under-the-hood/",
       "title": "So Much for O(1)",
-      "description": "I'd known the theory for years but couldn't have built one from scratch. So I did, with interactive demos you can poke at."
+      "description": "I'd known the theory for years but couldn't have built one from scratch. So I did, with interactive demos you can poke at.",
+      "date": null
     }
   ]
 }

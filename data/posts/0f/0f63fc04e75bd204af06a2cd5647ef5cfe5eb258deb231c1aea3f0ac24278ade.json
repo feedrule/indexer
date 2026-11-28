@@ -4,17 +4,20 @@
     {
       "link": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
       "title": "Derivative flipping",
-      "description": "{-# OPTIONS_GHC -Wincomplete-patterns #-} I want to take a look at another way of thinking about automatic differentiation. I'm not going to give an actual AD algorithm but it will show how to implement some AD algorithms - possibly an easier way to think about some published work. But first I want to talk about regular expression matching using the Brzozowski derivative. You can skip this bit but"
+      "description": "{-# OPTIONS_GHC -Wincomplete-patterns #-} I want to take a look at another way of thinking about automatic differentiation. I'm not going to give an actual AD algorithm but it will show how to implement some AD algorithms - possibly an easier way to think about some published work. But first I want to talk about regular expression matching using the Brzozowski derivative. You can skip this bit but",
+      "date": null
     },
     {
       "link": "http://blog.sigfpe.com/2026/04/introduction-i-want-to-return-to.html",
       "title": "Some type constructors are tensor products",
-      "description": "Introduction I want to return to something I've mentioned a couple of times in the past - the fact that applying certain type constructors performs a tensor product. First some admin stuff: > {-# LANGUAGE DeriveFunctor #-} > {-# LANGUAGE FlexibleInstances #-} > {-# LANGUAGE MultiParamTypeClasses #-} > {-# LANGUAGE UndecidableInstances #-} > {-# LANGUAGE TypeApplications #-} > {-# LANGUAGE KindSign"
+      "description": "Introduction I want to return to something I've mentioned a couple of times in the past - the fact that applying certain type constructors performs a tensor product. First some admin stuff: > {-# LANGUAGE DeriveFunctor #-} > {-# LANGUAGE FlexibleInstances #-} > {-# LANGUAGE MultiParamTypeClasses #-} > {-# LANGUAGE UndecidableInstances #-} > {-# LANGUAGE TypeApplications #-} > {-# LANGUAGE KindSign",
+      "date": null
     },
     {
       "link": "http://blog.sigfpe.com/2023/03/constructing-clifford-algebras-using.html",
       "title": "Constructing Clifford Algebras using the Super Tensor Product",
-      "description": "Google have stopped supporting the Chart API so all of the mathematics notation below is missing. There is a PDF version of this article at GitHub . Some literate Haskell but little about this code is specific to Haskell... > {-# LANGUAGE DataKinds #-} > {-# LANGUAGE TypeFamilies #-} > {-# LANGUAGE TypeOperators #-} > {-# LANGUAGE UndecidableInstances #-} > > import GHC.TypeLits Introduction This"
+      "description": "Google have stopped supporting the Chart API so all of the mathematics notation below is missing. There is a PDF version of this article at GitHub . Some literate Haskell but little about this code is specific to Haskell... > {-# LANGUAGE DataKinds #-} > {-# LANGUAGE TypeFamilies #-} > {-# LANGUAGE TypeOperators #-} > {-# LANGUAGE UndecidableInstances #-} > > import GHC.TypeLits Introduction This",
+      "date": null
     }
   ]
 }

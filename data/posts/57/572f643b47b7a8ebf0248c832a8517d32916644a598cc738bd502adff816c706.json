@@ -4,17 +4,20 @@
     {
       "link": "https://aydinnyunus.github.io/2026/11/22/nanomq-basic-authorize-heap-underflow-tr/",
       "title": "NanoMQ rest_api.c basic_authorize() Heap Buffer Underflow",
-      "description": "NanoMQ rest_api.c basic_authorize() içinde kimlik doğrulaması öncesi heap buffer underflow: 6 byte'lık Authorization header HTTP API'yi çökertiyor."
+      "description": "NanoMQ rest_api.c basic_authorize() içinde kimlik doğrulaması öncesi heap buffer underflow: 6 byte'lık Authorization header HTTP API'yi çökertiyor.",
+      "date": null
     },
     {
       "link": "https://aydinnyunus.github.io/2026/11/22/nanomq-basic-authorize-heap-underflow/",
       "title": "Heap Buffer Underflow in NanoMQ rest_api.c basic_authorize()",
-      "description": "An unauthenticated heap buffer underflow in NanoMQ rest_api.c basic_authorize(): a 6-byte Authorization header crashes the HTTP API before any credential check."
+      "description": "An unauthenticated heap buffer underflow in NanoMQ rest_api.c basic_authorize(): a 6-byte Authorization header crashes the HTTP API before any credential check.",
+      "date": null
     },
     {
       "link": "https://aydinnyunus.github.io/2026/11/06/claude-code-email-useragent-leak-tr/",
       "title": "Claude Code, User-Agent başlığında e-postanızı gönderiyordu",
-      "description": "Claude Code modele oturum açtığınız e-posta adresini veriyor, sonra 'bunu header'a koyma' diyordu. 107757'yi doğruladım ve fix'i yazarken kapsam açığını buldum."
+      "description": "Claude Code modele oturum açtığınız e-posta adresini veriyor, sonra 'bunu header'a koyma' diyordu. 107757'yi doğruladım ve fix'i yazarken kapsam açığını buldum.",
+      "date": null
     }
   ]
 }

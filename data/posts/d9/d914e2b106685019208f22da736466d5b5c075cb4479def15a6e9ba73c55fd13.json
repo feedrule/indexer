@@ -4,17 +4,20 @@
     {
       "link": "https://vtrivedy.com/posts/improving-agents-is-a-data-mining-problem/",
       "title": "Improving Agents is a Data Mining Problem",
-      "description": "Continual Learning, Harness Engineering, and Post-Training all boil down to the same substrate: curating data at scale to run experiments and improve agents."
+      "description": "Continual Learning, Harness Engineering, and Post-Training all boil down to the same substrate: curating data at scale to run experiments and improve agents.",
+      "date": null
     },
     {
       "link": "https://vtrivedy.com/posts/the-anatomy-of-an-agent-harness/",
       "title": "The Anatomy of an Agent Harness",
-      "description": "Agent = Model + Harness. We define what a harness is and derive the core components today's and tomorrow's agents need by working backwards from desired agent behavior."
+      "description": "Agent = Model + Harness. We define what a harness is and derive the core components today's and tomorrow's agents need by working backwards from desired agent behavior.",
+      "date": null
     },
     {
       "link": "https://vtrivedy.com/posts/improving-deep-agents-with-harness-engineering/",
       "title": "Improving Deep Agents with Harness Engineering",
-      "description": "Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here's our approach to harness engineering."
+      "description": "Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here's our approach to harness engineering.",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://vande.fr/posts/ru/installer-proxmox-ve-sur-vps-ovh/",
       "title": "Proxmox VE на OVHcloud VPS — проверка nested KVM, установка на Debian 13 и сеть NAT",
-      "description": "Как я валидировал nested KVM на VPS OVH Model 3 (6 vCore / 12 ГБ / 100 ГБ NVMe), установил Proxmox VE 8 поверх Debian 13 Trixie и настроил NAT + DNAT к Nginx Proxy Manager с firewall nftables и доступом через Tailscale"
+      "description": "Как я валидировал nested KVM на VPS OVH Model 3 (6 vCore / 12 ГБ / 100 ГБ NVMe), установил Proxmox VE 8 поверх Debian 13 Trixie и настроил NAT + DNAT к Nginx Proxy Manager с firewall nftables и доступом через Tailscale",
+      "date": null
     },
     {
       "link": "https://vande.fr/posts/en/installer-proxmox-ve-sur-vps-ovh/",
       "title": "Proxmox VE on OVHcloud VPS - nested KVM validation, Debian 13 install, and NAT networking",
-      "description": "How I validated nested KVM on an OVH Model 3 VPS (6 vCore / 12 GB / 100 GB NVMe), installed Proxmox VE 8 on top of Debian 13 Trixie, and configured NAT networking + DNAT to Nginx Proxy Manager with nftables firewall and Tailscale access"
+      "description": "How I validated nested KVM on an OVH Model 3 VPS (6 vCore / 12 GB / 100 GB NVMe), installed Proxmox VE 8 on top of Debian 13 Trixie, and configured NAT networking + DNAT to Nginx Proxy Manager with nftables firewall and Tailscale access",
+      "date": null
     },
     {
       "link": "https://vande.fr/posts/installer-proxmox-ve-sur-vps-ovh/",
       "title": "Proxmox VE sur OVHcloud VPS - vérification KVM imbriqué, installation Debian 13 et réseau NAT",
-      "description": "Comment j'ai validé le nested KVM sur un VPS OVH Model 3 (6 vCore / 12 Go / 100 Go NVMe), installé Proxmox VE 8 par-dessus Debian 13 Trixie, et configuré un réseau NAT + DNAT vers Nginx Proxy Manager avec firewall nftables et accès Tailscale"
+      "description": "Comment j'ai validé le nested KVM sur un VPS OVH Model 3 (6 vCore / 12 Go / 100 Go NVMe), installé Proxmox VE 8 par-dessus Debian 13 Trixie, et configuré un réseau NAT + DNAT vers Nginx Proxy Manager avec firewall nftables et accès Tailscale",
+      "date": null
     }
   ]
 }

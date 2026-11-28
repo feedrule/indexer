@@ -4,17 +4,20 @@
     {
       "link": "https://mglaman.dev/blog/status-codes-your-api-getting-wrong?utm_source=Front&utm_medium=feed&utm_campaign=RSS Feed",
       "title": "Status codes your API is getting wrong",
-      "description": "The HTTP method is half of your API's contract. The status code is the other half. Here are the codes that get misused most, and why it matters more now that AI agents are calling your API."
+      "description": "The HTTP method is half of your API's contract. The status code is the other half. Here are the codes that get misused most, and why it matters more now that AI agents are calling your API.",
+      "date": null
     },
     {
       "link": "https://mglaman.dev/blog/naming-my-strava-runs-garmin-drupal-webhook?utm_source=Front&utm_medium=feed&utm_campaign=RSS Feed",
       "title": "Naming my Strava runs from Garmin with a Drupal webhook",
-      "description": "My Garmin runs sync to Strava with generic names like \"Lunch Run.\" I built a Strava webhook in Drupal that renames them with the Garmin workout name and adds the workout plan to the description, working through it with Claude Code in one afternoon."
+      "description": "My Garmin runs sync to Strava with generic names like \"Lunch Run.\" I built a Strava webhook in Drupal that renames them with the Garmin workout name and adds the workout plan to the description, working through it with Claude Code in one afternoon.",
+      "date": null
     },
     {
       "link": "https://mglaman.dev/blog/contribkanban-now-tracks-gitlab-work-items?utm_source=Front&utm_medium=feed&utm_campaign=RSS Feed",
       "title": "ContribKanban now tracks GitLab work items",
-      "description": "Drupal projects are moving their issues from Drupal.org to GitLab work items, and ContribKanban couldn't see them. I rebuilt it so that one board tracks both."
+      "description": "Drupal projects are moving their issues from Drupal.org to GitLab work items, and ContribKanban couldn't see them. I rebuilt it so that one board tracks both.",
+      "date": null
     }
   ]
 }

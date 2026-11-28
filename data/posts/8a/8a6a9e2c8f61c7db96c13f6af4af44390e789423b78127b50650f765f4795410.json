@@ -4,17 +4,20 @@
     {
       "link": "https://kupczynski.info/posts/econnrefused-on-every-deploy/",
       "title": "ECONNREFUSED on every deploy: draining gRPC connections",
-      "description": "We’ve received customer reports of workers producing bursts of UNAVAILABLE: No connection established. Last error: connect ECONNREFUSED x.x.x.x:xxxx in the logs. UNAVAILABLE is the canonical gRPC transient failure code and ECONNREFUSED is a lower-level TCP error meaning the SYN went out and an RST came back: the destination was reachable, but nothing was listening on the port. This article is a fa"
+      "description": "We’ve received customer reports of workers producing bursts of UNAVAILABLE: No connection established. Last error: connect ECONNREFUSED x.x.x.x:xxxx in the logs. UNAVAILABLE is the canonical gRPC transient failure code and ECONNREFUSED is a lower-level TCP error meaning the SYN went out and an RST came back: the destination was reachable, but nothing was listening on the port. This article is a fa",
+      "date": null
     },
     {
       "link": "https://kupczynski.info/posts/cursor-semantic-search/",
       "title": "Cursor, a pile of repos, and two strange fights to make semantic search work",
-      "description": "TL;DR # Two Cursor bugs bite when you nest git repos under a gitignored parent and open them in one window: Semantic search returns nothing when the .code-workspace lists the root folder ( . ) alongside its own nested subfolders. The agent’s Grep and Glob tools go blind on the nested repos. They build their search off the git tree and honor .gitignore directly, and the .cursorignore / .aiignore re"
+      "description": "TL;DR # Two Cursor bugs bite when you nest git repos under a gitignored parent and open them in one window: Semantic search returns nothing when the .code-workspace lists the root folder ( . ) alongside its own nested subfolders. The agent’s Grep and Glob tools go blind on the nested repos. They build their search off the git tree and honor .gitignore directly, and the .cursorignore / .aiignore re",
+      "date": null
     },
     {
       "link": "https://kupczynski.info/posts/load-balancer-gotchas/",
       "title": "Load Balancer Gotchas",
-      "description": "A collection of load balancer surprises I’ve encountered. I’ll add new entries over time. NLB idle timeout silently drops connections # TIL: NLB doesn’t close the connection gracefully after idle timeout > .. no traffic for 350 seconds, then the connection is removed from the NLB flow table. If a client attempts to send traffic after the connection is no longer tracked, then NLB responds with a TC"
+      "description": "A collection of load balancer surprises I’ve encountered. I’ll add new entries over time. NLB idle timeout silently drops connections # TIL: NLB doesn’t close the connection gracefully after idle timeout > .. no traffic for 350 seconds, then the connection is removed from the NLB flow table. If a client attempts to send traffic after the connection is no longer tracked, then NLB responds with a TC",
+      "date": null
     }
   ]
 }

@@ -4,17 +4,20 @@
     {
       "link": "https://mliezun.com/2026/05/17/writing-web-services-ai-era.html",
       "title": "Writing web services in the AI-era",
-      "description": "AI is making rewrites cheap and vulnerabilities easier to find. The stack that survives will be layered, boring at the boundaries, and easy for agents to swap one piece at a time."
+      "description": "AI is making rewrites cheap and vulnerabilities easier to find. The stack that survives will be layered, boring at the boundaries, and easy for agents to swap one piece at a time.",
+      "date": null
     },
     {
       "link": "https://mliezun.com/2026/05/14/what-happened-in-december.html",
       "title": "What happened in December 2025 or how I got a 40x speedup?",
-      "description": "I'm quite late to the discussion, but everyone has been saying that they have not written code since December. What happened? The release of Gemini 3 Pro, GPT-5.1 and Claude Opus 4.5 was a game changer. It was the first time that models were 'smart enough' to accomplish complex tasks."
+      "description": "I'm quite late to the discussion, but everyone has been saying that they have not written code since December. What happened? The release of Gemini 3 Pro, GPT-5.1 and Claude Opus 4.5 was a game changer. It was the first time that models were 'smart enough' to accomplish complex tasks.",
+      "date": null
     },
     {
       "link": "https://mliezun.com/2026/02/11/vercel-like-domain-django.html",
       "title": "Vercel-like development setup for Django using Caddy",
-      "description": "Get {branch}.dev.yourdomain.com previews for Django (or any WSGI app) with a single VM, Caddy, and rsync—no Kubernetes required."
+      "description": "Get {branch}.dev.yourdomain.com previews for Django (or any WSGI app) with a single VM, Caddy, and rsync—no Kubernetes required.",
+      "date": null
     }
   ]
 }

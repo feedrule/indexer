@@ -4,17 +4,20 @@
     {
       "link": "https://cra.mr/a-little-determinism/",
       "title": "A Little Determinism",
-      "description": "How do I get an agent to behave like I would, without me telling it to? Most of the predictability in Junior came from an unlikely candidate: a man-in-the-middle egress proxy."
+      "description": "How do I get an agent to behave like I would, without me telling it to? Most of the predictability in Junior came from an unlikely candidate: a man-in-the-middle egress proxy.",
+      "date": null
     },
     {
       "link": "https://cra.mr/building-an-intern/",
       "title": "Building an Intern",
-      "description": "Junior is the open-source Slack agent I've been building at Sentry for the last four months. It seemed easy: put an agent in Slack, give it tools, ship it. This is the story of how it was anything but."
+      "description": "Junior is the open-source Slack agent I've been building at Sentry for the last four months. It seemed easy: put an agent in Slack, give it tools, ship it. This is the story of how it was anything but.",
+      "date": null
     },
     {
       "link": "https://cra.mr/a-bigger-toolbox-for-mcp/",
       "title": "A Bigger Toolbox for MCP",
-      "description": "Search and execute primitives are how MCP gets useful at scale. You can expose thousands of capabilities without dumping every tool definition into the model context."
+      "description": "Search and execute primitives are how MCP gets useful at scale. You can expose thousands of capabilities without dumping every tool definition into the model context.",
+      "date": null
     }
   ]
 }

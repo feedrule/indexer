@@ -4,17 +4,20 @@
     {
       "link": "https://jasonfantl.com/posts/Propagating-Bit-on-Grid/",
       "title": "Bit propagation over a noisy grid",
-      "description": "Below is an open problem, an approachable problem, one perhaps you will be the one to solve! We send a bit over a noisy grid, starting from the origin and propagating out as a wave. Can we recover the original bit when looking at just the wavefront? This is easy to solve for 1D, mostly solved in 2D, and still open in 3D and above. Here is the lecture that introduced the problem to me, as wel..."
+      "description": "Below is an open problem, an approachable problem, one perhaps you will be the one to solve! We send a bit over a noisy grid, starting from the origin and propagating out as a wave. Can we recover the original bit when looking at just the wavefront? This is easy to solve for 1D, mostly solved in 2D, and still open in 3D and above. Here is the lecture that introduced the problem to me, as wel...",
+      "date": null
     },
     {
       "link": "https://jasonfantl.com/posts/Multiple-Access-Protocols/",
       "title": "Medium Access Control Protocols",
-      "description": "Introduction A medieval General is using messengers to communicate with his regiments, but he finds that using people to send messages is slow. After thinking, he realizes he could use drums for communication. Every regiment learns their distinct drum patterns to send reports and listen for commands. But in practice, the General finds that two regiments will often start drumming over each othe..."
+      "description": "Introduction A medieval General is using messengers to communicate with his regiments, but he finds that using people to send messages is slow. After thinking, he realizes he could use drums for communication. Every regiment learns their distinct drum patterns to send reports and listen for commands. But in practice, the General finds that two regiments will often start drumming over each othe...",
+      "date": null
     },
     {
       "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
       "title": "Cosmologically Unique IDs",
-      "description": "We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique? Being able to identify objects is a fundamental tool for building ot..."
+      "description": "We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique? Being able to identify objects is a fundamental tool for building ot...",
+      "date": null
     }
   ]
 }

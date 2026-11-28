@@ -4,17 +4,20 @@
     {
       "link": "https://giuliomagnifico.blog/post/2026-10-01-lettura-app/",
       "title": "Lettura: an app to read FreshRSS feeds",
-      "description": "⚠️ With Lettura 2.0, I introduced a new database in SwiftData and many new features, so this post is now somewhat outdated. You can find the latest release video and screenshots here: https://www.giuliomagnifico.dev/apps/lettura/ Introduction For many years, I used Reeder Classic to read my RSS feeds. It remains an excellent application, but it has not received the same level of active development"
+      "description": "⚠️ With Lettura 2.0, I introduced a new database in SwiftData and many new features, so this post is now somewhat outdated. You can find the latest release video and screenshots here: https://www.giuliomagnifico.dev/apps/lettura/ Introduction For many years, I used Reeder Classic to read my RSS feeds. It remains an excellent application, but it has not received the same level of active development",
+      "date": null
     },
     {
       "link": "https://giuliomagnifico.blog/post/2026-07-07-monitor-openwrt-lan-traffic/",
       "title": "Per-device traffic monitoring for OpenWrt in Grafana",
-      "description": "I wanted to monitor the traffic of my home network directly inside my Grafana dashboards, but there was one annoying limitation: the standard OpenWrt Prometheus exporter can expose interfaces, NAT traffic and system metrics, but they don’t give me a simple per-device view, with the actual DHCP names of my devices. In practice, I could see traffic on interfaces such as pppoe-wan, br-lan, bond0, VLA"
+      "description": "I wanted to monitor the traffic of my home network directly inside my Grafana dashboards, but there was one annoying limitation: the standard OpenWrt Prometheus exporter can expose interfaces, NAT traffic and system metrics, but they don’t give me a simple per-device view, with the actual DHCP names of my devices. In practice, I could see traffic on interfaces such as pppoe-wan, br-lan, bond0, VLA",
+      "date": null
     },
     {
       "link": "https://giuliomagnifico.blog/post/2026-06-02-rai-play-sound-feed-v2/",
       "title": "Feed RSS dei podcast Rai v2",
-      "description": "Questo post è l’evoluzione del precedente post Feed RSS dei podcast Rai con la modifica che gli URLs vengono risolti fino alla CDN Rai, evitando il problema di alcuni client podcast (come Pocket Casts ) che non facevano partire automaticamente l’episodio, ed era necessario scaricarlo prima di riprodurlo. E in aggiunta c’è anche la possibilità di creare feeds per gli audiolibri e la creazione autom"
+      "description": "Questo post è l’evoluzione del precedente post Feed RSS dei podcast Rai con la modifica che gli URLs vengono risolti fino alla CDN Rai, evitando il problema di alcuni client podcast (come Pocket Casts ) che non facevano partire automaticamente l’episodio, ed era necessario scaricarlo prima di riprodurlo. E in aggiunta c’è anche la possibilità di creare feeds per gli audiolibri e la creazione autom",
+      "date": null
     }
   ]
 }

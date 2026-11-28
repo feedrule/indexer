@@ -4,17 +4,20 @@
     {
       "link": "https://suraj.io/post/2026/ai-systems-performance-engineering-visualizations/",
       "title": "Visualizations for the book 'AI Systems Performance Engineering'",
-      "description": "Interactive diagrams and animations for the first two chapters of AI Systems Performance Engineering: training compute, GB200 NVL72 throughput, Grace Blackwell hardware, and the NVLink fabric."
+      "description": "Interactive diagrams and animations for the first two chapters of AI Systems Performance Engineering: training compute, GB200 NVL72 throughput, Grace Blackwell hardware, and the NVLink fabric.",
+      "date": null
     },
     {
       "link": "https://suraj.io/post/2026/ghostty-as-a-shell-for-herdr/",
       "title": "Ghostty as a Shell for Herdr",
-      "description": "Strip Ghostty down to a dumb container and send every iTerm2-style shortcut straight to Herdr, no prefix key required."
+      "description": "Strip Ghostty down to a dumb container and send every iTerm2-style shortcut straight to Herdr, no prefix key required.",
+      "date": null
     },
     {
       "link": "https://suraj.io/post/2026/inference-engineering-visualizations/",
       "title": "Interactive Visualizations for the book 'Inference Engineering'",
-      "description": "A set of interactive, self-contained visualizations that make the core concepts of inference engineering — dimensionality, attention, MoE, and the roofline model — tangible."
+      "description": "A set of interactive, self-contained visualizations that make the core concepts of inference engineering — dimensionality, attention, MoE, and the roofline model — tangible.",
+      "date": null
     }
   ]
 }

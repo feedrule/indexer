@@ -4,17 +4,20 @@
     {
       "link": "https://kddnewton.com/2026/01/06/exreg.html",
       "title": "A Ruby Regular Expression Engine",
-      "description": "Recently I put some finishing touches on the exreg gem, a pure-Ruby implementation of a Unicode regular expression engine. It supports nearly all of the same functionality as Onigmo, the Ruby regular expression engine, with caveats listed in the README. Importantly however, it uses a Thompson-style NFA virtual machine, meaning it is immune to ReDoS caused by catastrophic backtracking."
+      "description": "Recently I put some finishing touches on the exreg gem, a pure-Ruby implementation of a Unicode regular expression engine. It supports nearly all of the same functionality as Onigmo, the Ruby regular expression engine, with caveats listed in the README. Importantly however, it uses a Thompson-style NFA virtual machine, meaning it is immune to ReDoS caused by catastrophic backtracking.",
+      "date": null
     },
     {
       "link": "https://kddnewton.com/2025/12/25/psych-pure.html",
       "title": "A Ruby YAML parser",
-      "description": "Recently I built the psych-pure gem, a pure-Ruby implementation of a YAML 1.2 parser and emitter. It fully conforms to the YAML 1.2 specification, passes the entire YAML test suite, and allows you to preserve comments when loading and dumping YAML documents. This post explains how and why."
+      "description": "Recently I built the psych-pure gem, a pure-Ruby implementation of a YAML 1.2 parser and emitter. It fully conforms to the YAML 1.2 specification, passes the entire YAML test suite, and allows you to preserve comments when loading and dumping YAML documents. This post explains how and why.",
+      "date": null
     },
     {
       "link": "https://kddnewton.com/2024/01/23/prism.html",
       "title": "Prism: Ruby 3.3’s new error-tolerant parser",
-      "description": "Prism is a new library shipping as a default gem in Ruby 3.3.0 that provides access to the Prism parser, a new parser for the Ruby programming language. Prism is designed to be error tolerant, portable, maintainable, fast, and efficient."
+      "description": "Prism is a new library shipping as a default gem in Ruby 3.3.0 that provides access to the Prism parser, a new parser for the Ruby programming language. Prism is designed to be error tolerant, portable, maintainable, fast, and efficient.",
+      "date": null
     }
   ]
 }

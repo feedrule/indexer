@@ -4,17 +4,20 @@
     {
       "link": "https://blog.lamsimenterprises.com/2026/11/07/pcb-material-properties-and-lessons-i-didnt-know-i-didnt-know/",
       "title": "PCB Material Properties and Lessons I Didn’t Know I Didn’t Know",
-      "description": "Throughout my career, I often found myself navigating the space between what I knew, what I didn’t know, and what I didn’t know I didn’t know. That last category shaped my journey more than anything else. It pushed me to stay curious, keep learning, and question assumptions even when I thought I understood the problem […]"
+      "description": "Throughout my career, I often found myself navigating the space between what I knew, what I didn’t know, and what I didn’t know I didn’t know. That last category shaped my journey more than anything else. It pushed me to stay curious, keep learning, and question assumptions even when I thought I understood the problem […]",
+      "date": null
     },
     {
       "link": "https://blog.lamsimenterprises.com/2025/05/25/the-imperfect-via-modeling-challenges-impacting-simulation-accuracy/",
       "title": "The Imperfect Via: Modeling Challenges Impacting Simulation Accuracy",
-      "description": "During DesignCon 2025, I had several side discussions about the findings presented in my DesignCon 2024 paper on dielectric anisotropy. A key concern raised was the discrepancy between measured results and simulations when converting the out-of-plane dielectric constant (Dkz) to in-plane Dkxy using my heuristic method. While Isola’s Tachyon 100G showed an average material anisotropy […]"
+      "description": "During DesignCon 2025, I had several side discussions about the findings presented in my DesignCon 2024 paper on dielectric anisotropy. A key concern raised was the discrepancy between measured results and simulations when converting the out-of-plane dielectric constant (Dkz) to in-plane Dkxy using my heuristic method. While Isola’s Tachyon 100G showed an average material anisotropy […]",
+      "date": null
     },
     {
       "link": "https://blog.lamsimenterprises.com/2024/12/14/pam-2-vs-pam-4-simply-explained/",
       "title": "PAM-2 vs. PAM-4: Simply Explained",
-      "description": "Also Published in Signal Integrity Journal December 17, 2024 Figure 1 Comparison of NRZ (PAM-2) encoding versus PAM-4 encoding (A) and respective eye diagrams (B). To keep up with the bandwidth demands of the industry, non-return-to-zero (NRZ) signaling has been replaced by pulse amplitude modulation level-4 (PAM-4) signaling. To maintain the same naming convention, NRZ […]"
+      "description": "Also Published in Signal Integrity Journal December 17, 2024 Figure 1 Comparison of NRZ (PAM-2) encoding versus PAM-4 encoding (A) and respective eye diagrams (B). To keep up with the bandwidth demands of the industry, non-return-to-zero (NRZ) signaling has been replaced by pulse amplitude modulation level-4 (PAM-4) signaling. To maintain the same naming convention, NRZ […]",
+      "date": null
     }
   ]
 }

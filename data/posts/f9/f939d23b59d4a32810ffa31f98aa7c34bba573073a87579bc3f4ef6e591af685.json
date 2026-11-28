@@ -4,17 +4,20 @@
     {
       "link": "https://colobu.com/2026/09/11/go-time-after-optimization/",
       "title": "go time.After 优化",
-      "description": "这里给你一个典型的 循环内复用 timer 的例子,这是 NewTimer + Reset 最常见的使用场景: <"
+      "description": "这里给你一个典型的 循环内复用 timer 的例子,这是 NewTimer + Reset 最常见的使用场景: <",
+      "date": null
     },
     {
       "link": "https://colobu.com/2026/09/09/postgresql-mysql-json-types-go/",
       "title": "PostgreSQL与MySQL的JSON类型及Go语言处理",
-      "description": "关系型数据库存 JSON 早就不稀奇了，但把它用对没那么简单。你得先分清 PostgreSQL 里 json 和 jsonb 到底差在哪、什么时候该建什么索引，再决定 Go 代码里怎么读写才不别扭。这篇就把这几件事讲清楚，代码都能直接抄进项目。 一、三种类型的本质区别 维度 PostgreSQL json PostgreSQL jsonb MySQL json 存储形式 原始文本（逐字节保存） 分解后的二进制 分解后的二进制 保留空格/键序 保留 不保留 不保留 保留重复键 保留 只留最后一个 只留最后一个 写入速度 快（不解析） 稍慢（要解析） 稍慢（要解析） 查询速度 慢（每次重解析） 快 快 支持索引 否（需表达式索引） GIN 索引 函数索引 / 多值索引 去重/规范化 否 是 是 一句话选型： PostgreSQL 绝大多数场景直接用 jsonb 。只有当你需要\"原样存回、包括空"
+      "description": "关系型数据库存 JSON 早就不稀奇了，但把它用对没那么简单。你得先分清 PostgreSQL 里 json 和 jsonb 到底差在哪、什么时候该建什么索引，再决定 Go 代码里怎么读写才不别扭。这篇就把这几件事讲清楚，代码都能直接抄进项目。 一、三种类型的本质区别 维度 PostgreSQL json PostgreSQL jsonb MySQL json 存储形式 原始文本（逐字节保存） 分解后的二进制 分解后的二进制 保留空格/键序 保留 不保留 不保留 保留重复键 保留 只留最后一个 只留最后一个 写入速度 快（不解析） 稍慢（要解析） 稍慢（要解析） 查询速度 慢（每次重解析） 快 快 支持索引 否（需表达式索引） GIN 索引 函数索引 / 多值索引 去重/规范化 否 是 是 一句话选型： PostgreSQL 绝大多数场景直接用 jsonb 。只有当你需要\"原样存回、包括空",
+      "date": null
     },
     {
       "link": "https://colobu.com/2026/09/05/control-ai-code-without-outsourcing-understanding/",
       "title": "如果你不能外包你的理解，你咋掌控AI写的那一大坨代码",
-      "description": "上一篇文章的结尾，我留了一个话题。 我引用了那句话： \"你可以外包你的思考，但是你不能外包你的理解。\" 有读者在后台问我：道理都懂，可 AI 一天给我生成的代码，比我自己一年写的都多。思考我可以外包给 AI，理解我肯定要自己消化——但是消化也得有时间和精力啊。生成是光速，理解是步行，AI拉的是一大坨，理解缺是要细嚼慢咽，这道题怎么解？"
+      "description": "上一篇文章的结尾，我留了一个话题。 我引用了那句话： \"你可以外包你的思考，但是你不能外包你的理解。\" 有读者在后台问我：道理都懂，可 AI 一天给我生成的代码，比我自己一年写的都多。思考我可以外包给 AI，理解我肯定要自己消化——但是消化也得有时间和精力啊。生成是光速，理解是步行，AI拉的是一大坨，理解缺是要细嚼慢咽，这道题怎么解？",
+      "date": null
     }
   ]
 }

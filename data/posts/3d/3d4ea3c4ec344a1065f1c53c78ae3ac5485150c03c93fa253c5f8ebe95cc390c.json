@@ -4,17 +4,20 @@
     {
       "link": "https://www.jujens.eu/posts/2025/Dec/20/jouer-sous-linux/",
       "title": "Jouer sous Linux",
-      "description": "Après plusieurs tests infructueux l’année dernière, j’ai décidé de retester le jeu sous Linux en avril 2025 avec une nouvelle config. Et je dois admettre que ça fonctionne vraiment très bien. Je n’ai presque pas de problèmes et un seul jeu aurait nécessité de repasser sous Windows …"
+      "description": "Après plusieurs tests infructueux l’année dernière, j’ai décidé de retester le jeu sous Linux en avril 2025 avec une nouvelle config. Et je dois admettre que ça fonctionne vraiment très bien. Je n’ai presque pas de problèmes et un seul jeu aurait nécessité de repasser sous Windows …",
+      "date": null
     },
     {
       "link": "https://www.jujens.eu/posts/en/2025/Dec/20/jouer-sous-linux/",
       "title": "Gaming on Linux",
-      "description": "After several unsuccessful tests last year, I decided to retest gaming on Linux in April 2025 with a new setup. And I have to admit that it works really well. I had almost no problems and only one game would have required switching back to Windows while waiting or a …"
+      "description": "After several unsuccessful tests last year, I decided to retest gaming on Linux in April 2025 with a new setup. And I have to admit that it works really well. I had almost no problems and only one game would have required switching back to Windows while waiting or a …",
+      "date": null
     },
     {
       "link": "https://www.jujens.eu/posts/en/2026/Jun/20/zsh-autocomplete-issues-containers/",
       "title": "ZSH autocomplete issues in containers",
-      "description": "When I use ZSH with a custom theme or with starship in a container, sometimes completion is broken: I type some characters (let’s say ts ) then TAB for autocompletion and I’ll get the characters I typed and then the completion (in my example, tstsc for tsc ). This doesn …"
+      "description": "When I use ZSH with a custom theme or with starship in a container, sometimes completion is broken: I type some characters (let’s say ts ) then TAB for autocompletion and I’ll get the characters I typed and then the completion (in my example, tstsc for tsc ). This doesn …",
+      "date": null
     }
   ]
 }

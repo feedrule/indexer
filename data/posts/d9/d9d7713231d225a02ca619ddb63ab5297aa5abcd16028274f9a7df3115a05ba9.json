@@ -4,17 +4,20 @@
     {
       "link": "https://kollitsch.dev/blog/2026/ai-submits-it-you-still-own-it/",
       "title": "AI submits it. You still own it.",
-      "description": "Why I kept one project-specific AI contribution policy, what changed after comparing it with ai-policy.dev, and why responsibility still belongs to a person."
+      "description": "Why I kept one project-specific AI contribution policy, what changed after comparing it with ai-policy.dev, and why responsibility still belongs to a person.",
+      "date": null
     },
     {
       "link": "https://kollitsch.dev/blog/2026/lab-notes-limit-git-status-to-the-current-directory/",
       "title": "Lab Notes: Limit Git status to the current directory",
-      "description": "Run git status -- . to show only changes in the current directory and below, and add a global statuss alias to make the scoped version a short command."
+      "description": "Run git status -- . to show only changes in the current directory and below, and add a global statuss alias to make the scoped version a short command.",
+      "date": null
     },
     {
       "link": "https://kollitsch.dev/blog/2026/enpass-612-on-linux-fixing-the-x11-installation/",
       "title": "Enpass 6.12 on Linux: fixing the X11 installation",
-      "description": "Enpass 6.12 stops starting on X11 after a normal apt upgrade. Switch to the X11 APT repository to fix it, correcting an error in Enpass's own docs."
+      "description": "Enpass 6.12 stops starting on X11 after a normal apt upgrade. Switch to the X11 APT repository to fix it, correcting an error in Enpass's own docs.",
+      "date": null
     }
   ]
 }

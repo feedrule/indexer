@@ -4,17 +4,20 @@
     {
       "link": "https://sinrega.org/2026-10-16-synchronous-queues-virtio-fs/",
       "title": "Synchronous virtio-fs yields 30% better performance",
-      "description": "Virtio devices normally work asynchronously: the guest submits a request, the host processes it, and an interrupt tells the guest that the result is ready. This gives the guest an opportunity to do something else while the device is busy. But what if the application is just waiting for that one request to finish? That’s a common situation with filesystem operations, and the reason I’ve implemented"
+      "description": "Virtio devices normally work asynchronously: the guest submits a request, the host processes it, and an interrupt tells the guest that the result is ready. This gives the guest an opportunity to do something else while the device is busy. But what if the application is just waiting for that one request to finish? That’s a common situation with filesystem operations, and the reason I’ve implemented",
+      "date": null
     },
     {
       "link": "https://sinrega.org/2026-06-10-restoring-commodore-64-part-1/",
       "title": "Restoring a Commodore 64: Part 1",
-      "description": "After rescuing and restoring a lovely Amiga 500 , I decided to look for another old computer to restore. Commodore 64 machines are still relative cheap in the second hand market, specially when announced in unknown condition. So it’s time to test and fix this lovely breadbin Commodore 64, which is almost as old as I am! Photograph of a breadbin Commodore 64 \"> Photograph of a breadbin Commodore 64"
+      "description": "After rescuing and restoring a lovely Amiga 500 , I decided to look for another old computer to restore. Commodore 64 machines are still relative cheap in the second hand market, specially when announced in unknown condition. So it’s time to test and fix this lovely breadbin Commodore 64, which is almost as old as I am! Photograph of a breadbin Commodore 64 \"> Photograph of a breadbin Commodore 64",
+      "date": null
     },
     {
       "link": "https://sinrega.org/2025-11-07-adventures-amiga-500-part-3/",
       "title": "Adventures with an Amiga 500: Part 3 - Moar RAM!",
-      "description": "Having a working Amiga 500 that’s able to run most classic games is nice, but having one that’s also able to run some of the newer software is much, much better. The Amiga 500 comes with 512 KB of RAM soldered on the board, acting as what it’s called Chip RAM . Let’s see how much we can add on top of that. RAM: The fast, the slow and… the chip? Being a newcomer to the world of Amiga computers, eve"
+      "description": "Having a working Amiga 500 that’s able to run most classic games is nice, but having one that’s also able to run some of the newer software is much, much better. The Amiga 500 comes with 512 KB of RAM soldered on the board, acting as what it’s called Chip RAM . Let’s see how much we can add on top of that. RAM: The fast, the slow and… the chip? Being a newcomer to the world of Amiga computers, eve",
+      "date": null
     }
   ]
 }

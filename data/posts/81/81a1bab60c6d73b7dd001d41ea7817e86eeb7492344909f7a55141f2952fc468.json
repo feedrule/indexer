@@ -4,17 +4,20 @@
     {
       "link": "https://erwinvrolijk.nl/blog/how-to-remove-xcode-commandline-tools/",
       "title": "How to fully remove Command Line Tools for Xcode",
-      "description": "It can be confusing on how to completely remove the Command Line Tools for Xcode. Let me guide you through this process, step by step."
+      "description": "It can be confusing on how to completely remove the Command Line Tools for Xcode. Let me guide you through this process, step by step.",
+      "date": null
     },
     {
       "link": "https://erwinvrolijk.nl/blog/data-persistance-in-the-otel-collector/",
       "title": "Data Persistence in the OpenTelemetry Collector",
-      "description": "What happens if the OpenTelemetry collector cannot send data? Will it drop, queue in memory or on disk? Let's find out which settings are available and how they work!"
+      "description": "What happens if the OpenTelemetry collector cannot send data? Will it drop, queue in memory or on disk? Let's find out which settings are available and how they work!",
+      "date": null
     },
     {
       "link": "https://erwinvrolijk.nl/blog/use-opentelemetry-to-auto-instrument-wordpress/",
       "title": "Use OpenTelemetry to Auto Instrument WordPress",
-      "description": "OpenTelemetry is often associated with modern microservices and cloud-native applications. What happens if we apply OpenTelemetry and modern observability techniques to something completely different?"
+      "description": "OpenTelemetry is often associated with modern microservices and cloud-native applications. What happens if we apply OpenTelemetry and modern observability techniques to something completely different?",
+      "date": null
     }
   ]
 }
