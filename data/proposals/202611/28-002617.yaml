@@ -3,7 +3,7 @@
 # reason: one of commercial, seo, press, republished, machine, forum, notices, unsafe, other.
 ---
 url: https://jo-throughthekeyhole.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.936
 title: Through The Keyhole
 site: https://jo-throughthekeyhole.blogspot.com/
@@ -87,7 +87,7 @@ recent_posts:
       - Remembrance Sunday
 ---
 url: https://ardinpatterson.wordpress.com/feed/
-accept: false
+accept: true
 score: 0.901
 title: Ardin Patterson
 site: https://ardinpatterson.wordpress.com
@@ -183,7 +183,7 @@ recent_posts:
       - Toronto was the per
 ---
 url: https://sushirainbow.org/feed/
-accept: false
+accept: true
 score: 0.891
 title: Sushirainbow
 site: https://sushirainbow.org
@@ -273,7 +273,7 @@ recent_posts:
       - subject mat
 ---
 url: https://susanmayoke.com/feed/
-accept: false
+accept: true
 score: 0.871
 title: Loving Life in the Rain
 site: https://susanmayoke.com
@@ -332,7 +332,7 @@ recent_posts:
       - Anthology of Hope.
 ---
 url: https://worldofblyton.com/feed/
-accept: false
+accept: true
 score: 0.858
 title: World of Blyton
 site: https://worldofblyton.com
@@ -417,7 +417,7 @@ recent_posts:
       - about that…
 ---
 url: https://rhysford.com/feed/
-accept: false
+accept: true
 score: 0.849
 title: Rhys Ford
 site: https://rhysford.com
@@ -458,7 +458,7 @@ recent_posts:
       - bread which my stomach reminded me at 7:30.
 ---
 url: https://anserbirding.com/feed/
-accept: false
+accept: true
 score: 0.831
 title: Anserbirding
 site: https://anserbirding.com
@@ -547,6 +547,7 @@ recent_posts:
 ---
 url: https://hampshireunison.org/feed/
 accept: false
+reason: notices
 score: 0.819
 title: Hampshire Local Government
 site: https://hampshireunison.org
@@ -626,7 +627,7 @@ recent_posts:
       - turned left and explored the Winter Garden, which, o
 ---
 url: https://lisawallerrogers.com/feed/
-accept: false
+accept: true
 score: 0.814
 title: Lisa's History Room
 site: https://lisawallerrogers.com
@@ -714,6 +715,7 @@ recent_posts:
 ---
 url: https://notestowomen.wordpress.com/feed/
 accept: false
+reason: machine
 score: 0.812
 title: Notes to Women
 site: https://notestowomen.wordpress.com
@@ -802,7 +804,7 @@ recent_posts:
       - empty seat when he noti
 ---
 url: https://envisioningtheamericandream.com/feed/
-accept: false
+accept: true
 score: 0.811
 title: Envisioning The American Dream
 site: https://envisioningtheamericandream.com
@@ -883,7 +885,7 @@ recent_posts:
       - the story I
 ---
 url: https://fox59.com/feed/
-accept: false
+accept: true
 score: 0.806
 title: Fox 59
 site: https://fox59.com
@@ -941,7 +943,8 @@ recent_posts:
       - roadway. Indiana [...]
 ---
 url: https://spoonieauthorsnetwork.com/feed/
-accept: false
+accept: true
+# uncertain: community publication, but also a group's site
 score: 0.803
 title: Spoonie Authors Network
 site: https://spoonieauthorsnetwork.com
@@ -1045,7 +1048,8 @@ recent_posts:
       - in my
 ---
 url: https://uinterview.com/feed/podcast/uinterview/
-accept: false
+accept: true
+# uncertain: some interviews promote releases
 score: 0.797
 title: uInterview
 site: https://uinterview.com/series/uinterview/
@@ -1091,7 +1095,7 @@ recent_posts:
       - the end of this talk, two […]
 ---
 url: https://keeping-pace.com/feed/
-accept: false
+accept: true
 score: 0.794
 title: Keeping Pace
 site: https://keeping-pace.com
@@ -1182,7 +1186,8 @@ recent_posts:
       - experiences I had long ke
 ---
 url: https://nekorandom.com/feed/
-accept: false
+accept: true
+# uncertain: some trivia posts read as generic
 score: 0.793
 title: Neko Random
 site: https://nekorandom.com/
@@ -1266,7 +1271,7 @@ recent_posts:
       - the holiday that i
 ---
 url: https://wormhole.carnelianvalley.com/feed/
-accept: false
+accept: true
 score: 0.791
 title: The Worm Hole
 site: https://wormhole.carnelianvalley.com
@@ -1356,7 +1361,7 @@ recent_posts:
       - bit too
 ---
 url: https://russianmachineneverbreaks.com/feed/
-accept: false
+accept: true
 score: 0.79
 title: RMNB
 site: https://russianmachineneverbreaks.com
@@ -1458,7 +1463,7 @@ recent_posts:
       - Chuckie will back u
 ---
 url: https://steelersdepot.com/feed/
-accept: false
+accept: true
 score: 0.788
 title: Steelers Depot
 site: https://steelersdepot.com/
@@ -1517,7 +1522,7 @@ recent_posts:
       - calling out head coach […]
 ---
 url: https://wigley.com.au/feed/
-accept: false
+accept: true
 score: 0.787
 title: Wigley
 site: https://wigley.com.au
@@ -1600,7 +1605,7 @@ recent_posts:
       - Commissioner of Insolvency, and Assist
 ---
 url: https://robertwalshwriter.wpcomstaging.com/feed/
-accept: false
+accept: true
 score: 0.783
 title: Crimescribe
 site: https://robertwalshwriter.wpcomstaging.com
@@ -1660,7 +1665,7 @@ recent_posts:
       - Lancashire, but an
 ---
 url: https://abc13.com/feed/
-accept: false
+accept: true
 score: 0.778
 title: ABC13 RSS Feed
 site: https://abc13.com/feed
@@ -1709,7 +1714,8 @@ recent_posts:
       - according to former Pearland Mayor Kevin Cole.
 ---
 url: https://betweennapsontheporch.net/feed/
-accept: false
+accept: true
+# uncertain: long-running blog, but some posts are deal roundups
 score: 0.777
 title: Between Naps on the Porch
 site: https://betweennapsontheporch.net
@@ -1762,7 +1768,7 @@ recent_posts:
       - wall space on either […]
 ---
 url: https://lehifreepress.com/feed/
-accept: false
+accept: true
 score: 0.774
 title: Lehi Free Press
 site: https://lehifreepress.com/
@@ -1852,7 +1858,7 @@ recent_posts:
       - held by A
 ---
 url: https://www.classicmotorcycle.co.uk/feed/
-accept: false
+accept: true
 score: 0.773
 title: The Classic Motorcycle
 site: https://www.classicmotorcycle.co.uk
@@ -1938,7 +1944,7 @@ recent_posts:
       - world.
 ---
 url: https://www.communityedition.ca/feed/
-accept: false
+accept: true
 score: 0.759
 title: Community Edition
 site: https://www.communityedition.ca
@@ -2008,7 +2014,8 @@ recent_posts:
       - we go to print
 ---
 url: https://callmestormy.net/feed/
-accept: false
+accept: true
+# uncertain: accepted on second look: the reviewer said republished, but the posts show no relayed text
 score: 0.753
 title: Call Me Stormy
 site: https://callmestormy.net
@@ -2070,7 +2077,7 @@ recent_posts:
       - MS NOW? Here’s more from Trish Regan.
 ---
 url: https://www.cbs17.com/feed/
-accept: false
+accept: true
 score: 0.752
 title: CBS17.com
 site: https://www.cbs17.com
@@ -2127,7 +2134,7 @@ recent_posts:
       - along Highway [...]
 ---
 url: https://themidlandsrocks.co.uk/feed/
-accept: false
+accept: true
 score: 0.748
 title: The Midlands Rocks
 site: https://themidlandsrocks.co.uk
@@ -2228,7 +2235,7 @@ recent_posts:
       - serious
 ---
 url: https://hongkongfp.com/feed/
-accept: false
+accept: true
 score: 0.746
 title: Hong Kong Free Press HKFP
 site: https://hongkongfp.com/
@@ -2321,7 +2328,8 @@ recent_posts:
       - “It’s a ma
 ---
 url: https://bhaktivinodainstitute.org/feed/
-accept: false
+accept: true
+# uncertain: publisher of a tradition's texts: personal or institutional?
 score: 0.744
 title: Bhaktivinoda Institute
 site: https://bhaktivinodainstitute.org
@@ -2414,7 +2422,7 @@ recent_posts:
       - of receiving a guest. Should a guest arrive, one shall
 ---
 url: https://www.boyletoday.com/feed/
-accept: false
+accept: true
 score: 0.742
 title: Boyle Today | Your News, Your Town | Local news for Boyle, County Roscommon
 site: https://www.boyletoday.com
@@ -2468,7 +2476,7 @@ recent_posts:
       - …
 ---
 url: https://watchingthedaisies.com/feed/
-accept: false
+accept: true
 score: 0.741
 title: Watching the Daisies
 site: https://watchingthedaisies.com
@@ -2571,7 +2579,7 @@ recent_posts:
       - Skimmia Viburn
 ---
 url: https://www.robbsutherland.com/feed/
-accept: false
+accept: true
 score: 0.739
 title: Robb Sutherland
 site: https://www.robbsutherland.com
@@ -2646,7 +2654,7 @@ recent_posts:
       - way in. I would have brushed my hair!
 ---
 url: https://www.sbnation.com/rss/index.xml
-accept: false
+accept: true
 score: 0.734
 title: SB Nation
 site: https://www.sbnation.com
@@ -2737,7 +2745,7 @@ recent_posts:
       - teams stack
 ---
 url: https://acflory.wordpress.com/feed/
-accept: false
+accept: true
 score: 0.732
 title: Meeka's Mind
 site: https://acflory.wordpress.com
@@ -2814,7 +2822,7 @@ recent_posts:
       - find something of interest here. Cheers, Meeks
 ---
 url: https://luluallison.net/feed/
-accept: false
+accept: true
 score: 0.726
 title: Lulu Allison, contemporary fiction author
 site: https://luluallison.net
@@ -2906,7 +2914,7 @@ recent_posts:
       - in their hands doesn’t ca
 ---
 url: https://animalsarefeelingbeingstoo.com/feed/
-accept: false
+accept: true
 score: 0.726
 title: Animals Are Feeling Beings Too
 site: https://animalsarefeelingbeingstoo.com
@@ -2958,7 +2966,7 @@ recent_posts:
       - Cino! […]
 ---
 url: https://heartsongministry.net/feed/
-accept: false
+accept: true
 score: 0.726
 title: Heartsong Ministries
 site: https://heartsongministry.net
@@ -3002,7 +3010,8 @@ recent_posts:
       - Velveteen Heart. Healing and hope are woven in its words.
 ---
 url: https://www.horseraceinsider.com/feed/
-accept: false
+accept: true
+# uncertain: syndicated columns
 score: 0.723
 title: Horse Race Insider
 site: https://www.horseraceinsider.com
@@ -3093,7 +3102,7 @@ recent_posts:
       - 5-GIRVY GIRL
 ---
 url: https://nomanisanis.land/feed/
-accept: false
+accept: true
 score: 0.721
 title: No Man Is An Island
 site: https://nomanisanis.land/
@@ -3193,7 +3202,7 @@ recent_posts:
       - opportunity in order to become more independent
 ---
 url: https://lindaschaubblog.net/feed/
-accept: false
+accept: true
 score: 0.721
 title: WALKIN', WRITIN', WIT & WHIMSY
 site: https://lindaschaubblog.net
@@ -3253,7 +3262,7 @@ recent_posts:
       - Wordless Wednesday – allow your photo(s) to tell the story.
 ---
 url: https://bellfurzoo.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.717
 title: The Adventures of The Bell Fur Zoo
 site: https://bellfurzoo.blogspot.com/
@@ -3301,6 +3310,7 @@ recent_posts:
 ---
 url: https://dna-explained.com/feed/
 accept: false
+reason: commercial
 score: 0.717
 title: DNAeXplained – Genetic Genealogy
 site: https://dna-explained.com
@@ -3409,7 +3419,7 @@ recent_posts:
       - “right.” What
 ---
 url: https://www.elliottkay.com/feed/
-accept: false
+accept: true
 score: 0.715
 title: Elliott Kay
 site: https://www.elliottkay.com
@@ -3497,7 +3507,7 @@ recent_posts:
       - performed in audio
 ---
 url: https://jacobin.com/feed/
-accept: false
+accept: true
 score: 0.715
 title: Jacobin
 site: https://jacobin.com
@@ -3608,7 +3618,7 @@ recent_posts:
       - entirely divorced fro
 ---
 url: https://seekingandserving.com/feed/
-accept: false
+accept: true
 score: 0.698
 title: Seeking and Serving
 site: https://seekingandserving.com
@@ -3701,7 +3711,8 @@ recent_posts:
       - the blessings on the studs,
 ---
 url: https://kissthebook.blogspot.com/feeds/posts/default
-accept: false
+accept: true
+# uncertain: reviews read partly like publisher catalogue copy
 score: 0.696
 title: KISS THE BOOK
 site: https://kissthebook.blogspot.com/
@@ -3800,7 +3811,7 @@ recent_posts:
       - great book
 ---
 url: https://www.reshmaseetharam.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.688
 title: Reshma Seetharam
 site: https://www.reshmaseetharam.com/
@@ -3848,7 +3859,7 @@ recent_posts:
     title: 'Press: Crispy savory waffles in the Everett Herald today!'
 ---
 url: https://elizabethanker.com/feed/
-accept: false
+accept: true
 score: 0.686
 title: Elizabeth Anker
 site: https://elizabethanker.com
@@ -3916,7 +3927,7 @@ recent_posts:
       - https://necmusic.edu/courses/handel-and-purcell-singers-and-instrumentalists
 ---
 url: https://jimchristie.me/feed.xml
-accept: false
+accept: true
 score: 0.686
 title: Jim Christie
 site: https://jimchristie.me/
@@ -4012,6 +4023,7 @@ recent_posts:
 ---
 url: https://readoasis.com/feed
 accept: false
+reason: commercial
 score: 0.686
 title: ReadOasis
 site: https://readoasis.com
@@ -4062,7 +4074,7 @@ recent_posts:
       - '[…]'
 ---
 url: https://www.londonlivinglarge.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.682
 title: London Living Large
 site: https://www.londonlivinglarge.com/
@@ -4160,7 +4172,8 @@ recent_posts:
       - his
 ---
 url: https://thenotfakenews.com/feed/
-accept: false
+accept: true
+# uncertain: one writer, but posts also push paid Patreon games
 score: 0.681
 title: The Not Fake News
 site: https://thenotfakenews.com
@@ -4254,7 +4267,7 @@ recent_posts:
       - just me and a keyboard and a wickedly twisted imagination.
 ---
 url: https://robmclennan.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.68
 title: rob mclennan's blog
 site: https://robmclennan.blogspot.com/
@@ -4361,6 +4374,7 @@ recent_posts:
 ---
 url: https://autocollectorsmurraybridge.com/feed/
 accept: false
+reason: notices
 score: 0.679
 title: Auto Collectors Club Murray Bridge
 site: https://autocollectorsmurraybridge.com
@@ -4403,7 +4417,7 @@ recent_posts:
       - gentle reminder that if your book is not […]
 ---
 url: https://archive.arunachaltimes.in/index.php/feed/
-accept: false
+accept: true
 score: 0.674
 title: The Arunachal Times
 site: https://archive.arunachaltimes.in
@@ -4454,7 +4468,7 @@ recent_posts:
       - was […]
 ---
 url: https://www.reviewstl.com/feed/
-accept: false
+accept: true
 score: 0.674
 title: ReviewSTL
 site: https://www.reviewstl.com
@@ -4505,6 +4519,7 @@ recent_posts:
 ---
 url: https://dirtpalace.blogspot.com/feeds/posts/default
 accept: false
+reason: press
 score: 0.673
 title: dirt palace
 site: https://dirtpalace.blogspot.com/
@@ -4600,7 +4615,7 @@ recent_posts:
       - have an idea to
 ---
 url: https://usrugbynews.com/feed/
-accept: false
+accept: true
 score: 0.671
 title: USRN
 site: https://usrugbynews.com
@@ -4690,7 +4705,7 @@ recent_posts:
       - utterly dismantled
 ---
 url: https://buildingourownnashville.com/feed/
-accept: false
+accept: true
 score: 0.66
 title: Building Our Own Nashville
 site: https://buildingourownnashville.com
@@ -4740,7 +4755,7 @@ recent_posts:
       - camping at them. As someone who […]
 ---
 url: https://www.altpress.com/feed/
-accept: false
+accept: true
 score: 0.656
 title: Alternative Press Magazine
 site: https://www.altpress.com
@@ -4838,6 +4853,8 @@ recent_posts:
 ---
 url: https://www.afi.com/feed/
 accept: false
+reason: press
+# uncertain: promotes its own movie club, but film fans might follow it
 score: 0.656
 title: American Film Institute
 site: https://www.afi.com
@@ -4913,7 +4930,7 @@ recent_posts:
       - Where to stream BROADCAST NEWS BROADCAST NEWS – Reelgood
 ---
 url: https://booksirelandmagazine.com/feed/
-accept: false
+accept: true
 score: 0.643
 title: Books Ireland
 site: https://booksirelandmagazine.com
@@ -5008,7 +5025,7 @@ recent_posts:
       - Streets
 ---
 url: https://www.ellisinsight.com/feed/
-accept: false
+accept: true
 score: 0.642
 title: The ELLIS Insight
 site: https://www.ellisinsight.com
@@ -5082,6 +5099,7 @@ recent_posts:
 ---
 url: https://cambridgeinsight.org/feed/
 accept: false
+reason: notices
 score: 0.638
 title: Cambridge Insight Meditation Center
 site: https://cambridgeinsight.org
@@ -5155,6 +5173,7 @@ recent_posts:
 ---
 url: https://govbooktalk.gpo.gov/feed/
 accept: false
+reason: press
 score: 0.637
 title: Government Book Talk
 site: https://govbooktalk.gpo.gov
@@ -5251,7 +5270,7 @@ recent_posts:
       - Involving National Defe
 ---
 url: https://www.bigcountryhomepage.com/feed/
-accept: false
+accept: true
 score: 0.637
 title: KTAB - BigCountryHomepage.com
 site: https://www.bigcountryhomepage.com
@@ -5311,7 +5330,7 @@ recent_posts:
       - attempted to [...]
 ---
 url: https://lauramello.klingt.org/feed/
-accept: false
+accept: true
 score: 0.636
 title: Laura Mello
 site: https://lauramello.klingt.org
@@ -5355,7 +5374,7 @@ recent_posts:
       - Errant Sound
 ---
 url: https://danielbwallace.com/feed/
-accept: false
+accept: true
 score: 0.624
 title: Daniel B. Wallace
 site: https://danielbwallace.com
@@ -5413,6 +5432,7 @@ recent_posts:
 ---
 url: https://siliconcanals.com/feed/
 accept: false
+reason: republished
 score: 0.621
 title: Silicon Canals
 site: https://siliconcanals.com
@@ -5519,7 +5539,7 @@ recent_posts:
       - matters les
 ---
 url: https://davescomicheroes.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.621
 title: Dave's Comic Heroes Blog
 site: https://davescomicheroes.blogspot.com/
@@ -5573,7 +5593,8 @@ recent_posts:
       - and Bernie Krigstein .
 ---
 url: https://idealog.co.nz/feed
-accept: false
+accept: true
+# uncertain: magazine, with some company-launch pieces
 score: 0.617
 title: Idealog
 site: https://idealog.co.nz/
@@ -5671,7 +5692,7 @@ recent_posts:
       - at the Robert Lord Writ
 ---
 url: https://cms.sofrep.com/feed/
-accept: false
+accept: true
 score: 0.616
 title: SOFREP
 site: https://sofrep.com/news/the-navy-just-gave-seal-team-six-a-new-squadron-for-war-at-sea/
@@ -5726,6 +5747,7 @@ recent_posts:
 ---
 url: https://www.filmifeed.com/feed/
 accept: false
+reason: seo
 score: 0.611
 title: FilmiFeed
 site: https://www.filmifeed.com/
@@ -5759,7 +5781,7 @@ recent_posts:
       - streets and studio sets you can spot in the show.
 ---
 url: https://www.maravipost.com/feed/
-accept: false
+accept: true
 score: 0.603
 title: The Maravi Post
 site: https://www.maravipost.com/
@@ -5858,7 +5880,7 @@ recent_posts:
       - traders operating informal bus
 ---
 url: https://thedailytexan.com/feed/
-accept: false
+accept: true
 score: 0.601
 title: The Daily Texan
 site: https://thedailytexan.com
@@ -5929,7 +5951,7 @@ recent_posts:
     title: DC 11/24/2026
 ---
 url: https://weareexplorers.co/feed/
-accept: false
+accept: true
 score: 0.598
 title: We Are Explorers
 site: https://weareexplorers.co/
@@ -6035,7 +6057,8 @@ recent_posts:
       - over the northern reaches of th
 ---
 url: https://community.saa.co.uk/feed/
-accept: false
+accept: true
+# uncertain: artists' association magazine that also sells tuition
 score: 0.597
 title: SAA
 site: https://community.saa.co.uk/
@@ -6133,7 +6156,7 @@ recent_posts:
       - surface, let
 ---
 url: https://highschoolfishing.org/feed/
-accept: false
+accept: true
 score: 0.596
 title: Student Angler Federation
 site: https://highschoolfishing.org
@@ -6173,7 +6196,8 @@ recent_posts:
     title: TBF Membership Appreciation Sweepstakes!
 ---
 url: https://nofilmschool.com/feeds/content-types/article.rss
-accept: false
+accept: true
+# uncertain: magazine, with some sponsored content
 score: 0.594
 title: No Film School
 site: https://nofilmschool.com/
@@ -6275,6 +6299,8 @@ recent_posts:
 ---
 url: https://stampingscene.blogspot.com/feeds/posts/default
 accept: false
+reason: commercial
+# uncertain: free craft tutorials, but blog hops and shop links for an independent seller
 score: 0.589
 title: Stampin' Up! ® Demonstrator independent supplier paper craft scrapbooking tutorials lincolnshire
 site: https://stampingscene.blogspot.com/
@@ -6374,6 +6400,7 @@ recent_posts:
 ---
 url: https://aipate.com/feed/
 accept: false
+reason: press
 score: 0.584
 title: Aipate
 site: https://aipate.com
@@ -6449,6 +6476,7 @@ recent_posts:
 ---
 url: https://cvearthlab.wordpress.com/feed/
 accept: false
+reason: notices
 score: 0.584
 title: Concord Village EarthLab
 site: https://cvearthlab.wordpress.com
@@ -6508,6 +6536,7 @@ recent_posts:
 ---
 url: https://bckonline.com/feed/
 accept: false
+reason: republished
 score: 0.574
 title: BCK Online
 site: https://bckonline.com/
@@ -6602,7 +6631,7 @@ recent_posts:
       - samples Usher’s
 ---
 url: https://benjweinberg.com/feed/
-accept: false
+accept: true
 score: 0.565
 title: The Life and Times of Ben Weinberg
 site: https://benjweinberg.com
@@ -6650,6 +6679,7 @@ recent_posts:
 ---
 url: https://broadviewcoaching.com/feed/
 accept: false
+reason: commercial
 score: 0.565
 title: Broadview Coaching
 site: https://broadviewcoaching.com
@@ -6741,6 +6771,7 @@ recent_posts:
 ---
 url: https://leapatshsu.com/feed/
 accept: false
+reason: press
 score: 0.556
 title: Center for Law, Engagement, and Politics
 site: https://leapatshsu.com
@@ -6799,7 +6830,8 @@ recent_posts:
       - … Continue reading "A Well-Earned Honor for Mortar & Pestle"
 ---
 url: https://bmansbluesreport.com/feed
-accept: false
+accept: true
+# uncertain: one reviewer; one post has affiliate links
 score: 0.556
 title: Bman's Blues Report
 site: https://bmansbluesreport.com
@@ -6902,7 +6934,7 @@ recent_posts:
       - friendships and pa
 ---
 url: https://www.ojdo.de/wp/feed/
-accept: false
+accept: true
 score: 0.555
 title: ojdo
 site: https://www.ojdo.de/wp
@@ -6953,6 +6985,8 @@ recent_posts:
 ---
 url: https://updogchallenge.com/feed/
 accept: false
+reason: notices
+# uncertain: one competition's results and sponsors; fans might follow it
 score: 0.55
 title: Dog Sport Competition For Everyone
 site: https://updogchallenge.com
@@ -7034,7 +7068,7 @@ recent_posts:
       - LubriSyn
 ---
 url: https://www.lpm.org/news/latest.rss
-accept: false
+accept: true
 score: 0.549
 title: Latest from LPM News
 site: https://www.lpm.org/news/latest
@@ -7124,7 +7158,7 @@ recent_posts:
       - permitting local gov
 ---
 url: https://www.putneysw15.com/rss.xml
-accept: false
+accept: true
 score: 0.548
 title: PutneySW15
 site: http://www.putneysw15.com/
@@ -7153,7 +7187,7 @@ recent_posts:
       - Hopes of settlement before Christmas recede
 ---
 url: https://pocahontastimes.com/feed/
-accept: false
+accept: true
 score: 0.542
 title: Pocahontas Times
 site: https://pocahontastimes.com
@@ -7198,6 +7232,7 @@ recent_posts:
 ---
 url: https://churchinparliament.org/feed/
 accept: false
+reason: press
 score: 0.539
 title: The Church of England in Parliament
 site: https://churchinparliament.org
@@ -7257,7 +7292,7 @@ recent_posts:
       - organisations in tackling domestic abuse"
 ---
 url: https://www.nerfd.net/feed/
-accept: false
+accept: true
 score: 0.537
 title: Nerfd.net – RF News & Info
 site: https://www.nerfd.net
@@ -7328,7 +7363,7 @@ recent_posts:
       - 'POTA: A Series of Extraordinary Events! → Go to Source'
 ---
 url: https://fieldofgeeks.com/feed/
-accept: false
+accept: true
 score: 0.535
 title: Field of Geeks
 site: https://fieldofgeeks.com
@@ -7398,6 +7433,7 @@ recent_posts:
 ---
 url: https://rollingstonesautographed.com/feed/
 accept: false
+reason: commercial
 score: 0.533
 title: Rolling Stones Autographed
 site: https://rollingstonesautographed.com
@@ -7447,7 +7483,7 @@ recent_posts:
       - has been authenticated by […]
 ---
 url: https://vegnews.com/feed.rss
-accept: false
+accept: true
 score: 0.531
 title: VegNews.com
 site: https://vegnews.com/
@@ -7499,6 +7535,7 @@ recent_posts:
 ---
 url: https://khsaa.org/feed/
 accept: false
+reason: press
 score: 0.521
 title: Kentucky High School Athletic Association
 site: https://khsaa.org
@@ -7592,6 +7629,7 @@ recent_posts:
 ---
 url: https://danugroup.lk/feed/
 accept: false
+reason: commercial
 score: 0.517
 title: Danu Group
 site: https://danugroup.lk/
@@ -7685,7 +7723,7 @@ recent_posts:
       - trace elements and structural defects within the crystal. I
 ---
 url: https://blazinglight.net/feed/
-accept: false
+accept: true
 score: 0.508
 title: Blazing Light, Love's Song
 site: https://blazinglight.net
@@ -7731,6 +7769,7 @@ recent_posts:
 ---
 url: https://www.rbsc.org.uk/feed/
 accept: false
+reason: notices
 score: 0.505
 title: Rollesby Broad Sailing Club
 site: https://www.rbsc.org.uk
@@ -7817,6 +7856,7 @@ recent_posts:
 ---
 url: https://floridadaily.com/feed/
 accept: false
+reason: republished
 score: 0.501
 title: Florida Daily
 site: https://floridadaily.com
@@ -7875,6 +7915,7 @@ recent_posts:
 ---
 url: https://biophysics.med.jhmi.edu/feed/
 accept: false
+reason: press
 score: 0.495
 title: Biophysics and Biophysical Chemistry
 site: https://biophysics.med.jhmi.edu
@@ -7935,6 +7976,8 @@ recent_posts:
 ---
 url: https://ezhevika.blogspot.com/feeds/posts/default
 accept: false
+reason: other
+# uncertain: rare 1980s albums with mega.nz links: probably shared rips
 score: 0.491
 title: EZHEVIKA FIELDS
 site: https://ezhevika.blogspot.com/
@@ -7981,6 +8024,7 @@ recent_posts:
 ---
 url: https://outdoorindustry.org/feed/
 accept: false
+reason: press
 score: 0.489
 title: Outdoor Industry Association
 site: https://outdoorindustry.org/
@@ -8071,6 +8115,7 @@ recent_posts:
 ---
 url: https://inspectorsgeneral.org/feed/
 accept: false
+reason: press
 score: 0.485
 title: AIG - Association of Inspectors General
 site: https://inspectorsgeneral.org/
@@ -8153,7 +8198,8 @@ recent_posts:
       - reelected to con
 ---
 url: https://www.poetbay.com/rss/index.php
-accept: false
+accept: true
+# uncertain: many contributors: a poetry community archive
 score: 0.482
 title: Poetbay.com
 site: http://www.poetbay.com
@@ -8210,6 +8256,7 @@ recent_posts:
 ---
 url: https://www.petflight.com/feeds/rss.xml
 accept: false
+reason: commercial
 score: 0.481
 title: PetFlight - Air Travel Information for your Pets
 site: https://www.petflight.com
@@ -8278,7 +8325,7 @@ recent_posts:
       - 'matters: a'
 ---
 url: https://aleteia.org/feed/
-accept: false
+accept: true
 score: 0.478
 title: Aleteia — Catholic Spirituality, Lifestyle, World News, and Culture
 site: https://aleteia.org
@@ -8369,7 +8416,7 @@ recent_posts:
       - to Miraculous Medal
 ---
 url: https://fathersonholygore.com/feed/
-accept: false
+accept: true
 score: 0.465
 title: Father Son Holy Gore
 site: https://fathersonholygore.com
@@ -8402,6 +8449,7 @@ recent_posts:
 ---
 url: https://community.spiceworks.com/latest.rss
 accept: false
+reason: forum
 score: 0.464
 title: Spiceworks Community - Latest topics
 site: https://community.spiceworks.com/latest
@@ -8485,6 +8533,7 @@ recent_posts:
 ---
 url: https://9to5toys.com/feed/
 accept: false
+reason: commercial
 score: 0.461
 title: 9to5Toys
 site: https://9to5toys.com/
@@ -8556,6 +8605,7 @@ recent_posts:
 ---
 url: https://www.daphotostudio.com/blog/feed/
 accept: false
+reason: commercial
 score: 0.458
 title: DA Photography
 site: https://www.daphotostudio.com/blog/
@@ -8661,7 +8711,8 @@ recent_posts:
       - amazing
 ---
 url: https://www.getmonero.org/feed.xml
-accept: false
+accept: true
+# uncertain: project release notes: for the community, but project news
 score: 0.449
 title: Monero
 site: https://www.getmonero.org/
@@ -8753,7 +8804,8 @@ recent_posts:
       - '#11356 ) Daemon: r'
 ---
 url: https://recgymnastics.com/feed/
-accept: false
+accept: true
+# uncertain: a coach's drills, but promotes his own products
 score: 0.443
 title: Recreational Gymnastics
 site: https://recgymnastics.com
@@ -8808,7 +8860,7 @@ recent_posts:
       - Games YouTube channel .
 ---
 url: https://crickettimes.com/feed/
-accept: false
+accept: true
 score: 0.442
 title: Cricket Times
 site: https://crickettimes.com
@@ -8864,6 +8916,7 @@ recent_posts:
 ---
 url: https://defused.com/feed/
 accept: false
+reason: republished
 score: 0.441
 title: DEFUSED
 site: https://defused.com
@@ -8923,6 +8976,7 @@ recent_posts:
 ---
 url: https://theawesomer.com/feed/
 accept: false
+reason: commercial
 score: 0.435
 title: The Awesomer
 site: https://theawesomer.com/
@@ -8982,7 +9036,7 @@ recent_posts:
       - in place.
 ---
 url: https://www.cinetalkers.com/feed/
-accept: false
+accept: true
 score: 0.434
 title: CineTalkers
 site: https://www.cinetalkers.com
@@ -9073,7 +9127,7 @@ recent_posts:
       - f
 ---
 url: https://metropolitics.org/spip.php?page=backend
-accept: false
+accept: true
 score: 0.417
 title: Metropolitics
 site: https://metropolitics.org/
@@ -9149,6 +9203,7 @@ recent_posts:
 ---
 url: https://ciderhousetech.com.au/feed/
 accept: false
+reason: commercial
 score: 0.409
 title: Cider House Tech
 site: https://ciderhousetech.com.au
@@ -9189,7 +9244,7 @@ recent_posts:
       - of physicists in Australia.
 ---
 url: https://estnn.com/feed/
-accept: false
+accept: true
 score: 0.408
 title: Esports News Network | ESTNN
 site: https://estnn.com/
@@ -9229,6 +9284,7 @@ recent_posts:
 ---
 url: https://stevesautorepairva.com/blog/feed/
 accept: false
+reason: commercial
 score: 0.407
 title: Steve's Auto Repair & Tire Blog
 site: https://stevesautorepairva.com/blog/
@@ -9318,6 +9374,7 @@ recent_posts:
 ---
 url: https://aahivm.org/feed/
 accept: false
+reason: press
 score: 0.404
 title: American Academy of HIV Medicine | Academy Applauds Outcome of AAHIVM et al. v. HHS et al.
 site: https://aahivm.org
@@ -9404,6 +9461,8 @@ recent_posts:
 ---
 url: https://tlcwpg.ca/feed/
 accept: false
+reason: press
+# uncertain: a charity's own posts, only 2 read
 score: 0.4
 title: Trailblazers Life Choices
 site: https://tlcwpg.ca
@@ -9463,6 +9522,7 @@ recent_posts:
 ---
 url: https://unmethours.com/feeds/rss/
 accept: false
+reason: forum
 score: 0.397
 title: Unmet Hours - RSS feed
 site: https://unmethours.com/questions/
@@ -9513,7 +9573,7 @@ recent_posts:
       - down/when it could come back?
 ---
 url: https://telecomtalk.info/feed/
-accept: false
+accept: true
 score: 0.394
 title: TelecomTalk
 site: https://telecomtalk.info
@@ -9609,6 +9669,7 @@ recent_posts:
 ---
 url: https://gearjunkie.com/feed
 accept: false
+reason: commercial
 score: 0.392
 title: GearJunkie
 site: https://gearjunkie.com/
@@ -9719,7 +9780,7 @@ recent_posts:
       - Cycles, a smal
 ---
 url: https://qaphui.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.387
 title: Qaphui's Café
 site: https://qaphui.blogspot.com/
@@ -9816,6 +9877,7 @@ recent_posts:
 ---
 url: https://gringopost.com/feed/
 accept: false
+reason: commercial
 score: 0.387
 title: GringoPost
 site: https://gringopost.com/
@@ -9874,7 +9936,7 @@ recent_posts:
       - blocks to Batan […]
 ---
 url: https://airedale.futurecdn.net/feeds/en_US_feed_271bdec3.rss
-accept: false
+accept: true
 score: 0.382
 title: CyclingNews RSS Feed
 site: https://www.cyclingnews.com
@@ -9920,6 +9982,7 @@ recent_posts:
 ---
 url: https://www.macgamestore.com/feeds/mgs-reviews.rss
 accept: false
+reason: commercial
 score: 0.38
 title: Shopper Reviews on Macgamestore.com
 site: https://www.macgamestore.com/feeds/mgs-reviews.rss
@@ -9954,7 +10017,7 @@ recent_posts:
       - 'Myths: Heart of Athens Collector''s Edition - Thumbs up'
 ---
 url: https://www.bgr.com/feed/
-accept: false
+accept: true
 score: 0.378
 title: BGR - Industry-Leading Insights In Tech And Entertainment
 site: https://www.bgr.com/
@@ -10002,7 +10065,7 @@ recent_posts:
       - actually reduce its lifespan.
 ---
 url: https://hughsviewsandnews.com/feed/
-accept: false
+accept: true
 score: 0.377
 title: Hugh's Views & News
 site: https://hughsviewsandnews.com
@@ -10054,6 +10117,7 @@ recent_posts:
 ---
 url: https://fortworthbusiness.com/feed/
 accept: false
+reason: press
 score: 0.375
 title: The Business Press
 site: https://fortworthbusiness.com/
@@ -10112,6 +10176,7 @@ recent_posts:
 ---
 url: https://www.clementinphoto.com/feed/
 accept: false
+reason: commercial
 score: 0.373
 title: Valentina Mameli | Destination Wedding Photographer Sardinia
 site: https://www.valentinamameli.com
@@ -10165,7 +10230,8 @@ recent_posts:
       - Wedding Photographer Sardinia .
 ---
 url: https://texasstix.com/feed/
-accept: false
+accept: true
+# uncertain: college recruiting news; accepted like other sports fan sites, though written by admin
 score: 0.37
 title: Texas Stix
 site: https://texasstix.com
