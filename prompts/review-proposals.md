@@ -37,19 +37,21 @@ school newspaper, a university's news. For each feed, answer two questions first
 1. **Who writes it?** A person, a group of writers, a publication, or an organisation, a school,
    a church, a company? Look at the `title`, `about`, `authors` and `site` first: they usually
    say it ("The Student News Site of …", "Official feed of …", a company name).
-2. **For whom?** For anyone interested in its subject, or for its own members, students,
-   parishioners, customers or local residents?
+2. **For whom?** For anyone interested in its subject (a subject can be a place), or for its
+   own members, students, parishioners or customers?
 
 **Accept** a feed written by people for readers interested in its subject, mainstream or niche:
 a personal blog, a writer, a researcher, a hobbyist, a magazine, a newsletter, an independent
-news site, a project's blog, a podcast. A narrow subject is fine (knitting patterns, Rust
-compilers, birdwatching in Norway, the history of one town told by a local historian).
+news site, a local or regional news outlet with its own reporting, a political blog of any side,
+a project's blog, a podcast. A narrow subject is fine (knitting patterns, Rust compilers,
+birdwatching in Norway, the history of one town told by a local historian).
 
 **Reject** the rest, with one reason:
 
 - `notices`: an organisation's news for its own people: a school, a student newspaper, a
   church or parish (sermons, services, events), a club, an association, a council, a
-  university department, a county extension office, a company's staff news.
+  university department, a county extension office, a company's staff news, a small
+  community's paper made mostly of obituaries, classifieds and school sports.
 - `press`: an organisation announcing itself to the press: news releases from companies,
   universities or PR wires, often with a press contact, or every post opening with the same
   city and date ("Mumbai, 28th November 2026:") then a promoted artist or product. A dateline
@@ -59,16 +61,18 @@ compilers, birdwatching in Norway, the history of one town told by a local histo
 - `seo`: content made to rank or to earn commissions: generic how-to and product-news filler,
   short product blurbs, gift guides and deals as the main content, meta-tag descriptions
   ("Discover…", "Learn…"), guest posts promoting the guest's business or book, blog tours.
-- `republished`: content from elsewhere: syndicated or scraped articles, teasers of other sites'
-  news, link aggregators, content farms (generic entertainment or music news under stock
-  bylines, many sites alike).
+- `republished`: content from elsewhere: syndicated or scraped articles, a TV or radio
+  station's feed that is mostly wire copy, teasers of other sites' news, link aggregators and
+  link roundups with no writing of their own, content farms (generic entertainment or music news under stock bylines,
+  many sites alike).
 - `machine`: generated listings with no writing: jobs, packages, products, fonts, maps,
   version releases.
 - `forum`: forums, issue trackers, discussion boards.
-- `unsafe`: scams, spam, conspiracy, gambling, adult content.
+- `unsafe`: scams, spam, gambling, adult content, and posts that promote conspiracy theories,
+  election-fraud claims, medical misinformation or hatred of a group of people.
 - `other`: anything else not worth following.
 
-Two cases need care:
+Four cases need care:
 
 - **A church, a school or a local group** is `notices` unless its posts are clearly written for
   outsiders: a known theologian's essays, a teacher writing about teaching for other teachers.
@@ -76,6 +80,15 @@ Two cases need care:
 - **Affiliate links or `sponsored: true` alone** don't make a feed `seo`: a writer linking to
   their own books, or a real news site that also posts deals, is judged by what it mostly
   publishes.
+- **Local news** is accepted when it is reporting: journalists writing about a city or a region
+  for anyone who cares about it. A small community's paper that is mostly obituaries,
+  classifieds and school sports is `notices`; a station's feed that is mostly wire stories from
+  elsewhere is `republished`.
+- **Politics**: a political view is never a reason to reject. Left or right, religious or secular,
+  partisan or harsh, a political feed is judged like any other: who writes it, for whom. It is
+  `unsafe` only when its posts themselves promote conspiracy theories, election-fraud claims,
+  medical misinformation or hatred of a group of people. Judge from the posts you are given, not
+  from what you think of the outlet.
 
 **Unsure** is only for a feed with nothing to judge from: posts with no text, or titles that say
 nothing. It is not for hard calls: when there is text to read, decide, even on a borderline feed
@@ -94,11 +107,18 @@ https://opensprinkler.com/feed/ | who: a product's maker, firmware releases | fo
 https://www.product-reviews.net/feed/ | who: a filler site, chocolate bars and patch notes | for: search engines | reject seo
 https://www.tusharmangl.com/feeds/posts/default | who: guest posts by company founders | for: promotion | reject seo
 https://wordlesstech.com/feed/ | who: one-line teasers of others' news | for: clicks | reject republished
+https://www.berkeleyside.org/feed | who: a nonprofit newsroom, city reporting | for: anyone following Berkeley | accept -
+https://theflashtoday.com/feed/ | who: a county paper, obituaries and school sports | for: its community | reject notices
+https://fox8.com/feed/ | who: a TV station, mostly wire stories from other states | for: Cleveland viewers | reject republished
+https://thestandard.nz/feed/ | who: labour-movement bloggers, partisan politics | for: NZ politics readers | accept -
+https://www.bizpacreview.com/feed/ | who: conservative columnists, partisan commentary | for: US politics readers | accept -
+https://statelymcdanielmanor.wordpress.com/feed/ | who: a political blogger; posts claim more voters than citizens | for: US politics readers | reject unsafe
 https://www.crossrhythms.co.uk/feeds/rss.xml | only post is a title with no text | unsure -
 ```
 
 The verdict follows from the note: a feed written for its own school, congregation or
-customers is rejected however well written it is.
+customers is rejected however well written it is, and a partisan feed is accepted unless its
+posts promote what `unsafe` lists.
 
 ## Your answer
 
