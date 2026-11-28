@@ -18,7 +18,7 @@ from indexer.cli.common import (
 from indexer.net.fetch import FetchConfig, open_fetcher
 from indexer.proposals import files
 from indexer.proposals import run as proposals_run
-from indexer.proposals.scoring import keep_likely
+from indexer.proposals.scoring import sort_by_score
 from indexer.proposals.training import TRAINING_CONFIG, TrainingError, cached_model
 from indexer.proposals.wat import CommonCrawlError
 
@@ -136,11 +136,9 @@ async def run(args: argparse.Namespace) -> int:
         try:
             model = cached_model(args.training)
         except (OSError, ValueError, TrainingError) as exc:
-            print(f"warning: proposals not filtered: {exc}", file=sys.stderr)
-            dropped = 0
+            print(f"warning: proposals not sorted: {exc}", file=sys.stderr)
         else:
-            new, dropped = keep_likely(new, model, result.crawl, started.date())
-        steps.append(f"{dropped} dropped by the model trained on past reviews")
+            new = sort_by_score(new, model, result.crawl, started.date())
     acceptance = files.acceptance(len(new), result.checked)
     # Checked in random order, so this is also the expected share of all the advertised feed URLs.
     steps.append(

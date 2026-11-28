@@ -256,9 +256,10 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   optional, unused note; feeds with `learn: false` are skipped, `training.read_examples`), text = what the reviewer saw (title, about, categories, posts' titles and descriptions). Trained by `indexer proposals` (up to a minute,
   deterministic) and kept in git-ignored `data/models/proposals-<hash of training.toml, the listed files and proposals/training.py>.npz`:
   reused while present, retrained when the hash changes; never committed (agreed 2026-11-22: no model binaries in git
-  history). `indexer train` prints its size and cut-off.
-  `indexer proposals` drops proposals scoring below the cut-off (the 30th percentile of the examples' cross-validated scores,
-  `training.CUT`), only counting them in the summary, and writes the rest best first with `# score:`. Never run MiniLM,
+  history). `indexer train` prints its size and threshold.
+  `indexer proposals` writes every proposal, best first, with its `score`; it drops none (asked 2026-11-28: dropped feeds
+  were never seen, so the model's wrong drops couldn't be measured; it dropped those below the 30th percentile of the
+  examples' cross-validated scores, `training.CUT`, still printed by `indexer train`). Never run MiniLM,
   Docker builds or test suites on the user's Pi without asking (undervoltage shut it down).
 - `error` identifiers live in `src/indexer/errors.py` (e.g. `dns_nxdomain`, `rate_limited`, `not_a_feed`).
 

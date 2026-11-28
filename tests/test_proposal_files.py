@@ -22,7 +22,7 @@ from indexer.proposals.files import (
     write_files,
 )
 from indexer.proposals.run import Proposal, ProposalsResult
-from indexer.proposals.scoring import keep_likely
+from indexer.proposals.scoring import sort_by_score
 from indexer.proposals.training import REJECT_REASONS
 from indexer.sources import extract_urls, proposal_documents
 
@@ -324,13 +324,13 @@ class FakeModel:
         return [next(v for k, v in by_title.items() if k in t) for t in texts]
 
 
-def test_keep_likely_drops_low_scores_and_sorts_the_rest_best_first() -> None:
+def test_sort_by_score_keeps_every_proposal_best_first() -> None:
     feeds = [
         proposal(f"https://{t[0].lower()}.example/feed", t) for t in ("Alpha", "Bravo", "Charlie")
     ]
-    kept, dropped = keep_likely(feeds, FakeModel(), "CC-MAIN-2021-49", NOW.date())  # type: ignore[arg-type]
-    assert [(s.url, s.score) for s in kept] == [
+    ranked = sort_by_score(feeds, FakeModel(), "CC-MAIN-2021-49", NOW.date())  # type: ignore[arg-type]
+    assert [(s.url, s.score) for s in ranked] == [
         ("https://a.example/feed", 0.9),
         ("https://c.example/feed", 0.6),
+        ("https://b.example/feed", 0.2),  # below the model's threshold, still proposed
     ]
-    assert dropped == 1

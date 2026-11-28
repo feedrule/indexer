@@ -9,7 +9,7 @@ from indexer.proposals.training import TRAINING_CONFIG, TrainingError, train_mod
 NAME = "train"
 HELP = (
     "train the proposal filter on the reviewed proposal files --training lists and print its"
-    " size and cut-off (`indexer proposals` trains it the same way and keeps it in data/models/;"
+    " size and threshold (`indexer proposals` trains it the same way and keeps it in data/models/;"
     " this writes nothing)"
 )
 

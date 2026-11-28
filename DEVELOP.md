@@ -596,11 +596,13 @@ listed file and `proposals/training.py`: a stored file is up to date by construc
 instead of training, and a changed review or code gets a new name and is trained once (older
 files are removed; a directory it can't write to only costs the training time). TF-IDF over words and pairs
 of neighbouring words, then a logistic regression over accepted and rejected, in numpy. Training
-is deterministic: the same files always give the same model. The cut-off is the 30th percentile
+is deterministic: the same files always give the same model. Its threshold is the 30th percentile
 (`training.CUT`) of the examples' cross-validated scores. `indexer train` trains it the same way
-and prints its size and cut-off. Each new proposal's text (taken from its own rendered block) gets its probability of "accepted"; proposals
-below the cut-off are dropped (only counted, in the summary), the rest are written best first with
-`# score: 0.874` under the title (`--training`; with a warning and no filtering if it can't be
+and prints its size and threshold. Until 2026-11-28 proposals below the threshold were dropped
+(only counted in the summary); now the score only orders the file, because dropped feeds were
+never seen and the model's wrong drops couldn't be measured. Each new proposal's text (taken from its own rendered block) gets its probability of "accepted", and
+every proposal is written, best first, with its `score` (`--training`; with a warning and in the
+order checked if it can't be
 trained, e.g. the config is missing or lists no accepted or no rejected feed). List only files made with the
 current proposal rules and format, so all examples look alike. Measured on 2026-11-21 (trained on PRs #18 and #19, 500 feeds; tested on
 300 fresh proposals made with today's rules, labelled the same way): AUC 0.82 (MiniLM centroids

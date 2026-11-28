@@ -1,7 +1,8 @@
-"""A filter for proposals, learned from past reviews: the reviewed proposal files listed in
+"""A score for proposals, learned from past reviews: the reviewed proposal files listed in
 data/proposals/training.toml are read as labelled examples, a small model is trained on them
 (up to a minute) and kept in data/models/ (not committed; `cached_model`), and `indexer
-proposals` drops the new proposals it scores lowest (about the bottom CUT of them).
+proposals` writes the new proposals best first by its score. It drops none (since 2026-11-28:
+a dropped feed was never seen, so wrong drops could not be measured).
 
 A proposal file (proposals/files.py) holds one YAML document per feed: what the reviewer
 saw, and `accept: true` if they accepted it; a rejected feed may say why: `reason: <reason>`
@@ -15,8 +16,9 @@ dates, the WAT file, post links, a score), all in memory.
 
 The model is the classic cheap text classifier: TF-IDF over words and word pairs, then a
 logistic regression over CLASSES (accepted or rejected), trained in numpy. A proposal's score is
-its probability of "accepted". The cut-off is the CUT quantile of the examples' cross-validated
-scores, so it drops about CUT of proposals that look like the examples. Measured on 300 fresh
+its probability of "accepted". The threshold is the CUT quantile of the examples' cross-validated
+scores (about CUT of proposals like the examples score below it): `indexer train` prints it, as
+a reference; nothing is dropped by it any more. Measured on 300 fresh
 proposals (trained on 500): AUC 0.81; dropping the lowest 30% removed about half of the rejects
 and 12% of the accepted feeds. One class per reason scored the same within noise (2026-11-22,
 0.816 vs 0.812) but needs a reason on every reject; two classes learn from plain reviews. Training
@@ -45,7 +47,7 @@ from indexer.sources import SourceError, proposal_documents
 
 TRAINING_CONFIG = Path("data/proposals/training.toml")  # on the proposals branch
 MODEL_DIR = Path("data/models")  # the stored model (git-ignored)
-CUT = 0.30  # drop about this share of proposals: those scored lowest
+CUT = 0.30  # the threshold's quantile: about this share of proposals score below it
 # Why a feed was rejected, as a reviewer may note it (`reason:`, optional; not used by the model,
 # which only learns accepted or rejected).
 REJECT_REASONS = (
@@ -65,7 +67,7 @@ CLASSES = ("accepted", "rejected")
 MIN_DF = 2  # a term must occur in this many examples to be used
 L2 = 1e-3  # weight penalty
 STEPS = 400  # Adam steps (full batch)
-FOLDS = 5  # cross-validation folds for the cut-off
+FOLDS = 5  # cross-validation folds for the threshold
 
 Matrix = npt.NDArray[np.float32]
 
@@ -158,7 +160,9 @@ class ProposalModel:
     vocab: dict[str, int]
     idf: Matrix
     weights: Matrix  # (terms + 1) x len(CLASSES); the last row is the bias
-    threshold: float  # proposals scoring below it are dropped
+    threshold: (
+        float  # about CUT of proposals score below it (printed by indexer train, not applied)
+    )
 
     def scores(self, texts: Sequence[str]) -> list[float]:
         """Each text's probability of "accepted"."""
@@ -191,7 +195,7 @@ def train_model(config: Path = TRAINING_CONFIG) -> ProposalModel:
     vocab = {t: i for i, t in enumerate(sorted(t for t, n in df.items() if n >= MIN_DF))}
     idf = np.array([np.log((1 + len(docs)) / (1 + df[t])) + 1 for t in vocab], dtype=np.float32)
     x = _features(docs, vocab, idf)
-    # Step 3, the cut-off. We want to drop about CUT of new proposals, so we need to know what
+    # Step 3, the threshold: the score about CUT of new proposals fall below. We need to know what
     # scores new proposals get. Scoring the training examples would lie: the model has seen
     # them and scores them too confidently. So we use cross-validation: split the examples into
     # FOLDS groups, train on all groups but one, score the left-out group, and repeat for each
