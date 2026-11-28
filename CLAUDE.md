@@ -115,7 +115,8 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   missing posts say none saved yet; an "Imported from <source name> (<license>)" line, the name linking the index's `#sources` table (previews keep no source URL); `noindex`, not in the sitemap.
   The stylesheet is linked as `style.css?v=<content hash>` (`site.STYLE_VERSION`: Pages caches it 10 minutes). The header links
   the GitHub repository ("Open source").
-  Each feed row starts with feedrule.com's icon (`src/indexer/publish/feedrule.svg`, copied to docs/) linking to
+  Each feed row's links line ends with "Email digest" plus feedrule.com's small icon (`src/indexer/publish/feedrule.svg`, copied to docs/;
+  moved there from before the title on 2026-11-28 at the user's request: a leading icon read as the feed's own logo or owner) linking to
   `https://feedrule.com/?feed=<feed URL, percent-encoded except : and />` (`site.feedrule_link`). Untrusted text is
   HTML-escaped; only http(s) URLs become links (`site.safe_href`); feed and site links are rel="nofollow", feedrule's not.
   Row: title and a "Website" link (after the plain-text domain) go to the website (the feed's `site_url`, else its domain's home page), the subtitle under the title (one line,

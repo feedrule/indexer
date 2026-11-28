@@ -104,15 +104,16 @@ table { width: 100%; border-collapse: collapse; font-size: 15px; }
 th { text-align: left; font-size: 13px; font-weight: 600; color: var(--muted); }
 th, td { padding: 9px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
 .feeds { table-layout: fixed; margin-top: 16px; }
-.feeds .head { display: flex; align-items: center; gap: 10px; min-width: 0; }
-.feeds .title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.feeds .title { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .feeds time { font-variant-numeric: tabular-nums; }
 .feeds .meta { display: block; overflow-wrap: anywhere; }
 .feeds .sub { display: block; color: var(--fg); font-size: 14px; overflow-wrap: anywhere; }
 .feeds .title { color: var(--fg); font-weight: 500; }
 .feeds .meta, .feeds .meta a { color: var(--muted); font-size: 13px; }
 .feeds .meta.host { margin: 2px 0; }
-.feeds .meta a.site, .feeds .meta a.rss, .feeds .meta a.preview { color: var(--link); }
+.feeds .meta a.site, .feeds .meta a.rss, .feeds .meta a.preview, .feeds .meta a.digest { color: var(--link); }
+a.digest { white-space: nowrap; }
+a.digest img { width: 14px; height: 14px; margin-left: 4px; border-radius: 3px; vertical-align: -2px; }
 .ftopics { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
 .ftopics a, .ftopics span {
   padding: 0 7px;
@@ -123,18 +124,14 @@ th, td { padding: 9px 8px; border-bottom: 1px solid var(--border); vertical-alig
   line-height: 20px;
 }
 .ftopics a:hover { border-color: var(--accent); color: var(--fg); text-decoration: none; }
-.mail { display: inline-block; line-height: 0; }
 .gh { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 14px; font-weight: 500; }
 .gh:hover { color: var(--fg); text-decoration: none; }
-.mail img { width: 20px; height: 20px; border-radius: 4px; }
-.mail:hover img { outline: 2px solid var(--accent); outline-offset: 1px; }
 .scroll { overflow-x: auto; }
 
 .pv h1 { margin-bottom: 2px; overflow-wrap: anywhere; }
 .pv .host { color: var(--muted); font-size: 15px; margin: 0 0 10px; }
 .pv .sub { font-size: 17px; max-width: 70ch; margin: 0 0 8px; overflow-wrap: anywhere; }
 .pv .meta { color: var(--muted); font-size: 14px; margin: 0 0 4px; overflow-wrap: anywhere; }
-.pv .meta a.mail { vertical-align: middle; margin-right: 4px; }
 .pv .ftopics { margin: 10px 0 0; }
 .posts { list-style: none; padding: 0; margin: 0; }
 .posts li { padding: 12px 0; border-bottom: 1px solid var(--border); }

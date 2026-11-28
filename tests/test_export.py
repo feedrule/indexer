@@ -65,7 +65,7 @@ def page(topic: object) -> str:
 
 
 def rows(html: str) -> list[str]:
-    return re.findall(r'<a class="mail" href="([^"]*)"', html)
+    return re.findall(r'<a class="digest" href="([^"]*)"', html)
 
 
 def feed_links(html: str) -> list[str]:
@@ -154,17 +154,21 @@ def test_feedrule_link_is_prefilled_and_encoded() -> None:
     (topic,) = top_topics([feed(1, "x")], 1)
     html = page(topic)
     assert rows(html) == ["https://feedrule.com/?feed=https://f1.example/feed"]
-    assert '<img src="../../feedrule.svg" width="20" height="20" alt="Get by email">' in html
+    # a labelled action after the feed's own links, never an icon in front of the title
+    assert '<td class="feed">\n<a class="title"' in html
+    icon = '<img src="../../feedrule.svg" width="14" height="14" alt="">'
+    assert f">Email digest{icon}</a></span>" in html
     # feed and site links are nofollow; feedrule.com links are not
     digest = hashlib.sha256(b"https://f1.example/feed").hexdigest()
     # the title and "Website" link to the website; "Feed" to the feed
     assert '<a class="title" href="https://f1.example/" rel="nofollow">T</a>' in html
     # one cell per feed: the domain under the title; Website, Feed and Preview on one line; the date
-    assert '</a></span>\n<span class="meta host">f1.example</span>\n' in html
+    assert '>T</a>\n<span class="meta host">f1.example</span>\n' in html
     assert (
         '<span class="meta"><a class="site" href="https://f1.example/" rel="nofollow">Website</a>'
         ' · <a class="rss" href="https://f1.example/feed" rel="nofollow">Feed</a>'
-        f' · <a class="preview" href="../../preview/?sha={digest}">Preview</a></span>' in html
+        f' · <a class="preview" href="../../preview/?sha={digest}">Preview</a>'
+        ' · <a class="digest" href="https://feedrule.com/?feed=https://f1.example/feed"' in html
     )
     assert html.count("<td") == html.count('<td class="feed">') == 1
     assert 'Last indexed post: <time datetime="' in html
