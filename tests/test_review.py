@@ -12,6 +12,7 @@ from indexer.check.feed import RecentPost
 from indexer.cli import main
 from indexer.proposals.files import render_entries
 from indexer.proposals.review import (
+    Decision,
     ReviewError,
     apply_decisions,
     apply_file,
@@ -77,6 +78,24 @@ def test_a_second_review_replaces_the_first() -> None:
     assert (a["accept"], a["reason"]) == (False, "other")
     assert (b["accept"], "reason" in b) == (True, False)
     assert apply_decisions(again, parse_decisions(ANSWER)) == once
+
+
+def test_a_note_after_the_url_is_kept_apart() -> None:
+    (a, b) = parse_decisions(
+        f"accept - {A} # who: a person; for: anyone\nreject seo {B}#x # who: a shop\n"
+    ).items()
+    assert a == (A, Decision("accept", None, "who: a person; for: anyone"))
+    assert b == (f"{B}#x", Decision("reject", "seo", "who: a shop"))  # a #fragment stays
+
+
+def test_review_file_keeps_the_notes() -> None:
+    def reviewer(argv: Sequence[str], text: str) -> str:
+        return "".join(f"accept - {url} #  who:   me\n" for url in _urls(text))
+
+    answer = review_file(FILE, PROMPT, ["m"], size=5, run=reviewer)
+    assert answer == "".join(f"accept - {u} # who: me\n" for u in (A, B, C))
+    edited = apply_decisions(FILE, parse_decisions(answer))
+    assert "who:" not in edited
 
 
 def test_blank_lines_and_code_fences_are_ignored() -> None:

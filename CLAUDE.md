@@ -64,8 +64,9 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   (`sources.proposal_documents`). A reviewer sets `accept: true` on the feeds they want; only those are loaded.
   Proposals left at false count as known (not proposed again).
   **Model review** (asked 2026-11-28): `prompts/review-proposals.md` has a model (Haiku) judge a file with **no tools**,
-  answering one line per feed (`accept - <url>`, `reject <reason> <url>`, `unsure - <url>`; unsure = not enough
-  information: `learn: false`, accept false; reject keeps learn true with a reason); `indexer review FILE` (`proposals/review.py`) asks it in batches of 20 feeds
+  answering one line per feed (`accept - <url>`, `reject <reason> <url>`, `unsure - <url>`, then ` # who: …; for: …`,
+  a note kept in the answer, never in the file; asked 2026-11-28 with worked examples, after Haiku accepted school papers and churches; unsure = not enough
+  information: `learn: false`, accept false; reject keeps learn true with a reason); `indexer review FILE` (`proposals/review.py`) asks it in batches of 5 feeds
   (a whole file is too big for one call), 4 at once, from an empty temp directory, retrying a batch once whose answer doesn't
   decide exactly its feeds; `indexer review FILE ANSWER` applies a given answer. Either way it edits only
   accept/learn/reason lines, all or nothing, the answer being untrusted. Tests use a fake reviewer, never claude.

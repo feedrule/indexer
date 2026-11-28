@@ -2,9 +2,12 @@
 
 The model reads the file with no tools and answers one line per feed:
 
-    accept - <url>
-    reject <reason> <url>
-    unsure - <url>
+    accept - <url> # who: ...; for: ...
+    reject <reason> <url> # who: ...; for: ...
+    unsure - <url> # what is missing
+
+The note after ` # ` (optional) is the model's reason, kept in the answer for the person who
+checks the review and never written to the file.
 
 `apply_decisions` sets only the `accept`, `learn` and `reason` keys of each feed: accept gives
 `accept: true` and `learn: true`, reject `accept: false`, `learn: true` and the reason, unsure
@@ -54,7 +57,7 @@ REVIEWER = (
     "--no-session-persistence",
     "-p",
 )
-BATCH_SIZE = 20  # feeds per call: a whole file (~150 feeds, ~600 KB) is too much for one
+BATCH_SIZE = 5  # feeds per call: few, so a feed's about line isn't lost among others' posts
 PARALLEL = 4  # batches reviewed at once
 RETRIES = 1  # more calls for a batch whose answer doesn't decide exactly its feeds
 TIMEOUT = 600  # seconds per call
@@ -62,6 +65,7 @@ TIMEOUT = 600  # seconds per call
 # Runs the reviewer command (argv) with the text on stdin and returns its stdout.
 Run = Callable[[Sequence[str], str], str]
 
+_NOTE = re.compile(r"\s+#\s?")  # a note starts at whitespace then #; a URL's #fragment has none
 _DOCUMENT_START = re.compile(r"^---[ \t]*$", re.MULTILINE)
 _REVIEW_KEY = re.compile(r"^(accept|learn|reason):")  # a top-level key: column 0
 _KEYS = ("accept", "learn", "reason")
@@ -75,16 +79,20 @@ class ReviewError(Exception):
 class Decision:
     verdict: Verdict
     reason: str | None  # for a reject only
+    note: str = ""  # the model's note (after ` # `), for people; not written to the file
 
 
 def parse_decisions(text: str) -> dict[str, Decision]:
     """The model's answer, by URL. Blank lines and code fences (```) are ignored; anything else
-    must be `<accept|reject|unsure> <reason or -> <url>`. ReviewError otherwise."""
+    must be `<accept|reject|unsure> <reason or -> <url>`, optionally followed by ` # <note>`.
+    ReviewError otherwise."""
     decisions: dict[str, Decision] = {}
     for number, line in enumerate(text.splitlines(), 1):
         if not line.strip() or line.strip().startswith("```"):
             continue
-        fields = line.split()
+        head, *rest = _NOTE.split(line.strip(), maxsplit=1)
+        note = " ".join(rest[0].split()) if rest else ""
+        fields = head.split()
         if len(fields) != 3:
             raise ReviewError(f"line {number}: expected '<verdict> <reason or -> <url>'")
         word, reason, url = fields
@@ -97,7 +105,7 @@ def parse_decisions(text: str) -> dict[str, Decision]:
             raise ReviewError(f"line {number}: only a reject takes a reason")
         if url in decisions:
             raise ReviewError(f"line {number}: {url} decided twice")
-        decisions[url] = Decision(verdict, reason if verdict == "reject" else None)
+        decisions[url] = Decision(verdict, reason if verdict == "reject" else None, note)
     return decisions
 
 
@@ -220,15 +228,16 @@ def review_file(
                 )
                 continue
             print(f"batch {index + 1}/{len(parts)}: {len(urls)} feeds reviewed", file=sys.stderr)
-            return "".join(f"{_line(decided[url])} {url}\n" for url in urls)
+            return "".join(_line(decided[url], url) + "\n" for url in urls)
         raise ReviewError(f"batch {index + 1}/{len(parts)}: {problem}")
 
     with ThreadPoolExecutor(max_workers=max(1, parallel)) as pool:
         return "".join(pool.map(one, range(len(parts))))
 
 
-def _line(decision: Decision) -> str:
-    return f"{decision.verdict} {decision.reason or '-'}"
+def _line(decision: Decision, url: str) -> str:
+    note = f" # {decision.note}" if decision.note else ""
+    return f"{decision.verdict} {decision.reason or '-'} {url}{note}"
 
 
 def _run(argv: Sequence[str], text: str) -> str:
