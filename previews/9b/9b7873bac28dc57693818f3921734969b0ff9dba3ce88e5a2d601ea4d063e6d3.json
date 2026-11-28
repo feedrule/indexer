@@ -1,0 +1,19 @@
+{
+  "url": "https://flaky.build/feed.xml",
+  "title": "Flaky Build",
+  "subtitle": "Undeterministic blog on product development and software engineering",
+  "site": "https://flaky.build/",
+  "bytes": 11214,
+  "last": "2026-02-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

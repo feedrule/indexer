@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.vorona.ca/feeds/all.atom.xml",
+  "title": "Lifeboat blog",
+  "subtitle": "A random blog about software",
+  "site": "https://blog.vorona.ca/",
+  "bytes": 468060,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

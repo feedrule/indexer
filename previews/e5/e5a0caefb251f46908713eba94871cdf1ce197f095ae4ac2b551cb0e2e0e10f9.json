@@ -1,0 +1,19 @@
+{
+  "url": "https://log.alets.ch/rss/",
+  "title": "log.alets.ch",
+  "subtitle": "A blog on digital sustainability, hackathons, code art & public AI in Switzerland",
+  "site": "https://log.alets.ch/",
+  "bytes": 480989,
+  "last": "2026-05-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hackathon"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e5/e5a0caefb251f46908713eba94871cdf1ce197f095ae4ac2b551cb0e2e0e10f9.json"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://zwischenzugs.com/feed/",
+  "title": "zwischenzugs.com",
+  "subtitle": null,
+  "site": "https://zwischenzugs.com",
+  "bytes": 148543,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "cloud",
+    "automation",
+    "writing-craft"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cf/cf547f0d1680158845a9f672de4baa5ee94d367233a2bdc34a74ceabcb03082c.json"
+}

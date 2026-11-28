@@ -1,0 +1,20 @@
+{
+  "url": "https://steve-adams.me/feed.xml",
+  "title": "Steve Adams",
+  "subtitle": "Software Developer",
+  "site": "https://steve-adams.me",
+  "bytes": 745770,
+  "last": "2026-02-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "typescript",
+    "nextjs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c1/c1d32e6516e76562b577209c6c48e7b20191b45e73aa2d181180a76d57e9126b.json"
+}

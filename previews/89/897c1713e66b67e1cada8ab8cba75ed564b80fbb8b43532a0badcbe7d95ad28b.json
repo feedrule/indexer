@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.nightly.mozilla.org/feed/",
+  "title": "Firefox Nightly News",
+  "subtitle": "Let's improve quality, build after build!",
+  "site": "https://blog.nightly.mozilla.org",
+  "bytes": 268154,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "firefox"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

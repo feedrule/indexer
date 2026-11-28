@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cms feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="{ LebCit }" title="{ LebCit }" xmlUrl="https://lebcit.github.io/rss.xml" htmlUrl="https://lebcit.github.io"/>
+    <outline type="rss" text="Marcel Kapfer" title="Marcel Kapfer" xmlUrl="https://mmk2410.org/blog.rss" htmlUrl="https://mmk2410.org"/>
+    <outline type="rss" text="Gulla.net" title="Gulla.net" xmlUrl="https://www.gulla.net/rss" htmlUrl="https://www.gulla.net/"/>
+  </body>
+</opml>

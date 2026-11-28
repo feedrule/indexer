@@ -1,0 +1,19 @@
+{
+  "url": "https://www.getmonero.org/feed.xml",
+  "title": "Monero",
+  "subtitle": "Monero is a digital currency that is secure, private, and untraceable.",
+  "site": "https://www.getmonero.org/",
+  "bytes": 136527,
+  "last": "2026-10-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "release"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/17/1775de85b642ff0533e6fd2955b6a135b50a27d853da1ef4aca65fbee5a6e87b.json"
+}

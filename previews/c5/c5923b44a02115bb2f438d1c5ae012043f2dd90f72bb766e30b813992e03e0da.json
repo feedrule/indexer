@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/osxdaily",
+  "title": "OS X Daily",
+  "subtitle": "News, tips, tricks, apps, and more for Mac, iPhone, iPad, and the entire Apple ecosystem",
+  "site": "https://osxdaily.com/",
+  "bytes": 28004,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "apple",
+    "iphone"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c5/c5923b44a02115bb2f438d1c5ae012043f2dd90f72bb766e30b813992e03e0da.json"
+}

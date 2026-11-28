@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.pecar.me/feed.xml",
+  "title": "Anže's Blog",
+  "subtitle": "Recent content on Anže's Blog",
+  "site": "http://blog.pecar.me/",
+  "bytes": 34162,
+  "last": "2026-06-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "django",
+    "djangocon"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/27/27c896cc0e10c31c98c0d84af491b39a069b69c7c24af581b2189245ee9002b7.json"
+}

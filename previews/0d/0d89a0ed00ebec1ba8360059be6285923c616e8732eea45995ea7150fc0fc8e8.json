@@ -1,0 +1,20 @@
+{
+  "url": "https://gideon.bearblog.dev/feed/",
+  "title": "Gideon",
+  "subtitle": "Gideon",
+  "site": "https://gideon.bearblog.dev/",
+  "bytes": 45409,
+  "last": "2026-03-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "differential-geometry",
+    "vector-search"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0d/0d89a0ed00ebec1ba8360059be6285923c616e8732eea45995ea7150fc0fc8e8.json"
+}

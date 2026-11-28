@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>prompt feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="What the Fran" title="What the Fran" xmlUrl="https://francescrossley.com/atom/" htmlUrl="https://francescrossley.com/"/>
+    <outline type="rss" text="kelsey’s blah blah blahg" title="kelsey’s blah blah blahg" xmlUrl="https://kelsey.bearblog.dev/feed/" htmlUrl="https://kelsey.bearblog.dev/"/>
+    <outline type="rss" text="toyo's doghouse" title="toyo's doghouse" xmlUrl="https://toyosoda.bearblog.dev/atom/" htmlUrl="https://toyosoda.bearblog.dev/"/>
+  </body>
+</opml>

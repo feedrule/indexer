@@ -1,0 +1,20 @@
+{
+  "url": "https://alexi.sh/feed.xml",
+  "title": "alexi.sh - Privacy & security research",
+  "subtitle": "Privacy & security research lab. Browser security, OS-level lockdown, privacy tooling for tech-aware users.",
+  "site": "https://alexi.sh",
+  "bytes": 57132,
+  "last": "2026-10-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-security",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fb/fbc761e154d78dc3524ddc583e72d454ae661688e1d43fa811eb364a5bf26fc9.json"
+}

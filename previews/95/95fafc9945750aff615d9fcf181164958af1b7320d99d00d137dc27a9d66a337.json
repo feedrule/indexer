@@ -1,0 +1,19 @@
+{
+  "url": "https://saulutions.ca/rss.xml",
+  "title": "saulutions.ca",
+  "subtitle": "Self-hosting guides, homelab tutorials, and technical projects by Michael Saul",
+  "site": "https://saulutions.ca/",
+  "bytes": 6454,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/95/95fafc9945750aff615d9fcf181164958af1b7320d99d00d137dc27a9d66a337.json"
+}

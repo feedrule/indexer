@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>dynamodb feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Benoit Boure" title="Benoit Boure" xmlUrl="https://benoitboure.com/rss.xml" htmlUrl="https://benoitboure.com"/>
+    <outline type="rss" text="Jason Wadsworth" title="Jason Wadsworth" xmlUrl="https://jason.wadsworth.dev/feed.xml" htmlUrl="https://jason.wadsworth.dev/"/>
+    <outline type="rss" text="Martin Hicks - Journal" title="Martin Hicks - Journal" xmlUrl="https://martinhicks.dev/feed.xml" htmlUrl="https://martinhicks.dev/"/>
+    <outline type="rss" text="Nick's Blog" title="Nick's Blog" xmlUrl="https://spreen.co/rss.xml" htmlUrl="https://spreen.co/"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>floating-point feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="MBR" title="MBR" xmlUrl="http://marc-b-reynolds.github.io/feed.xml" htmlUrl="http://marc-b-reynolds.github.io"/>
+    <outline type="rss" text="vitaut.net" title="vitaut.net" xmlUrl="https://vitaut.net/index.xml" htmlUrl="https://vitaut.net/"/>
+    <outline type="rss" text="RyanJuckett.com" title="RyanJuckett.com" xmlUrl="https://www.ryanjuckett.com/feed.xml" htmlUrl="https://www.ryanjuckett.com"/>
+  </body>
+</opml>

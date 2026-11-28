@@ -1,0 +1,19 @@
+{
+  "url": "https://stfuelon.com/rss.xml",
+  "title": "STFU Elon - Alien Diary",
+  "subtitle": "The secret diary of Elon Musk, who is definitely not an alien from Mars.",
+  "site": "https://stfuelon.com",
+  "bytes": 33215,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "elon-musk"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fd/fd626f5d935997bf60c20e911428464bea9449d66dbc6321c273c6cb185c3ee2.json"
+}

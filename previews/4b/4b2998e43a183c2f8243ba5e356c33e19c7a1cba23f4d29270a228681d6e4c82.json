@@ -1,0 +1,22 @@
+{
+  "url": "https://pomcor.com/feed/",
+  "title": "Pomcor",
+  "subtitle": "Research on web and mobile technology",
+  "site": "https://pomcor.com",
+  "bytes": 115712,
+  "last": "2026-10-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "authentication",
+    "passkeys",
+    "security",
+    "cryptography"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4b/4b2998e43a183c2f8243ba5e356c33e19c7a1cba23f4d29270a228681d6e4c82.json"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.bencope.land/rss/",
+  "title": "bencope.land",
+  "subtitle": "bencope.land",
+  "site": "https://blog.bencope.land/",
+  "bytes": 137273,
+  "last": "2026-08-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "functional-programming",
+    "domain-driven-design",
+    "llm"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

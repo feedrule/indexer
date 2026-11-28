@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bgr.com/feed/",
+  "title": "BGR - Industry-Leading Insights In Tech And Entertainment",
+  "subtitle": "Expert analysis of the leading stories in tech and entertainment plus reviews of the latest gadgets.",
+  "site": "https://www.bgr.com/",
+  "bytes": 37200,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "smartphones",
+    "technology-trends"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c9/c9b71c1cffd9394ea6acba7dff365f7d4962eb639748249a2a59c277e06ca497.json"
+}

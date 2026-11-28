@@ -1,0 +1,20 @@
+{
+  "url": "https://dammit.nl/feeds/all.atom.xml",
+  "title": "dammIT",
+  "subtitle": "A rantbox by Michiel Scholten",
+  "site": "https://dammit.nl/",
+  "bytes": 100318,
+  "last": "2026-08-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "life",
+    "development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ziraph.com/blog/feed.xml",
+  "title": "Ziraph blog",
+  "subtitle": "Engineering notes from building a local AI profiler for Apple Silicon: real measurements, the methodology behind them, and honest limitations.",
+  "site": "https://ziraph.com/blog/",
+  "bytes": 4307,
+  "last": "2026-06-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "apple-silicon",
+    "apple-intelligence"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/50/50d39279c4dcc391d0083dd7a4fc4631c5e4d1dbc5985a7deb620ae64f9d72ca.json"
+}

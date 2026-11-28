@@ -1,0 +1,20 @@
+{
+  "url": "https://www.roads.org.uk/rss/updates.rss",
+  "title": "Roads.org.uk Updates",
+  "subtitle": "The latest updates to Roads.org.uk, straight to your desktop.",
+  "site": "https://www.roads.org.uk/",
+  "bytes": 19412,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "road",
+    "highway"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

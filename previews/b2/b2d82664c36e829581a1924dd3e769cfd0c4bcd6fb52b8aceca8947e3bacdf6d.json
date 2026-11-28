@@ -1,0 +1,20 @@
+{
+  "url": "https://perishablepress.com/feed/atom/",
+  "title": "Perishable Press",
+  "subtitle": "Web Dev + WordPress + Security",
+  "site": "https://perishablepress.com",
+  "bytes": 40596,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-security",
+    "wordpress"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b2/b2d82664c36e829581a1924dd3e769cfd0c4bcd6fb52b8aceca8947e3bacdf6d.json"
+}

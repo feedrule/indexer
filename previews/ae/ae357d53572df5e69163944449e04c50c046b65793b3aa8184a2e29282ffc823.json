@@ -1,0 +1,19 @@
+{
+  "url": "https://www.alexghr.me/rss.xml",
+  "title": "Alex Gherghisan",
+  "subtitle": "This is Alex's personal website",
+  "site": "https://www.alexghr.me",
+  "bytes": 1941,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ae/ae357d53572df5e69163944449e04c50c046b65793b3aa8184a2e29282ffc823.json"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gender feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="daily me" title="daily me" xmlUrl="https://dailyme.bearblog.dev/feed/" htmlUrl="https://dailyme.bearblog.dev/"/>
+    <outline type="rss" text="Growing Up Transgender" title="Growing Up Transgender" xmlUrl="https://growinguptransgender.com/feed/" htmlUrl="https://growinguptransgender.com"/>
+    <outline type="rss" text="la scapigliata" title="la scapigliata" xmlUrl="https://lascapigliata.com/feed/atom/" htmlUrl="https://lascapigliata.com"/>
+    <outline type="rss" text="The Beskirted Man" title="The Beskirted Man" xmlUrl="https://www.the-beskirted-man.com/feed/atom/" htmlUrl="https://www.the-beskirted-man.com"/>
+  </body>
+</opml>

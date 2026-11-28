@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>game-jam feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="JamBlog!" title="JamBlog!" xmlUrl="https://jamhamster.wordpress.com/feed/" htmlUrl="https://jamhamster.wordpress.com"/>
+    <outline type="rss" text="NoamZeise" title="NoamZeise" xmlUrl="https://noamzeise.com/feed.xml" htmlUrl="https://noamzeise.com/"/>
+    <outline type="rss" text="Polyhedral Nonsense" title="Polyhedral Nonsense" xmlUrl="https://polyhedralnonsense.com/feed/" htmlUrl="https://polyhedralnonsense.com"/>
+  </body>
+</opml>

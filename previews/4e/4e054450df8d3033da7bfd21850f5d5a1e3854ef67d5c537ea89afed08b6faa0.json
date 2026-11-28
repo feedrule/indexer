@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.lewman.com/feed.xml",
+  "title": "Hello Blog",
+  "subtitle": null,
+  "site": "https://blog.lewman.com",
+  "bytes": 129233,
+  "last": "2026-11-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "llm-evaluation",
+    "llm",
+    "ai-agents",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4e/4e054450df8d3033da7bfd21850f5d5a1e3854ef67d5c537ea89afed08b6faa0.json"
+}

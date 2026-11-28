@@ -1,0 +1,21 @@
+{
+  "url": "https://dandobrick.com/blog/feed.xml",
+  "title": "Dan’s Tech Blog",
+  "subtitle": "Very infrequent posts about whatever I have going on",
+  "site": "http://dandobrick.com/blog/",
+  "bytes": 79147,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql",
+    "ruby",
+    "woodworking"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

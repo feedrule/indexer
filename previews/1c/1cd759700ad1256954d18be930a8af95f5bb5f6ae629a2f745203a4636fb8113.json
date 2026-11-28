@@ -1,0 +1,21 @@
+{
+  "url": "https://www.goldderby.com/feed/",
+  "title": "Gold Derby",
+  "subtitle": "Predict Oscars, Emmys and reality TV races",
+  "site": "https://www.goldderby.com",
+  "bytes": 16678,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "academy-awards",
+    "oscars",
+    "television"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1c/1cd759700ad1256954d18be930a8af95f5bb5f6ae629a2f745203a4636fb8113.json"
+}

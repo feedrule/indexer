@@ -1,0 +1,20 @@
+{
+  "url": "https://steve.dignam.xyz/feed.xml",
+  "title": "Log Blog Kebab",
+  "subtitle": "A blog about software and everything that goes with it. Ideally informative.",
+  "site": "https://steve.dignam.xyz/",
+  "bytes": 118279,
+  "last": "2026-09-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "logging",
+    "logbook"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/77/771e5a82f423c37ee62481e646be6c4df79419eee65d4074bf8ec8eb46d5a099.json"
+}

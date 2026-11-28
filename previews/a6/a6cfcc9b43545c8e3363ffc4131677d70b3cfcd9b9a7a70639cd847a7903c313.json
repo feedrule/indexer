@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mozilla.org/feed/",
+  "title": "The Mozilla Blog",
+  "subtitle": "News and Updates about Mozilla",
+  "site": "https://blog.mozilla.org/en/",
+  "bytes": 163978,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mozilla",
+    "firefox"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a6/a6cfcc9b43545c8e3363ffc4131677d70b3cfcd9b9a7a70639cd847a7903c313.json"
+}

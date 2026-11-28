@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>thinking feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="andrewlb.com" title="andrewlb.com" xmlUrl="https://andrewlb.com/rss.xml" htmlUrl="https://andrewlb.com"/>
+    <outline type="rss" text="Decidedly Confused Thoughts" title="Decidedly Confused Thoughts" xmlUrl="https://arkoinad.com/rss.xml" htmlUrl="https://arkoinad.com"/>
+    <outline type="rss" text="Ness Labs" title="Ness Labs" xmlUrl="https://nesslabs.com/feed" htmlUrl="https://nesslabs.com/"/>
+    <outline type="rss" text="Slow Thoughts" title="Slow Thoughts" xmlUrl="https://slow-thoughts.com/feed/" htmlUrl="https://slow-thoughts.com"/>
+    <outline type="rss" text="Adam Trojanczyk" title="Adam Trojanczyk" xmlUrl="https://trojanczyk.eu/feed/" htmlUrl="https://trojanczyk.eu"/>
+    <outline type="rss" text="Heureka Labs" title="Heureka Labs" xmlUrl="https://www.heurekalabs.org/rss/" htmlUrl="https://www.heurekalabs.org/"/>
+  </body>
+</opml>

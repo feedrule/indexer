@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tailwind feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Fractaled Mind" title="Fractaled Mind" xmlUrl="https://fractaledmind.com/feed.xml" htmlUrl="https://fractaledmind.github.io/"/>
+    <outline type="rss" text="Harrison Broadbent — Blog" title="Harrison Broadbent — Blog" xmlUrl="https://harrisonbroadbent.com/feed.xml" htmlUrl="https://harrisonbroadbent.com"/>
+    <outline type="rss" text="Mariano Guerra's Log" title="Mariano Guerra's Log" xmlUrl="https://marianoguerra.leaflet.pub/atom" htmlUrl="https://marianoguerra.leaflet.pub"/>
+    <outline type="rss" text="qodesign blog" title="qodesign blog" xmlUrl="https://qodesign.dev/blog/rss.xml" htmlUrl="https://qodesign.dev/blog"/>
+    <outline type="rss" text="Articles by Sung M. Kim" title="Articles by Sung M. Kim" xmlUrl="https://www.sung.codes/rss.xml" htmlUrl="https://sung.codes"/>
+  </body>
+</opml>

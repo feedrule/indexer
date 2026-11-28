@@ -1,0 +1,19 @@
+{
+  "url": "https://keavi.app/blog/rss.xml",
+  "title": "Keavi writing",
+  "subtitle": "Essays and research from Keavi on building software with AI agents, with the numbers behind them.",
+  "site": "https://keavi.app/blog/",
+  "bytes": 1749,
+  "last": "2026-11-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-writing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b1/b10af2102cc930c5606f34934385b2464f81ad6f06c3d7c188167cb38fc37c95.json"
+}

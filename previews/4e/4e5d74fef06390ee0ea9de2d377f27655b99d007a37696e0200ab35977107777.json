@@ -1,0 +1,20 @@
+{
+  "url": "https://joshcollinsworth.com/api/rss.xml",
+  "title": "Josh Collinsworth",
+  "subtitle": "Josh Collinsworth's blog",
+  "site": "https://joshcollinsworth.com",
+  "bytes": 37830,
+  "last": "2026-10-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "design",
+    "web"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

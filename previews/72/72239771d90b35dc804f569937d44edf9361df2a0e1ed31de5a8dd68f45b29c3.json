@@ -1,0 +1,20 @@
+{
+  "url": "https://kobolt.no/rss.xml",
+  "title": "Kjetil's Information Center",
+  "subtitle": "A blog about my projects!",
+  "site": "http://kobolt.no/",
+  "bytes": 13052,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "emulation",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/72/72239771d90b35dc804f569937d44edf9361df2a0e1ed31de5a8dd68f45b29c3.json"
+}

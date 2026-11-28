@@ -1,0 +1,21 @@
+{
+  "url": "https://ahundredyearsago.com/feed/",
+  "title": "A Hundred Years Ago",
+  "subtitle": "Food and More",
+  "site": "https://ahundredyearsago.com",
+  "bytes": 50051,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "food-history",
+    "recipes",
+    "food"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/94/94fe3e5d57474e468573bd1194c868503aca23a48cdabad79b5cd409c3c43a54.json"
+}

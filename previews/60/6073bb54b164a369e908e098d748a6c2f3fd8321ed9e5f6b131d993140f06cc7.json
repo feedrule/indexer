@@ -1,0 +1,21 @@
+{
+  "url": "https://probablyfine.dev/rss.xml",
+  "title": "ProbablyFine",
+  "subtitle": "Homelab and SRE engineering write-ups. It's probably fine.",
+  "site": "https://probablyfine.dev",
+  "bytes": 6613,
+  "last": "2026-09-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab",
+    "ai",
+    "writing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/60/6073bb54b164a369e908e098d748a6c2f3fd8321ed9e5f6b131d993140f06cc7.json"
+}

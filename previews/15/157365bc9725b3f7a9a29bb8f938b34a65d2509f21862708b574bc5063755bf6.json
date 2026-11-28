@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mayer.tv/feed.xml",
+  "title": "hans mayer's weblog",
+  "subtitle": "here you can find this and that - probably most related to UNIX/Linux and network",
+  "site": "https://blog.mayer.tv/",
+  "bytes": 91811,
+  "last": "2026-07-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gps",
+    "gnss"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/15/157365bc9725b3f7a9a29bb8f938b34a65d2509f21862708b574bc5063755bf6.json"
+}

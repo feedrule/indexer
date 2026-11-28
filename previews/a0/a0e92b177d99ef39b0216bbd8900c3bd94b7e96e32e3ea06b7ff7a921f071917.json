@@ -1,0 +1,20 @@
+{
+  "url": "https://slidemagic.com/blog?format=rss",
+  "title": "SlideMagic Blog",
+  "subtitle": "Frequent updates about all things presentations since 2008.",
+  "site": "https://slidemagic.com/blog",
+  "bytes": 80672,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a0/a0e92b177d99ef39b0216bbd8900c3bd94b7e96e32e3ea06b7ff7a921f071917.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://cosmastech.com/feed",
+  "title": "cosmastech",
+  "subtitle": "Thoughts and tutorials on open-source with a focus on PHP/Laravel",
+  "site": "https://cosmastech.com/",
+  "bytes": 150135,
+  "last": "2026-07-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel",
+    "php",
+    "middleware"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://api.theregister.com/api/v1/article?orderBy=published&site_id=2&remapper=rss&content=node",
+  "title": "www.theregister.com - Articles",
+  "subtitle": "Articles from www.theregister.com",
+  "site": "https://www.theregister.com",
+  "bytes": 288114,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

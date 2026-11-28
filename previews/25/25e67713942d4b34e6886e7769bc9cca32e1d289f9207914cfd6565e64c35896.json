@@ -1,0 +1,19 @@
+{
+  "url": "https://thehockeywriters.com/feed/",
+  "title": "The Hockey Writers",
+  "subtitle": "NHL News, Schedules, Lineups, Insight, Analysis",
+  "site": "https://thehockeywriters.com/",
+  "bytes": 10437,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nhl"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/25/25e67713942d4b34e6886e7769bc9cca32e1d289f9207914cfd6565e64c35896.json"
+}

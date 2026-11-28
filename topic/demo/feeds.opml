@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>demo feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Fulcrum : Demo Collective" title="Fulcrum : Demo Collective" xmlUrl="http://www.fulcrum-demo.org/feed/" htmlUrl="http://www.fulcrum-demo.org"/>
+    <outline type="rss" text="Indie Dev Stories" title="Indie Dev Stories" xmlUrl="https://indiedevstories.com/feed/" htmlUrl="https://indiedevstories.com"/>
+    <outline type="rss" text="The return to something insignificant" title="The return to something insignificant" xmlUrl="https://ree.bearblog.dev/rss.xml" htmlUrl="https://ree.bearblog.dev/"/>
+  </body>
+</opml>

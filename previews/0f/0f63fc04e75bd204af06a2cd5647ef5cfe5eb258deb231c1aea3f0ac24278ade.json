@@ -1,0 +1,22 @@
+{
+  "url": "http://blog.sigfpe.com/atom.xml",
+  "title": "A Neighborhood of Infinity",
+  "subtitle": null,
+  "site": "http://blog.sigfpe.com/",
+  "bytes": 448620,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "functional-programming",
+    "type-systems",
+    "monads"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0f/0f63fc04e75bd204af06a2cd5647ef5cfe5eb258deb231c1aea3f0ac24278ade.json"
+}

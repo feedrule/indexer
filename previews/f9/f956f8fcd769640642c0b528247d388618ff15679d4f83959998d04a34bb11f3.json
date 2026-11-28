@@ -1,0 +1,20 @@
+{
+  "url": "https://www.thenewestrant.com/atom.xml",
+  "title": "The Newest Rant",
+  "subtitle": "All the news that's unfit to print",
+  "site": "https://www.thenewestrant.com/",
+  "bytes": 365477,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "comics",
+    "news"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f9/f956f8fcd769640642c0b528247d388618ff15679d4f83959998d04a34bb11f3.json"
+}

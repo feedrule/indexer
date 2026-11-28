@@ -1,0 +1,20 @@
+{
+  "url": "https://spreen.co/rss.xml",
+  "title": "Nick's Blog",
+  "subtitle": "Nick Spreen",
+  "site": "https://spreen.co/",
+  "bytes": 5229,
+  "last": "2026-05-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws",
+    "dynamodb"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/89/8964d6b95bc5d0a3995fe31a40a02cecccd95b3b9fd10f2cd764cd02febf3f79.json"
+}

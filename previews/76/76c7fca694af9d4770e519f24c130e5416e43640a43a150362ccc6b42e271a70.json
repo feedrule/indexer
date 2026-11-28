@@ -1,0 +1,20 @@
+{
+  "url": "https://dergigi.com/feed.xml",
+  "title": "dergigi.com",
+  "subtitle": "Thoughts about Bitcoin and other things.",
+  "site": "https://dergigi.com",
+  "bytes": 3214514,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "writing",
+    "bitcoin"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/76/76c7fca694af9d4770e519f24c130e5416e43640a43a150362ccc6b42e271a70.json"
+}

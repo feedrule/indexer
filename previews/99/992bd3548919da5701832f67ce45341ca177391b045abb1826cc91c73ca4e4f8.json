@@ -1,0 +1,20 @@
+{
+  "url": "https://bertptrs.nl/feed.xml",
+  "title": "bertptrs.nl",
+  "subtitle": "My name is Bert Peters and I'm a software developer/computer enthusiast/nerd. I write articles and create demos about technology and miscellaneous items that strike my fancy, and I fail to hide my love for Rust.",
+  "site": "https://bertptrs.nl/",
+  "bytes": 556662,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust",
+    "advent-of-code"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/99/992bd3548919da5701832f67ce45341ca177391b045abb1826cc91c73ca4e4f8.json"
+}

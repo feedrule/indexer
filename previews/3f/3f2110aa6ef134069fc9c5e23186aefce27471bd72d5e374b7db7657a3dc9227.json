@@ -1,0 +1,21 @@
+{
+  "url": "https://english.dvb.no/feed/",
+  "title": "DVB",
+  "subtitle": "Democratic Voice of Burma",
+  "site": "https://english.dvb.no/",
+  "bytes": 62755,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "burma",
+    "myanmar",
+    "genocide"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

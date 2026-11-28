@@ -1,0 +1,22 @@
+{
+  "url": "https://fieldquestions.com/feed/",
+  "title": "fieldquestions",
+  "subtitle": "The rest of the story on food, farming and biotechnology",
+  "site": "https://fieldquestions.com",
+  "bytes": 291090,
+  "last": "2026-02-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "agriculture",
+    "crops",
+    "biotechnology",
+    "food"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/16/168f9d4d26a795c06f0b83a0b5a35ffa10e275debd3bdcf5c20694dc5237a07f.json"
+}

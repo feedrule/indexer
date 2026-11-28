@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hackingwithswift.com/articles/rss",
+  "title": "Hacking with Swift",
+  "subtitle": "News, tips, and tutorials from Hacking with Swift",
+  "site": "https://www.hackingwithswift.com/articles/rss",
+  "bytes": 58042,
+  "last": "2026-05-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swift",
+    "swiftui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b5/b506698e09875ca3d0d734e4b9243af251376a1a53e89b27cd33d9749ec421e1.json"
+}

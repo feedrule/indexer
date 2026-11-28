@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sensors feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="blog" title="blog" xmlUrl="https://flashgamer.com/feeds/atom" htmlUrl="https://flashgamer.com/index.php"/>
+    <outline type="rss" text="Underwater Arduino Data Loggers" title="Underwater Arduino Data Loggers" xmlUrl="https://thecavepearlproject.org/feed/" htmlUrl="https://thecavepearlproject.org"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.estragon.news/rss/",
+  "title": "Estragon",
+  "subtitle": "A newsletter on society, culture, and technology.",
+  "site": "https://www.estragon.news/",
+  "bytes": 194432,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "news"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8a/8aad1cf52284ea34e7e8a3eec4a096221a3afc9ef824b69929665bcdfb6b34c8.json"
+}

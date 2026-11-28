@@ -1,0 +1,20 @@
+{
+  "url": "https://mmofallout.com/feed/",
+  "title": "MMO Fallout",
+  "subtitle": "MMO news, editorials, and more.",
+  "site": "https://mmofallout.com",
+  "bytes": 38020,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mmorpg",
+    "news"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7e/7e46e60c17d0186be6e0b2b967c869d1528954beb00fa49ae2b7e946840eb223.json"
+}

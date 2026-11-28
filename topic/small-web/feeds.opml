@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>small-web feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Andros Fenollosa Blog" title="Andros Fenollosa Blog" xmlUrl="https://en.andros.dev/blog/feed/en/" htmlUrl="http://en.andros.dev/blog/feed/en/"/>
+    <outline type="rss" text="grdw" title="grdw" xmlUrl="https://grdw.nl/feed.xml" htmlUrl="https://grdw.nl/"/>
+    <outline type="rss" text="Stefan Bohacek's Personal Website and Blog" title="Stefan Bohacek's Personal Website and Blog" xmlUrl="https://stefanbohacek.com/feed/" htmlUrl="https://stefanbohacek.com"/>
+  </body>
+</opml>

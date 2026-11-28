@@ -1,0 +1,19 @@
+{
+  "url": "https://seanmonstar.com/rss/",
+  "title": "seanmonstar",
+  "subtitle": "My name is Sean McArthur, and here I blabber on about Rust, networking, open source, and a better web.",
+  "site": "https://seanmonstar.com/",
+  "bytes": 221204,
+  "last": "2026-10-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "http"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

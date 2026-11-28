@@ -1,0 +1,21 @@
+{
+  "url": "https://juju-chu.com/blog/feed.xml",
+  "title": "Juju-chu! Blog",
+  "subtitle": "Notes on Jujutsu, agentic coding, and the making of Juju-chu!",
+  "site": "https://juju-chu.com/blog",
+  "bytes": 86087,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "jujutsu",
+    "git",
+    "ai-coding-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2e/2ed2f3b3c21b464532129a4632f3afd9cb26f426b2488f6d8c5c5eeb3e41870c.json"
+}

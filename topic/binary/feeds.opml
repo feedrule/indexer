@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>binary feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Blog on weineng" title="Blog on weineng" xmlUrl="https://blog.weineng.me/index.xml" htmlUrl="https://blog.weineng.me/"/>
+    <outline type="rss" text="C For Dummies Blog" title="C For Dummies Blog" xmlUrl="https://c-for-dummies.com/blog/?feed=rss2" htmlUrl="https://c-for-dummies.com/blog"/>
+    <outline type="rss" text="Beth Diamond" title="Beth Diamond" xmlUrl="https://e-diamond.github.io/blog.xml" htmlUrl="https://e-diamond.github.io/"/>
+    <outline type="rss" text="orlp.net - Blog Archive" title="orlp.net - Blog Archive" xmlUrl="https://orlp.net/blog/atom.xml" htmlUrl="https://orlp.net/blog/"/>
+    <outline type="rss" text="MIN&lt;MAX&amp; WE | L XL XXL" title="MIN&lt;MAX&amp; WE | L XL XXL" xmlUrl="https://rumaxwell.bearblog.dev/feed/" htmlUrl="https://rumaxwell.bearblog.dev/"/>
+    <outline type="rss" text="John Tromp's Blog" title="John Tromp's Blog" xmlUrl="https://tromp.github.io/blog/atom.xml" htmlUrl="http://tromp.github.io/blog"/>
+  </body>
+</opml>

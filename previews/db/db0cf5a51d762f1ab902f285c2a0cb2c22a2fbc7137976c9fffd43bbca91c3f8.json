@@ -1,0 +1,21 @@
+{
+  "url": "https://dawidmakowski.com/en/feed/",
+  "title": "Dawid Makowski",
+  "subtitle": "Personal Blog",
+  "site": "https://dawidmakowski.com",
+  "bytes": 293454,
+  "last": "2026-07-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "ai",
+    "technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/db/db0cf5a51d762f1ab902f285c2a0cb2c22a2fbc7137976c9fffd43bbca91c3f8.json"
+}

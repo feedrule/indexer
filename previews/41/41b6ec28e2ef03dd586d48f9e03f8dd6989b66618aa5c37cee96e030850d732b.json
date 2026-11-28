@@ -1,0 +1,21 @@
+{
+  "url": "https://osandamalith.com/feed/",
+  "title": "🔐Blog of Osanda",
+  "subtitle": "Security Researching and Reverse Engineering",
+  "site": "https://osandamalith.com",
+  "bytes": 209815,
+  "last": "2026-07-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "reverse-engineering",
+    "exploit",
+    "malware"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/41/41b6ec28e2ef03dd586d48f9e03f8dd6989b66618aa5c37cee96e030850d732b.json"
+}

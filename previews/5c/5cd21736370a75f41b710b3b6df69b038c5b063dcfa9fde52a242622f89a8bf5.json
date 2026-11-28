@@ -1,0 +1,22 @@
+{
+  "url": "https://milos.fyi/rss.xml",
+  "title": "Miloš Milanović",
+  "subtitle": "Latest blog posts",
+  "site": "https://milos.fyi/",
+  "bytes": 10673,
+  "last": "2026-11-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web",
+    "tools",
+    "apple",
+    "networking"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5c/5cd21736370a75f41b710b3b6df69b038c5b063dcfa9fde52a242622f89a8bf5.json"
+}

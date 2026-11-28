@@ -1,0 +1,19 @@
+{
+  "url": "https://tuesdaytriage.com/feed.xml",
+  "title": "Tuesday Triage",
+  "subtitle": "Your crème de la crème of the Internet, curated weekly by Vadim Drobinin",
+  "site": "https://tuesdaytriage.com/",
+  "bytes": 64529,
+  "last": "2026-01-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "triage"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fb/fb076ebb22744128368d945804518f9fe67fc4a7d65d5f4c529d3fe5e3bb84b1.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://news.freshports.org/feed/",
+  "title": "FreshPorts News",
+  "subtitle": "News and announcements regarding FreshPorts, The Place For Ports",
+  "site": "https://news.freshports.org",
+  "bytes": 11525,
+  "last": "2026-11-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "port"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

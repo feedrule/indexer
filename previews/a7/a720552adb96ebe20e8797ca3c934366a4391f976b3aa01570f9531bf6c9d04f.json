@@ -1,0 +1,21 @@
+{
+  "url": "https://devblogs.microsoft.com/dotnet/feed/",
+  "title": ".NET Blog",
+  "subtitle": "Free. Cross-platform. Open source. A developer platform for building all your apps.",
+  "site": "https://devblogs.microsoft.com/dotnet/",
+  "bytes": 118796,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "aspnet",
+    "open-source"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

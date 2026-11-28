@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>email feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Email is good." title="Email is good." xmlUrl="http://email-is-good.com/feed/" htmlUrl="https://email-is-good.com"/>
+    <outline type="rss" text="@Anna’s" title="@Anna’s" xmlUrl="https://annanorris.ca/index.xml" htmlUrl="https://annanorris.ca/https://annanorris.ca/"/>
+    <outline type="rss" text="Email is good." title="Email is good." xmlUrl="https://email-is-good.com/feed/atom/" htmlUrl="https://email-is-good.com"/>
+    <outline type="rss" text="Anna's notepad" title="Anna's notepad" xmlUrl="https://notes.slipperysnail.com/feed/" htmlUrl="https://notes.slipperysnail.com/"/>
+  </body>
+</opml>

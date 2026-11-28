@@ -1,0 +1,21 @@
+{
+  "url": "https://tomsbiketrip.com/feed/",
+  "title": "Tom’s Bike Trip",
+  "subtitle": "Adventures and experiments in two-wheeled travel since 2006",
+  "site": "https://tomsbiketrip.com/",
+  "bytes": 103141,
+  "last": "2026-08-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cycling",
+    "road-trip",
+    "bikepacking"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/07/07274bd9b1241b70340a4318ef508ac9c75ca46676a736d3978f9fef44253e75.json"
+}

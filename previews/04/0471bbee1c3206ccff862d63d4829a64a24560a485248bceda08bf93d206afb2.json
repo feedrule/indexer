@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.taadeem.net/rss.xml",
+  "title": "blog",
+  "subtitle": "blog - Damien Clochard",
+  "site": "https://blog.taadeem.net/",
+  "bytes": 397875,
+  "last": "2026-11-18",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "topics": [
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

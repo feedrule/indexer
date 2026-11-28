@@ -1,0 +1,19 @@
+{
+  "url": "https://baas.aas.org/rss.xml",
+  "title": "Bulletin of the AAS",
+  "subtitle": "The Bulletin of the American Astronomical Society (BAAS).",
+  "site": "https://baas.aas.org",
+  "bytes": 31483,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "astronomy"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/92/927b3f035d4b502bdbff2ba36f8dbb1b60b1a0da3de80faa742211784fda1655.json"
+}

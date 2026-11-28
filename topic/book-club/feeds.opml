@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>book-club feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Alex" title="Alex" xmlUrl="https://alexsirac.com/feed/atom/" htmlUrl="https://alexsirac.com"/>
+    <outline type="rss" text="Statamic" title="Statamic" xmlUrl="https://curtismchale.ca/feed" htmlUrl="https://curtismchale.ca"/>
+    <outline type="rss" text="dear friend," title="dear friend," xmlUrl="https://dustwebbings.bearblog.dev/feed/" htmlUrl="https://dustwebbings.bearblog.dev/"/>
+    <outline type="rss" text="Ian Wold" title="Ian Wold" xmlUrl="https://ian.wold.guru/feed.xml" htmlUrl="https://ian.wold.guru/"/>
+    <outline type="rss" text="Trout Nation" title="Trout Nation" xmlUrl="https://jennytrout.com/?feed=rss2" htmlUrl="https://jennytrout.com"/>
+    <outline type="rss" text="Entropy Arbitrage" title="Entropy Arbitrage" xmlUrl="https://john.colagioia.net/blog/feed.xml" htmlUrl="https://john.colagioia.net/blog/"/>
+    <outline type="rss" text="Rebecca Weekly" title="Rebecca Weekly" xmlUrl="https://rebeccaweekly.com/feed/" htmlUrl="https://rebeccaweekly.com"/>
+  </body>
+</opml>

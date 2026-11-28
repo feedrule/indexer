@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.horner.io/feed/",
+  "title": "Florian Horner Blog",
+  "subtitle": "Notes on AI-native engineering, agent orchestration, operating rules, and home automation.",
+  "site": "https://blog.horner.io/",
+  "bytes": 126052,
+  "last": "2026-08-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-engineering",
+    "smart-home",
+    "home-assistant"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

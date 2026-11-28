@@ -1,0 +1,20 @@
+{
+  "url": "https://purplesyringa.moe/blog/feed.rss",
+  "title": "purplesyringa's blog",
+  "subtitle": "Posts from purplesyringa's blog.",
+  "site": "https://purplesyringa.moe/blog/",
+  "bytes": 106830,
+  "last": "2026-10-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "bytecode"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d4/d4a263a7f0ebedc13c079db86d06830fcf45c9adfadac1347a232ca2df6031ba.json"
+}

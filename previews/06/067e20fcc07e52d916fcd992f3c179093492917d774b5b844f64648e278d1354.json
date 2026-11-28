@@ -1,0 +1,22 @@
+{
+  "url": "https://slack.engineering/feed",
+  "title": "Engineering at Slack",
+  "subtitle": "Hear directly from Slack's engineers about what we build, why and how we build it, and how you can use it.",
+  "site": "https://slack.engineering",
+  "bytes": 229643,
+  "last": "2026-07-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "slack",
+    "infrastructure",
+    "software-engineering",
+    "aws"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://boschko.ca/rss/",
+  "title": "Boschko Security Blog",
+  "subtitle": "Thoughts, stories and ideas.",
+  "site": "https://boschko.ca/",
+  "bytes": 1085841,
+  "last": "2026-08-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hardware-hacking",
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5f/5f33bcc74c77f53a023bf01239977e6d0a901dbcb648d1d6b2a6c6378476850b.json"
+}

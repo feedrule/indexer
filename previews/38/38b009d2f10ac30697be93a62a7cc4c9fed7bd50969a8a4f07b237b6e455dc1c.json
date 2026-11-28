@@ -1,0 +1,19 @@
+{
+  "url": "http://feeds.feedburner.com/KrebsOnSecurity",
+  "title": "Krebs on Security",
+  "subtitle": "In-depth security news and investigation",
+  "site": "https://krebsonsecurity.com",
+  "bytes": 125233,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacker-news"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/38/38b009d2f10ac30697be93a62a7cc4c9fed7bd50969a8a4f07b237b6e455dc1c.json"
+}

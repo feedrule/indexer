@@ -1,0 +1,20 @@
+{
+  "url": "https://www.die-welt.net/rss.xml",
+  "title": "die-welt.net",
+  "subtitle": "a broken world by Evgeni Golov",
+  "site": "https://www.die-welt.net/",
+  "bytes": 139580,
+  "last": "2026-03-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "planet-debian",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b9/b94777d12162dd85d28d81343d40c5fd0a8dd01e3f3af1dcadbf18e64e179341.json"
+}

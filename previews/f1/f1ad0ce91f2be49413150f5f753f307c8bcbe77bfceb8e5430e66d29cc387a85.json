@@ -1,0 +1,21 @@
+{
+  "url": "http://targuman.org/feed/",
+  "title": "Targuman",
+  "subtitle": "Translating my thoughts into words.",
+  "site": "http://targuman.org",
+  "bytes": 79681,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "sermon",
+    "poetry",
+    "christianity"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f1/f1ad0ce91f2be49413150f5f753f307c8bcbe77bfceb8e5430e66d29cc387a85.json"
+}

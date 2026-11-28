@@ -1,0 +1,19 @@
+{
+  "url": "https://denvaar.dev/rss.xml",
+  "title": "denvaar's website",
+  "subtitle": "denvaar's personal site. Most of the content is on software development and computer programming. However, other one-off topics are in the mix.",
+  "site": "https://denvaar.dev",
+  "bytes": 15223,
+  "last": "2026-04-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c1/c1591ce0c1b3a2142489aaff984796786783c9f6b16ba415aa3abbe5df353c88.json"
+}

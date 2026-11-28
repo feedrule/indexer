@@ -1,0 +1,21 @@
+{
+  "url": "https://www.goodcarbadcar.net/feed/",
+  "title": "GCBC",
+  "subtitle": "Automotive Sales Data and Statistics",
+  "site": "https://www.goodcarbadcar.net",
+  "bytes": 130542,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cars",
+    "bmw",
+    "tesla"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/38/3845c1226db47d17ce3878c0f6c21f710bc4ade52018faff6e836fbefd5e2bcb.json"
+}

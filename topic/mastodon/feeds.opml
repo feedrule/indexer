@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mastodon feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Mark's Project Blog" title="Mark's Project Blog" xmlUrl="https://blog.fixermark.com/index.xml" htmlUrl="https://blog.fixermark.com/"/>
+    <outline type="rss" text="Mastodon Blog" title="Mastodon Blog" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/"/>
+    <outline type="rss" text="Kevin O'Brien's Orthodontic Blog" title="Kevin O'Brien's Orthodontic Blog" xmlUrl="https://kevinobrienorthoblog.com/feed/" htmlUrl="https://kevinobrienorthoblog.com"/>
+    <outline type="rss" text="Lisa Melton" title="Lisa Melton" xmlUrl="https://lisamelton.net/feed/" htmlUrl="https://lisamelton.net"/>
+    <outline type="rss" text="Network Effects" title="Network Effects" xmlUrl="https://networkeffects.ca/?feed=rss2" htmlUrl="https://networkeffects.ca"/>
+    <outline type="rss" text="Shlee" title="Shlee" xmlUrl="https://shlee.fedipress.au/feed/atom/" htmlUrl="https://shlee.fedipress.au"/>
+    <outline type="rss" text="StusArticles.com - Writings by @stuartml - Social Networking" title="StusArticles.com - Writings by @stuartml - Social Networking" xmlUrl="https://stusarticles.com/atom/?section=social-networking" htmlUrl="https://stusarticles.com/"/>
+  </body>
+</opml>

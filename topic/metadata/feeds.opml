@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>metadata feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Recent Commits to compat:main" title="Recent Commits to compat:main" xmlUrl="https://github.com/whatwg/compat/commits/main.atom" htmlUrl="https://github.com/whatwg/compat/commits/main"/>
+    <outline type="rss" text="Recent Commits to console:main" title="Recent Commits to console:main" xmlUrl="https://github.com/whatwg/console/commits/main.atom" htmlUrl="https://github.com/whatwg/console/commits/main"/>
+    <outline type="rss" text="Recent Commits to fs:main" title="Recent Commits to fs:main" xmlUrl="https://github.com/whatwg/fs/commits/main.atom" htmlUrl="https://github.com/whatwg/fs/commits/main"/>
+    <outline type="rss" text="Recent Commits to storage:main" title="Recent Commits to storage:main" xmlUrl="https://github.com/whatwg/storage/commits/main.atom" htmlUrl="https://github.com/whatwg/storage/commits/main"/>
+    <outline type="rss" text="Recent Commits to xhr:main" title="Recent Commits to xhr:main" xmlUrl="https://github.com/whatwg/xhr/commits/main.atom" htmlUrl="https://github.com/whatwg/xhr/commits/main"/>
+    <outline type="rss" text="inkdroid" title="inkdroid" xmlUrl="https://inkdroid.org/feed.xml" htmlUrl="https://inkdroid.org/"/>
+    <outline type="rss" text="Qlik Dork" title="Qlik Dork" xmlUrl="https://qlikdork.com/feed/" htmlUrl="https://qlikdork.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>panorama feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Callan's RSS Feed" title="Callan's RSS Feed" xmlUrl="https://callan101.com/feed.xml" htmlUrl="https://callan101.com/feed.xml"/>
+    <outline type="rss" text="Da blogt er" title="Da blogt er" xmlUrl="https://dablogter.blogspot.com/feeds/posts/default" htmlUrl="https://dablogter.blogspot.com/"/>
+    <outline type="rss" text="Look, Think, Make" title="Look, Think, Make" xmlUrl="https://elfnor.com/feed.xml" htmlUrl="https://elfnor.com//"/>
+  </body>
+</opml>

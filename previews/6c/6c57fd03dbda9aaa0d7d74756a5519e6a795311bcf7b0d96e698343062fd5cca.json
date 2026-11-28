@@ -1,0 +1,21 @@
+{
+  "url": "https://api.cogley.jp/feed.xml",
+  "title": "Rick Cogley",
+  "subtitle": "Tech, business, Japan. Building things on Cloudflare.",
+  "site": "https://cogley.jp",
+  "bytes": 45707,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "microsoft",
+    "sharepoint",
+    "technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

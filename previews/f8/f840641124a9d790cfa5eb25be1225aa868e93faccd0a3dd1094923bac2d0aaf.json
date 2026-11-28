@@ -1,0 +1,21 @@
+{
+  "url": "https://artieficr.com/rss.xml",
+  "title": "Artieficr",
+  "subtitle": "Artie’s blog: articles, stories, drawings and project updates.",
+  "site": "https://artieficr.com/blog",
+  "bytes": 25715,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "inktober",
+    "art",
+    "indieweb"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f8/f840641124a9d790cfa5eb25be1225aa868e93faccd0a3dd1094923bac2d0aaf.json"
+}

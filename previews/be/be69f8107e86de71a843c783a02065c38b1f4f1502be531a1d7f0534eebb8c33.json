@@ -1,0 +1,21 @@
+{
+  "url": "https://smittenkitchen.com/feed/atom/",
+  "title": "smitten kitchen",
+  "subtitle": "Fearless cooking from a tiny NYC kitchen.",
+  "site": "https://smittenkitchen.com",
+  "bytes": 71142,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "recipes",
+    "vegetarian",
+    "cake"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/be/be69f8107e86de71a843c783a02065c38b1f4f1502be531a1d7f0534eebb8c33.json"
+}

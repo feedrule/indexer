@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ganneff.de/atom.xml",
+  "title": "Ganneff's Little Blog",
+  "subtitle": "Thoughts of a small and very unimportant Debian Developer",
+  "site": "https://blog.ganneff.de/",
+  "bytes": 88116,
+  "last": "2026-04-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debian",
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

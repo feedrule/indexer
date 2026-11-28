@@ -1,0 +1,19 @@
+{
+  "url": "https://updates.microcosm.blue/atom",
+  "title": "microcosm",
+  "subtitle": "Updates, announcements, and other news from microcosm",
+  "site": "https://updates.microcosm.blue",
+  "bytes": 150520,
+  "last": "2026-08-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "microblog"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

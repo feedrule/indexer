@@ -1,0 +1,21 @@
+{
+  "url": "https://malwaretech.com/feed.xml",
+  "title": "MalwareTech",
+  "subtitle": "A mix of in-depth nuanced takes on current events and highly technical original research by Marcus Hutchins. I cover a wide array of topics such as vulnerability research, threat intelligence, national security, reverse engineering, and Windows internals.",
+  "site": "https://malwaretech.com/",
+  "bytes": 10134,
+  "last": "2026-09-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "malware",
+    "security",
+    "vulnerability-research"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2c/2cc940d08467b2286c3d6d799afaa95171950f710997bd00bd5439a7389a20a6.json"
+}

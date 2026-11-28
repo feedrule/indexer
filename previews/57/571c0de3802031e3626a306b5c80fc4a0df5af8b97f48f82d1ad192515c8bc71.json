@@ -1,0 +1,23 @@
+{
+  "url": "https://karolgalanciak.com/feed.xml",
+  "title": "Karol Galanciak",
+  "subtitle": "I help founders turn growth plans into product direction, the right team, and working software - and lead the changes alongside them.",
+  "site": "https://karolgalanciak.com/",
+  "bytes": 276576,
+  "last": "2026-09-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "microservices",
+    "distributed-systems",
+    "kafka",
+    "postgresql",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/57/571c0de3802031e3626a306b5c80fc4a0df5af8b97f48f82d1ad192515c8bc71.json"
+}

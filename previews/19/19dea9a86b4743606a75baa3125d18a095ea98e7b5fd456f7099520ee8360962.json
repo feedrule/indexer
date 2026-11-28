@@ -1,0 +1,23 @@
+{
+  "url": "https://letsbuild.cloud/feed.xml",
+  "title": "LetsBuild.cloud",
+  "subtitle": "Notes on building software, shipping it, and the engineering practices in between — by Simon Bracegirdle, a software engineer in Perth, Western Australia.",
+  "site": "https://letsbuild.cloud/",
+  "bytes": 10648,
+  "last": "2026-09-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "infrastructure-as-code",
+    "software",
+    "cicd",
+    "cloudformation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

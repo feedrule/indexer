@@ -1,0 +1,19 @@
+{
+  "url": "https://hellostu.xyz/rss-feed.xml",
+  "title": "HelloStu - Posts",
+  "subtitle": "Latest posts from Stuart Mackenzie. Feed contains post content with images and interactive elements removed for improved readability in RSS readers.",
+  "site": "https://hellostu.xyz/",
+  "bytes": 413793,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "weeknotes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/70/701bfa2cc15bf0b44876cf45715fc3c0bfa6bf4c76e8a2eecafab224eee582fd.json"
+}

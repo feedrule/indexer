@@ -1,0 +1,20 @@
+{
+  "url": "https://infrastructure-as-code.com/feed.xml",
+  "title": "Infrastructure as Code",
+  "subtitle": "Website to share content for the O'Reilly book Infrastructure as Code, whose topics include cloud architecture, infrastructure design, infrastructure codebase management, infrastructure delivery lifecycle and workflows, infrastructure automation tools, infrastructure platforms, and infrastructure orchestration. Composable infrastructure is a particularly recommended approach. The site includes guidance, principles, patterns, practices, examples, and techniques.",
+  "site": "https://infrastructure-as-code.com/",
+  "bytes": 107846,
+  "last": "2026-07-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "infrastructure-as-code",
+    "software-delivery"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f3/f32adf27fd498d59cc877c5925635102621ea107490a359c8fc5aa772ca92230.json"
+}

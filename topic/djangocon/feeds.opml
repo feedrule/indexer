@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>djangocon feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Lily's Blog" title="Lily's Blog" xmlUrl="https://blog.lilyf.org/index.xml" htmlUrl="https://blog.lilyf.org/"/>
+    <outline type="rss" text="Anže's Blog" title="Anže's Blog" xmlUrl="https://blog.pecar.me/feed.xml" htmlUrl="http://blog.pecar.me/"/>
+    <outline type="rss" text="Chi Shang Cheng" title="Chi Shang Cheng" xmlUrl="https://cscheng.info/feed.xml" htmlUrl="https://cscheng.info/"/>
+    <outline type="rss" text="Efe Öge" title="Efe Öge" xmlUrl="https://efe.me/rss.xml" htmlUrl="https://efe.me/"/>
+    <outline type="rss" text="Andre Borie" title="Andre Borie" xmlUrl="https://journal.rjevski.io/feed" htmlUrl="https://journal.rjevski.io"/>
+    <outline type="rss" text="Shen’s Blog" title="Shen’s Blog" xmlUrl="https://shenli.dev/feed.xml" htmlUrl="https://shenli.dev/"/>
+    <outline type="rss" text="Will Vincent" title="Will Vincent" xmlUrl="https://wsvincent.com/feed.xml" htmlUrl="https://wsvincent.com/"/>
+    <outline type="rss" text="James Beith" title="James Beith" xmlUrl="https://www.jamesbeith.co.uk/feed.xml" htmlUrl="https://www.jamesbeith.co.uk/"/>
+    <outline type="rss" text="Paolo Melchiorre" title="Paolo Melchiorre" xmlUrl="https://www.paulox.net/feed.xml" htmlUrl="https://www.paulox.net/"/>
+  </body>
+</opml>

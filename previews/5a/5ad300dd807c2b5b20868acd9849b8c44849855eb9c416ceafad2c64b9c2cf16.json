@@ -1,0 +1,19 @@
+{
+  "url": "https://nicolasbouliane.com/recipes/feed.rss",
+  "title": "Nicolas Bouliane's recipes",
+  "subtitle": "Nicolas Bouliane's most recent recipes",
+  "site": "https://nicolasbouliane.com/recipes",
+  "bytes": 21134,
+  "last": "2026-06-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "recipes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5a/5ad300dd807c2b5b20868acd9849b8c44849855eb9c416ceafad2c64b9c2cf16.json"
+}

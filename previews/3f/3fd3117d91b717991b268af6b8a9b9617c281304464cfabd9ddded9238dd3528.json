@@ -1,0 +1,19 @@
+{
+  "url": "https://www.calvinbarker.com/rss",
+  "title": "My Portfolio",
+  "subtitle": "This is my portfolio RSS feed",
+  "site": "https://portfolio-blog-starter.vercel.app",
+  "bytes": 2185,
+  "last": "2025-12-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "portfolio"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://petebachant.me/feed.xml",
+  "title": "petebachant.me",
+  "subtitle": "My personal website",
+  "site": "https://petebachant.me/",
+  "bytes": 212355,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "reproducibility",
+    "open-science"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/db/dbf698c9aa0aa20ad84cc1f1a85fe55f1e76a641e6e56bea58001b8f7c593f5e.json"
+}

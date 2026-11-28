@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.davidmoll.net/feed.xml",
+  "title": "David Moll's blog",
+  "subtitle": "I am writing about whatever is on my mind",
+  "site": "https://blog.davidmoll.net",
+  "bytes": 13493,
+  "last": "2026-01-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel",
+    "web-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fe/fedc9ab3f99124f1eb2e338d904210b311852d2de537f2723117b08cd81c995b.json"
+}

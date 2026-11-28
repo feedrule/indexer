@@ -1,0 +1,21 @@
+{
+  "url": "https://maximilian-schwarzmueller.com/articles/rss.xml",
+  "title": "Maximilian Schwarzmüller Articles",
+  "subtitle": "Posts, thoughts and tutorials by Maximilian Schwarzmüller",
+  "site": "https://maximilian-schwarzmueller.com",
+  "bytes": 15472,
+  "last": "2026-05-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "backend",
+    "web-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/85/85c26e78546bad141b5536ad28e3d7e1fcaee3be3d9aca6c5cecdedeb370172c.json"
+}

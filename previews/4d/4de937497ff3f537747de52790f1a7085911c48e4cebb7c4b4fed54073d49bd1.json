@@ -1,0 +1,19 @@
+{
+  "url": "https://monadicsheep.org/blog/rss.xml",
+  "title": "MonadicSheep blog.",
+  "subtitle": "Blogs from MonadicSheep.",
+  "site": "https://monadicsheep.org/blog/",
+  "bytes": 169832,
+  "last": "2026-08-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "monads"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4d/4de937497ff3f537747de52790f1a7085911c48e4cebb7c4b4fed54073d49bd1.json"
+}

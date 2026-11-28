@@ -1,0 +1,22 @@
+{
+  "url": "https://enginemonitor.blogspot.com/feeds/posts/default",
+  "title": "Engine Monitor",
+  "subtitle": "Process of building an Airplane Engine monitor. It will connect a Arduino to an Android phone or Tablet.",
+  "site": "https://enginemonitor.blogspot.com/",
+  "bytes": 712985,
+  "last": "2026-04-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "smart-home",
+    "mqtt",
+    "raspberry-pi",
+    "esp8266"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

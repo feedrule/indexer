@@ -1,0 +1,23 @@
+{
+  "url": "https://roberthopman.com/feed.xml",
+  "title": "Blog",
+  "subtitle": "Technical blog by Robert Hopman with practical guides on syntax, patterns, upgrades, and software development best practices for developers",
+  "site": "https://roberthopman.com/",
+  "bytes": 239668,
+  "last": "2026-10-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "testing",
+    "agile",
+    "ruby",
+    "ruby-on-rails",
+    "code-quality"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

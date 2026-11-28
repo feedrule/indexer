@@ -1,0 +1,20 @@
+{
+  "url": "https://www.itworkslocally.dev/rss.xml",
+  "title": "It Works Locally",
+  "subtitle": "Long-form writing on distributed systems, CRDTs, real-time collaboration and production architecture, by Buddhika Gamage.",
+  "site": "https://www.itworkslocally.dev",
+  "bytes": 2715,
+  "last": "2026-10-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "writing-systems",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c4/c4cc53342be129c894decdb97794c8647fd26a0cbef45b600e979d5f554dd46a.json"
+}

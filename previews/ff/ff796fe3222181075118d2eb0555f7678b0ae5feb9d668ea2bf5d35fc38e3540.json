@@ -1,0 +1,21 @@
+{
+  "url": "https://hackerfiction.net/blog/feed.xml",
+  "title": "Hacker Fiction Net",
+  "subtitle": "A blog about hackers in novels and movies.",
+  "site": "https://hackerfiction.net/blog/",
+  "bytes": 373330,
+  "last": "2026-08-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "indie-hacking",
+    "hacker-news",
+    "hackerone"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

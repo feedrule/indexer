@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sleep feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="CBT-I" title="CBT-I" xmlUrl="https://cbtforinsomnia.com/feed/" htmlUrl="https://cbtforinsomnia.com/"/>
+    <outline type="rss" text="Olive the Details" title="Olive the Details" xmlUrl="https://olive-the-details.bearblog.dev/feed/" htmlUrl="https://olive-the-details.bearblog.dev/"/>
+    <outline type="rss" text="lucidcode" title="lucidcode" xmlUrl="https://www.inspec.me/blog-feed.xml" htmlUrl="https://www.inspec.me/blog"/>
+  </body>
+</opml>

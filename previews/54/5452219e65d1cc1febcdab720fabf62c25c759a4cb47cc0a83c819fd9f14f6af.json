@@ -1,0 +1,20 @@
+{
+  "url": "https://unixdigest.com/articles.xml",
+  "title": "Unix Digest - Articles",
+  "subtitle": "Articles (occasional rants) about open source, BSD, GNU/Linux, system administration, programming, and other stuff - the pragmatic way",
+  "site": "https://unixdigest.com",
+  "bytes": 64515,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "software-quality"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

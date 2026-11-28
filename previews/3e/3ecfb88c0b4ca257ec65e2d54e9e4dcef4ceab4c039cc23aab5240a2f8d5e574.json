@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.lenot.re/rss",
+  "title": "Maestro",
+  "subtitle": "A blog about writing an operating system from scratch in Rust.",
+  "site": "https://blog.lenot.re/",
+  "bytes": 2791,
+  "last": "2026-04-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "operating-systems",
+    "compilers"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3e/3ecfb88c0b4ca257ec65e2d54e9e4dcef4ceab4c039cc23aab5240a2f8d5e574.json"
+}

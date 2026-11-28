@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sunrise feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="/" title="/" xmlUrl="https://amemoryofyesterday.bearblog.dev/feed/" htmlUrl="https://amemoryofyesterday.bearblog.dev/"/>
+    <outline type="rss" text="the lamppost" title="the lamppost" xmlUrl="https://lamppost.bearblog.dev/atom.xml" htmlUrl="https://lamppost.bearblog.dev/"/>
+    <outline type="rss" text="Caroline Ishii" title="Caroline Ishii" xmlUrl="https://www.carolineishii.com/blog-feed.xml" htmlUrl="https://www.carolineishii.com/blog"/>
+    <outline type="rss" text="I Dream of Rain" title="I Dream of Rain" xmlUrl="https://www.peachyphotos.com/blog/rss.xml" htmlUrl="https://www.peachyphotos.com/blog/"/>
+    <outline type="rss" text="Journal | Pine Barren Man" title="Journal | Pine Barren Man" xmlUrl="https://www.pinebarrenman.com/blog?format=rss" htmlUrl="https://www.pinebarrenman.com/blog/"/>
+  </body>
+</opml>

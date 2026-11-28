@@ -1,0 +1,19 @@
+{
+  "url": "https://www.depesz.com/feed/",
+  "title": "select * from depesz;",
+  "subtitle": null,
+  "site": "https://www.depesz.com",
+  "bytes": 53065,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

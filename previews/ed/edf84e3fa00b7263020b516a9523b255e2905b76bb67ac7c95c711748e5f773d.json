@@ -1,0 +1,20 @@
+{
+  "url": "https://bigfastblog.com/rss.xml",
+  "title": "Big Fast Blog",
+  "subtitle": "Musings on technology",
+  "site": "https://bigfastblog.com",
+  "bytes": 3100464,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "cloud"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ed/edf84e3fa00b7263020b516a9523b255e2905b76bb67ac7c95c711748e5f773d.json"
+}

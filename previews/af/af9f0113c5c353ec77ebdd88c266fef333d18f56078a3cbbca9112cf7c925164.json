@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bizpacreview.com/feed/",
+  "title": "BizPac Review",
+  "subtitle": null,
+  "site": "https://www.bizpacreview.com/",
+  "bytes": 348358,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fox-news",
+    "us-politics",
+    "trump-administration"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/af/af9f0113c5c353ec77ebdd88c266fef333d18f56078a3cbbca9112cf7c925164.json"
+}

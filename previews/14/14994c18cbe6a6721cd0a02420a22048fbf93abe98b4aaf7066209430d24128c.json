@@ -1,0 +1,21 @@
+{
+  "url": "https://loatswil.info/feed/?type=rss",
+  "title": "loatswil.info",
+  "subtitle": "William Loats",
+  "site": "https://loatswil.info/",
+  "bytes": 10123,
+  "last": "2026-08-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "trails",
+    "lakes",
+    "portland"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/14/14994c18cbe6a6721cd0a02420a22048fbf93abe98b4aaf7066209430d24128c.json"
+}

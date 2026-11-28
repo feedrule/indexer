@@ -1,0 +1,22 @@
+{
+  "url": "https://dev.to/feed/oxharris",
+  "title": "DEV Community: Oxford Harrison",
+  "subtitle": "The latest articles on DEV Community by Oxford Harrison (@oxharris).",
+  "site": "https://dev.to/oxharris",
+  "bytes": 451334,
+  "last": "2026-05-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "frontend",
+    "web-development",
+    "tooling",
+    "javascript"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7c/7cf4ec252dfbae78620df1076becf88fb896ba6f7fff770d4e641aa524f53758.json"
+}

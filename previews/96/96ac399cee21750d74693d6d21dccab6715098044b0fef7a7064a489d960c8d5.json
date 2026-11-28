@@ -1,0 +1,21 @@
+{
+  "url": "https://mastransky.wordpress.com/feed/",
+  "title": "Martin Stransky's Blog",
+  "subtitle": "Firefox hacking in Fedora",
+  "site": "https://mastransky.wordpress.com",
+  "bytes": 93922,
+  "last": "2026-03-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "firefox",
+    "browsers",
+    "fedora"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/96/96ac399cee21750d74693d6d21dccab6715098044b0fef7a7064a489d960c8d5.json"
+}

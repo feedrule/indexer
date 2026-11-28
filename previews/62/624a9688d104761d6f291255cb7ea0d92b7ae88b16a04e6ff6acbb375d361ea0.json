@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.christianposta.com/feed.xml",
+  "title": "Christian Posta",
+  "subtitle": "Christian Posta's blog on Istio, Envoy, API gateways, MCP, and the infrastructure that runs production AI agents.",
+  "site": "https://blog.christianposta.com/",
+  "bytes": 5678,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://yyhh.org/feeds/all.atom.xml",
+  "title": "yyhh.org",
+  "subtitle": "Homepage of Yunyao and Huahai",
+  "site": "https://yyhh.org/",
+  "bytes": 1825489,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/68/68f18f0f0b546b7cccc3ade6d337f695a30da8692751879f80082fe7301edf29.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.vixcpp.com/rss.xml",
+  "title": "Vix.cpp Engineering Blog",
+  "subtitle": "Technical articles about Vix.cpp runtime architecture, build system, CLI behavior, diagnostics, production tooling, and engineering decisions.",
+  "site": "https://blog.vixcpp.com/",
+  "bytes": 3068,
+  "last": "2026-05-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "vim"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sharepoint feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Rick Cogley" title="Rick Cogley" xmlUrl="https://api.cogley.jp/feed.xml" htmlUrl="https://cogley.jp"/>
+    <outline type="rss" text="Enabling the Future of Work with Matti" title="Enabling the Future of Work with Matti" xmlUrl="https://mattipaukkonen.com/feed/" htmlUrl="https://mattipaukkonen.com"/>
+    <outline type="rss" text="Stefan Bauer – N8D | UX / Web Design" title="Stefan Bauer – N8D | UX / Web Design" xmlUrl="https://n8d.at/feed" htmlUrl="https://n8d.at"/>
+    <outline type="rss" text="Marc D Anderson's Blog" title="Marc D Anderson's Blog" xmlUrl="https://sympmarc.com/feed/" htmlUrl="https://sympmarc.com"/>
+    <outline type="rss" text="Vlad Talks Tech" title="Vlad Talks Tech" xmlUrl="https://vladtalkstech.com/feed/" htmlUrl="https://vladtalkstech.com/"/>
+  </body>
+</opml>

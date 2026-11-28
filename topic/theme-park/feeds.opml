@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>theme-park feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Matt's Homepage" title="Matt's Homepage" xmlUrl="https://mattfife.com/?feed=rss2" htmlUrl="https://mattfife.com"/>
+    <outline type="rss" text="Ride with Pride" title="Ride with Pride" xmlUrl="https://ridewithpride.bearblog.dev/feed/" htmlUrl="https://ridewithpride.bearblog.dev/"/>
+    <outline type="rss" text="The Monkey Island SCUMM Bar" title="The Monkey Island SCUMM Bar" xmlUrl="https://scummbar.com/rss/" htmlUrl="http://www.scummbar.com/"/>
+    <outline type="rss" text="Parkeology" title="Parkeology" xmlUrl="https://www.parkeology.com/feed" htmlUrl="https://www.parkeology.com/"/>
+  </body>
+</opml>

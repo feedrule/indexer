@@ -1,0 +1,19 @@
+{
+  "url": "https://www.berkeleyside.org/feed",
+  "title": "Berkeleyside",
+  "subtitle": "Nonprofit news. Free for all, funded by readers.",
+  "site": "https://www.berkeleyside.org/",
+  "bytes": 46203,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "berkeley"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4d/4d5e1a765535a96c484fa31d9a308711bb90d04d84f690617b5c3bd66a061612.json"
+}

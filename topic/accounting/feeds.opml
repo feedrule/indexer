@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>accounting feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Jay Goel" title="Jay Goel" xmlUrl="https://jaygoel.com/feed.xml" htmlUrl="https://www.jaygoel.com/"/>
+    <outline type="rss" text="Nate Clark's Writing" title="Nate Clark's Writing" xmlUrl="https://nate-clark.io/feed/" htmlUrl="https://nate-clark.io"/>
+    <outline type="rss" text="The Bean Ledger" title="The Bean Ledger" xmlUrl="https://thebeanledger.com/index.xml" htmlUrl="https://thebeanledger.com/"/>
+    <outline type="rss" text="Plain Finance" title="Plain Finance" xmlUrl="https://www.plainfinance.net/rss/" htmlUrl="https://www.plainfinance.net/"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://moinfra.me/posts.xml",
+  "title": "Moinframe - Posts",
+  "subtitle": "Practical tutorials and code examples for Kirby CMS developers. Learn about plugins, panel customization, dev workflows and quick tips from the moinframe YouTube channel.",
+  "site": "https://moinfra.me/posts",
+  "bytes": 114580,
+  "last": "2026-10-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kirby"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

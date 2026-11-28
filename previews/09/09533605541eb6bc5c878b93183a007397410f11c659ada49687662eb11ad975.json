@@ -1,0 +1,23 @@
+{
+  "url": "https://alphasec.io/rss/",
+  "title": "alphasec",
+  "subtitle": "Writing about security, privacy, cloud, AI & more.",
+  "site": "https://alphasec.io/",
+  "bytes": 168121,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud",
+    "security",
+    "ai",
+    "open-source",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

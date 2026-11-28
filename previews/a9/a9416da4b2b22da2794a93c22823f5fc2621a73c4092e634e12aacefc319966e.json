@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jayson.com.br/rss.xml",
+  "title": "Jayson Reis",
+  "subtitle": "Notes on programming languages, infrastructure, and the tools in between.",
+  "site": "https://blog.jayson.com.br/",
+  "bytes": 2102,
+  "last": "2026-10-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming-languages",
+    "terraform"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mplanchard.com/atom.xml",
+  "title": "Matthew Planchard's Blog",
+  "subtitle": null,
+  "site": "https://blog.mplanchard.com/",
+  "bytes": 30384,
+  "last": "2026-09-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/53/53c59148b6ba73fe9b17e2c5b5c4c158f48dce69b6f3298f4852b9c73d4d41b5.json"
+}

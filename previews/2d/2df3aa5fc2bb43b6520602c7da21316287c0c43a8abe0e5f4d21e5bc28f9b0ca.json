@@ -1,0 +1,19 @@
+{
+  "url": "https://www.newcity.com/feed/",
+  "title": "Newcity",
+  "subtitle": "Chicago Arts & Culture",
+  "site": "https://www.newcity.com",
+  "bytes": 32501,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "chicago"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2d/2df3aa5fc2bb43b6520602c7da21316287c0c43a8abe0e5f4d21e5bc28f9b0ca.json"
+}

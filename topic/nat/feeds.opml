@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nat feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="State of Nats" title="State of Nats" xmlUrl="https://notes.stateofnats.com/feed/" htmlUrl="https://notes.stateofnats.com/"/>
+    <outline type="rss" text="Desk of Nats" title="Desk of Nats" xmlUrl="https://stateofnats.com/atom/" htmlUrl="https://stateofnats.com/"/>
+    <outline type="rss" text="Nat? Nat. Nat!" title="Nat? Nat. Nat!" xmlUrl="https://writing.natwelch.com/feed.rss" htmlUrl="https://writing.natwelch.com/"/>
+    <outline type="rss" text="Karan Pratap Singh" title="Karan Pratap Singh" xmlUrl="https://www.karanpratapsingh.com/feed.xml" htmlUrl="https://karanpratapsingh.com/blog"/>
+  </body>
+</opml>

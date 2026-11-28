@@ -1,0 +1,20 @@
+{
+  "url": "https://bitbashing.io/feed.xml",
+  "title": "Bit Bashing",
+  "subtitle": "Yet another programming blog. Thoughts on software and related misadventures.",
+  "site": "https://bitbashing.io/",
+  "bytes": 583895,
+  "last": "2026-06-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ed/eda21151d1723d0f036da6bbee572c211f154aa8112259cd1960c7d89365d75b.json"
+}

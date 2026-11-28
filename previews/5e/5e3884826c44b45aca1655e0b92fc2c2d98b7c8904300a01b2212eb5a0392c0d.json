@@ -1,0 +1,20 @@
+{
+  "url": "https://ctxt.dev/rss.xml",
+  "title": "ctxt.dev — Context Engineering (EN)",
+  "subtitle": "Blog about context engineering, structuring information for LLMs and AI development",
+  "site": "https://ctxt.dev/",
+  "bytes": 213320,
+  "last": "2026-09-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "ai-coding-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5e/5e3884826c44b45aca1655e0b92fc2c2d98b7c8904300a01b2212eb5a0392c0d.json"
+}

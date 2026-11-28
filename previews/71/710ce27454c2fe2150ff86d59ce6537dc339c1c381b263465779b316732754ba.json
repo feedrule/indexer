@@ -1,0 +1,23 @@
+{
+  "url": "https://nikolas.blog/feed/",
+  "title": "Nikolas' Blog",
+  "subtitle": "Ein Blog über Technik, Informatik und andere spannende Themen",
+  "site": "https://nikolas.blog/",
+  "bytes": 171438,
+  "last": "2026-01-27",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "openai",
+    "llm",
+    "speech-to-text"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/71/710ce27454c2fe2150ff86d59ce6537dc339c1c381b263465779b316732754ba.json"
+}

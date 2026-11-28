@@ -1,0 +1,19 @@
+{
+  "url": "https://www.pgmustard.com/blog?format=rss",
+  "title": "Blog - pgMustard",
+  "subtitle": null,
+  "site": "https://www.pgmustard.com/blog/",
+  "bytes": 254183,
+  "last": "2026-02-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2d/2d9ffc55b3af9f6f9fedb936cd3bd8e0210b1c853ffb14409bf8e827fa89619e.json"
+}

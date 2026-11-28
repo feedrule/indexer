@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.voxagon.se/feed.xml",
+  "title": "Voxagon Blog",
+  "subtitle": "A game technology blog by Dennis Gustafsson",
+  "site": "https://blog.voxagon.se/",
+  "bytes": 106973,
+  "last": "2026-03-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "game-development",
+    "games",
+    "teardown"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

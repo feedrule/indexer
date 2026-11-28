@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>editorial feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Recent Commits to html:main" title="Recent Commits to html:main" xmlUrl="https://github.com/whatwg/html/commits/main.atom" htmlUrl="https://github.com/whatwg/html/commits/main"/>
+    <outline type="rss" text="Recent Commits to webidl:main" title="Recent Commits to webidl:main" xmlUrl="https://github.com/whatwg/webidl/commits/main.atom" htmlUrl="https://github.com/whatwg/webidl/commits/main"/>
+    <outline type="rss" text="Riverhead News Review" title="Riverhead News Review" xmlUrl="https://riverheadnewsreview.timesreview.com/feed/" htmlUrl="https://riverheadnewsreview.timesreview.com/"/>
+    <outline type="rss" text="Geeky Hacker" title="Geeky Hacker" xmlUrl="https://www.geekyhacker.com/feed/" htmlUrl="https://www.geekyhacker.com/"/>
+  </body>
+</opml>

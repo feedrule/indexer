@@ -1,0 +1,23 @@
+{
+  "url": "https://tommyodland.com/feeds/all.atom.xml",
+  "title": "tommyodland.com",
+  "subtitle": null,
+  "site": "https://tommyodland.com/",
+  "bytes": 1339605,
+  "last": "2026-10-31",
+  "languages": [
+    "en",
+    "no"
+  ],
+  "topics": [
+    "algorithms",
+    "math",
+    "data-science",
+    "statistics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/75/75c87f900f2f7f6fd59e8005d077d0e4a88ebac6e0768cfd1c294f0f4f99c5f6.json"
+}

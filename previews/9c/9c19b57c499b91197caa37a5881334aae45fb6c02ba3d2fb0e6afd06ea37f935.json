@@ -1,0 +1,20 @@
+{
+  "url": "https://magnus.therning.org/feed.xml",
+  "title": "Magnus web site",
+  "subtitle": "Magnus web site",
+  "site": "https://magnus.therning.org/",
+  "bytes": 51005,
+  "last": "2026-11-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "emacs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

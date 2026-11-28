@@ -1,0 +1,21 @@
+{
+  "url": "https://technicalmusings.blogspot.com/feeds/posts/default",
+  "title": "Technical Musings",
+  "subtitle": "Tools of a technical generalist",
+  "site": "https://technicalmusings.blogspot.com/",
+  "bytes": 120076,
+  "last": "2026-03-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ansible",
+    "erlang",
+    "mac"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ee/ee37900cc5114bff2256605c66cfb8a8b82b55479e80b69c6e1f1e5ee3baab59.json"
+}

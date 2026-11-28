@@ -1,0 +1,21 @@
+{
+  "url": "https://nurkiewicz.com/feeds/posts/default",
+  "title": "Around IT in 256 seconds",
+  "subtitle": "Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.",
+  "site": "https://nurkiewicz.com/",
+  "bytes": 171599,
+  "last": "2026-09-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "interpreter",
+    "java"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f7/f74f48ae0980e79eb5fccb35d1644b39794c1957f36306345d661aeb71496863.json"
+}

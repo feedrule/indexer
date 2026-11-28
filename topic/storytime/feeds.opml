@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>storytime feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Cat's Musings" title="Cat's Musings" xmlUrl="https://cats-musings.blog/atom/" htmlUrl="https://cats-musings.blog/"/>
+    <outline type="rss" text="Cat's Musings" title="Cat's Musings" xmlUrl="https://conchcat.bearblog.dev/atom.xml" htmlUrl="https://cats-musings.blog/"/>
+    <outline type="rss" text="G. M. Steward, Internet Storyteller" title="G. M. Steward, Internet Storyteller" xmlUrl="https://gmsteward.wordpress.com/feed/" htmlUrl="https://gmsteward.wordpress.com"/>
+  </body>
+</opml>

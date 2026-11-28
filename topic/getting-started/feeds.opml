@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>getting-started feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Charles Boudrant" title="Charles Boudrant" xmlUrl="https://charlesboudrant.com/rss.xml" htmlUrl="https://charlesboudrant.com/"/>
+    <outline type="rss" text="jscd.pw" title="jscd.pw" xmlUrl="https://jscd.pw/atom.xml" htmlUrl="https://jscd.pw/"/>
+    <outline type="rss" text="Michael R. Bock" title="Michael R. Bock" xmlUrl="https://michaelrbock.com/atom/" htmlUrl="https://michaelrbock.com/"/>
+    <outline type="rss" text="Michael R. Bock" title="Michael R. Bock" xmlUrl="https://michaelrbock.com/feed/" htmlUrl="https://michaelrbock.com/"/>
+    <outline type="rss" text="Tarun Kumar Vangani on One Random Walk" title="Tarun Kumar Vangani on One Random Walk" xmlUrl="https://reachtarunhere.github.io/index.xml" htmlUrl="https://reachtarunhere.github.io/"/>
+    <outline type="rss" text="VetchZero Blog RSS" title="VetchZero Blog RSS" xmlUrl="https://vetch.pages.dev/blog/atom.xml" htmlUrl="https://vetch.pages.dev/blog"/>
+  </body>
+</opml>

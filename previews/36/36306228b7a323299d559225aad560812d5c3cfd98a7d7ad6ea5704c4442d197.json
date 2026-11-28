@@ -1,0 +1,19 @@
+{
+  "url": "https://ossature.dev/blog/atom.xml",
+  "title": "Ossature Blog",
+  "subtitle": "Updates, guides, and technical writing on spec-driven LLM development.",
+  "site": "https://ossature.dev/blog",
+  "bytes": 95060,
+  "last": "2026-07-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "spec-driven-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.theguardian.com/us/environment/rss",
+  "title": "Environment | The Guardian",
+  "subtitle": "Latest environmental news, opinion and analysis from the Guardian.",
+  "site": "https://www.theguardian.com/us/environment",
+  "bytes": 122567,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "climate-change",
+    "environment"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/74/7478bee6a3ff144ac830713e250fdde03318abf6f135733105c2dd2225006ce6.json"
+}

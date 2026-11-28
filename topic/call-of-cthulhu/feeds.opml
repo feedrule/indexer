@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>call-of-cthulhu feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Arbuthnott Papers" title="The Arbuthnott Papers" xmlUrl="https://arbuthnott-papers.bearblog.dev/feed/" htmlUrl="https://arbuthnott-papers.bearblog.dev/"/>
+    <outline type="rss" text="Propnomicon" title="Propnomicon" xmlUrl="https://propnomicon.blogspot.com/feeds/posts/default" htmlUrl="https://propnomicon.blogspot.com/"/>
+    <outline type="rss" text="Shipwreck Library" title="Shipwreck Library" xmlUrl="https://shipwrecklibrary.com/feed/" htmlUrl="https://shipwrecklibrary.com/"/>
+  </body>
+</opml>

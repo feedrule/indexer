@@ -1,0 +1,19 @@
+{
+  "url": "https://koleslaw.ai/rss.xml",
+  "title": "The Koleslaw Blog",
+  "subtitle": "Notes from running a fine-tuned 30B model in production: quantization, spot GPUs, failure design, and what it all costs.",
+  "site": "https://koleslaw.ai/blog",
+  "bytes": 2020,
+  "last": "2026-08-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gpu"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://wtop.com/feed/",
+  "title": "WTOP News",
+  "subtitle": "News Happens Here",
+  "site": "https://wtop.com",
+  "bytes": 48212,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "world-news"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

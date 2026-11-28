@@ -1,0 +1,21 @@
+{
+  "url": "https://ceets.vip/feed.xml",
+  "title": "ceets.vip",
+  "subtitle": null,
+  "site": "https://ceets.vip/",
+  "bytes": 24143,
+  "last": "2026-08-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fediverse",
+    "federation",
+    "bluesky"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0b/0b842d44d6a27d89a3ba0f262781b317c5205fc3d3cf7aa70cb3fbc92a058db2.json"
+}

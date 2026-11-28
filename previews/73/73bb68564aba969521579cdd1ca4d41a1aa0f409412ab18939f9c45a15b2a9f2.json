@@ -1,0 +1,21 @@
+{
+  "url": "https://bluesock.org/~willkg/blog/rss.xml",
+  "title": "Will's Blog",
+  "subtitle": "Will Kahn-Greene's blog of Python, Mozilla, random content, personal projects, work projects, and other things mixed in there ad hoc, half-baked, and with a twist of lemon",
+  "site": "https://bluesock.org/~willkg/blog/",
+  "bytes": 160422,
+  "last": "2026-06-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mozilla",
+    "development",
+    "python"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

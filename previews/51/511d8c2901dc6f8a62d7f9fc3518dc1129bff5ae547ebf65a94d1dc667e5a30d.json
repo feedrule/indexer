@@ -1,0 +1,19 @@
+{
+  "url": "https://lostreader.bearblog.dev/feed.xml",
+  "title": "Lost Reader",
+  "subtitle": "Hello, I am LostReader.",
+  "site": "https://lostreader.bearblog.dev/",
+  "bytes": 7184,
+  "last": "2026-05-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "reader"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/51/511d8c2901dc6f8a62d7f9fc3518dc1129bff5ae547ebf65a94d1dc667e5a30d.json"
+}

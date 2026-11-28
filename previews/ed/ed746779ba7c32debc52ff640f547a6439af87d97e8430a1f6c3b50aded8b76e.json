@@ -1,0 +1,19 @@
+{
+  "url": "https://causality.blog/rss.xml",
+  "title": "Causality",
+  "subtitle": "The Concurrency Problem: what's broken, what almost worked, and what a real fix might look like",
+  "site": "https://causality.blog/",
+  "bytes": 90969,
+  "last": "2026-04-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "concurrency"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ed/ed746779ba7c32debc52ff640f547a6439af87d97e8430a1f6c3b50aded8b76e.json"
+}

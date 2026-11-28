@@ -1,0 +1,19 @@
+{
+  "url": "https://daniel.haxx.se/blog/feed/",
+  "title": "daniel.haxx.se",
+  "subtitle": "curl, open source and networking",
+  "site": "https://daniel.haxx.se/blog",
+  "bytes": 98341,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "curl"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1c/1cf3cb7776f42fd77cb7494d7963abee63fbab0283b27e672009f6be95b58b32.json"
+}

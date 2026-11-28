@@ -1,0 +1,20 @@
+{
+  "url": "https://tech.aufomm.com/atom.xml",
+  "title": "Red Tomato's Blog",
+  "subtitle": "Learning Cloud Computing",
+  "site": "https://tech.aufomm.com/",
+  "bytes": 295549,
+  "last": "2026-07-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud-native",
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

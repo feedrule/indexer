@@ -1,0 +1,23 @@
+{
+  "url": "https://adnanthekhan.com/rss.xml",
+  "title": "Adnan Khan's Security Research Blog",
+  "subtitle": "Security research focused on CI/CD vulnerabilities, software supply chain attacks, and developer tooling security.",
+  "site": "https://adnanthekhan.com/",
+  "bytes": 8745,
+  "last": "2026-03-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "supply-chain-attack",
+    "github",
+    "github-actions",
+    "security",
+    "supply-chain"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ba/ba97681757c141cafbcde72957ef341ed65246e7daf1436c1b430397ac04c00e.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.slyon.de/feed/atom/",
+  "title": "SlyBlog",
+  "subtitle": "Free and Open Source Software and Hardware.",
+  "site": "https://blog.slyon.de",
+  "bytes": 81820,
+  "last": "2026-09-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debian"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3d/3de59b1a780a7f976e6606a9b21c6f3be208f3c752d0eb3b60d742eb5d0196fb.json"
+}

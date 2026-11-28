@@ -1,0 +1,20 @@
+{
+  "url": "https://containersecurity.dev/feed.xml",
+  "title": "Container Security",
+  "subtitle": "Container security — from supply chain to runtime. Books, workshops, and talks by Mohammad-Ali A'râbi, Docker Captain. Learn to secure Docker and Kubernetes through guides, novels, and comic books.",
+  "site": "https://containersecurity.dev",
+  "bytes": 24054,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

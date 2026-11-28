@@ -1,0 +1,20 @@
+{
+  "url": "https://heyquark.com/feed.xml",
+  "title": "Hey Quark!",
+  "subtitle": null,
+  "site": "https://heyquark.com/",
+  "bytes": 88614,
+  "last": "2026-02-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "microblog",
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/45/4511f78b20cc1788249a5af30352b093e996663cb965ba6dca13cff6418ac07b.json"
+}

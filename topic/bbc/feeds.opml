@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bbc feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news"/>
+    <outline type="rss" text="trading as wdr" title="trading as wdr" xmlUrl="http://feeds.feedburner.com/TradingAsWdr" htmlUrl="http://tradingaswdr.blogspot.com/"/>
+    <outline type="rss" text="JonaBlog" title="JonaBlog" xmlUrl="http://jonabuft.blogspot.com/feeds/posts/default" htmlUrl="http://jonabuft.blogspot.com/"/>
+    <outline type="rss" text="Not a Novelist (Yet)" title="Not a Novelist (Yet)" xmlUrl="http://notanovelistyet.blogspot.com/feeds/posts/default" htmlUrl="http://notanovelistyet.blogspot.com/"/>
+    <outline type="rss" text="David Collier – independent investigative journalist" title="David Collier – independent investigative journalist" xmlUrl="https://david-collier.com/feed/" htmlUrl="https://david-collier.com/"/>
+    <outline type="rss" text="Keep AM Alive" title="Keep AM Alive" xmlUrl="https://keeplongwave.co.uk/feed/" htmlUrl="https://keeplongwave.co.uk"/>
+    <outline type="rss" text="Marcus Chown" title="Marcus Chown" xmlUrl="https://marcuschown.com/feed/atom/" htmlUrl="https://marcuschown.com"/>
+    <outline type="rss" text="Subtitle Quality" title="Subtitle Quality" xmlUrl="https://subtitles.org.uk/feed/" htmlUrl="https://subtitles.org.uk"/>
+    <outline type="rss" text="Transdiffusion Broadcasting System" title="Transdiffusion Broadcasting System" xmlUrl="https://transdiffusion.org/feed/" htmlUrl="https://transdiffusion.org"/>
+    <outline type="rss" text="Bother's Bar" title="Bother's Bar" xmlUrl="https://www.bothersbar.co.uk/?feed=rss2" htmlUrl="https://www.bothersbar.co.uk"/>
+    <outline type="rss" text="Curious British Telly" title="Curious British Telly" xmlUrl="https://www.curiousbritishtelly.co.uk/feeds/posts/default" htmlUrl="https://www.curiousbritishtelly.co.uk/"/>
+    <outline type="rss" text="davidlloydradio" title="davidlloydradio" xmlUrl="https://www.davidlloydradio.com/blog-feed.xml" htmlUrl="https://www.davidlloydradio.com/blog"/>
+    <outline type="rss" text="Illuminations" title="Illuminations" xmlUrl="https://www.illuminationsmedia.co.uk/feed/" htmlUrl="https://www.illuminationsmedia.co.uk/"/>
+    <outline type="rss" text="Politically Inclined" title="Politically Inclined" xmlUrl="https://www.politicallyinclined.net/feed/" htmlUrl="https://www.politicallyinclined.net"/>
+    <outline type="rss" text="The Paepae" title="The Paepae" xmlUrl="https://www.thepaepae.com/feed/" htmlUrl="https://www.thepaepae.com"/>
+  </body>
+</opml>

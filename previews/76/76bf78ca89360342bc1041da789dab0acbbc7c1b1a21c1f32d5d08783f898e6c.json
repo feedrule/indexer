@@ -1,0 +1,21 @@
+{
+  "url": "https://jack-vanlightly.com/?format=rss",
+  "title": "Jack Vanlightly",
+  "subtitle": "{ dist sys, formal verification, event streaming }",
+  "site": "https://jack-vanlightly.com/",
+  "bytes": 742479,
+  "last": "2026-08-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kafka",
+    "benchmark",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/76/76bf78ca89360342bc1041da789dab0acbbc7c1b1a21c1f32d5d08783f898e6c.json"
+}

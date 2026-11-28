@@ -1,0 +1,20 @@
+{
+  "url": "https://zserge.com/rss.xml",
+  "title": "zserge's blog",
+  "subtitle": "Recent content on zserge's blog",
+  "site": "https://zserge.com/",
+  "bytes": 68387,
+  "last": "2026-10-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming-languages",
+    "programming"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/53/53107d26e7f19829abb2bf8078ed2e5192070e01ba159ee6d53cfc62b29e3ae0.json"
+}

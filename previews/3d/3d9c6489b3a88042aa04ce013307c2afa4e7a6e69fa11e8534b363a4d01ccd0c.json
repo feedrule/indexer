@@ -1,0 +1,19 @@
+{
+  "url": "https://papervault.xyz/rss.xml",
+  "title": "PaperVault Blog",
+  "subtitle": "Notes on cold storage, threshold cryptography, and keeping secrets safe.",
+  "site": "https://papervault.xyz/blog",
+  "bytes": 2579,
+  "last": "2026-05-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cryptography"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3d/3d9c6489b3a88042aa04ce013307c2afa4e7a6e69fa11e8534b363a4d01ccd0c.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://schmeeve.com/rss/",
+  "title": "schmeeve",
+  "subtitle": "this site is not recommended",
+  "site": "https://schmeeve.com/",
+  "bytes": 19143,
+  "last": "2026-08-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/57/57b129656925b8df6eceac99da829616e84136cc09b7d601f37c06cecca5002e.json"
+}

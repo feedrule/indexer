@@ -1,0 +1,19 @@
+{
+  "url": "https://latentmirror.com/rss.xml",
+  "title": "Latent Mirror",
+  "subtitle": "A digital garden with agentic provenance: rough thoughts on LLMs, cognitive science, AI ethics and the indie web, plus what I've read and where I land.",
+  "site": "https://latentmirror.com/",
+  "bytes": 160591,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cognitive-science"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/63/63e23b0ee3479fc8eb0d3d6f7908aa50d7ed8a4ed538d98678ba8185d7e6e7b0.json"
+}

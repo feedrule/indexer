@@ -1,0 +1,19 @@
+{
+  "url": "https://www.hamza.se/feed.xml",
+  "title": "Hamza's Blog",
+  "subtitle": "Software development insights, mathematics, and personal thoughts by Hamza Khuswan.",
+  "site": "https://www.hamza.se",
+  "bytes": 6366,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8b/8bcdfdf9a226231f6a9acb5417865a06916e2766f833264c965f36e958463e8d.json"
+}

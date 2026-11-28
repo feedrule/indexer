@@ -1,0 +1,23 @@
+{
+  "url": "https://www.parkeology.com/feed",
+  "title": "Parkeology",
+  "subtitle": "Obscure secrets and offbeat history from the Disney theme parks",
+  "site": "https://www.parkeology.com/",
+  "bytes": 9411,
+  "last": "2026-09-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "theme-park",
+    "disney",
+    "amusement-parks",
+    "walt-disney-world",
+    "disneyland"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/6e/6e43a25abfecb22439c2cff95bb2c328ee0d9e3fcf1fa0638f89ec3bbe3e8363.json"
+}

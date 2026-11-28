@@ -1,0 +1,19 @@
+{
+  "url": "https://typegraph.dev/blog/rss.xml",
+  "title": "TypeGraph | Blog",
+  "subtitle": "TypeScript embedded knowledge graph on SQLite and PostgreSQL: Zod schemas, type-safe queries, ontology, hybrid vector + fulltext search, bitemporal history.",
+  "site": "https://typegraph.dev/",
+  "bytes": 595956,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "graph-database"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

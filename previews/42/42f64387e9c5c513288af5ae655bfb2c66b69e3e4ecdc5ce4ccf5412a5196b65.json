@@ -1,0 +1,19 @@
+{
+  "url": "https://spont.codeberg.page/yahr-matey/rss.xml",
+  "title": "YAHR Matey",
+  "subtitle": "Blog companion for my YAHR repo",
+  "site": "https://spont.codeberg.page/yahr-matey/",
+  "bytes": 5716,
+  "last": "2026-04-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/42/42f64387e9c5c513288af5ae655bfb2c66b69e3e4ecdc5ce4ccf5412a5196b65.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://www.wenbo.io/rss.xml",
+  "title": "Wenbo Pan — blog",
+  "subtitle": "Notes on research practice and LLM engineering.",
+  "site": "https://www.wenbo.io/blog/",
+  "bytes": 6242,
+  "last": "2026-11-13",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "topics": [
+    "ai-agents",
+    "llm-evaluation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

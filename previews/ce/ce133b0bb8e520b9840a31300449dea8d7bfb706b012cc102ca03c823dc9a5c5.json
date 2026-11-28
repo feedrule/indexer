@@ -1,0 +1,19 @@
+{
+  "url": "https://wyvern.at/feed/",
+  "title": "Wyvern",
+  "subtitle": "Independent, GDPR friendly search engine",
+  "site": "https://wyvern.at/en",
+  "bytes": 41298,
+  "last": "2026-10-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "search-engines"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ce/ce133b0bb8e520b9840a31300449dea8d7bfb706b012cc102ca03c823dc9a5c5.json"
+}

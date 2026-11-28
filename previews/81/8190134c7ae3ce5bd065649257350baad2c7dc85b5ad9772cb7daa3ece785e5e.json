@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hockeyjournal.com/feed/",
+  "title": "New England Hockey Journal",
+  "subtitle": "Hockey coverage from prep to college and beyond",
+  "site": "https://www.hockeyjournal.com/",
+  "bytes": 42835,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nhl",
+    "hockey"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/81/8190134c7ae3ce5bd065649257350baad2c7dc85b5ad9772cb7daa3ece785e5e.json"
+}

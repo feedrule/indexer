@@ -1,0 +1,20 @@
+{
+  "url": "https://seekstorm.com/blog/feed.xml",
+  "title": "SeekStorm",
+  "subtitle": "sub-millisecond lexical search",
+  "site": "https://seekstorm.com/blog/",
+  "bytes": 498222,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "search-engines",
+    "search"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/97/97e8ab4d5b3df31ba43300d84f108a23fd76711b71f6486b12010348999a694d.json"
+}

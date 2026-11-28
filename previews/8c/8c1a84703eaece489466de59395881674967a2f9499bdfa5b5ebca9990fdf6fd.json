@@ -1,0 +1,20 @@
+{
+  "url": "https://george.mand.is/feed.xml",
+  "title": "George Mandis",
+  "subtitle": "This is my blog where I write about web development and travel.",
+  "site": "https://george.mand.is/",
+  "bytes": 341058,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8c/8c1a84703eaece489466de59395881674967a2f9499bdfa5b5ebca9990fdf6fd.json"
+}

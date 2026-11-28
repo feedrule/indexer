@@ -1,0 +1,21 @@
+{
+  "url": "https://seankegel.com/rss.xml",
+  "title": "Sean Kegel",
+  "subtitle": "I build web applications and share what I learn about PHP, Laravel, and developer tooling along the way.",
+  "site": "https://seankegel.com",
+  "bytes": 1148939,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel",
+    "php",
+    "web-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

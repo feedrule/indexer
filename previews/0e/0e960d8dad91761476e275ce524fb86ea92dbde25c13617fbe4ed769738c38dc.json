@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.kammel.dev/index.xml",
+  "title": "DaTosh Blog",
+  "subtitle": "Software Engineering, Security, and Cloud Native Technologies",
+  "site": "https://blog.kammel.dev/",
+  "bytes": 797403,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

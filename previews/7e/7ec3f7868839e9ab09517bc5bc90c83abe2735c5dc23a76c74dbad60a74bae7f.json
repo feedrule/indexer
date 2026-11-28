@@ -1,0 +1,21 @@
+{
+  "url": "https://sciencespot.co.uk/feed",
+  "title": "Science Spot",
+  "subtitle": "Research News from David Bradley",
+  "site": "https://sciencespot.co.uk",
+  "bytes": 108057,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "environment",
+    "education",
+    "information-technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7e/7ec3f7868839e9ab09517bc5bc90c83abe2735c5dc23a76c74dbad60a74bae7f.json"
+}

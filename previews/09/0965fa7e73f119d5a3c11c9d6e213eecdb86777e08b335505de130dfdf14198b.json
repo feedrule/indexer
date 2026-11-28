@@ -1,0 +1,23 @@
+{
+  "url": "https://samakroyd.com/feed/",
+  "title": "Sam Akroyd.",
+  "subtitle": "Thoughts on Tech",
+  "site": "https://samakroyd.com",
+  "bytes": 10955,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "supply-chain-attack",
+    "data-breach",
+    "zero-trust",
+    "cloud-security"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/09/0965fa7e73f119d5a3c11c9d6e213eecdb86777e08b335505de130dfdf14198b.json"
+}

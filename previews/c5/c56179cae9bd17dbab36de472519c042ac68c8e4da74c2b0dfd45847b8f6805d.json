@@ -1,0 +1,20 @@
+{
+  "url": "https://imil.net/blog/index.xml",
+  "title": "iMil.net",
+  "subtitle": "Recent content on iMil.net",
+  "site": "http://imil.net/blog/",
+  "bytes": 638680,
+  "last": "2026-06-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "netbsd",
+    "openbsd"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c5/c56179cae9bd17dbab36de472519c042ac68c8e4da74c2b0dfd45847b8f6805d.json"
+}

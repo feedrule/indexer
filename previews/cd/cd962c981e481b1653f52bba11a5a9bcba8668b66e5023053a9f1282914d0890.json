@@ -1,0 +1,19 @@
+{
+  "url": "https://crickettimes.com/feed/",
+  "title": "Cricket Times",
+  "subtitle": "Latest Cricket News, Live Scores, Schedule, Match Predictions, Fantasy Tips, Dream11 Team, Results, ICC Rankings, Stats, Videos, Podcast & Exclusive Interviews",
+  "site": "https://crickettimes.com",
+  "bytes": 23071,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cricket"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cd/cd962c981e481b1653f52bba11a5a9bcba8668b66e5023053a9f1282914d0890.json"
+}

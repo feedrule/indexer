@@ -1,0 +1,22 @@
+{
+  "url": "https://simonemms.com/rss.xml",
+  "title": "Simon Emms",
+  "subtitle": "Software Engineer, Technical Leader, Solutions Designer in Telford, UK",
+  "site": "https://simonemms.com",
+  "bytes": 131111,
+  "last": "2026-02-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "docker",
+    "kubernetes",
+    "containers"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e8/e84000b0a3467d381a27dd0518d56a174b1ab2117e2522feed7ca9bf1ced440e.json"
+}

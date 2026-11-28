@@ -1,0 +1,23 @@
+{
+  "url": "https://stefan-marr.de/feed/",
+  "title": "Stefan-Marr.de",
+  "subtitle": "personal and research notes",
+  "site": "https://stefan-marr.de/",
+  "bytes": 99350,
+  "last": "2026-08-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "benchmark",
+    "java",
+    "tooling",
+    "instrumentation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f5/f5f9851d4b6fb1def36792911789251fd4f7de525c4036011f09830c79eb90ab.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://about.gitlab.com/atom.xml",
+  "title": "GitLab",
+  "subtitle": "GitLab Blog RSS feed",
+  "site": "https://about.gitlab.com/blog",
+  "bytes": 293919,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gitlab"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

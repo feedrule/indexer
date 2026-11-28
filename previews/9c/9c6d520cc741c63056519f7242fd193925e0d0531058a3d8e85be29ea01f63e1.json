@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.gbraad.nl/feeds/all.atom.xml",
+  "title": "Gerard Braad's blog",
+  "subtitle": null,
+  "site": "https://blog.gbraad.nl/",
+  "bytes": 613486,
+  "last": "2026-11-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "containers",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/9c/9c6d520cc741c63056519f7242fd193925e0d0531058a3d8e85be29ea01f63e1.json"
+}

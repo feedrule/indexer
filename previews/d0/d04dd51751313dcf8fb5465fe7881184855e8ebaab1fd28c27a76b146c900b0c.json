@@ -1,0 +1,21 @@
+{
+  "url": "https://joshcgrossman.com/feed.xml",
+  "title": "Josh Grossman",
+  "subtitle": "A blog about AppSec/InfoSec from your friendly AppSec Ghost! 👻",
+  "site": "https://joshcgrossman.com/",
+  "bytes": 114434,
+  "last": "2026-04-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "application-security",
+    "security",
+    "training"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d0/d04dd51751313dcf8fb5465fe7881184855e8ebaab1fd28c27a76b146c900b0c.json"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ember feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ember.js Blog" title="Ember.js Blog" xmlUrl="https://blog.emberjs.com/rss.xml" htmlUrl="https://blog.emberjs.com/rss.xml"/>
+    <outline type="rss" text="CodeBrief" title="CodeBrief" xmlUrl="https://codebrief.com/atom.xml" htmlUrl="https://codebrief.com/"/>
+  </body>
+</opml>

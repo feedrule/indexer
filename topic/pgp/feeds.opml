@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pgp feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="⚙️ PGXN Blog" title="⚙️ PGXN Blog" xmlUrl="https://blog.pgxn.org/feed.xml" htmlUrl="https://blog.pgxn.org/"/>
+    <outline type="rss" text="dkg's blog" title="dkg's blog" xmlUrl="https://dkg.fifthhorseman.net/blog/feeds/all.atom.xml" htmlUrl="https://dkg.fifthhorseman.net/blog/"/>
+    <outline type="rss" text="Noodles' Emptiness" title="Noodles' Emptiness" xmlUrl="https://www.earth.li/~noodles/blog/feed.xml" htmlUrl="https://www.earth.li/~noodles/blog/"/>
+  </body>
+</opml>

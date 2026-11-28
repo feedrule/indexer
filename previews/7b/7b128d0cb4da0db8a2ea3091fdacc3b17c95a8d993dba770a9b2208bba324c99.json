@@ -1,0 +1,20 @@
+{
+  "url": "http://www.lispology.com/rss?JHE+3",
+  "title": "Lispology",
+  "subtitle": "Random thoughts about Common Lisp",
+  "site": "http://www.lispology.com/show?JHE",
+  "bytes": 21514,
+  "last": "2026-03-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "lisp",
+    "common-lisp"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://olegkarasik.wordpress.com/feed/atom/",
+  "title": "Oleg Karasik's blog",
+  "subtitle": "A .NET Software Engineer's notes",
+  "site": "https://olegkarasik.wordpress.com",
+  "bytes": 134534,
+  "last": "2026-11-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "software-engineering",
+    "c#",
+    "ai",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c8/c8373d4d396e8134647d1ea206cdf532dc9e20ba5025535656b42fc18801db57.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://cubiclenate.com/feed/",
+  "title": "CubicleNate.com",
+  "subtitle": "Linux and vintage tech",
+  "site": "https://cubiclenate.com",
+  "bytes": 238817,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux",
+    "debian",
+    "fedora"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ff/ffb32a9699d0263b1902e57a0d89383c8b7517aace60176ac913f2873081cece.json"
+}

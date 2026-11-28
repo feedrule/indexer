@@ -1,0 +1,19 @@
+{
+  "url": "https://richdynamix.com/feed",
+  "title": "RichDynamix Articles Feed",
+  "subtitle": "This is the RichDynamix articles feed, providing the latest updates and articles from the blog.",
+  "site": null,
+  "bytes": 278573,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/db/db017306c0e9d7cef24a8b02bc987e8b06733fd9e3b4d74f704e7ad6c73ef5c3.json"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.frankel.ch/feed.xml",
+  "title": "A Java geek",
+  "subtitle": "Nicolas Fränkel's blog",
+  "site": "https://blog.frankel.ch/",
+  "bytes": 25250,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "java",
+    "jvm",
+    "ai",
+    "microservices",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sdk feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Today in Sisk" title="Today in Sisk" xmlUrl="https://blog.sisk-framework.org/index.xml" htmlUrl="https://blog.sisk-framework.org/"/>
+    <outline type="rss" text="CompiledFrog" title="CompiledFrog" xmlUrl="https://compiledfrog.com/atom.xml" htmlUrl="https://compiledfrog.com/"/>
+    <outline type="rss" text="Daniel Saidi" title="Daniel Saidi" xmlUrl="https://danielsaidi.com/feed.xml" htmlUrl="https://danielsaidi.com/"/>
+    <outline type="rss" text="Felix Krause" title="Felix Krause" xmlUrl="https://krausefx.com/feed.xml" htmlUrl="https://krausefx.com/"/>
+  </body>
+</opml>

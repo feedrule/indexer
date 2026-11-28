@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.nawaz.info/rss.xml",
+  "title": "The Nawaz Journal",
+  "subtitle": "A life long learner and tech tinkerer. Making and breaking systems. Learning from mistakes.",
+  "site": "https://blog.nawaz.info",
+  "bytes": 92448,
+  "last": "2026-06-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "elixir",
+    "functional-programming",
+    "programming-languages"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/03/03f310f20043e737d2805ed42c6bd34e8143462a6a838ef7b13fd7af8279cc7a.json"
+}

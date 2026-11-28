@@ -1,0 +1,20 @@
+{
+  "url": "https://gustedt.wordpress.com/feed/",
+  "title": "Jens Gustedt's Blog",
+  "subtitle": "programming in modern C",
+  "site": "https://gustedt.wordpress.com",
+  "bytes": 132742,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "c-programming",
+    "macro"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c4/c4a7f885dfac70a7e596ac3e0a481f637c52f974ea404a02c6d9e5b7151174e1.json"
+}

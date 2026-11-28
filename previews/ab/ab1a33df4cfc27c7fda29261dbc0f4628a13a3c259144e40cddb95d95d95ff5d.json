@@ -1,0 +1,20 @@
+{
+  "url": "https://mostlynerdless.de/feed/",
+  "title": "Mostly nerdless",
+  "subtitle": "Every two weeks a text on profiling, debugging or eBPF",
+  "site": "https://mostlynerdless.de/",
+  "bytes": 309546,
+  "last": "2026-09-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "java",
+    "openjdk"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

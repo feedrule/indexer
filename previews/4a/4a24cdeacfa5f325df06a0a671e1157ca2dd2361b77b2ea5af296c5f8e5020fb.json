@@ -1,0 +1,23 @@
+{
+  "url": "https://www.mariusb.net/blog/feed/atom/",
+  "title": "Let's talk Bitcoin (and sometimes Rust & AI)",
+  "subtitle": "Tip me via Bitcoin LN: mariusb@blink.sv <-- You know what to do!",
+  "site": "https://www.mariusb.net/blog",
+  "bytes": 93620,
+  "last": "2026-10-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bitcoin",
+    "ai",
+    "software-engineering",
+    "programming",
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4a/4a24cdeacfa5f325df06a0a671e1157ca2dd2361b77b2ea5af296c5f8e5020fb.json"
+}

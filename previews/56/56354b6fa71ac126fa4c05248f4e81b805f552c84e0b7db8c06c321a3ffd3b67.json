@@ -1,0 +1,20 @@
+{
+  "url": "https://hydrick.net/feed/atom/",
+  "title": "Software and Other Shenanigans",
+  "subtitle": "A blog about software, and anything else this software engineer finds interesting",
+  "site": "https://hydrick.net",
+  "bytes": 132734,
+  "last": "2026-10-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

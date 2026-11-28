@@ -1,0 +1,21 @@
+{
+  "url": "https://bill.burkecentral.com/feed/",
+  "title": "Bill the Plumber",
+  "subtitle": "Software plumbing using middleware wrenches",
+  "site": "https://bill.burkecentral.com",
+  "bytes": 17597,
+  "last": "2026-03-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "middleware",
+    "tooling",
+    "quarkus"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

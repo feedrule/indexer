@@ -1,0 +1,19 @@
+{
+  "url": "https://www.ospreylang.dev/feed.xml",
+  "title": "Osprey Programming Language",
+  "subtitle": "Osprey is a functional language with typed algebraic effects and reusable handlers. Choose application behavior at the boundary; compile for native, WebAssembly, iOS and Android.",
+  "site": "https://www.ospreylang.dev/",
+  "bytes": 335490,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ose"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

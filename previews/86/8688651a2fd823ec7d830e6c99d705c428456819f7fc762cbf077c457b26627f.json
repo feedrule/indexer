@@ -1,0 +1,22 @@
+{
+  "url": "https://jasontucker.blog/rss/",
+  "title": "Jason Tucker",
+  "subtitle": "Technology, homelabs, automation, and some sawdust",
+  "site": "https://jasontucker.blog/",
+  "bytes": 261360,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "jellyfin",
+    "homelab",
+    "home-assistant",
+    "smart-home"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/86/8688651a2fd823ec7d830e6c99d705c428456819f7fc762cbf077c457b26627f.json"
+}

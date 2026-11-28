@@ -1,0 +1,22 @@
+{
+  "url": "https://www.irishmirror.ie/?service=rss",
+  "title": "Irish Mirror - Home",
+  "subtitle": "RSS feed from Irish Mirror",
+  "site": "https://www.irishmirror.ie",
+  "bytes": 32754,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ireland",
+    "northern-ireland",
+    "dublin",
+    "irish"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://piotrminkowski.com/feed/atom/",
+  "title": "Piotr's TechBlog",
+  "subtitle": "Java, Spring, Kotlin, microservices, Kubernetes, containers",
+  "site": "https://piotrminkowski.com/",
+  "bytes": 1066182,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "github",
+    "spring-boot",
+    "cicd",
+    "java"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

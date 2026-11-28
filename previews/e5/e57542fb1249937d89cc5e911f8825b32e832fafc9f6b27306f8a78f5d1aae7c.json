@@ -1,0 +1,20 @@
+{
+  "url": "https://first10em.com/feed/",
+  "title": "First10EM",
+  "subtitle": "Emergency medicine - When minutes matter...",
+  "site": "https://first10em.com/",
+  "bytes": 10417,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "medicine",
+    "clinical-trials"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e5/e57542fb1249937d89cc5e911f8825b32e832fafc9f6b27306f8a78f5d1aae7c.json"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://arif.sh/feed.xml",
+  "title": "Arif Dogan — Writing",
+  "subtitle": "Notes on shipping production backend and AI systems. LLM evaluation, correctness-critical logic, document pipelines, and turning regulation into testable code.",
+  "site": "https://arif.sh/articles",
+  "bytes": 7446,
+  "last": "2026-07-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "backend",
+    "compliance",
+    "testing",
+    "regulation",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/45/45b9c21753d3c3576a1e8fa0093a0b6db31c17a6df05599dcdec075d2f7f01f9.json"
+}

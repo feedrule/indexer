@@ -1,0 +1,22 @@
+{
+  "url": "https://www.pewresearch.org/feed/",
+  "title": "Pew Research Center",
+  "subtitle": "Numbers, Facts and Trends Shaping Your World",
+  "site": "https://www.pewresearch.org",
+  "bytes": 89040,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "demographics",
+    "trends",
+    "us-politics",
+    "election-2026"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/96/967b3a23e6fe624653cf5daeb457faf02f2040c859d4b751cfa55a0305956a4f.json"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://techdecline.bearblog.dev/feed/",
+  "title": "Techdecline's Blog",
+  "subtitle": "Welcome to my blog. I'm a proud father, husband, and technology enthusiast, living and working in Dresden, Germany. Driven by two core traits, laziness and c...",
+  "site": "https://blog.techdecline.dev/",
+  "bytes": 82833,
+  "last": "2026-09-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "infrastructure-as-code",
+    "devops",
+    "terraform",
+    "platform-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/09/0962dc13efef12b42258eac4dd975e7b73019d333c4cdf4cca0529eb10ca8c7f.json"
+}

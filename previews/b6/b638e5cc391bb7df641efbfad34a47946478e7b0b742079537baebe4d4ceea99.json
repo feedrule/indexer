@@ -1,0 +1,20 @@
+{
+  "url": "https://michalkuncio.com/rss.xml",
+  "title": "Blog | Michał Kuncio - Modern webdev - the cool parts",
+  "subtitle": "Articles about Vue.js, Nuxt, TypeScript, and modern frontend development by Michał Kuncio.",
+  "site": "https://michalkuncio.com/",
+  "bytes": 17813,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vue",
+    "nuxt"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

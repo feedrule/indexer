@@ -1,0 +1,19 @@
+{
+  "url": "https://abc13.com/feed/",
+  "title": "ABC13 RSS Feed",
+  "subtitle": "Keep up with news from your local ABC station.",
+  "site": "https://abc13.com/feed",
+  "bytes": 28079,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aftermath"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/64/64090eefa15bb98ec835d4a0cb0eee9213209c28f0db8f286d2bc530d1124d3c.json"
+}

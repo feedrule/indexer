@@ -1,0 +1,20 @@
+{
+  "url": "https://www.andrewdenty.com/blog/feed",
+  "title": "Andrew Denty",
+  "subtitle": "Thoughts on design",
+  "site": "https://www.andrewdenty.com/blog/",
+  "bytes": 136065,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mac",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/79/796ee19bfd1ecf05041d1f2bd30ba50128ffd3a260f0f0dc8e8482e074b6a0d5.json"
+}

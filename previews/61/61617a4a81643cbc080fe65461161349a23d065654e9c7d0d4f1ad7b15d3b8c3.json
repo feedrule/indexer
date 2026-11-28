@@ -1,0 +1,22 @@
+{
+  "url": "https://deadlime.hu/en/feed/",
+  "title": "deadlime",
+  "subtitle": "Web, programming, dead citrus fruits.",
+  "site": "https://deadlime.hu/en/",
+  "bytes": 440534,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vintage-computing",
+    "hardware",
+    "raspberry-pi",
+    "security"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/61/61617a4a81643cbc080fe65461161349a23d065654e9c7d0d4f1ad7b15d3b8c3.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://www.test2doc.com/blog/atom.xml",
+  "title": "Test2Doc Blog",
+  "subtitle": "Test2Doc Blog",
+  "site": "https://www.test2doc.com/blog",
+  "bytes": 354659,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "test-driven-development",
+    "testing",
+    "development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

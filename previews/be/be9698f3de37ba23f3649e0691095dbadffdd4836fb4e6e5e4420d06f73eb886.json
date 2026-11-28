@@ -1,0 +1,19 @@
+{
+  "url": "https://ohler.com/rss.xml",
+  "title": "Ohler Online",
+  "subtitle": "My latest new on my OSS project covering JSON, XML, and GraphQL with Ruby, Go and C.",
+  "site": "http://www.ohler.com/",
+  "bytes": 5450,
+  "last": "2026-01-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nosql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/be/be9698f3de37ba23f3649e0691095dbadffdd4836fb4e6e5e4420d06f73eb886.json"
+}

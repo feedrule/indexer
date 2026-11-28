@@ -1,0 +1,21 @@
+{
+  "url": "https://anthony.noided.media/feed.xml",
+  "title": "Anthony Super",
+  "subtitle": "Personal Blog of Anthony Super. Includes articles on startups, programming, life, humor, and music.",
+  "site": "http://anthony.noided.media/",
+  "bytes": 538204,
+  "last": "2026-02-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "writing",
+    "haskell"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1d/1d620e2883457de38a5dcd26d67d83ca69361cde0fade885207a84243b333b80.json"
+}

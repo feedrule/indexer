@@ -1,0 +1,20 @@
+{
+  "url": "https://batsov.com/atom.xml",
+  "title": "(think)",
+  "subtitle": "Bozhidar Batsov's personal blog",
+  "site": "https://batsov.com/",
+  "bytes": 137614,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ocaml",
+    "emacs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/6c/6cc3886e83bc7d2245c877d4b7092f1630bb28592ff0c0ef83bd4ba9eb3a6c62.json"
+}

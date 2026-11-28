@@ -1,0 +1,19 @@
+{
+  "url": "https://oxidt.com/blog/rss.xml",
+  "title": "OXIDT",
+  "subtitle": "I’m Hauke, a solo developer building SaaS with Rust. I write about Dioxus, self-hosting, and the AI tools I use to ship.",
+  "site": "https://oxidt.com/blog",
+  "bytes": 416850,
+  "last": "2026-11-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c0/c09cea28fd7074e53991b69d16b36d11e1042c82e6b5194330fc09a187692010.json"
+}

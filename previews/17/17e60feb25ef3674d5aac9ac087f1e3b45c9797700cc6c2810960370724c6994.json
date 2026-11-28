@@ -1,0 +1,22 @@
+{
+  "url": "https://lukebechtel.com/feed.xml",
+  "title": "Luke Bechtel",
+  "subtitle": "Let's think step by step.",
+  "site": "https://lukebechtel.com/blog",
+  "bytes": 7664,
+  "last": "2026-02-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "machine-learning",
+    "productivity",
+    "llm"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/17/17e60feb25ef3674d5aac9ac087f1e3b45c9797700cc6c2810960370724c6994.json"
+}

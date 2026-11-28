@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bitdoze.com/rss.xml",
+  "title": "Bitdoze",
+  "subtitle": "Practical DevOps, programming, and self-hosting guides for developers and operators.",
+  "site": "https://www.bitdoze.com/",
+  "bytes": 17786,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker",
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/51/5100c2f93bd03c182774017a18dce031f8a19246e0f93050700822cd304f0209.json"
+}

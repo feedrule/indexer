@@ -1,0 +1,19 @@
+{
+  "url": "https://tiv.today/rss/",
+  "title": "The Independent Variable",
+  "subtitle": "the official linkblog of the interwebs covering culture, politics, sports, and tech since 2012.",
+  "site": "https://tiv.today/",
+  "bytes": 17920,
+  "last": "2026-10-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "politics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fd/fdb890e4d4dba5f985e6476108e2dfb46dc75986279ceaf04c351efb65c5b4a6.json"
+}

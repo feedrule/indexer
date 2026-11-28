@@ -1,0 +1,21 @@
+{
+  "url": "https://italoamericano.org/feed/",
+  "title": "L'Italo-Americano – Italian American bilingual news source",
+  "subtitle": null,
+  "site": "https://italoamericano.org",
+  "bytes": 14499,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "italian",
+    "venice",
+    "tuscany"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/40/40822a70c04c1c76ca5d4004deb81fb26272b3e3442306f1b89f7cb8d02fdd99.json"
+}

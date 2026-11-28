@@ -1,0 +1,20 @@
+{
+  "url": "https://hackaday.com/feed/",
+  "title": "Hackaday",
+  "subtitle": "Fresh hacks every day",
+  "site": "https://hackaday.com",
+  "bytes": 45993,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hardware-hacking",
+    "microcontroller"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

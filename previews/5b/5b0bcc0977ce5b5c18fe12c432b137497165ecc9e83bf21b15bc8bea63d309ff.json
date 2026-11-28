@@ -1,0 +1,22 @@
+{
+  "url": "https://shivering-isles.com/feed.xml",
+  "title": "Sheogorath's Blog",
+  "subtitle": "Depending on the time of the day a friend, a colleague, a wise guy. The beauty of the world is its sense of humor to show humans their way by letting them search their own.",
+  "site": "https://shivering-isles.com/",
+  "bytes": 133929,
+  "last": "2026-07-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "self-hosting",
+    "kubernetes",
+    "keycloak",
+    "web"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

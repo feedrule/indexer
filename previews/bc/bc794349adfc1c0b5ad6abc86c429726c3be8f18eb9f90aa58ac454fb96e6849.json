@@ -1,0 +1,23 @@
+{
+  "url": "https://dasdom.dev/feed.xml",
+  "title": "dasdom.dev",
+  "subtitle": "A blog about Xcode, iOS development and test-driven development.",
+  "site": "https://dasdom.dev/",
+  "bytes": 34603,
+  "last": "2026-05-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ios-development",
+    "xcode",
+    "ios",
+    "tooling",
+    "appkit"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bc/bc794349adfc1c0b5ad6abc86c429726c3be8f18eb9f90aa58ac454fb96e6849.json"
+}

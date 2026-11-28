@@ -1,0 +1,21 @@
+{
+  "url": "https://www.jujens.eu/feeds/all.atom.xml",
+  "title": "Julien Enselme personal blog",
+  "subtitle": null,
+  "site": "https://www.jujens.eu/",
+  "bytes": 465554,
+  "last": "2026-07-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "django",
+    "jupyter",
+    "python"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3d/3d4ea3c4ec344a1065f1c53c78ae3ac5485150c03c93fa253c5f8ebe95cc390c.json"
+}

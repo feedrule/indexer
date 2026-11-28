@@ -1,0 +1,20 @@
+{
+  "url": "https://linuxwizardry.com/feed/atom/",
+  "title": "Linux Wizardry",
+  "subtitle": "Linux Tutorials, Tips, and Tricks",
+  "site": "https://linuxwizardry.com",
+  "bytes": 75944,
+  "last": "2026-01-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux",
+    "tutorial"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/15/15c5f890316a740feefaec14e6e0d618faea57593c422ac5277eab2c6245cf50.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://nemo.foo/feed.xml",
+  "title": "nemo.foo",
+  "subtitle": "Thoughts and learnings as I take on new side projects. 15 yoe building software. Looking for the right side project to go full time with.",
+  "site": "https://nemo.foo",
+  "bytes": 90114,
+  "last": "2026-05-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hardware",
+    "embedded-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

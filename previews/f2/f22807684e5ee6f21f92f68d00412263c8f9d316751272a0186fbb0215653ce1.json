@@ -1,0 +1,19 @@
+{
+  "url": "https://www.austintripp.ca/rss.xml",
+  "title": "Austin Tripp's website",
+  "subtitle": "Austin Tripp's personal website",
+  "site": "https://austintripp.ca/blog/all/",
+  "bytes": 697717,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "machine-learning"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f2/f22807684e5ee6f21f92f68d00412263c8f9d316751272a0186fbb0215653ce1.json"
+}

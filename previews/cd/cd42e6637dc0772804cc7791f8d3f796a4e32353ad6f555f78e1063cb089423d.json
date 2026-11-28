@@ -1,0 +1,21 @@
+{
+  "url": "https://reinout.vanrees.org/weblog/atom.xml",
+  "title": "Reinout van Rees' weblog",
+  "subtitle": "Python, grok, books, history, faith, etc.",
+  "site": "https://reinout.vanrees.org/weblog/",
+  "bytes": 44131,
+  "last": "2026-10-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "pycon",
+    "python",
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cd/cd42e6637dc0772804cc7791f8d3f796a4e32353ad6f555f78e1063cb089423d.json"
+}

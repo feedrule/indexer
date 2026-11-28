@@ -1,0 +1,21 @@
+{
+  "url": "https://mydeveloperplanet.com/feed/",
+  "title": "My Developer Planet",
+  "subtitle": "This blog is a platform for me to share my knowledge in the area of software development.",
+  "site": "https://mydeveloperplanet.com",
+  "bytes": 307605,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-assistant",
+    "java",
+    "rabbitmq"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>students feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="MathPickle" title="MathPickle" xmlUrl="https://mathpickle.com/feed/" htmlUrl="https://mathpickle.com"/>
+    <outline type="rss" text="The Student Life" title="The Student Life" xmlUrl="https://tsl.news/feed/" htmlUrl="https://tsl.news/"/>
+    <outline type="rss" text="Joanne Jacobs" title="Joanne Jacobs" xmlUrl="https://www.joannejacobs.com/blog-feed.xml" htmlUrl="https://www.joannejacobs.com/my-blog"/>
+  </body>
+</opml>

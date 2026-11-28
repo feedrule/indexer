@@ -1,0 +1,20 @@
+{
+  "url": "https://iretq.com/rss/",
+  "title": "iretq",
+  "subtitle": "Windows internals, low-level research, and reverse engineering.",
+  "site": "https://iretq.com/",
+  "bytes": 81460,
+  "last": "2026-09-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "windows-internals",
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

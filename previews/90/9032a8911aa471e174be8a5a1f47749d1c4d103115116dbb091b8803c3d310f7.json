@@ -1,0 +1,19 @@
+{
+  "url": "https://timstr.website/rss.xml",
+  "title": "Tim Straubinger's Blog",
+  "subtitle": "RSS feed for Tim's latest blog posts.",
+  "site": "https://timstr.website/blog",
+  "bytes": 2040,
+  "last": "2026-03-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

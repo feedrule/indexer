@@ -1,0 +1,21 @@
+{
+  "url": "https://www.davidtemplin.name/rss/",
+  "title": "David Templin's Blog",
+  "subtitle": "A blog about mathematics, computer science, and related topics.",
+  "site": "https://www.davidtemplin.name/",
+  "bytes": 676414,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "math",
+    "lambda-calculus",
+    "computer-science"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b5/b5a049047008074bb7c43c611645f44ced5aa6adef8dac5038b0c4d35887807f.json"
+}

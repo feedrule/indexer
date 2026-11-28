@@ -1,0 +1,19 @@
+{
+  "url": "https://feeds.feedburner.com/oshogbo",
+  "title": "oshogbo web",
+  "subtitle": "oshogbo - My place in space",
+  "site": "https://oshogbo.com",
+  "bytes": 39760,
+  "last": "2026-07-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "zfs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fa/fabdd574dd15a022de3ea188ba71f47b8627029bd0bda45aa07573ef36c1a4ba.json"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://www.binaryphile.com/feed.xml",
+  "title": "binary.phile",
+  "subtitle": "Musings, mostly on technology.",
+  "site": "https://binaryphile.github.io/",
+  "bytes": 367035,
+  "last": "2026-05-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gnu",
+    "unix",
+    "software-engineering",
+    "bash"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/81/8173c5188ed1f8bc847e40e53166b373b2337012891f079c1ba0e4decaf88360.json"
+}

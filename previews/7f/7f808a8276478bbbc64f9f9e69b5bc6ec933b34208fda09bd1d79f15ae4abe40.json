@@ -1,0 +1,20 @@
+{
+  "url": "https://externaltable.blogspot.com/feeds/posts/default",
+  "title": "External Table",
+  "subtitle": "Luca's blog on data engineering, data platforms, and performance.",
+  "site": "https://externaltable.blogspot.com/",
+  "bytes": 1077214,
+  "last": "2026-05-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "spark",
+    "performance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7f/7f808a8276478bbbc64f9f9e69b5bc6ec933b34208fda09bd1d79f15ae4abe40.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.guillaume-gomez.fr/atom",
+  "title": "Guillaume Gomez's blog",
+  "subtitle": "IT/Rust-oriented blog posts",
+  "site": "https://blog.guillaume-gomez.fr/atom",
+  "bytes": 487290,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8f/8f1551800ae86f365c2e8086a8cb791244a8ede4bb1efe59edba6a7d44d1e863.json"
+}

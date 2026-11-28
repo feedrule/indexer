@@ -1,0 +1,19 @@
+{
+  "url": "https://tinkering.xyz/rss.xml",
+  "title": "Tinkering",
+  "subtitle": "Come for the Foo, stay for the Bar",
+  "site": "https://tinkering.xyz",
+  "bytes": 982839,
+  "last": "2026-07-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b3/b31b34057d1d78129745a5e288ad5d5a64829a5d5b9602ab96cb8d2c54e1e069.json"
+}

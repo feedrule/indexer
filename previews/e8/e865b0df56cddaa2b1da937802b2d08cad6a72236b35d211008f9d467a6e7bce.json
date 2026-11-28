@@ -1,0 +1,22 @@
+{
+  "url": "https://shramko.dev/feed.xml",
+  "title": "Serhii Shramko's Blog",
+  "subtitle": "Senior Software Engineer sharing guides on JavaScript, TypeScript, React, and Next.js.",
+  "site": "https://shramko.dev/blog",
+  "bytes": 49001,
+  "last": "2026-09-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "react",
+    "nodejs",
+    "typescript",
+    "javascript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>steam feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BC Engine" title="BC Engine" xmlUrl="https://bcengine.net/feed/" htmlUrl="https://bcengine.net/"/>
+    <outline type="rss" text="davep" title="davep" xmlUrl="https://blog.davep.org/feeds/all.atom.xml" htmlUrl="https://blog.davep.org"/>
+    <outline type="rss" text="Boiling Steam" title="Boiling Steam" xmlUrl="https://boilingsteam.com/feed/" htmlUrl="https://boilingsteam.com"/>
+    <outline type="rss" text="Steam RSS News Feed" title="Steam RSS News Feed" xmlUrl="https://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
+    <outline type="rss" text="Nerdly" title="Nerdly" xmlUrl="https://www.nerdly.co.uk/feed/" htmlUrl="https://www.nerdly.co.uk"/>
+  </body>
+</opml>

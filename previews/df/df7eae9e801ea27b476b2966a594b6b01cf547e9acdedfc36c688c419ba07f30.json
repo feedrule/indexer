@@ -1,0 +1,21 @@
+{
+  "url": "https://diy.viktak.com/feed",
+  "title": "Viktor’s DIY Blog",
+  "subtitle": "beep... beep... blink... blink...",
+  "site": "https://diy.viktak.com",
+  "bytes": 317203,
+  "last": "2026-05-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "esp32",
+    "prototyping",
+    "iot"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

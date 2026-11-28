@@ -1,0 +1,21 @@
+{
+  "url": "https://posts.oztamir.com/rss.xml",
+  "title": "0xZ",
+  "subtitle": "# cat /dev/brain >> posts",
+  "site": "https://posts.oztamir.com/",
+  "bytes": 458562,
+  "last": "2026-10-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "automation",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/04/041b76eb21b4b4c3cf872b1ab0e02f6b7e22a71db18d706ce640e797a2c091d8.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://norlinder.nu/feed.xml",
+  "title": "Jonas Norlinder",
+  "subtitle": "Oracle JVM Engineer. GC researcher. Empirical research and deep dives into the OpenJDK HotSpot mainline, ZGC, and Java performance.",
+  "site": "https://norlinder.nu/",
+  "bytes": 6923,
+  "last": "2026-09-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "java",
+    "openjdk",
+    "performance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

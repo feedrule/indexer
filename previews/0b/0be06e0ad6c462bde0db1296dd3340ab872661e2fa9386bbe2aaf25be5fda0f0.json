@@ -1,0 +1,21 @@
+{
+  "url": "https://beninson.com/feed/",
+  "title": "Hi, I’m Jonathan",
+  "subtitle": "This is a place for me to share my thoughts. I’m glad you’re here.",
+  "site": "https://beninson.com",
+  "bytes": 221895,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "environment",
+    "humanity"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0b/0be06e0ad6c462bde0db1296dd3340ab872661e2fa9386bbe2aaf25be5fda0f0.json"
+}

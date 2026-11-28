@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>docker-compose feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="domi.work" title="domi.work" xmlUrl="https://domi.work/rss.xml" htmlUrl="https://domi.work/"/>
+    <outline type="rss" text="Home on FarisZR" title="Home on FarisZR" xmlUrl="https://fariszr.com/index.xml" htmlUrl="https://fariszr.com/"/>
+    <outline type="rss" text="Softuts" title="Softuts" xmlUrl="https://softuts.com/rss/" htmlUrl="https://softuts.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,20 @@
+{
+  "url": "https://nomisrev.github.io/feed.xml",
+  "title": "nomisRev",
+  "subtitle": "Personal blog to share some snippets, thoughts, blogs or interessting discussion from Kotlin Slack",
+  "site": "http://nomisrev.github.io/",
+  "bytes": 130507,
+  "last": "2026-05-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kotlin",
+    "microservices"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/83/830a030764ffe3fa5899e2c8f3b6400dde1e423afc3dd8389b0f013c039b5af2.json"
+}

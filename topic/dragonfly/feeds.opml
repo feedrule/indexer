@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>dragonfly feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="dragon's vibe" title="dragon's vibe" xmlUrl="https://dragon-vi.be/atom.xml" htmlUrl="https://dragon-vi.be"/>
+    <outline type="rss" text="afterthoughts from a dumb dragoness" title="afterthoughts from a dumb dragoness" xmlUrl="https://kryst4line.bearblog.dev/feed/" htmlUrl="https://kryst4line.bearblog.dev/"/>
+    <outline type="rss" text="Robin Sloan" title="Robin Sloan" xmlUrl="https://www.robinsloan.com/feed.xml" htmlUrl="https://www.robinsloan.com/"/>
+  </body>
+</opml>

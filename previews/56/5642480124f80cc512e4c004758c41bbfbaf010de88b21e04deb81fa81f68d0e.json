@@ -1,0 +1,20 @@
+{
+  "url": "https://amund.blog/rss.xml",
+  "title": "Amund Tveit's blog RSS Feed",
+  "subtitle": "Personal technical blog on AI engineering across model training, verifiable coding agents, and AI for Bank Tech by Amund Tveit.",
+  "site": "https://amund.blog",
+  "bytes": 764760,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "deep-tech",
+    "apple-intelligence"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/56/5642480124f80cc512e4c004758c41bbfbaf010de88b21e04deb81fa81f68d0e.json"
+}

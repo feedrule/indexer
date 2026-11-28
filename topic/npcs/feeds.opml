@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>npcs feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="felblog" title="felblog" xmlUrl="https://felpawns.com/feed/" htmlUrl="https://felpawns.com"/>
+    <outline type="rss" text="NPC News Online" title="NPC News Online" xmlUrl="https://npcnewsonline.com/feed/" htmlUrl="https://npcnewsonline.com"/>
+    <outline type="rss" text="NPC Observer" title="NPC Observer" xmlUrl="https://npcobserver.com/feed/" htmlUrl="https://npcobserver.com"/>
+  </body>
+</opml>

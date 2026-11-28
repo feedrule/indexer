@@ -1,0 +1,19 @@
+{
+  "url": "https://velade.org/rss.xml",
+  "title": "Vela Journal",
+  "subtitle": "Long-form notes from the development of Vela, a modern Linux desktop environment.",
+  "site": "https://velade.org/",
+  "bytes": 190857,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "community"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/76/765a09c07787b1e4fb8aa2f2db16e7d3dfd4ae6cd7f9a7b387f2db74e5d23f1c.json"
+}

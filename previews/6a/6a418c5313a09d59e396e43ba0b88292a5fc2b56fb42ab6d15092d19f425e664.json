@@ -1,0 +1,19 @@
+{
+  "url": "https://hnrss.org/frontpage",
+  "title": "Hacker News: Front Page",
+  "subtitle": "Hacker News RSS",
+  "site": "https://news.ycombinator.com/",
+  "bytes": 19553,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacker-news"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/6a/6a418c5313a09d59e396e43ba0b88292a5fc2b56fb42ab6d15092d19f425e664.json"
+}

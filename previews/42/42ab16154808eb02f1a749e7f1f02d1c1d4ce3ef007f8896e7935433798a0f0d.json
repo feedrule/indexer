@@ -1,0 +1,21 @@
+{
+  "url": "https://nimish.ch/feed.xml",
+  "title": "Captain Jack Sparow",
+  "subtitle": "Cybersecurity writeups, CTF notes, reverse engineering walkthroughs, forensics labs, and Linux troubleshooting.",
+  "site": "https://nimish.ch/",
+  "bytes": 76375,
+  "last": "2026-07-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "forensics",
+    "hackathon"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/42/42ab16154808eb02f1a749e7f1f02d1c1d4ce3ef007f8896e7935433798a0f0d.json"
+}

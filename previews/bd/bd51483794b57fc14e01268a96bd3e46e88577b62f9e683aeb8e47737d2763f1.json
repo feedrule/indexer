@@ -1,0 +1,22 @@
+{
+  "url": "https://magarcia.io/rss.xml",
+  "title": "magarcia",
+  "subtitle": "A personal blog by Martin Garcia. Thoughts, words, and experiments about code.",
+  "site": "https://magarcia.io",
+  "bytes": 307361,
+  "last": "2026-03-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "advent-of-code",
+    "tooling",
+    "typescript",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

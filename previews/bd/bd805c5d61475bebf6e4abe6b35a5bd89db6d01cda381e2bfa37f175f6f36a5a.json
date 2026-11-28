@@ -1,0 +1,19 @@
+{
+  "url": "https://fox59.com/feed/",
+  "title": "Fox 59",
+  "subtitle": "Indianapolis News, Indiana Weather, Indiana News, Indiana Traffic, Indiana Local News, Indiana Sports, Community, Entertainment",
+  "site": "https://fox59.com",
+  "bytes": 23276,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "indiana"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bd/bd805c5d61475bebf6e4abe6b35a5bd89db6d01cda381e2bfa37f175f6f36a5a.json"
+}

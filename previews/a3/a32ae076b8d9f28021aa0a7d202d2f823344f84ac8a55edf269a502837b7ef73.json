@@ -1,0 +1,22 @@
+{
+  "url": "https://emma.has-a.blog/feeds/_rss.xml",
+  "title": "Emma has a blog",
+  "subtitle": null,
+  "site": "https://emma.has-a.blog",
+  "bytes": 16571,
+  "last": "2026-02-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "advent-of-code",
+    "django",
+    "ai",
+    "python"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a3/a32ae076b8d9f28021aa0a7d202d2f823344f84ac8a55edf269a502837b7ef73.json"
+}

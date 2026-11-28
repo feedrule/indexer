@@ -1,0 +1,23 @@
+{
+  "url": "https://fedur.co/rss.xml",
+  "title": "Mykola Fedurko Blog",
+  "subtitle": "Software engineer building code-analysis and developer-tooling systems around analyzers, parsers, Roslyn, intermediate representations, and automation.",
+  "site": "https://fedur.co/blog/",
+  "bytes": 4807,
+  "last": "2026-10-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "programming",
+    "open-source",
+    "programming-languages",
+    "computer-science"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

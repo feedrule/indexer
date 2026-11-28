@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>non-profit feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Nonprofit update." title="Nonprofit update." xmlUrl="https://nonprofitupdate.info/feed/" htmlUrl="https://nonprofitupdate.info"/>
+    <outline type="rss" text="Ryan Shook" title="Ryan Shook" xmlUrl="https://ryanshook.org/blog/feed.xml" htmlUrl="https://ryanshook.org/blog/"/>
+    <outline type="rss" text="Sanjay Parekh" title="Sanjay Parekh" xmlUrl="https://www.sanjayparekh.com/rss/" htmlUrl="https://www.sanjayparekh.com/"/>
+  </body>
+</opml>

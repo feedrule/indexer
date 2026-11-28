@@ -1,0 +1,20 @@
+{
+  "url": "https://travishaagen.github.io/atom",
+  "title": "Travis Haagen's Blog",
+  "subtitle": "Travis Haagen's blog for Software Engineers",
+  "site": "https://travishaagen.github.io",
+  "bytes": 72118,
+  "last": "2026-01-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "backend",
+    "software-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bf/bf7d7445f7cf7e11744110acafd5c76a13ee0f6c4eb9fac4c09e60ef8f6fb3fb.json"
+}

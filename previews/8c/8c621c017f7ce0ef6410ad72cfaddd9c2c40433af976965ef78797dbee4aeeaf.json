@@ -1,0 +1,20 @@
+{
+  "url": "https://mccaulay.co.uk/feed/",
+  "title": "McCaulay",
+  "subtitle": "Vulnerability Research & Exploit Development",
+  "site": "https://mccaulay.co.uk",
+  "bytes": 255365,
+  "last": "2026-10-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "exploit",
+    "vulnerability-research"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8c/8c621c017f7ce0ef6410ad72cfaddd9c2c40433af976965ef78797dbee4aeeaf.json"
+}

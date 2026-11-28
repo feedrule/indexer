@@ -1,0 +1,23 @@
+{
+  "url": "https://perlhacks.com/feed/",
+  "title": "Perl Hacks",
+  "subtitle": "Just another Perl Hacker's blog",
+  "site": "https://perlhacks.com",
+  "bytes": 140256,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "perl",
+    "open-source",
+    "programming",
+    "cpan",
+    "web-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

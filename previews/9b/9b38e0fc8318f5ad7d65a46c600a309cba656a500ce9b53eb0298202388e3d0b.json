@@ -1,0 +1,21 @@
+{
+  "url": "https://techwatching.dev/feed.atom",
+  "title": "Alexandre Nedelec's blog",
+  "subtitle": "Alexandre Nédélec's blog",
+  "site": "https://techwatching.dev/posts",
+  "bytes": 54985,
+  "last": "2026-03-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "azure-devops",
+    "azure",
+    "nuxt"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

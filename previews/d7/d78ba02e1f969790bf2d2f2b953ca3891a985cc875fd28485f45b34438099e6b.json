@@ -1,0 +1,19 @@
+{
+  "url": "https://hmmr.online/index.xml",
+  "title": "Hammer Tech Blog",
+  "subtitle": "Practical stuff on Linux, Docker, and self-hosting. Container setups, reverse proxies, home servers – and other questionable life choices.",
+  "site": "https://hmmr.online/",
+  "bytes": 5741,
+  "last": "2026-08-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

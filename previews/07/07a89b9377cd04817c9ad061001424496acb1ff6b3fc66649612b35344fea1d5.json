@@ -1,0 +1,17 @@
+{
+  "url": "https://www.benko.app/blog/rss.xml",
+  "title": "Benko Blog",
+  "subtitle": "Building a Kotlin Multiplatform app for all platforms, using LLMs only.",
+  "site": "https://benko.com/blog",
+  "bytes": 788,
+  "last": "2026-07-03",
+  "languages": [],
+  "topics": [
+    "kotlin"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

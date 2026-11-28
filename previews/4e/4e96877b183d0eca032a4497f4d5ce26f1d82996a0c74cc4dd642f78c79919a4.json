@@ -1,0 +1,21 @@
+{
+  "url": "https://www.mooreds.com/wordpress/feed",
+  "title": "Dan Moore!",
+  "subtitle": "My place on the web",
+  "site": "https://www.mooreds.com/wordpress",
+  "bytes": 55502,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "jobs",
+    "books"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4e/4e96877b183d0eca032a4497f4d5ce26f1d82996a0c74cc4dd642f78c79919a4.json"
+}

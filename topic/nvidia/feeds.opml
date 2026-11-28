@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nvidia feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="NVIDIA Technical Blog" title="NVIDIA Technical Blog" xmlUrl="https://developer.nvidia.com/blog/feed" htmlUrl="https://developer.nvidia.com/blog"/>
+    <outline type="rss" text="doug.sh" title="doug.sh" xmlUrl="https://doug.sh/index.xml" htmlUrl="https://doug.sh/"/>
+    <outline type="rss" text="Interfacing Linux" title="Interfacing Linux" xmlUrl="https://interfacinglinux.com/feed/atom/" htmlUrl="https://interfacinglinux.com"/>
+    <outline type="rss" text="JetsonHacks" title="JetsonHacks" xmlUrl="https://jetsonhacks.com/feed/" htmlUrl="https://jetsonhacks.com/"/>
+    <outline type="rss" text="Liberals Are Cool" title="Liberals Are Cool" xmlUrl="https://liberalsarecool.com/rss" htmlUrl="https://liberalsarecool.com/"/>
+    <outline type="rss" text="negativo17.org" title="negativo17.org" xmlUrl="https://negativo17.org/feed/" htmlUrl="https://negativo17.org"/>
+    <outline type="rss" text="Adventures With Linux ™" title="Adventures With Linux ™" xmlUrl="https://rglinuxtech.com/?feed=rss2" htmlUrl="https://rglinuxtech.com"/>
+    <outline type="rss" text="NYT &gt; Technology" title="NYT &gt; Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" htmlUrl="https://www.nytimes.com/section/technology"/>
+  </body>
+</opml>

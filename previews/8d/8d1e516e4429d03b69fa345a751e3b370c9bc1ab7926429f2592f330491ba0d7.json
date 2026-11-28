@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.boon.gl/feed.xml",
+  "title": "Boon Blog",
+  "subtitle": "Boon Blog — writing on technology, React, Elm, and the occasional aside about life in San Francisco.",
+  "site": "http://blog.boon.gl/",
+  "bytes": 101467,
+  "last": "2026-06-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "react",
+    "redux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8d/8d1e516e4429d03b69fa345a751e3b370c9bc1ab7926429f2592f330491ba0d7.json"
+}

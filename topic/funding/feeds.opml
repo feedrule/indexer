@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>funding feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Adam Jonas" title="Adam Jonas" xmlUrl="https://adamjonas.com/atom.xml" htmlUrl="https://adamjonas.com/"/>
+    <outline type="rss" text="Joe blogs." title="Joe blogs." xmlUrl="https://joe-mitchell.com/feed/" htmlUrl="https://joe-mitchell.com"/>
+    <outline type="rss" text="Pitching Angels" title="Pitching Angels" xmlUrl="https://pitchingangels.com/feed/" htmlUrl="https://pitchingangels.com"/>
+    <outline type="rss" text="School Finance 101" title="School Finance 101" xmlUrl="https://schoolfinance101.com/feed/" htmlUrl="https://schoolfinance101.com"/>
+    <outline type="rss" text="Silicon Hills Lawyer" title="Silicon Hills Lawyer" xmlUrl="https://siliconhillslawyer.com/feed/atom/" htmlUrl="https://siliconhillslawyer.com/"/>
+  </body>
+</opml>

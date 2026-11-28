@@ -1,0 +1,23 @@
+{
+  "url": "https://www.junauza.com/feeds/posts/default",
+  "title": "Tech Source",
+  "subtitle": "Tech News, Reviews, Tips & How-to's Since 2007",
+  "site": "https://www.junauza.com/",
+  "bytes": 396492,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux",
+    "hardware",
+    "tesla",
+    "gadgets",
+    "software"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d0/d04b1a664847c19cdd736bd6b6517d8a581b4aae5d98fc16d1675ae78311a273.json"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>spacex feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="TMF Associates blog" title="TMF Associates blog" xmlUrl="https://tmfassociates.com/blog/feed/atom/" htmlUrl="https://tmfassociates.com/blog"/>
+    <outline type="rss" text="human Mars" title="human Mars" xmlUrl="https://www.humanmars.net/feeds/posts/default" htmlUrl="https://www.humanmars.net/"/>
+    <outline type="rss" text="Space | The Guardian" title="Space | The Guardian" xmlUrl="https://www.theguardian.com/science/space/rss" htmlUrl="https://www.theguardian.com/science/space"/>
+  </body>
+</opml>

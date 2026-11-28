@@ -1,0 +1,20 @@
+{
+  "url": "https://nickbearman.com/blog.xml",
+  "title": "Nick Bearman",
+  "subtitle": "A blog on my teaching, open source GIS, travel and life",
+  "site": "https://nickbearman.github.io/blog.html",
+  "bytes": 198225,
+  "last": "2026-09-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "geospatial",
+    "conference"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/13/13f3cd057ff89e7691c0d020fa26c1130e901a8f86e1e40cdafe78916b73562b.json"
+}

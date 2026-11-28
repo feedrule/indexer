@@ -1,0 +1,21 @@
+{
+  "url": "https://anuganti.com/articles/feed.xml",
+  "title": "Venu Anuganti: Articles",
+  "subtitle": "Long-form writing on enterprise AI, inference, and agentic AI.",
+  "site": "https://anuganti.com/articles/",
+  "bytes": 7215,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "enterprise-ai",
+    "ai-agents",
+    "ai-infrastructure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a5/a5ceec75825f73779b3724c7ee060c5f33dd04847eabea611c2354dadd9cc7a3.json"
+}

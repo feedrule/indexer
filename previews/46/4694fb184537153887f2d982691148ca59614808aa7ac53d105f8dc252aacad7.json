@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.mozilla.org/ux/feed/",
+  "title": "Firefox UX",
+  "subtitle": null,
+  "site": "https://blog.mozilla.org/ux",
+  "bytes": 138243,
+  "last": "2026-08-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "firefox",
+    "user-research",
+    "content-strategy",
+    "mobile"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/46/4694fb184537153887f2d982691148ca59614808aa7ac53d105f8dc252aacad7.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://gigasquidsoftware.com/atom.xml",
+  "title": "Squid's Blog",
+  "subtitle": "Recent content on Squid's Blog",
+  "site": "https://gigasquidsoftware.com/",
+  "bytes": 149922,
+  "last": "2026-05-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure",
+    "clojurescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/11/110827425eb38c3bcfdaf2335d01c00900d6a035ba2a2bc18c2728997170d80e.json"
+}

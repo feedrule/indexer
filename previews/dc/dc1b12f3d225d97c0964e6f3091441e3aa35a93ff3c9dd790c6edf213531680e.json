@@ -1,0 +1,19 @@
+{
+  "url": "https://t27duck.com/posts.xml",
+  "title": "t27duck.com posts",
+  "subtitle": "Posts from my personal blog",
+  "site": "https://t27duck.com/",
+  "bytes": 10902,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ruby-on-rails"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dc/dc1b12f3d225d97c0964e6f3091441e3aa35a93ff3c9dd790c6edf213531680e.json"
+}

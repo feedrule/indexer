@@ -1,0 +1,21 @@
+{
+  "url": "https://codebrief.com/atom.xml",
+  "title": "CodeBrief",
+  "subtitle": "Short musings about software development. The personal blog of Gordon Leland Hempton.",
+  "site": "https://codebrief.com/",
+  "bytes": 400574,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling",
+    "ember",
+    "javascript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://stroppy.io/blog/rss.xml",
+  "title": "Stroppy Blog",
+  "subtitle": "Stroppy Blog",
+  "site": "https://stroppy.io/blog",
+  "bytes": 186513,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "stm32",
+    "strace",
+    "benchmark",
+    "performance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8b/8b4dfc7c4b972f83b4f5faa8a12e9e8638d4cdcf582ed73ddf163198b26dfb7b.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://patrickm.de/rss/",
+  "title": "Patrick Müller",
+  "subtitle": "Hey, I’m Patrick 👋 I share what I learn about software engineering (mostly Python), AI, product development, and life as a dev.",
+  "site": "https://patrickm.de/",
+  "bytes": 200506,
+  "last": "2026-08-30",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "topics": [
+    "python"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5a/5ac0e9111f477a198812d43c6e2d33077f0d398483db1a1a47eb70a549495503.json"
+}

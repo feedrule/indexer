@@ -1,0 +1,21 @@
+{
+  "url": "https://codechimp.org/rss.xml",
+  "title": "CodeChimp",
+  "subtitle": "A collection of articles and projects on development, automation, and productivity tools.",
+  "site": "https://codechimp.org/",
+  "bytes": 5875,
+  "last": "2026-10-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling",
+    "smart-home",
+    "swiftui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/40/402c8621242b72abc3f9783b711eebfdb4c47cab8506670ba83e4ae29fe74d0d.json"
+}

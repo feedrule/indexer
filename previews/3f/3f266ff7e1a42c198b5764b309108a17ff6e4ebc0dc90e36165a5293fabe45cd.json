@@ -1,0 +1,22 @@
+{
+  "url": "https://www.statox.fr/feed",
+  "title": "The stuff I do",
+  "subtitle": "statox's blog",
+  "site": "https://www.statox.fr/",
+  "bytes": 253498,
+  "last": "2026-03-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "monitoring",
+    "logging",
+    "github-copilot",
+    "release-notes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3f/3f266ff7e1a42c198b5764b309108a17ff6e4ebc0dc90e36165a5293fabe45cd.json"
+}

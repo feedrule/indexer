@@ -1,0 +1,23 @@
+{
+  "url": "https://davidwells.io/feeds/all.xml",
+  "title": "David Wells - Everything",
+  "subtitle": "Everything new from David Wells — writing and projects.",
+  "site": "https://davidwells.io",
+  "bytes": 33046,
+  "last": "2026-11-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling",
+    "automation",
+    "serverless",
+    "command-line",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://atlee.ca/rss.xml",
+  "title": "chris' random ramblings",
+  "subtitle": "programming, photography, media, and anything else that strikes my fancy",
+  "site": "https://atlee.ca/",
+  "bytes": 132376,
+  "last": "2026-09-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vim",
+    "programming",
+    "ruby"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/51/51dc86338a9c769802be21ca43e54d8108fd95a35d6aada7b3a4ac46f60dbc56.json"
+}

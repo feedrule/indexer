@@ -1,0 +1,20 @@
+{
+  "url": "https://reidkimball.com/rss.xml",
+  "title": "Reid Kimball | Dev Journal",
+  "subtitle": "A feed of my latest blog posts",
+  "site": "https://reidkimball.com/",
+  "bytes": 3323,
+  "last": "2026-01-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "ai-coding-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ed/edd0f88dfdba6bf6d8ea0f8e1fe032f58ad8b0c611ea0790d378f028805cba3b.json"
+}

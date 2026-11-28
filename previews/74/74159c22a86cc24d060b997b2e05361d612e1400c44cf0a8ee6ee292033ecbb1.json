@@ -1,0 +1,19 @@
+{
+  "url": "https://fixpt.de/atom.xml",
+  "title": "fixpt",
+  "subtitle": "Blog about Haskell, programming lanugage semantics, theory and implementation",
+  "site": "https://sgraf812.github.io/",
+  "bytes": 214324,
+  "last": "2026-06-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "haskell"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

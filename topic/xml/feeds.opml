@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>xml feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Hartwork Blog" title="Hartwork Blog" xmlUrl="https://blog.hartwork.org/rss.xml" htmlUrl="https://blog.hartwork.org/"/>
+    <outline type="rss" text="Chandana Napagoda's Blog" title="Chandana Napagoda's Blog" xmlUrl="https://blog.napagoda.com/feeds/posts/default" htmlUrl="https://blog.napagoda.com/"/>
+    <outline type="rss" text="Recent Commits to dom:main" title="Recent Commits to dom:main" xmlUrl="https://github.com/whatwg/dom/commits/main.atom" htmlUrl="https://github.com/whatwg/dom/commits/main"/>
+    <outline type="rss" text="so…" title="so…" xmlUrl="https://so.nwalsh.com/feed/fulltext.xml" htmlUrl="https://so.nwalsh.com/"/>
+  </body>
+</opml>

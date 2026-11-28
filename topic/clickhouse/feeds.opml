@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>clickhouse feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Hellmar Becker’s Blog" title="Hellmar Becker’s Blog" xmlUrl="https://blog.hellmar-becker.de/feed.xml" htmlUrl="https://blog.hellmar-becker.de/"/>
+    <outline type="rss" text="Posts on bx2@blog" title="Posts on bx2@blog" xmlUrl="https://bx2.me/posts/index.xml" htmlUrl="https://bx2.me/posts/"/>
+    <outline type="rss" text="Just a Theory" title="Just a Theory" xmlUrl="https://justatheory.com/feed.xml" htmlUrl="https://justatheory.com/"/>
+    <outline type="rss" text="Goutham City" title="Goutham City" xmlUrl="https://www.gouthamve.dev/rss/" htmlUrl="https://www.gouthamve.dev/"/>
+  </body>
+</opml>

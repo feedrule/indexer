@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>reuters feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Economic Times" title="Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" htmlUrl="https://economictimes.indiatimes.com"/>
+    <outline type="rss" text="Home Page" title="Home Page" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" htmlUrl="https://www.business-standard.com"/>
+    <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl="https://www.cnbc.com/us-top-news-and-analysis/"/>
+  </body>
+</opml>

@@ -1,0 +1,22 @@
+{
+  "url": "https://larsp.de/rss",
+  "title": "larsp.de",
+  "subtitle": "Digital garden about web development, Ruby on Rails, telephony, and tools Lars finds useful.",
+  "site": "https://larsp.de/",
+  "bytes": 101994,
+  "last": "2026-06-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling",
+    "open-source",
+    "ruby-on-rails",
+    "tools"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

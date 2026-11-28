@@ -1,0 +1,20 @@
+{
+  "url": "https://weberblog.net/feed/",
+  "title": "Weberblog.net",
+  "subtitle": "IT-Security, Networks, IPv6, VPN, DNSSEC, NTP",
+  "site": "https://weberblog.net",
+  "bytes": 271937,
+  "last": "2026-10-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ipsec",
+    "vpn"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ef/ef37587fd3a849076dd8540a2c19a2c63b636ae39a3b2c29423c00446433c786.json"
+}

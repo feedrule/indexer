@@ -1,0 +1,19 @@
+{
+  "url": "https://0xdf.gitlab.io/feed.xml",
+  "title": "0xdf hacks stuff",
+  "subtitle": "CTF solutions, malware analysis, home lab development",
+  "site": "https://0xdf.gitlab.io/",
+  "bytes": 67633,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hackthebox"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3b/3b1f141fb9c14dcbaa7c5f93cc21049d7844905cb2ba0594e25beedd67b9b1d3.json"
+}

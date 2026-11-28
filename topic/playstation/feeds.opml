@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>playstation feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl="https://blog.playstation.com"/>
+    <outline type="rss" text="lunatic obscurity" title="lunatic obscurity" xmlUrl="http://lunaticobscurity.blogspot.com/atom.xml" htmlUrl="http://lunaticobscurity.blogspot.com/"/>
+    <outline type="rss" text="BattlePenguin" title="BattlePenguin" xmlUrl="https://battlepenguin.com/feed.xml" htmlUrl="https://battlepenguin.com/"/>
+    <outline type="rss" text="datalars" title="datalars" xmlUrl="https://datalars.com/feed" htmlUrl="https://datalars.com/"/>
+    <outline type="rss" text="datalars" title="datalars" xmlUrl="https://datalars.com/feed/" htmlUrl="https://datalars.com/"/>
+    <outline type="rss" text="Distant Arcade" title="Distant Arcade" xmlUrl="https://distantarcade.co.uk/feed/" htmlUrl="https://distantarcade.co.uk"/>
+    <outline type="rss" text="Gameluv" title="Gameluv" xmlUrl="https://gameluv.com/luv/feed/" htmlUrl="https://gameluv.com/luv"/>
+  </body>
+</opml>

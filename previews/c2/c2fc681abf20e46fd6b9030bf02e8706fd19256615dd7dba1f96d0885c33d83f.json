@@ -1,0 +1,19 @@
+{
+  "url": "https://www.8000ers.com/cms/index.php?format=feed&type=rss",
+  "title": "Home",
+  "subtitle": "8000ers - The place to get any information about the 8000ers summits and related statistics.",
+  "site": "https://www.8000ers.com/cms/en/component/content/frontpage.html",
+  "bytes": 58730,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "summit"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

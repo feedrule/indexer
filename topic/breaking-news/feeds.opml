@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>breaking-news feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="All: BreakingNews" title="All: BreakingNews" xmlUrl="https://feeds.breakingnews.ie/bntopstories" htmlUrl="https://www.breakingnews.ie/all/"/>
+    <outline type="rss" text="Rockland County Times Newspaper: Real News Since 1888" title="Rockland County Times Newspaper: Real News Since 1888" xmlUrl="https://rocklandtimes.com/feed/" htmlUrl="https://rocklandtimes.com"/>
+    <outline type="rss" text="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" title="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" htmlUrl="https://timesofindia.indiatimes.com/world"/>
+    <outline type="rss" text="The Laurens County Advertiser" title="The Laurens County Advertiser" xmlUrl="https://www.laurenscountyadvertiser.net/feed/" htmlUrl="https://www.laurenscountyadvertiser.net"/>
+  </body>
+</opml>

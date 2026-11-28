@@ -1,0 +1,20 @@
+{
+  "url": "https://efe.me/rss.xml",
+  "title": "Efe Öge",
+  "subtitle": "Tech Tales from a Software Craftsman",
+  "site": "https://efe.me/",
+  "bytes": 8636,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "django",
+    "djangocon"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e5/e55d720ded1e06987a45eb5cf33a316a81a76e826742126b83a4888eb3a5320b.json"
+}

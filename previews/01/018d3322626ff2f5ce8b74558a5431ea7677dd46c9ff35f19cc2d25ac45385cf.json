@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.ionicframework.com/feed/",
+  "title": "Ionic Blog",
+  "subtitle": "Build amazing native and progressive web apps with the web",
+  "site": "https://ionic.io/blog",
+  "bytes": 117445,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ionic",
+    "capacitor"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/01/018d3322626ff2f5ce8b74558a5431ea7677dd46c9ff35f19cc2d25ac45385cf.json"
+}

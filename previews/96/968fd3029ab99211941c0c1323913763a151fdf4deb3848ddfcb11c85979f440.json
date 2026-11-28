@@ -1,0 +1,22 @@
+{
+  "url": "https://briancaffey.github.io/feed",
+  "title": "Brian Caffey",
+  "subtitle": "Brian Caffey writes about software engineering, AI and other fun things.",
+  "site": "https://briancaffey.github.io",
+  "bytes": 46675,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nuxt",
+    "ai",
+    "django",
+    "vue"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/96/968fd3029ab99211941c0c1323913763a151fdf4deb3848ddfcb11c85979f440.json"
+}

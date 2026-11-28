@@ -1,0 +1,22 @@
+{
+  "url": "https://cdegroot.com/feed.xml",
+  "title": "cdegroot.com",
+  "subtitle": "Mostly technical musings by Cees de Groot. Expect Elixir, Agile, devops, and whatnot.",
+  "site": "http://cdegroot.com/",
+  "bytes": 210518,
+  "last": "2026-08-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling",
+    "lisp",
+    "programming",
+    "agile"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

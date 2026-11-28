@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cfp feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ben Nadel's Web Development and User Experience Feed @ BenNadel.com" title="Ben Nadel's Web Development and User Experience Feed @ BenNadel.com" xmlUrl="https://www.bennadel.com/rss" htmlUrl="https://www.bennadel.com/"/>
+    <outline type="rss" text="Charlie Arehart - Server Troubleshooting" title="Charlie Arehart - Server Troubleshooting" xmlUrl="https://www.carehart.org/blog/client/rss.cfm?mode=full" htmlUrl="https://www.carehart.org/blog/client/index.cfm"/>
+    <outline type="rss" text="myCFML Developer Blog - Articles" title="myCFML Developer Blog - Articles" xmlUrl="https://www.mycfml.com/feed/" htmlUrl="http://www.mycfml.com/"/>
+    <outline type="rss" text="Pete Freitag" title="Pete Freitag" xmlUrl="https://www.petefreitag.com/rss/" htmlUrl="https://www.petefreitag.com/"/>
+  </body>
+</opml>

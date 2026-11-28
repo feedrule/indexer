@@ -1,0 +1,22 @@
+{
+  "url": "https://andyatkinson.com/feed.xml",
+  "title": "Andrew Atkinson",
+  "subtitle": "Andrew Atkinson Software Engineer blog about PostgreSQL, Ruby on Rails, Elasticsearch, Kubernetes, and Vim. Andrew is the Author of Ruby bestseller High Performance PostgreSQL for Rails",
+  "site": "https://andyatkinson.com/",
+  "bytes": 253859,
+  "last": "2026-10-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql",
+    "ruby-on-rails",
+    "database",
+    "ruby"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>teardown feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Voxagon Blog" title="Voxagon Blog" xmlUrl="https://blog.voxagon.se/feed.xml" htmlUrl="https://blog.voxagon.se/"/>
+    <outline type="rss" text="https://pallavaggarwal.in/feed/" title="https://pallavaggarwal.in/feed/" xmlUrl="https://pallavaggarwal.in/feed/" htmlUrl="https://pallavaggarwal.in"/>
+    <outline type="rss" text="unfoxo" title="unfoxo" xmlUrl="https://unfoxo.it/atom.xml" htmlUrl="https://unfoxo.it/"/>
+  </body>
+</opml>

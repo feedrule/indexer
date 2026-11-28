@@ -1,0 +1,19 @@
+{
+  "url": "https://underjord.io/feed.xml",
+  "title": "Underjord.io",
+  "subtitle": "A blog on independent software development, Elixir and more.",
+  "site": "https://underjord.io/blog/",
+  "bytes": 1568701,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "elixir"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/58/58a0dcc96f573b008fecbc8b291efdb1ae42ca8f121d80a43651657e2782f2a2.json"
+}

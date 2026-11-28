@@ -1,0 +1,17 @@
+{
+  "url": "https://lopsy.art/blog/feed.xml",
+  "title": "Lopsy Blog",
+  "subtitle": "Engineering notes from building Lopsy: a GPU-first image editor written in Rust, WebAssembly, WebGL2 and TypeScript.",
+  "site": "https://lopsy.art/blog/",
+  "bytes": 28543,
+  "last": "2026-10-01",
+  "languages": [],
+  "topics": [
+    "webgl"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

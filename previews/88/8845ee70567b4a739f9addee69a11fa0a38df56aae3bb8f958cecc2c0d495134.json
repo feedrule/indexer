@@ -1,0 +1,20 @@
+{
+  "url": "https://grimoire.carcano.ch/feed/",
+  "title": "| The grimoire of a modern Linux professional",
+  "subtitle": null,
+  "site": "https://grimoire.carcano.ch",
+  "bytes": 216255,
+  "last": "2026-07-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "cert-manager"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

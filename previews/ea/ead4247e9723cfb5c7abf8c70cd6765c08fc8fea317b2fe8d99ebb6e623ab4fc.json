@@ -1,0 +1,19 @@
+{
+  "url": "https://www.pwnwriter.me/rss.xml",
+  "title": "pwn::musings & syndications",
+  "subtitle": "Posts and syndications feed",
+  "site": "https://pwnwriter.me/",
+  "bytes": 132491,
+  "last": "2026-09-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ea/ead4247e9723cfb5c7abf8c70cd6765c08fc8fea317b2fe8d99ebb6e623ab4fc.json"
+}

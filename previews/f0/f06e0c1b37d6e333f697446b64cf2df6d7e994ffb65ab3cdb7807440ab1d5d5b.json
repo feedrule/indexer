@@ -1,0 +1,20 @@
+{
+  "url": "https://elliotbonneville.com/rss.xml",
+  "title": "Elliot Bonneville",
+  "subtitle": "A minimal coding blog",
+  "site": "https://elliotbonneville.com",
+  "bytes": 5942,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "advent-of-code",
+    "creative-coding"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f0/f06e0c1b37d6e333f697446b64cf2df6d7e994ffb65ab3cdb7807440ab1d5d5b.json"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>safety feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Code Curmudgeon" title="Code Curmudgeon" xmlUrl="https://codecurmudgeon.com/wp/feed/" htmlUrl="https://codecurmudgeon.com/wp"/>
+    <outline type="rss" text="Machinery Safety 101" title="Machinery Safety 101" xmlUrl="https://machinerysafety101.com/feed/" htmlUrl="https://machinerysafety101.com/"/>
+    <outline type="rss" text="safedesign" title="safedesign" xmlUrl="https://safedesign.wordpress.com/feed/" htmlUrl="https://safedesign.wordpress.com"/>
+    <outline type="rss" text="SafetyInsights.org" title="SafetyInsights.org" xmlUrl="https://safetyinsights.org/feed/atom/" htmlUrl="https://safetyinsights.org"/>
+    <outline type="rss" text="SafetyRisk.net" title="SafetyRisk.net" xmlUrl="https://safetyrisk.net/feed/" htmlUrl="https://safetyrisk.net/"/>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>framework feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="aedhonk's blog" title="aedhonk's blog" xmlUrl="https://aedhonk.systems/rss.xml" htmlUrl="https://aedhonk.systems/"/>
+    <outline type="rss" text="Carl's Blog Posts" title="Carl's Blog Posts" xmlUrl="https://blog.carl.so/posts/feed.xml" htmlUrl="https://blog.carl.so/posts/"/>
+    <outline type="rss" text="Java 2 Ada" title="Java 2 Ada" xmlUrl="https://blog.vacs.fr/vacs/blogs/feed" htmlUrl="https://blog.vacs.fr/vacs/blogs/index.html"/>
+    <outline type="rss" text="Hexaitos’ Personal Website" title="Hexaitos’ Personal Website" xmlUrl="https://hexaitos.com/feed.xml" htmlUrl="https://hexaitos.com/"/>
+    <outline type="rss" text="michael.minton.io" title="michael.minton.io" xmlUrl="https://michael.minton.io/feed.xml" htmlUrl="https://michael.minton.io/"/>
+    <outline type="rss" text="Philippe Serhal — Software Engineer" title="Philippe Serhal — Software Engineer" xmlUrl="https://standard-reader.app/feed/p/did:plc:5wdnwfs45bghuedlj3rdmani/3mlhl2smu532q" htmlUrl="https://standard-reader.app/p/did:plc:5wdnwfs45bghuedlj3rdmani/3mlhl2smu532q"/>
+    <outline type="rss" text="Complex Systems Frameworks Collection" title="Complex Systems Frameworks Collection" xmlUrl="https://www.complexsystemsframeworks.ca/feed/" htmlUrl="https://www.complexsystemsframeworks.ca"/>
+    <outline type="rss" text="Rob Kimball" title="Rob Kimball" xmlUrl="https://www.rgk.io/rss.xml" htmlUrl="https://www.rgk.io"/>
+  </body>
+</opml>

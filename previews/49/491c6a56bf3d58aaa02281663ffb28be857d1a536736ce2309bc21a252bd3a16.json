@@ -1,0 +1,19 @@
+{
+  "url": "https://kdvr.com/feed/",
+  "title": "FOX31 Denver",
+  "subtitle": "Denver, Colorado news, weather, sports and more",
+  "site": "https://kdvr.com",
+  "bytes": 20351,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "denver"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/49/491c6a56bf3d58aaa02281663ffb28be857d1a536736ce2309bc21a252bd3a16.json"
+}

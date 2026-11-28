@@ -1,0 +1,20 @@
+{
+  "url": "https://www.librarian.net/feed/",
+  "title": "librarian.net",
+  "subtitle": "putting the rarin back in librarian since 1999",
+  "site": "https://www.librarian.net",
+  "bytes": 100926,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "librarians",
+    "library"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dd/ddf34b75a5686bc396010520fd86b0a394ce86f6cf848a262f7d5f25e0f5b35a.json"
+}

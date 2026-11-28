@@ -1,0 +1,21 @@
+{
+  "url": "https://mortoray.com/feed",
+  "title": "Musing Mortoray",
+  "subtitle": "The Life of a Programmer",
+  "site": "https://mortoray.com/",
+  "bytes": 203239,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "game-development",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cf/cf9fa9866c2d4f9cbaed6538cf38b1fcb66547c1387fdb880d0d43011aba4bbb.json"
+}

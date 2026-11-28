@@ -1,0 +1,19 @@
+{
+  "url": "https://codewithrails.com/rss.xml",
+  "title": "Code With Rails",
+  "subtitle": "Real-world tutorials on full stack web development with Ruby on Rails.",
+  "site": "https://codewithrails.com/",
+  "bytes": 15905,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ruby-on-rails"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

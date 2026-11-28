@@ -1,0 +1,19 @@
+{
+  "url": "https://jxself.org/rss20.xml",
+  "title": "jxself.org",
+  "subtitle": "The RSS feed for jxself.org",
+  "site": "https://jxself.org",
+  "bytes": 1873513,
+  "last": "2026-08-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "advent-of-code"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1a/1aa6f39682f36769ee86942298d996927d66cc34ef09d23a1df853fe727f72a1.json"
+}

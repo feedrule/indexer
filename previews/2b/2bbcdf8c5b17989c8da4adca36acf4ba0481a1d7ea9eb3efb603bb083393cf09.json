@@ -1,0 +1,19 @@
+{
+  "url": "https://fnordig.de/feed.xml",
+  "title": "fnordig",
+  "subtitle": "A blog about Rust, data and my life.",
+  "site": "https://fnordig.de",
+  "bytes": 1158636,
+  "last": "2026-10-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

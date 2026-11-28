@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pizza feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Meat &amp; One Veg" title="Meat &amp; One Veg" xmlUrl="https://meatandoneveg.blog/feed/" htmlUrl="https://meatandoneveg.blog/"/>
+    <outline type="rss" text="Pizza Legacy Blog" title="Pizza Legacy Blog" xmlUrl="https://pizzalegacy.nl/feed.xml" htmlUrl="https://pizzalegacy.nl/blog/"/>
+    <outline type="rss" text="soriyacha’s food album" title="soriyacha’s food album" xmlUrl="https://soriyacha.bearblog.dev/feed/?type=rss" htmlUrl="https://soriyacha.bearblog.dev/"/>
+    <outline type="rss" text="Stop the pizza" title="Stop the pizza" xmlUrl="https://stopthepizza.com/atom/" htmlUrl="https://stopthepizza.com/"/>
+    <outline type="rss" text="Pizza Experiments" title="Pizza Experiments" xmlUrl="https://www.pizzaexperiments.com/atom.xml" htmlUrl="https://www.pizzaexperiments.com/"/>
+  </body>
+</opml>

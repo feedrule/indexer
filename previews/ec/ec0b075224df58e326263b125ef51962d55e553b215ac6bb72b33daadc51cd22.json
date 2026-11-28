@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.goeswhere.com/feed/atom/",
+  "title": "Faux' Blog",
+  "subtitle": "Faux' (mostly) technical blog",
+  "site": "https://blog.goeswhere.com",
+  "bytes": 61398,
+  "last": "2026-02-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ec/ec0b075224df58e326263b125ef51962d55e553b215ac6bb72b33daadc51cd22.json"
+}

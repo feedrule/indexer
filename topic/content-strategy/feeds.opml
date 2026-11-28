@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>content-strategy feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Firefox UX" title="Firefox UX" xmlUrl="https://blog.mozilla.org/ux/feed/" htmlUrl="https://blog.mozilla.org/ux"/>
+    <outline type="rss" text="The Content Technologist" title="The Content Technologist" xmlUrl="https://www.content-technologist.com/rss/" htmlUrl="https://www.content-technologist.com/"/>
+    <outline type="rss" text="Norbert Hires" title="Norbert Hires" xmlUrl="https://www.norberthires.blog/index.xml" htmlUrl="https://www.norberthires.blog/"/>
+    <outline type="rss" text="stephaniemorillo.co/shop" title="stephaniemorillo.co/shop" xmlUrl="https://www.stephaniemorillo.co/blog-feed.xml" htmlUrl="https://www.stephaniemorillo.co/blog"/>
+  </body>
+</opml>

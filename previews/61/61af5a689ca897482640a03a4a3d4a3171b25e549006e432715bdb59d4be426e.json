@@ -1,0 +1,19 @@
+{
+  "url": "https://develclan.com/rss.xml",
+  "title": "DevelClan",
+  "subtitle": "In-depth articles on Ruby, Rails, and software engineering, built around original, worked examples you can learn from.",
+  "site": "https://develclan.com/",
+  "bytes": 13060,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ruby"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/61/61af5a689ca897482640a03a4a3d4a3171b25e549006e432715bdb59d4be426e.json"
+}

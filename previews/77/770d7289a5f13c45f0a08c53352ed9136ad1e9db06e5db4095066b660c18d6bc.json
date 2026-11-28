@@ -1,0 +1,20 @@
+{
+  "url": "https://www.brickfanatics.com/feed",
+  "title": "Brick Fanatics",
+  "subtitle": "LEGO news, reviews, and deals from Brick Fanatics.",
+  "site": "https://www.brickfanatics.com",
+  "bytes": 849201,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "lego",
+    "deals"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/77/770d7289a5f13c45f0a08c53352ed9136ad1e9db06e5db4095066b660c18d6bc.json"
+}

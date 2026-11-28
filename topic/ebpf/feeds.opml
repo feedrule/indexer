@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ebpf feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ayles" title="ayles" xmlUrl="https://ayles.github.io/atom.xml" htmlUrl="https://ayles.github.io"/>
+    <outline type="rss" text="Robert Hargreaves" title="Robert Hargreaves" xmlUrl="https://blog.roberthargreaves.com/feed.xml" htmlUrl="https://blog.roberthargreaves.com/"/>
+    <outline type="rss" text="Debug notes by Sebastian Solnica" title="Debug notes by Sebastian Solnica" xmlUrl="https://lowleveldesign.wordpress.com/feed/atom/" htmlUrl="https://lowleveldesign.wordpress.com"/>
+    <outline type="rss" text="friday@ortiz.sh:~$" title="friday@ortiz.sh:~$" xmlUrl="https://ortiz.sh/feed.xml" htmlUrl="https://ortiz.sh/"/>
+    <outline type="rss" text="pchaigno" title="pchaigno" xmlUrl="https://pchaigno.github.io/feed.xml" htmlUrl="https://pchaigno.github.io/"/>
+    <outline type="rss" text="thebsbdox" title="thebsbdox" xmlUrl="https://thebsdbox.co.uk/rss.xml" htmlUrl="http://thebsdbox.co.uk"/>
+    <outline type="rss" text="Yuki Nakamura's Blog" title="Yuki Nakamura's Blog" xmlUrl="https://yuki-nakamura.com/feed/atom/" htmlUrl="https://yuki-nakamura.com"/>
+  </body>
+</opml>

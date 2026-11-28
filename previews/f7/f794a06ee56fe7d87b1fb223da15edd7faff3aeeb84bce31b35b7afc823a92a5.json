@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.otterlord.dev/rss.xml",
+  "title": "Otterlord's Blog",
+  "subtitle": "A technical blog about the world of modern web development. I cover a wide range of topics, from Astro to Svelte, Tailwind, and more.",
+  "site": "https://blog.otterlord.dev/",
+  "bytes": 5604,
+  "last": "2025-12-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "astro"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

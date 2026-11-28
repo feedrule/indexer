@@ -1,0 +1,19 @@
+{
+  "url": "https://abc30.com/feed/",
+  "title": "ABC30 RSS Feed",
+  "subtitle": "Keep up with news from your local ABC station.",
+  "site": "https://abc30.com/feed",
+  "bytes": 31991,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "abc"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

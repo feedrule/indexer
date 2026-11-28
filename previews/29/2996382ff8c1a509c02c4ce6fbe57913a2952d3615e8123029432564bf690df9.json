@@ -1,0 +1,21 @@
+{
+  "url": "https://news.bitcoin.com/feed/",
+  "title": "Bitcoin News",
+  "subtitle": "Daily Bitcoin News",
+  "site": "https://news.bitcoin.com/",
+  "bytes": 27113,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bitcoin",
+    "stock-market",
+    "finance"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

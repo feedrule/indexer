@@ -1,0 +1,20 @@
+{
+  "url": "https://stackinsight.dev/rss.xml",
+  "title": "StackInsight",
+  "subtitle": "Empirical research on performance anti-patterns in JavaScript and TypeScript codebases — large-scale repository scans, controlled benchmarks, and open-source detection tools.",
+  "site": "https://stackinsight.dev/",
+  "bytes": 30460,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-performance",
+    "nodejs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

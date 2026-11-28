@@ -1,0 +1,19 @@
+{
+  "url": "https://www.electronjs.org/blog/rss.xml",
+  "title": "Electron Blog",
+  "subtitle": "Electron Blog",
+  "site": "https://electronjs.org/blog",
+  "bytes": 435287,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "electron"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

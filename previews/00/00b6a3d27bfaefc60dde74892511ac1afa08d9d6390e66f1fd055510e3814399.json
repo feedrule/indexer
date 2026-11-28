@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.arkstack.dev/en/rss.xml",
+  "title": "Arkstack Blog",
+  "subtitle": "Articles on Cloud Architecture, modern Java, and zero-waste software engineering.",
+  "site": "https://blog.arkstack.dev/",
+  "bytes": 8350,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "java",
+    "architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/00/00b6a3d27bfaefc60dde74892511ac1afa08d9d6390e66f1fd055510e3814399.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.eyas.sh/feed/rss.xml",
+  "title": "Eyas's Blog",
+  "subtitle": "Occasional musings on software development, tech, and anything else.",
+  "site": "https://blog.eyas.sh/",
+  "bytes": 12224,
+  "last": "2025-12-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "game-development",
+    "unity",
+    "software"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a4/a42b20aa64a6fc8daafec17d2712455cfd4bd9888a61d767dec4b51c4b04ab66.json"
+}

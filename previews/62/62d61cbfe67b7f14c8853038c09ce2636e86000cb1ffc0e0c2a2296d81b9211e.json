@@ -1,0 +1,23 @@
+{
+  "url": "https://johnwickerson.wordpress.com/feed/",
+  "title": "Wickopedia",
+  "subtitle": "A blog by John Wickerson",
+  "site": "https://johnwickerson.wordpress.com",
+  "bytes": 756506,
+  "last": "2026-09-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "computer-architecture",
+    "fpga",
+    "computer-science",
+    "programming-languages"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/62/62d61cbfe67b7f14c8853038c09ce2636e86000cb1ffc0e0c2a2296d81b9211e.json"
+}

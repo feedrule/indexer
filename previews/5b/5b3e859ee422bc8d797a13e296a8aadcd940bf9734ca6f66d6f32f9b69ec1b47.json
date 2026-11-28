@@ -1,0 +1,21 @@
+{
+  "url": "https://lambdaland.org/index.xml",
+  "title": "Lambda Land",
+  "subtitle": "Lambda: The Ultimate Blog Post—a blog mostly about programming languages, academia, and Emacs",
+  "site": "https://lambdaland.org",
+  "bytes": 1017808,
+  "last": "2026-10-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "writing-systems",
+    "programming",
+    "compilers"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5b/5b3e859ee422bc8d797a13e296a8aadcd940bf9734ca6f66d6f32f9b69ec1b47.json"
+}

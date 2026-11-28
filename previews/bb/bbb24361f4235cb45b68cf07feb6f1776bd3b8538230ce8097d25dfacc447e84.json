@@ -1,0 +1,20 @@
+{
+  "url": "https://hawksley.dev/rss.xml",
+  "title": "Ethan Hawksley's Blog",
+  "subtitle": "A blog by Ethan Hawksley, a computer science student at the University of Warwick. Articles on systems programming, cybersecurity, and whatever else grabs my attention.",
+  "site": "https://hawksley.dev/",
+  "bytes": 93017,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hackerspace",
+    "indie-hacking"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://fugutabetai.com/blog/feed/",
+  "title": "FuguTabetai Blog",
+  "subtitle": "Some freak magazine",
+  "site": "https://fugutabetai.com/blog",
+  "bytes": 200978,
+  "last": "2026-10-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tokyo",
+    "japan",
+    "gaming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a0/a0a01543831ef2768c805bc7402069c268473fb325fdcf5c507a7241d35854d6.json"
+}

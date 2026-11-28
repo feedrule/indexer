@@ -1,0 +1,19 @@
+{
+  "url": "https://svelte.dev/blog/rss.xml",
+  "title": "Svelte blog",
+  "subtitle": "News and information about the magical disappearing UI framework",
+  "site": "https://svelte.dev/blog",
+  "bytes": 1994780,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "svelte"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1e/1ee25c2e8decc275684a7efdd85de610ded761aefdb1b6a9af5b4aa92f2b36a6.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://daniel-azuma.com/feed.xml",
+  "title": "Daniel Azuma",
+  "subtitle": "This is the website and blog of Daniel Azuma, a software engineer and RV traveler in the Seattle area.",
+  "site": "https://daniel-azuma.com/",
+  "bytes": 249130,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ruby"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2a/2a547e87f876a73fe8b62c4ac31bddcf50d872303eec630767602c3c222e5d68.json"
+}

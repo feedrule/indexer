@@ -1,0 +1,23 @@
+{
+  "url": "https://www.theseattledataguy.com/feed/atom/",
+  "title": "Seattle Data Guy",
+  "subtitle": "Data Engineer, Scientist, Speaker and All Around Data Guy",
+  "site": "https://www.theseattledataguy.com/",
+  "bytes": 16328,
+  "last": "2026-10-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "data-management",
+    "data-science",
+    "data-engineering",
+    "big-data",
+    "analytics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

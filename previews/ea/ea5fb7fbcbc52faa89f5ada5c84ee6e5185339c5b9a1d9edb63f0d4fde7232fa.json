@@ -1,0 +1,19 @@
+{
+  "url": "https://www.whisthub.com/blog/rss.xml",
+  "title": "Whisthub blog",
+  "subtitle": "The Whisthub blog",
+  "site": "https://www.whisthub.com/blog",
+  "bytes": 10271,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "webhooks"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ea/ea5fb7fbcbc52faa89f5ada5c84ee6e5185339c5b9a1d9edb63f0d4fde7232fa.json"
+}

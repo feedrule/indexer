@@ -1,0 +1,19 @@
+{
+  "url": "https://thisisimportant.net/feed.xml",
+  "title": "This is important",
+  "subtitle": "Recent content on This is important",
+  "site": "https://thisisimportant.net/",
+  "bytes": 2946075,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "documentation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d3/d392450e74705ff163d328039886be06cb21f3d9bc527323f7233f8c83106b30.json"
+}

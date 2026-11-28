@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bstjohn.net/rss.xml",
+  "title": "bstjohn.net",
+  "subtitle": "A blog about home labs, Kubernetes, DevOps, and related projects",
+  "site": "https://www.bstjohn.net/",
+  "bytes": 3722,
+  "last": "2026-07-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devops",
+    "kubernetes",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a6/a6f0bcef01bf4f18f281f4d15524bc5fc367085bff7002964ca50628dff0a16f.json"
+}

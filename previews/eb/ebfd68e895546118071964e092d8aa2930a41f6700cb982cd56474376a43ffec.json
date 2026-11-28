@@ -1,0 +1,19 @@
+{
+  "url": "https://saybackend.com/rss.xml",
+  "title": "SayBackend",
+  "subtitle": "A blog about backend development, software engineering, and other tech topics.",
+  "site": "https://saybackend.com/",
+  "bytes": 10198,
+  "last": "2026-10-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "backend"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,155 @@
+/* Active RSS feeds: feedrule.com's colours (Tailwind zinc + orange), light and dark. */
+:root {
+  --bg: #ffffff;
+  --fg: #18181b;
+  --muted: #71717b;
+  --border: #e4e4e7;
+  --card: #f4f4f5;
+  --accent: #fe6e00;
+  --accent-fg: #ffffff;
+  --link: #c2410c;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #09090b;
+    --fg: #ededed;
+    --muted: #9f9fa9;
+    --border: #27272a;
+    --card: #18181b;
+    --accent: #ff8b1a;
+    --accent-fg: #09090b;
+    --link: #ffb96d;
+  }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.55 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 16px; }
+.muted { color: var(--muted); font-weight: 400; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+.bar { border-bottom: 1px solid var(--border); }
+.bar .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; height: 60px; }
+.brand { display: flex; align-items: center; gap: 10px; color: var(--fg); font-weight: 600; }
+.brand:hover { text-decoration: none; }
+.button {
+  display: inline-block;
+  padding: 7px 14px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--accent-fg);
+  font-weight: 600;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.button:hover { text-decoration: none; filter: brightness(1.08); }
+.button.ghost { background: transparent; color: var(--fg); border: 1px solid var(--border); }
+button.button { cursor: pointer; font-family: inherit; }
+.more { margin-top: 16px; text-align: center; }
+
+main.wrap { padding-top: 28px; padding-bottom: 40px; }
+h1 { font-size: 32px; line-height: 1.2; margin: 0 0 12px; letter-spacing: -0.02em; }
+h2 { font-size: 20px; margin: 36px 0 8px; }
+.lead { font-size: 17px; max-width: 70ch; }
+.crumbs { font-size: 14px; color: var(--muted); margin-bottom: 8px; }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.tip {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  font-size: 15px;
+}
+.tip img { flex: none; margin-top: 2px; }
+
+.filter {
+  width: 100%;
+  max-width: 360px;
+  padding: 8px 12px;
+  margin: 8px 0 14px;
+  font: inherit;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.filter:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.topics { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.topics a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--fg);
+  font-size: 14px;
+}
+.topics a:hover { border-color: var(--accent); text-decoration: none; }
+.topics .n { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+
+table { width: 100%; border-collapse: collapse; font-size: 15px; }
+th { text-align: left; font-size: 13px; font-weight: 600; color: var(--muted); }
+th, td { padding: 9px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
+.feeds { table-layout: fixed; margin-top: 16px; }
+.feeds .title { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.feeds time { font-variant-numeric: tabular-nums; }
+.feeds .meta { display: block; overflow-wrap: anywhere; }
+.feeds .sub { display: block; color: var(--fg); font-size: 14px; overflow-wrap: anywhere; }
+.feeds .title { color: var(--fg); font-weight: 500; }
+.feeds .meta, .feeds .meta a { color: var(--muted); font-size: 13px; }
+.feeds .meta.host { margin: 2px 0; }
+.feeds .meta a.site, .feeds .meta a.rss, .feeds .meta a.preview { color: var(--link); }
+/* the email-digest icon: top right of each feed (and of the preview page), after the feed's own content */
+td.feed { position: relative; padding-right: 40px; }
+a.corner { position: absolute; top: 10px; right: 8px; line-height: 0; }
+a.corner img { width: 20px; height: 20px; border-radius: 4px; }
+a.corner:hover img { outline: 2px solid var(--accent); outline-offset: 1px; }
+.pv { position: relative; padding-right: 44px; }
+.pv a.corner { top: 6px; right: 0; }
+.pv a.corner img { width: 24px; height: 24px; }
+.ftopics { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.ftopics a, .ftopics span {
+  padding: 0 7px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 20px;
+}
+.ftopics a:hover { border-color: var(--accent); color: var(--fg); text-decoration: none; }
+.gh { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 14px; font-weight: 500; }
+.gh:hover { color: var(--fg); text-decoration: none; }
+.scroll { overflow-x: auto; }
+
+.pv h1 { margin-bottom: 2px; overflow-wrap: anywhere; }
+.pv .host { color: var(--muted); font-size: 15px; margin: 0 0 10px; }
+.pv .sub { font-size: 17px; max-width: 70ch; margin: 0 0 8px; overflow-wrap: anywhere; }
+.pv .meta { color: var(--muted); font-size: 14px; margin: 0 0 4px; overflow-wrap: anywhere; }
+.pv .ftopics { margin: 10px 0 0; }
+.posts { list-style: none; padding: 0; margin: 0; }
+.posts li { padding: 12px 0; border-bottom: 1px solid var(--border); }
+.posts .ptitle { font-weight: 500; overflow-wrap: anywhere; }
+.posts a.ptitle { color: var(--fg); }
+.posts time { display: block; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+.posts p { margin: 4px 0 0; font-size: 15px; overflow-wrap: anywhere; }
+.sources td { font-size: 14px; }
+
+footer { border-top: 1px solid var(--border); color: var(--muted); font-size: 13px; padding-bottom: 32px; }
+footer a { color: var(--muted); text-decoration: underline; }
+
+@media (max-width: 560px) {
+  h1 { font-size: 26px; }
+}

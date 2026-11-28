@@ -1,0 +1,19 @@
+{
+  "url": "https://chish.dev/rss.xml",
+  "title": "Chish",
+  "subtitle": "CS student writing Zig and Rust, breaking Linux servers, and writing down how things actually work under the hood.",
+  "site": "https://chish.dev",
+  "bytes": 6863,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://jnidzwetzki.github.io/feed.xml",
+  "title": "Jan’s blog",
+  "subtitle": "Software architecture, databases, and distributed systems",
+  "site": "https://jnidzwetzki.github.io/",
+  "bytes": 314341,
+  "last": "2026-05-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql",
+    "query-optimization"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

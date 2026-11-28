@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>internet-archive feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Internet Archive Blogs" title="Internet Archive Blogs" xmlUrl="http://blog.archive.org/feed/" htmlUrl="https://blog.archive.org"/>
+    <outline type="rss" text="Internet Archive Blogs" title="Internet Archive Blogs" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org"/>
+    <outline type="rss" text="dotboris.io" title="dotboris.io" xmlUrl="https://dotboris.io/rss.xml" htmlUrl="https://dotboris.io/"/>
+    <outline type="rss" text="hazy's blog" title="hazy's blog" xmlUrl="https://hazy.sh/rss/" htmlUrl="https://hazy.sh/blog"/>
+    <outline type="rss" text="Katharina Brunner" title="Katharina Brunner" xmlUrl="https://katharinabrunner.de/feed/" htmlUrl="https://katharinabrunner.de"/>
+    <outline type="rss" text="LITERARY MACHINES" title="LITERARY MACHINES" xmlUrl="https://literarymachin.es/atom.xml" htmlUrl="https://literarymachin.es"/>
+    <outline type="rss" text="Feep! blog" title="Feep! blog" xmlUrl="https://search.feep.dev/blog/index.rss" htmlUrl="https://search.feep.dev/blog/"/>
+    <outline type="rss" text="Tom Brandis" title="Tom Brandis" xmlUrl="https://tombrandis.uk/posts/feed.xml" htmlUrl="https://tombrandis.uk/"/>
+    <outline type="rss" text="The Wiert Corner – irregular stream of stuff" title="The Wiert Corner – irregular stream of stuff" xmlUrl="https://wiert.me/feed/" htmlUrl="https://wiert.me"/>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+{
+  "url": "https://tmtabor.io/feeds/all.atom.xml",
+  "title": "Thorin Tabor",
+  "subtitle": "Staff Software Engineer building agentic AI systems — RAG, MCP and multi-agent pipelines. Notes on making agents reliable.",
+  "site": "https://tmtabor.io/",
+  "bytes": 100204,
+  "last": "2026-09-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "agent-orchestration",
+    "agentic-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/06/065569eb24eacccbe89ab9d8d244acba24aff5b559e70d907ece7415702f25bc.json"
+}

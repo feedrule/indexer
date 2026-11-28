@@ -1,0 +1,20 @@
+{
+  "url": "https://tobylam.xyz/feed.xml",
+  "title": "Toby Lam",
+  "subtitle": "A personal blog",
+  "site": "https://tobylam.xyz/",
+  "bytes": 120883,
+  "last": "2026-08-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "book-review",
+    "life"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cc/cc18e5d5e94b1524bab6e7ec3f3449e1fe41341205e91cdd69758492752e5a09.json"
+}

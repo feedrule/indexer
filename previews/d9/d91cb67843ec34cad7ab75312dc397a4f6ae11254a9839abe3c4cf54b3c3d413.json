@@ -1,0 +1,19 @@
+{
+  "url": "https://blog-site-ivory.vercel.app/rss.xml",
+  "title": "BlogSite",
+  "subtitle": "Writing on systems, technology & ideas.",
+  "site": "https://example.com/",
+  "bytes": 2157,
+  "last": "2026-06-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "computer-architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d9/d91cb67843ec34cad7ab75312dc397a4f6ae11254a9839abe3c4cf54b3c3d413.json"
+}

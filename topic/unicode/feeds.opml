@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>unicode feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Unicode Blog" title="The Unicode Blog" xmlUrl="http://blog.unicode.org/feeds/posts/default" htmlUrl="http://blog.unicode.org/"/>
+    <outline type="rss" text="✨ brie bytes 🧀" title="✨ brie bytes 🧀" xmlUrl="https://brie.rocks/atom/" htmlUrl="https://brie.rocks/"/>
+    <outline type="rss" text="Sequenced Thoughts from C/S" title="Sequenced Thoughts from C/S" xmlUrl="https://elangocheran.com/feed/atom/" htmlUrl="https://elangocheran.com"/>
+    <outline type="rss" text="Giovanni Dicanio's Blog" title="Giovanni Dicanio's Blog" xmlUrl="https://giodicanio.com/feed/atom/" htmlUrl="https://giodicanio.com"/>
+    <outline type="rss" text="paultendo" title="paultendo" xmlUrl="https://paultendo.github.io/rss.xml" htmlUrl="https://paultendo.github.io/"/>
+    <outline type="rss" text="Shady Characters" title="Shady Characters" xmlUrl="https://shadycharacters.co.uk/feed.xml" htmlUrl="https://shadycharacters.co.uk"/>
+  </body>
+</opml>

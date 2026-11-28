@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>distro feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="LinuxBlog.io" title="LinuxBlog.io" xmlUrl="https://linuxblog.io/feed/" htmlUrl="https://linuxblog.io/"/>
+    <outline type="rss" text="lukas.im" title="lukas.im" xmlUrl="https://lukas.im/atom.xml" htmlUrl="https://lukas.im/"/>
+    <outline type="rss" text="Talospace" title="Talospace" xmlUrl="https://www.talospace.com/feeds/posts/default" htmlUrl="https://www.talospace.com/"/>
+  </body>
+</opml>

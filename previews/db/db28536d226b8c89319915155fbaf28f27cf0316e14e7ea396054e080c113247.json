@@ -1,0 +1,21 @@
+{
+  "url": "https://xeiaso.net/blog.rss",
+  "title": "Xe Iaso's blog",
+  "subtitle": "Thoughts and musings from Xe Iaso",
+  "site": "https://xeiaso.net/",
+  "bytes": 34139,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vulnerability",
+    "bugfix",
+    "cve"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

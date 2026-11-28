@@ -1,0 +1,19 @@
+{
+  "url": "https://jozo.io/rss.xml",
+  "title": "Jozo's blog",
+  "subtitle": "Python developer. I care about clean code, sane deployment and nice interface.",
+  "site": "https://jozo.io",
+  "bytes": 22110,
+  "last": "2025-12-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

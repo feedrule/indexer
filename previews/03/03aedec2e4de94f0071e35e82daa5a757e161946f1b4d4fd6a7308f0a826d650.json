@@ -1,0 +1,19 @@
+{
+  "url": "https://mechanicalgirl.com/rss",
+  "title": "Mechanical Girl",
+  "subtitle": "The RSS feed from mechanicalgirl.com",
+  "site": "https://www.mechanicalgirl.com/rss",
+  "bytes": 7980,
+  "last": "2026-09-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mechanical"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/03/03aedec2e4de94f0071e35e82daa5a757e161946f1b4d4fd6a7308f0a826d650.json"
+}

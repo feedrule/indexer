@@ -1,0 +1,22 @@
+{
+  "url": "http://adactio.com/journal/rss",
+  "title": "Adactio: Journal",
+  "subtitle": "The online journal of Jeremy Keith, an author and web developer living and working in Brighton, England.",
+  "site": "https://adactio.com/journal/",
+  "bytes": 38556,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "novel",
+    "books",
+    "science-fiction",
+    "writing"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

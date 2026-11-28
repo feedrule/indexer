@@ -1,0 +1,19 @@
+{
+  "url": "https://domi.work/rss.xml",
+  "title": "domi.work",
+  "subtitle": "Domi's posts",
+  "site": "https://domi.work/",
+  "bytes": 837,
+  "last": "2026-04-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker-compose"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4c/4c6571f2d590ccafe700099cefb41546636f1a8d9285793083e4127fa49ee568.json"
+}

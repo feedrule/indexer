@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tonyerwin.com/feed",
+  "title": "Tony Erwin's Tech Blog",
+  "subtitle": "Technical blog focused on AI, machine learning, agentic systems, cloud architecture, microservices, and modern software engineering practices. Insights from building enterprise-scale systems at IBM and beyond.",
+  "site": "https://www.tonyerwin.com/",
+  "bytes": 5880,
+  "last": "2026-08-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ibm",
+    "enterprise-ai",
+    "architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8f/8f390e381c834749405d1f5632d98f24a2c44bd39d6bef18cde54aeb4b6df388.json"
+}

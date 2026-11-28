@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.ligos.net/atom.xml",
+  "title": "Murray's Blog",
+  "subtitle": "About the things I make and do",
+  "site": "http://blog.ligos.net/",
+  "bytes": 480197,
+  "last": "2026-09-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "archive",
+    "archival",
+    "backup"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fb/fbd19ce141254b44bac9f17fe0feefe2577f0fd22430beedd1b10c4e62d0d149.json"
+}

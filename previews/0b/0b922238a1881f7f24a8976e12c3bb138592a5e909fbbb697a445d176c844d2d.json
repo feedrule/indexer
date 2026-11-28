@@ -1,0 +1,20 @@
+{
+  "url": "https://x86.lol/feed.xml",
+  "title": "x86.lol",
+  "subtitle": "I'm blogging about low-level topics and my operating system projects on x86 and RISC-V.",
+  "site": "https://x86.lol/",
+  "bytes": 115920,
+  "last": "2025-12-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "operating-systems",
+    "x86"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0b/0b922238a1881f7f24a8976e12c3bb138592a5e909fbbb697a445d176c844d2d.json"
+}

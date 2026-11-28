@@ -1,0 +1,19 @@
+{
+  "url": "https://sigwait.org/~alex/blog/rss.xml",
+  "title": "Alexander Gromnitsky's Blog",
+  "subtitle": "Пограмування, ойті, витяги, цитати",
+  "site": "https://sigwait.org/~alex/blog",
+  "bytes": 43463,
+  "last": "2026-10-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "quotes"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dc/dc9791da40a5e9fbf402e4c95f96a9a386ec3b84a202541781f168f66f3b638f.json"
+}

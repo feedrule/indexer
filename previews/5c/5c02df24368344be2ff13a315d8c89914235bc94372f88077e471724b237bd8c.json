@@ -1,0 +1,21 @@
+{
+  "url": "https://www.wiseowl.com/rss.xml",
+  "title": "Wise Owl",
+  "subtitle": "Deep technical dives into retro computing, FPGA hardware, emulation, and language implementation.",
+  "site": "https://www.wiseowl.com/",
+  "bytes": 34686,
+  "last": "2026-06-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "emulation",
+    "vintage-computing",
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

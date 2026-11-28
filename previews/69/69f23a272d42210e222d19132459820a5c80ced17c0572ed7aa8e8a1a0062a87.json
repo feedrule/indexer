@@ -1,0 +1,20 @@
+{
+  "url": "https://samboyd.dev/blog/atom.xml",
+  "title": "Sam Boyd Blog",
+  "subtitle": "Sam Boyd Blog",
+  "site": "http://localhost/blog",
+  "bytes": 19202,
+  "last": "2026-02-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents",
+    "automation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

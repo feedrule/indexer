@@ -1,0 +1,22 @@
+{
+  "url": "https://shivamkapoor.com/rss/",
+  "title": "Thinking Out Loud",
+  "subtitle": "Thoughts on Software Design & Development",
+  "site": "https://shivamkapoor.com/",
+  "bytes": 185406,
+  "last": "2026-10-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "concurrency",
+    "system-design",
+    "distributed-systems",
+    "database"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

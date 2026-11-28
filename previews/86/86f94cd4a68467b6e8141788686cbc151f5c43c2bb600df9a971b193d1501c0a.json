@@ -1,0 +1,21 @@
+{
+  "url": "https://news.madonnatribe.com/en/feed/",
+  "title": "MadonnaTribe",
+  "subtitle": "Home of Madonna News Since 2003",
+  "site": "https://news.madonnatribe.com/en",
+  "bytes": 56632,
+  "last": "2026-11-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "new-music",
+    "album",
+    "instrumental"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/86/86f94cd4a68467b6e8141788686cbc151f5c43c2bb600df9a971b193d1501c0a.json"
+}

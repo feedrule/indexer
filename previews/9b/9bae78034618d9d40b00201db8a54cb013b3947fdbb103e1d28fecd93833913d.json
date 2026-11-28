@@ -1,0 +1,20 @@
+{
+  "url": "https://www.chrisarmstrong.dev/feed.xml",
+  "title": "Chris Armstrong",
+  "subtitle": "Development and tech musings. I'm a full-stack developer working with serverless architecture on AWS with TypeScript and React",
+  "site": "https://www.chrisarmstrong.dev/posts",
+  "bytes": 30316,
+  "last": "2026-09-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ocaml",
+    "code-generation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/9b/9bae78034618d9d40b00201db8a54cb013b3947fdbb103e1d28fecd93833913d.json"
+}

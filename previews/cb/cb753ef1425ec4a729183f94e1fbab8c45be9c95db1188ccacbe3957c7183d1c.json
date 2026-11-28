@@ -1,0 +1,19 @@
+{
+  "url": "https://feeds.feedburner.com/BmwBlog",
+  "title": "BMWBLOG",
+  "subtitle": "Latest BMW News, Reviews and New Models",
+  "site": "https://www.bmwblog.com/",
+  "bytes": 198596,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bmw"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cb/cb753ef1425ec4a729183f94e1fbab8c45be9c95db1188ccacbe3957c7183d1c.json"
+}

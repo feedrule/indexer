@@ -1,0 +1,21 @@
+{
+  "url": "https://edywerder.ch/feed/",
+  "title": "edywerder.ch",
+  "subtitle": "Edy’s Tech Blog — Clear, Tested Guides",
+  "site": "https://edywerder.ch",
+  "bytes": 22750,
+  "last": "2026-07-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "proxmox",
+    "homelab",
+    "virtualization"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

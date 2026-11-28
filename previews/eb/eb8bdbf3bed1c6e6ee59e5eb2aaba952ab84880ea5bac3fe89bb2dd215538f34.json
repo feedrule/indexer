@@ -1,0 +1,22 @@
+{
+  "url": "https://winware31.blogspot.com/feeds/posts/default",
+  "title": "WinWare",
+  "subtitle": "operating system internals, reverse engineering, system level programming and security topics.",
+  "site": "https://winware31.blogspot.com/",
+  "bytes": 546435,
+  "last": "2026-10-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "malware-analysis",
+    "windows-internals",
+    "object-oriented-programming",
+    "operating-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/eb/eb8bdbf3bed1c6e6ee59e5eb2aaba952ab84880ea5bac3fe89bb2dd215538f34.json"
+}

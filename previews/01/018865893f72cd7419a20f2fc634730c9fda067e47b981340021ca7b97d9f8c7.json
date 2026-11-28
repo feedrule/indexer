@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.josefsson.org/feed/",
+  "title": "Simon Josefsson's blog",
+  "subtitle": null,
+  "site": "https://blog.josefsson.org",
+  "bytes": 1143224,
+  "last": "2026-09-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debian",
+    "gnu",
+    "gitlab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/01/018865893f72cd7419a20f2fc634730c9fda067e47b981340021ca7b97d9f8c7.json"
+}

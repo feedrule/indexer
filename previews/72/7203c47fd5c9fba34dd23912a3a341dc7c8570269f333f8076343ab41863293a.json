@@ -1,0 +1,23 @@
+{
+  "url": "https://recipephany.com/?feed=rss2",
+  "title": "Recipephany",
+  "subtitle": "recipes that change our lives",
+  "site": "https://recipephany.com/",
+  "bytes": 440000,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "recipes",
+    "dessert",
+    "vegetables",
+    "cookies",
+    "side-dishes"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>navy feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Naval" title="Naval" xmlUrl="https://nav.al/feed" htmlUrl="https://nav.al/"/>
+    <outline type="rss" text="Station HYPO" title="Station HYPO" xmlUrl="https://stationhypo.com/feed/" htmlUrl="https://stationhypo.com"/>
+    <outline type="rss" text="WWW.UGLYSHIPS.COM" title="WWW.UGLYSHIPS.COM" xmlUrl="https://uglyships.wordpress.com/feed/" htmlUrl="https://uglyships.wordpress.com"/>
+    <outline type="rss" text="Naval Gazing" title="Naval Gazing" xmlUrl="https://www.navalgazing.net/?action=rss" htmlUrl="https://www.navalgazing.net/?action=rss"/>
+  </body>
+</opml>

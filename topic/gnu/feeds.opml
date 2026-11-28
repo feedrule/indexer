@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>gnu feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="alexeev-dev notes" title="alexeev-dev notes" xmlUrl="https://alexeev-dev.bearblog.dev/feed/" htmlUrl="https://alexeev-dev.bearblog.dev/"/>
+    <outline type="rss" text="Baptiste Fontaine’s Blog" title="Baptiste Fontaine’s Blog" xmlUrl="https://bfontaine.net/blog/atom.xml" htmlUrl="https://bfontaine.net/"/>
+    <outline type="rss" text="Simon Josefsson's blog" title="Simon Josefsson's blog" xmlUrl="https://blog.josefsson.org/feed/" htmlUrl="https://blog.josefsson.org"/>
+    <outline type="rss" text="Ekaitz's tech blog" title="Ekaitz's tech blog" xmlUrl="https://ekaitz.elenq.tech/feeds/all.atom.xml" htmlUrl="https://ekaitz.elenq.tech/"/>
+    <outline type="rss" text="Free Range Bits" title="Free Range Bits" xmlUrl="https://freerangebits.com/index.xml" htmlUrl="https://freerangebits.com/"/>
+    <outline type="rss" text="Heron's Perch" title="Heron's Perch" xmlUrl="https://heronsperch.blogspot.com/feeds/posts/default" htmlUrl="https://heronsperch.blogspot.com/"/>
+    <outline type="rss" text="Marcelo Fernandes" title="Marcelo Fernandes" xmlUrl="https://marcelofern.com/feed" htmlUrl="https://marcelofern.com"/>
+    <outline type="rss" text="emacs on oylenshpeegul" title="emacs on oylenshpeegul" xmlUrl="https://oylenshpeegul.gitlab.io/blog/tags/emacs/index.xml" htmlUrl="https://oylenshpeegul.gitlab.io/blog/tags/emacs/"/>
+    <outline type="rss" text="binary.phile" title="binary.phile" xmlUrl="https://www.binaryphile.com/feed.xml" htmlUrl="https://binaryphile.github.io/"/>
+  </body>
+</opml>

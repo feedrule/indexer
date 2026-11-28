@@ -1,0 +1,23 @@
+{
+  "url": "https://abstraction.blog/feed",
+  "title": "Abstraction.blog",
+  "subtitle": "Valar Codilis. All must code.",
+  "site": "http://abstraction.blog/",
+  "bytes": 153246,
+  "last": "2026-04-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "documentation",
+    "infrastructure-as-code",
+    "kubernetes",
+    "terraform",
+    "cloud"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

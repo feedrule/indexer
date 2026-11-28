@@ -1,0 +1,19 @@
+{
+  "url": "https://www.chiply.dev/rss.xml",
+  "title": "Charlie's Blog",
+  "subtitle": "A personal blog built with Emacs Org and SvelteKit",
+  "site": "https://www.chiply.dev",
+  "bytes": 2347489,
+  "last": "2026-08-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "emacs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a1/a14a80906a5816f4955282ab62a0dd40c1a3029589a4d082db5e73e61667c428.json"
+}

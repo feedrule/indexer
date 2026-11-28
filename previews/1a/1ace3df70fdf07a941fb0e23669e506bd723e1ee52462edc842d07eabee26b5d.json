@@ -1,0 +1,20 @@
+{
+  "url": "https://philna.sh/feed.xml",
+  "title": "Phil Nash",
+  "subtitle": "Phil Nash is a developer, speaker, blogger, developer advocate, sausage dog owner and beer lover.",
+  "site": "https://philna.sh/",
+  "bytes": 645059,
+  "last": "2026-09-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nodejs",
+    "javascript"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1a/1ace3df70fdf07a941fb0e23669e506bd723e1ee52462edc842d07eabee26b5d.json"
+}

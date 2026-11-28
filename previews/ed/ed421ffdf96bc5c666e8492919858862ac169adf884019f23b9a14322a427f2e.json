@@ -1,0 +1,20 @@
+{
+  "url": "https://basic.bearblog.dev/atom/",
+  "title": "Jon’s Blog",
+  "subtitle": "A blog for Jon.",
+  "site": "https://basic.bearblog.dev/",
+  "bytes": 23530,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel",
+    "nostalgia"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

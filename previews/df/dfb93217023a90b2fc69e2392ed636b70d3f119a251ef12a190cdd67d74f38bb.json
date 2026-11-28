@@ -1,0 +1,23 @@
+{
+  "url": "https://apilama.com/feed/",
+  "title": "APILama",
+  "subtitle": "Essays on MCP, the agentic web and API strategy.",
+  "site": "https://apilama.com",
+  "bytes": 209016,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "agentic-workflows",
+    "ai-strategy",
+    "api",
+    "software-architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

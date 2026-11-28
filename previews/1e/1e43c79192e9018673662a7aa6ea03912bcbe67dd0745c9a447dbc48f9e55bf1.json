@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.pimalaya.org/feed.xml",
+  "title": "Pimalaya blog",
+  "subtitle": "News from Pimalaya, an ambitious project that aims to improve open-source tools related to personal information management.",
+  "site": "https://blog.pimalaya.org/",
+  "bytes": 55499,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "pim"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1e/1e43c79192e9018673662a7aa6ea03912bcbe67dd0745c9a447dbc48f9e55bf1.json"
+}

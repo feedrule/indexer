@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>openshift feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Partly Cloudy" title="Partly Cloudy" xmlUrl="https://blog.joshgav.com//feed.xml" htmlUrl="https://blog.joshgav.com//"/>
+    <outline type="rss" text="Roman’s Blog" title="Roman’s Blog" xmlUrl="https://blog.jromanmartin.io/feed.xml" htmlUrl="http://blog.jromanmartin.io/"/>
+    <outline type="rss" text="Musings and Mutterings through the Machines" title="Musings and Mutterings through the Machines" xmlUrl="https://rilindo.com/feeds/all.rss.xml" htmlUrl="https://rilindo.com/"/>
+    <outline type="rss" text="Stephen Nimmo" title="Stephen Nimmo" xmlUrl="https://stephennimmo.com/feed/" htmlUrl="https://stephennimmo.com"/>
+  </body>
+</opml>

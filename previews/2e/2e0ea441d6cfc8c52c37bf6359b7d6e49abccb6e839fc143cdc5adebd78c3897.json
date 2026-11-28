@@ -1,0 +1,20 @@
+{
+  "url": "https://spectralcodex.com/rss.xml",
+  "title": "Spectral Codex",
+  "subtitle": "A digital garden, photography portfolio, and geospatial database mainly focusing on the history and culture of Taiwan.",
+  "site": "https://spectralcodex.com/",
+  "bytes": 184981,
+  "last": "2026-11-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "taipei",
+    "taiwan"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2e/2e0ea441d6cfc8c52c37bf6359b7d6e49abccb6e839fc143cdc5adebd78c3897.json"
+}

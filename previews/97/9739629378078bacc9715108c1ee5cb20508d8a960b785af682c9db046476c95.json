@@ -1,0 +1,23 @@
+{
+  "url": "https://doug.sh/index.xml",
+  "title": "doug.sh",
+  "subtitle": "Doug Calobrisi. Things I built, things I broke, and how the second one led to the first.",
+  "site": "https://doug.sh/",
+  "bytes": 12494,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gpu",
+    "gpx",
+    "vllm",
+    "amd",
+    "nvidia"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

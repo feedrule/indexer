@@ -1,0 +1,21 @@
+{
+  "url": "https://toppa.com/feed/",
+  "title": "Nothing But Words",
+  "subtitle": "Michael Toppa's blog (featuring 100% human writing)",
+  "site": "https://toppa.com",
+  "bytes": 17934,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-writing",
+    "ai-coding",
+    "ruby-on-rails"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/33/3337ea4491ac73c43346f328d99d79deb5236068f142512e68be721a8b261f81.json"
+}

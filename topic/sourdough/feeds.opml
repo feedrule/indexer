@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sourdough feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Fornacalia" title="Fornacalia" xmlUrl="https://fornacalia.com/feed/" htmlUrl="https://fornacalia.com"/>
+    <outline type="rss" text="Forno Aurelio" title="Forno Aurelio" xmlUrl="https://fornoaurelio.bearblog.dev/feed/" htmlUrl="https://fornoaurelio.eu/"/>
+    <outline type="rss" text="THE SOURDOUGH JOURNEY" title="THE SOURDOUGH JOURNEY" xmlUrl="https://thesourdoughjourney.com/feed/" htmlUrl="https://thesourdoughjourney.com/"/>
+    <outline type="rss" text="theBread.code();" title="theBread.code();" xmlUrl="https://www.the-bread-code.io/feed.xml" htmlUrl="https://www.the-bread-code.io/"/>
+  </body>
+</opml>

@@ -1,0 +1,23 @@
+{
+  "url": "https://platformwale.blog/feed/",
+  "title": "Platformwale",
+  "subtitle": "The infrastructure engineering blog that goes past the official docs — covering Kubernetes internals, cloud-native security, distributed systems design, and platform engineering at scale.",
+  "site": "https://platformwale.blog",
+  "bytes": 1064786,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "platform-engineering",
+    "devops",
+    "cloud",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

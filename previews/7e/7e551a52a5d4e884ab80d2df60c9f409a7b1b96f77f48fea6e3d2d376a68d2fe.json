@@ -1,0 +1,23 @@
+{
+  "url": "https://fogel.dev/rss.xml",
+  "title": "Fogel.dev's Blog",
+  "subtitle": "AI security research, open standards, and systems built from 0→1 by Ariel Fogel.",
+  "site": "https://fogel.dev",
+  "bytes": 10555,
+  "last": "2025-12-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ruby-on-rails",
+    "canvas",
+    "ai-security",
+    "web-development",
+    "ruby"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

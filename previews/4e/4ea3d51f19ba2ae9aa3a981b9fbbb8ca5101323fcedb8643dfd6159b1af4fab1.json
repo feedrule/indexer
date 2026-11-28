@@ -1,0 +1,21 @@
+{
+  "url": "https://nickcano.com/rss/",
+  "title": "nickcano",
+  "subtitle": "A blog about software development, reverse engineering, astronomy, and technology.",
+  "site": "https://nickcano.com/",
+  "bytes": 297058,
+  "last": "2026-11-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacking",
+    "ctf",
+    "computer-vision"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4e/4ea3d51f19ba2ae9aa3a981b9fbbb8ca5101323fcedb8643dfd6159b1af4fab1.json"
+}

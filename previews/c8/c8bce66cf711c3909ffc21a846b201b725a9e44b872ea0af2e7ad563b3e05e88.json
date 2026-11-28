@@ -1,0 +1,21 @@
+{
+  "url": "https://roll.bybacon.com/feed.xml",
+  "title": "bacon roll",
+  "subtitle": "Software, teams, and the craft of building things that work.",
+  "site": "https://roll.bybacon.com/",
+  "bytes": 65680,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "communication",
+    "teams"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c8/c8bce66cf711c3909ffc21a846b201b725a9e44b872ea0af2e7ad563b3e05e88.json"
+}

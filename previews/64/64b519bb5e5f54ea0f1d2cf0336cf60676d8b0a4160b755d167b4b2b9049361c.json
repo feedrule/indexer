@@ -1,0 +1,21 @@
+{
+  "url": "https://mitchellh.com/feed.xml",
+  "title": "Mitchell Hashimoto",
+  "subtitle": "Mitchell Hashimoto's personal website.",
+  "site": "https://mitchellh.com",
+  "bytes": 15209,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "zig",
+    "zod",
+    "zfs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

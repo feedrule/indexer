@@ -1,0 +1,22 @@
+{
+  "url": "https://joelgrus.com/feeds/atom.xml",
+  "title": "Joel Grus",
+  "subtitle": "is sort of a famous author",
+  "site": "https://joelgrus.com/",
+  "bytes": 750347,
+  "last": "2025-12-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vibe-coding",
+    "python",
+    "code",
+    "data-science"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2a/2a4a44a773c7dbdd2ed532aafc6c706d41aba2f5a2b46269cfc7f9d15f61611f.json"
+}

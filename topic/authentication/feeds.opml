@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>authentication feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Timbits" title="Timbits" xmlUrl="https://blog.timcappalli.me/index.xml" htmlUrl="https://blog.timcappalli.me/"/>
+    <outline type="rss" text="The Hacker Factor Blog" title="The Hacker Factor Blog" xmlUrl="https://hackerfactor.com/blog/index.php?/feeds/index.rss2" htmlUrl="https://hackerfactor.com/blog/"/>
+    <outline type="rss" text="Pomcor" title="Pomcor" xmlUrl="https://pomcor.com/feed/" htmlUrl="https://pomcor.com"/>
+    <outline type="rss" text="Patryk's blog" title="Patryk's blog" xmlUrl="https://prezu.ca/index.xml" htmlUrl="https://prezu.ca/"/>
+    <outline type="rss" text="Steve on Security" title="Steve on Security" xmlUrl="https://syfuhs.net/atom"/>
+    <outline type="rss" text="Techwolf12 Home on Techwolf12" title="Techwolf12 Home on Techwolf12" xmlUrl="https://techwolf12.nl/index.xml" htmlUrl="https://techwolf12.nl/"/>
+    <outline type="rss" text="Your Name" title="Your Name" xmlUrl="https://www.onlydarshan.com/feed.xml" htmlUrl="https://yoursite.com"/>
+    <outline type="rss" text="Scott Brady - scottbrady.io" title="Scott Brady - scottbrady.io" xmlUrl="https://www.scottbrady.io/rss.xml" htmlUrl="https://www.scottbrady.io"/>
+  </body>
+</opml>

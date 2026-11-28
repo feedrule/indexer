@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.micr.dev/feed.xml",
+  "title": "micr.dev",
+  "subtitle": "Writeups, notes, and experiments.",
+  "site": "https://blog.micr.dev",
+  "bytes": 4885,
+  "last": "2026-08-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "benchmark",
+    "tooling",
+    "ai",
+    "automation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

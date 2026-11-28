@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>monitoring feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Pith of Performance" title="The Pith of Performance" xmlUrl="http://feeds.feedburner.com/TakingThePithOutOfPerformance" htmlUrl="http://perfdynamics.blogspot.com/"/>
+    <outline type="rss" text="0xDC.me" title="0xDC.me" xmlUrl="https://0xdc.me/index.xml" htmlUrl="https://0xdc.me/"/>
+    <outline type="rss" text="Healthchecks.io Blog" title="Healthchecks.io Blog" xmlUrl="https://blog.healthchecks.io/feed/index.xml" htmlUrl="https://blog.healthchecks.io/"/>
+    <outline type="rss" text="/dev/io" title="/dev/io" xmlUrl="https://blog.iodev.org/rss.xml" htmlUrl="https://blog.iodev.org/"/>
+    <outline type="rss" text="Tafkas Blog" title="Tafkas Blog" xmlUrl="https://blog.tafkas.net/index.xml" htmlUrl="https://blog.tafkas.net/"/>
+    <outline type="rss" text="My gists about Observability" title="My gists about Observability" xmlUrl="https://ceesbos.nl/index.xml" htmlUrl="https://ceesbos.nl/"/>
+    <outline type="rss" text="blank" title="blank" xmlUrl="https://mkaz.me/feed.xml" htmlUrl="https://mkaz.me/"/>
+    <outline type="rss" text="https://omarghader.github.io/index.xml" title="https://omarghader.github.io/index.xml" xmlUrl="https://omarghader.github.io/index.xml" htmlUrl="https://omarghader.github.io/"/>
+    <outline type="rss" text="PackIT Forwarding" title="PackIT Forwarding" xmlUrl="https://packitforwarding.com/feed/" htmlUrl="https://packitforwarding.com/"/>
+    <outline type="rss" text="Phare blog" title="Phare blog" xmlUrl="https://phare.io/blog/rss/" htmlUrl="https://phare.io/blog/"/>
+    <outline type="rss" text="RTFM: Linux, DevOps, and system administration" title="RTFM: Linux, DevOps, and system administration" xmlUrl="https://rtfm.co.ua/en/feed/" htmlUrl="https://rtfm.co.ua"/>
+    <outline type="rss" text="HBCC" title="HBCC" xmlUrl="https://www.handsomeboyscomputer.club/index.xml" htmlUrl="https://www.handsomeboyscomputer.club/"/>
+    <outline type="rss" text="The stuff I do" title="The stuff I do" xmlUrl="https://www.statox.fr/feed" htmlUrl="https://www.statox.fr/"/>
+  </body>
+</opml>

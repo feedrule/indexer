@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>black-friday feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="IGN Articles" title="IGN Articles" xmlUrl="http://feeds.ign.com/ign/all" htmlUrl="https://www.ign.com/articles"/>
+    <outline type="rss" text="Mashable" title="Mashable" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="https://mashable.com"/>
+    <outline type="rss" text="Derick Rethans" title="Derick Rethans" xmlUrl="https://derickrethans.nl/feed.xml" htmlUrl="https://derickrethans.nl/archive.html"/>
+    <outline type="rss" text="https://globalnews.ca/feed/" title="https://globalnews.ca/feed/" xmlUrl="https://globalnews.ca/feed/" htmlUrl="https://globalnews.ca"/>
+    <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="https://lifehacker.com/rss" htmlUrl="https://lifehacker.com/feed/rss"/>
+    <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" htmlUrl="https://www.androidauthority.com/"/>
+    <outline type="rss" text="EBONY" title="EBONY" xmlUrl="https://www.ebony.com/feed/" htmlUrl="https://www.ebony.com"/>
+    <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="https://www.pcworld.com/feed" htmlUrl="https://www.pcworld.com"/>
+  </body>
+</opml>

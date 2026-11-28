@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>netlify feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="adnano.co" title="adnano.co" xmlUrl="https://adnano.co/feed.xml" htmlUrl="https://adnano.co/"/>
+    <outline type="rss" text="simonknott.de" title="simonknott.de" xmlUrl="https://simonknott.de/feed.xml" htmlUrl="https://simonknott.de/"/>
+    <outline type="rss" text="Today I Learned… in Code" title="Today I Learned… in Code" xmlUrl="https://tilcode.com/feed/" htmlUrl="https://tilcode.com/"/>
+  </body>
+</opml>

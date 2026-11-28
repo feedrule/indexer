@@ -1,0 +1,21 @@
+{
+  "url": "https://dev.authorbuzz.co.uk/feed/",
+  "title": "Author Buzz Developer Blog",
+  "subtitle": "News, Updates, and Ramblings from the Author Buzz Developers",
+  "site": "https://dev.authorbuzz.co.uk/",
+  "bytes": 30115,
+  "last": "2026-09-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "activitypub",
+    "bugs",
+    "forum"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ad/adcf62e07875f0fd85109d7ca50cd7cb84931c23e860a3d32bddbcf818e23c11.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://squirrel.talosvault.net/rss.xml",
+  "title": "SquirrelModeller Blog",
+  "subtitle": "All of SquirrelModeller's blogs.",
+  "site": "https://squirrel.talosvault.net//blog",
+  "bytes": 2674,
+  "last": "2026-10-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ae/ae0c9ea05cca59f94bf4ae31bfff44ec1a8d6e033848948eb03c44550ea340bd.json"
+}

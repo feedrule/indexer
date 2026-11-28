@@ -1,0 +1,20 @@
+{
+  "url": "https://codeutopia.net/feed",
+  "title": "Codeutopia.net: latest posts",
+  "subtitle": "Latest posts from codeutopia.net",
+  "site": "https://codeutopia.net",
+  "bytes": 119320,
+  "last": "2026-10-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming",
+    "advent-of-code"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8c/8c904bca3db2049479c73ab22bea86e17967bc0458291699c35157951844f56e.json"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://quickfix.es/feed/",
+  "title": "Quick Fixes",
+  "subtitle": "Free Software, Writing and other Stuff",
+  "site": "https://quickfix.es",
+  "bytes": 11510,
+  "last": "2026-05-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "theme",
+    "free-software",
+    "software",
+    "writing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jbrains.ca/rss.xml",
+  "title": "The jbrains Blog",
+  "subtitle": "Writings by J. B. Rainsberger on professional software development, leadership, and personal growth.",
+  "site": "https://blog.jbrains.ca/",
+  "bytes": 17761,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "personal-development",
+    "gtd"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4e/4e6185d34699ec4ecba8f8f8342b3ce274017ffd46705b8fb1f9ceceec8448fa.json"
+}

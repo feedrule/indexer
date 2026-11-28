@@ -1,0 +1,20 @@
+{
+  "url": "https://www.space.com/feeds/all",
+  "title": "Latest from Space.com",
+  "subtitle": "All the latest content from the Space.com team",
+  "site": "https://www.space.com/feeds.xml",
+  "bytes": 1126671,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nasa",
+    "space-exploration"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c2/c2edd5eb4423abe382cba6f22ae12facdd16af369efc72723ae933dfd41d97c8.json"
+}

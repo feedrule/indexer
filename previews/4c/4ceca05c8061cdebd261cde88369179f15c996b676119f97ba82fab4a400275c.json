@@ -1,0 +1,20 @@
+{
+  "url": "https://hackerfactor.com/blog/index.php?/feeds/index.rss2",
+  "title": "The Hacker Factor Blog",
+  "subtitle": "Work without a net",
+  "site": "https://hackerfactor.com/blog/",
+  "bytes": 117763,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "authentication"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

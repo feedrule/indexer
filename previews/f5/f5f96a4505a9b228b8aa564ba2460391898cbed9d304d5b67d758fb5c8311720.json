@@ -1,0 +1,21 @@
+{
+  "url": "https://lynxthoughts.com/feed/",
+  "title": "Lynx Thoughts",
+  "subtitle": "Kannik's Stream of Consciousness",
+  "site": "https://lynxthoughts.com",
+  "bytes": 44916,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "architecture",
+    "philosophy",
+    "design"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f5/f5f96a4505a9b228b8aa564ba2460391898cbed9d304d5b67d758fb5c8311720.json"
+}

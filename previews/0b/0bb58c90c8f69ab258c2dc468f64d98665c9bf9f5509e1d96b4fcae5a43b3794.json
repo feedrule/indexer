@@ -1,0 +1,19 @@
+{
+  "url": "https://sbulav.github.io/feed",
+  "title": "Cloud Alchemist",
+  "subtitle": "Personal blog with emphasis on cloud-native technologies, by a Senior DevOps Engineer experienced in AWS, Kubernetes, Terraform, ArgoCD, and NixOS.",
+  "site": "https://sbulav.github.io/",
+  "bytes": 69432,
+  "last": "2026-10-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

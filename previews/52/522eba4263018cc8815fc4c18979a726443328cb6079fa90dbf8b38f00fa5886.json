@@ -1,0 +1,22 @@
+{
+  "url": "https://jan.wildeboer.net/feed.xml",
+  "title": "Jan Wildeboer’s Blog",
+  "subtitle": "It's where I share my personal thoughts and takes.",
+  "site": "https://jan.wildeboer.net/",
+  "bytes": 144815,
+  "last": "2026-08-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "digital-sovereignty",
+    "self-hosting",
+    "garage",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

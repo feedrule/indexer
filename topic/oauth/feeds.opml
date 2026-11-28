@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>oauth feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Articles by Aaron Parecki" title="Articles by Aaron Parecki" xmlUrl="https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/"/>
+    <outline type="rss" text="Okta Developer Blog" title="Okta Developer Blog" xmlUrl="https://developer.okta.com/feed.xml" htmlUrl="https://developer.okta.com/blog/"/>
+    <outline type="rss" text="Franz Geffke" title="Franz Geffke" xmlUrl="https://gofranz.com/feed.xml" htmlUrl="https://gofranz.com/"/>
+    <outline type="rss" text="Home on Sauvik Biswas" title="Home on Sauvik Biswas" xmlUrl="https://sauvikbiswas.com/index.xml" htmlUrl="https://sauvikbiswas.com/"/>
+  </body>
+</opml>

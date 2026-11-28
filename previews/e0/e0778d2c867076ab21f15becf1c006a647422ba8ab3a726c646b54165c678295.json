@@ -1,0 +1,19 @@
+{
+  "url": "https://kelvinwong.ca/feed.xml",
+  "title": "Kelvin Wong's Blog",
+  "subtitle": "Thoughts on Django and Web Development",
+  "site": "https://kelvinwong.ca/blog/",
+  "bytes": 2554,
+  "last": "2026-08-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

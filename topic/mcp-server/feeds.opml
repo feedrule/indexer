@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mcp-server feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="David Golverdingen — Insights" title="David Golverdingen — Insights" xmlUrl="https://davidgolverdingen.nl/feed.xml" htmlUrl="https://davidgolverdingen.nl/en/insights"/>
+    <outline type="rss" text="While in the lab" title="While in the lab" xmlUrl="https://jspann.me/blog/index.xml" htmlUrl="http://jspann.github.io/blog/"/>
+    <outline type="rss" text="Cloud Native Deep Dive" title="Cloud Native Deep Dive" xmlUrl="https://www.cloudnativedeepdive.com/rss/" htmlUrl="https://www.cloudnativedeepdive.com/"/>
+    <outline type="rss" text="MB Crosier Samuel" title="MB Crosier Samuel" xmlUrl="https://www.mbsamuel.com/rss.xml" htmlUrl="https://www.mbsamuel.com/"/>
+  </body>
+</opml>

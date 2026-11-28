@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.ploeh.dk/rss.xml",
+  "title": "ploeh blog",
+  "subtitle": "danish software design",
+  "site": "https://blog.ploeh.dk",
+  "bytes": 168966,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-design"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

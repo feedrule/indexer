@@ -1,0 +1,23 @@
+{
+  "url": "https://eyeofmidas.wordpress.com/feed/",
+  "title": "The Eye Of Midas: Developer's Blog",
+  "subtitle": "A personal blog to inspire me to upkeep my code.",
+  "site": "https://eyeofmidas.wordpress.com",
+  "bytes": 137650,
+  "last": "2026-05-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "development",
+    "game-development",
+    "command-line",
+    "linux",
+    "debian"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/eb/eba08d69817577f658a5bebb20b288609630f07f977dc0f1e566590fdebe21ba.json"
+}

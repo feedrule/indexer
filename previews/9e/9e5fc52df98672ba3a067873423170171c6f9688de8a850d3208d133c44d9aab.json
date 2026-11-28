@@ -1,0 +1,19 @@
+{
+  "url": "https://www.serverlesslife.com/rss.xml",
+  "title": "Serverless Life",
+  "subtitle": "Life with AWS, Lambda, Node.js, TypeScript ... and without a server to take care of",
+  "site": "https://www.serverlesslife.com",
+  "bytes": 34586,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "serverless"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

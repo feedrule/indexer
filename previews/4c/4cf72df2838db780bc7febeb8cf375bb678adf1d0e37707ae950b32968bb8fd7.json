@@ -1,0 +1,21 @@
+{
+  "url": "https://www.ret2libc.com/feed.xml",
+  "title": "~/werew",
+  "subtitle": "Luigi Coniglio's personal blog about security, computer science and miscellaneous",
+  "site": "https://www.ret2libc.com/",
+  "bytes": 5345,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security-research",
+    "security-analysis",
+    "ai-security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

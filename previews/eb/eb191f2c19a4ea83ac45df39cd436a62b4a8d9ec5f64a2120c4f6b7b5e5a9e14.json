@@ -1,0 +1,20 @@
+{
+  "url": "https://nestenius.se/feed.xml",
+  "title": "Tore Nestenius",
+  "subtitle": "Under the hood of .NET, identity and security. Tore Nestenius writes about ASP.NET Core, C#, OpenID Connect, OAuth, IdentityServer and Azure.",
+  "site": "https://nestenius.se/",
+  "bytes": 48939,
+  "last": "2026-10-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aspnet",
+    "azure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

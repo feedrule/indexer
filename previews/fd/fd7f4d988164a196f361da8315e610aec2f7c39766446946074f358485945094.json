@@ -1,0 +1,20 @@
+{
+  "url": "https://www.townhistory.org/rss/",
+  "title": "TownHistory.org",
+  "subtitle": "TownHistory.org — telling the story of the land & settlement of Woodbridge, Connecticut",
+  "site": "https://www.townhistory.org/",
+  "bytes": 364742,
+  "last": "2026-07-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "local-history",
+    "american-history"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fd/fd7f4d988164a196f361da8315e610aec2f7c39766446946074f358485945094.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.zufallsheld.de/feeds/all.atom.xml",
+  "title": "zufallsheld",
+  "subtitle": "a tech blog",
+  "site": "https://www.zufallsheld.de/",
+  "bytes": 567544,
+  "last": "2026-05-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "gitlab",
+    "github"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://geektechstuff.com/feed/",
+  "title": "GeekTechStuff",
+  "subtitle": "A site where a tech geek writes about stuff",
+  "site": "https://geektechstuff.com",
+  "bytes": 77621,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "geek",
+    "technology",
+    "devops",
+    "comics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bf/bf6725a6733f692dc8c67f6292c48c0c371d46628a76064ea1fd8208d963770e.json"
+}

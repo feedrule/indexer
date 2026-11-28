@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.msar.me/rss.xml",
+  "title": "Brain Blocks",
+  "subtitle": "Brain Blocks is the software engineering blog of Saiful Alam Rakib (MSAR): practical guides on Laravel, PHP, React, JavaScript, databases, DevOps and AI.",
+  "site": "https://blog.msar.me",
+  "bytes": 30328,
+  "last": "2026-10-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

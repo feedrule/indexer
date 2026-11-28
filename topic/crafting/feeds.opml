@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>crafting feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="João Freitas" title="João Freitas" xmlUrl="https://joaomagfreitas.link/index.xml" htmlUrl="https://joaomagfreitas.link/"/>
+    <outline type="rss" text="Kae Learns in Public" title="Kae Learns in Public" xmlUrl="https://kaes-blog.bearblog.dev/atom.xml" htmlUrl="https://kaes-blog.bearblog.dev/"/>
+    <outline type="rss" text="Notes on Making" title="Notes on Making" xmlUrl="https://notes-on-making.bearblog.dev/feed/" htmlUrl="https://notes-on-making.bearblog.dev/"/>
+  </body>
+</opml>

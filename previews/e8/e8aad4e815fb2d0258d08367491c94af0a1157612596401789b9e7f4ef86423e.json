@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bazhenov.me/rss.xml",
+  "title": "bazhenov.me",
+  "subtitle": "Recent content on bazhenov.me",
+  "site": "https://www.bazhenov.me/",
+  "bytes": 136688,
+  "last": "2026-04-24",
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "topics": [
+    "benchmark"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e8/e8aad4e815fb2d0258d08367491c94af0a1157612596401789b9e7f4ef86423e.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://skoredin.pro/rss.xml",
+  "title": "Serge Skoredin — IT Blog",
+  "subtitle": "Go, Backend, AI and Modern Technologies insights from Serge Skoredin.",
+  "site": "https://skoredin.pro/blog/",
+  "bytes": 23233,
+  "last": "2026-09-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ca/ca2d899d75c5d19363c80bfcf296ee57564831f41377a2b1b27f91efffb59b6b.json"
+}

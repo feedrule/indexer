@@ -1,0 +1,19 @@
+{
+  "url": "https://juliaactuary.org/blog.xml",
+  "title": "JuliaActuary",
+  "subtitle": "Release notes, technical articles, and community updates.",
+  "site": "https://JuliaActuary.org/blog.html",
+  "bytes": 1004849,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "julia"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

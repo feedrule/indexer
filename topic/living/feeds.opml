@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>living feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Brain bin 🧠🗑️" title="Brain bin 🧠🗑️" xmlUrl="https://brainbin.bearblog.dev/feed/" htmlUrl="https://brainbin.bearblog.dev/"/>
+    <outline type="rss" text="迷歩 Komachi" title="迷歩 Komachi" xmlUrl="https://komachi.bearblog.dev/feed/" htmlUrl="https://komachi.bearblog.dev/"/>
+    <outline type="rss" text="Thinkings Space" title="Thinkings Space" xmlUrl="https://thinkings.space/atom/" htmlUrl="https://thinkings.space/"/>
+    <outline type="rss" text="Wolfram.org" title="Wolfram.org" xmlUrl="https://wolfram.org/feed/" htmlUrl="https://wolfram.org"/>
+  </body>
+</opml>

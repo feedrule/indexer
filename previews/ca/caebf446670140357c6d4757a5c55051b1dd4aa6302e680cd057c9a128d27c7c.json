@@ -1,0 +1,20 @@
+{
+  "url": "https://baptiste-wicht.com/rss.xml",
+  "title": "Blog blog(\"Baptiste Wicht\");",
+  "subtitle": "Tutorials and short posts about programming, C++, Java, Assembly, Operating Systems Development, Compilers, ...",
+  "site": "https://baptiste-wicht.com/",
+  "bytes": 467797,
+  "last": "2026-09-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "c++"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ca/caebf446670140357c6d4757a5c55051b1dd4aa6302e680cd057c9a128d27c7c.json"
+}

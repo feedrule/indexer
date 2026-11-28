@@ -1,0 +1,19 @@
+{
+  "url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml",
+  "title": "Swarajya",
+  "subtitle": null,
+  "site": "https://swarajyamag.com",
+  "bytes": 11784,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "delhi"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bd/bd843d5bd28aff1f0b6a1b3396340404ba81f6c3e0bea270b236cd8219389f3d.json"
+}

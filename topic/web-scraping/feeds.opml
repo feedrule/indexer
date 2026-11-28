@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>web-scraping feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Nico 🎈" title="Nico 🎈" xmlUrl="https://floruit.bearblog.dev/feed/" htmlUrl="https://floruit.bearblog.dev/"/>
+    <outline type="rss" text="Pixeljets" title="Pixeljets" xmlUrl="https://pixeljets.com/blog/rss/" htmlUrl="https://pixeljets.com/blog/"/>
+    <outline type="rss" text="Posts on Trickster Dev" title="Posts on Trickster Dev" xmlUrl="https://www.trickster.dev/post/index.xml" htmlUrl="https://www.trickster.dev/post/"/>
+  </body>
+</opml>

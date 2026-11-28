@@ -1,0 +1,19 @@
+{
+  "url": "https://lesiw.dev/feed.xml",
+  "title": "lesiw.dev",
+  "subtitle": "The technical blog of Chris Lesiw, a Go developer with a focus on building simple, robust, and sustainable software.",
+  "site": "https://lesiw.dev/",
+  "bytes": 10094,
+  "last": "2026-09-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/29/291fe229c1992b25a1f1231bab8591d9c55184f95353b6165666600284e4d0a8.json"
+}

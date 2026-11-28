@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tinkering feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Andy Bromberg" title="Andy Bromberg" xmlUrl="https://andybromberg.com/feed.xml" htmlUrl="https://andybromberg.com/"/>
+    <outline type="rss" text="Cruftbox: My Box of Cruft" title="Cruftbox: My Box of Cruft" xmlUrl="https://cruftbox.com/feed/" htmlUrl="https://cruftbox.com"/>
+    <outline type="rss" text="Lizette Greco" title="Lizette Greco" xmlUrl="https://lizettegreco.com/rss" htmlUrl="https://lizettegreco.com/"/>
+    <outline type="rss" text="Pierre Couy’s tech corner" title="Pierre Couy’s tech corner" xmlUrl="https://pierre-couy.dev/feed.xml" htmlUrl="https://pierre-couy.dev/"/>
+  </body>
+</opml>

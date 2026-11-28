@@ -1,0 +1,21 @@
+{
+  "url": "https://wheatbeat.com/feed/",
+  "title": "WheatBeat",
+  "subtitle": "Home baking, professional results",
+  "site": "https://wheatbeat.com/",
+  "bytes": 13542,
+  "last": "2026-03-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bakery",
+    "bread",
+    "recipes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/de/ded515fb48c482769e007b0639d64d3caf85b39fe6a68147ef168093f4c07451.json"
+}

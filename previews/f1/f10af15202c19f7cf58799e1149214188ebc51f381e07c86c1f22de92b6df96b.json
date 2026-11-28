@@ -1,0 +1,21 @@
+{
+  "url": "https://www.meziantou.net/feed.atom",
+  "title": "Meziantou's blog",
+  "subtitle": "Practical articles about .NET and C#, from quick tips to deep dives: performance, testing, diagnostics, Roslyn analyzers, MSBuild, NuGet, PowerShell, and git.",
+  "site": null,
+  "bytes": 9724,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "c#",
+    "dotnet",
+    "debugging"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f1/f10af15202c19f7cf58799e1149214188ebc51f381e07c86c1f22de92b6df96b.json"
+}

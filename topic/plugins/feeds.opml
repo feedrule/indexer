@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>plugins feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bob Matyas" title="Bob Matyas" xmlUrl="https://bobmatyas.com/feed/atom/" htmlUrl="https://bobmatyas.com"/>
+    <outline type="rss" text="WordPress Developer Blog" title="WordPress Developer Blog" xmlUrl="https://developer.wordpress.org/news/feed/" htmlUrl="https://developer.wordpress.org/news"/>
+    <outline type="rss" text="digitalfilms" title="digitalfilms" xmlUrl="https://digitalfilms.wordpress.com/feed/" htmlUrl="https://digitalfilms.wordpress.com"/>
+    <outline type="rss" text="planetOzh" title="planetOzh" xmlUrl="https://planetozh.com/feed/" htmlUrl="https://planetozh.com/blog"/>
+    <outline type="rss" text="https://russellenvy.com/feed/" title="https://russellenvy.com/feed/" xmlUrl="https://russellenvy.com/feed/" htmlUrl="https://russellenvy.com/"/>
+  </body>
+</opml>

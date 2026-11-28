@@ -1,0 +1,20 @@
+{
+  "url": "https://semicolony.dev/papers/rss.xml",
+  "title": "Semicolony: Annotated CS papers",
+  "subtitle": "Foundational distributed-systems, storage, and networking papers, read closely and annotated. TL;DR, problem statement, contributions, criticisms, where the ideas show up today.",
+  "site": "https://semicolony.dev/papers/",
+  "bytes": 13762,
+  "last": "2026-05-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "distributed-systems",
+    "storage"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://wts.dev/feed",
+  "title": "Watch This Space",
+  "subtitle": "A security research blog.",
+  "site": "https://wts.dev/",
+  "bytes": 5926,
+  "last": "2026-07-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "mac"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.vrplumber.com/b/feeds/",
+  "title": "blog.vrplumber.com - Last entries",
+  "subtitle": "The last entries on the site blog.vrplumber.com",
+  "site": "https://blog.vrplumber.com/b/",
+  "bytes": 30645,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "pycon"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b2/b2abe6463f19e06e14777fa989f986d93d01eeb57134acea84ee595924bf01a6.json"
+}

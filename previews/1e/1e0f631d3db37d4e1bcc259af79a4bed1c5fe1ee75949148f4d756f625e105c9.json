@@ -1,0 +1,19 @@
+{
+  "url": "https://hunden.linuxkompis.se/feed.xml",
+  "title": "Hund",
+  "subtitle": "Linux, slow-tech & life",
+  "site": "https://hunden.linuxkompis.se/",
+  "bytes": 837277,
+  "last": "2026-07-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "youtube"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1e/1e0f631d3db37d4e1bcc259af79a4bed1c5fe1ee75949148f4d756f625e105c9.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://news.google.com/rss",
+  "title": "Top stories - Google News",
+  "subtitle": "Google News",
+  "site": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+  "bytes": 126294,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fox-news"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

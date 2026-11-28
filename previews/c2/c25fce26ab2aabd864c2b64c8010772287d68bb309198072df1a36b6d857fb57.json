@@ -1,0 +1,19 @@
+{
+  "url": "http://blog.mozilla.com/l10n/feed/",
+  "title": "Mozilla L10N",
+  "subtitle": "Users first, no matter where they are",
+  "site": "https://blog.mozilla.org/l10n",
+  "bytes": 124120,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mozilla"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

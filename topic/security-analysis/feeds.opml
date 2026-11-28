@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>security-analysis feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Armored Code" title="Armored Code" xmlUrl="https://armoredcode.com/feed.xml" htmlUrl="https://armoredcode.com/"/>
+    <outline type="rss" text="$BLOG_TITLE" title="$BLOG_TITLE" xmlUrl="https://blog.deesee.xyz/feed.xml" htmlUrl="https://blog.deesee.xyz/"/>
+    <outline type="rss" text="Slonser Notes" title="Slonser Notes" xmlUrl="https://blog.slonser.info/index.xml" htmlUrl="https://blog.slonser.info/"/>
+    <outline type="rss" text="Breakpoint" title="Breakpoint" xmlUrl="https://breakpoint.purrfect.fr/rss.xml" htmlUrl="https://breakpoint.purrfect.fr"/>
+    <outline type="rss" text="ds-security.com" title="ds-security.com" xmlUrl="https://ds-security.com/rss.xml" htmlUrl="https://ds-security.pages.dev/"/>
+    <outline type="rss" text="munio — security research" title="munio — security research" xmlUrl="https://munio.dev/rss.xml" htmlUrl="https://munio.dev/"/>
+    <outline type="rss" text="Psychevus Research" title="Psychevus Research" xmlUrl="https://psychevus.com/research/feed.xml" htmlUrl="https://psychevus.com/research"/>
+    <outline type="rss" text="RivasSec" title="RivasSec" xmlUrl="https://rivassec.com/feeds/all.atom.xml" htmlUrl="https://rivassec.com/"/>
+    <outline type="rss" text="Ryan Henrick | Research" title="Ryan Henrick | Research" xmlUrl="https://ryanhenrick.com/rss.xml" htmlUrl="https://ryanhenrick.com/"/>
+    <outline type="rss" text="UncleSp1d3r Blog" title="UncleSp1d3r Blog" xmlUrl="https://unclesp1d3r.github.io/index.xml" htmlUrl="https://unclesp1d3r.github.io/"/>
+    <outline type="rss" text="Jeffrey Bencteux" title="Jeffrey Bencteux" xmlUrl="https://www.bencteux.fr/index.xml" htmlUrl="https://www.bencteux.fr/"/>
+    <outline type="rss" text="~/werew" title="~/werew" xmlUrl="https://www.ret2libc.com/feed.xml" htmlUrl="https://www.ret2libc.com/"/>
+  </body>
+</opml>

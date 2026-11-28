@@ -1,0 +1,20 @@
+{
+  "url": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml",
+  "title": "NYT > Japan",
+  "subtitle": null,
+  "site": "https://www.nytimes.com/topic/destination/japan",
+  "bytes": 18944,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "japan",
+    "china"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/26/269c7cc74ab8101335f8bc9b84296f657b18aa408fe81c8cc09cacf7922aa205.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://erikras.com/atom.xml",
+  "title": "erikras.com",
+  "subtitle": "Erik Rasmussen's personal website",
+  "site": "https://erikras.com/",
+  "bytes": 263291,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "redux",
+    "forms"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7e/7e8e85f1ced72796e6a53507054bbfa49d8520f03a31c19aed5dad1d77b2ae50.json"
+}

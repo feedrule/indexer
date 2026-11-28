@@ -1,0 +1,19 @@
+{
+  "url": "https://openrss.org/blog.rss",
+  "title": "Open RSS Blog",
+  "subtitle": "Latest news, updates, and information in the world of RSS",
+  "site": "https://openrss.org/blog",
+  "bytes": 37054,
+  "last": "2026-09-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rstats"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5b/5b1a707a70a4b0780658ac20df8f1973a6c62d34ff2e5eb9a92948d0542f87fa.json"
+}

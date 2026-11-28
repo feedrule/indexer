@@ -1,0 +1,20 @@
+{
+  "url": "https://vincentping.com/feeds/en.atom.xml",
+  "title": "Vincent Ping (English)",
+  "subtitle": "Vincent Ping's blog (English posts) — long-term notes on technology, learning, health, and life.",
+  "site": "https://vincentping.com/",
+  "bytes": 177540,
+  "last": "2026-09-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2d/2ddab509cca84e37b5248f55e1a7eabdf208ea2eee54bad9b526359fd250fd6a.json"
+}

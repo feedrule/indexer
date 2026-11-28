@@ -1,0 +1,19 @@
+{
+  "url": "https://astro-blog-cyan-alpha.vercel.app/rss.xml",
+  "title": "Omer's Blog",
+  "subtitle": "Practical web development articles by Omer Davidson: React performance, system design, frontend architecture and UX.",
+  "site": "https://www.omerdavidson.dev/",
+  "bytes": 4170,
+  "last": "2026-08-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-components"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/88/889f76b39a2d850fd37d126df5e4f747cd3f208b842712361dbab3d279a00cd8.json"
+}

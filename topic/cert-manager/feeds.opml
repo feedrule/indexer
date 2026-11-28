@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>cert-manager feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="https://danieldewberry.com/rss.xml" title="https://danieldewberry.com/rss.xml" xmlUrl="https://danieldewberry.com/rss.xml" htmlUrl="https://DanielDewberry.com"/>
+    <outline type="rss" text="| The grimoire of a modern Linux professional" title="| The grimoire of a modern Linux professional" xmlUrl="https://grimoire.carcano.ch/feed/" htmlUrl="https://grimoire.carcano.ch"/>
+    <outline type="rss" text="Matthew McPherrin" title="Matthew McPherrin" xmlUrl="https://mcpherrin.ca/feed.xml" htmlUrl="https://mcpherrin.ca/"/>
+  </body>
+</opml>

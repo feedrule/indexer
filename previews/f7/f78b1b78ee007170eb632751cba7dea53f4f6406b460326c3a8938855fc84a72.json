@@ -1,0 +1,20 @@
+{
+  "url": "https://hoverbear.org/rss.xml",
+  "title": "Hoverbear",
+  "subtitle": "A computer scientist working in open source towards a more hopeful future.",
+  "site": "https://hoverbear.org",
+  "bytes": 125851,
+  "last": "2026-06-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix",
+    "unix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

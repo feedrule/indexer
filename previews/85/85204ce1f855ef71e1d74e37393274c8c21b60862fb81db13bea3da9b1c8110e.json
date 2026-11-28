@@ -1,0 +1,19 @@
+{
+  "url": "https://developer.okta.com/feed.xml",
+  "title": "Okta Developer Blog",
+  "subtitle": "The Okta Developer Blog is a place for developers to learn about identity, security, and building better applications.",
+  "site": "https://developer.okta.com/blog/",
+  "bytes": 608442,
+  "last": "2026-11-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "oauth"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/85/85204ce1f855ef71e1d74e37393274c8c21b60862fb81db13bea3da9b1c8110e.json"
+}

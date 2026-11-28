@@ -1,0 +1,22 @@
+{
+  "url": "https://geiser.cloud/rss/",
+  "title": "Geiser's Cloud",
+  "subtitle": "Once upon a cloud...",
+  "site": "https://geiser.cloud/",
+  "bytes": 183925,
+  "last": "2026-09-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "devops",
+    "disaster-recovery",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

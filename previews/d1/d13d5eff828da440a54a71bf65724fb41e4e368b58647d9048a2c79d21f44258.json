@@ -1,0 +1,19 @@
+{
+  "url": "https://bennet.org/rss.xml",
+  "title": "Bennet.org",
+  "subtitle": "Detailed guides, interactive tutorials, open source experiments, and more for the discerning Bitcoiner.",
+  "site": "https://bennet.org/",
+  "bytes": 505638,
+  "last": "2026-08-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bitcoin"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d1/d13d5eff828da440a54a71bf65724fb41e4e368b58647d9048a2c79d21f44258.json"
+}

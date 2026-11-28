@@ -1,0 +1,20 @@
+{
+  "url": "https://yamad.jp/en/feed.xml",
+  "title": "yamad.jp",
+  "subtitle": "Articles and notes written by yamad.",
+  "site": "https://yamad.jp/en/",
+  "bytes": 10838,
+  "last": "2026-09-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openjdk",
+    "java"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/28/285382f01ca2e18b25b10f04472a711b90d3ceab4341db55bbe81fb454b55fee.json"
+}

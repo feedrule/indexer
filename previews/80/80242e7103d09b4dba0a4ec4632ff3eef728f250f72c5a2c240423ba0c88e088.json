@@ -1,0 +1,19 @@
+{
+  "url": "https://devblogs.microsoft.com/visualstudio/feed/",
+  "title": "Visual Studio Blog",
+  "subtitle": "The official source of product insight from the Visual Studio Engineering Team",
+  "site": "https://devblogs.microsoft.com/visualstudio/",
+  "bytes": 125126,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "visual-studio"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/80/80242e7103d09b4dba0a4ec4632ff3eef728f250f72c5a2c240423ba0c88e088.json"
+}

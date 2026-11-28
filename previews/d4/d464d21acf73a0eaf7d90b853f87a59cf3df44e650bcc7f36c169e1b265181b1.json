@@ -1,0 +1,19 @@
+{
+  "url": "https://bugwatcher.net/feed.xml",
+  "title": "bugfeed",
+  "subtitle": "new post every",
+  "site": "https://bugwatcher.net/blog",
+  "bytes": 1207,
+  "last": "2026-08-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "bugfix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d4/d464d21acf73a0eaf7d90b853f87a59cf3df44e650bcc7f36c169e1b265181b1.json"
+}

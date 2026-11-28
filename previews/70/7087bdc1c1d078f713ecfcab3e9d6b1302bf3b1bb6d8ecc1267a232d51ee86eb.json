@@ -1,0 +1,21 @@
+{
+  "url": "https://garbe.io/atom.xml",
+  "title": "Philipps Blog",
+  "subtitle": "From Bavaria to the Cloud. My blog about AWS, Docker and Continuous Delivery.",
+  "site": "https://garbe.io/",
+  "bytes": 152788,
+  "last": "2026-10-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws",
+    "aws-lambda",
+    "cdk"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

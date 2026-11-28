@@ -1,0 +1,20 @@
+{
+  "url": "https://cemrekarakas.com/rss.xml",
+  "title": "Cemre's Blog",
+  "subtitle": "This is an RSS feed of my website.",
+  "site": "https://cemrekarakas.com/",
+  "bytes": 412267,
+  "last": "2026-10-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software",
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c4/c46e7679b853ab2286b64319619c49c46093054ec4f1ee7268f491720978fa1b.json"
+}

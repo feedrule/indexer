@@ -1,0 +1,19 @@
+{
+  "url": "https://alexrios.me/rss",
+  "title": "alexrios",
+  "subtitle": "Alex Rios — Principal Engineer, author, and conference speaker writing about Go internals, systems programming, and tech leadership.",
+  "site": "https://alexrios.me/",
+  "bytes": 25812,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "garbage-collection"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cd/cdea43e52bf294774eeddde092235e715700d22510e1e573d729847040f3f9b2.json"
+}

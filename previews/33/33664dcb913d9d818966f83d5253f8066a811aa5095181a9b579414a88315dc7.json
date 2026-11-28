@@ -1,0 +1,20 @@
+{
+  "url": "https://spgl.in/blog/feed.atom",
+  "title": "Sandeep Gopal",
+  "subtitle": null,
+  "site": "https://spgl.in Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Volumes/sandeep_ssd/software/systemsblog/vendor/illuminate/support/helpers.php on line 262",
+  "bytes": 67095,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cloud",
+    "cloud-run"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>http feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ache: Personal blog" title="ache: Personal blog" xmlUrl="https://ache.one/en/rss.xml" htmlUrl="https://ache.one/"/>
+    <outline type="rss" text="seanmonstar" title="seanmonstar" xmlUrl="https://seanmonstar.com/rss/" htmlUrl="https://seanmonstar.com/"/>
+    <outline type="rss" text="Michal Špaček: All articles" title="Michal Špaček: All articles" xmlUrl="https://www.michalspacek.com/exports/articles"/>
+  </body>
+</opml>

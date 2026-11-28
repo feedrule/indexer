@@ -1,0 +1,20 @@
+{
+  "url": "https://crittery.bearblog.dev/feed/?type=rss",
+  "title": "zot",
+  "subtitle": "stupid blog cool",
+  "site": "https://crittery.bearblog.dev/",
+  "bytes": 15112,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "zfs",
+    "zod"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/19/19e9c69183d2cae1b280a6b523592b1a188166179f3893dae58233d08dcf251f.json"
+}

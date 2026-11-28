@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>webapp feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="firt.dev" title="firt.dev" xmlUrl="https://firt.dev/feed/feed.xml" htmlUrl="https://firt.dev/"/>
+    <outline type="rss" text="jakelazaroff.com" title="jakelazaroff.com" xmlUrl="https://jakelazaroff.com/rss.xml" htmlUrl="https://jakelazaroff.com/"/>
+    <outline type="rss" text="partridge.works" title="partridge.works" xmlUrl="https://partridge.works/feed/atom/" htmlUrl="https://partridge.works"/>
+    <outline type="rss" text="patorjk.com/blog" title="patorjk.com/blog" xmlUrl="https://patorjk.com/blog/feed/" htmlUrl="https://patorjk.com/blog"/>
+    <outline type="rss" text="Unbundle the Web" title="Unbundle the Web" xmlUrl="https://spa-mvc-pages.duckdns.org/unbundle-the-web/feed.xml" htmlUrl="https://joexo.codeberg.page/unbundle-the-web/"/>
+    <outline type="rss" text="Ben Francis" title="Ben Francis" xmlUrl="https://tola.me.uk/blog/feed/" htmlUrl="https://tola.me.uk/blog"/>
+    <outline type="rss" text="Ben Francis" title="Ben Francis" xmlUrl="https://tola.me.uk/feed/" htmlUrl="https://tola.me.uk/blog"/>
+  </body>
+</opml>

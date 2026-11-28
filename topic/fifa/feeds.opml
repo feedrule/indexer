@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>fifa feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="NYT &gt; Sports &gt; Soccer" title="NYT &gt; Sports &gt; Soccer" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml" htmlUrl="https://www.nytimes.com/section/sports/soccer"/>
+    <outline type="rss" text="FGN – FIFA Game News" title="FGN – FIFA Game News" xmlUrl="https://www.fifagamenews.com/feed/" htmlUrl="https://www.fifagamenews.com/"/>
+    <outline type="rss" text="Football | The Guardian" title="Football | The Guardian" xmlUrl="https://www.theguardian.com/football/rss" htmlUrl="https://www.theguardian.com/football"/>
+  </body>
+</opml>

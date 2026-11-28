@@ -1,0 +1,20 @@
+{
+  "url": "https://petermc.net/blog/feed/",
+  "title": "C'est un blog",
+  "subtitle": "maths and more",
+  "site": "https://petermc.net/blog",
+  "bytes": 50427,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "math",
+    "travel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fa/fa54d711dd6bea2acfde9e929f11369fab8efbbdd8a1f47315d56d50fe3d4025.json"
+}

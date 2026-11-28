@@ -1,0 +1,20 @@
+{
+  "url": "https://jpb.dev/feed.xml",
+  "title": "Jack Price-Burns — Blog",
+  "subtitle": "Occasional writing on software, security and whatever I happen to be building or breaking.",
+  "site": "https://jpb.dev/blog/",
+  "bytes": 111426,
+  "last": "2026-10-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "indie-hacking",
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a2/a25f9d48bff8b82274837353d2ede409d2aa8766af6ecfad1589d6eded6c37db.json"
+}

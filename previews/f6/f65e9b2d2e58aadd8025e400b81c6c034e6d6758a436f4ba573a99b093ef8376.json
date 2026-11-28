@@ -1,0 +1,19 @@
+{
+  "url": "https://wansteadmeteo.com/feed/",
+  "title": "Wanstead Meteo",
+  "subtitle": "Meteorology-based musings about east London and beyond",
+  "site": "https://wansteadmeteo.com",
+  "bytes": 67996,
+  "last": "2026-10-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "weather"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

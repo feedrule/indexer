@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>zod feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="zot" title="zot" xmlUrl="https://crittery.bearblog.dev/feed/?type=rss" htmlUrl="https://crittery.bearblog.dev/"/>
+    <outline type="rss" text="Mitchell Hashimoto" title="Mitchell Hashimoto" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com"/>
+    <outline type="rss" text="zinnia - blog posts" title="zinnia - blog posts" xmlUrl="https://zinnia-os.org/blog/atom.xml" htmlUrl="https://zinnia-os.org/blog/"/>
+  </body>
+</opml>

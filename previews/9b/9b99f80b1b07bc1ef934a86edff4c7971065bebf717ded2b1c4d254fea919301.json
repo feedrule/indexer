@@ -1,0 +1,20 @@
+{
+  "url": "https://ache.one/en/rss.xml",
+  "title": "ache: Personal blog",
+  "subtitle": "This is a RSS feed for content agreagator. As a human being, you are certainly looking for my website This RSS flux contains everything I write. If you only want to follow my main articles which are of certain quality, there is a RSS flux with only articles.",
+  "site": "https://ache.one/",
+  "bytes": 7128,
+  "last": "2026-09-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web",
+    "http"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/9b/9b99f80b1b07bc1ef934a86edff4c7971065bebf717ded2b1c4d254fea919301.json"
+}

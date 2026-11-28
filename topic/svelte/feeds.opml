@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>svelte feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="JovianMoon.io" title="JovianMoon.io" xmlUrl="https://jovianmoon.io/rss.xml" htmlUrl="https://jovianmoon.io"/>
+    <outline type="rss" text="Svelte blog" title="Svelte blog" xmlUrl="https://svelte.dev/blog/rss.xml" htmlUrl="https://svelte.dev/blog"/>
+  </body>
+</opml>

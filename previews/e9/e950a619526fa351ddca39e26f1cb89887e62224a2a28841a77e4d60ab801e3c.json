@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.vasi.li/feed",
+  "title": "Vasili's Blog",
+  "subtitle": "I'm a software engineer of 20 years and this is my personal blog.",
+  "site": "https://blog.vasi.li/",
+  "bytes": 50089,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "podcast"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e9/e950a619526fa351ddca39e26f1cb89887e62224a2a28841a77e4d60ab801e3c.json"
+}

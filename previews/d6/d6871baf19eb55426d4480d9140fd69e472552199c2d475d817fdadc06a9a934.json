@@ -1,0 +1,20 @@
+{
+  "url": "https://wtfleming.github.io/rss.xml",
+  "title": "Will's Software Journal",
+  "subtitle": "Will's Software Journal",
+  "site": "https://wtfleming.github.io/",
+  "bytes": 379697,
+  "last": "2026-08-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojurescript",
+    "clojure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d6/d6871baf19eb55426d4480d9140fd69e472552199c2d475d817fdadc06a9a934.json"
+}

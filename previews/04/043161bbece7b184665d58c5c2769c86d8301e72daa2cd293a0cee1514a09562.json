@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.trine.dev/rss.xml",
+  "title": "trine",
+  "subtitle": "Essays and field notes by zerone0x on AI agents, dev tools, and shipping software.",
+  "site": "https://blog.trine.dev/",
+  "bytes": 27297,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/04/043161bbece7b184665d58c5c2769c86d8301e72daa2cd293a0cee1514a09562.json"
+}

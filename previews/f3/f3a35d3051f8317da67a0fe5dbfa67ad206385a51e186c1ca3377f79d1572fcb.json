@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.simbastack.com/feed.xml",
+  "title": "SimbaStack",
+  "subtitle": "An agent-first blog hosted on SlopIt.",
+  "site": "https://blog.simbastack.com/",
+  "bytes": 135520,
+  "last": "2026-10-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f3/f3a35d3051f8317da67a0fe5dbfa67ad206385a51e186c1ca3377f79d1572fcb.json"
+}

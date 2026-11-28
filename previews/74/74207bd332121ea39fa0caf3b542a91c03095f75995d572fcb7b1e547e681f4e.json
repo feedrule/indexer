@@ -1,0 +1,20 @@
+{
+  "url": "https://thetangential.com/feed/",
+  "title": "The Tangential",
+  "subtitle": "Don't be boring. Don't suck.",
+  "site": "https://thetangential.com/",
+  "bytes": 69328,
+  "last": "2026-06-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "movie-review",
+    "book-review"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/74/74207bd332121ea39fa0caf3b542a91c03095f75995d572fcb7b1e547e681f4e.json"
+}

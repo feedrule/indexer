@@ -1,0 +1,21 @@
+{
+  "url": "https://ldomaradzki.com/atom.xml",
+  "title": "LDomaradzki.com",
+  "subtitle": "Personal blog about software development, iOS app building, and technical insights.",
+  "site": "https://ldomaradzki.com",
+  "bytes": 4886,
+  "last": "2026-06-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ios-development",
+    "ios",
+    "swift"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/99/99fc5aee6f95fcb8188c7b3d0c7f63c97c9d1e604ada4332f0f6da2ee339703f.json"
+}

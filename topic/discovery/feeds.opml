@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>discovery feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Colin O'Callaghan" title="Colin O'Callaghan" xmlUrl="https://colinocallaghan.com/feed.xml" htmlUrl="https://colinocallaghan.com"/>
+    <outline type="rss" text="Spherical Cow Consulting" title="Spherical Cow Consulting" xmlUrl="https://sphericalcowconsulting.com/feed/" htmlUrl="https://sphericalcowconsulting.com/"/>
+    <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/"/>
+  </body>
+</opml>

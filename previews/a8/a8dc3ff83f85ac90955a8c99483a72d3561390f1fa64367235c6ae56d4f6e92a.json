@@ -1,0 +1,20 @@
+{
+  "url": "https://konstantinlebedev.com/rss.xml",
+  "title": "Konstantin Lebedev blog",
+  "subtitle": "Personal and technical blog",
+  "site": "https://konstantinlebedev.com/",
+  "bytes": 6634,
+  "last": "2026-07-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "react",
+    "typescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a8/a8dc3ff83f85ac90955a8c99483a72d3561390f1fa64367235c6ae56d4f6e92a.json"
+}

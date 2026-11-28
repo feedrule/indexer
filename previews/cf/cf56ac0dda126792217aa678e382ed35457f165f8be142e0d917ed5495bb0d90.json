@@ -1,0 +1,22 @@
+{
+  "url": "https://samplereality.com/feed",
+  "title": "@samplereality",
+  "subtitle": "Digital Skulduggery & more",
+  "site": "https://samplereality.com",
+  "bytes": 329630,
+  "last": "2026-06-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "microblog",
+    "digital-humanities",
+    "interactive-fiction",
+    "creative-coding"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cf/cf56ac0dda126792217aa678e382ed35457f165f8be142e0d917ed5495bb0d90.json"
+}

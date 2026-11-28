@@ -1,0 +1,20 @@
+{
+  "url": "https://jacobin.com/feed/",
+  "title": "Jacobin",
+  "subtitle": "Jacobin is a leading voice of the American left, offering socialist perspectives on politics, economics, and culture.",
+  "site": "https://jacobin.com",
+  "bytes": 338899,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "marxism",
+    "politics"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7f/7f835f5a5048769c91593e7805a86ecabeeb9c1ab78bf246f72830553bd170dd.json"
+}

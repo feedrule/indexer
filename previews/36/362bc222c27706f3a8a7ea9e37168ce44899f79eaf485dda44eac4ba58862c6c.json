@@ -1,0 +1,19 @@
+{
+  "url": "http://feeds.feedburner.com/rickstrahl",
+  "title": "Rick Strahl's Web Log",
+  "subtitle": "Wind, waves, code and everything in between",
+  "site": "https://weblog.west-wind.com/",
+  "bytes": 66573,
+  "last": "2026-10-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aspnet"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/36/362bc222c27706f3a8a7ea9e37168ce44899f79eaf485dda44eac4ba58862c6c.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://justatheory.com/feed.xml",
+  "title": "Just a Theory",
+  "subtitle": "Periodically irregular technology and culture blogging since 2002. By David E. Wheeler.",
+  "site": "https://justatheory.com/",
+  "bytes": 453484,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql",
+    "extensions",
+    "clickhouse"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

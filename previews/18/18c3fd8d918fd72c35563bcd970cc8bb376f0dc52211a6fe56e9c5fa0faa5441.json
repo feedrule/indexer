@@ -1,0 +1,20 @@
+{
+  "url": "https://nebelwelt.net/blog/feeds/all.atom.xml",
+  "title": "Random ramblings of a security nerd",
+  "subtitle": null,
+  "site": "https://nebelwelt.net/blog/",
+  "bytes": 941540,
+  "last": "2026-09-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "fuzzing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/18/18c3fd8d918fd72c35563bcd970cc8bb376f0dc52211a6fe56e9c5fa0faa5441.json"
+}

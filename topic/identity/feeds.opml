@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>identity feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Identity Bytes" title="Identity Bytes" xmlUrl="https://identitybytes.com/index.php/feed/" htmlUrl="https://identitybytes.com"/>
+    <outline type="rss" text="Lockstep" title="Lockstep" xmlUrl="https://lockstep.com.au/feed/" htmlUrl="https://lockstep.com.au/"/>
+    <outline type="rss" text="Magdalena's Digest" title="Magdalena's Digest" xmlUrl="https://magdalenasdigest.com/feed/" htmlUrl="https://magdalenasdigest.com"/>
+    <outline type="rss" text=".Nat Zone" title=".Nat Zone" xmlUrl="https://nat.sakimura.org/feed/" htmlUrl="https://nat.sakimura.org"/>
+  </body>
+</opml>

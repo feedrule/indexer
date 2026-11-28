@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.codingmilitia.com/feed.xml",
+  "title": "Coding Militia",
+  "subtitle": "Recent content on Coding Militia",
+  "site": "https://blog.codingmilitia.com/",
+  "bytes": 5068157,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "event-driven-architecture"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/74/7404d98221a61ad0fceba60620cbe9e037aeebe520272a627b9d8e525b0d8b14.json"
+}

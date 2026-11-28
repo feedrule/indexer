@@ -1,0 +1,21 @@
+{
+  "url": "https://mjasion.pl/index.xml",
+  "title": "Marcin Jasion",
+  "subtitle": "Platform engineering, Kubernetes, AWS, and cloud infrastructure articles by Marcin Jasion",
+  "site": "https://mjasion.pl/",
+  "bytes": 10530,
+  "last": "2026-10-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "terraform",
+    "cloudflare"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

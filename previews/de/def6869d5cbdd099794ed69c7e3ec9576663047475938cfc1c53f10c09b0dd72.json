@@ -1,0 +1,19 @@
+{
+  "url": "https://www.linuxbabe.com/feed/atom",
+  "title": "LinuxBabe",
+  "subtitle": "Read The Friendly Manual | Linux Sysadmin, Server & Desktop",
+  "site": "https://www.linuxbabe.com/",
+  "bytes": 228184,
+  "last": "2026-09-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/de/def6869d5cbdd099794ed69c7e3ec9576663047475938cfc1c53f10c09b0dd72.json"
+}

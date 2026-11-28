@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>chrome feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="A Tinker's Log" title="A Tinker's Log" xmlUrl="http://atinkerslog.blogspot.com/feeds/posts/default" htmlUrl="http://atinkerslog.blogspot.com/"/>
+    <outline type="rss" text="Chromium Blog" title="Chromium Blog" xmlUrl="http://blog.chromium.org/feeds/posts/default" htmlUrl="http://blog.chromium.org/"/>
+    <outline type="rss" text="arv-o-matic" title="arv-o-matic" xmlUrl="https://blog.arv.tools/atom.xml" htmlUrl="https://blog.arv.tools/"/>
+    <outline type="rss" text="Google Chrome" title="Google Chrome" xmlUrl="https://blog.google/products/chrome/rss/" htmlUrl="https://blog.google/products-and-platforms/products/chrome/"/>
+    <outline type="rss" text="developer.chrome.com: Blog" title="developer.chrome.com: Blog" xmlUrl="https://developer.chrome.com/static/blog/feed.xml" htmlUrl="https://developer.chrome.com/blog/"/>
+    <outline type="rss" text="theo, softserve developer" title="theo, softserve developer" xmlUrl="https://theo.lol/feed" htmlUrl="https://theo.lol/"/>
+    <outline type="rss" text="Chrome Story" title="Chrome Story" xmlUrl="https://www.chromestory.com/feed/" htmlUrl="https://chromestory.com/"/>
+    <outline type="rss" text="Google Chrome News: Browser Updates, Security, Extensions - gHacks" title="Google Chrome News: Browser Updates, Security, Extensions - gHacks" xmlUrl="https://www.ghacks.net/category/google-chrome-browsing/feed/" htmlUrl="https://www.ghacks.net/category/google-chrome-browsing/"/>
+  </body>
+</opml>

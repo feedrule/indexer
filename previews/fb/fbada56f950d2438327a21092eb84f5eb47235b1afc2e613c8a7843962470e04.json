@@ -1,0 +1,21 @@
+{
+  "url": "https://matthicks.com/feed/",
+  "title": "MattHicks.com",
+  "subtitle": "Programming on the Edge",
+  "site": "https://matthicks.com/blog/",
+  "bytes": 123025,
+  "last": "2026-09-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "java",
+    "programming",
+    "scala"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

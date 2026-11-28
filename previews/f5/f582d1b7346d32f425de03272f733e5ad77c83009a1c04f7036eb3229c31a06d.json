@@ -1,0 +1,20 @@
+{
+  "url": "https://derg.nz/feed.xml",
+  "title": "Dergnz🐉",
+  "subtitle": "A dragon's personal website with everything from IT to cooking and gardening stuff.",
+  "site": "https://derg.nz/",
+  "bytes": 149864,
+  "last": "2026-09-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tutorial",
+    "recipes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f5/f582d1b7346d32f425de03272f733e5ad77c83009a1c04f7036eb3229c31a06d.json"
+}

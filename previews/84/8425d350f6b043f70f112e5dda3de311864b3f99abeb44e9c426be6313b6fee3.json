@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.mozilla.org/addons/feed/",
+  "title": "Mozilla Add-ons Community Blog",
+  "subtitle": null,
+  "site": "https://blog.mozilla.org/addons/",
+  "bytes": 40786,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "firefox",
+    "developer"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/84/8425d350f6b043f70f112e5dda3de311864b3f99abeb44e9c426be6313b6fee3.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://adamnotes.com/rss.xml",
+  "title": "My Astro Notes",
+  "subtitle": "Welcome to my notes built with Astro",
+  "site": "https://adamnotes.com/",
+  "bytes": 13075,
+  "last": "2026-10-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "llm",
+    "machine-learning",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

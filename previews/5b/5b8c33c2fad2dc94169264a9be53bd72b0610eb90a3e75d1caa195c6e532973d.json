@@ -1,0 +1,19 @@
+{
+  "url": "https://postsecret.com/feed/?alt=rss",
+  "title": "PostSecret",
+  "subtitle": "Discover true secrets that have never been shared. Explore the surprising stories behind the secrets.",
+  "site": "https://postsecret.com/",
+  "bytes": 102964,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "secrets"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

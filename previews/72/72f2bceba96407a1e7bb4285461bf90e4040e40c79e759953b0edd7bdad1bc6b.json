@@ -1,0 +1,21 @@
+{
+  "url": "https://www.larschristensen.org/blog-feed.xml",
+  "title": "Mysite",
+  "subtitle": "Mysite",
+  "site": "https://www.larschristensen.org/blog",
+  "bytes": 21793,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "book-recommendations",
+    "book-summary",
+    "book-notes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

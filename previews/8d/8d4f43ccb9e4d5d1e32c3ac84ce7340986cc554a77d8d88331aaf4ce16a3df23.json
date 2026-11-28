@@ -1,0 +1,20 @@
+{
+  "url": "https://exploit.cat/index.xml",
+  "title": "exploit.cat",
+  "subtitle": "Reverse engineering, antibot, and hacking.",
+  "site": "https://exploit.cat/",
+  "bytes": 126684,
+  "last": "2026-10-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "exploit",
+    "tooling"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8d/8d4f43ccb9e4d5d1e32c3ac84ce7340986cc554a77d8d88331aaf4ce16a3df23.json"
+}

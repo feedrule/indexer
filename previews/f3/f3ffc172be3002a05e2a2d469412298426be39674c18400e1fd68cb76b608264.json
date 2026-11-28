@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.brianseitel.com/rss.xml",
+  "title": "Brian Seitel's Blog",
+  "subtitle": "Thoughts on engineering leadership, software architecture, AI-native development, and building high-performing teams.",
+  "site": "https://blog.brianseitel.com",
+  "bytes": 74682,
+  "last": "2026-09-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tech-leadership",
+    "leadership",
+    "engineering",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f3/f3ffc172be3002a05e2a2d469412298426be39674c18400e1fd68cb76b608264.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.mozilla.org/data/feed/",
+  "title": "Data@Mozilla",
+  "subtitle": null,
+  "site": "https://blog.mozilla.org/data",
+  "bytes": 95553,
+  "last": "2026-01-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "data",
+    "firefox",
+    "data-engineering"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://hoelz.ro/feed.rss",
+  "title": "hoelz.ro",
+  "subtitle": "RSS feed for hoelz.ro",
+  "site": "https://hoelz.ro/",
+  "bytes": 14852,
+  "last": "2026-01-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "prometheus"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

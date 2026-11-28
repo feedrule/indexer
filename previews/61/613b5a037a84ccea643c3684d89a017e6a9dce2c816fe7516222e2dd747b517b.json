@@ -1,0 +1,19 @@
+{
+  "url": "https://www.theonion.com/rss",
+  "title": "The Onion",
+  "subtitle": "America’s Finest News Source",
+  "site": "https://theonion.com/",
+  "bytes": 42907,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "news"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

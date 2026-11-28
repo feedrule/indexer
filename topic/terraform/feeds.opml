@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>terraform feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Rhys Campbell" title="Rhys Campbell" xmlUrl="http://youdidwhatwithtsql.com/feed.xml" htmlUrl="http://www.youdidwhatwithtsql.com/"/>
+    <outline type="rss" text="Abstraction.blog" title="Abstraction.blog" xmlUrl="https://abstraction.blog/feed" htmlUrl="http://abstraction.blog/"/>
+    <outline type="rss" text="Alessandro Marino's Tech Blog" title="Alessandro Marino's Tech Blog" xmlUrl="https://alessandromarinoac.com/rss.xml" htmlUrl="https://alessandromarinoac.com"/>
+    <outline type="rss" text="Jayson Reis" title="Jayson Reis" xmlUrl="https://blog.jayson.com.br/rss.xml" htmlUrl="https://blog.jayson.com.br/"/>
+    <outline type="rss" text="Riaan's SysAdmin Blog" title="Riaan's SysAdmin Blog" xmlUrl="https://blog.ls-al.com/feed/atom/" htmlUrl="https://blog.ls-al.com"/>
+    <outline type="rss" text="Blog - MattBits" title="Blog - MattBits" xmlUrl="https://blog.mattsbit.co.uk/index.xml" htmlUrl="https://blog.mattsbit.co.uk/"/>
+    <outline type="rss" text="Techdecline's Blog" title="Techdecline's Blog" xmlUrl="https://blog.techdecline.dev/atom/" htmlUrl="https://blog.techdecline.dev/"/>
+    <outline type="rss" text="$blogTopics | % {echo $_}" title="$blogTopics | % {echo $_}" xmlUrl="https://blog.victorsilva.com.uy/feed.xml" htmlUrl="https://blog.victorsilva.com.uy/"/>
+    <outline type="rss" text="breadNET" title="breadNET" xmlUrl="https://breadnet.co.uk/index.xml" htmlUrl="https://breadnet.co.uk/"/>
+    <outline type="rss" text="Clete's Blog" title="Clete's Blog" xmlUrl="https://clete2.com/index.xml" htmlUrl="https://clete2.com/"/>
+    <outline type="rss" text="Daniel Schmidt's Blog" title="Daniel Schmidt's Blog" xmlUrl="https://danielmschmidt.de/rss.xml" htmlUrl="https://danielmschmidt.de/"/>
+    <outline type="rss" text="David Guerrero" title="David Guerrero" xmlUrl="https://davidguerrero.fr/index.xml" htmlUrl="https://davidguerrero.fr/"/>
+    <outline type="rss" text="devDosvid blog" title="devDosvid blog" xmlUrl="https://devdosvid.blog/index.xml" htmlUrl="https://devdosvid.blog/"/>
+    <outline type="rss" text="Fabian Lee : Software Engineer" title="Fabian Lee : Software Engineer" xmlUrl="https://fabianlee.org/feed/" htmlUrl="https://fabianlee.org"/>
+    <outline type="rss" text="HAIT | Cloud &amp; DevOps Blog" title="HAIT | Cloud &amp; DevOps Blog" xmlUrl="https://haitmg.pl/rss.xml" htmlUrl="https://haitmg.pl/"/>
+    <outline type="rss" text="jq1.io" title="jq1.io" xmlUrl="https://jq1.io/index.xml" htmlUrl="https://jq1.io/"/>
+    <outline type="rss" text="Alex Artigues on lex00" title="Alex Artigues on lex00" xmlUrl="https://lex00.github.io/index.xml" htmlUrl="https://lex00.github.io/"/>
+    <outline type="rss" text="Ben Matheja" title="Ben Matheja" xmlUrl="https://matheja.me/feed.xml" htmlUrl="https://matheja.me/"/>
+    <outline type="rss" text="Blog on mattias.engineer" title="Blog on mattias.engineer" xmlUrl="https://mattias.engineer/blog/index.xml" htmlUrl="https://mattias.engineer/blog/"/>
+    <outline type="rss" text="Mike Ball" title="Mike Ball" xmlUrl="https://mikeball.info/index.xml" htmlUrl="https://mikeball.info/"/>
+    <outline type="rss" text="Marcin Jasion" title="Marcin Jasion" xmlUrl="https://mjasion.pl/index.xml" htmlUrl="https://mjasion.pl/"/>
+    <outline type="rss" text="Ned In The Cloud" title="Ned In The Cloud" xmlUrl="https://nedinthecloud.com/blog/index.xml" htmlUrl="https://nedinthecloud.com/blog/"/>
+    <outline type="rss" text="newbmiao" title="newbmiao" xmlUrl="https://newbmiao.github.io/atom.xml" htmlUrl="https://newbmiao.github.io/"/>
+    <outline type="rss" text="Onat Mercan’s Blog" title="Onat Mercan’s Blog" xmlUrl="https://onatm.dev/feed.xml" htmlUrl="https://onatm.dev/"/>
+    <outline type="rss" text="Baking With Neurospice on Paddy’s Blog" title="Baking With Neurospice on Paddy’s Blog" xmlUrl="https://paddy.carvers.com/index.xml" htmlUrl="https://paddy.carvers.com/"/>
+    <outline type="rss" text="Riftmap Blog" title="Riftmap Blog" xmlUrl="https://riftmap.dev/rss.xml" htmlUrl="https://riftmap.dev/"/>
+    <outline type="rss" text="rosesecurity@dev" title="rosesecurity@dev" xmlUrl="https://rosesecurity.dev/feed.xml" htmlUrl="https://rosesecurity.dev/"/>
+    <outline type="rss" text="Techdecline's Blog" title="Techdecline's Blog" xmlUrl="https://techdecline.bearblog.dev/feed/" htmlUrl="https://blog.techdecline.dev/"/>
+    <outline type="rss" text="Ricard Bejarano – Site Reliability Engineer" title="Ricard Bejarano – Site Reliability Engineer" xmlUrl="https://www.bejarano.io/feed.xml" htmlUrl="https://www.bejarano.io/"/>
+    <outline type="rss" text="Geek and I" title="Geek and I" xmlUrl="https://www.geekandi.com/rss.xml" htmlUrl="https://www.geekandi.com/"/>
+    <outline type="rss" text="Mostly Operational" title="Mostly Operational" xmlUrl="https://www.kalinowski.io/rss.xml" htmlUrl="https://www.kalinowski.io/"/>
+    <outline type="rss" text="Ricky Smith" title="Ricky Smith" xmlUrl="https://www.ricky-dev.com/feed.xml" htmlUrl="https://www.ricky-dev.com/"/>
+    <outline type="rss" text="Techielass - A blog by Sarah Lean" title="Techielass - A blog by Sarah Lean" xmlUrl="https://www.techielass.com/rss/" htmlUrl="https://www.techielass.com/"/>
+  </body>
+</opml>

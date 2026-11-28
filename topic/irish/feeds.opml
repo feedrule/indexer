@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>irish feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Cloud" title="Cloud" xmlUrl="https://cloud.wordpress.com/feed/" htmlUrl="https://cloud.wordpress.com"/>
+    <outline type="rss" text="IrishCentral.com - Top Stories" title="IrishCentral.com - Top Stories" xmlUrl="https://feeds.feedburner.com/IrishCentral" htmlUrl="https://www.irishcentral.com/feeds/section-articles.rss"/>
+    <outline type="rss" text="Irish Philosophy" title="Irish Philosophy" xmlUrl="https://irishphilosophy.com/feed/" htmlUrl="https://irishphilosophy.com"/>
+    <outline type="rss" text="Sean Hillen" title="Sean Hillen" xmlUrl="https://seanhillenblog.com/feed/" htmlUrl="https://seanhillenblog.com"/>
+    <outline type="rss" text="Una Sinnott" title="Una Sinnott" xmlUrl="https://unasinnott.com/feed/" htmlUrl="https://unasinnott.com/"/>
+    <outline type="rss" text="IrishCentral" title="IrishCentral" xmlUrl="https://www.irishcentral.com/feeds/section-articles.atom" htmlUrl="https://www.irishcentral.com/"/>
+    <outline type="rss" text="Irish Mirror - Home" title="Irish Mirror - Home" xmlUrl="https://www.irishmirror.ie/?service=rss" htmlUrl="https://www.irishmirror.ie"/>
+    <outline type="rss" text="The Ancestor Guy" title="The Ancestor Guy" xmlUrl="https://www.theancestorguy.com/blog-feed.xml" htmlUrl="https://www.theancestorguy.com/blog-1"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "http://feeds.feedburner.com/WhatsUpOnAprsFi",
+  "title": "What's up on aprs.fi",
+  "subtitle": "The news of https://aprs.fi/ - new features and interesting attractions found in the APRS and AIS worlds.",
+  "site": "http://blog.aprs.fi/",
+  "bytes": 254078,
+  "last": "2026-06-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aprs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3d/3d91a7eedcbf8b0179f8cc00247988794baa5ad31f13313e199b26aacec404c9.json"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>astrophysics feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Astroblog" title="Astroblog" xmlUrl="http://astroblogger.blogspot.com/atom.xml" htmlUrl="http://astroblogger.blogspot.com/"/>
+    <outline type="rss" text="nemmen" title="nemmen" xmlUrl="https://nemmen.bearblog.dev/feed/" htmlUrl="https://nemmen.bearblog.dev/"/>
+    <outline type="rss" text="privon.com News" title="privon.com News" xmlUrl="https://privon.com/feed.rss" htmlUrl="https://privon.com"/>
+    <outline type="rss" text="ScienceBits" title="ScienceBits" xmlUrl="https://www.sciencebits.com/rss.xml" htmlUrl="https://www.sciencebits.com/"/>
+  </body>
+</opml>

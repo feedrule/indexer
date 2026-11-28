@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sql-server feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="markw.dev - the blog" title="markw.dev - the blog" xmlUrl="http://markw.dev/atom.xml" htmlUrl="https://markw.dev"/>
+    <outline type="rss" text="Andy M Mallon - AM²" title="Andy M Mallon - AM²" xmlUrl="https://am2.co/feed/" htmlUrl="https://am2.co/"/>
+    <outline type="rss" text="Data with Bert" title="Data with Bert" xmlUrl="https://bertwagner.com/atom.xml" htmlUrl="https://bertwagner.com/"/>
+    <outline type="rss" text="bicortex" title="bicortex" xmlUrl="https://bicortex.com/bicortex/feed/" htmlUrl="https://bicortex.com/bicortex"/>
+    <outline type="rss" text="Born SQL" title="Born SQL" xmlUrl="https://bornsql.ca/feed/" htmlUrl="https://bornsql.ca/"/>
+    <outline type="rss" text="DBA From The Cold" title="DBA From The Cold" xmlUrl="https://dbafromthecold.com/feed/atom/" htmlUrl="https://dbafromthecold.com"/>
+    <outline type="rss" text="Darling Data" title="Darling Data" xmlUrl="https://erikdarling.com/feed/" htmlUrl="https://erikdarling.com"/>
+    <outline type="rss" text="ErikEJ’s blog" title="ErikEJ’s blog" xmlUrl="https://erikej.github.io/feed.xml" htmlUrl="https://erikej.github.io/"/>
+    <outline type="rss" text="SQL, Code, Coffee, Etc." title="SQL, Code, Coffee, Etc." xmlUrl="https://marlonribunal.com/feed/atom/" htmlUrl="https://marlonribunal.com"/>
+    <outline type="rss" text="Trevor Dwyer · sqlartist" title="Trevor Dwyer · sqlartist" xmlUrl="https://sqlartist.github.io/rss.xml" htmlUrl="https://sqlartist.github.io/"/>
+    <outline type="rss" text="Quan Mai’s blog" title="Quan Mai’s blog" xmlUrl="https://vimvq1987.com/feed.xml" htmlUrl="https://vimvq1987.com/"/>
+    <outline type="rss" text="Code With Trev | Blog" title="Code With Trev | Blog" xmlUrl="https://www.trevoirwilliams.com/rss/" htmlUrl="https://www.trevoirwilliams.com/"/>
+  </body>
+</opml>

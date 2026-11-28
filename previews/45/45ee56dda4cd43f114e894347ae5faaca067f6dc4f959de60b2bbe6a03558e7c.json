@@ -1,0 +1,20 @@
+{
+  "url": "https://anarc.at/blog/index.rss",
+  "title": "Blog.",
+  "subtitle": "Pourquoi faire simple quand on peut faire compliqué.",
+  "site": "https://anarc.at/blog/",
+  "bytes": 131200,
+  "last": "2026-10-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "sysadmin",
+    "debian"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/45/45ee56dda4cd43f114e894347ae5faaca067f6dc4f959de60b2bbe6a03558e7c.json"
+}

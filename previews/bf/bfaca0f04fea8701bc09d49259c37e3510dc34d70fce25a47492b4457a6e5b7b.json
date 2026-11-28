@@ -1,0 +1,19 @@
+{
+  "url": "https://legacyupdate.net/feed",
+  "title": "Legacy Update News",
+  "subtitle": "Updates from the Legacy Update project. Get back online, activate, and install updates on your legacy Windows PC.",
+  "site": "https://legacyupdate.net/news",
+  "bytes": 72212,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "legacy-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bf/bfaca0f04fea8701bc09d49259c37e3510dc34d70fce25a47492b4457a6e5b7b.json"
+}

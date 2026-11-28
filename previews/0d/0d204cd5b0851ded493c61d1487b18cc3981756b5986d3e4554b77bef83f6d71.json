@@ -1,0 +1,20 @@
+{
+  "url": "https://ewolff.com/feed.xml",
+  "title": "ewolff.com",
+  "subtitle": "Eberhard Wolff's Homepage",
+  "site": "https://ewolff.com/",
+  "bytes": 110131,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-architecture",
+    "domain-driven-design"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0d/0d204cd5b0851ded493c61d1487b18cc3981756b5986d3e4554b77bef83f6d71.json"
+}

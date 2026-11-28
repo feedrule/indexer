@@ -1,0 +1,21 @@
+{
+  "url": "https://theswiftdev.com/rss.xml",
+  "title": "The.Swift.Dev.",
+  "subtitle": "Articles about application development using the Swift programming language.",
+  "site": "https://theswiftdev.com",
+  "bytes": 72396,
+  "last": "2026-08-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swift",
+    "swiftui",
+    "swiftdata"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

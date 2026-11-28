@@ -1,0 +1,19 @@
+{
+  "url": "https://luke.lol/blog/feed",
+  "title": "Luke's Blog",
+  "subtitle": "Luke Rehmann's personal blog.",
+  "site": "https://luke.lol/blog",
+  "bytes": 15287,
+  "last": "2026-07-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d1/d1f33d418387cc1a7c6d752892b6c3e8b0a6582e435f2ebd5c7fc6c60933e86a.json"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "http://blog.rcard.in/feed.xml",
+  "title": "Big ball of mud",
+  "subtitle": "Writing about Scala, Kotlin, and the JVM — from functional programming and effect systems to design patterns and concurrency.",
+  "site": "http://rcardin.github.io/",
+  "bytes": 14493,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "scala",
+    "java",
+    "functional-programming",
+    "concurrency"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.thalheim.io/index.xml",
+  "title": "~/git/blog",
+  "subtitle": "Recent content on blog.thalheim.io",
+  "site": "https://blog.thalheim.io/",
+  "bytes": 15400,
+  "last": "2026-10-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e3/e33ebab254c6d909ff75b5b034ce0ce0ab51f3eb80be27b9e25d12af428699e9.json"
+}

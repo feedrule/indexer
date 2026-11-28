@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nginx feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Jinhua Blog" title="Jinhua Blog" xmlUrl="http://luajit.io/atom.xml" htmlUrl="http://luajit.io:80/"/>
+    <outline type="rss" text="from brodan import Blog" title="from brodan import Blog" xmlUrl="https://brodan.biz/blog/rss/" htmlUrl="https://brodan.biz/blog/"/>
+    <outline type="rss" text="HayaGeek" title="HayaGeek" xmlUrl="https://hayageek.com/feed/" htmlUrl="https://hayageek.com/"/>
+    <outline type="rss" text="M-Compressors" title="M-Compressors" xmlUrl="https://m-compressors.github.io/feed.xml" htmlUrl="https://m-compressors.github.io/"/>
+    <outline type="rss" text="Rocketeers" title="Rocketeers" xmlUrl="https://rocketeersapp.com/feed.xml"/>
+    <outline type="rss" text="Cassiano Aquino" title="Cassiano Aquino" xmlUrl="https://syshero.org/feed.xml" htmlUrl="https://syshero.org/"/>
+  </body>
+</opml>

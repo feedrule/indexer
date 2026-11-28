@@ -1,0 +1,22 @@
+{
+  "url": "https://the.codegardener.com/rss/",
+  "title": "The Code Gardener",
+  "subtitle": "An occasional newsletter about writing software well.",
+  "site": "https://the.codegardener.com/",
+  "bytes": 148737,
+  "last": "2026-08-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "agile",
+    "abstraction",
+    "complexity",
+    "refactoring"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

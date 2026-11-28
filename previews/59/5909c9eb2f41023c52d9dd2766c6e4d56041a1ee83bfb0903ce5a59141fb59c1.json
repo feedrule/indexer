@@ -1,0 +1,20 @@
+{
+  "url": "https://marklynas.org/feed/atom/",
+  "title": "Mark Lynas",
+  "subtitle": "Environmental news and comment",
+  "site": "https://marklynas.org/",
+  "bytes": 63571,
+  "last": "2026-03-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "climate-change",
+    "nuclear-weapons"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/59/5909c9eb2f41023c52d9dd2766c6e4d56041a1ee83bfb0903ce5a59141fb59c1.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://scottspence.com/rss.xml",
+  "title": "Scott Spence's Blog",
+  "subtitle": "Scott Spence is a UK-based product engineer building production AI systems, coding-agent infrastructure, MCP tools, and SvelteKit products.",
+  "site": "https://scottspence.com/",
+  "bytes": 329703,
+  "last": "2026-11-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d6/d6e7011f42344246c76a145081966fee089db075551c12da92c2e97e83640125.json"
+}

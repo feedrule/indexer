@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>trivia feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Laboratorium (3d ser.)" title="The Laboratorium (3d ser.)" xmlUrl="http://3d.laboratorium.net/feed.xml" htmlUrl="https://3d.laboratorium.net/"/>
+    <outline type="rss" text="lzon.ca - Posts" title="lzon.ca - Posts" xmlUrl="https://lzon.ca/posts/atom.xml" htmlUrl="https://lzon.ca"/>
+    <outline type="rss" text="Somnia" title="Somnia" xmlUrl="https://noahie.xyz/somnia/rss.xml" htmlUrl="https://noahie.xyz/somnia"/>
+  </body>
+</opml>

@@ -1,0 +1,22 @@
+{
+  "url": "https://blog.vmsplice.net/feeds/posts/default",
+  "title": "Stefan Hajnoczi",
+  "subtitle": "Open source and virtualization blog",
+  "site": "https://blog.vmsplice.net/",
+  "bytes": 195294,
+  "last": "2026-01-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "virtualization",
+    "kvm",
+    "qemu",
+    "fpga"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

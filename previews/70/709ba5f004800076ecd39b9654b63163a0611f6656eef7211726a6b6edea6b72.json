@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nova.ie/feed/",
+  "title": "Radio Nova",
+  "subtitle": "Seriously Addictive News, Sport, Movies, Music from Dublin",
+  "site": "https://www.nova.ie",
+  "bytes": 961936,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dublin"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/70/709ba5f004800076ecd39b9654b63163a0611f6656eef7211726a6b6edea6b72.json"
+}

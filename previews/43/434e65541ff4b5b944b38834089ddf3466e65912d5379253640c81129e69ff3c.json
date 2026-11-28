@@ -1,0 +1,20 @@
+{
+  "url": "https://www.hakstuff.net/blog?format=rss",
+  "title": "Blog - HAKSTUFF",
+  "subtitle": null,
+  "site": "https://www.hakstuff.net/blog/",
+  "bytes": 957828,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "firmware",
+    "embedded-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/43/434e65541ff4b5b944b38834089ddf3466e65912d5379253640c81129e69ff3c.json"
+}

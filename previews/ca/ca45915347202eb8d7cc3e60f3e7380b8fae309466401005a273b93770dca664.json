@@ -1,0 +1,21 @@
+{
+  "url": "https://kenneth.io/api/feed.xml",
+  "title": "Kenneth Auchenberg's Blog",
+  "subtitle": "Thoughts on technology, software, and innovation",
+  "site": "https://kenneth.io/",
+  "bytes": 34006,
+  "last": "2026-09-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "webkit",
+    "browsers",
+    "browser-extension"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

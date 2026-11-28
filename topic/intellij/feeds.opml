@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>intellij feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Home on Quentin's blog" title="Home on Quentin's blog" xmlUrl="https://blog.qligier.ch/index.xml" htmlUrl="https://blog.qligier.ch/"/>
+    <outline type="rss" text="foo::bar" title="foo::bar" xmlUrl="https://blog.sugoi.be/index.xml" htmlUrl="https://blog.sugoi.be/"/>
+    <outline type="rss" text="Eugene Petrenko" title="Eugene Petrenko" xmlUrl="https://jonnyzzz.com/feed.xml" htmlUrl="https://jonnyzzz.comhttps://jonnyzzz.com/"/>
+    <outline type="rss" text="Marit van Dijk" title="Marit van Dijk" xmlUrl="https://maritvandijk.com/feed/" htmlUrl="https://maritvandijk.com/"/>
+    <outline type="rss" text="Karthikeyan A K’s blog" title="Karthikeyan A K’s blog" xmlUrl="https://mindaslab.github.io/feed.xml" htmlUrl="https://mindaslab.github.io/"/>
+  </body>
+</opml>

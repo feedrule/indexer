@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>decentralization feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Neiman’s Blog" title="Neiman’s Blog" xmlUrl="https://neimanslab.org/feed.xml" htmlUrl="https://neimanslab.org/"/>
+    <outline type="rss" text="Nicola | Blog" title="Nicola | Blog" xmlUrl="https://nicola.io/feed.xml" htmlUrl="https://nicola.io/"/>
+    <outline type="rss" text="Raymond Cheng Blog" title="Raymond Cheng Blog" xmlUrl="https://www.raymondcheng.net/posts/rss.xml" htmlUrl="https://www.raymondcheng.net/posts"/>
+    <outline type="rss" text="Ruben Taelman" title="Ruben Taelman" xmlUrl="https://www.rubensworks.net/feed.xml" htmlUrl="https://www.rubensworks.net/"/>
+  </body>
+</opml>

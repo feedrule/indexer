@@ -1,0 +1,23 @@
+{
+  "url": "https://tonygo.tech/atom.xml",
+  "title": "Reverse Society",
+  "subtitle": "At Reverse Society, we are deeply focused on offensive security research and advanced reverse engineering, specifically across Apple platforms (iOS and macOS).",
+  "site": "https://blog.reversesociety.co",
+  "bytes": 25054,
+  "last": "2026-05-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "malware-analysis",
+    "reverse-engineering",
+    "mac",
+    "c++",
+    "ios"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

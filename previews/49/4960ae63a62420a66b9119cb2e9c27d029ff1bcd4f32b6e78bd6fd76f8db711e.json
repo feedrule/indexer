@@ -1,0 +1,19 @@
+{
+  "url": "https://oussama-mater.tech/rss.xml",
+  "title": "Blog",
+  "subtitle": "A minimal personal blog",
+  "site": "https://oussama-mater.tech/",
+  "bytes": 7410,
+  "last": "2026-09-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/49/4960ae63a62420a66b9119cb2e9c27d029ff1bcd4f32b6e78bd6fd76f8db711e.json"
+}

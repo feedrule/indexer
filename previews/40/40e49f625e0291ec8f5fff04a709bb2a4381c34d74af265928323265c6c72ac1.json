@@ -1,0 +1,19 @@
+{
+  "url": "http://miod.online.fr/rss.xml",
+  "title": "Miod's poor excuse for a webpage - L'ersatz de page web du Miod",
+  "subtitle": "Latest updates - Ajouts récents",
+  "site": "http://miod.online.fr/",
+  "bytes": 19626,
+  "last": "2026-09-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openbsd"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/40/40e49f625e0291ec8f5fff04a709bb2a4381c34d74af265928323265c6c72ac1.json"
+}

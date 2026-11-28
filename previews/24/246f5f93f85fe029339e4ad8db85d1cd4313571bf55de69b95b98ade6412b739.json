@@ -1,0 +1,19 @@
+{
+  "url": "https://eleventy-plugin-podcaster.com//feed/feed.xml",
+  "title": "The Podcaster Blog",
+  "subtitle": "Hosting a podcast and creating its website with Eleventy.",
+  "site": "https://eleventy-plugin-podcaster.com/",
+  "bytes": 275818,
+  "last": "2026-08-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "podcast"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

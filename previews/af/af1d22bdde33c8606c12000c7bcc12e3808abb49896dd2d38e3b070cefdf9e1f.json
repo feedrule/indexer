@@ -1,0 +1,19 @@
+{
+  "url": "https://lingochunk.com/blog/rss.xml",
+  "title": "LingoChunk Blog",
+  "subtitle": "Notes from building LingoChunk, a tool that turns comprehensible input into native-audio Anki cards. What I try, what works, and why.",
+  "site": "https://lingochunk.com/",
+  "bytes": 1701,
+  "last": "2026-07-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "audio"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

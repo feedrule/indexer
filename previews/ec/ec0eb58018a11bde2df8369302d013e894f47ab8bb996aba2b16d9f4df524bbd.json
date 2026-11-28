@@ -1,0 +1,20 @@
+{
+  "url": "https://mathspp.com/blog.atom",
+  "title": "mathspp.com feed",
+  "subtitle": "Stay up-to-date with the articles on mathematics and programming that get published to mathspp.com.",
+  "site": null,
+  "bytes": 53624,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "python",
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ec/ec0eb58018a11bde2df8369302d013e894f47ab8bb996aba2b16d9f4df524bbd.json"
+}

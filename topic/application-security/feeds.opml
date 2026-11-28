@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>application-security feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="$BLOG_TITLE" title="$BLOG_TITLE" xmlUrl="https://blog.deesee.xyz/feed.xml" htmlUrl="https://blog.deesee.xyz/"/>
+    <outline type="rss" text="Giuseppe Maddiona" title="Giuseppe Maddiona" xmlUrl="https://gppmad.github.io/index.xml" htmlUrl="https://gppmad.github.io/"/>
+    <outline type="rss" text="Josh Grossman" title="Josh Grossman" xmlUrl="https://joshcgrossman.com/feed.xml" htmlUrl="https://joshcgrossman.com/"/>
+    <outline type="rss" text="Almost Secure" title="Almost Secure" xmlUrl="https://palant.info/rss.xml" htmlUrl="https://palant.info/"/>
+    <outline type="rss" text="SheHacksPurple" title="SheHacksPurple" xmlUrl="https://shehackspurple.ca/feed/atom/" htmlUrl="https://shehackspurple.ca"/>
+    <outline type="rss" text="Simon Roses Femerling" title="Simon Roses Femerling" xmlUrl="https://simonroses.com/feed/" htmlUrl="https://simonroses.com/"/>
+    <outline type="rss" text="TheAppsScriptLab" title="TheAppsScriptLab" xmlUrl="https://theappsscriptlab.com/feed/" htmlUrl="https://theappsscriptlab.com"/>
+    <outline type="rss" text="PaperMtn" title="PaperMtn" xmlUrl="https://www.papermtn.co.uk/rss/" htmlUrl="https://www.papermtn.co.uk/"/>
+    <outline type="rss" text="Product Security Writings" title="Product Security Writings" xmlUrl="https://www.soeren.codes/rss.xml" htmlUrl="https://soeren.codes/"/>
+  </body>
+</opml>

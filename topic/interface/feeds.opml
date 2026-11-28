@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>interface feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Paul M. Jones" title="Paul M. Jones" xmlUrl="https://paul-m-jones.com/atom.xml" htmlUrl="http://paul-m-jones.com"/>
+    <outline type="rss" text="Tomorrow's Blueprint" title="Tomorrow's Blueprint" xmlUrl="https://www.abramjackson.com/feed/" htmlUrl="https://www.abramjackson.com"/>
+    <outline type="rss" text="Android Coliseum" title="Android Coliseum" xmlUrl="https://www.androidcoliseum.com/feeds/posts/default" htmlUrl="https://www.androidcoliseum.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://blogsh.app/rss.xml",
+  "title": "./blog.sh",
+  "subtitle": "A minimalist blog engine you run from a terminal: posts are files, the site is a static build, comments live on the Fediverse. No database, no gems, no admin.",
+  "site": "https://blogsh.app/",
+  "bytes": 235537,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "archive"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

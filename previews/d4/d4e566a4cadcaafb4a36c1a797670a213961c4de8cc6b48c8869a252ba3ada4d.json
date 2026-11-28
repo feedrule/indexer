@@ -1,0 +1,20 @@
+{
+  "url": "https://ktla.com/feed/",
+  "title": "KTLA",
+  "subtitle": "Los Angeles news and live streaming video",
+  "site": "https://ktla.com",
+  "bytes": 24588,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "los-angeles",
+    "news"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": null
+}

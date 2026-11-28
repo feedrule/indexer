@@ -1,0 +1,21 @@
+{
+  "url": "https://www.tempertemper.net/feeds/main.xml",
+  "title": "tempertemper",
+  "subtitle": "Articles on user experience design and frontend web development",
+  "site": "https://www.tempertemper.net",
+  "bytes": 432622,
+  "last": "2026-11-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "accessibility",
+    "ux",
+    "html"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://clofer.codeberg.page/feed.xml",
+  "title": "Clofer Blogs",
+  "subtitle": "This might go nowhere. Just curious to learn about programming languages. Hence am trying to port Clojure on top of Rust. Here, I will share my journey and learning about Clojure and Rust. My ignorance is immense, my laziness is legendary, hence there is a high chance of this project failing.",
+  "site": "https://clofer.codeberg.page/",
+  "bytes": 28622,
+  "last": "2026-06-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/86/8646e11b43c35e4e4fe7bb7384f72d7fa723279667a7e416d2b9c1d5bb51c1b6.json"
+}

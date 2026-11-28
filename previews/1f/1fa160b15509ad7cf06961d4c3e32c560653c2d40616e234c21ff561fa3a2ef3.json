@@ -1,0 +1,23 @@
+{
+  "url": "https://es617.dev/feed",
+  "title": "es617’s blog",
+  "subtitle": "Enrico Santagati's blog",
+  "site": "https://es617.dev/",
+  "bytes": 183533,
+  "last": "2026-07-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "on-device-ai",
+    "edge-ai",
+    "claude-code",
+    "tooling"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1f/1fa160b15509ad7cf06961d4c3e32c560653c2d40616e234c21ff561fa3a2ef3.json"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>profiling feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bugsik" title="Bugsik" xmlUrl="https://blog.bugsiki.dev/index.xml" htmlUrl="https://blog.bugsiki.dev/"/>
+    <outline type="rss" text="With Enthusiasm" title="With Enthusiasm" xmlUrl="https://jbachorik.github.io/feed" htmlUrl="https://jbachorik.github.io/"/>
+    <outline type="rss" text="JVM/Java profiling and tuning" title="JVM/Java profiling and tuning" xmlUrl="https://krzysztofslusarski.github.io/feed.xml" htmlUrl="https://krzysztofslusarski.github.io/"/>
+    <outline type="rss" text="The Hub of Heliopolis" title="The Hub of Heliopolis" xmlUrl="https://p403n1x87.github.io/feeds/all.atom.xml" htmlUrl="https://p403n1x87.github.io/"/>
+    <outline type="rss" text="Mostly Python" title="Mostly Python" xmlUrl="https://www.mostlypython.com/rss/" htmlUrl="https://www.mostlypython.com/"/>
+  </body>
+</opml>

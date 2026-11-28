@@ -1,0 +1,19 @@
+{
+  "url": "https://smolweb.org/atom.xml",
+  "title": "smolweb.org",
+  "subtitle": "Smolweb news",
+  "site": "https://smolweb.org/",
+  "bytes": 27121,
+  "last": "2026-03-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "webassembly"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

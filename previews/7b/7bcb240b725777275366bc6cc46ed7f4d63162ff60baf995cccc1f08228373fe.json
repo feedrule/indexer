@@ -1,0 +1,22 @@
+{
+  "url": "https://dev.to/feed/grahamthedev",
+  "title": "DEV Community: GrahamTheDev",
+  "subtitle": "The latest articles on DEV Community by GrahamTheDev (@grahamthedev).",
+  "site": "https://dev.to/grahamthedev",
+  "bytes": 261466,
+  "last": "2026-07-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "advent-of-code",
+    "programming",
+    "javascript",
+    "ai"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7b/7bcb240b725777275366bc6cc46ed7f4d63162ff60baf995cccc1f08228373fe.json"
+}

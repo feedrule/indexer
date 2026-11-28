@@ -1,0 +1,19 @@
+{
+  "url": "https://archbang.org/feed/",
+  "title": "ArchBang Linux",
+  "subtitle": "A live iso image based on Archlinux running MangoWM window manager",
+  "site": "https://archbang.org",
+  "bytes": 27849,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "arch-linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

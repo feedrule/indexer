@@ -1,0 +1,22 @@
+{
+  "url": "https://dfederm.com/feed.xml",
+  "title": "David’s Blog",
+  "subtitle": "Some guy's programming blog.",
+  "site": "https://dfederm.com/",
+  "bytes": 234777,
+  "last": "2026-03-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nas",
+    "media-server",
+    "truenas",
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

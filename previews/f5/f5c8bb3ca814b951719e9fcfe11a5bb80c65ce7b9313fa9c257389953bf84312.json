@@ -1,0 +1,20 @@
+{
+  "url": "https://jankraus.net/feed.xml",
+  "title": "Jan Kraus Blog",
+  "subtitle": "I take photos, run, code on the web, and tell stories about my life.",
+  "site": "https://jankraus.net/",
+  "bytes": 25312,
+  "last": "2026-01-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel",
+    "trip-report"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f5/f5c8bb3ca814b951719e9fcfe11a5bb80c65ce7b9313fa9c257389953bf84312.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.manitoulin.com/rss/",
+  "title": "The Manitoulin Expositor",
+  "subtitle": "Manitoulin Island local news.",
+  "site": "https://www.manitoulin.com/",
+  "bytes": 65038,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "news"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b2/b2e27aa6cb04b2fbfba2593d730a5dbbe302ec19932291f231fa4d2828cf1539.json"
+}

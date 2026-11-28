@@ -1,0 +1,20 @@
+{
+  "url": "https://vande.fr/feed.xml",
+  "title": "Alexandre Vandemoortèle",
+  "subtitle": "A short overview of my works.",
+  "site": "https://vande.fr/",
+  "bytes": 5439,
+  "last": "2026-09-09",
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "topics": [
+    "devops"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f5/f5d824026e10df7fe11cf4a7e768f5bf02d015c68b32de8fc69f9a1b27391f63.json"
+}

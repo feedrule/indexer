@@ -1,0 +1,20 @@
+{
+  "url": "https://developers.soundcloud.com/blog/blog.rss",
+  "title": "SoundCloud Backstage Blog",
+  "subtitle": "SoundCloud's developer blog.",
+  "site": "https://developers.soundcloud.com/blog",
+  "bytes": 3244291,
+  "last": "2026-08-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nextcloud",
+    "api"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://junueno.dev/rss-en.xml",
+  "title": "junueno.dev - articles (EN)",
+  "subtitle": "Engineering notes by Jumpei Ueno: AWS/GCP infrastructure, FinOps, SRE, CI/CD.",
+  "site": "https://junueno.dev/",
+  "bytes": 32246,
+  "last": "2026-10-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "claude-code",
+    "ai",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

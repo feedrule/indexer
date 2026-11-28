@@ -1,0 +1,19 @@
+{
+  "url": "https://mcknight.io/feed.xml",
+  "title": "Andrew McKnight's Blog RSS",
+  "subtitle": "Updates from Andrew McKnight's blog.",
+  "site": "https://mcknight.io",
+  "bytes": 32460,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "advent-of-code"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ea/ea95413d72e8216fda71063de4cea50d1fe21b57355f0844da125ca0510c6575.json"
+}

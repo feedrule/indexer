@@ -1,0 +1,23 @@
+{
+  "url": "https://lostintransit.se/feed/",
+  "title": "Daniels Networking Blog",
+  "subtitle": "Networking articles by CCIE #37149/ CCDE #20160011",
+  "site": "https://lostintransit.se",
+  "bytes": 281987,
+  "last": "2026-06-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "networking",
+    "sdn",
+    "networkx",
+    "routing",
+    "certification"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7b/7b5bc8dd482bc1dda1bfb9c93a5f1f426f3f3c4efdbaac606dba06ad364d0c28.json"
+}

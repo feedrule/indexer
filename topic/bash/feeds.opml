@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>bash feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bash Prompt" title="Bash Prompt" xmlUrl="https://bash-prompt.net/index.xml" htmlUrl="https://bash-prompt.net/"/>
+    <outline type="rss" text="eskerda.com" title="eskerda.com" xmlUrl="https://eskerda.com/feed/" htmlUrl="https://eskerda.com"/>
+    <outline type="rss" text="Listful Andrew" title="Listful Andrew" xmlUrl="https://flandrew.srht.site/listful/feed/all.xml" htmlUrl="https://flandrew.srht.site/listful"/>
+    <outline type="rss" text="Heitor's log" title="Heitor's log" xmlUrl="https://heitorpb.github.io/atom.xml" htmlUrl="https://heitorpb.github.io"/>
+    <outline type="rss" text="Cracking The Code" title="Cracking The Code" xmlUrl="https://igupta.in/feed.xml" htmlUrl="https://indradhanush.github.io/"/>
+    <outline type="rss" text="λ ∧ ¬λ" title="λ ∧ ¬λ" xmlUrl="https://lamda.blog/feed/" htmlUrl="https://lamda.blog"/>
+    <outline type="rss" text="MeaTLoTioN's Place" title="MeaTLoTioN's Place" xmlUrl="https://meatlotion.com/index.xml" htmlUrl="https://meatlotion.com/"/>
+    <outline type="rss" text="Oh My Posh Blog" title="Oh My Posh Blog" xmlUrl="https://ohmyposh.dev/blog/atom.xml" htmlUrl="https://ohmyposh.dev/blog"/>
+    <outline type="rss" text="binary.phile" title="binary.phile" xmlUrl="https://www.binaryphile.com/feed.xml" htmlUrl="https://binaryphile.github.io/"/>
+  </body>
+</opml>

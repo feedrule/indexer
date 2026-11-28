@@ -1,0 +1,22 @@
+{
+  "url": "https://carlosblanco.github.io/feed",
+  "title": "Software Theory",
+  "subtitle": "Software Engineering, Architecture, and Backend Development.",
+  "site": "https://carlosblanco.github.io/",
+  "bytes": 66002,
+  "last": "2026-05-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "backend",
+    "architecture",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/01/01ebc248ccba04794cf712b3a9dac04ec7a40c4d29b0193246a2a70d7f635c22.json"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.karlsnotes.com/rss/",
+  "title": "Karl's Notes",
+  "subtitle": "Notes about society and building a better future.",
+  "site": "https://www.karlsnotes.com/",
+  "bytes": 265861,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-governance",
+    "news",
+    "geopolitics",
+    "technology",
+    "history"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/79/79a85d64120c5f1bfcb4185f288b2227edd3a46df556f38331f2fccbaec657a0.json"
+}

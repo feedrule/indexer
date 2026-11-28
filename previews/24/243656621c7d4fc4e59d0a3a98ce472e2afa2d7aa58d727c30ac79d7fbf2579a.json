@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.washi.dev/feed.xml",
+  "title": "Washi",
+  "subtitle": "A blog about my programming and reverse engineering adventures.",
+  "site": "https://blog.washi.dev/",
+  "bytes": 5493,
+  "last": "2026-08-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/24/243656621c7d4fc4e59d0a3a98ce472e2afa2d7aa58d727c30ac79d7fbf2579a.json"
+}

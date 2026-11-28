@@ -1,0 +1,19 @@
+{
+  "url": "http://acme.com/updates/updates_rss2.xml",
+  "title": "ACME Updates",
+  "subtitle": "What's new at ACME Laboratories!",
+  "site": "http://acme.com/updates/",
+  "bytes": 58444,
+  "last": "2026-10-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "acme"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/22/2285ed9dbe538b507c31fdc5c77216cc9b859ec71591139cdb78b08728a87570.json"
+}

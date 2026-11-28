@@ -1,0 +1,19 @@
+{
+  "url": "https://calibreapp.com/blog/rss.xml",
+  "title": "Calibre Blog",
+  "subtitle": "Web performance insights and best practices",
+  "site": "https://calibreapp.com/blog",
+  "bytes": 12956,
+  "last": "2026-09-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-performance"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d9/d90ea6e1cd8fe858ae794e3dd9a74be7e2a1265e4bf28b63b45df343f1a6230e.json"
+}

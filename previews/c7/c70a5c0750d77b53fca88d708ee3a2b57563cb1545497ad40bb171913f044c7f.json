@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.tacti.info/feed/",
+  "title": "Tacti's Garage",
+  "subtitle": "About Cars, Technologies and Blah...",
+  "site": "https://blog.tacti.info",
+  "bytes": 46999,
+  "last": "2026-08-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "cars",
+    "cycling"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c7/c70a5c0750d77b53fca88d708ee3a2b57563cb1545497ad40bb171913f044c7f.json"
+}

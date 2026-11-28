@@ -1,0 +1,22 @@
+{
+  "url": "https://extremestorms.com.au/feed/",
+  "title": "Extreme Storms",
+  "subtitle": "Severe Storms and Storm Chasing",
+  "site": "https://extremestorms.com.au/",
+  "bytes": 13412,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "thunderstorms",
+    "rain",
+    "flood",
+    "wind"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8a/8a7ec80cb190611aa1558cd3e93f406f3ef675d6d5b3eb587063a7bb73c4f7d1.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://tim.siosm.fr/feed.xml",
+  "title": "Siosm’s blog",
+  "subtitle": "Some thoughts from a systemd, Rust and security aficionado.",
+  "site": "https://tim.siosm.fr/",
+  "bytes": 102839,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fedora"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d9/d9ef80b5602b21fd8f6f04dce8486bb4cf427257c3129030075d9063143a28bf.json"
+}

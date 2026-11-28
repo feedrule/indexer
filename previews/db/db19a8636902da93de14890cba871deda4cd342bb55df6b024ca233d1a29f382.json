@@ -1,0 +1,19 @@
+{
+  "url": "https://worldofblyton.com/feed/",
+  "title": "World of Blyton",
+  "subtitle": "Enthusiastic ramblings about Enid Blyton and her work!",
+  "site": "https://worldofblyton.com",
+  "bytes": 418847,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "weeknotes"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/db/db19a8636902da93de14890cba871deda4cd342bb55df6b024ca233d1a29f382.json"
+}

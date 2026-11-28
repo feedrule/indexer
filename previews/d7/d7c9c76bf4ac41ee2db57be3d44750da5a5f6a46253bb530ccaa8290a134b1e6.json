@@ -1,0 +1,23 @@
+{
+  "url": "https://swarch.blog/feed/",
+  "title": "Architect in Slippers",
+  "subtitle": "From bits and bytes to cloud-scale systems — Software, Architecture, and Management",
+  "site": "https://swarch.blog/",
+  "bytes": 89938,
+  "last": "2026-10-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "compilers",
+    "computer-architecture",
+    "c++",
+    "real-time",
+    "synchronization"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d7/d7c9c76bf4ac41ee2db57be3d44750da5a5f6a46253bb530ccaa8290a134b1e6.json"
+}

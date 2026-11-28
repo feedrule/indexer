@@ -1,0 +1,22 @@
+{
+  "url": "https://vznjs.github.io/vx/blog/rss.xml",
+  "title": "vx | Blog",
+  "subtitle": "Stories and design notes behind vx.",
+  "site": "https://vznjs.github.io/vx/blog/",
+  "bytes": 2106042,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "virtualization",
+    "kv-cache",
+    "vmware",
+    "caching"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/01/01acc76aa037badbb22224459c79c2690f683dca4dea08e76674cb430e4cc57b.json"
+}

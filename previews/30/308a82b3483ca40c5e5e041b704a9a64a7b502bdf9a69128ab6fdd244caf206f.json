@@ -1,0 +1,19 @@
+{
+  "url": "https://alienlebarge.ch/feed.rss",
+  "title": "alienlebarge",
+  "subtitle": "Flux RSS agrégé de tous les contenus : articles, notes, photos, bookmarks et jams",
+  "site": "https://alienlebarge.ch",
+  "bytes": 14345,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "photography"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/30/308a82b3483ca40c5e5e041b704a9a64a7b502bdf9a69128ab6fdd244caf206f.json"
+}

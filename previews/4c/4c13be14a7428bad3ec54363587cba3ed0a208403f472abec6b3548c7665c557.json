@@ -1,0 +1,21 @@
+{
+  "url": "https://silverscreenings.org/feed/",
+  "title": "Silver Screenings",
+  "subtitle": "Ruth's Old Movie Reviews",
+  "site": "https://silverscreenings.org",
+  "bytes": 31669,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "movies",
+    "film-noir",
+    "humor"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4c/4c13be14a7428bad3ec54363587cba3ed0a208403f472abec6b3548c7665c557.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://mikhailian.mova.org/rss.xml",
+  "title": "mikhailian.mova.org",
+  "subtitle": "Static export of the Mikhailian blog",
+  "site": "https://mikhailian.mova.org/",
+  "bytes": 8284,
+  "last": "2026-09-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/08/089e5d5155ab0d26c1dfc219fd81815d3a5d68b3a04f6edb92260c8a8f9728ab.json"
+}

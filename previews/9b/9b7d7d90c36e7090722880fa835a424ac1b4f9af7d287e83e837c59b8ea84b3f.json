@@ -1,0 +1,19 @@
+{
+  "url": "https://amitlan.com/feed.xml",
+  "title": "Amit Langote's posts",
+  "subtitle": "Amit Langote's PostgreSQL related posts",
+  "site": "https://amitlan.com/",
+  "bytes": 213258,
+  "last": "2026-04-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/9b/9b7d7d90c36e7090722880fa835a424ac1b4f9af7d287e83e837c59b8ea84b3f.json"
+}

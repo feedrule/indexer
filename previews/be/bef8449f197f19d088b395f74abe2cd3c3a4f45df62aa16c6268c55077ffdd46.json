@@ -1,0 +1,22 @@
+{
+  "url": "https://brian.dev/rss.xml",
+  "title": "Brian Ketelsen",
+  "subtitle": "Personal site of Brian Ketelsen: Linux, Go, distributed systems, and the occasional detour into Arrakis.",
+  "site": "https://brian.dev/",
+  "bytes": 12040,
+  "last": "2026-08-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux",
+    "windows",
+    "wsl",
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

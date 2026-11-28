@@ -1,0 +1,23 @@
+{
+  "url": "https://ovalenzuela.com/feed.xml",
+  "title": "Oscar's Blog",
+  "subtitle": "Free Software, GNU/Linux, License Compliance, and more.",
+  "site": "https://ovalenzuela.com/",
+  "bytes": 124012,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "ai",
+    "open-source",
+    "automation",
+    "compliance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d0/d0daa2328cb76ffbb669beb7194e62411bcad06f47ea605c85dc09906b1df892.json"
+}

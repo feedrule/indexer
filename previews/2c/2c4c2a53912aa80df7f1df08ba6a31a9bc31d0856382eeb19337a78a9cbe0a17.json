@@ -1,0 +1,20 @@
+{
+  "url": "https://0x9900.com/feeds/all.atom.xml",
+  "title": "0x9900",
+  "subtitle": "Fred's Blog about Ham Radio, Python, Unix and more...",
+  "site": "https://0x9900.com/",
+  "bytes": 1175457,
+  "last": "2026-07-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "antenna",
+    "amateur-radio"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2c/2c4c2a53912aa80df7f1df08ba6a31a9bc31d0856382eeb19337a78a9cbe0a17.json"
+}

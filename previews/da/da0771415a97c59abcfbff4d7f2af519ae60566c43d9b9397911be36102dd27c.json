@@ -1,0 +1,22 @@
+{
+  "url": "https://www.altpress.com/feed/",
+  "title": "Alternative Press Magazine",
+  "subtitle": "Rock On!",
+  "site": "https://www.altpress.com",
+  "bytes": 95204,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "album",
+    "new-music",
+    "music-review",
+    "music"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/da/da0771415a97c59abcfbff4d7f2af519ae60566c43d9b9397911be36102dd27c.json"
+}

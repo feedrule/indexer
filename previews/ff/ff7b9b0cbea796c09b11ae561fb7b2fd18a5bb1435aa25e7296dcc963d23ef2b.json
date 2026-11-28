@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.get-map.org/index.php/feed/",
+  "title": "OSM Baustelle",
+  "subtitle": "A playground for OSM related stuff",
+  "site": "https://blog.get-map.org",
+  "bytes": 20342,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openstreetmap"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ff/ff7b9b0cbea796c09b11ae561fb7b2fd18a5bb1435aa25e7296dcc963d23ef2b.json"
+}

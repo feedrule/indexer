@@ -1,0 +1,19 @@
+{
+  "url": "https://justpostgres.tech/rss.xml",
+  "title": "Just Use Postgres Portal",
+  "subtitle": "Postgres tutorials, recipes, tips, and insights.",
+  "site": "https://justpostgres.tech",
+  "bytes": 1844,
+  "last": "2026-02-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7f/7f7467a5b7a95581b7c6025b51ff5066ab572f7249d53732f4d8133defbcd286.json"
+}

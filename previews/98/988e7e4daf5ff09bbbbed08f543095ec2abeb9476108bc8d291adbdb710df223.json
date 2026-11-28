@@ -1,0 +1,21 @@
+{
+  "url": "https://marcusfelling.com/feed.xml",
+  "title": "Home",
+  "subtitle": "A blog about things I learn at the keyboard: DevOps, CI/CD, Cloud, Automation, to name a few...",
+  "site": "https://marcusfelling.com/",
+  "bytes": 89325,
+  "last": "2026-07-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "azure-devops",
+    "github-actions",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/98/988e7e4daf5ff09bbbbed08f543095ec2abeb9476108bc8d291adbdb710df223.json"
+}

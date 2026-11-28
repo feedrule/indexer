@@ -1,0 +1,20 @@
+{
+  "url": "https://www.mh370search.com/feed/",
+  "title": "The Search for MH370",
+  "subtitle": "Serving the MH370 Global Community",
+  "site": "https://www.mh370search.com",
+  "bytes": 45119,
+  "last": "2026-03-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "radar",
+    "world-news"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2c/2c74cdc478b5bd3fa2c13eed2d5e2c89aef8d36a065bdd567457beb0143f3069.json"
+}

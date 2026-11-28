@@ -1,0 +1,20 @@
+{
+  "url": "https://www.garron.me/en/feed.xml",
+  "title": "garron.me — English",
+  "subtitle": "Guillermo Garron's personal site and blog in English",
+  "site": "https://www.garron.me/en",
+  "bytes": 461522,
+  "last": "2026-10-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linux",
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

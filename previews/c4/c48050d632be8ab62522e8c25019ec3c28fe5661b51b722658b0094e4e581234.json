@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.iluxav.com/rss.xml",
+  "title": "Ilya Vinokurov's blog",
+  "subtitle": "Technical writing by Ilya Vinokurov on AI agents, authorization, distributed systems, developer tools, and practical software architecture.",
+  "site": "https://blog.iluxav.com",
+  "bytes": 33240,
+  "last": "2026-09-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.cygankiewicz.com/en/rss.xml",
+  "title": "blog.cygankiewicz.com - English articles",
+  "subtitle": "Articles in English about distributed systems, AI agents and black-box testing.",
+  "site": "https://blog.cygankiewicz.com/",
+  "bytes": 3467,
+  "last": "2026-09-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

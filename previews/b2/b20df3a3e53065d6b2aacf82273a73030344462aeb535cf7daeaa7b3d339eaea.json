@@ -1,0 +1,20 @@
+{
+  "url": "https://securityuncorked.com/feed/",
+  "title": "Security Uncorked",
+  "subtitle": "JJ's Complete Unofficial Guide to InfoSec",
+  "site": "https://securityuncorked.com",
+  "bytes": 12978,
+  "last": "2026-09-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "network-security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b2/b20df3a3e53065d6b2aacf82273a73030344462aeb535cf7daeaa7b3d339eaea.json"
+}

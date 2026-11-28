@@ -1,0 +1,21 @@
+{
+  "url": "https://buchh.org/index.xml",
+  "title": "buchh.org",
+  "subtitle": "buchh.org RSS feed",
+  "site": "https://buchh.org",
+  "bytes": 82314,
+  "last": "2026-01-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "book-summary",
+    "novel",
+    "literature"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

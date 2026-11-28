@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pie feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Aiee! Run From Kelvin's Brainsplurge!" title="Aiee! Run From Kelvin's Brainsplurge!" xmlUrl="http://kelvingreen.blogspot.com/atom.xml" htmlUrl="http://kelvingreen.blogspot.com/"/>
+    <outline type="rss" text="PieFed" title="PieFed" xmlUrl="https://join.piefed.social/feed/" htmlUrl="https://join.piefed.social/"/>
+    <outline type="rss" text="Do You Know The Muffin Man?" title="Do You Know The Muffin Man?" xmlUrl="https://www.gnufmuffin.com/feed.xml" htmlUrl="https://www.gnufmuffin.com/"/>
+  </body>
+</opml>

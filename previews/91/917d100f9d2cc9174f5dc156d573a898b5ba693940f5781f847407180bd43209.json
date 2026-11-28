@@ -1,0 +1,19 @@
+{
+  "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+  "title": "BBC News",
+  "subtitle": "BBC News - World",
+  "site": "https://www.bbc.co.uk/news/world",
+  "bytes": 24042,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "world-news"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/91/917d100f9d2cc9174f5dc156d573a898b5ba693940f5781f847407180bd43209.json"
+}

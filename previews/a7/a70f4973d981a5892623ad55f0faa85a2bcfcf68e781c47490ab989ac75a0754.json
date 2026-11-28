@@ -1,0 +1,19 @@
+{
+  "url": "https://dave.recoil.org/feed.xml",
+  "title": "Dave Scott's Blog",
+  "subtitle": "Dave Scott works on Docker, bringing the benefits of containers to developers everywhere.",
+  "site": "https://dave.recoil.org/blog.html",
+  "bytes": 10020,
+  "last": "2026-10-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

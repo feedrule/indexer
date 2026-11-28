@@ -1,0 +1,20 @@
+{
+  "url": "https://bilange.ca/feed.xml",
+  "title": "Eric Belanger (Bilange)",
+  "subtitle": "Site web d'Eric Belanger",
+  "site": "https://bilange.ca/",
+  "bytes": 5497,
+  "last": "2026-08-17",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "topics": [
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

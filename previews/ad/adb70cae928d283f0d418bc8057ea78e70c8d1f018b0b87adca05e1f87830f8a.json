@@ -1,0 +1,21 @@
+{
+  "url": "http://hdc.amongbytes.com/index.xml",
+  "title": "Among Bytes",
+  "subtitle": null,
+  "site": "https://amongbytes.com/",
+  "bytes": 712232,
+  "last": "2026-10-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "post-quantum-cryptography",
+    "cryptid",
+    "cryptography"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ad/adb70cae928d283f0d418bc8057ea78e70c8d1f018b0b87adca05e1f87830f8a.json"
+}

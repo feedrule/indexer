@@ -1,0 +1,23 @@
+{
+  "url": "https://thelithole.com/feed/",
+  "title": "The Lithole",
+  "subtitle": "musings on reading and occasionally other stuff",
+  "site": "https://thelithole.com",
+  "bytes": 147975,
+  "last": "2026-05-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "literature",
+    "reading",
+    "writing",
+    "books",
+    "book-review"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/78/782dd15d79ffabe7f8c3bb3944e52d781d41c65c0c15a08e4a3c60c28410df7d.json"
+}

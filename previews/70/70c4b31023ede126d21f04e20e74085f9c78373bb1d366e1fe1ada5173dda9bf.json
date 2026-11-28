@@ -1,0 +1,19 @@
+{
+  "url": "https://swiftunwrap.com/feed.rss",
+  "title": "Swift Unwrap",
+  "subtitle": "A blog about Swift, iOS, Xcode and overall architecture patterns. Unwrap your mind and learn new things!",
+  "site": "https://swiftunwrap.com",
+  "bytes": 320930,
+  "last": "2026-01-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swiftui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/70/70c4b31023ede126d21f04e20e74085f9c78373bb1d366e1fe1ada5173dda9bf.json"
+}

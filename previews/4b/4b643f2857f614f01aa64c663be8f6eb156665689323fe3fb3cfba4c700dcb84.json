@@ -1,0 +1,21 @@
+{
+  "url": "https://katafrakt.me/feed.xml",
+  "title": "katafrakt’s garden",
+  "subtitle": "Just my website. Some Elixir, some Ruby, some more exotic languages and general thoughts on tech.",
+  "site": "https://katafrakt.me/",
+  "bytes": 118903,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tooling",
+    "ruby",
+    "elixir"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

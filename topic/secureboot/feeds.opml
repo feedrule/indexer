@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>secureboot feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Posts on blastrock's blog" title="Posts on blastrock's blog" xmlUrl="https://blastrock.github.io/posts/index.xml" htmlUrl="https://blastrock.github.io/posts/"/>
+    <outline type="rss" text="The Uncoöperative Organization" title="The Uncoöperative Organization" xmlUrl="https://blog.uncooperative.org/feed.xml" htmlUrl="https://blog.uncooperative.org/"/>
+    <outline type="rss" text="MDM Tech Space" title="MDM Tech Space" xmlUrl="https://joymalya.com/feed/" htmlUrl="https://joymalya.com/"/>
+  </body>
+</opml>

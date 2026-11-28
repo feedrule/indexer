@@ -1,0 +1,19 @@
+{
+  "url": "https://viceconsole.fyi/blog/index.xml",
+  "title": "Clever Blog Title",
+  "subtitle": "Recent content on Clever Blog Title",
+  "site": "https://viceconsole.fyi/blog/",
+  "bytes": 5960,
+  "last": "2026-11-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "self-hosting"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5f/5f20174da6171158afce17a346c9b38f38e19293a8b7c9880fd9978dccd49d0d.json"
+}

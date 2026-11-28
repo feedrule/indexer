@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.jj5.net/blog/feed/",
+  "title": "John's blog",
+  "subtitle": "Talking about technology (mostly)",
+  "site": "https://blog.jj5.net/blog/",
+  "bytes": 55919,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "electronics",
+    "web"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b1/b13ec9f55bfb62c08694a34bd7e675e16f6c2fb711440b4bfeea4e3665e96649.json"
+}

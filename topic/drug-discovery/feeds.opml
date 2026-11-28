@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>drug-discovery feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Molecular Design" title="Molecular Design" xmlUrl="http://fbdd-lit.blogspot.com/atom.xml" htmlUrl="http://fbdd-lit.blogspot.com/"/>
+    <outline type="rss" text="Practical Cheminformatics" title="Practical Cheminformatics" xmlUrl="https://patwalters.github.io/feed.xml" htmlUrl="https://patwalters.github.io/"/>
+    <outline type="rss" text="Plenge Gen @rplenge" title="Plenge Gen @rplenge" xmlUrl="https://plengegen.com/feed/" htmlUrl="https://plengegen.com/"/>
+    <outline type="rss" text="DrugDiscovery.NET – AI in Drug Discovery" title="DrugDiscovery.NET – AI in Drug Discovery" xmlUrl="https://www.drugdiscovery.net/feed/" htmlUrl="https://www.drugdiscovery.net"/>
+    <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/"/>
+  </body>
+</opml>

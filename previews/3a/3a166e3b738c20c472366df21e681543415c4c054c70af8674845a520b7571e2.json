@@ -1,0 +1,20 @@
+{
+  "url": "https://tomquirk.me/rss.xml",
+  "title": "Tom's blog",
+  "subtitle": "Tom's blog",
+  "site": "https://tomquirk.me",
+  "bytes": 34582,
+  "last": "2026-02-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3a/3a166e3b738c20c472366df21e681543415c4c054c70af8674845a520b7571e2.json"
+}

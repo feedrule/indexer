@@ -1,0 +1,20 @@
+{
+  "url": "https://kelan.io/feeds/all-posts.xml",
+  "title": "kelan.io",
+  "subtitle": "All recent posts on kelan.io",
+  "site": "https://kelan.io/",
+  "bytes": 41754,
+  "last": "2026-02-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swift",
+    "swiftui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3e/3e43c4c70610d3622c8c0336c1135062bb8b41f5ff985db3125fa55ee3fbb77a.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://andsmi.com/rss.xml",
+  "title": "andsmi.com",
+  "subtitle": "Andrew Smith's blog — software development, indie apps, and whatever else seems worth writing down.",
+  "site": "https://andsmi.com/",
+  "bytes": 15260,
+  "last": "2026-07-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "apps",
+    "app-development"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/94/94ae518a1629d87ab4880b2050f89360982bc64499d3cde5dd05fb32bb169803.json"
+}

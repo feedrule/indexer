@@ -1,0 +1,20 @@
+{
+  "url": "https://mili.dev/rss.xml",
+  "title": "John Milinovich",
+  "subtitle": "Writing on AI, product craft, and building things",
+  "site": "https://mili.dev/",
+  "bytes": 13870,
+  "last": "2026-10-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-writing",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3d/3d4c801ca548b50f8575edac8d6193c353996d4428887591c66730a41f050a55.json"
+}

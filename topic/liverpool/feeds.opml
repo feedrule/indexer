@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>liverpool feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" htmlUrl="https://www.bbc.co.uk/sport"/>
+    <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/football/rss.xml" htmlUrl="https://www.bbc.co.uk/sport/football"/>
+    <outline type="rss" text="CaughtOffside" title="CaughtOffside" xmlUrl="https://www.caughtoffside.com/feed/" htmlUrl="https://www.caughtoffside.com/"/>
+    <outline type="rss" text="SoccerNews" title="SoccerNews" xmlUrl="https://www.soccernews.com/feed" htmlUrl="https://www.soccernews.com/"/>
+    <outline type="rss" text="Football | The Guardian" title="Football | The Guardian" xmlUrl="https://www.theguardian.com/football/rss" htmlUrl="https://www.theguardian.com/football"/>
+    <outline type="rss" text="UpTheClarets" title="UpTheClarets" xmlUrl="https://www.uptheclarets.com/feed" htmlUrl="https://www.uptheclarets.com"/>
+  </body>
+</opml>

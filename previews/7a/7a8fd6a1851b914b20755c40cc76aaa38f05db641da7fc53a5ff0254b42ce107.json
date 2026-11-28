@@ -1,0 +1,19 @@
+{
+  "url": "https://captainslog.me/feeds/all.atom.xml",
+  "title": "Captain's Log",
+  "subtitle": null,
+  "site": "https://captainslog.me/",
+  "bytes": 97323,
+  "last": "2026-08-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "command-line"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7a/7a8fd6a1851b914b20755c40cc76aaa38f05db641da7fc53a5ff0254b42ce107.json"
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://outofdesk.netlify.app/api/rss",
+  "title": "out.of.desk Blog",
+  "subtitle": "Latest posts from out.of.desk",
+  "site": "https://outofdesk.netlify.app",
+  "bytes": 22354,
+  "last": "2026-10-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "productivity",
+    "technology",
+    "ai",
+    "reflection"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/81/813f67af7b5c0337708fb6f653db001587af88f75331169968fcb3351ecce4e9.json"
+}

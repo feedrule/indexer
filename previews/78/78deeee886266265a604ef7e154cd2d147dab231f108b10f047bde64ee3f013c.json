@@ -1,0 +1,22 @@
+{
+  "url": "https://mattstockton.com/feed.xml",
+  "title": "Matt Stockton",
+  "subtitle": "Writing about software development, applied AI, and machine learning.",
+  "site": "https://mattstockton.com/",
+  "bytes": 106308,
+  "last": "2026-07-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-tools",
+    "software-engineering",
+    "ai-adoption",
+    "claude-code"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/78/78deeee886266265a604ef7e154cd2d147dab231f108b10f047bde64ee3f013c.json"
+}

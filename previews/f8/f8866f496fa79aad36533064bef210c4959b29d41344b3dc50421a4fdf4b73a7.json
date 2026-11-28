@@ -1,0 +1,19 @@
+{
+  "url": "https://nedinthecloud.com/blog/index.xml",
+  "title": "Ned In The Cloud",
+  "subtitle": "Recent content from Blog on Ned In The Cloud",
+  "site": "https://nedinthecloud.com/blog/",
+  "bytes": 230215,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "terraform"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f8/f8866f496fa79aad36533064bef210c4959b29d41344b3dc50421a4fdf4b73a7.json"
+}

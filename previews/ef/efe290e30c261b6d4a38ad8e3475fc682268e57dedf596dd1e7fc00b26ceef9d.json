@@ -1,0 +1,21 @@
+{
+  "url": "https://vegnews.com/feed.rss",
+  "title": "VegNews.com",
+  "subtitle": "VegNews: Plant-Based Food + Lifestyle",
+  "site": "https://vegnews.com/",
+  "bytes": 218395,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vegetarian",
+    "vegan",
+    "recipes"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ef/efe290e30c261b6d4a38ad8e3475fc682268e57dedf596dd1e7fc00b26ceef9d.json"
+}

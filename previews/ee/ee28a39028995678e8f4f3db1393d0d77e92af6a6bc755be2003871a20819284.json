@@ -1,0 +1,22 @@
+{
+  "url": "https://carriagereturn.nl/feed.xml",
+  "title": "CarriageReturn.Nl",
+  "subtitle": "About builders, building stuff, getting things done and lessons learned on public cloud.",
+  "site": "https://carriagereturn.nl/",
+  "bytes": 161101,
+  "last": "2026-05-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws-lambda",
+    "aws",
+    "vpc",
+    "lambda"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

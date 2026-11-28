@@ -1,0 +1,20 @@
+{
+  "url": "https://brine.dev/rss/all",
+  "title": "brine.dev",
+  "subtitle": "I'm a blabby nerd that lives in the high desert...",
+  "site": "https://brine.dev",
+  "bytes": 403388,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "podcast",
+    "indieweb"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

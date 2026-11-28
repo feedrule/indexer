@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>putin feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="TASS" title="TASS" xmlUrl="http://tass.com/rss/v2.xml" htmlUrl="https://tass.com"/>
+    <outline type="rss" text="In Moscow’s Shadows" title="In Moscow’s Shadows" xmlUrl="https://inmoscowsshadows.wordpress.com/feed/" htmlUrl="https://inmoscowsshadows.wordpress.com"/>
+    <outline type="rss" text="Mark Stoneman" title="Mark Stoneman" xmlUrl="https://markstoneman.com/feed.xml" htmlUrl="https://markstoneman.com/"/>
+    <outline type="rss" text="Daniel Ford's blog" title="Daniel Ford's blog" xmlUrl="https://wimw-ford.blogspot.com/feeds/posts/default" htmlUrl="https://wimw-ford.blogspot.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+{
+  "url": "https://theaxolot.wordpress.com/feed/atom/",
+  "title": "Axol's Blog",
+  "subtitle": "I write about whatever comes to my mind",
+  "site": "https://theaxolot.wordpress.com",
+  "bytes": 255209,
+  "last": "2026-11-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "social-commentary",
+    "philosophy",
+    "software-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f2/f2b52e8d6b3edc94ef9ba9fc32d017f709f3391d38744667e618c54bc299dd98.json"
+}

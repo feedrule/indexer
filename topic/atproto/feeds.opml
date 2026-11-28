@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>atproto feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="jola.dev" title="jola.dev" xmlUrl="https://jola.dev/rss.xml" htmlUrl="https://jola.dev/"/>
+    <outline type="rss" text="n8" title="n8" xmlUrl="https://nate.leaflet.pub/atom" htmlUrl="https://nate.leaflet.pub"/>
+    <outline type="rss" text="TheShadowEevee's Blog" title="TheShadowEevee's Blog" xmlUrl="https://shad.moe/rss.xml" htmlUrl="https://shad.moe/"/>
+    <outline type="rss" text="Sri's leaflets" title="Sri's leaflets" xmlUrl="https://sri.leaflet.pub/atom" htmlUrl="https://sri.leaflet.pub"/>
+    <outline type="rss" text="The Tropopause - pckt" title="The Tropopause - pckt" xmlUrl="https://tropopause.pckt.blog/feed" htmlUrl="https://tropopause.pckt.blog"/>
+    <outline type="rss" text="vmx" title="vmx" xmlUrl="https://vmx.cx/cgi-bin/blog/index.cgi/feed" htmlUrl="https://vmx.cx/cgi-bin/blog/index.cgi"/>
+    <outline type="rss" text="Perfect Tennis" title="Perfect Tennis" xmlUrl="https://www.perfect-tennis.com/feed/" htmlUrl="https://www.perfect-tennis.com"/>
+  </body>
+</opml>

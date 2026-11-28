@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sea feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Sea Library" title="Sea Library" xmlUrl="https://sea-library.com/feed/" htmlUrl="https://sea-library.com"/>
+    <outline type="rss" text="Sea Library" title="Sea Library" xmlUrl="https://sea-library.com/feed/atom/" htmlUrl="https://sea-library.com"/>
+    <outline type="rss" text="the sea glass diaries" title="the sea glass diaries" xmlUrl="https://seaglassdreams.bearblog.dev/atom.xml" htmlUrl="https://seaglassdreams.bearblog.dev/"/>
+    <outline type="rss" text="Blog - Empty Head Effects" title="Blog - Empty Head Effects" xmlUrl="https://www.emptyheadeffects.com/blog?format=rss" htmlUrl="https://www.emptyheadeffects.com/blog/"/>
+  </body>
+</opml>

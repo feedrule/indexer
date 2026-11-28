@@ -1,0 +1,23 @@
+{
+  "url": "https://oxcrag.net/feed.xml",
+  "title": "oxcrag.net",
+  "subtitle": "Tech and other nerdery.",
+  "site": "https://oxcrag.net/",
+  "bytes": 57517,
+  "last": "2026-07-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "opensuse",
+    "zfs",
+    "mac",
+    "freebsd",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

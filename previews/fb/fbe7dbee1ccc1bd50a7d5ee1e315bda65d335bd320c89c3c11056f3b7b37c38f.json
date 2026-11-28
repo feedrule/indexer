@@ -1,0 +1,20 @@
+{
+  "url": "https://www.federatedmind.com/rss/",
+  "title": "Federated Mind",
+  "subtitle": "AI tools, open protocols, and creator-owned publishing — practical guides for building on the open web.",
+  "site": "https://www.federatedmind.com/",
+  "bytes": 452420,
+  "last": "2026-08-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fediverse",
+    "activitypub"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fb/fbe7dbee1ccc1bd50a7d5ee1e315bda65d335bd320c89c3c11056f3b7b37c38f.json"
+}

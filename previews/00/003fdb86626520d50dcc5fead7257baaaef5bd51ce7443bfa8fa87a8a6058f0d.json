@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.irvingwb.com/feed/atom",
+  "title": "IWB Blog",
+  "subtitle": "A collection of observations, news and resources on the changing nature of innovation, technology, leadership, and other subjects.",
+  "site": "https://blog.irvingwb.com",
+  "bytes": 178691,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "innovation"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/00/003fdb86626520d50dcc5fead7257baaaef5bd51ce7443bfa8fa87a8a6058f0d.json"
+}

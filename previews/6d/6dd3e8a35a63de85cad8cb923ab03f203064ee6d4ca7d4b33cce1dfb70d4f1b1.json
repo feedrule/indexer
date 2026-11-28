@@ -1,0 +1,19 @@
+{
+  "url": "https://jasonrbriggs.com/journal.atom",
+  "title": "My Feed Title",
+  "subtitle": "My Feed Description",
+  "site": null,
+  "bytes": 9527,
+  "last": "2026-10-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "micro"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/6d/6dd3e8a35a63de85cad8cb923ab03f203064ee6d4ca7d4b33cce1dfb70d4f1b1.json"
+}

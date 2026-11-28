@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>spring-boot feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ara's blog" title="Ara's blog" xmlUrl="https://martirosyan.fr/rss.xml" htmlUrl="https://martirosyan.fr/"/>
+    <outline type="rss" text="mkyong.com" title="mkyong.com" xmlUrl="https://mkyong.com/feed/" htmlUrl="https://mkyong.com"/>
+    <outline type="rss" text="Piotr's TechBlog" title="Piotr's TechBlog" xmlUrl="https://piotrminkowski.com/feed/atom/" htmlUrl="https://piotrminkowski.com/"/>
+    <outline type="rss" text="seb.deleuze.fr" title="seb.deleuze.fr" xmlUrl="https://seb.deleuze.fr/index.xml" htmlUrl="https://seb.deleuze.fr/"/>
+    <outline type="rss" text="Journal of Seun Matt and his expertise on SmattMe" title="Journal of Seun Matt and his expertise on SmattMe" xmlUrl="https://smattme.com/index.xml" htmlUrl="https://smattme.com/"/>
+    <outline type="rss" text="Dan Vega" title="Dan Vega" xmlUrl="https://www.danvega.dev/rss.xml" htmlUrl="https://www.danvega.dev"/>
+    <outline type="rss" text="Wim Deblauwe" title="Wim Deblauwe" xmlUrl="https://www.wimdeblauwe.com/index.xml" htmlUrl="https://www.wimdeblauwe.com/"/>
+  </body>
+</opml>

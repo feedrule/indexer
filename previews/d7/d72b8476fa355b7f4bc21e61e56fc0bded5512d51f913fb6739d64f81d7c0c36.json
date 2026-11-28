@@ -1,0 +1,19 @@
+{
+  "url": "http://www.ietf.org/blog/feed/",
+  "title": "IETF Blog",
+  "subtitle": "The latest items from the IETF Blog.",
+  "site": "https://www.ietf.org/blog/",
+  "bytes": 324452,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "iems"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d7/d72b8476fa355b7f4bc21e61e56fc0bded5512d51f913fb6739d64f81d7c0c36.json"
+}

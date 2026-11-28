@@ -1,0 +1,20 @@
+{
+  "url": "https://www.meziantou.net/feed.rss",
+  "title": "Meziantou's blog",
+  "subtitle": "Practical articles about .NET and C#, from quick tips to deep dives: performance, testing, diagnostics, Roslyn analyzers, MSBuild, NuGet, PowerShell, and git.",
+  "site": "https://www.meziantou.net/?utm_medium=social&utm_source=syndication",
+  "bytes": 9423,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "c#"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

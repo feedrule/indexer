@@ -1,0 +1,20 @@
+{
+  "url": "https://nickscip.xyz/rss.xml",
+  "title": "My Blog",
+  "subtitle": "Nickolas \"Nick\" Scipione's blog — an Austin-based AI Engineer writing about whatever comes to mind.",
+  "site": "https://nickscip.xyz",
+  "bytes": 4921,
+  "last": "2026-03-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-writing",
+    "travel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2c/2cbca654617d1e5df81d7b004f13c8ab4a2c1df44915daf81dcfdb881a09381d.json"
+}

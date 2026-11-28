@@ -1,0 +1,20 @@
+{
+  "url": "https://thedailytexan.com/feed/",
+  "title": "The Daily Texan",
+  "subtitle": "Official newspaper of The University of Texas at Austin",
+  "site": "https://thedailytexan.com",
+  "bytes": 110138,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "austin",
+    "texas"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/78/787a61966e3e398593b5c21b4cd0f92003ac82bdcbaf97084827bb5410ba5635.json"
+}

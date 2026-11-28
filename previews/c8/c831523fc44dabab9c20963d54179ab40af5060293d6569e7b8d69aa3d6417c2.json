@@ -1,0 +1,21 @@
+{
+  "url": "https://pancake.bearblog.dev/feed/",
+  "title": "pancake",
+  "subtitle": "I write bad code. Profesionally and as a leisure activity. mastodon: @pancake@floss.social codeberg: pancake",
+  "site": "https://pancake.bearblog.dev/",
+  "bytes": 66727,
+  "last": "2026-06-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "self-hosting",
+    "ai",
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c8/c831523fc44dabab9c20963d54179ab40af5060293d6569e7b8d69aa3d6417c2.json"
+}

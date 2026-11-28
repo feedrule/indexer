@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.benjamin.ie/api/rss",
+  "title": "blog.benjamin.ie",
+  "subtitle": "Writing, notes, and experiments by Ben Kelly.",
+  "site": "https://blog.benjamin.ie/",
+  "bytes": 4908,
+  "last": "2026-03-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "github",
+    "github-copilot"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/11/117cc94921c5d0e8a6fcef13972646b7988c352bf58ba5e8f05ede24a5e77ff1.json"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mumbai feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Theme Sandbox" title="Theme Sandbox" xmlUrl="https://db-sandbox.bearblog.dev/feed/" htmlUrl="https://db-sandbox.bearblog.dev/"/>
+    <outline type="rss" text="Mumbai Magic" title="Mumbai Magic" xmlUrl="https://mumbai-magic.blogspot.com/feeds/posts/default" htmlUrl="https://mumbai-magic.blogspot.com/"/>
+    <outline type="rss" text="Street Frontier" title="Street Frontier" xmlUrl="https://streetfrontier.com/feed/atom/" htmlUrl="https://streetfrontier.com/"/>
+    <outline type="rss" text="Free Press Journal" title="Free Press Journal" xmlUrl="https://www.freepressjournal.in/stories.rss" htmlUrl="https://www.freepressjournal.in"/>
+    <outline type="rss" text="Liberal Landscape" title="Liberal Landscape" xmlUrl="https://www.liberallandscape.org/feed/atom/" htmlUrl="https://www.liberallandscape.org"/>
+  </body>
+</opml>

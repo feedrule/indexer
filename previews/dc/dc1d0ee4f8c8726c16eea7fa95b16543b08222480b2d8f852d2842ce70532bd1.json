@@ -1,0 +1,20 @@
+{
+  "url": "https://stevezeidner.com/rss.xml",
+  "title": "Steve Zeidner — Blog",
+  "subtitle": "Build logs and hard-won lessons from Steve Zeidner.",
+  "site": "https://stevezeidner.com/",
+  "bytes": 126028,
+  "last": "2026-07-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vintage-computing",
+    "devlog"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dc/dc1d0ee4f8c8726c16eea7fa95b16543b08222480b2d8f852d2842ce70532bd1.json"
+}

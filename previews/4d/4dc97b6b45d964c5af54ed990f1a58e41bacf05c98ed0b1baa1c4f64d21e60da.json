@@ -1,0 +1,19 @@
+{
+  "url": "https://www.reviewstl.com/feed/",
+  "title": "ReviewSTL",
+  "subtitle": "Movies, Sports, Concerts, Theatre and More",
+  "site": "https://www.reviewstl.com",
+  "bytes": 19829,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "sports"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4d/4dc97b6b45d964c5af54ed990f1a58e41bacf05c98ed0b1baa1c4f64d21e60da.json"
+}

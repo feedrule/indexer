@@ -1,0 +1,21 @@
+{
+  "url": "https://nowigetit.us/blog/feed.xml",
+  "title": "Now I Get It! Blog",
+  "subtitle": "Development blog for NowIGetIt — upload a scientific PDF, get back a shareable interactive web page",
+  "site": "https://nowigetit.us/blog",
+  "bytes": 39316,
+  "last": "2026-06-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devlog",
+    "frontend",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/22/2294b4c60d0843d5bed19f54ede5d307e1f0e3bd66cbbabb5f3f6a60bc3b6d0b.json"
+}

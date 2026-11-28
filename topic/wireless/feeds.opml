@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>wireless feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="High Tech Forum" title="High Tech Forum" xmlUrl="https://hightechforum.org/feed/" htmlUrl="https://hightechforum.org/"/>
+    <outline type="rss" text="The CaNerdIan" title="The CaNerdIan" xmlUrl="https://nerdian.ca/feed.xml" htmlUrl="https://nerdian.ca/"/>
+    <outline type="rss" text="wirednot" title="wirednot" xmlUrl="https://wirednot.wordpress.com/feed/" htmlUrl="https://wirednot.wordpress.com"/>
+    <outline type="rss" text="Beyondlogic" title="Beyondlogic" xmlUrl="https://www.beyondlogic.org/feed/atom/" htmlUrl="https://www.beyondlogic.org"/>
+  </body>
+</opml>

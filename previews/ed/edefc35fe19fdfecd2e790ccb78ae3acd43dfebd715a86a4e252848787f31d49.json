@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.programster.org/rss",
+  "title": "Programster's Blog",
+  "subtitle": "Tutorials on Linux and Open Source",
+  "site": "https://blog.programster.org",
+  "bytes": 539627,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debian",
+    "planet-debian"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ed/edefc35fe19fdfecd2e790ccb78ae3acd43dfebd715a86a4e252848787f31d49.json"
+}

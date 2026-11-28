@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>anecdotes feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Nick Brown's blog" title="Nick Brown's blog" xmlUrl="https://steamtraen.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://steamtraen.blogspot.com/"/>
+    <outline type="rss" text="Theodote" title="Theodote" xmlUrl="https://theodote.com/feed/" htmlUrl="https://theodote.com/"/>
+    <outline type="rss" text="Thomas Morris" title="Thomas Morris" xmlUrl="https://www.thomas-morris.uk/feed/" htmlUrl="https://www.thomas-morris.uk"/>
+  </body>
+</opml>

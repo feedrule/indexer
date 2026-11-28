@@ -1,0 +1,19 @@
+{
+  "url": "https://lhartwich.com/rss",
+  "title": "the lukas blog",
+  "subtitle": "Hi, I’m Lukas and this is my blog. I like learning about how the world works.",
+  "site": "https://lhartwich.com/",
+  "bytes": 43895,
+  "last": "2026-06-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "investing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2d/2d017b03fac701d23639ebc6159963cbf378a248f5001b98e055fad19033002d.json"
+}

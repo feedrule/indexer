@@ -1,0 +1,19 @@
+{
+  "url": "https://www.sdr-radio.com/feed/atom",
+  "title": "SDR Radio Blog",
+  "subtitle": "The SDR Radio blog, articles about the software development",
+  "site": "https://www.sdr-radio.com",
+  "bytes": 1130144,
+  "last": "2026-10-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "sdr"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7a/7acabafdc5c20b71b9cbbc7b0d215410994bb446aaf2899d4b1835d11213a1c2.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://agentproto.sh/blog/rss.xml",
+  "title": "agentproto blog",
+  "subtitle": "Notes on building agentproto: adapters, orchestration, and the AIP spec family.",
+  "site": "https://agentproto.sh/blog",
+  "bytes": 3198,
+  "last": "2026-10-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "agent-orchestration",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dd/ddaad93b31c0055a3d605f1b3b546cb24c9d82fd313d1f7147453ba4cdd76b44.json"
+}

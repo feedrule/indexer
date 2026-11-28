@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>datadog feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Cauchy" title="Cauchy" xmlUrl="https://blog.cauchy.org/rss.xml" htmlUrl="https://blog.cauchy.org/"/>
+    <outline type="rss" text="Data Horde" title="Data Horde" xmlUrl="https://datahorde.org/feed" htmlUrl="https://datahorde.org"/>
+    <outline type="rss" text="Mike's House" title="Mike's House" xmlUrl="https://www.miketheman.net/feed/" htmlUrl="https://www.miketheman.net"/>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+{
+  "url": "https://kimsal.com/blog/feed/",
+  "title": "Kimsal Blog",
+  "subtitle": "putting the diva in software divalopment",
+  "site": "https://kimsal.com/blog",
+  "bytes": 35310,
+  "last": "2026-03-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "php",
+    "code-quality",
+    "laravel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/37/375626902c9a04ebc048ce744c2f50de0b5308a38a0bf3246a964dbb5573b8e8.json"
+}

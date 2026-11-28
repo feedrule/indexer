@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.sentry.io/feed.xml",
+  "title": "Sentry Blog",
+  "subtitle": "Product, Engineering, and Marketing updates from the developers of Sentry.",
+  "site": "https://blog.sentry.io/",
+  "bytes": 385219,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "sentry"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

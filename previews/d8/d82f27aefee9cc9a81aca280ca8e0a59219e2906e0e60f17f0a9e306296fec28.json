@@ -1,0 +1,23 @@
+{
+  "url": "https://libido-sciendi.com/rss.xml",
+  "title": "Libido Sciendi",
+  "subtitle": "Field reports, book notes, essays, and deep dives on AI, energy, and complex systems. By Willy Braun.",
+  "site": "https://libido-sciendi.com/",
+  "bytes": 31092,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "infrastructure",
+    "philosophy",
+    "books",
+    "strategy"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d8/d82f27aefee9cc9a81aca280ca8e0a59219e2906e0e60f17f0a9e306296fec28.json"
+}

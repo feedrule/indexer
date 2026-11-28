@@ -1,0 +1,20 @@
+{
+  "url": "https://agentic-cutter.com/en/rss.xml",
+  "title": "Bernhard Götzendorfer · Blog",
+  "subtitle": "Articles on agentic coding, multi-agent systems, prompt injection defense, and developer practice.",
+  "site": "https://www.gotzendorfer.at/en/blog",
+  "bytes": 45360,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-coding-agents",
+    "multi-agent"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ad/adb870c22a43f6e062b3a6ab9b1fde9b7ed8fb463754840eabc5919d905f88b8.json"
+}

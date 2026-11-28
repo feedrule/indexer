@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>redesign feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Bob Monsour's personal website" title="Bob Monsour's personal website" xmlUrl="https://bobmonsour.com/feed.xml"/>
+    <outline type="rss" text="bruise.in" title="bruise.in" xmlUrl="https://bruise.in/ggrss.xml" htmlUrl="https://bruise.in"/>
+    <outline type="rss" text="emeowly" title="emeowly" xmlUrl="https://emeowly.gay/emeowly.xml" htmlUrl="https://emeowly.gay/"/>
+    <outline type="rss" text="ReduxFlakes Blog" title="ReduxFlakes Blog" xmlUrl="https://reduxflakes.neocities.org/blog/feed.xml" htmlUrl="https://reduxflakes.neocities.org/"/>
+    <outline type="rss" text="vesto" title="vesto" xmlUrl="https://www.vesto.me/feed.xml" htmlUrl="https://www.vesto.me"/>
+  </body>
+</opml>

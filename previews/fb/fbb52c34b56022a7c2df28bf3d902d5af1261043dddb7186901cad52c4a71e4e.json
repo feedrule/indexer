@@ -1,0 +1,22 @@
+{
+  "url": "https://www.gexos.org/rss/",
+  "title": "gexos.org",
+  "subtitle": "Tech and other ramblings",
+  "site": "https://www.gexos.org/",
+  "bytes": 206314,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software",
+    "open-source",
+    "security",
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fb/fbb52c34b56022a7c2df28bf3d902d5af1261043dddb7186901cad52c4a71e4e.json"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>dnssec feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Potaroo blog" title="Potaroo blog" xmlUrl="http://www.potaroo.net/rss.xml" htmlUrl="http://www.potaroo.net/"/>
+    <outline type="rss" text="Tomasz Kramkowski" title="Tomasz Kramkowski" xmlUrl="https://kramkow.ski/atom.xml" htmlUrl="https://kramkow.ski/archive.html"/>
+    <outline type="rss" text="mforney.org" title="mforney.org" xmlUrl="https://mforney.org/blog/atom.xml" htmlUrl="https://mforney.org/blog"/>
+    <outline type="rss" text="Potaroo blog" title="Potaroo blog" xmlUrl="https://www.potaroo.net/rss.xml" htmlUrl="http://www.potaroo.net/"/>
+  </body>
+</opml>

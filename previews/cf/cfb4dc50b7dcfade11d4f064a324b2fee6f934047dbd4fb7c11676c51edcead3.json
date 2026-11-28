@@ -1,0 +1,20 @@
+{
+  "url": "https://www.americantheatre.org/feed/",
+  "title": "AMERICAN THEATRE",
+  "subtitle": "The national magazine for the American not-for-profit theatre",
+  "site": "https://www.americantheatre.org",
+  "bytes": 69639,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "theatre",
+    "showcase"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cf/cfb4dc50b7dcfade11d4f064a324b2fee6f934047dbd4fb7c11676c51edcead3.json"
+}

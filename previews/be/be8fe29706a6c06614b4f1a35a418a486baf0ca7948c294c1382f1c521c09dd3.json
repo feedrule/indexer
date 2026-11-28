@@ -1,0 +1,20 @@
+{
+  "url": "https://nortyspock.github.io/blog/rss",
+  "title": "Blog",
+  "subtitle": "Grow with Technology",
+  "site": "http://localhost:4000/",
+  "bytes": 4722,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "new-technology",
+    "mqtt"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

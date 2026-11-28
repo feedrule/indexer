@@ -1,0 +1,20 @@
+{
+  "url": "https://www.cozynet.org/feed/",
+  "title": "CozyNet RSS feed",
+  "subtitle": "The CozyNet blog feed",
+  "site": "https://www.cozynet.org/",
+  "bytes": 141058,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "newsletter",
+    "journaling"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/02/02d6f1c4c111ff2d486cd58828b8fe602cfaf183c98967883e65cd3873ef120e.json"
+}

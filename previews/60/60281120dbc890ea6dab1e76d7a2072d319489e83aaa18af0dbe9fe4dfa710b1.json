@@ -1,0 +1,20 @@
+{
+  "url": "https://griffindavidson.com/rss.xml",
+  "title": "Griffin Davidson",
+  "subtitle": "A place where a junior webdev can rant, document his journey experimenting with homelabbing, programming, networking, and anything interesting that may come up",
+  "site": "https://griffindavidson.com/blog",
+  "bytes": 10642,
+  "last": "2026-08-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web-development",
+    "homelab"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/60/60281120dbc890ea6dab1e76d7a2072d319489e83aaa18af0dbe9fe4dfa710b1.json"
+}

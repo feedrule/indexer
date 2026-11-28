@@ -1,0 +1,19 @@
+{
+  "url": "https://www.djangotricks.com/blog/rss/",
+  "title": "DjangoTricks blog",
+  "subtitle": "Latest DjangoTricks blog posts.",
+  "site": "https://www.djangotricks.com/blog/",
+  "bytes": 894815,
+  "last": "2026-09-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://hexaitos.com/feed.xml",
+  "title": "Hexaitos’ Personal Website",
+  "subtitle": null,
+  "site": "https://hexaitos.com/",
+  "bytes": 180059,
+  "last": "2026-05-04",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openbsd",
+    "framework",
+    "linux"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/19/19b86a55ac0001f3db0a7776d0c593f33215732cb20c3b5969c8d84b1b610491.json"
+}

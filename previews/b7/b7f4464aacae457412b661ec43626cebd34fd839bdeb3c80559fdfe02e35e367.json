@@ -1,0 +1,20 @@
+{
+  "url": "https://dejareviewer.com/feed/",
+  "title": "Deja Reviewer",
+  "subtitle": "A new way of looking at your favorite movies",
+  "site": "https://dejareviewer.com",
+  "bytes": 161253,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "movie-review",
+    "movies"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

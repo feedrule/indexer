@@ -1,0 +1,22 @@
+{
+  "url": "https://rivassec.com/feeds/all.atom.xml",
+  "title": "RivasSec",
+  "subtitle": "Infrastructure. Security. Insight.",
+  "site": "https://rivassec.com/",
+  "bytes": 370858,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "security-research",
+    "security-analysis",
+    "devsecops"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/50/50756342ee146a90b72e6fc3b9b5446e4f825329a13b120b48195a3a361cd0f2.json"
+}

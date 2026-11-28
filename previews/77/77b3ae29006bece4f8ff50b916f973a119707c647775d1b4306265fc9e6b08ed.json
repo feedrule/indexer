@@ -1,0 +1,19 @@
+{
+  "url": "https://davidlattimore.github.io/feed.xml",
+  "title": "David Lattimore’s Blog",
+  "subtitle": "A blog about my open-source work, mostly in Rust. My interests are mostly around developer tooling, compilers, linking.",
+  "site": "https://davidlattimore.github.io/",
+  "bytes": 171433,
+  "last": "2026-09-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "linker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/77/77b3ae29006bece4f8ff50b916f973a119707c647775d1b4306265fc9e6b08ed.json"
+}

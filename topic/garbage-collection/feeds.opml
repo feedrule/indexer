@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>garbage-collection feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="alexrios" title="alexrios" xmlUrl="https://alexrios.me/rss" htmlUrl="https://alexrios.me/"/>
+    <outline type="rss" text="Garbage Collected Thoughts" title="Garbage Collected Thoughts" xmlUrl="https://eventual-consistency.vercel.app/rss.xml" htmlUrl="https://works-on-my-machine-eight.vercel.app/"/>
+    <outline type="rss" text="garbage collected" title="garbage collected" xmlUrl="https://garbagecollected.io/rss.xml" htmlUrl="https://garbagecollected.io/"/>
+    <outline type="rss" text="Things I find in the garbage" title="Things I find in the garbage" xmlUrl="https://garbagefinds.com/feed/" htmlUrl="https://garbagefinds.com"/>
+    <outline type="rss" text="Nova Blog" title="Nova Blog" xmlUrl="https://trynova.dev/blog/feed.atom" htmlUrl="https://trynova.dev/blog"/>
+  </body>
+</opml>

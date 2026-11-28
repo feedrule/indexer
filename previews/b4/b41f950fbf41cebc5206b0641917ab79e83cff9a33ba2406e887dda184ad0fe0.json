@@ -1,0 +1,21 @@
+{
+  "url": "https://mastel.org/feeds/all.atom.xml",
+  "title": "Jacob Mastel",
+  "subtitle": "Data Engineer",
+  "site": "https://mastel.org/",
+  "bytes": 42224,
+  "last": "2026-07-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "joins",
+    "query-optimization",
+    "sql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

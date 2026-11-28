@@ -1,0 +1,21 @@
+{
+  "url": "https://minoki.github.io/rss.xml",
+  "title": "Mizuki's Blog",
+  "subtitle": "Posts about functional programming languages",
+  "site": "https://minoki.github.io",
+  "bytes": 282729,
+  "last": "2026-06-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "functional-programming",
+    "haskell",
+    "programming-languages"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/e0/e0eedc0e8e17737d7dd44dc15a8199b076746a23303b4554a1576b50a7d8b558.json"
+}

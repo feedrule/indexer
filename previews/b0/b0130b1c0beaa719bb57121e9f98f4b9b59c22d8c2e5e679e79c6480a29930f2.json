@@ -1,0 +1,20 @@
+{
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+  "title": "NYT > Travel",
+  "subtitle": null,
+  "site": "https://www.nytimes.com/section/travel",
+  "bytes": 40375,
+  "last": "2026-11-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel-tips",
+    "travel"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b0/b0130b1c0beaa719bb57121e9f98f4b9b59c22d8c2e5e679e79c6480a29930f2.json"
+}

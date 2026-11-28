@@ -1,0 +1,22 @@
+{
+  "url": "https://wcygan.net/rss.xml",
+  "title": "Will Cygan",
+  "subtitle": "Will Cygan is a software engineer writing about databases, distributed systems, and software development.",
+  "site": "https://wcygan.net",
+  "bytes": 12618,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "replication",
+    "distributed-systems",
+    "database",
+    "data"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c0/c0b55c28a2d1559715e15e43f0a33ce4cdb5341fd7b0542231ac9104a5d41e31.json"
+}

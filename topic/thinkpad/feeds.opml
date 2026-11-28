@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>thinkpad feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Robin Gareus" title="Robin Gareus" xmlUrl="http://gareus.org/feed.php" htmlUrl="https://gareus.org/"/>
+    <outline type="rss" text="| Laptop Retrospective" title="| Laptop Retrospective" xmlUrl="https://laptopretrospective.com/feed/" htmlUrl="https://laptopretrospective.com"/>
+    <outline type="rss" text="moonydev.xyz" title="moonydev.xyz" xmlUrl="https://moonydev.xyz/rss.xml" htmlUrl="https://moonydev.xyz/"/>
+    <outline type="rss" text="PCR's notepad" title="PCR's notepad" xmlUrl="https://notepad.patheticcockroach.com/feed/" htmlUrl="https://notepad.patheticcockroach.com"/>
+  </body>
+</opml>

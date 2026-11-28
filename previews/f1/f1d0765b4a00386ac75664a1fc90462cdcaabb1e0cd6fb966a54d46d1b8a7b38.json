@@ -1,0 +1,20 @@
+{
+  "url": "https://eastbayexpress.com/feed/",
+  "title": "East Bay Express | Oakland, Berkeley & Alameda",
+  "subtitle": "The East Bay’s alt weekly.",
+  "site": "https://eastbayexpress.com/",
+  "bytes": 17882,
+  "last": "2026-11-24",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "san-francisco",
+    "bay-area"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f1/f1d0765b4a00386ac75664a1fc90462cdcaabb1e0cd6fb966a54d46d1b8a7b38.json"
+}

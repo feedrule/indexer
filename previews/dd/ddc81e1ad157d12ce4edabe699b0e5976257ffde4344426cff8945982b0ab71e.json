@@ -1,0 +1,20 @@
+{
+  "url": "https://awsteele.com/feed.xml",
+  "title": "Aidan Steele's blog (usually about AWS)",
+  "subtitle": "Here's my seventh or eighth attempt at a blog. It's mostly going to be my experimentation with using AWS (Amazon Web Services, not Aidan William Steele).",
+  "site": "https://awsteele.com/",
+  "bytes": 19992,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws-lambda",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

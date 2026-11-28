@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>server feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Gowtham" title="Gowtham" xmlUrl="https://gowtham.dev/feed" htmlUrl="https://gowtham.dev/"/>
+    <outline type="rss" text="LinuxBlog.io" title="LinuxBlog.io" xmlUrl="https://linuxblog.io/feed/" htmlUrl="https://linuxblog.io/"/>
+    <outline type="rss" text="Phil’s Blog" title="Phil’s Blog" xmlUrl="https://phil.lavin.me.uk/feed/" htmlUrl="https://phil.lavin.me.uk"/>
+    <outline type="rss" text="Ryan Harrison" title="Ryan Harrison" xmlUrl="https://ryanharrison.co.uk/feed.xml" htmlUrl="https://ryanharrison.co.uk/"/>
+  </body>
+</opml>

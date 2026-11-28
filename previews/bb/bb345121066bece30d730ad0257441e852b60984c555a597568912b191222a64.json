@@ -1,0 +1,20 @@
+{
+  "url": "https://ryanhenrick.com/rss.xml",
+  "title": "Ryan Henrick | Research",
+  "subtitle": "Security research, news and explainers.",
+  "site": "https://ryanhenrick.com/",
+  "bytes": 5310,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security-research",
+    "security-analysis"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bb/bb345121066bece30d730ad0257441e852b60984c555a597568912b191222a64.json"
+}

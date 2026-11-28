@@ -1,0 +1,19 @@
+{
+  "url": "https://2600.network/rss",
+  "title": "2600.network News",
+  "subtitle": "Updates from 2600.network - a public service for dial-up users.",
+  "site": "https://2600.network/news",
+  "bytes": 9427,
+  "last": "2026-09-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "october"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8c/8c2166d09e8c4f00f9b660d8c9b964c2649927cd45bf31a592efc665696d3476.json"
+}

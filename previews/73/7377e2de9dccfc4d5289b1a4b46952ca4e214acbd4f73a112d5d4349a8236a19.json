@@ -1,0 +1,19 @@
+{
+  "url": "https://linus.schreibt.jetzt/feed.rss",
+  "title": "Linus's blog",
+  "subtitle": "Mostly posts about Nix and NixOS",
+  "site": "https://linus.schreibt.jetzt",
+  "bytes": 153129,
+  "last": "2026-01-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/73/7377e2de9dccfc4d5289b1a4b46952ca4e214acbd4f73a112d5d4349a8236a19.json"
+}

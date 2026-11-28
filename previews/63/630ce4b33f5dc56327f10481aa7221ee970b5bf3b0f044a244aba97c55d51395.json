@@ -1,0 +1,21 @@
+{
+  "url": "https://www.rgk.io/rss.xml",
+  "title": "Rob Kimball",
+  "subtitle": "A personal site built with custom Python framework",
+  "site": "https://www.rgk.io",
+  "bytes": 1913,
+  "last": "2025-12-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "framework",
+    "personal-website",
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

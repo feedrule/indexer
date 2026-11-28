@@ -1,0 +1,19 @@
+{
+  "url": "https://happymag.tv/feed/",
+  "title": "Happy Mag",
+  "subtitle": "Happy Mag is a news and entertainment publisher based in Sydney, Australia",
+  "site": "https://happymag.tv/",
+  "bytes": 112154,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "music"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ec/ec18ea4ecd44b4acb86e75bd77a5f792b2896e4a3d3cfad8899f21487ab644a1.json"
+}

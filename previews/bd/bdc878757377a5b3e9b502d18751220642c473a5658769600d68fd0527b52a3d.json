@@ -1,0 +1,21 @@
+{
+  "url": "https://pinyin.info/news/feed/",
+  "title": "Pinyin News",
+  "subtitle": "news and discussions mainly related to Chinese characters and romanization",
+  "site": "https://pinyin.info/news",
+  "bytes": 64933,
+  "last": "2026-09-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "chinese",
+    "taiwan",
+    "japanese"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

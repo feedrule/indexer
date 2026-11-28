@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>editor feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ergaster" title="Ergaster" xmlUrl="https://blog.ergaster.org/rss.xml" htmlUrl="https://ergaster.org/"/>
+    <outline type="rss" text="Ergaster" title="Ergaster" xmlUrl="https://ergaster.org/rss.xml" htmlUrl="https://ergaster.org/"/>
+    <outline type="rss" text="INNERLMNT" title="INNERLMNT" xmlUrl="https://innerlmnt.bearblog.dev/feed/" htmlUrl="https://innerlmnt.bearblog.dev/"/>
+    <outline type="rss" text="muchweb's home page" title="muchweb's home page" xmlUrl="https://muchweb.me/feed.xml" htmlUrl="https://muchweb.me/"/>
+    <outline type="rss" text="Home on Prayag Jain" title="Home on Prayag Jain" xmlUrl="https://prayag2.github.io/index.xml" htmlUrl="https://prayag2.github.io/"/>
+    <outline type="rss" text="Samuel Onoja" title="Samuel Onoja" xmlUrl="https://sot.dev/feed" htmlUrl="https://sot.dev/"/>
+    <outline type="rss" text="Blogging about tech stuff" title="Blogging about tech stuff" xmlUrl="https://www.hussain.io/rss.xml" htmlUrl="https://www.hussain.io"/>
+  </body>
+</opml>

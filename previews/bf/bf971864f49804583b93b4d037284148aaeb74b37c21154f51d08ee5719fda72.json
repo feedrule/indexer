@@ -1,0 +1,21 @@
+{
+  "url": "https://jorin.me/index.xml",
+  "title": "jorin.me",
+  "subtitle": "Recent content on jorin.me",
+  "site": "https://jorin.me",
+  "bytes": 10121,
+  "last": "2026-03-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "tooling",
+    "software"
+  ],
+  "source": {
+    "name": "outcoldman/hackernews-personal-blogs",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bf/bf971864f49804583b93b4d037284148aaeb74b37c21154f51d08ee5719fda72.json"
+}

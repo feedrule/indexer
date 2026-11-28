@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>code-quality feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Czar Pino" title="Czar Pino" xmlUrl="https://blog.czarpino.com/posts.atom" htmlUrl="https://blog.czarpino.com"/>
+    <outline type="rss" text="Kimsal Blog" title="Kimsal Blog" xmlUrl="https://kimsal.com/blog/feed/" htmlUrl="https://kimsal.com/blog"/>
+    <outline type="rss" text="Blog on Koleman Nix" title="Blog on Koleman Nix" xmlUrl="https://kolemannix.com/blog/index.xml" htmlUrl="https://kolemannix.com/blog/"/>
+    <outline type="rss" text="Kimsal Blog" title="Kimsal Blog" xmlUrl="https://michaelkimsal.com/blog/feed/" htmlUrl="https://kimsal.com/blog"/>
+    <outline type="rss" text="Blog" title="Blog" xmlUrl="https://roberthopman.com/feed.xml" htmlUrl="https://roberthopman.com/"/>
+    <outline type="rss" text="Robert Vitonsky | Software engineering insights" title="Robert Vitonsky | Software engineering insights" xmlUrl="https://vitonsky.net/rss.xml" htmlUrl="https://vitonsky.net/"/>
+  </body>
+</opml>

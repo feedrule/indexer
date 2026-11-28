@@ -1,0 +1,21 @@
+{
+  "url": "https://corrupted.io/blog/feed.xml",
+  "title": "Corrupted.io",
+  "subtitle": "A tech log",
+  "site": "https://corrupted.io/",
+  "bytes": 213721,
+  "last": "2026-07-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "security",
+    "tools",
+    "freebsd"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

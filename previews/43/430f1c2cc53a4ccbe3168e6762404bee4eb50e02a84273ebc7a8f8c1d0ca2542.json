@@ -1,0 +1,22 @@
+{
+  "url": "https://ygoow.com/blog/rss/",
+  "title": "YGOOW - Blog",
+  "subtitle": "Notes on privacy, Tor, and building a messenger that measures its own metadata.",
+  "site": "https://ygoow.com/blog/",
+  "bytes": 7805,
+  "last": "2026-10-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "tor",
+    "digital-privacy",
+    "secrets-management",
+    "privacy"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

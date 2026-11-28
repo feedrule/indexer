@@ -1,0 +1,19 @@
+{
+  "url": "https://www.charbzg.com/rss",
+  "title": "My Portfolio",
+  "subtitle": "This is my portfolio RSS feed",
+  "site": "https://portfolio-blog-starter.vercel.app",
+  "bytes": 1341,
+  "last": "2026-07-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "portfolio"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

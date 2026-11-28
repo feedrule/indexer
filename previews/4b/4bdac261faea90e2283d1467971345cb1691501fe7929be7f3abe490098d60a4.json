@@ -1,0 +1,22 @@
+{
+  "url": "https://flamendless.xyz/feed.xml",
+  "title": "flamendless",
+  "subtitle": "Blogs & rants about game development & programming.",
+  "site": "https://flamendless.xyz/",
+  "bytes": 115341,
+  "last": "2026-01-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "development",
+    "golang",
+    "python",
+    "technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://adamsimpson.net/rss.xml",
+  "title": "adamsimpson.net Post Feed",
+  "subtitle": "Last 20 posts for adamsimpson.net",
+  "site": "https://adamsimpson.net/",
+  "bytes": 82627,
+  "last": "2026-03-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/65/65f2749b3cda3cb0e2144a83b59794128f3baccc058bd96adf95cc670ace9d61.json"
+}

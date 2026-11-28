@@ -1,0 +1,23 @@
+{
+  "url": "https://deepanseeralan.com/feed.xml",
+  "title": "Deepan Seeralan",
+  "subtitle": "Writing about AI pipelines, RAG, vector databases, and applied LLM engineering. Learning in public, with code.",
+  "site": "https://deepanseeralan.com/",
+  "bytes": 236703,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "search",
+    "rag",
+    "multimodal",
+    "llm"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

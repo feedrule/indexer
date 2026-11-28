@@ -1,0 +1,22 @@
+{
+  "url": "https://da.vebrig.gs/feed/",
+  "title": "Dave Briggs",
+  "subtitle": "An online notebook",
+  "site": "https://da.vebrig.gs",
+  "bytes": 28360,
+  "last": "2026-11-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "database",
+    "local-government",
+    "software",
+    "digital"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/99/994f3f7a91e9ef72b00415ec67308e1f2953d69f304188e55da96816fb263685.json"
+}

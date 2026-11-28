@@ -1,0 +1,21 @@
+{
+  "url": "https://lucteo.ro/feed.xml",
+  "title": "CompuTruthing",
+  "subtitle": "Blog about computing and truthing. About the search for the essence of computing. About understanding the essence of knowledge. And some other interesting stuff, technical and not that technical.",
+  "site": "http://lucteo.ro/",
+  "bytes": 45975,
+  "last": "2026-05-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "c++",
+    "concurrency",
+    "design"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

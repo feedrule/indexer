@@ -1,0 +1,20 @@
+{
+  "url": "https://jvogel.me/rss.xml",
+  "title": "Jonathan Vogel",
+  "subtitle": "Technical blog by Jonathan Vogel, Developer Advocate at AWS. Insights to help developers.",
+  "site": "https://jvogel.me/",
+  "bytes": 1751,
+  "last": "2026-04-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "aws",
+    "aws-lambda"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5e/5efbe975a003b9debc22e86f89087699accfb8f08dc62d541db6e3a57293ec78.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://tim.kicker.dev/rss.xml",
+  "title": "Tim Kicker",
+  "subtitle": "CS student in Austria. Notes on geopolitics, computer-science, self-hosting and whatever else is worth writing down.",
+  "site": "https://tim.kicker.dev/",
+  "bytes": 14006,
+  "last": "2026-08-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "privacy"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d1/d1cf0b4b42bea1c58218ba49f18ef20199dc3c7a69241aa6f227f4ed1448082a.json"
+}

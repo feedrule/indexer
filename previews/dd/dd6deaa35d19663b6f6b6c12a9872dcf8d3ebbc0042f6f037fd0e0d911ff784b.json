@@ -1,0 +1,23 @@
+{
+  "url": "https://www.righto.com/atom.xml",
+  "title": "Ken Shirriff's blog",
+  "subtitle": "Computer history, restoring vintage computers, IC reverse engineering, and whatever",
+  "site": "http://www.righto.com/",
+  "bytes": 1206141,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vintage-computing",
+    "intel",
+    "ibm",
+    "electronics",
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dd/dd6deaa35d19663b6f6b6c12a9872dcf8d3ebbc0042f6f037fd0e0d911ff784b.json"
+}

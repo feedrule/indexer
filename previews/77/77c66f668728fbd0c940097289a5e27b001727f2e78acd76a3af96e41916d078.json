@@ -1,0 +1,23 @@
+{
+  "url": "https://svalle.ru/index.xml",
+  "title": "Shan Valleru's Blog",
+  "subtitle": "Technical blog by Shan Valleru covering Kubernetes, distributed systems, AI, and business strategy. Deep dives into platform engineering, agentic coding, emergence, disruption theory, and infrastructu",
+  "site": "https://svalle.ru/",
+  "bytes": 1720036,
+  "last": "2026-07-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "infrastructure-as-code",
+    "infrastructure",
+    "platform-engineering",
+    "ai",
+    "business"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

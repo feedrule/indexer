@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.bustikiller.com/feed.xml",
+  "title": "Bustikiller’s Blog",
+  "subtitle": "I like writing about the topics I'm learning: ruby, databases, open-source, etc. Hope you find it interesting!",
+  "site": "https://blog.bustikiller.com/",
+  "bytes": 68187,
+  "last": "2026-09-25",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "self-hosting",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/70/708e570c1aae2735529f48dfd1f6b54baf8bdba78729aa49ec08711ebbccfcac.json"
+}

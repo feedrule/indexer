@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>nuxt feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Brian Caffey" title="Brian Caffey" xmlUrl="https://briancaffey.github.io/feed" htmlUrl="https://briancaffey.github.io"/>
+    <outline type="rss" text="DamienG's Blog" title="DamienG's Blog" xmlUrl="https://damieng.com/atom.xml" htmlUrl="https://damieng.com"/>
+    <outline type="rss" text="DamienG's Blog" title="DamienG's Blog" xmlUrl="https://damieng.com/feed.xml" htmlUrl="https://damieng.com"/>
+    <outline type="rss" text="Blog | Michał Kuncio - Modern webdev - the cool parts" title="Blog | Michał Kuncio - Modern webdev - the cool parts" xmlUrl="https://michalkuncio.com/rss.xml" htmlUrl="https://michalkuncio.com/"/>
+    <outline type="rss" text="Michael Hoffmann" title="Michael Hoffmann" xmlUrl="https://mokkapps.de/rss.xml" htmlUrl="https://mokkapps.de"/>
+    <outline type="rss" text="Daniel Roe" title="Daniel Roe" xmlUrl="https://roe.dev/rss.xml" htmlUrl="https://roe.dev/blog"/>
+    <outline type="rss" text="Alexandre Nedelec's blog" title="Alexandre Nedelec's blog" xmlUrl="https://techwatching.dev/feed.atom" htmlUrl="https://techwatching.dev/posts"/>
+    <outline type="rss" text="Alexandre Nedelec's blog" title="Alexandre Nedelec's blog" xmlUrl="https://www.techwatching.dev/feed.rss" htmlUrl="https://techwatching.dev/posts"/>
+  </body>
+</opml>

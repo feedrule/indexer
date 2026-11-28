@@ -1,0 +1,20 @@
+{
+  "url": "https://kodare.net/feed.xml",
+  "title": "En kodare",
+  "subtitle": "Personal blog for Anders Hovmöller. Mostly programming stuff.",
+  "site": "https://kodare.net/",
+  "bytes": 38970,
+  "last": "2026-10-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "documentation",
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/36/36ce695e2af777833c5dc22782a8b8a36ea8d568d164898c6c60dc8666008977.json"
+}

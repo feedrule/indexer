@@ -1,0 +1,21 @@
+{
+  "url": "https://programmingwithwolfgang.com/feed.xml",
+  "title": "Programming With Wolfgang",
+  "subtitle": "A tech blog focusing on DevOps, Cloud, Azure, Kubernetes and Software Architecture.",
+  "site": "https://programmingwithwolfgang.com/",
+  "bytes": 4905,
+  "last": "2026-11-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "azure-devops",
+    "kubernetes",
+    "cloud"
+  ],
+  "source": {
+    "name": "matthiasjost/dotnet-creators-opml",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/aa/aa63b20d5e79812b0eb840ddfa38153ac420c81b880ba81c1b1bdbdc2f7f0608.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://travisbriggs.com/feed.xml",
+  "title": "Digital Garden of Travis Briggs",
+  "subtitle": "Learning in public with a personal knowledge graph",
+  "site": "https://garden.travisbriggs.com/",
+  "bytes": 429098,
+  "last": "2026-10-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "digital-garden",
+    "knowledge-graph"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/00/005ce67a5266844504860afc66b215867ce9a587f726e178e1067e598e7893dd.json"
+}

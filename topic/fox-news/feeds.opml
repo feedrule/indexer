@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>fox-news feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Latest &amp; Breaking News on Fox News" title="Latest &amp; Breaking News on Fox News" xmlUrl="http://feeds.foxnews.com/foxnews/latest" htmlUrl="https://www.foxnews.com/"/>
+    <outline type="rss" text="Latest articles from Crooks and Liars" title="Latest articles from Crooks and Liars" xmlUrl="https://crooksandliars.com/feeds/latest" htmlUrl="https://crooksandliars.com"/>
+    <outline type="rss" text="The Fine Print*" title="The Fine Print*" xmlUrl="https://karlbode.com/rss/" htmlUrl="https://karlbode.com/"/>
+    <outline type="rss" text="Top stories - Google News" title="Top stories - Google News" xmlUrl="https://news.google.com/rss" htmlUrl="https://news.google.com/?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline type="rss" text="Brad Enslen" title="Brad Enslen" xmlUrl="https://ramblinggit.com/feed.xml" htmlUrl="https://ramblinggit.com/"/>
+    <outline type="rss" text="BizPac Review" title="BizPac Review" xmlUrl="https://www.bizpacreview.com/feed/" htmlUrl="https://www.bizpacreview.com/"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.troyhunt.com/rss/",
+  "title": "Troy Hunt",
+  "subtitle": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director who travels the world speaking at events and training technology professionals",
+  "site": "https://www.troyhunt.com/",
+  "bytes": 96932,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacker-news"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/2c/2ca35d6c0a43c1c1280ded6957c5b9bc3259e5b09a7a0f8cd101c9ec28d6f02c.json"
+}

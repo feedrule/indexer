@@ -1,0 +1,23 @@
+{
+  "url": "https://techhut.tv/rss",
+  "title": "TechHut",
+  "subtitle": "Linux guides, software reviews, and tech content from TechHut",
+  "site": "https://techhut.tv",
+  "bytes": 60377,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab",
+    "linux",
+    "docker",
+    "self-hosting",
+    "software"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/70/705ec046eaf6018014e58a7dc94b49a119ad3d0929824375d5948e3c80fc323e.json"
+}

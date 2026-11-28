@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>astrophotography feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="astrobiscuit" title="astrobiscuit" xmlUrl="https://astrobiscuit.com/feed/" htmlUrl="https://astrobiscuit.com"/>
+    <outline type="rss" text="AstroImagery." title="AstroImagery." xmlUrl="https://astroimagery.com/feed/" htmlUrl="https://astroimagery.com"/>
+    <outline type="rss" text="The Evening Show" title="The Evening Show" xmlUrl="https://eveningshow.com/feed/" htmlUrl="https://eveningshow.com"/>
+    <outline type="rss" text="Noctilove astrophotography barn door tracker" title="Noctilove astrophotography barn door tracker" xmlUrl="https://noctilove.co.uk/feed/" htmlUrl="https://noctilove.co.uk/"/>
+    <outline type="rss" text="Orbiting Frog" title="Orbiting Frog" xmlUrl="https://orbitingfrog.com/feed.xml" htmlUrl="https://orbitingfrog.com/"/>
+    <outline type="rss" text="James Santiago Blog" title="James Santiago Blog" xmlUrl="https://santiagodevelopment.com/rss" htmlUrl="http://localhost:3000"/>
+  </body>
+</opml>

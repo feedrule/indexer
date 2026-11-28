@@ -1,0 +1,19 @@
+{
+  "url": "http://feeds.bbci.co.uk/sport/rss.xml",
+  "title": "BBC Sport",
+  "subtitle": "BBC Sport - Sport Front Page",
+  "site": "https://www.bbc.co.uk/sport",
+  "bytes": 54246,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "liverpool"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": null
+}

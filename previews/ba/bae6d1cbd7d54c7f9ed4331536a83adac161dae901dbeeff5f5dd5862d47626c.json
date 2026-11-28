@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.hartwork.org/rss.xml",
+  "title": "Hartwork Blog",
+  "subtitle": "Free Software, Music, Chinese Chess",
+  "site": "https://blog.hartwork.org/",
+  "bytes": 58306,
+  "last": "2026-11-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "xml",
+    "expat"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

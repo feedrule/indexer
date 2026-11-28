@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>information-retrieval feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ahnlich Blog" title="Ahnlich Blog" xmlUrl="https://ahnlich.dev/blog/atom.xml" htmlUrl="https://ahnlich.dev/blog"/>
+    <outline type="rss" text="Ahnlich Blog" title="Ahnlich Blog" xmlUrl="https://ahnlich.dev/blog/rss.xml" htmlUrl="https://ahnlich.dev/blog"/>
+    <outline type="rss" text="Djoerd Hiemstra" title="Djoerd Hiemstra" xmlUrl="https://djoerdhiemstra.com/feed/" htmlUrl="https://djoerdhiemstra.com"/>
+    <outline type="rss" text="Information Interaction" title="Information Interaction" xmlUrl="https://isquared.wordpress.com/feed/" htmlUrl="https://isquared.wordpress.com"/>
+    <outline type="rss" text="random::qmx" title="random::qmx" xmlUrl="https://random.qmx.me/feed" htmlUrl="https://random.qmx.me/"/>
+  </body>
+</opml>

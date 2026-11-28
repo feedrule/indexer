@@ -1,0 +1,22 @@
+{
+  "url": "http://marcosh.github.io/feed.xml",
+  "title": "marcoshplace",
+  "subtitle": "A place to store my thoughts and ideas about programming and related stuff",
+  "site": "http://marcosh.github.io/",
+  "bytes": 615314,
+  "last": "2026-05-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "haskell",
+    "functional-programming",
+    "monads",
+    "category-theory"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

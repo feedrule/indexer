@@ -1,0 +1,20 @@
+{
+  "url": "https://jsykora.info/index.xml",
+  "title": "Wired && Coded;",
+  "subtitle": "Recent content on Wired && Coded;",
+  "site": "http://localhost:1313/",
+  "bytes": 107330,
+  "last": "2026-04-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "fpga",
+    "x86"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f1/f1d7cb1f9535ce170b3213c8aa829287c4a0efbdd9a5f48065b4107c63abe653.json"
+}

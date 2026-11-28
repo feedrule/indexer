@@ -1,0 +1,23 @@
+{
+  "url": "https://www.arnaudp.dev/rss/",
+  "title": "Arnaud Pouppeville Architect’s Notebook",
+  "subtitle": "Drafts on systems, data, and the AI software factory.",
+  "site": "https://www.arnaudp.dev/",
+  "bytes": 228712,
+  "last": "2026-11-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "software-architecture",
+    "software-engineering",
+    "tooling",
+    "code-review"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/38/3812350c63ed2b78756d14bc63ef996cfca1fa9a719a4f37adac4ebf87ec6626.json"
+}

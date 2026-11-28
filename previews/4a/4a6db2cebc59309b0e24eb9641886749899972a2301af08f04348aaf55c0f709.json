@@ -1,0 +1,21 @@
+{
+  "url": "https://www.maxdesign.com.au/feed.xml",
+  "title": "Max Design articles",
+  "subtitle": "Browser internals, accessibility, ARIA, HTML and CSS articles",
+  "site": "https://www.maxdesign.com.au/articles/",
+  "bytes": 11453,
+  "last": "2026-09-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "accessibility",
+    "html",
+    "css"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

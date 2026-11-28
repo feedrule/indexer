@@ -1,0 +1,22 @@
+{
+  "url": "https://www.macworld.com/feed",
+  "title": "Macworld",
+  "subtitle": "Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love.",
+  "site": "https://www.macworld.com",
+  "bytes": 515848,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "apple",
+    "apple-ii",
+    "macbook-air",
+    "ipad"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/6d/6d70590c004d6736624177e554a83cb5143a89b11bb3969b92c70f915d412794.json"
+}

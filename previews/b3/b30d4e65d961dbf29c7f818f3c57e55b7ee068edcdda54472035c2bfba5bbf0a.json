@@ -1,0 +1,21 @@
+{
+  "url": "https://oldmoe.blog/feed/",
+  "title": "Oldmoe's blog",
+  "subtitle": "Musings about life, technology and some unrelated stuff",
+  "site": "https://oldmoe.blog",
+  "bytes": 243913,
+  "last": "2026-11-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "sqlite",
+    "ruby",
+    "serialization"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

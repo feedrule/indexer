@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>starlink feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="82MHz - All Posts" title="82MHz - All Posts" xmlUrl="https://82mhz.net/index.xml" htmlUrl="http://82mhz.net/posts/"/>
+    <outline type="rss" text="Gamua" title="Gamua" xmlUrl="https://gamua.com/feed/" htmlUrl="http://gamua.com"/>
+    <outline type="rss" text="SeaBits" title="SeaBits" xmlUrl="https://seabits.com/rss/" htmlUrl="https://seabits.com/"/>
+    <outline type="rss" text="https://whatsuptwitter.com/feed/" title="https://whatsuptwitter.com/feed/" xmlUrl="https://whatsuptwitter.com/feed/" htmlUrl="https://whatsuptwitter.com"/>
+  </body>
+</opml>

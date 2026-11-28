@@ -1,0 +1,21 @@
+{
+  "url": "https://backend.cafe/rss.xml",
+  "title": "Backend Cafe",
+  "subtitle": "A blog to discuss about Node.js Backend development. It focuses on Fastify web framework to help the community to skill up and build secure RESTful API faster.",
+  "site": "https://backend.cafe",
+  "bytes": 276809,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nodejs",
+    "spotify",
+    "backend"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/46/4607500fb7d5d7b6e8f523f5cad6d5c1abacd83133177fb0bc3408701b3a2751.json"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>lakes feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="My Lake" title="My Lake" xmlUrl="https://lakeworld.bearblog.dev/feed/" htmlUrl="https://lakeworld.bearblog.dev/"/>
+    <outline type="rss" text="loatswil.info" title="loatswil.info" xmlUrl="https://loatswil.info/feed/?type=rss" htmlUrl="https://loatswil.info/"/>
+    <outline type="rss" text="microscopesandmonsters" title="microscopesandmonsters" xmlUrl="https://microscopesandmonsters.wordpress.com/feed/" htmlUrl="https://microscopesandmonsters.wordpress.com"/>
+    <outline type="rss" text="LkldNow" title="LkldNow" xmlUrl="https://www.lkldnow.com/feed/" htmlUrl="https://www.lkldnow.com/"/>
+  </body>
+</opml>

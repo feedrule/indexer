@@ -1,0 +1,22 @@
+{
+  "url": "https://www.seeleycoder.com/feed/atom/",
+  "title": "The Seeley Coder",
+  "subtitle": "a developer's journey with asp.net core and the web",
+  "site": "https://www.seeleycoder.com/",
+  "bytes": 15277,
+  "last": "2026-09-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "programming",
+    "aspnet",
+    "cicd"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>pinball feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="AMANO" title="AMANO" xmlUrl="https://amano.games/rss/feed.xml" htmlUrl="https://amano.games/"/>
+    <outline type="rss" text="ben blogs" title="ben blogs" xmlUrl="https://benharri.org/feed/atom/" htmlUrl="https://benharri.org"/>
+    <outline type="rss" text="genex" title="genex" xmlUrl="https://orangenex.wordpress.com/feed/" htmlUrl="https://orangenex.wordpress.com"/>
+    <outline type="rss" text="arborelia" title="arborelia" xmlUrl="https://posts.arborelia.net/atom/" htmlUrl="https://posts.arborelia.net/"/>
+    <outline type="rss" text="The Virtual Moose" title="The Virtual Moose" xmlUrl="https://virtualmoose.org/feed/" htmlUrl="https://virtualmoose.org"/>
+  </body>
+</opml>

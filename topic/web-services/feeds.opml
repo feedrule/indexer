@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>web-services feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="My Memory" title="My Memory" xmlUrl="https://putridparrot.com/blog/feed/" htmlUrl="https://putridparrot.com/blog"/>
+    <outline type="rss" text="Work Dad Dev" title="Work Dad Dev" xmlUrl="https://workdad.dev/index.xml" htmlUrl="http://workdad.dev/"/>
+  </body>
+</opml>

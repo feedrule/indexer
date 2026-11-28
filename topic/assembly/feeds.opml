@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>assembly feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Fulcrum : Demo Collective" title="Fulcrum : Demo Collective" xmlUrl="http://www.fulcrum-demo.org/feed/" htmlUrl="http://www.fulcrum-demo.org"/>
+    <outline type="rss" text="blog.y2kbugger.com" title="blog.y2kbugger.com" xmlUrl="https://blog.y2kbugger.com/feeds/all.atom.xml" htmlUrl="http://blog.y2kbugger.com/"/>
+    <outline type="rss" text="DECUSER" title="DECUSER" xmlUrl="https://decuser.github.io/feed.xml" htmlUrl="https://decuser.github.io"/>
+    <outline type="rss" text="Nabil Elqatib’s blog" title="Nabil Elqatib’s blog" xmlUrl="https://n-eq.github.io/feed.xml" htmlUrl="https://n-eq.github.io/"/>
+  </body>
+</opml>

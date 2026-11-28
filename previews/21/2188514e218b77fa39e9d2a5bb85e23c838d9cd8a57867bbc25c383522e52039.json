@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.liw.fi/posts/index.rss",
+  "title": "posts",
+  "subtitle": "blog.liw.fi",
+  "site": "https://blog.liw.fi/posts/",
+  "bytes": 1937689,
+  "last": "2026-11-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "debian"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/21/2188514e218b77fa39e9d2a5bb85e23c838d9cd8a57867bbc25c383522e52039.json"
+}

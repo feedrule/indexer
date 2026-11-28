@@ -1,0 +1,23 @@
+{
+  "url": "https://flandrew.srht.site/listful/feed/all.xml",
+  "title": "Listful Andrew",
+  "subtitle": "`(emacs lisp bash ,@functional-programming)",
+  "site": "https://flandrew.srht.site/listful",
+  "bytes": 78092,
+  "last": "2026-04-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure",
+    "bash",
+    "programming",
+    "emacs",
+    "elisp"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

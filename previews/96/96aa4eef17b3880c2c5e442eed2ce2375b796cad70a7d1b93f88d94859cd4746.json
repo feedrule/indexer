@@ -1,0 +1,19 @@
+{
+  "url": "https://s3.us-east-1.amazonaws.com/darcym.icu/secondbreakfast/feed.xml",
+  "title": "Second Breakfast",
+  "subtitle": "A place where all who enjoy a second breakfast are welcome.",
+  "site": "https://secondbreakfast.party",
+  "bytes": 20210,
+  "last": "2026-10-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "breakfast"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

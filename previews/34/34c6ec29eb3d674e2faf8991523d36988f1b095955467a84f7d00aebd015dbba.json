@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.hanselman.com/ScottHanselman",
+  "title": "Scott Hanselman's Blog",
+  "subtitle": "Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",
+  "site": "https://www.hanselman.com/blog/",
+  "bytes": 204790,
+  "last": "2026-08-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dotnet",
+    "azure"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/34/34c6ec29eb3d674e2faf8991523d36988f1b095955467a84f7d00aebd015dbba.json"
+}

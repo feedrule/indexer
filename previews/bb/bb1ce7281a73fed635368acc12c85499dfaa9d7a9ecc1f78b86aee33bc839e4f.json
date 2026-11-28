@@ -1,0 +1,19 @@
+{
+  "url": "https://siderite.dev/feed/rss",
+  "title": "Siderite's Blog",
+  "subtitle": "I am a .NET C# developer and this is my personal and technical blog.",
+  "site": "https://siderite.dev/",
+  "bytes": 54483,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bb/bb1ce7281a73fed635368acc12c85499dfaa9d7a9ecc1f78b86aee33bc839e4f.json"
+}

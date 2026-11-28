@@ -1,0 +1,21 @@
+{
+  "url": "https://dcsoft.wordpress.com/feed/",
+  "title": "DCSoft.com blog",
+  "subtitle": "DCSoft product news, release notes, and technical updates.",
+  "site": "https://dcsoft.wordpress.com",
+  "bytes": 71463,
+  "last": "2026-09-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "visual-studio",
+    "virtualization",
+    "tips"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/18/18cb91d52d2eb2f56708683d454168d44b6e449f5ee4ea61c2ede4384d506c71.json"
+}

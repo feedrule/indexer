@@ -1,0 +1,21 @@
+{
+  "url": "https://www.heathpost.com/feeds/posts/default",
+  "title": "The Heath Post",
+  "subtitle": "A Celebration of Home, Kentucky, Sports, Music, and Other Passions",
+  "site": "https://www.heathpost.com/",
+  "bytes": 172515,
+  "last": "2026-11-23",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "baseball",
+    "sports",
+    "basketball"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/60/60a80d0f2d54f2b07d20a3e321c1555e9233f8306d9e68abeaee5a93f0e50540.json"
+}

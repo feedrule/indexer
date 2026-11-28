@@ -1,0 +1,17 @@
+{
+  "url": "https://mliezun.com/feed.xml",
+  "title": "mliezun.com",
+  "subtitle": "Personal blog by Miguel Liezun on programming, side projects, Rust, Python, and Django. Built with Grotsky, a toy language written in Rust.",
+  "site": "https://mliezun.com/",
+  "bytes": 304102,
+  "last": "2026-05-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/eb/ebacd740244bdef4d4074d9ad761b9d304bc2708e020fe4d6463781c33e662f2.json"
+}

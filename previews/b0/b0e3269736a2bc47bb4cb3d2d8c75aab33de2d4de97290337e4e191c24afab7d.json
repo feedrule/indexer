@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.daniel-beskin.com/rss.xml",
+  "title": "Daniel Beskin's Blog",
+  "subtitle": "A blog on software and functional programming",
+  "site": "https://blog.daniel-beskin.com",
+  "bytes": 1395540,
+  "last": "2026-01-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "functional-programming"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b0/b0e3269736a2bc47bb4cb3d2d8c75aab33de2d4de97290337e4e191c24afab7d.json"
+}

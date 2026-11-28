@@ -1,0 +1,22 @@
+{
+  "url": "https://zonov.me/feed.xml",
+  "title": "Kirill Zonov",
+  "subtitle": "Software engineering, Entrepreneurship, Music",
+  "site": "https://zonov.me/",
+  "bytes": 189966,
+  "last": "2026-05-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "development",
+    "devops",
+    "cicd",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f0/f01b64e77abced3cabfc19d6bbb14ed206d8cad0a522037940f2b4e9e3a2b400.json"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>mars feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Life on Mars" title="Life on Mars" xmlUrl="https://martiandaze.net/feed/" htmlUrl="https://martiandaze.net/"/>
+    <outline type="rss" text="The Primordial Scoop" title="The Primordial Scoop" xmlUrl="https://primordialscoop.org/feed/" htmlUrl="https://primordialscoop.org"/>
+    <outline type="rss" text="No Shortage of Dreams" title="No Shortage of Dreams" xmlUrl="https://spaceflighthistory.blogspot.com/feeds/posts/default" htmlUrl="https://spaceflighthistory.blogspot.com/"/>
+    <outline type="rss" text="human Mars" title="human Mars" xmlUrl="https://www.humanmars.net/feeds/posts/default" htmlUrl="https://www.humanmars.net/"/>
+  </body>
+</opml>

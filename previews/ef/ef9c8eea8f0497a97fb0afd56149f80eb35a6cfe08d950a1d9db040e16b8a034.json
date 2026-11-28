@@ -1,0 +1,19 @@
+{
+  "url": "https://trynova.dev/blog/feed.atom",
+  "title": "Nova Blog",
+  "subtitle": "Nova Blog",
+  "site": "https://trynova.dev/blog",
+  "bytes": 312014,
+  "last": "2026-03-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "garbage-collection"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ef/ef9c8eea8f0497a97fb0afd56149f80eb35a6cfe08d950a1d9db040e16b8a034.json"
+}

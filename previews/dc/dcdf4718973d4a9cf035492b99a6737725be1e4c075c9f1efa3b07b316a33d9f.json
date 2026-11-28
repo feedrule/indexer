@@ -1,0 +1,19 @@
+{
+  "url": "https://dirkjan.ochtman.nl/writing/feeds/all.atom.xml",
+  "title": "Dirkjan Ochtman",
+  "subtitle": "writing",
+  "site": "https://dirkjan.ochtman.nl/writing/",
+  "bytes": 98804,
+  "last": "2026-08-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dc/dcdf4718973d4a9cf035492b99a6737725be1e4c075c9f1efa3b07b316a33d9f.json"
+}

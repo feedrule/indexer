@@ -1,0 +1,19 @@
+{
+  "url": "https://www.cardiobrief.org/feed",
+  "title": "CardioBrief",
+  "subtitle": "One-stop source for cardiology news and links",
+  "site": "https://www.cardiobrief.org",
+  "bytes": 46442,
+  "last": "2026-01-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "pandemic"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3f/3fabbb27d5898ea84cc67d4b12ae43f325457975af1d7e5ae014c6b208222b6c.json"
+}

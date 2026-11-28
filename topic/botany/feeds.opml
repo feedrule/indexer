@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>botany feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Te Papa’s Blog" title="Te Papa’s Blog" xmlUrl="https://blog.tepapa.govt.nz/feed/" htmlUrl="https://blog.tepapa.govt.nz"/>
+    <outline type="rss" text="The Botanist in the Kitchen" title="The Botanist in the Kitchen" xmlUrl="https://botanistinthekitchen.blog/feed/" htmlUrl="https://botanistinthekitchen.blog"/>
+    <outline type="rss" text="James Common" title="James Common" xmlUrl="https://commonbynature.com/feed/" htmlUrl="https://commonbynature.com/"/>
+    <outline type="rss" text="The Naturalist’s Rabbit Hole" title="The Naturalist’s Rabbit Hole" xmlUrl="https://naturalist.bearblog.dev/feed/" htmlUrl="https://naturalist.bearblog.dev/"/>
+    <outline type="rss" text="Ancient Medicine" title="Ancient Medicine" xmlUrl="https://www.ancientmedicine.org/home?format=rss" htmlUrl="https://www.ancientmedicine.org/"/>
+    <outline type="rss" text="Gardenhistorygirl" title="Gardenhistorygirl" xmlUrl="https://www.gardenhistorygirl.co.uk/blog-feed.xml" htmlUrl="https://www.gardenhistorygirl.co.uk/blog"/>
+  </body>
+</opml>

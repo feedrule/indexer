@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>adobe feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Nackblog" title="Nackblog" xmlUrl="http://jnack.com/blog/feed/" htmlUrl="http://jnack.com/blog"/>
+    <outline type="rss" text="Scott Robinson" title="Scott Robinson" xmlUrl="https://dor.ky/posts/feed.xml" htmlUrl="https://dor.ky"/>
+    <outline type="rss" text="Blog - Glyn Dewis" title="Blog - Glyn Dewis" xmlUrl="https://glyndewis.com/blog?format=rss" htmlUrl="https://glyndewis.com/blog/"/>
+    <outline type="rss" text="Photography By Mark G Adams" title="Photography By Mark G Adams" xmlUrl="https://onecameraonelens.com/feed/" htmlUrl="https://onecameraonelens.com"/>
+    <outline type="rss" text="Pomax.github.io" title="Pomax.github.io" xmlUrl="https://pomax.github.io/gh-weblog/rss.xml" htmlUrl="https://pomax.github.io/"/>
+  </body>
+</opml>

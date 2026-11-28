@@ -1,0 +1,20 @@
+{
+  "url": "https://shad.moe/rss.xml",
+  "title": "TheShadowEevee's Blog",
+  "subtitle": "A place where I post some of the dumb things I do",
+  "site": "https://shad.moe/",
+  "bytes": 166911,
+  "last": "2026-04-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "homelab",
+    "atproto"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d5/d5e256e27b25b5786f8b9adf6ed6f5afef3e04527424b0c12ee0cec756669e68.json"
+}

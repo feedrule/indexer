@@ -1,0 +1,19 @@
+{
+  "url": "https://photographylife.com/feed",
+  "title": "Photography Life",
+  "subtitle": "PL provides various digital photography news, reviews, articles, tips, tutorials and guides to photographers of all levels",
+  "site": "https://photographylife.com/",
+  "bytes": 15165,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "photography"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cc/cca75ba2280333f2858dcc3f0df2942302a713cb720354cfdf8a8c3198afcf99.json"
+}

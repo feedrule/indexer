@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.shashank.im/feed",
+  "title": "Bekaarcoder’s Blog",
+  "subtitle": "Welcome to bekaarcoder's blog",
+  "site": "https://blog.shashank.im/",
+  "bytes": 123000,
+  "last": "2026-07-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

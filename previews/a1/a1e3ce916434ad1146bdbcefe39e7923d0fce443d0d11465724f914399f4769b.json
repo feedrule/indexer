@@ -1,0 +1,20 @@
+{
+  "url": "https://anotherboringtechblog.com/feed/atom/",
+  "title": "Another Boring Tech Blog",
+  "subtitle": "A blog about databases, mostly.",
+  "site": "https://anotherboringtechblog.com/",
+  "bytes": 275588,
+  "last": "2026-10-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mysql",
+    "performance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a1/a1e3ce916434ad1146bdbcefe39e7923d0fce443d0d11465724f914399f4769b.json"
+}

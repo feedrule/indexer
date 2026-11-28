@@ -1,0 +1,21 @@
+{
+  "url": "https://gem.bearblog.dev/feed/",
+  "title": "Gem",
+  "subtitle": "Music, Musings & More",
+  "site": "https://gem.bearblog.dev/",
+  "bytes": 65168,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "music",
+    "new-music",
+    "books"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/69/69b63c72ca6d58a0b4a5f29008775430f1d64f8c0491fb45927480e3a2703492.json"
+}

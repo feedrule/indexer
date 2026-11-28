@@ -1,0 +1,21 @@
+{
+  "url": "https://www.purplerow.com/rss/index.xml",
+  "title": "Purple Row",
+  "subtitle": "Your best source for quality Colorado Rockies news, rumors, analysis, stats and scores from the fan perspective.",
+  "site": "https://www.purplerow.com",
+  "bytes": 113038,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "colorado",
+    "baseball",
+    "giants"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/60/60e8774895e9a2df9dad6b668bb7aa6349e6e4c44a1c9317676ec120f7aae86e.json"
+}

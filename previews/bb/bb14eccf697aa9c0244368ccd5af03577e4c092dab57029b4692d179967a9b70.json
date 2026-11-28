@@ -1,0 +1,20 @@
+{
+  "url": "https://alexcbecker.net/feed.xml",
+  "title": "Alex Becker's Blog",
+  "subtitle": "Blog posts by Alex Becker",
+  "site": "https://alexcbecker.net/blog.html",
+  "bytes": 18542,
+  "last": "2026-05-30",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "economics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bb/bb14eccf697aa9c0244368ccd5af03577e4c092dab57029b4692d179967a9b70.json"
+}

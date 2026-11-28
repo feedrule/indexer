@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>expo feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Blog @ Codonomics" title="Blog @ Codonomics" xmlUrl="https://blog.codonomics.com/feeds/posts/default" htmlUrl="https://blog.codonomics.com/"/>
+    <outline type="rss" text="https://contextisking.com/feed/" title="https://contextisking.com/feed/" xmlUrl="https://contextisking.com/feed/" htmlUrl="https://contextisking.com"/>
+    <outline type="rss" text="Human Who Codes" title="Human Who Codes" xmlUrl="https://humanwhocodes.com/feeds/all.xml" htmlUrl="https://humanwhocodes.com"/>
+  </body>
+</opml>

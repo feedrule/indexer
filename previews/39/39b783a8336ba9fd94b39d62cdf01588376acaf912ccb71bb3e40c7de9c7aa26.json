@@ -1,0 +1,19 @@
+{
+  "url": "https://yapfast.com/blog/rss.xml",
+  "title": "Yapfast's blog",
+  "subtitle": "Things I run into while writing Yapfast, a Discord client without the web browser.",
+  "site": "https://yapfast.com/blog/",
+  "bytes": 1533,
+  "last": "2026-11-05",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "yaml"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

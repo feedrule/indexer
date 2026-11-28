@@ -1,0 +1,22 @@
+{
+  "url": "https://wljs.io/feed.xml",
+  "title": "WLJS Notebook Blog",
+  "subtitle": "Tutorials, showcases, research notes, and developer updates from the WLJS Notebook community.",
+  "site": "https://wljs.io/blog",
+  "bytes": 27669,
+  "last": "2026-11-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "interactive",
+    "modeling",
+    "tutorial",
+    "graphics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fa/fa463b066040ba97ca3916ce16c0deffa7ea6683fbd4c06b1c9aaf086a6a6ab8.json"
+}

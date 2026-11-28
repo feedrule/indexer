@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>dos feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="movq.de (en)" title="movq.de (en)" xmlUrl="https://movq.de/blog/feeds/en.atom" htmlUrl="https://movq.de/blog"/>
+    <outline type="rss" text="Retro Freak Reviews" title="Retro Freak Reviews" xmlUrl="https://retrofreakreviews.com/feed/" htmlUrl="https://retrofreakreviews.com"/>
+    <outline type="rss" text="Broken Pipe's Tech Blog" title="Broken Pipe's Tech Blog" xmlUrl="https://thebrokenpipe.com/blog/feed/" htmlUrl="https://thebrokenpipe.com/blog"/>
+    <outline type="rss" text="Just Games Retro" title="Just Games Retro" xmlUrl="https://www.justgamesretro.com/feed" htmlUrl="https://www.justgamesretro.com"/>
+  </body>
+</opml>

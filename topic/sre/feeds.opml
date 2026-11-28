@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>sre feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Posts on Alienchow" title="Posts on Alienchow" xmlUrl="https://alienchow.dev/post/index.xml" htmlUrl="http://alienchow.dev/post/"/>
+    <outline type="rss" text="igloo's blog" title="igloo's blog" xmlUrl="https://blog.rezero.org/feed.xml" htmlUrl="https://blog.rezero.org"/>
+    <outline type="rss" text="Mads Hartmann" title="Mads Hartmann" xmlUrl="https://www.mads-hartmann.com/blog/feed.xml" htmlUrl="https://blog.mads-hartmann.com/"/>
+  </body>
+</opml>

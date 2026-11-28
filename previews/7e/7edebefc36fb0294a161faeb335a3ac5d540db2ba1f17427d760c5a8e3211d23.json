@@ -1,0 +1,20 @@
+{
+  "url": "https://www.grayxu.cn/feed.xml",
+  "title": "Gray's grind",
+  "subtitle": "gray's blog",
+  "site": "https://www.grayxu.cn/",
+  "bytes": 140414,
+  "last": "2026-01-02",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "topics": [
+    "memory-management"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7e/7edebefc36fb0294a161faeb335a3ac5d540db2ba1f17427d760c5a8e3211d23.json"
+}

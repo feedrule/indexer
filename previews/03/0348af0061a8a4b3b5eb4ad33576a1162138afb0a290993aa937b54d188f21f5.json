@@ -1,0 +1,22 @@
+{
+  "url": "https://smallhacks.wordpress.com/feed/",
+  "title": "smallhacks",
+  "subtitle": "Linux, FreeBSD, networking, etc.",
+  "site": "https://smallhacks.wordpress.com",
+  "bytes": 78251,
+  "last": "2026-04-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openbsd",
+    "freebsd",
+    "linux",
+    "iot"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

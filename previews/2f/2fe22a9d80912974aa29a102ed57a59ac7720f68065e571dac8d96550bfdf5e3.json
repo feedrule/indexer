@@ -1,0 +1,22 @@
+{
+  "url": "https://aeturrell.com/atom.xml",
+  "title": "Arthur Turrell",
+  "subtitle": "{{ }}",
+  "site": "https://www.aeturrell.com/atom.html",
+  "bytes": 460853,
+  "last": "2026-09-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "productivity",
+    "ai-productivity",
+    "economics",
+    "data-science"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

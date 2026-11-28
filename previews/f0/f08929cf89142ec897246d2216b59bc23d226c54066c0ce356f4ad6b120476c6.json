@@ -1,0 +1,21 @@
+{
+  "url": "https://hiphish.github.io/blog/rss",
+  "title": "HiPhish's Workshop: Blog",
+  "subtitle": "Software projects, various thoughts and ramblings",
+  "site": "https://hiphish.github.io/",
+  "bytes": 68659,
+  "last": "2026-05-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "neovim",
+    "open-source",
+    "vim"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f0/f08929cf89142ec897246d2216b59bc23d226c54066c0ce356f4ad6b120476c6.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://bogoyavlensky.com/feed.xml",
+  "title": "Blog of Andrey Bogoyavlenskiy",
+  "subtitle": "Notes mostly about programming",
+  "site": "https://bogoyavlensky.com/",
+  "bytes": 6881,
+  "last": "2026-11-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojure",
+    "clojurescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bf/bfe9b076bc04ec76b4609f65d23a1df643f09a762bfc26dc1ac213a26edabaf8.json"
+}

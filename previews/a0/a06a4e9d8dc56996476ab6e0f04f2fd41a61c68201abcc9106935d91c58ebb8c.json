@@ -1,0 +1,20 @@
+{
+  "url": "https://borischerny.com/feed.xml",
+  "title": "Boris Cherny’s Blog",
+  "subtitle": "Boris Cherny's blog. Software engineer at Anthropic, creator of Claude Code, and author of O'Reilly's Programming TypeScript. Writing about software, TypeScript, and whatever else is on my mind.",
+  "site": "https://borischerny.com/",
+  "bytes": 79141,
+  "last": "2026-09-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "technical-writing",
+    "typescript"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a0/a06a4e9d8dc56996476ab6e0f04f2fd41a61c68201abcc9106935d91c58ebb8c.json"
+}

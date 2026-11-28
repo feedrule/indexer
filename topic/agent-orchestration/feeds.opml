@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>agent-orchestration feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="agentproto blog" title="agentproto blog" xmlUrl="https://agentproto.sh/blog/rss.xml" htmlUrl="https://agentproto.sh/blog"/>
+    <outline type="rss" text="Blog | Tomáš Tomeček" title="Blog | Tomáš Tomeček" xmlUrl="https://blog.tomecek.net/index.xml" htmlUrl="https://blog.tomecek.net/"/>
+    <outline type="rss" text="Curious hiker" title="Curious hiker" xmlUrl="https://curious-hiker.blogspot.com/feeds/posts/default" htmlUrl="https://curious-hiker.blogspot.com/"/>
+    <outline type="rss" text="Dave Voyles" title="Dave Voyles" xmlUrl="https://davevoyles.com/index.xml" htmlUrl="https://davevoyles.com/"/>
+    <outline type="rss" text="The Quality Forge" title="The Quality Forge" xmlUrl="https://forge-quality.dev/feed.xml" htmlUrl="https://forge-quality.dev"/>
+    <outline type="rss" text="Niklas Heidloff" title="Niklas Heidloff" xmlUrl="https://heidloff.net/feed.xml" htmlUrl="https://heidloff.net/"/>
+    <outline type="rss" text="hryuks" title="hryuks" xmlUrl="https://hryuks.fika.bar/rss.xml" htmlUrl="https://hryuks.fika.bar/"/>
+    <outline type="rss" text="Eugene Petrenko" title="Eugene Petrenko" xmlUrl="https://jonnyzzz.com/feed.xml" htmlUrl="https://jonnyzzz.comhttps://jonnyzzz.com/"/>
+    <outline type="rss" text="Roland Huß" title="Roland Huß" xmlUrl="https://ro14nd.de/index.xml" htmlUrl="https://ro14nd.de/"/>
+    <outline type="rss" text="Thorin Tabor" title="Thorin Tabor" xmlUrl="https://tmtabor.io/feeds/all.atom.xml" htmlUrl="https://tmtabor.io/"/>
+    <outline type="rss" text="Zhuohan’s Homepage" title="Zhuohan’s Homepage" xmlUrl="https://zhuohangu.github.io/feed" htmlUrl="https://zhuohangu.github.io/"/>
+  </body>
+</opml>

@@ -1,0 +1,19 @@
+{
+  "url": "https://theobori.cafe/feed.xml",
+  "title": "Théo Bori",
+  "subtitle": "Personal website with some archives",
+  "site": "https://theobori.cafe",
+  "bytes": 504143,
+  "last": "2026-09-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/76/760c217bd17ee01eb1860062a9ae02deded38b09f7d9e66a6e7f3f6b29ecce33.json"
+}

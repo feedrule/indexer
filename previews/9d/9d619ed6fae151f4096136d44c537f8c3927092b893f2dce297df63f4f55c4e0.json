@@ -1,0 +1,23 @@
+{
+  "url": "https://holowczak.com/feed/",
+  "title": "Holowczak.com Tutorials",
+  "subtitle": "Database and Programming tutorials",
+  "site": "https://holowczak.com",
+  "bytes": 35487,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "google-cloud",
+    "cloud",
+    "database",
+    "data-engineering",
+    "bigquery"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/9d/9d619ed6fae151f4096136d44c537f8c3927092b893f2dce297df63f4f55c4e0.json"
+}

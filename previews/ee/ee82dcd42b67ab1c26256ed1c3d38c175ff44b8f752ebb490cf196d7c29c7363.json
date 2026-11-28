@@ -1,0 +1,19 @@
+{
+  "url": "https://www.football-espana.net/feed",
+  "title": "Football España",
+  "subtitle": "The home of Spanish football",
+  "site": "https://www.football-espana.net/",
+  "bytes": 77993,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "barcelona"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ee/ee82dcd42b67ab1c26256ed1c3d38c175ff44b8f752ebb490cf196d7c29c7363.json"
+}

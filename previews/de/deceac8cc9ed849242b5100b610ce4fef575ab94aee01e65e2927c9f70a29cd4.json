@@ -1,0 +1,19 @@
+{
+  "url": "https://danielmschmidt.de/rss.xml",
+  "title": "Daniel Schmidt's Blog",
+  "subtitle": "Technical blog by Daniel Schmidt, Terraform Core engineer at HashiCorp. Deep dives into Terraform internals, Go, Rust, and infrastructure as code.",
+  "site": "https://danielmschmidt.de/",
+  "bytes": 15830,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "terraform"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

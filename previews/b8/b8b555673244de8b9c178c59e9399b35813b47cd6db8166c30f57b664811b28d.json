@@ -1,0 +1,19 @@
+{
+  "url": "https://rgbcu.be/blog.rss",
+  "title": "RGBCube",
+  "subtitle": "The home directory and journal of RGBCube and his work.",
+  "site": "https://rgbcu.be/",
+  "bytes": 89247,
+  "last": "2026-06-13",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nix"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b8/b8b555673244de8b9c178c59e9399b35813b47cd6db8166c30f57b664811b28d.json"
+}

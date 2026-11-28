@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.horner.tj/rss/",
+  "title": "TJ's Blog",
+  "subtitle": "This is where I write words tangentially related to technology.",
+  "site": "https://blog.horner.tj/",
+  "bytes": 171840,
+  "last": "2026-02-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "new-technology",
+    "smart-home"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3a/3a98ce6410ea5e93a421da8688b2ee69a2c37a8cc9a74b7081b0cd524702bb4f.json"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>amp feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ju's Blog" title="Ju's Blog" xmlUrl="https://blog.ju.wtf/index.xml" htmlUrl="https://blog.ju.wtf/"/>
+    <outline type="rss" text="Darwin's Cat Blog" title="Darwin's Cat Blog" xmlUrl="https://darwinscat.com/blog/rss.xml" htmlUrl="https://darwinscat.com/blog"/>
+    <outline type="rss" text="hifisonix" title="hifisonix" xmlUrl="https://www.hifisonix.com/feed/" htmlUrl="https://www.hifisonix.com"/>
+  </body>
+</opml>

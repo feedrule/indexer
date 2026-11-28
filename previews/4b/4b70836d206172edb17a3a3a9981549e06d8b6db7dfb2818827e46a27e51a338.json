@@ -1,0 +1,20 @@
+{
+  "url": "http://feeds.feedburner.com/psblog",
+  "title": "PlayStation.Blog",
+  "subtitle": "Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more.",
+  "site": "https://blog.playstation.com",
+  "bytes": 131626,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "playstation",
+    "ps5"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4b/4b70836d206172edb17a3a3a9981549e06d8b6db7dfb2818827e46a27e51a338.json"
+}

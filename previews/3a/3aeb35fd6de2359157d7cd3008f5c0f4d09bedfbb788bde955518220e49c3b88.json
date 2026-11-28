@@ -1,0 +1,21 @@
+{
+  "url": "https://winther.sysctl.dk/atom/",
+  "title": "winther blog",
+  "subtitle": "I am a 40 year old man from Denmark and I blog about various topics such as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.",
+  "site": "https://winther.sysctl.dk/",
+  "bytes": 58567,
+  "last": "2026-11-08",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "travel",
+    "music",
+    "movies"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3a/3aeb35fd6de2359157d7cd3008f5c0f4d09bedfbb788bde955518220e49c3b88.json"
+}

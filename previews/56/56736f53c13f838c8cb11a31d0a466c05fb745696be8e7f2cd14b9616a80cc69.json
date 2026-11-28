@@ -1,0 +1,20 @@
+{
+  "url": "https://arbourtrary.com/feed/rss",
+  "title": "Arbourtrary RSS Feed",
+  "subtitle": "Trying out a couple concepts. Writing about nature, tech, poetry, mathematics. Providing safe arbour in a darkening forest.",
+  "site": "https://arbourtrary.com",
+  "bytes": 317227,
+  "last": "2026-11-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nature-writing",
+    "poetry"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/56/56736f53c13f838c8cb11a31d0a466c05fb745696be8e7f2cd14b9616a80cc69.json"
+}

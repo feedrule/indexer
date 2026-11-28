@@ -1,0 +1,19 @@
+{
+  "url": "https://telliott.me/rss.xml",
+  "title": "telliott.me | Blog",
+  "subtitle": "Writings about CI/CD, DevOps and other software engineering topics",
+  "site": "https://telliott.me/",
+  "bytes": 12098,
+  "last": "2026-04-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "git"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/c1/c11e9aac7ed99bb9bf7d4f60815658ab3ccfb054e15e199a43e43637a929e123.json"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.ammaraskar.com/feed.xml",
+  "title": "Ammar’s Blog",
+  "subtitle": "My blog, mostly about programming",
+  "site": "https://blog.ammaraskar.com/",
+  "bytes": 246065,
+  "last": "2026-06-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "indie-hacking",
+    "security",
+    "reverse-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/93/932abd733eec88622e07fc3c977bdb6d1c9b2ef1031c3b3529609e723f44a5a1.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.tauceti.blog/index.xml",
+  "title": "TauCeti blog",
+  "subtitle": "TauCeti blog",
+  "site": "https://www.tauceti.blog/",
+  "bytes": 6720,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ansible"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

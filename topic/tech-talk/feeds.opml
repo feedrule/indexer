@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>tech-talk feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="fred talks" title="fred talks" xmlUrl="https://anuratype.bearblog.dev/feed/" htmlUrl="https://anuratype.bearblog.dev/"/>
+    <outline type="rss" text="Little bit of Tech" title="Little bit of Tech" xmlUrl="https://cameronregan.com/feed.xml" htmlUrl="https://cameronregan.com/"/>
+    <outline type="rss" text="Techinch | Latest Articles" title="Techinch | Latest Articles" xmlUrl="https://techinch.com/feed" htmlUrl="https://techinch.com"/>
+    <outline type="rss" text="tenticle" title="tenticle" xmlUrl="https://tenticle.dev/atom.xml" htmlUrl="https://tenticle.dev"/>
+    <outline type="rss" text="Usama" title="Usama" xmlUrl="https://usama.leaflet.pub/atom" htmlUrl="https://usama.leaflet.pub"/>
+    <outline type="rss" text="i hate the future" title="i hate the future" xmlUrl="https://www.ihatethefuture.com/feeds/posts/default" htmlUrl="https://www.ihatethefuture.com/"/>
+    <outline type="rss" text="Talking Tech" title="Talking Tech" xmlUrl="https://www.talking.tech/rss/" htmlUrl="https://www.talking.tech/"/>
+  </body>
+</opml>

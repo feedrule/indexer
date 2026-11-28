@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.ricegeo.dev/atom.xml",
+  "title": "Geodata Ramblings Blog",
+  "subtitle": "Geodata Ramblings Blog",
+  "site": "https://ricegeo.dev/",
+  "bytes": 298756,
+  "last": "2026-03-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "geospatial",
+    "linux",
+    "cloud",
+    "development",
+    "technology"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/72/72840d33b9bc227faa2363a332849fa2daf17c640ed0a971ac726b3c59448408.json"
+}

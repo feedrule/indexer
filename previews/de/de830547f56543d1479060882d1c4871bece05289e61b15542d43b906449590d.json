@@ -1,0 +1,22 @@
+{
+  "url": "http://feeds.feedburner.com/GoogleOpenSourceBlog",
+  "title": "Google Open Source Blog",
+  "subtitle": "News about Google's Open Source projects and programs.",
+  "site": "http://opensource.googleblog.com/",
+  "bytes": 426091,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "tooling",
+    "cloud",
+    "ai"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

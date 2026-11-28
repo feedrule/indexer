@@ -1,0 +1,20 @@
+{
+  "url": "https://fariszr.com/index.xml",
+  "title": "Home on FarisZR",
+  "subtitle": "Recent content in Home on FarisZR",
+  "site": "https://fariszr.com/",
+  "bytes": 429453,
+  "last": "2026-04-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker",
+    "docker-compose"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0b/0bb783895df9502ba134ff791cebb26891400a361d12945f47d8db549a4eaa0e.json"
+}

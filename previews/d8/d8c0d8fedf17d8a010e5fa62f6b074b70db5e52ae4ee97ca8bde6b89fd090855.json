@@ -1,0 +1,19 @@
+{
+  "url": "https://svendewaerhert.com/rss.xml",
+  "title": "Sven De Waerhert - Technical Blog",
+  "subtitle": "Engineering adventures and technical problem-solving",
+  "site": "https://www.svendewaerhert.com",
+  "bytes": 7229,
+  "last": "2026-02-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "prompt-engineering"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d8/d8c0d8fedf17d8a010e5fa62f6b074b70db5e52ae4ee97ca8bde6b89fd090855.json"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.arv.tools/atom.xml",
+  "title": "arv-o-matic",
+  "subtitle": "The Weblog of Erik Arvidsson",
+  "site": "https://blog.arv.tools/",
+  "bytes": 90444,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "javascript",
+    "chrome"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/10/103041c0a407e08b5e8b83d88f6c88a8d96a7f4ed07c67948fe942cf07d454f0.json"
+}

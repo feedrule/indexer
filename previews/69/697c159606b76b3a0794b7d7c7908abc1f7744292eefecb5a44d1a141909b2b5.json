@@ -1,0 +1,23 @@
+{
+  "url": "https://stolee.dev/feed",
+  "title": "Stolee’s Dev Blog",
+  "subtitle": "The personal developer blog of Derrick Stolee",
+  "site": "https://stolee.dev/",
+  "bytes": 89517,
+  "last": "2025-12-31",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "developer",
+    "devlog",
+    "development",
+    "indie-dev",
+    "tooling"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

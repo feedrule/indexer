@@ -1,0 +1,19 @@
+{
+  "url": "https://somedudesays.com/feed/",
+  "title": "Some Dude Says",
+  "subtitle": "Bemused ramblings some dude says on the internet",
+  "site": "https://somedudesays.com/",
+  "bytes": 17183,
+  "last": "2026-03-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "chess"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3f/3f184b7de73391d763ee7396fc7f976b05aadfc1f57d63b9993c3bf117753648.json"
+}

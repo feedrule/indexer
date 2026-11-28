@@ -1,0 +1,22 @@
+{
+  "url": "https://arnebaeyens.com/feed.xml",
+  "title": "Arne Baeyens’ website",
+  "subtitle": "Robotics blog, projects and more",
+  "site": "https://arnebaeyens.com/",
+  "bytes": 229069,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "robotics",
+    "ros",
+    "software",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/69/693b449c46f4f360d2ad33b504fdd08fc92a4363a8130ed6913eeb88d07208ba.json"
+}

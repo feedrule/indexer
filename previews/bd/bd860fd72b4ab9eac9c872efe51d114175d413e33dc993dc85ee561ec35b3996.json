@@ -1,0 +1,22 @@
+{
+  "url": "https://matheja.me/feed.xml",
+  "title": "Ben Matheja",
+  "subtitle": "Ben Matheja is a product manager who still builds: he shares how he runs platforms at home and works with AI, and shows what he can do.",
+  "site": "https://matheja.me/",
+  "bytes": 246511,
+  "last": "2026-10-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "terraform",
+    "homelab",
+    "ansible",
+    "cloudflare"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bd/bd860fd72b4ab9eac9c872efe51d114175d413e33dc993dc85ee561ec35b3996.json"
+}

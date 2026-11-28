@@ -1,0 +1,21 @@
+{
+  "url": "https://alexschapiro.com/feed.xml",
+  "title": "Alex Schapiro",
+  "subtitle": "Security research, ethical hacking, and building stuff.",
+  "site": "https://alexschapiro.com/",
+  "bytes": 62336,
+  "last": "2026-11-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacking",
+    "security",
+    "vulnerability"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bd/bd61214ff098c7a2613b0b9389c47a66d6dd0e9922e5a504f7969e6338117ceb.json"
+}

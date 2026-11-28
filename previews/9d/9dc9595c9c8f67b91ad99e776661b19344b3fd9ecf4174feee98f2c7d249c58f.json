@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.thms.uk/rss.xml",
+  "title": "blog.thms.uk",
+  "subtitle": "Michael's blog",
+  "site": "https://blog.thms.uk/",
+  "bytes": 230187,
+  "last": "2026-11-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "self-hosting",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/9d/9dc9595c9c8f67b91ad99e776661b19344b3fd9ecf4174feee98f2c7d249c58f.json"
+}

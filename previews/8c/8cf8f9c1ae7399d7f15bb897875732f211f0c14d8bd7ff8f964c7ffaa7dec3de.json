@@ -1,0 +1,22 @@
+{
+  "url": "https://www.torgo.com/blog/feed",
+  "title": "Dan's Blog",
+  "subtitle": "Musings on technology, the Web, mobility and beyond",
+  "site": "https://www.torgo.com/blog",
+  "bytes": 104266,
+  "last": "2026-06-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "web",
+    "technology",
+    "fediverse",
+    "w3c"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/8c/8cf8f9c1ae7399d7f15bb897875732f211f0c14d8bd7ff8f964c7ffaa7dec3de.json"
+}

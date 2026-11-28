@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>symfony feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Alexandre Daubois, blog" title="Alexandre Daubois, blog" xmlUrl="https://daubois.dev/feed.xml" htmlUrl="https://daubois.dev/blog/"/>
+    <outline type="rss" text="Loïc Faugeron" title="Loïc Faugeron" xmlUrl="https://gnugat.github.io/feed/atom.xml" htmlUrl="https://gnugat.github.io/"/>
+    <outline type="rss" text="Jurgens du Toit" title="Jurgens du Toit" xmlUrl="https://jrgns.net/atom.xml" htmlUrl="https://jrgns.net/"/>
+    <outline type="rss" text="Hasse Ramlev Wilson" title="Hasse Ramlev Wilson" xmlUrl="https://notes.ramlev.com/feed.xml" htmlUrl="https://notes.ramlev.com/"/>
+    <outline type="rss" text="Supun's Blog" title="Supun's Blog" xmlUrl="https://supun.io/feed" htmlUrl="https://supun.io"/>
+    <outline type="rss" text="Read about upgrades, static analysis, GPT, Symfony and Laravel" title="Read about upgrades, static analysis, GPT, Symfony and Laravel" xmlUrl="https://tomasvotruba.com/rss" htmlUrl="https://tomasvotruba.com"/>
+    <outline type="rss" text="Wouter J" title="Wouter J" xmlUrl="https://wouterj.nl/feed.xml" htmlUrl="https://wouterj.nl/"/>
+    <outline type="rss" text="ptrdev()" title="ptrdev()" xmlUrl="https://www.ptrdev.com/rss/" htmlUrl="https://www.ptrdev.com/"/>
+    <outline type="rss" text="Seastone" title="Seastone" xmlUrl="https://www.seastone.io/rss/" htmlUrl="https://www.seastone.io/"/>
+  </body>
+</opml>

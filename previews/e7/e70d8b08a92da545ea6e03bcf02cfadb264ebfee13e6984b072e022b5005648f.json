@@ -1,0 +1,21 @@
+{
+  "url": "https://devgeist.com/blog/rss.xml",
+  "title": "devgeist — blog",
+  "subtitle": "Notes on software engineering.",
+  "site": "https://devgeist.com/blog/",
+  "bytes": 6053,
+  "last": "2026-07-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kafka",
+    "testing",
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

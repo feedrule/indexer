@@ -1,0 +1,19 @@
+{
+  "url": "https://parrik.com/rss.xml",
+  "title": "parrik",
+  "subtitle": "Essays on distributed systems, biology, and the practice.",
+  "site": "https://parrik.com/",
+  "bytes": 978,
+  "last": "2026-07-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "distributed-systems"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://zeybek.dev/rss.xml",
+  "title": "Ahmet Zeybek",
+  "subtitle": "Notes on backend engineering, Postgres, AI agents in production and the JavaScript toolchain, plus a short tip every day.",
+  "site": "https://zeybek.dev/",
+  "bytes": 380250,
+  "last": "2026-10-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "agentic-workflows",
+    "ai-agents",
+    "postgresql"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/49/49e63c96e7a6fe146dc46239764549c6ce93b5e3bc06cd778f459a7bc26d452f.json"
+}

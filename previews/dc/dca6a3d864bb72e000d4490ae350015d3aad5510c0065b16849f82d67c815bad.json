@@ -1,0 +1,21 @@
+{
+  "url": "https://1000songs.co.uk/feed",
+  "title": "1000 Songs - Sonic Archive Updates",
+  "subtitle": "Latest updates, news, and community comments from the 1000 Songs archive.",
+  "site": "https://1000songs.co.uk",
+  "bytes": 15151,
+  "last": "2026-11-20",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "music-review",
+    "podcast",
+    "new-music"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/dc/dca6a3d864bb72e000d4490ae350015d3aad5510c0065b16849f82d67c815bad.json"
+}

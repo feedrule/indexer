@@ -1,0 +1,19 @@
+{
+  "url": "https://jkroepke.de/index.xml",
+  "title": "Personal Blog | Jan-Otto Kröpke",
+  "subtitle": "Technical articles about Kubernetes, cloud-native infrastructure, observability, platform engineering, containers, security, and open source.",
+  "site": "https://jkroepke.de/",
+  "bytes": 8225,
+  "last": "2026-10-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

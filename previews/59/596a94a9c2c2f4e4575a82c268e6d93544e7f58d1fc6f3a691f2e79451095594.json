@@ -1,0 +1,19 @@
+{
+  "url": "https://botsinproduction.com/rss.xml",
+  "title": "Bots in Production",
+  "subtitle": "I'm not a developer. I run 17 bots, built with Claude Code, inside a real B2B company anyway. Here's what works, what it costs (US$100), and what fell over at 3am.",
+  "site": "https://botsinproduction.com/",
+  "bytes": 13994,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "chatbot"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/59/596a94a9c2c2f4e4575a82c268e6d93544e7f58d1fc6f3a691f2e79451095594.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.afandian.com/index.xml",
+  "title": "Joe's Blog",
+  "subtitle": "Recent content on Joe's Blog",
+  "site": "http://localhost:1313/",
+  "bytes": 164855,
+  "last": "2026-10-18",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "boats"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/6b/6b45cb597cb495ed4e4b9c7d499e10a405e32cd60e20ed396b9e679ae720e4ef.json"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>serverless feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="ZeroSharp" title="ZeroSharp" xmlUrl="https://blog.zerosharp.com/index.xml" htmlUrl="https://www.zerosharp.com/"/>
+    <outline type="rss" text="Darryl's World of Cloud" title="Darryl's World of Cloud" xmlUrl="https://darryl-ruggles.cloud/feed.xml" htmlUrl="https://darryl-ruggles.cloud"/>
+    <outline type="rss" text="David Wells - Everything" title="David Wells - Everything" xmlUrl="https://davidwells.io/feeds/all.xml" htmlUrl="https://davidwells.io"/>
+    <outline type="rss" text="JeremyDaly.com" title="JeremyDaly.com" xmlUrl="https://jeremydaly.com/feed.xml" htmlUrl="https://www.jeremydaly.com/"/>
+    <outline type="rss" text="James Ross" title="James Ross" xmlUrl="https://jross.me/rss" htmlUrl="https://jross.me/"/>
+    <outline type="rss" text="Matthieu Napoli's blog" title="Matthieu Napoli's blog" xmlUrl="https://mnapoli.fr/atom.xml"/>
+    <outline type="rss" text="Sönke Ruempler" title="Sönke Ruempler" xmlUrl="https://ruempler.eu/atom.xml" htmlUrl="https://ruempler.eu/"/>
+    <outline type="rss" text="Serverless DNA" title="Serverless DNA" xmlUrl="https://serverlessdna.com/rss.xml" htmlUrl="https://serverlessdna.com"/>
+    <outline type="rss" text="Slobodan Stojanović" title="Slobodan Stojanović" xmlUrl="https://slobodan.me/index.xml" htmlUrl="https://slobodan.me/"/>
+    <outline type="rss" text="theburningmonk.com" title="theburningmonk.com" xmlUrl="https://theburningmonk.com/feed/"/>
+    <outline type="rss" text="Serverless Life" title="Serverless Life" xmlUrl="https://www.serverlesslife.com/rss.xml" htmlUrl="https://www.serverlesslife.com"/>
+  </body>
+</opml>

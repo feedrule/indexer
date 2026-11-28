@@ -1,0 +1,20 @@
+{
+  "url": "https://www.wshoffner.dev/rss.xml",
+  "title": "wshoffner.dev",
+  "subtitle": "Workshop of Wes Shoffner — writing on infrastructure, AI agents, and game design.",
+  "site": "https://www.wshoffner.dev/blog",
+  "bytes": 19233,
+  "last": "2026-08-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai",
+    "open-source"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

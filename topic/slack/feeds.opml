@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>slack feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Alien Pastures" title="Alien Pastures" xmlUrl="https://blog.slackware.nl/feed/" htmlUrl="https://blog.slackware.nl/"/>
+    <outline type="rss" text="Building Slack" title="Building Slack" xmlUrl="https://buildingslack.com/rss/" htmlUrl="https://buildingslack.com/"/>
+    <outline type="rss" text="Bedlington Manor" title="Bedlington Manor" xmlUrl="https://gslewis.id.au/feed.xml" htmlUrl="https://gslewis.id.au"/>
+    <outline type="rss" text="Slack Design" title="Slack Design" xmlUrl="https://slack.design/feed/" htmlUrl="https://slack.design"/>
+    <outline type="rss" text="Engineering at Slack" title="Engineering at Slack" xmlUrl="https://slack.engineering/feed" htmlUrl="https://slack.engineering"/>
+    <outline type="rss" text="Vitalii Elenhaupt" title="Vitalii Elenhaupt" xmlUrl="https://veelenga.github.io/feed.xml" htmlUrl="https://veelenga.github.io/"/>
+    <outline type="rss" text="PaperMtn" title="PaperMtn" xmlUrl="https://www.papermtn.co.uk/rss/" htmlUrl="https://www.papermtn.co.uk/"/>
+  </body>
+</opml>

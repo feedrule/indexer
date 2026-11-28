@@ -1,0 +1,21 @@
+{
+  "url": "https://shrikar.com/rss.xml",
+  "title": "Shrikar Archak",
+  "subtitle": "Long-form writing on AI-native development, fine-tuning, agents, evals, and Claude Code.",
+  "site": "https://shrikar.com/",
+  "bytes": 11527,
+  "last": "2026-08-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "ai-agents",
+    "fine-tuning",
+    "evals"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

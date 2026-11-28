@@ -1,0 +1,22 @@
+{
+  "url": "https://righteousit.com/feed/",
+  "title": "Righteous IT",
+  "subtitle": "Join the crusade!",
+  "site": "https://righteousit.com",
+  "bytes": 159486,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unix",
+    "linux",
+    "filesystem",
+    "forensics"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

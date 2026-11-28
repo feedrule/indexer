@@ -1,0 +1,20 @@
+{
+  "url": "https://blog.prismatic.pink/feed/",
+  "title": "Prismatic Blog",
+  "subtitle": null,
+  "site": "https://blog.prismatic.pink/",
+  "bytes": 32100,
+  "last": "2026-07-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "indieweb",
+    "travel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/7f/7fb85a63e26d59dcd9a9d1203581137a6b08bf343c0f8fcf2080a9643760cf5c.json"
+}

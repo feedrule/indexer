@@ -1,0 +1,19 @@
+{
+  "url": "https://komar.blog/atom.xml",
+  "title": "~/komar",
+  "subtitle": "NixOS, Neovim, Rust and mechanical keyboards — build logs, teardowns and programming notes by Michał Trybus.",
+  "site": "https://komar.blog",
+  "bytes": 281891,
+  "last": "2026-10-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "mechanical-keyboards"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4a/4aac02720192d2211493e3dcdc759200357fad755f250e6ee76c7ec28e132eb2.json"
+}

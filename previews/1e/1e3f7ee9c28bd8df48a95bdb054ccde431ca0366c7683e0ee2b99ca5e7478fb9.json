@@ -1,0 +1,19 @@
+{
+  "url": "https://unclex.net/rss.xml",
+  "title": "Uncle X",
+  "subtitle": "Essays and technical notes about projects, design decisions, and engineering philosophy.",
+  "site": "https://unclex.net",
+  "bytes": 3834,
+  "last": "2026-10-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "emacs"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1e/1e3f7ee9c28bd8df48a95bdb054ccde431ca0366c7683e0ee2b99ca5e7478fb9.json"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>delhi feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Aruninte Blog" title="Aruninte Blog" xmlUrl="https://aruninte.blogspot.com/feeds/posts/default" htmlUrl="https://aruninte.blogspot.com/"/>
+    <outline type="rss" text="Delhi Greens Blog" title="Delhi Greens Blog" xmlUrl="https://delhigreens.com/feed/" htmlUrl="https://delhigreens.com/"/>
+    <outline type="rss" text="Swarajya" title="Swarajya" xmlUrl="https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml" htmlUrl="https://swarajyamag.com"/>
+    <outline type="rss" text="Reality Check India" title="Reality Check India" xmlUrl="https://realitycheck.wordpress.com/feed/" htmlUrl="https://realitycheck.wordpress.com"/>
+    <outline type="rss" text="sks" title="sks" xmlUrl="https://sks.bearblog.dev/atom.xml" htmlUrl="https://sks.bearblog.dev/"/>
+    <outline type="rss" text="The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos." title="The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos." xmlUrl="https://www.thehindu.com/feeder/default.rss" htmlUrl="https://www.thehindu.com/"/>
+  </body>
+</opml>

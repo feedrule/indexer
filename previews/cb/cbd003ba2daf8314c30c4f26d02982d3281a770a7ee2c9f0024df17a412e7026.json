@@ -1,0 +1,21 @@
+{
+  "url": "https://blog.taylorwood.io/feed.xml",
+  "title": "Taylor ≈ Programmer",
+  "subtitle": "I love programming.",
+  "site": "https://blog.taylorwood.io/",
+  "bytes": 523727,
+  "last": "2026-06-19",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "clojurescript",
+    "clojure",
+    "parsing"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cb/cbd003ba2daf8314c30c4f26d02982d3281a770a7ee2c9f0024df17a412e7026.json"
+}

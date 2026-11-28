@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>best-practices feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ramblings" title="Ramblings" xmlUrl="https://adragon.bearblog.dev/feed/" htmlUrl="https://adragon.bearblog.dev/"/>
+    <outline type="rss" text="Paul's Little Website" title="Paul's Little Website" xmlUrl="https://paul-brenner.github.io/index.xml" htmlUrl="https://paul-brenner.github.io/"/>
+    <outline type="rss" text="Ingenious Malarkey" title="Ingenious Malarkey" xmlUrl="https://www.ingeniousmalarkey.com/feeds/posts/default" htmlUrl="https://www.ingeniousmalarkey.com/"/>
+    <outline type="rss" text="Sarah Savage" title="Sarah Savage" xmlUrl="https://www.sarah-savage.com/feed/" htmlUrl="https://www.sarah-savage.com"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>joins feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Ben Gribaudo" title="Ben Gribaudo" xmlUrl="https://bengribaudo.com/feed" htmlUrl="https://bengribaudo.com"/>
+    <outline type="rss" text="Jacob Mastel" title="Jacob Mastel" xmlUrl="https://mastel.org/feeds/all.atom.xml" htmlUrl="https://mastel.org/"/>
+    <outline type="rss" text="Philipp Salvisberg's Blog" title="Philipp Salvisberg's Blog" xmlUrl="https://www.salvis.com/blog/feed/atom/" htmlUrl="https://www.salvis.com/blog/"/>
+  </body>
+</opml>

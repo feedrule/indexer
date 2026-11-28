@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>risk-management feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="all about GRC" title="all about GRC" xmlUrl="https://allaboutgrc.com/feed/atom/" htmlUrl="https://allaboutgrc.com"/>
+    <outline type="rss" text="Freakonometrics" title="Freakonometrics" xmlUrl="https://freakonometrics.hypotheses.org/feed" htmlUrl="https://freakonometrics.hypotheses.org"/>
+    <outline type="rss" text="jacobian.org" title="jacobian.org" xmlUrl="https://jacobian.org/index.xml" htmlUrl="https://jacobian.org/"/>
+    <outline type="rss" text="The IT Risk Manager" title="The IT Risk Manager" xmlUrl="https://theitriskmanager.com/feed/" htmlUrl="https://theitriskmanager.com"/>
+    <outline type="rss" text="Thom Langford" title="Thom Langford" xmlUrl="https://thomlangford.com/feed/" htmlUrl="https://thomlangford.com"/>
+    <outline type="rss" text="JulianTalbot.com" title="JulianTalbot.com" xmlUrl="https://www.juliantalbot.com/blog-feed.xml" htmlUrl="https://www.juliantalbot.com/articles"/>
+  </body>
+</opml>

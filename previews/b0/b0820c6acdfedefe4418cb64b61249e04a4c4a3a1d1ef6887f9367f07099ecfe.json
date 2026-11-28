@@ -1,0 +1,20 @@
+{
+  "url": "https://infosec.rodeo/feed.xml",
+  "title": "infosec.rodeo",
+  "subtitle": "Research & Musings, Archive",
+  "site": "https://infosec.rodeo",
+  "bytes": 3560,
+  "last": "2026-09-25",
+  "languages": [
+    "en",
+    "pl"
+  ],
+  "topics": [
+    "security"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/b0/b0820c6acdfedefe4418cb64b61249e04a4c4a3a1d1ef6887f9367f07099ecfe.json"
+}

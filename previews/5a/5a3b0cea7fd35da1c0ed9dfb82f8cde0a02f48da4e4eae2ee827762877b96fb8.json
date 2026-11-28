@@ -1,0 +1,23 @@
+{
+  "url": "https://automationpanda.com/feed/atom/",
+  "title": "Automation Panda",
+  "subtitle": "A blog for software development and testing",
+  "site": "https://automationpanda.com",
+  "bytes": 131939,
+  "last": "2026-04-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "testing",
+    "automation",
+    "development",
+    "bdd",
+    "ai"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://acid.vegas/blog/feed.xml",
+  "title": "acidvegas x blog",
+  "subtitle": "write-ups on internet anomalies, DNS research, threat intelligence, and hacking",
+  "site": "https://acid.vegas/blog/",
+  "bytes": 3652,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "dns",
+    "ddos"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

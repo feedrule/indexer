@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>observability feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Engineering Blog" title="Engineering Blog" xmlUrl="https://performanceengineeringin.wordpress.com/feed/" htmlUrl="https://performanceengineeringin.wordpress.com"/>
+    <outline type="rss" text="Shiplog" title="Shiplog" xmlUrl="https://shiplog.nspain.dev/rss.xml" htmlUrl="https://shiplog.dev"/>
+    <outline type="rss" text="Blog on svrnm :: Severin Neumann" title="Blog on svrnm :: Severin Neumann" xmlUrl="https://svrnm.com/blog/index.xml" htmlUrl="https://svrnm.com/blog/"/>
+  </body>
+</opml>

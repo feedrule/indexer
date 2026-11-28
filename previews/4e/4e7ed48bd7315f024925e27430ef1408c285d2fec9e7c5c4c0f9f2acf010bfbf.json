@@ -1,0 +1,19 @@
+{
+  "url": "https://antoine.vandecreme.net/atom.xml",
+  "title": "Antoine Vandecrème",
+  "subtitle": "Antoine Vandecrème personal site. Mostly about programming.",
+  "site": "https://antoine.vandecreme.net/",
+  "bytes": 189335,
+  "last": "2026-07-12",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "rust"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4e/4e7ed48bd7315f024925e27430ef1408c285d2fec9e7c5c4c0f9f2acf010bfbf.json"
+}

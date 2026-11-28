@@ -1,0 +1,19 @@
+{
+  "url": "https://rosecurify.com/feed/blog.xml",
+  "title": "Rosecurify - Blog",
+  "subtitle": "Security research, vulnerability disclosures, and application security insights.",
+  "site": "https://rosecurify.com/",
+  "bytes": 10761,
+  "last": "2026-01-10",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "vulnerability-research"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/1b/1b55a5b3364585bdd5a0cf04d3e058cfd1042f995a94dcf7c5f8e16e14266f63.json"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://alexanderweiss.dev/blog/rss.xml",
+  "title": "Alexander Weiß's blog feed",
+  "subtitle": "A blog by Alexander Weiß about mobile app development for iOS and Swift",
+  "site": "https://alexanderweiss.dev",
+  "bytes": 16519,
+  "last": "2026-10-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "swiftui"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/4d/4d4712674ec421825e1842212c2dea9b47486b094fe5082a88615cb5cfa8c3cd.json"
+}

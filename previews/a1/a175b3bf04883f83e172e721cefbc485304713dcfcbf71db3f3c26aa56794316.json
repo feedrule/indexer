@@ -1,0 +1,19 @@
+{
+  "url": "https://wgnradio.com/feed/",
+  "title": "WGN Radio 720 - Chicago's Very Own",
+  "subtitle": "Live and Local News, Talk, Sports, Traffic, Weather, Business, Blackhawks hockey, Northwestern football and basketball",
+  "site": "https://wgnradio.com",
+  "bytes": 27714,
+  "last": "2026-11-28",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nbc"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/a1/a175b3bf04883f83e172e721cefbc485304713dcfcbf71db3f3c26aa56794316.json"
+}

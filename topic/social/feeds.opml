@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>social feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="The Anti Social" title="The Anti Social" xmlUrl="https://aj.bourg.family/rss.xml" htmlUrl="https://aj.bourg.family"/>
+    <outline type="rss" text="Social coding commons | Blog" title="Social coding commons | Blog" xmlUrl="https://coding.social/blog/rss.xml" htmlUrl="https://coding.social/"/>
+    <outline type="rss" text="Doug Tarr’s Blog" title="Doug Tarr’s Blog" xmlUrl="https://douglastarr.com/feed.xml" htmlUrl="https://douglastarr.com/"/>
+    <outline type="rss" text="FORbetter" title="FORbetter" xmlUrl="https://forbetter.ghost.io/rss/" htmlUrl="https://forbetter.ghost.io/"/>
+    <outline type="rss" text="Y.K. Goon" title="Y.K. Goon" xmlUrl="https://ykgoon.com/feeds/all.atom.xml" htmlUrl="https://ykgoon.com/"/>
+  </body>
+</opml>

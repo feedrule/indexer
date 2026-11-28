@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>ipsec feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="rectalogic" title="rectalogic" xmlUrl="https://blog.rectalogic.com/feed.xml" htmlUrl="https://blog.rectalogic.com"/>
+    <outline type="rss" text="IP Draughts" title="IP Draughts" xmlUrl="https://ipdraughts.wordpress.com/feed/" htmlUrl="https://ipdraughts.wordpress.com"/>
+    <outline type="rss" text="KUBA" title="KUBA" xmlUrl="https://kubatyszko.com/feed/" htmlUrl="https://kubatyszko.com"/>
+    <outline type="rss" text="IPsec and Network Security" title="IPsec and Network Security" xmlUrl="https://linux-ipsec.org/feeds/all.atom.xml" htmlUrl="https://linux-ipsec.org/"/>
+    <outline type="rss" text="Weberblog.net" title="Weberblog.net" xmlUrl="https://weberblog.net/feed/" htmlUrl="https://weberblog.net"/>
+  </body>
+</opml>

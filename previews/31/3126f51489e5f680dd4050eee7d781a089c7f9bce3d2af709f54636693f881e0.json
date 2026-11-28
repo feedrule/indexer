@@ -1,0 +1,20 @@
+{
+  "url": "https://softuts.com/rss/",
+  "title": "Softuts",
+  "subtitle": "Tutorials, tips and code snippets for passionate software developers",
+  "site": "https://softuts.com/",
+  "bytes": 85381,
+  "last": "2026-01-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "docker-compose",
+    "docker"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/31/3126f51489e5f680dd4050eee7d781a089c7f9bce3d2af709f54636693f881e0.json"
+}

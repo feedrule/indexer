@@ -1,0 +1,22 @@
+{
+  "url": "https://metaredux.com/feed.xml",
+  "title": "Meta Redux",
+  "subtitle": "Writings on programming and open-source by Bozhidar Batsov, creator of RuboCop, CIDER, and Prelude.",
+  "site": "https://metaredux.com/",
+  "bytes": 199946,
+  "last": "2026-11-06",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "open-source",
+    "ruby",
+    "cider",
+    "clojure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

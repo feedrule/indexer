@@ -1,0 +1,22 @@
+{
+  "url": "https://arielorozco.com/rss.xml",
+  "title": "Ariel Orozco",
+  "subtitle": "Practical write-ups on backend architecture and system design.",
+  "site": "https://arielorozco.com",
+  "bytes": 161437,
+  "last": "2026-11-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "golang",
+    "software-design",
+    "software-architecture",
+    "design-patterns"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

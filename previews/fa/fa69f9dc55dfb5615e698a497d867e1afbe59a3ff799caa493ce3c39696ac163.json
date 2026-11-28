@@ -1,0 +1,21 @@
+{
+  "url": "https://www.kostasp.net/feed.xml",
+  "title": "Kostas's Blog",
+  "subtitle": "My thoughts written in digital ink.",
+  "site": "https://kostasp.net/",
+  "bytes": 11213,
+  "last": "2026-06-15",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "data-science",
+    "data-engineering",
+    "data-platform"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/fa/fa69f9dc55dfb5615e698a497d867e1afbe59a3ff799caa493ce3c39696ac163.json"
+}

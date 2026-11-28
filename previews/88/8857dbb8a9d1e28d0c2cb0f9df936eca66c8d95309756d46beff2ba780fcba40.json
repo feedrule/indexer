@@ -1,0 +1,20 @@
+{
+  "url": "https://akomljen.com/rss/",
+  "title": "Alen Komljen",
+  "subtitle": "Notes on platform engineering, infra costs, and AI. Cars on the side.",
+  "site": "https://akomljen.com/",
+  "bytes": 126333,
+  "last": "2026-07-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "aws"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

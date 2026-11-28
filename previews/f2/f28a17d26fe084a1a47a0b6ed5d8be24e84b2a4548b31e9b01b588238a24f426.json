@@ -1,0 +1,19 @@
+{
+  "url": "https://jtarchie.com/rss.xml",
+  "title": "https://jtarchie.com",
+  "subtitle": "feed for https://jtarchie.com",
+  "site": "https://jtarchie.com",
+  "bytes": 206589,
+  "last": "2026-10-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "golang"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/f2/f28a17d26fe084a1a47a0b6ed5d8be24e84b2a4548b31e9b01b588238a24f426.json"
+}

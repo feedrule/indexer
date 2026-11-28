@@ -1,0 +1,19 @@
+{
+  "url": "https://mickael.canouil.fr/blog.xml",
+  "title": "Mickaël CANOUIL",
+  "subtitle": "Posts on Quarto extensions and filters, Typst templates, R packages, and the tooling that keeps technical writing reproducible.",
+  "site": "https://mickael.canouil.fr/blog.html",
+  "bytes": 1850050,
+  "last": "2026-11-02",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "quarto"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/5b/5bd3e32062687cf683c73b5b98f004800493ce52cb0f8000cad75c9012421b0f.json"
+}

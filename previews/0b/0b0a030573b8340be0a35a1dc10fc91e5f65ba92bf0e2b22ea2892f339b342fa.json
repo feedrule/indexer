@@ -1,0 +1,20 @@
+{
+  "url": "https://alexlovendahl.com/feed/",
+  "title": "All My Friends",
+  "subtitle": "A blog about games, movies, music, life, unicorns",
+  "site": "https://alexlovendahl.com",
+  "bytes": 222096,
+  "last": "2026-03-14",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "movies",
+    "music"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/0b/0b0a030573b8340be0a35a1dc10fc91e5f65ba92bf0e2b22ea2892f339b342fa.json"
+}

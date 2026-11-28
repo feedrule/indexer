@@ -1,0 +1,20 @@
+{
+  "url": "https://paneflow.dev/feed.xml",
+  "title": "Paneflow Blog",
+  "subtitle": "Practical guides to working with coding agents and the technical choices behind Paneflow.",
+  "site": "https://paneflow.dev/blog",
+  "bytes": 76768,
+  "last": "2026-11-03",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "github-copilot",
+    "ai-agents"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

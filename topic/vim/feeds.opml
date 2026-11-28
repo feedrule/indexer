@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>vim feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="chris' random ramblings" title="chris' random ramblings" xmlUrl="https://atlee.ca/rss.xml" htmlUrl="https://atlee.ca/"/>
+    <outline type="rss" text="erikwastaken" title="erikwastaken" xmlUrl="https://blog.erikwastaken.dev/atom.xml" htmlUrl="https://blog.erikwastaken.dev"/>
+    <outline type="rss" text="Jon Cairns / Blog" title="Jon Cairns / Blog" xmlUrl="https://blog.joncairns.com/atom.xml" htmlUrl="https://blog.joncairns.com/"/>
+    <outline type="rss" text="Pierre-Adrien Buisson : Le Blog !" title="Pierre-Adrien Buisson : Le Blog !" xmlUrl="https://blog.pabuisson.com/feed.xml" htmlUrl="https://blog.pabuisson.com/"/>
+    <outline type="rss" text="Tim's blog" title="Tim's blog" xmlUrl="https://blog.thechases.com/rss.xml" htmlUrl="https://blog.thechases.com"/>
+    <outline type="rss" text="Vix.cpp Engineering Blog" title="Vix.cpp Engineering Blog" xmlUrl="https://blog.vixcpp.com/rss.xml" htmlUrl="https://blog.vixcpp.com/"/>
+    <outline type="rss" text="Posts - bokwoon.com" title="Posts - bokwoon.com" xmlUrl="https://bokwoon.com/posts/feed.atom" htmlUrl="https://bokwoon.com/posts/"/>
+    <outline type="rss" text="Terminally Undead" title="Terminally Undead" xmlUrl="https://countvajhula.com/feed/" htmlUrl="https://countvajhula.com"/>
+    <outline type="rss" text="Dhruva Sagar" title="Dhruva Sagar" xmlUrl="https://dhruvasagar.dev/index.xml" htmlUrl="https://dhruvasagar.dev/"/>
+    <outline type="rss" text="Franco Pasut Blog" title="Franco Pasut Blog" xmlUrl="https://francopasut-en.blogspot.com/feeds/posts/default" htmlUrl="https://francopasut-en.blogspot.com/"/>
+    <outline type="rss" text="HiPhish's Workshop: Blog" title="HiPhish's Workshop: Blog" xmlUrl="https://hiphish.github.io/blog/rss" htmlUrl="https://hiphish.github.io/"/>
+    <outline type="rss" text="- Stuff" title="- Stuff" xmlUrl="https://schilk.co/blog/atom.xml" htmlUrl="https://schilk.co/blog/"/>
+    <outline type="rss" text="vim, git, aws and other three-letter words" title="vim, git, aws and other three-letter words" xmlUrl="https://serebrov.github.io/index.xml" htmlUrl="https://serebrov.github.io/"/>
+    <outline type="rss" text="Sword and Signals" title="Sword and Signals" xmlUrl="https://swordandsignals.com/feed.xml" htmlUrl="https://swordandsignals.com/"/>
+    <outline type="rss" text="Tim Alby" title="Tim Alby" xmlUrl="https://tim.alby.fr/index.xml" htmlUrl="https://tim.alby.fr/"/>
+    <outline type="rss" text="Tucker Chapman" title="Tucker Chapman" xmlUrl="https://tuckerchapman.com/index.xml" htmlUrl="https://tuckerchapman.com/"/>
+    <outline type="rss" text="willghatch blog: Posts tagged 'emacs'" title="willghatch blog: Posts tagged 'emacs'" xmlUrl="https://willghatch.net/blog/feeds/emacs.atom.xml" htmlUrl="http://www.willghatch.net/blog/tags/emacs.html"/>
+    <outline type="rss" text="Dev Log" title="Dev Log" xmlUrl="https://www.dev-log.me/rss.xml" htmlUrl="http://github.com/dylang/node-rss"/>
+  </body>
+</opml>

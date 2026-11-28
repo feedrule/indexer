@@ -1,0 +1,19 @@
+{
+  "url": "https://termonmac.com/rss.xml",
+  "title": "TermOnMac — Engineering Notes",
+  "subtitle": "Technical notes on building TermOnMac: cryptography, PTY sessions, Cloudflare Durable Objects, and the rest of a zero-knowledge Mac terminal relay.",
+  "site": "https://termonmac.com/",
+  "bytes": 17180,
+  "last": "2026-04-09",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "architecture"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

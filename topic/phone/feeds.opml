@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>phone feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Latest from Android Central" title="Latest from Android Central" xmlUrl="http://feeds.androidcentral.com/androidcentral" htmlUrl="https://www.androidcentral.com/feeds.xml"/>
+    <outline type="rss" text="Abhijith PA | അഭിജിത്ത് പി എ" title="Abhijith PA | അഭിജിത്ത് പി എ" xmlUrl="https://abhijithpa.in/feed.xml" htmlUrl="https://abhijithpa.in/"/>
+    <outline type="rss" text="www.benjamin-schieder.de" title="www.benjamin-schieder.de" xmlUrl="https://benjamin-schieder.de/rss.xml" htmlUrl="https://www.benjamin-schieder.de/"/>
+    <outline type="rss" text="$ cat ~nutts/blog/*.md" title="$ cat ~nutts/blog/*.md" xmlUrl="https://blog.nutts.org/feed/" htmlUrl="https://blog.nutts.org/"/>
+    <outline type="rss" text="dan fox" title="dan fox" xmlUrl="https://danmaxfox.com/feed/" htmlUrl="https://danmaxfox.com/"/>
+    <outline type="rss" text="Roger Pincombe" title="Roger Pincombe" xmlUrl="https://rogerpincombe.com/atom" htmlUrl="https://rogerpincombe.com/"/>
+    <outline type="rss" text="UNBOX PH" title="UNBOX PH" xmlUrl="https://www.unbox.ph/feed/" htmlUrl="https://unbox.ph/"/>
+  </body>
+</opml>

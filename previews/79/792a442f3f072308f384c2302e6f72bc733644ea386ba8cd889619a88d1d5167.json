@@ -1,0 +1,20 @@
+{
+  "url": "https://evileg.com/en/feed/",
+  "title": "EVILEG - Practical programming",
+  "subtitle": "The latest EVILEG articles on programming and information technology",
+  "site": "https://evileg.com/",
+  "bytes": 58576,
+  "last": "2026-10-16",
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "topics": [
+    "django"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/79/792a442f3f072308f384c2302e6f72bc733644ea386ba8cd889619a88d1d5167.json"
+}

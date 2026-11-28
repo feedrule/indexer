@@ -1,0 +1,21 @@
+{
+  "url": "https://kokosa.dev/feed",
+  "title": "Konrad ‘Dev Nerd’ Kokosa",
+  "subtitle": "Blog of Konrad Kokosa.",
+  "site": "https://kokosa.dev/",
+  "bytes": 210024,
+  "last": "2026-09-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "devlog",
+    "llm",
+    "tools"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/08/08882566988d67510a6eb5b89abb3f7fa736ffafee0b78c564f9125a0b1e49d8.json"
+}

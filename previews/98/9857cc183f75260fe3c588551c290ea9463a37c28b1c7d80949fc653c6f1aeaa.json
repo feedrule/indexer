@@ -1,0 +1,19 @@
+{
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+  "title": "NYT > Technology",
+  "subtitle": null,
+  "site": "https://www.nytimes.com/section/technology",
+  "bytes": 53622,
+  "last": "2026-11-27",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "nvidia"
+  ],
+  "source": {
+    "name": "plenaryapp/awesome-rss-feeds",
+    "license": "CC0-1.0"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/98/9857cc183f75260fe3c588551c290ea9463a37c28b1c7d80949fc653c6f1aeaa.json"
+}

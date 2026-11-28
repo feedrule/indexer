@@ -1,0 +1,23 @@
+{
+  "url": "https://odedia.org/rss.xml",
+  "title": "odedia's corner",
+  "subtitle": "Welcome to odedia's corner. These are my thoughts, rants, and geeky projects.",
+  "site": "https://odedia.org",
+  "bytes": 585139,
+  "last": "2026-09-07",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "kubernetes",
+    "cloud-native",
+    "cloud",
+    "devops",
+    "infrastructure"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

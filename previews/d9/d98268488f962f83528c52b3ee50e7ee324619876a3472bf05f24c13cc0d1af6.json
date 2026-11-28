@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.jaisal.dev/rss.xml",
+  "title": "Jaisal's Blog",
+  "subtitle": "Jaisal's Blog RSS",
+  "site": "https://blog.jaisal.dev",
+  "bytes": 101127,
+  "last": "2026-10-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacker-news"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/d9/d98268488f962f83528c52b3ee50e7ee324619876a3472bf05f24c13cc0d1af6.json"
+}

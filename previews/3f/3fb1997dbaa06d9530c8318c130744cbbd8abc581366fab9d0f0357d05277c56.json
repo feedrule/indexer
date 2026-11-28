@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.greenroots.info/rss.xml",
+  "title": "GreenRoots Blog - A Blog by Tapas Adhikary",
+  "subtitle": "Articles about Tech, JavaScript, Web Technologies, and Career development.",
+  "site": "https://blog.greenroots.info",
+  "bytes": 441456,
+  "last": "2026-07-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "javascript",
+    "nextjs",
+    "beginner-developers",
+    "react",
+    "programming"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/3f/3fb1997dbaa06d9530c8318c130744cbbd8abc581366fab9d0f0357d05277c56.json"
+}

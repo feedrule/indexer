@@ -1,0 +1,19 @@
+{
+  "url": "https://independence.blinkenshell.org/blog/feed/",
+  "title": "Blinkenshell Blog",
+  "subtitle": "News about Blinkenshell's free UNIX shell service",
+  "site": "https://independence.blinkenshell.org/blog",
+  "bytes": 56066,
+  "last": "2026-02-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "maintenance"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/52/52c34e6b7e6b29598132f6ee7009e56c8e3bc291cf5fe0eb8d3ecc3f83c53506.json"
+}

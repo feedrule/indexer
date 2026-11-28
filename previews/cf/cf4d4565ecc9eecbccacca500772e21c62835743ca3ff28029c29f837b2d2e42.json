@@ -1,0 +1,23 @@
+{
+  "url": "https://unknownuniverse.uk/feed/atom/",
+  "title": "The Unknown Universe",
+  "subtitle": "Tech without the corporate bloat",
+  "site": "https://unknownuniverse.uk",
+  "bytes": 23390,
+  "last": "2026-11-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "microsoft",
+    "security",
+    "open-source",
+    "linux",
+    "privacy"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/cf/cf4d4565ecc9eecbccacca500772e21c62835743ca3ff28029c29f837b2d2e42.json"
+}

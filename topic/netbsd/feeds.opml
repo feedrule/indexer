@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>netbsd feeds</title>
+    <dateCreated>Sat, 28 Nov 2026 14:59:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="benzblog" title="benzblog" xmlUrl="https://bentsukun.ch/index.xml" htmlUrl="https://bentsukun.ch/"/>
+    <outline type="rss" text="electrodyssey.net" title="electrodyssey.net" xmlUrl="https://electrodyssey.net/feed.rss" htmlUrl="https://electrodyssey.net/index.html"/>
+    <outline type="rss" text="encelo.github.io" title="encelo.github.io" xmlUrl="https://encelo.github.io/feed.xml" htmlUrl="https://encelo.github.io/"/>
+    <outline type="rss" text="iMil.net" title="iMil.net" xmlUrl="https://imil.net/blog/index.xml" htmlUrl="http://imil.net/blog/"/>
+    <outline type="rss" text="i summon one kim" title="i summon one kim" xmlUrl="https://kimmo.suominen.com/feed/atom/" htmlUrl="https://kimmo.suominen.com"/>
+    <outline type="rss" text="vsis.online" title="vsis.online" xmlUrl="https://vsis.online/index.xml" htmlUrl="https://vsis.online/"/>
+    <outline type="rss" text="Daniel Wayne Armstrong" title="Daniel Wayne Armstrong" xmlUrl="https://www.dwarmstrong.org/feed.xml" htmlUrl="https://www.dwarmstrong.org"/>
+    <outline type="rss" text="hubertf's NetBSD blog" title="hubertf's NetBSD blog" xmlUrl="https://www.feyrer.de/NetBSD/bx/blosxom.cgi/index.rss" htmlUrl="http://www.feyrer.de/NetBSD/blog.html/"/>
+  </body>
+</opml>

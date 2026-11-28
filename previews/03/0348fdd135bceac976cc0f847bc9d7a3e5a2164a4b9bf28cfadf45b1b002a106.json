@@ -1,0 +1,20 @@
+{
+  "url": "https://charonv.net/feed.xml",
+  "title": "CharonV",
+  "subtitle": "InfoSec, hacking articles and write-ups.",
+  "site": "https://charonv.net/",
+  "bytes": 185901,
+  "last": "2026-08-22",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "hacking",
+    "ctf"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://florian-kraemer.net/feed.xml",
+  "title": "Florian Krämer",
+  "subtitle": "My personal website about me, software architecture, AI engineering, software development and technology in general.",
+  "site": "https://florian-kraemer.net/",
+  "bytes": 270471,
+  "last": "2026-07-01",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "software-engineering",
+    "software-architecture",
+    "domain-driven-design"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

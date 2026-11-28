@@ -1,0 +1,20 @@
+{
+  "url": "https://kb.buildingbetterteams.de/blog/rss.xml",
+  "title": "Knowledge Base Blog",
+  "subtitle": "Knowledge Base Blog",
+  "site": "https://kb.buildingbetterteams.de/blog",
+  "bytes": 224215,
+  "last": "2026-09-29",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "development",
+    "productivity"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

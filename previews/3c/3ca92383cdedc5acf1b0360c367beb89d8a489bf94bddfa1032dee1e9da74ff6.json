@@ -1,0 +1,19 @@
+{
+  "url": "https://pertho.net/rss.xml",
+  "title": "Pertho.net - RSS Feed",
+  "subtitle": "Adventures in System Administration with a focus on BSD",
+  "site": "https://pertho.net/",
+  "bytes": 5759,
+  "last": "2026-04-11",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "openbsd"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

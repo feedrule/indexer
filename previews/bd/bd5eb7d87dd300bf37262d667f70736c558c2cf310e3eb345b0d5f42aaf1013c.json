@@ -1,0 +1,19 @@
+{
+  "url": "https://standaniels.nl/feed.xml",
+  "title": "Stan Daniëls",
+  "subtitle": "I write about Laravel and PHP, the tools I use, and what I learn from side projects.",
+  "site": "https://standaniels.nl",
+  "bytes": 78619,
+  "last": "2026-11-16",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "laravel"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bd/bd5eb7d87dd300bf37262d667f70736c558c2cf310e3eb345b0d5f42aaf1013c.json"
+}

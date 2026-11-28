@@ -1,0 +1,19 @@
+{
+  "url": "http://blog.unicode.org/feeds/posts/default",
+  "title": "The Unicode Blog",
+  "subtitle": "News, announcements, release info, and calendar updates from the Unicode Consortium",
+  "site": "http://blog.unicode.org/",
+  "bytes": 498207,
+  "last": "2026-11-17",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "unicode"
+  ],
+  "source": {
+    "name": "simevidas/web-dev-feeds",
+    "license": "MIT"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/ee/ee9443de61567141bc16338d2fbcef772530a8ab23ba2d98ce9cb3f25bbf3341.json"
+}

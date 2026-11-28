@@ -1,0 +1,20 @@
+{
+  "url": "https://rpallas.xyz/feed.xml",
+  "title": "Ricardo Pallás",
+  "subtitle": "Software engineering blog about distributed systems, databases, performance and AI.",
+  "site": "https://rpallas.xyz/",
+  "bytes": 422939,
+  "last": "2026-10-21",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "functional-programming",
+    "swift"
+  ],
+  "source": {
+    "name": "kagisearch/smallweb",
+    "license": "MIT"
+  },
+  "posts_url": null
+}

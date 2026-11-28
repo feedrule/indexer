@@ -1,0 +1,20 @@
+{
+  "url": "https://www.ellisinsight.com/feed/",
+  "title": "The ELLIS Insight",
+  "subtitle": "Identifying and analyzing emerging trends in campaigns and elections",
+  "site": "https://www.ellisinsight.com",
+  "bytes": 48229,
+  "last": "2026-11-26",
+  "languages": [
+    "en"
+  ],
+  "topics": [
+    "election-2026",
+    "senate"
+  ],
+  "source": {
+    "name": "data/proposals/",
+    "license": "Common Crawl terms"
+  },
+  "posts_url": "https://raw.githubusercontent.com/feedrule/indexer/posts/data/posts/bd/bd8d9152c318d3e4e37e4d3c2b9aecec65383041f67e865b3c63f3a8a1c8b3db.json"
+}
