@@ -11,7 +11,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
 | stage | command | compose service | workflow |
 | --- | --- | --- | --- |
 | inputs from lists | `indexer load-inputs data/sources.toml` | `input` | `input.yml` (daily; on push to develop/main changing `data/sources.toml` or `data/*.txt`, except `undo.txt`) |
-| old CC feeds still active, proposed by PR | `indexer proposals` | `proposals` | `proposals.yml` (Wednesdays) |
+| old CC feeds still active, proposed on a branch | `indexer proposals` | `proposals` | `proposals.yml` (Wednesdays) |
 | health checks | `indexer run --from-inputs` (or `run FILE`) | `check` | `check.yml` (every 3 h, 500 URLs, 3 h timeout) |
 | publish | `indexer export` | `export` | `publish.yml` (after each successful check run; on push to develop changing src/indexer/publish/; Mondays as fallback; manual too. Re-enabled 2026-11-19 at the user's request) |
 | retention | `indexer cleanup` | `cleanup` | `cleanup.yml` (daily since 2026-11-27, was Sundays) |
@@ -35,7 +35,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   **Agree any selection or quality heuristic with the user before implementing it.** (`discover`, which
   inserted the newest crawl's feeds unfiltered, was removed on 2026-11-16: `indexer proposals` replaces it.)
 - **One name** (asked 2026-11-27): the pipeline once called survivors is `proposals` everywhere (command, workflow,
-  package, service, PR branches, files, source); "survivors" only describes the rule (old feeds still active). Feeds loaded
+  package, service, proposal branches, files, source); "survivors" only describes the rule (old feeds still active). Feeds loaded
   before the move keep their inputs.source (.../data/survivors); `site.source_of` maps it to the `data/proposals/` entry.
 - **Proposals branch** (asked 2026-11-27, so develop doesn't grow with proposals: 200k more feeds are to come from them):
   orphan branch `proposals` with `data/proposals/` (moved from develop's `data/survivors/` and `data/training.toml`):
@@ -46,11 +46,14 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   `data/proposals/` as the container's `data/proposals/` (no .git, no token in the container); commits happen on the
   runner with hooks off. Locally: `git worktree add proposals origin/proposals`. Old `survivors-*` branches are ignored.
 - `indexer proposals` **proposes, never inserts**: writes a new file `data/proposals/<yyyymm>/<dd-HHMMSS>.yaml` (UTC) per run on the `proposals` branch (asked 2026-11-21,
-  replacing the single `data/survivors.txt`: no huge file, no conflicts between open PRs; CC ToU license; `files` entries in
+  replacing the single `data/survivors.txt`: no huge file, no conflicts between waiting branches; CC ToU license; `files` entries in
   sources.toml may be glob patterns, sorted, none matching is fine, and format `proposals` still reads such files) and
-  every proposals.yml run opens its own PR from a new branch `proposals-<UTC timestamp>` (the file's name) based on the `proposals` branch, PR into it (never a reused
-  branch, so old proposals can't be merged by mistake). Skips URLs already in that branch's files (accepted or not) or in inputs.
-  Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the PR.
+  every proposals.yml run pushes a new branch `proposals-<UTC timestamp>` (the file's name) based on the `proposals` branch (never a reused
+  branch, so old proposals can't be merged by mistake). **No pull requests** (asked 2026-11-28: a PR keeps its commits
+  on GitHub for good, so deleting branches or compacting `proposals` could never shrink the repository): the run's
+  summary goes in `<dd-HHMMSS>.summary.md` beside the .yaml (and the run's page); the operator reviews on the branch,
+  squash-merges it into `proposals` by hand and deletes it. Skips URLs already in that branch's files (accepted or not) or in inputs.
+  Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the summary.
   The file is YAML (asked 2026-11-22, replacing comment blocks in .txt files, converted once): a comment header, then one
   document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, site (the feed's website, http(s) only; asked 2026-11-27), language, last_post, future_dated (true/false, always written: some item dated more than a day ahead; asked 2026-11-28; `FeedInfo.future_dated`, never stored),
   about, posts_read and categories (the authors' top 8 with counts, `run._top_categories` from `FeedInfo.item_tags`, never
@@ -59,9 +62,9 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   `yaml.safe_dump` (quotes anything that would parse as something else, no aliases), read with `yaml.safe_load_all`
   (`sources.proposal_documents`). A reviewer sets `accept: true` on the feeds they want; only those are loaded.
   Proposals left at false count as known (not proposed again).
-  PR body: the edit link, the OPML link and the run's summary only, no feed listed (asked 2026-11-21: the
+  Summary file (was the PR body): the edit link, the OPML link, the merge commands and the run's summary only, no feed listed (asked 2026-11-21: the
   feeds are reviewed in the file). All proposals as OPML go in a
-  `<dd-HHMMSS>.opml` beside the .yaml (committed with it; not a source), linked from the PR body for download
+  `<dd-HHMMSS>.opml` beside the .yaml (committed with it; not a source), linked from the summary for download
   (moved out of the report at the user's request on 2026-11-21); max-feeds default 20 (was 50).
   Agreed filters: crawl closest to 5 years ago, first 25 MB of one random WAT file (one range
   request, random each run, no state; one file because the yield per MB is the same as several smaller slices); every feed link of every page (2026-11-21: one random link per page, agreed 2026-11-20, was dropped once the URL rules removed most junk), session params stripped
@@ -172,7 +175,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   (`.env.example`; no password in the repo; `uv run` uses `PGPASSWORD`), and are overridden by env
   (`LIQUIBASE_COMMAND_URL/USERNAME/PASSWORD`, `DATABASE_URL`, `PGPASSWORD`). Workflows run
   `docker compose build` then `docker compose run --rm --no-deps -T liquibase|<service>`, with
-  `contents: read` (publish: write; proposals: write + `pull-requests: write`; cleanup: `issues: write`), `persist-credentials: false` and one shared concurrency group (except publish: read-only on the database, its own group `publish` for the posts branch's pushes).
+  `contents: read` (publish: write; proposals: write; cleanup: `issues: write`), `persist-credentials: false` and one shared concurrency group (except publish: read-only on the database, its own group `publish` for the posts branch's pushes).
   Supabase secrets `SUPABASE_DB_*`; use the IPv4 session pooler (runners have no IPv6).
 - All DB writes share one connection across concurrent checks; `Database` serializes them with a lock
   (concurrent transactions on one connection fail with OutOfOrderTransactionNesting).

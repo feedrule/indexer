@@ -59,7 +59,7 @@ def add_arguments(parser: argparse.ArgumentParser) -> None:
     parser.add_argument(
         "--report",
         type=Path,
-        help="also write the run's summary as Markdown (for the pull request)",
+        help="also write the run's summary as Markdown (for the summary file)",
     )
     parser.add_argument(
         "--slice-mb",

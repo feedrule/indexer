@@ -2,10 +2,10 @@
 the `proposals` branch (checked out so that its data/proposals/ is this data/proposals/).
 
 `indexer proposals` does not insert into the database. Each run writes its finds to a new file in
-data/proposals/<year><month>/, so no file grows huge and two open pull requests never conflict;
-the workflow proposes the file as a pull request against the proposals branch. The file is
-YAML: a comment header, then one document per feed, separated by `---`, with what a reviewer
-needs:
+data/proposals/<year><month>/, so no file grows huge and two waiting branches never conflict;
+the workflow pushes the file on its own branch from proposals, for review and a merge by hand.
+The file is YAML: a comment header, then one document per feed, separated by `---`, with what a
+reviewer needs:
 
     # Proposed 2026-11-12 from CC-MAIN-2021-49.
     # Set accept: true on each feed to keep. ...
@@ -56,9 +56,10 @@ proposed again. Reviewed files are also the proposal model's training data.
 Titles, categories and links come from the feeds, so they are untrusted: each is flattened to
 one line of printable text and written by yaml.safe_dump, which quotes whatever YAML would
 otherwise read as something else, so no feed's text can add a key, a feed or `accept: true`.
-The pull request only says how many feeds were proposed and the run's summary. Next to the .yaml
-file, a run also writes the feeds as OPML (<dd-HHMMSS>.opml, escaped XML attributes; not read as
-a source), which the pull request links to, for trying them in a feed reader while reviewing.
+The summary file (<dd-HHMMSS>.summary.md, written by the workflow) only says how many feeds were
+proposed and the run's summary. Next to the .yaml file, a run also writes the feeds as OPML
+(<dd-HHMMSS>.opml, escaped XML attributes; not read as a source), which the summary links to, for
+trying them in a feed reader while reviewing.
 """
 
 import textwrap
@@ -221,9 +222,9 @@ def acceptance(proposed: int, checked: int) -> str:
 def render_report(
     proposed: int, crawl: str, steps: Sequence[str], rejected: Sequence[tuple[int, str]]
 ) -> str:
-    """Markdown for the pull request: how many feeds were proposed, the run's steps and what each
+    """Markdown for the summary file: how many feeds were proposed, the run's steps and what each
     rule rejected (most first, zero counts left out), as bullet lists. The feeds themselves are
-    reviewed in the proposal file (untrusted text stays out of the PR)."""
+    reviewed in the proposal file (untrusted text stays out of the summary)."""
     lines = [f"**{proposed} feeds** from `{crawl}`, still active today.", "", "**Run**", ""]
     lines += [f"- {step}" for step in steps]
     lines += ["", "**Rejected by the rules**", ""]
@@ -256,7 +257,7 @@ def render_opml(proposals: Iterable[Proposal], crawl: str, generated: datetime) 
 
 def funnel(result: ProposalsResult, slice_mb: int, active_days: int) -> list[str]:
     """The run's steps, from the WAT slice to the feeds that passed the rules, one line each,
-    for the log and the pull request."""
+    for the log and the summary file."""
     passed = len(result.rows)
     stopped = (
         " (stopped: enough feeds)" if result.checked < result.candidates - result.known else ""

@@ -211,29 +211,37 @@ flattened to one line and written by `yaml.safe_dump`, which quotes anything YAM
 something else; files are read with `yaml.safe_load_all`.
 Each workflow run commits
 that file to a **new branch** with the same timestamp (for example `proposals-20261119-041105`),
-and opens **its own pull request** into `proposals`, whose description links to the file in
-GitHub's editor and gives the run's summary; the feeds themselves are only in the file, so no
-untrusted text reaches the pull request. The run also writes the proposed feeds as OPML
-next to the `.yaml` file (same name, `.opml`; not read as a source), and the description links to
-it: download it and import it into a feed reader to try them while reviewing. Review the diff, set **`accept: true`** on each feed you want (optionally
-`reason: <reason>` on a rejected one, see below), and merge (or close the pull request to drop the whole batch).
+with a **summary file** beside it (`<dd-HHMMSS>.summary.md`, also shown on the run's page) that
+links to the file in GitHub's editor, gives the run's summary and the commands to merge; the
+feeds themselves are only in the file, so no untrusted text reaches the summary. **No pull
+request is opened**: GitHub keeps a pull request's commits for good (`refs/pull/<n>/head`), even
+after its branch is deleted, so the repository could never shrink. The run also writes the proposed feeds as OPML
+next to the `.yaml` file (same name, `.opml`; not read as a source), and the summary links to
+it: download it and import it into a feed reader to try them while reviewing. Set **`accept: true`** on each feed you want (optionally
+`reason: <reason>` on a rejected one, see below) and commit on the branch, then squash-merge it
+into `proposals` by hand and delete it (or only delete it to drop the whole batch):
+
+```sh
+git fetch origin && git switch proposals && git pull --ff-only
+git merge --squash origin/proposals-20261119-041105 && git commit -m "Feeds from Common Crawl, 20261119-041105"
+git push origin proposals && git push origin --delete proposals-20261119-041105
+```
+
 The branch has no workflows of its own, so a merge starts nothing: the daily input job checks
 the branch out too and loads the accepted feeds (source `proposals`, `format = "proposals"`, the
 glob `files = ["proposals/*/*.yaml"]`, license `LicenseRef-CommonCrawl-ToU`, ranked last). Feeds loaded before the move keep their old source,
 `.../data/survivors`, which the site shows as `data/proposals/`. Every run starts from the
-`proposals` branch, so a pull request never carries an older run's proposals.
-Each pull request adds its own file, so open pull requests never conflict and can be merged in any
-order. URLs in another open pull request are not skipped, so the same feed can be proposed twice. A feed left at `accept: false`
+`proposals` branch, so a branch never carries an older run's proposals.
+Each branch adds its own files, so waiting branches never conflict and can be merged in any
+order. URLs on another waiting branch are not skipped, so the same feed can be proposed twice. A feed left at `accept: false`
 counts as known (`files.known_urls` reads every file in the folder), so it is not proposed
 again; one deleted from its file is forgotten.
 
 Started by hand (Actions → proposals → Run workflow), the workflow takes `slice-mb`, `years-ago`
 `active-days` and `max-feeds` as inputs; the weekly run uses the defaults (25, 5, 243, 20).
 
-The workflow needs the repository setting **Settings → Actions → General → "Allow GitHub Actions
-to create and approve pull requests"**. Titles are untrusted: in the file they are
-flattened to one line, and in the pull request they are shown as code, so they can't add URLs,
-mention people or link issues.
+Titles are untrusted: in the file they are flattened to one line, and none reaches the summary
+file, so they can't add links or mention people.
 
 ```sh
 mkdir -p output && HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm proposals \
@@ -408,7 +416,7 @@ The database settings in `compose.yaml` default to the local database and are ov
 the environment (`LIQUIBASE_COMMAND_URL`, `LIQUIBASE_COMMAND_USERNAME`,
 `LIQUIBASE_COMMAND_PASSWORD`, `DATABASE_URL`, `PGPASSWORD`). The workflows share one concurrency
 group, so they never overlap; they use a read-only repository token (except `publish.yml`, which pushes `output`, and
-`proposals.yml`, which pushes `proposals-<timestamp>` and opens its pull request) and
+`proposals.yml`, which pushes `proposals-<timestamp>`) and
 pin the checkout action by commit SHA. They need these repository secrets:
 
 | secret | value |
@@ -636,7 +644,7 @@ Source layout (`src/indexer/`):
 | `sources.py` | data/sources.toml and loading the lists into inputs |
 | `net/` | fetching untrusted URLs: `fetch.py` (the guarded fetcher), `validate.py` (URL rules, URL files), `resolver.py`, `ippolicy.py`, `urls.py`, `domains.py` |
 | `check/` | `runner.py` (one check per URL), `feed.py` (parsing RSS/Atom) |
-| `proposals/` | `run.py` (the pipeline, steps 1–5), `wat.py` (reading Common Crawl: the `<link>`s of each HTML page in a WAT slice; imports nothing from indexer), `feed_links.py` (the URL rules before checking: `scan_wat`, `filter_page_links`), `filters.py` (the rules after checking), `files.py` (the data/proposals/ files, their OPML, the run summary and the PR report), `scoring.py` (dropping proposals the trained model scores low), `training.py` (training that model on reviewed proposals) |
+| `proposals/` | `run.py` (the pipeline, steps 1–5), `wat.py` (reading Common Crawl: the `<link>`s of each HTML page in a WAT slice; imports nothing from indexer), `feed_links.py` (the URL rules before checking: `scan_wat`, `filter_page_links`), `filters.py` (the rules after checking), `files.py` (the data/proposals/ files, their OPML, the run summary for the summary file), `scoring.py` (dropping proposals the trained model scores low), `training.py` (training that model on reviewed proposals) |
 | `text/` | models on plain text: `topics.py`, `language.py` (fastText), `embeddings.py` (MiniLM and the embedding sets in data/embeddings/) |
 
 ```sh

@@ -1,14 +1,16 @@
 # Proposes feeds from a ~5-year-old Common Crawl crawl that are still active, weekly or by hand:
 # reads the first 25 MB (input slice-mb) of one random WAT file, checks every feed found, and
-# writes the ones that pass to a new data/proposals/<yyyymm>/<dd-HHMMSS>.yaml (UTC) in a new pull
-# request against the `proposals` branch. Nothing is inserted here: the daily input job checks
-# out that branch and loads the feeds marked accept: true (a merge there starts no workflow).
+# writes the ones that pass to a new data/proposals/<yyyymm>/<dd-HHMMSS>.yaml (UTC), with its
+# .opml and .summary.md, on a new branch from `proposals`. Nothing is inserted here: the daily
+# input job checks out the proposals branch and loads the feeds marked accept: true.
 #
 # Every proposing run starts from the proposals branch and pushes its own branch,
-# proposals-<UTC timestamp>, so a pull request only ever holds that run's finds. Requires the
-# repository setting "Allow GitHub Actions to create and approve pull requests". Reads the inputs
-# table (to skip known URLs) with the SUPABASE_DB_* secrets. The containers get the branch's
-# data/proposals/ only, never its .git; commits and pushes happen on the runner.
+# proposals-<UTC timestamp>, so a branch only ever holds that run's finds. No pull request is
+# opened (a PR keeps its commits on GitHub forever, so the repository could never shrink): the
+# operator reviews the file on the branch, squash-merges it into proposals and deletes the
+# branch, as the summary file says. Reads the inputs table (to skip known URLs) with the
+# SUPABASE_DB_* secrets. The containers get the branch's data/proposals/ only, never its .git;
+# commits and pushes happen on the runner.
 name: proposals
 
 on:
@@ -35,7 +37,6 @@ on:
 
 permissions:
   contents: write # to push the run's proposals-<timestamp> branch
-  pull-requests: write # to open the proposal
 
 concurrency:
   group: indexer-db
@@ -98,26 +99,39 @@ jobs:
           fi
           stamp="$(basename "$(dirname "$file")")$(basename "$file" .yaml)" # yyyymmdd-HHMMSS, UTC
           branch="proposals-$stamp"
+          summary="${file%.yaml}.summary.md"
+          {
+            echo "# Feeds from Common Crawl, $stamp"
+            echo
+            echo "Feeds from a ~5-year-old Common Crawl crawl that are still active, proposed in"
+            echo "[\`$(basename "$file")\`]($(basename "$file")) by one proposals run, on the branch \`$branch\`."
+            echo "Every feed starts at accept: false."
+            echo
+            echo "**To review**"
+            echo
+            echo "- [Edit the file]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/edit/$branch/$file) on the branch:"
+            echo "  set \`accept: true\` on each feed to keep, and commit."
+            echo "- To try them in a feed reader, download [\`$(basename "$opml")\`]($(basename "$opml"))"
+            echo "  and import it."
+            echo "- Then merge and delete the branch (or only delete it, to drop them all):"
+            echo
+            echo '  ```sh'
+            echo "  git fetch origin && git switch proposals && git pull --ff-only"
+            echo "  git merge --squash origin/$branch && git commit -m \"Feeds from Common Crawl, $stamp\""
+            echo "  git push origin proposals && git push origin --delete $branch"
+            echo '  ```'
+            echo
+            cat ../output/proposals.md
+          } > "$summary"
           git switch -q -c "$branch"
-          git add "$file" "$opml"
+          git add "$file" "$opml" "$summary"
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
               -c core.hooksPath=/dev/null \
               commit -q -m "Propose feeds from Common Crawl, $stamp"
           git push -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$branch:$branch"
-          {
-            echo "Feeds from a ~5-year-old Common Crawl crawl that are still active, proposed for"
-            echo "\`$file\` by one proposals run. Every feed starts at accept: false."
+          { # the file's links are relative: they work on the branch, not on the run's page
+            echo "Review on the branch: [\`$summary\`]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/blob/$branch/$summary)"
             echo
-            echo "**To review**"
-            echo
-            echo "- [Edit the file]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/edit/$branch/$file) on this branch:"
-            echo "  set \`accept: true\` on each feed to keep, commit, then merge."
-            echo "- Or close this pull request to drop them all."
-            echo "- To try them in a feed reader, [download them as OPML]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/raw/$branch/$opml)"
-            echo "  and import the file."
-            echo
-            cat ../output/proposals.md
-          } > "$RUNNER_TEMP/body.md"
-          gh pr create --repo "$GITHUB_REPOSITORY" --base proposals --head "$branch" \
-            --title "Feeds from Common Crawl, $stamp" --body-file "$RUNNER_TEMP/body.md"
+            cat "$summary"
+          } >> "$GITHUB_STEP_SUMMARY"

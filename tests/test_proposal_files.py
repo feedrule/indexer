@@ -1,4 +1,4 @@
-"""Rendering proposals: the proposal file and the pull request summary."""
+"""Rendering proposals: the proposal file and the run's summary."""
 
 from dataclasses import replace
 from datetime import UTC, date, datetime
