@@ -50,11 +50,12 @@
     document.title = `${title}: RSS feed preview`;
     document.getElementById("title").textContent = title;
     status.remove();
+    const feedUrl = new URL(feed.url);
+    const site = href(feed.site) || `${feedUrl.protocol}//${feedUrl.host}/`;
+    page.append(el("p", "host", new URL(site).hostname));
     const subtitle = line(feed.subtitle);
     if (subtitle && subtitle.toLowerCase() !== title.toLowerCase()) page.append(el("p", "sub", subtitle));
 
-    const feedUrl = new URL(feed.url);
-    const site = href(feed.site) || `${feedUrl.protocol}//${feedUrl.host}/`;
     const meta = el("p", "meta");
     const mail = el("a", "mail");
     mail.href = FEEDRULE + encodeURIComponent(feed.url).replace(/%3A/gi, ":").replace(/%2F/gi, "/");
@@ -62,7 +63,7 @@
     const icon = el("img");
     Object.assign(icon, { src: "../{{ icon }}", width: 20, height: 20, alt: "Get by email" });
     mail.append(icon);
-    meta.append(mail, new URL(site).hostname, " · ", link(site, "Website"), " · ", link(feed.url, "Feed"));
+    meta.append(mail, link(site, "Website"), " · ", link(feed.url, "Feed"));
     page.append(meta);
 
     const facts = [];

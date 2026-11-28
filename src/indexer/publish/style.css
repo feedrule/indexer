@@ -129,6 +129,8 @@ th, td { padding: 9px 8px; border-bottom: 1px solid var(--border); vertical-alig
 .mail:hover img { outline: 2px solid var(--accent); outline-offset: 1px; }
 .scroll { overflow-x: auto; }
 
+.pv h1 { margin-bottom: 2px; overflow-wrap: anywhere; }
+.pv .host { color: var(--muted); font-size: 15px; margin: 0 0 10px; }
 .pv .sub { font-size: 17px; max-width: 70ch; margin: 0 0 8px; overflow-wrap: anywhere; }
 .pv .meta { color: var(--muted); font-size: 14px; margin: 0 0 4px; overflow-wrap: anywhere; }
 .pv .meta a.mail { vertical-align: middle; margin-right: 4px; }
