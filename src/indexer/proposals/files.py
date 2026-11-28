@@ -21,6 +21,8 @@ needs:
     categories:
       budgeting: 12
       kids: 9
+    authors:
+      Jo Bloggs: 30
     found_in: https://data.commoncrawl.org/crawl-data/CC-MAIN-2021-49/.../...warc.wat.gz
     recent_posts:
       - link: https://missfrugalmommy.com/ten-ways/
@@ -34,10 +36,13 @@ needs:
           - We spend too much on food. Here are ten things that we
           - changed...
 
-A post's `links` are the other sites its HTML links to (registrable domains, with counts, at
-most 5, most linked first; left out when there are none) and `sponsored: true` marks a post with
-affiliate or sponsored links (`check.post_links`; left out otherwise). A post's description is a
-list of lines of at most 60 characters, for reading on a phone.
+`authors` are who wrote the posts read (names only, never an email address; at most 5, most
+posts first; left out when no post names one): one name suggests a person's blog, "admin" or
+many names a press office or a content farm. A post's `links` are the other sites its HTML
+links to (registrable domains, with counts, at most 5, most linked first; left out when there
+are none) and `sponsored: true` marks a post with affiliate or sponsored links
+(`check.post_links`; left out otherwise). A post's description is a list of lines of at most 60
+characters, for reading on a phone.
 
 A reviewer sets `accept: true` on each feed they want (optionally `reason: <reason>` on a
 rejected one, see training.py REJECT_REASONS) and merges; the daily input job (which checks out
@@ -138,6 +143,12 @@ def _entry(s: Proposal) -> dict[str, Any]:
             key = _one_line(name, 50)
             categories[key] = categories.get(key, 0) + n  # two long names may cut alike
         entry["categories"] = categories
+        authors: dict[str, int] = {}
+        for name, n in s.authors:
+            key = _one_line(name, 50)
+            authors[key] = authors.get(key, 0) + n
+        if authors:
+            entry["authors"] = authors
     entry["found_in"] = s.wat_url
     posts = []
     for post in s.recent_posts:

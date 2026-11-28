@@ -72,6 +72,7 @@ class CheckRow:
     recent_posts: tuple[RecentPost, ...] = ()  # stored for a few days (cleanup)
     item_texts: tuple[str, ...] = ()  # the newest posts' title and start: proposals, not stored
     item_tags: tuple[tuple[str, ...], ...] = ()  # each of item_texts' categories: proposals only
+    item_authors: tuple[str | None, ...] = ()  # each of item_texts' author: proposals only
     detail: str | None = None  # logged, not stored
 
 
@@ -116,6 +117,7 @@ async def check_one(
         row.recent_posts = info.recent_posts
         row.item_texts = info.item_texts
         row.item_tags = info.item_tags
+        row.item_authors = info.item_authors
         if languages is not None:
             per_post = languages.post_languages(info.item_texts)
             labels = feed_languages(per_post)

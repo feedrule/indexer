@@ -115,6 +115,9 @@ class FeedInfo:
     # The categories of each of item_texts' items, as written (split on commas, trimmed, capped):
     # untrusted, never stored; only used as evidence for topics.
     item_tags: tuple[tuple[str, ...], ...] = ()
+    # The author of each of item_texts' items (`_item_author`: a name, never an email address),
+    # or None: untrusted, never stored; shown to reviewers of proposals.
+    item_authors: tuple[str | None, ...] = ()
 
 
 def clean_url(value: str | None, base: str | None = None) -> str | None:
@@ -177,6 +180,7 @@ class Description(TypedDict):
     recent_posts: tuple[RecentPost, ...]
     item_texts: tuple[str, ...]
     item_tags: tuple[tuple[str, ...], ...]
+    item_authors: tuple[str | None, ...]
     media_type: str | None
     icon: str | None
     logo: str | None
@@ -494,17 +498,50 @@ def _item_tags(item: Element) -> tuple[str, ...]:
     return tuple(tags)[:MAX_ITEM_TAGS]
 
 
+_EMAIL = re.compile(r"\S*@\S*")
+
+
+def _author_name(value: str | None) -> str | None:
+    """A name from an author field, email addresses left out: RSS writes "jo@x.org (Jo Bloggs)"
+    (Blogger: "noreply@blogger.com (Jo)"); a bare address gives None."""
+    if not value:
+        return None
+    text = _EMAIL.sub(" ", value)
+    if (match := re.search(r"\(([^()]*)\)", text)) and match.group(1).strip():
+        text = match.group(1)
+    return _clean_text(text.strip(" ()<>,;"), MAX_TAG_LEN)
+
+
+def _item_author(item: Element, inherited: str | None = None) -> str | None:
+    """The item's author: dc:creator, RSS <author>, Atom <author><name>, <itunes:author>; an Atom
+    entry without one has its feed's (`inherited`)."""
+    for path in (
+        f"{DC}creator",
+        "author",
+        f"{ATOM}author/{ATOM}name",
+        f"{ATOM03}author/{ATOM03}name",
+        f"{ITUNES}author",
+    ):
+        if name := _author_name(_text_of(item.find(path))):
+            return name
+    return inherited
+
+
 class _ItemText(TypedDict):
     item_texts: tuple[str, ...]
     item_tags: tuple[tuple[str, ...], ...]
+    item_authors: tuple[str | None, ...]
 
 
-def _item_texts(items: list[Element], title: str, descriptions: tuple[str, ...]) -> _ItemText:
+def _item_texts(
+    items: list[Element], title: str, descriptions: tuple[str, ...], author: str | None = None
+) -> _ItemText:
     """Title and the start of the first non-empty description of each of the first MAX_TEXT_ITEMS
     items, as plain text (markup stripped), MAX_ITEM_TEXT_LEN characters at most, with each one's
-    categories (`_item_tags`)."""
+    categories (`_item_tags`) and author (`_item_author`; `author`: the feed's, for Atom)."""
     texts: list[str] = []
     tags: list[tuple[str, ...]] = []
+    authors: list[str | None] = []
     for item in items[:MAX_TEXT_ITEMS]:
         head = _text_of(item.find(title), markup=True, limit=MAX_ITEM_TEXT_LEN) or ""
         body = next(
@@ -519,7 +556,8 @@ def _item_texts(items: list[Element], title: str, descriptions: tuple[str, ...])
         if text:
             texts.append(text[:MAX_ITEM_TEXT_LEN])
             tags.append(_item_tags(item))
-    return {"item_texts": tuple(texts), "item_tags": tuple(tags)}
+            authors.append(_item_author(item, author))
+    return {"item_texts": tuple(texts), "item_tags": tuple(tags), "item_authors": tuple(authors)}
 
 
 def _describe(root: Element, kind: str, base: str | None) -> Description:
@@ -572,7 +610,12 @@ def _describe(root: Element, kind: str, base: str | None) -> Description:
                 title_tag=f"{ns}title",
                 description_tags=(f"{ns}summary", f"{ns}content"),
             ),
-            **_item_texts(entries, f"{ns}title", (f"{ns}summary", f"{ns}content")),
+            **_item_texts(
+                entries,
+                f"{ns}title",
+                (f"{ns}summary", f"{ns}content"),
+                _author_name(_text_of(root.find(f"{ns}author/{ns}name"))),
+            ),
             "media_type": _media_type(entries),
             "icon": clean_url(root.findtext(f"{ns}icon"), base),
             "logo": clean_url(root.findtext(f"{ns}logo"), base),

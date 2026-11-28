@@ -138,3 +138,20 @@ def test_item_tags_per_item_as_written() -> None:
       <entry><title>t</title><category term="rust"/><category label="WebAssembly"/></entry>
     </feed>"""
     assert parse_feed(atom).item_tags == (("rust", "WebAssembly"),)
+
+
+def test_item_authors_names_only() -> None:
+    body = b"""<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
+      <item><title>A</title><author>noreply@blogger.com (Jo Bloggs)</author></item>
+      <item><title>B</title><dc:creator><![CDATA[ admin ]]></dc:creator></item>
+      <item><title>C</title><author>jo@example.org</author></item>
+      <item><title>D</title><itunes:author>The Show</itunes:author></item>
+      <item><title>E</title></item>
+    </channel></rss>"""
+    assert parse_feed(body).item_authors == ("Jo Bloggs", "admin", None, "The Show", None)
+    atom = b"""<feed xmlns="http://www.w3.org/2005/Atom"><author><name>Feed Owner</name></author>
+      <entry><title>t</title><author><name>Ann</name><email>a@x.org</email></author></entry>
+      <entry><title>u</title></entry>
+    </feed>"""
+    assert parse_feed(atom).item_authors == ("Ann", "Feed Owner")  # an entry inherits the feed's

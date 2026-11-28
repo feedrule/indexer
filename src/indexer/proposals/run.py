@@ -37,6 +37,7 @@ log = logging.getLogger("indexer.proposals")
 
 _CHECK_BATCH = 200  # feeds checked at a time, so a run can stop once it has enough
 _MAX_CATEGORIES = 8  # categories shown per proposed feed
+_MAX_AUTHORS = 5  # authors shown per proposed feed
 _MAX_PER_SITE = 10  # feeds checked per site, shortest URLs first (the shortest that passes wins)
 
 type _Check = Callable[[Sequence[str]], Awaitable[Iterable[CheckRow]]]
@@ -59,6 +60,7 @@ class Proposal:
     posts_read: int = 0  # posts whose categories were counted
     score: float | None = None  # probability of being accepted (training.py's model)
     site_url: str | None = None  # the website the feed names (untrusted, never fetched)
+    authors: tuple[tuple[str, int], ...] = ()  # the posts' authors: (name, posts), top
 
 
 @dataclass(slots=True)
@@ -200,6 +202,7 @@ def _judge(row: CheckRow, rules: Rules, wat_url: str, result: ProposalsResult) -
         _top_categories(row.item_tags),
         len(row.item_tags),
         site_url=row.site_url,
+        authors=_top_authors(row.item_authors),
     )
 
 
@@ -210,6 +213,20 @@ def _top_categories(item_tags: Sequence[Sequence[str]]) -> tuple[tuple[str, int]
     counts = Counter(tag for tags in item_tags for tag in {t.strip().lower() for t in tags} if tag)
     ranked = sorted(counts.items(), key=lambda item: (-item[1], item[0]))
     return tuple(ranked[:_MAX_CATEGORIES])
+
+
+def _top_authors(item_authors: Sequence[str | None]) -> tuple[tuple[str, int], ...]:
+    """Who wrote the feed's first posts, most posts first (ties by name): (name as first written,
+    number of posts), case ignored, at most _MAX_AUTHORS; posts without an author are left out.
+    Untrusted text, shown to reviewers only."""
+    counts: Counter[str] = Counter()
+    names: dict[str, str] = {}
+    for author in item_authors:
+        if author and (key := author.casefold()):
+            counts[key] += 1
+            names.setdefault(key, author)
+    ranked = sorted(counts.items(), key=lambda item: (-item[1], item[0]))
+    return tuple((names[key], n) for key, n in ranked[:_MAX_AUTHORS])
 
 
 async def _unknown(

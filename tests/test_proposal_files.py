@@ -48,6 +48,7 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
                 recent_posts=posts,
                 categories=(("budgeting", 12), ("kids", 9)),
                 posts_read=30,
+                authors=(("Jo Bloggs", 30),),
             )
         ],
         "CC-MAIN-2021-49",
@@ -68,6 +69,8 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
         "categories:\n"
         "  budgeting: 12\n"
         "  kids: 9\n"
+        "authors:\n"
+        "  Jo Bloggs: 30\n"
         f"found_in: {WAT}\n"
         "recent_posts:\n"
         "  - link: https://missfrugalmommy.com/ten-ways/\n"
@@ -80,7 +83,8 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
     accepted = block.replace("accept: false", "accept: true")
     assert extract_urls(accepted.encode(), "proposals") == ["https://missfrugalmommy.com/feed/"]
     bare = render_entries([proposal("https://a.example/f", "A")], "C", date(2026, 1, 1))
-    assert "about:" not in bare and "categories:" not in bare and "recent_posts: []\n" in bare
+    assert "about:" not in bare and "categories:" not in bare and "authors:" not in bare
+    assert "recent_posts: []\n" in bare
 
 
 def test_entries_show_the_website_and_each_posts_date() -> None:
@@ -147,6 +151,7 @@ def test_hostile_text_cannot_add_a_feed_or_accept_one(tmp_path: Path) -> None:
         subtitle="--- !!python/object:os.system",
         categories=(("true", 1), ("accept: true\nurl: x", 2), ("123", 3)),
         posts_read=6,
+        authors=(("accept: true\nurl: x", 2), ("null", 1)),
         recent_posts=posts,
     )
     block = render_entries([entry], "CC-MAIN-2021-49", date(2026, 11, 18))
@@ -156,6 +161,7 @@ def test_hostile_text_cannot_add_a_feed_or_accept_one(tmp_path: Path) -> None:
     assert feed["language"] == "yes"  # a string, not YAML's boolean
     assert feed["about"] == "--- !!python/object:os.system"
     assert feed["categories"] == {"true": 1, "accept: true url: x": 2, "123": 3}
+    assert feed["authors"] == {"accept: true url: x": 2, "null": 1}
     assert feed["recent_posts"] == [
         {
             "link": "https://evil4.example/ ---",

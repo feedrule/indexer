@@ -723,6 +723,13 @@ def test_top_categories() -> None:
     assert _top_categories(tags) == (("kids", 2), ("recipes", 2))  # once per post, case ignored
 
 
+def test_top_authors() -> None:
+    from indexer.proposals.run import _top_authors
+
+    authors = ("Jo", "admin", "jo", None, "Admin", "Jo", "Ann")
+    assert _top_authors(authors) == (("Jo", 3), ("admin", 2), ("Ann", 1))  # case ignored
+
+
 def test_keywords_count_categories() -> None:
     row = checked("https://s.example/feed/", 3, title="I Love Discipline")
     row.item_tags = (("otk", "punishment"), ("otk",), ("otk",))

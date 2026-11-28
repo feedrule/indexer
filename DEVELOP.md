@@ -194,7 +194,9 @@ origin/proposals` does the same. The finds go to a new file per run,
 header, then one document per feed, separated by `---`: `url`, `accept: false`, `title`, `site`
 (the website the feed names, if http(s)),
 `language`, `last_post` (the newest item's date), `about` (the subtitle), `posts_read` and
-`categories` (the 8 categories its authors used most on those posts, with counts), `found_in`
+`categories` (the 8 categories its authors used most on those posts, with counts), `authors`
+(who wrote those posts: the 5 names on most of them, with counts; names only, an email address is
+dropped; left out when no post names one; never stored), `found_in`
 (the WAT file) and `recent_posts` (the 3 most recent: `link`, `date` (the item's newest date, a
 UTC day), `title`, `links` (the other sites the post's HTML links to: registrable domains with
 counts, at most 5, most linked first), `sponsored: true` on a post with affiliate or sponsored
