@@ -22,7 +22,6 @@ before writing, but only if it is empty or was created by this exporter (it hold
 file), so a mistyped path cannot wipe an unrelated directory.
 """
 
-import hashlib
 import json
 import re
 import shutil
@@ -39,6 +38,7 @@ from indexer.publish import site
 
 MARKER = ".indexer-output"
 SLUG = re.compile(r"[a-z0-9_-]{1,100}")
+DAY = re.compile(r"\d{4}-\d{2}-\d{2}")  # a post's date, as stored
 # Per-topic caps. Each file keeps the most recently active feeds (newest post first), so the topic
 # page (site.PAGE_ROWS) lists the first feeds of feeds.opml, which lists the first of links.txt.
 LINKS_MAX = 50_000  # links.txt (~35 bytes a line: ~1.7 MB at most)
@@ -61,7 +61,7 @@ class ListedFeed:
     subtitle: str | None = None  # Atom <subtitle> or RSS <description>
     source: str | None = None  # inputs.source: the list file it came from (or its homepage)
     source_license: str | None = None  # that list's SPDX license id
-    # The latest successful check's most recent posts, [{link, title, description}], newest
+    # The latest successful check's most recent posts, [{link, title, description, date}], newest
     # first; None once cleanup has cleared them (after a few days).
     recent_posts: list[dict[str, str | None]] | None = None
 
@@ -159,7 +159,7 @@ def _hashed(url: str) -> str:
     """<2 hex>/<sha256 of the URL, hex>.json: fixed length whatever the URL (hex of the URL
     itself can exceed the 255-byte file name limit), split in 256 folders. A browser computes it
     with crypto.subtle.digest("SHA-256", new TextEncoder().encode(url))."""
-    digest = hashlib.sha256(url.encode("utf-8")).hexdigest()
+    digest = site.url_hash(url)
     return f"{digest[:2]}/{digest}.json"
 
 
@@ -178,11 +178,12 @@ def render_posts(feed: ListedFeed) -> str:
     """One feed's file on the posts branch:
 
         {"url": "https://...",
-         "posts": [{"link": "https://...", "title": "...", "description": "..."}]}
+         "posts": [{"link": "https://...", "title": "...", "description": "...",
+                    "date": "2026-11-14"}]}
 
     posts are the feed's most recent posts, newest first (at most 3): link is http(s) or null,
-    title and description (the start of the post) may be null. All text is untrusted plain
-    text."""
+    title, description (the start of the post) and date (the post's newest date, a UTC day) may
+    be null. All text is untrusted plain text."""
     doc = {
         "url": feed.url,
         "posts": _posts(feed),
@@ -193,12 +194,14 @@ def render_posts(feed: ListedFeed) -> str:
 def render_preview(feed: ListedFeed, posts_url: str | None = None) -> str:
     """One feed's preview, for a search page showing the feeds of a topic's links.txt:
 
-        {"url": "https://...", "title": "...", "subtitle": "...", "bytes": 48213,
+        {"url": "https://...", "title": "...", "subtitle": "...", "site": "https://...",
+         "bytes": 48213,
          "last": "2026-11-14", "languages": ["de", "en"], "topics": ["rust", "webassembly"],
          "source": {"name": "kagisearch/smallweb", "license": "MIT"},
          "posts_url": "https://raw.githubusercontent.com/.../posts/ab/ab12....json"}
 
-    url is the feed URL the file is named after, so a preview stands alone. title, subtitle,
+    url is the feed URL the file is named after, so a preview stands alone. site is the feed's
+    website (http(s) only). title, subtitle, site,
     bytes (body size at the latest successful check) and last are null when unknown; languages
     are the languages detected on its items (sorted, empty if none); topics are its topics
     (names from data/topics/topics.txt, most similar first, empty if none; only those in
@@ -211,6 +214,7 @@ def render_preview(feed: ListedFeed, posts_url: str | None = None) -> str:
         "url": feed.url,
         "title": " ".join(feed.title.split()) or None if feed.title else None,
         "subtitle": " ".join(feed.subtitle.split()) or None if feed.subtitle else None,
+        "site": site.safe_href(feed.site_url),
         "bytes": feed.file_size,
         "last": feed.last_item_date.date().isoformat() if feed.last_item_date else None,
         "languages": feed.languages(),
@@ -235,11 +239,12 @@ def _post(post: Mapping[str, str | None]) -> dict[str, str | None]:
         value = post.get(key)
         return " ".join(value.split()) or None if isinstance(value, str) else None
 
-    link = post.get("link")
+    link, day = post.get("link"), post.get("date")
     return {
         "link": site.safe_href(link) if isinstance(link, str) else None,
         "title": text("title"),
         "description": text("description"),
+        "date": day if isinstance(day, str) and DAY.fullmatch(day) else None,
     }
 
 
@@ -366,6 +371,13 @@ def write_output(
     for name in (site.ICON, site.STYLE):
         (docs / name).write_bytes(site.FILES.joinpath(name).read_bytes())
     (docs / ".nojekyll").write_text("")
+    (docs / "preview").mkdir()
+    (docs / "preview" / "index.html").write_text(
+        site.render_preview_page(
+            generated, site_url=site_url, data_url=data_url, posts_url=posts_url
+        ),
+        encoding="utf-8",
+    )
     ranked = by_popularity(topics)
     (docs / "index.html").write_text(
         site.render_index(

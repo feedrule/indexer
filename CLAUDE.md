@@ -92,7 +92,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   per topic links.txt ≤ 50,000, feeds.opml ≤ 500, topic page ≤ 200 (most recently active; each file starts with the next one's feeds; 200 agreed 2026-11-17 for page size); index sorted by count.
   `all/{links.txt,feeds.opml}`: every listed feed, with a topic or not, uncapped.
   links.txt files are newest post first (a search page shows them in file order).
-  `previews/<2 hex>/<sha256 hex of the URL>.json` per listed feed (for a search page, e.g. feedrule.com): `{url, title, subtitle, bytes, last, languages, topics, source, posts_url}` (posts_url: the feed's file on the `posts` branch, `--posts-url` + `export.posts_path`, null if none),
+  `previews/<2 hex>/<sha256 hex of the URL>.json` per listed feed (for a search page, e.g. feedrule.com): `{url, title, subtitle, site, bytes, last, languages, topics, source, posts_url}` (site: the feed's website, http(s) only, asked 2026-11-28; posts_url: the feed's file on the `posts` branch, `--posts-url` + `export.posts_path`, null if none),
   bytes = body size at the latest successful check, languages = the detected labels (list), topics = the feed's topics (list, most similar first),
   source = `{name, license}`: the `site.SOURCES` entry inputs.source belongs to (`site.source_of`), else
   `{null, source_license}`; null if not in inputs (no URL, by the user's choice). Hash, not hex of the URL (file name limit).
@@ -106,7 +106,13 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   don't count toward the Pages limit. Colours: feedrule.com's (Tailwind zinc + orange), light and dark. Jinja templates
   (`src/indexer/publish/templates/`: base, index, topic, sitemap) with autoescaping on and StrictUndefined; `publish/site.py` only prepares
   the data. No front-end framework, no build step; small inline scripts (topic filter; "Show more" on topic pages: 20 rows, then 20 more per click,
-  `site.SHOWN_ROWS`), pages work without them (all 200 rows are in the HTML).
+  `site.SHOWN_ROWS`; the preview page). Pages may need JavaScript (the no-script rule was dropped 2026-11-28 at the user's request).
+  **Preview page** (asked 2026-11-28): each row's meta line ends "Website · Feed · Preview"; Preview links
+  `docs/preview/?sha=<SHA-256 hex of the feed URL>` (`site.url_hash`), one static page whose script accepts only
+  `^[0-9a-f]{64}$`, fetches `previews/<2>/<sha>.json` (`--data-url`) and `data/posts/<2>/<sha>.json` (`--posts-url`) in
+  parallel and builds the page with textContent only (never innerHTML), links only http(s) URLs (feed, site and post
+  links nofollow); post descriptions cut at `site.EXCERPT_CHARS` (300); a missing preview says the feed is not listed,
+  missing posts say none saved yet; `noindex`, not in the sitemap.
   The stylesheet is linked as `style.css?v=<content hash>` (`site.STYLE_VERSION`: Pages caches it 10 minutes). The header links
   the GitHub repository ("Open source").
   Each feed row starts with feedrule.com's icon (`src/indexer/publish/feedrule.svg`, copied to docs/) linking to
@@ -120,7 +126,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   publish.yml force-pushes output/ as one orphan commit to the `output` branch (no history, by design).
 - **Posts branch** (asked 2026-11-27: keep each feed's recent posts in git as long as the feed exists, beyond the
   database's 3 days): orphan branch `posts`, one file per feed at `data/posts/<2 hex>/<sha256 of the URL>.json` (the preview's name
-  under data/posts/, asked 2026-11-27), `{url, posts}` (posts as in `recent_posts`, links http(s) only; no check date, asked 2026-11-27: keep it simple, so
+  under data/posts/, asked 2026-11-27), `{url, posts}` (posts as in `recent_posts`: link (http(s) only), title, description, date (added 2026-11-28 for the preview page); no check date, asked 2026-11-27: keep it simple, so
   a recheck with the same posts writes the same bytes and git sees no change). `indexer export --posts-dir DIR` writes the
   file of every feed with posts in the database and never deletes one. publish.yml checks the branch out, moves
   its `.git` aside before the container runs (the container never sees .git or a token), commits what changed and pushes

@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+{% block body %}
+<nav class="crumbs"><a href="../">All topics</a> / Feed preview</nav>
+<article class="pv" id="preview">
+<h1 id="title">Feed preview</h1>
+<p id="status" class="lead">Loading…</p>
+<noscript><p class="lead">This page needs JavaScript to load the feed's preview.</p></noscript>
+</article>
+<script>
+// Shows one feed: ?sha=<SHA-256 of its URL, 64 hex> names its preview (output branch) and its
+// posts file (posts branch). Everything fetched is untrusted text: it only ever goes in through
+// textContent, and only http(s) URLs become links.
+(() => {
+  const DATA = {{ data_url|tojson }}, POSTS = {{ posts_url|tojson }},
+    FEEDRULE = {{ feedrule_form|tojson }}, EXCERPT = {{ excerpt_chars }};
+  const sha = new URLSearchParams(location.search).get("sha") || "";
+  const page = document.getElementById("preview"), status = document.getElementById("status");
+
+  const el = (tag, cls, text) => {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  };
+  const href = (url) => {
+    try {
+      const u = new URL(url);
+      return u.protocol === "http:" || u.protocol === "https:" ? u.href : null;
+    } catch { return null; }
+  };
+  const link = (url, text, cls) => {
+    const h = href(url);
+    if (!h) return el("span", cls, text);
+    const a = el("a", cls, text);
+    a.href = h;
+    a.rel = "nofollow noopener";
+    return a;
+  };
+  const line = (text) => String(text ?? "").replace(/\s+/g, " ").trim();
+  const cut = (text, n) => (text.length > n ? text.slice(0, n - 1).trimEnd() + "…" : text);
+  const json = async (url) => {
+    const r = await fetch(url);
+    if (r.status === 404) return null;
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
+  };
+
+  const show = (feed, stored) => {
+    const title = line(feed.title) || feed.url;
+    document.title = `${title}: RSS feed preview`;
+    document.getElementById("title").textContent = title;
+    status.remove();
+    const subtitle = line(feed.subtitle);
+    if (subtitle && subtitle.toLowerCase() !== title.toLowerCase()) page.append(el("p", "sub", subtitle));
+
+    const feedUrl = new URL(feed.url);
+    const site = href(feed.site) || `${feedUrl.protocol}//${feedUrl.host}/`;
+    const meta = el("p", "meta");
+    const mail = el("a", "mail");
+    mail.href = FEEDRULE + encodeURIComponent(feed.url).replace(/%3A/gi, ":").replace(/%2F/gi, "/");
+    mail.title = "Get this feed by email (feedrule.com)";
+    const icon = el("img");
+    Object.assign(icon, { src: "../{{ icon }}", width: 20, height: 20, alt: "Get by email" });
+    mail.append(icon);
+    meta.append(mail, new URL(site).hostname, " · ", link(site, "Website"), " · ", link(feed.url, "Feed"));
+    page.append(meta);
+
+    const facts = [];
+    if (feed.last) facts.push(`Last indexed post: ${feed.last}`);
+    if (feed.languages?.length) facts.push(`Languages: ${feed.languages.join(", ")}`);
+    if (feed.source) facts.push(`Found in: ${[feed.source.name, feed.source.license].filter(Boolean).join(", ")}`);
+    if (facts.length) page.append(el("p", "meta", facts.join(" · ")));
+
+    if (feed.topics?.length) {
+      const topics = el("p", "ftopics");
+      for (const name of feed.topics) {
+        const slug = String(name).replaceAll("+", "plus").replaceAll("#", "sharp");
+        const a = el("a", null, name);
+        if (/^[a-z0-9_-]{1,100}$/.test(slug)) { a.href = `../topic/${slug}/`; topics.append(a); }
+      }
+      page.append(topics);
+    }
+
+    page.append(el("h2", null, "Recent posts"));
+    const posts = (stored && Array.isArray(stored.posts) ? stored.posts : []);
+    if (!posts.length) {
+      page.append(el("p", "muted", "No posts saved for this feed yet."));
+      return;
+    }
+    const list = el("ol", "posts");
+    for (const post of posts) {
+      const item = el("li");
+      item.append(link(post.link, line(post.title) || post.link || "Untitled", "ptitle"));
+      if (post.date) {
+        const t = el("time", null, post.date);
+        t.dateTime = post.date;
+        item.append(t);
+      }
+      const text = line(Array.isArray(post.description) ? post.description.join(" ") : post.description);
+      if (text) item.append(el("p", null, cut(text, EXCERPT)));
+      list.append(item);
+    }
+    page.append(list);
+  };
+
+  if (!/^[0-9a-f]{64}$/.test(sha)) {
+    status.textContent = "This link doesn't name a feed.";
+    return;
+  }
+  const name = `${sha.slice(0, 2)}/${sha}.json`;
+  Promise.all([json(`${DATA}previews/${name}`), json(`${POSTS}data/posts/${name}`).catch(() => null)])
+    .then(([feed, stored]) => {
+      if (!feed || !href(feed.url)) status.textContent = "This feed is not listed any more.";
+      else show(feed, stored);
+    })
+    .catch(() => { status.textContent = "The preview could not be loaded. Try again later."; });
+})();
+</script>
+{% endblock %}

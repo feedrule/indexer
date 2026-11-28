@@ -24,7 +24,7 @@ with keyword filters and no account.</span></p>
 {% if row.subtitle %}
 <span class="sub">{{ row.subtitle }}</span>
 {% endif %}
-<span class="meta">{{ row.host }} · <a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a></span>
+<span class="meta">{{ row.host }} · <a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a> · <a class="preview" href="../../{{ row.preview }}">Preview</a></span>
 {% if row.date %}
 <span class="meta">Last indexed post: <time datetime="{{ row.date }}">{{ row.date }}</time></span>
 {% endif %}
@@ -39,7 +39,7 @@ with keyword filters and no account.</span></p>
 {% if rows|length > shown_rows %}
 <p class="more"><button id="more" class="button ghost" type="button" hidden>Show more</button></p>
 <script>
-// All rows are in the page (it works without this script); show SHOWN_ROWS, then as many again per click.
+// All rows are in the page; show SHOWN_ROWS, then as many again per click.
 const step = {{ shown_rows }}, more = document.getElementById("more"),
   rows = [...document.querySelectorAll(".feeds tbody tr")];
 let shown = step;

@@ -23,6 +23,7 @@ from indexer.publish.export import (
     preview_path,
     render_links,
     render_opml,
+    render_posts,
     render_preview,
     top_topics,
     topic_slug,
@@ -155,12 +156,14 @@ def test_feedrule_link_is_prefilled_and_encoded() -> None:
     assert rows(html) == ["https://feedrule.com/?feed=https://f1.example/feed"]
     assert '<img src="../../feedrule.svg" width="20" height="20" alt="Get by email">' in html
     # feed and site links are nofollow; feedrule.com links are not
+    digest = hashlib.sha256(b"https://f1.example/feed").hexdigest()
     # the title and "Website" link to the website; "Feed" to the feed
     assert '<a class="title" href="https://f1.example/" rel="nofollow">T</a>' in html
     # one cell per feed: the domain, Website and Feed on one line, the date on its own
     assert (
         'f1.example · <a class="site" href="https://f1.example/" rel="nofollow">Website</a>'
-        ' · <a class="rss" href="https://f1.example/feed" rel="nofollow">Feed</a></span>' in html
+        ' · <a class="rss" href="https://f1.example/feed" rel="nofollow">Feed</a>'
+        f' · <a class="preview" href="../../preview/?sha={digest}">Preview</a></span>' in html
     )
     assert html.count("<td") == html.count('<td class="feed">') == 1
     assert 'Last indexed post: <time datetime="' in html
@@ -246,6 +249,7 @@ def test_write_output(tmp_path: Path) -> None:
         ".nojekyll",
         "feedrule.svg",
         "index.html",
+        "preview",
         "sitemap.xml",
         "style.css",
         "topic",
@@ -425,6 +429,7 @@ def test_previews(tmp_path: Path) -> None:
         "url": "https://f1.example/feed",
         "title": 'A <b>"x"</b>',  # plain text: the page must not render it as HTML
         "subtitle": "Notes on <i>Rust</i>",  # whitespace collapsed, also plain text
+        "site": None,
         "bytes": 48213,
         "last": "2026-10-03",
         "languages": ["de", "en", "fr"],
@@ -440,6 +445,7 @@ def test_previews(tmp_path: Path) -> None:
         "url": long_url,
         "title": None,
         "subtitle": None,
+        "site": None,
         "bytes": None,
         "last": None,
         "languages": [],
@@ -469,7 +475,12 @@ def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> No
     with_posts = replace(
         feed(1),
         recent_posts=[
-            {"link": "javascript:alert(1)", "title": " New\n <b>post</b>", "description": None}
+            {
+                "link": "javascript:alert(1)",
+                "title": " New\n <b>post</b>",
+                "description": None,
+                "date": "2026-11-14",
+            }
         ],
     )
     write_with_posts(out, posts, [with_posts, feed(2)])
@@ -478,7 +489,9 @@ def test_posts_files_keep_the_posts_and_previews_link_them(tmp_path: Path) -> No
     stored = json.loads((posts / posts_path(with_posts.url)).read_text(encoding="utf-8"))
     assert stored == {
         "url": "https://f1.example/feed",
-        "posts": [{"link": None, "title": "New <b>post</b>", "description": None}],
+        "posts": [
+            {"link": None, "title": "New <b>post</b>", "description": None, "date": "2026-11-14"}
+        ],
     }
     preview = json.loads((out / preview_path(with_posts.url)).read_text(encoding="utf-8"))
     assert preview["posts_url"] == f"https://p.example/posts/{posts_path(with_posts.url)}"
@@ -510,7 +523,46 @@ def test_posts_files_change_only_with_the_posts(tmp_path: Path) -> None:
     )
     write_with_posts(out, posts, [newer])
     doc = json.loads(path.read_text(encoding="utf-8"))
-    assert doc["posts"] == [{"link": "https://f1.example/b", "title": "B", "description": None}]
+    assert doc["posts"] == [
+        {"link": "https://f1.example/b", "title": "B", "description": None, "date": None}
+    ]
+
+
+def test_preview_gives_the_website_and_post_dates_only_when_valid() -> None:
+    evil = replace(
+        feed(1),
+        site_url="javascript:alert(1)",
+        recent_posts=[{"link": "https://f1.example/a", "title": "A", "date": "<b>"}],
+    )
+    assert json.loads(render_preview(evil))["site"] is None
+    assert json.loads(render_preview(feed(1)))["site"] == "https://f1.example/"
+    out = json.loads(render_posts(evil))
+    assert out["posts"][0]["date"] is None
+
+
+def test_preview_page_fetches_by_hash_only(tmp_path: Path) -> None:
+    out = tmp_path / "out"
+    write_output(
+        out,
+        [feed(1, "x"), feed(2, "x"), feed(3, "x")],
+        top=1,
+        generated=NOW,
+        success_days=180,
+        item_years=5,
+        site_url=SITE,
+        data_url=DATA,
+        posts_url="https://p.example/posts/",
+    )
+    html = (out / "docs" / "preview" / "index.html").read_text()
+    assert '<meta name="robots" content="noindex">' in html
+    assert f'<link rel="canonical" href="{SITE}preview/">' in html
+    assert 'DATA = "https://d.example/out/", POSTS = "https://p.example/posts/"' in html
+    assert "/^[0-9a-f]{64}$/.test(sha)" in html  # the only parameter: a SHA-256
+    assert "${DATA}previews/${name}" in html and "${POSTS}data/posts/${name}" in html
+    assert "innerHTML" not in html and "insertAdjacentHTML" not in html  # text only
+    assert 'href="../style.css?v=' in html
+    sitemap = (out / "docs" / "sitemap.xml").read_text()
+    assert "preview" not in sitemap
 
 
 def test_posts_dir_must_exist(tmp_path: Path) -> None:
@@ -583,6 +635,7 @@ def test_repository_spec_matches_the_output() -> None:
         "previews/<h:2>/<h>.json",
         "docs/index.html",
         "docs/topic/<slug>/index.html",
+        "docs/preview/index.html",
         "docs/style.css",
         "docs/feedrule.svg",
         "docs/sitemap.xml",
@@ -596,12 +649,14 @@ def test_repository_spec_matches_the_output() -> None:
         "url",
         "title",
         "subtitle",
+        "site",
         "bytes",
         "last",
         "languages",
         "topics",
         "posts_url",
         "posts",
+        "date",
     ):
         assert f"`{field}`" in spec
     assert "`data/posts/<h:2>/<h>.json`" in spec  # the posts branch's files

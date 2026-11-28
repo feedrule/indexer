@@ -293,7 +293,11 @@ posts after cleanup clears them from the database. Each preview's `posts_url` li
 (`--posts-url`, default `https://raw.githubusercontent.com/feedrule/indexer/posts/`), or is null. It also writes the website, `output/docs/` (`src/indexer/publish/site.py`): `index.html` (the 50 largest
 topics, a search box over all of them, and the sources),
 `topic/<slug>/index.html` for every topic (the 200 most recently active feeds, each with a
-feedrule.com link prefilled with the feed and its other topics), `style.css` and `feedrule.svg` (package data:
+feedrule.com link prefilled with the feed, a Preview link and its other topics),
+`preview/index.html` (one page for every feed: `preview/?sha=<SHA-256 of the feed URL>`; its
+script accepts only 64 hex characters, fetches the feed's preview from `--data-url` and its posts
+file from `--posts-url`, builds the page with `textContent` only and links only http(s) URLs;
+`noindex`, not in the sitemap), `style.css` and `feedrule.svg` (package data:
 `src/indexer/publish/style.css`, `src/indexer/publish/feedrule.svg`), `sitemap.xml` and `.nojekyll`. Topic pages with fewer than 3 feeds are marked `noindex` and left out of
 the sitemap (near-empty pages would count as thin content); they are still linked and searchable. Pages link
 `style.css?v=<hash of its content>`, so browsers load a changed stylesheet at once. GitHub Pages

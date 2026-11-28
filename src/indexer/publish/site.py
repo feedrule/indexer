@@ -1,13 +1,16 @@
 """The published website: static HTML pages in output/docs/, served by GitHub Pages from the
-output branch's /docs folder. An index of the topics and one page per topic (its most recently
-active feeds), a stylesheet, feedrule.com's icon, a sitemap and .nojekyll. The data files
-(links.txt, OPML, previews) stay outside docs/ and are linked on raw.githubusercontent.com,
-so they don't count toward the Pages size limit.
+output branch's /docs folder. An index of the topics, one page per topic (its most recently
+active feeds), one preview page (preview/?sha=<SHA-256 of a feed URL>: a script fetches that
+feed's preview and posts files and shows them), a stylesheet, feedrule.com's icon, a sitemap
+and .nojekyll. The data files (links.txt, OPML, previews) stay outside docs/ and are linked on
+raw.githubusercontent.com, so they don't count toward the Pages size limit.
 
 The pages are Jinja templates (publish/templates/) with autoescaping on, so every value from
 a feed is escaped unless marked safe (nothing is). Escaping does not make a URL safe, so a link
 is only written for an http(s) URL (`safe_href`: a feed's site URL could be `javascript:`).
-Links to the feeds and their sites are rel="nofollow"; links to feedrule.com are not.
+Links to the feeds and their sites are rel="nofollow"; links to feedrule.com are not. The
+preview page's script takes only a 64-hex parameter, builds the page with textContent (never
+HTML) and links only http(s) URLs.
 """
 
 from __future__ import annotations
@@ -25,8 +28,9 @@ if TYPE_CHECKING:
     from indexer.publish.export import ListedFeed, Topic
 
 PAGE_ROWS = 200  # feeds on a topic page (the first ones of its feeds.opml)
-SHOWN_ROWS = 20  # of those, shown at first; "Show more" reveals as many again (all without script)
+SHOWN_ROWS = 20  # of those, shown at first; "Show more" reveals as many again
 SUBTITLE_CHARS = 200  # a feed's subtitle on its row, cut beyond this
+EXCERPT_CHARS = 300  # a post's description on the preview page, cut beyond this
 INDEX_TOPICS = 50  # topics shown on the home page (the filter box searches all of them)
 FILTER_MATCHES = 100  # topics the filter box shows at most
 FEEDRULE = "https://feedrule.com/"
@@ -90,6 +94,12 @@ def safe_href(url: str | None) -> str | None:
     if not url or urlsplit(url.strip()).scheme.lower() not in ("http", "https"):
         return None
     return url.strip()
+
+
+def url_hash(url: str) -> str:
+    """The SHA-256 (hex) of a feed URL in UTF-8: its preview's and posts file's name, and the
+    preview page's parameter."""
+    return hashlib.sha256(url.encode("utf-8")).hexdigest()
 
 
 def feedrule_href(url: str) -> str:
@@ -189,6 +199,26 @@ def render_index(
     )
 
 
+def render_preview_page(
+    generated: datetime, *, site_url: str, data_url: str, posts_url: str
+) -> str:
+    """The one preview page (docs/preview/index.html): its script reads ?sha=<64 hex>, fetches
+    the feed's preview from `data_url` and its posts file from `posts_url`, and shows them.
+    noindex and not in the sitemap: what it shows is the feeds' own text."""
+    return _env.get_template("preview.html").render(
+        title="RSS feed preview",
+        description="A feed's latest posts, topics and languages.",
+        canonical=f"{site_url}preview/",
+        root="../",
+        generated=generated,
+        data_url=data_url,
+        posts_url=posts_url,
+        feedrule_form=FEEDRULE_FORM,
+        excerpt_chars=EXCERPT_CHARS,
+        noindex=True,
+    )
+
+
 def render_sitemap(topics: Iterable[Topic], generated: datetime, site_url: str) -> str:
     urls = [site_url] + [f"{site_url}topic/{t.slug}/" for t in topics if indexed(t)]
     return _env.get_template("sitemap.xml").render(urls=urls, day=generated.date().isoformat())
@@ -230,6 +260,7 @@ def _row(feed: ListedFeed, current: str, published: Mapping[str, str]) -> dict[s
         "site": site,
         "host": urlsplit(site).hostname or "",
         "feedrule": feedrule_href(feed.url),
+        "preview": f"preview/?sha={url_hash(feed.url)}",
         "topics": other_topics(feed, current, published),
         "date": feed.last_item_date.date().isoformat() if feed.last_item_date else "",
     }
