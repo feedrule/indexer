@@ -111,9 +111,15 @@ th, td { padding: 9px 8px; border-bottom: 1px solid var(--border); vertical-alig
 .feeds .title { color: var(--fg); font-weight: 500; }
 .feeds .meta, .feeds .meta a { color: var(--muted); font-size: 13px; }
 .feeds .meta.host { margin: 2px 0; }
-.feeds .meta a.site, .feeds .meta a.rss, .feeds .meta a.preview, .feeds .meta a.digest { color: var(--link); }
-a.digest { white-space: nowrap; }
-a.digest img { width: 14px; height: 14px; margin-left: 4px; border-radius: 3px; vertical-align: -2px; }
+.feeds .meta a.site, .feeds .meta a.rss, .feeds .meta a.preview { color: var(--link); }
+/* the email-digest icon: top right of each feed (and of the preview page), after the feed's own content */
+td.feed { position: relative; padding-right: 40px; }
+a.corner { position: absolute; top: 10px; right: 8px; line-height: 0; }
+a.corner img { width: 20px; height: 20px; border-radius: 4px; }
+a.corner:hover img { outline: 2px solid var(--accent); outline-offset: 1px; }
+.pv { position: relative; padding-right: 44px; }
+.pv a.corner { top: 6px; right: 0; }
+.pv a.corner img { width: 24px; height: 24px; }
 .ftopics { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
 .ftopics a, .ftopics span {
   padding: 0 7px;

@@ -10,8 +10,8 @@
 {% endif %}
 <p class="actions"><a class="button" href="{{ data }}feeds.opml">.OPML</a>
 <a class="button ghost" href="{{ data }}links.txt">.TXT</a></p>
-<p class="tip"><img src="../../{{ icon }}" width="20" height="20" alt=""><span>Use "Email digest by Feedrule" under
-a feed to get its new posts by email: a free digest from <a href="{{ feedrule }}">feedrule.com</a>,
+<p class="tip"><img src="../../{{ icon }}" width="20" height="20" alt=""><span>Click the icon at the right
+of a feed to get its new posts by email: a free digest from <a href="{{ feedrule }}">feedrule.com</a>,
 with keyword filters and no account.</span></p>
 <table class="feeds">
 <thead><tr><th>Feed</th></tr></thead>
@@ -25,13 +25,13 @@ with keyword filters and no account.</span></p>
 <span class="sub">{{ row.subtitle }}</span>
 {% endif %}
 <span class="meta"><a class="site" href="{{ row.site }}" rel="nofollow">Website</a> · <a class="rss" href="{{ row.feed }}" rel="nofollow">Feed</a> · <a class="preview" href="../../{{ row.preview }}">Preview</a></span>
-<span class="meta"><a class="digest" href="{{ row.feedrule }}" title="Get this feed's new posts by email (feedrule.com)">Email digest by Feedrule<img src="../../{{ icon }}" width="14" height="14" alt=""></a></span>
 {% if row.date %}
 <span class="meta">Last indexed post: <time datetime="{{ row.date }}">{{ row.date }}</time></span>
 {% endif %}
 {% if row.topics %}
 <span class="ftopics">{% for name, slug in row.topics %}{% if slug %}<a href="../{{ slug }}/">{{ name }}</a>{% else %}<span>{{ name }}</span>{% endif %}{% endfor %}</span>
 {% endif %}
+<a class="digest corner" href="{{ row.feedrule }}" title="Email digest by Feedrule: get this feed's new posts by email"><img src="../../{{ icon }}" width="20" height="20" alt="Email digest by Feedrule"></a>
 </td>
 </tr>
 {% endfor %}
