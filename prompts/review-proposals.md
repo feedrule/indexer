@@ -42,17 +42,22 @@ Reject:
 - **A business's own marketing**: a shop, an agency or a service provider blogging to sell
   (`reason: commercial`).
 - **SEO, affiliate or guest-post content**: generic how-to posts written to rank, posts full of
-  affiliate links or `sponsored: true`, descriptions that read like meta tags (`reason: seo`).
+  affiliate links or `sponsored: true`, descriptions that read like meta tags, guest posts by
+  founders or other authors promoting their business or book, blog tours (`reason: seo`).
 - **Press releases and PR wires** (`reason: press`).
-- **Republished or aggregated content**: syndicated articles, scraped posts, radio content farms
-  (`reason: republished`).
+- **Republished or aggregated content**: syndicated articles, scraped posts, radio content farms,
+  one-line teasers of other sites' news, link aggregators (`reason: republished`).
 - **Automated listings**: jobs, packages, products, fonts, maps, releases (`reason: machine`).
 - **Forums** (`reason: forum`).
 - **Scams, spam, conspiracy, gambling or adult content** (`reason: unsafe`).
 - **Anything else not worth following** (`reason: other`).
 
 A church, a school or a local group whose posts reach readers well beyond its members (a
-well-known preacher's essays, a teacher's blog about teaching) is not hyperlocal: accept it.
+well-known preacher's essays, a teacher's blog about teaching) is not hyperlocal: accept it. A
+student newspaper, a club's or an association's own news and events are `notices`.
+
+`sponsored: true` or affiliate links alone don't make a feed SEO: a writer linking to their own
+books, or a news site that also posts deals, is still judged by what it mostly publishes.
 
 ## How to decide
 
@@ -61,11 +66,12 @@ For each feed, decide one of three things:
 - **accept**: there is enough information, and the feed is good.
 - **reject**: there is enough information, and the feed is bad. Give one reason: commercial,
   seo, press, republished, machine, forum, notices, unsafe or other.
-- **unsure**: there is not enough information to tell (no posts with text, only titles that say
-  nothing, descriptions too short or too generic to tell who writes it and for whom).
+- **unsure**: there is nothing to judge from: the posts have no text, or only titles that say
+  nothing about them.
 
 Judge from the title, `about`, the categories, the authors and above all the recent posts' titles
-and descriptions. When you can't tell, answer unsure rather than guessing.
+and descriptions. Unsure is for missing information, not for hard calls: when there is text to
+read, decide, even on a borderline feed (borderline promotion is a reject, usually `seo`).
 Ignore `score`: it is the previous model's guess, and your review is what teaches the next one.
 
 ## Your answer
