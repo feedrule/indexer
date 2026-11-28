@@ -52,7 +52,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   branch, so old proposals can't be merged by mistake). Skips URLs already in that branch's files (accepted or not) or in inputs.
   Untrusted titles/categories/links: one line in the file (`files._one_line`); none of it goes in the PR.
   The file is YAML (asked 2026-11-22, replacing comment blocks in .txt files, converted once): a comment header, then one
-  document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, site (the feed's website, http(s) only; asked 2026-11-27), language, last_post,
+  document per feed separated by `---`, fields easy to parse: url, `accept: false` by default, title, site (the feed's website, http(s) only; asked 2026-11-27), language, last_post, future_dated (true/false, always written: some item dated more than a day ahead; asked 2026-11-28; `FeedInfo.future_dated`, never stored),
   about, posts_read and categories (the authors' top 8 with counts, `run._top_categories` from `FeedInfo.item_tags`, never
   stored), authors (who wrote the posts read: names only, never an email address; top 5 with counts, `run._top_authors` from `FeedInfo.item_authors`, never stored; asked 2026-11-28; not in the proposal model's text), found_in (the WAT file), recent_posts (3: link, date (the item's newest date, a UTC day; asked 2026-11-27, also stored in `recent_posts`), title, links (the other sites the post links to, registrable domains with counts, top 5) and `sponsored: true` (strict evidence only: rel=sponsored, affiliate network domains, Amazon `tag=`, a disclosure; `check/post_links.py`; asked 2026-11-28, per post only, no feed totals; never stored), description as a list of lines ≤ 60 characters for phones (the longest of the item's description fields, so full content beats an excerpt; asked 2026-11-28, stored that way too; language and topics still read the first);
   `FeedInfo.recent_posts`, never stored or fetched); lists and mappings in block style, one item per line. Written with
@@ -84,6 +84,11 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
 - `data/submissions.txt`: user-submitted feeds via PR, last source in sources.toml, read via `files`; tested.
 - Common Crawl rows: source = WAT file URL, license `LicenseRef-CommonCrawl-ToU` (ranked last). No download
   retries: if the slice fails to download (e.g. a 503), the run fails; next week's run tries again. Feed health checks never retry.
+- **Future item dates are ignored, not punished** (agreed 2026-11-28: 36 of 35,295 listed feeds had a newest post after
+  today, pinned posts dated 2099/9999, theme defaults, typos, mostly good personal blogs): the parser drops item dates
+  later than now + `feed.FUTURE_MARGIN` (1 day) for `last_item_date` and each recent post's date (an item with only such
+  dates is undated), so the feed is sorted and kept listed by its real posts; all dates in the future gives no date (not
+  listed, like an undated feed). No penalty otherwise; proposals show `future_dated`.
 - Batches: the `--batch` most outdated inputs, never checked first, then oldest `last_checked_at` (ties random);
   none checked within `--check-cooldown-minutes` (1440, agreed 2026-11-22); storing a
   row sets `inputs.last_checked_at` whatever the outcome.

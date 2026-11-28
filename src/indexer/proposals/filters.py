@@ -153,7 +153,7 @@ def served_url(row: CheckRow, exclude: frozenset[str] = frozenset()) -> str | No
 
 def _is_active(row: CheckRow, now: datetime, active_days: int) -> bool:
     """Parsed today, and the newest item is from the last `active_days` days. A date more than a
-    day in the future is not trusted."""
+    day in the future is not trusted (the parser already ignores those: a guard)."""
     date = row.last_item_date
     if row.error is not None or date is None:
         return False

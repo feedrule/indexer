@@ -148,7 +148,7 @@ once. A site is the host without `www.` (not the registrable domain, which would
 shared hosts like `fc2.com` or `free.fr`). A feed is proposed only if:
 
 - it parses, and its newest item is from the last `--active-days` (243, about 8 months) days (a
-  date more than a day in the future doesn't count);
+  date more than a day in the future is ignored by the parser, see `last_item_date`);
 - it is **in English**: `en` is the only language detected on its items (see `language`
   below). The feed's own `<language>` is not read: WordPress says `en-US` unless the owner changes it;
 - it **has a title**, and at least one of its recent posts has a title or text (a missing
@@ -193,7 +193,8 @@ origin/proposals` does the same. The finds go to a new file per run,
 `data/proposals/202611/19-041105.yaml`). The file is YAML: a comment
 header, then one document per feed, separated by `---`: `url`, `accept: false`, `title`, `site`
 (the website the feed names, if http(s)),
-`language`, `last_post` (the newest item's date), `about` (the subtitle), `posts_read` and
+`language`, `last_post` (the newest item's date), `future_dated` (`true` if some item is dated
+more than a day ahead, a date that is ignored), `about` (the subtitle), `posts_read` and
 `categories` (the 8 categories its authors used most on those posts, with counts), `authors`
 (who wrote those posts: the 5 names on most of them, with counts; names only, an email address is
 dropped; left out when no post names one; never stored), `found_in`
@@ -438,7 +439,7 @@ To run the same steps from your machine against Supabase, put those values in a 
 | `ip_address` | the final hop's server address; for a failed connection, the last address tried |
 | `file_size` | bytes of the final body, after decompression |
 | `item_count` | number of `<item>` / `<entry>` elements |
-| `last_item_date` | newest published/updated date among the items |
+| `last_item_date` | newest published/updated date among the items, ignoring dates more than a day ahead (`feed.FUTURE_MARGIN`: pinned posts dated 2099 or 9999, typos); null if every date is |
 | `ttl` | RSS `<ttl>` in minutes, if present and valid |
 | `fetch_time_ms` | request start until the body is fully read, redirects included |
 | `response_time_ms` | time to the response headers of the final request |

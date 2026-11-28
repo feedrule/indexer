@@ -16,6 +16,7 @@ needs:
     site: https://missfrugalmommy.com/
     language: en
     last_post: 2026-11-12
+    future_dated: false
     about: Saving money with kids, one small habit at a time, every week
     posts_read: 30
     categories:
@@ -36,6 +37,8 @@ needs:
           - We spend too much on food. Here are ten things that we
           - changed...
 
+`future_dated` is true when some post is dated more than a day ahead (a "pinned" post dated
+2099, a typo): that date is ignored, so last_post and the posts' dates are the real ones.
 `authors` are who wrote the posts read (names only, never an email address; at most 5, most
 posts first; left out when no post names one): one name suggests a person's blog, "admin" or
 many names a press office or a content farm. A post's `links` are the other sites its HTML
@@ -134,6 +137,7 @@ def _entry(s: Proposal) -> dict[str, Any]:
         entry["site"] = site
     entry["language"] = _one_line(s.language, 200) or None
     entry["last_post"] = s.last_item_date.date()
+    entry["future_dated"] = s.future_dated
     if subtitle := _one_line(s.subtitle, _MAX_SUBTITLE):
         entry["about"] = subtitle
     if s.posts_read:

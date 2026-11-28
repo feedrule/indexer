@@ -248,6 +248,42 @@ def test_recent_posts_are_the_three_most_recent_items() -> None:
     assert links(parse_feed(undated)) == ("https://a.example/1", "https://a.example/2")
 
 
+def test_future_item_dates_are_ignored_and_flagged() -> None:
+    now = datetime(2026, 11, 28, 12, tzinfo=UTC)
+    rss = b"""<rss version="2.0"><channel><title>t</title>
+      <item><link>https://a.example/pinned</link><pubDate>Fri, 31 Dec 2099 00:00:00 GMT</pubDate>
+      </item>
+      <item><link>https://a.example/real</link><pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      </item></channel></rss>"""
+    info = parse_feed(rss, now=now)
+    assert info.last_item_date == datetime(2026, 11, 23, 8, tzinfo=UTC)  # the real newest post
+    assert info.future_dated
+    # the pinned post keeps its place in the feed but loses its date: undated posts come last
+    assert [(p.link, p.date) for p in info.recent_posts] == [
+        ("https://a.example/real", "2026-11-23"),
+        ("https://a.example/pinned", None),
+    ]
+    # within a day ahead is time zones or clocks, not a made-up date
+    soon = rss.replace(b"Fri, 31 Dec 2099 00:00:00 GMT", b"Sun, 29 Nov 2026 06:00:00 GMT")
+    info = parse_feed(soon, now=now)
+    assert not info.future_dated and info.last_item_date == datetime(2026, 11, 29, 6, tzinfo=UTC)
+    # only future dates: no date at all (so no listing, as for an undated feed)
+    atom = b"""<feed xmlns="http://www.w3.org/2005/Atom"><title>t</title>
+      <entry><link href="https://a.example/1"/><updated>9999-09-09T00:00:00Z</updated></entry>
+    </feed>"""
+    info = parse_feed(atom, now=now)
+    assert info.last_item_date is None and info.future_dated
+    assert info.recent_posts[0].date is None
+    rdf = b"""<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <channel><title>t</title></channel>
+      <item><link>https://a.example/r</link><dc:date>3000-01-01</dc:date></item>
+      <item><link>https://a.example/s</link><dc:date>2026-11-20</dc:date></item>
+    </rdf:RDF>"""
+    info = parse_feed(rdf, now=now)
+    assert info.future_dated and info.last_item_date == datetime(2026, 11, 20, tzinfo=UTC)
+
+
 def test_recent_posts_carry_their_newest_date_as_a_utc_day() -> None:
     atom = b"""<feed xmlns="http://www.w3.org/2005/Atom"><title>t</title>
       <entry><link href="https://a.example/1"/><published>2026-11-01T23:30:00-02:00</published>

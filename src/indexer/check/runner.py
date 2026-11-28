@@ -73,6 +73,7 @@ class CheckRow:
     item_texts: tuple[str, ...] = ()  # the newest posts' title and start: proposals, not stored
     item_tags: tuple[tuple[str, ...], ...] = ()  # each of item_texts' categories: proposals only
     item_authors: tuple[str | None, ...] = ()  # each of item_texts' author: proposals only
+    future_dated: bool = False  # some item dated in the future (ignored): proposals only
     detail: str | None = None  # logged, not stored
 
 
@@ -118,6 +119,7 @@ async def check_one(
         row.item_texts = info.item_texts
         row.item_tags = info.item_tags
         row.item_authors = info.item_authors
+        row.future_dated = info.future_dated
         if languages is not None:
             per_post = languages.post_languages(info.item_texts)
             labels = feed_languages(per_post)

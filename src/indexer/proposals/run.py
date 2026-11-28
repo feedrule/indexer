@@ -61,6 +61,7 @@ class Proposal:
     score: float | None = None  # probability of being accepted (training.py's model)
     site_url: str | None = None  # the website the feed names (untrusted, never fetched)
     authors: tuple[tuple[str, int], ...] = ()  # the posts' authors: (name, posts), top
+    future_dated: bool = False  # some post dated in the future (that date ignored)
 
 
 @dataclass(slots=True)
@@ -203,6 +204,7 @@ def _judge(row: CheckRow, rules: Rules, wat_url: str, result: ProposalsResult) -
         len(row.item_tags),
         site_url=row.site_url,
         authors=_top_authors(row.item_authors),
+        future_dated=row.future_dated,
     )
 
 

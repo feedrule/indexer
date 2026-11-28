@@ -64,6 +64,7 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
         "title: Miss Frugal Mommy\n"
         "language: en\n"
         "last_post: 2026-11-12\n"
+        "future_dated: false\n"
         "about: Saving money with kids\n"
         "posts_read: 30\n"
         "categories:\n"
@@ -85,6 +86,16 @@ def test_entries_are_yaml_documents_starting_at_accept_false() -> None:
     bare = render_entries([proposal("https://a.example/f", "A")], "C", date(2026, 1, 1))
     assert "about:" not in bare and "categories:" not in bare and "authors:" not in bare
     assert "recent_posts: []\n" in bare
+
+
+def test_entries_say_whether_a_post_is_future_dated() -> None:
+    pinned = replace(proposal("https://a.example/feed", "A"), future_dated=True)
+    (feed,) = proposal_documents(render_entries([pinned], "C", date(2026, 1, 1)).encode())
+    assert feed["future_dated"] is True  # a YAML boolean, always written
+    (feed,) = proposal_documents(
+        render_entries([proposal("https://b.example/feed", "B")], "C", date(2026, 1, 1)).encode()
+    )
+    assert feed["future_dated"] is False
 
 
 def test_entries_show_the_website_and_each_posts_date() -> None:

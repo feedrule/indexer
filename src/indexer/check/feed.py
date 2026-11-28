@@ -15,7 +15,7 @@ import re
 import urllib.parse
 from collections.abc import Iterable
 from dataclasses import dataclass
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timedelta
 from typing import NamedTuple, TypedDict
 from xml.etree.ElementTree import Element, ParseError
 
@@ -63,6 +63,11 @@ _RSS_DATES = ("pubDate", f"{DC}date", f"{ATOM}updated", f"{ATOM}published")
 _ATOM_DATES = (f"{ATOM}updated", f"{ATOM}published")
 _ATOM03_DATES = (f"{ATOM03}modified", f"{ATOM03}issued", f"{ATOM03}created")
 _RDF_DATES = (f"{DC}date", f"{DCTERMS}modified", f"{DCTERMS}issued")
+# An item dated further ahead than this (time zones, clocks) has a made-up date: a "pinned" post
+# dated 2099 or 9999, a theme's default, a typo. Such dates are ignored: the feed's last item date
+# and each post's date come from the real ones, so a pinned post can neither keep a dead feed
+# listed nor put it first. The feed is only flagged (FeedInfo.future_dated), never penalised.
+FUTURE_MARGIN = timedelta(days=1)
 
 
 _DECLARED_ENCODING = re.compile(
@@ -93,7 +98,7 @@ STORED_POST_FIELDS = ("link", "title", "description", "date")
 class FeedInfo:
     kind: str  # rss, rdf, atom, atom03
     item_count: int
-    last_item_date: datetime | None
+    last_item_date: datetime | None  # the newest item date not in the future (FUTURE_MARGIN)
     ttl: int | None
     generator: str | None = None
     site_url: str | None = None  # the website the feed belongs to
@@ -118,6 +123,9 @@ class FeedInfo:
     # The author of each of item_texts' items (`_item_author`: a name, never an email address),
     # or None: untrusted, never stored; shown to reviewers of proposals.
     item_authors: tuple[str | None, ...] = ()
+    # Some item is dated more than FUTURE_MARGIN ahead (that date is ignored): shown to reviewers
+    # of proposals, never stored.
+    future_dated: bool = False
 
 
 def clean_url(value: str | None, base: str | None = None) -> str | None:
@@ -151,8 +159,11 @@ def parse_date(text: str | None) -> datetime | None:
     return None
 
 
-def parse_feed(body: bytes, base_url: str | None = None) -> FeedInfo:
-    """Raise CheckError unless body is a feed. base_url resolves relative links."""
+def parse_feed(
+    body: bytes, base_url: str | None = None, *, now: datetime | None = None
+) -> FeedInfo:
+    """Raise CheckError unless body is a feed. base_url resolves relative links. Item dates
+    later than `now` (default: the current time) plus FUTURE_MARGIN are ignored."""
     if not _looks_like_markup(body):
         raise CheckError(ErrorCode.NOT_A_FEED, "body is not XML")
     try:
@@ -170,8 +181,9 @@ def parse_feed(body: bytes, base_url: str | None = None) -> FeedInfo:
             raise CheckError(ErrorCode.NOT_A_FEED, "HTML document") from exc
         raise CheckError(ErrorCode.PARSE_ERROR, str(exc)) from exc
 
-    info = _parse_root(root, base_url)
-    return dataclasses.replace(info, **_describe(root, info.kind, base_url))
+    latest = (now or datetime.now(UTC)) + FUTURE_MARGIN
+    info = _parse_root(root, base_url, latest)
+    return dataclasses.replace(info, **_describe(root, info.kind, base_url, latest))
 
 
 class Description(TypedDict):
@@ -230,14 +242,22 @@ def _iso(value: str) -> datetime | None:
     return datetime.fromisoformat(value)
 
 
-def _newest(items: Iterable[Element], tags: tuple[str, ...]) -> datetime | None:
+def _newest(
+    items: Iterable[Element], tags: tuple[str, ...], latest: datetime
+) -> tuple[datetime | None, bool]:
+    """The newest item date up to `latest`, and whether some item is dated after it."""
     newest: datetime | None = None
+    future = False
     for item in items:
         for tag in tags:
             dt = parse_date(item.findtext(tag))
-            if dt is not None and (newest is None or dt > newest):
+            if dt is None:
+                continue
+            if dt > latest:
+                future = True
+            elif newest is None or dt > newest:
                 newest = dt
-    return newest
+    return newest, future
 
 
 def _ttl(text: str | None) -> int | None:
@@ -280,7 +300,7 @@ def _as_utf8(body: bytes) -> bytes:
     return body[: match.start(1)] + b"UTF-8" + rest.encode("utf-8")
 
 
-def _parse_root(root: Element, base_url: str | None) -> FeedInfo:
+def _parse_root(root: Element, base_url: str | None, latest: datetime) -> FeedInfo:
     tag = root.tag
     if tag == "rss":
         channel = root.find("channel")
@@ -289,29 +309,33 @@ def _parse_root(root: Element, base_url: str | None) -> FeedInfo:
         items = channel.findall("item") or root.findall("item")
         date_tags: tuple[str, ...] = _RSS_DATES
         _site, self_url = _atom_links(channel, ATOM, base_url)
+        newest, future = _newest(items, date_tags, latest)
         return FeedInfo(
             "rss",
             len(items),
-            _newest(items, date_tags),
+            newest,
             _ttl(channel.findtext("ttl")),
             generator=_clean_text(channel.findtext("generator")),
             site_url=clean_url(channel.findtext("link"), base_url),
             self_url=self_url,
             new_feed_url=clean_url(channel.findtext(f"{ITUNES}new-feed-url"), base_url),
+            future_dated=future,
         )
     if tag in (f"{ATOM}feed", f"{ATOM03}feed"):
         ns = ATOM if tag == f"{ATOM}feed" else ATOM03
         entries = root.findall(f"{ns}entry")
         date_tags = _ATOM_DATES if ns == ATOM else _ATOM03_DATES
         site, self_url = _atom_links(root, ns, base_url)
+        newest, future = _newest(entries, date_tags, latest)
         return FeedInfo(
             "atom" if ns == ATOM else "atom03",
             len(entries),
-            _newest(entries, date_tags),
+            newest,
             None,
             generator=_atom_generator(root, ns),
             site_url=site,
             self_url=self_url,
+            future_dated=future,
         )
     if tag == f"{RDF}RDF":
         ns = RSS10
@@ -323,13 +347,15 @@ def _parse_root(root: Element, base_url: str | None) -> FeedInfo:
         items = root.findall(f"{RSS10}item") + root.findall(f"{RSS090}item")
         date_tags = _RDF_DATES
         agent = channel.find(f"{ADMIN}generatorAgent")
+        newest, future = _newest(items, date_tags, latest)
         return FeedInfo(
             "rdf",
             len(items),
-            _newest(items, date_tags),
+            newest,
             None,
             generator=_clean_text(agent.get(f"{RDF}resource")) if agent is not None else None,
             site_url=clean_url(channel.findtext(f"{ns}link"), base_url),
+            future_dated=future,
         )
     raise CheckError(ErrorCode.NOT_A_FEED, f"root element {tag[:100]}")
 
@@ -410,12 +436,14 @@ def _recent_posts(
     date_tags: tuple[str, ...],
     title_tag: str,
     description_tags: tuple[str, ...],
+    latest: datetime,
 ) -> tuple[RecentPost, ...]:
     """The MAX_RECENT_POSTS most recent items with a link (undated items after dated ones, in
     feed order), distinct by link: the link as written (RSS/RDF <link> text, Atom <link
     rel=alternate href>, only printable characters, length capped), the title, the start of the
     longest description (full content over an excerpt), and the item's newest date (a day,
-    UTC; None if undated)."""
+    UTC; None if undated). Dates after `latest` are ignored: an item with only such dates is
+    undated."""
     dated: list[tuple[float, int, str, Element, datetime | None]] = []
     for position, item in enumerate(items):
         if atom:
@@ -431,7 +459,9 @@ def _recent_posts(
             raw = item.findtext(f"{ns}link")
         link = "".join(c for c in (raw or "") if c.isprintable()).strip()[:MAX_POST_LINK_LEN]
         if link:
-            dates = [d for tag in date_tags if (d := parse_date(item.findtext(tag)))]
+            dates = [
+                d for tag in date_tags if (d := parse_date(item.findtext(tag))) and d <= latest
+            ]
             when = max(dates) if dates else None
             dated.append((-when.timestamp() if when else float("inf"), position, link, item, when))
     posts: dict[str, RecentPost] = {}
@@ -561,7 +591,7 @@ def _item_texts(
     return {"item_texts": tuple(texts), "item_tags": tuple(tags), "item_authors": tuple(authors)}
 
 
-def _describe(root: Element, kind: str, base: str | None) -> Description:
+def _describe(root: Element, kind: str, base: str | None, latest: datetime) -> Description:
     """Descriptive fields; every value is cleaned, length-capped text or a cleaned URL."""
     if kind == "rss":
         channel = root.find("channel")
@@ -578,6 +608,7 @@ def _describe(root: Element, kind: str, base: str | None) -> Description:
                 date_tags=_RSS_DATES,
                 title_tag="title",
                 description_tags=("description", f"{CONTENT}encoded"),
+                latest=latest,
             ),
             **_item_texts(items, "title", ("description", f"{CONTENT}encoded")),
             "media_type": _media_type(items),
@@ -610,6 +641,7 @@ def _describe(root: Element, kind: str, base: str | None) -> Description:
                 date_tags=_ATOM_DATES if ns == ATOM else _ATOM03_DATES,
                 title_tag=f"{ns}title",
                 description_tags=(f"{ns}summary", f"{ns}content"),
+                latest=latest,
             ),
             **_item_texts(
                 entries,
@@ -637,6 +669,7 @@ def _describe(root: Element, kind: str, base: str | None) -> Description:
         date_tags=_RDF_DATES,
         title_tag=f"{ns}title",
         description_tags=(f"{ns}description",),
+        latest=latest,
     )
     return {
         "title": _text_of(channel.find(f"{ns}title"), markup=True),
