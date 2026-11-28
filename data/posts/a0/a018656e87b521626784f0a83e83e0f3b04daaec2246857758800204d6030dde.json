@@ -1,0 +1,23 @@
+{
+  "url": "http://www.sofastatistics.com/blog/feed/",
+  "posts": [
+    {
+      "link": "http://www.sofastatistics.com/blog/join-the-sofastats_lib-community/",
+      "title": "Join the sofastats_lib community",
+      "description": "If you’re a Python developer, we invite you to join us in making sofastats_lib the best Python statistics library it can be. Even if you don’t have any other contributions to make, we’d really welcome your GitHub stars to help promote the project. We’d also welcome help improving the developer experience. Any feedback on how we can do that would be welcome. Our attitude: if anything is confusing, that’s on us not you. Repo url: https://github.com/sofastats/sofastats_lib .",
+      "date": "2026-02-28"
+    },
+    {
+      "link": "http://www.sofastatistics.com/blog/friendly-python-statistics-library-launched/",
+      "title": "Friendly Python Statistics Library Launched",
+      "description": "Trusted statistical reporting is now available in the convenient form of a Python library. Welcome to SOFA Stats – No Sweat Stats! Perhaps you need to run an ANOVA, or a correlation analysis. Or you want to display your data as Box Plots, or nested Cross Tab tables. sofastats_lib can help. Look at the Output Gallery to see what is available. Here is the output of a simple Cross Tab table (based on synthetic demonstration data): And here’s a preview of some of the charting options (also using synthetic data): And the existing ANOVA documentation (once again, using synthetic data): The full API is documented here: https://sofastats.github.io/sofastats_lib/API/ and there is a simple guide to making and reusing your own styles . The easiest option is to start with a CSV. Just make sure it is long format not wide format (see Data Preparation ). sofastats_lib is based on the tried-and-true SOFA Statistics desktop application but can be used like any other Python library. You can add it to yo",
+      "date": "2026-01-25"
+    },
+    {
+      "link": "http://www.sofastatistics.com/blog/the-when-of-python/",
+      "title": "The When of Python",
+      "description": "SOFA Statistics (and SOFA Lite) are both written in Python. SOFA Statistics was originally written in Python2 and ported into Python3. SOFA Lite is being written in Python 3.11 from the ground up and tries to use the best features that modern Python provides. Not all features added to Python recently are good features and sometimes it is hard to know which of multiple alternatives should be used – for example, should we use collections.namedtuple, typing.namedtuple, or dataclasses.dataclass? Which is where the When of Python project comes in – tag line: Shrinking Python to fit our brains by providing guidance on when to use language features (and when not to) Find out more at https://whenof.python.nz/blog and try out the demo app at https://whenof.python.nz . The project can also be followed at https://twitter.com/WhenOfPython",
+      "date": "2023-05-01"
+    }
+  ]
+}

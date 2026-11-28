@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.trine.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://blog.trine.dev/posts/2026-11-17-gates/",
+      "title": "On Gates: Who Checks the Check",
+      "description": "Orbit went from 0.12 to 0.25 in about four days, and almost every release was the same fix: a gate that leaked. The check needs a check. The one that holds is a typed fact, not a sentence.",
+      "date": "2026-11-17"
+    },
+    {
+      "link": "https://blog.trine.dev/posts/2026-11-12-units/",
+      "title": "On Units: The PR and Its Author",
+      "description": "About 180 PRs across four projects, written and verified by agents. The first week is easy. After that the unit isn't the commit or the week, it's the PR, and the author is a group of PRs that needs a credit score.",
+      "date": "2026-11-12"
+    },
+    {
+      "link": "https://blog.trine.dev/posts/2026-10-23-self-improvement/",
+      "title": "On Self-Improvement",
+      "description": "Notes on letting an agent improve its own harness. It's almost always overfitting, the patch is the cheap part, and everything that works has a benchmark under it. We have an inbox.",
+      "date": "2026-10-22"
+    }
+  ]
+}

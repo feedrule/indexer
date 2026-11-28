@@ -1,0 +1,23 @@
+{
+  "url": "https://ianyepan.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "title": "Emacs Appearances in Pop Culture",
+      "description": "Thank you for the support, this blog post got featured on the front page of Hacker News (YCombinator). As an Emacs user, few things are as delightful as catching my favorite text editor out in the wild. It doesn’t happen often though – Emacs is niche, and pop culture rarely gives it a nod. This post tracks down every one I know of (as of June 2026), and I’ll keep adding to it as I stumble ...",
+      "date": "2026-06-13"
+    },
+    {
+      "link": "https://ianyepan.github.io/posts/qemu-hw-emulation-for-openbmc/",
+      "title": "From C to Silicon - Hands-on Guide to QEMU Hardware Emulation for OpenBMC",
+      "description": "In this blog post, we’ll explore how to write code that mimics physical silicon. We will create and integrate a virtual temperature sensor and expose it to the BMC’s (baseboard management controller) processor - effectively simulating the process of soldering a physical IC (integrated circuit) onto a motherboard. We will use QEMU to emulate an Aspeed AST2600 EVB board and “wire” our sensor, pro...",
+      "date": "2026-06-06"
+    },
+    {
+      "link": "https://ianyepan.github.io/posts/c-web-server/",
+      "title": "Building a Simple Web Server in C - an open source project",
+      "description": "This Github repo is a well-designed small project to learn about web servers in C. A lot of the heavy lifting data structures and basic interactions using the socket API have been given to us. The focus of this project is to build an HTTP request parser, an HTTP response builder, and an LRU cache consisting of a doubly linked list and a hash table. Understanding the given code is also pretty mu...",
+      "date": "2026-06-06"
+    }
+  ]
+}

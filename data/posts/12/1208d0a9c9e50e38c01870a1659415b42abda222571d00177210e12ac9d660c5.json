@@ -1,0 +1,23 @@
+{
+  "url": "https://www.alexhyett.com/feed/feed.atom.xml",
+  "posts": [
+    {
+      "link": "https://www.alexhyett.com/newsletter/there-is-no-shortcut-to-reliability/",
+      "title": "There is no shortcut to reliability",
+      "description": "This hasn't been a great few weeks for tech when it comes to uptime and reliability. Major companies have had the worst outages in history, and it is no surprise what the actual cause is. Microsoft 365 - More like Microsoft 364 given how long it was down. United Airlines' systems Air Traffic Control NSA's network Multiple Banks Apple's iCloud and ApplePay All the companies have said that this is not due to a cyberattack but down to system failures. These are companies that for years have had reliable systems and are now all going down at once. Microsoft said way back in April that as much as 30% of the code was now written by AI. Yet we are expected to believe that the bug that caused this outage was a human error. At this point many companies just see software engineers as the scapegoat when something goes wrong. It is no coincidence that Microsoft's major outage is just weeks after announcing that it is offering voluntary buyouts for 60,000 of their staff. I suspect the real reason t",
+      "date": "2026-11-22"
+    },
+    {
+      "link": "https://www.alexhyett.com/videos/is-this-software-development-now/",
+      "title": "Is this Software Development now?",
+      "description": "I must admit I used to be an AI sceptic. I used AI a lot when Claude Code first came out, and it struggled with even simple bash scripts introducing a lot of mistakes that I would have to check and correct. There was so much back and forth just to get something working that it was questionable how anyone was saving time with this. Now with the latest models, it is truly impressive what can be achieved. YouTube seems to be full at the moment with people vibe coding whole games. I have seen copies of Splatoon , Mario Kart , Minecraft , GTA , Spiderman and even Godzilla. Someone even made a lawn mowing game . As you probably saw on the news a few weeks ago someone used AI to clone the whole Adobe and Microsoft Office suite and put it up for free on GitHub. Yes undoubtedly this code is riddled with bugs and is nowhere near production ready, but it is usable and completely free. If before AI, someone came to you and said they made any of these projects by themselves, over the course of a we",
+      "date": "2026-11-13"
+    },
+    {
+      "link": "https://www.alexhyett.com/newsletter/dont-let-your-skills-atrophy/",
+      "title": "Don't let your skills atrophy",
+      "description": "It is an uncertain time for software development at the moment. A lot of companies are no longer hiring junior developers while those still employed are spending all their time prompting AI instead of writing code by hand. Even with AI writing most of the code these days, that shouldn't mean you stop learning and understanding what your code is doing. The less time you spend in your codebase the more distant you become from it. The speed that you gain from not having to write the code is soon lost when a critical bug comes in, and you don't understand the code or know where to look. In the past, I could see a stacktrace from a bug in production and know exactly where the problem was and how to fix it. I have had cases where the time between a critical error occurring on production and a fix being released is a low as 20 mins. That is only possible when you truly understand the code, and it is written in a maintainable way. Yes maybe an AI agent could find the bug and fix it faster, but",
+      "date": "2026-11-08"
+    }
+  ]
+}

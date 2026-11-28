@@ -1,0 +1,23 @@
+{
+  "url": "https://runtimenotes.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "title": "Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "description": "After taking Inkling 2 Mini for a spin on my GB10, I wanted to make it faster without leaving vLLM, removing Qwen3.8-27B from the machine or shrinking Inkling’s 131,072-token context. A few days of tuning later, Inkling runs at: 101 tok/s for a single request. 195.7 tok/s in aggregate for four concurrent requests. 9.7 seconds to the first token on a 32K prompt. On tonyd2wild’s Inkling benchmark , that’s the fastest single-request vLLM result I know of. On the same benchmark tonyd2wild’s setup on TensorFold , a separate inference engine, measured 105.5 tok/s. knapcio’s recipe for the SGLang engine reached 112.0. With four requests at once my setup beats both of tonyd2wild’s published setups. Inkling still uses 36% of the GB10’s memory. Qwen3.8-27B stayed loaded but idle while I measured. The work covered vLLM settings, speculative decoding, CUDA graphs and the GPU kernels behind Inkling’s experts. How a request runs on Inkling A request runs in two phases. Prefill reads the prompt in ch",
+      "date": "2026-11-27"
+    },
+    {
+      "link": "https://runtimenotes.com/blog/inkling-2-mini-on-nvidia-gb10/",
+      "title": "Taking Inkling 2 Mini for a spin on NVIDIA GB10",
+      "description": "Inkling 2 Mini launched on 20 November and quickly caught my attention. It has 26.4B parameters with just 3.4B active, a million-token context window and benchmark results close to a dense 27B model. I had a GB10 home lab running a couple of local models, so this seemed like a good opportunity to see what Inkling could do on a single machine. I tested generation speed, speculative decoding, memory consumption, long-context handling and a small suite of coding and agent tasks. The interesting part was how the measurements pulled apart. Inkling generated tokens more slowly than my existing Qwen3.6 model, but at medium reasoning effort it completed at least as many tasks in less time. Its architecture also revealed some useful details about memory bandwidth and KV-cache requirements on GB10. 1. Getting Inkling running My lab uses an MSI EdgeXpert, built around NVIDIA’s GB10 platform (the chip in the DGX Spark) with 128 GB of unified CPU/GPU memory. I’ve covered the hardware, software and",
+      "date": "2026-11-22"
+    },
+    {
+      "link": "https://runtimenotes.com/blog/building-a-home-ai-lab-on-nvidia-gb10/",
+      "title": "Building a home AI lab on NVIDIA GB10: setup, fail-safes and benchmarks",
+      "description": "I set up a home AI lab on an MSI EdgeXpert MS-C931, built around NVIDIA’s GB10 Grace Blackwell chip with 128 GB of unified memory. The machine runs open models through vLLM , accessible from my laptop, phone and VPS (coding agents) over Tailscale . The box has to run on its own while I travel, so I wanted automatic internet failover, controlled model restarts, protection against memory exhaustion and a way to recover from an unresponsive system. I used NVIDIA’s DGX Spark playbooks , community recipes and published benchmarks to plan the configuration. Then I tested the models, memory allocations and failure scenarios on the actual hardware. 1. Hardware and software The MS-C931 is MSI’s version of NVIDIA’s DGX Spark. It runs NVIDIA’s DGX OS and has a 4 TB SSD. Its CPU and GPU share one memory pool, so the weights, KV caches (the memory each model keeps for the text it’s working on), runtime allocations and the OS compete for it. Usable memory is 121.7 GiB, with about 117 GiB available b",
+      "date": "2026-11-15"
+    }
+  ]
+}

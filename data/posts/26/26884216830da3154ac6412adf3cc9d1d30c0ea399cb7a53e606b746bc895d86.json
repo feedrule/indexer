@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.mansimov.io/atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.mansimov.io/2026/01/03/continual-learning-is-about-understanding-incentives-not-just-skills.html",
+      "title": "Continual Learning Is About Understanding Incentives, Not Just Skills",
+      "description": "In a November 2025 podcast with Dwarkesh, Ilya Sutskever mentioned that continual learning is one of the challenges with current LLMs ( link ). While many interpret this as simply feeding models more data or teaching them new technical skills, I believe the challenge is far more nuanced. Continual learning is not just about acquiring new skills while working alongside humans at a company; it is about understanding the incentives, motivations, and “alignment” of the people the AI is working with. Intent is hidden, not explicit In most organizations, the true intent behind a task is very loosely represented in the text. It is usually hidden deep in the previous context or cultural history of a team. You cannot simply dump knowledge as text files into a context window and expect the model to understand the “vibe” or the unwritten rules. This implicit knowledge lives in the “neurons” of the people inside the company. Extracting that and transferring it to a model is not only about putting",
+      "date": "2026-01-03"
+    },
+    {
+      "link": "https://blog.mansimov.io/2025/07/12/human-attention-and-desire-are-the-new-ai-bottlenecks.html",
+      "title": "Human Attention And Desire Are The New AI Bottlenecks",
+      "description": "People often claim compute or data limits AI. I believe our attention span and desire are now the bottleneck of AI development . Before 2020, supervised learning was the main paradigm in AI. Deep neural networks, often with tens or hundreds of millions of parameters, were trained for specific tasks like image recognition or machine translation. Datasets were small by today’s standards typically having tens or hundreds of thousands of examples. Model behavior trained on such datasets was somewhat predictable and we understood limitations better. Progress to the naked eye was clear as well. For example, the improvement in image recognition accuracy from 70% to 90% was easily visible just by looking at a couple of predictions made by the trained model before and after the upgrade. Today, model ambition has increased dramatically. Foundation models no longer make simple mistakes; they can answer PhD-level questions, making finding their mistakes and limitations much harder ( xAI releases G",
+      "date": "2025-07-12"
+    },
+    {
+      "link": "https://blog.mansimov.io/2024/10/13/to-innovate-ai-needs-to-challenge-beliefs-persist-clashing-with-helpfulness.html",
+      "title": "To innovate, AI needs to challenge beliefs & persist, clashing with helpfulness",
+      "description": "TL;DR Groundbreaking innovations often go unrecognized for many years, sometimes even centuries, because their true importance is only understood much later ( examples ). The individuals behind these innovations work tirelessly for long periods, frequently facing misunderstanding and challenging the established beliefs of their peers. Many leaders in AI believe that foundation models will help create many breakthroughs and accelerate scientific discoveries significantly ( link1 , link2 , link3 ). However, this raises an important question: do the objectives used to train AI foundation models truly lead to such innovations? I believe that the inherent nature of innovation directly conflicts with the current objectives of foundation models, which focus on making AI immediately helpful and harmless. Innovation frequently requires being misunderstood for a long time Throughout history, many important inventions and ideas have faced doubt and misunderstanding before being accepted. For exam",
+      "date": "2024-10-13"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://loosemore.com/feed/",
+  "posts": [
+    {
+      "link": "https://loosemore.com/2026/11/25/ai-agents-a-new-dimension-of-disintermediation/",
+      "title": "AI agents: a new dimension of disintermediation",
+      "description": "“Meta has committed to a voluntary monitoring and reporting scheme with the ICO to ensure we can scrutinise the technology, the user experience and feedback as it is developing.” The Information Commission’s Office will receive ‘voluntary’ insight from Meta into Muse ‘s UK launch. The UK regulators seem to understand the potential significance of personal AI agents like Muse. Good. It might take a few years for AI agents to reach mainstream adoption, but personal AI agents like Muse represent a whole new dimension of disintermediation – and the associated concentration of power. I’ve been doing digital stuff for over 35 years now, and I think personal AI agents could rival smartphones and the Web itself as the catalyst for changes to people expectations and behaviours. At the very least you should be running strategic scenario planning to understand their impact on your services. An effective response might require some seismic changes to what you do and how you work, not least for pub",
+      "date": "2026-11-25"
+    },
+    {
+      "link": "https://loosemore.com/2026/11/23/agentic-flooding-will-be-a-policy-crisis-not-just-a-capacity-crunch/",
+      "title": "Agentic flooding will be a policy crisis, not just a capacity crunch.",
+      "description": "The voice techies at ElevenLabs are claiming they have a magic answer to AI agents calling up public services and causing agentic flooding. Public services can either ‘block all agents’, or use clever tech like theirs to ‘increase capacity’. That’s both a false binary, and ignores the biggest issue completely. Agentic flooding is a problem for governments because it unlocks legitimate demand for services – demand that wasn’t budgeted for on the assumption that a superficially generous policy can quietly be made affordable by crap service design. That’s a policy crisis no tech bro with magic beans gonna fix.",
+      "date": "2026-11-23"
+    },
+    {
+      "link": "https://loosemore.com/2026/11/20/on-democracy-club-having-to-block-bots/",
+      "title": "On Democracy Club having to block bots",
+      "description": "I’m sad but not surprised to learn that the wonderful folk at Democracy Club have had to put some constraints on the use of their awesome election data API . This is to stop bulk data scraper bots from overwhelming their whole service. There’s no point publishing open data if shitty bots take down your whole API. There’s a generation of rogue bots out there, constantly scraping all and any data from the web that they can, probably to train LLMs. These bots try all manner of sneaky technical tricks to pretend that they’re normal human users, rather than indiscriminate data hogs. They’re why I’ve put tight limits on unauthenticated use of the WhenIsBins API . The open but respectful culture that made the Internet wonderful isn’t dead yet . But it’s under serious threat from a warped West Coast culture which just doesn’t give a damn about the tragedy of the commons that is the inevitable long-term result of taking the piss like this.",
+      "date": "2026-11-20"
+    }
+  ]
+}

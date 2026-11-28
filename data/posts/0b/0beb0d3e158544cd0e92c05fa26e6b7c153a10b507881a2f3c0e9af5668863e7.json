@@ -1,0 +1,23 @@
+{
+  "url": "https://overengineer.it.com/index.xml",
+  "posts": [
+    {
+      "link": "https://overengineer.it.com/projects/markix/",
+      "title": "Markix",
+      "description": "Around a year ago, I found myself in a rather interesting place. I didn't have 20 or so dollars to renew my Pinboard yearly subscription. Pinboard is the best bookmarking website I've used. However, I very rarely used its social features. Most of the time, it was just a storage of links for me, organized by tags. So that basic part didn't seem too hard to recreate in the age of The Emacsification of Software . I've been using Newsboat as my RSS reader, so I figured that a TUI-based bookmarking app would be the best fit. I find stuff to bookmark in one terminal window, then bookmark it in another. Since it was supposed to be just a list of links that could be tagged and opened in a browser, and I wanted to learn Zig, I decided to create everything from scratch. I started a new project and named it Markix. And down the rabbit hole I went. I created the basic TUI rendering logic, inspired by an abandoned 2D TUI engine written in Rust (I couldn't find the project, but I'll try to find it a",
+      "date": "2026-08-29"
+    },
+    {
+      "link": "https://overengineer.it.com/posts/robbed-of-mediocrity/",
+      "title": "My Mediocrity Has Been Automated",
+      "description": "The Pride I've always taken pride in being mediocre at everything I do. For some people this may sound strange, or even sad - but not to me. For me it's simple: I hate being the worst at something, and I can't stand the idea of being the best at something either. While almost everyone resonates with the first part, the second part raises a few eyebrows. But why? Why would anybody want to be stuck in the middle? The middle is usually associated with being overlooked, ignored, and unimportant - and for me, that's exactly the point. Because when I'm not great at anything, I am free. It gives me an insatiable hunger to chase the impossible, to always find a place where I'm not yet the expert. Because the moment you become an expert at something, it becomes a never-ending battle - with yourself and with everyone around you - to cling onto that title. It's draining. The middle is so comfortable. You’re never done, there's always something new to learn. You're playing this intriguing game of",
+      "date": "2026-03-29"
+    },
+    {
+      "link": "https://overengineer.it.com/posts/great-war-pigeons-ontologies/",
+      "title": "The Great War, Pigeons and Ontologies",
+      "description": "The Great War The Great War, often overlooked by its more famous sibling, was a pivotal historical event not only in politics and warfare, but also in fundamentals that shape those: ideologies, infrastructure, mobilization practices and the thing that makes all of this efficient - communications. The methods used during those conflicts were not overengineered, they didn't scale, so when a new kind of warfare started, the tactics, communication protocols, armament and commanders mindsets were not ready to adopt, heck, the French army was still using the bright Red and Blue uniform. Let's focus on communication side of things, and explore how they were handled. During early 1900s the radio communication was already an established practice. Despite its importance in air and ground coordination, the logistics were still tangled, armies needed cable laying equipment, often using horses for that, the stations were not mobile like nowadays, ground control centers, communication points and int",
+      "date": "2025-08-28"
+    }
+  ]
+}

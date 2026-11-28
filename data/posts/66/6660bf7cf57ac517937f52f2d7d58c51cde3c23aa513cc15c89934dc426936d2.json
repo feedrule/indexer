@@ -1,0 +1,23 @@
+{
+  "url": "https://jimmyhmiller.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://jimmyhmiller.github.io/magic-of-partial-evaluation",
+      "title": "The Magic of Partial Evaluation",
+      "description": "Jimmy Miller Projects Posts Advent Talks GitHub There are certain ideas in software that are simply beautiful. It doesn't matter if they have any practical use. It doesn't matter that you will never convince your coworkers to consider them. There is just something captivating about the way some computational systems work. For me, the most beautiful pieces of software are those that reveal something about the nature of programming languages. Programming languages are my obsession. I have never met a problem that couldn't be solved by introducing yet another programming language. Solving a problem at the programming language level is about solving the meta problem. Instead of trying to solve a particular problem, we take a step back and ask how we can solve a whole class of problems at once. So when I find something that makes me rethink the nature of programming languages, I start rethinking computation as a whole. One of these incredibly beautiful but tricky concepts goes by the name p",
+      "date": "2026-11-17"
+    },
+    {
+      "link": "https://jimmyhmiller.github.io/writing-isnt-thinking",
+      "title": "Writing isn't Thinking",
+      "description": "Jimmy Miller Projects Posts Advent Talks GitHub Writing is thinking. To write well is to think clearly. That’s why it’s so hard. - David McCullough. I can't think of a single more destructive idea for my own writing than the idea that writing is thinking. Well, other than \"formal writing\" and the five paragraph essay. In many ways, I saw writing as thinking as the antidote to the kind of writing I had been taught in school. And when I set down to write, I could feel its power. I gained new insights. I had more ways in which to bolster my argument. What I produced was abundantly clear. It was well reasoned. It was precise and correct. But it was incredibly annoying to read. It turns out, my thoughts aren't all that fun. What I think about when I'm writing isn't what others want to read. It was only when I realized nobody cares about my thoughts that I finally wrote things people enjoyed. New Thoughts # Half-truths are the most enticing falsehoods. Writing involves a kind of thinking tha",
+      "date": "2026-10-12"
+    },
+    {
+      "link": "https://jimmyhmiller.github.io/what-does-the-react-compiler-even-do",
+      "title": "Can we Make React Faster using the React Compiler?",
+      "description": "Jimmy Miller Projects Posts Advent Talks GitHub Can we Make React Faster using the React Compiler? As you can see from the graph below, the answer is yes. We can indeed make React a lot faster using React Compiler. But also, as I hope you can see from the graph, these speedups are purely prototypes. In this article, you won't find big proposals for the right way to speed up React. This is instead a project I started to learn more about the React Compiler. Time and time again I've found that if I want to learn something well, the best way for me to do that is to explain it to others. That is what this article is. I will walk through what React Compiler does, some optimizations I tried out, and hopefully get you as excited as I am for what React Compiler can ultimately do for React. No compiler React Compiler All prototypes Benchmark speedups across 13 workloads One grouped bar chart. Benchmarks are on the horizontal axis and speedup compared with no compiler is on the vertical axis. Eac",
+      "date": "2026-09-27"
+    }
+  ]
+}

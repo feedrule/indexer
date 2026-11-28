@@ -1,0 +1,23 @@
+{
+  "url": "https://daniel-m.github.io/index.xml",
+  "posts": [
+    {
+      "link": "https://daniel-m.github.io/2026/11/a-second-look-to-multer-dos/",
+      "title": "A second look to Multer DOS",
+      "description": "For context check an old post To keep things short, I’ve been doing some software archeology on my pasts projects. I noticed that my opensourced project https://github.com/Daniel-M/multer-dos was getting about 10 downloads a week on the npm registry https://www.npmjs.com/package/multer-dos so i decided to add support for typescript and dependency updates. The project is so easy to maintain, I guess part of the 10 downloads per week means this is still used in production by some people, so thanks for believing in me",
+      "date": "2026-11-19"
+    },
+    {
+      "link": "https://daniel-m.github.io/2026/11/some-fun-computing-the-short-distance-between-two-curves/",
+      "title": "Some fun computing the short distance between two curves",
+      "description": "Shortest distance between two functions Link to heading I am interested in knowing what is the shortest straight-line distance between two functions $f(x)$ and $g(x)$. To compute this, let $A$ and $B$ be two points such that $A$ and $B$ determine the line $$y = mx + b.$$ $A(x,y)$ such that $y = f(x)$ i.e. A belongs to $f(x)$ $B(x,y)$ such that $y = g(x)$ i.e. A belongs to $g(x)$ This means that simultaenously,",
+      "date": "2026-11-17"
+    },
+    {
+      "link": "https://daniel-m.github.io/2026/08/project-euler-problem-2-even-fibonacci-numbers/",
+      "title": "Project Euler - Problem 2 - Even Fibonacci Numbers",
+      "description": "Problem 2 - Even Fibonacci Numbers Link to heading The problem statement asks to find the sum of the even Fibonacci numbers whose value is less than one million. Fibonacci Series for even numbers Link to heading I’ll go short with this one. This is really popular and consist of the series $$ 0, 1, 1, 2, 3, 5, 8, 13, 21, \\cdots $$ They are generated using a recurrence relation",
+      "date": "2026-08-13"
+    }
+  ]
+}

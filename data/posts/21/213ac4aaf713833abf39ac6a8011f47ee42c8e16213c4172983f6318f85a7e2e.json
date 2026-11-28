@@ -1,0 +1,23 @@
+{
+  "url": "https://ricar.do/atom.xml",
+  "posts": [
+    {
+      "link": "https://ricar.do/2026/11/26/cloth-sim.html",
+      "title": "Cloth simulation with XPBD",
+      "description": "I’ve been writing a small native 3D engine called drie for the past couple weeks. It uses sokol_gfx for rendering, and I recently decided to take a stab at implementing a cloth simulation system. It’s an XPBD (extended position-based dynamics) solver; the version you see here runs in compute shaders, but was originally running in the CPU — surprisingly the performance gap was not that large, but doing in the GPU makes it less susceptible to stutter. Features deterministic solver (helpful for replaying game scenes) crease preserving, so pleated curtains remember their shape coarse simulation, fine display for efficiency (tunable) two-way collision with objects and other cloth aerodynamic drag sleep - saves compute when nothing is going on The two-way collision is pretty sweet - as far as I’ve researched, very few engines have it without add-ons. The “Handkerchief” demo below shows what is possible with that. Problem 1: tangles The tricky part is keeping the simulation from tangling itse",
+      "date": "2026-11-26"
+    },
+    {
+      "link": "https://ricar.do/2013/06/07/react-tutorial-rewritten-in-plain-javascript.html",
+      "title": "React Tutorial rewritten in plain javascript",
+      "description": "Last week Facebook & Instagram launched the React framework and an accompanying tutorial . Developer Vlad Yazhbin decided to rewrite that using AngularJS . The end result is pretty neat, but if you’re like me you will not actually appreciate the HTML speaking for itself and doing all the hard work. So let’s see what that looks like in plain javascript. Here is the template: < div class = \"comment-box\" > < h1 > Comments </ h1 > < div class = \"comment-list\" > < div class = \"comment\" > < h2 class = \"comment-author\" > {{author}} </ h2 > < div class = \"comment-text\" > {{text}} </ div > </ div > </ div > < form class = \"comment-form\" method = \"POST\" action = \".\" > < input type = \"text\" name = \"author\" id = \"author\" required /> < input type = \"text\" name = \"text\" id = \"text\" required /> < button type = \"submit\" > Add comment </ button > </ form > </ div > And this is the code rewritten in VanillaJS . No dependencies, no DOM libraries, no template engines (kinda). It renders the comments, mark",
+      "date": "2013-06-07"
+    },
+    {
+      "link": "https://ricar.do/2013/01/05/debug-aplicacao-coffeescript-pt.html",
+      "title": "Debug de uma aplicação em CoffeeScript",
+      "description": "O tópico de debug surge com frequência em discussões sobre CoffeeScript. Neste post vou dar um exemplo real de erros utilizando CoffeeScript e a dificuldade (dica: nenhuma) em rastrear a origem. Este é um projeto de front-end em CoffeeScript, não é dos mais extensos (~1200 linhas) mas suficiente como exemplo. A aplicação está separada em uma dúzia de arquivos: Estes são compilados via Cakefile utilizando flour : task 'build:dev' , -> flour.minifiers.js = null bundle [ 'scripts/util.coffee' 'scripts/api.coffee' 'scripts/modules.coffee' 'scripts/user.coffee' 'scripts/profile.coffee' 'scripts/location.coffee' 'scripts/activity.coffee' 'scripts/stats.coffee' 'scripts/main.coffee' ], 'resources/app.js' Neste setup todos os arquivos .coffee são compilados e concatenados em um único arquivo resources/app.js , que é incluido no <head> do HTML. Durante o desenvolvimento a task cake watch se encarrega de re-compilar o JS a cada alteração. Erros de sintaxe Sabe aquele erro maldito de js que te fa",
+      "date": "2013-01-05"
+    }
+  ]
+}

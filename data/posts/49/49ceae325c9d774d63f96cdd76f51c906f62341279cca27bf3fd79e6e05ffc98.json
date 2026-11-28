@@ -1,0 +1,23 @@
+{
+  "url": "https://dick.codes/feed.xml",
+  "posts": [
+    {
+      "link": "https://dick.codes/2026/10/30/no-i-am-not-switching-from-tmux-to-herdr.html",
+      "title": "No, I am not switching from tmux to herdr",
+      "description": "There has been much discussion of late around so-called “agent multiplexers” like herdr, including some instances of folks declaring that they are switching over from tmux and never looking back. I, for one, will not be jumping on the hype train. I remember this Hammer my father used to have in his garage. It was a big Hammer with a cherry red wooden handle. This Hammer had weight to it. It felt substantial and real in my hand, like the realest thing I ever held. Any time I had any reason to bang something with a high level of force, I ran to the garage and grabbed it. Woe to the thing that needed smashing, the Hammer cometh. I have accumulated a number of hammers in my adult life in the years since I moved out on my own. None quite approximated the look and feel of that Hammer, though. Sure, some of the hammers I acquired had some nifty innovations. I have had hammers with composite handles, rubberized grips, ergonomic designs, and more. At the end of the day, none of them matched my",
+      "date": "2026-10-30"
+    },
+    {
+      "link": "https://dick.codes/2025/07/14/my-approach-for-using-llms-to-assist-in-development.html",
+      "title": "My approach for using LLMs to assist in development",
+      "description": "I’m an AI skeptic who still uses LLMs daily for development work. Here’s the workflow I’ve developed to get real value from these tools without falling into the trap of letting them do my thinking for me. Introduction Finding the right models to work with Planning with models Ensuring higher quality output Conclusion Introduction Everyone has their own preferences for integrating LLMs into their development workflows; some eschew model-aided development altogether, while others seemingly use AI to produce most if not all of their work product. Most people fall somewhere along the spectrum, and I imagine the distribution resembles a bell curve, as in most things. Personally, I am a bit of an AI skeptic. I don’t think AGI is happening anytime soon. While model and tool capabilities have improved significantly, I don’t generally have a lot of confidence in code generated autonomously by AI. The whole AI ecosystem reeks of greed and grift; I just can’t shake the feeling that the technology",
+      "date": "2025-07-14"
+    },
+    {
+      "link": "https://dick.codes/2025/06/06/setting-up-logical-replication-with-postgres.html",
+      "title": "Setting up logical replication with Postgres",
+      "description": "Getting data out of your Postgres database and into a different data store, like BigQuery or Redshift, is easy with logical replication. This guide shows you how. Overview of replication Setting up a publication Creating a replication user Wrapping things up Overview of replication Replication is the process of copying data from one database to another. There are different types of replication: physical and logical. In physical replication, the primary database writes all changes to the Write-Ahead Log (WAL), and the standby database (otherwise known as a “replica” or “reader”) reads those WAL records and applies them to its copy of the database. Physical replication is well-suited for failover, read scaling, and disaster recovery. In logical replication, the “publisher” database captures changes from its WAL, converts them into logical change records, and then sends them to the “subscriber” database, which executes the SQL operations contained in those change records to manipulate its",
+      "date": "2025-06-06"
+    }
+  ]
+}

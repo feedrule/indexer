@@ -1,0 +1,23 @@
+{
+  "url": "https://nicoverbruggen.be/feed",
+  "posts": [
+    {
+      "link": "https://nicoverbruggen.be/blog/do-niche-things",
+      "title": "Do Niche Things",
+      "description": "One of the coolest things you can do today is work on stuff that’s pretty damn niche. You shouldn’t do it for the fame and attention, that’s not the point of working on niche stuff. The point is that you can fix problems and resolve annoyances that no one else is interested in dealing with. Everyone seems to be busy building these big things, and that’s fine. But you should not discount what you can do when you start solving specific, small problems. Think about it: you just might have fixed a massive personal annoyance, which can be very rewarding. Best case scenario? You may have found a business opportunity. My latest solo projects, many of which are not public, are just little things I made for myself that I love working on. For example: small apps that do the thing I want them to do, just for myself. I have also been working on PRs for projects I enjoy using, or mods for apps or games I find fun. All in all, super niche things. Yet super nice, too.",
+      "date": "2026-07-29"
+    },
+    {
+      "link": "https://nicoverbruggen.be/blog/kobo-typesetting-fixes",
+      "title": "Fixing Kobo's Typesetting Quirks on Firmware 4.x",
+      "description": "In the past, I’ve owned both Kindle and Kobo devices, and I think when it comes to examining these devices at stock , there’s no doubt that a Kindle has a better reading experience. Kindles ship with better fonts out of the box, and the font rendering stack, which decides what text looks like : you know, that thing you’re effectively staring at for the majority of your time with the device. Compared to Kindle, how text is displayed is somewhat deficient on Kobo if you know what you’re looking at. I should probably start with a bit of a disclaimer. I understand that a lot of people will probably never notice any of these issues and are perfectly fine reading even with the default settings . But as someone who enjoys not only beautiful typography but also excellent visual design in books, it is something that matters to me. A quick recap I’ve blogged about it before: I don’t really like what Amazon is doing with their grip on the digital book ecosystem. Conversely, I like supporting Raku",
+      "date": "2026-07-18"
+    },
+    {
+      "link": "https://nicoverbruggen.be/blog/libron",
+      "title": "Crafting Libron with FontForge",
+      "description": "A while ago, I announced that I was working on Readerly, a new font derived from Newsreader. It was mostly built with an interactive build script and a bunch of manual testing on my part. The script for Readerly in question uses Python, FontForge’s Python API and various tools to modify the font, and some knobs (weight, scaling, etc.) that decide what the final font looks like. Of course, I also made sure to integrate kobofix.py into the build script, and recently added a web font build, as well; you can download a WOFF2 version, too. It’s a decent attempt at a tweaked font, and I was pretty happy with the result so far. But it was not a hand-made font. Since I’ve been using it as my go-to font for quite some time now, I do find some faults with it. Improving upon Readerly In particular, I wasn’t a fan of Newsreader’s heavy serifs. They seemed sort of… distracting, especially for body text. I looked into manually patching individual glyphs for Readerly, but before I knew it, I was effe",
+      "date": "2026-06-08"
+    }
+  ]
+}

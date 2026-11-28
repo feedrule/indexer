@@ -1,0 +1,23 @@
+{
+  "url": "https://hughsviewsandnews.com/feed/",
+  "posts": [
+    {
+      "link": "https://hughsviewsandnews.com/2026/11/16/how-to-schedule-a-post-in-wordpress-after-the-latest-update/",
+      "title": "How to Schedule a Post in WordPress After the Latest Update",
+      "description": "When WordPress quietly changed how scheduling works, I accidentally published a post immediately instead of queuing it. This guide explains what changed and walks you step by step through the new desktop scheduling process so your posts go live exactly when you want.",
+      "date": "2026-11-16"
+    },
+    {
+      "link": "https://hughsviewsandnews.com/2026/11/09/wordpress-comment-login-problems-new-answers-no-fix-yet/",
+      "title": "WordPress Comment Login Problems: New Answers, No Fix Yet",
+      "description": "WordPress has confirmed a bug that forces some users to sign in repeatedly before commenting, caused by changes to the new comment form. There’s no fix date yet, but staying logged in may help some people. This post shares WordPress’s latest answers and temporary workarounds.",
+      "date": "2026-11-09"
+    },
+    {
+      "link": "https://hughsviewsandnews.com/2026/11/04/wordpress-comment-login-problems-latest-update-and-fix-hopes/",
+      "title": "WordPress Comment Login Problems: Latest Update and Fix Hopes",
+      "description": "Hugh shares the latest on WordPress’s comment sign‑in problems: partial improvements, an official response about changed login sessions and cookie rules, new subscription pop‑ups after commenting, and a workaround that involves staying signed in. He invites bloggers to report whether they’re still affected.",
+      "date": "2026-11-04"
+    }
+  ]
+}

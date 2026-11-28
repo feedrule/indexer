@@ -1,0 +1,23 @@
+{
+  "url": "https://sridhar.co/rss.xml",
+  "posts": [
+    {
+      "link": "https://sridhar.co/year-2025-in-review",
+      "title": "Year 2025 in review",
+      "description": "A Year in Review should be a reflection of the decisions we’ve taken, not about the outcomes that materialised. In this post, I'll try to remind my future self of what I did, but unlike previous years, there's a lot less public work (side projects, blog posts), a lot less book reading and generally, I think, a lot less. Work 2025 has been work, work and work alone. At work, to collaborate with teams in different time zones, my day started with SGT and ended with PST. Being available across three time zones left me little to no energy to work on things outside of work. I was able to write a couple of posts, but that was it. I enabled Dropbox on Kobo eReader to read books from Dropbox. I published my notes from the Range book. I read the following books. University of Berkshire Hathaway : 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting by Daniel Pecaut & Corey Wrenn Building an Effective Dev Portfolio by Joshua Comeau Software Engineeri",
+      "date": "2026-01-15"
+    },
+    {
+      "link": "https://sridhar.co/books/range",
+      "title": "Range by David Epstein",
+      "description": "There are two types of domains for building your careers. Kind domains Wicked domains Kind domain Wicked domain “Kind” learning environments are domains in which instinctive pattern recognition is rewarded. “Wicked” domains have complex, unclear or incomplete rules, patterns may not be recognizable Feedback cycle is faster aiding the learning process feedback is often delayed, inaccurate, or both. Experience might led to expertise. There is no guarantee whether experience will improve outcomes. narrow specialization + expertise be helpful to solve problem you need a range of tools and the ability to integrate ideas across domains. Better suited for specialist Better suited for Generalists eg: golf and chess eg: politics, entrepreneurship, research and finacial analysts. Specialists is a person who focuses narrow field. Starting early is often necessary to become a specialist since the underlying rules don't change. Generalists is a person who explorers many fields before committing to",
+      "date": "2025-08-08"
+    },
+    {
+      "link": "https://sridhar.co/year-2024-in-review",
+      "title": "Year 2024 in review",
+      "description": "The easiest way for scaling is to double down on what's already working. That's exactly what I did in 2024. I extended my weekly work strategy to health and finance. Work Building on last year's foundation for my weekly system, I consolidated all my bookmarks from external services like Twitter and Mastodon into Pinboard. Additionally, I set up an RSS reader to manage individual blogs. I've been reading Designing Data-Intensive Applications since last year. The book is packed with at least two semesters' worth of computer science material, so I'm taking time to absorb it well. I created transcribe , a Python utility that uses Amazon transcribe service to extract and format transcripts from an audio file. Doom emacs experimentation didn't go well. I configured .vimrc for File Opening, Syntax, and Search Highlighting, and use vscodevim.vim which supports .vimrc configurations within VS Code. After Attending React conference 2024, I'm working on creating a mobile app as a side project usi",
+      "date": "2025-01-09"
+    }
+  ]
+}

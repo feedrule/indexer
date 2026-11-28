@@ -1,0 +1,23 @@
+{
+  "url": "https://asungur.com/index.xml",
+  "posts": [
+    {
+      "link": "https://asungur.com/posts/reduce-noise-on-pg/",
+      "title": "Reduce Noise on Your PostgreSQL Read-Replicas",
+      "description": "Use mechanisms like streaming delay and synchronous commit to make your read-replicas perform better.",
+      "date": "2026-02-21"
+    },
+    {
+      "link": "https://asungur.com/posts/concurrency-safe-ulid/",
+      "title": "Concurrency-Safe ULID Generation using Go Mutexes",
+      "description": "Use native Go toolset to solve real-life concurrency challenges.",
+      "date": "2025-12-20"
+    },
+    {
+      "link": "https://asungur.com/posts/sre-guide-to-linux-boot/",
+      "title": "An SRE's Guide to Linux Boot Processes",
+      "description": "A walkthrough of Linux Boot from an Ubuntu perspective to understand what goes on behind the hood.",
+      "date": "2025-05-14"
+    }
+  ]
+}

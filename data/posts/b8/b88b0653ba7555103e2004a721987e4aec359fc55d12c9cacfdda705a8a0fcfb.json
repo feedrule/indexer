@@ -1,0 +1,17 @@
+{
+  "url": "http://blog.elzeiny.io/index.xml",
+  "posts": [
+    {
+      "link": "http://blog.elzeiny.io/posts/perf-ai/",
+      "title": "I accidentally created an Orwellian Performance Review bot that monitored everything",
+      "description": "Part 1 - Orwellian AI This is mostly a story of how I didn’t think through the implications of the software I was building. The Challenge My brother is a bootstrapped founder for a small, mildly successful startup. One day he starts a conversation that goes something like: > Oh man, I’m juggling so much at work. > I can’t look away from Marketing, Sales, Engineering, or Product. > When I’m leading sales, I spend time away from Product, and they start working on the wrong things. > Everyone works hard, but it’s me. I don’t scale. > Is that something LLMs can help with? We have so much unstructured data laying around.",
+      "date": "2026-04-20"
+    },
+    {
+      "link": "http://blog.elzeiny.io/posts/aws-batch-vs-celery/",
+      "title": "AWS Batch Executor >= Celery Executor",
+      "description": "A Good Executor “Just Works” Nope, I’m not selling lemons here. I have a high standard for components not being a routine bother. The nice thing about using an AWS Executor is that there are a lot of things that are managed for you. Scheduling, container placement, monitoring, alerting, provisioning, and auto-scaling to name a few. A Good Executor Autoscales Autoscaling and batch jobs go together hand-in-hand. Most batch jobs have workloads that are highly variable and predictable throughout the day. However, with a static number of servers Data Engineers are faced with a catch 22. Allocate too low and we may not meet our SLA. Allocate too high and we may not meet our budget. Here’s an example of what a default Celery Cluster looks like on an average day for an average company.",
+      "date": "2021-01-01"
+    }
+  ]
+}

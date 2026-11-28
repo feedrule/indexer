@@ -1,0 +1,23 @@
+{
+  "url": "https://jordankrueger.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://jordankrueger.com/blog/accessibility-check-your-own-site/",
+      "title": "Run an accessibility check on your own site before someone else does",
+      "description": "I recently read a Reddit post by someone who’d gone through 20 website accessibility lawsuits from one New York law firm. According to the post, all 20 complaints cited the same two problems: images with no text description, and links that don’t say where they go. Those are things anybody can check, so I checked mine. I had Claude run an open-source tool called axe over 14 of my personal sites and side projects. It looked at three pages on each, at desktop and phone widths. Claude also tabbed through the main forms using only the keyboard, stopping before it hit submit. On the pages it checked, none of the 14 had either of the problems from the lawsuits. Five had something else wrong. On one site, the check flagged a small label above the headings. The text was too faint against the background. When we checked all 193 pages on that site, at both widths, axe reported 5,208 contrast failures. It also reported 525 links that could only be told apart from the text around them by their colo",
+      "date": "2026-11-26"
+    },
+    {
+      "link": "https://jordankrueger.com/blog/open-internet-just-getting-started/",
+      "title": "The open internet is just getting started",
+      "description": "Ethan Sholly writes Self-Host Weekly , and this week’s issue had a line that stuck with me: “If our goal was ever to create an open internet, we’re officially moving backwards.” His evidence is real. Reddit turned off its RSS feeds this week. Starting December 1, Last.fm will charge anyone who holds an API key. Self-hosted music tools that run their own key look likely to get caught in it. His read on why rings true to me. Both companies point to scrapers, and if they don’t charge, AI companies will happily profit off their content for free. But I don’t think those things were ever about the open internet. Reddit’s feeds were a favor. So was Last.fm’s free API, and Twitter’s before it, and Google Reader before that. They were nice while they lasted, but they belonged to someone else, and that someone could take them back on a Monday. To me, the open internet is the stuff people put online that nobody can take down except the person who made it! And for the first time in a long while, t",
+      "date": "2026-11-20"
+    },
+    {
+      "link": "https://jordankrueger.com/blog/check-your-own-writing-over-time/",
+      "title": "How to check your own writing over time",
+      "description": "Part 2 of 2. Part 1: I checked 30 years of my writing for early signs of decline In Part 1 , I ran about 82,000 pieces of my own writing through a check. It looked for the kinds of language changes researchers link to early memory decline. Here’s how to do the same with your own writing, even if you’ve never written a line of code. An AI coding helper does the technical parts. I used Claude Code. You bring the writing. Plan on an hour or two, mostly waiting for downloads. Before you start These rules matter more than any of the steps: This is only for your own writing. Don’t run it on a parent’s or partner’s email without their clear OK. Keep it on your computer. Your old messages are some of the most private things you own. In the steps below, the AI writes a script that runs on your machine and only shows you numbers. It’s a curiosity, not a diagnosis. If something worries you, the next step is a doctor, not more charts. Step 1: Download your old writing Pick whatever you have. More",
+      "date": "2026-11-19"
+    }
+  ]
+}

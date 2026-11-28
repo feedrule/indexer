@@ -1,0 +1,23 @@
+{
+  "url": "https://capotej.com/blog/feed",
+  "posts": [
+    {
+      "link": "https://capotej.com/2026/06/01/the-first-thing-i-ve-been-adding-to-agents-md/",
+      "title": "The first thing I've been adding to AGENTS.md",
+      "description": "The first thing I’ve been adding to AGENTS.md My projects these days will usually begin with an AGENTS.md file where I’ll define the stack of linters and context required for an agent to successfully stumble onto a working solution (most of the time, anyway). But lately, I’ve been starting with just the following snippet: ## RFCs Significant changes, architectural decisions, and new features should be proposed as RFCs in the `rfcs/` directory. RFCs use the format `rfcs/YYYY-MM-DD_short_title.md` with the following structure: - `# Title` — short descriptive title - `**Date:**` — proposal date (ISO format) - `**Status:**` — `Proposed`, `Accepted`, `Implemented`, or `Rejected` - `## Goal` — what the RFC aims to accomplish - Remaining sections are free-form but typically include motivation, technical details, migration notes, and an implementation checklist - When moving an RFC to `Implemented`, update `AGENTS.md` and `README.md` to reflect any new infrastructure, commands, or workflows in",
+      "date": "2026-06-01"
+    },
+    {
+      "link": "https://capotej.com/2025/09/06/running-aarch64-fedora-vm-on-macos-using-qemu-10/",
+      "title": "Running an aarch64 Fedora VM on MacOS using QEMU 10",
+      "description": "Running an aarch64 Fedora VM on MacOS using QEMU 10 “Works on my machine” The following configuration works on my 2021 M1 Max laptop running MacOS Sequoia 15.6.1. ARM Architecture Most of the guides I found were focused on emulating amd64 / x86-64 architectures. This guide instead targets the aarch64 / arm64 architecture (same as the host system) to minimize emulation overhead. Steps These steps should get you a Fedora Server VM that you can SSH into from your host OS. Install QEMU $ brew install qemu Download Fedora Server filesystem image Thankfully, Fedora provides ready-to-go filesystem images on their downloads page. Download the QEMU qcow2 filesystem image for the latest server version (42 as of writing). Resize the Fedora Server filesystem image The Fedora Server image downloaded in the previous step is only large enough to fit the base installation and will likely need to be resized for your needs. You can use qemu-img to resize it like so: $ qemu-img resize Fedora-Server-Guest",
+      "date": "2025-09-07"
+    },
+    {
+      "link": "https://capotej.com/2008/09/30/why-mootools-or-why-not-jquery/",
+      "title": "Why MooTools (or Why not JQuery)",
+      "description": "Why MooTools (or Why not JQuery) I’ve been toying around with MooTools a bit lately, and I’ve found the experience quite enjoyable and refreshing. Naturally, I twittered about it and went along my merry way. Moments later (and much to my surprise), I had a direct message from John Resig himself asking “Why, what’s wrong with jQuery?”. I was pretty taken aback that he would take time from his surely busy day to message a total stranger in an effort to improve his project or at least gain an insight in the everyday life of a js developer (it’s not like DHH would personally message people that are dumping rails to use merb). I figured he deserved a straight, honest answer; One that at least would be longer than 140 characters (even though I managed to use every single one). So it begs the question, Why MooTools? Class support. JQuery’s SQL-like syntax is fine for quick and dirty javascripting, but eventually you’ll want real classes to structure your UI logic. It smells, feels and tastes",
+      "date": "2025-01-28"
+    }
+  ]
+}

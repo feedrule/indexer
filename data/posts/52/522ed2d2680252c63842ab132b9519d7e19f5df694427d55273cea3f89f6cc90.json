@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.balthazar-rouberol.com/feeds/all.atom.xml",
+  "posts": [
+    {
+      "link": "https://blog.balthazar-rouberol.com/of-the-impact-of-llm-agents-on-team-productivity-and-cohesion",
+      "title": "Of the impact of LLM agents on team productivity and cohesion",
+      "description": "This is a letter I sent to my coworkers about what I perceive to be the impact of LLM agents on our team. ∴ So, this is a bit uncomfortable, but I think we need to talk about LLMs. Again. I recently hosted a friend of mine working a high ranking job at a big tech company. He mentioned that he has to push for AI features in the product, because customers threaten to move over to the competitor who already does it. AI-assistance for engineers is also de facto mandatory. You can opt out, but you'll be let go at the next performance review, because your productivity metrics will be lagging behind. While he might have personal feelings about these tools, he does not feel like he has any choice in the matter anyway. However, we are not a Big Tech company. And our \"customers\" are not threatening to jump ship at the first whiff of lack of AI. And that gives us the opportunity to navel gaze a bit more and reflect on what we're doing. So let's do that. Before I get to my main point though, I nee",
+      "date": "2026-10-27"
+    },
+    {
+      "link": "https://blog.balthazar-rouberol.com/on-ai-assisted-interviews",
+      "title": "On AI-assisted interviews",
+      "description": "Yesterday, I ran a remote interview for a Senior SRE position. After a surprisingly good start, it became clear that the candidate was using some form of AI assistance. At the end of the interview, I became absolutely convinced that our conversation was streamed to an LLM that was answering our questions for her. So, what happened? First off, the candidate had less than 5 years of experience, and was currently employed in a Big Tech company. Obviously, we were prepared to take her short experience in consideration when evaluating her. As so, we were very surprised when confronted with a system debugging exercise, she immediately pinpointed the probable issue and suggested a sound mitigation strategy. The entire problem space was covered and identified in the span of a minute. At that point, I believed that I was interviewing a gifted engineer. Something quickly started to bug me: the candidate was reguarly looking on the side, as if she was reading or looking at something on a side scr",
+      "date": "2026-07-29"
+    },
+    {
+      "link": "https://blog.balthazar-rouberol.com/a-much-better-ttrpg-sound-mixer-than-mine",
+      "title": "A much better TTRPG sound mixer than mine",
+      "description": "I was pleasantly surprised to learn that PARADISO had just open-sourced their tabletop sound mixer project, called tat . The project was initially developped as a stretch goal of the Warped Beyond Recognition crowdfunding campaign, and was reserved to paying patrons until then. Here's its main gist, in the author's own words: Use add media to add images (maps, probably) and audio (ambience, soundtracks, etc.) to your project. You will then be able to arrange them as you like -- the assumed use is that you will overlay audio on areas of your maps that players should hear when they are in those areas. The map pin is the listener: this represents where your players are. As your players move through environments in the game, drag the pin around on the map(s) you added, and the listener will automatically blend the audio sources that you have placed. A video is worth a thousand words though! Why am I excited about this? Mainly because tat is better than my own sound mixer , for the followin",
+      "date": "2026-04-25"
+    }
+  ]
+}

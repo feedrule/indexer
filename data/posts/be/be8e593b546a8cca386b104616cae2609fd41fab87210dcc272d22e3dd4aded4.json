@@ -1,0 +1,23 @@
+{
+  "url": "https://mentat.za.net/blog/tags/emacs/atom.xml",
+  "posts": [
+    {
+      "link": "https://mentat.za.net/blog/2026/01/27/org-mode-time-blocks/?utm_source=atom_feed",
+      "title": "org-mode Day Planning with Time Blocks",
+      "description": "I’ve discovered, over the years, that setting a clear intention is closely correlated to a day well spent. I know that, when I decide what I want to do early in the morning—before being overwhelmed by email, Slack, Zulip, Discord, and all the other little attention grabbers—that I have a better chance of doing something I care about. It seems like, in 2026, slow, intentional work is en vogue , with books like Burkeman’s “Meditations for Mortals” and Cal Newport’s “Slow Productivity” doing the rounds. As my friends know, I am fascinated (and inspired) by the Stoics and enjoy listening to the various teachers on Waking Up , many of whom echo the same idea: that mindful, focused effort is vastly more satisfying than responding to whatever seems urgent. Time-blocking # How we set intention is personal, and recommending any specific system feels trite. However, I have found that, for me , planning a rough schedule for the day—often called time-blocking —is a great way to think about what I",
+      "date": "2026-01-27"
+    },
+    {
+      "link": "https://mentat.za.net/blog/2026/01/26/gemini-for-code-patches-in-emacs/?utm_source=atom_feed",
+      "title": "Using Gemini for Code Patches in Emacs",
+      "description": "To ensure that my skepticism of LLMs did not blind me to progress, and to keep my finger on the pulse, I’ve been incorporating them into my Emacs config, starting with gptel and, more recently, macher . In December, I took another look at Gemini, and noticed a significant improvement over Flash 2.5 with the arrival of Flash 3 Preview. In this post, I share the configuration I currently use, and mention some open questions I still hope to address. Tools # gptel is a beautifully clean and simple interface for LLM chat. Despite its simplicity, it actually has fairly advanced functionality, which includes MCP integration, introspection of queries, multi-modal input (such as images), and tool usage (extending LLMs with access to elisp functions of your choosing). macher runs on top of gptel . It provides a “pseudo-agentic” workflow, in which you provide the LLM context about your current project, such as the list of files. It also defines several tools that the LLM can use, such as the abil",
+      "date": "2026-01-26"
+    },
+    {
+      "link": "https://mentat.za.net/blog/2025/01/08/pomodoros-with-org-timer/?utm_source=atom_feed",
+      "title": "Pomodoros with org-timer",
+      "description": "A New Year! Create the 2025.org journal file, channel all that post-break energy, and get ready to be Super Productive™! 💪 Oh, what’s this… a post on how to track Pomodoros using org mode . 👀 Of course, I didn’t bite. Of course not. Productivity people sure spend a lot of time writing a lot about little; and the Pomodoro technique is no exception. It can be summarized as: Set a timer, get to work, take a break. Repeat, take a break. There’s way too much productivity literature out there, and much of it comes down to: find a way to get your butt in the seat and start [writing/typing/reading/editing/…] . The new wave of productivity literature, or “anti-productivity” literature , tells us to face the facts: you’re never going to finish your TODO list, so give up already, be in the present, and focus on what’s most important (or, whatever, just be present ). Sometimes, I get in the flow easily, and don’t need any tricks. But other times, especially with those slightly-mundane-tasks-that-s",
+      "date": "2025-01-08"
+    }
+  ]
+}

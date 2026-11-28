@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.chiariglione.org/feed/",
+  "posts": [
+    {
+      "link": "https://blog.chiariglione.org/staging-a-live-performance-across-real-and-virtual-worlds-mpais-xrv-ltp-standard/",
+      "title": "Staging a live performance across real and virtual worlds: MPAI’s XRV-LTP standard",
+      "description": "Lights change. A scene is revealed. A performer enters, a sound begins, and the audience reacts. A live theatrical performance is a sequence of moments – and today each of them is usually handled by a different operator or a different system, with the connection between them living in a script and in the operators’ heads. XRV-LTP – Live Theatrical Performance – from MPAI (Moving Picture, Audio and Data Coding by Artificial Intelligence) specifies how to describe a performance in a machine-readable language, so that AI Modules can monitor it, interpret what happens in the venue and act on it according to the script: in a physical theatre, in a virtual world, or across both at the same time. Real and virtual, together XRV-LTP belongs to the family of Extended Reality Venues (MPAI-XRV): venues where real and virtual worlds meet. The Real Environment is the physical venue with its performers, spectators, lights, sound and stage machinery. The Virtual Environment is a digital copy or extens",
+      "date": "2026-11-01"
+    },
+    {
+      "link": "https://blog.chiariglione.org/an-ovwerview-of-the-connected-auronomous-vehicle-technologies-standard/",
+      "title": "An ovwerview of the Connected Auronomous Vehicle – Technologies standard",
+      "description": "1 Introduction The CAV-TEC standard assumes that a land-based Connected Autonomous Vehicle (CAV) is composed of the following elements: Connected Autonomous Operation (CAO), a CAV component that: Receives a request from an authorised human or process to start from a specified Position and Orientation (called Point of View ) and reach a specified destination point of view. Uses onboard sensors to capture data from the environment, which is populated by humans carrying devices, other CAVs, and objects such as vehicles, roadside units, and traffic lights. These entities may be “CAV-aware”, i.e., capable of transmitting information understood by the CAV. Exchanges relevant data with peer CAOs onboard other CAVs within range. Issues control instructions. Complies with applicable traffic laws, properly represented in digital form. Three subsystems: Motors, to increase and decrease the vehicle’s speed. Steering wheels, to change the vehicle’s direction of motion. Brakes, to substantially redu",
+      "date": "2026-06-14"
+    },
+    {
+      "link": "https://blog.chiariglione.org/mpai-as-a-service-maas-for-a-new-generation-of-intelligent-services/",
+      "title": "MPAI as a Service (MaaS) for a new generation of intelligent services",
+      "description": "The 66 th MPAI General Assembly (MPAI-66) has approved the publication of the “MPAI as a Service” Call for Technologies. To get a proper understanding of the positioning of this new standard in the MPAI Ecosystem, we should recall the basic elements of the AI Framework (MPAI-AIF) and the Governance of the MPAI Ecosystem (MPAI-GME) standards. The former specifies an environment where it is possible to initialise, dynamically configure, and control AI applications called AI Workflows (AIW) composed of connected processing elements called AI Modules (AIM). MPAI-AIF specifies two profiles – a Basic and a Security Profile. Figure 1 depicts the MPAI-AIF Basic Profile Reference Model. You can see the Controller – the brain of the system – and the MPAI-AIF APIs enabling the Controller to obtain AIWs/AIMs from the MPAI Store, the place where implementers can submit their implementations for distribution after they have been tested for conformance with the standard and verified for security. Onc",
+      "date": "2026-03-21"
+    }
+  ]
+}

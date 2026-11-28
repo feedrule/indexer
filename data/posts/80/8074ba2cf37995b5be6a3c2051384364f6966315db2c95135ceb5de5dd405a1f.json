@@ -1,0 +1,23 @@
+{
+  "url": "https://johncarlosbaez.wordpress.com/feed/",
+  "posts": [
+    {
+      "link": "https://johncarlosbaez.wordpress.com/2026/11/24/finite-groups-with-order-a-power-of-two/",
+      "title": "Finite Groups with Order a Power of Two",
+      "description": "This is a draft of my column for the Notices of the American Mathematical Society . If you’re in my target audience—basically, if you’re a mathematician—please let me know if you find anything hard to understand, or wrong. Finite groups with order a power of two At the turn of the millennium, Besche, Eick and O’Brien [BEO] announced that up to isomorphism there are 49,910,529,484 groups of order at most 2000. Later Burrell [B] revised this count upward a bit, to 49,910,531,351. But the really interesting thing is that about 99.15% of these groups are of order 1024. Indeed, most of the difficulty in counting these groups lay in this one case—and that is where the errors arose. It has been said that the Creator has an inordinate fondness for beetles, given the numerous species of these insects. If so, she must be even fonder of groups whose order is a power of two! Such groups are called 2-groups . (I apologize for popularizing the use of this term to mean something completely different,",
+      "date": "2026-11-24"
+    },
+    {
+      "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "title": "Masullo on the Riemann Hypothesis",
+      "description": "On November 20, 2026, two attempts to prove the Riemann Hypothesis appeared. One, by Levent Alpöge working with Claude, exists mainly as 17 million lines of Lean code. The other, by Alessandro Masullo, is a 940-page human-written manuscript that Ravi Vakil posted on his blog: • Ravi Vakil, Hurried announcement: Alessandro Masullo GRH , Math 216 blog, November 20, 2026. • Alessandro Maria Masullo, The Music of the Primes , draft, November 20, 2026. While there’s been an enormous outpouring about the drama of this situation, so far it’s hard to find good simple accounts of Masullo’s paper. Let me try to fill this gap by sketching Masullo’s proof strategy in a very simplified way, along with some problems people have noted. Since I am not an expert on number theory, all this is very tentative and I could be making serious mistakes. Please let me know if you see some! If you also want a sketch of the Alpöge / Claude proof, check out these: • Michael Rubinstein, The Alpöge-Claude proof of t",
+      "date": "2026-11-22"
+    },
+    {
+      "link": "https://johncarlosbaez.wordpress.com/2026/10/31/ecological-modeling-job/",
+      "title": "Ecological Modeling Job",
+      "description": "One of my dreams is finally coming true: ecological modeling with the help of category theory! Topos Research UK , run by my friends and colleagues, will be providing computational support to ecological modelers using CatColab , their modeling software based on double categories . And they’re hiring a postdoc! I almost want to apply myself. You can see details, and apply, here . The job starts now. The location is their wonderful office in Oxford, UK. It’s a full-time 2-year job with a salary of £47,665–52,430 per year. It’s in-person, but a transition period may be negotiated. You should have, or soon have, a PhD in, or have made significant contributions to, mathematics or its adjacent fields (such as computer science, statistics, etc.), with a focus in at least one of the following areas: • category theory, • categorical statistics, • (probabilistic) graphical models, • systems dynamics, • decision analysis, • ecological modelling. Before applying, I recommend that you read Tim Hosg",
+      "date": "2026-10-31"
+    }
+  ]
+}

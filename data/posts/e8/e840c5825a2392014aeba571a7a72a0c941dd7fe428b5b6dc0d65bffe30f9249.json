@@ -1,0 +1,23 @@
+{
+  "url": "https://github.com/w3c/csswg-drafts/commits/main.atom",
+  "posts": [
+    {
+      "link": "https://github.com/w3c/csswg-drafts/commit/7027ab6fdf3c98d9c44666820041cb075b0e28dd",
+      "title": "[css-spatial-1]: Demore erroneous whitespace",
+      "description": "[css-spatial-1]: Demore erroneous whitespace",
+      "date": "2026-11-27"
+    },
+    {
+      "link": "https://github.com/w3c/csswg-drafts/commit/6f177f4c13fbc3153474b66e88c25cf58ce5cfdd",
+      "title": "[cssom-1] Expose the CSS namespace beyond Window; pin existing partia…",
+      "description": "[cssom-1] Expose the CSS namespace beyond Window; pin existing partials #14229 The CSS namespace was [Exposed=Window], which made css-typed-om's [Exposed=(Window, Worker)] partial invalid: WebIDL requires a partial's own exposure set to be a subset of the original definition's exposure set. Widen the base namespace to (Window, Worker, PaintWorklet, LayoutWorklet) and pin every pre-existing member to the exposure it has today, so this is a no-op for everything except the css-typed-om numeric factories: * cssom-1: escape() pinned to [Exposed=Window] * css-conditional-3: supports() partial pinned to [Exposed=Window] * css-highlight-api-1: highlights partial pinned to [Exposed=Window] * css-images-4: elementSources partial pinned to [Exposed=Window]",
+      "date": "2026-11-27"
+    },
+    {
+      "link": "https://github.com/w3c/csswg-drafts/commit/9c7ee53130057fa90efcc01c80e03478e87a9b9f",
+      "title": "[css-spatial-1] Make environment-map and the environment shorthand pe…",
+      "description": "[css-spatial-1] Make environment-map and the environment shorthand per-layer The environment shorthand listed undefined <environment-*> types, and referencing the longhands would nest comma-separated lists. Inline one layer of each longhand, and allow auto/none per layer in environment-map so it can represent every value of the shorthand.",
+      "date": "2026-11-25"
+    }
+  ]
+}

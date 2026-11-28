@@ -1,0 +1,23 @@
+{
+  "url": "https://alexcbecker.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://alexcbecker.net/blog/inventing-transformers.html",
+      "title": "Inventing Transformers",
+      "description": "A branching tech tree of the Transformer: the path of innovations from 2012 to 2017 - AlexNet, Word2vec, Attention, ResNet and more - drawn as glowing nodes on a skill-tree diagram, each one unlocking the next on the way to the architecture behind modern AI.",
+      "date": "2026-05-30"
+    },
+    {
+      "link": "https://alexcbecker.net/blog/myth-of-deterministic-software.html",
+      "title": "The Myth of Deterministic Software",
+      "description": "How I've come to terms with LLM non-determinism in software and abandoned the comforting lies we've been telling ourselves about traditional software.",
+      "date": "2026-05-03"
+    },
+    {
+      "link": "https://alexcbecker.net/blog/decreasing-surplus.html",
+      "title": "More Thoughts on Falling Surplus",
+      "description": "The feeling of poverty amidst wealth stems from less opportunity to realize surplus. Bespoke goods are bid up, and market opportunities narrow for consumers & producers.",
+      "date": "2026-04-25"
+    }
+  ]
+}

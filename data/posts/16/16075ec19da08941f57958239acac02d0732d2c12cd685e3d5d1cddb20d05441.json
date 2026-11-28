@@ -1,0 +1,23 @@
+{
+  "url": "https://tuxthink.blogspot.com/feeds/posts/default",
+  "posts": [
+    {
+      "link": "https://tuxthink.blogspot.com/2026/11/four-basic-linux-commands-every.html",
+      "title": "Four Basic Linux Commands Every Beginner Should Know",
+      "description": "The Linux terminal may look complicated at first, but you only need a few commands to start navigating the system confidently. In this beginner-friendly video, Liko demonstrates four essential Linux commands: pwd , ls , mkdir , and cd . These commands help you identify your current location, view files and folders, create a new directory, and move between directories. 1. pwd — Find Your Current Location The pwd command stands for print working directory . It displays the complete path of the directory in which you are currently working. Enter: pwd Example output: /home/user You can think of pwd as asking Linux: “Where am I?” 2. ls — View Files and Folders The ls command lists the files and folders available in your current directory. Enter: ls Example output: Desktop Documents Downloads Pictures This command is useful whenever you want to check what is available in a directory before opening, copying or deleting anything. 3. mkdir — Create a New Directory A directory in Linux is simila",
+      "date": "2026-11-14"
+    },
+    {
+      "link": "https://tuxthink.blogspot.com/2026/02/resolve-dns-name-in-ubuntu.html",
+      "title": "Resolve DNS name in ubuntu",
+      "description": "Enabling Active Directory DNS Resolution on Ubuntu Problem Statement: An Ubuntu VM needs to communicate with several Windows VMs that are members of an Active Directory (AD) domain. While the Windows machines can resolve each other's hostnames via the Domain Controller, the Ubuntu VM fails to resolve these DNS names, preventing seamless connectivity. Objective: Configure the Ubuntu VM to use the Active Directory Domain Controller (DC) as its primary DNS server for name resolution. Technical Solution: Updating the Nameserver To allow Ubuntu to \"see\" the AD environment, you must point its DNS configuration to the IP address of the Domain Controller. 1. Identify the DNS IP On any of your Windows VMs already in the domain, find the DNS server IP (usually the IP of your Domain Controller). 2. Update the Configuration In Linux, DNS resolution is primarily handled by the resolv.conf file. You need to add your AD DNS IP to this file. File Path: /etc/resolv.conf Action: Add a nameserver entry a",
+      "date": "2026-02-15"
+    },
+    {
+      "link": "https://tuxthink.blogspot.com/2023/10/black-screen-in-vsphere-7x-client-on.html",
+      "title": "Black screen in vsphere 7.x client on installing unbuntu",
+      "description": "On booting an Installation of ubuntu on the vspehere 7.x client can sometimes show a black screen instead of the actual GUI of ubunutu. One the possible reasons for this could be a simple setting in the virtual machine. To check if its problem with vm setting try the following. Power off vm and go to edit settings-> virtual hardware->video card and select option \"auto detect settings\" and un-check box enable 3D support if checked. Once the setting is changed, power on the virtual machine and you should be able to see the ubuntu gui.",
+      "date": "2023-10-15"
+    }
+  ]
+}

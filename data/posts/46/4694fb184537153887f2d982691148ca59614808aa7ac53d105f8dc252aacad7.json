@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.mozilla.org/ux/feed/",
+  "posts": [
+    {
+      "link": "https://blog.mozilla.org/ux/2026/08/let-your-designs-fail-for-the-right-reasons/",
+      "title": "Let your designs fail for the right reasons",
+      "description": "How AI-assisted native prototypes changed what usability testing could show me. If you’ve ever simplified an interaction just to make a prototype manageable, you’ve probably felt the tension between what you designed and what the prototype could actually support. The risk is that when a design fails in usability testing, you can’t always tell why. Was the experience itself the problem, or was it really the prototype getting in the way: a missing connection, a laggy transition, a path you didn’t build? I ran into this while working on Report Broken Site for Firefox Android, and it led me to a different way of prototyping: building directly inside the real app with AI (Claude), so the test reflects native fidelity rather than a simulation of it. That’s when I started worrying just about the design failing, and not the prototype. Feature: Report Broken Site Reaching limits of walled prototypes In tools like Figma, prototyping requires anticipating every possible interaction and defining i",
+      "date": "2026-08-05"
+    },
+    {
+      "link": "https://blog.mozilla.org/ux/2026/03/designing-beyond-the-checklist/",
+      "title": "Designing beyond the checklist",
+      "description": "Accessibility has always been close to my heart. I was introduced to it early in my career, when a client required our product to be AAA-compliant. As a team of two, we audited our entire app. We were barely AA. If those letters don’t mean much, they refer to the Web Content Accessibility Guidelines (WCAG), the international standard for making digital products usable for people with disabilities. AAA is the highest level of conformance. AA is typically considered the acceptable baseline. We weren’t even confidently there. That experience changed how I see design. Most products today aren’t perfect. Many aren’t even close. But accessibility isn’t just about passing audits or checking contrast ratios. Yes, color contrast matters. Alt text matters. Focus states matter. But those should be the floor, not the ceiling. Accessibility goes beyond a checklist. It’s a mindset. And that mindset deepened for me on the Firefox UX team. At Mozilla, I’ve had the opportunity to collaborate closely wi",
+      "date": "2026-03-19"
+    },
+    {
+      "link": "https://blog.mozilla.org/ux/2024/06/coming-back-to-firefox-as-a-user-researcher/",
+      "title": "Coming Back to Firefox as a User Researcher",
+      "description": "Reflecting on two years of working on the browser that first showed me the internet Firefox illustration by UX designer Gabrielle Lussier Last week marked two years of working on Firefox. For me, this was a return to the browser I fervently used in my early internet days (circa 2004–2011). I don’t recall exactly when I left, and whether it was abrupt or gradual, but at some point Firefox was out and Chrome was the browser on my screen. Looking back, I’m pretty sure it was notifications telling me Gmail would work better on Chrome that led me there. Oof. I certainly wasn’t alone. The storied history of browsers (including not one, but two browser wars ) is marked by intense competition and shifting landscapes. Starting around 2010–2011 , as Chrome’s market share went up, Firefox’s went down. A doorway to the internet When I started working on Firefox, a colleague likened a browser to a doorway — you walk through several a day, but don’t think much about them. It’s a window to the intern",
+      "date": "2024-06-14"
+    }
+  ]
+}

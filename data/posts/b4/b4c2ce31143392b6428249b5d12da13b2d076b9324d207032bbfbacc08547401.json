@@ -1,0 +1,23 @@
+{
+  "url": "https://mj10.github.io/feed",
+  "posts": [
+    {
+      "link": "https://mj10.github.io/blog/2026/perspectives-on-science/",
+      "title": "Perspectives on Science",
+      "description": "the sun the moon the stars the earth Anaximander's cosmos. The Earth is a column drum whose diameter is three times its height, and it stays where it is because it sits at equal distances from the extremes. Around it turn hollow wheels with rims of opaque vapour, filled with fire that shines through openings: the stars nearest, then the Moon, and the Sun farthest away . Some of the content in this post is taken from a draft of my thesis. Much has changed in the world of AI since my post on GFlowNets and scientific discovery . AI for Science has now become a mainstream topic. A Nobel Prize was awarded for the development of AlphaFold and LLM-based systems have solved hundreds of open problems in various areas of math including the Navier-Stokes Millennium prize problem Just during the process of writing this post I had to rewrite this line several times due to the constant release of new major results in math. . The scientific process has transformed drastically across every field thank",
+      "date": "2026-11-09"
+    },
+    {
+      "link": "https://mj10.github.io/blog/2026/femto/",
+      "title": "Training a small language model from scratch",
+      "description": "Agents have dramatically changed how code is written, and consequently how a lot of computational research is done. This is particularly true for empirical deep learning research, where the quality of the research largely depends on the practical implementation. Like many other PhD students, I have been ceding more and more of the code to agents, largely because they are much faster and better at writing code and much less prone to the frustration of dealing with awkward errors, scattered compute and silent bugs. However, even though I had access to this incredible system which converts my ideas to working code, the scale and types of ideas I considered remained somewhat constrained. There were several reasons for this hesitation in the past, including the reliability of agents and a preference for controlling specific design decisions. A few weeks ago I decided to change this and try to increase the scope of problems I considered feasible working alone. I made an empty repository and",
+      "date": "2026-10-23"
+    },
+    {
+      "link": "https://mj10.github.io/blog/2023/gflownets-scientific-discovery/",
+      "title": "GFlowNets and Scientific Discovery",
+      "description": "(This a high-level summary of our recent paper . This post was originally published on the M2D2 Blog , but is now only available here after the re-organization of that blog.) The Scientific Method “ Science is often described as an iterative and cumulative process, a puzzle solved piece by piece, with each piece contributing a few hazy pixels of a much larger picture.” — Emperor of all Maladies, Siddhartha Mukherjee The Scientific Method prescribes a systematic approach to gaining knowledge through observation, forming hypotheses, and experimentation. Popularized during the Renaissance, this principle has been at the core of the rapid technological growth that followed. Progress in science has led to technological advancement, which in turn has enabled further scientific progress, resulting in a continually improving “hazy picture” of the universe. Figure 1 shows a simplified version of the Scientific Method. To make the illustration concrete, consider the drug discovery process. It be",
+      "date": "2023-03-07"
+    }
+  ]
+}

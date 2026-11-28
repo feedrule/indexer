@@ -1,0 +1,23 @@
+{
+  "url": "https://blog.mozilla.org/feed/",
+  "posts": [
+    {
+      "link": "https://blog.mozilla.org/en/firefox/firefox-161-updates/",
+      "title": "Lighten the holiday load with these four Firefox 161 updates",
+      "description": "The holiday season, the festive season, the “how is the year almost over?” season. Whatever you call it, there’s a lot to get done. Gifts to buy, meals to plan, travel details to sort out, all while your regular responsibilities refuse to take time off. In Firefox 161, we’re introducing a few new updates that can help you save time during the busiest months of the year, plus a new place to browse when you have a few minutes to cross something off your list. So you can cut down on the time spent prepping for the holidays, and get back to the people you’re doing it all for. Set VPN rules for individual sites Searching for the perfect gift? You might want to use a VPN to compare how prices differ by region. Sites like your bank or favorite streaming service, however, might work better without it. Firefox’s free built-in VPN on desktop now lets you choose which sites automatically open with VPN on, and which open with it off. This way, your preferences are applied automatically, and you ca",
+      "date": "2026-11-24"
+    },
+    {
+      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "description": "Firefox on iPhone is growing fast across the world. This is especially true in the EU since 2024, when the EU Digital Markets Act (DMA) started requiring Apple to let people choose their default browser; millions have picked Firefox, and daily use on iOS has doubled. People want to choose the browser on their phone. But there remains an important limitation to what is available on iPhones: Apple forces all browsers on iOS to be built on Apple’s own browser engine. This has meant that companies like Mozilla cannot easily bring the full range of Firefox features and functionality to iPhone users because many of these are built within our browser engine , Gecko. iPhones and iPads are unique in having this restriction. On all other major operating systems, including Apple’s macOS, people can access the Gecko-powered version of Firefox. As a result of the DMA, Apple began allowing alternative browser engines on iOS in the EU. It published a set of conditions that companies like Mozilla must",
+      "date": "2026-11-20"
+    },
+    {
+      "link": "https://blog.mozilla.org/en/mozilla/has-microsoft-wronged-you/",
+      "title": "Has Microsoft wronged you? Firefox opens a complaints line at Microsoft Ignite",
+      "description": "Taxi-top advertisement image created for illustrative purposes This week, Firefox is taking over the streets around the Moscone Center in San Francisco, where Microsoft is holding Ignite , its biggest conference of the year. While they talk about what’s next for Windows, Firefox is taking over the surrounding streets to remind them of what they haven’t fixed: Microsoft hasn’t changed the concerning design practices that undermine their users’ choices, including keeping people’s chosen default browser. We are running an ad campaign that is styled like personal-injury lawyer ads. All we ask is that you call us and tell us what you think of Microsoft’s tactics to undermine browser choice. The hotline is real. Call 1-855-25-FIREFOX and you can leave a message where you can make your point. We want to ensure that Microsoft understands a real problem they are creating. We are doing this publicly because we previously shared and discussed research proving this problem with Microsoft and have",
+      "date": "2026-11-17"
+    }
+  ]
+}

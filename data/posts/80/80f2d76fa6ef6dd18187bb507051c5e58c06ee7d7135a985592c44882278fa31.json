@@ -1,0 +1,23 @@
+{
+  "url": "https://tensorlabbet.com/atom.xml",
+  "posts": [
+    {
+      "link": "https://tensorlabbet.com/2026/07/19/medqaswe_post_training/",
+      "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs",
+      "description": "In this post: SFT and RLVR on Swedish MedQA (10 min read) To practice medicine in Sweden, foreign medical doctors who want to validate their license are first required to pass a multiple-choice test. Given around 140 questions with 5 answer options each, they must reach at least 60% accuracy to pass. This theory test is challenging, with a pass rate of just about one in four and only 54% of participants ultimately succeeding after one or more attempts. I was curious how well newer open-weight LLMs could do on this task by now. This post documents what turned into a little summer project, pushing the accuracy of smaller open-weight LLMs on Swedish MedQA with post-training techniques like supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR). Related Work For English language, similar benchmark datasets with medical multiple-choice questions like MedQA have already been mostly saturated, with frontier models scoring above 95% . Swedish, however, accounts",
+      "date": "2026-07-19"
+    },
+    {
+      "link": "https://tensorlabbet.com/2026/05/18/hands-on-llm-inference-serving/",
+      "title": "Hands-on LLM Inference Bake-Off",
+      "description": "In this post: LLM self-hosting and serving with vLLM and SGLang (8 min read) As the ecosystem around open-weight LLMs expands, so do its options for inference serving. Open-source software enables self-hosting these models on varied hardware, from outright GPU clusters to workstations, laptops and even smartphones. This post shares a first-hand account of trying to get these models to speed, from self-hosting on local hardware to running inference serving on an H100 GPU using vLLM and SGLang . Background Modern frontier LLMs are rumoured to have trillions of parameters, requiring an entire rack of datacenter GPUs for serving. In contrast, Small Language Models (SLMs) and Tiny Language Models (TLMs) can reach below 1B parameters, with memory footprints reduced further through aggressive quantization, compressed KV caches, lower context lengths and architectural innovations. The previous blog post shared a brief overview of this space. Self-Hosting Experiments Models like Gemma 4 E4B can",
+      "date": "2026-05-18"
+    },
+    {
+      "link": "https://tensorlabbet.com/2026/04/27/rise-of-open-weight-llms/",
+      "title": "The Rise of Open-Weight LLMs",
+      "description": "In this post: A survey of the open LLM ecosystem (7 min read) Leading model providers like Anthropic, OpenAI and xAI have been pushing the envelope by developing ever more capable Large Language Models (LLMs). These closed-weight frontier models are proprietary and served through APIs or subscription plans. The big bet of the AI race, on which over $1 trillion have been invested , is that substantial returns on investment are possible, especially for a single provider that ‘wins’ and comes to dominate the field. Locking In Whereas OpenAI recently started introducing ads for some of their usage plans, Anthropic has started to adjust the generosity of their offering by limiting third-party access, tightening usage limits and barring certain users from signing up for Claude Code on Pro subscription plans. The models of xAI, in turn, tend to act in ways many find surprising and have gone through a lot in general . SpaceX became the parent company of xAI earlier this year and recently secur",
+      "date": "2026-04-27"
+    }
+  ]
+}

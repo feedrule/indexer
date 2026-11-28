@@ -1,0 +1,23 @@
+{
+  "url": "https://incrementsofincrements.bearblog.dev/feed/",
+  "posts": [
+    {
+      "link": "https://incrementsofincrements.bearblog.dev/how-to-make-useless-enterprise-architecture-diagrams/",
+      "title": "How to make Useless Enterprise Architecture Diagrams",
+      "description": "Background on this diagram I had ChatGPT generate this diagram for me. It must have seen many a similar \"Architecture\" diagrams because it gave me almost exactly what I wanted. Here's the prompt: Generate a generic \"Enterprise Architecture\" style diagram for me for some made-up company. I'm trying to highlight the things the I dislike in these diagrams, so the one you generate should: Have at least one big horizontal box which everything immediately above it points down to it and it points to every box immediately below it. The box should have some fake SaaS integration company logo in it. The other boxes are numerous and organized into rows with arrows between them but none of the arrows are labeled. The boxes are relatively small, but each box has a title, and image, and only one short sentence describing what the service does. Each box describes some sort of capability, but nothing about how it will be implemented. Each box is colored. The colors are reused, but there's nothing that",
+      "date": "2026-11-05"
+    },
+    {
+      "link": "https://incrementsofincrements.bearblog.dev/brevity-and-ai/",
+      "title": "Brevity and AI",
+      "description": "In my work I've come across more presentations whose slides were clearly written, partially or completely, by AI. I don't necessarily have a problem with using AI in this capacity when used responsibly. What I do have a problem with is how busy they always seem to be when used irresponsibly. Just because you can have a bunch of diagrams, colors, and flowcharts in your presentation doesn't mean that you should. PowerPoint presentations have been around for a long time now, and there have been tomes written about what makes good presentations good. AI doesn't change any of that. You may be able to produce presentable information much more easily than you could before, but extraneous information is still just as distracting to human audiences as it was before. Please, simplify your slides!",
+      "date": "2026-09-14"
+    },
+    {
+      "link": "https://incrementsofincrements.bearblog.dev/deck-chair-problems/",
+      "title": "Deck Chair Problems",
+      "description": "I love this phrase: Rearranging the deck chairs on the Titanic It's used to describe when someone is working in a trivial problem but ignoring a much larger problem. As a software developer at a medium-sized not-pure-tech company, I can't help but feel like many of the problems I am tasked with a Deck Chair Problems. We aren't necessarily sinking in the middle of the ocean, but to my lowly position it seems our resources could be better devoted to things that people paying us money actually care about.",
+      "date": "2026-08-14"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.sdr-radio.com/feed/atom",
+  "posts": [
+    {
+      "link": "https://www.sdr-radio.com/sdr-television-v1-1-7",
+      "title": "SDR Television v1.1.7",
+      "description": "SDR Television v1.1.7 October 26th, 2026, Important bug fix and enhanced user interface. I've been using ChatGPT to help with both DSP and user interface design. Here we see the result of interface design. Receiver Finally found the cause of a bad memory leak. Every time User Interface Added an Octave Spectrum display, this is selected on the Receive and Transmit displays from the main dropdown, sub-menu \"Audio Display...\" as shown below. Added a new Style, SDR Television - Modern. Select the style from the Style dropdown in the top right-hand corner of the main display. Downloads are at the bottom of this page. SDR Television v1.1.6 September 14th, 2026. To avoid confusion with the test versions of 1.1.5, this kit is now 1.1.6. Receiver Improved Gardner timing recovery. Improved Sum-product decoding. Redesigned soft decoder. Redesigned RRC matched filter. Note: this kit should be able to gain a dB or so sensitivity when detecting the frame header. v1.1.6 will have even better frame de",
+      "date": "2026-10-24"
+    },
+    {
+      "link": "https://www.sdr-radio.com/new-noise-blanker",
+      "title": "New Noise Blanker",
+      "description": "Introduction During September and October 2026 new noise blankers have been implemented to improve what was a weak part of the SDR Console signal processing chain. Using the knowledge of ChatGPT, this exercise took only five days and the result is shown below. These noise blankers will be available sometime in October 2026. Impulse Noise A noise blanker should remove Impulsive interference such as electrical switching noise, electric-fence pulses, ignition interference and short static crashes The screenshot below shows the new wideband noise blanker in action. The top half of the main waterfall shows the noise created by an electric fence, The bottom half shows the noise removed by the new wideband noise blanker. Listen to a recording made using AM on 1,287kHz, a signal is present . In the recording the wideband noise blanker is engaged after 10 seconds then disengaged after 20 seconds. The result is good! Listen to a recording made using AM on 709kHz, there is no signal present, just",
+      "date": "2026-10-09"
+    },
+    {
+      "link": "https://www.sdr-radio.com/new-noise-reduction",
+      "title": "New Noise Reduction",
+      "description": "RadioClear AI – A New Approach to Speech Noise Reduction Improving Weak Signal Reception One of the biggest challenges when listening to weak radio signals is separating speech from background noise. As signals become weaker, the noise can overwhelm the speech, making conversations difficult or sometimes impossible to understand. Conventional noise reduction has been available in software-defined radios for many years. Most systems analyse the received audio, estimate which frequencies contain noise, and reduce their amplitude. This can work very well, but there is always a compromise. Too little suppression leaves distracting background noise, while too much can make speech sound metallic, watery or unnatural. Important speech information may disappear along with the noise. For some time, I have wanted to develop a better approach for SDR Console, particularly for weak SSB reception. The objective was not simply to produce quieter audio, but to improve intelligibility while preserving",
+      "date": "2026-10-09"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://a-r-r-o-w.github.io/feed.xml",
+  "posts": [
+    {
+      "link": "https://a-r-r-o-w.github.io/blog/00006_compiling_python_to_sass/",
+      "title": "Compiling Python to SASS",
+      "description": "Writing high-performance GPU kernels in Python has become standard practice. DSLs like [Triton](https://github.com/triton-lang/triton) and NVIDIA's [C...",
+      "date": "2026-11-26"
+    },
+    {
+      "link": "https://a-r-r-o-w.github.io/blog/00005_looking_inside_your_kernels/",
+      "title": "Looking inside your kernels",
+      "description": "Interest in writing specialized high performance programs for GPUs and other accelerators has been on the rise in the past few years. There are many r...",
+      "date": "2026-07-05"
+    },
+    {
+      "link": "https://a-r-r-o-w.github.io/blog/00004_productionizing_diffusion-4/",
+      "title": "Optimizing diffusion for production-ready speeds - IV",
+      "description": "Diffusion models have rapidly advanced generative modeling across a wide range of modalities - from images and video to music, 3D objects, and even te...",
+      "date": "2026-01-29"
+    }
+  ]
+}

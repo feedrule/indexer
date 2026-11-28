@@ -1,0 +1,23 @@
+{
+  "url": "https://okayfail.com/atom.xml",
+  "posts": [
+    {
+      "link": "http://okayfail.com/2026/what-do-we-do-when-we-read-the-code.html",
+      "title": "What Do We Do When We Read The Code?",
+      "description": "Last Friday, I wasted over an hour arguing with an LLM. I was reviewing a pull request I asked it to generate, and realized that three of the tests it wrote were either not useful or literally could never fail. I hate reading tests. Reading tests is hard and boring, but I always try to read them carefully. They’re your guardrails. They don’t always do a good job of capturing the nature of the behaviour or feature that you’re trying to achieve, but at least they try to guarantee that things won’t change in unpredictable ways in the future without you noticing. They take time and effort to read, and eventually I realized these tests were useless. 1 When I asked the LLM about it, it got bashful. Rather than reasoning about it like I had, it impressively wrote a mutation test to indeed show the test was useless, and then wasted more time trying to find ways to preserve the spirit of the tests, which I simply deleted. Afterwards, I sat back and thought about this interaction. What am I doin",
+      "date": "2026-08-11"
+    },
+    {
+      "link": "http://okayfail.com/2026/dear-margo-wildman.html",
+      "title": "Dear Margo Wildman,",
+      "description": "A funny thing happened to me recently. It happened like this: I dropped off my kids at school, and then I biked up the street to our local bakery to buy a loaf of bread where, waiting in line, I heard a song come on the radio. Damn, I thought, this song is a bop . This is a real jam. What is this? I pulled out my phone, and it told me that I was listening to Midnight Sun by Zara Larsson. I put my phone back in my pocket, paid for my bread, and biked home, where I put on my good headphones and listened to the song three times in a row. It’s catchy. It’s like… a hyperpop-inflected drum and bass track, pretty vocals, nice beat drop. It’s a cute song about going to your cabin in the woods for midsommar and feeling happy. It’s good , I thought. I also thought that it sounded gay as hell . I couldn’t put my finger on it, but this song… to my ears, this song clearly sounds like doing mdma at a Pride rave. It sounds like getting dolled up and going dancing in a sweaty basement. It sounded like",
+      "date": "2026-06-08"
+    },
+    {
+      "link": "http://okayfail.com/2026/the-roles-we-play.html",
+      "title": "The Roles We Play",
+      "description": "Part of an Epigenetic Landscape from Waddington, C. H., The Strategy of the Genes (1957). I had not felt any change, but to the people around me it was as if I had been profoundly transformed. Strangers held the door open. Old people stopped to chat. Women smiled at me, a new and novel experience. I had transitioned, and rather suddenly at that. I was still getting used to it. One moment I was yet another tall, scruffy, bearded man – and in the next I had become a new-dad. Moving through the world with a sleeping baby strapped to my chest, I realized I was no longer being seen as a potential threat. I was harmless now, benign even. My role in society had changed. Before, I was cannon fodder. Privileged, taken seriously, of course, but also… kind of disposable? Young-ish men, prone to violence and goofy stunts, are meant to wander, to boldly explore – and should the ship start to sink be last in line for the lifeboats. Now, I was a family man, a father. Fathers are expected to be stoic,",
+      "date": "2026-02-08"
+    }
+  ]
+}

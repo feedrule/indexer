@@ -1,0 +1,23 @@
+{
+  "url": "https://travisstreet.com/feed/",
+  "posts": [
+    {
+      "link": "https://travisstreet.com/building-software-has-never-been-easier/",
+      "title": "Building software has never been easier. Building a business is still hard.",
+      "description": "A few weeks ago I rebuilt a paid SEO tool in about thirty minutes. Not a mock-up. A working version of the thing I was being asked to pay for. A year or two ago that would have taken me a couple of weeks, and five years ago I’d have hired someone. That’s the bit everyone talks about. Software has got cheap to make. If you can describe what you want clearly, tools like Claude Code will get you surprisingly close, and the gap between “I have an idea” and “I have something that works” has shrunk to an afternoon. Here’s the bit people don’t talk about as much: none of that made the business side any easier. I still had to decide whether anyone else wanted the thing, how they’d find it, what they’d pay and why they’d pick it over the version they already use. AI didn’t help me with any of that. It just got me to those questions faster. That’s the idea this site is built around. AI has democratised software development, but it hasn’t democratised entrepreneurship. What actually changed For m",
+      "date": "2026-11-25"
+    },
+    {
+      "link": "https://travisstreet.com/i-cloned-a-saas-in-30-minutes/",
+      "title": "I cloned an entire SaaS in 30 minutes. Here’s what that actually means.",
+      "description": "In October I posted on LinkedIn that I’d cloned an entire SaaS in 30 minutes. It went further than anything I’d posted there before. Plenty of people read it as “software is dead”. That’s not what I meant, so here’s the longer version. What happened I was using a small SEO indexing tool. It does one job: it helps get new pages discovered and indexed faster. It’s a single-feature product and it does that feature well. I’d bought a lifetime deal for $45. Then I wanted to use it on more of my sites, and adding nine more sites was going to cost me another $450. Ten times what I’d paid for the tool itself, for the same tool. So I built my own. It took about half an hour with Claude Code, on the stack I use for everything: Laravel, self-hosted on my own VPS. I rebuilt the functionality, nothing else. My version verifies that I own a site with a TXT file, then connects to Google Search Console and handles indexing every day. I didn’t copy their code, their design or anything else of theirs. I",
+      "date": "2026-11-25"
+    },
+    {
+      "link": "https://travisstreet.com/most-founders-build-products-backwards/",
+      "title": "Most founders build products backwards.",
+      "description": "Most founders build products in this order: Idea → Plan → Design → Code → Marketing → Silence → Depression. I’ve done it. Probably more than once. You get an idea in the shower, you spend a weekend planning it, a few weeks designing it, a few months building it, and then you launch to the sound of nothing at all. Marketing comes last because it’s the bit you least want to do, and by the time you get to it, you’ve already spent everything you had. The problem isn’t any individual step. It’s the order. The order I use instead This is the sequence I work through now, for my own products and with clients: Audience. Start with a group of people you understand and can reach. Problem. Find something that genuinely hurts for them. Idea. Only now think about what you could build. Validation. Check people actually want it before you build it. Waitlist. Get people to put their hand up. One-feature MVP. Build the smallest thing that solves the core problem. First users. Get it into real hands. Ite",
+      "date": "2026-11-25"
+    }
+  ]
+}

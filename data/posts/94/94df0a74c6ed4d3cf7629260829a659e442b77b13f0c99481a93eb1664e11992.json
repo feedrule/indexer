@@ -1,0 +1,23 @@
+{
+  "url": "https://bneil.me/index.xml",
+  "posts": [
+    {
+      "link": "https://bneil.me/posts/2026-09-01_no-reason/",
+      "title": "2026-09-01_no-reason",
+      "description": "Random Randomoning Found out today, that the website This Website Will Self-destruct self destructed a few years ago. Kinda made me sad, it was one of the places I would put tweets that I didn’t want to tweet. Kinda like writing and then destroying a note. Aside from missing the catharsis of confessing to that site, it made me sad that I hadn’t even thought about it in years. I think I just always the denizens of the web would forever remember it. But, In any case, im glad it found it end and was amazed by the art project in general had survived as long as it had. I miss a good old art project.",
+      "date": "2026-09-02"
+    },
+    {
+      "link": "https://bneil.me/notes/2026-04-28-dataview-connection-panel/",
+      "title": "dataview-connection-panel",
+      "description": "TL;DR: A pinned sidebar panel that shows a date-sorted table of all notes linking to currently viewing. Usually in obsidian I have a graph view of open but ive found this to be better in understanding connections, since i can view the created and modified dates. Just make sure you have dataview installed and then make sure to drag this into the panel area of you choice. Note the markdown needs to have ‘dataviewjs’ after the three backwhacks also sorry if you aren’t in dark mode, i need to fix the coloring for light mode…. sorry async function render() { dv . container . empty(); const btn = dv . container . createEl( \"button\" , { text: \"Refresh\" }); btn . style . marginBottom = \"12px\" ; btn . onclick = () => render(); const selfPath = dv . current() . file . path; let target = null; let bestTime = 0 ; app . workspace . iterateAllLeaves(leaf => { if (leaf . view . getViewType() !== \"markdown\" ) return ; const file = leaf . view . file; if ( ! file || file . path === selfPath) return ; i",
+      "date": "2026-04-28"
+    },
+    {
+      "link": "https://bneil.me/posts/2026-04-27-weird/",
+      "title": "2026-04-27-weird",
+      "description": "W is for Weird At first I was thinking to say ‘websites’ for this prompt, but then I thought, lets go with ‘weird websites’. So many of these i discovered on the useless web and drip with that web 1.0 vibe. I miss the culture and days when the web was just weird. So here are a few ive saved over the years https://longdogechallenge.com/ https://alwaysjudgeabookbyitscover.com/ https://puginarug.com/ and who can forget the classic zombo and more recently floor796",
+      "date": "2026-04-28"
+    }
+  ]
+}

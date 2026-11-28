@@ -1,0 +1,23 @@
+{
+  "url": "https://quantumgardener.info/index.xml",
+  "posts": [
+    {
+      "link": "https://quantumgardener.info/notes/rethinking-the-boundaries-of-an-obsidian-vault",
+      "title": "Rethinking the Boundaries of an Obsidian Vault",
+      "description": "Last night, just before settling in to sleep I watched a short video by Vlad Campos on using external scripts to modify files in Obsidian rather than plugins or AI. Sure, he's using AI to create the script but what he ends up with is something independent, fast and without the need for high computational power each time. Vlad's example was a script that links from a book highlights note directly to the book's covering file in his Calibre database. One small, innocuous comment kept me awake. \"My caliber library for example lives in my vault.\" It does what?! Two ideas for the price of one. Scripting and embedded Calibre. The remainder of this post reflects the journey my mind went on last night. It serves to show how I make connections and the process of thought experiment mental systems building that is in my nature. Embedded Calibre My first thought was structural. \"That would work but I'd have to disable sync. It might corrupt the database.\" Easily fixed, ignore that folder from sync.",
+      "date": "2026-11-25"
+    },
+    {
+      "link": "https://quantumgardener.info/notes/a-successful-pen-and-paper-note-taking-experiment",
+      "title": "A successful pen and paper note-taking experiment",
+      "description": "The experiment This post is an experiment. I'm writing it using my fancy fountain pen, in a brand new Moleskine notebook. Already I'm noticing the lines are too closely spaced for the medium-size pen nib. Maybe some dialling in is required on my part. I am having to write fairly fast to avoid dropping too much ink; and I've resorted more to printing than the cursive I'd prefer. The experiment's source. The notebook was purchased several weeks ago to replace my spiral bound notebook at work. And because I wanted to do something for me. The work notebook is used mainly as a scratchpad for time entries and quick reminder notes during the day. Recently they have become fewer. I have been digitally Interstitial journaling for most of the year and for some of the days in the last month all there has been is the date and my start time. Not enough to justify a Moleskine. The alternative was obviously journalling. Yet, not so obviously. Most of my past handwritten journal entries have converted",
+      "date": "2026-11-21"
+    },
+    {
+      "link": "https://quantumgardener.info/notes/the-risks-of-ai-assigned-meeting-actions",
+      "title": "The risks of AI-assigned meeting actions",
+      "description": "There is a noticeable uptick in using AI for meeting transcription and action creation. I even promote the benefits to clients myself. When looked through the lens of The Promise Cycle, the risks become clear. Is the AI making commitments on my behalf that I never agreed to? Although every meeting's outcomes will have some degree of uncertainty around commitments made, AI behaviour is to quickly turn around the notes and email them to all with the assumption the notes are accurate . People are busy, and AI-generated content is not always reviewed; and if it is, it hasn't been reviewed by all before the list of actions is sent. By default I'm forced to accept the \"minutes of the previous meeting\" with no chance to read them or vote. That long-standing meeting process is there for a reason. For now, beware of: AI making commitments on my behalf : Did the AI interpret commitment when it wasn't there? Did it fully explain the constraints (time, quality, etc.) of the commitment? Was it even",
+      "date": "2026-11-21"
+    }
+  ]
+}

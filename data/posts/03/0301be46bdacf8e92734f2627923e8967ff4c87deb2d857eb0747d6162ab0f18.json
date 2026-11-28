@@ -1,0 +1,23 @@
+{
+  "url": "https://bike-lab.org/feed/",
+  "posts": [
+    {
+      "link": "https://bike-lab.org/2026/11/05/blue-texas/",
+      "title": "Blue Texas",
+      "description": "[Warning: This post contains no bike content.] In the spring of 2016, while everyone was exhausted by a presidential campaign that had already been running for a year, I was in a class on demography and social change. We had to choose a topic for our final project, and being, at the time, a junkie for Nate Silver’s work on elections( * ), I decided to build a Monte Carlo simulation of my own to look at a question which was being explored; could Texas flip to become a blue state? The Texas Office of the State Demographer had recently published an article with projections for Latino population growth based on the rapid increase the state had experienced between 2000 and 2015; I used those numbers as the basis for a model. I decided to build it in the R language, which is very popular in demography. I didn’t know R, and it turned out I don’t like it, but it was adequate for the task. In combination with the Shiny framework, it was easy to make the simulation available online to anyone who",
+      "date": "2026-11-05"
+    },
+    {
+      "link": "https://bike-lab.org/2026/07/20/bikebike-west-2026/",
+      "title": "Bike!Bike! West 2026",
+      "description": "I had the pleasure of participating in Bike!Bike! West 2026 , a conference of community-based and co-op bike organizations that I’d been unaware of until my friend and colleague July decided to lead a regional conference here in Oakland this year. July attended the international Bike!Bike! conference in Mexico City in 2025, and was so inspired by the community they met there that they took on the daunting task of putting on a multi-day anarchistic event. The 200+ participants came from as far away as Cleveland, with contingents from Chicago, Colorado, Texas, Arizona, and from all over California. Some folks were Bike!Bike! veterans who have been part of the event for years; others, like me, were joining for the first time. Friday: The Bike Fix , Rock the Bike , and East Bay Bike Party To start the day, I led a ride out along the Oakland shoreline towards The Bike Fix at the 81st Avenue Library. It was a great day to be at MLK Regional Shoreline, and the ride prompted good discussions a",
+      "date": "2026-07-20"
+    },
+    {
+      "link": "https://bike-lab.org/2026/04/20/choose-the-bear/",
+      "title": "Choose the Bear",
+      "description": "The Chronicle published a report this week on the death of Joanna Shields. Shields was an experienced athlete and outdoors person, who was found face down in the water in Ventana Wilderness near Big Sur, in a scene authorities described as “suspicious.” Perhaps it will turn out that her death was a tragic accident, but it’s hard to avoid jumping to the conclusion that it may have been the result of gender-based violence, a threat which I, as a white, cis, het-presenting dude, frankly have never had to consider. I do a lot of solo traveling and camping out in remote areas, and while there are always risks, I have the privilege of safety from attack based on my gender, sex, or presentation. In 2024, “ Man vs. Bear ” became a viral phenomenon; women were asked whether they’d rather be alone in the woods with a random man or a random bear, and the vast majority of women chose the bear. And, when men were asked which situation they’d prefer for their wife or daughter, men also overwhelmingl",
+      "date": "2026-04-20"
+    }
+  ]
+}

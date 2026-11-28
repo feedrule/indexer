@@ -1,0 +1,23 @@
+{
+  "url": "https://afterhoursacademic.com/atom/",
+  "posts": [
+    {
+      "link": "https://afterhoursacademic.com/fast-2026/",
+      "title": "Notes from FAST 2026",
+      "description": "I attended the File and Storage Technologies (FAST) conference in Santa Clara last week. Some observations and thoughts: \"Art is never finished, only abandoned\" The keynote talk had a section emphasizing the importance of benchmarking the various components of the system (e.g., disk, network, CPU, memory, context switching, ...) to help understand the result of application performance. The point was well received but it did generate some interesting follow up conversations about how many (and how deep) rabbit holes should one pursue. After all, time is a limited resources and there might be diminishing returns. The speaker alluded to making a judgement call on what is good enough, citing the quote \"art is never finished, only abandoned\" often attributed to Leonardo DaVinci. Quality of papers FAST 2026 had a 17% acceptance rate and some of the papers were really intriguing. One that stood out (and also one of the best paper award winners) was SpecFS -- a file system generated purely by",
+      "date": "2026-03-02"
+    },
+    {
+      "link": "https://afterhoursacademic.com/lsm-trees-intro/",
+      "title": "A brief introduction to LSM trees",
+      "description": "Log-structured merge (LSM) trees are widely used in key-value stores and as the storage layer of database systems. There is a rich tradeoff space in LSM tree designs which I have been reading recently. Before discussing any particular design tradeoffs (in the coming posts), I am starting with a brief introduction of the LSM tree design. Structure A LSM tree stores key-value pairs. The storage is composed of multiple levels, each with exponentially increasing capacity. The smallest level is stored in-memory and every other level is stored in persistent storage (either on-machine HDD/SSD or on a distributed file system). As an example, consider a LSM tree with size ratio 4. The zeroth (smallest in-memory) level could be 1MB in size, the first level (on disk) 4MB, the second level (on disk) 16MB, and so on. Life of a write A new write starts at the zeroth level. This in-memory level is typically implemented as a skip list. If the write is for a new key, it increases the space used up by t",
+      "date": "2026-02-16"
+    },
+    {
+      "link": "https://afterhoursacademic.com/ettr/",
+      "title": "ETTR, aka, how good is the training goodput",
+      "description": "Effective training time ratio (ETTR) defines the ratio of time spent in training to the wall clock time. In intuitive terms, it is the goodput of the training job. Any time spent doing non-productive (i.e., non-training) work takes away from the goodput. Non-productive time includes reading and writing checkpoints. It also includes the time that was spent in training but had to be repeated because it was not captured in a checkpoint and lost due to a failure. Formulating ETTR The figure above shows the split of a training job during the total duration of MTTF (mean time to failure). MTTF, as the name implies, is the expected time between two failures of the training job. The entire training run can be thought of as being split into MTTF-sized runs. Each MTTF-sized run starts with reading the last good checkpoint (except for the first run, but we can ignore that for now). The total run is further split up into consecutive checkpoint periods. The training job writes out a checkpoint to c",
+      "date": "2026-02-06"
+    }
+  ]
+}

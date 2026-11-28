@@ -1,0 +1,23 @@
+{
+  "url": "https://jincongho.com/index.xml",
+  "posts": [
+    {
+      "link": "https://jincongho.com/posts/designing-binary-encodings-for-json-and-variant/",
+      "title": "Designing Binary Encodings for JSON and VARIANT",
+      "description": "In this post, we’ll dig into the internal designs of binary encoding for JSON . There’s been little discussion of the trade-offs these encodings make. We’ll see how even a straightforward binary encoding can materially improve retrieval performance.",
+      "date": "2026-02-23"
+    },
+    {
+      "link": "https://jincongho.com/dbinternals/yellowbrick/",
+      "title": "Paper Notes: Yellowbrick: An Elastic Data Warehouse on Kubernetes",
+      "description": "Yellowbrick: An Elastic Data Warehouse on Kubernetes, 2024 VLDB 1 Key Design Yellowbrick Data Warehou delivers efficient, scalable and resilient data warehousing in public clouds and in private data centers. 2 Architecture Storage is separated from compute and data is persisted in object storage as column-oriented, compressed files known as shards. Microservices Architectrue Deployment Approach 3 Software Optimizations 3.1 Database Optimizations parallel query plans, cost-based optimization, workload mangaement and parallel query execution",
+      "date": "2025-07-31"
+    },
+    {
+      "link": "https://jincongho.com/dbinternals/redshift/",
+      "title": "Paper Notes: Amazon Redshift and the Case for Simpler Data Warehouses",
+      "description": "Amazon Redshift and the Case for Simpler Data Warehouses, 2015 SIGMOD 1 Key Design Redshift is a fast, fully managed, petabyte-scale data warehouse solution that makes it simple and cost-effective to efficiently analyze large volumes of data. It uses familiar data warehousing techniques, including columnar layout, per-column compression, co-locating compute and data, co-locating joins, compilation to machine code and scale-out MPP processing. It also had a number of additional design goals:",
+      "date": "2025-04-27"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://stum.de/rss.xml",
+  "posts": [
+    {
+      "link": "https://stum.de/2026/altered-beast-system-card-10/",
+      "title": "Why does Altered Beast need the CD-ROM² System Card 1.0?",
+      "description": "When it comes to PC Engine CD-ROM² System Card compatibility, the answer is usually \"The Super System Card 3.0 will play every game... except for one\". That exception is 1989's PC Engine CD-ROM² release of Altered Beast (Juuouki), which will hang once you transform into the beast and the game tries to load a new chunk of the level. The game is not frozen - music still plays and controls are still responsive, it just does not scroll any further on any System Card other than 1.0.",
+      "date": "2026-05-06"
+    },
+    {
+      "link": "https://stum.de/2026/pc-engine-second-data-track/",
+      "title": "Why do PC Engine CD-ROM² games have a second data track?",
+      "description": "If you look at the layout of a PC Engine CD-ROM² game, you will probably find a disc that has two data tracks: I thought this was pretty unusual - as someone mostly familiar with home computers and later CD-based consoles, I usually expect a single data track as Track 1 and optional Audio tracks afterwards. Why does the CD start with an audio track? Seeing the data track be Track 2 does make sense to me given how early in the \"CD as data storage\" lifecycle it was: Track 1 is an audio track warning people to not play the Disc in a CD Player because playing a data track is very unpleasant and can ( allegedly ) damage equipment.",
+      "date": "2026-05-01"
+    },
+    {
+      "link": "https://stum.de/2025/pcenginebiosoffsets/",
+      "title": "PC Engine CD-ROM² BIOS Method offsets",
+      "description": "The PC Engine CD-ROM² consists of a HuCard containing a BIOS, which interfaces with the actual CD-ROM drive and serves as a bare-bones operating system of sorts for CD-ROM games. Like all HuCards, the System Card is mapped to the $E000-$FFFF memory range on startup (MPR#7 = $00), and developers should not change this when calling BIOS functions since the code assume that base address. The BIOS also assumes/requires that MPR#0 is $FF and MPR#1 is $F8 to map the I/O and Work RAM to the beginning of address space, which is standard anyway.",
+      "date": "2025-07-28"
+    }
+  ]
+}

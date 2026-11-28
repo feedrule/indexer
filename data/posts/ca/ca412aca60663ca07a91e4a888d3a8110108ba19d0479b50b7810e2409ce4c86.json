@@ -1,0 +1,23 @@
+{
+  "url": "https://potatoenergy.ru/index.xml",
+  "posts": [
+    {
+      "link": "https://potatoenergy.ru/blog/ai/mcp-servers/",
+      "title": "MCP-серверы: руководство по автоматизации с AI",
+      "description": "MCP (Model Context Protocol) на практике: что это, какие серверы использовать, как настроить на NixOS и подключить к локальным LLM.",
+      "date": "2026-09-16"
+    },
+    {
+      "link": "https://potatoenergy.ru/blog/ai/ollama/",
+      "title": "Ollama: локальный запуск LLM",
+      "description": "Ollama: установка, настройка, интеграции с Open WebUI и MCP. Выбор моделей под разное железо, советы по производительности.",
+      "date": "2026-09-16"
+    },
+    {
+      "link": "https://potatoenergy.ru/blog/linux/nixos/fs-recovery/",
+      "title": "NixOS: Восстановление ФС и Nix Store при критических сбоях",
+      "description": "Восстановление повреждённой файловой системы и Nix Store в NixOS: обход ловушек read-only и проверка целостности store.",
+      "date": "2026-08-27"
+    }
+  ]
+}

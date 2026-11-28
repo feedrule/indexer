@@ -1,0 +1,23 @@
+{
+  "url": "https://danieltuveson.github.io/feed",
+  "posts": [
+    {
+      "link": "https://danieltuveson.github.io/stupid/llm/2026/04/24/chatbot.html",
+      "title": "Riddle Me This, Mr. Chatbot",
+      "description": "LLMs LLMs — they’re everywhere now. If you throw a rock you’ll hit someone talking about how LLMs are great or terrible or saying “ouch!” or saying “someone stop that guy! he just thew a rock at my son!” Apparently the LLMs have gotten good enough to write web applications from scratch, compete in the math olympiad, and find the most highly populated elementary schools for our beautiful warfighters to blow up. If it can do all of this then surely it will automate a midwit like me out of my cushy whitecollar job in no time. So I ask one simple question — can it frobnicate my memory? What? You heard me - can it frobnicate my memory? Can it do that? If I ask it nicely - will it FROB my MEM? CAN. IT. FROBNICATE. MY. FUCKING. MEMORY. memfrob From the manual : void *memfrob(size_t n; void s[n], size_t n); The memfrob() function obfuscates the first n bytes of the memory area s by exclusive-ORing each character with the number 42. The effect can be reversed by using memfrob() on the obfuscate",
+      "date": "2026-04-24"
+    },
+    {
+      "link": "https://danieltuveson.github.io/exceptions/nullable/truth/2025/01/07/exceptions-or-lies.html",
+      "title": "Exceptions or Lies",
+      "description": "I’ve been working on my programming language, del , and trying to figure out how to implement arrays. Like most simple language features, there are a bunch of little things to consider that you probably wouldn’t think about until you sit down and try to implement it. Right now I’m trying to figure out how to implement arrays. I want creating an array to be just like creating any other object, where the size of the array is a parameter in the array constructor. So declaring an array of 100 int s would look like this: let arr = new Array<int>(100) . But this raises a question: what should I do if I pass a number less than 1 to the array constructor? There are a bunch of things that I could do here: I could have it return an array with a default size, or maybe something like size equal to the absolute value of the number passed in. I don’t like this, since it’s unintuitive and could lead to further errors. Return null, a nullable array, or an error type. I don’t like this either - then ev",
+      "date": "2025-01-07"
+    },
+    {
+      "link": "https://danieltuveson.github.io/types/programming/languages/2024/12/17/unions.html",
+      "title": "Unions or Sumthing",
+      "description": "I’ve been thinking about adding unions (or sum types) to the del programming language, the hobby language I’ve been working on for the last year and a half. I still have a dozen more pressing issues to implement, but I want to use this post to catalog some of my thoughts on adding sum types (or union types) to the language. I think sum types are a really nice feature. C has had unions for a long time, but doesn’t provide any mechanism for safe usage. You can set something to an int and then read it as a pointer, the main reason for their existence is really just to circumvent the typechecker. As a result, readinf the contents of a union without proper care might give you weird results or crash your program. The union’s superior cousin, algebraic datatypes (ADTs for short), are a bit nicer. They’ve been around since at least since the days of [the ML programming language](https://en.wikipedia.org/wiki/ML_(programming_language) and been included in subsequent languages of that style of l",
+      "date": "2024-12-17"
+    }
+  ]
+}

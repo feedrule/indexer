@@ -1,0 +1,11 @@
+{
+  "url": "https://alexselzer.com/posts/index.xml",
+  "posts": [
+    {
+      "link": "https://alexselzer.com/posts/large-batch-local-inference/",
+      "title": "Large-batch DeepSeek-V4.1-Flash on four 16 GB AMD GPUs: API accuracy at API cost",
+      "description": "DeepSeek-V4.1-Flash as released, 500 BIRD questions at once on four RX 9070 XTs: 228 tokens/s while generating, the APIs' accuracy at about their cost.",
+      "date": "2026-11-17"
+    }
+  ]
+}

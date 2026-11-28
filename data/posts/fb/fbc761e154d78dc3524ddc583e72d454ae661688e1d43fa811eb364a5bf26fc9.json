@@ -1,0 +1,23 @@
+{
+  "url": "https://alexi.sh/feed.xml",
+  "posts": [
+    {
+      "link": "https://alexi.sh/posts/proton-drive-vs-internxt-2026",
+      "title": "Proton Drive vs Internxt (2026): Encryption, Apps, Plans and Who Each One Fits",
+      "description": "Proton Drive and Internxt both encrypt files on your device and publish their client code. They differ on cryptography, Linux and command-line support, storage tiers, billing model and jurisdiction. A side-by-side comparison built from each provider's own documentation.",
+      "date": "2026-10-08"
+    },
+    {
+      "link": "https://alexi.sh/posts/claude-code-hooks",
+      "title": "Claude Code Hooks: Deterministic Rules for a Non-Deterministic Agent",
+      "description": "Hooks are shell commands the harness runs at fixed points in an agent's loop. They matter because they are the only part of the system that always fires: a prompt asks a model to behave, a hook makes the behaviour a property of the tool.",
+      "date": "2026-09-05"
+    },
+    {
+      "link": "https://alexi.sh/posts/google-adk-agent-to-agent-exploit-2026",
+      "title": "One Poisoned Pull Request, Two Agents: The First Agent-on-Agent Supply Chain Exploit",
+      "description": "A researcher turned a low-privilege bot in Google's Agent Development Kit repo into a lever against a high-privilege one. Google patched it and declined the bounty. Both positions are defensible, and that is the interesting part.",
+      "date": "2026-08-04"
+    }
+  ]
+}

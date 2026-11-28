@@ -1,0 +1,23 @@
+{
+  "url": "https://ondrejsevcik.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://ondrejsevcik.com/blog/ruuvitag-homekit-firmware",
+      "title": "Adding HomeKit Support for RuuviTag With Claude Code",
+      "description": "An hour of Claude Code on my Raspberry Pi added native HomeKit support to the RuuviTag firmware.",
+      "date": "2026-10-27"
+    },
+    {
+      "link": "https://ondrejsevcik.com/blog/broken-money",
+      "title": "Book Notes: Broken Money by Lyn Alden",
+      "description": "The ideas from Lyn Alden's Broken Money that stuck with me: credit, hard money, debt, surveillance, and why the system is broken.",
+      "date": "2026-06-07"
+    },
+    {
+      "link": "https://ondrejsevcik.com/blog/crit-framework",
+      "title": "The CRIT Framework: How to Make AI Interview You",
+      "description": "A simple prompting structure that makes AI ask the right questions you didn't know you should answer.",
+      "date": "2026-01-18"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://apoorvtyagi.tech/rss.xml",
+  "posts": [
+    {
+      "link": "https://apoorvtyagi.tech/how-to-size-java-database-connection-pools-in-kubernetes",
+      "title": "How to Size Java Database Connection Pools in Kubernetes",
+      "description": "Introduction I was reviewing a PR at work a month ago where a new application was setting up its database service, and I saw the connection pool properties, which made me think about how a small configuration looks in a single file, yet how destructive it can be at scale. A database connection pool in Java looks like a small configuration: spring: datasource: hikari: maximum-pool-size: 10 Add a Kubernetes microservices environment, and that setting is not small at all. It means: 10 database connections per pod If the service runs 20 pods during peak traffic, the database can see: 20 pods x 10 connections = 200 possible connections If a rolling deployment temporarily creates extra pods, or if a canary version runs beside the main deployment, the number can be higher. That is the core mental model we will be discussing: A Java connection pool is local to one pod, but the database pays the cost of all pools across all pods. This post tries to explain how to size a Java JDBC connection poo",
+      "date": "2026-07-11"
+    },
+    {
+      "link": "https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles",
+      "title": "What is Jib? A Complete Guide to Java Containerization Without Dockerfiles",
+      "description": "Introduction When I joined PayPay, one of the first things I tried to understand was how our services were containerized. A common exercise when joining a new backend team is to look at the Dockerfiles used across services as they often reveal interesting patterns: Which base images are used Whether the builds are optimized If multi-stage builds are implemented Opportunities for reducing image size or improving caching So naturally, I went looking for the Dockerfile. But to my surprise… I couldn't find one. After digging a bit deeper, I realized something interesting. The project wasn’t using a Dockerfile at all. Instead, it was using Jib . 📦 Enter Jib Imagine shipping a Java microservice where changing a single line of code doesn’t force your CI pipeline to rebuild a massive container image. That’s exactly what Jib enables. Jib is an open-source container image builder for Java applications that: Eliminates the need for a Dockerfile Does not require a Docker daemon Integrates directly",
+      "date": "2026-03-10"
+    },
+    {
+      "link": "https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study",
+      "title": "Kafka Consumer Container Restarts in Kubernetes: A Production Case Study",
+      "description": "Background At my current org, I got introduced to a very fun tool, PagerDuty - because who doesn't love being woken up at 3:31 AM? A similar alert flared up for one of our merchant services. While it mercifully avoided the 3 AM slot, the diagnostic was clear: The containers running were restarting. There’s no bad deployment, just a burst of events on a Kafka topic and a trail of exit code 137. This is the story of how we tracked down the memory issue in one of our core merchant services at PayPay that wasn't exactly a leak, but a partition mismatch, and a battle between Garbage Collectors. The Incident: When Bursts Turn Into Crashes It started with a Kafka topic. This topic powers merchant payouts in Japan and, on average, processes around 3,500 messages per day. On paper, that volume sounds harmless. In reality, the traffic pattern was anything but smooth. Instead of being evenly distributed, most of those messages arrived in short, aggressive bursts. And that’s when things began to f",
+      "date": "2026-02-10"
+    }
+  ]
+}

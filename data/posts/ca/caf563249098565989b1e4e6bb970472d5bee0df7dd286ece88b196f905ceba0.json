@@ -1,0 +1,23 @@
+{
+  "url": "https://mcmichen.cc/feed",
+  "posts": [
+    {
+      "link": "https://mcmichen.cc/posts/automatic-data-enumeration/",
+      "title": "Automatic Data Enumeration for Fast Collections",
+      "description": "This post is based on a paper of the same name, published at CGO 2026. Data collections are everywhere! They provide a powerful abstraction to organize data, simplifying software development and maintenance. However, choosing how we implement each collection in our program is critical for both performance and memory usage. While general-purpose data collections (the ones in the C++ STL, Abseil, etc.) provide drop-in replacements for quick performance tuning, the real value comes from specialized implementations. Specialized implementations (bitsets, prefix trees, bloom filters) provide superior performance and memory usage compared to their general-purpose counterparts. However, they require additional constraints on the kind of data stored, and the methods used to access them. For example, let's look at bitsets. In this domain, other implementations pale in comparison, as shown in the speedup table below. However, a bitset requires dense (or better yet, contiguous), integer keys. Impl",
+      "date": "2026-01-29"
+    },
+    {
+      "link": "https://mcmichen.cc/posts/llvm-lto-custom-pass/",
+      "title": "Running Out-of-Tree LLVM Passes at LTO",
+      "description": "I had a long time trying to find the proper way to run LLVM pass plugins at LTO. There were a lot of times where I found a solution and it turned out to be flimsy and break under some circumstances, or not fully support all the features I needed. This post gives your my solution and concludes with some thoughts about why this solution works. If anyone knows that I am correct/wrong please confirm/correct me. Otherwise, take the explanation with a grain of salt, I have not extensively tested it. My Solution In the examples, I will use a hypothetical LLVM pass plugin where: MyPlugin.so is the shared object containing the LLVM pass plugin. MyPass is the name of a pass in the plugin (registered with the new pass manager). --my-flag is a compiler flag that is registered in the plugin. A typical invocation of this pass using opt would look like: opt -load-pass-plugin = MyPlugin.so \\ -passes = 'MyPass' \\ --my-flag \\ .. . So, if you want to run this pass under the linker, it would look a little",
+      "date": "2026-01-14"
+    },
+    {
+      "link": "https://mcmichen.cc/posts/github-private-fork/",
+      "title": "Private Fork of Git Repo",
+      "description": "I find myself creating a private fork of public repositories rather frequently. There are a variety of benefits to this over just create a public fork and working there, but that's not what this post is about. I have found two solutions to this problem, which I will go over in this post. git-private-fork The first solution works when making a private fork of any git repository: # Clone the version control data of the public repository. git clone --bare ${PUBLIC_REPO} ${PUBLIC_REPO_DIR} # Enter the cloned directory cd ${PUBLIC_REPO_DIR} # Push an exact copy of the git repository. git push --mirror ${PRIVATE_REPO} # Leave the cloned directory popd # Clean up. rm -rf ${PUBLIC_REPO_DIR} git clone ${PRIVATE_REPO} ${PRIVATE_REPO_DIR} if [ ! -z ${SET_UPSTREAM+x} ] ; then pushd ${PRIVATE_REPO_DIR} git remote add upstream ${PUBLIC_REPO} git remote set-url --push upstream DISABLE popd fi I will usually go ahead and set the public repo as my upstream too: git remote add upstream ${PUBLIC_REPO} gi",
+      "date": "2026-01-14"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://thisisimportant.net/feed.xml",
+  "posts": [
+    {
+      "link": "https://thisisimportant.net/posts/headless-docs/",
+      "title": "Why documentation won't go fully headless",
+      "description": "I was at an event for Write the Docs a few weeks ago and someone asked me if I thought we would see fully headless documentation at some point. I instinctively and reactively said “no” immediately, but I’ve been thinking about that question and my answer since then. Headless documentation doesn’t refer to content produced by a headless horseman, but rather content that is not visible on a website by humans and instead available purely through programmatic or agent-accessible means. Currently, agents are accessing documentation through the web, crawling websites. If people stop visiting documentation sites, what other ways might we use to deliver documentation content to them where they are? Is there a potential future where documentation is published “headlessly”? Agents are the primary audience of software documentation According to several documentation platforms (with ample aggregate server traffic data), agents outnumber human readers of documentation: GitBook published Research: A",
+      "date": "2026-11-21"
+    },
+    {
+      "link": "https://thisisimportant.net/posts/data-informed-docs-small/",
+      "title": "Inform a small documentation project with data",
+      "description": "When you take on a small documentation project, you can inform each step with data. It might seem like overkill. Small projects are often ones that you tend to consciously plan or build a process around — they’re mostly an execution task: An interrupt from a colleague that you pick up while on triage, letting you know that they changed the title of a chart in a dashboard. A tag from someone on a Slack thread where a customer is confused about when a specific type of query is run. A page quality feedback comment asking how often the data in a dashboard is updated. It’s easy to treat each small documentation request as an important task to deliver, especially with AI-driven workflows. Avoid bloating the content, and thus the context that your reader must absorb, by using data to inform even small documentation requests and determine whether to write something at all. When you work on a project this small, the phases look somewhat different from those of a medium or large-sized project: P",
+      "date": "2026-10-27"
+    },
+    {
+      "link": "https://thisisimportant.net/posts/data-informed-docs-medium/",
+      "title": "Inform a medium-sized documentation project with data",
+      "description": "If you are about to start a medium-sized documentation project, you can inform each step of the process with data. If you do, you can more easily assess the scope of the work, prioritize and plan the implementation, and write more relevant content. A medium-sized project is one that might take you a week or two of work, like a new feature that needs one or two new documentation topics, or a few different pages that need to be updated with new content for some to-be-released functionality. For example, you might be writing medium-sized documentation updates for one of the following features: An interactive workflow to create and assign tickets to specific users A new type of widget that can be added to a dashboard A new SQL function In this post, I’ll cover how to use data to inform each phase of a medium-sized documentation project like one of those examples: Plan what to write and where to place the content Write the content updates . Evaluate the usefulness and discoverability of you",
+      "date": "2026-10-27"
+    }
+  ]
+}

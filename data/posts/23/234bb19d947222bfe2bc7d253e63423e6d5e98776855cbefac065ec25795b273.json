@@ -1,0 +1,23 @@
+{
+  "url": "https://allenwp.com/feed/",
+  "posts": [
+    {
+      "link": "https://allenwp.com/blog/2026/09/04/why-hdr-looks-washed-out-and-how-srgb-works/",
+      "title": "Why HDR Looks Washed Out (and How sRGB Works)",
+      "description": "When HDR looks washed out, it’s often because the HDR display does not appropriately limit and compensate for light that is added to the image from the display’s backlight or glare. This has nothing to do with Windows or macOS behaviour and is not because of how sRGB content is incorporated into an HDR image. Introduction If you’ve researched or used external HDR displays, especially when connecting one to a computer, you probably know the problem of HDR mode appearing washed out and lacking saturation. This problem is typically caused by the display not limiting or appropriately compensating for light that is inadvertently added to the image. This light typically comes from the display’s backlight or glare. Interestingly, this problem is not common with sRGB SDR displays, so we’ll take an in-depth look into why that is in the latter part of this post. An HDR display’s image may also appear desaturated or low contrast because of the display’s highlight compression or gamut mapping, for",
+      "date": "2026-09-04"
+    },
+    {
+      "link": "https://allenwp.com/blog/2026/07/30/how-to-debug-godot-plugins-and-tool-scripts/",
+      "title": "How to Debug Godot Plugins and @tool Scripts",
+      "description": "There’s a little-known feature in Godot that allows you to debug editor-only plugins and @tool scripts. It’s briefly mentioned in the official docs . You can use either the Godot editor or an external IDE to debug these scripts. This post describes two approaches to debugging these editor-only scripts: Using the Godot Editor Using and External IDE Using the Godot Editor With this approach, you will open one Godot editor as a host for debugging your editor-only scripts and run a second Godot editor that you will use normally. This is the same as running and debugging your game, except you will be debugging the Godot editor instead. Step 1: Customize Run Instances Open your project in the Godot editor. Choose Debug → Customize Run Instances and set the Main Run Args to: -e Note: The -e run argument is a short form of the --editor run argument. Step 2: Set the embedded run mode Since you will be running the Godot editor from the Godot editor, you probably want to turn off the Embed Game o",
+      "date": "2026-07-30"
+    },
+    {
+      "link": "https://allenwp.com/blog/2026/04/30/how-to-save-hdr-screenshots-in-godot/",
+      "title": "How to Save HDR Screenshots in Godot",
+      "description": "Godot 4.7 introduces support for HDR output . You may want to take screenshots of your game running in HDR mode and share them on the web. This post describes how to get screenshots like the following that work well in almost any browser that isn’t Firefox. (Firefox doesn’t support HDR at the time of writing this post.) These screenshots are best viewed on an HDR-compatible smartphone or laptop with display brightness set to 50%: Step 1: Manually set the output maximum linear value Before saving an HDR screenshot, you should set your output maximum linear value to be in the range that most displays will be able to show without much tonemapping. I like to use a value of 4.0 . This value cannot be set directly, but by forcing your maximum luminance to equal exactly 4 times your reference luminance, you’ll get a maximum linear value of 4.0: func _process(_delta: float) -> void: var window_id: int = get_window().get_window_id() var reference_luminance: float = DisplayServer.window_get_hdr_",
+      "date": "2026-04-30"
+    }
+  ]
+}

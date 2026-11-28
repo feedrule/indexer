@@ -1,0 +1,23 @@
+{
+  "url": "https://codingsonata.com/feed/",
+  "posts": [
+    {
+      "link": "https://codingsonata.com/ai-augmented-domain-driven-design-book-review/",
+      "title": "AI-Augmented Domain-Driven Design: Book Review",
+      "description": "Last Updated on November 2, 2026 by Aram Can AI generate working code and still design the wrong domain model? Absolutely. And this is one of the biggest challenges developers and software architects face when integrating Large Language Models (LLMs) into software engineering. AI can generate classes, services, APIs, tests, and even complete application architectures in seconds. But generating technically correct code doesn’t necessarily mean the system accurately represents the business domain. This is why I found AI-Augmented Domain-Driven Design: Design Better Domains Using LLMs, Structured Prompts, and Multi-agent Workflows , by Alberto Acerbis and Alessandro Colla , published by Packt, particularly interesting. Rather than approaching AI as another code generation tool, the authors explore how it can strengthen Domain-Driven Design (DDD), improve domain discovery, and support architectural reasoning. The book also goes beyond traditional prompting by introducing specialized AI age",
+      "date": "2026-11-02"
+    },
+    {
+      "link": "https://codingsonata.com/system-design-and-behavioral-intelligence-book-review/",
+      "title": "System Design and Behavioral Intelligence – Book Review",
+      "description": "Last Updated on October 25, 2026 by Aram System design is an essential skill for software engineers advancing into senior engineering, architecture, and technical leadership roles. But technical expertise alone isn’t enough. I recently explored System Design and Behavioral Intelligence by Shalini Goyal and Alok Sharan , published by Packt. What makes this book interesting is its combination of system design fundamentals, practical architecture, and behavioral intelligence , helping engineers develop both technical and leadership capabilities. Here’s what stood out to me. Part 1: System Design and Architecture The first part covers the foundations of building scalable, reliable, and maintainable systems. Key topics include: Distributed systems: Scalability, consistency, availability, and fault tolerance. Architectural patterns: Caching, messaging, load balancing, and database design. Security and observability: Protecting systems and understanding their behavior. System design methodolo",
+      "date": "2026-10-25"
+    },
+    {
+      "link": "https://codingsonata.com/ai-agents-harnesses-foundations/",
+      "title": "AI Agents & Harnesses Foundations",
+      "description": "Last Updated on October 15, 2026 by Aram AI agents are becoming an important part of modern software engineering. We’re moving beyond simple LLM integrations and chatbots toward systems capable of reasoning, using tools, coordinating tasks, and operating across longer workflows. But there is an important distinction between knowing how to use an agent framework and understanding how an agent actually works. That is precisely what caught my attention about AI Agents & Harnesses Foundations: Building from ReAct Loops to Long Horizon Agent Harnesses with LangChain and LangGraph Written by Eden Marco and published by Packt. Rather than focusing exclusively on high-level frameworks and abstractions, the book takes a practical approach to explaining what happens underneath an AI agent, from basic chains and reasoning loops to more sophisticated agent harnesses. A Bit About the Author Eden Marco is an AI Architect at Google Cloud and a LangChain Ambassador, with a background in software engin",
+      "date": "2026-10-15"
+    }
+  ]
+}

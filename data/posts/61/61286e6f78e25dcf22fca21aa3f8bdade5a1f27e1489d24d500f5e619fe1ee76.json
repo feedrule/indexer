@@ -1,0 +1,23 @@
+{
+  "url": "https://scorpiosoftware.net/feed/",
+  "posts": [
+    {
+      "link": "https://scorpiosoftware.net/2026/10/25/is-software-development-a-solved-problem/",
+      "title": "Is Software Development a “Solved Problem”?",
+      "description": "The term “Solved problem” refers to a problem that was once without a solution, but at some point a solution was discovered. The solution may or may not be optimal, but if it’s good enough for the problem domain, the problem becomes “solved”. For example, once we didn’t know how to land a spacecraft on the moon, which was an interesting and challenging problem, but now that we do, it’s no longer as interesting. Landing on the moon may be “out there”, so let’s get back to earth. The discipline of Software Development, or Software Engineering if you prefer, has developed somewhat organically into something one can learn. A “junior” software developer may know just one programming language and have no experience with real code bases, while a more “senior” developer may know multiple programming languages, has worked on real code bases, which are messier than one would have liked, and also is familiar with many of the so-called “Design patterns”. Of course, I’m oversimplifying – “junior” v",
+      "date": "2026-10-25"
+    },
+    {
+      "link": "https://scorpiosoftware.net/2026/09/21/is-ai-coding-the-end-of-coding/",
+      "title": "Is AI Coding the end of Human Coding?",
+      "description": "I was first introduced to computers back in 1983, with the ZX-81 (1KB of RAM, black & white colors only) and then the ZX-Spectrum (16KB or 48KB RAM with 16 colors). It was truly magical – I could use a programming language (BASIC was the inbox language back in the day) to make the computer do stuff, create games and other fun applications. Fun was a big part of it – creating something out of nothing, and it was fun and challenging, like a game, whether I was programming an actual game or not. Shortly after my initial encounter with the ZX computers, I got a Commodore 64, which I had for the majority of the 80s. Just like the ZX computers, BASIC was the built-in programming language (a different variant, mind you, which at the time was somewhat frustrating). BASIC was still the main language, but it was common to do at least some programming in machine language, or more precisely, assembly language. The main reason was the slowness of BASIC, being interpreted rather than compiled, runni",
+      "date": "2026-09-21"
+    },
+    {
+      "link": "https://scorpiosoftware.net/2025/12/24/mandelbrot-set-rust-edition/",
+      "title": "Mandelbrot Set – Rust Edition",
+      "description": "It’s been a long while since I wrote a blog post. For one thing, “normal” work got in the way. As for community contributions – it has been redirected lately to Youtube videos . Usually it takes less time to record a video than it is to write a post. But posts allow for more details and nuances… One of my pet peeves is the Mandelbrot Set – it keeps fascinating me, which led me to write a Mandelbrot viewer of sorts for some technologies/languages I am familiar with (C++, C++ AMP, C#/WPF, C#/UWP, …). I recently realized I failed to do so with Rust, my favorite language these days. This post will attempt to right that wrong. This post assumes the reader has a basic understanding of Rust, although I’ll try to explain anything that looks complicated. Creating a New Project Creating a new project for the Mandelbrot Set is no different than any other Rust project: cargo new mandelbrot Then we go into the newly created mandelbrot directory and start some IDE from there. The most common (probab",
+      "date": "2025-12-24"
+    }
+  ]
+}

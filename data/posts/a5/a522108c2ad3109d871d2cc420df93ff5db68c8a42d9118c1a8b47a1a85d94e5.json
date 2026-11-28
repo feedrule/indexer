@@ -1,0 +1,17 @@
+{
+  "url": "https://romanuk.org/rss.xml",
+  "posts": [
+    {
+      "link": "https://romanuk.org/declarative-canvas-ui-for-the-browser-inspired-by-swift/",
+      "title": "Declarative Canvas UI for the browser, inspired by Swift",
+      "description": "WeaveKit: a declarative Canvas UI toolkit for the browser, inspired by SwiftUI — no HTML, just canvas.",
+      "date": "2026-08-09"
+    },
+    {
+      "link": "https://romanuk.org/vlm-models/",
+      "title": "Testing Gemini 3.5 Flash Lite for human detection in home surveillance",
+      "description": "Benchmarking Gemini-3.5-Flash-Lite VLM capabilities against 3.1 for person detection in home surveillance.",
+      "date": "2026-07-22"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://jjenzz.com/rss.xml",
+  "posts": [
+    {
+      "link": "https://jjenzz.com/making-react-context-cheap",
+      "title": "Making React Context Cheap with React Compiler",
+      "description": "When building React apps, many of us have probably craved a context selector at some point. Imagine a radio group where each radio needs to know if it is checked. When the selection moves from one radio to another, only those two radios need to render, but using React context means all context consumers render when any value on the context updates. A context selector would let a component derive a value from context and render only when that value changes. For example: const checked = useContextSelector ( RadioContext , ( context ) => context . value === value , ) ; But React still doesn't have an API like useContextSelector , even though re-rendering, say, 5,000 radios is generally understood to be expensive. Why? Why doesn't React have a context selector? React used to have a way to control which context consumers updated. A previous context implementation accepted a calculateChangedBits function , so we could pass unstable_observedBits . The provider marked which bits had changed, a",
+      "date": "2026-10-04"
+    },
+    {
+      "link": "https://jjenzz.com/best-loading-states-are-no-loading-states",
+      "title": "The Best Loading States Are No Loading States",
+      "description": "Applications often end up with skeletons, spinners, shimmer effects, loading overlays, suspense fallbacks, and all sorts of other UI whose sole purpose is to occupy the space where data should eventually appear. We're all spending a surprising amount of time solving the same problem, and none of it is really product work, so I couldn't stop thinking about how to avoid loading states altogether. Looking back at the history of the web, I think we already had a pretty good answer. We just forgot it for a while. The Web Already Had an Answer If you've been building websites since before SPAs, you'll remember that loading states weren't always everywhere. When a user clicked a link, the browser made a request, waited for the server to respond, and then rendered the next page. The browser handled the waiting, which meant users never navigated into half-rendered pages because there was no such thing as a half-rendered page. The next page either wasn't ready yet, or it was. That model wasn't p",
+      "date": "2026-05-29"
+    },
+    {
+      "link": "https://jjenzz.com/judging-apis-by-syntax-is-misleading",
+      "title": "Why Judging APIs by Syntax is Misleading You",
+      "description": "Okay, the title is a bit hooky, but the idea behind it is feeling more relevant than ever. We often see new APIs with similar goals to pre-existing APIs, which leads to a familiar reaction: \"I know what that is. I can already do that today. Why would I need this new one?\" This reaction is natural. But these APIs often behave very differently underneath. What matters is not just how an API looks on the surface, but also the abstraction layer it belongs to. That is often where the ah-ha moment lives. Once the layer becomes clear, it becomes easier to understand why two things that look identical on the outside can offer completely different capabilities. To set the scene, I'll use an example using styling libraries. This isn't an article about styling though, it's really about the assumptions that similar APIs do the same thing. Understanding Layers Through Styling Libs These three tools provide a useful comparison because their APIs can look similar whilst living in very different abstr",
+      "date": "2025-11-22"
+    }
+  ]
+}

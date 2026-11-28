@@ -1,0 +1,23 @@
+{
+  "url": "https://c33tech.com/index.xml",
+  "posts": [
+    {
+      "link": "https://c33tech.com/blog/2026/11/its_still_just_software/",
+      "title": "It’s Still Just Software",
+      "description": "Thanksgiving week is about being with family and naturally that also means answering questions about technology…which naturally means “AI”. “Oh, I thought no one coded anymore.” “So what do you do now that AI does everything?” “So can I use AI to _______?” My answer to every question that wasn’t about Nvidia’s CEO eventually got around to this point: It’s still just software. Don’t get me wrong, it’s interesting novel software, but it’s still software that runs on a computer or server. You still need to host it, start it, run it, check its output, and improve it. We definitely don’t write out code as much as we used to, but someone still needs to take that code and run it on something so people can use it. It’s still software…that produces software, and legal documents, and social media posts, and a bunch of other things that are language-adjacent. But it’s still software. It’s not going “rouge”. It’s not “out of control”…but the people that use it, maintain it, and fund it certainly s",
+      "date": "2026-11-26"
+    },
+    {
+      "link": "https://c33tech.com/blog/2026/09/minesweeper_2/",
+      "title": "Minesweeper 2 - The First C33 Game",
+      "description": "I like Minesweeper. Yes, that Minesweeper. The game that’s been around since at least Windows 95, where you click around flagging mines. To be sure, it’s a deeply flawed game, but it’s a fun, when not frustrating, way to pass a few minutes especially over the last 15 years or so when I’ve had it on my iPhone anywhere I was. I’ve played countless games on planes, in lines, during commerical breaks, etc. Up until recently, all was well in the world but then it started to happen: The enshitification found even my sweet Minesweeper app…well, apps. App after app was junked up with ads and bizarre design choices. I don’t mind paying for an app, but I don’t want you to share my data and shove ads in my face just for a 3 minute game of Minesweeper! Sometimes a weekend project is thurst upon you, and now with a little AI help you can actually finish some of them. A few months ago I quietly made and launched Minesweeper 2 on the app store. Here’s the key features: It’s $2 . No ads. No tracking d",
+      "date": "2026-09-27"
+    },
+    {
+      "link": "https://c33tech.com/project/hackerskill/",
+      "title": "HackerSkill",
+      "description": "The easiest way to ruin a Hack The Box night is to paste the box name into a chatbot and get the whole solution back. You get the root flag and you learn nothing. HackerSkill is our answer to that. It’s a Claude Code plugin that sits next to you while you work a target and coaches you through it instead of spoiling it. It’ll run the whole lifecycle with you, from recon to foothold to privilege escalation to rooted, and it keeps the notes as you go. Key Features: Tiered hints. Every hint starts as a nudge. Ask for “more” and you get the technique. Ask it to “spoil it” and you get the answer, but only because you decided you wanted it. You can also say “no spoilers” to lock it to nudges until you say otherwise. It takes the notes for you. Each target gets a targets/<name>/notes.md that acts as the source of truth, with scans in scans/ and loot in loot/ . Walk away for a week, run /pwn lame again, and it picks up where you left off. Hybrid execution. The safe, boring enumeration (nmap, go",
+      "date": "2026-08-20"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.ojdo.de/wp/feed/",
+  "posts": [
+    {
+      "link": "https://www.ojdo.de/wp/2026/08/wasserburg-am-inn/",
+      "title": "Wasserburg am Inn",
+      "description": "Impressions from a winter exploration through and around this small but beautiful town.",
+      "date": "2026-08-20"
+    },
+    {
+      "link": "https://www.ojdo.de/wp/2025/11/hamburg-from-above/",
+      "title": "Hamburg from above",
+      "description": "Michel Bismarck Binnenalster Bunker Hauptbahnhof Container ship",
+      "date": "2025-11-14"
+    },
+    {
+      "link": "https://www.ojdo.de/wp/2025/05/how-to-remove-unused-codes-from-google-authenticator/",
+      "title": "How to remove unused codes from Google Authenticator",
+      "description": "On current (Android 14/15) versions (2025 as of writing this) of the app Google Authenticator , the actions for editing and removing individual TOTP codes are surprisingly well hidden. The solution: both actions can be reached through swiping the list items: Swiping to the left: delete Swiping to the right: rename That’s all. I haven’t found that in writing even when Googling. Closest came this 30s video , but I believe that such knowledge should also be preserved in writing.",
+      "date": "2025-05-21"
+    }
+  ]
+}

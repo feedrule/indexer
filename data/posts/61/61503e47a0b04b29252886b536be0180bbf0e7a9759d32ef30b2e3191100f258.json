@@ -1,0 +1,23 @@
+{
+  "url": "https://www.jimwillis.org/feed/",
+  "posts": [
+    {
+      "link": "https://www.jimwillis.org/2026/03/18/auto-mute-audio-during-macwhisper-dictation-on-macos/",
+      "title": "Auto-Mute Audio During MacWhisper Dictation on macOS",
+      "description": "If you use MacWhisper for voice-to-text dictation on your Mac, you’ve probably noticed the problem: when you hold down your dictation key, whatever audio is playing — Navidrome, Apple Music, YouTube, Spotify — bleeds into your microphone and garbles the transcription. MacWhisper actually has a built-in “Mute Audio During Dictation” toggle in its settings. Unfortunately, if you’re running your audio through an external DAC or an audio routing app like SoundSource from Rogue Amoeba, it doesn’t work. The standard macOS osascript volume commands return missing value for output volume when the system audio is being handled by an external device or third-party audio router, so the built-in mute has nothing to grab onto. Here’s how I solved it using Karabiner-Elements and a pair of Apple Shortcuts. What Didn’t Work Keyboard Maestro was my first thought, since I already had it installed. But KM can’t trigger on modifier keys alone — Command, Option, Shift, etc. aren’t valid hotkey triggers in",
+      "date": "2026-03-18"
+    },
+    {
+      "link": "https://www.jimwillis.org/2026/01/12/tahoe-cron-job-failure-icloud/",
+      "title": "Tahoe, cron job failure & iCloud",
+      "description": "After updating to Tahoe (and this may be just coincidence) all of my cron jobs on my Mac starting erroring out. The only telling error I could find in one of my logs was: OSError: [Errno 11] Resource deadlock avoided After double checking almost every permission setting I could find, I discovered that my iCloud Drive settings had switched to “Optimize Storage” I don’t recall making this change so perhaps it was part of the OS upgrade process. Turning it off in “Settings” seems to have solved all of my cron issues: The post Tahoe, cron job failure & iCloud appeared first on Jim Willis .",
+      "date": "2026-01-12"
+    },
+    {
+      "link": "https://www.jimwillis.org/2025/12/04/location-tracking-w-iphone-and-home-assistant/",
+      "title": "Location Tracking w/ iPhone and Home Assistant",
+      "description": "[Update, Jan 2026 – this approach was garbage. I installed the iCloud3 add on and have had much better luck . This is a bit more of a challenge to setup but WAY more reliable/flexible than the approach below.] I have a few home assistant automations that would really benefit from knowing who is home, who isn’t, etc. My family members never open the HA app on their phones. I mean, why should they? Anyway, the Home Assistant mobile app doesn’t reliably track location when users never open the app. This guide that Claude AI wrote for me optimizes location tracking for phones that remain closed. iOS Settings (Configure on Each Phone) 1. Location Permissions CRITICAL Settings → Home Assistant → Location → “Always” (NOT “While Using”) Settings → Home Assistant → “Precise Location” → ON 2. Background App Refresh Settings → General → Background App Refresh → ON (system-wide) Settings → Home Assistant → Background App Refresh → ON 3. Notifications (Required for Background Activity) Settings → H",
+      "date": "2025-12-04"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nishparadox.com/feed.xml",
+  "posts": [
+    {
+      "link": "https://nishparadox.com/research/weightmap/",
+      "title": "Weightmap: Training-Free Linear Maps Between Small and Large Language Models",
+      "description": "Backstory. We had been circling this idea for a while. Our earlier project, ConceptGate [1] , reads and steers concepts inside one frozen model by treating a concept as a direction in its activations. The next question was whether the same direction exists in a different model, and whether something simple could transfer it across. Then, in early November 2026, “Sparks of Weight-Space Programming” [2] showed an agent editing a small model’s weights by hand, with no training, and Barry [3] reduced its headline edit to one direction plus a linear program. That made the question concrete: can a weight-space program written for one model be transferred into another? This post reports what we found. The project is called weightmap . Abstract. When two language models read the same text, each turns every token into a vector of numbers, its internal state. We ask whether the small model’s state can be computed from the large model’s by one linear formula, a map , fitted in a single closed-for",
+      "date": "2026-11-27"
+    },
+    {
+      "link": "https://nishparadox.com/research/conceptgate/",
+      "title": "ConceptGate: Few-Shot Concept Reading and Steering in Frozen Language Models",
+      "description": "⚠ A living report, not peer reviewed, written with help from a generative model. The paper on Zenodo is the version of record. 📄 Paper: doi.org/10.5281/zenodo.24287378 (Zenodo) · Code This report is the long-form interactive companion to the paper. Abstract. Language models encode many concepts as directions in their activations, so one direction can both detect a concept and steer the model. Operators of deployed models want both, often from a few examples and without retraining. We test how far this goes with one residual-stream direction per concept, fit in closed form from about ten examples per class. On five models up to 2.6B parameters, we compare it with a logistic probe on the same layers, matched-norm random directions, and random selection. We report three findings. First, steering along the few-shot direction moves refusal both up and down. On Qwen2.5-0.5B, refusal is 64% unsteered, 35% when we steer away, and 79% when we steer toward. Second, the direction reads the surfac",
+      "date": "2026-11-16"
+    },
+    {
+      "link": "https://nishparadox.com/research/decision-eval/",
+      "title": "decision-eval: An Opinionated Benchmark for Zero-Shot Decision Models",
+      "description": "Disclaimer. This is an opinionated, small-scale evaluation suite run by one person, not a leaderboard of record. Opinionated in which models are in: an open-weight model has to be fast and cheap to run on a laptop, so models above 1B parameters are left out for now, and a closed model has to have cheap token pricing. The suites are hand-picked, each task uses one prompt wording, no model was tuned, and hosted models can change behind the same name. Read the numbers as a snapshot under the protocol stated on this page. Hardware. Every local run was on one laptop: a MacBook Pro with an Apple M3 Max (14-core CPU) and 36 GB of memory, on macOS 15.8. Laya used the GPU through Metal (MPS), and GLiNER the CPU through ONNX Runtime. Hosted models were called from the same machine, so their latency includes the network round trip. decision-eval compares zero-shot decision models on identical requests and reports accuracy, latency, cost and calibration per suite . A decision model is a zero-shot",
+      "date": "2026-10-16"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://heyjonny.dev/rss.xml",
+  "posts": [
+    {
+      "link": "https://heyjonny.dev/posts/i-built-a-software-factory/",
+      "title": "I built a software factory. It mostly produced tickets.",
+      "description": "Another week of ambitious vibe coding has passed. My head still felt full most of the time, but I did learn a few things that improve how I use AI for coding. The first one is do not automate too early . It's easy to create a software factory with Claude Code. It takes only a handful of prompts and you have a product owner/staff engineer (I'll call it the PO-SE-r, or poser) and coder/reviewer agents running that go through your ticket backlog. Unfortunately, I did that, and besides useful code it created a lot of tickets. I think every ticket implemented ended with 2–3 follow-up tickets. The poser helped to some extent, but it still failed to see the bigger picture or realize that a certain solution is patchy and will create more and more problems. But I have to take most of the blame. I didn't even look at the skill files and they said the coder was only allowed to implement what was defined in the ticket. That was the reason it created so many follow-up tickets. It's similar to human",
+      "date": "2026-11-25"
+    },
+    {
+      "link": "https://heyjonny.dev/posts/code-isnt-high-quality-because-i-looked-at-it/",
+      "title": "Code isn't high quality because I looked at it",
+      "description": "I spent the whole week vibe coding. No regrets and I would do it again. That was probably a reaction to my last blog post, where I realized I should be more ambitious in exploring the capabilities of AI. Initially, I kept a tight development workflow where one PR = one change. I think I did this mostly for myself, to feel in control. Given that I didn't even pay much attention to the change itself, that was rather hypocritical of me. Now I first discuss what I want with the AI (e.g., a feature or a change to the architecture) until I have a clear understanding of it, and then it creates the issue and implements everything in one go. Maybe that sounds weird, but it feels more honest to me. What I still had to figure out: when I'm not looking at the code anymore, how do I make sure it meets my quality standards? The solution is the same tools we already had before, linters and tests, in all their variants. I see this a bit like a coding harness. A harness tames a model, and tests tame yo",
+      "date": "2026-11-18"
+    },
+    {
+      "link": "https://heyjonny.dev/posts/be-more-ambitious/",
+      "title": "Be more ambitious",
+      "description": "Over the last few weeks, my view on AI has been shaped by what it's going to take away or make obsolete. I've been thinking about how I could escape it, and what would still be safe. But if you have that perspective for too long, you're missing out on the positive aspects, missing what a big enabler AI can be too. There's a phrase that keeps echoing in my head and I want to get it out: be more ambitious . I first read it on Simon Willison's blog, where he shared that this was his 2026 New Year's resolution. He set that theme for himself to explore the capabilities of coding agents, to see what's possible. 1 I rediscovered this sense of possibility when I was (again) vibe coding on my phone. I said in earlier posts that it's not good for me, since it stresses me out. 2 But, I don't know, I keep coming back to it, and you could say it's my favorite mobile game right now. It also forces me into a different role, because even if I wanted to look at the code, it's pretty awkward to do so on",
+      "date": "2026-11-11"
+    }
+  ]
+}

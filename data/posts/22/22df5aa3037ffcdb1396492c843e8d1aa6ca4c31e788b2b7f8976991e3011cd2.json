@@ -1,0 +1,23 @@
+{
+  "url": "https://jerrington.me/atom.xml",
+  "posts": [
+    {
+      "link": "https://jerrington.me/posts/2025-12-23-grids-without-indices.html",
+      "title": "Grids without indices",
+      "description": "Posted on December 23, 2025 Working with grids in Haskell (or any purely functional language, I’m sure) can be pretty painful, but it doesn’t have to be. The reason it’s so painful is that we’re tempted to manipulate grids using indices. Now maybe if we’re using a nice array library such as vector , then index-based manipulations aren’t so gross, but in this article, I’ll show you a way to manipulate grids that is based on good ol’ lists, and which generalizes to structures beyond grids. A common problem involving grids is to construct a new one based on an old one by looking in a neighbourhood around each point in the grid. For example, Conway’s Game of Life , which is what’s called a cellular automaton , is such a problem. The idea is that we have a grid, and each cell is either dead or alive. Each iteration constructs a new grid from the current grid by applying the following process to each cell simultaneously: A dead cell becomes alive if it has exactly three live neighbours. A li",
+      "date": "2025-12-23"
+    },
+    {
+      "link": "https://jerrington.me/posts/2025-10-19-refunctionalizing-an-integer.html",
+      "title": "Refunctionalizing an integer?",
+      "description": "Posted on October 19, 2025 First imagine that the OCaml type int is infinite. Now what happens when you refunctionalize an infinite datatype? Let make a concrete program to work with. This will be a stateful generator that outputs the integers, starting at 0 , and ending at an exclusive limit n . type 'a gen = { next : unit -> 'a option } let range n = let r = ref 0 in { next = fun () -> let i = !r in if i < n then Some (r := i+ 1 ; i) else None } This program stores an integer in a reference cell, and branches on it to produce two different behaviours. Our goal is to replace the integer in the cell with a function in the cell that will just do the right thing (i.e. perform the right one of these two behaviours) without needing to branch on the integer to decide what to do. We will need to store some initial function inside the reference. This function, when called, needs to emit 0 and also update its own reference cell to be the function that will emit 1 . But this new function must a",
+      "date": "2025-10-19"
+    },
+    {
+      "link": "https://jerrington.me/posts/2025-07-31-depty-impl-part-2.html",
+      "title": "Implementing dependent types: how hard could it be? (Part 2)",
+      "description": "Posted on July 31, 2025 Short answer: hard, but not as hard as I thought. This is part 2 of a series of posts on the implementation of a dependently-typed lambda-calculus. In part 1, we discussed the need for normalization of terms, and used a powerful, extensible approach called Normalization by Evaluation to implement a normalization procedure. In this post, we’ll implement the typechecking procedure for our small calculus, and crucially use the normalization procedure to do. Bidirectional typechecking Bidirectional typechecking is a technique that exploits a duality within terms to reduce the amount of typing information required from the programmer. We divide the syntax of terms into normal terms and neutral terms, precisely as we did for values, giving a syntactic characterization of beta-normal terms. Normal terms are associated with constructors and are those terms whose typechecking is also type-directed. In other words, we check that a given normal term has a given type. Norma",
+      "date": "2025-07-31"
+    }
+  ]
+}

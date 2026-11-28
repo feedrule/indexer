@@ -1,0 +1,23 @@
+{
+  "url": "https://www.getmonero.org/feed.xml",
+  "posts": [
+    {
+      "link": "https://www.getmonero.org/2026/10/16/monero-0.18.5.4-released.html",
+      "title": "Monero 0.18.5.4 'Fluorine Fermi' released",
+      "description": "Overview This is the v0.18.5.4 release of the Monero software. This is a minor release that includes bug fixes. Some highlights of this minor release are: Daemon: fix DNSSEC validation for checkpoints, blocklists and update checks ( #11542 ) RPC: restore string-to-integer conversion in JSON requests (to be removed in v0.19 as a breaking change) ( #11552 ) The complete list of changes is available on GitHub , along with the source code . Contributors for this Release This release was the direct result of 2 people who worked to put out 6 commits containing 35 new lines of code. We'd like to thank them very much for their time and effort. In no particular order, they are: selsta tobtoht Download The new binaries can be downloaded from the Downloads page or from the direct links below. Windows, 64-bit Windows, 32-bit macOS, Intel macOS, ARM Linux, 64-bit Linux, 32-bit Linux, armv7 Linux, armv8 Linux, riscv64 Android, armv7 Android, armv8 FreeBSD, 64-bit Hashes If you would like to verify t",
+      "date": "2026-10-16"
+    },
+    {
+      "link": "https://www.getmonero.org/2026/10/16/monero-GUI-0.18.5.4-released.html",
+      "title": "Monero GUI 0.18.5.4 'Fluorine Fermi' released",
+      "description": "Overview This is the v0.18.5.4 release of the Monero GUI software. This is a minor release that includes bug fixes. The latest CLI release notes can be found on the precedent blog post Some highlights of this minor release are: Fix reopening testnet and stagenet wallets ( #4737 ) Minor bug fixes The complete list of changes is available on GitHub , along with the source code . Contributors for this Release This release was the direct result of 2 people who worked to put out 8 commits containing 38 new lines of code. We'd like to thank them very much for their time and effort. In no particular order, they are: selsta tobtoht Download The new binaries can be downloaded from the Downloads page or from the direct links below. Windows, 64-bit Windows, 64-bit (Installer) macOS, Intel macOS, ARM Linux, 64-bit A complete guide for the GUI wallet is included in the archives, but an online version is available . Download Hashes If you would like to verify that you have downloaded the correct fil",
+      "date": "2026-10-16"
+    },
+    {
+      "link": "https://www.getmonero.org/2026/10/06/monero-0.18.5.3-released.html",
+      "title": "Monero 0.18.5.3 'Fluorine Fermi' released",
+      "description": "Overview This is the v0.18.5.3 release of the Monero software. This is a highly recommended release that includes a large number of bug fixes. Some highlights of this release are: Daemon: fix P2P connection stalls ( #10918 ) Daemon: restore transaction relay after restart ( #10845 ) Daemon: improve block relay handling ( #11299 , #11301 ) Daemon: improve duplicate handshake and timeout handling ( #11157 , #11305 ) Daemon: group public IPv6 connection limits by /64 ( #11013 ) Daemon: flush rejected block spans from disconnected peers ( #11145 ) Daemon: improve transaction serialization and validation ( #11302 , #11349 , #11360 , #11372 ) Daemon: limit output offsets cache size ( #11303 ) Daemon: improve LMDB resizing and transaction handling ( #10946 , #11159 , #11205 , #11290 ) Daemon: disable get_transaction_pool in restricted mode ( #10973 ) Daemon: improve restricted RPC privacy filtering ( #11034 , #11147 ) Daemon: restrict get_public_nodes to public zone peers ( #11356 ) Daemon: r",
+      "date": "2026-10-06"
+    }
+  ]
+}

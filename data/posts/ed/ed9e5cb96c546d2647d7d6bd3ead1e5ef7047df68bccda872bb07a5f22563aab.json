@@ -1,0 +1,23 @@
+{
+  "url": "https://www.movereem.nl/atom.xml",
+  "posts": [
+    {
+      "link": "https://www.movereem.nl/software-development-in-the-age-of-the-robots",
+      "title": "Software Development in the age of the Robots",
+      "description": "This piece might be a little late to the party. It is not like I’m writing on a topic that is brand new. But today I suddenly felt the urge to write something on the craft, art, job that I love and the changes that it is going through: software development. The robots that are taking over our job, they say. These times can confuse us. Make us uneasy. It triggered some thoughts that I wanted to write down. Are we talking about a craft? Or an art? Or is it just a job? At one point I looked at software development as an art. I really dig the series of Donald Knuth, ‘The art of programming’ . Because I felt, and sometimes still feel, so much creativity in what we do every day. Taking ideas (some call it requirements), and transforming them into a different language that the machines can execute. This creativity part is still something that is close to my experience. It is about solving puzzles, finding solutions to problems, but doing it in a way that shows some form of beauty. Sometimes i",
+      "date": "2026-03-10"
+    },
+    {
+      "link": "https://www.movereem.nl/the-art-of-computer-programming-part2",
+      "title": "The Art of Computer Programming - part 2 - MMIX and fundamental programming techniques",
+      "description": "I set out to read The Art of Computer Programming this year. In these blog posts I will report on the progress. Mostly for me, but maybe someone finds it fun to read :) sections 1.3’ (Volume 1 Fascicle 1) - MMIX The section on MMIX, the language that Knuth uses throughout the book for his code samples. Although it seems a strange choice, a machine language for samples, I can appreciate the reasons. It is not that hard, and it shows a lot of how the machine works. Nice from a theoretical perspective, but to be honest, I skipped/skimmed these parts. Although I typed some programs , I didn’t put to much effort in this part. sections 1.4’ (Volume 1 Fascicle 1) and 1.4.4 and 1.4.5 (Volume 1 Third Edition) - Fundamental programming techniques These sections are a bit more general, and I really liked the ideas in it. In 1.4.1’ Knuth explains the steps for writing a program with subroutines as follows: Start with the problem: what wil be the plan. Write a top-down version of the solution. Firs",
+      "date": "2017-03-18"
+    },
+    {
+      "link": "https://www.movereem.nl/the-art-of-computer-programming-part1",
+      "title": "The Art of Computer Programming - part 1",
+      "description": "Goal for 2017: read through this massive work. #knuth #art #computerprogramming #taocp pic.twitter.com/DGh5XnVg8X — Michiel Overeem (@michielovereem) December 20, 2016 I have these books on my shelve since graduation (2007), and a couple of weeks ago I finally set the goal to actually read them. It is a challenge for myself to see if I can read all volumes, comprehend them (more or less), and get something useful out them. So in this serie of blogs I will summarize, share notes, and tell the world about my progress. I have not set a deadline or a schedule, I am just going with the flow. And in the spirit of The Pragmatic Programmer I will use this challenge as an opportunity to learn some F#. Code snippets and what more can be found in the github repo . These books are impressive. And to be honest a little intimidating. I like reading and learning, but I’m not sure if I can follow all this stuff. But we will see. sections 1.1 and 1.2 (Volume 1 Third Edition) Section 1.1 is labeled Algo",
+      "date": "2017-01-05"
+    }
+  ]
+}

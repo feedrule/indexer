@@ -1,0 +1,23 @@
+{
+  "url": "https://skoredin.pro/rss.xml",
+  "posts": [
+    {
+      "link": "https://skoredin.pro/blog/golang/observability-go.html",
+      "title": "Observability in Go: What Goes in a Metric, a Log, and a Trace",
+      "description": "What actually holds up when you build observability into a Go service: what belongs in a metric vs a log vs a trace, a measured cost of getting that wrong, dashboards and alerting that don't cause fatigue, and PII discipline - not another setup tutorial.",
+      "date": "2026-09-16"
+    },
+    {
+      "link": "https://skoredin.pro/blog/golang/json-parsing-performance-go.html",
+      "title": "Cutting JSON Parsing CPU Cost in Go",
+      "description": "encoding/json, jsoniter, easyjson, sonic, and Go 1.27's encoding/json/v2 benchmarked head to head on the same payload, on both Apple M5 and an x86 VPS - reproducible numbers, not vendor claims.",
+      "date": "2026-09-07"
+    },
+    {
+      "link": "https://skoredin.pro/blog/golang/sql-nosql-columnar-comparison.html",
+      "title": "SQL vs NoSQL vs Columnar: Choosing the Right Database for Your Go Service",
+      "description": "Comparison of PostgreSQL, MongoDB, Cassandra, and ClickHouse. Performance metrics, cost analysis, and when to use each.",
+      "date": "2026-02-12"
+    }
+  ]
+}
