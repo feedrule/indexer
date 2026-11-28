@@ -231,8 +231,15 @@ git push origin proposals && git push origin --delete proposals-20261119-041105
 
 **A first pass by a model.** `prompts/review-proposals.md` asks a model (Haiku is enough) to
 judge every feed of a file, with no tools: it gets the prompt and the file's text and answers one
-line per feed, `accept - <url>`, `reject <reason> <url>` or `unsure - <url>`. `indexer review FILE
-ANSWER` (`-` reads stdin) applies the answer: accept sets `accept: true`, reject `accept: false`
+line per feed, `accept - <url>`, `reject <reason> <url>` or `unsure - <url>`. `indexer review FILE`
+asks it: a file is too big for one call (~150 feeds, ~600 KB), so it is cut into batches of 20
+feeds (`--batch-size`; the header, then whole feeds), 4 reviewed at once (`--parallel`), each sent
+to `claude --model haiku --tools "" --strict-mcp-config --no-session-persistence -p` (`--reviewer`:
+no built-in tools, no MCP servers, no saved session) from an empty temporary directory, so no
+project instructions are loaded. A batch whose answer doesn't decide exactly its feeds, or whose
+call fails, is asked again once (`--retries`), then the review fails and the file is not written.
+`--save-answer PATH` keeps the answer; `indexer review FILE ANSWER` (`-` reads stdin) applies one
+given instead. The answer is applied: accept sets `accept: true`, reject `accept: false`
 with the reason, unsure `accept: false` and `learn: false` (not a training example). It changes
 only those three keys, checks each edited feed reads back the same apart from them, and is all or
 nothing: an unknown verdict or reason, a URL not in the file or given twice, or a feed without a
@@ -240,9 +247,8 @@ line leaves the file untouched (`proposals/review.py`). Then read the diff and f
 disagree with before merging:
 
 ```sh
-f=data/proposals/202611/19-041105.yaml
-{ cat ../prompts/review-proposals.md; cat "$f"; } | claude --model haiku --tools "" -p > answer.txt
-uv run --project .. indexer review "$f" answer.txt && git diff
+uv run indexer review proposals/data/proposals/202611/19-041105.yaml   # from the repo root
+git -C proposals diff
 ```
 
 The branch has no workflows of its own, so a merge starts nothing: the daily input job checks

@@ -15,11 +15,22 @@ The answer is untrusted (feed text may have steered the model), so it is all or 
 unknown word or reason, a URL not in the file or given twice, or a feed left without a line
 fails with ReviewError and the file is not written. The edit itself is checked too: each edited
 feed is read back and must equal the original apart from those three keys.
+
+`review_file` asks the model itself, so a large file needs no splitting by hand: the file is cut
+into batches of BATCH_SIZE feeds (the header, then whole documents), each batch goes to the
+reviewer command (REVIEWER: Claude Code with Haiku, no tools, no MCP servers, no saved session)
+on stdin after the prompt, from an empty temporary directory (so no project instructions are
+loaded), with PARALLEL batches at a time. A batch's answer must decide exactly that batch's URLs;
+if not, the batch is asked again (RETRIES times), then the review fails and nothing is written.
 """
 
 import os
 import re
-from collections.abc import Mapping
+import subprocess
+import sys
+import tempfile
+from collections.abc import Callable, Mapping, Sequence
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Literal
@@ -31,6 +42,25 @@ from indexer.sources import SourceError, proposal_documents
 
 Verdict = Literal["accept", "reject", "unsure"]
 VERDICTS: tuple[Verdict, ...] = ("accept", "reject", "unsure")
+
+REVIEW_PROMPT = Path("prompts/review-proposals.md")
+REVIEWER = (
+    "claude",
+    "--model",
+    "haiku",
+    "--tools",
+    "",
+    "--strict-mcp-config",
+    "--no-session-persistence",
+    "-p",
+)
+BATCH_SIZE = 20  # feeds per call: a whole file (~150 feeds, ~600 KB) is too much for one
+PARALLEL = 4  # batches reviewed at once
+RETRIES = 1  # more calls for a batch whose answer doesn't decide exactly its feeds
+TIMEOUT = 600  # seconds per call
+
+# Runs the reviewer command (argv) with the text on stdin and returns its stdout.
+Run = Callable[[Sequence[str], str], str]
 
 _DOCUMENT_START = re.compile(r"^---[ \t]*$", re.MULTILINE)
 _REVIEW_KEY = re.compile(r"^(accept|learn|reason):")  # a top-level key: column 0
@@ -142,3 +172,80 @@ def _feed(document: str) -> dict[str, Any]:
     if len(feeds) != 1:
         raise ReviewError("expected one feed per document")
     return feeds[0]
+
+
+def batches(text: str, size: int = BATCH_SIZE) -> list[tuple[str, list[str]]]:
+    """The proposal file cut into batches of at most `size` feeds, each with the file's header,
+    and the URLs of each batch's feeds."""
+    if size < 1:
+        raise ReviewError("a batch needs at least one feed")
+    starts = [m.start() for m in _DOCUMENT_START.finditer(text)]
+    if not starts:
+        raise ReviewError("no feed in the file")
+    header = text[: starts[0]]
+    documents = [text[a:b] for a, b in zip(starts, [*starts[1:], len(text)], strict=True)]
+    return [
+        (header + "".join(chunk), [_feed(d)["url"] for d in chunk])
+        for chunk in (documents[i : i + size] for i in range(0, len(documents), size))
+    ]
+
+
+def review_file(
+    text: str,
+    prompt: str,
+    reviewer: Sequence[str] = REVIEWER,
+    size: int = BATCH_SIZE,
+    parallel: int = PARALLEL,
+    retries: int = RETRIES,
+    run: Run | None = None,
+) -> str:
+    """The model's answer for the whole file, batch by batch, in file order."""
+    call = run or _run
+    parts = batches(text, size)
+
+    def one(index: int) -> str:
+        batch, urls = parts[index]
+        problem = ""
+        for attempt in range(retries + 1):
+            try:
+                answer = call(reviewer, prompt.rstrip("\n") + "\n\n" + batch)
+                decided = parse_decisions(answer)
+                if set(decided) != set(urls):
+                    missing, extra = set(urls) - set(decided), set(decided) - set(urls)
+                    raise ReviewError(f"{len(missing)} feeds not decided, {len(extra)} unknown")
+            except ReviewError as exc:
+                problem = str(exc)
+                print(
+                    f"batch {index + 1}/{len(parts)}, try {attempt + 1}: {problem}", file=sys.stderr
+                )
+                continue
+            print(f"batch {index + 1}/{len(parts)}: {len(urls)} feeds reviewed", file=sys.stderr)
+            return "".join(f"{_line(decided[url])} {url}\n" for url in urls)
+        raise ReviewError(f"batch {index + 1}/{len(parts)}: {problem}")
+
+    with ThreadPoolExecutor(max_workers=max(1, parallel)) as pool:
+        return "".join(pool.map(one, range(len(parts))))
+
+
+def _line(decision: Decision) -> str:
+    return f"{decision.verdict} {decision.reason or '-'}"
+
+
+def _run(argv: Sequence[str], text: str) -> str:
+    """The reviewer's stdout, run from an empty directory. ReviewError if it fails."""
+    with tempfile.TemporaryDirectory(prefix="indexer-review-") as empty:
+        try:
+            done = subprocess.run(
+                list(argv),
+                input=text,
+                capture_output=True,
+                text=True,
+                cwd=empty,
+                timeout=TIMEOUT,
+                check=False,
+            )
+        except (OSError, subprocess.TimeoutExpired) as exc:
+            raise ReviewError(f"cannot run {argv[0]}: {exc}") from exc
+    if done.returncode != 0:
+        raise ReviewError(f"{argv[0]} exited {done.returncode}: {done.stderr.strip()[:300]}")
+    return done.stdout

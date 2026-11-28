@@ -65,8 +65,10 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   Proposals left at false count as known (not proposed again).
   **Model review** (asked 2026-11-28): `prompts/review-proposals.md` has a model (Haiku) judge a file with **no tools**,
   answering one line per feed (`accept - <url>`, `reject <reason> <url>`, `unsure - <url>`; unsure = not enough
-  information: `learn: false`, accept false; reject keeps learn true with a reason); `indexer review FILE ANSWER`
-  (`proposals/review.py`) applies it, editing only accept/learn/reason lines, all or nothing, the answer being untrusted.
+  information: `learn: false`, accept false; reject keeps learn true with a reason); `indexer review FILE` (`proposals/review.py`) asks it in batches of 20 feeds
+  (a whole file is too big for one call), 4 at once, from an empty temp directory, retrying a batch once whose answer doesn't
+  decide exactly its feeds; `indexer review FILE ANSWER` applies a given answer. Either way it edits only
+  accept/learn/reason lines, all or nothing, the answer being untrusted. Tests use a fake reviewer, never claude.
   Wanted: relevant to read, mainstream or niche, not hyperlocal (a primary school, an ordinary church).
   Summary file (was the PR body): the edit link, the OPML link, the merge commands and the run's summary only, no feed listed (asked 2026-11-21: the
   feeds are reviewed in the file). All proposals as OPML go in a

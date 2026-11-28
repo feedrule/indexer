@@ -1,5 +1,7 @@
 """Applying a model's review to a proposal file."""
 
+import sys
+from collections.abc import Sequence
 from dataclasses import replace
 from datetime import UTC, date, datetime
 from pathlib import Path
@@ -9,7 +11,14 @@ import pytest
 from indexer.check.feed import RecentPost
 from indexer.cli import main
 from indexer.proposals.files import render_entries
-from indexer.proposals.review import ReviewError, apply_decisions, apply_file, parse_decisions
+from indexer.proposals.review import (
+    ReviewError,
+    apply_decisions,
+    apply_file,
+    batches,
+    parse_decisions,
+    review_file,
+)
 from indexer.proposals.run import Proposal
 from indexer.proposals.training import parse_proposals
 from indexer.sources import extract_urls, proposal_documents
@@ -131,3 +140,82 @@ def test_the_command(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None
     answer.write_text(f"accept - {A}")
     assert main(["review", str(path), str(answer)]) == 1
     assert "not changed" in capsys.readouterr().err
+
+
+def _urls(batch: str) -> list[str]:
+    return [line[5:] for line in batch.splitlines() if line.startswith("url: ")]
+
+
+def accept_all(argv: Sequence[str], text: str) -> str:
+    return "".join(f"accept - {url}\n" for url in _urls(text.split(PROMPT, 1)[1]))
+
+
+PROMPT = "Review these.\n"
+
+
+def test_batches_keep_the_header_and_whole_feeds() -> None:
+    parts = batches(FILE, 2)
+    assert [urls for _, urls in parts] == [[A, B], [C]]
+    header = FILE[: FILE.index("---")]
+    assert all(batch.startswith(header) for batch, _ in parts)
+    assert parts[0][0] + parts[1][0][len(header) :] == FILE
+
+
+def test_review_file_asks_per_batch_and_answers_in_file_order() -> None:
+    calls: list[str] = []
+
+    def reviewer(argv: Sequence[str], text: str) -> str:
+        calls.append(text)
+        return "".join(f"accept - {url}\n" for url in reversed(_urls(text)))  # any order
+
+    answer = review_file(FILE, PROMPT, ["model"], size=2, parallel=1, run=reviewer)
+    assert answer == f"accept - {A}\naccept - {B}\naccept - {C}\n"
+    assert len(calls) == 2 and all(c.startswith(PROMPT + "\n") for c in calls)
+    assert "url: https://evil.example/" not in answer  # text inside a post is not a feed
+
+
+def test_a_bad_batch_is_asked_again_then_fails() -> None:
+    answers = iter([f"accept - {A}\n", f"accept - {A}\nreject seo {B}\n"])  # B missing, then ok
+    answer = review_file(
+        FILE,
+        PROMPT,
+        ["m"],
+        size=2,
+        parallel=1,
+        retries=1,
+        run=lambda argv, text: next(answers) if A in _urls(text) else accept_all(argv, text),
+    )
+    assert answer.splitlines()[1] == f"reject seo {B}"
+
+    def broken(argv: Sequence[str], text: str) -> str:
+        raise ReviewError("claude exited 1")
+
+    with pytest.raises(ReviewError, match="batch 1/2: claude exited 1"):
+        review_file(FILE, PROMPT, ["m"], size=2, retries=2, run=broken)
+    with pytest.raises(ReviewError, match="1 feeds not decided"):
+        review_file(FILE, PROMPT, ["m"], size=2, retries=0, run=lambda a, t: f"accept - {A}")
+
+
+FAKE_REVIEWER = """
+import sys
+text = sys.stdin.read()
+for line in text.splitlines():
+    if line.startswith("url: "):
+        print("reject other", line[5:])
+"""
+
+
+def test_the_command_runs_the_reviewer(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None:
+    path, prompt, fake = tmp_path / "x.yaml", tmp_path / "prompt.md", tmp_path / "fake.py"
+    path.write_text(FILE)
+    prompt.write_text(PROMPT)
+    fake.write_text(FAKE_REVIEWER)
+    saved = tmp_path / "answer.txt"
+    args = ["review", str(path), "--prompt", str(prompt), "--batch-size", "2"]
+    args += ["--reviewer", f"{sys.executable} -I {fake}", "--save-answer", str(saved)]
+    assert main(args) == 0
+    assert "0 accept, 3 reject, 0 unsure" in capsys.readouterr().out
+    assert saved.read_text() == "".join(f"reject other {u}\n" for u in (A, B, C))
+    assert main([*args[:4], "--reviewer", f"{sys.executable} -I -c 'import sys; sys.exit(3)'"]) == 1
+    assert "exited 3" in capsys.readouterr().err
+    assert all(d["reason"] == "other" for d in proposal_documents(path.read_bytes()))
