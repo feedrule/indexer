@@ -88,8 +88,8 @@ site worth reading.
 
 The filtering is deliberately simple: a few cheap rules that are easy to understand, rather than
 anything clever that would be hard to trust. They are strict, so about **99% of the feeds are
-filtered out**. The remaining ~1% are proposed on a branch, and **a person reviews every one
-before it is merged**.
+filtered out**. The remaining ~1% are proposed on a branch, and **every one is reviewed, either
+by an LLM or a human, before it is merged**.
 
 ## Add a feed
 
