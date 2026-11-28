@@ -6,9 +6,14 @@
 # in data/models/) and drops the proposals it scores lowest; `indexer train` prints its size and
 # cut-off.
 #
-# List only files produced with the current proposal rules and format (2026-11-21:
-# the categories line, every rule up to the business words), so all examples look alike.
+# List only files produced with the proposal rules since 2026-11-21 (the categories line, every
+# rule up to the business words). Files from 2026-11-27 on carry longer post descriptions (the
+# longest description field) and `learn: false` on feeds that teach nothing; the model only reads
+# words, so both kinds mix.
 files = [
   "202611/21-161034.yaml", # PR #18, 200 feeds
   "202611/21-162942.yaml", # PR #19, 300 feeds
+  "202611/28-002617.yaml", # reviewed by hand, 139 feeds
+  "202611/28-132905.yaml", # Haiku, then corrected by hand, 154 feeds (1 learn: false)
+  "202611/28-143001.yaml", # Haiku, then corrected by hand, 133 feeds
 ]
