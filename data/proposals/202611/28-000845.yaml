@@ -3,7 +3,7 @@
 # reason: one of commercial, seo, press, republished, machine, forum, notices, unsafe, other.
 ---
 url: https://aloneinthelabyrinth.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.814
 title: Alone in the Labyrinth
 site: https://aloneinthelabyrinth.blogspot.com/
@@ -105,7 +105,7 @@ recent_posts:
       - generate any
 ---
 url: https://aplebessite.com/feed/
-accept: false
+accept: true
 score: 0.783
 title: A Plebe's Site
 site: https://aplebessite.com
@@ -154,7 +154,7 @@ recent_posts:
       - In the meantime, be thankful for … Continue reading →
 ---
 url: https://marklambert.blogspot.com/feeds/posts/default
-accept: false
+accept: true
 score: 0.705
 title: De Omnibus Dubitandum Est.
 site: https://marklambert.blogspot.com/
@@ -228,7 +228,7 @@ recent_posts:
       - tells us about his calling
 ---
 url: https://thekeepontheborderlands.justinpfeil.com/feed/
-accept: false
+accept: true
 score: 0.592
 title: 'The Keep on the Borderlands: The Webcomic'
 site: https://thekeepontheborderlands.justinpfeil.com
@@ -272,6 +272,7 @@ recent_posts:
 ---
 url: https://brbconline.org/feed/
 accept: false
+reason: notices
 score: 0.58
 title: Broad Rock Baptist Church
 site: https://brbconline.org
@@ -305,6 +306,7 @@ recent_posts:
 ---
 url: https://carolinamusician.com/feed/
 accept: false
+reason: republished
 score: 0.569
 title: Carolina Musician
 site: https://carolinamusician.com
@@ -349,7 +351,7 @@ recent_posts:
       - there is a wellspring of music that sounds like it could
 ---
 url: https://ourventura.com/feed/
-accept: false
+accept: true
 score: 0.523
 title: Our Ventura TV
 site: https://ourventura.com
@@ -418,6 +420,7 @@ recent_posts:
 ---
 url: https://blogs.ifas.ufl.edu/global/feed/
 accept: false
+reason: press
 score: 0.475
 title: What's Happening Around Florida
 site: https://blogs.ifas.ufl.edu/global/
@@ -482,6 +485,7 @@ recent_posts:
 ---
 url: https://westfieldareacsa.com/feed/
 accept: false
+reason: commercial
 score: 0.436
 title: Westfield Area CSA
 site: https://westfieldareacsa.com
@@ -521,6 +525,7 @@ recent_posts:
 ---
 url: https://auc.edu.au/feed/
 accept: false
+reason: commercial
 score: 0.436
 title: AUC
 site: https://auc.edu.au
@@ -577,7 +582,7 @@ recent_posts:
       - the next few months!
 ---
 url: https://jdasolutions.aero/blog/feed/
-accept: false
+accept: true
 score: 0.422
 title: Blog – JDA Aviation Technology Solutions
 site: https://jdasolutions.aero
@@ -646,6 +651,7 @@ recent_posts:
 ---
 url: https://ipga.co.in/feed/
 accept: false
+reason: notices
 score: 0.401
 title: IPGA
 site: https://ipga.co.in
@@ -682,6 +688,7 @@ recent_posts:
 ---
 url: https://wondrouspics.com/feed/
 accept: false
+reason: seo
 score: 0.384
 title: The Wondrous Pics
 site: https://wondrouspics.com
@@ -740,6 +747,7 @@ recent_posts:
 ---
 url: https://news.usmarketnewslatest.com/feed
 accept: false
+reason: republished
 score: 0.375
 title: US Market News Latest
 site: https://news.usmarketnewslatest.com
