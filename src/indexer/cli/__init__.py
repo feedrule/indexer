@@ -10,6 +10,7 @@ Commands, in pipeline order:
   topics       the topics of some text (no feed, no database): to try the topic model
   languages    the languages of some text (no feed, no database): to try the language model
   train        train the proposal filter on the reviewed proposals (data/proposals/training.toml)
+  review       apply a model's review (prompts/review-proposals.md) to a proposal file
   clusters     cluster the sentences of recent posts (posts branch, rejected proposals) with k-means
 """
 
@@ -28,6 +29,7 @@ from indexer.cli import (
     languages,
     load_inputs,
     proposals,
+    review,
     run,
     topics,
     train,
@@ -58,6 +60,7 @@ COMMANDS: tuple[Command, ...] = (
     topics,
     embeddings,
     train,
+    review,
     languages,
     clusters,
 )

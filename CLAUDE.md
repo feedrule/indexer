@@ -63,6 +63,11 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   `yaml.safe_dump` (quotes anything that would parse as something else, no aliases), read with `yaml.safe_load_all`
   (`sources.proposal_documents`). A reviewer sets `accept: true` on the feeds they want; only those are loaded.
   Proposals left at false count as known (not proposed again).
+  **Model review** (asked 2026-11-28): `prompts/review-proposals.md` has a model (Haiku) judge a file with **no tools**,
+  answering one line per feed (`accept - <url>`, `reject <reason> <url>`, `unsure - <url>`; unsure = not enough
+  information: `learn: false`, accept false; reject keeps learn true with a reason); `indexer review FILE ANSWER`
+  (`proposals/review.py`) applies it, editing only accept/learn/reason lines, all or nothing, the answer being untrusted.
+  Wanted: relevant to read, mainstream or niche, not hyperlocal (a primary school, an ordinary church).
   Summary file (was the PR body): the edit link, the OPML link, the merge commands and the run's summary only, no feed listed (asked 2026-11-21: the
   feeds are reviewed in the file). All proposals as OPML go in a
   `<dd-HHMMSS>.opml` beside the .yaml (committed with it; not a source), linked from the summary for download

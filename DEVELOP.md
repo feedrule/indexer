@@ -220,13 +220,29 @@ after its branch is deleted, so the repository could never shrink. The run also 
 next to the `.yaml` file (same name, `.opml`; not read as a source), and the summary links to
 it: download it and import it into a feed reader to try them while reviewing. Set **`accept: true`** on each feed you want (optionally
 `reason: <reason>` on a rejected one, and `learn: false` on one the filter shouldn't learn from,
-see below; `prompts/review-proposals.md` is a prompt for a model to do this first pass) and commit on the branch, then squash-merge it
+see below; a model can do a first pass, below) and commit on the branch, then squash-merge it
 into `proposals` by hand and delete it (or only delete it to drop the whole batch):
 
 ```sh
 git fetch origin && git switch proposals && git pull --ff-only
 git merge --squash --allow-unrelated-histories origin/proposals-20261119-041105 && git commit -m "Feeds from Common Crawl, 20261119-041105"
 git push origin proposals && git push origin --delete proposals-20261119-041105
+```
+
+**A first pass by a model.** `prompts/review-proposals.md` asks a model (Haiku is enough) to
+judge every feed of a file, with no tools: it gets the prompt and the file's text and answers one
+line per feed, `accept - <url>`, `reject <reason> <url>` or `unsure - <url>`. `indexer review FILE
+ANSWER` (`-` reads stdin) applies the answer: accept sets `accept: true`, reject `accept: false`
+with the reason, unsure `accept: false` and `learn: false` (not a training example). It changes
+only those three keys, checks each edited feed reads back the same apart from them, and is all or
+nothing: an unknown verdict or reason, a URL not in the file or given twice, or a feed without a
+line leaves the file untouched (`proposals/review.py`). Then read the diff and fix what you
+disagree with before merging:
+
+```sh
+f=data/proposals/202611/19-041105.yaml
+{ cat ../prompts/review-proposals.md; cat "$f"; } | claude --model haiku --tools "" -p > answer.txt
+uv run --project .. indexer review "$f" answer.txt && git diff
 ```
 
 The branch has no workflows of its own, so a merge starts nothing: the daily input job checks
