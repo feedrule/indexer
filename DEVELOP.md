@@ -220,7 +220,7 @@ after its branch is deleted, so the repository could never shrink. The run also 
 next to the `.yaml` file (same name, `.opml`; not read as a source), and the summary links to
 it: download it and import it into a feed reader to try them while reviewing. Set **`accept: true`** on each feed you want (optionally
 `reason: <reason>` on a rejected one, and `learn: false` on one the filter shouldn't learn from,
-see below) and commit on the branch, then squash-merge it
+see below; `prompts/review-proposals.md` is a prompt for a model to do this first pass) and commit on the branch, then squash-merge it
 into `proposals` by hand and delete it (or only delete it to drop the whole batch):
 
 ```sh
