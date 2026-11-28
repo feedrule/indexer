@@ -202,7 +202,9 @@ UTC day), `title`, `links` (the other sites the post's HTML links to: registrabl
 counts, at most 5, most linked first), `sponsored: true` on a post with affiliate or sponsored
 links (`rel="sponsored"`, an affiliate network's domain, an Amazon `tag=` link, or a disclosure
 in its text; `check/post_links.py`) and `description`, the
-start of the description as lines of at most 60 characters, for phones). `links` and `sponsored`
+start of the longest description (full content over an excerpt: `content:encoded` or Atom
+`content` usually beats `description` or `summary`), as lines of at most 60 characters, for
+phones; the same text is stored in `health_checks.recent_posts`). `links` and `sponsored`
 are never stored (not in `health_checks.recent_posts`) and no link is fetched. Untrusted text is
 flattened to one line and written by `yaml.safe_dump`, which quotes anything YAML would read as
 something else; files are read with `yaml.safe_load_all`.

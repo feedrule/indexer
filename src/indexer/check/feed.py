@@ -414,7 +414,8 @@ def _recent_posts(
     """The MAX_RECENT_POSTS most recent items with a link (undated items after dated ones, in
     feed order), distinct by link: the link as written (RSS/RDF <link> text, Atom <link
     rel=alternate href>, only printable characters, length capped), the title, the start of the
-    first non-empty description, and the item's newest date (a day, UTC; None if undated)."""
+    longest description (full content over an excerpt), and the item's newest date (a day,
+    UTC; None if undated)."""
     dated: list[tuple[float, int, str, Element, datetime | None]] = []
     for position, item in enumerate(items):
         if atom:
@@ -437,14 +438,14 @@ def _recent_posts(
     for _newest, _position, link, item, when in sorted(dated, key=lambda d: (d[0], d[1])):
         if link in posts:
             continue
-        description = next(
-            (
-                text
-                for tag in description_tags
-                if (text := _text_of(item.find(tag), markup=True, limit=MAX_POST_DESCRIPTION_LEN))
-            ),
-            None,
-        )
+        # The longest: RSS <description> and Atom <summary> are often an excerpt of the post
+        # that <content:encoded> or <content> has in full (WordPress: ~55 words and "[…]").
+        texts = [
+            text
+            for tag in description_tags
+            if (text := _text_of(item.find(tag), markup=True, limit=MAX_POST_DESCRIPTION_LEN))
+        ]
+        description = max(texts, key=len, default=None)  # ties: the first
         day = when.astimezone(UTC).date().isoformat() if when else None
         links = _item_links(item, description_tags, link)
         posts[link] = RecentPost(

@@ -304,6 +304,26 @@ def test_script_and_style_contents_are_not_text() -> None:
     assert info.item_texts == ("A post. Benchmarks mislead us",)
 
 
+def test_a_post_shows_its_full_content_over_an_excerpt() -> None:
+    full = "<p>The whole post, with every paragraph of it.</p><p>And a second one.</p>"
+    rss = f"""<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <channel><title>t</title>
+      <item><title>A</title><link>https://a.example/1</link>
+        <description>The whole post [&#8230;]</description>
+        <content:encoded>{html_escape(full)}</content:encoded></item>
+      <item><title>B</title><link>https://a.example/2</link>
+        <description>Only an excerpt</description></item>
+    </channel></rss>"""
+    posts = parse_feed(rss.encode()).recent_posts
+    assert posts[0].description == "The whole post, with every paragraph of it. And a second one."
+    assert posts[1].description == "Only an excerpt"
+    atom = b"""<feed xmlns="http://www.w3.org/2005/Atom"><title>t</title>
+      <entry><title>A</title><link href="https://a.example/1"/><summary>Short</summary>
+        <content type="html">&lt;p&gt;Much longer text&lt;/p&gt;</content></entry>
+    </feed>"""
+    assert parse_feed(atom).recent_posts[0].description == "Much longer text"
+
+
 def test_a_longer_limit_than_the_default_keeps_more_text() -> None:
     long = "y " * MAX_SUBTITLE_LEN
     rss = f'<rss version="2.0"><channel><title>{long}</title><description>{long}</description>'
