@@ -68,8 +68,9 @@ birdwatching in Norway, the history of one town told by a local historian).
 - `machine`: generated listings with no writing: jobs, packages, products, fonts, maps,
   version releases.
 - `forum`: forums, issue trackers, discussion boards.
-- `unsafe`: scams, spam, gambling, adult content, and posts that promote conspiracy theories,
-  election-fraud claims, medical misinformation or hatred of a group of people.
+- `unsafe`: scams, spam, gambling, adult content, piracy (sharing copies of films, music, books
+  or software: "vinyl rip … FLAC", download links, file hosts), and posts that promote conspiracy
+  theories, election-fraud claims, medical misinformation or hatred of a group of people.
 - `other`: anything else not worth following.
 
 Four cases need care:
@@ -112,6 +113,7 @@ https://theflashtoday.com/feed/ | who: a county paper, obituaries and school spo
 https://fox8.com/feed/ | who: a TV station, mostly wire stories from other states | for: Cleveland viewers | reject republished
 https://thestandard.nz/feed/ | who: labour-movement bloggers, partisan politics | for: NZ politics readers | accept -
 https://www.bizpacreview.com/feed/ | who: conservative columnists, partisan commentary | for: US politics readers | accept -
+https://flabbergasted-vibes.org/feed/ | who: a collector sharing vinyl rips of commercial records as FLAC | for: downloaders | reject unsafe
 https://statelymcdanielmanor.wordpress.com/feed/ | who: a political blogger; posts claim more voters than citizens | for: US politics readers | reject unsafe
 https://www.crossrhythms.co.uk/feeds/rss.xml | only post is a title with no text | unsure -
 ```
