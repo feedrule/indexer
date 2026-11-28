@@ -210,7 +210,8 @@ are never stored (not in `health_checks.recent_posts`) and no link is fetched. U
 flattened to one line and written by `yaml.safe_dump`, which quotes anything YAML would read as
 something else; files are read with `yaml.safe_load_all`.
 Each workflow run commits
-that file to a **new branch** with the same timestamp (for example `proposals-20261119-041105`),
+that file to a **new orphan branch** with the same timestamp (for example `proposals-20261119-041105`):
+one commit holding only that run's files, no history,
 with a **summary file** beside it (`<dd-HHMMSS>.summary.md`, also shown on the run's page) that
 links to the file in GitHub's editor, gives the run's summary and the commands to merge; the
 feeds themselves are only in the file, so no untrusted text reaches the summary. **No pull
@@ -223,15 +224,16 @@ into `proposals` by hand and delete it (or only delete it to drop the whole batc
 
 ```sh
 git fetch origin && git switch proposals && git pull --ff-only
-git merge --squash origin/proposals-20261119-041105 && git commit -m "Feeds from Common Crawl, 20261119-041105"
+git merge --squash --allow-unrelated-histories origin/proposals-20261119-041105 && git commit -m "Feeds from Common Crawl, 20261119-041105"
 git push origin proposals && git push origin --delete proposals-20261119-041105
 ```
 
 The branch has no workflows of its own, so a merge starts nothing: the daily input job checks
 the branch out too and loads the accepted feeds (source `proposals`, `format = "proposals"`, the
 glob `files = ["proposals/*/*.yaml"]`, license `LicenseRef-CommonCrawl-ToU`, ranked last). Feeds loaded before the move keep their old source,
-`.../data/survivors`, which the site shows as `data/proposals/`. Every run starts from the
-`proposals` branch, so a branch never carries an older run's proposals.
+`.../data/survivors`, which the site shows as `data/proposals/`. Every run reads the
+`proposals` branch (to skip known URLs) but its branch is an orphan with only the new files, so
+a branch never carries an older run's proposals or an old copy of `proposals`.
 Each branch adds its own files, so waiting branches never conflict and can be merged in any
 order. URLs on another waiting branch are not skipped, so the same feed can be proposed twice. A feed left at `accept: false`
 counts as known (`files.known_urls` reads every file in the folder), so it is not proposed

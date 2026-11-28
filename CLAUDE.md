@@ -48,8 +48,9 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
 - `indexer proposals` **proposes, never inserts**: writes a new file `data/proposals/<yyyymm>/<dd-HHMMSS>.yaml` (UTC) per run on the `proposals` branch (asked 2026-11-21,
   replacing the single `data/survivors.txt`: no huge file, no conflicts between waiting branches; CC ToU license; `files` entries in
   sources.toml may be glob patterns, sorted, none matching is fine, and format `proposals` still reads such files) and
-  every proposals.yml run pushes a new branch `proposals-<UTC timestamp>` (the file's name) based on the `proposals` branch (never a reused
-  branch, so old proposals can't be merged by mistake). **No pull requests** (asked 2026-11-28: a PR keeps its commits
+  every proposals.yml run pushes a new branch `proposals-<UTC timestamp>` (the file's name), an orphan with one commit
+  holding only the run's .yaml, .opml and .summary.md (asked 2026-11-28; never a reused branch, so old proposals can't be merged
+  by mistake; merged with `git merge --squash --allow-unrelated-histories`). **No pull requests** (asked 2026-11-28: a PR keeps its commits
   on GitHub for good, so deleting branches or compacting `proposals` could never shrink the repository): the run's
   summary goes in `<dd-HHMMSS>.summary.md` beside the .yaml (and the run's page); the operator reviews on the branch,
   squash-merges it into `proposals` by hand and deletes it. Skips URLs already in that branch's files (accepted or not) or in inputs.

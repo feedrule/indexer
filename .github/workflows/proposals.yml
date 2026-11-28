@@ -1,12 +1,13 @@
 # Proposes feeds from a ~5-year-old Common Crawl crawl that are still active, weekly or by hand:
 # reads the first 25 MB (input slice-mb) of one random WAT file, checks every feed found, and
 # writes the ones that pass to a new data/proposals/<yyyymm>/<dd-HHMMSS>.yaml (UTC), with its
-# .opml and .summary.md, on a new branch from `proposals`. Nothing is inserted here: the daily
-# input job checks out the proposals branch and loads the feeds marked accept: true.
+# .opml and .summary.md, on a new orphan branch holding only those three files. Nothing is
+# inserted here: the daily input job checks out the proposals branch and loads the feeds marked
+# accept: true.
 #
-# Every proposing run starts from the proposals branch and pushes its own branch,
-# proposals-<UTC timestamp>, so a branch only ever holds that run's finds. No pull request is
-# opened (a PR keeps its commits on GitHub forever, so the repository could never shrink): the
+# Every proposing run reads the proposals branch (to skip known URLs) and pushes its own orphan
+# branch, proposals-<UTC timestamp>: one commit with only that run's files, no history. No pull
+# request is opened (a PR keeps its commits on GitHub forever, so the repository could never shrink): the
 # operator reviews the file on the branch, squash-merges it into proposals and deletes the
 # branch, as the summary file says. Reads the inputs table (to skip known URLs) with the
 # SUPABASE_DB_* secrets. The containers get the branch's data/proposals/ only, never its .git;
@@ -117,13 +118,15 @@ jobs:
             echo
             echo '  ```sh'
             echo "  git fetch origin && git switch proposals && git pull --ff-only"
-            echo "  git merge --squash origin/$branch && git commit -m \"Feeds from Common Crawl, $stamp\""
+            echo "  git merge --squash --allow-unrelated-histories origin/$branch && git commit -m \"Feeds from Common Crawl, $stamp\""
             echo "  git push origin proposals && git push origin --delete $branch"
             echo '  ```'
             echo
             cat ../output/proposals.md
           } > "$summary"
-          git switch -q -c "$branch"
+          # Orphan: the branch holds only this run's files (tracked files leave the index and
+          # the work tree; the new, untracked ones stay).
+          git switch -q --orphan "$branch"
           git add "$file" "$opml" "$summary"
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
