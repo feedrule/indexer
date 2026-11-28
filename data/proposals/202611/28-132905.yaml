@@ -2392,8 +2392,9 @@ recent_posts:
       - British Army, the au
 ---
 url: https://dailyegyptian.com/feed/
-accept: true
+accept: false
 learn: true
+reason: notices
 score: 0.772
 title: The Daily Egyptian
 site: https://dailyegyptian.com
@@ -7103,8 +7104,9 @@ recent_posts:
       - to Vietnam. After 5 days underwa
 ---
 url: https://vladtepesblog.com/feed/
-accept: true
+accept: false
 learn: true
+reason: republished
 score: 0.569
 title: Vlad Tepes
 site: https://vladtepesblog.com
@@ -12127,8 +12129,9 @@ recent_posts:
       - Metadata and Collections Section’s Met
 ---
 url: https://mountainmessenger.com/feed/
-accept: true
+accept: false
 learn: true
+reason: notices
 score: 0.379
 title: Mountain Messenger
 site: https://mountainmessenger.com
