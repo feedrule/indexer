@@ -112,7 +112,7 @@ Runs locally against the compose Postgres; deployed as GitHub Actions workflows 
   `^[0-9a-f]{64}$`, fetches `previews/<2>/<sha>.json` (`--data-url`) and `data/posts/<2>/<sha>.json` (`--posts-url`) in
   parallel and builds the page with textContent only (never innerHTML), links only http(s) URLs (feed, site and post
   links nofollow); post descriptions cut at `site.EXCERPT_CHARS` (300); a missing preview says the feed is not listed,
-  missing posts say none saved yet; `noindex`, not in the sitemap.
+  missing posts say none saved yet; an "Imported from <source name> (<license>)" line, the name linking the index's `#sources` table (previews keep no source URL); `noindex`, not in the sitemap.
   The stylesheet is linked as `style.css?v=<content hash>` (`site.STYLE_VERSION`: Pages caches it 10 minutes). The header links
   the GitHub repository ("Open source").
   Each feed row starts with feedrule.com's icon (`src/indexer/publish/feedrule.svg`, copied to docs/) linking to

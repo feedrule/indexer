@@ -68,8 +68,20 @@
     const facts = [];
     if (feed.last) facts.push(`Last indexed post: ${feed.last}`);
     if (feed.languages?.length) facts.push(`Languages: ${feed.languages.join(", ")}`);
-    if (feed.source) facts.push(`Found in: ${[feed.source.name, feed.source.license].filter(Boolean).join(", ")}`);
     if (facts.length) page.append(el("p", "meta", facts.join(" · ")));
+    if (feed.source) {
+      // the name links to the index's sources table (which links each list); previews carry no URL
+      const from = el("p", "meta", "Imported from ");
+      if (feed.source.name) {
+        const a = el("a", null, feed.source.name);
+        a.href = "../#sources";
+        from.append(a);
+        if (feed.source.license) from.append(` (${feed.source.license})`);
+      } else {
+        from.append(`a list under ${feed.source.license || "an unknown license"}`);
+      }
+      page.append(from);
+    }
 
     if (feed.topics?.length) {
       const topics = el("p", "ftopics");

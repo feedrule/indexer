@@ -560,6 +560,7 @@ def test_preview_page_fetches_by_hash_only(tmp_path: Path) -> None:
     assert "/^[0-9a-f]{64}$/.test(sha)" in html  # the only parameter: a SHA-256
     assert "${DATA}previews/${name}" in html and "${POSTS}data/posts/${name}" in html
     assert "innerHTML" not in html and "insertAdjacentHTML" not in html  # text only
+    assert '"Imported from "' in html and 'a.href = "../#sources"' in html
     assert 'href="../style.css?v=' in html
     sitemap = (out / "docs" / "sitemap.xml").read_text()
     assert "preview" not in sitemap
